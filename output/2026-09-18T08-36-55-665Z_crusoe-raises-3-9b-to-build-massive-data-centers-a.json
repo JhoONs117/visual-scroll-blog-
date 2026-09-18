@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "crusoe-raises-3-9b-to-build-massive-data-centers-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+  "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+  "pubDate": "Thu, 17 Sep 2026 23:25:52 +0000",
+  "slides": [
+    "Crusoe just raised $3.9B—but for what?",
+    "To build massive data centers and small modular AI factories.",
+    "Surprisingly, these factories power AI without the grid.",
+    "That means your AI apps could run cheaper and greener.",
+    "Ask: could your next project run on a modular AI factory?"
+  ],
+  "thread_text": [
+    "1. AI's $3.9B Bet\n\nCrusoe just raised $3.9B to build small modular AI factories that run off-grid. That means your AI apps could soon be cheaper and greener.",
+    "2. No Grid, Big Power\n\nThese factories bypass the electrical grid entirely, using their own power sources. This solves a major bottleneck for data centers.",
+    "3. Cheaper AI for You\n\nOff-grid power cuts costs and carbon emissions. Your AI apps could become more affordable and sustainable as a result.",
+    "4. Modular, Not Massive\n\nSmall modular factories can be deployed almost anywhere, unlike traditional data centers. This flexibility could accelerate AI innovation.",
+    "5. Your Project Next?\n\nCould your next AI project run on a modular factory? Ask yourself if cheaper, greener compute would change your roadmap."
+  ],
+  "video_script": [
+    "Crusoe raised 3.9 billion dollars. But why?",
+    "To build small modular AI factories that work off-grid.",
+    "These factories power AI without the electrical grid.",
+    "So your AI apps could be cheaper and greener.",
+    "Could your next project run on a modular AI factory?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI's $3.9B Bet\n\nCrusoe just raised $3.9B to build small modular AI factories that run off-grid. That means your AI apps could soon be cheaper and greener.",
+        "2. No Grid, Big Power\n\nThese factories bypass the electrical grid entirely, using their own power sources. This solves a major bottleneck for data centers.",
+        "3. Cheaper AI for You\n\nOff-grid power cuts costs and carbon emissions. Your AI apps could become more affordable and sustainable as a result.",
+        "4. Modular, Not Massive\n\nSmall modular factories can be deployed almost anywhere, unlike traditional data centers. This flexibility could accelerate AI innovation.",
+        "5. Your Project Next?\n\nCould your next AI project run on a modular factory? Ask yourself if cheaper, greener compute would change your roadmap."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Crusoe raised 3.9 billion dollars. But why?",
+        "To build small modular AI factories that work off-grid.",
+        "These factories power AI without the electrical grid.",
+        "So your AI apps could be cheaper and greener.",
+        "Could your next project run on a modular AI factory?"
+      ]
+    },
+    "instagram": {
+      "caption": "$3.9 billion just went into AI factories that don't need your local power grid. ⚡\n\nCrusoe raised that money to build small modular data centers. Each one runs on its own power source, completely off-grid.\n\nThat matters because off-grid power cuts both costs and carbon emissions.\n\nSo the AI tools you use daily could get cheaper and greener to run. 🌱\n\nModular factories can also be deployed almost anywhere, which means faster compute near you.\n\nCould your next project run on one of these? 🔧"
+    }
+  },
+  "instagram_caption": "$3.9 billion just went into AI factories that don't need your local power grid. ⚡\n\nCrusoe raised that money to build small modular data centers. Each one runs on its own power source, completely off-grid.\n\nThat matters because off-grid power cuts both costs and carbon emissions.\n\nSo the AI tools you use daily could get cheaper and greener to run. 🌱\n\nModular factories can also be deployed almost anywhere, which means faster compute near you.\n\nCould your next project run on one of these? 🔧",
+  "carousel_slides": [
+    {
+      "hook": "AI factories that skip the grid entirely?",
+      "description": "Crusoe raised $3.9B to build small modular AI factories that run completely off-grid, cutting costs and carbon emissions.",
+      "visual_hint": "Futuristic modular data center unit isolated",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "data center"
+    },
+    {
+      "hook": "Massive data centers meet small modular units",
+      "description": "The $3.9B funds both large-scale data centers and compact AI factories, offering flexible compute deployment almost anywhere without grid dependence.",
+      "visual_hint": "Large data center with modular units nearby",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No grid, no problem for AI power",
+      "description": "These factories bypass the electrical grid using their own power sources, solving a major bottleneck for traditional data centers.",
+      "visual_hint": "Off-grid power source connected to server racks",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "power plant",
+      "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cheaper, greener AI apps are coming",
+      "description": "Off-grid power slashes costs and carbon emissions, making your AI apps more affordable and sustainable as a result.",
+      "visual_hint": "Hand holding phone with green AI app",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Could your next project run on one?",
+      "description": "Save this post and ask yourself if cheaper, greener compute would change your roadmap. Visit link in bio for more insights.",
+      "visual_hint": "Modular factory with glowing AI interface",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
+  "savedAt": "2026-09-18T08:37:04.510Z",
+  "sourceId": "e3285a711c8c90e5544d13f00df7c228"
+}

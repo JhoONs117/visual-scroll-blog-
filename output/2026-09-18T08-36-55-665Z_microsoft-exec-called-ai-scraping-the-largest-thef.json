@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "microsoft-exec-called-ai-scraping-the-largest-thef",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+  "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+  "pubDate": "Thu, 17 Sep 2026 19:46:08 +0000",
+  "slides": [
+    "Microsoft called AI scraping 'the largest theft of labor'?",
+    "Unredacted filings reveal executive's stark warning.",
+    "Yet Microsoft's own AI uses scraped data.",
+    "If your work is online, it may be training AI.",
+    "Check if your content is in public datasets."
+  ],
+  "thread_text": [
+    "1. Microsoft's Theft Warning\n\nMicrosoft called AI scraping 'the largest theft of labor' in unredacted filings. But the same company's AI reportedly uses scraped data. That contradiction is the story.",
+    "2. The Hidden Hypocrisy\n\nInternal documents show an executive warned about the practice, yet the company continued. The warning was buried until now.",
+    "3. Your Work Is The Fuel\n\nIf you've published anything online, it may already be in a training dataset. No permission required.",
+    "4. Check If You're Included\n\nPublic datasets like Books3 and LAION were built from web scraping. You can search some of them directly.",
+    "5. Take Action Today\n\nSearch your name or domain in Dataset Search. If you find it, you know where you stand. Do it now."
+  ],
+  "video_script": [
+    "Microsoft called AI scraping the largest theft of labor.",
+    "But unredacted filings show their own AI uses scraped data.",
+    "If your work is online, it might be training AI.",
+    "Public datasets like Books3 and LAION include scraped content.",
+    "Check if your content is in public datasets today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Microsoft's Theft Warning\n\nMicrosoft called AI scraping 'the largest theft of labor' in unredacted filings. But the same company's AI reportedly uses scraped data. That contradiction is the story.",
+        "2. The Hidden Hypocrisy\n\nInternal documents show an executive warned about the practice, yet the company continued. The warning was buried until now.",
+        "3. Your Work Is The Fuel\n\nIf you've published anything online, it may already be in a training dataset. No permission required.",
+        "4. Check If You're Included\n\nPublic datasets like Books3 and LAION were built from web scraping. You can search some of them directly.",
+        "5. Take Action Today\n\nSearch your name or domain in Dataset Search. If you find it, you know where you stand. Do it now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Microsoft called AI scraping the largest theft of labor.",
+        "But unredacted filings show their own AI uses scraped data.",
+        "If your work is online, it might be training AI.",
+        "Public datasets like Books3 and LAION include scraped content.",
+        "Check if your content is in public datasets today."
+      ]
+    },
+    "instagram": {
+      "caption": "Someone at Microsoft called AI scraping \"the largest theft of labor in human history\" — in internal filings that stayed hidden until now.\n\nThe same company's AI reportedly trains on scraped data. 😬\n\nIf you've published anything online, it may already be sitting in a training dataset.\n\nNo permission, no payment, no notice.\n\nPublic sets like Books3 and LAION were built exactly this way.\n\nNext time you hit publish, remember your words might feed a model you never agreed to. 📚\n\nSearch your name or domain in Dataset Search today. Would you find yourself in there? 🔍"
+    }
+  },
+  "instagram_caption": "Someone at Microsoft called AI scraping \"the largest theft of labor in human history\" — in internal filings that stayed hidden until now.\n\nThe same company's AI reportedly trains on scraped data. 😬\n\nIf you've published anything online, it may already be sitting in a training dataset.\n\nNo permission, no payment, no notice.\n\nPublic sets like Books3 and LAION were built exactly this way.\n\nNext time you hit publish, remember your words might feed a model you never agreed to. 📚\n\nSearch your name or domain in Dataset Search today. Would you find yourself in there? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Did Microsoft just admit AI theft?",
+      "description": "Unredacted filings show an exec called AI scraping 'the largest theft of labor'—yet Microsoft's own AI reportedly uses scraped data.",
+      "visual_hint": "Gavel on desk with Microsoft logo",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "courtroom gavel"
+    },
+    {
+      "hook": "Hidden hypocrisy: warning buried until now",
+      "description": "Internal documents reveal the executive warned about the practice, but the company continued anyway. The warning was buried until now.",
+      "visual_hint": "Stack of unredacted documents highlighted",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "legal documents",
+      "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your work is the fuel",
+      "description": "If you've published anything online, it may already be in a training dataset. No permission required.",
+      "visual_hint": "Floating data streams over keyboard",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check if you're in public datasets",
+      "description": "Public datasets like Books3 and LAION were built from web scraping. You can search some of them directly.",
+      "visual_hint": "Magnifying glass over code lines",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "search engine",
+      "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Search your name now — save this!",
+      "description": "Search your name or domain in Dataset Search. If you find it, you know where you stand. Do it now.",
+      "visual_hint": "Hand tapping smartphone with search bar",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone search",
+      "image": "https://images.pexels.com/photos/5448171/pexels-photo-5448171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
+  "savedAt": "2026-09-18T08:37:21.688Z",
+  "sourceId": "2c509c3d0d19214e90defda68e48edf6"
+}

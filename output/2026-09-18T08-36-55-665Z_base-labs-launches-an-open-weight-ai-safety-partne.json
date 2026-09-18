@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "base-labs-launches-an-open-weight-ai-safety-partne",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+  "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+  "pubDate": "Thu, 17 Sep 2026 17:15:59 +0000",
+  "slides": [
+    "Base Labs' open-weight safety move—what does it hide?",
+    "Partners with Hugging Face and Goodfire.",
+    "But open models often lack fine-tuning safeguards.",
+    "You can now inspect and adjust safety directly.",
+    "Test one open weight's safety before trusting it."
+  ],
+  "thread_text": [
+    "1. The Hidden Safety Gap\n\nBase Labs just dropped open-weight models with built-in safeguards, but the fine-tuning process remains a black box. What are they not telling us?",
+    "2. The Partnership Twist\n\nThey teamed up with Hugging Face and Goodfire to give you inspection tools. But these tools only work if you know where to look.",
+    "3. The Fine-Tuning Blind Spot\n\nMost open models lose safety once you fine-tune them. Base Labs claims theirs don't—but the proof is in the weights.",
+    "4. Your New Safety Dashboard\n\nYou can now tweak safety settings directly. No more guessing which prompts will trigger a refusal. The control is in your hands.",
+    "5. Test Before You Trust\n\nGrab any open-weight model and run a safety probe before deploying it. If you skip this step, you're gambling with your users' data."
+  ],
+  "video_script": [
+    "Base Labs hides something in open safety.",
+    "They partnered with Hugging Face and Goodfire.",
+    "Fine-tuning often breaks open model safeguards.",
+    "Now you can inspect and adjust safety directly.",
+    "Test open weight safety before you trust it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Hidden Safety Gap\n\nBase Labs just dropped open-weight models with built-in safeguards, but the fine-tuning process remains a black box. What are they not telling us?",
+        "2. The Partnership Twist\n\nThey teamed up with Hugging Face and Goodfire to give you inspection tools. But these tools only work if you know where to look.",
+        "3. The Fine-Tuning Blind Spot\n\nMost open models lose safety once you fine-tune them. Base Labs claims theirs don't—but the proof is in the weights.",
+        "4. Your New Safety Dashboard\n\nYou can now tweak safety settings directly. No more guessing which prompts will trigger a refusal. The control is in your hands.",
+        "5. Test Before You Trust\n\nGrab any open-weight model and run a safety probe before deploying it. If you skip this step, you're gambling with your users' data."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Base Labs hides something in open safety.",
+        "They partnered with Hugging Face and Goodfire.",
+        "Fine-tuning often breaks open model safeguards.",
+        "Now you can inspect and adjust safety directly.",
+        "Test open weight safety before you trust it."
+      ]
+    },
+    "instagram": {
+      "caption": "Base Labs released open-weight models with built-in safety guards, but the fine-tuning step stays a black box. 🔍\n\nThey partnered with Hugging Face and Goodfire, so you can now inspect and adjust safety settings directly instead of guessing which prompts get refused.\n\nStill, most open models lose their safety once fine-tuned. Base Labs says theirs hold up, but that claim only matters if you check the weights yourself.\n\nSo if you deploy an open model, run a safety probe first 🧪 — otherwise you're gambling with your users' data.\n\nWhich open-weight model are you running right now, and have you ever tested its safety after fine-tuning?"
+    }
+  },
+  "instagram_caption": "Base Labs released open-weight models with built-in safety guards, but the fine-tuning step stays a black box. 🔍\n\nThey partnered with Hugging Face and Goodfire, so you can now inspect and adjust safety settings directly instead of guessing which prompts get refused.\n\nStill, most open models lose their safety once fine-tuned. Base Labs says theirs hold up, but that claim only matters if you check the weights yourself.\n\nSo if you deploy an open model, run a safety probe first 🧪 — otherwise you're gambling with your users' data.\n\nWhich open-weight model are you running right now, and have you ever tested its safety after fine-tuning?",
+  "carousel_slides": [
+    {
+      "hook": "Do open models hide a safety gap?",
+      "description": "Base Labs ships open-weight models with safeguards, but fine-tuning stays a black box. What aren't they telling you?",
+      "visual_hint": "Glowing neural network over dark server racks",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Tools arrive, but know where to look",
+      "description": "Hugging Face and Goodfire provide inspection tools, yet they only work if you understand exactly where to probe.",
+      "visual_hint": "Split screen partnership logos on tech dashboard",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer monitor",
+      "image": "https://images.pexels.com/photos/16416872/pexels-photo-16416872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fine-tuning often erases safety guards",
+      "description": "Most open models lose safety after fine-tuning. Base Labs claims theirs survive, but only the weights prove it.",
+      "visual_hint": "Fracturing digital shield with exposed code",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Safety controls now sit in your hands",
+      "description": "You can inspect and adjust safety settings directly, so no more guessing which prompts will trigger a refusal.",
+      "visual_hint": "Hand adjusting glowing slider on interface",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "control panel",
+      "image": "https://images.pexels.com/photos/39255983/pexels-photo-39255983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you deploy models",
+      "description": "Grab any open-weight model and run a safety probe before deployment. Test now, or gamble with user data.",
+      "visual_hint": "Person scanning code on laptop screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop screen",
+      "image": "https://images.pexels.com/photos/17115912/pexels-photo-17115912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-18T08:37:30.790Z",
+  "sourceId": "80716b9be3559651d0e8b71e7a7ee5d2"
+}

@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "base-labs-launches-an-open-weight-ai-safety-partne",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+    "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+    "pubDate": "Thu, 17 Sep 2026 17:15:59 +0000",
+    "slides": [
+      "Base Labs' open-weight safety move—what does it hide?",
+      "Partners with Hugging Face and Goodfire.",
+      "But open models often lack fine-tuning safeguards.",
+      "You can now inspect and adjust safety directly.",
+      "Test one open weight's safety before trusting it."
+    ],
+    "thread_text": [
+      "1. The Hidden Safety Gap\n\nBase Labs just dropped open-weight models with built-in safeguards, but the fine-tuning process remains a black box. What are they not telling us?",
+      "2. The Partnership Twist\n\nThey teamed up with Hugging Face and Goodfire to give you inspection tools. But these tools only work if you know where to look.",
+      "3. The Fine-Tuning Blind Spot\n\nMost open models lose safety once you fine-tune them. Base Labs claims theirs don't—but the proof is in the weights.",
+      "4. Your New Safety Dashboard\n\nYou can now tweak safety settings directly. No more guessing which prompts will trigger a refusal. The control is in your hands.",
+      "5. Test Before You Trust\n\nGrab any open-weight model and run a safety probe before deploying it. If you skip this step, you're gambling with your users' data."
+    ],
+    "video_script": [
+      "Base Labs hides something in open safety.",
+      "They partnered with Hugging Face and Goodfire.",
+      "Fine-tuning often breaks open model safeguards.",
+      "Now you can inspect and adjust safety directly.",
+      "Test open weight safety before you trust it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Hidden Safety Gap\n\nBase Labs just dropped open-weight models with built-in safeguards, but the fine-tuning process remains a black box. What are they not telling us?",
+          "2. The Partnership Twist\n\nThey teamed up with Hugging Face and Goodfire to give you inspection tools. But these tools only work if you know where to look.",
+          "3. The Fine-Tuning Blind Spot\n\nMost open models lose safety once you fine-tune them. Base Labs claims theirs don't—but the proof is in the weights.",
+          "4. Your New Safety Dashboard\n\nYou can now tweak safety settings directly. No more guessing which prompts will trigger a refusal. The control is in your hands.",
+          "5. Test Before You Trust\n\nGrab any open-weight model and run a safety probe before deploying it. If you skip this step, you're gambling with your users' data."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Base Labs hides something in open safety.",
+          "They partnered with Hugging Face and Goodfire.",
+          "Fine-tuning often breaks open model safeguards.",
+          "Now you can inspect and adjust safety directly.",
+          "Test open weight safety before you trust it."
+        ]
+      },
+      "instagram": {
+        "caption": "Base Labs released open-weight models with built-in safety guards, but the fine-tuning step stays a black box. 🔍\n\nThey partnered with Hugging Face and Goodfire, so you can now inspect and adjust safety settings directly instead of guessing which prompts get refused.\n\nStill, most open models lose their safety once fine-tuned. Base Labs says theirs hold up, but that claim only matters if you check the weights yourself.\n\nSo if you deploy an open model, run a safety probe first 🧪 — otherwise you're gambling with your users' data.\n\nWhich open-weight model are you running right now, and have you ever tested its safety after fine-tuning?"
+      }
+    },
+    "instagram_caption": "Base Labs released open-weight models with built-in safety guards, but the fine-tuning step stays a black box. 🔍\n\nThey partnered with Hugging Face and Goodfire, so you can now inspect and adjust safety settings directly instead of guessing which prompts get refused.\n\nStill, most open models lose their safety once fine-tuned. Base Labs says theirs hold up, but that claim only matters if you check the weights yourself.\n\nSo if you deploy an open model, run a safety probe first 🧪 — otherwise you're gambling with your users' data.\n\nWhich open-weight model are you running right now, and have you ever tested its safety after fine-tuning?",
+    "carousel_slides": [
+      {
+        "hook": "Do open models hide a safety gap?",
+        "description": "Base Labs ships open-weight models with safeguards, but fine-tuning stays a black box. What aren't they telling you?",
+        "visual_hint": "Glowing neural network over dark server racks",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Tools arrive, but know where to look",
+        "description": "Hugging Face and Goodfire provide inspection tools, yet they only work if you understand exactly where to probe.",
+        "visual_hint": "Split screen partnership logos on tech dashboard",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer monitor",
+        "image": "https://images.pexels.com/photos/16416872/pexels-photo-16416872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Fine-tuning often erases safety guards",
+        "description": "Most open models lose safety after fine-tuning. Base Labs claims theirs survive, but only the weights prove it.",
+        "visual_hint": "Fracturing digital shield with exposed code",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "circuit board",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Safety controls now sit in your hands",
+        "description": "You can inspect and adjust safety settings directly, so no more guessing which prompts will trigger a refusal.",
+        "visual_hint": "Hand adjusting glowing slider on interface",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "control panel",
+        "image": "https://images.pexels.com/photos/39255983/pexels-photo-39255983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before you deploy models",
+        "description": "Grab any open-weight model and run a safety probe before deployment. Test now, or gamble with user data.",
+        "visual_hint": "Person scanning code on laptop screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop screen",
+        "image": "https://images.pexels.com/photos/17115912/pexels-photo-17115912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-09-18T08:37:30.790Z",
+    "sourceId": "80716b9be3559651d0e8b71e7a7ee5d2"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "microsoft-exec-called-ai-scraping-the-largest-thef",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+    "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+    "pubDate": "Thu, 17 Sep 2026 19:46:08 +0000",
+    "slides": [
+      "Microsoft called AI scraping 'the largest theft of labor'?",
+      "Unredacted filings reveal executive's stark warning.",
+      "Yet Microsoft's own AI uses scraped data.",
+      "If your work is online, it may be training AI.",
+      "Check if your content is in public datasets."
+    ],
+    "thread_text": [
+      "1. Microsoft's Theft Warning\n\nMicrosoft called AI scraping 'the largest theft of labor' in unredacted filings. But the same company's AI reportedly uses scraped data. That contradiction is the story.",
+      "2. The Hidden Hypocrisy\n\nInternal documents show an executive warned about the practice, yet the company continued. The warning was buried until now.",
+      "3. Your Work Is The Fuel\n\nIf you've published anything online, it may already be in a training dataset. No permission required.",
+      "4. Check If You're Included\n\nPublic datasets like Books3 and LAION were built from web scraping. You can search some of them directly.",
+      "5. Take Action Today\n\nSearch your name or domain in Dataset Search. If you find it, you know where you stand. Do it now."
+    ],
+    "video_script": [
+      "Microsoft called AI scraping the largest theft of labor.",
+      "But unredacted filings show their own AI uses scraped data.",
+      "If your work is online, it might be training AI.",
+      "Public datasets like Books3 and LAION include scraped content.",
+      "Check if your content is in public datasets today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Microsoft's Theft Warning\n\nMicrosoft called AI scraping 'the largest theft of labor' in unredacted filings. But the same company's AI reportedly uses scraped data. That contradiction is the story.",
+          "2. The Hidden Hypocrisy\n\nInternal documents show an executive warned about the practice, yet the company continued. The warning was buried until now.",
+          "3. Your Work Is The Fuel\n\nIf you've published anything online, it may already be in a training dataset. No permission required.",
+          "4. Check If You're Included\n\nPublic datasets like Books3 and LAION were built from web scraping. You can search some of them directly.",
+          "5. Take Action Today\n\nSearch your name or domain in Dataset Search. If you find it, you know where you stand. Do it now."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Microsoft called AI scraping the largest theft of labor.",
+          "But unredacted filings show their own AI uses scraped data.",
+          "If your work is online, it might be training AI.",
+          "Public datasets like Books3 and LAION include scraped content.",
+          "Check if your content is in public datasets today."
+        ]
+      },
+      "instagram": {
+        "caption": "Someone at Microsoft called AI scraping \"the largest theft of labor in human history\" — in internal filings that stayed hidden until now.\n\nThe same company's AI reportedly trains on scraped data. 😬\n\nIf you've published anything online, it may already be sitting in a training dataset.\n\nNo permission, no payment, no notice.\n\nPublic sets like Books3 and LAION were built exactly this way.\n\nNext time you hit publish, remember your words might feed a model you never agreed to. 📚\n\nSearch your name or domain in Dataset Search today. Would you find yourself in there? 🔍"
+      }
+    },
+    "instagram_caption": "Someone at Microsoft called AI scraping \"the largest theft of labor in human history\" — in internal filings that stayed hidden until now.\n\nThe same company's AI reportedly trains on scraped data. 😬\n\nIf you've published anything online, it may already be sitting in a training dataset.\n\nNo permission, no payment, no notice.\n\nPublic sets like Books3 and LAION were built exactly this way.\n\nNext time you hit publish, remember your words might feed a model you never agreed to. 📚\n\nSearch your name or domain in Dataset Search today. Would you find yourself in there? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Did Microsoft just admit AI theft?",
+        "description": "Unredacted filings show an exec called AI scraping 'the largest theft of labor'—yet Microsoft's own AI reportedly uses scraped data.",
+        "visual_hint": "Gavel on desk with Microsoft logo",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "courtroom gavel"
+      },
+      {
+        "hook": "Hidden hypocrisy: warning buried until now",
+        "description": "Internal documents reveal the executive warned about the practice, but the company continued anyway. The warning was buried until now.",
+        "visual_hint": "Stack of unredacted documents highlighted",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "legal documents",
+        "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your work is the fuel",
+        "description": "If you've published anything online, it may already be in a training dataset. No permission required.",
+        "visual_hint": "Floating data streams over keyboard",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check if you're in public datasets",
+        "description": "Public datasets like Books3 and LAION were built from web scraping. You can search some of them directly.",
+        "visual_hint": "Magnifying glass over code lines",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "search engine",
+        "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Search your name now — save this!",
+        "description": "Search your name or domain in Dataset Search. If you find it, you know where you stand. Do it now.",
+        "visual_hint": "Hand tapping smartphone with search bar",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone search",
+        "image": "https://images.pexels.com/photos/5448171/pexels-photo-5448171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
+    "savedAt": "2026-09-18T08:37:21.688Z",
+    "sourceId": "2c509c3d0d19214e90defda68e48edf6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "is-the-ai-safety-debate-about-safety-or-control-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Is the AI safety debate about safety or control?",
+    "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+    "pubDate": "Thu, 17 Sep 2026 20:19:37 +0000",
+    "slides": [
+      "Is AI safety truly about safety, or something else?",
+      "The debate often frames it as preventing harm.",
+      "But control over AI development is the real issue.",
+      "Question who decides what safety means in practice.",
+      "Examine who benefits from the current safety narrative."
+    ],
+    "thread_text": [
+      "1. Safety or Power Grab?\n\nWhen AI companies say \"safety,\" they often mean keeping competitors out. The same firms writing the rules are the ones who benefit from them.",
+      "2. Who Gets to Decide?\n\nRegulation is being shaped by the very labs it's meant to watch. That's like letting oil companies draft climate policy.",
+      "3. The Real Battle Isn't Harm\n\nIt's about who controls the technology. Safety is the excuse; market dominance is the prize.",
+      "4. Follow the Money\n\nThe loudest safety advocates are often the best-funded. Ask who profits when \"safety\" becomes the standard.",
+      "5. Your Move\n\nNext time you hear \"AI safety,\" ask: who wrote this, and what do they gain? The answer might surprise you."
+    ],
+    "video_script": [
+      "Is AI safety really about safety?",
+      "Who gets to define what safety means?",
+      "Control over AI is the real issue.",
+      "Follow the money behind safety narratives.",
+      "Ask who benefits next time you hear safety."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Safety or Power Grab?\n\nWhen AI companies say \"safety,\" they often mean keeping competitors out. The same firms writing the rules are the ones who benefit from them.",
+          "2. Who Gets to Decide?\n\nRegulation is being shaped by the very labs it's meant to watch. That's like letting oil companies draft climate policy.",
+          "3. The Real Battle Isn't Harm\n\nIt's about who controls the technology. Safety is the excuse; market dominance is the prize.",
+          "4. Follow the Money\n\nThe loudest safety advocates are often the best-funded. Ask who profits when \"safety\" becomes the standard.",
+          "5. Your Move\n\nNext time you hear \"AI safety,\" ask: who wrote this, and what do they gain? The answer might surprise you."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Is AI safety really about safety?",
+          "Who gets to define what safety means?",
+          "Control over AI is the real issue.",
+          "Follow the money behind safety narratives.",
+          "Ask who benefits next time you hear safety."
+        ]
+      },
+      "instagram": {
+        "caption": "The companies writing the AI safety rules are the same ones competing under them.\n\nRegulation is being shaped by the labs it's supposed to watch — like oil companies drafting climate policy.\n\nSafety is the pitch; market dominance is the prize. The loudest safety advocates are often the best-funded. 🧐\n\nFor anyone building or publishing with AI tools, this decides whose model you're allowed to use and at what price.\n\nNext time you hear \"AI safety,\" ask: who wrote this rule, and what do they gain? 🔍"
+      }
+    },
+    "instagram_caption": "The companies writing the AI safety rules are the same ones competing under them.\n\nRegulation is being shaped by the labs it's supposed to watch — like oil companies drafting climate policy.\n\nSafety is the pitch; market dominance is the prize. The loudest safety advocates are often the best-funded. 🧐\n\nFor anyone building or publishing with AI tools, this decides whose model you're allowed to use and at what price.\n\nNext time you hear \"AI safety,\" ask: who wrote this rule, and what do they gain? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Is AI safety just a power grab?",
+        "description": "Companies writing safety rules often mean keeping competitors out, not preventing harm. The same firms benefit from the standards they set.",
+        "visual_hint": "Corporate handshake over glowing AI network",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "corporate handshake"
+      },
+      {
+        "hook": "Who really decides what safety means?",
+        "description": "Regulation is shaped by the very labs it should watch. That's like letting oil companies draft climate policy.",
+        "visual_hint": "Government officials and tech executives at table",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "government meeting",
+        "image": "https://images.pexels.com/photos/6950016/pexels-photo-6950016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The battle isn't harm, it's control",
+        "description": "Safety is the excuse; market dominance is the prize. The real fight is over who controls AI development.",
+        "visual_hint": "Chessboard with digital pieces",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "chessboard strategy",
+        "image": "https://images.pexels.com/photos/6202994/pexels-photo-6202994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Follow the money behind safety advocates",
+        "description": "The loudest safety voices are often the best-funded. Ask who profits when safety becomes the standard.",
+        "visual_hint": "Money flowing into AI server room",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: question every AI safety claim",
+        "description": "Next time you hear 'AI safety,' ask who wrote it and what they gain. Comment your thoughts below.",
+        "visual_hint": "Person with magnifying glass over AI code",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "magnifying glass code",
+        "image": "https://images.pexels.com/photos/17543457/pexels-photo-17543457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
+    "savedAt": "2026-09-18T08:37:13.275Z",
+    "sourceId": "9d61eb9bd1c6f784d91e92133311fa50"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "crusoe-raises-3-9b-to-build-massive-data-centers-a",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+    "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+    "pubDate": "Thu, 17 Sep 2026 23:25:52 +0000",
+    "slides": [
+      "Crusoe just raised $3.9B—but for what?",
+      "To build massive data centers and small modular AI factories.",
+      "Surprisingly, these factories power AI without the grid.",
+      "That means your AI apps could run cheaper and greener.",
+      "Ask: could your next project run on a modular AI factory?"
+    ],
+    "thread_text": [
+      "1. AI's $3.9B Bet\n\nCrusoe just raised $3.9B to build small modular AI factories that run off-grid. That means your AI apps could soon be cheaper and greener.",
+      "2. No Grid, Big Power\n\nThese factories bypass the electrical grid entirely, using their own power sources. This solves a major bottleneck for data centers.",
+      "3. Cheaper AI for You\n\nOff-grid power cuts costs and carbon emissions. Your AI apps could become more affordable and sustainable as a result.",
+      "4. Modular, Not Massive\n\nSmall modular factories can be deployed almost anywhere, unlike traditional data centers. This flexibility could accelerate AI innovation.",
+      "5. Your Project Next?\n\nCould your next AI project run on a modular factory? Ask yourself if cheaper, greener compute would change your roadmap."
+    ],
+    "video_script": [
+      "Crusoe raised 3.9 billion dollars. But why?",
+      "To build small modular AI factories that work off-grid.",
+      "These factories power AI without the electrical grid.",
+      "So your AI apps could be cheaper and greener.",
+      "Could your next project run on a modular AI factory?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI's $3.9B Bet\n\nCrusoe just raised $3.9B to build small modular AI factories that run off-grid. That means your AI apps could soon be cheaper and greener.",
+          "2. No Grid, Big Power\n\nThese factories bypass the electrical grid entirely, using their own power sources. This solves a major bottleneck for data centers.",
+          "3. Cheaper AI for You\n\nOff-grid power cuts costs and carbon emissions. Your AI apps could become more affordable and sustainable as a result.",
+          "4. Modular, Not Massive\n\nSmall modular factories can be deployed almost anywhere, unlike traditional data centers. This flexibility could accelerate AI innovation.",
+          "5. Your Project Next?\n\nCould your next AI project run on a modular factory? Ask yourself if cheaper, greener compute would change your roadmap."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Crusoe raised 3.9 billion dollars. But why?",
+          "To build small modular AI factories that work off-grid.",
+          "These factories power AI without the electrical grid.",
+          "So your AI apps could be cheaper and greener.",
+          "Could your next project run on a modular AI factory?"
+        ]
+      },
+      "instagram": {
+        "caption": "$3.9 billion just went into AI factories that don't need your local power grid. ⚡\n\nCrusoe raised that money to build small modular data centers. Each one runs on its own power source, completely off-grid.\n\nThat matters because off-grid power cuts both costs and carbon emissions.\n\nSo the AI tools you use daily could get cheaper and greener to run. 🌱\n\nModular factories can also be deployed almost anywhere, which means faster compute near you.\n\nCould your next project run on one of these? 🔧"
+      }
+    },
+    "instagram_caption": "$3.9 billion just went into AI factories that don't need your local power grid. ⚡\n\nCrusoe raised that money to build small modular data centers. Each one runs on its own power source, completely off-grid.\n\nThat matters because off-grid power cuts both costs and carbon emissions.\n\nSo the AI tools you use daily could get cheaper and greener to run. 🌱\n\nModular factories can also be deployed almost anywhere, which means faster compute near you.\n\nCould your next project run on one of these? 🔧",
+    "carousel_slides": [
+      {
+        "hook": "AI factories that skip the grid entirely?",
+        "description": "Crusoe raised $3.9B to build small modular AI factories that run completely off-grid, cutting costs and carbon emissions.",
+        "visual_hint": "Futuristic modular data center unit isolated",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "data center"
+      },
+      {
+        "hook": "Massive data centers meet small modular units",
+        "description": "The $3.9B funds both large-scale data centers and compact AI factories, offering flexible compute deployment almost anywhere without grid dependence.",
+        "visual_hint": "Large data center with modular units nearby",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No grid, no problem for AI power",
+        "description": "These factories bypass the electrical grid using their own power sources, solving a major bottleneck for traditional data centers.",
+        "visual_hint": "Off-grid power source connected to server racks",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "power plant",
+        "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cheaper, greener AI apps are coming",
+        "description": "Off-grid power slashes costs and carbon emissions, making your AI apps more affordable and sustainable as a result.",
+        "visual_hint": "Hand holding phone with green AI app",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Could your next project run on one?",
+        "description": "Save this post and ask yourself if cheaper, greener compute would change your roadmap. Visit link in bio for more insights.",
+        "visual_hint": "Modular factory with glowing AI interface",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
+    "savedAt": "2026-09-18T08:37:04.510Z",
+    "sourceId": "e3285a711c8c90e5544d13f00df7c228"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "un-turns-to-google-to-make-its-global-data-ready-f",
     "prompt_version": "1.0.0",
     "status": "published",

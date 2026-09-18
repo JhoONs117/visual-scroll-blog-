@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "is-the-ai-safety-debate-about-safety-or-control-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Is the AI safety debate about safety or control?",
+  "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+  "pubDate": "Thu, 17 Sep 2026 20:19:37 +0000",
+  "slides": [
+    "Is AI safety truly about safety, or something else?",
+    "The debate often frames it as preventing harm.",
+    "But control over AI development is the real issue.",
+    "Question who decides what safety means in practice.",
+    "Examine who benefits from the current safety narrative."
+  ],
+  "thread_text": [
+    "1. Safety or Power Grab?\n\nWhen AI companies say \"safety,\" they often mean keeping competitors out. The same firms writing the rules are the ones who benefit from them.",
+    "2. Who Gets to Decide?\n\nRegulation is being shaped by the very labs it's meant to watch. That's like letting oil companies draft climate policy.",
+    "3. The Real Battle Isn't Harm\n\nIt's about who controls the technology. Safety is the excuse; market dominance is the prize.",
+    "4. Follow the Money\n\nThe loudest safety advocates are often the best-funded. Ask who profits when \"safety\" becomes the standard.",
+    "5. Your Move\n\nNext time you hear \"AI safety,\" ask: who wrote this, and what do they gain? The answer might surprise you."
+  ],
+  "video_script": [
+    "Is AI safety really about safety?",
+    "Who gets to define what safety means?",
+    "Control over AI is the real issue.",
+    "Follow the money behind safety narratives.",
+    "Ask who benefits next time you hear safety."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Safety or Power Grab?\n\nWhen AI companies say \"safety,\" they often mean keeping competitors out. The same firms writing the rules are the ones who benefit from them.",
+        "2. Who Gets to Decide?\n\nRegulation is being shaped by the very labs it's meant to watch. That's like letting oil companies draft climate policy.",
+        "3. The Real Battle Isn't Harm\n\nIt's about who controls the technology. Safety is the excuse; market dominance is the prize.",
+        "4. Follow the Money\n\nThe loudest safety advocates are often the best-funded. Ask who profits when \"safety\" becomes the standard.",
+        "5. Your Move\n\nNext time you hear \"AI safety,\" ask: who wrote this, and what do they gain? The answer might surprise you."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Is AI safety really about safety?",
+        "Who gets to define what safety means?",
+        "Control over AI is the real issue.",
+        "Follow the money behind safety narratives.",
+        "Ask who benefits next time you hear safety."
+      ]
+    },
+    "instagram": {
+      "caption": "The companies writing the AI safety rules are the same ones competing under them.\n\nRegulation is being shaped by the labs it's supposed to watch — like oil companies drafting climate policy.\n\nSafety is the pitch; market dominance is the prize. The loudest safety advocates are often the best-funded. 🧐\n\nFor anyone building or publishing with AI tools, this decides whose model you're allowed to use and at what price.\n\nNext time you hear \"AI safety,\" ask: who wrote this rule, and what do they gain? 🔍"
+    }
+  },
+  "instagram_caption": "The companies writing the AI safety rules are the same ones competing under them.\n\nRegulation is being shaped by the labs it's supposed to watch — like oil companies drafting climate policy.\n\nSafety is the pitch; market dominance is the prize. The loudest safety advocates are often the best-funded. 🧐\n\nFor anyone building or publishing with AI tools, this decides whose model you're allowed to use and at what price.\n\nNext time you hear \"AI safety,\" ask: who wrote this rule, and what do they gain? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Is AI safety just a power grab?",
+      "description": "Companies writing safety rules often mean keeping competitors out, not preventing harm. The same firms benefit from the standards they set.",
+      "visual_hint": "Corporate handshake over glowing AI network",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "corporate handshake"
+    },
+    {
+      "hook": "Who really decides what safety means?",
+      "description": "Regulation is shaped by the very labs it should watch. That's like letting oil companies draft climate policy.",
+      "visual_hint": "Government officials and tech executives at table",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "government meeting",
+      "image": "https://images.pexels.com/photos/6950016/pexels-photo-6950016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The battle isn't harm, it's control",
+      "description": "Safety is the excuse; market dominance is the prize. The real fight is over who controls AI development.",
+      "visual_hint": "Chessboard with digital pieces",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "chessboard strategy",
+      "image": "https://images.pexels.com/photos/6202994/pexels-photo-6202994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Follow the money behind safety advocates",
+      "description": "The loudest safety voices are often the best-funded. Ask who profits when safety becomes the standard.",
+      "visual_hint": "Money flowing into AI server room",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: question every AI safety claim",
+      "description": "Next time you hear 'AI safety,' ask who wrote it and what they gain. Comment your thoughts below.",
+      "visual_hint": "Person with magnifying glass over AI code",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "magnifying glass code",
+      "image": "https://images.pexels.com/photos/17543457/pexels-photo-17543457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
+  "savedAt": "2026-09-18T08:37:13.275Z",
+  "sourceId": "9d61eb9bd1c6f784d91e92133311fa50"
+}
