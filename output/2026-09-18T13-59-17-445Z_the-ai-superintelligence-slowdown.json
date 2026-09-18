@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-ai-superintelligence-slowdown",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The AI Superintelligence Slowdown",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+  "pubDate": "2026-09-17T19:28:24.000Z",
+  "slides": [
+    "Is the AI superintelligence race already fading?",
+    "Scaling laws cost billions with diminishing returns",
+    "Frontier labs quietly pivot to smaller specialized models",
+    "Your AI tools will become cheaper and more focused",
+    "Test one narrow use case this week, not moonshots"
+  ],
+  "thread_text": [
+    "1. The race is cooling\n\nA superintelligence race was supposed to burn billions. Instead, labs are quietly redirecting talent to smaller, cheaper, focused models.",
+    "2. Billions hit a wall\n\nScaling large models costs enormous sums, but performance gains are shrinking. Labs now get more value from fine-tuning than from brute force.",
+    "3. Labs pivot quietly\n\nFrontier labs are shifting resources to specialized models that do one task well, abandoning the race for giant general systems.",
+    "4. Cheaper tools ahead\n\nYour AI tools will become cheaper and more focused. Expect narrow assistants that outperform general chatbots in specific tasks.",
+    "5. Test one narrow task\n\nPick one repetitive task you do weekly and try a focused AI tool on it. If it fails, you've lost nothing but an hour."
+  ],
+  "video_script": [
+    "The AI superintelligence race may already be fading.",
+    "Scaling costs billions but produces smaller performance gains.",
+    "Frontier labs now pivot to smaller, specialized models.",
+    "Your AI tools will get cheaper and more focused.",
+    "Test one narrow use case this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The race is cooling\n\nA superintelligence race was supposed to burn billions. Instead, labs are quietly redirecting talent to smaller, cheaper, focused models.",
+        "2. Billions hit a wall\n\nScaling large models costs enormous sums, but performance gains are shrinking. Labs now get more value from fine-tuning than from brute force.",
+        "3. Labs pivot quietly\n\nFrontier labs are shifting resources to specialized models that do one task well, abandoning the race for giant general systems.",
+        "4. Cheaper tools ahead\n\nYour AI tools will become cheaper and more focused. Expect narrow assistants that outperform general chatbots in specific tasks.",
+        "5. Test one narrow task\n\nPick one repetitive task you do weekly and try a focused AI tool on it. If it fails, you've lost nothing but an hour."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "The AI superintelligence race may already be fading.",
+        "Scaling costs billions but produces smaller performance gains.",
+        "Frontier labs now pivot to smaller, specialized models.",
+        "Your AI tools will get cheaper and more focused.",
+        "Test one narrow use case this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Those billion-dollar leaps in AI performance are getting smaller every year. 📉\n\nBuilding giant general models costs enormous sums, but the returns are shrinking. Fine-tuning now beats brute force. 🛠️\n\nFrontier labs are quietly redirecting talent to smaller, specialized models that do one task well.\n\nFor you, that means cheaper AI tools that are more focused, not bigger.\n\nPick one repetitive task you do every week and test a narrow AI tool on it. If it fails, you've lost an hour. ⏱️\n\nWhat's the one task you'd hand off first?"
+    }
+  },
+  "instagram_caption": "Those billion-dollar leaps in AI performance are getting smaller every year. 📉\n\nBuilding giant general models costs enormous sums, but the returns are shrinking. Fine-tuning now beats brute force. 🛠️\n\nFrontier labs are quietly redirecting talent to smaller, specialized models that do one task well.\n\nFor you, that means cheaper AI tools that are more focused, not bigger.\n\nPick one repetitive task you do every week and test a narrow AI tool on it. If it fails, you've lost an hour. ⏱️\n\nWhat's the one task you'd hand off first?",
+  "carousel_slides": [
+    {
+      "hook": "Is the superintelligence race already dead?",
+      "description": "Frontier labs are quietly abandoning giant general models. They redirect talent to smaller, cheaper, specialized systems instead.",
+      "visual_hint": "Empty futuristic laboratory with glowing monitors",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Billions spent, diminishing returns hit hard",
+      "description": "Scaling large models costs enormous sums, but performance gains shrink. Fine-tuning now yields more value than brute force.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Declining graph on financial chart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Labs pivot quietly to specialized models",
+      "description": "Frontier labs shift resources to models that do one task well, abandoning the race for giant general systems.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Close-up of a single microchip",
+      "image_query": "microchip closeup",
+      "image": "https://images.pexels.com/photos/7286003/pexels-photo-7286003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI tools will get cheaper and focused",
+      "description": "Expect narrow assistants that outperform general chatbots in specific tasks, making your AI tools cheaper and more focused.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hand holding smartphone with app icons",
+      "image_query": "hand smartphone app",
+      "image": "https://images.pexels.com/photos/6473732/pexels-photo-6473732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: test one narrow AI task",
+      "description": "Pick one repetitive weekly task and try a focused AI tool. If it fails, you've lost nothing but an hour. Save this post.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Person typing on laptop with checklist",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK_414_5_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+  "savedAt": "2026-09-18T13:59:44.621Z",
+  "sourceId": "85b0b4814d514fc117df9c78cd2d8588"
+}

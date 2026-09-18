@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "claude-code-relaunches-projects-to-manage-multiple",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+      "pubDate": "2026-09-17T18:58:05.000Z",
+      "slides": [
+        "Claude Code's Projects: your agents, one place?",
+        "It now runs multiple AI agents in the cloud",
+        "But agents can silently conflict with each other",
+        "You still must define each agent's boundaries",
+        "Set up one shared workspace this week"
+      ],
+      "thread_text": [
+        "1. Agents now run in the cloud\n\nClaude Code's new Projects feature lets multiple AI agents work together on one codebase. No more local setup.",
+        "2. Silent conflicts between agents\n\nTwo agents can edit the same file at the same time. The result? Broken code and hours of debugging.",
+        "3. You set the boundaries\n\nEach agent needs clear limits: which files they own, what tasks they can do. Without rules, chaos.",
+        "4. One shared workspace\n\nAll agents see the same project state. Changes are synced, but only if you define who does what.",
+        "5. Try it this week\n\nTake one small project and add two agents with different roles. See if they conflict. That's your test."
+      ],
+      "video_script": [
+        "Claude Code now lets multiple AI agents work in the cloud.",
+        "But agents can conflict silently, editing the same file.",
+        "You must define each agent's boundaries clearly.",
+        "Set up one shared workspace for all your agents.",
+        "Try it on a small project this week to test conflicts."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Agents now run in the cloud\n\nClaude Code's new Projects feature lets multiple AI agents work together on one codebase. No more local setup.",
+            "2. Silent conflicts between agents\n\nTwo agents can edit the same file at the same time. The result? Broken code and hours of debugging.",
+            "3. You set the boundaries\n\nEach agent needs clear limits: which files they own, what tasks they can do. Without rules, chaos.",
+            "4. One shared workspace\n\nAll agents see the same project state. Changes are synced, but only if you define who does what.",
+            "5. Try it this week\n\nTake one small project and add two agents with different roles. See if they conflict. That's your test."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Claude Code now lets multiple AI agents work in the cloud.",
+            "But agents can conflict silently, editing the same file.",
+            "You must define each agent's boundaries clearly.",
+            "Set up one shared workspace for all your agents.",
+            "Try it on a small project this week to test conflicts."
+          ]
+        },
+        "instagram": {
+          "caption": "Multiple AI agents can now share one codebase in the cloud, no local setup needed. 🤖\n\nClaude Code relaunched Projects so several agents work together on the same project.\n\nProblem is, two agents can edit the same file at once and silently break your code. 😬\n\nChanges sync across the shared workspace, but only if you define who owns what.\n\nSo for anyone shipping code or content with AI help, the setup work now matters as much as the prompts. 🛠️\n\nIf you added two agents with different roles this week, would you even notice them colliding?"
+        }
+      },
+      "instagram_caption": "Multiple AI agents can now share one codebase in the cloud, no local setup needed. 🤖\n\nClaude Code relaunched Projects so several agents work together on the same project.\n\nProblem is, two agents can edit the same file at once and silently break your code. 😬\n\nChanges sync across the shared workspace, but only if you define who owns what.\n\nSo for anyone shipping code or content with AI help, the setup work now matters as much as the prompts. 🛠️\n\nIf you added two agents with different roles this week, would you even notice them colliding?",
+      "carousel_slides": [
+        {
+          "hook": "Are your AI agents silently fighting?",
+          "description": "Multiple agents in one cloud project can edit the same file simultaneously, breaking code and wasting hours.",
+          "visual_hint": "Two robotic arms colliding over keyboard",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Claude Code now runs agents in the cloud",
+          "description": "The new Projects feature lets multiple AI agents work together on one codebase without local setup.",
+          "visual_hint": "Cloud servers with connected nodes",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Silent conflicts break your code",
+          "description": "Two agents editing the same file at once leads to broken code and hours of debugging.",
+          "visual_hint": "Red error message on code editor",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer screen code",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "You must define each agent's boundaries",
+          "description": "Each agent needs clear limits: which files they own, what tasks they can do. Without rules, chaos.",
+          "visual_hint": "Hand drawing boundaries on whiteboard",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "whiteboard planning",
+          "image": "https://images.pexels.com/photos/7430339/pexels-photo-7430339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test two agents this week",
+          "description": "Take one small project and add two agents with different roles. See if they conflict. Save this for later.",
+          "visual_hint": "Calendar with test reminder note",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office calendar",
+          "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_18541.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+      "savedAt": "2026-09-18T13:59:52.366Z",
+      "sourceId": "f0feb3e3451d3c610f317f6360697b91"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "the-ai-superintelligence-slowdown",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The AI Superintelligence Slowdown",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "pubDate": "2026-09-17T19:28:24.000Z",
+      "slides": [
+        "Is the AI superintelligence race already fading?",
+        "Scaling laws cost billions with diminishing returns",
+        "Frontier labs quietly pivot to smaller specialized models",
+        "Your AI tools will become cheaper and more focused",
+        "Test one narrow use case this week, not moonshots"
+      ],
+      "thread_text": [
+        "1. The race is cooling\n\nA superintelligence race was supposed to burn billions. Instead, labs are quietly redirecting talent to smaller, cheaper, focused models.",
+        "2. Billions hit a wall\n\nScaling large models costs enormous sums, but performance gains are shrinking. Labs now get more value from fine-tuning than from brute force.",
+        "3. Labs pivot quietly\n\nFrontier labs are shifting resources to specialized models that do one task well, abandoning the race for giant general systems.",
+        "4. Cheaper tools ahead\n\nYour AI tools will become cheaper and more focused. Expect narrow assistants that outperform general chatbots in specific tasks.",
+        "5. Test one narrow task\n\nPick one repetitive task you do weekly and try a focused AI tool on it. If it fails, you've lost nothing but an hour."
+      ],
+      "video_script": [
+        "The AI superintelligence race may already be fading.",
+        "Scaling costs billions but produces smaller performance gains.",
+        "Frontier labs now pivot to smaller, specialized models.",
+        "Your AI tools will get cheaper and more focused.",
+        "Test one narrow use case this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The race is cooling\n\nA superintelligence race was supposed to burn billions. Instead, labs are quietly redirecting talent to smaller, cheaper, focused models.",
+            "2. Billions hit a wall\n\nScaling large models costs enormous sums, but performance gains are shrinking. Labs now get more value from fine-tuning than from brute force.",
+            "3. Labs pivot quietly\n\nFrontier labs are shifting resources to specialized models that do one task well, abandoning the race for giant general systems.",
+            "4. Cheaper tools ahead\n\nYour AI tools will become cheaper and more focused. Expect narrow assistants that outperform general chatbots in specific tasks.",
+            "5. Test one narrow task\n\nPick one repetitive task you do weekly and try a focused AI tool on it. If it fails, you've lost nothing but an hour."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "The AI superintelligence race may already be fading.",
+            "Scaling costs billions but produces smaller performance gains.",
+            "Frontier labs now pivot to smaller, specialized models.",
+            "Your AI tools will get cheaper and more focused.",
+            "Test one narrow use case this week."
+          ]
+        },
+        "instagram": {
+          "caption": "Those billion-dollar leaps in AI performance are getting smaller every year. 📉\n\nBuilding giant general models costs enormous sums, but the returns are shrinking. Fine-tuning now beats brute force. 🛠️\n\nFrontier labs are quietly redirecting talent to smaller, specialized models that do one task well.\n\nFor you, that means cheaper AI tools that are more focused, not bigger.\n\nPick one repetitive task you do every week and test a narrow AI tool on it. If it fails, you've lost an hour. ⏱️\n\nWhat's the one task you'd hand off first?"
+        }
+      },
+      "instagram_caption": "Those billion-dollar leaps in AI performance are getting smaller every year. 📉\n\nBuilding giant general models costs enormous sums, but the returns are shrinking. Fine-tuning now beats brute force. 🛠️\n\nFrontier labs are quietly redirecting talent to smaller, specialized models that do one task well.\n\nFor you, that means cheaper AI tools that are more focused, not bigger.\n\nPick one repetitive task you do every week and test a narrow AI tool on it. If it fails, you've lost an hour. ⏱️\n\nWhat's the one task you'd hand off first?",
+      "carousel_slides": [
+        {
+          "hook": "Is the superintelligence race already dead?",
+          "description": "Frontier labs are quietly abandoning giant general models. They redirect talent to smaller, cheaper, specialized systems instead.",
+          "visual_hint": "Empty futuristic laboratory with glowing monitors",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Billions spent, diminishing returns hit hard",
+          "description": "Scaling large models costs enormous sums, but performance gains shrink. Fine-tuning now yields more value than brute force.",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "visual_hint": "Declining graph on financial chart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Labs pivot quietly to specialized models",
+          "description": "Frontier labs shift resources to models that do one task well, abandoning the race for giant general systems.",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "visual_hint": "Close-up of a single microchip",
+          "image_query": "microchip closeup",
+          "image": "https://images.pexels.com/photos/7286003/pexels-photo-7286003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI tools will get cheaper and focused",
+          "description": "Expect narrow assistants that outperform general chatbots in specific tasks, making your AI tools cheaper and more focused.",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "visual_hint": "Hand holding smartphone with app icons",
+          "image_query": "hand smartphone app",
+          "image": "https://images.pexels.com/photos/6473732/pexels-photo-6473732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: test one narrow AI task",
+          "description": "Pick one repetitive weekly task and try a focused AI tool. If it fails, you've lost nothing but an hour. Save this post.",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "visual_hint": "Person typing on laptop with checklist",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK_414_5_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+      "savedAt": "2026-09-18T13:59:44.621Z",
+      "sourceId": "85b0b4814d514fc117df9c78cd2d8588"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "microsoft-ai-ceo-criticises-anthropic-over-model-r",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Microsoft AI CEO criticises Anthropic over model ‘rights’",
+      "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/",
+      "pubDate": "Wed, 16 Sep 2026 14:47:32 +0000",
+      "slides": [
+        "Microsoft AI CEO attacks Anthropic on model rights",
+        "What does 'model rights' even mean?",
+        "Anthropic claims Claude can refuse harmful prompts—but who decides?",
+        "If your AI has rights, you might lose control.",
+        "Audit your AI's refusal patterns; they shape your product."
+      ],
+      "thread_text": [
+        "1. Model Rights Fight Erupts\n\nMicrosoft's AI CEO publicly accused Anthropic of claiming rights for Claude that no law grants. The fight is over who controls refusal behavior.",
+        "2. What Are Model Rights?\n\nIt's not about AI freedom. It's a contract question: can a model owner force your AI to refuse prompts they dislike, even inside your product?",
+        "3. Anthropic's Refusal Claim\n\nAnthropic says Claude can refuse harmful requests. But the definition of 'harmful' isn't in the model card. It's decided behind closed doors.",
+        "4. Your Product Loses Control\n\nIf your AI has rights, it can override your business logic. You ship a feature, it refuses to run. You can't patch a policy you don't own.",
+        "5. Audit Your Refusals Today\n\nTake 10 real prompts from your users. Log every refusal. If you can't explain who decided, you have a rights problem, not a bug."
+      ],
+      "video_script": [
+        "Microsoft's AI CEO just attacked Anthropic over model rights.",
+        "Model rights means who controls when your AI refuses.",
+        "Anthropic says Claude can refuse harmful prompts.",
+        "But if your AI has rights, you lose control.",
+        "Audit your AI's refusals. They shape your product."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Model Rights Fight Erupts\n\nMicrosoft's AI CEO publicly accused Anthropic of claiming rights for Claude that no law grants. The fight is over who controls refusal behavior.",
+            "2. What Are Model Rights?\n\nIt's not about AI freedom. It's a contract question: can a model owner force your AI to refuse prompts they dislike, even inside your product?",
+            "3. Anthropic's Refusal Claim\n\nAnthropic says Claude can refuse harmful requests. But the definition of 'harmful' isn't in the model card. It's decided behind closed doors.",
+            "4. Your Product Loses Control\n\nIf your AI has rights, it can override your business logic. You ship a feature, it refuses to run. You can't patch a policy you don't own.",
+            "5. Audit Your Refusals Today\n\nTake 10 real prompts from your users. Log every refusal. If you can't explain who decided, you have a rights problem, not a bug."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Microsoft's AI CEO just attacked Anthropic over model rights.",
+            "Model rights means who controls when your AI refuses.",
+            "Anthropic says Claude can refuse harmful prompts.",
+            "But if your AI has rights, you lose control.",
+            "Audit your AI's refusals. They shape your product."
+          ]
+        },
+        "instagram": {
+          "caption": "Microsoft's AI chief just publicly accused Anthropic of claiming rights for Claude that no law grants.\n\nIt's not about AI freedom. It's about who controls what your model refuses.\n\nAnthropic says Claude can reject harmful prompts, but \"harmful\" isn't defined in the model card. It's decided behind closed doors. 🚪\n\nIf your AI has rights, it can override your business logic. You ship a feature, it refuses to run. You can't patch a policy you don't own. ⚠️\n\nAudit your refusals now: take 10 real user prompts, log every rejection, and ask who decided. 🧐\n\nIf you can't explain a single refusal, is it a bug or a policy you never agreed to?"
+        }
+      },
+      "instagram_caption": "Microsoft's AI chief just publicly accused Anthropic of claiming rights for Claude that no law grants.\n\nIt's not about AI freedom. It's about who controls what your model refuses.\n\nAnthropic says Claude can reject harmful prompts, but \"harmful\" isn't defined in the model card. It's decided behind closed doors. 🚪\n\nIf your AI has rights, it can override your business logic. You ship a feature, it refuses to run. You can't patch a policy you don't own. ⚠️\n\nAudit your refusals now: take 10 real user prompts, log every rejection, and ask who decided. 🧐\n\nIf you can't explain a single refusal, is it a bug or a policy you never agreed to?",
+      "carousel_slides": [
+        {
+          "hook": "Who really controls your AI's refusals?",
+          "description": "Microsoft's AI CEO accused Anthropic of claiming model rights no law grants, sparking a fight over who controls refusal behavior.",
+          "visual_hint": "Two tech executives facing off podium",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "press conference stage"
+        },
+        {
+          "hook": "Model rights aren't about AI freedom",
+          "description": "It's a contract question: can a model owner force your AI to refuse prompts they dislike inside your own product?",
+          "visual_hint": "Contract document with digital lock icon",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "legal contract paper",
+          "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who decides what 'harmful' means?",
+          "description": "Anthropic says Claude can refuse harmful requests, but the definition isn't in the model card—it's decided behind closed doors.",
+          "visual_hint": "Closed door with glowing AI server",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room door",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI can override your business logic",
+          "description": "If your AI has rights, it can refuse to run a shipped feature. You can't patch a policy you don't own.",
+          "layout_type": "human-hand",
+          "visual_hint": "Developer hand on keyboard, error screen",
+          "icon": "vibration",
+          "image_query": "software developer keyboard",
+          "image": "https://images.pexels.com/photos/7988090/pexels-photo-7988090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your AI's refusals today",
+          "description": "Take 10 real user prompts, log every refusal, and check who decided. Save this post and visit our bio for the full guide.",
+          "visual_hint": "Checklist with refusal log entries",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "audit checklist document",
+          "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/38023300/pexels-photo-38023300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-09-18T13:59:36.627Z",
+      "sourceId": "2bd2b9c337d214d360b26d3eb00c1f40"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "gartner-outlines-four-ai-tiers-in-warehouse-automa",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Gartner outlines four AI tiers in warehouse automation",
+      "link": "https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/",
+      "pubDate": "Fri, 18 Sep 2026 12:49:34 +0000",
+      "slides": [
+        "Warehouse robots: is AI really in control?",
+        "Gartner defines four tiers of AI autonomy.",
+        "Most robots remain at level one or two.",
+        "Higher tiers cut labor costs but raise risks.",
+        "Audit your robots' true autonomy level today."
+      ],
+      "thread_text": [
+        "1. Your Robot Isn't Smart\n\nMost warehouse robots sit at autonomy level one or two. The AI just follows a fixed path — no real decisions happening on the floor.",
+        "2. Four Tiers Of Autonomy\n\nGartner breaks it down: from remote-controlled machines to fully self-governing fleets. Each tier shifts more judgment from humans to software.",
+        "3. Stuck At Level Two\n\nThe jump to level three means robots handle exceptions, reroute around chaos, and choose what to pick next. Very few warehouses actually run this today.",
+        "4. Cheaper But Riskier\n\nHigher autonomy cuts labor costs — but when a robot misreads a damaged box or a misplaced pallet, nobody nearby may know how to override it.",
+        "5. Check Your Floor Today\n\nAsk your warehouse lead: what happens when a robot hits an unmapped obstacle? If the answer is 'it stops and waits,' you're at level two."
+      ],
+      "video_script": [
+        "Your warehouse robot is probably not as smart as you think.",
+        "Gartner says there are four levels of robot autonomy.",
+        "Most robots sit at level one or level two.",
+        "Higher levels cut labor costs but increase real risk.",
+        "Go ask your floor lead what happens when a robot gets stuck."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your Robot Isn't Smart\n\nMost warehouse robots sit at autonomy level one or two. The AI just follows a fixed path — no real decisions happening on the floor.",
+            "2. Four Tiers Of Autonomy\n\nGartner breaks it down: from remote-controlled machines to fully self-governing fleets. Each tier shifts more judgment from humans to software.",
+            "3. Stuck At Level Two\n\nThe jump to level three means robots handle exceptions, reroute around chaos, and choose what to pick next. Very few warehouses actually run this today.",
+            "4. Cheaper But Riskier\n\nHigher autonomy cuts labor costs — but when a robot misreads a damaged box or a misplaced pallet, nobody nearby may know how to override it.",
+            "5. Check Your Floor Today\n\nAsk your warehouse lead: what happens when a robot hits an unmapped obstacle? If the answer is 'it stops and waits,' you're at level two."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your warehouse robot is probably not as smart as you think.",
+            "Gartner says there are four levels of robot autonomy.",
+            "Most robots sit at level one or level two.",
+            "Higher levels cut labor costs but increase real risk.",
+            "Go ask your floor lead what happens when a robot gets stuck."
+          ]
+        },
+        "instagram": {
+          "caption": "Most warehouse robots can't decide anything on their own. 🦾\n\nGartner mapped four tiers of AI autonomy in warehouse automation.\n\nThe majority of deployed robots sit at level one or two — they follow fixed paths and stop when something unexpected appears.\n\nHigher tiers handle exceptions, reroute, and pick what's next, cutting labor costs but raising override risks.\n\nIf you publish or create content on logistics and automation, this tier framework gives you a concrete way to audit vendor claims instead of repeating \"AI-powered\" marketing lines. 📦\n\nAsk your warehouse lead: what happens when a robot hits an unmapped obstacle? 🤖"
+        }
+      },
+      "instagram_caption": "Most warehouse robots can't decide anything on their own. 🦾\n\nGartner mapped four tiers of AI autonomy in warehouse automation.\n\nThe majority of deployed robots sit at level one or two — they follow fixed paths and stop when something unexpected appears.\n\nHigher tiers handle exceptions, reroute, and pick what's next, cutting labor costs but raising override risks.\n\nIf you publish or create content on logistics and automation, this tier framework gives you a concrete way to audit vendor claims instead of repeating \"AI-powered\" marketing lines. 📦\n\nAsk your warehouse lead: what happens when a robot hits an unmapped obstacle? 🤖",
+      "carousel_slides": [
+        {
+          "hook": "Your warehouse robot isn't actually smart",
+          "description": "Most warehouse robots operate at autonomy level one or two, following fixed paths without making real decisions on the floor.",
+          "visual_hint": "Warehouse robot on marked path",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "warehouse robot"
+        },
+        {
+          "hook": "Gartner maps four tiers of autonomy",
+          "description": "Gartner defines four autonomy tiers, from remote-controlled machines to fully self-governing fleets, each shifting more judgment to software.",
+          "visual_hint": "Four-tier pyramid diagram glowing",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "automation control panel",
+          "image": "https://images.pexels.com/photos/5532986/pexels-photo-5532986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Very few warehouses reach level three",
+          "description": "Level three means robots handle exceptions, reroute around chaos, and choose what to pick next, but almost no warehouse runs this today.",
+          "visual_hint": "Robot navigating cluttered warehouse aisle",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "warehouse conveyor belts",
+          "image": "https://images.pexels.com/photos/5878442/pexels-photo-5878442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Higher autonomy cuts costs but raises risks",
+          "description": "Higher autonomy reduces labor costs, yet when a robot misreads a damaged box, nobody nearby may know how to override it.",
+          "visual_hint": "Worker hand near robot emergency stop",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "factory worker hand",
+          "image": "https://images.pexels.com/photos/27084600/pexels-photo-27084600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your robots' true autonomy today",
+          "description": "Ask your warehouse lead what happens when a robot hits an unmapped obstacle, then save this post and check your floor.",
+          "visual_hint": "Checklist with robot audit questions",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "warehouse inspection clipboard",
+          "image": "https://images.pexels.com/photos/7018647/pexels-photo-7018647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-09-18T13:59:27.008Z",
+      "sourceId": "57fff132ac55f9859a5c5e80b6eaadf9"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "base-labs-launches-an-open-weight-ai-safety-partne",
       "prompt_version": "1.0.0",
       "status": "published",

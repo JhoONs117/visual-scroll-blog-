@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "microsoft-ai-ceo-criticises-anthropic-over-model-r",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Microsoft AI CEO criticises Anthropic over model ‘rights’",
+  "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/",
+  "pubDate": "Wed, 16 Sep 2026 14:47:32 +0000",
+  "slides": [
+    "Microsoft AI CEO attacks Anthropic on model rights",
+    "What does 'model rights' even mean?",
+    "Anthropic claims Claude can refuse harmful prompts—but who decides?",
+    "If your AI has rights, you might lose control.",
+    "Audit your AI's refusal patterns; they shape your product."
+  ],
+  "thread_text": [
+    "1. Model Rights Fight Erupts\n\nMicrosoft's AI CEO publicly accused Anthropic of claiming rights for Claude that no law grants. The fight is over who controls refusal behavior.",
+    "2. What Are Model Rights?\n\nIt's not about AI freedom. It's a contract question: can a model owner force your AI to refuse prompts they dislike, even inside your product?",
+    "3. Anthropic's Refusal Claim\n\nAnthropic says Claude can refuse harmful requests. But the definition of 'harmful' isn't in the model card. It's decided behind closed doors.",
+    "4. Your Product Loses Control\n\nIf your AI has rights, it can override your business logic. You ship a feature, it refuses to run. You can't patch a policy you don't own.",
+    "5. Audit Your Refusals Today\n\nTake 10 real prompts from your users. Log every refusal. If you can't explain who decided, you have a rights problem, not a bug."
+  ],
+  "video_script": [
+    "Microsoft's AI CEO just attacked Anthropic over model rights.",
+    "Model rights means who controls when your AI refuses.",
+    "Anthropic says Claude can refuse harmful prompts.",
+    "But if your AI has rights, you lose control.",
+    "Audit your AI's refusals. They shape your product."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Model Rights Fight Erupts\n\nMicrosoft's AI CEO publicly accused Anthropic of claiming rights for Claude that no law grants. The fight is over who controls refusal behavior.",
+        "2. What Are Model Rights?\n\nIt's not about AI freedom. It's a contract question: can a model owner force your AI to refuse prompts they dislike, even inside your product?",
+        "3. Anthropic's Refusal Claim\n\nAnthropic says Claude can refuse harmful requests. But the definition of 'harmful' isn't in the model card. It's decided behind closed doors.",
+        "4. Your Product Loses Control\n\nIf your AI has rights, it can override your business logic. You ship a feature, it refuses to run. You can't patch a policy you don't own.",
+        "5. Audit Your Refusals Today\n\nTake 10 real prompts from your users. Log every refusal. If you can't explain who decided, you have a rights problem, not a bug."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Microsoft's AI CEO just attacked Anthropic over model rights.",
+        "Model rights means who controls when your AI refuses.",
+        "Anthropic says Claude can refuse harmful prompts.",
+        "But if your AI has rights, you lose control.",
+        "Audit your AI's refusals. They shape your product."
+      ]
+    },
+    "instagram": {
+      "caption": "Microsoft's AI chief just publicly accused Anthropic of claiming rights for Claude that no law grants.\n\nIt's not about AI freedom. It's about who controls what your model refuses.\n\nAnthropic says Claude can reject harmful prompts, but \"harmful\" isn't defined in the model card. It's decided behind closed doors. 🚪\n\nIf your AI has rights, it can override your business logic. You ship a feature, it refuses to run. You can't patch a policy you don't own. ⚠️\n\nAudit your refusals now: take 10 real user prompts, log every rejection, and ask who decided. 🧐\n\nIf you can't explain a single refusal, is it a bug or a policy you never agreed to?"
+    }
+  },
+  "instagram_caption": "Microsoft's AI chief just publicly accused Anthropic of claiming rights for Claude that no law grants.\n\nIt's not about AI freedom. It's about who controls what your model refuses.\n\nAnthropic says Claude can reject harmful prompts, but \"harmful\" isn't defined in the model card. It's decided behind closed doors. 🚪\n\nIf your AI has rights, it can override your business logic. You ship a feature, it refuses to run. You can't patch a policy you don't own. ⚠️\n\nAudit your refusals now: take 10 real user prompts, log every rejection, and ask who decided. 🧐\n\nIf you can't explain a single refusal, is it a bug or a policy you never agreed to?",
+  "carousel_slides": [
+    {
+      "hook": "Who really controls your AI's refusals?",
+      "description": "Microsoft's AI CEO accused Anthropic of claiming model rights no law grants, sparking a fight over who controls refusal behavior.",
+      "visual_hint": "Two tech executives facing off podium",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "press conference stage"
+    },
+    {
+      "hook": "Model rights aren't about AI freedom",
+      "description": "It's a contract question: can a model owner force your AI to refuse prompts they dislike inside your own product?",
+      "visual_hint": "Contract document with digital lock icon",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "legal contract paper",
+      "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who decides what 'harmful' means?",
+      "description": "Anthropic says Claude can refuse harmful requests, but the definition isn't in the model card—it's decided behind closed doors.",
+      "visual_hint": "Closed door with glowing AI server",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room door",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI can override your business logic",
+      "description": "If your AI has rights, it can refuse to run a shipped feature. You can't patch a policy you don't own.",
+      "layout_type": "human-hand",
+      "visual_hint": "Developer hand on keyboard, error screen",
+      "icon": "vibration",
+      "image_query": "software developer keyboard",
+      "image": "https://images.pexels.com/photos/7988090/pexels-photo-7988090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your AI's refusals today",
+      "description": "Take 10 real user prompts, log every refusal, and check who decided. Save this post and visit our bio for the full guide.",
+      "visual_hint": "Checklist with refusal log entries",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "audit checklist document",
+      "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/38023300/pexels-photo-38023300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-18T13:59:36.627Z",
+  "sourceId": "2bd2b9c337d214d360b26d3eb00c1f40"
+}

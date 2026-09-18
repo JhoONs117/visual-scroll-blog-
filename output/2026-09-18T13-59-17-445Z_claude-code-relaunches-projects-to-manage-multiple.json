@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "claude-code-relaunches-projects-to-manage-multiple",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+  "pubDate": "2026-09-17T18:58:05.000Z",
+  "slides": [
+    "Claude Code's Projects: your agents, one place?",
+    "It now runs multiple AI agents in the cloud",
+    "But agents can silently conflict with each other",
+    "You still must define each agent's boundaries",
+    "Set up one shared workspace this week"
+  ],
+  "thread_text": [
+    "1. Agents now run in the cloud\n\nClaude Code's new Projects feature lets multiple AI agents work together on one codebase. No more local setup.",
+    "2. Silent conflicts between agents\n\nTwo agents can edit the same file at the same time. The result? Broken code and hours of debugging.",
+    "3. You set the boundaries\n\nEach agent needs clear limits: which files they own, what tasks they can do. Without rules, chaos.",
+    "4. One shared workspace\n\nAll agents see the same project state. Changes are synced, but only if you define who does what.",
+    "5. Try it this week\n\nTake one small project and add two agents with different roles. See if they conflict. That's your test."
+  ],
+  "video_script": [
+    "Claude Code now lets multiple AI agents work in the cloud.",
+    "But agents can conflict silently, editing the same file.",
+    "You must define each agent's boundaries clearly.",
+    "Set up one shared workspace for all your agents.",
+    "Try it on a small project this week to test conflicts."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Agents now run in the cloud\n\nClaude Code's new Projects feature lets multiple AI agents work together on one codebase. No more local setup.",
+        "2. Silent conflicts between agents\n\nTwo agents can edit the same file at the same time. The result? Broken code and hours of debugging.",
+        "3. You set the boundaries\n\nEach agent needs clear limits: which files they own, what tasks they can do. Without rules, chaos.",
+        "4. One shared workspace\n\nAll agents see the same project state. Changes are synced, but only if you define who does what.",
+        "5. Try it this week\n\nTake one small project and add two agents with different roles. See if they conflict. That's your test."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Claude Code now lets multiple AI agents work in the cloud.",
+        "But agents can conflict silently, editing the same file.",
+        "You must define each agent's boundaries clearly.",
+        "Set up one shared workspace for all your agents.",
+        "Try it on a small project this week to test conflicts."
+      ]
+    },
+    "instagram": {
+      "caption": "Multiple AI agents can now share one codebase in the cloud, no local setup needed. 🤖\n\nClaude Code relaunched Projects so several agents work together on the same project.\n\nProblem is, two agents can edit the same file at once and silently break your code. 😬\n\nChanges sync across the shared workspace, but only if you define who owns what.\n\nSo for anyone shipping code or content with AI help, the setup work now matters as much as the prompts. 🛠️\n\nIf you added two agents with different roles this week, would you even notice them colliding?"
+    }
+  },
+  "instagram_caption": "Multiple AI agents can now share one codebase in the cloud, no local setup needed. 🤖\n\nClaude Code relaunched Projects so several agents work together on the same project.\n\nProblem is, two agents can edit the same file at once and silently break your code. 😬\n\nChanges sync across the shared workspace, but only if you define who owns what.\n\nSo for anyone shipping code or content with AI help, the setup work now matters as much as the prompts. 🛠️\n\nIf you added two agents with different roles this week, would you even notice them colliding?",
+  "carousel_slides": [
+    {
+      "hook": "Are your AI agents silently fighting?",
+      "description": "Multiple agents in one cloud project can edit the same file simultaneously, breaking code and wasting hours.",
+      "visual_hint": "Two robotic arms colliding over keyboard",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Claude Code now runs agents in the cloud",
+      "description": "The new Projects feature lets multiple AI agents work together on one codebase without local setup.",
+      "visual_hint": "Cloud servers with connected nodes",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Silent conflicts break your code",
+      "description": "Two agents editing the same file at once leads to broken code and hours of debugging.",
+      "visual_hint": "Red error message on code editor",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer screen code",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You must define each agent's boundaries",
+      "description": "Each agent needs clear limits: which files they own, what tasks they can do. Without rules, chaos.",
+      "visual_hint": "Hand drawing boundaries on whiteboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "whiteboard planning",
+      "image": "https://images.pexels.com/photos/7430339/pexels-photo-7430339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test two agents this week",
+      "description": "Take one small project and add two agents with different roles. See if they conflict. Save this for later.",
+      "visual_hint": "Calendar with test reminder note",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office calendar",
+      "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_18541.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+  "savedAt": "2026-09-18T13:59:52.366Z",
+  "sourceId": "f0feb3e3451d3c610f317f6360697b91"
+}
