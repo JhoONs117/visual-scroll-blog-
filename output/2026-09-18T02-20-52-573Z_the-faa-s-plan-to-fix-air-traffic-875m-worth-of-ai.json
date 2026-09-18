@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-faa-s-plan-to-fix-air-traffic-875m-worth-of-ai",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+  "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+  "pubDate": "Thu, 17 Sep 2026 22:14:59 +0000",
+  "slides": [
+    "Can $875M save America's crumbling air traffic control?",
+    "The FAA is betting on AI to modernize aging systems",
+    "But the real bottleneck isn't technology—it's human trust",
+    "Controllers will see AI suggestions, not commands—for now",
+    "Watch for the first city where AI actually clears flights"
+  ],
+  "thread_text": [
+    "1. The $875M Gamble\n\nThe FAA just bet nearly a billion dollars on AI to fix air traffic control. But the real crisis isn't the tech—it's whether humans will trust it.",
+    "2. Trust Is the Bottleneck\n\nControllers won't hand over the skies easily. The FAA's plan only works if they believe the machine won't miss a blip.",
+    "3. Suggestions, Not Commands\n\nFor now, AI will whisper in the controller's ear. The human still makes the final call—and that's the whole point.",
+    "4. The First AI Clearance\n\nSomewhere, a city will let AI clear a real flight. That moment will decide if this is a revolution or a footnote.",
+    "5. Would You Fly It?\n\nNext time you board, ask: was that cleared by a human or an algorithm? If you don't know, the trust gap is still wide open."
+  ],
+  "video_script": [
+    "The FAA is betting 875 million dollars on AI.",
+    "But the real problem isn't technology, it's human trust.",
+    "Controllers will see AI suggestions, not commands.",
+    "The first city to let AI clear flights changes everything.",
+    "Would you board a plane cleared by AI?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $875M Gamble\n\nThe FAA just bet nearly a billion dollars on AI to fix air traffic control. But the real crisis isn't the tech—it's whether humans will trust it.",
+        "2. Trust Is the Bottleneck\n\nControllers won't hand over the skies easily. The FAA's plan only works if they believe the machine won't miss a blip.",
+        "3. Suggestions, Not Commands\n\nFor now, AI will whisper in the controller's ear. The human still makes the final call—and that's the whole point.",
+        "4. The First AI Clearance\n\nSomewhere, a city will let AI clear a real flight. That moment will decide if this is a revolution or a footnote.",
+        "5. Would You Fly It?\n\nNext time you board, ask: was that cleared by a human or an algorithm? If you don't know, the trust gap is still wide open."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "The FAA is betting 875 million dollars on AI.",
+        "But the real problem isn't technology, it's human trust.",
+        "Controllers will see AI suggestions, not commands.",
+        "The first city to let AI clear flights changes everything.",
+        "Would you board a plane cleared by AI?"
+      ]
+    },
+    "instagram": {
+      "caption": "$875 million is going to AI that still isn't allowed to clear a single flight on its own. ✈️\n\nThe FAA wants AI to fix air traffic control, but for now it only suggests; the human controller makes the final call.\n\nThat's the real bottleneck: trust, not technology.\n\nSomeone will soon let an algorithm clear a real flight, and that moment settles whether this works. 🛫\n\nFor anyone flying: did a person or a model clear your last takeoff? If you can't tell, the gap is still wide open. 🤔"
+    }
+  },
+  "instagram_caption": "$875 million is going to AI that still isn't allowed to clear a single flight on its own. ✈️\n\nThe FAA wants AI to fix air traffic control, but for now it only suggests; the human controller makes the final call.\n\nThat's the real bottleneck: trust, not technology.\n\nSomeone will soon let an algorithm clear a real flight, and that moment settles whether this works. 🛫\n\nFor anyone flying: did a person or a model clear your last takeoff? If you can't tell, the gap is still wide open. 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Trust, not tech, blocks AI air traffic",
+      "description": "The FAA's $875M AI plan hinges on controllers trusting machines, not technology itself. Human skepticism may delay modernization.",
+      "visual_hint": "Air traffic control tower at dusk",
+      "layout_type": "hero",
+      "icon": "heart",
+      "image_query": "air traffic control tower"
+    },
+    {
+      "hook": "FAA bets $875M on AI to fix",
+      "description": "The FAA invests nearly a billion to modernize aging air traffic systems, but human trust remains the real bottleneck.",
+      "visual_hint": "FAA logo with digital overlay",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "FAA building",
+      "image": "https://images.pexels.com/photos/4627891/pexels-photo-4627891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Real bottleneck? Human trust, not tech",
+      "description": "Controllers won't easily hand over skies; AI must prove it won't miss a blip. Trust is the critical factor.",
+      "visual_hint": "Controller watching radar screen",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "radar screen",
+      "image": "https://images.pexels.com/photos/3862624/pexels-photo-3862624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI whispers, human makes final call",
+      "description": "For now, AI only suggests; controllers decide. This balance keeps humans in control but may slow adoption.",
+      "visual_hint": "Hand on control panel",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "control panel hand",
+      "image": "https://images.pexels.com/photos/3862607/pexels-photo-3862607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: AI's first cleared flight",
+      "description": "Watch for the first city where AI clears a real flight; that moment will decide if this is revolution or footnote.",
+      "visual_hint": "Airplane taking off at sunset",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "airplane takeoff",
+      "image": "https://images.pexels.com/photos/35778731/pexels-photo-35778731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/04/NYC_Archer_United_3.png?resize=1200,802",
+  "savedAt": "2026-09-18T02:21:23.713Z",
+  "sourceId": "787bbd73daf7613be9538adadb63c0c5"
+}

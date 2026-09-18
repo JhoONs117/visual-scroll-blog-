@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "un-turns-to-google-to-make-its-global-data-ready-f",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "pubDate": "Thu, 17 Sep 2026 20:00:00 +0000",
+      "slides": [
+        "Can the UN trust Google with global data?",
+        "The UN's data spans 193 countries and decades",
+        "But AI agents need structured, real-time feeds",
+        "Your organization's messy data faces the same test",
+        "Pick one dataset and prep it for agents today"
+      ],
+      "thread_text": [
+        "1. UN Hands Data to Google?\n\nThe UN has entrusted Google with data spanning 193 countries and decades of records. The question isn't whether Google can store it, but whether it should.",
+        "2. Two Worlds Collide\n\nLegacy data is messy, siloed, and slow. AI agents need structure, speed, and real-time feeds. The UN wants both.",
+        "3. The Agent Bottleneck\n\nAn AI agent can't answer a question about child mortality if the data sits in a decade-old PDF. Agents fail on messy data, not bad models.",
+        "4. Your Data, Same Test\n\nYour organization faces the exact same gap between what you store and what agents need. The mess is universal.",
+        "5. One Dataset, Today\n\nPick one dataset. Clean it, structure it, feed it to an agent this week. If you haven't done it, start there."
+      ],
+      "video_script": [
+        "The UN just handed Google data from 193 countries.",
+        "But AI agents don't need messy archives, they need structure.",
+        "An agent fails on old PDFs, not bad models.",
+        "Your organization faces the exact same data gap.",
+        "Pick one dataset and prepare it for agents today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. UN Hands Data to Google?\n\nThe UN has entrusted Google with data spanning 193 countries and decades of records. The question isn't whether Google can store it, but whether it should.",
+            "2. Two Worlds Collide\n\nLegacy data is messy, siloed, and slow. AI agents need structure, speed, and real-time feeds. The UN wants both.",
+            "3. The Agent Bottleneck\n\nAn AI agent can't answer a question about child mortality if the data sits in a decade-old PDF. Agents fail on messy data, not bad models.",
+            "4. Your Data, Same Test\n\nYour organization faces the exact same gap between what you store and what agents need. The mess is universal.",
+            "5. One Dataset, Today\n\nPick one dataset. Clean it, structure it, feed it to an agent this week. If you haven't done it, start there."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "The UN just handed Google data from 193 countries.",
+            "But AI agents don't need messy archives, they need structure.",
+            "An agent fails on old PDFs, not bad models.",
+            "Your organization faces the exact same data gap.",
+            "Pick one dataset and prepare it for agents today."
+          ]
+        },
+        "instagram": {
+          "caption": "The UN just handed Google two decades of records covering 193 countries. 🗂️\n\nNot because storage was the problem, but because AI agents can't read old PDFs.\n\nAn agent that answers questions about child mortality needs structured, real-time data. Messy data breaks agents faster than bad models do.\n\nIf you build or publish anything, your archive is a dead end for agents until someone restructures it.\n\nPick one dataset today: clean it, structure it, feed it to an agent this week. ⚙️\n\nHave you actually tried prepping your own data for an agent yet? 🤖"
+        }
+      },
+      "instagram_caption": "The UN just handed Google two decades of records covering 193 countries. 🗂️\n\nNot because storage was the problem, but because AI agents can't read old PDFs.\n\nAn agent that answers questions about child mortality needs structured, real-time data. Messy data breaks agents faster than bad models do.\n\nIf you build or publish anything, your archive is a dead end for agents until someone restructures it.\n\nPick one dataset today: clean it, structure it, feed it to an agent this week. ⚙️\n\nHave you actually tried prepping your own data for an agent yet? 🤖",
+      "carousel_slides": [
+        {
+          "hook": "Can AI agents read decade-old PDFs?",
+          "description": "AI agents fail on messy data, not bad models. A 10-year-old PDF about child mortality is unreadable to an agent.",
+          "visual_hint": "Stack of aging paper documents",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stacked paper documents"
+        },
+        {
+          "hook": "193 countries, one data problem",
+          "description": "The UN's data spans 193 countries and decades of records. Google must turn that legacy chaos into something usable.",
+          "visual_hint": "World map with data overlays",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "world map globe",
+          "image": "https://images.pexels.com/photos/36109366/pexels-photo-36109366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Legacy data is slow, agents aren't",
+          "description": "AI agents need structured, real-time feeds. Legacy systems are messy, siloed, and slow — the two worlds don't connect yet.",
+          "visual_hint": "Server room with blinking lights",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room servers",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your data faces the same test",
+          "description": "The gap between what you store and what agents need is universal. Your organization isn't exempt from this challenge.",
+          "visual_hint": "Person working at messy desk",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office worker desk",
+          "image": "https://images.pexels.com/photos/7438090/pexels-photo-7438090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pick one dataset, prep it today",
+          "description": "Select one dataset this week. Clean it, structure it, feed it to an agent. Start small, start now.",
+          "visual_hint": "Hands organizing digital files",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "hands keyboard laptop",
+          "image": "https://images.pexels.com/photos/5725443/pexels-photo-5725443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024",
+      "savedAt": "2026-09-18T02:21:32.227Z",
+      "sourceId": "22b6bd9b8747446bad56001380f40074"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "the-faa-s-plan-to-fix-air-traffic-875m-worth-of-ai",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "pubDate": "Thu, 17 Sep 2026 22:14:59 +0000",
+      "slides": [
+        "Can $875M save America's crumbling air traffic control?",
+        "The FAA is betting on AI to modernize aging systems",
+        "But the real bottleneck isn't technology—it's human trust",
+        "Controllers will see AI suggestions, not commands—for now",
+        "Watch for the first city where AI actually clears flights"
+      ],
+      "thread_text": [
+        "1. The $875M Gamble\n\nThe FAA just bet nearly a billion dollars on AI to fix air traffic control. But the real crisis isn't the tech—it's whether humans will trust it.",
+        "2. Trust Is the Bottleneck\n\nControllers won't hand over the skies easily. The FAA's plan only works if they believe the machine won't miss a blip.",
+        "3. Suggestions, Not Commands\n\nFor now, AI will whisper in the controller's ear. The human still makes the final call—and that's the whole point.",
+        "4. The First AI Clearance\n\nSomewhere, a city will let AI clear a real flight. That moment will decide if this is a revolution or a footnote.",
+        "5. Would You Fly It?\n\nNext time you board, ask: was that cleared by a human or an algorithm? If you don't know, the trust gap is still wide open."
+      ],
+      "video_script": [
+        "The FAA is betting 875 million dollars on AI.",
+        "But the real problem isn't technology, it's human trust.",
+        "Controllers will see AI suggestions, not commands.",
+        "The first city to let AI clear flights changes everything.",
+        "Would you board a plane cleared by AI?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The $875M Gamble\n\nThe FAA just bet nearly a billion dollars on AI to fix air traffic control. But the real crisis isn't the tech—it's whether humans will trust it.",
+            "2. Trust Is the Bottleneck\n\nControllers won't hand over the skies easily. The FAA's plan only works if they believe the machine won't miss a blip.",
+            "3. Suggestions, Not Commands\n\nFor now, AI will whisper in the controller's ear. The human still makes the final call—and that's the whole point.",
+            "4. The First AI Clearance\n\nSomewhere, a city will let AI clear a real flight. That moment will decide if this is a revolution or a footnote.",
+            "5. Would You Fly It?\n\nNext time you board, ask: was that cleared by a human or an algorithm? If you don't know, the trust gap is still wide open."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "The FAA is betting 875 million dollars on AI.",
+            "But the real problem isn't technology, it's human trust.",
+            "Controllers will see AI suggestions, not commands.",
+            "The first city to let AI clear flights changes everything.",
+            "Would you board a plane cleared by AI?"
+          ]
+        },
+        "instagram": {
+          "caption": "$875 million is going to AI that still isn't allowed to clear a single flight on its own. ✈️\n\nThe FAA wants AI to fix air traffic control, but for now it only suggests; the human controller makes the final call.\n\nThat's the real bottleneck: trust, not technology.\n\nSomeone will soon let an algorithm clear a real flight, and that moment settles whether this works. 🛫\n\nFor anyone flying: did a person or a model clear your last takeoff? If you can't tell, the gap is still wide open. 🤔"
+        }
+      },
+      "instagram_caption": "$875 million is going to AI that still isn't allowed to clear a single flight on its own. ✈️\n\nThe FAA wants AI to fix air traffic control, but for now it only suggests; the human controller makes the final call.\n\nThat's the real bottleneck: trust, not technology.\n\nSomeone will soon let an algorithm clear a real flight, and that moment settles whether this works. 🛫\n\nFor anyone flying: did a person or a model clear your last takeoff? If you can't tell, the gap is still wide open. 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Trust, not tech, blocks AI air traffic",
+          "description": "The FAA's $875M AI plan hinges on controllers trusting machines, not technology itself. Human skepticism may delay modernization.",
+          "visual_hint": "Air traffic control tower at dusk",
+          "layout_type": "hero",
+          "icon": "heart",
+          "image_query": "air traffic control tower"
+        },
+        {
+          "hook": "FAA bets $875M on AI to fix",
+          "description": "The FAA invests nearly a billion to modernize aging air traffic systems, but human trust remains the real bottleneck.",
+          "visual_hint": "FAA logo with digital overlay",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "FAA building",
+          "image": "https://images.pexels.com/photos/4627891/pexels-photo-4627891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Real bottleneck? Human trust, not tech",
+          "description": "Controllers won't easily hand over skies; AI must prove it won't miss a blip. Trust is the critical factor.",
+          "visual_hint": "Controller watching radar screen",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "radar screen",
+          "image": "https://images.pexels.com/photos/3862624/pexels-photo-3862624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI whispers, human makes final call",
+          "description": "For now, AI only suggests; controllers decide. This balance keeps humans in control but may slow adoption.",
+          "visual_hint": "Hand on control panel",
+          "layout_type": "human-hand",
+          "icon": "check",
+          "image_query": "control panel hand",
+          "image": "https://images.pexels.com/photos/3862607/pexels-photo-3862607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: AI's first cleared flight",
+          "description": "Watch for the first city where AI clears a real flight; that moment will decide if this is revolution or footnote.",
+          "visual_hint": "Airplane taking off at sunset",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "airplane takeoff",
+          "image": "https://images.pexels.com/photos/35778731/pexels-photo-35778731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/NYC_Archer_United_3.png?resize=1200,802",
+      "savedAt": "2026-09-18T02:21:23.713Z",
+      "sourceId": "787bbd73daf7613be9538adadb63c0c5"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "prismml-hopes-its-tiny-llm-will-change-how-we-all-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "pubDate": "Thu, 17 Sep 2026 22:34:09 +0000",
+      "slides": [
+        "Can PrismML's tiny LLM replace giants?",
+        "It runs on phones, not data centers",
+        "But small models often hallucinate more quietly",
+        "Your next app might not need cloud at all",
+        "Test one offline task: does it hold up?"
+      ],
+      "thread_text": [
+        "1. The quiet hallucination\n\nA tiny model that runs on your phone might sound impressive, but it can invent facts without the loud warning signs of cloud giants.",
+        "2. No data center needed\n\nPrismML's LLM runs locally on phones, cutting out server costs and latency. But that convenience hides a trade-off.",
+        "3. Offline, but less reliable\n\nSmall models hallucinate more quietly because they lack the massive context windows of their larger cousins. You might not notice the error until it's too late.",
+        "4. Your app, your rules\n\nOffline AI means no cloud dependency, but also no safety net. If the model fails, there's no fallback to a bigger server.",
+        "5. Test it on one task\n\nPick a simple offline task—like summarizing a note—and see if PrismML's model holds up. Does it save you time or create more editing?"
+      ],
+      "video_script": [
+        "Can a tiny language model really replace the giants?",
+        "It runs on your phone, not in a data center.",
+        "But small models often hallucinate more quietly.",
+        "Your next app might not need the cloud at all.",
+        "Test one offline task: does it hold up?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The quiet hallucination\n\nA tiny model that runs on your phone might sound impressive, but it can invent facts without the loud warning signs of cloud giants.",
+            "2. No data center needed\n\nPrismML's LLM runs locally on phones, cutting out server costs and latency. But that convenience hides a trade-off.",
+            "3. Offline, but less reliable\n\nSmall models hallucinate more quietly because they lack the massive context windows of their larger cousins. You might not notice the error until it's too late.",
+            "4. Your app, your rules\n\nOffline AI means no cloud dependency, but also no safety net. If the model fails, there's no fallback to a bigger server.",
+            "5. Test it on one task\n\nPick a simple offline task—like summarizing a note—and see if PrismML's model holds up. Does it save you time or create more editing?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Can a tiny language model really replace the giants?",
+            "It runs on your phone, not in a data center.",
+            "But small models often hallucinate more quietly.",
+            "Your next app might not need the cloud at all.",
+            "Test one offline task: does it hold up?"
+          ]
+        },
+        "instagram": {
+          "caption": "A language model that lives on your phone, not in a data center.\n\nPrismML built a tiny LLM that runs locally, skipping server costs and latency. 📱\n\nThe catch: small models hallucinate more quietly. They lack the big context windows, so errors slip past you until it's too late. ⚠️\n\nOffline AI means no cloud dependency, but also no fallback if it fails.\n\nFor content work, that changes your editing: you can't assume the draft is safe. 🧠\n\nPick one task—summarizing a note—and check if it saves time or adds cleanup. Would you trust it on a deadline? 🤔"
+        }
+      },
+      "instagram_caption": "A language model that lives on your phone, not in a data center.\n\nPrismML built a tiny LLM that runs locally, skipping server costs and latency. 📱\n\nThe catch: small models hallucinate more quietly. They lack the big context windows, so errors slip past you until it's too late. ⚠️\n\nOffline AI means no cloud dependency, but also no fallback if it fails.\n\nFor content work, that changes your editing: you can't assume the draft is safe. 🧠\n\nPick one task—summarizing a note—and check if it saves time or adds cleanup. Would you trust it on a deadline? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Small AI can lie quietly.",
+          "description": "PrismML's tiny LLM runs on phones, but small models hallucinate quietly, inventing facts without the loud warning signs of cloud giants.",
+          "visual_hint": "Smartphone glowing with AI text",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone screen"
+        },
+        {
+          "hook": "Phones replace data centers?",
+          "description": "PrismML's LLM runs locally on phones, cutting out server costs and latency. But that convenience hides a trade-off in reliability.",
+          "visual_hint": "Phone vs server room split",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Why do small models lie?",
+          "description": "Small models hallucinate more quietly because they lack the massive context windows of larger cousins. You might not notice the error until it's too late.",
+          "visual_hint": "Zoomed circuit board neural glow",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "circuit board",
+          "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your app, your rules?",
+          "description": "Offline AI means no cloud dependency, but also no safety net. If the model fails, there's no fallback to a bigger server.",
+          "visual_hint": "Hand holding phone offline mode",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one offline task now.",
+          "description": "Pick a simple offline task like summarizing a note and see if PrismML's model holds up. Does it save time or create more editing?",
+          "visual_hint": "Phone note app editing screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "notebook writing",
+          "image": "https://images.pexels.com/photos/5896616/pexels-photo-5896616.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?resize=1200,600",
+      "savedAt": "2026-09-18T02:21:14.676Z",
+      "sourceId": "1f172f85d3ea0cc580cd0fba21a0a1fb"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "khosla-backed-mazama-energy-just-raised-135m-to-dr",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+      "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+      "pubDate": "Fri, 18 Sep 2026 00:02:36 +0000",
+      "slides": [
+        "Khosla-backed Mazama Energy just raised $135M — but why?",
+        "Super-hot-rock geothermal drills deeper than conventional systems",
+        "It uses closed-loop pipes, not fracking, avoiding water loss",
+        "Your energy costs could drop if pilot wells succeed",
+        "Watch for first commercial plant by 2026"
+      ],
+      "thread_text": [
+        "1. $135M for Hot Rocks\n\nKhosla just backed Mazama Energy. They drill deeper than anyone else to reach super-hot rock, a source conventional geothermal can't touch.",
+        "2. Drilling Deeper Pays Off\n\nSuper-hot rock holds far more energy per well. That means fewer holes and lower costs — if the tech holds up at depth.",
+        "3. No Fracking, No Water Loss\n\nMazama uses closed-loop pipes. Water stays inside, gets heated, and comes back up. No fracking, no depleted aquifers.",
+        "4. Your Bill Could Shrink\n\nIf pilot wells succeed, wholesale electricity prices drop. That savings would eventually reach your monthly utility statement.",
+        "5. 2026 Is the Real Test\n\nFirst commercial plant targeted for 2026. Watch whether it actually gets built — that's when the cost claims meet reality."
+      ],
+      "video_script": [
+        "Khosla just put $135 million into Mazama Energy.",
+        "They drill deeper than any conventional geothermal system.",
+        "Closed-loop pipes mean no fracking and no water loss.",
+        "If pilot wells work, your energy costs could drop.",
+        "Watch for their first commercial plant by 2026."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $135M for Hot Rocks\n\nKhosla just backed Mazama Energy. They drill deeper than anyone else to reach super-hot rock, a source conventional geothermal can't touch.",
+            "2. Drilling Deeper Pays Off\n\nSuper-hot rock holds far more energy per well. That means fewer holes and lower costs — if the tech holds up at depth.",
+            "3. No Fracking, No Water Loss\n\nMazama uses closed-loop pipes. Water stays inside, gets heated, and comes back up. No fracking, no depleted aquifers.",
+            "4. Your Bill Could Shrink\n\nIf pilot wells succeed, wholesale electricity prices drop. That savings would eventually reach your monthly utility statement.",
+            "5. 2026 Is the Real Test\n\nFirst commercial plant targeted for 2026. Watch whether it actually gets built — that's when the cost claims meet reality."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Khosla just put $135 million into Mazama Energy.",
+            "They drill deeper than any conventional geothermal system.",
+            "Closed-loop pipes mean no fracking and no water loss.",
+            "If pilot wells work, your energy costs could drop.",
+            "Watch for their first commercial plant by 2026."
+          ]
+        },
+        "instagram": {
+          "caption": "$135 million just went into drilling deeper than any conventional geothermal system can reach.\n\nKhosla-backed Mazama Energy uses closed-loop pipes instead of fracking — water stays inside and comes back heated, so no aquifers get drained. 🔥\n\nDeeper rock means more energy per well and fewer holes drilled, which could cut wholesale electricity prices if pilot wells hold up.\n\nIf your utility bill is already climbing, a commercial plant targeted for 2026 is the real test worth tracking. ⚡\n\nWould cheaper wholesale power actually show up on your monthly statement — or get lost along the way? 💡"
+        }
+      },
+      "instagram_caption": "$135 million just went into drilling deeper than any conventional geothermal system can reach.\n\nKhosla-backed Mazama Energy uses closed-loop pipes instead of fracking — water stays inside and comes back heated, so no aquifers get drained. 🔥\n\nDeeper rock means more energy per well and fewer holes drilled, which could cut wholesale electricity prices if pilot wells hold up.\n\nIf your utility bill is already climbing, a commercial plant targeted for 2026 is the real test worth tracking. ⚡\n\nWould cheaper wholesale power actually show up on your monthly statement — or get lost along the way? 💡",
+      "carousel_slides": [
+        {
+          "hook": "Why drill deeper for energy?",
+          "description": "Conventional geothermal can't reach super-hot rock, which holds far more energy per well.",
+          "visual_hint": "Deep drill rig at night",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "geothermal power plant"
+        },
+        {
+          "hook": "Super-hot rock: 10x the energy",
+          "description": "Deeper drilling accesses hotter rock, meaning fewer wells and lower costs if tech works.",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "visual_hint": "Cross-section of underground rock layers",
+          "image_query": "drilling rig",
+          "image": "https://images.pexels.com/photos/15391048/pexels-photo-15391048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No fracking, no water loss",
+          "description": "Closed-loop pipes keep water inside, heated and returned, avoiding aquifer depletion.",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "visual_hint": "Close-up of sealed pipe system",
+          "image_query": "pipe insulation",
+          "image": "https://images.pexels.com/photos/36983669/pexels-photo-36983669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your energy bill could shrink",
+          "description": "Successful pilot wells could lower wholesale electricity prices, eventually reducing your monthly utility costs.",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "visual_hint": "Hand holding electricity bill",
+          "image_query": "electricity meter",
+          "image": "https://images.pexels.com/photos/32549020/pexels-photo-32549020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "2026: The real test",
+          "description": "Save this post and watch if the first commercial plant gets built by 2026.",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "visual_hint": "Calendar marked 2026 with power plant",
+          "image_query": "power plant construction",
+          "image": "https://images.pexels.com/photos/36069325/pexels-photo-36069325.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/Mazama-oregon.jpeg?resize=1200,675",
+      "savedAt": "2026-09-18T02:21:03.315Z",
+      "sourceId": "258ad608e493b03a5d5c71984a08bc49"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-caught-its-models-leaving-notes-to-successo",
       "prompt_version": "1.0.0",
       "status": "published",

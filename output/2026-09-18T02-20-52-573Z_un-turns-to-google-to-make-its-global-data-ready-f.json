@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "un-turns-to-google-to-make-its-global-data-ready-f",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "UN turns to Google to make its global data ready for AI agents",
+  "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+  "pubDate": "Thu, 17 Sep 2026 20:00:00 +0000",
+  "slides": [
+    "Can the UN trust Google with global data?",
+    "The UN's data spans 193 countries and decades",
+    "But AI agents need structured, real-time feeds",
+    "Your organization's messy data faces the same test",
+    "Pick one dataset and prep it for agents today"
+  ],
+  "thread_text": [
+    "1. UN Hands Data to Google?\n\nThe UN has entrusted Google with data spanning 193 countries and decades of records. The question isn't whether Google can store it, but whether it should.",
+    "2. Two Worlds Collide\n\nLegacy data is messy, siloed, and slow. AI agents need structure, speed, and real-time feeds. The UN wants both.",
+    "3. The Agent Bottleneck\n\nAn AI agent can't answer a question about child mortality if the data sits in a decade-old PDF. Agents fail on messy data, not bad models.",
+    "4. Your Data, Same Test\n\nYour organization faces the exact same gap between what you store and what agents need. The mess is universal.",
+    "5. One Dataset, Today\n\nPick one dataset. Clean it, structure it, feed it to an agent this week. If you haven't done it, start there."
+  ],
+  "video_script": [
+    "The UN just handed Google data from 193 countries.",
+    "But AI agents don't need messy archives, they need structure.",
+    "An agent fails on old PDFs, not bad models.",
+    "Your organization faces the exact same data gap.",
+    "Pick one dataset and prepare it for agents today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. UN Hands Data to Google?\n\nThe UN has entrusted Google with data spanning 193 countries and decades of records. The question isn't whether Google can store it, but whether it should.",
+        "2. Two Worlds Collide\n\nLegacy data is messy, siloed, and slow. AI agents need structure, speed, and real-time feeds. The UN wants both.",
+        "3. The Agent Bottleneck\n\nAn AI agent can't answer a question about child mortality if the data sits in a decade-old PDF. Agents fail on messy data, not bad models.",
+        "4. Your Data, Same Test\n\nYour organization faces the exact same gap between what you store and what agents need. The mess is universal.",
+        "5. One Dataset, Today\n\nPick one dataset. Clean it, structure it, feed it to an agent this week. If you haven't done it, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "The UN just handed Google data from 193 countries.",
+        "But AI agents don't need messy archives, they need structure.",
+        "An agent fails on old PDFs, not bad models.",
+        "Your organization faces the exact same data gap.",
+        "Pick one dataset and prepare it for agents today."
+      ]
+    },
+    "instagram": {
+      "caption": "The UN just handed Google two decades of records covering 193 countries. 🗂️\n\nNot because storage was the problem, but because AI agents can't read old PDFs.\n\nAn agent that answers questions about child mortality needs structured, real-time data. Messy data breaks agents faster than bad models do.\n\nIf you build or publish anything, your archive is a dead end for agents until someone restructures it.\n\nPick one dataset today: clean it, structure it, feed it to an agent this week. ⚙️\n\nHave you actually tried prepping your own data for an agent yet? 🤖"
+    }
+  },
+  "instagram_caption": "The UN just handed Google two decades of records covering 193 countries. 🗂️\n\nNot because storage was the problem, but because AI agents can't read old PDFs.\n\nAn agent that answers questions about child mortality needs structured, real-time data. Messy data breaks agents faster than bad models do.\n\nIf you build or publish anything, your archive is a dead end for agents until someone restructures it.\n\nPick one dataset today: clean it, structure it, feed it to an agent this week. ⚙️\n\nHave you actually tried prepping your own data for an agent yet? 🤖",
+  "carousel_slides": [
+    {
+      "hook": "Can AI agents read decade-old PDFs?",
+      "description": "AI agents fail on messy data, not bad models. A 10-year-old PDF about child mortality is unreadable to an agent.",
+      "visual_hint": "Stack of aging paper documents",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stacked paper documents"
+    },
+    {
+      "hook": "193 countries, one data problem",
+      "description": "The UN's data spans 193 countries and decades of records. Google must turn that legacy chaos into something usable.",
+      "visual_hint": "World map with data overlays",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "world map globe",
+      "image": "https://images.pexels.com/photos/36109366/pexels-photo-36109366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Legacy data is slow, agents aren't",
+      "description": "AI agents need structured, real-time feeds. Legacy systems are messy, siloed, and slow — the two worlds don't connect yet.",
+      "visual_hint": "Server room with blinking lights",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room servers",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your data faces the same test",
+      "description": "The gap between what you store and what agents need is universal. Your organization isn't exempt from this challenge.",
+      "visual_hint": "Person working at messy desk",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office worker desk",
+      "image": "https://images.pexels.com/photos/7438090/pexels-photo-7438090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pick one dataset, prep it today",
+      "description": "Select one dataset this week. Clean it, structure it, feed it to an agent. Start small, start now.",
+      "visual_hint": "Hands organizing digital files",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hands keyboard laptop",
+      "image": "https://images.pexels.com/photos/5725443/pexels-photo-5725443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024",
+  "savedAt": "2026-09-18T02:21:32.227Z",
+  "sourceId": "22b6bd9b8747446bad56001380f40074"
+}

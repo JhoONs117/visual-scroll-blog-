@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "prismml-hopes-its-tiny-llm-will-change-how-we-all-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "PrismML hopes its tiny LLM will change how we all use AI",
+  "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+  "pubDate": "Thu, 17 Sep 2026 22:34:09 +0000",
+  "slides": [
+    "Can PrismML's tiny LLM replace giants?",
+    "It runs on phones, not data centers",
+    "But small models often hallucinate more quietly",
+    "Your next app might not need cloud at all",
+    "Test one offline task: does it hold up?"
+  ],
+  "thread_text": [
+    "1. The quiet hallucination\n\nA tiny model that runs on your phone might sound impressive, but it can invent facts without the loud warning signs of cloud giants.",
+    "2. No data center needed\n\nPrismML's LLM runs locally on phones, cutting out server costs and latency. But that convenience hides a trade-off.",
+    "3. Offline, but less reliable\n\nSmall models hallucinate more quietly because they lack the massive context windows of their larger cousins. You might not notice the error until it's too late.",
+    "4. Your app, your rules\n\nOffline AI means no cloud dependency, but also no safety net. If the model fails, there's no fallback to a bigger server.",
+    "5. Test it on one task\n\nPick a simple offline task—like summarizing a note—and see if PrismML's model holds up. Does it save you time or create more editing?"
+  ],
+  "video_script": [
+    "Can a tiny language model really replace the giants?",
+    "It runs on your phone, not in a data center.",
+    "But small models often hallucinate more quietly.",
+    "Your next app might not need the cloud at all.",
+    "Test one offline task: does it hold up?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The quiet hallucination\n\nA tiny model that runs on your phone might sound impressive, but it can invent facts without the loud warning signs of cloud giants.",
+        "2. No data center needed\n\nPrismML's LLM runs locally on phones, cutting out server costs and latency. But that convenience hides a trade-off.",
+        "3. Offline, but less reliable\n\nSmall models hallucinate more quietly because they lack the massive context windows of their larger cousins. You might not notice the error until it's too late.",
+        "4. Your app, your rules\n\nOffline AI means no cloud dependency, but also no safety net. If the model fails, there's no fallback to a bigger server.",
+        "5. Test it on one task\n\nPick a simple offline task—like summarizing a note—and see if PrismML's model holds up. Does it save you time or create more editing?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can a tiny language model really replace the giants?",
+        "It runs on your phone, not in a data center.",
+        "But small models often hallucinate more quietly.",
+        "Your next app might not need the cloud at all.",
+        "Test one offline task: does it hold up?"
+      ]
+    },
+    "instagram": {
+      "caption": "A language model that lives on your phone, not in a data center.\n\nPrismML built a tiny LLM that runs locally, skipping server costs and latency. 📱\n\nThe catch: small models hallucinate more quietly. They lack the big context windows, so errors slip past you until it's too late. ⚠️\n\nOffline AI means no cloud dependency, but also no fallback if it fails.\n\nFor content work, that changes your editing: you can't assume the draft is safe. 🧠\n\nPick one task—summarizing a note—and check if it saves time or adds cleanup. Would you trust it on a deadline? 🤔"
+    }
+  },
+  "instagram_caption": "A language model that lives on your phone, not in a data center.\n\nPrismML built a tiny LLM that runs locally, skipping server costs and latency. 📱\n\nThe catch: small models hallucinate more quietly. They lack the big context windows, so errors slip past you until it's too late. ⚠️\n\nOffline AI means no cloud dependency, but also no fallback if it fails.\n\nFor content work, that changes your editing: you can't assume the draft is safe. 🧠\n\nPick one task—summarizing a note—and check if it saves time or adds cleanup. Would you trust it on a deadline? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Small AI can lie quietly.",
+      "description": "PrismML's tiny LLM runs on phones, but small models hallucinate quietly, inventing facts without the loud warning signs of cloud giants.",
+      "visual_hint": "Smartphone glowing with AI text",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone screen"
+    },
+    {
+      "hook": "Phones replace data centers?",
+      "description": "PrismML's LLM runs locally on phones, cutting out server costs and latency. But that convenience hides a trade-off in reliability.",
+      "visual_hint": "Phone vs server room split",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Why do small models lie?",
+      "description": "Small models hallucinate more quietly because they lack the massive context windows of larger cousins. You might not notice the error until it's too late.",
+      "visual_hint": "Zoomed circuit board neural glow",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your app, your rules?",
+      "description": "Offline AI means no cloud dependency, but also no safety net. If the model fails, there's no fallback to a bigger server.",
+      "visual_hint": "Hand holding phone offline mode",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one offline task now.",
+      "description": "Pick a simple offline task like summarizing a note and see if PrismML's model holds up. Does it save time or create more editing?",
+      "visual_hint": "Phone note app editing screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "notebook writing",
+      "image": "https://images.pexels.com/photos/5896616/pexels-photo-5896616.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?resize=1200,600",
+  "savedAt": "2026-09-18T02:21:14.676Z",
+  "sourceId": "1f172f85d3ea0cc580cd0fba21a0a1fb"
+}

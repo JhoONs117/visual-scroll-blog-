@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "khosla-backed-mazama-energy-just-raised-135m-to-dr",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+  "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+  "pubDate": "Fri, 18 Sep 2026 00:02:36 +0000",
+  "slides": [
+    "Khosla-backed Mazama Energy just raised $135M — but why?",
+    "Super-hot-rock geothermal drills deeper than conventional systems",
+    "It uses closed-loop pipes, not fracking, avoiding water loss",
+    "Your energy costs could drop if pilot wells succeed",
+    "Watch for first commercial plant by 2026"
+  ],
+  "thread_text": [
+    "1. $135M for Hot Rocks\n\nKhosla just backed Mazama Energy. They drill deeper than anyone else to reach super-hot rock, a source conventional geothermal can't touch.",
+    "2. Drilling Deeper Pays Off\n\nSuper-hot rock holds far more energy per well. That means fewer holes and lower costs — if the tech holds up at depth.",
+    "3. No Fracking, No Water Loss\n\nMazama uses closed-loop pipes. Water stays inside, gets heated, and comes back up. No fracking, no depleted aquifers.",
+    "4. Your Bill Could Shrink\n\nIf pilot wells succeed, wholesale electricity prices drop. That savings would eventually reach your monthly utility statement.",
+    "5. 2026 Is the Real Test\n\nFirst commercial plant targeted for 2026. Watch whether it actually gets built — that's when the cost claims meet reality."
+  ],
+  "video_script": [
+    "Khosla just put $135 million into Mazama Energy.",
+    "They drill deeper than any conventional geothermal system.",
+    "Closed-loop pipes mean no fracking and no water loss.",
+    "If pilot wells work, your energy costs could drop.",
+    "Watch for their first commercial plant by 2026."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $135M for Hot Rocks\n\nKhosla just backed Mazama Energy. They drill deeper than anyone else to reach super-hot rock, a source conventional geothermal can't touch.",
+        "2. Drilling Deeper Pays Off\n\nSuper-hot rock holds far more energy per well. That means fewer holes and lower costs — if the tech holds up at depth.",
+        "3. No Fracking, No Water Loss\n\nMazama uses closed-loop pipes. Water stays inside, gets heated, and comes back up. No fracking, no depleted aquifers.",
+        "4. Your Bill Could Shrink\n\nIf pilot wells succeed, wholesale electricity prices drop. That savings would eventually reach your monthly utility statement.",
+        "5. 2026 Is the Real Test\n\nFirst commercial plant targeted for 2026. Watch whether it actually gets built — that's when the cost claims meet reality."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Khosla just put $135 million into Mazama Energy.",
+        "They drill deeper than any conventional geothermal system.",
+        "Closed-loop pipes mean no fracking and no water loss.",
+        "If pilot wells work, your energy costs could drop.",
+        "Watch for their first commercial plant by 2026."
+      ]
+    },
+    "instagram": {
+      "caption": "$135 million just went into drilling deeper than any conventional geothermal system can reach.\n\nKhosla-backed Mazama Energy uses closed-loop pipes instead of fracking — water stays inside and comes back heated, so no aquifers get drained. 🔥\n\nDeeper rock means more energy per well and fewer holes drilled, which could cut wholesale electricity prices if pilot wells hold up.\n\nIf your utility bill is already climbing, a commercial plant targeted for 2026 is the real test worth tracking. ⚡\n\nWould cheaper wholesale power actually show up on your monthly statement — or get lost along the way? 💡"
+    }
+  },
+  "instagram_caption": "$135 million just went into drilling deeper than any conventional geothermal system can reach.\n\nKhosla-backed Mazama Energy uses closed-loop pipes instead of fracking — water stays inside and comes back heated, so no aquifers get drained. 🔥\n\nDeeper rock means more energy per well and fewer holes drilled, which could cut wholesale electricity prices if pilot wells hold up.\n\nIf your utility bill is already climbing, a commercial plant targeted for 2026 is the real test worth tracking. ⚡\n\nWould cheaper wholesale power actually show up on your monthly statement — or get lost along the way? 💡",
+  "carousel_slides": [
+    {
+      "hook": "Why drill deeper for energy?",
+      "description": "Conventional geothermal can't reach super-hot rock, which holds far more energy per well.",
+      "visual_hint": "Deep drill rig at night",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "geothermal power plant"
+    },
+    {
+      "hook": "Super-hot rock: 10x the energy",
+      "description": "Deeper drilling accesses hotter rock, meaning fewer wells and lower costs if tech works.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Cross-section of underground rock layers",
+      "image_query": "drilling rig",
+      "image": "https://images.pexels.com/photos/15391048/pexels-photo-15391048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No fracking, no water loss",
+      "description": "Closed-loop pipes keep water inside, heated and returned, avoiding aquifer depletion.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Close-up of sealed pipe system",
+      "image_query": "pipe insulation",
+      "image": "https://images.pexels.com/photos/36983669/pexels-photo-36983669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your energy bill could shrink",
+      "description": "Successful pilot wells could lower wholesale electricity prices, eventually reducing your monthly utility costs.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hand holding electricity bill",
+      "image_query": "electricity meter",
+      "image": "https://images.pexels.com/photos/32549020/pexels-photo-32549020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "2026: The real test",
+      "description": "Save this post and watch if the first commercial plant gets built by 2026.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Calendar marked 2026 with power plant",
+      "image_query": "power plant construction",
+      "image": "https://images.pexels.com/photos/36069325/pexels-photo-36069325.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/10/Mazama-oregon.jpeg?resize=1200,675",
+  "savedAt": "2026-09-18T02:21:03.315Z",
+  "sourceId": "258ad608e493b03a5d5c71984a08bc49"
+}
