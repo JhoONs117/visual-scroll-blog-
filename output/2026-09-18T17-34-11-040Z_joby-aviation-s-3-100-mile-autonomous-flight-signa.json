@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "joby-aviation-s-3-100-mile-autonomous-flight-signa",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
+  "link": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
+  "pubDate": "Fri, 18 Sep 2026 17:26:41 +0000",
+  "slides": [
+    "Joby's 3,100-mile autonomous flight: what's the catch?",
+    "The flight used hydrogen fuel, not batteries.",
+    "Hydrogen doubles range but needs new infrastructure.",
+    "Joby plans to retrofit its existing aircraft for hydrogen.",
+    "Watch for hydrogen partnerships from Joby next quarter."
+  ],
+  "thread_text": [
+    "1. 3,100 Miles, Zero Pilots\n\nJoby's hydrogen air taxi just flew from California to Hawaii autonomously. The catch: there was no pilot on board, but also no battery.",
+    "2. Hydrogen Beats Batteries\n\nLiquid hydrogen packs twice the energy per kilogram. That's why the flight distance doubled compared to Joby's battery-powered prototype.",
+    "3. No Infrastructure, No Problem?\n\nYou can't refuel hydrogen at your local airport. Joby will need to build cryogenic tanks and supply chains from scratch before passengers board.",
+    "4. Retrofitting the Fleet\n\nJoby says it can swap the battery pack for a hydrogen tank in its existing aircraft. That means no new airframe design, just a fuel system replacement.",
+    "5. Watch for Partnerships\n\nNext quarter, Joby is expected to announce hydrogen suppliers. Keep an eye on their investor calls—if they sign with an industrial gas giant, the timeline accelerates."
+  ],
+  "video_script": [
+    "Joby just flew a hydrogen air taxi 3,100 miles autonomously.",
+    "It used liquid hydrogen, not batteries, doubling the range.",
+    "But there's no hydrogen refueling network anywhere yet.",
+    "Joby plans to retrofit its existing aircraft for hydrogen fuel.",
+    "Next quarter, watch for hydrogen partnership announcements."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. 3,100 Miles, Zero Pilots\n\nJoby's hydrogen air taxi just flew from California to Hawaii autonomously. The catch: there was no pilot on board, but also no battery.",
+        "2. Hydrogen Beats Batteries\n\nLiquid hydrogen packs twice the energy per kilogram. That's why the flight distance doubled compared to Joby's battery-powered prototype.",
+        "3. No Infrastructure, No Problem?\n\nYou can't refuel hydrogen at your local airport. Joby will need to build cryogenic tanks and supply chains from scratch before passengers board.",
+        "4. Retrofitting the Fleet\n\nJoby says it can swap the battery pack for a hydrogen tank in its existing aircraft. That means no new airframe design, just a fuel system replacement.",
+        "5. Watch for Partnerships\n\nNext quarter, Joby is expected to announce hydrogen suppliers. Keep an eye on their investor calls—if they sign with an industrial gas giant, the timeline accelerates."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Joby just flew a hydrogen air taxi 3,100 miles autonomously.",
+        "It used liquid hydrogen, not batteries, doubling the range.",
+        "But there's no hydrogen refueling network anywhere yet.",
+        "Joby plans to retrofit its existing aircraft for hydrogen fuel.",
+        "Next quarter, watch for hydrogen partnership announcements."
+      ]
+    },
+    "instagram": {
+      "caption": "3,100 miles with no pilot and no battery. ✈️\n\nJoby's aircraft flew California to Hawaii on liquid hydrogen, which packs twice the energy per kilogram of a battery. That's why the range doubled.\n\nBut you can't refuel hydrogen at your local airport — cryogenic tanks and supply chains don't exist yet. 🔧\n\nJoby says it can swap the battery pack for a hydrogen tank in existing aircraft, no new airframe needed.\n\nIf you cover aviation or energy, watch next quarter's investor calls for hydrogen supplier deals. A signed industrial gas giant speeds up the whole timeline. ⏳\n\nWould you fly on a hydrogen air taxi before the refueling network is built? 🤔"
+    }
+  },
+  "instagram_caption": "3,100 miles with no pilot and no battery. ✈️\n\nJoby's aircraft flew California to Hawaii on liquid hydrogen, which packs twice the energy per kilogram of a battery. That's why the range doubled.\n\nBut you can't refuel hydrogen at your local airport — cryogenic tanks and supply chains don't exist yet. 🔧\n\nJoby says it can swap the battery pack for a hydrogen tank in existing aircraft, no new airframe needed.\n\nIf you cover aviation or energy, watch next quarter's investor calls for hydrogen supplier deals. A signed industrial gas giant speeds up the whole timeline. ⏳\n\nWould you fly on a hydrogen air taxi before the refueling network is built? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Hydrogen air taxi flies 3,100 miles pilotless?",
+      "description": "Joby's autonomous hydrogen air taxi flew California to Hawaii, but no hydrogen infrastructure exists at airports yet.",
+      "visual_hint": "Aircraft silhouetted over ocean",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "airplane ocean flight"
+    },
+    {
+      "hook": "Hydrogen doubles range, but needs new fuel",
+      "description": "Liquid hydrogen packs twice the energy per kilogram, so Joby's flight distance doubled versus its battery prototype.",
+      "visual_hint": "Cryogenic tank and fuel gauge",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "hydrogen fuel tank",
+      "image": "https://images.pexels.com/photos/28688185/pexels-photo-28688185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Can airports fuel hydrogen aircraft? Not yet.",
+      "description": "You can't refuel hydrogen at local airports; Joby must build cryogenic tanks and supply chains before passengers board.",
+      "visual_hint": "Airport tarmac with fuel trucks",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "airport fuel infrastructure",
+      "image": "https://images.pexels.com/photos/30488713/pexels-photo-30488713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Joby can retrofit existing aircraft for hydrogen",
+      "description": "Joby says it can swap the battery pack for a hydrogen tank in its existing aircraft, avoiding new airframe design.",
+      "visual_hint": "Engineer hands swapping fuel system",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "aircraft maintenance retrofit",
+      "image": "https://images.pexels.com/photos/32760421/pexels-photo-32760421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Watch Joby's hydrogen partnerships next quarter",
+      "description": "Save this and watch Joby's investor calls next quarter for hydrogen supplier announcements that could accelerate timelines.",
+      "visual_hint": "Investor call screen and handshake",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "business handshake meeting",
+      "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Joby-autonomy-Tour.jpg?resize=1200,633",
+  "savedAt": "2026-09-18T17:34:27.752Z",
+  "sourceId": "705069fd34073bdcd35c092798c157ea"
+}

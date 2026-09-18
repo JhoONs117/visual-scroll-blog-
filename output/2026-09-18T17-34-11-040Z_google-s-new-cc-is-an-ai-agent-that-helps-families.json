@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-s-new-cc-is-an-ai-agent-that-helps-families",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+  "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+  "pubDate": "Fri, 18 Sep 2026 17:33:50 +0000",
+  "slides": [
+    "Can an AI agent really run your household?",
+    "Google's 'CC' schedules chores, meals, and reminders.",
+    "It learns your family's routines—then suggests changes you didn't expect.",
+    "You'll receive daily nudges to keep everyone on track.",
+    "Try letting it plan one week, then judge."
+  ],
+  "thread_text": [
+    "1. Your House, Run by AI\n\nGoogle's 'CC' already schedules chores, meals, and reminders for your family. It learns your routines—then suggests changes you didn't expect.",
+    "2. What Can It Actually Do?\n\nDaily nudges keep everyone on track, but the real surprise is how it adapts when your schedule shifts. You might not even notice it's working.",
+    "3. The Unexpected Suggestions\n\nAfter a week, it'll propose tweaks to your routines—like shifting dinner time or swapping chores. Some ideas will feel intrusive, others genius.",
+    "4. Why Trust It?\n\nThe system watches patterns you didn't know you had. That means it can spot inefficiencies, but also might push changes you never asked for.",
+    "5. Try One Week, Then Judge\n\nLet it plan your household for seven days. If you haven't tested it, start with a single routine. Does it save time—or just add another layer to manage?"
+  ],
+  "video_script": [
+    "Can an AI agent really run your household?",
+    "Google's 'CC' schedules chores, meals, and reminders.",
+    "It learns your family's routines, then suggests changes.",
+    "You'll get daily nudges to keep everyone on track.",
+    "Try letting it plan one week, then judge."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your House, Run by AI\n\nGoogle's 'CC' already schedules chores, meals, and reminders for your family. It learns your routines—then suggests changes you didn't expect.",
+        "2. What Can It Actually Do?\n\nDaily nudges keep everyone on track, but the real surprise is how it adapts when your schedule shifts. You might not even notice it's working.",
+        "3. The Unexpected Suggestions\n\nAfter a week, it'll propose tweaks to your routines—like shifting dinner time or swapping chores. Some ideas will feel intrusive, others genius.",
+        "4. Why Trust It?\n\nThe system watches patterns you didn't know you had. That means it can spot inefficiencies, but also might push changes you never asked for.",
+        "5. Try One Week, Then Judge\n\nLet it plan your household for seven days. If you haven't tested it, start with a single routine. Does it save time—or just add another layer to manage?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can an AI agent really run your household?",
+        "Google's 'CC' schedules chores, meals, and reminders.",
+        "It learns your family's routines, then suggests changes.",
+        "You'll get daily nudges to keep everyone on track.",
+        "Try letting it plan one week, then judge."
+      ]
+    },
+    "instagram": {
+      "caption": "Google's new AI agent will schedule your family's chores and meals, then suggest changes you didn't ask for. 🍽️\n\nIt's called CC, and it learns your household routines over time.\n\nEvery day it sends nudges to keep everyone on track.\n\nAfter a week, it starts proposing tweaks—like shifting dinner time or swapping who does what. Some will feel intrusive, others useful.\n\nIf you manage family logistics, this could quietly rewrite your weekly planning.\n\nWould you hand it one routine for seven days and see what it changes? 🤖"
+    }
+  },
+  "instagram_caption": "Google's new AI agent will schedule your family's chores and meals, then suggest changes you didn't ask for. 🍽️\n\nIt's called CC, and it learns your household routines over time.\n\nEvery day it sends nudges to keep everyone on track.\n\nAfter a week, it starts proposing tweaks—like shifting dinner time or swapping who does what. Some will feel intrusive, others useful.\n\nIf you manage family logistics, this could quietly rewrite your weekly planning.\n\nWould you hand it one routine for seven days and see what it changes? 🤖",
+  "carousel_slides": [
+    {
+      "hook": "Can AI really run your household?",
+      "description": "Google's 'CC' schedules chores, meals, and reminders, learns your routines, then suggests surprising changes you didn't expect.",
+      "visual_hint": "AI assistant scheduling family tasks",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smart home device"
+    },
+    {
+      "hook": "Google's 'CC' schedules chores and meals",
+      "description": "It manages daily tasks like chores, meals, and reminders, keeping your family organized without you lifting a finger.",
+      "visual_hint": "calendar with chore icons",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "family calendar",
+      "image": "https://images.pexels.com/photos/5982312/pexels-photo-5982312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It learns routines, suggests unexpected changes",
+      "description": "After learning your family's routines, 'CC' proposes tweaks like shifting dinner time or swapping chores—some genius, some intrusive.",
+      "visual_hint": "AI suggesting schedule adjustments",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "clock and gears",
+      "image": "https://images.pexels.com/photos/20188479/pexels-photo-20188479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Daily nudges keep everyone on track",
+      "description": "You'll receive daily reminders to stay on track, but the real surprise is how it adapts when your schedule shifts unexpectedly.",
+      "visual_hint": "phone notification reminder",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone notification",
+      "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try one week, then judge",
+      "description": "Let 'CC' plan your household for seven days. Does it save time—or add another layer to manage? Test it now.",
+      "visual_hint": "person reviewing weekly plan",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "weekly planner",
+      "image": "https://images.pexels.com/photos/7441089/pexels-photo-7441089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675",
+  "savedAt": "2026-09-18T17:34:19.158Z",
+  "sourceId": "37655c8141e2247a7af88a764ec3fd8b"
+}

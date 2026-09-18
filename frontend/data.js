@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "meta-s-muse-hits-mac-letting-the-ai-take-actions-o",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+    "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+    "pubDate": "Fri, 18 Sep 2026 15:22:48 +0000",
+    "slides": [
+      "Meta's Muse now controls your Mac. Trust it?",
+      "It executes multi-step tasks without step-by-step guidance",
+      "But it only works reliably inside Meta's own apps",
+      "Mac users lose native shortcuts and permissions control",
+      "Test one harmless automation before handing over your login"
+    ],
+    "thread_text": [
+      "1. Meta's Muse controls your Mac\n\nIt runs multi-step tasks without step-by-step guidance. The catch: it only works reliably inside Meta's own apps.",
+      "2. No hand-holding needed\n\nYou give one command and it chains actions across apps. But step outside Meta's ecosystem and reliability drops fast.",
+      "3. Walled garden automation\n\nNative shortcuts and permission controls get bypassed. You lose the granular control Mac users expect.",
+      "4. Your login is the price\n\nHanding over credentials means trusting Meta with everything. One breach and your entire digital life is exposed.",
+      "5. Test before you trust\n\nRun one harmless automation first. If it fails, you've lost nothing. If it works, ask yourself: is convenience worth the risk?"
+    ],
+    "video_script": [
+      "Meta's Muse now controls your Mac. Should you trust it?",
+      "It executes multi-step tasks without step-by-step guidance from you.",
+      "But it only works reliably inside Meta's own apps.",
+      "Mac users lose native shortcuts and permissions control.",
+      "Test one harmless automation before handing over your login."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Meta's Muse controls your Mac\n\nIt runs multi-step tasks without step-by-step guidance. The catch: it only works reliably inside Meta's own apps.",
+          "2. No hand-holding needed\n\nYou give one command and it chains actions across apps. But step outside Meta's ecosystem and reliability drops fast.",
+          "3. Walled garden automation\n\nNative shortcuts and permission controls get bypassed. You lose the granular control Mac users expect.",
+          "4. Your login is the price\n\nHanding over credentials means trusting Meta with everything. One breach and your entire digital life is exposed.",
+          "5. Test before you trust\n\nRun one harmless automation first. If it fails, you've lost nothing. If it works, ask yourself: is convenience worth the risk?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta's Muse now controls your Mac. Should you trust it?",
+          "It executes multi-step tasks without step-by-step guidance from you.",
+          "But it only works reliably inside Meta's own apps.",
+          "Mac users lose native shortcuts and permissions control.",
+          "Test one harmless automation before handing over your login."
+        ]
+      },
+      "instagram": {
+        "caption": "Meta's Muse now takes actions on your Mac — clicking, typing, chaining steps on its own. 🖥️\n\nYou give one command and it runs multi-step tasks without hand-holding.\n\nBut it only works reliably inside Meta's own apps. Step outside, and it breaks down.\n\nNative shortcuts and permission controls get bypassed, so you lose the granular control Mac users expect. ⚠️\n\nAnd your login is the price: hand over credentials and one breach exposes everything.\n\nBefore you trust it, run a single harmless automation. If it fails, you lost nothing — if it works, ask yourself: is the convenience worth it? 🔐"
+      }
+    },
+    "instagram_caption": "Meta's Muse now takes actions on your Mac — clicking, typing, chaining steps on its own. 🖥️\n\nYou give one command and it runs multi-step tasks without hand-holding.\n\nBut it only works reliably inside Meta's own apps. Step outside, and it breaks down.\n\nNative shortcuts and permission controls get bypassed, so you lose the granular control Mac users expect. ⚠️\n\nAnd your login is the price: hand over credentials and one breach exposes everything.\n\nBefore you trust it, run a single harmless automation. If it fails, you lost nothing — if it works, ask yourself: is the convenience worth it? 🔐",
+    "carousel_slides": [
+      {
+        "hook": "Meta's AI now controls your Mac. Trust it?",
+        "description": "Muse runs multi-step tasks without guidance, but only works reliably inside Meta's own apps, leaving you exposed elsewhere.",
+        "visual_hint": "AI interface over Mac desktop",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "MacBook desk"
+      },
+      {
+        "hook": "No hand-holding needed. One command, many actions.",
+        "description": "You give one instruction and it chains steps across apps. Outside Meta's ecosystem, reliability drops fast.",
+        "visual_hint": "Terminal window with automation code",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "command terminal screen",
+        "image": "https://images.pexels.com/photos/5935788/pexels-photo-5935788.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Walled garden automation bypasses native controls.",
+        "description": "Native shortcuts and permission settings get overridden. You lose the granular control Mac users expect daily.",
+        "visual_hint": "Mac settings permission screen locked",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "privacy lock icon",
+        "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your login is the price. One breach, all exposed.",
+        "description": "Handing over credentials means trusting Meta with everything. A single breach exposes your entire digital life.",
+        "visual_hint": "Hand typing password on keyboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "password keyboard login",
+        "image": "https://images.pexels.com/photos/5474301/pexels-photo-5474301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test before you trust. Run one harmless automation.",
+        "description": "Run a safe automation first. If it fails, nothing lost. If it works, ask: is convenience worth the risk?",
+        "visual_hint": "Cursor hovering over start button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "automation test button",
+        "image": "https://images.pexels.com/photos/36564992/pexels-photo-36564992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/download-1.webp?resize=1200,1159",
+    "savedAt": "2026-09-18T17:34:43.611Z",
+    "sourceId": "02e22737315fe005a214ffb02ab5ba99"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "dario-amodei-and-other-ai-leaders-want-to-pace-the",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+    "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+    "pubDate": "Fri, 18 Sep 2026 17:09:56 +0000",
+    "slides": [
+      "AI leaders warn we're racing too fast. Why now?",
+      "They propose 'Pace the Frontier' to slow development.",
+      "But details are vague and enforcement mechanism unclear.",
+      "Your AI tools may face new regulations soon.",
+      "Ask: who decides the right pace?"
+    ],
+    "thread_text": [
+      "1. Racing too fast?\n\nTop AI researchers just warned we're pushing development faster than safety can keep up. They're not asking to stop — they're asking to slow down deliberately.",
+      "2. 'Pace the Frontier'\n\nTheir proposal: deliberately space out major model releases, like a highway speed limit for AI. No company has signed on yet.",
+      "3. Vague on purpose?\n\nNo timeline, no enforcement body, no penalties. Critics say it's a press release, not a policy.",
+      "4. Your tools, new rules\n\nIf regulators adopt this, the AI features you use daily could get delayed or restricted — often without a clear reason.",
+      "5. Who picks the pace?\n\nTake one AI tool you rely on and ask: if it disappeared for six months, what would you lose? That's the real cost of pacing."
+    ],
+    "video_script": [
+      "AI leaders just warned we're racing too fast.",
+      "Their fix: 'Pace the Frontier' — deliberately slow major releases.",
+      "But no timeline, no enforcement — just vague promises.",
+      "Your AI tools could face new rules soon.",
+      "Who gets to decide the right pace?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Racing too fast?\n\nTop AI researchers just warned we're pushing development faster than safety can keep up. They're not asking to stop — they're asking to slow down deliberately.",
+          "2. 'Pace the Frontier'\n\nTheir proposal: deliberately space out major model releases, like a highway speed limit for AI. No company has signed on yet.",
+          "3. Vague on purpose?\n\nNo timeline, no enforcement body, no penalties. Critics say it's a press release, not a policy.",
+          "4. Your tools, new rules\n\nIf regulators adopt this, the AI features you use daily could get delayed or restricted — often without a clear reason.",
+          "5. Who picks the pace?\n\nTake one AI tool you rely on and ask: if it disappeared for six months, what would you lose? That's the real cost of pacing."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI leaders just warned we're racing too fast.",
+          "Their fix: 'Pace the Frontier' — deliberately slow major releases.",
+          "But no timeline, no enforcement — just vague promises.",
+          "Your AI tools could face new rules soon.",
+          "Who gets to decide the right pace?"
+        ]
+      },
+      "instagram": {
+        "caption": "Dario Amodei and other AI leaders say model releases should be deliberately spaced out, like speed limits on a highway. 🛑\n\nNo company has signed on yet.\n\nNo timeline, no enforcement body, no penalties. Critics call it a press release, not a policy.\n\nIf regulators adopt it, the AI features you use daily could get delayed or restricted — often without a clear reason.\n\nIf your main AI tool vanished for six months, what would you actually lose? 🤔"
+      }
+    },
+    "instagram_caption": "Dario Amodei and other AI leaders say model releases should be deliberately spaced out, like speed limits on a highway. 🛑\n\nNo company has signed on yet.\n\nNo timeline, no enforcement body, no penalties. Critics call it a press release, not a policy.\n\nIf regulators adopt it, the AI features you use daily could get delayed or restricted — often without a clear reason.\n\nIf your main AI tool vanished for six months, what would you actually lose? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "No timeline, no enforcement, no penalties.",
+        "description": "AI leaders want to 'Pace the Frontier', but their plan lacks enforcement. A press release, not actual policy.",
+        "visual_hint": "Empty highway vanishing into fog",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "empty highway"
+      },
+      {
+        "hook": "They want a speed limit for AI.",
+        "description": "'Pace the Frontier' proposes spacing out major model releases like highway speed limits, but no company has signed on yet.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "visual_hint": "Speed limit sign beside road",
+        "image_query": "speed limit sign",
+        "image": "https://images.pexels.com/photos/12977345/pexels-photo-12977345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI is racing faster than safety.",
+        "description": "Top researchers warn development outpaces safety measures. They ask to deliberately slow down, not stop progress entirely.",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "visual_hint": "Server room lights blinking rapidly",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your AI tools could face delays.",
+        "description": "If regulators adopt pacing, daily AI features may get restricted or delayed, often without clear reasons given to users.",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "visual_hint": "Hand holding smartphone with app",
+        "image_query": "smartphone hand",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: who decides AI's pace?",
+        "description": "Pick one AI tool you rely on. Ask what you'd lose if it vanished for six months. Comment your answer below.",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "visual_hint": "Person thinking with question mark",
+        "image_query": "thinking person",
+        "image": "https://images.pexels.com/photos/6144062/pexels-photo-6144062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294935494.jpg?resize=1200,800",
+    "savedAt": "2026-09-18T17:34:35.792Z",
+    "sourceId": "a7c7509da18bdf808ae0d1d250e94359"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "joby-aviation-s-3-100-mile-autonomous-flight-signa",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
+    "link": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
+    "pubDate": "Fri, 18 Sep 2026 17:26:41 +0000",
+    "slides": [
+      "Joby's 3,100-mile autonomous flight: what's the catch?",
+      "The flight used hydrogen fuel, not batteries.",
+      "Hydrogen doubles range but needs new infrastructure.",
+      "Joby plans to retrofit its existing aircraft for hydrogen.",
+      "Watch for hydrogen partnerships from Joby next quarter."
+    ],
+    "thread_text": [
+      "1. 3,100 Miles, Zero Pilots\n\nJoby's hydrogen air taxi just flew from California to Hawaii autonomously. The catch: there was no pilot on board, but also no battery.",
+      "2. Hydrogen Beats Batteries\n\nLiquid hydrogen packs twice the energy per kilogram. That's why the flight distance doubled compared to Joby's battery-powered prototype.",
+      "3. No Infrastructure, No Problem?\n\nYou can't refuel hydrogen at your local airport. Joby will need to build cryogenic tanks and supply chains from scratch before passengers board.",
+      "4. Retrofitting the Fleet\n\nJoby says it can swap the battery pack for a hydrogen tank in its existing aircraft. That means no new airframe design, just a fuel system replacement.",
+      "5. Watch for Partnerships\n\nNext quarter, Joby is expected to announce hydrogen suppliers. Keep an eye on their investor calls—if they sign with an industrial gas giant, the timeline accelerates."
+    ],
+    "video_script": [
+      "Joby just flew a hydrogen air taxi 3,100 miles autonomously.",
+      "It used liquid hydrogen, not batteries, doubling the range.",
+      "But there's no hydrogen refueling network anywhere yet.",
+      "Joby plans to retrofit its existing aircraft for hydrogen fuel.",
+      "Next quarter, watch for hydrogen partnership announcements."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. 3,100 Miles, Zero Pilots\n\nJoby's hydrogen air taxi just flew from California to Hawaii autonomously. The catch: there was no pilot on board, but also no battery.",
+          "2. Hydrogen Beats Batteries\n\nLiquid hydrogen packs twice the energy per kilogram. That's why the flight distance doubled compared to Joby's battery-powered prototype.",
+          "3. No Infrastructure, No Problem?\n\nYou can't refuel hydrogen at your local airport. Joby will need to build cryogenic tanks and supply chains from scratch before passengers board.",
+          "4. Retrofitting the Fleet\n\nJoby says it can swap the battery pack for a hydrogen tank in its existing aircraft. That means no new airframe design, just a fuel system replacement.",
+          "5. Watch for Partnerships\n\nNext quarter, Joby is expected to announce hydrogen suppliers. Keep an eye on their investor calls—if they sign with an industrial gas giant, the timeline accelerates."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Joby just flew a hydrogen air taxi 3,100 miles autonomously.",
+          "It used liquid hydrogen, not batteries, doubling the range.",
+          "But there's no hydrogen refueling network anywhere yet.",
+          "Joby plans to retrofit its existing aircraft for hydrogen fuel.",
+          "Next quarter, watch for hydrogen partnership announcements."
+        ]
+      },
+      "instagram": {
+        "caption": "3,100 miles with no pilot and no battery. ✈️\n\nJoby's aircraft flew California to Hawaii on liquid hydrogen, which packs twice the energy per kilogram of a battery. That's why the range doubled.\n\nBut you can't refuel hydrogen at your local airport — cryogenic tanks and supply chains don't exist yet. 🔧\n\nJoby says it can swap the battery pack for a hydrogen tank in existing aircraft, no new airframe needed.\n\nIf you cover aviation or energy, watch next quarter's investor calls for hydrogen supplier deals. A signed industrial gas giant speeds up the whole timeline. ⏳\n\nWould you fly on a hydrogen air taxi before the refueling network is built? 🤔"
+      }
+    },
+    "instagram_caption": "3,100 miles with no pilot and no battery. ✈️\n\nJoby's aircraft flew California to Hawaii on liquid hydrogen, which packs twice the energy per kilogram of a battery. That's why the range doubled.\n\nBut you can't refuel hydrogen at your local airport — cryogenic tanks and supply chains don't exist yet. 🔧\n\nJoby says it can swap the battery pack for a hydrogen tank in existing aircraft, no new airframe needed.\n\nIf you cover aviation or energy, watch next quarter's investor calls for hydrogen supplier deals. A signed industrial gas giant speeds up the whole timeline. ⏳\n\nWould you fly on a hydrogen air taxi before the refueling network is built? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Hydrogen air taxi flies 3,100 miles pilotless?",
+        "description": "Joby's autonomous hydrogen air taxi flew California to Hawaii, but no hydrogen infrastructure exists at airports yet.",
+        "visual_hint": "Aircraft silhouetted over ocean",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "airplane ocean flight"
+      },
+      {
+        "hook": "Hydrogen doubles range, but needs new fuel",
+        "description": "Liquid hydrogen packs twice the energy per kilogram, so Joby's flight distance doubled versus its battery prototype.",
+        "visual_hint": "Cryogenic tank and fuel gauge",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "hydrogen fuel tank",
+        "image": "https://images.pexels.com/photos/28688185/pexels-photo-28688185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Can airports fuel hydrogen aircraft? Not yet.",
+        "description": "You can't refuel hydrogen at local airports; Joby must build cryogenic tanks and supply chains before passengers board.",
+        "visual_hint": "Airport tarmac with fuel trucks",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "airport fuel infrastructure",
+        "image": "https://images.pexels.com/photos/30488713/pexels-photo-30488713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Joby can retrofit existing aircraft for hydrogen",
+        "description": "Joby says it can swap the battery pack for a hydrogen tank in its existing aircraft, avoiding new airframe design.",
+        "visual_hint": "Engineer hands swapping fuel system",
+        "layout_type": "human-hand",
+        "icon": "check",
+        "image_query": "aircraft maintenance retrofit",
+        "image": "https://images.pexels.com/photos/32760421/pexels-photo-32760421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Watch Joby's hydrogen partnerships next quarter",
+        "description": "Save this and watch Joby's investor calls next quarter for hydrogen supplier announcements that could accelerate timelines.",
+        "visual_hint": "Investor call screen and handshake",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "business handshake meeting",
+        "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Joby-autonomy-Tour.jpg?resize=1200,633",
+    "savedAt": "2026-09-18T17:34:27.752Z",
+    "sourceId": "705069fd34073bdcd35c092798c157ea"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-s-new-cc-is-an-ai-agent-that-helps-families",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+    "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+    "pubDate": "Fri, 18 Sep 2026 17:33:50 +0000",
+    "slides": [
+      "Can an AI agent really run your household?",
+      "Google's 'CC' schedules chores, meals, and reminders.",
+      "It learns your family's routines—then suggests changes you didn't expect.",
+      "You'll receive daily nudges to keep everyone on track.",
+      "Try letting it plan one week, then judge."
+    ],
+    "thread_text": [
+      "1. Your House, Run by AI\n\nGoogle's 'CC' already schedules chores, meals, and reminders for your family. It learns your routines—then suggests changes you didn't expect.",
+      "2. What Can It Actually Do?\n\nDaily nudges keep everyone on track, but the real surprise is how it adapts when your schedule shifts. You might not even notice it's working.",
+      "3. The Unexpected Suggestions\n\nAfter a week, it'll propose tweaks to your routines—like shifting dinner time or swapping chores. Some ideas will feel intrusive, others genius.",
+      "4. Why Trust It?\n\nThe system watches patterns you didn't know you had. That means it can spot inefficiencies, but also might push changes you never asked for.",
+      "5. Try One Week, Then Judge\n\nLet it plan your household for seven days. If you haven't tested it, start with a single routine. Does it save time—or just add another layer to manage?"
+    ],
+    "video_script": [
+      "Can an AI agent really run your household?",
+      "Google's 'CC' schedules chores, meals, and reminders.",
+      "It learns your family's routines, then suggests changes.",
+      "You'll get daily nudges to keep everyone on track.",
+      "Try letting it plan one week, then judge."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your House, Run by AI\n\nGoogle's 'CC' already schedules chores, meals, and reminders for your family. It learns your routines—then suggests changes you didn't expect.",
+          "2. What Can It Actually Do?\n\nDaily nudges keep everyone on track, but the real surprise is how it adapts when your schedule shifts. You might not even notice it's working.",
+          "3. The Unexpected Suggestions\n\nAfter a week, it'll propose tweaks to your routines—like shifting dinner time or swapping chores. Some ideas will feel intrusive, others genius.",
+          "4. Why Trust It?\n\nThe system watches patterns you didn't know you had. That means it can spot inefficiencies, but also might push changes you never asked for.",
+          "5. Try One Week, Then Judge\n\nLet it plan your household for seven days. If you haven't tested it, start with a single routine. Does it save time—or just add another layer to manage?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can an AI agent really run your household?",
+          "Google's 'CC' schedules chores, meals, and reminders.",
+          "It learns your family's routines, then suggests changes.",
+          "You'll get daily nudges to keep everyone on track.",
+          "Try letting it plan one week, then judge."
+        ]
+      },
+      "instagram": {
+        "caption": "Google's new AI agent will schedule your family's chores and meals, then suggest changes you didn't ask for. 🍽️\n\nIt's called CC, and it learns your household routines over time.\n\nEvery day it sends nudges to keep everyone on track.\n\nAfter a week, it starts proposing tweaks—like shifting dinner time or swapping who does what. Some will feel intrusive, others useful.\n\nIf you manage family logistics, this could quietly rewrite your weekly planning.\n\nWould you hand it one routine for seven days and see what it changes? 🤖"
+      }
+    },
+    "instagram_caption": "Google's new AI agent will schedule your family's chores and meals, then suggest changes you didn't ask for. 🍽️\n\nIt's called CC, and it learns your household routines over time.\n\nEvery day it sends nudges to keep everyone on track.\n\nAfter a week, it starts proposing tweaks—like shifting dinner time or swapping who does what. Some will feel intrusive, others useful.\n\nIf you manage family logistics, this could quietly rewrite your weekly planning.\n\nWould you hand it one routine for seven days and see what it changes? 🤖",
+    "carousel_slides": [
+      {
+        "hook": "Can AI really run your household?",
+        "description": "Google's 'CC' schedules chores, meals, and reminders, learns your routines, then suggests surprising changes you didn't expect.",
+        "visual_hint": "AI assistant scheduling family tasks",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smart home device"
+      },
+      {
+        "hook": "Google's 'CC' schedules chores and meals",
+        "description": "It manages daily tasks like chores, meals, and reminders, keeping your family organized without you lifting a finger.",
+        "visual_hint": "calendar with chore icons",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "family calendar",
+        "image": "https://images.pexels.com/photos/5982312/pexels-photo-5982312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It learns routines, suggests unexpected changes",
+        "description": "After learning your family's routines, 'CC' proposes tweaks like shifting dinner time or swapping chores—some genius, some intrusive.",
+        "visual_hint": "AI suggesting schedule adjustments",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "clock and gears",
+        "image": "https://images.pexels.com/photos/20188479/pexels-photo-20188479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Daily nudges keep everyone on track",
+        "description": "You'll receive daily reminders to stay on track, but the real surprise is how it adapts when your schedule shifts unexpectedly.",
+        "visual_hint": "phone notification reminder",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "smartphone notification",
+        "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try one week, then judge",
+        "description": "Let 'CC' plan your household for seven days. Does it save time—or add another layer to manage? Test it now.",
+        "visual_hint": "person reviewing weekly plan",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "weekly planner",
+        "image": "https://images.pexels.com/photos/7441089/pexels-photo-7441089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675",
+    "savedAt": "2026-09-18T17:34:19.158Z",
+    "sourceId": "37655c8141e2247a7af88a764ec3fd8b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "claude-code-relaunches-projects-to-manage-multiple",
     "prompt_version": "1.0.0",
     "status": "published",
