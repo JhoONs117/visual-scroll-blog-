@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+  "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+  "pubDate": "Fri, 18 Sep 2026 18:49:30 +0000",
+  "slides": [
+    "Mira Murati just built something developers can't ignore",
+    "A new AI model from her startup Thinking Machines",
+    "But it discards the system that made ChatGPT work",
+    "Developers now get full control over reasoning steps",
+    "Pick one tool you rely on and test it this week"
+  ],
+  "thread_text": [
+    "1. The model that does it differently\n\nMira Murati's Thinking Machines just released an AI that skips the reward model that made ChatGPT work. No more guessing what humans want.",
+    "2. No reward model needed\n\nInstead of training a separate AI to score answers, this model learns directly from preferences. The result: fewer moving parts, less room for error.",
+    "3. You control the reasoning\n\nDevelopers can now inspect and adjust each reasoning step. Want to change how it thinks? You can. No black box.",
+    "4. What this means for you\n\nIf you rely on AI for code or writing, this shift gives you more transparency. The model shows its work, not just its answer.",
+    "5. Test it on one real task\n\nPick a tool you use daily—like GitHub Copilot. Try adjusting its reasoning steps. If you can't, ask why not."
+  ],
+  "video_script": [
+    "Mira Murati's new startup just released an AI model.",
+    "It drops the reward model that made ChatGPT work.",
+    "Now developers can control each reasoning step directly.",
+    "That means more transparency and less black box.",
+    "Pick one tool you use and test it this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The model that does it differently\n\nMira Murati's Thinking Machines just released an AI that skips the reward model that made ChatGPT work. No more guessing what humans want.",
+        "2. No reward model needed\n\nInstead of training a separate AI to score answers, this model learns directly from preferences. The result: fewer moving parts, less room for error.",
+        "3. You control the reasoning\n\nDevelopers can now inspect and adjust each reasoning step. Want to change how it thinks? You can. No black box.",
+        "4. What this means for you\n\nIf you rely on AI for code or writing, this shift gives you more transparency. The model shows its work, not just its answer.",
+        "5. Test it on one real task\n\nPick a tool you use daily—like GitHub Copilot. Try adjusting its reasoning steps. If you can't, ask why not."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Mira Murati's new startup just released an AI model.",
+        "It drops the reward model that made ChatGPT work.",
+        "Now developers can control each reasoning step directly.",
+        "That means more transparency and less black box.",
+        "Pick one tool you use and test it this week."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now open up an AI's reasoning and change how it thinks. Mira Murati's new startup Thinking Machines released a model that drops the reward model, the scoring system that made ChatGPT work. Instead, it learns straight from human preferences. Fewer moving parts, less room for error. 🧠\n\nFor anyone using AI to write or code, that means the model shows its work, not just its answer. 🔍 You can inspect and adjust each reasoning step yourself.\n\nPick one tool you rely on this week and try to change a reasoning step. If you can't, ask why not. ⚙️"
+    }
+  },
+  "instagram_caption": "You can now open up an AI's reasoning and change how it thinks. Mira Murati's new startup Thinking Machines released a model that drops the reward model, the scoring system that made ChatGPT work. Instead, it learns straight from human preferences. Fewer moving parts, less room for error. 🧠\n\nFor anyone using AI to write or code, that means the model shows its work, not just its answer. 🔍 You can inspect and adjust each reasoning step yourself.\n\nPick one tool you rely on this week and try to change a reasoning step. If you can't, ask why not. ⚙️",
+  "carousel_slides": [
+    {
+      "hook": "The AI that ditches ChatGPT's secret sauce",
+      "description": "Mira Murati's Thinking Machines drops the reward model that made ChatGPT work, letting models learn directly from preferences with fewer moving parts.",
+      "visual_hint": "Futuristic AI brain with missing puzzle piece",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "artificial intelligence brain"
+    },
+    {
+      "hook": "No more guessing what humans want",
+      "description": "Instead of training a separate AI to score answers, this model learns directly from preferences, reducing error and complexity.",
+      "visual_hint": "Abstract neural network without reward nodes",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "neural network diagram",
+      "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You can now inspect every reasoning step",
+      "description": "Developers get full control to adjust how the model thinks, turning the black box into a transparent, editable process.",
+      "visual_hint": "Hand adjusting gears inside a transparent box",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "gears mechanism",
+      "image": "https://images.pexels.com/photos/7568421/pexels-photo-7568421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "What if your AI showed its work?",
+      "description": "If you rely on AI for code or writing, this shift gives you more transparency: the model shows its reasoning, not just answers.",
+      "visual_hint": "Developer reviewing code on multiple screens",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "programmer computer screens",
+      "image": "https://images.pexels.com/photos/9553905/pexels-photo-9553905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test this on one tool you use daily",
+      "description": "Pick GitHub Copilot or another daily AI tool, try adjusting its reasoning steps, and if you can't, ask why not. Save this post.",
+      "visual_hint": "Curious user pointing at AI interface",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person using laptop",
+      "image": "https://images.pexels.com/photos/12902986/pexels-photo-12902986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
+  "savedAt": "2026-09-18T23:46:29.998Z",
+  "sourceId": "c787e87aad1dc64f9afb94f9789fb3f6"
+}

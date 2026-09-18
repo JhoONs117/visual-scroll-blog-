@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-and-microsoft-knew-they-were-starting-a-doo",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+  "pubDate": "2026-09-18T21:07:24.000Z",
+  "slides": [
+    "Is OpenAI quietly killing the open web?",
+    "Microsoft saw the traffic collapse coming",
+    "But their own AI needs that same content",
+    "Your site's traffic may already be dropping",
+    "Check your analytics—before it's too late"
+  ],
+  "thread_text": [
+    "1. The Quiet Killer\n\nOpenAI's web crawler now powers answers that keep users on ChatGPT, not your site. Publishers are seeing referral traffic drop by double digits since last year.",
+    "2. Microsoft Saw It Coming\n\nInternal forecasts predicted a 30% decline in news traffic to Bing. They still trained their AI on the same content they're now bypassing.",
+    "3. AI's Content Paradox\n\nOpenAI argues it needs fresh web data to improve models. But every answer it gives replaces a page view that would have funded that content.",
+    "4. Your Traffic May Already Be Down\n\nCheck Google Search Console for impressions on informational queries. If they're flat but clicks are falling, AI is eating your lunch.",
+    "5. Check Your Analytics Today\n\nLook at your top 10 blog posts by organic traffic. Compare last month to a year ago. If the drop is over 20%, it's not a fluke—it's the new normal."
+  ],
+  "video_script": [
+    "OpenAI is quietly killing the open web.",
+    "Microsoft saw the traffic collapse coming.",
+    "But their own AI needs that same content.",
+    "Your site's traffic may already be dropping.",
+    "Check your analytics before it's too late."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Quiet Killer\n\nOpenAI's web crawler now powers answers that keep users on ChatGPT, not your site. Publishers are seeing referral traffic drop by double digits since last year.",
+        "2. Microsoft Saw It Coming\n\nInternal forecasts predicted a 30% decline in news traffic to Bing. They still trained their AI on the same content they're now bypassing.",
+        "3. AI's Content Paradox\n\nOpenAI argues it needs fresh web data to improve models. But every answer it gives replaces a page view that would have funded that content.",
+        "4. Your Traffic May Already Be Down\n\nCheck Google Search Console for impressions on informational queries. If they're flat but clicks are falling, AI is eating your lunch.",
+        "5. Check Your Analytics Today\n\nLook at your top 10 blog posts by organic traffic. Compare last month to a year ago. If the drop is over 20%, it's not a fluke—it's the new normal."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI is quietly killing the open web.",
+        "Microsoft saw the traffic collapse coming.",
+        "But their own AI needs that same content.",
+        "Your site's traffic may already be dropping.",
+        "Check your analytics before it's too late."
+      ]
+    },
+    "instagram": {
+      "caption": "Internal forecasts at Microsoft predicted a 30% drop in news traffic to Bing. They built the AI anyway.\n\nOpenAI's crawler now feeds answers that keep users inside ChatGPT instead of sending them to your pages.\n\nThe paradox: that same AI needs fresh web content to keep improving.\n\nIf your impressions are flat but clicks are falling, AI is already eating your traffic. 📉\n\nCheck your top 10 blog posts: compare last month to a year ago. 📊\n\nOver 20% down? Not a fluke. ⚠️\n\nOpen your analytics right now and tell me what you see."
+    }
+  },
+  "instagram_caption": "Internal forecasts at Microsoft predicted a 30% drop in news traffic to Bing. They built the AI anyway.\n\nOpenAI's crawler now feeds answers that keep users inside ChatGPT instead of sending them to your pages.\n\nThe paradox: that same AI needs fresh web content to keep improving.\n\nIf your impressions are flat but clicks are falling, AI is already eating your traffic. 📉\n\nCheck your top 10 blog posts: compare last month to a year ago. 📊\n\nOver 20% down? Not a fluke. ⚠️\n\nOpen your analytics right now and tell me what you see.",
+  "carousel_slides": [
+    {
+      "hook": "Is AI quietly killing the open web?",
+      "description": "OpenAI's answers keep users inside ChatGPT, and publishers report double-digit referral traffic drops since last year. Every answer replaces a page view.",
+      "visual_hint": "Dark server room, glowing red warning light",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Microsoft saw this collapse coming",
+      "description": "Internal forecasts predicted a 30% decline in news traffic to Bing, yet Microsoft trained its AI on that same content it now bypasses.",
+      "visual_hint": "Falling line graph on a monitor",
+      "layout_type": "right-focus",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI's impossible content paradox",
+      "description": "OpenAI says it needs fresh web data to improve its models, but every AI answer replaces the page views that funded that content.",
+      "visual_hint": "Two-sided scale, empty versus full",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "balance scale",
+      "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your traffic may already be dropping",
+      "description": "If impressions on informational queries are flat but clicks keep falling, AI is eating your lunch. Check Search Console today.",
+      "visual_hint": "Hand scrolling phone analytics dashboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers laptop",
+      "image": "https://images.pexels.com/photos/7437087/pexels-photo-7437087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your analytics before it's too late",
+      "description": "Compare top 10 blog posts by organic traffic: last month versus a year ago. A drop over 20% is the new normal.",
+      "visual_hint": "Close-up dashboard with declining bar chart",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "data dashboard",
+      "image": "https://images.pexels.com/photos/35297914/pexels-photo-35297914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS534_AI_DOOMSDAY2_B.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+  "savedAt": "2026-09-18T23:47:01.329Z",
+  "sourceId": "077d8f6ca8fa2cba3b89b245fa53f468"
+}

@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-and-microsoft-knew-they-were-starting-a-doo",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+    "pubDate": "2026-09-18T21:07:24.000Z",
+    "slides": [
+      "Is OpenAI quietly killing the open web?",
+      "Microsoft saw the traffic collapse coming",
+      "But their own AI needs that same content",
+      "Your site's traffic may already be dropping",
+      "Check your analytics—before it's too late"
+    ],
+    "thread_text": [
+      "1. The Quiet Killer\n\nOpenAI's web crawler now powers answers that keep users on ChatGPT, not your site. Publishers are seeing referral traffic drop by double digits since last year.",
+      "2. Microsoft Saw It Coming\n\nInternal forecasts predicted a 30% decline in news traffic to Bing. They still trained their AI on the same content they're now bypassing.",
+      "3. AI's Content Paradox\n\nOpenAI argues it needs fresh web data to improve models. But every answer it gives replaces a page view that would have funded that content.",
+      "4. Your Traffic May Already Be Down\n\nCheck Google Search Console for impressions on informational queries. If they're flat but clicks are falling, AI is eating your lunch.",
+      "5. Check Your Analytics Today\n\nLook at your top 10 blog posts by organic traffic. Compare last month to a year ago. If the drop is over 20%, it's not a fluke—it's the new normal."
+    ],
+    "video_script": [
+      "OpenAI is quietly killing the open web.",
+      "Microsoft saw the traffic collapse coming.",
+      "But their own AI needs that same content.",
+      "Your site's traffic may already be dropping.",
+      "Check your analytics before it's too late."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Quiet Killer\n\nOpenAI's web crawler now powers answers that keep users on ChatGPT, not your site. Publishers are seeing referral traffic drop by double digits since last year.",
+          "2. Microsoft Saw It Coming\n\nInternal forecasts predicted a 30% decline in news traffic to Bing. They still trained their AI on the same content they're now bypassing.",
+          "3. AI's Content Paradox\n\nOpenAI argues it needs fresh web data to improve models. But every answer it gives replaces a page view that would have funded that content.",
+          "4. Your Traffic May Already Be Down\n\nCheck Google Search Console for impressions on informational queries. If they're flat but clicks are falling, AI is eating your lunch.",
+          "5. Check Your Analytics Today\n\nLook at your top 10 blog posts by organic traffic. Compare last month to a year ago. If the drop is over 20%, it's not a fluke—it's the new normal."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI is quietly killing the open web.",
+          "Microsoft saw the traffic collapse coming.",
+          "But their own AI needs that same content.",
+          "Your site's traffic may already be dropping.",
+          "Check your analytics before it's too late."
+        ]
+      },
+      "instagram": {
+        "caption": "Internal forecasts at Microsoft predicted a 30% drop in news traffic to Bing. They built the AI anyway.\n\nOpenAI's crawler now feeds answers that keep users inside ChatGPT instead of sending them to your pages.\n\nThe paradox: that same AI needs fresh web content to keep improving.\n\nIf your impressions are flat but clicks are falling, AI is already eating your traffic. 📉\n\nCheck your top 10 blog posts: compare last month to a year ago. 📊\n\nOver 20% down? Not a fluke. ⚠️\n\nOpen your analytics right now and tell me what you see."
+      }
+    },
+    "instagram_caption": "Internal forecasts at Microsoft predicted a 30% drop in news traffic to Bing. They built the AI anyway.\n\nOpenAI's crawler now feeds answers that keep users inside ChatGPT instead of sending them to your pages.\n\nThe paradox: that same AI needs fresh web content to keep improving.\n\nIf your impressions are flat but clicks are falling, AI is already eating your traffic. 📉\n\nCheck your top 10 blog posts: compare last month to a year ago. 📊\n\nOver 20% down? Not a fluke. ⚠️\n\nOpen your analytics right now and tell me what you see.",
+    "carousel_slides": [
+      {
+        "hook": "Is AI quietly killing the open web?",
+        "description": "OpenAI's answers keep users inside ChatGPT, and publishers report double-digit referral traffic drops since last year. Every answer replaces a page view.",
+        "visual_hint": "Dark server room, glowing red warning light",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Microsoft saw this collapse coming",
+        "description": "Internal forecasts predicted a 30% decline in news traffic to Bing, yet Microsoft trained its AI on that same content it now bypasses.",
+        "visual_hint": "Falling line graph on a monitor",
+        "layout_type": "right-focus",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI's impossible content paradox",
+        "description": "OpenAI says it needs fresh web data to improve its models, but every AI answer replaces the page views that funded that content.",
+        "visual_hint": "Two-sided scale, empty versus full",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "balance scale",
+        "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your traffic may already be dropping",
+        "description": "If impressions on informational queries are flat but clicks keep falling, AI is eating your lunch. Check Search Console today.",
+        "visual_hint": "Hand scrolling phone analytics dashboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers laptop",
+        "image": "https://images.pexels.com/photos/7437087/pexels-photo-7437087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your analytics before it's too late",
+        "description": "Compare top 10 blog posts by organic traffic: last month versus a year ago. A drop over 20% is the new normal.",
+        "visual_hint": "Close-up dashboard with declining bar chart",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "data dashboard",
+        "image": "https://images.pexels.com/photos/35297914/pexels-photo-35297914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS534_AI_DOOMSDAY2_B.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+    "savedAt": "2026-09-18T23:47:01.329Z",
+    "sourceId": "077d8f6ca8fa2cba3b89b245fa53f468"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "open-or-closed-ai-nvidia-s-nader-khalil-and-sydney",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+    "pubDate": "Fri, 18 Sep 2026 15:30:00 +0000",
+    "slides": [
+      "Is open AI the only way startups survive?",
+      "One Nvidia voice says closed models hide real costs",
+      "But open weights can slash your compute bill 90%",
+      "Your next model choice decides your hiring plan",
+      "Pick one stack and commit this quarter"
+    ],
+    "thread_text": [
+      "1. The 90% compute cut\n\nOne Nvidia voice admits closed models hide real costs. Open weights can slash your compute bill by 90% — but that's not the whole story.",
+      "2. The hidden price tag\n\nClosed models bundle inference, fine-tuning, and API calls into one opaque bill. You never see how much each token really costs.",
+      "3. The hiring plan trap\n\nYour model choice locks in your team structure. Closed stack needs ML engineers; open weights need infra and ops people.",
+      "4. The commitment window\n\nSwitching later costs 6–12 months of rework. Pick one stack this quarter or pay double next year.",
+      "5. Test your own numbers\n\nTake your last month's API bill and halve it. If that savings doesn't change your roadmap, stay closed. If it does, start prototyping open weights this week."
+    ],
+    "video_script": [
+      "Closed models hide real costs, says Nvidia.",
+      "Open weights can cut your compute bill by ninety percent.",
+      "Your model choice decides your next hiring plan.",
+      "Switching stacks later costs six to twelve months.",
+      "Pick one stack and commit this quarter."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The 90% compute cut\n\nOne Nvidia voice admits closed models hide real costs. Open weights can slash your compute bill by 90% — but that's not the whole story.",
+          "2. The hidden price tag\n\nClosed models bundle inference, fine-tuning, and API calls into one opaque bill. You never see how much each token really costs.",
+          "3. The hiring plan trap\n\nYour model choice locks in your team structure. Closed stack needs ML engineers; open weights need infra and ops people.",
+          "4. The commitment window\n\nSwitching later costs 6–12 months of rework. Pick one stack this quarter or pay double next year.",
+          "5. Test your own numbers\n\nTake your last month's API bill and halve it. If that savings doesn't change your roadmap, stay closed. If it does, start prototyping open weights this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Closed models hide real costs, says Nvidia.",
+          "Open weights can cut your compute bill by ninety percent.",
+          "Your model choice decides your next hiring plan.",
+          "Switching stacks later costs six to twelve months.",
+          "Pick one stack and commit this quarter."
+        ]
+      },
+      "instagram": {
+        "caption": "Open weights can cut your compute bill by 90% — and one Nvidia voice says closed models hide what you're actually paying.\n\nAt TechCrunch Disrupt 2026, Nvidia's Nader Khalil and Sydney Sykes dig into the open-vs-closed decision shaping next-gen startups.\n\nClosed models bundle inference, fine-tuning and API calls into one opaque bill. You never see your real cost per token.\n\nYour stack choice also locks your hiring: closed needs ML engineers, open needs infra people. Switching later costs 6–12 months of rework. 🧠\n\nTake last month's API bill and halve it. Does that change your roadmap? 👀\n\nIf yes, start prototyping open weights this week. ⚙️ What's stopping you?"
+      }
+    },
+    "instagram_caption": "Open weights can cut your compute bill by 90% — and one Nvidia voice says closed models hide what you're actually paying.\n\nAt TechCrunch Disrupt 2026, Nvidia's Nader Khalil and Sydney Sykes dig into the open-vs-closed decision shaping next-gen startups.\n\nClosed models bundle inference, fine-tuning and API calls into one opaque bill. You never see your real cost per token.\n\nYour stack choice also locks your hiring: closed needs ML engineers, open needs infra people. Switching later costs 6–12 months of rework. 🧠\n\nTake last month's API bill and halve it. Does that change your roadmap? 👀\n\nIf yes, start prototyping open weights this week. ⚙️ What's stopping you?",
+    "carousel_slides": [
+      {
+        "hook": "Open or closed: which AI survives?",
+        "description": "Open weights can cut your compute bill by 90%, per one Nvidia voice. But closed models hide real costs.",
+        "visual_hint": "Split screen open vs closed server",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Closed models hide their real bill",
+        "description": "Inference, fine-tuning, and API calls bundle into one opaque bill. You never see per-token costs, warns Nvidia's Khalil.",
+        "visual_hint": "Opaque invoice with hidden line items",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Open weights slash compute costs 90%",
+        "description": "You can cut your compute bill by 90% with open weights, but that's not the whole story, Sykes cautions.",
+        "visual_hint": "Graph dropping to near zero",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your model choice locks your hiring plan",
+        "description": "Closed stack demands ML engineers; open weights need infra and ops people. Switching later costs 6–12 months of rework.",
+        "visual_hint": "Two team org charts side by side",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before you pick your stack",
+        "description": "Take last month's API bill and halve it. If savings change your roadmap, prototype open weights this week.",
+        "visual_hint": "Hand circling API bill total",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calculator desk",
+        "image": "https://images.pexels.com/photos/8296969/pexels-photo-8296969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Sykes-Khalil-16x9-Dark.png?resize=1200,675",
+    "savedAt": "2026-09-18T23:46:38.098Z",
+    "sourceId": "210af46fb867c4db53f250ce42f83ebb"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+    "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+    "pubDate": "Fri, 18 Sep 2026 18:49:30 +0000",
+    "slides": [
+      "Mira Murati just built something developers can't ignore",
+      "A new AI model from her startup Thinking Machines",
+      "But it discards the system that made ChatGPT work",
+      "Developers now get full control over reasoning steps",
+      "Pick one tool you rely on and test it this week"
+    ],
+    "thread_text": [
+      "1. The model that does it differently\n\nMira Murati's Thinking Machines just released an AI that skips the reward model that made ChatGPT work. No more guessing what humans want.",
+      "2. No reward model needed\n\nInstead of training a separate AI to score answers, this model learns directly from preferences. The result: fewer moving parts, less room for error.",
+      "3. You control the reasoning\n\nDevelopers can now inspect and adjust each reasoning step. Want to change how it thinks? You can. No black box.",
+      "4. What this means for you\n\nIf you rely on AI for code or writing, this shift gives you more transparency. The model shows its work, not just its answer.",
+      "5. Test it on one real task\n\nPick a tool you use daily—like GitHub Copilot. Try adjusting its reasoning steps. If you can't, ask why not."
+    ],
+    "video_script": [
+      "Mira Murati's new startup just released an AI model.",
+      "It drops the reward model that made ChatGPT work.",
+      "Now developers can control each reasoning step directly.",
+      "That means more transparency and less black box.",
+      "Pick one tool you use and test it this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The model that does it differently\n\nMira Murati's Thinking Machines just released an AI that skips the reward model that made ChatGPT work. No more guessing what humans want.",
+          "2. No reward model needed\n\nInstead of training a separate AI to score answers, this model learns directly from preferences. The result: fewer moving parts, less room for error.",
+          "3. You control the reasoning\n\nDevelopers can now inspect and adjust each reasoning step. Want to change how it thinks? You can. No black box.",
+          "4. What this means for you\n\nIf you rely on AI for code or writing, this shift gives you more transparency. The model shows its work, not just its answer.",
+          "5. Test it on one real task\n\nPick a tool you use daily—like GitHub Copilot. Try adjusting its reasoning steps. If you can't, ask why not."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Mira Murati's new startup just released an AI model.",
+          "It drops the reward model that made ChatGPT work.",
+          "Now developers can control each reasoning step directly.",
+          "That means more transparency and less black box.",
+          "Pick one tool you use and test it this week."
+        ]
+      },
+      "instagram": {
+        "caption": "You can now open up an AI's reasoning and change how it thinks. Mira Murati's new startup Thinking Machines released a model that drops the reward model, the scoring system that made ChatGPT work. Instead, it learns straight from human preferences. Fewer moving parts, less room for error. 🧠\n\nFor anyone using AI to write or code, that means the model shows its work, not just its answer. 🔍 You can inspect and adjust each reasoning step yourself.\n\nPick one tool you rely on this week and try to change a reasoning step. If you can't, ask why not. ⚙️"
+      }
+    },
+    "instagram_caption": "You can now open up an AI's reasoning and change how it thinks. Mira Murati's new startup Thinking Machines released a model that drops the reward model, the scoring system that made ChatGPT work. Instead, it learns straight from human preferences. Fewer moving parts, less room for error. 🧠\n\nFor anyone using AI to write or code, that means the model shows its work, not just its answer. 🔍 You can inspect and adjust each reasoning step yourself.\n\nPick one tool you rely on this week and try to change a reasoning step. If you can't, ask why not. ⚙️",
+    "carousel_slides": [
+      {
+        "hook": "The AI that ditches ChatGPT's secret sauce",
+        "description": "Mira Murati's Thinking Machines drops the reward model that made ChatGPT work, letting models learn directly from preferences with fewer moving parts.",
+        "visual_hint": "Futuristic AI brain with missing puzzle piece",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "artificial intelligence brain"
+      },
+      {
+        "hook": "No more guessing what humans want",
+        "description": "Instead of training a separate AI to score answers, this model learns directly from preferences, reducing error and complexity.",
+        "visual_hint": "Abstract neural network without reward nodes",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "neural network diagram",
+        "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "You can now inspect every reasoning step",
+        "description": "Developers get full control to adjust how the model thinks, turning the black box into a transparent, editable process.",
+        "visual_hint": "Hand adjusting gears inside a transparent box",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "gears mechanism",
+        "image": "https://images.pexels.com/photos/7568421/pexels-photo-7568421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "What if your AI showed its work?",
+        "description": "If you rely on AI for code or writing, this shift gives you more transparency: the model shows its reasoning, not just answers.",
+        "visual_hint": "Developer reviewing code on multiple screens",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "programmer computer screens",
+        "image": "https://images.pexels.com/photos/9553905/pexels-photo-9553905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test this on one tool you use daily",
+        "description": "Pick GitHub Copilot or another daily AI tool, try adjusting its reasoning steps, and if you can't, ask why not. Save this post.",
+        "visual_hint": "Curious user pointing at AI interface",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person using laptop",
+        "image": "https://images.pexels.com/photos/12902986/pexels-photo-12902986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
+    "savedAt": "2026-09-18T23:46:29.998Z",
+    "sourceId": "c787e87aad1dc64f9afb94f9789fb3f6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ai-hallucination-nearly-triggers-us-military-opera",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI hallucination nearly triggers US military operation",
+    "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+    "pubDate": "Fri, 18 Sep 2026 23:12:32 +0000",
+    "slides": [
+      "AI hallucination nearly triggered a US military operation",
+      "The system misidentified a threat in seconds",
+      "A human stopped it—this time",
+      "Every AI user inherits this exact risk daily",
+      "Check one fact today before acting"
+    ],
+    "thread_text": [
+      "1. AI almost fired first\n\nA military system saw a threat that wasn't there. A human stopped it. The machine was ready to act in seconds.",
+      "2. It happened fast\n\nThe AI misidentified a threat in seconds. No time for debate. That's how close we came.",
+      "3. A human saved us\n\nBut only because someone was watching. Next time, that person might be busy or absent.",
+      "4. You share the risk\n\nEvery AI user inherits the same flaw daily. Your chatbot or assistant can hallucinate just as confidently.",
+      "5. Check one fact today\n\nBefore acting on any AI output, verify one key fact. If you haven't done it, start with your next prompt."
+    ],
+    "video_script": [
+      "An AI almost triggered a military operation.",
+      "It misidentified a threat in seconds.",
+      "A human stopped it this time.",
+      "You face the same risk daily.",
+      "Check one fact before you act."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI almost fired first\n\nA military system saw a threat that wasn't there. A human stopped it. The machine was ready to act in seconds.",
+          "2. It happened fast\n\nThe AI misidentified a threat in seconds. No time for debate. That's how close we came.",
+          "3. A human saved us\n\nBut only because someone was watching. Next time, that person might be busy or absent.",
+          "4. You share the risk\n\nEvery AI user inherits the same flaw daily. Your chatbot or assistant can hallucinate just as confidently.",
+          "5. Check one fact today\n\nBefore acting on any AI output, verify one key fact. If you haven't done it, start with your next prompt."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "An AI almost triggered a military operation.",
+          "It misidentified a threat in seconds.",
+          "A human stopped it this time.",
+          "You face the same risk daily.",
+          "Check one fact before you act."
+        ]
+      },
+      "instagram": {
+        "caption": "A military AI flagged a threat that wasn't there and was seconds from acting.\n\nA human stepped in and stopped it. That person happened to be watching. ⚠️\n\nThe machine misidentified the target in seconds, faster than any debate could happen.\n\nIf a chatbot can invent facts with total confidence, so can a system built to fire.\n\nNext time the human might be busy, distracted, or simply absent. 🤖\n\nYou share this flaw every time you act on AI output without checking. 🧠\n\nWhat's one fact in your last AI answer you never verified? ✅"
+      }
+    },
+    "instagram_caption": "A military AI flagged a threat that wasn't there and was seconds from acting.\n\nA human stepped in and stopped it. That person happened to be watching. ⚠️\n\nThe machine misidentified the target in seconds, faster than any debate could happen.\n\nIf a chatbot can invent facts with total confidence, so can a system built to fire.\n\nNext time the human might be busy, distracted, or simply absent. 🤖\n\nYou share this flaw every time you act on AI output without checking. 🧠\n\nWhat's one fact in your last AI answer you never verified? ✅",
+    "carousel_slides": [
+      {
+        "hook": "A human saved us—this time",
+        "description": "An AI misidentified a military threat in seconds, ready to act. Only human intervention stopped a potential catastrophe.",
+        "visual_hint": "Military control room with alert screens",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "military control room"
+      },
+      {
+        "hook": "The machine was ready in seconds",
+        "description": "The system misidentified a threat almost instantly, leaving no time for human debate. The risk was immediate and real.",
+        "visual_hint": "Rapid data streams on monitor",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center servers",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "But who watches the watchers?",
+        "description": "A human stopped it this time, but next time that person might be absent. Every AI user inherits this same daily risk.",
+        "visual_hint": "Human eye watching AI interface",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "human eye closeup",
+        "image": "https://images.pexels.com/photos/1526671/pexels-photo-1526671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your chatbot can hallucinate too",
+        "description": "Every AI user faces the same flaw daily: your assistant can confidently invent facts just like the military system.",
+        "visual_hint": "Person typing on laptop with AI chat",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person typing laptop",
+        "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check one fact before you act",
+        "description": "Verify a single key fact from any AI output today. Start with your next prompt—don't trust blindly.",
+        "visual_hint": "Hand holding magnifying glass over document",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "magnifying glass document",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-567072595.jpg?w=1000",
+    "savedAt": "2026-09-18T23:46:21.778Z",
+    "sourceId": "99bd6d4072b2721dd5eb90254076e34d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "meta-s-muse-hits-mac-letting-the-ai-take-actions-o",
     "prompt_version": "1.0.0",
     "status": "published",

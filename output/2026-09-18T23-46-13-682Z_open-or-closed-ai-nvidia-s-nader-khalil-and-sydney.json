@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "open-or-closed-ai-nvidia-s-nader-khalil-and-sydney",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+  "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+  "pubDate": "Fri, 18 Sep 2026 15:30:00 +0000",
+  "slides": [
+    "Is open AI the only way startups survive?",
+    "One Nvidia voice says closed models hide real costs",
+    "But open weights can slash your compute bill 90%",
+    "Your next model choice decides your hiring plan",
+    "Pick one stack and commit this quarter"
+  ],
+  "thread_text": [
+    "1. The 90% compute cut\n\nOne Nvidia voice admits closed models hide real costs. Open weights can slash your compute bill by 90% — but that's not the whole story.",
+    "2. The hidden price tag\n\nClosed models bundle inference, fine-tuning, and API calls into one opaque bill. You never see how much each token really costs.",
+    "3. The hiring plan trap\n\nYour model choice locks in your team structure. Closed stack needs ML engineers; open weights need infra and ops people.",
+    "4. The commitment window\n\nSwitching later costs 6–12 months of rework. Pick one stack this quarter or pay double next year.",
+    "5. Test your own numbers\n\nTake your last month's API bill and halve it. If that savings doesn't change your roadmap, stay closed. If it does, start prototyping open weights this week."
+  ],
+  "video_script": [
+    "Closed models hide real costs, says Nvidia.",
+    "Open weights can cut your compute bill by ninety percent.",
+    "Your model choice decides your next hiring plan.",
+    "Switching stacks later costs six to twelve months.",
+    "Pick one stack and commit this quarter."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The 90% compute cut\n\nOne Nvidia voice admits closed models hide real costs. Open weights can slash your compute bill by 90% — but that's not the whole story.",
+        "2. The hidden price tag\n\nClosed models bundle inference, fine-tuning, and API calls into one opaque bill. You never see how much each token really costs.",
+        "3. The hiring plan trap\n\nYour model choice locks in your team structure. Closed stack needs ML engineers; open weights need infra and ops people.",
+        "4. The commitment window\n\nSwitching later costs 6–12 months of rework. Pick one stack this quarter or pay double next year.",
+        "5. Test your own numbers\n\nTake your last month's API bill and halve it. If that savings doesn't change your roadmap, stay closed. If it does, start prototyping open weights this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Closed models hide real costs, says Nvidia.",
+        "Open weights can cut your compute bill by ninety percent.",
+        "Your model choice decides your next hiring plan.",
+        "Switching stacks later costs six to twelve months.",
+        "Pick one stack and commit this quarter."
+      ]
+    },
+    "instagram": {
+      "caption": "Open weights can cut your compute bill by 90% — and one Nvidia voice says closed models hide what you're actually paying.\n\nAt TechCrunch Disrupt 2026, Nvidia's Nader Khalil and Sydney Sykes dig into the open-vs-closed decision shaping next-gen startups.\n\nClosed models bundle inference, fine-tuning and API calls into one opaque bill. You never see your real cost per token.\n\nYour stack choice also locks your hiring: closed needs ML engineers, open needs infra people. Switching later costs 6–12 months of rework. 🧠\n\nTake last month's API bill and halve it. Does that change your roadmap? 👀\n\nIf yes, start prototyping open weights this week. ⚙️ What's stopping you?"
+    }
+  },
+  "instagram_caption": "Open weights can cut your compute bill by 90% — and one Nvidia voice says closed models hide what you're actually paying.\n\nAt TechCrunch Disrupt 2026, Nvidia's Nader Khalil and Sydney Sykes dig into the open-vs-closed decision shaping next-gen startups.\n\nClosed models bundle inference, fine-tuning and API calls into one opaque bill. You never see your real cost per token.\n\nYour stack choice also locks your hiring: closed needs ML engineers, open needs infra people. Switching later costs 6–12 months of rework. 🧠\n\nTake last month's API bill and halve it. Does that change your roadmap? 👀\n\nIf yes, start prototyping open weights this week. ⚙️ What's stopping you?",
+  "carousel_slides": [
+    {
+      "hook": "Open or closed: which AI survives?",
+      "description": "Open weights can cut your compute bill by 90%, per one Nvidia voice. But closed models hide real costs.",
+      "visual_hint": "Split screen open vs closed server",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Closed models hide their real bill",
+      "description": "Inference, fine-tuning, and API calls bundle into one opaque bill. You never see per-token costs, warns Nvidia's Khalil.",
+      "visual_hint": "Opaque invoice with hidden line items",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Open weights slash compute costs 90%",
+      "description": "You can cut your compute bill by 90% with open weights, but that's not the whole story, Sykes cautions.",
+      "visual_hint": "Graph dropping to near zero",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your model choice locks your hiring plan",
+      "description": "Closed stack demands ML engineers; open weights need infra and ops people. Switching later costs 6–12 months of rework.",
+      "visual_hint": "Two team org charts side by side",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you pick your stack",
+      "description": "Take last month's API bill and halve it. If savings change your roadmap, prototype open weights this week.",
+      "visual_hint": "Hand circling API bill total",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calculator desk",
+      "image": "https://images.pexels.com/photos/8296969/pexels-photo-8296969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Sykes-Khalil-16x9-Dark.png?resize=1200,675",
+  "savedAt": "2026-09-18T23:46:38.098Z",
+  "sourceId": "210af46fb867c4db53f250ce42f83ebb"
+}

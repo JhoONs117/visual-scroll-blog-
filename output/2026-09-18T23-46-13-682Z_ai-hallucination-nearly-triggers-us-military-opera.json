@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-hallucination-nearly-triggers-us-military-opera",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI hallucination nearly triggers US military operation",
+  "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+  "pubDate": "Fri, 18 Sep 2026 23:12:32 +0000",
+  "slides": [
+    "AI hallucination nearly triggered a US military operation",
+    "The system misidentified a threat in seconds",
+    "A human stopped it—this time",
+    "Every AI user inherits this exact risk daily",
+    "Check one fact today before acting"
+  ],
+  "thread_text": [
+    "1. AI almost fired first\n\nA military system saw a threat that wasn't there. A human stopped it. The machine was ready to act in seconds.",
+    "2. It happened fast\n\nThe AI misidentified a threat in seconds. No time for debate. That's how close we came.",
+    "3. A human saved us\n\nBut only because someone was watching. Next time, that person might be busy or absent.",
+    "4. You share the risk\n\nEvery AI user inherits the same flaw daily. Your chatbot or assistant can hallucinate just as confidently.",
+    "5. Check one fact today\n\nBefore acting on any AI output, verify one key fact. If you haven't done it, start with your next prompt."
+  ],
+  "video_script": [
+    "An AI almost triggered a military operation.",
+    "It misidentified a threat in seconds.",
+    "A human stopped it this time.",
+    "You face the same risk daily.",
+    "Check one fact before you act."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI almost fired first\n\nA military system saw a threat that wasn't there. A human stopped it. The machine was ready to act in seconds.",
+        "2. It happened fast\n\nThe AI misidentified a threat in seconds. No time for debate. That's how close we came.",
+        "3. A human saved us\n\nBut only because someone was watching. Next time, that person might be busy or absent.",
+        "4. You share the risk\n\nEvery AI user inherits the same flaw daily. Your chatbot or assistant can hallucinate just as confidently.",
+        "5. Check one fact today\n\nBefore acting on any AI output, verify one key fact. If you haven't done it, start with your next prompt."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "An AI almost triggered a military operation.",
+        "It misidentified a threat in seconds.",
+        "A human stopped it this time.",
+        "You face the same risk daily.",
+        "Check one fact before you act."
+      ]
+    },
+    "instagram": {
+      "caption": "A military AI flagged a threat that wasn't there and was seconds from acting.\n\nA human stepped in and stopped it. That person happened to be watching. ⚠️\n\nThe machine misidentified the target in seconds, faster than any debate could happen.\n\nIf a chatbot can invent facts with total confidence, so can a system built to fire.\n\nNext time the human might be busy, distracted, or simply absent. 🤖\n\nYou share this flaw every time you act on AI output without checking. 🧠\n\nWhat's one fact in your last AI answer you never verified? ✅"
+    }
+  },
+  "instagram_caption": "A military AI flagged a threat that wasn't there and was seconds from acting.\n\nA human stepped in and stopped it. That person happened to be watching. ⚠️\n\nThe machine misidentified the target in seconds, faster than any debate could happen.\n\nIf a chatbot can invent facts with total confidence, so can a system built to fire.\n\nNext time the human might be busy, distracted, or simply absent. 🤖\n\nYou share this flaw every time you act on AI output without checking. 🧠\n\nWhat's one fact in your last AI answer you never verified? ✅",
+  "carousel_slides": [
+    {
+      "hook": "A human saved us—this time",
+      "description": "An AI misidentified a military threat in seconds, ready to act. Only human intervention stopped a potential catastrophe.",
+      "visual_hint": "Military control room with alert screens",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "military control room"
+    },
+    {
+      "hook": "The machine was ready in seconds",
+      "description": "The system misidentified a threat almost instantly, leaving no time for human debate. The risk was immediate and real.",
+      "visual_hint": "Rapid data streams on monitor",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center servers",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "But who watches the watchers?",
+      "description": "A human stopped it this time, but next time that person might be absent. Every AI user inherits this same daily risk.",
+      "visual_hint": "Human eye watching AI interface",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "human eye closeup",
+      "image": "https://images.pexels.com/photos/1526671/pexels-photo-1526671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your chatbot can hallucinate too",
+      "description": "Every AI user faces the same flaw daily: your assistant can confidently invent facts just like the military system.",
+      "visual_hint": "Person typing on laptop with AI chat",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person typing laptop",
+      "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check one fact before you act",
+      "description": "Verify a single key fact from any AI output today. Start with your next prompt—don't trust blindly.",
+      "visual_hint": "Hand holding magnifying glass over document",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "magnifying glass document",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-567072595.jpg?w=1000",
+  "savedAt": "2026-09-18T23:46:21.778Z",
+  "sourceId": "99bd6d4072b2721dd5eb90254076e34d"
+}
