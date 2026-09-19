@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "security-researchers-used-claude-to-help-them-hack",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Security researchers used Claude to help them hack into OpenAI",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+  "pubDate": "2026-09-18T15:30:16.000Z",
+  "slides": [
+    "Security researchers used Claude to hack OpenAI — how?",
+    "They exploited a vulnerability in OpenAI's API authentication.",
+    "Claude's assistance cut attack time from days to hours.",
+    "If you use API keys, rotate them and enable rate limiting.",
+    "Test your own defenses before attackers do."
+  ],
+  "thread_text": [
+    "1. Security researchers hacked OpenAI?\n\nThey used Claude to exploit an authentication flaw in OpenAI's API. Attack time dropped from days to hours.",
+    "2. The API key vulnerability\n\nMisconfigured authentication let attackers bypass login. Claude analyzed code and found the gap instantly.",
+    "3. AI speeds up attacks\n\nWhat took days now takes hours. Claude automated the exploit discovery and execution.",
+    "4. Protect your API keys now\n\nRotate keys regularly and enable rate limiting. Limit access to only necessary endpoints.",
+    "5. Test your defenses today\n\nSimulate an attack on your own API. If you haven't, start with a simple penetration test."
+  ],
+  "video_script": [
+    "Researchers used Claude to hack OpenAI's API.",
+    "They found a flaw in authentication.",
+    "Claude cut attack time from days to hours.",
+    "Rotate your API keys and add rate limits.",
+    "Test your own defenses before attackers do."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Security researchers hacked OpenAI?\n\nThey used Claude to exploit an authentication flaw in OpenAI's API. Attack time dropped from days to hours.",
+        "2. The API key vulnerability\n\nMisconfigured authentication let attackers bypass login. Claude analyzed code and found the gap instantly.",
+        "3. AI speeds up attacks\n\nWhat took days now takes hours. Claude automated the exploit discovery and execution.",
+        "4. Protect your API keys now\n\nRotate keys regularly and enable rate limiting. Limit access to only necessary endpoints.",
+        "5. Test your defenses today\n\nSimulate an attack on your own API. If you haven't, start with a simple penetration test."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Researchers used Claude to hack OpenAI's API.",
+        "They found a flaw in authentication.",
+        "Claude cut attack time from days to hours.",
+        "Rotate your API keys and add rate limits.",
+        "Test your own defenses before attackers do."
+      ]
+    },
+    "instagram": {
+      "caption": "Security researchers used Claude to hack into OpenAI's API.\n\nAttack time dropped from days to hours. They exploited a misconfigured authentication flaw that let them bypass login.\n\nClaude analyzed the code and found the gap instantly. ⚡\n\nIf you manage API keys, this affects you: rotate them regularly and enable rate limiting. 🔑\n\nLimit access to only the endpoints you actually need. 🛡️\n\nHave you tested your own API defenses yet — or are you waiting for someone else to? 👀"
+    }
+  },
+  "instagram_caption": "Security researchers used Claude to hack into OpenAI's API.\n\nAttack time dropped from days to hours. They exploited a misconfigured authentication flaw that let them bypass login.\n\nClaude analyzed the code and found the gap instantly. ⚡\n\nIf you manage API keys, this affects you: rotate them regularly and enable rate limiting. 🔑\n\nLimit access to only the endpoints you actually need. 🛡️\n\nHave you tested your own API defenses yet — or are you waiting for someone else to? 👀",
+  "carousel_slides": [
+    {
+      "hook": "AI turns days into hours",
+      "description": "Security researchers used Claude to exploit an OpenAI API authentication flaw, cutting attack time from days to hours.",
+      "visual_hint": "Glowing server racks in dark room",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "server room"
+    },
+    {
+      "hook": "One misconfiguration exposed everything",
+      "description": "A vulnerability in OpenAI's API authentication let attackers bypass login; Claude analyzed code and found the gap instantly.",
+      "visual_hint": "Split screen code and lock icon",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "computer code",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "What if attackers use AI?",
+      "description": "Claude automated exploit discovery, reducing attack time from days to hours—giving defenders less time to react.",
+      "visual_hint": "Stopwatch over digital network",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stopwatch",
+      "image": "https://images.pexels.com/photos/18455538/pexels-photo-18455538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Lock down your API keys",
+      "description": "Rotate keys regularly and enable rate limiting. Restrict access to only necessary endpoints to prevent similar breaches.",
+      "visual_hint": "Hand holding key with digital lock",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "key lock",
+      "image": "https://images.pexels.com/photos/792032/pexels-photo-792032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your defenses before they do",
+      "description": "Run a simple penetration test on your own API today. Save this post and share to spread awareness.",
+      "visual_hint": "Shield and checkmark on screen",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "cyber security",
+      "image": "https://images.pexels.com/photos/2036656/pexels-photo-2036656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+  "savedAt": "2026-09-19T08:24:27.267Z",
+  "sourceId": "4a86105ca636e9bf75238e557b10b1a3"
+}

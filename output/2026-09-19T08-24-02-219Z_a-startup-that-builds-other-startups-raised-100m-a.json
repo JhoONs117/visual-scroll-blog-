@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "a-startup-that-builds-other-startups-raised-100m-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+  "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+  "pubDate": "Fri, 18 Sep 2026 23:25:01 +0000",
+  "slides": [
+    "Can a startup factory outbuild venture firms?",
+    "PsiQuantum raised $100M to mass-produce startups",
+    "Most fail, but winners now need physical AI",
+    "Builders without hardware skills risk missing this shift",
+    "Pick one physical AI niche and prototype weekly"
+  ],
+  "thread_text": [
+    "1. PsiQuantum's $100M Bet\n\nThe company just raised nine figures to mass-produce startups, not chips. Most will fail, but the winners need physical AI.",
+    "2. Startups As Products\n\nPsiQuantum isn't just building quantum computers. It's building a factory that pumps out new ventures, betting that scale beats traditional VC selection.",
+    "3. The Hardware Filter\n\nBuilders without hardware skills will miss this shift. Physical AI now demands soldering irons and supply chains, not just code.",
+    "4. Weekly Prototype Rule\n\nThe winning play: pick one physical AI niche and ship a prototype every week. No grand plan, just relentless iteration on atoms.",
+    "5. Your Move Today\n\nTake one physical AI problem you care about and sketch a weekly prototype schedule on paper. If you haven't started, why not?"
+  ],
+  "video_script": [
+    "PsiQuantum raised one hundred million to mass-produce startups.",
+    "It's a factory model, not just a fund.",
+    "Most will fail, but winners need physical AI skills.",
+    "If you can't build hardware, you risk missing this.",
+    "Pick one niche and prototype every single week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. PsiQuantum's $100M Bet\n\nThe company just raised nine figures to mass-produce startups, not chips. Most will fail, but the winners need physical AI.",
+        "2. Startups As Products\n\nPsiQuantum isn't just building quantum computers. It's building a factory that pumps out new ventures, betting that scale beats traditional VC selection.",
+        "3. The Hardware Filter\n\nBuilders without hardware skills will miss this shift. Physical AI now demands soldering irons and supply chains, not just code.",
+        "4. Weekly Prototype Rule\n\nThe winning play: pick one physical AI niche and ship a prototype every week. No grand plan, just relentless iteration on atoms.",
+        "5. Your Move Today\n\nTake one physical AI problem you care about and sketch a weekly prototype schedule on paper. If you haven't started, why not?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "PsiQuantum raised one hundred million to mass-produce startups.",
+        "It's a factory model, not just a fund.",
+        "Most will fail, but winners need physical AI skills.",
+        "If you can't build hardware, you risk missing this.",
+        "Pick one niche and prototype every single week."
+      ]
+    },
+    "instagram": {
+      "caption": "Someone just raised $100M to mass-produce startups — not products, whole companies. Most will fail anyway.\n\nPsiQuantum is a startup factory, not a chipmaker. It's betting scale beats traditional venture picking.\n\nThe catch: the winners now need physical AI. That means hardware, soldering, supply chains — not just code. 🔧\n\nIf you build without hardware skills, this shift passes you by. So pick one physical AI niche and prototype weekly. No grand plan, just iteration on atoms. ⚙️\n\nIf you haven't started, what's your one niche this week? 🚀"
+    }
+  },
+  "instagram_caption": "Someone just raised $100M to mass-produce startups — not products, whole companies. Most will fail anyway.\n\nPsiQuantum is a startup factory, not a chipmaker. It's betting scale beats traditional venture picking.\n\nThe catch: the winners now need physical AI. That means hardware, soldering, supply chains — not just code. 🔧\n\nIf you build without hardware skills, this shift passes you by. So pick one physical AI niche and prototype weekly. No grand plan, just iteration on atoms. ⚙️\n\nIf you haven't started, what's your one niche this week? 🚀",
+  "carousel_slides": [
+    {
+      "hook": "Most startup factories will fail. Winners need atoms.",
+      "description": "PsiQuantum raised $100M to mass-produce startups, but success now depends on physical AI skills, not just code.",
+      "visual_hint": "Factory assembly line with robotic arms",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "factory robot"
+    },
+    {
+      "hook": "Startups as products: the new VC killer?",
+      "description": "PsiQuantum is building a venture factory, betting that scale beats traditional VC selection. Most ventures will fail.",
+      "visual_hint": "Venture capital pitch meeting",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Physical AI demands soldering irons, not just code.",
+      "description": "Builders without hardware skills risk missing the shift. Physical AI requires supply chains, not just algorithms.",
+      "visual_hint": "Circuit board with soldering iron",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No grand plan: just weekly atoms iteration.",
+      "description": "Pick one physical AI niche and ship a prototype every week. Relentless iteration on atoms beats planning.",
+      "visual_hint": "Hands assembling small robot prototype",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "robot prototype",
+      "image": "https://images.pexels.com/photos/8294558/pexels-photo-8294558.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: sketch your weekly prototype schedule.",
+      "description": "Take one physical AI problem and sketch a weekly prototype schedule on paper. Start today.",
+      "visual_hint": "Notebook with sketch and pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "notebook sketch",
+      "image": "https://images.pexels.com/photos/30812808/pexels-photo-30812808.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?resize=1200,781",
+  "savedAt": "2026-09-19T08:24:11.246Z",
+  "sourceId": "43903881cded1bf125ccff974319c482"
+}

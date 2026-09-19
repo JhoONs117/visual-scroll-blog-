@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "microsoft-ai-ceo-says-ai-threats-are-real-and-anth",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+      "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+      "pubDate": "2026-09-17T14:00:00.000Z",
+      "slides": [
+        "Can Microsoft's AI chief trust his own creation?",
+        "He warns AI threats are real, not sci-fi",
+        "But blames Anthropic for making it worse",
+        "Your AI tools may inherit that rivalry",
+        "Check which lab powers your assistant today"
+      ],
+      "thread_text": [
+        "1. Microsoft's AI chief warns his own creation?\n\nMustafa Suleyman says AI threats are real, not sci‑fi. But he also blames Anthropic for making things worse. What does that mean for your AI tools?",
+        "2. The rivalry that shapes your AI\n\nMicrosoft and Anthropic are in a quiet battle. Suleyman's comments reveal how lab politics affect safety and features you get.",
+        "3. Who's really making AI dangerous?\n\nSuleyman points at Anthropic's approach as escalating risks. But every lab has its own agenda. Trust is scarce.",
+        "4. Your assistant inherits the fight\n\nThe AI you use daily—Copilot, Claude—carries its maker's biases and rivalries. You're not just a user; you're a pawn.",
+        "5. Check which lab powers your AI today\n\nOpen your AI assistant and look up its maker. Then ask: whose interests does it serve? That's your first step to informed use."
+      ],
+      "video_script": [
+        "Microsoft's AI chief warns about his own creation.",
+        "He says AI threats are real, not sci-fi.",
+        "But he blames Anthropic for making it worse.",
+        "Your AI tools may inherit that rivalry.",
+        "Check which lab powers your assistant today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Microsoft's AI chief warns his own creation?\n\nMustafa Suleyman says AI threats are real, not sci‑fi. But he also blames Anthropic for making things worse. What does that mean for your AI tools?",
+            "2. The rivalry that shapes your AI\n\nMicrosoft and Anthropic are in a quiet battle. Suleyman's comments reveal how lab politics affect safety and features you get.",
+            "3. Who's really making AI dangerous?\n\nSuleyman points at Anthropic's approach as escalating risks. But every lab has its own agenda. Trust is scarce.",
+            "4. Your assistant inherits the fight\n\nThe AI you use daily—Copilot, Claude—carries its maker's biases and rivalries. You're not just a user; you're a pawn.",
+            "5. Check which lab powers your AI today\n\nOpen your AI assistant and look up its maker. Then ask: whose interests does it serve? That's your first step to informed use."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Microsoft's AI chief warns about his own creation.",
+            "He says AI threats are real, not sci-fi.",
+            "But he blames Anthropic for making it worse.",
+            "Your AI tools may inherit that rivalry.",
+            "Check which lab powers your assistant today."
+          ]
+        },
+        "instagram": {
+          "caption": "Microsoft's AI chief says the threats from his own technology are real, not sci-fi.\n\nMustafa Suleyman warns that AI risks are genuine — then points the finger at Anthropic for making them worse. 🧩\n\nTwo rival labs, two agendas, and a safety debate you never voted on.\n\nThe assistant you open every morning inherited that fight. Copilot carries Microsoft's interests, Claude carries Anthropic's. ⚖️\n\nIf you publish or create with AI, that rivalry can quietly shape your output, your tools, your reach. 🔍\n\nOpen your AI assistant now. Check who made it. Then ask yourself: whose interests does it actually serve? 🤔"
+        }
+      },
+      "instagram_caption": "Microsoft's AI chief says the threats from his own technology are real, not sci-fi.\n\nMustafa Suleyman warns that AI risks are genuine — then points the finger at Anthropic for making them worse. 🧩\n\nTwo rival labs, two agendas, and a safety debate you never voted on.\n\nThe assistant you open every morning inherited that fight. Copilot carries Microsoft's interests, Claude carries Anthropic's. ⚖️\n\nIf you publish or create with AI, that rivalry can quietly shape your output, your tools, your reach. 🔍\n\nOpen your AI assistant now. Check who made it. Then ask yourself: whose interests does it actually serve? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Is Microsoft's AI chief afraid of his own creation?",
+          "description": "Mustafa Suleyman warns that AI threats are real, not sci-fi, raising doubts about the technology he helps build.",
+          "visual_hint": "Split face, half human half circuit board",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "artificial intelligence brain"
+        },
+        {
+          "hook": "AI threats are real, not sci-fi",
+          "description": "Suleyman insists the dangers are concrete, yet he points fingers at Anthropic for escalating those very risks.",
+          "visual_hint": "Warning sign next to server rack",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Anthropic is making AI threats worse?",
+          "description": "Suleyman blames Anthropic's approach for increasing risks, but every lab has its own agenda and trust is scarce.",
+          "visual_hint": "Two rival lab logos clashing",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer chip",
+          "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI assistant inherits the rivalry",
+          "description": "Copilot and Claude carry their maker's biases. You're not just a user; you're a pawn in lab politics.",
+          "visual_hint": "Hand holding phone with AI app",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone hand",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check which lab powers your AI today",
+          "description": "Open your AI assistant, look up its maker, and ask whose interests it serves. That's your first step to informed use.",
+          "visual_hint": "Magnifying glass over AI logo",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "magnifying glass",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD-Mustafa-Suleyman.png?quality=90&amp;strip=all&amp;crop=0%2C10.711631919237%2C100%2C78.576736161526&amp;w=1200",
+      "savedAt": "2026-09-19T08:24:36.118Z",
+      "sourceId": "74a1f4fa23b15aaaf4f64aeda5607023"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "security-researchers-used-claude-to-help-them-hack",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Security researchers used Claude to help them hack into OpenAI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+      "pubDate": "2026-09-18T15:30:16.000Z",
+      "slides": [
+        "Security researchers used Claude to hack OpenAI — how?",
+        "They exploited a vulnerability in OpenAI's API authentication.",
+        "Claude's assistance cut attack time from days to hours.",
+        "If you use API keys, rotate them and enable rate limiting.",
+        "Test your own defenses before attackers do."
+      ],
+      "thread_text": [
+        "1. Security researchers hacked OpenAI?\n\nThey used Claude to exploit an authentication flaw in OpenAI's API. Attack time dropped from days to hours.",
+        "2. The API key vulnerability\n\nMisconfigured authentication let attackers bypass login. Claude analyzed code and found the gap instantly.",
+        "3. AI speeds up attacks\n\nWhat took days now takes hours. Claude automated the exploit discovery and execution.",
+        "4. Protect your API keys now\n\nRotate keys regularly and enable rate limiting. Limit access to only necessary endpoints.",
+        "5. Test your defenses today\n\nSimulate an attack on your own API. If you haven't, start with a simple penetration test."
+      ],
+      "video_script": [
+        "Researchers used Claude to hack OpenAI's API.",
+        "They found a flaw in authentication.",
+        "Claude cut attack time from days to hours.",
+        "Rotate your API keys and add rate limits.",
+        "Test your own defenses before attackers do."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Security researchers hacked OpenAI?\n\nThey used Claude to exploit an authentication flaw in OpenAI's API. Attack time dropped from days to hours.",
+            "2. The API key vulnerability\n\nMisconfigured authentication let attackers bypass login. Claude analyzed code and found the gap instantly.",
+            "3. AI speeds up attacks\n\nWhat took days now takes hours. Claude automated the exploit discovery and execution.",
+            "4. Protect your API keys now\n\nRotate keys regularly and enable rate limiting. Limit access to only necessary endpoints.",
+            "5. Test your defenses today\n\nSimulate an attack on your own API. If you haven't, start with a simple penetration test."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Researchers used Claude to hack OpenAI's API.",
+            "They found a flaw in authentication.",
+            "Claude cut attack time from days to hours.",
+            "Rotate your API keys and add rate limits.",
+            "Test your own defenses before attackers do."
+          ]
+        },
+        "instagram": {
+          "caption": "Security researchers used Claude to hack into OpenAI's API.\n\nAttack time dropped from days to hours. They exploited a misconfigured authentication flaw that let them bypass login.\n\nClaude analyzed the code and found the gap instantly. ⚡\n\nIf you manage API keys, this affects you: rotate them regularly and enable rate limiting. 🔑\n\nLimit access to only the endpoints you actually need. 🛡️\n\nHave you tested your own API defenses yet — or are you waiting for someone else to? 👀"
+        }
+      },
+      "instagram_caption": "Security researchers used Claude to hack into OpenAI's API.\n\nAttack time dropped from days to hours. They exploited a misconfigured authentication flaw that let them bypass login.\n\nClaude analyzed the code and found the gap instantly. ⚡\n\nIf you manage API keys, this affects you: rotate them regularly and enable rate limiting. 🔑\n\nLimit access to only the endpoints you actually need. 🛡️\n\nHave you tested your own API defenses yet — or are you waiting for someone else to? 👀",
+      "carousel_slides": [
+        {
+          "hook": "AI turns days into hours",
+          "description": "Security researchers used Claude to exploit an OpenAI API authentication flaw, cutting attack time from days to hours.",
+          "visual_hint": "Glowing server racks in dark room",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "server room"
+        },
+        {
+          "hook": "One misconfiguration exposed everything",
+          "description": "A vulnerability in OpenAI's API authentication let attackers bypass login; Claude analyzed code and found the gap instantly.",
+          "visual_hint": "Split screen code and lock icon",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "computer code",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "What if attackers use AI?",
+          "description": "Claude automated exploit discovery, reducing attack time from days to hours—giving defenders less time to react.",
+          "visual_hint": "Stopwatch over digital network",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stopwatch",
+          "image": "https://images.pexels.com/photos/18455538/pexels-photo-18455538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Lock down your API keys",
+          "description": "Rotate keys regularly and enable rate limiting. Restrict access to only necessary endpoints to prevent similar breaches.",
+          "visual_hint": "Hand holding key with digital lock",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "key lock",
+          "image": "https://images.pexels.com/photos/792032/pexels-photo-792032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your defenses before they do",
+          "description": "Run a simple penetration test on your own API today. Save this post and share to spread awareness.",
+          "visual_hint": "Shield and checkmark on screen",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "cyber security",
+          "image": "https://images.pexels.com/photos/2036656/pexels-photo-2036656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+      "savedAt": "2026-09-19T08:24:27.267Z",
+      "sourceId": "4a86105ca636e9bf75238e557b10b1a3"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "world-model-companies-are-keeping-a-lot-of-secrets",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "World model companies are keeping a lot of secrets",
+      "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "pubDate": "Fri, 18 Sep 2026 20:18:14 +0000",
+      "slides": [
+        "World model companies are hiding something — but what?",
+        "Their AI learns physics by watching videos.",
+        "Yet they won't share how they actually build it.",
+        "You'll demand transparency before adopting any tool.",
+        "Ask vendors: can I see the training data?"
+      ],
+      "thread_text": [
+        "1. The AI black box\n\nWorld model companies are hiding how their systems learn physics. That silence should worry anyone planning to use them.",
+        "2. Watching, not understanding\n\nTheir AI learns physics by watching videos, but we don't know what data or what biases get baked in.",
+        "3. The method is secret\n\nThey won't share how they build it. Without that, you can't tell if it works or just looks like it does.",
+        "4. Your adoption at risk\n\nIf you adopt a tool without transparency, you own every failure it causes. That's a bet most teams can't afford.",
+        "5. Ask for the data\n\nNext time you evaluate a vendor, ask: can I see the training data? If they say no, walk away."
+      ],
+      "video_script": [
+        "World model companies are hiding something big.",
+        "Their AI learns physics just by watching videos.",
+        "But they won't share how they build it.",
+        "So demand transparency before you adopt any tool.",
+        "Ask vendors: can I see your training data?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The AI black box\n\nWorld model companies are hiding how their systems learn physics. That silence should worry anyone planning to use them.",
+            "2. Watching, not understanding\n\nTheir AI learns physics by watching videos, but we don't know what data or what biases get baked in.",
+            "3. The method is secret\n\nThey won't share how they build it. Without that, you can't tell if it works or just looks like it does.",
+            "4. Your adoption at risk\n\nIf you adopt a tool without transparency, you own every failure it causes. That's a bet most teams can't afford.",
+            "5. Ask for the data\n\nNext time you evaluate a vendor, ask: can I see the training data? If they say no, walk away."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "World model companies are hiding something big.",
+            "Their AI learns physics just by watching videos.",
+            "But they won't share how they build it.",
+            "So demand transparency before you adopt any tool.",
+            "Ask vendors: can I see your training data?"
+          ]
+        },
+        "instagram": {
+          "caption": "World model companies won't tell you how their AI learns physics.\n\nTheir systems learn by watching videos, but the training data and biases stay secret. 🔒\n\nThat means you can't tell if a tool actually works or just looks like it does. If you adopt it and it fails, you own the failure.\n\nSo before you integrate any of these tools: ask the vendor to show you the training data. 📊 If they refuse, walk away. 🚪\n\nWould you trust a system you're not allowed to inspect?"
+        }
+      },
+      "instagram_caption": "World model companies won't tell you how their AI learns physics.\n\nTheir systems learn by watching videos, but the training data and biases stay secret. 🔒\n\nThat means you can't tell if a tool actually works or just looks like it does. If you adopt it and it fails, you own the failure.\n\nSo before you integrate any of these tools: ask the vendor to show you the training data. 📊 If they refuse, walk away. 🚪\n\nWould you trust a system you're not allowed to inspect?",
+      "carousel_slides": [
+        {
+          "hook": "What are world model companies hiding?",
+          "description": "These companies won't reveal how their AI learns physics, a secrecy that should alarm anyone planning to use their tools.",
+          "visual_hint": "Locked server room door, shadowy",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "AI learns physics by watching videos",
+          "description": "Their systems learn physics from video, but the training data and hidden biases remain completely unknown to users.",
+          "visual_hint": "Screen showing video frames analyzed",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "video screen",
+          "image": "https://images.pexels.com/photos/8089660/pexels-photo-8089660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Secret method means you can't verify",
+          "description": "They refuse to share their building process, so you can't tell if it truly works or just appears to.",
+          "visual_hint": "Black box with gears inside",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "black box",
+          "image": "https://images.pexels.com/photos/4271691/pexels-photo-4271691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Adopting without transparency means owning failures",
+          "description": "If you adopt a tool without transparency, you own every failure it causes, a bet most teams can't afford.",
+          "visual_hint": "Handshake with warning sign overlay",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "business handshake",
+          "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask vendors: can I see your training data?",
+          "description": "Next time you evaluate a vendor, ask to see the training data. If they refuse, walk away immediately.",
+          "visual_hint": "Question mark over data files",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "data files",
+          "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024",
+      "savedAt": "2026-09-19T08:24:19.119Z",
+      "sourceId": "1dbe8d7c6e86943b93ced571e84aafcc"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "a-startup-that-builds-other-startups-raised-100m-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "pubDate": "Fri, 18 Sep 2026 23:25:01 +0000",
+      "slides": [
+        "Can a startup factory outbuild venture firms?",
+        "PsiQuantum raised $100M to mass-produce startups",
+        "Most fail, but winners now need physical AI",
+        "Builders without hardware skills risk missing this shift",
+        "Pick one physical AI niche and prototype weekly"
+      ],
+      "thread_text": [
+        "1. PsiQuantum's $100M Bet\n\nThe company just raised nine figures to mass-produce startups, not chips. Most will fail, but the winners need physical AI.",
+        "2. Startups As Products\n\nPsiQuantum isn't just building quantum computers. It's building a factory that pumps out new ventures, betting that scale beats traditional VC selection.",
+        "3. The Hardware Filter\n\nBuilders without hardware skills will miss this shift. Physical AI now demands soldering irons and supply chains, not just code.",
+        "4. Weekly Prototype Rule\n\nThe winning play: pick one physical AI niche and ship a prototype every week. No grand plan, just relentless iteration on atoms.",
+        "5. Your Move Today\n\nTake one physical AI problem you care about and sketch a weekly prototype schedule on paper. If you haven't started, why not?"
+      ],
+      "video_script": [
+        "PsiQuantum raised one hundred million to mass-produce startups.",
+        "It's a factory model, not just a fund.",
+        "Most will fail, but winners need physical AI skills.",
+        "If you can't build hardware, you risk missing this.",
+        "Pick one niche and prototype every single week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. PsiQuantum's $100M Bet\n\nThe company just raised nine figures to mass-produce startups, not chips. Most will fail, but the winners need physical AI.",
+            "2. Startups As Products\n\nPsiQuantum isn't just building quantum computers. It's building a factory that pumps out new ventures, betting that scale beats traditional VC selection.",
+            "3. The Hardware Filter\n\nBuilders without hardware skills will miss this shift. Physical AI now demands soldering irons and supply chains, not just code.",
+            "4. Weekly Prototype Rule\n\nThe winning play: pick one physical AI niche and ship a prototype every week. No grand plan, just relentless iteration on atoms.",
+            "5. Your Move Today\n\nTake one physical AI problem you care about and sketch a weekly prototype schedule on paper. If you haven't started, why not?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "PsiQuantum raised one hundred million to mass-produce startups.",
+            "It's a factory model, not just a fund.",
+            "Most will fail, but winners need physical AI skills.",
+            "If you can't build hardware, you risk missing this.",
+            "Pick one niche and prototype every single week."
+          ]
+        },
+        "instagram": {
+          "caption": "Someone just raised $100M to mass-produce startups — not products, whole companies. Most will fail anyway.\n\nPsiQuantum is a startup factory, not a chipmaker. It's betting scale beats traditional venture picking.\n\nThe catch: the winners now need physical AI. That means hardware, soldering, supply chains — not just code. 🔧\n\nIf you build without hardware skills, this shift passes you by. So pick one physical AI niche and prototype weekly. No grand plan, just iteration on atoms. ⚙️\n\nIf you haven't started, what's your one niche this week? 🚀"
+        }
+      },
+      "instagram_caption": "Someone just raised $100M to mass-produce startups — not products, whole companies. Most will fail anyway.\n\nPsiQuantum is a startup factory, not a chipmaker. It's betting scale beats traditional venture picking.\n\nThe catch: the winners now need physical AI. That means hardware, soldering, supply chains — not just code. 🔧\n\nIf you build without hardware skills, this shift passes you by. So pick one physical AI niche and prototype weekly. No grand plan, just iteration on atoms. ⚙️\n\nIf you haven't started, what's your one niche this week? 🚀",
+      "carousel_slides": [
+        {
+          "hook": "Most startup factories will fail. Winners need atoms.",
+          "description": "PsiQuantum raised $100M to mass-produce startups, but success now depends on physical AI skills, not just code.",
+          "visual_hint": "Factory assembly line with robotic arms",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "factory robot"
+        },
+        {
+          "hook": "Startups as products: the new VC killer?",
+          "description": "PsiQuantum is building a venture factory, betting that scale beats traditional VC selection. Most ventures will fail.",
+          "visual_hint": "Venture capital pitch meeting",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Physical AI demands soldering irons, not just code.",
+          "description": "Builders without hardware skills risk missing the shift. Physical AI requires supply chains, not just algorithms.",
+          "visual_hint": "Circuit board with soldering iron",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "circuit board",
+          "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No grand plan: just weekly atoms iteration.",
+          "description": "Pick one physical AI niche and ship a prototype every week. Relentless iteration on atoms beats planning.",
+          "visual_hint": "Hands assembling small robot prototype",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "robot prototype",
+          "image": "https://images.pexels.com/photos/8294558/pexels-photo-8294558.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: sketch your weekly prototype schedule.",
+          "description": "Take one physical AI problem and sketch a weekly prototype schedule on paper. Start today.",
+          "visual_hint": "Notebook with sketch and pen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "notebook sketch",
+          "image": "https://images.pexels.com/photos/30812808/pexels-photo-30812808.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?resize=1200,781",
+      "savedAt": "2026-09-19T08:24:11.246Z",
+      "sourceId": "43903881cded1bf125ccff974319c482"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-and-microsoft-knew-they-were-starting-a-doo",
       "prompt_version": "1.0.0",
       "status": "published",
