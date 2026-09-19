@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "virginia-governor-creates-an-ai-task-force-and-mov",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+  "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+  "pubDate": "2026-09-18T18:29:17.000Z",
+  "slides": [
+    "Can Virginia's new AI task force restrain data centers?",
+    "Governor Youngkin issued an executive order forming the group.",
+    "But it has no authority to enforce limits, only study.",
+    "Local governments may face new reporting requirements for data centers.",
+    "Ask your state representative: will task force recommendations become law?"
+  ],
+  "thread_text": [
+    "1. No Power to Enforce\n\nVirginia's new AI task force can only study data centers — it can't cap their growth. Governor Youngkin's executive order created the group, but left it toothless.",
+    "2. Youngkin's Executive Order\n\nThe governor formed the task force to examine AI's impact on energy and land. But the order gives it zero regulatory authority — just research and recommendations.",
+    "3. Study, Don't Limit\n\nState lawmakers gave the task force a narrow mandate: analyze, report, suggest. Any actual limits would need new legislation — which hasn't been proposed.",
+    "4. Local Reporting Rules\n\nCounties and cities may soon have to file detailed reports on data center power and water use. That data could fuel future fights over permits.",
+    "5. Ask Your Rep\n\nWill task force recommendations become law? Call your state delegate and ask. If they don't have an answer, that's your answer."
+  ],
+  "video_script": [
+    "Virginia's new AI task force cannot enforce limits.",
+    "The governor's order only lets them study data centers.",
+    "State lawmakers gave them no power to cap growth.",
+    "Local governments might face new reporting requirements soon.",
+    "Ask your state representative if recommendations will become law."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. No Power to Enforce\n\nVirginia's new AI task force can only study data centers — it can't cap their growth. Governor Youngkin's executive order created the group, but left it toothless.",
+        "2. Youngkin's Executive Order\n\nThe governor formed the task force to examine AI's impact on energy and land. But the order gives it zero regulatory authority — just research and recommendations.",
+        "3. Study, Don't Limit\n\nState lawmakers gave the task force a narrow mandate: analyze, report, suggest. Any actual limits would need new legislation — which hasn't been proposed.",
+        "4. Local Reporting Rules\n\nCounties and cities may soon have to file detailed reports on data center power and water use. That data could fuel future fights over permits.",
+        "5. Ask Your Rep\n\nWill task force recommendations become law? Call your state delegate and ask. If they don't have an answer, that's your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Virginia's new AI task force cannot enforce limits.",
+        "The governor's order only lets them study data centers.",
+        "State lawmakers gave them no power to cap growth.",
+        "Local governments might face new reporting requirements soon.",
+        "Ask your state representative if recommendations will become law."
+      ]
+    },
+    "instagram": {
+      "caption": "Virginia counties may soon have to report exactly how much power and water your local data centers consume.\n\nGovernor Youngkin signed an executive order creating an AI task force to study the impact of data centers on energy and land.\n\nBut the group has no power to enforce limits — only to research and recommend. Any real cap would require new legislation, which hasn't been proposed. ⚡\n\nSo the boom continues while the state just takes notes. 🗒️\n\nFor anyone publishing or building online, the infrastructure behind your tools stays unregulated — and your energy bills may reflect it. 💧\n\nCall your state delegate and ask: will these recommendations ever become law?"
+    }
+  },
+  "instagram_caption": "Virginia counties may soon have to report exactly how much power and water your local data centers consume.\n\nGovernor Youngkin signed an executive order creating an AI task force to study the impact of data centers on energy and land.\n\nBut the group has no power to enforce limits — only to research and recommend. Any real cap would require new legislation, which hasn't been proposed. ⚡\n\nSo the boom continues while the state just takes notes. 🗒️\n\nFor anyone publishing or building online, the infrastructure behind your tools stays unregulated — and your energy bills may reflect it. 💧\n\nCall your state delegate and ask: will these recommendations ever become law?",
+  "carousel_slides": [
+    {
+      "hook": "Toothless Task Force on AI?",
+      "description": "Virginia's new AI task force can only study data centers, not cap their growth, leaving oversight weak.",
+      "visual_hint": "Empty gavel on desk",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "empty courtroom"
+    },
+    {
+      "hook": "Youngkin's Executive Order Forms Group",
+      "description": "Governor Youngkin created a task force to examine AI's impact, but gave it zero regulatory authority.",
+      "visual_hint": "Governor signing document",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "signing ceremony",
+      "image": "https://images.pexels.com/photos/31005420/pexels-photo-31005420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Study, Don't Limit Data Centers",
+      "description": "The task force can only analyze and suggest; any real limits require new legislation that hasn't been proposed.",
+      "visual_hint": "Stack of unread reports",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "government documents",
+      "image": "https://images.pexels.com/photos/7821927/pexels-photo-7821927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Local Governments Face Reporting Rules",
+      "description": "Counties and cities may soon file detailed reports on data center power and water use, fueling future permit fights.",
+      "visual_hint": "Data center power meters",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "utility meters",
+      "image": "https://images.pexels.com/photos/16832204/pexels-photo-16832204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save This: Ask Your State Rep",
+      "description": "Call your state delegate and ask: will task force recommendations become law? If they don't know, that's your answer.",
+      "visual_hint": "Phone with dial pad",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "phone call",
+      "image": "https://images.pexels.com/photos/4240533/pexels-photo-4240533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-19T16:56:00.846Z",
+  "sourceId": "115cada6134fe4b1908e20425cdfcbd7"
+}

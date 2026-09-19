@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "gavin-newsom-is-pushing-for-an-ai-kill-switch",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Gavin Newsom is pushing for an AI kill switch",
+  "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+  "pubDate": "2026-09-18T17:04:51.000Z",
+  "slides": [
+    "What if Newsom's kill switch could one day muzzle AI?",
+    "California's governor wants emergency power to shut down",
+    "That authority requires defining when AI is dangerous—unresolved",
+    "For builders, unclear triggers mean unpredictable legal risk",
+    "Ask: who watches the watchman when the kill switch flips?"
+  ],
+  "thread_text": [
+    "1. The Kill Switch Question\n\nCalifornia's governor wants emergency power to shut down AI. The catch: no one has defined what 'dangerous' actually means.",
+    "2. One Man, One Button?\n\nNewsom's proposal would let the governor decide when AI crosses the line. That's a lot of trust in a single office.",
+    "3. Danger Has No Definition\n\nThe bill doesn't specify thresholds—no bias metrics, no harm triggers. Without them, the power is unlimited in practice.",
+    "4. Builders Left Guessing\n\nStartups can't predict what gets them shut down. Unclear rules mean legal risk you can't budget for.",
+    "5. Who Audits the Auditor?\n\nIf the kill switch can silence AI, what stops it from silencing critics? Ask your rep: who reviews the governor's call?"
+  ],
+  "video_script": [
+    "California's governor wants a kill switch for AI.",
+    "But nobody defined what dangerous AI actually means.",
+    "So builders face unpredictable legal risk every day.",
+    "And one person could decide what gets shut down.",
+    "Ask your rep: who watches the watchman?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Kill Switch Question\n\nCalifornia's governor wants emergency power to shut down AI. The catch: no one has defined what 'dangerous' actually means.",
+        "2. One Man, One Button?\n\nNewsom's proposal would let the governor decide when AI crosses the line. That's a lot of trust in a single office.",
+        "3. Danger Has No Definition\n\nThe bill doesn't specify thresholds—no bias metrics, no harm triggers. Without them, the power is unlimited in practice.",
+        "4. Builders Left Guessing\n\nStartups can't predict what gets them shut down. Unclear rules mean legal risk you can't budget for.",
+        "5. Who Audits the Auditor?\n\nIf the kill switch can silence AI, what stops it from silencing critics? Ask your rep: who reviews the governor's call?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "California's governor wants a kill switch for AI.",
+        "But nobody defined what dangerous AI actually means.",
+        "So builders face unpredictable legal risk every day.",
+        "And one person could decide what gets shut down.",
+        "Ask your rep: who watches the watchman?"
+      ]
+    },
+    "instagram": {
+      "caption": "Gavin Newsom wants the power to shut down AI systems during an emergency.\n\nThe problem: the proposal never defines what counts as dangerous—no harm thresholds, no bias metrics. So one office decides when AI crosses a line nobody drew. 🚦\n\nIf you build or ship AI tools, that means legal risk you can't plan around. You can't budget for rules that don't exist yet.\n\nAnd if a kill switch can silence AI, who reviews the call when it flips? 🤔\n\nAsk your rep: what triggers it—and who audits the auditor? ⚡"
+    }
+  },
+  "instagram_caption": "Gavin Newsom wants the power to shut down AI systems during an emergency.\n\nThe problem: the proposal never defines what counts as dangerous—no harm thresholds, no bias metrics. So one office decides when AI crosses a line nobody drew. 🚦\n\nIf you build or ship AI tools, that means legal risk you can't plan around. You can't budget for rules that don't exist yet.\n\nAnd if a kill switch can silence AI, who reviews the call when it flips? 🤔\n\nAsk your rep: what triggers it—and who audits the auditor? ⚡",
+  "carousel_slides": [
+    {
+      "hook": "Who defines when AI becomes dangerous?",
+      "description": "California's kill switch bill omits any bias metrics or harm thresholds—unlimited power in practice.",
+      "visual_hint": "Large red emergency button glowing",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "emergency stop button"
+    },
+    {
+      "hook": "One governor, one kill switch?",
+      "description": "Newsom's proposal lets a single office decide when AI crosses the line—concentrated trust without checks.",
+      "visual_hint": "Governor hand near control panel",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "control panel switches",
+      "image": "https://images.pexels.com/photos/39255985/pexels-photo-39255985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No thresholds, no limits, no warning",
+      "description": "The bill lacks defined triggers, so shutdown authority is effectively unbounded—no clear due process.",
+      "visual_hint": "Fuzzy gauge without clear markings",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "pressure gauge dial",
+      "image": "https://images.pexels.com/photos/18027547/pexels-photo-18027547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Builders can't budget for shutdown risk",
+      "description": "Startups face unpredictable legal risk because unclear triggers mean any AI could be silenced overnight.",
+      "visual_hint": "Developer staring at unclear legal document",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office worker laptop",
+      "image": "https://images.pexels.com/photos/7993573/pexels-photo-7993573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who audits the auditor when silence falls?",
+      "description": "Save this post and ask your representative: who reviews the governor's kill switch decision?",
+      "visual_hint": "Person writing to elected official",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "capitol building exterior",
+      "image": "https://images.pexels.com/photos/37197042/pexels-photo-37197042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292819671.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.729329167465%2C100%2C78.541341665071&amp;w=1200",
+  "savedAt": "2026-09-19T16:56:11.382Z",
+  "sourceId": "a773bfa98d7208067d8c557f2766b4ee"
+}

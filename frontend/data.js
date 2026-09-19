@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "gavin-newsom-is-pushing-for-an-ai-kill-switch",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Gavin Newsom is pushing for an AI kill switch",
+    "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+    "pubDate": "2026-09-18T17:04:51.000Z",
+    "slides": [
+      "What if Newsom's kill switch could one day muzzle AI?",
+      "California's governor wants emergency power to shut down",
+      "That authority requires defining when AI is dangerous—unresolved",
+      "For builders, unclear triggers mean unpredictable legal risk",
+      "Ask: who watches the watchman when the kill switch flips?"
+    ],
+    "thread_text": [
+      "1. The Kill Switch Question\n\nCalifornia's governor wants emergency power to shut down AI. The catch: no one has defined what 'dangerous' actually means.",
+      "2. One Man, One Button?\n\nNewsom's proposal would let the governor decide when AI crosses the line. That's a lot of trust in a single office.",
+      "3. Danger Has No Definition\n\nThe bill doesn't specify thresholds—no bias metrics, no harm triggers. Without them, the power is unlimited in practice.",
+      "4. Builders Left Guessing\n\nStartups can't predict what gets them shut down. Unclear rules mean legal risk you can't budget for.",
+      "5. Who Audits the Auditor?\n\nIf the kill switch can silence AI, what stops it from silencing critics? Ask your rep: who reviews the governor's call?"
+    ],
+    "video_script": [
+      "California's governor wants a kill switch for AI.",
+      "But nobody defined what dangerous AI actually means.",
+      "So builders face unpredictable legal risk every day.",
+      "And one person could decide what gets shut down.",
+      "Ask your rep: who watches the watchman?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Kill Switch Question\n\nCalifornia's governor wants emergency power to shut down AI. The catch: no one has defined what 'dangerous' actually means.",
+          "2. One Man, One Button?\n\nNewsom's proposal would let the governor decide when AI crosses the line. That's a lot of trust in a single office.",
+          "3. Danger Has No Definition\n\nThe bill doesn't specify thresholds—no bias metrics, no harm triggers. Without them, the power is unlimited in practice.",
+          "4. Builders Left Guessing\n\nStartups can't predict what gets them shut down. Unclear rules mean legal risk you can't budget for.",
+          "5. Who Audits the Auditor?\n\nIf the kill switch can silence AI, what stops it from silencing critics? Ask your rep: who reviews the governor's call?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "California's governor wants a kill switch for AI.",
+          "But nobody defined what dangerous AI actually means.",
+          "So builders face unpredictable legal risk every day.",
+          "And one person could decide what gets shut down.",
+          "Ask your rep: who watches the watchman?"
+        ]
+      },
+      "instagram": {
+        "caption": "Gavin Newsom wants the power to shut down AI systems during an emergency.\n\nThe problem: the proposal never defines what counts as dangerous—no harm thresholds, no bias metrics. So one office decides when AI crosses a line nobody drew. 🚦\n\nIf you build or ship AI tools, that means legal risk you can't plan around. You can't budget for rules that don't exist yet.\n\nAnd if a kill switch can silence AI, who reviews the call when it flips? 🤔\n\nAsk your rep: what triggers it—and who audits the auditor? ⚡"
+      }
+    },
+    "instagram_caption": "Gavin Newsom wants the power to shut down AI systems during an emergency.\n\nThe problem: the proposal never defines what counts as dangerous—no harm thresholds, no bias metrics. So one office decides when AI crosses a line nobody drew. 🚦\n\nIf you build or ship AI tools, that means legal risk you can't plan around. You can't budget for rules that don't exist yet.\n\nAnd if a kill switch can silence AI, who reviews the call when it flips? 🤔\n\nAsk your rep: what triggers it—and who audits the auditor? ⚡",
+    "carousel_slides": [
+      {
+        "hook": "Who defines when AI becomes dangerous?",
+        "description": "California's kill switch bill omits any bias metrics or harm thresholds—unlimited power in practice.",
+        "visual_hint": "Large red emergency button glowing",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "emergency stop button"
+      },
+      {
+        "hook": "One governor, one kill switch?",
+        "description": "Newsom's proposal lets a single office decide when AI crosses the line—concentrated trust without checks.",
+        "visual_hint": "Governor hand near control panel",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "control panel switches",
+        "image": "https://images.pexels.com/photos/39255985/pexels-photo-39255985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No thresholds, no limits, no warning",
+        "description": "The bill lacks defined triggers, so shutdown authority is effectively unbounded—no clear due process.",
+        "visual_hint": "Fuzzy gauge without clear markings",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "pressure gauge dial",
+        "image": "https://images.pexels.com/photos/18027547/pexels-photo-18027547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Builders can't budget for shutdown risk",
+        "description": "Startups face unpredictable legal risk because unclear triggers mean any AI could be silenced overnight.",
+        "visual_hint": "Developer staring at unclear legal document",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office worker laptop",
+        "image": "https://images.pexels.com/photos/7993573/pexels-photo-7993573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who audits the auditor when silence falls?",
+        "description": "Save this post and ask your representative: who reviews the governor's kill switch decision?",
+        "visual_hint": "Person writing to elected official",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "capitol building exterior",
+        "image": "https://images.pexels.com/photos/37197042/pexels-photo-37197042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292819671.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.729329167465%2C100%2C78.541341665071&amp;w=1200",
+    "savedAt": "2026-09-19T16:56:11.382Z",
+    "sourceId": "a773bfa98d7208067d8c557f2766b4ee"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "virginia-governor-creates-an-ai-task-force-and-mov",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+    "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+    "pubDate": "2026-09-18T18:29:17.000Z",
+    "slides": [
+      "Can Virginia's new AI task force restrain data centers?",
+      "Governor Youngkin issued an executive order forming the group.",
+      "But it has no authority to enforce limits, only study.",
+      "Local governments may face new reporting requirements for data centers.",
+      "Ask your state representative: will task force recommendations become law?"
+    ],
+    "thread_text": [
+      "1. No Power to Enforce\n\nVirginia's new AI task force can only study data centers — it can't cap their growth. Governor Youngkin's executive order created the group, but left it toothless.",
+      "2. Youngkin's Executive Order\n\nThe governor formed the task force to examine AI's impact on energy and land. But the order gives it zero regulatory authority — just research and recommendations.",
+      "3. Study, Don't Limit\n\nState lawmakers gave the task force a narrow mandate: analyze, report, suggest. Any actual limits would need new legislation — which hasn't been proposed.",
+      "4. Local Reporting Rules\n\nCounties and cities may soon have to file detailed reports on data center power and water use. That data could fuel future fights over permits.",
+      "5. Ask Your Rep\n\nWill task force recommendations become law? Call your state delegate and ask. If they don't have an answer, that's your answer."
+    ],
+    "video_script": [
+      "Virginia's new AI task force cannot enforce limits.",
+      "The governor's order only lets them study data centers.",
+      "State lawmakers gave them no power to cap growth.",
+      "Local governments might face new reporting requirements soon.",
+      "Ask your state representative if recommendations will become law."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. No Power to Enforce\n\nVirginia's new AI task force can only study data centers — it can't cap their growth. Governor Youngkin's executive order created the group, but left it toothless.",
+          "2. Youngkin's Executive Order\n\nThe governor formed the task force to examine AI's impact on energy and land. But the order gives it zero regulatory authority — just research and recommendations.",
+          "3. Study, Don't Limit\n\nState lawmakers gave the task force a narrow mandate: analyze, report, suggest. Any actual limits would need new legislation — which hasn't been proposed.",
+          "4. Local Reporting Rules\n\nCounties and cities may soon have to file detailed reports on data center power and water use. That data could fuel future fights over permits.",
+          "5. Ask Your Rep\n\nWill task force recommendations become law? Call your state delegate and ask. If they don't have an answer, that's your answer."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Virginia's new AI task force cannot enforce limits.",
+          "The governor's order only lets them study data centers.",
+          "State lawmakers gave them no power to cap growth.",
+          "Local governments might face new reporting requirements soon.",
+          "Ask your state representative if recommendations will become law."
+        ]
+      },
+      "instagram": {
+        "caption": "Virginia counties may soon have to report exactly how much power and water your local data centers consume.\n\nGovernor Youngkin signed an executive order creating an AI task force to study the impact of data centers on energy and land.\n\nBut the group has no power to enforce limits — only to research and recommend. Any real cap would require new legislation, which hasn't been proposed. ⚡\n\nSo the boom continues while the state just takes notes. 🗒️\n\nFor anyone publishing or building online, the infrastructure behind your tools stays unregulated — and your energy bills may reflect it. 💧\n\nCall your state delegate and ask: will these recommendations ever become law?"
+      }
+    },
+    "instagram_caption": "Virginia counties may soon have to report exactly how much power and water your local data centers consume.\n\nGovernor Youngkin signed an executive order creating an AI task force to study the impact of data centers on energy and land.\n\nBut the group has no power to enforce limits — only to research and recommend. Any real cap would require new legislation, which hasn't been proposed. ⚡\n\nSo the boom continues while the state just takes notes. 🗒️\n\nFor anyone publishing or building online, the infrastructure behind your tools stays unregulated — and your energy bills may reflect it. 💧\n\nCall your state delegate and ask: will these recommendations ever become law?",
+    "carousel_slides": [
+      {
+        "hook": "Toothless Task Force on AI?",
+        "description": "Virginia's new AI task force can only study data centers, not cap their growth, leaving oversight weak.",
+        "visual_hint": "Empty gavel on desk",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "empty courtroom"
+      },
+      {
+        "hook": "Youngkin's Executive Order Forms Group",
+        "description": "Governor Youngkin created a task force to examine AI's impact, but gave it zero regulatory authority.",
+        "visual_hint": "Governor signing document",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "signing ceremony",
+        "image": "https://images.pexels.com/photos/31005420/pexels-photo-31005420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Study, Don't Limit Data Centers",
+        "description": "The task force can only analyze and suggest; any real limits require new legislation that hasn't been proposed.",
+        "visual_hint": "Stack of unread reports",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "government documents",
+        "image": "https://images.pexels.com/photos/7821927/pexels-photo-7821927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Local Governments Face Reporting Rules",
+        "description": "Counties and cities may soon file detailed reports on data center power and water use, fueling future permit fights.",
+        "visual_hint": "Data center power meters",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "utility meters",
+        "image": "https://images.pexels.com/photos/16832204/pexels-photo-16832204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save This: Ask Your State Rep",
+        "description": "Call your state delegate and ask: will task force recommendations become law? If they don't know, that's your answer.",
+        "visual_hint": "Phone with dial pad",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "phone call",
+        "image": "https://images.pexels.com/photos/4240533/pexels-photo-4240533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-09-19T16:56:00.846Z",
+    "sourceId": "115cada6134fe4b1908e20425cdfcbd7"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "petlibro-s-new-ai-powered-feeder-is-a-game-changer",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+    "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+    "pubDate": "Sat, 19 Sep 2026 15:00:00 +0000",
+    "slides": [
+      "Can Petlibro's new AI feeder end multi-cat feeding wars?",
+      "It uses AI to identify each cat by its microchip or face.",
+      "But cats learn to outsmart it in surprising ways.",
+      "You can now schedule individual meals for each cat.",
+      "Test it for a week to see if tensions ease."
+    ],
+    "thread_text": [
+      "1. The real multi-cat problem\n\nPetlibro's new AI feeder claims to end mealtime chaos by identifying each cat and serving individual portions, but the real test is whether it survives feline ingenuity.",
+      "2. Microchip or face scan\n\nThe feeder uses microchip or facial recognition to tell cats apart. It schedules meals per cat, but cats quickly learn to game the system by blocking sensors or swapping positions.",
+      "3. Cats outsmart the AI\n\nIn tests, cats triggered false readings by sitting on the feeder or pawing at the camera. Some even learned to wait for another cat's portion to drop, defeating the purpose.",
+      "4. Scheduling individual meals\n\nYou can now set exact portions and times for each cat via an app. That means no more guarding bowls or separating cats at mealtime—if the AI works as promised.",
+      "5. Test it for a week\n\nTry it for seven days and watch if tensions actually drop. Does it save time, or just add another gadget to outsmart? Share your results."
+    ],
+    "video_script": [
+      "Does this AI feeder really stop cat food wars?",
+      "It scans microchips or faces to serve each cat.",
+      "But cats learn to trick it in clever ways.",
+      "You can schedule individual meals for every cat.",
+      "Test it for a week and see tensions ease."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The real multi-cat problem\n\nPetlibro's new AI feeder claims to end mealtime chaos by identifying each cat and serving individual portions, but the real test is whether it survives feline ingenuity.",
+          "2. Microchip or face scan\n\nThe feeder uses microchip or facial recognition to tell cats apart. It schedules meals per cat, but cats quickly learn to game the system by blocking sensors or swapping positions.",
+          "3. Cats outsmart the AI\n\nIn tests, cats triggered false readings by sitting on the feeder or pawing at the camera. Some even learned to wait for another cat's portion to drop, defeating the purpose.",
+          "4. Scheduling individual meals\n\nYou can now set exact portions and times for each cat via an app. That means no more guarding bowls or separating cats at mealtime—if the AI works as promised.",
+          "5. Test it for a week\n\nTry it for seven days and watch if tensions actually drop. Does it save time, or just add another gadget to outsmart? Share your results."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Does this AI feeder really stop cat food wars?",
+          "It scans microchips or faces to serve each cat.",
+          "But cats learn to trick it in clever ways.",
+          "You can schedule individual meals for every cat.",
+          "Test it for a week and see tensions ease."
+        ]
+      },
+      "instagram": {
+        "caption": "Your cat’s microchip now decides when dinner drops. 🐱\n\nPetlibro’s new feeder identifies each cat by microchip or face scan, then serves a scheduled portion just for them.\n\nYou set exact times and amounts per cat in the app, so no more guarding bowls.\n\nBut cats quickly game it — blocking sensors, swapping spots, waiting for another cat’s food to fall. 😹\n\nIf you live with multiple cats, this could replace separating them at mealtime, or just add one more gadget they outsmart.\n\nTry it for a week — does the tension actually drop, or do they beat the AI? 🤔"
+      }
+    },
+    "instagram_caption": "Your cat’s microchip now decides when dinner drops. 🐱\n\nPetlibro’s new feeder identifies each cat by microchip or face scan, then serves a scheduled portion just for them.\n\nYou set exact times and amounts per cat in the app, so no more guarding bowls.\n\nBut cats quickly game it — blocking sensors, swapping spots, waiting for another cat’s food to fall. 😹\n\nIf you live with multiple cats, this could replace separating them at mealtime, or just add one more gadget they outsmart.\n\nTry it for a week — does the tension actually drop, or do they beat the AI? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Will your cat outsmart this AI feeder?",
+        "description": "Petlibro's AI feeder identifies each cat by microchip or face, but real tests show cats trigger false readings by blocking sensors.",
+        "visual_hint": "Cat paw touching feeder sensor",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "cat feeder"
+      },
+      {
+        "hook": "AI tells your cats apart",
+        "description": "The feeder uses microchip or facial recognition to schedule individual meals, but cats quickly learn to swap positions and game the system.",
+        "visual_hint": "Microchip scanner on cat collar",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "microchip cat",
+        "image": "https://images.pexels.com/photos/31672382/pexels-photo-31672382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cats defeat the algorithm",
+        "description": "In tests, cats sat on the feeder or pawed the camera, causing false readings. Some waited for another cat's portion to drop.",
+        "visual_hint": "Cat sitting on feeder camera",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "cat sitting",
+        "image": "https://images.pexels.com/photos/26950510/pexels-photo-26950510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No more guarding bowls",
+        "description": "Set exact portions and times per cat via an app. That means no more separating cats at mealtime, if the AI works as promised.",
+        "visual_hint": "Hand using app with cat",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "smartphone app",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it for seven days",
+        "description": "Try the feeder for a week and watch if tensions drop. Save this post and share your results in comments.",
+        "visual_hint": "Calendar with cat icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calendar week",
+        "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Granary2-feeder.png?w=1200",
+    "savedAt": "2026-09-19T16:55:52.170Z",
+    "sourceId": "031e78fea7f65b8959b03f2a028ef390"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "the-ai-regulation-smackdown-isn-t-over",
     "prompt_version": "1.0.0",
     "status": "published",

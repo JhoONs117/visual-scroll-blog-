@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "petlibro-s-new-ai-powered-feeder-is-a-game-changer",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+  "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+  "pubDate": "Sat, 19 Sep 2026 15:00:00 +0000",
+  "slides": [
+    "Can Petlibro's new AI feeder end multi-cat feeding wars?",
+    "It uses AI to identify each cat by its microchip or face.",
+    "But cats learn to outsmart it in surprising ways.",
+    "You can now schedule individual meals for each cat.",
+    "Test it for a week to see if tensions ease."
+  ],
+  "thread_text": [
+    "1. The real multi-cat problem\n\nPetlibro's new AI feeder claims to end mealtime chaos by identifying each cat and serving individual portions, but the real test is whether it survives feline ingenuity.",
+    "2. Microchip or face scan\n\nThe feeder uses microchip or facial recognition to tell cats apart. It schedules meals per cat, but cats quickly learn to game the system by blocking sensors or swapping positions.",
+    "3. Cats outsmart the AI\n\nIn tests, cats triggered false readings by sitting on the feeder or pawing at the camera. Some even learned to wait for another cat's portion to drop, defeating the purpose.",
+    "4. Scheduling individual meals\n\nYou can now set exact portions and times for each cat via an app. That means no more guarding bowls or separating cats at mealtime—if the AI works as promised.",
+    "5. Test it for a week\n\nTry it for seven days and watch if tensions actually drop. Does it save time, or just add another gadget to outsmart? Share your results."
+  ],
+  "video_script": [
+    "Does this AI feeder really stop cat food wars?",
+    "It scans microchips or faces to serve each cat.",
+    "But cats learn to trick it in clever ways.",
+    "You can schedule individual meals for every cat.",
+    "Test it for a week and see tensions ease."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The real multi-cat problem\n\nPetlibro's new AI feeder claims to end mealtime chaos by identifying each cat and serving individual portions, but the real test is whether it survives feline ingenuity.",
+        "2. Microchip or face scan\n\nThe feeder uses microchip or facial recognition to tell cats apart. It schedules meals per cat, but cats quickly learn to game the system by blocking sensors or swapping positions.",
+        "3. Cats outsmart the AI\n\nIn tests, cats triggered false readings by sitting on the feeder or pawing at the camera. Some even learned to wait for another cat's portion to drop, defeating the purpose.",
+        "4. Scheduling individual meals\n\nYou can now set exact portions and times for each cat via an app. That means no more guarding bowls or separating cats at mealtime—if the AI works as promised.",
+        "5. Test it for a week\n\nTry it for seven days and watch if tensions actually drop. Does it save time, or just add another gadget to outsmart? Share your results."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Does this AI feeder really stop cat food wars?",
+        "It scans microchips or faces to serve each cat.",
+        "But cats learn to trick it in clever ways.",
+        "You can schedule individual meals for every cat.",
+        "Test it for a week and see tensions ease."
+      ]
+    },
+    "instagram": {
+      "caption": "Your cat’s microchip now decides when dinner drops. 🐱\n\nPetlibro’s new feeder identifies each cat by microchip or face scan, then serves a scheduled portion just for them.\n\nYou set exact times and amounts per cat in the app, so no more guarding bowls.\n\nBut cats quickly game it — blocking sensors, swapping spots, waiting for another cat’s food to fall. 😹\n\nIf you live with multiple cats, this could replace separating them at mealtime, or just add one more gadget they outsmart.\n\nTry it for a week — does the tension actually drop, or do they beat the AI? 🤔"
+    }
+  },
+  "instagram_caption": "Your cat’s microchip now decides when dinner drops. 🐱\n\nPetlibro’s new feeder identifies each cat by microchip or face scan, then serves a scheduled portion just for them.\n\nYou set exact times and amounts per cat in the app, so no more guarding bowls.\n\nBut cats quickly game it — blocking sensors, swapping spots, waiting for another cat’s food to fall. 😹\n\nIf you live with multiple cats, this could replace separating them at mealtime, or just add one more gadget they outsmart.\n\nTry it for a week — does the tension actually drop, or do they beat the AI? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Will your cat outsmart this AI feeder?",
+      "description": "Petlibro's AI feeder identifies each cat by microchip or face, but real tests show cats trigger false readings by blocking sensors.",
+      "visual_hint": "Cat paw touching feeder sensor",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "cat feeder"
+    },
+    {
+      "hook": "AI tells your cats apart",
+      "description": "The feeder uses microchip or facial recognition to schedule individual meals, but cats quickly learn to swap positions and game the system.",
+      "visual_hint": "Microchip scanner on cat collar",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "microchip cat",
+      "image": "https://images.pexels.com/photos/31672382/pexels-photo-31672382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cats defeat the algorithm",
+      "description": "In tests, cats sat on the feeder or pawed the camera, causing false readings. Some waited for another cat's portion to drop.",
+      "visual_hint": "Cat sitting on feeder camera",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "cat sitting",
+      "image": "https://images.pexels.com/photos/26950510/pexels-photo-26950510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No more guarding bowls",
+      "description": "Set exact portions and times per cat via an app. That means no more separating cats at mealtime, if the AI works as promised.",
+      "visual_hint": "Hand using app with cat",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone app",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it for seven days",
+      "description": "Try the feeder for a week and watch if tensions drop. Save this post and share your results in comments.",
+      "visual_hint": "Calendar with cat icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar week",
+      "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Granary2-feeder.png?w=1200",
+  "savedAt": "2026-09-19T16:55:52.170Z",
+  "sourceId": "031e78fea7f65b8959b03f2a028ef390"
+}
