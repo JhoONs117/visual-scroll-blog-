@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "vals-backed-by-andreessen-horowitz-is-looking-to-b",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+  "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+  "pubDate": "Sat, 19 Sep 2026 13:00:00 +0000",
+  "slides": [
+    "Can Vals become the gold standard for AI benchmarking?",
+    "It's backed by Andreessen Horowitz with fresh funding.",
+    "But current benchmarks are easily gamed by overfitting.",
+    "This means you can't trust AI test scores blindly.",
+    "Test AI on your own tasks, not just public leaderboards."
+  ],
+  "thread_text": [
+    "1. AI Benchmarks Are Broken\n\nAndreessen Horowitz just backed Vals with fresh funding to fix them. But the real problem isn't who's funding it.",
+    "2. Overfitting Ruins Everything\n\nCurrent benchmarks are easily gamed by overfitting. Models memorize tests instead of learning to reason.",
+    "3. Your Trust Is Misplaced\n\nThis means you can't trust AI test scores blindly. A high rank doesn't guarantee real-world performance.",
+    "4. Vals Wants To Change That\n\nCan Vals become the gold standard? It's trying to measure what actually matters, not just what's easy to score.",
+    "5. Test On Your Own Tasks\n\nDon't rely on public leaderboards. Take a prompt you use daily and test the model yourself this week."
+  ],
+  "video_script": [
+    "AI benchmarks are broken right now.",
+    "Models cheat by overfitting to tests.",
+    "So you can't trust public scores.",
+    "Vals is trying to fix this.",
+    "Test AI on your own tasks."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Benchmarks Are Broken\n\nAndreessen Horowitz just backed Vals with fresh funding to fix them. But the real problem isn't who's funding it.",
+        "2. Overfitting Ruins Everything\n\nCurrent benchmarks are easily gamed by overfitting. Models memorize tests instead of learning to reason.",
+        "3. Your Trust Is Misplaced\n\nThis means you can't trust AI test scores blindly. A high rank doesn't guarantee real-world performance.",
+        "4. Vals Wants To Change That\n\nCan Vals become the gold standard? It's trying to measure what actually matters, not just what's easy to score.",
+        "5. Test On Your Own Tasks\n\nDon't rely on public leaderboards. Take a prompt you use daily and test the model yourself this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI benchmarks are broken right now.",
+        "Models cheat by overfitting to tests.",
+        "So you can't trust public scores.",
+        "Vals is trying to fix this.",
+        "Test AI on your own tasks."
+      ]
+    },
+    "instagram": {
+      "caption": "A company just raised money to fix a problem most people don't know exists. 🧠\n\nBenchmarks that rank AI models are easily gamed by overfitting. Models memorize the tests instead of learning to reason.\n\nVals, now backed by Andreessen Horowitz, wants to become the gold standard for measuring what actually matters.\n\nSo a high leaderboard rank means less than you think. 🔍\n\nIf you use AI to write, code, or research, don't trust public scores blindly this week.\n\nTake one prompt you use daily and run it through two models yourself.\n\nWhich task would you actually test? 👇"
+    }
+  },
+  "instagram_caption": "A company just raised money to fix a problem most people don't know exists. 🧠\n\nBenchmarks that rank AI models are easily gamed by overfitting. Models memorize the tests instead of learning to reason.\n\nVals, now backed by Andreessen Horowitz, wants to become the gold standard for measuring what actually matters.\n\nSo a high leaderboard rank means less than you think. 🔍\n\nIf you use AI to write, code, or research, don't trust public scores blindly this week.\n\nTake one prompt you use daily and run it through two models yourself.\n\nWhich task would you actually test? 👇",
+  "carousel_slides": [
+    {
+      "hook": "Can you really trust AI test scores?",
+      "description": "Current benchmarks are easily gamed by overfitting. Models memorize tests instead of learning to reason, so high scores can mislead you.",
+      "visual_hint": "Glowing circuit board with score numbers",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "circuit board"
+    },
+    {
+      "hook": "Fresh funding from Andreessen Horowitz",
+      "description": "Vals just raised new backing from Andreessen Horowitz to become the gold standard for AI benchmarking, measuring what actually matters.",
+      "visual_hint": "Venture capital firm logo on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "venture capital",
+      "image": "https://images.pexels.com/photos/5980867/pexels-photo-5980867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Overfitting ruins everything",
+      "description": "Because benchmarks are gamed by overfitting, models memorize instead of reason. That means a high rank doesn't guarantee real-world performance.",
+      "visual_hint": "Overlapping neural network nodes memorizing",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "neural network",
+      "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your trust is misplaced",
+      "description": "If you trust AI test scores blindly, you risk deploying a model that fails. A leaderboard rank doesn't equal real-world reliability.",
+      "visual_hint": "Hand pointing at misleading chart",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test AI on your own tasks",
+      "description": "Don't rely on public leaderboards. Pick one prompt you use daily, test the model yourself this week, and save this post.",
+      "visual_hint": "Person typing prompt on laptop",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop typing",
+      "image": "https://images.pexels.com/photos/30612694/pexels-photo-30612694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Team.jpeg?resize=1200,800",
+  "savedAt": "2026-09-19T13:35:49.292Z",
+  "sourceId": "0ac6fc9717b544ddd79ffb821a6eb8be"
+}

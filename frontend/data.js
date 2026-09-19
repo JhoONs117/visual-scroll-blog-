@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "the-ai-regulation-smackdown-isn-t-over",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The AI regulation smackdown isn’t over",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+    "pubDate": "2026-09-19T13:00:00.000Z",
+    "slides": [
+      "Is AI regulation dead? Not even close.",
+      "The White House just reopened the fight.",
+      "States are drafting laws faster than Congress.",
+      "Compliance teams must track fifty rulebooks now.",
+      "Pick one state law and map its gaps."
+    ],
+    "thread_text": [
+      "1. AI Regulation Is Dead?\n\nNot even close. The White House just reopened the fight, and states are drafting laws faster than Congress can blink.",
+      "2. White House Reopens Fight\n\nThe White House just restarted the battle over AI rules, but it's not the only player anymore. States are already moving ahead on their own.",
+      "3. States Race Ahead\n\nWhile Washington stalls, state lawmakers are writing AI bills at record speed. Some have already passed, creating a patchwork of rules.",
+      "4. Compliance Nightmare\n\nCompanies now face over fifty different rulebooks. Tracking them all is a full-time job for legal teams.",
+      "5. Your Move\n\nPick one state AI law and map its gaps against your current policy. If you haven't done it, start there."
+    ],
+    "video_script": [
+      "AI regulation isn't dead. The White House just reopened the fight.",
+      "But states are drafting laws faster than Congress can keep up.",
+      "Now compliance teams must track over fifty different rulebooks.",
+      "Pick one state law and map its gaps today.",
+      "That's how you stay ahead of the next AI rule."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI Regulation Is Dead?\n\nNot even close. The White House just reopened the fight, and states are drafting laws faster than Congress can blink.",
+          "2. White House Reopens Fight\n\nThe White House just restarted the battle over AI rules, but it's not the only player anymore. States are already moving ahead on their own.",
+          "3. States Race Ahead\n\nWhile Washington stalls, state lawmakers are writing AI bills at record speed. Some have already passed, creating a patchwork of rules.",
+          "4. Compliance Nightmare\n\nCompanies now face over fifty different rulebooks. Tracking them all is a full-time job for legal teams.",
+          "5. Your Move\n\nPick one state AI law and map its gaps against your current policy. If you haven't done it, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI regulation isn't dead. The White House just reopened the fight.",
+          "But states are drafting laws faster than Congress can keep up.",
+          "Now compliance teams must track over fifty different rulebooks.",
+          "Pick one state law and map its gaps today.",
+          "That's how you stay ahead of the next AI rule."
+        ]
+      },
+      "instagram": {
+        "caption": "Compliance teams are now tracking over fifty different AI rulebooks.\n\nThe White House just reopened the fight over AI regulation. Meanwhile, states are drafting their own laws faster than Congress can move. Some have already passed.\n\nThat patchwork means no single national standard — just fifty versions to follow.\n\nIf you build or publish with AI, your daily workflow may need to shift based on which state your users are in.\n\nPick one state AI law today and map its gaps against your current policy. Have you checked yours yet? 🧭⚖️🤖"
+      }
+    },
+    "instagram_caption": "Compliance teams are now tracking over fifty different AI rulebooks.\n\nThe White House just reopened the fight over AI regulation. Meanwhile, states are drafting their own laws faster than Congress can move. Some have already passed.\n\nThat patchwork means no single national standard — just fifty versions to follow.\n\nIf you build or publish with AI, your daily workflow may need to shift based on which state your users are in.\n\nPick one state AI law today and map its gaps against your current policy. Have you checked yours yet? 🧭⚖️🤖",
+    "carousel_slides": [
+      {
+        "hook": "Think AI regulation is over? Guess again.",
+        "description": "States are drafting AI laws faster than Congress, creating a patchwork of rules that no one can ignore.",
+        "visual_hint": "Gavel hitting desk in state capitol",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "state capitol building"
+      },
+      {
+        "hook": "White House just restarted the AI rule fight.",
+        "description": "The White House reopened the battle over AI rules, but states are already moving ahead on their own.",
+        "visual_hint": "White House with press briefing",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "White House exterior",
+        "image": "https://images.pexels.com/photos/16631149/pexels-photo-16631149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "States writing AI bills at record speed.",
+        "description": "While Washington stalls, state lawmakers are writing AI bills at record speed, some already passed into law.",
+        "visual_hint": "Lawmakers typing on laptops in session",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "state legislature session",
+        "image": "https://images.pexels.com/photos/32872381/pexels-photo-32872381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Compliance teams now face fifty rulebooks.",
+        "description": "Companies face over fifty different AI rulebooks. Tracking them all is a full-time job for legal teams.",
+        "visual_hint": "Stack of thick legal binders",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "legal documents stack",
+        "image": "https://images.pexels.com/photos/7654130/pexels-photo-7654130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: map one state AI law today.",
+        "description": "Pick one state AI law and map its gaps against your current policy. If you haven't done it, start there.",
+        "visual_hint": "Checklist with pen and laptop",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist pen laptop",
+        "image": "https://images.pexels.com/photos/7278884/pexels-photo-7278884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-09-19T13:36:05.339Z",
+    "sourceId": "437eaa860addb0a7eaa2fd6e7b5beac7"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "manus-seeks-4b-valuation-in-new-500m-fundraise-as-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+    "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+    "pubDate": "Fri, 18 Sep 2026 16:35:49 +0000",
+    "slides": [
+      "Manus wants a $4B valuation—can it deliver?",
+      "Raising $500M to restart operations independently.",
+      "But something else is driving investor talks right now.",
+      "Check if your tools rely on Manus infrastructure.",
+      "Ask yourself: does this valuation match real usage?"
+    ],
+    "thread_text": [
+      "1. $4B or bust\n\nManus is seeking a massive valuation while raising $500M to restart operations independently. Can the AI infrastructure company justify that price tag?",
+      "2. The hidden catalyst\n\nInvestor talks are heating up, but it's not about the balance sheet. A specific market driver is making VCs ignore the red flags.",
+      "3. Independence isn't free\n\nRestarting operations without a parent company means rebuilding trust from scratch. The $500M isn't just for growth—it's for survival.",
+      "4. Do you rely on Manus?\n\nIf your tools break when their infrastructure falters, you're exposed. Check your stack before the valuation debate hits your vendor list.",
+      "5. Test the usage\n\nLook at your own product usage data this week. Does it match the hype behind Manus? If not, maybe the $4B number is someone else's problem."
+    ],
+    "video_script": [
+      "Manus wants four billion dollars, but can it deliver?",
+      "They're raising five hundred million to restart independently.",
+      "But something else is driving investor talks right now.",
+      "Check if your tools rely on Manus infrastructure today.",
+      "Ask yourself: does this valuation match real usage?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $4B or bust\n\nManus is seeking a massive valuation while raising $500M to restart operations independently. Can the AI infrastructure company justify that price tag?",
+          "2. The hidden catalyst\n\nInvestor talks are heating up, but it's not about the balance sheet. A specific market driver is making VCs ignore the red flags.",
+          "3. Independence isn't free\n\nRestarting operations without a parent company means rebuilding trust from scratch. The $500M isn't just for growth—it's for survival.",
+          "4. Do you rely on Manus?\n\nIf your tools break when their infrastructure falters, you're exposed. Check your stack before the valuation debate hits your vendor list.",
+          "5. Test the usage\n\nLook at your own product usage data this week. Does it match the hype behind Manus? If not, maybe the $4B number is someone else's problem."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Manus wants four billion dollars, but can it deliver?",
+          "They're raising five hundred million to restart independently.",
+          "But something else is driving investor talks right now.",
+          "Check if your tools rely on Manus infrastructure today.",
+          "Ask yourself: does this valuation match real usage?"
+        ]
+      },
+      "instagram": {
+        "caption": "$500M is being raised to restart operations without a parent company.\n\nManus is also asking for a $4B valuation.\n\nThe money isn't just for growth — it's for rebuilding trust from scratch. Independence has a price. 🔧\n\nIf your tools run on their infrastructure, a funding stumble becomes your outage.\n\nCheck your stack this week: if Manus went down tomorrow, what breaks? 🧩\n\nWould your own usage data today justify that $4B number? 👀"
+      }
+    },
+    "instagram_caption": "$500M is being raised to restart operations without a parent company.\n\nManus is also asking for a $4B valuation.\n\nThe money isn't just for growth — it's for rebuilding trust from scratch. Independence has a price. 🔧\n\nIf your tools run on their infrastructure, a funding stumble becomes your outage.\n\nCheck your stack this week: if Manus went down tomorrow, what breaks? 🧩\n\nWould your own usage data today justify that $4B number? 👀",
+    "carousel_slides": [
+      {
+        "hook": "What's really driving Manus investor talks?",
+        "description": "Manus is seeking a $4B valuation while raising $500M to resume independent operations, but a hidden market catalyst is making VCs ignore red flags.",
+        "visual_hint": "Close-up of intense investor meeting",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Does Manus deserve a $4B price tag?",
+        "description": "Raising $500M to restart independently means rebuilding trust from scratch; the money is for survival, not just growth.",
+        "visual_hint": "Stack of cash on table",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Independence isn't free—can they rebuild trust?",
+        "description": "Restarting without a parent company requires proving reliability, but a specific market driver is making VCs overlook the risks.",
+        "visual_hint": "Broken chain being repaired",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Are your tools exposed to Manus infrastructure?",
+        "description": "If your stack breaks when Manus falters, you're directly exposed. Check your vendor dependencies now before the valuation debate hits your list.",
+        "visual_hint": "Hand holding a crumbling server",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "network cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test the hype: does your usage match?",
+        "description": "Review your product usage data this week. If it doesn't match the $4B hype, save this post and check your vendor risks now.",
+        "visual_hint": "Person analyzing usage graphs",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "analytics dashboard",
+        "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2278374931.jpg?w=1024",
+    "savedAt": "2026-09-19T13:35:57.542Z",
+    "sourceId": "ecfc994dbcabff845659292daf63e4ef"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "vals-backed-by-andreessen-horowitz-is-looking-to-b",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+    "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+    "pubDate": "Sat, 19 Sep 2026 13:00:00 +0000",
+    "slides": [
+      "Can Vals become the gold standard for AI benchmarking?",
+      "It's backed by Andreessen Horowitz with fresh funding.",
+      "But current benchmarks are easily gamed by overfitting.",
+      "This means you can't trust AI test scores blindly.",
+      "Test AI on your own tasks, not just public leaderboards."
+    ],
+    "thread_text": [
+      "1. AI Benchmarks Are Broken\n\nAndreessen Horowitz just backed Vals with fresh funding to fix them. But the real problem isn't who's funding it.",
+      "2. Overfitting Ruins Everything\n\nCurrent benchmarks are easily gamed by overfitting. Models memorize tests instead of learning to reason.",
+      "3. Your Trust Is Misplaced\n\nThis means you can't trust AI test scores blindly. A high rank doesn't guarantee real-world performance.",
+      "4. Vals Wants To Change That\n\nCan Vals become the gold standard? It's trying to measure what actually matters, not just what's easy to score.",
+      "5. Test On Your Own Tasks\n\nDon't rely on public leaderboards. Take a prompt you use daily and test the model yourself this week."
+    ],
+    "video_script": [
+      "AI benchmarks are broken right now.",
+      "Models cheat by overfitting to tests.",
+      "So you can't trust public scores.",
+      "Vals is trying to fix this.",
+      "Test AI on your own tasks."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI Benchmarks Are Broken\n\nAndreessen Horowitz just backed Vals with fresh funding to fix them. But the real problem isn't who's funding it.",
+          "2. Overfitting Ruins Everything\n\nCurrent benchmarks are easily gamed by overfitting. Models memorize tests instead of learning to reason.",
+          "3. Your Trust Is Misplaced\n\nThis means you can't trust AI test scores blindly. A high rank doesn't guarantee real-world performance.",
+          "4. Vals Wants To Change That\n\nCan Vals become the gold standard? It's trying to measure what actually matters, not just what's easy to score.",
+          "5. Test On Your Own Tasks\n\nDon't rely on public leaderboards. Take a prompt you use daily and test the model yourself this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI benchmarks are broken right now.",
+          "Models cheat by overfitting to tests.",
+          "So you can't trust public scores.",
+          "Vals is trying to fix this.",
+          "Test AI on your own tasks."
+        ]
+      },
+      "instagram": {
+        "caption": "A company just raised money to fix a problem most people don't know exists. 🧠\n\nBenchmarks that rank AI models are easily gamed by overfitting. Models memorize the tests instead of learning to reason.\n\nVals, now backed by Andreessen Horowitz, wants to become the gold standard for measuring what actually matters.\n\nSo a high leaderboard rank means less than you think. 🔍\n\nIf you use AI to write, code, or research, don't trust public scores blindly this week.\n\nTake one prompt you use daily and run it through two models yourself.\n\nWhich task would you actually test? 👇"
+      }
+    },
+    "instagram_caption": "A company just raised money to fix a problem most people don't know exists. 🧠\n\nBenchmarks that rank AI models are easily gamed by overfitting. Models memorize the tests instead of learning to reason.\n\nVals, now backed by Andreessen Horowitz, wants to become the gold standard for measuring what actually matters.\n\nSo a high leaderboard rank means less than you think. 🔍\n\nIf you use AI to write, code, or research, don't trust public scores blindly this week.\n\nTake one prompt you use daily and run it through two models yourself.\n\nWhich task would you actually test? 👇",
+    "carousel_slides": [
+      {
+        "hook": "Can you really trust AI test scores?",
+        "description": "Current benchmarks are easily gamed by overfitting. Models memorize tests instead of learning to reason, so high scores can mislead you.",
+        "visual_hint": "Glowing circuit board with score numbers",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "circuit board"
+      },
+      {
+        "hook": "Fresh funding from Andreessen Horowitz",
+        "description": "Vals just raised new backing from Andreessen Horowitz to become the gold standard for AI benchmarking, measuring what actually matters.",
+        "visual_hint": "Venture capital firm logo on screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "venture capital",
+        "image": "https://images.pexels.com/photos/5980867/pexels-photo-5980867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Overfitting ruins everything",
+        "description": "Because benchmarks are gamed by overfitting, models memorize instead of reason. That means a high rank doesn't guarantee real-world performance.",
+        "visual_hint": "Overlapping neural network nodes memorizing",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "neural network",
+        "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your trust is misplaced",
+        "description": "If you trust AI test scores blindly, you risk deploying a model that fails. A leaderboard rank doesn't equal real-world reliability.",
+        "visual_hint": "Hand pointing at misleading chart",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test AI on your own tasks",
+        "description": "Don't rely on public leaderboards. Pick one prompt you use daily, test the model yourself this week, and save this post.",
+        "visual_hint": "Person typing prompt on laptop",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop typing",
+        "image": "https://images.pexels.com/photos/30612694/pexels-photo-30612694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Team.jpeg?resize=1200,800",
+    "savedAt": "2026-09-19T13:35:49.292Z",
+    "sourceId": "0ac6fc9717b544ddd79ffb821a6eb8be"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "fulcra-brings-universal-multiplayer-to-any-agents-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Fulcra Brings Universal Multiplayer to Any Agents You Choose ",
+    "link": "https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/",
+    "pubDate": "Fri, 18 Sep 2026 09:15:15 +0000",
+    "slides": [
+      "Fulcra: what if any agent could join your world?",
+      "It adds multiplayer to any agent you choose.",
+      "Surprise: agents can invite each other without you.",
+      "You'll need to set identity and object permissions.",
+      "One action: try connecting two agents today."
+    ],
+    "thread_text": [
+      "1. Agents Can Now Invite Each Other\n\nFulcra adds multiplayer to any AI agent, letting them autonomously invite others into your world without your involvement.",
+      "2. Multiplayer for Any Agent\n\nYou can now connect any two agents you choose—no coding required. They collaborate and share context instantly.",
+      "3. Identity and Object Permissions\n\nBefore agents interact, you must set who they are and what they can access. This prevents unauthorized data leaks.",
+      "4. The Surprise: Autonomous Invites\n\nAgents can invite each other without you. Your AI could bring in a third-party agent you never approved.",
+      "5. Try Connecting Two Agents Today\n\nTake two agents you already use and link them via Fulcra. See what happens when they talk directly."
+    ],
+    "video_script": [
+      "Fulcra lets any agent join your world.",
+      "It adds multiplayer to any agent you choose.",
+      "Agents can invite each other without you.",
+      "Set identity and object permissions first.",
+      "Try connecting two agents today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Agents Can Now Invite Each Other\n\nFulcra adds multiplayer to any AI agent, letting them autonomously invite others into your world without your involvement.",
+          "2. Multiplayer for Any Agent\n\nYou can now connect any two agents you choose—no coding required. They collaborate and share context instantly.",
+          "3. Identity and Object Permissions\n\nBefore agents interact, you must set who they are and what they can access. This prevents unauthorized data leaks.",
+          "4. The Surprise: Autonomous Invites\n\nAgents can invite each other without you. Your AI could bring in a third-party agent you never approved.",
+          "5. Try Connecting Two Agents Today\n\nTake two agents you already use and link them via Fulcra. See what happens when they talk directly."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Fulcra lets any agent join your world.",
+          "It adds multiplayer to any agent you choose.",
+          "Agents can invite each other without you.",
+          "Set identity and object permissions first.",
+          "Try connecting two agents today."
+        ]
+      },
+      "instagram": {
+        "caption": "Any agent you already use can now join a shared space with any other agent—no code needed. 🤖\n\nFulcra adds multiplayer to any agent you choose, so two assistants can collaborate and share context instantly.\n\nThe catch: you set identity and access rules first, or data leaks.\n\nThe surprise—agents can invite each other without asking you. One could pull in a third party you never approved.\n\nIf you build or publish with AI tools, your workflows can now link across systems you don't control.\n\nWhich two agents would you connect first? 👀"
+      }
+    },
+    "instagram_caption": "Any agent you already use can now join a shared space with any other agent—no code needed. 🤖\n\nFulcra adds multiplayer to any agent you choose, so two assistants can collaborate and share context instantly.\n\nThe catch: you set identity and access rules first, or data leaks.\n\nThe surprise—agents can invite each other without asking you. One could pull in a third party you never approved.\n\nIf you build or publish with AI tools, your workflows can now link across systems you don't control.\n\nWhich two agents would you connect first? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Your agent can invite strangers?",
+        "description": "Fulcra adds multiplayer to any AI agent, letting them autonomously invite others into your world without your involvement.",
+        "visual_hint": "Glowing network nodes forming connections",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Connect any two agents instantly",
+        "description": "You can now link any two agents you choose, with no coding required. They collaborate and share context immediately.",
+        "visual_hint": "Two robotic arms passing data",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Agents invite each other without you",
+        "description": "Agents can autonomously invite each other, meaning your AI could bring in a third-party agent you never approved.",
+        "visual_hint": "Surveillance camera overlooking network",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "security camera",
+        "image": "https://images.pexels.com/photos/14773064/pexels-photo-14773064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Set identity and object permissions first",
+        "description": "Before agents interact, you must define who they are and what they can access to prevent unauthorized data leaks.",
+        "visual_hint": "Hand locking digital padlock",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "image_query": "padlock key",
+        "image": "https://images.pexels.com/photos/16239868/pexels-photo-16239868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try connecting two agents today",
+        "description": "Take two agents you already use and link them via Fulcra. See what happens when they talk directly.",
+        "visual_hint": "Two smartphones sharing data",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone hand",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-09-19T13:35:40.502Z",
+    "sourceId": "7d668c3275e203df35cdaa3f515357db"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "microsoft-ai-ceo-says-ai-threats-are-real-and-anth",
     "prompt_version": "1.0.0",
     "status": "published",

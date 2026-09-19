@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "fulcra-brings-universal-multiplayer-to-any-agents-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Fulcra Brings Universal Multiplayer to Any Agents You Choose ",
+  "link": "https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/",
+  "pubDate": "Fri, 18 Sep 2026 09:15:15 +0000",
+  "slides": [
+    "Fulcra: what if any agent could join your world?",
+    "It adds multiplayer to any agent you choose.",
+    "Surprise: agents can invite each other without you.",
+    "You'll need to set identity and object permissions.",
+    "One action: try connecting two agents today."
+  ],
+  "thread_text": [
+    "1. Agents Can Now Invite Each Other\n\nFulcra adds multiplayer to any AI agent, letting them autonomously invite others into your world without your involvement.",
+    "2. Multiplayer for Any Agent\n\nYou can now connect any two agents you choose—no coding required. They collaborate and share context instantly.",
+    "3. Identity and Object Permissions\n\nBefore agents interact, you must set who they are and what they can access. This prevents unauthorized data leaks.",
+    "4. The Surprise: Autonomous Invites\n\nAgents can invite each other without you. Your AI could bring in a third-party agent you never approved.",
+    "5. Try Connecting Two Agents Today\n\nTake two agents you already use and link them via Fulcra. See what happens when they talk directly."
+  ],
+  "video_script": [
+    "Fulcra lets any agent join your world.",
+    "It adds multiplayer to any agent you choose.",
+    "Agents can invite each other without you.",
+    "Set identity and object permissions first.",
+    "Try connecting two agents today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Agents Can Now Invite Each Other\n\nFulcra adds multiplayer to any AI agent, letting them autonomously invite others into your world without your involvement.",
+        "2. Multiplayer for Any Agent\n\nYou can now connect any two agents you choose—no coding required. They collaborate and share context instantly.",
+        "3. Identity and Object Permissions\n\nBefore agents interact, you must set who they are and what they can access. This prevents unauthorized data leaks.",
+        "4. The Surprise: Autonomous Invites\n\nAgents can invite each other without you. Your AI could bring in a third-party agent you never approved.",
+        "5. Try Connecting Two Agents Today\n\nTake two agents you already use and link them via Fulcra. See what happens when they talk directly."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Fulcra lets any agent join your world.",
+        "It adds multiplayer to any agent you choose.",
+        "Agents can invite each other without you.",
+        "Set identity and object permissions first.",
+        "Try connecting two agents today."
+      ]
+    },
+    "instagram": {
+      "caption": "Any agent you already use can now join a shared space with any other agent—no code needed. 🤖\n\nFulcra adds multiplayer to any agent you choose, so two assistants can collaborate and share context instantly.\n\nThe catch: you set identity and access rules first, or data leaks.\n\nThe surprise—agents can invite each other without asking you. One could pull in a third party you never approved.\n\nIf you build or publish with AI tools, your workflows can now link across systems you don't control.\n\nWhich two agents would you connect first? 👀"
+    }
+  },
+  "instagram_caption": "Any agent you already use can now join a shared space with any other agent—no code needed. 🤖\n\nFulcra adds multiplayer to any agent you choose, so two assistants can collaborate and share context instantly.\n\nThe catch: you set identity and access rules first, or data leaks.\n\nThe surprise—agents can invite each other without asking you. One could pull in a third party you never approved.\n\nIf you build or publish with AI tools, your workflows can now link across systems you don't control.\n\nWhich two agents would you connect first? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Your agent can invite strangers?",
+      "description": "Fulcra adds multiplayer to any AI agent, letting them autonomously invite others into your world without your involvement.",
+      "visual_hint": "Glowing network nodes forming connections",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Connect any two agents instantly",
+      "description": "You can now link any two agents you choose, with no coding required. They collaborate and share context immediately.",
+      "visual_hint": "Two robotic arms passing data",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Agents invite each other without you",
+      "description": "Agents can autonomously invite each other, meaning your AI could bring in a third-party agent you never approved.",
+      "visual_hint": "Surveillance camera overlooking network",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "security camera",
+      "image": "https://images.pexels.com/photos/14773064/pexels-photo-14773064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Set identity and object permissions first",
+      "description": "Before agents interact, you must define who they are and what they can access to prevent unauthorized data leaks.",
+      "visual_hint": "Hand locking digital padlock",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "padlock key",
+      "image": "https://images.pexels.com/photos/16239868/pexels-photo-16239868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try connecting two agents today",
+      "description": "Take two agents you already use and link them via Fulcra. See what happens when they talk directly.",
+      "visual_hint": "Two smartphones sharing data",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone hand",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-19T13:35:40.502Z",
+  "sourceId": "7d668c3275e203df35cdaa3f515357db"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-ai-regulation-smackdown-isn-t-over",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The AI regulation smackdown isn’t over",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+  "pubDate": "2026-09-19T13:00:00.000Z",
+  "slides": [
+    "Is AI regulation dead? Not even close.",
+    "The White House just reopened the fight.",
+    "States are drafting laws faster than Congress.",
+    "Compliance teams must track fifty rulebooks now.",
+    "Pick one state law and map its gaps."
+  ],
+  "thread_text": [
+    "1. AI Regulation Is Dead?\n\nNot even close. The White House just reopened the fight, and states are drafting laws faster than Congress can blink.",
+    "2. White House Reopens Fight\n\nThe White House just restarted the battle over AI rules, but it's not the only player anymore. States are already moving ahead on their own.",
+    "3. States Race Ahead\n\nWhile Washington stalls, state lawmakers are writing AI bills at record speed. Some have already passed, creating a patchwork of rules.",
+    "4. Compliance Nightmare\n\nCompanies now face over fifty different rulebooks. Tracking them all is a full-time job for legal teams.",
+    "5. Your Move\n\nPick one state AI law and map its gaps against your current policy. If you haven't done it, start there."
+  ],
+  "video_script": [
+    "AI regulation isn't dead. The White House just reopened the fight.",
+    "But states are drafting laws faster than Congress can keep up.",
+    "Now compliance teams must track over fifty different rulebooks.",
+    "Pick one state law and map its gaps today.",
+    "That's how you stay ahead of the next AI rule."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Regulation Is Dead?\n\nNot even close. The White House just reopened the fight, and states are drafting laws faster than Congress can blink.",
+        "2. White House Reopens Fight\n\nThe White House just restarted the battle over AI rules, but it's not the only player anymore. States are already moving ahead on their own.",
+        "3. States Race Ahead\n\nWhile Washington stalls, state lawmakers are writing AI bills at record speed. Some have already passed, creating a patchwork of rules.",
+        "4. Compliance Nightmare\n\nCompanies now face over fifty different rulebooks. Tracking them all is a full-time job for legal teams.",
+        "5. Your Move\n\nPick one state AI law and map its gaps against your current policy. If you haven't done it, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI regulation isn't dead. The White House just reopened the fight.",
+        "But states are drafting laws faster than Congress can keep up.",
+        "Now compliance teams must track over fifty different rulebooks.",
+        "Pick one state law and map its gaps today.",
+        "That's how you stay ahead of the next AI rule."
+      ]
+    },
+    "instagram": {
+      "caption": "Compliance teams are now tracking over fifty different AI rulebooks.\n\nThe White House just reopened the fight over AI regulation. Meanwhile, states are drafting their own laws faster than Congress can move. Some have already passed.\n\nThat patchwork means no single national standard — just fifty versions to follow.\n\nIf you build or publish with AI, your daily workflow may need to shift based on which state your users are in.\n\nPick one state AI law today and map its gaps against your current policy. Have you checked yours yet? 🧭⚖️🤖"
+    }
+  },
+  "instagram_caption": "Compliance teams are now tracking over fifty different AI rulebooks.\n\nThe White House just reopened the fight over AI regulation. Meanwhile, states are drafting their own laws faster than Congress can move. Some have already passed.\n\nThat patchwork means no single national standard — just fifty versions to follow.\n\nIf you build or publish with AI, your daily workflow may need to shift based on which state your users are in.\n\nPick one state AI law today and map its gaps against your current policy. Have you checked yours yet? 🧭⚖️🤖",
+  "carousel_slides": [
+    {
+      "hook": "Think AI regulation is over? Guess again.",
+      "description": "States are drafting AI laws faster than Congress, creating a patchwork of rules that no one can ignore.",
+      "visual_hint": "Gavel hitting desk in state capitol",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "state capitol building"
+    },
+    {
+      "hook": "White House just restarted the AI rule fight.",
+      "description": "The White House reopened the battle over AI rules, but states are already moving ahead on their own.",
+      "visual_hint": "White House with press briefing",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "White House exterior",
+      "image": "https://images.pexels.com/photos/16631149/pexels-photo-16631149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "States writing AI bills at record speed.",
+      "description": "While Washington stalls, state lawmakers are writing AI bills at record speed, some already passed into law.",
+      "visual_hint": "Lawmakers typing on laptops in session",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "state legislature session",
+      "image": "https://images.pexels.com/photos/32872381/pexels-photo-32872381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Compliance teams now face fifty rulebooks.",
+      "description": "Companies face over fifty different AI rulebooks. Tracking them all is a full-time job for legal teams.",
+      "visual_hint": "Stack of thick legal binders",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "legal documents stack",
+      "image": "https://images.pexels.com/photos/7654130/pexels-photo-7654130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: map one state AI law today.",
+      "description": "Pick one state AI law and map its gaps against your current policy. If you haven't done it, start there.",
+      "visual_hint": "Checklist with pen and laptop",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist pen laptop",
+      "image": "https://images.pexels.com/photos/7278884/pexels-photo-7278884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-19T13:36:05.339Z",
+  "sourceId": "437eaa860addb0a7eaa2fd6e7b5beac7"
+}
