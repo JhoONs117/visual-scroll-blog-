@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "trump-says-it-s-time-to-rebrand-ai-with-a-new-name",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+  "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+  "pubDate": "Sat, 19 Sep 2026 19:57:47 +0000",
+  "slides": [
+    "Trump wants to rename AI. What's the real motive?",
+    "He says 'AI' lacks appeal, proposes 'AI Force'.",
+    "But critics see political branding, not tech substance.",
+    "Your job? Watch if this rebrand affects regulation.",
+    "Ask: Does rebranding change AI's societal impact?"
+  ],
+  "thread_text": [
+    "1. The Renaming Game\n\nTrump says 'AI' sounds weak and wants to call it 'AI Force'. This isn't about tech—it's about controlling the narrative before the 2024 election.",
+    "2. Branding or Policy?\n\nCritics argue the new name is a distraction from actual AI regulation. While Washington debates labels, real rules on data and safety remain stalled.",
+    "3. Regulation on Hold\n\nThe rebrand could delay urgent action on AI oversight. If lawmakers focus on catchy slogans, they miss the chance to pass meaningful laws.",
+    "4. Your Watchdog Role\n\nPay attention to whether this name change influences upcoming AI bills. If it does, it's not just marketing—it's a power play.",
+    "5. Ask Yourself This\n\nDoes calling it 'AI Force' change how you feel about AI's risks? If a name shift sways you, then branding is working. Test that on your own reaction."
+  ],
+  "video_script": [
+    "Trump wants to rename AI to 'AI Force'.",
+    "Critics say it's branding, not real policy.",
+    "Watch if this rebrand delays AI regulation.",
+    "Ask: does a name change shift your trust?",
+    "Your attention is the real regulator here."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Renaming Game\n\nTrump says 'AI' sounds weak and wants to call it 'AI Force'. This isn't about tech—it's about controlling the narrative before the 2024 election.",
+        "2. Branding or Policy?\n\nCritics argue the new name is a distraction from actual AI regulation. While Washington debates labels, real rules on data and safety remain stalled.",
+        "3. Regulation on Hold\n\nThe rebrand could delay urgent action on AI oversight. If lawmakers focus on catchy slogans, they miss the chance to pass meaningful laws.",
+        "4. Your Watchdog Role\n\nPay attention to whether this name change influences upcoming AI bills. If it does, it's not just marketing—it's a power play.",
+        "5. Ask Yourself This\n\nDoes calling it 'AI Force' change how you feel about AI's risks? If a name shift sways you, then branding is working. Test that on your own reaction."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Trump wants to rename AI to 'AI Force'.",
+        "Critics say it's branding, not real policy.",
+        "Watch if this rebrand delays AI regulation.",
+        "Ask: does a name change shift your trust?",
+        "Your attention is the real regulator here."
+      ]
+    },
+    "instagram": {
+      "caption": "Trump wants to drop the name \"AI\" entirely and call it \"AI Force\" instead.\n\nHe says the acronym lacks appeal, so he's pushing a rebrand while also creating an \"AI Force.\"\n\nCritics call it political branding, not tech policy — and warn it distracts from stalled rules on data and safety.\n\nIf you make or publish content, watch whether this name change slows down the AI bills heading to a vote.\n\nDoes a catchier label make you feel any differently about the risks? Test that on your own reaction. 🤔\n\nIf a name alone can shift how you feel, that's the branding working. 🧠\n\nWould you still call it AI? 👀"
+    }
+  },
+  "instagram_caption": "Trump wants to drop the name \"AI\" entirely and call it \"AI Force\" instead.\n\nHe says the acronym lacks appeal, so he's pushing a rebrand while also creating an \"AI Force.\"\n\nCritics call it political branding, not tech policy — and warn it distracts from stalled rules on data and safety.\n\nIf you make or publish content, watch whether this name change slows down the AI bills heading to a vote.\n\nDoes a catchier label make you feel any differently about the risks? Test that on your own reaction. 🤔\n\nIf a name alone can shift how you feel, that's the branding working. 🧠\n\nWould you still call it AI? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Is 'AI Force' just political branding?",
+      "description": "Trump wants to rename AI to 'AI Force', but critics say it's a distraction from stalled regulation on data and safety.",
+      "visual_hint": "Donald Trump speaking at podium",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Donald Trump"
+    },
+    {
+      "hook": "Trump: 'AI' sounds weak, rename it",
+      "description": "He proposes 'AI Force' for better appeal, yet real AI oversight rules remain stalled in Washington.",
+      "visual_hint": "Speech bubble with AI text",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "microphone podium",
+      "image": "https://images.pexels.com/photos/23522931/pexels-photo-23522931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rebrand could delay urgent AI oversight",
+      "description": "If lawmakers focus on catchy slogans, they miss passing meaningful laws on data and safety.",
+      "visual_hint": "Gavel and law book on desk",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "courtroom gavel",
+      "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Watch if name change influences AI bills",
+      "description": "Pay attention to whether this rebrand affects upcoming AI bills; if it does, it's a power play.",
+      "visual_hint": "Person watching news on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person watching TV",
+      "image": "https://images.pexels.com/photos/12475131/pexels-photo-12475131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: does 'AI Force' sway you?",
+      "description": "Test your reaction: if a name shift changes how you feel about AI risks, branding is working. Comment below.",
+      "visual_hint": "Hand holding smartphone with like icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone social media",
+      "image": "https://images.pexels.com/photos/3850266/pexels-photo-3850266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/donald-trump-open-mouth.jpg?resize=1200,800",
+  "savedAt": "2026-09-19T21:57:51.655Z",
+  "sourceId": "c0e5bbea1628d07f5ca7bf7d3eb29569"
+}

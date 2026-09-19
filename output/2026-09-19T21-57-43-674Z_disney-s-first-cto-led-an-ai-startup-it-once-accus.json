@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "disney-s-first-cto-led-an-ai-startup-it-once-accus",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+  "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+  "pubDate": "Fri, 18 Sep 2026 17:59:53 +0000",
+  "slides": [
+    "Disney's first CTO now leads an AI startup it once accused.",
+    "The startup used AI to generate characters that mimicked Disney's.",
+    "But Disney dropped its lawsuit and invested instead.",
+    "Content creators must now license AI-generated characters.",
+    "If you create, ensure your characters aren't too Disney-like."
+  ],
+  "thread_text": [
+    "1. A CTO's Betrayal?\n\nA startup copied Disney's characters with AI. Disney sued. Then hired the founder as CTO? No, wait—actually made him lead the AI startup.",
+    "2. The Lawsuit Flip\n\nDisney didn't just drop the case. They invested in the startup they once accused of ripping off their characters.",
+    "3. AI Doppelgängers\n\nThe startup's AI generated characters that looked like Disney's—same style, same vibe. That's what triggered the original lawsuit.",
+    "4. License Your AI\n\nNow content creators must license any AI-generated character that resembles Disney's. No more free rides.",
+    "5. Are You At Risk?\n\nIf you're creating with AI, check your characters. If they feel too Disney-like, you could be next. Test one design today."
+  ],
+  "video_script": [
+    "Disney once sued this AI startup for copying characters.",
+    "Then Disney dropped the lawsuit and invested instead.",
+    "Now you must license any AI character that looks Disney-like.",
+    "So if you generate characters, watch out for similarities.",
+    "Check your designs today before you get a letter."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. A CTO's Betrayal?\n\nA startup copied Disney's characters with AI. Disney sued. Then hired the founder as CTO? No, wait—actually made him lead the AI startup.",
+        "2. The Lawsuit Flip\n\nDisney didn't just drop the case. They invested in the startup they once accused of ripping off their characters.",
+        "3. AI Doppelgängers\n\nThe startup's AI generated characters that looked like Disney's—same style, same vibe. That's what triggered the original lawsuit.",
+        "4. License Your AI\n\nNow content creators must license any AI-generated character that resembles Disney's. No more free rides.",
+        "5. Are You At Risk?\n\nIf you're creating with AI, check your characters. If they feel too Disney-like, you could be next. Test one design today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Disney once sued this AI startup for copying characters.",
+        "Then Disney dropped the lawsuit and invested instead.",
+        "Now you must license any AI character that looks Disney-like.",
+        "So if you generate characters, watch out for similarities.",
+        "Check your designs today before you get a letter."
+      ]
+    },
+    "instagram": {
+      "caption": "A startup generated characters that looked like Disney's with AI. Disney sued. Then it hired the founder as CTO.\n\nThat's not a typo. The company dropped the lawsuit and invested in the startup instead.\n\nSo the AI that mimicked Disney's style now has Disney's backing.\n\nIf you create with AI, this changes things for you. Any character that feels too Disney-like now needs a license. Same style, same vibe, same problem.\n\nCheck your designs before you publish. Would Disney's lawyers recognize your character as theirs?\n\nWhat's sitting in your portfolio right now? 🎨"
+    }
+  },
+  "instagram_caption": "A startup generated characters that looked like Disney's with AI. Disney sued. Then it hired the founder as CTO.\n\nThat's not a typo. The company dropped the lawsuit and invested in the startup instead.\n\nSo the AI that mimicked Disney's style now has Disney's backing.\n\nIf you create with AI, this changes things for you. Any character that feels too Disney-like now needs a license. Same style, same vibe, same problem.\n\nCheck your designs before you publish. Would Disney's lawyers recognize your character as theirs?\n\nWhat's sitting in your portfolio right now? 🎨",
+  "carousel_slides": [
+    {
+      "hook": "Disney sued them — then invested",
+      "description": "Disney's first CTO now leads an AI startup that once copied its characters, after the lawsuit was dropped and replaced with investment.",
+      "visual_hint": "Split screen court gavel to handshake",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "courtroom gavel"
+    },
+    {
+      "hook": "Their AI mimicked Disney's characters",
+      "description": "The startup's AI generated characters with Disney's exact style and vibe, triggering the original lawsuit from the entertainment giant.",
+      "visual_hint": "AI-generated cartoon character sketches",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "animation studio",
+      "image": "https://images.pexels.com/photos/7682526/pexels-photo-7682526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Why drop a lawsuit and invest?",
+      "description": "Instead of fighting in court, Disney invested in the startup it accused, showing how fast AI can flip corporate rivalries into partnerships.",
+      "visual_hint": "Handshake over contract documents",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "business handshake",
+      "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Now you must license AI characters",
+      "description": "Content creators who generate characters resembling Disney's must now license them, ending the era of free AI lookalikes.",
+      "visual_hint": "Creator signing licensing agreement",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "contract signing",
+      "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is your AI character too Disney-like?",
+      "description": "Check your AI-generated characters for Disney similarities today. Save this post and test one design before you publish.",
+      "visual_hint": "Warning icon over AI character design",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "designer computer screen",
+      "image": "https://images.pexels.com/photos/17115912/pexels-photo-17115912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
+  "savedAt": "2026-09-19T21:58:07.466Z",
+  "sourceId": "f5578060dc954905f52c1f1ca6926cc1"
+}

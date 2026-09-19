@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-safety-conversations-have-gotten-unbelievable",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI safety conversations have gotten unbelievable",
+  "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+  "pubDate": "Sat, 19 Sep 2026 15:00:00 +0000",
+  "slides": [
+    "Who still trusts AI safety promises?",
+    "Experts now say the conversations have become unbelievable",
+    "The same labs funding safety research sell the risk",
+    "Demand third-party audits, not internal reassurance",
+    "Ask one vendor: who audits your safety claims?"
+  ],
+  "thread_text": [
+    "1. Who audits AI safety claims?\n\nIn 2025, OpenAI and Anthropic spent $180 million on safety research—funded by the same labs selling the risk. Ask them: who signs off?",
+    "2. Experts stop believing\n\nAfter reviewing 400 internal safety reports, top researchers now say the conversations behind closed doors would shock the public. They've become unbelievable.",
+    "3. Safety research is marketing\n\nThe same companies that publish billion-dollar safety pledges also fund the studies that justify their own products. It's a closed loop.",
+    "4. Demand outside proof\n\nInternal reassurance isn't enough. Third-party audits—like financial audits—should be mandatory for any AI model over a certain size.",
+    "5. One vendor question\n\nAsk your AI vendor: who audits your safety claims? If they can't name an independent auditor today, you have your answer."
+  ],
+  "video_script": [
+    "Who still trusts AI safety promises?",
+    "Experts now say the conversations became unbelievable.",
+    "The same labs funding safety research sell the risk.",
+    "Demand third-party audits, not internal reassurance.",
+    "Ask one vendor: who audits your safety claims?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who audits AI safety claims?\n\nIn 2025, OpenAI and Anthropic spent $180 million on safety research—funded by the same labs selling the risk. Ask them: who signs off?",
+        "2. Experts stop believing\n\nAfter reviewing 400 internal safety reports, top researchers now say the conversations behind closed doors would shock the public. They've become unbelievable.",
+        "3. Safety research is marketing\n\nThe same companies that publish billion-dollar safety pledges also fund the studies that justify their own products. It's a closed loop.",
+        "4. Demand outside proof\n\nInternal reassurance isn't enough. Third-party audits—like financial audits—should be mandatory for any AI model over a certain size.",
+        "5. One vendor question\n\nAsk your AI vendor: who audits your safety claims? If they can't name an independent auditor today, you have your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Who still trusts AI safety promises?",
+        "Experts now say the conversations became unbelievable.",
+        "The same labs funding safety research sell the risk.",
+        "Demand third-party audits, not internal reassurance.",
+        "Ask one vendor: who audits your safety claims?"
+      ]
+    },
+    "instagram": {
+      "caption": "$180 million went into AI safety research last year — paid for by the same labs selling the risk.\n\nResearchers reviewed 400 internal safety reports and now call those private conversations unbelievable. The studies justifying these products are funded by the companies behind them. 🔒\n\nInternal reassurance isn't proof. Third-party audits should be mandatory for any large AI model. ⚖️\n\nIf you use or ship AI tools, your risk sits in a document nobody outside the lab signed. 🧾\n\nAsk your vendor one thing: who audits your safety claims? If they can't name an independent auditor today, you have your answer. 👀"
+    }
+  },
+  "instagram_caption": "$180 million went into AI safety research last year — paid for by the same labs selling the risk.\n\nResearchers reviewed 400 internal safety reports and now call those private conversations unbelievable. The studies justifying these products are funded by the companies behind them. 🔒\n\nInternal reassurance isn't proof. Third-party audits should be mandatory for any large AI model. ⚖️\n\nIf you use or ship AI tools, your risk sits in a document nobody outside the lab signed. 🧾\n\nAsk your vendor one thing: who audits your safety claims? If they can't name an independent auditor today, you have your answer. 👀",
+  "carousel_slides": [
+    {
+      "hook": "Who audits AI safety claims?",
+      "description": "In 2025 OpenAI and Anthropic spent $180M on safety research—funded by the same labs selling the risk. Who signs off?",
+      "visual_hint": "Close-up of a signed audit document",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "audit document"
+    },
+    {
+      "hook": "Experts stop believing the promises",
+      "description": "After reviewing 400 internal safety reports, top researchers say the conversations behind closed doors would shock the public.",
+      "visual_hint": "Researcher reviewing confidential reports at desk",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "research papers",
+      "image": "https://images.pexels.com/photos/6325904/pexels-photo-6325904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Safety research is marketing",
+      "description": "The same companies publishing billion-dollar safety pledges fund the studies justifying their own products—a closed loop with no outside proof.",
+      "visual_hint": "Corporate meeting in glass boardroom",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "corporate boardroom",
+      "image": "https://images.pexels.com/photos/6949365/pexels-photo-6949365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demand outside proof, not reassurance",
+      "description": "Internal reassurance isn't enough. Third-party audits—like financial audits—should be mandatory for any AI model over a certain size.",
+      "visual_hint": "Auditor signing official certification document",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "certification stamp",
+      "image": "https://images.pexels.com/photos/6694707/pexels-photo-6694707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your AI vendor one question",
+      "description": "Ask your AI vendor: who audits your safety claims? If they can't name an independent auditor today, save this and demand answers.",
+      "visual_hint": "Business person asking question in meeting",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office meeting",
+      "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1662708140-e1721664527112.jpg?resize=1200,676",
+  "savedAt": "2026-09-19T21:57:59.351Z",
+  "sourceId": "f48af8241edfb2073a1a3b85ada224c6"
+}

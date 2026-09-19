@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "does-ai-need-an-antitrust-exemption-so-it-doesn-82",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+  "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+  "pubDate": "2026-09-19T14:00:00.000Z",
+  "slides": [
+    "AI labs warn: regulation now could kill everyone",
+    "They want immunity from antitrust rules to build safely",
+    "But no one can define safe when competing for speed",
+    "Your next AI tool may depend on this legal fight",
+    "Ask who gets immunity, and who decides"
+  ],
+  "thread_text": [
+    "1. AI labs demand immunity\n\nThey want exemption from antitrust laws to build safely. But no one defines what safe means while racing.",
+    "2. Safety or speed?\n\nCompanies say regulation could kill everyone. Yet they compete to release faster than rivals.",
+    "3. The undefined word\n\nNo shared definition of safe exists. Each lab interprets it differently under pressure.",
+    "4. Your tools at stake\n\nFuture AI products depend on this legal battle. If immunity passes, oversight shrinks.",
+    "5. Who decides?\n\nAsk who gets immunity and who sets the rules. Does that make sense for your next AI tool?"
+  ],
+  "video_script": [
+    "AI labs warn regulation could kill everyone.",
+    "They want immunity from antitrust rules to build safely.",
+    "But no one can define safe when competing for speed.",
+    "Your next AI tool may depend on this legal fight.",
+    "Ask who gets immunity, and who decides."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI labs demand immunity\n\nThey want exemption from antitrust laws to build safely. But no one defines what safe means while racing.",
+        "2. Safety or speed?\n\nCompanies say regulation could kill everyone. Yet they compete to release faster than rivals.",
+        "3. The undefined word\n\nNo shared definition of safe exists. Each lab interprets it differently under pressure.",
+        "4. Your tools at stake\n\nFuture AI products depend on this legal battle. If immunity passes, oversight shrinks.",
+        "5. Who decides?\n\nAsk who gets immunity and who sets the rules. Does that make sense for your next AI tool?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI labs warn regulation could kill everyone.",
+        "They want immunity from antitrust rules to build safely.",
+        "But no one can define safe when competing for speed.",
+        "Your next AI tool may depend on this legal fight.",
+        "Ask who gets immunity, and who decides."
+      ]
+    },
+    "instagram": {
+      "caption": "AI labs want immunity from antitrust rules to build safely. 🧩\n\nThey argue regulation now could kill everyone, yet they race to release faster than rivals.\n\nNo one defines what \"safe\" means while competing. Each lab makes its own call.\n\nYour next AI tool depends on this legal fight. If immunity passes, outside oversight shrinks.\n\nWho gets immunity, and who decides? 🤔"
+    }
+  },
+  "instagram_caption": "AI labs want immunity from antitrust rules to build safely. 🧩\n\nThey argue regulation now could kill everyone, yet they race to release faster than rivals.\n\nNo one defines what \"safe\" means while competing. Each lab makes its own call.\n\nYour next AI tool depends on this legal fight. If immunity passes, outside oversight shrinks.\n\nWho gets immunity, and who decides? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Who defines safe when racing?",
+      "description": "No shared definition of safe exists; each lab interprets it differently under pressure to release faster.",
+      "visual_hint": "Split screen: lab vs. courtroom",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Immunity from antitrust to build safely?",
+      "description": "AI labs demand exemption from antitrust laws, but no one defines safe while competing for speed.",
+      "visual_hint": "Gavel next to AI chip",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "courtroom gavel",
+      "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Safety or speed: which wins?",
+      "description": "Companies say regulation could kill everyone, yet they race to release faster than rivals.",
+      "visual_hint": "Race track with AI logos",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "race track",
+      "image": "https://images.pexels.com/photos/30148151/pexels-photo-30148151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your next AI tool depends on this",
+      "description": "Future AI products hinge on this legal battle; if immunity passes, oversight shrinks.",
+      "visual_hint": "Hand holding smartphone with AI app",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone hand",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: who gets immunity?",
+      "description": "Ask who gets immunity and who sets the rules. Does that make sense for your next AI tool?",
+      "visual_hint": "Question mark over legal document",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "legal document",
+      "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-19_Kanter.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.711631919237%2C100%2C78.576736161526&amp;w=1200",
+  "savedAt": "2026-09-19T21:58:14.453Z",
+  "sourceId": "0dd3f3fb6a5bae15382d270366176338"
+}

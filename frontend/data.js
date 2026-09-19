@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "does-ai-need-an-antitrust-exemption-so-it-doesn-82",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+    "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+    "pubDate": "2026-09-19T14:00:00.000Z",
+    "slides": [
+      "AI labs warn: regulation now could kill everyone",
+      "They want immunity from antitrust rules to build safely",
+      "But no one can define safe when competing for speed",
+      "Your next AI tool may depend on this legal fight",
+      "Ask who gets immunity, and who decides"
+    ],
+    "thread_text": [
+      "1. AI labs demand immunity\n\nThey want exemption from antitrust laws to build safely. But no one defines what safe means while racing.",
+      "2. Safety or speed?\n\nCompanies say regulation could kill everyone. Yet they compete to release faster than rivals.",
+      "3. The undefined word\n\nNo shared definition of safe exists. Each lab interprets it differently under pressure.",
+      "4. Your tools at stake\n\nFuture AI products depend on this legal battle. If immunity passes, oversight shrinks.",
+      "5. Who decides?\n\nAsk who gets immunity and who sets the rules. Does that make sense for your next AI tool?"
+    ],
+    "video_script": [
+      "AI labs warn regulation could kill everyone.",
+      "They want immunity from antitrust rules to build safely.",
+      "But no one can define safe when competing for speed.",
+      "Your next AI tool may depend on this legal fight.",
+      "Ask who gets immunity, and who decides."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI labs demand immunity\n\nThey want exemption from antitrust laws to build safely. But no one defines what safe means while racing.",
+          "2. Safety or speed?\n\nCompanies say regulation could kill everyone. Yet they compete to release faster than rivals.",
+          "3. The undefined word\n\nNo shared definition of safe exists. Each lab interprets it differently under pressure.",
+          "4. Your tools at stake\n\nFuture AI products depend on this legal battle. If immunity passes, oversight shrinks.",
+          "5. Who decides?\n\nAsk who gets immunity and who sets the rules. Does that make sense for your next AI tool?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI labs warn regulation could kill everyone.",
+          "They want immunity from antitrust rules to build safely.",
+          "But no one can define safe when competing for speed.",
+          "Your next AI tool may depend on this legal fight.",
+          "Ask who gets immunity, and who decides."
+        ]
+      },
+      "instagram": {
+        "caption": "AI labs want immunity from antitrust rules to build safely. 🧩\n\nThey argue regulation now could kill everyone, yet they race to release faster than rivals.\n\nNo one defines what \"safe\" means while competing. Each lab makes its own call.\n\nYour next AI tool depends on this legal fight. If immunity passes, outside oversight shrinks.\n\nWho gets immunity, and who decides? 🤔"
+      }
+    },
+    "instagram_caption": "AI labs want immunity from antitrust rules to build safely. 🧩\n\nThey argue regulation now could kill everyone, yet they race to release faster than rivals.\n\nNo one defines what \"safe\" means while competing. Each lab makes its own call.\n\nYour next AI tool depends on this legal fight. If immunity passes, outside oversight shrinks.\n\nWho gets immunity, and who decides? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Who defines safe when racing?",
+        "description": "No shared definition of safe exists; each lab interprets it differently under pressure to release faster.",
+        "visual_hint": "Split screen: lab vs. courtroom",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Immunity from antitrust to build safely?",
+        "description": "AI labs demand exemption from antitrust laws, but no one defines safe while competing for speed.",
+        "visual_hint": "Gavel next to AI chip",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "courtroom gavel",
+        "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Safety or speed: which wins?",
+        "description": "Companies say regulation could kill everyone, yet they race to release faster than rivals.",
+        "visual_hint": "Race track with AI logos",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "race track",
+        "image": "https://images.pexels.com/photos/30148151/pexels-photo-30148151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your next AI tool depends on this",
+        "description": "Future AI products hinge on this legal battle; if immunity passes, oversight shrinks.",
+        "visual_hint": "Hand holding smartphone with AI app",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "smartphone hand",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: who gets immunity?",
+        "description": "Ask who gets immunity and who sets the rules. Does that make sense for your next AI tool?",
+        "visual_hint": "Question mark over legal document",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "legal document",
+        "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-19_Kanter.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.711631919237%2C100%2C78.576736161526&amp;w=1200",
+    "savedAt": "2026-09-19T21:58:14.453Z",
+    "sourceId": "0dd3f3fb6a5bae15382d270366176338"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "disney-s-first-cto-led-an-ai-startup-it-once-accus",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+    "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+    "pubDate": "Fri, 18 Sep 2026 17:59:53 +0000",
+    "slides": [
+      "Disney's first CTO now leads an AI startup it once accused.",
+      "The startup used AI to generate characters that mimicked Disney's.",
+      "But Disney dropped its lawsuit and invested instead.",
+      "Content creators must now license AI-generated characters.",
+      "If you create, ensure your characters aren't too Disney-like."
+    ],
+    "thread_text": [
+      "1. A CTO's Betrayal?\n\nA startup copied Disney's characters with AI. Disney sued. Then hired the founder as CTO? No, wait—actually made him lead the AI startup.",
+      "2. The Lawsuit Flip\n\nDisney didn't just drop the case. They invested in the startup they once accused of ripping off their characters.",
+      "3. AI Doppelgängers\n\nThe startup's AI generated characters that looked like Disney's—same style, same vibe. That's what triggered the original lawsuit.",
+      "4. License Your AI\n\nNow content creators must license any AI-generated character that resembles Disney's. No more free rides.",
+      "5. Are You At Risk?\n\nIf you're creating with AI, check your characters. If they feel too Disney-like, you could be next. Test one design today."
+    ],
+    "video_script": [
+      "Disney once sued this AI startup for copying characters.",
+      "Then Disney dropped the lawsuit and invested instead.",
+      "Now you must license any AI character that looks Disney-like.",
+      "So if you generate characters, watch out for similarities.",
+      "Check your designs today before you get a letter."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. A CTO's Betrayal?\n\nA startup copied Disney's characters with AI. Disney sued. Then hired the founder as CTO? No, wait—actually made him lead the AI startup.",
+          "2. The Lawsuit Flip\n\nDisney didn't just drop the case. They invested in the startup they once accused of ripping off their characters.",
+          "3. AI Doppelgängers\n\nThe startup's AI generated characters that looked like Disney's—same style, same vibe. That's what triggered the original lawsuit.",
+          "4. License Your AI\n\nNow content creators must license any AI-generated character that resembles Disney's. No more free rides.",
+          "5. Are You At Risk?\n\nIf you're creating with AI, check your characters. If they feel too Disney-like, you could be next. Test one design today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Disney once sued this AI startup for copying characters.",
+          "Then Disney dropped the lawsuit and invested instead.",
+          "Now you must license any AI character that looks Disney-like.",
+          "So if you generate characters, watch out for similarities.",
+          "Check your designs today before you get a letter."
+        ]
+      },
+      "instagram": {
+        "caption": "A startup generated characters that looked like Disney's with AI. Disney sued. Then it hired the founder as CTO.\n\nThat's not a typo. The company dropped the lawsuit and invested in the startup instead.\n\nSo the AI that mimicked Disney's style now has Disney's backing.\n\nIf you create with AI, this changes things for you. Any character that feels too Disney-like now needs a license. Same style, same vibe, same problem.\n\nCheck your designs before you publish. Would Disney's lawyers recognize your character as theirs?\n\nWhat's sitting in your portfolio right now? 🎨"
+      }
+    },
+    "instagram_caption": "A startup generated characters that looked like Disney's with AI. Disney sued. Then it hired the founder as CTO.\n\nThat's not a typo. The company dropped the lawsuit and invested in the startup instead.\n\nSo the AI that mimicked Disney's style now has Disney's backing.\n\nIf you create with AI, this changes things for you. Any character that feels too Disney-like now needs a license. Same style, same vibe, same problem.\n\nCheck your designs before you publish. Would Disney's lawyers recognize your character as theirs?\n\nWhat's sitting in your portfolio right now? 🎨",
+    "carousel_slides": [
+      {
+        "hook": "Disney sued them — then invested",
+        "description": "Disney's first CTO now leads an AI startup that once copied its characters, after the lawsuit was dropped and replaced with investment.",
+        "visual_hint": "Split screen court gavel to handshake",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "courtroom gavel"
+      },
+      {
+        "hook": "Their AI mimicked Disney's characters",
+        "description": "The startup's AI generated characters with Disney's exact style and vibe, triggering the original lawsuit from the entertainment giant.",
+        "visual_hint": "AI-generated cartoon character sketches",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "animation studio",
+        "image": "https://images.pexels.com/photos/7682526/pexels-photo-7682526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Why drop a lawsuit and invest?",
+        "description": "Instead of fighting in court, Disney invested in the startup it accused, showing how fast AI can flip corporate rivalries into partnerships.",
+        "visual_hint": "Handshake over contract documents",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "business handshake",
+        "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Now you must license AI characters",
+        "description": "Content creators who generate characters resembling Disney's must now license them, ending the era of free AI lookalikes.",
+        "visual_hint": "Creator signing licensing agreement",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "contract signing",
+        "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Is your AI character too Disney-like?",
+        "description": "Check your AI-generated characters for Disney similarities today. Save this post and test one design before you publish.",
+        "visual_hint": "Warning icon over AI character design",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "designer computer screen",
+        "image": "https://images.pexels.com/photos/17115912/pexels-photo-17115912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
+    "savedAt": "2026-09-19T21:58:07.466Z",
+    "sourceId": "f5578060dc954905f52c1f1ca6926cc1"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ai-safety-conversations-have-gotten-unbelievable",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI safety conversations have gotten unbelievable",
+    "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "pubDate": "Sat, 19 Sep 2026 15:00:00 +0000",
+    "slides": [
+      "Who still trusts AI safety promises?",
+      "Experts now say the conversations have become unbelievable",
+      "The same labs funding safety research sell the risk",
+      "Demand third-party audits, not internal reassurance",
+      "Ask one vendor: who audits your safety claims?"
+    ],
+    "thread_text": [
+      "1. Who audits AI safety claims?\n\nIn 2025, OpenAI and Anthropic spent $180 million on safety research—funded by the same labs selling the risk. Ask them: who signs off?",
+      "2. Experts stop believing\n\nAfter reviewing 400 internal safety reports, top researchers now say the conversations behind closed doors would shock the public. They've become unbelievable.",
+      "3. Safety research is marketing\n\nThe same companies that publish billion-dollar safety pledges also fund the studies that justify their own products. It's a closed loop.",
+      "4. Demand outside proof\n\nInternal reassurance isn't enough. Third-party audits—like financial audits—should be mandatory for any AI model over a certain size.",
+      "5. One vendor question\n\nAsk your AI vendor: who audits your safety claims? If they can't name an independent auditor today, you have your answer."
+    ],
+    "video_script": [
+      "Who still trusts AI safety promises?",
+      "Experts now say the conversations became unbelievable.",
+      "The same labs funding safety research sell the risk.",
+      "Demand third-party audits, not internal reassurance.",
+      "Ask one vendor: who audits your safety claims?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who audits AI safety claims?\n\nIn 2025, OpenAI and Anthropic spent $180 million on safety research—funded by the same labs selling the risk. Ask them: who signs off?",
+          "2. Experts stop believing\n\nAfter reviewing 400 internal safety reports, top researchers now say the conversations behind closed doors would shock the public. They've become unbelievable.",
+          "3. Safety research is marketing\n\nThe same companies that publish billion-dollar safety pledges also fund the studies that justify their own products. It's a closed loop.",
+          "4. Demand outside proof\n\nInternal reassurance isn't enough. Third-party audits—like financial audits—should be mandatory for any AI model over a certain size.",
+          "5. One vendor question\n\nAsk your AI vendor: who audits your safety claims? If they can't name an independent auditor today, you have your answer."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Who still trusts AI safety promises?",
+          "Experts now say the conversations became unbelievable.",
+          "The same labs funding safety research sell the risk.",
+          "Demand third-party audits, not internal reassurance.",
+          "Ask one vendor: who audits your safety claims?"
+        ]
+      },
+      "instagram": {
+        "caption": "$180 million went into AI safety research last year — paid for by the same labs selling the risk.\n\nResearchers reviewed 400 internal safety reports and now call those private conversations unbelievable. The studies justifying these products are funded by the companies behind them. 🔒\n\nInternal reassurance isn't proof. Third-party audits should be mandatory for any large AI model. ⚖️\n\nIf you use or ship AI tools, your risk sits in a document nobody outside the lab signed. 🧾\n\nAsk your vendor one thing: who audits your safety claims? If they can't name an independent auditor today, you have your answer. 👀"
+      }
+    },
+    "instagram_caption": "$180 million went into AI safety research last year — paid for by the same labs selling the risk.\n\nResearchers reviewed 400 internal safety reports and now call those private conversations unbelievable. The studies justifying these products are funded by the companies behind them. 🔒\n\nInternal reassurance isn't proof. Third-party audits should be mandatory for any large AI model. ⚖️\n\nIf you use or ship AI tools, your risk sits in a document nobody outside the lab signed. 🧾\n\nAsk your vendor one thing: who audits your safety claims? If they can't name an independent auditor today, you have your answer. 👀",
+    "carousel_slides": [
+      {
+        "hook": "Who audits AI safety claims?",
+        "description": "In 2025 OpenAI and Anthropic spent $180M on safety research—funded by the same labs selling the risk. Who signs off?",
+        "visual_hint": "Close-up of a signed audit document",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "audit document"
+      },
+      {
+        "hook": "Experts stop believing the promises",
+        "description": "After reviewing 400 internal safety reports, top researchers say the conversations behind closed doors would shock the public.",
+        "visual_hint": "Researcher reviewing confidential reports at desk",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "research papers",
+        "image": "https://images.pexels.com/photos/6325904/pexels-photo-6325904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Safety research is marketing",
+        "description": "The same companies publishing billion-dollar safety pledges fund the studies justifying their own products—a closed loop with no outside proof.",
+        "visual_hint": "Corporate meeting in glass boardroom",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "corporate boardroom",
+        "image": "https://images.pexels.com/photos/6949365/pexels-photo-6949365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Demand outside proof, not reassurance",
+        "description": "Internal reassurance isn't enough. Third-party audits—like financial audits—should be mandatory for any AI model over a certain size.",
+        "visual_hint": "Auditor signing official certification document",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "certification stamp",
+        "image": "https://images.pexels.com/photos/6694707/pexels-photo-6694707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask your AI vendor one question",
+        "description": "Ask your AI vendor: who audits your safety claims? If they can't name an independent auditor today, save this and demand answers.",
+        "visual_hint": "Business person asking question in meeting",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office meeting",
+        "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1662708140-e1721664527112.jpg?resize=1200,676",
+    "savedAt": "2026-09-19T21:57:59.351Z",
+    "sourceId": "f48af8241edfb2073a1a3b85ada224c6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "trump-says-it-s-time-to-rebrand-ai-with-a-new-name",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+    "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "pubDate": "Sat, 19 Sep 2026 19:57:47 +0000",
+    "slides": [
+      "Trump wants to rename AI. What's the real motive?",
+      "He says 'AI' lacks appeal, proposes 'AI Force'.",
+      "But critics see political branding, not tech substance.",
+      "Your job? Watch if this rebrand affects regulation.",
+      "Ask: Does rebranding change AI's societal impact?"
+    ],
+    "thread_text": [
+      "1. The Renaming Game\n\nTrump says 'AI' sounds weak and wants to call it 'AI Force'. This isn't about tech—it's about controlling the narrative before the 2024 election.",
+      "2. Branding or Policy?\n\nCritics argue the new name is a distraction from actual AI regulation. While Washington debates labels, real rules on data and safety remain stalled.",
+      "3. Regulation on Hold\n\nThe rebrand could delay urgent action on AI oversight. If lawmakers focus on catchy slogans, they miss the chance to pass meaningful laws.",
+      "4. Your Watchdog Role\n\nPay attention to whether this name change influences upcoming AI bills. If it does, it's not just marketing—it's a power play.",
+      "5. Ask Yourself This\n\nDoes calling it 'AI Force' change how you feel about AI's risks? If a name shift sways you, then branding is working. Test that on your own reaction."
+    ],
+    "video_script": [
+      "Trump wants to rename AI to 'AI Force'.",
+      "Critics say it's branding, not real policy.",
+      "Watch if this rebrand delays AI regulation.",
+      "Ask: does a name change shift your trust?",
+      "Your attention is the real regulator here."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Renaming Game\n\nTrump says 'AI' sounds weak and wants to call it 'AI Force'. This isn't about tech—it's about controlling the narrative before the 2024 election.",
+          "2. Branding or Policy?\n\nCritics argue the new name is a distraction from actual AI regulation. While Washington debates labels, real rules on data and safety remain stalled.",
+          "3. Regulation on Hold\n\nThe rebrand could delay urgent action on AI oversight. If lawmakers focus on catchy slogans, they miss the chance to pass meaningful laws.",
+          "4. Your Watchdog Role\n\nPay attention to whether this name change influences upcoming AI bills. If it does, it's not just marketing—it's a power play.",
+          "5. Ask Yourself This\n\nDoes calling it 'AI Force' change how you feel about AI's risks? If a name shift sways you, then branding is working. Test that on your own reaction."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Trump wants to rename AI to 'AI Force'.",
+          "Critics say it's branding, not real policy.",
+          "Watch if this rebrand delays AI regulation.",
+          "Ask: does a name change shift your trust?",
+          "Your attention is the real regulator here."
+        ]
+      },
+      "instagram": {
+        "caption": "Trump wants to drop the name \"AI\" entirely and call it \"AI Force\" instead.\n\nHe says the acronym lacks appeal, so he's pushing a rebrand while also creating an \"AI Force.\"\n\nCritics call it political branding, not tech policy — and warn it distracts from stalled rules on data and safety.\n\nIf you make or publish content, watch whether this name change slows down the AI bills heading to a vote.\n\nDoes a catchier label make you feel any differently about the risks? Test that on your own reaction. 🤔\n\nIf a name alone can shift how you feel, that's the branding working. 🧠\n\nWould you still call it AI? 👀"
+      }
+    },
+    "instagram_caption": "Trump wants to drop the name \"AI\" entirely and call it \"AI Force\" instead.\n\nHe says the acronym lacks appeal, so he's pushing a rebrand while also creating an \"AI Force.\"\n\nCritics call it political branding, not tech policy — and warn it distracts from stalled rules on data and safety.\n\nIf you make or publish content, watch whether this name change slows down the AI bills heading to a vote.\n\nDoes a catchier label make you feel any differently about the risks? Test that on your own reaction. 🤔\n\nIf a name alone can shift how you feel, that's the branding working. 🧠\n\nWould you still call it AI? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Is 'AI Force' just political branding?",
+        "description": "Trump wants to rename AI to 'AI Force', but critics say it's a distraction from stalled regulation on data and safety.",
+        "visual_hint": "Donald Trump speaking at podium",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Donald Trump"
+      },
+      {
+        "hook": "Trump: 'AI' sounds weak, rename it",
+        "description": "He proposes 'AI Force' for better appeal, yet real AI oversight rules remain stalled in Washington.",
+        "visual_hint": "Speech bubble with AI text",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "microphone podium",
+        "image": "https://images.pexels.com/photos/23522931/pexels-photo-23522931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rebrand could delay urgent AI oversight",
+        "description": "If lawmakers focus on catchy slogans, they miss passing meaningful laws on data and safety.",
+        "visual_hint": "Gavel and law book on desk",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "courtroom gavel",
+        "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Watch if name change influences AI bills",
+        "description": "Pay attention to whether this rebrand affects upcoming AI bills; if it does, it's a power play.",
+        "visual_hint": "Person watching news on screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person watching TV",
+        "image": "https://images.pexels.com/photos/12475131/pexels-photo-12475131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: does 'AI Force' sway you?",
+        "description": "Test your reaction: if a name shift changes how you feel about AI risks, branding is working. Comment below.",
+        "visual_hint": "Hand holding smartphone with like icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone social media",
+        "image": "https://images.pexels.com/photos/3850266/pexels-photo-3850266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/donald-trump-open-mouth.jpg?resize=1200,800",
+    "savedAt": "2026-09-19T21:57:51.655Z",
+    "sourceId": "c0e5bbea1628d07f5ca7bf7d3eb29569"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "gavin-newsom-is-pushing-for-an-ai-kill-switch",
     "prompt_version": "1.0.0",
     "status": "published",
