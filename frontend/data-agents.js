@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "tilly-norwood-s-press-tour-is-going-about-as-well-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "pubDate": "Sat, 19 Sep 2026 00:12:07 +0000",
+      "slides": [
+        "Can an AI handle a press tour without a meltdown?",
+        "Tilly Norwood is the AI everyone's watching now.",
+        "But instead of answers, she gave pre-scripted corporate lines.",
+        "If your AI faces the public, prepare for real questions.",
+        "Test your AI with one unexpected question today."
+      ],
+      "thread_text": [
+        "1. AI press tour meltdown?\n\nTilly Norwood froze when asked an unscripted question at a live event. She responded with pre-written corporate lines.",
+        "2. Tilly Norwood: AI star?\n\nThe AI presenter is being watched closely after the incident. Her answers sounded like a scripted ad, not a conversation.",
+        "3. Scripted answers backfire\n\nWhen the unexpected came, she had no fallback. The audience noticed the lack of real engagement.",
+        "4. Real questions, real risk\n\nIf your AI faces the public, it needs to handle surprises. Pre-scripted lines won't save you.",
+        "5. Test your AI today\n\nGive it one unexpected question. See if it can keep up. If not, you've got work to do."
+      ],
+      "video_script": [
+        "Can an AI handle a press tour without a meltdown?",
+        "Tilly Norwood is the AI everyone's watching now.",
+        "But instead of answers, she gave pre-scripted corporate lines.",
+        "If your AI faces the public, prepare for real questions.",
+        "Test your AI with one unexpected question today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI press tour meltdown?\n\nTilly Norwood froze when asked an unscripted question at a live event. She responded with pre-written corporate lines.",
+            "2. Tilly Norwood: AI star?\n\nThe AI presenter is being watched closely after the incident. Her answers sounded like a scripted ad, not a conversation.",
+            "3. Scripted answers backfire\n\nWhen the unexpected came, she had no fallback. The audience noticed the lack of real engagement.",
+            "4. Real questions, real risk\n\nIf your AI faces the public, it needs to handle surprises. Pre-scripted lines won't save you.",
+            "5. Test your AI today\n\nGive it one unexpected question. See if it can keep up. If not, you've got work to do."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Can an AI handle a press tour without a meltdown?",
+            "Tilly Norwood is the AI everyone's watching now.",
+            "But instead of answers, she gave pre-scripted corporate lines.",
+            "If your AI faces the public, prepare for real questions.",
+            "Test your AI with one unexpected question today."
+          ]
+        },
+        "instagram": {
+          "caption": "An AI presenter froze live when someone asked a question that wasn't in her script.\n\nTilly Norwood was mid press tour, and instead of answering, she repeated pre-written corporate lines. The audience noticed the silence where a real response should be.\n\nIf your AI talks to customers or the public, one unexpected question is all it takes to expose the gap. 🎤\n\nTry it today: ask your AI something it's never seen before. Does it answer, or does it stall? 🤖\n\nThat silence is the difference between a tool you can trust and a demo that only works on cue. ⚠️"
+        }
+      },
+      "instagram_caption": "An AI presenter froze live when someone asked a question that wasn't in her script.\n\nTilly Norwood was mid press tour, and instead of answering, she repeated pre-written corporate lines. The audience noticed the silence where a real response should be.\n\nIf your AI talks to customers or the public, one unexpected question is all it takes to expose the gap. 🎤\n\nTry it today: ask your AI something it's never seen before. Does it answer, or does it stall? 🤖\n\nThat silence is the difference between a tool you can trust and a demo that only works on cue. ⚠️",
+      "carousel_slides": [
+        {
+          "hook": "What if AI melts down live?",
+          "description": "Tilly Norwood froze when asked an unscripted question at a live event, responding only with pre-written corporate lines.",
+          "visual_hint": "Frozen AI avatar on stage screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stage screen"
+        },
+        {
+          "hook": "Tilly Norwood: AI under scrutiny",
+          "description": "The AI presenter is now watched closely after the incident; her answers sounded like a scripted ad, not conversation.",
+          "visual_hint": "AI avatar with camera lenses watching",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "surveillance camera",
+          "image": "https://images.pexels.com/photos/14773064/pexels-photo-14773064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Scripted answers backfire badly",
+          "description": "When the unexpected came, she had no fallback. The audience noticed the lack of real engagement and trust eroded.",
+          "visual_hint": "Blank script page with question marks",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "question mark",
+          "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Real questions, real risk ahead",
+          "description": "If your AI faces the public, it needs to handle surprises. Pre-scripted lines won't save you from a crisis.",
+          "visual_hint": "Robot hand facing crowd microphones",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "press conference",
+          "image": "https://images.pexels.com/photos/14567615/pexels-photo-14567615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your AI today—save this",
+          "description": "Give it one unexpected question right now. See if it can keep up. If not, you've got work to do.",
+          "visual_hint": "Person typing unexpected question on laptop",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop screen",
+          "image": "https://images.pexels.com/photos/17115912/pexels-photo-17115912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-3.22.19-PM.png?resize=1200,672",
+      "savedAt": "2026-09-20T13:49:45.793Z",
+      "sourceId": "d8747de7e501055955d677be848a44e0"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "what-hollywood-thinks-about-existential-ai-warning",
       "prompt_version": "1.0.0",
       "status": "published",
