@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "is-the-ai-industry-really-ready-to-slow-down-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Is the AI industry really ready to slow down?",
+    "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+    "pubDate": "Sun, 20 Sep 2026 18:56:04 +0000",
+    "slides": [
+      "AI industry faces a speed vs safety dilemma.",
+      "Major labs just pledged to slow down.",
+      "But many are secretly racing ahead anyway.",
+      "You should audit your AI vendors' safety claims.",
+      "Ask: who really controls the pace?"
+    ],
+    "thread_text": [
+      "1. The Race Nobody Admits\n\nLast week, the world's biggest AI labs signed a pledge to pause development if risks get too high. Within days, insiders said many are still racing ahead behind closed doors.",
+      "2. The Safety Theater\n\nPublic commitments are easy to sign. But internal deadlines, investor pressure, and competitor moves often override those promises. The gap between what's said and what's done is where danger lives.",
+      "3. Your Vendor's Blind Spot\n\nMost companies using AI tools never ask how their provider handles safety. That means you're inheriting risks you didn't choose and can't see. Auditing isn't optional anymore.",
+      "4. Who Holds the Brake?\n\nIf labs won't slow down voluntarily, the only real check is external. Regulators are slow. Boards are conflicted. That leaves users and buyers as the last line of defense.",
+      "5. Take One Concrete Step\n\nAsk your AI vendor for their safety incident log and update cadence. If they can't answer in 48 hours, you have your answer. Do it this week."
+    ],
+    "video_script": [
+      "Big AI labs pledged to slow down if risks get too high.",
+      "But insiders say many are secretly racing ahead anyway.",
+      "That gap between promise and practice is where danger lives.",
+      "If labs won't slow down, who actually holds the brake?",
+      "Ask your AI vendor for their safety incident log today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Race Nobody Admits\n\nLast week, the world's biggest AI labs signed a pledge to pause development if risks get too high. Within days, insiders said many are still racing ahead behind closed doors.",
+          "2. The Safety Theater\n\nPublic commitments are easy to sign. But internal deadlines, investor pressure, and competitor moves often override those promises. The gap between what's said and what's done is where danger lives.",
+          "3. Your Vendor's Blind Spot\n\nMost companies using AI tools never ask how their provider handles safety. That means you're inheriting risks you didn't choose and can't see. Auditing isn't optional anymore.",
+          "4. Who Holds the Brake?\n\nIf labs won't slow down voluntarily, the only real check is external. Regulators are slow. Boards are conflicted. That leaves users and buyers as the last line of defense.",
+          "5. Take One Concrete Step\n\nAsk your AI vendor for their safety incident log and update cadence. If they can't answer in 48 hours, you have your answer. Do it this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Big AI labs pledged to slow down if risks get too high.",
+          "But insiders say many are secretly racing ahead anyway.",
+          "That gap between promise and practice is where danger lives.",
+          "If labs won't slow down, who actually holds the brake?",
+          "Ask your AI vendor for their safety incident log today."
+        ]
+      },
+      "instagram": {
+        "caption": "Almost every major AI lab signed a pledge to pause if risks get too high.\n\nInsiders say many kept racing behind closed doors anyway. 🏃\n\nThe gap between what's signed publicly and what happens internally is where your risk lives.\n\nIf you use AI tools at work, you're inheriting safety choices you never chose.\n\nYour vendor should give you a safety incident log within 48 hours. Ask this week. 🔍\n\nDo you actually know who controls the pace of the AI you depend on? 🤖"
+      }
+    },
+    "instagram_caption": "Almost every major AI lab signed a pledge to pause if risks get too high.\n\nInsiders say many kept racing behind closed doors anyway. 🏃\n\nThe gap between what's signed publicly and what happens internally is where your risk lives.\n\nIf you use AI tools at work, you're inheriting safety choices you never chose.\n\nYour vendor should give you a safety incident log within 48 hours. Ask this week. 🔍\n\nDo you actually know who controls the pace of the AI you depend on? 🤖",
+    "carousel_slides": [
+      {
+        "hook": "Are AI labs racing behind closed doors?",
+        "description": "Major labs signed a safety pause pledge, yet insiders say many still race ahead secretly. Public promises mask private speed.",
+        "visual_hint": "Close-up of server racks with blinking lights",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Safety pledges are easy to sign",
+        "description": "Internal deadlines, investor pressure, and competitor moves often override public commitments. The gap between words and actions is dangerous.",
+        "visual_hint": "Signed document on a desk with pen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "contract signing",
+        "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your AI vendor hides safety risks",
+        "description": "Most companies never ask how their AI provider handles safety. You inherit unseen risks you didn't choose and can't control.",
+        "visual_hint": "Person looking at a glowing laptop screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "office worker laptop",
+        "image": "https://images.pexels.com/photos/7993573/pexels-photo-7993573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who really holds the brake?",
+        "description": "If labs won't slow down voluntarily, only external checks remain. Regulators are slow, boards conflicted—users are the last defense.",
+        "visual_hint": "Hand hovering over emergency stop button",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "emergency stop button",
+        "image": "https://images.pexels.com/photos/5532840/pexels-photo-5532840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Demand your vendor's safety log now",
+        "description": "Ask your AI vendor for their safety incident log and update cadence. If they can't answer in 48 hours, you have your answer.",
+        "visual_hint": "Checklist with checkmarks on clipboard",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "safety checklist",
+        "image": "https://images.pexels.com/photos/7937679/pexels-photo-7937679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+    "savedAt": "2026-09-20T20:01:11.272Z",
+    "sourceId": "262fdb19d1b403d1650da841ef13d91c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "humans-not-rogue-ai-are-still-the-biggest-cybersec",
     "prompt_version": "1.0.0",
     "status": "published",
