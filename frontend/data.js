@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "no-one-is-surprised-that-nvidia-8217-s-jensen-huan",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+    "pubDate": "2026-09-20T18:50:18.000Z",
+    "slides": [
+      "Jensen Huang says AI fears are overblown. Is he right?",
+      "Nvidia's chips power most AI models today.",
+      "But Huang also admits AI could be misused by bad actors.",
+      "Companies using Nvidia tech must build safeguards now.",
+      "Test one AI risk scenario this week before it's too late."
+    ],
+    "thread_text": [
+      "1. AI Doom or Not?\n\nJensen Huang says AI fears are overblown. But he also admits AI could be misused by bad actors. That contradiction is where the real story is.",
+      "2. Nvidia Powers the Boom\n\nMost AI models today run on Nvidia chips. That means the company shaping the hardware also shapes the risks. And it knows it.",
+      "3. Who Watches the Bad Actors?\n\nHuang warns AI could be misused. Yet companies using Nvidia tech aren't required to build safeguards. That gap is the danger.",
+      "4. Safeguards Are Not Optional\n\nIf your AI runs on Nvidia, you need to act. Waiting for regulation is not a plan. Build internal checks now.",
+      "5. Test One Risk This Week\n\nTake a prompt on ChatGPT and simulate how your AI could be misused. If you haven't done it, start there. Your move."
+    ],
+    "video_script": [
+      "Huang says AI fears are overblown.",
+      "But he admits bad actors could misuse it.",
+      "Nvidia chips power most AI today.",
+      "Companies must build safeguards now.",
+      "Test one AI risk scenario this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI Doom or Not?\n\nJensen Huang says AI fears are overblown. But he also admits AI could be misused by bad actors. That contradiction is where the real story is.",
+          "2. Nvidia Powers the Boom\n\nMost AI models today run on Nvidia chips. That means the company shaping the hardware also shapes the risks. And it knows it.",
+          "3. Who Watches the Bad Actors?\n\nHuang warns AI could be misused. Yet companies using Nvidia tech aren't required to build safeguards. That gap is the danger.",
+          "4. Safeguards Are Not Optional\n\nIf your AI runs on Nvidia, you need to act. Waiting for regulation is not a plan. Build internal checks now.",
+          "5. Test One Risk This Week\n\nTake a prompt on ChatGPT and simulate how your AI could be misused. If you haven't done it, start there. Your move."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Huang says AI fears are overblown.",
+          "But he admits bad actors could misuse it.",
+          "Nvidia chips power most AI today.",
+          "Companies must build safeguards now.",
+          "Test one AI risk scenario this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Nvidia's chips run most AI models you already use.\n\nJensen Huang says fears about AI are overblown.\n\nBut he also admits bad actors could misuse it.\n\nCompanies building on Nvidia tech aren't required to add safeguards — that gap is the real risk. ⚠️\n\nIf you publish or build with AI, waiting for regulation is not a plan. 🔍\n\nTest one misuse scenario this week — take a prompt and see how your tool could be turned against you. 🛠️\n\nHave you actually run that test yet? 👇"
+      }
+    },
+    "instagram_caption": "Nvidia's chips run most AI models you already use.\n\nJensen Huang says fears about AI are overblown.\n\nBut he also admits bad actors could misuse it.\n\nCompanies building on Nvidia tech aren't required to add safeguards — that gap is the real risk. ⚠️\n\nIf you publish or build with AI, waiting for regulation is not a plan. 🔍\n\nTest one misuse scenario this week — take a prompt and see how your tool could be turned against you. 🛠️\n\nHave you actually run that test yet? 👇",
+    "carousel_slides": [
+      {
+        "hook": "Is Huang wrong about AI risks?",
+        "description": "Huang says AI fears are overblown yet admits bad actors could misuse it, creating a dangerous contradiction.",
+        "visual_hint": "Jensen Huang speaking on stage",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Jensen Huang keynote"
+      },
+      {
+        "hook": "Nvidia owns the AI hardware race",
+        "description": "Most AI models today run on Nvidia chips, so the company shaping hardware also shapes the risks.",
+        "visual_hint": "Close-up of Nvidia GPU chip",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "Nvidia GPU chip",
+        "image": "https://images.pexels.com/photos/34552801/pexels-photo-34552801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who actually watches the bad actors?",
+        "description": "Huang warns AI could be misused, but companies using Nvidia tech face no required safeguards.",
+        "visual_hint": "Dark server room with warning lights",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room dark",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Safeguards are not optional anymore",
+        "description": "If your AI runs on Nvidia, waiting for regulation is not a plan. Build internal checks now.",
+        "visual_hint": "Hands typing code on keyboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands typing keyboard",
+        "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your AI breaks",
+        "description": "Test one prompt this week simulating misuse of your AI system. Start with ChatGPT.",
+        "visual_hint": "ChatGPT interface on laptop screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop chat interface",
+        "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-09-20T23:43:41.238Z",
+    "sourceId": "0c6dd0ea6efbf8bde1322cc7d42ca664"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "is-the-ai-industry-really-ready-to-slow-down-",
     "prompt_version": "1.0.0",
     "status": "published",
