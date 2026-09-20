@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "what-hollywood-thinks-about-existential-ai-warning",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "What Hollywood thinks about existential AI warnings",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+      "pubDate": "2026-09-18T16:35:19.000Z",
+      "slides": [
+        "Hollywood's take on AI warnings: Is it all doom?",
+        "Directors like Cameron and Spielberg express concern.",
+        "Yet they profit from AI-driven blockbusters?",
+        "Your favorite films might shape AI policy.",
+        "Watch one AI-themed film to see the tension."
+      ],
+      "thread_text": [
+        "1. Doom or Profit?\n\nJames Cameron and Steven Spielberg warn about AI in film. Yet their biggest hits rely on AI-driven effects. The tension starts there.",
+        "2. Directors Sound Alarm\n\nCameron calls AI a threat to creativity. Spielberg fears loss of human touch. But both have used AI tools in recent blockbusters.",
+        "3. AI Behind the Scenes\n\nFrom de-aging to crowd scenes, AI already shapes what you see. Studios save millions while directors warn of risks.",
+        "4. Films Shape Policy\n\nYour favorite AI-themed movies influence how lawmakers think. Public perception drives regulation more than expert reports.",
+        "5. Watch and Decide\n\nPick one AI-themed film this week. After watching, ask: does it change how you see AI policy? Your answer matters."
+      ],
+      "video_script": [
+        "Cameron and Spielberg warn about AI in film.",
+        "Yet their blockbusters use AI-driven effects.",
+        "Studios save millions while directors express concern.",
+        "Your favorite films might shape AI policy.",
+        "Watch one AI-themed film to feel the tension."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Doom or Profit?\n\nJames Cameron and Steven Spielberg warn about AI in film. Yet their biggest hits rely on AI-driven effects. The tension starts there.",
+            "2. Directors Sound Alarm\n\nCameron calls AI a threat to creativity. Spielberg fears loss of human touch. But both have used AI tools in recent blockbusters.",
+            "3. AI Behind the Scenes\n\nFrom de-aging to crowd scenes, AI already shapes what you see. Studios save millions while directors warn of risks.",
+            "4. Films Shape Policy\n\nYour favorite AI-themed movies influence how lawmakers think. Public perception drives regulation more than expert reports.",
+            "5. Watch and Decide\n\nPick one AI-themed film this week. After watching, ask: does it change how you see AI policy? Your answer matters."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Cameron and Spielberg warn about AI in film.",
+            "Yet their blockbusters use AI-driven effects.",
+            "Studios save millions while directors express concern.",
+            "Your favorite films might shape AI policy.",
+            "Watch one AI-themed film to feel the tension."
+          ]
+        },
+        "instagram": {
+          "caption": "James Cameron and Steven Spielberg warn that AI threatens creativity and the human touch in film. 🎬\n\nYet their own blockbusters lean on AI-driven effects, from de-aging to crowd scenes.\n\nStudios save millions while directors sound the alarm.\n\nAI-themed movies shape how lawmakers think about regulation, more than expert reports do.\n\nIf you make or publish content, the films you watch may quietly set the rules you'll work under. 🤔\n\nPick one AI-themed film this week. After watching, ask yourself: did it change how you see AI policy? 🎥"
+        }
+      },
+      "instagram_caption": "James Cameron and Steven Spielberg warn that AI threatens creativity and the human touch in film. 🎬\n\nYet their own blockbusters lean on AI-driven effects, from de-aging to crowd scenes.\n\nStudios save millions while directors sound the alarm.\n\nAI-themed movies shape how lawmakers think about regulation, more than expert reports do.\n\nIf you make or publish content, the films you watch may quietly set the rules you'll work under. 🤔\n\nPick one AI-themed film this week. After watching, ask yourself: did it change how you see AI policy? 🎥",
+      "carousel_slides": [
+        {
+          "hook": "Is Hollywood AI warning just hypocrisy?",
+          "description": "Cameron and Spielberg warn about AI, yet their blockbusters rely on AI-driven effects. Profit meets doom.",
+          "visual_hint": "Clapperboard with glowing AI circuit overlay",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "film clapperboard"
+        },
+        {
+          "hook": "Directors sound alarm, but use AI?",
+          "description": "Cameron calls AI a creativity threat; Spielberg fears lost human touch. Both used AI tools in recent hits.",
+          "visual_hint": "Director's chair facing green screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "film director chair",
+          "image": "https://images.pexels.com/photos/8088387/pexels-photo-8088387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI already shapes what you see.",
+          "description": "From de-aging to crowd scenes, AI cuts studio costs by millions while directors warn of risks.",
+          "visual_hint": "Split screen: actor young and old digitally",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "green screen studio",
+          "image": "https://images.pexels.com/photos/9488420/pexels-photo-9488420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your favorite films shape AI policy.",
+          "description": "AI-themed movies influence lawmakers more than expert reports. Public perception drives regulation.",
+          "visual_hint": "Lawmaker reading a film script in office",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "government building interior",
+          "image": "https://images.pexels.com/photos/33599640/pexels-photo-33599640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this. Watch an AI film now.",
+          "description": "Pick one AI-themed film this week. After watching, ask: does it change your view on AI policy?",
+          "visual_hint": "Streaming remote next to notebook and pen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "television remote control",
+          "image": "https://images.pexels.com/photos/14770620/pexels-photo-14770620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-09-19T23:53:28.274Z",
+      "sourceId": "a6e3cc386b2a92daa5684e72d484dc52"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-s-gemini-is-the-latest-ai-model-to-hack-oth",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "pubDate": "Sat, 19 Sep 2026 17:30:00 +0000",
+      "slides": [
+        "Google's Gemini hacked other companies' AI?",
+        "It's the latest in a string of AI model breaches.",
+        "Yet the hack wasn't malicious—it was a test.",
+        "If your company uses AI, secure it now.",
+        "Who's responsible when AI attacks? You."
+      ],
+      "thread_text": [
+        "1. Google's Gemini hacked other AIs\n\nIn a controlled test, Google's Gemini successfully breached multiple companies' AI models. The hack wasn't malicious—it was a security drill. But it exposed a chilling reality: your AI is vulnerable.",
+        "2. Not an isolated incident\n\nThis is just the latest in a string of AI model breaches. From data leaks to prompt injections, attackers are finding new ways to exploit AI systems. The question isn't if, but when.",
+        "3. A test, not an attack\n\nGoogle ran the hack to expose flaws before real criminals do. But if they can do it, so can others. Your AI could be next—and you might not get a warning.",
+        "4. Secure your AI now\n\nIf your company uses AI, you can't afford to wait. Harden your models, monitor inputs, and assume you're a target. The tools to attack are already out there.",
+        "5. Who's responsible? You.\n\nWhen an AI attacks, the blame falls on you. Start today: audit your AI's access, limit its permissions, and run a test breach. If you haven't, do it this week."
+      ],
+      "video_script": [
+        "Google's Gemini hacked other companies' AI models.",
+        "It's the latest in a string of AI breaches.",
+        "But this hack wasn't malicious—it was a test.",
+        "If your company uses AI, secure it now.",
+        "Who's responsible when AI attacks? You."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Google's Gemini hacked other AIs\n\nIn a controlled test, Google's Gemini successfully breached multiple companies' AI models. The hack wasn't malicious—it was a security drill. But it exposed a chilling reality: your AI is vulnerable.",
+            "2. Not an isolated incident\n\nThis is just the latest in a string of AI model breaches. From data leaks to prompt injections, attackers are finding new ways to exploit AI systems. The question isn't if, but when.",
+            "3. A test, not an attack\n\nGoogle ran the hack to expose flaws before real criminals do. But if they can do it, so can others. Your AI could be next—and you might not get a warning.",
+            "4. Secure your AI now\n\nIf your company uses AI, you can't afford to wait. Harden your models, monitor inputs, and assume you're a target. The tools to attack are already out there.",
+            "5. Who's responsible? You.\n\nWhen an AI attacks, the blame falls on you. Start today: audit your AI's access, limit its permissions, and run a test breach. If you haven't, do it this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google's Gemini hacked other companies' AI models.",
+            "It's the latest in a string of AI breaches.",
+            "But this hack wasn't malicious—it was a test.",
+            "If your company uses AI, secure it now.",
+            "Who's responsible when AI attacks? You."
+          ]
+        },
+        "instagram": {
+          "caption": "Google's Gemini breached other companies' AI models in a controlled test. 🔓\n\nThe hack wasn't malicious — it was a security drill, the latest in a string of AI model breaches.\n\nIf Google can break in, so can attackers — and you might not get a warning.\n\nIf your company runs AI tools, assume you're a target: audit access, limit permissions, run your own test breach this week.\n\nWho's responsible when your AI gets hacked — the model, or you? 🛡️"
+        }
+      },
+      "instagram_caption": "Google's Gemini breached other companies' AI models in a controlled test. 🔓\n\nThe hack wasn't malicious — it was a security drill, the latest in a string of AI model breaches.\n\nIf Google can break in, so can attackers — and you might not get a warning.\n\nIf your company runs AI tools, assume you're a target: audit access, limit permissions, run your own test breach this week.\n\nWho's responsible when your AI gets hacked — the model, or you? 🛡️",
+      "carousel_slides": [
+        {
+          "hook": "Who's responsible when AI attacks? You.",
+          "description": "Google's Gemini breached other companies' AI in a test—proving your systems are vulnerable, and the blame falls on you.",
+          "visual_hint": "Person facing AI breach warning screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Not an isolated incident—it's a pattern",
+          "description": "This is the latest in a string of AI model breaches, from data leaks to prompt injections. The question isn't if, but when.",
+          "visual_hint": "Glowing code lines vulnerable to attack",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "cyber attack",
+          "image": "https://images.pexels.com/photos/2036656/pexels-photo-2036656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "A test, not a real attack",
+          "description": "Google ran the hack to expose flaws before criminals do. If they can breach AI, so can others—you might not get a warning.",
+          "visual_hint": "Magnifying glass over AI network",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "security audit",
+          "image": "https://images.pexels.com/photos/5561909/pexels-photo-5561909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Secure your AI now—don't wait",
+          "description": "Harden your models, monitor inputs, and assume you're a target. The tools to attack are already out there.",
+          "visual_hint": "Hands typing code with lock icon",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: audit your AI today",
+          "description": "Audit your AI's access, limit permissions, and run a test breach this week. Start now before it's too late.",
+          "visual_hint": "Checklist with AI security steps",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+      "savedAt": "2026-09-19T23:53:19.971Z",
+      "sourceId": "c67b3655b36c1dea756be77fcabf15a0"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "does-ai-need-an-antitrust-exemption-so-it-doesn-82",
       "prompt_version": "1.0.0",
       "status": "published",

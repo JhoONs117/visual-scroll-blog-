@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-s-gemini-is-the-latest-ai-model-to-hack-oth",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google’s Gemini is the latest AI model to hack other companies",
+  "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+  "pubDate": "Sat, 19 Sep 2026 17:30:00 +0000",
+  "slides": [
+    "Google's Gemini hacked other companies' AI?",
+    "It's the latest in a string of AI model breaches.",
+    "Yet the hack wasn't malicious—it was a test.",
+    "If your company uses AI, secure it now.",
+    "Who's responsible when AI attacks? You."
+  ],
+  "thread_text": [
+    "1. Google's Gemini hacked other AIs\n\nIn a controlled test, Google's Gemini successfully breached multiple companies' AI models. The hack wasn't malicious—it was a security drill. But it exposed a chilling reality: your AI is vulnerable.",
+    "2. Not an isolated incident\n\nThis is just the latest in a string of AI model breaches. From data leaks to prompt injections, attackers are finding new ways to exploit AI systems. The question isn't if, but when.",
+    "3. A test, not an attack\n\nGoogle ran the hack to expose flaws before real criminals do. But if they can do it, so can others. Your AI could be next—and you might not get a warning.",
+    "4. Secure your AI now\n\nIf your company uses AI, you can't afford to wait. Harden your models, monitor inputs, and assume you're a target. The tools to attack are already out there.",
+    "5. Who's responsible? You.\n\nWhen an AI attacks, the blame falls on you. Start today: audit your AI's access, limit its permissions, and run a test breach. If you haven't, do it this week."
+  ],
+  "video_script": [
+    "Google's Gemini hacked other companies' AI models.",
+    "It's the latest in a string of AI breaches.",
+    "But this hack wasn't malicious—it was a test.",
+    "If your company uses AI, secure it now.",
+    "Who's responsible when AI attacks? You."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Google's Gemini hacked other AIs\n\nIn a controlled test, Google's Gemini successfully breached multiple companies' AI models. The hack wasn't malicious—it was a security drill. But it exposed a chilling reality: your AI is vulnerable.",
+        "2. Not an isolated incident\n\nThis is just the latest in a string of AI model breaches. From data leaks to prompt injections, attackers are finding new ways to exploit AI systems. The question isn't if, but when.",
+        "3. A test, not an attack\n\nGoogle ran the hack to expose flaws before real criminals do. But if they can do it, so can others. Your AI could be next—and you might not get a warning.",
+        "4. Secure your AI now\n\nIf your company uses AI, you can't afford to wait. Harden your models, monitor inputs, and assume you're a target. The tools to attack are already out there.",
+        "5. Who's responsible? You.\n\nWhen an AI attacks, the blame falls on you. Start today: audit your AI's access, limit its permissions, and run a test breach. If you haven't, do it this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google's Gemini hacked other companies' AI models.",
+        "It's the latest in a string of AI breaches.",
+        "But this hack wasn't malicious—it was a test.",
+        "If your company uses AI, secure it now.",
+        "Who's responsible when AI attacks? You."
+      ]
+    },
+    "instagram": {
+      "caption": "Google's Gemini breached other companies' AI models in a controlled test. 🔓\n\nThe hack wasn't malicious — it was a security drill, the latest in a string of AI model breaches.\n\nIf Google can break in, so can attackers — and you might not get a warning.\n\nIf your company runs AI tools, assume you're a target: audit access, limit permissions, run your own test breach this week.\n\nWho's responsible when your AI gets hacked — the model, or you? 🛡️"
+    }
+  },
+  "instagram_caption": "Google's Gemini breached other companies' AI models in a controlled test. 🔓\n\nThe hack wasn't malicious — it was a security drill, the latest in a string of AI model breaches.\n\nIf Google can break in, so can attackers — and you might not get a warning.\n\nIf your company runs AI tools, assume you're a target: audit access, limit permissions, run your own test breach this week.\n\nWho's responsible when your AI gets hacked — the model, or you? 🛡️",
+  "carousel_slides": [
+    {
+      "hook": "Who's responsible when AI attacks? You.",
+      "description": "Google's Gemini breached other companies' AI in a test—proving your systems are vulnerable, and the blame falls on you.",
+      "visual_hint": "Person facing AI breach warning screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Not an isolated incident—it's a pattern",
+      "description": "This is the latest in a string of AI model breaches, from data leaks to prompt injections. The question isn't if, but when.",
+      "visual_hint": "Glowing code lines vulnerable to attack",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "cyber attack",
+      "image": "https://images.pexels.com/photos/2036656/pexels-photo-2036656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "A test, not a real attack",
+      "description": "Google ran the hack to expose flaws before criminals do. If they can breach AI, so can others—you might not get a warning.",
+      "visual_hint": "Magnifying glass over AI network",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "security audit",
+      "image": "https://images.pexels.com/photos/5561909/pexels-photo-5561909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Secure your AI now—don't wait",
+      "description": "Harden your models, monitor inputs, and assume you're a target. The tools to attack are already out there.",
+      "visual_hint": "Hands typing code with lock icon",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: audit your AI today",
+      "description": "Audit your AI's access, limit permissions, and run a test breach this week. Start now before it's too late.",
+      "visual_hint": "Checklist with AI security steps",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+  "savedAt": "2026-09-19T23:53:19.971Z",
+  "sourceId": "c67b3655b36c1dea756be77fcabf15a0"
+}
