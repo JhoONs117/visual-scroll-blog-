@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "humans-not-rogue-ai-are-still-the-biggest-cybersec",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+    "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+    "pubDate": "2026-09-20T12:00:00.000Z",
+    "slides": [
+      "Energy firms fear rogue AI, but miss the real threat",
+      "Insiders cause most breaches, not machines",
+      "Yet AI tools now amplify human mistakes faster",
+      "Your team's habits matter more than your firewall",
+      "Run one phishing drill this week"
+    ],
+    "thread_text": [
+      "1. Your firewall won't save you\n\nMost breaches start with an employee clicking a link. The machines aren't the enemy — your own team is.",
+      "2. The rogue AI myth\n\nEnergy firms are busy guarding against evil robots while their real threat sits at a desk, opening a phishing email.",
+      "3. AI makes mistakes worse\n\nOne careless click used to affect one inbox. Now AI tools can spread that mistake across the whole company in seconds.",
+      "4. Habits beat hardware\n\nYou can buy the best security system, but if your team reuses passwords and skips training, you're still exposed.",
+      "5. Run a drill today\n\nSend a fake phishing email to your team this week. See who clicks. That's your real security audit."
+    ],
+    "video_script": [
+      "Energy firms fear rogue AI, but that's not the threat.",
+      "Most breaches come from insiders, not machines.",
+      "AI tools now make human mistakes spread faster.",
+      "Your team's habits matter more than your firewall.",
+      "Run one phishing drill this week and see."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your firewall won't save you\n\nMost breaches start with an employee clicking a link. The machines aren't the enemy — your own team is.",
+          "2. The rogue AI myth\n\nEnergy firms are busy guarding against evil robots while their real threat sits at a desk, opening a phishing email.",
+          "3. AI makes mistakes worse\n\nOne careless click used to affect one inbox. Now AI tools can spread that mistake across the whole company in seconds.",
+          "4. Habits beat hardware\n\nYou can buy the best security system, but if your team reuses passwords and skips training, you're still exposed.",
+          "5. Run a drill today\n\nSend a fake phishing email to your team this week. See who clicks. That's your real security audit."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Energy firms fear rogue AI, but that's not the threat.",
+          "Most breaches come from insiders, not machines.",
+          "AI tools now make human mistakes spread faster.",
+          "Your team's habits matter more than your firewall.",
+          "Run one phishing drill this week and see."
+        ]
+      },
+      "instagram": {
+        "caption": "Your firewall won't stop the breach. An employee clicking a phishing link will. 🔓\n\nEnergy firms keep guarding against rogue AI while the real risk sits at a desk, opening a fake email.\n\nAI now spreads one careless click across the whole company in seconds. 🧠\n\nThat means your team's habits matter more than the security tools you buy.\n\nSend one fake phishing email this week. See who clicks. ⚠️\n\nWho on your team would fall for it? 🎣"
+      }
+    },
+    "instagram_caption": "Your firewall won't stop the breach. An employee clicking a phishing link will. 🔓\n\nEnergy firms keep guarding against rogue AI while the real risk sits at a desk, opening a fake email.\n\nAI now spreads one careless click across the whole company in seconds. 🧠\n\nThat means your team's habits matter more than the security tools you buy.\n\nSend one fake phishing email this week. See who clicks. ⚠️\n\nWho on your team would fall for it? 🎣",
+    "carousel_slides": [
+      {
+        "hook": "Your biggest threat sits at a desk",
+        "description": "Insiders cause most breaches, not machines. A single careless employee click opens the door to your entire energy network.",
+        "visual_hint": "Employee silhouette at office workstation",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "office workers"
+      },
+      {
+        "hook": "Rogue AI is a myth",
+        "description": "Energy firms guard against evil robots while real breaches start with an employee clicking a phishing link, not artificial intelligence.",
+        "visual_hint": "Energy control room with monitoring screens",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "power plant",
+        "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One click, company-wide damage",
+        "description": "AI tools now amplify human mistakes fast. A single careless click used to affect one inbox, now spreads across the whole company instantly.",
+        "visual_hint": "Digital network spreading across screens",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Habits beat hardware every time",
+        "description": "You can buy the best security system, but if your team reuses passwords and skips training, you remain completely exposed.",
+        "visual_hint": "Hand typing on keyboard close-up",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "computer keyboard",
+        "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this. Run a drill today.",
+        "description": "Send a fake phishing email to your team this week. See who clicks. That is your real security audit.",
+        "visual_hint": "Email inbox with warning alert",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "email inbox",
+        "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220309_4977_0292.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-09-20T17:09:51.949Z",
+    "sourceId": "c5abc7e9b94c968907b67400a3905b74"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "tilly-norwood-s-press-tour-is-going-about-as-well-",
     "prompt_version": "1.0.0",
     "status": "published",
