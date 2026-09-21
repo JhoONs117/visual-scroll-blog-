@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "bocconcini-di-pesce-spada-alla-mediterranea",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Bocconcini di pesce spada alla mediterranea",
+    "link": "https://ricette.giallozafferano.it/Bocconcini-di-pesce-spada-alla-mediterranea.html",
+    "pubDate": "Mon, 21 Sep 2026 15:00:00 +0200",
+    "content": "Bocconcini di pesce spada alla mediterranea con melanzane e peperoni Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Secondi piatti Bocconcini di pesce spada alla mediterranea /5 Ricetta proposta da Sebastian Fitarau CONDIVIDI INVIA FOTO COMMENTA de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 15 min Cottura: 25 min Dosi per: 4 persone Costo: Medio Ascolta la ricetta Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti Ascolta su Spreaker. PRESENTAZIONE I bocconcini di pesce spada alla mediterranea sono un secondo piatto che riunisce in un’unica padella pesce e verdure di stagione. Il nome della ricetta richiama gli ingredienti tipici della cucina mediterranea : melanzane, peperoni e pomodorini accompagnano il pesce spada, mentre alici e frutti di cappero aggiungono una nota più decisa al fondo di cottura. I bocconcini, leggermente infarinati prima di essere aggiunti alle verdure, restano morbidi e contribuiscono a rendere il condimento leggermente cremoso. Preparate anche voi i bocconcini di pesce spada alla mediterranea, una ricetta semplice da servire come secondo piatto durante un pranzo o una cena a base di pesce. E se siete amanti del pesce spada ecco altre ricette da non perdere: Pasta con pesce spada Pesce spada alla siciliana Pesce spada in salmoriglio Pesce spada in padella Caponata di pesce spada INGREDIENTI Pesce spada 450 g Melanzane 300 g Peperoni rossi 200 g Pomodorini ciliegino 200 g Frutti di cappero 80 g Acciughe sott'olio 3 filetti Aglio 1 spicchio Vino bianco 100 g Peperoncino q.b. Prezzemolo q.b. Farina 00 100 g Olio extravergine d'oliva 20 g Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare i Bocconcini di pesce spada alla mediterranea Per preparare i bocconcini di pesce spada alla mediterranea come prima cosa lavate la melanzana, eliminate il picciolo e tagliatela prima a fette 1 e poi a cubetti regolari di circa 1,5-2 cm 2 . Pulite il peperone rosso eliminando il picciolo, i semi e i filamenti interni, quindi tagliate anch’esso a cubetti 3 . Lavate i pomodorini ciliegino e divideteli a metà 4 . Versate 2 cucchiai di olio extravergine d’oliva in una padella ampia e fatelo scaldare. Aggiungete lo spicchio d’aglio schiacciato, il peperoncino e i gambi del prezzemolo 5 , tenendo da parte le foglie per completare il piatto. Lasciate insaporire il fondo per 1-2 minuti, facendo attenzione a non bruciare l’aglio. Unite le melanzane 6 e cuocete a fuoco medio per 6-8 minuti, mescolando di tanto in tanto. Aggiungete i peperoni 7 e proseguite la cottura per altri 4-6 minuti, quindi aggiungete i pomodorini 8 e regolate di sale 9 . Versate il vino bianco secco 10 e lasciate evaporare la parte alcolica. Abbassate quindi la fiamma, coprite la padella con il coperchio 11 e lasciate proseguire dolcemente la cottura delle verdure per altri 5-6 minuti. Nel frattempo occupatevi del pesce spada. Eliminate la pelle e l’eventuale parte centrale più dura, quindi tamponate accuratamente il filetto per asciugarlo. Tagliatelo a bocconcini di circa 2-3 cm 12 e trasferite in una ciotola. Salate leggermente i bocconcini e passateli nella farina 00 13 14 , eliminando quella in eccesso aiutandovi con un colino 15 . Aggiungete nella padella i filetti di alici sott’olio 16 e lasciateli sciogliere nel fondo di cottura a fiamma bassa. Unite quindi i bocconcini di pesce spada infarinati 17 , poi coprite nuovamente 18 e cuocete per circa 4-5 minuti, fino a quando il pesce spada risulterà opaco e morbido all’interno. Nel frattempo tritate finemente le foglie del prezzemolo 19 e tagliate a metà i frutti di cappero 20 . Controllate spesso la cottura del pesce e assicuratevi che il fondo rimanga sufficientemente umido: se dovesse restringersi troppo, aggiungete poca acqua calda. Mescolate sempre delicatamente per non romperlo. Togliete la padella dal fuoco e aggiungete circa due terzi dei frutti di cappero 21 . Aggiungete il prezzemolo 22 e mescolate delicatamente 23 , condite con un filo di olio extravergine d’oliva a crudo e, se lo gradite, aggiungete una macinata di pepe. Distribuite i bocconcini di pesce spada alla mediterranea nei piatti e completate con i frutti di cappero tenuti da parte 24 . Conservazione Conservate i bocconcini di pesce spada alla mediterranea in frigorifero, all’interno di un contenitore ermetico, per 1 giorno. Se avete usato tutti ingredienti freschi potete anche congelarlo. Consiglio Infarinate i bocconcini di pesce spada solamente poco prima di aggiungerli in padella. In questo modo la farina non assorbirà l’umidità del pesce durante l’attesa. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Pesce spada Aglio Peperoni Melanzane Olio di oliva Prezzemolo Scopri tutto sugli ingredienti Presente in: Secondi piatti sfiziosi , Secondi piatti di pesce , Ricette sfiziose STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Bocconcini di pesce spada alla mediterranea 5.0 Charlotte ai frutti di bosco 5.0 Churros cheesecake 4.0 SCOPRI Pesce spada al forno Pesce spada in padella Pesce spada alla griglia Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Bocconcini di pesce spada con melanzane e peperoni",
+      "Pesce spada, melanzane, peperoni, pomodorini, capperi",
+      "Infarina i bocconcini di pesce spada prima di cuocerli",
+      "Cuoci coperto 4-5 minuti con alici e verdure",
+      "Aggiungi capperi e prezzemolo a fuoco spento"
+    ],
+    "instagram_caption": "Bocconcini di pesce spada che sanno di sole e di Sicilia 🐟🍋\nInfarinati e dorati, poi cotti coperti con melanzane, peperoni, pomodorini e alici: in 5 minuti la magia è servita.\nCapperi e prezzemolo a fuoco spento per quella marinità che ti riporta dritto al mare.\nUn piatto unico, veloce e pieno di carattere, perfetto per una cena rustica e profumata.\nSalva la ricetta e provala questo weekend 🌿🍅",
+    "formats": {
+      "instagram": {
+        "caption": "Bocconcini di pesce spada che sanno di sole e di Sicilia 🐟🍋\nInfarinati e dorati, poi cotti coperti con melanzane, peperoni, pomodorini e alici: in 5 minuti la magia è servita.\nCapperi e prezzemolo a fuoco spento per quella marinità che ti riporta dritto al mare.\nUn piatto unico, veloce e pieno di carattere, perfetto per una cena rustica e profumata.\nSalva la ricetta e provala questo weekend 🌿🍅"
+      },
+      "tiktok": {
+        "script": [
+          "Bocconcini di pesce spada con melanzane e peperoni.",
+          "Mi servono pesce spada, melanzane, peperoni, pomodorini e capperi.",
+          "Infarino bene i bocconcini prima di cuocerli.",
+          "Coperto, 4-5 minuti con alici e verdure.",
+          "Fuoco spento: capperi e prezzemolo, che profumo!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "Il pesce spada non deve mai essere noioso. Ecco come lo trasformo in bocconcini che spariscono in 5 minuti: melanzane, peperoni e un tocco di capperi. 🐟",
+          "Parti da cubetti di pesce spada. In padella: melanzane a tocchetti, peperoni a striscioline, pomodorini che scoppiano. Il pesce si unisce dopo, solo per rosolarsi.",
+          "Prima di tuffarli in padella, infarina i bocconcini di pesce spada. Crosticina fuori, morbidezza dentro. Non saltare questo passaggio, cambia tutto.",
+          "Sfuma con alici dissalate e chiudi con coperchio. 4-5 minuti a fuoco vivo: le verdure si ammorbidiscono, il pesce resta succoso. Profumo da far girare i vicini.",
+          "Spegni il fuoco e aggiungi capperi e prezzemolo fresco. Provala e dimmi se non è il miglior modo per mangiare pesce spada 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Bocconcini di pesce spada con melanzane e peperoni.",
+      "Mi servono pesce spada, melanzane, peperoni, pomodorini e capperi.",
+      "Infarino bene i bocconcini prima di cuocerli.",
+      "Coperto, 4-5 minuti con alici e verdure.",
+      "Fuoco spento: capperi e prezzemolo, che profumo!"
+    ],
+    "thread_text": [
+      "Il pesce spada non deve mai essere noioso. Ecco come lo trasformo in bocconcini che spariscono in 5 minuti: melanzane, peperoni e un tocco di capperi. 🐟",
+      "Parti da cubetti di pesce spada. In padella: melanzane a tocchetti, peperoni a striscioline, pomodorini che scoppiano. Il pesce si unisce dopo, solo per rosolarsi.",
+      "Prima di tuffarli in padella, infarina i bocconcini di pesce spada. Crosticina fuori, morbidezza dentro. Non saltare questo passaggio, cambia tutto.",
+      "Sfuma con alici dissalate e chiudi con coperchio. 4-5 minuti a fuoco vivo: le verdure si ammorbidiscono, il pesce resta succoso. Profumo da far girare i vicini.",
+      "Spegni il fuoco e aggiungi capperi e prezzemolo fresco. Provala e dimmi se non è il miglior modo per mangiare pesce spada 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pesce spada mediterraneo pronto in 15 minuti",
+        "description": "Un secondo di mare saporito e colorato, perfetto per la cena di ogni giorno.",
+        "visual_hint": "bocconcini pesce spada dorati",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory swordfish bites"
+      },
+      {
+        "hook": "Melanzane, peperoni e pomodorini: il cuore del Sud",
+        "description": "Verdure dolci e capperi creano un sughetto intenso che avvolge il pesce.",
+        "visual_hint": "verdure mediterranee colorate",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory mediterranean vegetables",
+        "image": "https://images.pexels.com/photos/39003153/pexels-photo-39003153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Infarina i bocconcini per una crosticina perfetta",
+        "description": "La farina sigilla i succhi e regala una doratura irresistibile in padella.",
+        "visual_hint": "pesce spada infarinato",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory floured fish",
+        "image": "https://images.pexels.com/photos/15954348/pexels-photo-15954348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cuoci coperto con alici e verdure per 5 minuti",
+        "description": "Il vapore intrappolato mantiene il pesce morbido e insaporisce ogni bocconcino.",
+        "visual_hint": "padella coperta pesce verdure",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory fish pan",
+        "image": "https://images.pexels.com/photos/17321119/pexels-photo-17321119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Capperi e prezzemolo a fuoco spento: il tocco finale",
+        "description": "Profumo fresco e sapidità mediterranea chiudono il piatto. Servi subito!",
+        "visual_hint": "piatto finito prezzemolo capperi",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory swordfish plate",
+        "image": "https://images.pexels.com/photos/35362296/pexels-photo-35362296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "fish",
+    "signature_ingredients": [
+      "pesce spada",
+      "melanzane",
+      "capperi"
+    ],
+    "image": "https://www.giallozafferano.it/images/366-36637/Bocconcini-di-pesce-spada-alla-mediterranea_650x433_wm.jpg",
+    "savedAt": "2026-09-21T16:10:48.314Z",
+    "sourceId": "8746a6293e0014a7ecaff64f81f40567"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "torta-paradiso-al-cacao",
     "prompt_version": "1.0.0",
     "status": "published",
