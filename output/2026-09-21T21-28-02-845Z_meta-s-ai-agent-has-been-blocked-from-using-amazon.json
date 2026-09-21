@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-s-ai-agent-has-been-blocked-from-using-amazon",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta’s AI agent has been blocked from using Amazon.com",
+  "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+  "pubDate": "Mon, 21 Sep 2026 17:55:18 +0000",
+  "slides": [
+    "Meta's AI agent just got blocked from Amazon.com.",
+    "The agent was shopping autonomously to test real-world tasks.",
+    "Amazon's systems flagged it as a bot, not a human.",
+    "This sets a precedent for agent access policies.",
+    "Does your agent respect the sites it visits?"
+  ],
+  "thread_text": [
+    "1. Amazon Blocks Meta Agent\n\nWhen tasked with buying a product, the agent was flagged as a bot and denied checkout. No human could complete the purchase on its behalf.",
+    "2. Bot Or Human?\n\nAmazon's detection systems identified the agent within seconds. The company hasn't commented on whether this was a deliberate policy or a technical glitch.",
+    "3. Real-World Stress Test\n\nThe shopping task wasn't a stunt. It was part of a broader effort to see how autonomous agents perform on live websites. Turns out, many sites aren't ready.",
+    "4. Precedent For Access\n\nThis isn't just about one blocked purchase. It raises a critical question: will every site now need an agent policy? Early signs suggest yes.",
+    "5. Check Your Own Agent\n\nTake a prompt on your AI assistant and ask it to complete a simple online action. If it fails, you've just found your first integration gap. Does your agent respect the sites it visits?"
+  ],
+  "video_script": [
+    "Meta's AI agent got blocked from Amazon.",
+    "Amazon flagged it as a bot, not human.",
+    "It was shopping autonomously to test real-world tasks.",
+    "This sets a precedent for agent access policies.",
+    "Does your agent respect the sites it visits?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Amazon Blocks Meta Agent\n\nWhen tasked with buying a product, the agent was flagged as a bot and denied checkout. No human could complete the purchase on its behalf.",
+        "2. Bot Or Human?\n\nAmazon's detection systems identified the agent within seconds. The company hasn't commented on whether this was a deliberate policy or a technical glitch.",
+        "3. Real-World Stress Test\n\nThe shopping task wasn't a stunt. It was part of a broader effort to see how autonomous agents perform on live websites. Turns out, many sites aren't ready.",
+        "4. Precedent For Access\n\nThis isn't just about one blocked purchase. It raises a critical question: will every site now need an agent policy? Early signs suggest yes.",
+        "5. Check Your Own Agent\n\nTake a prompt on your AI assistant and ask it to complete a simple online action. If it fails, you've just found your first integration gap. Does your agent respect the sites it visits?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta's AI agent got blocked from Amazon.",
+        "Amazon flagged it as a bot, not human.",
+        "It was shopping autonomously to test real-world tasks.",
+        "This sets a precedent for agent access policies.",
+        "Does your agent respect the sites it visits?"
+      ]
+    },
+    "instagram": {
+      "caption": "✅ An AI agent tried to buy something on Amazon and got stopped at checkout.\n\nAmazon flagged it as a bot within seconds and denied the purchase. No human was allowed to finish it either.\n\nIt wasn't a stunt: the agent was part of a test to see how autonomous tools handle real websites. 🤖\n\nNow every site may need its own agent access policy — and yours counts too. 🛒\n\nOpen your assistant and ask it to complete one simple action online. If it fails, that's your first integration gap. 👀\n\nDoes your agent respect the sites it visits?"
+    }
+  },
+  "instagram_caption": "✅ An AI agent tried to buy something on Amazon and got stopped at checkout.\n\nAmazon flagged it as a bot within seconds and denied the purchase. No human was allowed to finish it either.\n\nIt wasn't a stunt: the agent was part of a test to see how autonomous tools handle real websites. 🤖\n\nNow every site may need its own agent access policy — and yours counts too. 🛒\n\nOpen your assistant and ask it to complete one simple action online. If it fails, that's your first integration gap. 👀\n\nDoes your agent respect the sites it visits?",
+  "carousel_slides": [
+    {
+      "hook": "Amazon Just Blocked Meta's AI Agent",
+      "description": "Meta's autonomous shopping agent was flagged as a bot and denied checkout on Amazon.com, with no human able to complete the purchase.",
+      "visual_hint": "AI agent blocked at checkout screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "E-commerce checkout"
+    },
+    {
+      "hook": "Can AI Tell Human From Bot?",
+      "description": "Amazon's detection systems identified the agent within seconds, though it's unclear if this was deliberate policy or a technical glitch.",
+      "visual_hint": "Digital surveillance eye scanning",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "Security camera",
+      "image": "https://images.pexels.com/photos/14773064/pexels-photo-14773064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Most Websites Aren't Ready For Agents",
+      "description": "The shopping task was a real-world stress test. Turns out many live websites aren't prepared for autonomous AI agents.",
+      "visual_hint": "Robot navigating website interface",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "Website wireframe",
+      "image": "https://images.pexels.com/photos/37771280/pexels-photo-37771280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Every Site Will Need An Agent Policy",
+      "description": "This isn't just one blocked purchase. It raises a critical question: will every site now need an agent access policy?",
+      "visual_hint": "Automated shopping robot being denied",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "Cargo container port",
+      "image": "https://images.pexels.com/photos/1624694/pexels-photo-1624694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Your AI Agent Today",
+      "description": "Ask your AI assistant to complete a simple online action. If it fails, you've found your first integration gap. Save this for later!",
+      "visual_hint": "Person testing AI assistant online",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "Office worker laptop",
+      "image": "https://images.pexels.com/photos/7993573/pexels-photo-7993573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+  "savedAt": "2026-09-21T21:28:26.224Z",
+  "sourceId": "cfff59da9d2acf38b1402a647560cdd1"
+}

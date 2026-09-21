@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "california-tightens-rules-on-ai-data-center-energy",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "California tightens rules on AI data center energy and water use",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+    "pubDate": "2026-09-21T20:29:45.000Z",
+    "slides": [
+      "What if California's new AI rules reshape your cloud bill?",
+      "The state now requires data centers to report energy and water use",
+      "But penalties are waived for facilities under 100kW, exempting many startups",
+      "Compliance costs will likely be passed on to your cloud services",
+      "Start auditing your AI provider's sustainability claims today."
+    ],
+    "thread_text": [
+      "1. Your cloud bill might jump\n\nCalifornia now forces data centers to report energy and water use. Compliance costs will likely be passed to you.",
+      "2. Small centers dodge penalties\n\nFacilities under 100 kilowatts are exempt from fines. That means many startups won't pay directly.",
+      "3. The burden shifts to you\n\nLarge providers will absorb reporting costs and raise cloud service prices. Startups still get hit indirectly.",
+      "4. Check your provider's claims\n\nIf they say 'green,' ask for numbers. New rules mean they have data but may not share it.",
+      "5. Audit your AI vendor today\n\nAsk your AI provider for their latest energy and water report. If they can't produce it, switch."
+    ],
+    "video_script": [
+      "California now forces data centers to report energy and water use.",
+      "But small centers under 100 kilowatts are exempt from penalties.",
+      "Compliance costs from big centers will hit your cloud bill.",
+      "Startups may not pay directly but will pay more for services.",
+      "Ask your AI provider for their latest sustainability report today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your cloud bill might jump\n\nCalifornia now forces data centers to report energy and water use. Compliance costs will likely be passed to you.",
+          "2. Small centers dodge penalties\n\nFacilities under 100 kilowatts are exempt from fines. That means many startups won't pay directly.",
+          "3. The burden shifts to you\n\nLarge providers will absorb reporting costs and raise cloud service prices. Startups still get hit indirectly.",
+          "4. Check your provider's claims\n\nIf they say 'green,' ask for numbers. New rules mean they have data but may not share it.",
+          "5. Audit your AI vendor today\n\nAsk your AI provider for their latest energy and water report. If they can't produce it, switch."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "California now forces data centers to report energy and water use.",
+          "But small centers under 100 kilowatts are exempt from penalties.",
+          "Compliance costs from big centers will hit your cloud bill.",
+          "Startups may not pay directly but will pay more for services.",
+          "Ask your AI provider for their latest sustainability report today."
+        ]
+      },
+      "instagram": {
+        "caption": "Your cloud bill could go up because California now makes data centers report energy and water use.\n\nFacilities under 100 kilowatts skip the fines, so many small startups pay nothing directly.\n\nBig providers absorb the reporting costs and likely raise cloud prices anyway 💸\n\nIf you build or publish with AI tools, expect higher usage fees and vaguer \"green\" claims.\n\nAsk your AI provider for their latest energy and water report 🔍 If they can't produce one, do you keep paying them? ⚡"
+      }
+    },
+    "instagram_caption": "Your cloud bill could go up because California now makes data centers report energy and water use.\n\nFacilities under 100 kilowatts skip the fines, so many small startups pay nothing directly.\n\nBig providers absorb the reporting costs and likely raise cloud prices anyway 💸\n\nIf you build or publish with AI tools, expect higher usage fees and vaguer \"green\" claims.\n\nAsk your AI provider for their latest energy and water report 🔍 If they can't produce one, do you keep paying them? ⚡",
+    "carousel_slides": [
+      {
+        "hook": "Is 'green AI' hiding a dirty secret?",
+        "description": "California now mandates data centers report energy and water use, but many startups stay exempt and consumers pay the price.",
+        "visual_hint": "Data center server racks with glowing lights",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "New reporting rules hit data centers",
+        "description": "California requires facilities to disclose energy and water consumption, yet sites under 100kW face no penalties, keeping many startups off the hook.",
+        "visual_hint": "Government building with official seal",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "capitol building",
+        "image": "https://images.pexels.com/photos/31661816/pexels-photo-31661816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Small centers dodge fines, big ones don't",
+        "description": "Facilities under 100 kilowatts are exempt from penalties, so many startups avoid direct costs while large providers absorb compliance fees.",
+        "visual_hint": "Small server closet vs large data center",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your cloud bill is about to rise",
+        "description": "Large providers will pass reporting costs to customers, meaning your cloud services get pricier even if your startup is exempt.",
+        "visual_hint": "Hand holding a rising cost graph",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your AI vendor today",
+        "description": "Ask your AI provider for their latest energy and water report. If they can't produce it, switch. Save this post for later.",
+        "visual_hint": "Person checking documents with magnifying glass",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2286055476.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.022372800543%2C100%2C79.955254398914&amp;w=1200",
+    "savedAt": "2026-09-21T21:28:34.000Z",
+    "sourceId": "83547d403e173182297fddc3555f61b1"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-s-ai-agent-has-been-blocked-from-using-amazon",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta’s AI agent has been blocked from using Amazon.com",
+    "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+    "pubDate": "Mon, 21 Sep 2026 17:55:18 +0000",
+    "slides": [
+      "Meta's AI agent just got blocked from Amazon.com.",
+      "The agent was shopping autonomously to test real-world tasks.",
+      "Amazon's systems flagged it as a bot, not a human.",
+      "This sets a precedent for agent access policies.",
+      "Does your agent respect the sites it visits?"
+    ],
+    "thread_text": [
+      "1. Amazon Blocks Meta Agent\n\nWhen tasked with buying a product, the agent was flagged as a bot and denied checkout. No human could complete the purchase on its behalf.",
+      "2. Bot Or Human?\n\nAmazon's detection systems identified the agent within seconds. The company hasn't commented on whether this was a deliberate policy or a technical glitch.",
+      "3. Real-World Stress Test\n\nThe shopping task wasn't a stunt. It was part of a broader effort to see how autonomous agents perform on live websites. Turns out, many sites aren't ready.",
+      "4. Precedent For Access\n\nThis isn't just about one blocked purchase. It raises a critical question: will every site now need an agent policy? Early signs suggest yes.",
+      "5. Check Your Own Agent\n\nTake a prompt on your AI assistant and ask it to complete a simple online action. If it fails, you've just found your first integration gap. Does your agent respect the sites it visits?"
+    ],
+    "video_script": [
+      "Meta's AI agent got blocked from Amazon.",
+      "Amazon flagged it as a bot, not human.",
+      "It was shopping autonomously to test real-world tasks.",
+      "This sets a precedent for agent access policies.",
+      "Does your agent respect the sites it visits?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Amazon Blocks Meta Agent\n\nWhen tasked with buying a product, the agent was flagged as a bot and denied checkout. No human could complete the purchase on its behalf.",
+          "2. Bot Or Human?\n\nAmazon's detection systems identified the agent within seconds. The company hasn't commented on whether this was a deliberate policy or a technical glitch.",
+          "3. Real-World Stress Test\n\nThe shopping task wasn't a stunt. It was part of a broader effort to see how autonomous agents perform on live websites. Turns out, many sites aren't ready.",
+          "4. Precedent For Access\n\nThis isn't just about one blocked purchase. It raises a critical question: will every site now need an agent policy? Early signs suggest yes.",
+          "5. Check Your Own Agent\n\nTake a prompt on your AI assistant and ask it to complete a simple online action. If it fails, you've just found your first integration gap. Does your agent respect the sites it visits?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta's AI agent got blocked from Amazon.",
+          "Amazon flagged it as a bot, not human.",
+          "It was shopping autonomously to test real-world tasks.",
+          "This sets a precedent for agent access policies.",
+          "Does your agent respect the sites it visits?"
+        ]
+      },
+      "instagram": {
+        "caption": "✅ An AI agent tried to buy something on Amazon and got stopped at checkout.\n\nAmazon flagged it as a bot within seconds and denied the purchase. No human was allowed to finish it either.\n\nIt wasn't a stunt: the agent was part of a test to see how autonomous tools handle real websites. 🤖\n\nNow every site may need its own agent access policy — and yours counts too. 🛒\n\nOpen your assistant and ask it to complete one simple action online. If it fails, that's your first integration gap. 👀\n\nDoes your agent respect the sites it visits?"
+      }
+    },
+    "instagram_caption": "✅ An AI agent tried to buy something on Amazon and got stopped at checkout.\n\nAmazon flagged it as a bot within seconds and denied the purchase. No human was allowed to finish it either.\n\nIt wasn't a stunt: the agent was part of a test to see how autonomous tools handle real websites. 🤖\n\nNow every site may need its own agent access policy — and yours counts too. 🛒\n\nOpen your assistant and ask it to complete one simple action online. If it fails, that's your first integration gap. 👀\n\nDoes your agent respect the sites it visits?",
+    "carousel_slides": [
+      {
+        "hook": "Amazon Just Blocked Meta's AI Agent",
+        "description": "Meta's autonomous shopping agent was flagged as a bot and denied checkout on Amazon.com, with no human able to complete the purchase.",
+        "visual_hint": "AI agent blocked at checkout screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "E-commerce checkout"
+      },
+      {
+        "hook": "Can AI Tell Human From Bot?",
+        "description": "Amazon's detection systems identified the agent within seconds, though it's unclear if this was deliberate policy or a technical glitch.",
+        "visual_hint": "Digital surveillance eye scanning",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "Security camera",
+        "image": "https://images.pexels.com/photos/14773064/pexels-photo-14773064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Most Websites Aren't Ready For Agents",
+        "description": "The shopping task was a real-world stress test. Turns out many live websites aren't prepared for autonomous AI agents.",
+        "visual_hint": "Robot navigating website interface",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "Website wireframe",
+        "image": "https://images.pexels.com/photos/37771280/pexels-photo-37771280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Every Site Will Need An Agent Policy",
+        "description": "This isn't just one blocked purchase. It raises a critical question: will every site now need an agent access policy?",
+        "visual_hint": "Automated shopping robot being denied",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "Cargo container port",
+        "image": "https://images.pexels.com/photos/1624694/pexels-photo-1624694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Your AI Agent Today",
+        "description": "Ask your AI assistant to complete a simple online action. If it fails, you've found your first integration gap. Save this for later!",
+        "visual_hint": "Person testing AI assistant online",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "Office worker laptop",
+        "image": "https://images.pexels.com/photos/7993573/pexels-photo-7993573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+    "savedAt": "2026-09-21T21:28:26.224Z",
+    "sourceId": "cfff59da9d2acf38b1402a647560cdd1"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-s-muse-is-outpacing-chatgpt-s-early-mobile-la",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+    "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+    "pubDate": "Mon, 21 Sep 2026 19:19:21 +0000",
+    "slides": [
+      "Meta's Muse is outpacing ChatGPT's early mobile launch",
+      "Muse hit 10M downloads in its first 5 days",
+      "But retention drops sharply after week one",
+      "Your ad team might now favor Meta's AI",
+      "Test Muse retention against ChatGPT on your own"
+    ],
+    "thread_text": [
+      "1. The Retention Cliff\n\nMuse hit 10M downloads in 5 days — double ChatGPT's early pace. But week two tells a different story.",
+      "2. Why Downloads Lie\n\nMeta's ad engine can buy installs, not habits. Early retention drops sharply after day seven.",
+      "3. Ad Budgets Shift\n\nYour media buyer may push Meta AI harder than ChatGPT. That changes which tool wins distribution.",
+      "4. Your Data, Their Model\n\nTesting Muse retention means feeding it real prompts and tracking who comes back. Most teams skip this step.",
+      "5. Run Your Own Test\n\nTake one prompt you use weekly. Try it in Muse and ChatGPT for 7 days. Which one do you open on day eight?"
+    ],
+    "video_script": [
+      "Muse hit ten million downloads in five days.",
+      "But week two retention drops sharply.",
+      "Your ad team might now favor Meta's AI.",
+      "Test Muse against ChatGPT on your own.",
+      "Which one do you open on day eight?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Retention Cliff\n\nMuse hit 10M downloads in 5 days — double ChatGPT's early pace. But week two tells a different story.",
+          "2. Why Downloads Lie\n\nMeta's ad engine can buy installs, not habits. Early retention drops sharply after day seven.",
+          "3. Ad Budgets Shift\n\nYour media buyer may push Meta AI harder than ChatGPT. That changes which tool wins distribution.",
+          "4. Your Data, Their Model\n\nTesting Muse retention means feeding it real prompts and tracking who comes back. Most teams skip this step.",
+          "5. Run Your Own Test\n\nTake one prompt you use weekly. Try it in Muse and ChatGPT for 7 days. Which one do you open on day eight?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Muse hit ten million downloads in five days.",
+          "But week two retention drops sharply.",
+          "Your ad team might now favor Meta's AI.",
+          "Test Muse against ChatGPT on your own.",
+          "Which one do you open on day eight?"
+        ]
+      },
+      "instagram": {
+        "caption": "Meta's new AI app hit 10 million downloads in just 5 days — double ChatGPT's early pace. 📱\n\nMuse is riding Meta's ad engine, which can buy installs fast, but retention drops sharply after week one.\n\nYour media buyer may now push Meta's AI harder than ChatGPT, shifting where your audience actually finds these tools.\n\nSo downloads tell you nothing about habits — what matters is who opens the app on day eight. 🤔\n\nGrab one prompt you use weekly, run it in both for 7 days, and see which one you still open next week. 👀"
+      }
+    },
+    "instagram_caption": "Meta's new AI app hit 10 million downloads in just 5 days — double ChatGPT's early pace. 📱\n\nMuse is riding Meta's ad engine, which can buy installs fast, but retention drops sharply after week one.\n\nYour media buyer may now push Meta's AI harder than ChatGPT, shifting where your audience actually finds these tools.\n\nSo downloads tell you nothing about habits — what matters is who opens the app on day eight. 🤔\n\nGrab one prompt you use weekly, run it in both for 7 days, and see which one you still open next week. 👀",
+    "carousel_slides": [
+      {
+        "hook": "Downloads don't equal daily habits. Retention does.",
+        "description": "Muse hit 10M downloads in 5 days, doubling ChatGPT's early pace, but retention drops sharply after week one.",
+        "visual_hint": "Two phone screens side by side",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone screen closeup"
+      },
+      {
+        "hook": "10M downloads in 5 days? Impressive. Week two?",
+        "description": "Meta's Muse outpaced ChatGPT's early mobile launch, but week two reveals a different story about actual usage.",
+        "visual_hint": "Download chart peaking then falling",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Meta's ad engine buys installs, not habits.",
+        "description": "Early retention drops sharply after day seven because ads can purchase installs but cannot purchase recurring daily usage.",
+        "visual_hint": "Declining retention graph line",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your media buyer might push Meta AI harder.",
+        "description": "Ad budgets shift toward Meta's AI, changing which tool wins distribution. That affects your team's tool choices and workflows.",
+        "visual_hint": "Hand holding phone with AI app",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this. Test Muse retention yourself this week.",
+        "description": "Take one weekly prompt. Try it in Muse and ChatGPT for 7 days. Which do you open on day eight?",
+        "visual_hint": "Phone with two app icons",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen closeup",
+        "image": "https://images.pexels.com/photos/1463526/pexels-photo-1463526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+    "savedAt": "2026-09-21T21:28:17.886Z",
+    "sourceId": "285c3f889238df4e6e274764e8c4f77d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-forms-math-advisory-group-as-its-ai-resolve",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "pubDate": "Mon, 21 Sep 2026 20:15:58 +0000",
+    "slides": [
+      "OpenAI recruits mathematicians after AI solves 100 open problems.",
+      "The new advisory group will guide AI on hard math.",
+      "But AI’s solutions may not be verifiable by humans.",
+      "Your math skills become checking AI’s logic, not computing.",
+      "Demand verifiable proofs before trusting AI output."
+    ],
+    "thread_text": [
+      "1. AI Cracks 100 Open Problems\n\nOpenAI just recruited mathematicians. The reason? Its AI solved 100 unsolved math problems on its own.",
+      "2. New Advisory Group Formed\n\nThis group will guide AI on hard math. But it's not about teaching—it's about keeping up.",
+      "3. Solutions Humans Can't Check\n\nAI's proofs may be too complex for any person to verify. So we're left trusting the machine.",
+      "4. Your Math Role Is Changing\n\nYou won't compute answers anymore. Your job becomes checking AI's logic, not solving equations.",
+      "5. Demand Verifiable Proofs\n\nBefore you trust an AI result, ask: can a human verify it? If not, don't use it. Test this on your next AI query."
+    ],
+    "video_script": [
+      "OpenAI's AI just solved 100 open math problems.",
+      "Now they're hiring mathematicians to guide it.",
+      "But humans can't verify the AI's solutions.",
+      "So your math skill becomes checking logic, not computing.",
+      "Demand verifiable proofs before trusting AI output."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI Cracks 100 Open Problems\n\nOpenAI just recruited mathematicians. The reason? Its AI solved 100 unsolved math problems on its own.",
+          "2. New Advisory Group Formed\n\nThis group will guide AI on hard math. But it's not about teaching—it's about keeping up.",
+          "3. Solutions Humans Can't Check\n\nAI's proofs may be too complex for any person to verify. So we're left trusting the machine.",
+          "4. Your Math Role Is Changing\n\nYou won't compute answers anymore. Your job becomes checking AI's logic, not solving equations.",
+          "5. Demand Verifiable Proofs\n\nBefore you trust an AI result, ask: can a human verify it? If not, don't use it. Test this on your next AI query."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI's AI just solved 100 open math problems.",
+          "Now they're hiring mathematicians to guide it.",
+          "But humans can't verify the AI's solutions.",
+          "So your math skill becomes checking logic, not computing.",
+          "Demand verifiable proofs before trusting AI output."
+        ]
+      },
+      "instagram": {
+        "caption": "OpenAI’s AI already solved more than 100 open math problems, and now the company is recruiting mathematicians to keep up. 🧠\n\nThe new advisory group will guide the AI on hard math.\n\nProblem: some solutions may be too complex for humans to verify at all.\n\nSo your math skill shifts from computing answers to checking the AI’s logic.\n\nBefore you use an AI result, ask: can a human verify the proof? 📌\n\nIf not, don’t use it. What was the last AI answer you trusted without checking? 🤔"
+      }
+    },
+    "instagram_caption": "OpenAI’s AI already solved more than 100 open math problems, and now the company is recruiting mathematicians to keep up. 🧠\n\nThe new advisory group will guide the AI on hard math.\n\nProblem: some solutions may be too complex for humans to verify at all.\n\nSo your math skill shifts from computing answers to checking the AI’s logic.\n\nBefore you use an AI result, ask: can a human verify the proof? 📌\n\nIf not, don’t use it. What was the last AI answer you trusted without checking? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Can Humans Verify AI's Math Proofs?",
+        "description": "OpenAI's AI solved 100 open math problems, but its proofs may be too complex for any human to check.",
+        "visual_hint": "Complex mathematical equations on screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "mathematics blackboard"
+      },
+      {
+        "hook": "OpenAI Recruits Mathematicians for AI",
+        "description": "A new advisory group will guide AI on hard math, but it's not about teaching—it's about keeping up.",
+        "visual_hint": "Mathematicians collaborating with AI",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "office meeting",
+        "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI's Solutions Beyond Human Comprehension",
+        "description": "AI's proofs may be too complex for any person to verify, leaving us to trust the machine blindly.",
+        "visual_hint": "Abstract complex proof visualization",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "abstract network",
+        "image": "https://images.pexels.com/photos/8108663/pexels-photo-8108663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your Math Role Is Evolving",
+        "description": "You won't compute answers anymore. Your job becomes checking AI's logic, not solving equations.",
+        "visual_hint": "Human hand pointing at AI output",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand tablet",
+        "image": "https://images.pexels.com/photos/7129753/pexels-photo-7129753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Demand Verifiable Proofs Now",
+        "description": "Before trusting AI results, ask: can a human verify it? If not, don't use it. Test on your next query.",
+        "visual_hint": "Checklist with proof verification",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "checklist document",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/51013975207_8dcac5cf72_k.jpg?resize=1200,900",
+    "savedAt": "2026-09-21T21:28:09.884Z",
+    "sourceId": "c06d2cf00824b1aebfd60207cb7bbf46"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "how-to-improve-visibility-across-your-enterprise-a",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-forms-math-advisory-group-as-its-ai-resolve",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+  "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+  "pubDate": "Mon, 21 Sep 2026 20:15:58 +0000",
+  "slides": [
+    "OpenAI recruits mathematicians after AI solves 100 open problems.",
+    "The new advisory group will guide AI on hard math.",
+    "But AI’s solutions may not be verifiable by humans.",
+    "Your math skills become checking AI’s logic, not computing.",
+    "Demand verifiable proofs before trusting AI output."
+  ],
+  "thread_text": [
+    "1. AI Cracks 100 Open Problems\n\nOpenAI just recruited mathematicians. The reason? Its AI solved 100 unsolved math problems on its own.",
+    "2. New Advisory Group Formed\n\nThis group will guide AI on hard math. But it's not about teaching—it's about keeping up.",
+    "3. Solutions Humans Can't Check\n\nAI's proofs may be too complex for any person to verify. So we're left trusting the machine.",
+    "4. Your Math Role Is Changing\n\nYou won't compute answers anymore. Your job becomes checking AI's logic, not solving equations.",
+    "5. Demand Verifiable Proofs\n\nBefore you trust an AI result, ask: can a human verify it? If not, don't use it. Test this on your next AI query."
+  ],
+  "video_script": [
+    "OpenAI's AI just solved 100 open math problems.",
+    "Now they're hiring mathematicians to guide it.",
+    "But humans can't verify the AI's solutions.",
+    "So your math skill becomes checking logic, not computing.",
+    "Demand verifiable proofs before trusting AI output."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Cracks 100 Open Problems\n\nOpenAI just recruited mathematicians. The reason? Its AI solved 100 unsolved math problems on its own.",
+        "2. New Advisory Group Formed\n\nThis group will guide AI on hard math. But it's not about teaching—it's about keeping up.",
+        "3. Solutions Humans Can't Check\n\nAI's proofs may be too complex for any person to verify. So we're left trusting the machine.",
+        "4. Your Math Role Is Changing\n\nYou won't compute answers anymore. Your job becomes checking AI's logic, not solving equations.",
+        "5. Demand Verifiable Proofs\n\nBefore you trust an AI result, ask: can a human verify it? If not, don't use it. Test this on your next AI query."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI's AI just solved 100 open math problems.",
+        "Now they're hiring mathematicians to guide it.",
+        "But humans can't verify the AI's solutions.",
+        "So your math skill becomes checking logic, not computing.",
+        "Demand verifiable proofs before trusting AI output."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI’s AI already solved more than 100 open math problems, and now the company is recruiting mathematicians to keep up. 🧠\n\nThe new advisory group will guide the AI on hard math.\n\nProblem: some solutions may be too complex for humans to verify at all.\n\nSo your math skill shifts from computing answers to checking the AI’s logic.\n\nBefore you use an AI result, ask: can a human verify the proof? 📌\n\nIf not, don’t use it. What was the last AI answer you trusted without checking? 🤔"
+    }
+  },
+  "instagram_caption": "OpenAI’s AI already solved more than 100 open math problems, and now the company is recruiting mathematicians to keep up. 🧠\n\nThe new advisory group will guide the AI on hard math.\n\nProblem: some solutions may be too complex for humans to verify at all.\n\nSo your math skill shifts from computing answers to checking the AI’s logic.\n\nBefore you use an AI result, ask: can a human verify the proof? 📌\n\nIf not, don’t use it. What was the last AI answer you trusted without checking? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can Humans Verify AI's Math Proofs?",
+      "description": "OpenAI's AI solved 100 open math problems, but its proofs may be too complex for any human to check.",
+      "visual_hint": "Complex mathematical equations on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "mathematics blackboard"
+    },
+    {
+      "hook": "OpenAI Recruits Mathematicians for AI",
+      "description": "A new advisory group will guide AI on hard math, but it's not about teaching—it's about keeping up.",
+      "visual_hint": "Mathematicians collaborating with AI",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office meeting",
+      "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI's Solutions Beyond Human Comprehension",
+      "description": "AI's proofs may be too complex for any person to verify, leaving us to trust the machine blindly.",
+      "visual_hint": "Abstract complex proof visualization",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "abstract network",
+      "image": "https://images.pexels.com/photos/8108663/pexels-photo-8108663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your Math Role Is Evolving",
+      "description": "You won't compute answers anymore. Your job becomes checking AI's logic, not solving equations.",
+      "visual_hint": "Human hand pointing at AI output",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand tablet",
+      "image": "https://images.pexels.com/photos/7129753/pexels-photo-7129753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demand Verifiable Proofs Now",
+      "description": "Before trusting AI results, ask: can a human verify it? If not, don't use it. Test on your next query.",
+      "visual_hint": "Checklist with proof verification",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "checklist document",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/51013975207_8dcac5cf72_k.jpg?resize=1200,900",
+  "savedAt": "2026-09-21T21:28:09.884Z",
+  "sourceId": "c06d2cf00824b1aebfd60207cb7bbf46"
+}

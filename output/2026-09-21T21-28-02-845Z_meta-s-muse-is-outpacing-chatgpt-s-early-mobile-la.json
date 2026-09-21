@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-s-muse-is-outpacing-chatgpt-s-early-mobile-la",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+  "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+  "pubDate": "Mon, 21 Sep 2026 19:19:21 +0000",
+  "slides": [
+    "Meta's Muse is outpacing ChatGPT's early mobile launch",
+    "Muse hit 10M downloads in its first 5 days",
+    "But retention drops sharply after week one",
+    "Your ad team might now favor Meta's AI",
+    "Test Muse retention against ChatGPT on your own"
+  ],
+  "thread_text": [
+    "1. The Retention Cliff\n\nMuse hit 10M downloads in 5 days — double ChatGPT's early pace. But week two tells a different story.",
+    "2. Why Downloads Lie\n\nMeta's ad engine can buy installs, not habits. Early retention drops sharply after day seven.",
+    "3. Ad Budgets Shift\n\nYour media buyer may push Meta AI harder than ChatGPT. That changes which tool wins distribution.",
+    "4. Your Data, Their Model\n\nTesting Muse retention means feeding it real prompts and tracking who comes back. Most teams skip this step.",
+    "5. Run Your Own Test\n\nTake one prompt you use weekly. Try it in Muse and ChatGPT for 7 days. Which one do you open on day eight?"
+  ],
+  "video_script": [
+    "Muse hit ten million downloads in five days.",
+    "But week two retention drops sharply.",
+    "Your ad team might now favor Meta's AI.",
+    "Test Muse against ChatGPT on your own.",
+    "Which one do you open on day eight?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Retention Cliff\n\nMuse hit 10M downloads in 5 days — double ChatGPT's early pace. But week two tells a different story.",
+        "2. Why Downloads Lie\n\nMeta's ad engine can buy installs, not habits. Early retention drops sharply after day seven.",
+        "3. Ad Budgets Shift\n\nYour media buyer may push Meta AI harder than ChatGPT. That changes which tool wins distribution.",
+        "4. Your Data, Their Model\n\nTesting Muse retention means feeding it real prompts and tracking who comes back. Most teams skip this step.",
+        "5. Run Your Own Test\n\nTake one prompt you use weekly. Try it in Muse and ChatGPT for 7 days. Which one do you open on day eight?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Muse hit ten million downloads in five days.",
+        "But week two retention drops sharply.",
+        "Your ad team might now favor Meta's AI.",
+        "Test Muse against ChatGPT on your own.",
+        "Which one do you open on day eight?"
+      ]
+    },
+    "instagram": {
+      "caption": "Meta's new AI app hit 10 million downloads in just 5 days — double ChatGPT's early pace. 📱\n\nMuse is riding Meta's ad engine, which can buy installs fast, but retention drops sharply after week one.\n\nYour media buyer may now push Meta's AI harder than ChatGPT, shifting where your audience actually finds these tools.\n\nSo downloads tell you nothing about habits — what matters is who opens the app on day eight. 🤔\n\nGrab one prompt you use weekly, run it in both for 7 days, and see which one you still open next week. 👀"
+    }
+  },
+  "instagram_caption": "Meta's new AI app hit 10 million downloads in just 5 days — double ChatGPT's early pace. 📱\n\nMuse is riding Meta's ad engine, which can buy installs fast, but retention drops sharply after week one.\n\nYour media buyer may now push Meta's AI harder than ChatGPT, shifting where your audience actually finds these tools.\n\nSo downloads tell you nothing about habits — what matters is who opens the app on day eight. 🤔\n\nGrab one prompt you use weekly, run it in both for 7 days, and see which one you still open next week. 👀",
+  "carousel_slides": [
+    {
+      "hook": "Downloads don't equal daily habits. Retention does.",
+      "description": "Muse hit 10M downloads in 5 days, doubling ChatGPT's early pace, but retention drops sharply after week one.",
+      "visual_hint": "Two phone screens side by side",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone screen closeup"
+    },
+    {
+      "hook": "10M downloads in 5 days? Impressive. Week two?",
+      "description": "Meta's Muse outpaced ChatGPT's early mobile launch, but week two reveals a different story about actual usage.",
+      "visual_hint": "Download chart peaking then falling",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Meta's ad engine buys installs, not habits.",
+      "description": "Early retention drops sharply after day seven because ads can purchase installs but cannot purchase recurring daily usage.",
+      "visual_hint": "Declining retention graph line",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your media buyer might push Meta AI harder.",
+      "description": "Ad budgets shift toward Meta's AI, changing which tool wins distribution. That affects your team's tool choices and workflows.",
+      "visual_hint": "Hand holding phone with AI app",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Test Muse retention yourself this week.",
+      "description": "Take one weekly prompt. Try it in Muse and ChatGPT for 7 days. Which do you open on day eight?",
+      "visual_hint": "Phone with two app icons",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen closeup",
+      "image": "https://images.pexels.com/photos/1463526/pexels-photo-1463526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+  "savedAt": "2026-09-21T21:28:17.886Z",
+  "sourceId": "285c3f889238df4e6e274764e8c4f77d"
+}

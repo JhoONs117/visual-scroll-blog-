@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "california-tightens-rules-on-ai-data-center-energy",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "California tightens rules on AI data center energy and water use",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+  "pubDate": "2026-09-21T20:29:45.000Z",
+  "slides": [
+    "What if California's new AI rules reshape your cloud bill?",
+    "The state now requires data centers to report energy and water use",
+    "But penalties are waived for facilities under 100kW, exempting many startups",
+    "Compliance costs will likely be passed on to your cloud services",
+    "Start auditing your AI provider's sustainability claims today."
+  ],
+  "thread_text": [
+    "1. Your cloud bill might jump\n\nCalifornia now forces data centers to report energy and water use. Compliance costs will likely be passed to you.",
+    "2. Small centers dodge penalties\n\nFacilities under 100 kilowatts are exempt from fines. That means many startups won't pay directly.",
+    "3. The burden shifts to you\n\nLarge providers will absorb reporting costs and raise cloud service prices. Startups still get hit indirectly.",
+    "4. Check your provider's claims\n\nIf they say 'green,' ask for numbers. New rules mean they have data but may not share it.",
+    "5. Audit your AI vendor today\n\nAsk your AI provider for their latest energy and water report. If they can't produce it, switch."
+  ],
+  "video_script": [
+    "California now forces data centers to report energy and water use.",
+    "But small centers under 100 kilowatts are exempt from penalties.",
+    "Compliance costs from big centers will hit your cloud bill.",
+    "Startups may not pay directly but will pay more for services.",
+    "Ask your AI provider for their latest sustainability report today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your cloud bill might jump\n\nCalifornia now forces data centers to report energy and water use. Compliance costs will likely be passed to you.",
+        "2. Small centers dodge penalties\n\nFacilities under 100 kilowatts are exempt from fines. That means many startups won't pay directly.",
+        "3. The burden shifts to you\n\nLarge providers will absorb reporting costs and raise cloud service prices. Startups still get hit indirectly.",
+        "4. Check your provider's claims\n\nIf they say 'green,' ask for numbers. New rules mean they have data but may not share it.",
+        "5. Audit your AI vendor today\n\nAsk your AI provider for their latest energy and water report. If they can't produce it, switch."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "California now forces data centers to report energy and water use.",
+        "But small centers under 100 kilowatts are exempt from penalties.",
+        "Compliance costs from big centers will hit your cloud bill.",
+        "Startups may not pay directly but will pay more for services.",
+        "Ask your AI provider for their latest sustainability report today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your cloud bill could go up because California now makes data centers report energy and water use.\n\nFacilities under 100 kilowatts skip the fines, so many small startups pay nothing directly.\n\nBig providers absorb the reporting costs and likely raise cloud prices anyway 💸\n\nIf you build or publish with AI tools, expect higher usage fees and vaguer \"green\" claims.\n\nAsk your AI provider for their latest energy and water report 🔍 If they can't produce one, do you keep paying them? ⚡"
+    }
+  },
+  "instagram_caption": "Your cloud bill could go up because California now makes data centers report energy and water use.\n\nFacilities under 100 kilowatts skip the fines, so many small startups pay nothing directly.\n\nBig providers absorb the reporting costs and likely raise cloud prices anyway 💸\n\nIf you build or publish with AI tools, expect higher usage fees and vaguer \"green\" claims.\n\nAsk your AI provider for their latest energy and water report 🔍 If they can't produce one, do you keep paying them? ⚡",
+  "carousel_slides": [
+    {
+      "hook": "Is 'green AI' hiding a dirty secret?",
+      "description": "California now mandates data centers report energy and water use, but many startups stay exempt and consumers pay the price.",
+      "visual_hint": "Data center server racks with glowing lights",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "New reporting rules hit data centers",
+      "description": "California requires facilities to disclose energy and water consumption, yet sites under 100kW face no penalties, keeping many startups off the hook.",
+      "visual_hint": "Government building with official seal",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "capitol building",
+      "image": "https://images.pexels.com/photos/31661816/pexels-photo-31661816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Small centers dodge fines, big ones don't",
+      "description": "Facilities under 100 kilowatts are exempt from penalties, so many startups avoid direct costs while large providers absorb compliance fees.",
+      "visual_hint": "Small server closet vs large data center",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your cloud bill is about to rise",
+      "description": "Large providers will pass reporting costs to customers, meaning your cloud services get pricier even if your startup is exempt.",
+      "visual_hint": "Hand holding a rising cost graph",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your AI vendor today",
+      "description": "Ask your AI provider for their latest energy and water report. If they can't produce it, switch. Save this post for later.",
+      "visual_hint": "Person checking documents with magnifying glass",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2286055476.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.022372800543%2C100%2C79.955254398914&amp;w=1200",
+  "savedAt": "2026-09-21T21:28:34.000Z",
+  "sourceId": "83547d403e173182297fddc3555f61b1"
+}

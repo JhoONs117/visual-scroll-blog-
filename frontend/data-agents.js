@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "california-tightens-rules-on-ai-data-center-energy",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "California tightens rules on AI data center energy and water use",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "pubDate": "2026-09-21T20:29:45.000Z",
+      "slides": [
+        "What if California's new AI rules reshape your cloud bill?",
+        "The state now requires data centers to report energy and water use",
+        "But penalties are waived for facilities under 100kW, exempting many startups",
+        "Compliance costs will likely be passed on to your cloud services",
+        "Start auditing your AI provider's sustainability claims today."
+      ],
+      "thread_text": [
+        "1. Your cloud bill might jump\n\nCalifornia now forces data centers to report energy and water use. Compliance costs will likely be passed to you.",
+        "2. Small centers dodge penalties\n\nFacilities under 100 kilowatts are exempt from fines. That means many startups won't pay directly.",
+        "3. The burden shifts to you\n\nLarge providers will absorb reporting costs and raise cloud service prices. Startups still get hit indirectly.",
+        "4. Check your provider's claims\n\nIf they say 'green,' ask for numbers. New rules mean they have data but may not share it.",
+        "5. Audit your AI vendor today\n\nAsk your AI provider for their latest energy and water report. If they can't produce it, switch."
+      ],
+      "video_script": [
+        "California now forces data centers to report energy and water use.",
+        "But small centers under 100 kilowatts are exempt from penalties.",
+        "Compliance costs from big centers will hit your cloud bill.",
+        "Startups may not pay directly but will pay more for services.",
+        "Ask your AI provider for their latest sustainability report today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your cloud bill might jump\n\nCalifornia now forces data centers to report energy and water use. Compliance costs will likely be passed to you.",
+            "2. Small centers dodge penalties\n\nFacilities under 100 kilowatts are exempt from fines. That means many startups won't pay directly.",
+            "3. The burden shifts to you\n\nLarge providers will absorb reporting costs and raise cloud service prices. Startups still get hit indirectly.",
+            "4. Check your provider's claims\n\nIf they say 'green,' ask for numbers. New rules mean they have data but may not share it.",
+            "5. Audit your AI vendor today\n\nAsk your AI provider for their latest energy and water report. If they can't produce it, switch."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "California now forces data centers to report energy and water use.",
+            "But small centers under 100 kilowatts are exempt from penalties.",
+            "Compliance costs from big centers will hit your cloud bill.",
+            "Startups may not pay directly but will pay more for services.",
+            "Ask your AI provider for their latest sustainability report today."
+          ]
+        },
+        "instagram": {
+          "caption": "Your cloud bill could go up because California now makes data centers report energy and water use.\n\nFacilities under 100 kilowatts skip the fines, so many small startups pay nothing directly.\n\nBig providers absorb the reporting costs and likely raise cloud prices anyway 💸\n\nIf you build or publish with AI tools, expect higher usage fees and vaguer \"green\" claims.\n\nAsk your AI provider for their latest energy and water report 🔍 If they can't produce one, do you keep paying them? ⚡"
+        }
+      },
+      "instagram_caption": "Your cloud bill could go up because California now makes data centers report energy and water use.\n\nFacilities under 100 kilowatts skip the fines, so many small startups pay nothing directly.\n\nBig providers absorb the reporting costs and likely raise cloud prices anyway 💸\n\nIf you build or publish with AI tools, expect higher usage fees and vaguer \"green\" claims.\n\nAsk your AI provider for their latest energy and water report 🔍 If they can't produce one, do you keep paying them? ⚡",
+      "carousel_slides": [
+        {
+          "hook": "Is 'green AI' hiding a dirty secret?",
+          "description": "California now mandates data centers report energy and water use, but many startups stay exempt and consumers pay the price.",
+          "visual_hint": "Data center server racks with glowing lights",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "New reporting rules hit data centers",
+          "description": "California requires facilities to disclose energy and water consumption, yet sites under 100kW face no penalties, keeping many startups off the hook.",
+          "visual_hint": "Government building with official seal",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "capitol building",
+          "image": "https://images.pexels.com/photos/31661816/pexels-photo-31661816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Small centers dodge fines, big ones don't",
+          "description": "Facilities under 100 kilowatts are exempt from penalties, so many startups avoid direct costs while large providers absorb compliance fees.",
+          "visual_hint": "Small server closet vs large data center",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your cloud bill is about to rise",
+          "description": "Large providers will pass reporting costs to customers, meaning your cloud services get pricier even if your startup is exempt.",
+          "visual_hint": "Hand holding a rising cost graph",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your AI vendor today",
+          "description": "Ask your AI provider for their latest energy and water report. If they can't produce it, switch. Save this post for later.",
+          "visual_hint": "Person checking documents with magnifying glass",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2286055476.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.022372800543%2C100%2C79.955254398914&amp;w=1200",
+      "savedAt": "2026-09-21T21:28:34.000Z",
+      "sourceId": "83547d403e173182297fddc3555f61b1"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "meta-s-ai-agent-has-been-blocked-from-using-amazon",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "pubDate": "Mon, 21 Sep 2026 17:55:18 +0000",
+      "slides": [
+        "Meta's AI agent just got blocked from Amazon.com.",
+        "The agent was shopping autonomously to test real-world tasks.",
+        "Amazon's systems flagged it as a bot, not a human.",
+        "This sets a precedent for agent access policies.",
+        "Does your agent respect the sites it visits?"
+      ],
+      "thread_text": [
+        "1. Amazon Blocks Meta Agent\n\nWhen tasked with buying a product, the agent was flagged as a bot and denied checkout. No human could complete the purchase on its behalf.",
+        "2. Bot Or Human?\n\nAmazon's detection systems identified the agent within seconds. The company hasn't commented on whether this was a deliberate policy or a technical glitch.",
+        "3. Real-World Stress Test\n\nThe shopping task wasn't a stunt. It was part of a broader effort to see how autonomous agents perform on live websites. Turns out, many sites aren't ready.",
+        "4. Precedent For Access\n\nThis isn't just about one blocked purchase. It raises a critical question: will every site now need an agent policy? Early signs suggest yes.",
+        "5. Check Your Own Agent\n\nTake a prompt on your AI assistant and ask it to complete a simple online action. If it fails, you've just found your first integration gap. Does your agent respect the sites it visits?"
+      ],
+      "video_script": [
+        "Meta's AI agent got blocked from Amazon.",
+        "Amazon flagged it as a bot, not human.",
+        "It was shopping autonomously to test real-world tasks.",
+        "This sets a precedent for agent access policies.",
+        "Does your agent respect the sites it visits?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Amazon Blocks Meta Agent\n\nWhen tasked with buying a product, the agent was flagged as a bot and denied checkout. No human could complete the purchase on its behalf.",
+            "2. Bot Or Human?\n\nAmazon's detection systems identified the agent within seconds. The company hasn't commented on whether this was a deliberate policy or a technical glitch.",
+            "3. Real-World Stress Test\n\nThe shopping task wasn't a stunt. It was part of a broader effort to see how autonomous agents perform on live websites. Turns out, many sites aren't ready.",
+            "4. Precedent For Access\n\nThis isn't just about one blocked purchase. It raises a critical question: will every site now need an agent policy? Early signs suggest yes.",
+            "5. Check Your Own Agent\n\nTake a prompt on your AI assistant and ask it to complete a simple online action. If it fails, you've just found your first integration gap. Does your agent respect the sites it visits?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta's AI agent got blocked from Amazon.",
+            "Amazon flagged it as a bot, not human.",
+            "It was shopping autonomously to test real-world tasks.",
+            "This sets a precedent for agent access policies.",
+            "Does your agent respect the sites it visits?"
+          ]
+        },
+        "instagram": {
+          "caption": "✅ An AI agent tried to buy something on Amazon and got stopped at checkout.\n\nAmazon flagged it as a bot within seconds and denied the purchase. No human was allowed to finish it either.\n\nIt wasn't a stunt: the agent was part of a test to see how autonomous tools handle real websites. 🤖\n\nNow every site may need its own agent access policy — and yours counts too. 🛒\n\nOpen your assistant and ask it to complete one simple action online. If it fails, that's your first integration gap. 👀\n\nDoes your agent respect the sites it visits?"
+        }
+      },
+      "instagram_caption": "✅ An AI agent tried to buy something on Amazon and got stopped at checkout.\n\nAmazon flagged it as a bot within seconds and denied the purchase. No human was allowed to finish it either.\n\nIt wasn't a stunt: the agent was part of a test to see how autonomous tools handle real websites. 🤖\n\nNow every site may need its own agent access policy — and yours counts too. 🛒\n\nOpen your assistant and ask it to complete one simple action online. If it fails, that's your first integration gap. 👀\n\nDoes your agent respect the sites it visits?",
+      "carousel_slides": [
+        {
+          "hook": "Amazon Just Blocked Meta's AI Agent",
+          "description": "Meta's autonomous shopping agent was flagged as a bot and denied checkout on Amazon.com, with no human able to complete the purchase.",
+          "visual_hint": "AI agent blocked at checkout screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "E-commerce checkout"
+        },
+        {
+          "hook": "Can AI Tell Human From Bot?",
+          "description": "Amazon's detection systems identified the agent within seconds, though it's unclear if this was deliberate policy or a technical glitch.",
+          "visual_hint": "Digital surveillance eye scanning",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "Security camera",
+          "image": "https://images.pexels.com/photos/14773064/pexels-photo-14773064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Most Websites Aren't Ready For Agents",
+          "description": "The shopping task was a real-world stress test. Turns out many live websites aren't prepared for autonomous AI agents.",
+          "visual_hint": "Robot navigating website interface",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "Website wireframe",
+          "image": "https://images.pexels.com/photos/37771280/pexels-photo-37771280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Every Site Will Need An Agent Policy",
+          "description": "This isn't just one blocked purchase. It raises a critical question: will every site now need an agent access policy?",
+          "visual_hint": "Automated shopping robot being denied",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "Cargo container port",
+          "image": "https://images.pexels.com/photos/1624694/pexels-photo-1624694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test Your AI Agent Today",
+          "description": "Ask your AI assistant to complete a simple online action. If it fails, you've found your first integration gap. Save this for later!",
+          "visual_hint": "Person testing AI assistant online",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "Office worker laptop",
+          "image": "https://images.pexels.com/photos/7993573/pexels-photo-7993573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+      "savedAt": "2026-09-21T21:28:26.224Z",
+      "sourceId": "cfff59da9d2acf38b1402a647560cdd1"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "meta-s-muse-is-outpacing-chatgpt-s-early-mobile-la",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "pubDate": "Mon, 21 Sep 2026 19:19:21 +0000",
+      "slides": [
+        "Meta's Muse is outpacing ChatGPT's early mobile launch",
+        "Muse hit 10M downloads in its first 5 days",
+        "But retention drops sharply after week one",
+        "Your ad team might now favor Meta's AI",
+        "Test Muse retention against ChatGPT on your own"
+      ],
+      "thread_text": [
+        "1. The Retention Cliff\n\nMuse hit 10M downloads in 5 days — double ChatGPT's early pace. But week two tells a different story.",
+        "2. Why Downloads Lie\n\nMeta's ad engine can buy installs, not habits. Early retention drops sharply after day seven.",
+        "3. Ad Budgets Shift\n\nYour media buyer may push Meta AI harder than ChatGPT. That changes which tool wins distribution.",
+        "4. Your Data, Their Model\n\nTesting Muse retention means feeding it real prompts and tracking who comes back. Most teams skip this step.",
+        "5. Run Your Own Test\n\nTake one prompt you use weekly. Try it in Muse and ChatGPT for 7 days. Which one do you open on day eight?"
+      ],
+      "video_script": [
+        "Muse hit ten million downloads in five days.",
+        "But week two retention drops sharply.",
+        "Your ad team might now favor Meta's AI.",
+        "Test Muse against ChatGPT on your own.",
+        "Which one do you open on day eight?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Retention Cliff\n\nMuse hit 10M downloads in 5 days — double ChatGPT's early pace. But week two tells a different story.",
+            "2. Why Downloads Lie\n\nMeta's ad engine can buy installs, not habits. Early retention drops sharply after day seven.",
+            "3. Ad Budgets Shift\n\nYour media buyer may push Meta AI harder than ChatGPT. That changes which tool wins distribution.",
+            "4. Your Data, Their Model\n\nTesting Muse retention means feeding it real prompts and tracking who comes back. Most teams skip this step.",
+            "5. Run Your Own Test\n\nTake one prompt you use weekly. Try it in Muse and ChatGPT for 7 days. Which one do you open on day eight?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Muse hit ten million downloads in five days.",
+            "But week two retention drops sharply.",
+            "Your ad team might now favor Meta's AI.",
+            "Test Muse against ChatGPT on your own.",
+            "Which one do you open on day eight?"
+          ]
+        },
+        "instagram": {
+          "caption": "Meta's new AI app hit 10 million downloads in just 5 days — double ChatGPT's early pace. 📱\n\nMuse is riding Meta's ad engine, which can buy installs fast, but retention drops sharply after week one.\n\nYour media buyer may now push Meta's AI harder than ChatGPT, shifting where your audience actually finds these tools.\n\nSo downloads tell you nothing about habits — what matters is who opens the app on day eight. 🤔\n\nGrab one prompt you use weekly, run it in both for 7 days, and see which one you still open next week. 👀"
+        }
+      },
+      "instagram_caption": "Meta's new AI app hit 10 million downloads in just 5 days — double ChatGPT's early pace. 📱\n\nMuse is riding Meta's ad engine, which can buy installs fast, but retention drops sharply after week one.\n\nYour media buyer may now push Meta's AI harder than ChatGPT, shifting where your audience actually finds these tools.\n\nSo downloads tell you nothing about habits — what matters is who opens the app on day eight. 🤔\n\nGrab one prompt you use weekly, run it in both for 7 days, and see which one you still open next week. 👀",
+      "carousel_slides": [
+        {
+          "hook": "Downloads don't equal daily habits. Retention does.",
+          "description": "Muse hit 10M downloads in 5 days, doubling ChatGPT's early pace, but retention drops sharply after week one.",
+          "visual_hint": "Two phone screens side by side",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone screen closeup"
+        },
+        {
+          "hook": "10M downloads in 5 days? Impressive. Week two?",
+          "description": "Meta's Muse outpaced ChatGPT's early mobile launch, but week two reveals a different story about actual usage.",
+          "visual_hint": "Download chart peaking then falling",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Meta's ad engine buys installs, not habits.",
+          "description": "Early retention drops sharply after day seven because ads can purchase installs but cannot purchase recurring daily usage.",
+          "visual_hint": "Declining retention graph line",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your media buyer might push Meta AI harder.",
+          "description": "Ad budgets shift toward Meta's AI, changing which tool wins distribution. That affects your team's tool choices and workflows.",
+          "visual_hint": "Hand holding phone with AI app",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this. Test Muse retention yourself this week.",
+          "description": "Take one weekly prompt. Try it in Muse and ChatGPT for 7 days. Which do you open on day eight?",
+          "visual_hint": "Phone with two app icons",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone screen closeup",
+          "image": "https://images.pexels.com/photos/1463526/pexels-photo-1463526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+      "savedAt": "2026-09-21T21:28:17.886Z",
+      "sourceId": "285c3f889238df4e6e274764e8c4f77d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-forms-math-advisory-group-as-its-ai-resolve",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "pubDate": "Mon, 21 Sep 2026 20:15:58 +0000",
+      "slides": [
+        "OpenAI recruits mathematicians after AI solves 100 open problems.",
+        "The new advisory group will guide AI on hard math.",
+        "But AI’s solutions may not be verifiable by humans.",
+        "Your math skills become checking AI’s logic, not computing.",
+        "Demand verifiable proofs before trusting AI output."
+      ],
+      "thread_text": [
+        "1. AI Cracks 100 Open Problems\n\nOpenAI just recruited mathematicians. The reason? Its AI solved 100 unsolved math problems on its own.",
+        "2. New Advisory Group Formed\n\nThis group will guide AI on hard math. But it's not about teaching—it's about keeping up.",
+        "3. Solutions Humans Can't Check\n\nAI's proofs may be too complex for any person to verify. So we're left trusting the machine.",
+        "4. Your Math Role Is Changing\n\nYou won't compute answers anymore. Your job becomes checking AI's logic, not solving equations.",
+        "5. Demand Verifiable Proofs\n\nBefore you trust an AI result, ask: can a human verify it? If not, don't use it. Test this on your next AI query."
+      ],
+      "video_script": [
+        "OpenAI's AI just solved 100 open math problems.",
+        "Now they're hiring mathematicians to guide it.",
+        "But humans can't verify the AI's solutions.",
+        "So your math skill becomes checking logic, not computing.",
+        "Demand verifiable proofs before trusting AI output."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI Cracks 100 Open Problems\n\nOpenAI just recruited mathematicians. The reason? Its AI solved 100 unsolved math problems on its own.",
+            "2. New Advisory Group Formed\n\nThis group will guide AI on hard math. But it's not about teaching—it's about keeping up.",
+            "3. Solutions Humans Can't Check\n\nAI's proofs may be too complex for any person to verify. So we're left trusting the machine.",
+            "4. Your Math Role Is Changing\n\nYou won't compute answers anymore. Your job becomes checking AI's logic, not solving equations.",
+            "5. Demand Verifiable Proofs\n\nBefore you trust an AI result, ask: can a human verify it? If not, don't use it. Test this on your next AI query."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI's AI just solved 100 open math problems.",
+            "Now they're hiring mathematicians to guide it.",
+            "But humans can't verify the AI's solutions.",
+            "So your math skill becomes checking logic, not computing.",
+            "Demand verifiable proofs before trusting AI output."
+          ]
+        },
+        "instagram": {
+          "caption": "OpenAI’s AI already solved more than 100 open math problems, and now the company is recruiting mathematicians to keep up. 🧠\n\nThe new advisory group will guide the AI on hard math.\n\nProblem: some solutions may be too complex for humans to verify at all.\n\nSo your math skill shifts from computing answers to checking the AI’s logic.\n\nBefore you use an AI result, ask: can a human verify the proof? 📌\n\nIf not, don’t use it. What was the last AI answer you trusted without checking? 🤔"
+        }
+      },
+      "instagram_caption": "OpenAI’s AI already solved more than 100 open math problems, and now the company is recruiting mathematicians to keep up. 🧠\n\nThe new advisory group will guide the AI on hard math.\n\nProblem: some solutions may be too complex for humans to verify at all.\n\nSo your math skill shifts from computing answers to checking the AI’s logic.\n\nBefore you use an AI result, ask: can a human verify the proof? 📌\n\nIf not, don’t use it. What was the last AI answer you trusted without checking? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Can Humans Verify AI's Math Proofs?",
+          "description": "OpenAI's AI solved 100 open math problems, but its proofs may be too complex for any human to check.",
+          "visual_hint": "Complex mathematical equations on screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "mathematics blackboard"
+        },
+        {
+          "hook": "OpenAI Recruits Mathematicians for AI",
+          "description": "A new advisory group will guide AI on hard math, but it's not about teaching—it's about keeping up.",
+          "visual_hint": "Mathematicians collaborating with AI",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "office meeting",
+          "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI's Solutions Beyond Human Comprehension",
+          "description": "AI's proofs may be too complex for any person to verify, leaving us to trust the machine blindly.",
+          "visual_hint": "Abstract complex proof visualization",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "abstract network",
+          "image": "https://images.pexels.com/photos/8108663/pexels-photo-8108663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your Math Role Is Evolving",
+          "description": "You won't compute answers anymore. Your job becomes checking AI's logic, not solving equations.",
+          "visual_hint": "Human hand pointing at AI output",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand tablet",
+          "image": "https://images.pexels.com/photos/7129753/pexels-photo-7129753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Demand Verifiable Proofs Now",
+          "description": "Before trusting AI results, ask: can a human verify it? If not, don't use it. Test on your next query.",
+          "visual_hint": "Checklist with proof verification",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "checklist document",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/51013975207_8dcac5cf72_k.jpg?resize=1200,900",
+      "savedAt": "2026-09-21T21:28:09.884Z",
+      "sourceId": "c06d2cf00824b1aebfd60207cb7bbf46"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "how-to-improve-visibility-across-your-enterprise-a",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -161418,6 +161834,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "zuppa-di-zucca-e-fagioli",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Zuppa di zucca e fagioli",
+      "link": "https://ricette.giallozafferano.it/Zuppa-di-zucca-e-fagioli.html",
+      "pubDate": "Mon, 21 Sep 2026 16:16:00 +0200",
+      "content": "Zuppa di zucca e fagioli: ricetta cremosa e avvolgente Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Top Blogger TOP BLOGGER Primi piatti Zuppe, minestre e vellutate Zuppa di zucca e fagioli /5 Ricetta proposta da Luisa Orizio CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 15 min Cottura: 30 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti Ascolta su Spreaker. PRESENTAZIONE La zuppa di zucca e fagioli è un primo piatto caldo e cremoso, perfetto per coccolarsi durante le giornate più fresche. Una ricetta vegetariana rustica e genuina che unisce la dolcezza della zucca alla consistenza delicata dei fagioli cannellini, per un risultato corposo e avvolgente. Preparare questa zuppa autunnale è davvero semplice: la zucca viene cotta nel brodo vegetale e frullata solo in parte, così da ottenere una base cremosa senza rinunciare a qualche pezzetto più grossolano. I fagioli precotti si aggiungono alla fine, rendendo la pietanza ancora più ricca e sostanziosa. Servite la zuppa di zucca e fagioli ben calda, completandola con qualche crostino di pane tostato se desiderate... per chi cerca un comfort food pronto in pochissime mosse, questa ricetta diventerà una delle vostre preferite! Non perdetevi anche queste varianti: Zuppa di zucca e lenticchie Zuppa di ceci e zucca Crema di zucca Minestra di zucca alla milanese Pumpkin and Bean Soup INGREDIENTI Zucca delica (da pulire) 1 kg Fagioli cannellini precotti (peso sgocciolato) 500 g Cipolle 70 g Brodo vegetale 700 g Olio extravergine d'oliva q.b. Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Zuppa di zucca e fagioli Per preparare la zuppa di zucca e fagioli, per prima cosa pulite la zucca 1 , tagliatela a fette e rimuovete la buccia 2 , poi riducete la polpa a dadini 3 . Mondate la cipolla e tritatela grossolanamente 4 . Versate la cipolla 5 e la zucca in una pentola con l’olio caldo 6 . Rosolate per 5 minuti 7 , poi aggiungete il brodo vegetale 8 . Lasciate sobbollire a fuoco medio-basso fino a quando la zucca si sarà ammorbidita, ci vorranno circa 20-25 minuti. Una volta cotta, togliete la pentola dal fuoco e frullate una parte della zucca 9 . Unite i fagioli precotti e scolati 10 e mescolate bene. Infine regolate di sale 12 e aggiustate la densità aggiungendo eventualmente altro brodo vegetale. Impiattate e completate con un filo d’olio 13 e una macinata di pepe 14 . La vostra zuppa di zucca e fagioli è pronta per essere servita 15 ! Conservazione La zuppa di zucca e fagioli si può conservare in frigorifero, in un contenitore ermetico, per 2-3 giorni. È possibile congelarla. Consiglio Se preferite utilizzare i fagioli secchi, lasciateli prima in ammollo per una notte e poi cuoceteli a parte per un’ora. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Fagioli Zucca Olio di oliva Cipolla Scopri tutto sugli ingredienti STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Zuppa di zucca e fagioli 5.0 Bocconcini di pesce spada alla mediterranea 5.0 Charlotte ai frutti di bosco 5.0 SCOPRI Zuppa di fagioli cannellini Ricetta zuppa di fagioli Zuppa con zucca Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Zuppa cremosa e avvolgente di zucca e fagioli",
+        "Zucca, fagioli cannellini, cipolla, brodo vegetale",
+        "Rosola cipolla e zucca, poi aggiungi brodo",
+        "Frulla parte della zucca, unisci fagioli precotti",
+        "Completa con olio e pepe, aggiungi crostini"
+      ],
+      "instagram_caption": "Vellutata di zucca e fagioli: il comfort food che non sai di desiderare. 🍂\nFai rosolare cipolla e zucca, sfuma col brodo e frulla metà della zuppa per renderla cremosa. Poi tuffa i cannellini precotti e lascia che si sposino al resto.\nUn filo d'olio, una macinata di pepe e una pioggia di crostini croccanti: ecco la cena perfetta per le sere fredde. 🥣✨\nSalva la ricetta e provala questo weekend!",
+      "formats": {
+        "instagram": {
+          "caption": "Vellutata di zucca e fagioli: il comfort food che non sai di desiderare. 🍂\nFai rosolare cipolla e zucca, sfuma col brodo e frulla metà della zuppa per renderla cremosa. Poi tuffa i cannellini precotti e lascia che si sposino al resto.\nUn filo d'olio, una macinata di pepe e una pioggia di crostini croccanti: ecco la cena perfetta per le sere fredde. 🥣✨\nSalva la ricetta e provala questo weekend!"
+        },
+        "tiktok": {
+          "script": [
+            "Faccio soffriggere cipolla e zucca a pezzetti.",
+            "Aggiungo brodo vegetale caldo e lascio cuocere.",
+            "Frullo metà zucca per una crema vellutata.",
+            "Unisco i fagioli cannellini precotti e mescolo.",
+            "Completo con olio, pepe e crostini croccanti."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Zucca + fagioli = la zuppa che non ti aspetti. Cremosa, calda, avvolgente. La faccio quando fuori piove e voglio solo coccolarmi. 🍲",
+            "Ti servono: zucca, fagioli cannellini, cipolla, brodo vegetale. Pochi ingredienti, zero stress. Il segreto? Rosolare bene cipolla e zucca prima di bagnare.",
+            "Soffriggi la cipolla, butta la zucca a cubetti. Lascia che si insaporisca. Poi brodo caldo e cuoci finché non si sfalda. Profumo da urlo.",
+            "Ora il gesto chiave: frulla metà zucca per una crema vellutata. Unisci i cannellini precotti. Mescola, lascia scaldare. Densità perfetta.",
+            "Fuori giri: olio a crudo, pepe nero e crostini. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Faccio soffriggere cipolla e zucca a pezzetti.",
+        "Aggiungo brodo vegetale caldo e lascio cuocere.",
+        "Frullo metà zucca per una crema vellutata.",
+        "Unisco i fagioli cannellini precotti e mescolo.",
+        "Completo con olio, pepe e crostini croccanti."
+      ],
+      "thread_text": [
+        "Zucca + fagioli = la zuppa che non ti aspetti. Cremosa, calda, avvolgente. La faccio quando fuori piove e voglio solo coccolarmi. 🍲",
+        "Ti servono: zucca, fagioli cannellini, cipolla, brodo vegetale. Pochi ingredienti, zero stress. Il segreto? Rosolare bene cipolla e zucca prima di bagnare.",
+        "Soffriggi la cipolla, butta la zucca a cubetti. Lascia che si insaporisca. Poi brodo caldo e cuoci finché non si sfalda. Profumo da urlo.",
+        "Ora il gesto chiave: frulla metà zucca per una crema vellutata. Unisci i cannellini precotti. Mescola, lascia scaldare. Densità perfetta.",
+        "Fuori giri: olio a crudo, pepe nero e crostini. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Zuppa cremosa di zucca e fagioli",
+          "description": "Un abbraccio caldo e vellutato, perfetto per le giornate fredde.",
+          "visual_hint": "Ciotola fumante di zuppa",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory pumpkin soup"
+        },
+        {
+          "hook": "Tre ingredienti, un comfort autentico",
+          "description": "Zucca dolce, fagioli cannellini cremosi e brodo vegetale per una base ricca.",
+          "visual_hint": "Zucca e fagioli sul tavolo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory pumpkin beans",
+          "image": "https://images.pexels.com/photos/38492328/pexels-photo-38492328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rosola e aggiungi brodo",
+          "description": "Cipolla e zucca rosolate, poi il brodo per un sapore profondo.",
+          "visual_hint": "Mestolo che versa brodo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory soup cooking",
+          "image": "https://images.pexels.com/photos/36120991/pexels-photo-36120991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Frulla e unisci i fagioli",
+          "description": "Parte della zucca frullata per cremosità, poi fagioli precotti per texture.",
+          "visual_hint": "Frullatore in azione",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory blended soup",
+          "image": "https://images.pexels.com/photos/7455910/pexels-photo-7455910.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Olio, pepe e crostini",
+          "description": "Completa con un filo d'olio, pepe nero e crostini croccanti. Servi calda.",
+          "visual_hint": "Zuppa con crostini e olio",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory pumpkin soup croutons",
+          "image": "https://images.pexels.com/photos/17778861/pexels-photo-17778861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "soup",
+      "signature_ingredients": [
+        "zucca",
+        "fagioli cannellini",
+        "brodo vegetale"
+      ],
+      "image": "https://www.giallozafferano.it/images/366-36639/Zuppa-di-zucca-e-fagioli_650x433_wm.jpg",
+      "savedAt": "2026-09-21T21:34:16.921Z",
+      "sourceId": "2f74187af15b7e12d13b44a2f430f626"
+    },
     {
       "schema_version": 2,
       "agent": "food",
