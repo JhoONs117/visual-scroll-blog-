@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "trump-now-says-he-wants-to-form-an-ai-force-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Trump now says he wants to form an ‘AI Force’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "pubDate": "2026-09-20T15:39:22.000Z",
+      "slides": [
+        "What if Trump's new 'AI Force' decides your job?",
+        "He announced a federal team to accelerate AI adoption",
+        "But experts say it lacks clear funding or legal authority",
+        "Your industry could face faster automated compliance checks",
+        "Name one task you'd automate before they do"
+      ],
+      "thread_text": [
+        "1. Your Job on the Table\n\nTrump just launched a federal 'AI Force' to speed up automation across government. Experts say there's no funding or legal authority to back it.",
+        "2. What the Team Does\n\nThe group is tasked with cutting regulatory hurdles so AI can be deployed faster in federal agencies. No budget line yet.",
+        "3. The Real Risk\n\nWithout legal authority, this team can only advise. But advice can still shape which industries get automated first — including yours.",
+        "4. Compliance Gets Faster\n\nYour industry could soon face automated compliance checks. That means audits, reporting, and approvals handled by machines, not people.",
+        "5. Automate This First\n\nPick one task you do weekly that a simple script could handle. Automate it this week. What's the first thing you'd hand over?"
+      ],
+      "video_script": [
+        "Trump just announced a new federal AI team.",
+        "It's meant to speed up AI adoption in government.",
+        "But experts say it has no funding or legal power.",
+        "Your industry could face automated compliance checks soon.",
+        "What task would you automate before they do?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your Job on the Table\n\nTrump just launched a federal 'AI Force' to speed up automation across government. Experts say there's no funding or legal authority to back it.",
+            "2. What the Team Does\n\nThe group is tasked with cutting regulatory hurdles so AI can be deployed faster in federal agencies. No budget line yet.",
+            "3. The Real Risk\n\nWithout legal authority, this team can only advise. But advice can still shape which industries get automated first — including yours.",
+            "4. Compliance Gets Faster\n\nYour industry could soon face automated compliance checks. That means audits, reporting, and approvals handled by machines, not people.",
+            "5. Automate This First\n\nPick one task you do weekly that a simple script could handle. Automate it this week. What's the first thing you'd hand over?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Trump just announced a new federal AI team.",
+            "It's meant to speed up AI adoption in government.",
+            "But experts say it has no funding or legal power.",
+            "Your industry could face automated compliance checks soon.",
+            "What task would you automate before they do?"
+          ]
+        },
+        "instagram": {
+          "caption": "A federal team with no budget line and no legal authority could still shape which industries get automated first. ⚙️\n\nTrump announced an \"AI Force\" to speed up AI adoption across government agencies. It's tasked with cutting regulatory hurdles, but experts say there's no funding or clear legal power behind it.\n\nThat means it can only advise — yet that advice can decide what gets automated first, and automated compliance checks could reach your industry soon.\n\nName one weekly task you'd hand to a script before they do. 👇"
+        }
+      },
+      "instagram_caption": "A federal team with no budget line and no legal authority could still shape which industries get automated first. ⚙️\n\nTrump announced an \"AI Force\" to speed up AI adoption across government agencies. It's tasked with cutting regulatory hurdles, but experts say there's no funding or clear legal power behind it.\n\nThat means it can only advise — yet that advice can decide what gets automated first, and automated compliance checks could reach your industry soon.\n\nName one weekly task you'd hand to a script before they do. 👇",
+      "carousel_slides": [
+        {
+          "hook": "Will AI decide your job next?",
+          "description": "Trump's new 'AI Force' has no clear funding or legal authority. Yet it could still shape which industries get automated first.",
+          "visual_hint": "Robot arm over office desk",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "factory robot"
+        },
+        {
+          "hook": "A federal team to accelerate AI",
+          "description": "Trump announced a team to speed AI adoption across government agencies. It aims to cut regulatory hurdles, but no budget line exists yet.",
+          "visual_hint": "Government building with digital overlay",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "government building",
+          "image": "https://images.pexels.com/photos/28451083/pexels-photo-28451083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No funding, no legal authority",
+          "description": "Experts say the team can only advise. But advice can still influence which sectors face automation first — including yours.",
+          "visual_hint": "Empty chair at meeting table",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "empty office",
+          "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Automated compliance checks are coming",
+          "description": "Your industry could soon see audits, reporting, and approvals handled by machines instead of people. Faster, but less human oversight.",
+          "visual_hint": "Digital checklist on screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "computer screen code",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before AI takes over",
+          "description": "Pick one weekly task a simple script could handle. Automate it this week. Comment what you'd hand over first.",
+          "visual_hint": "Hand writing on sticky note",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "sticky notes",
+          "image": "https://images.pexels.com/photos/4586900/pexels-photo-4586900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334825/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+      "savedAt": "2026-09-21T02:30:14.844Z",
+      "sourceId": "0053101fd2577e989c4864cef4ad4053"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "no-one-is-surprised-that-nvidia-8217-s-jensen-huan",
       "prompt_version": "1.0.0",
       "status": "published",
