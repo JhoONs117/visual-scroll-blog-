@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "amazon-blocks-meta-s-muse-ai-agent",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Amazon blocks Meta’s Muse AI agent",
+    "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+    "pubDate": "2026-09-21T09:21:47.000Z",
+    "slides": [
+      "Amazon just blocked Meta's Muse AI agent. Why?",
+      "Amazon cited security and competition concerns.",
+      "Yet Amazon's own AI tools continue to expand.",
+      "This means third-party AI could face more barriers.",
+      "If giants control AI access, who really loses?"
+    ],
+    "thread_text": [
+      "Amazon Just Blocked Meta\n\nMeta's new Muse AI agent was cut off from Amazon's platform. The reason? Amazon cited security and competition concerns.",
+      "Amazon's Real Concern\n\nSecurity was the stated reason, but competition likely played a role. Meta's AI could threaten Amazon's own AI ambitions.",
+      "Amazon's AI Keeps Growing\n\nWhile blocking Meta, Amazon expanded its own AI tools. This double standard shows how gatekeepers protect their turf.",
+      "Third-Party AI Barriers\n\nIf Amazon blocks Meta, other AI developers could face similar obstacles. This trend could stifle innovation and limit choice.",
+      "Who Really Loses?\n\nWhen giants control AI access, users lose. Ask yourself: if Amazon blocks Meta's AI, will your favorite tool be next?"
+    ],
+    "video_script": [
+      "Amazon just blocked Meta's AI agent.",
+      "They cited security and competition concerns.",
+      "Meanwhile, Amazon's own AI tools keep expanding.",
+      "This means third-party AI could face more barriers.",
+      "If giants control AI access, who really loses?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Amazon Just Blocked Meta\n\nMeta's new Muse AI agent was cut off from Amazon's platform. The reason? Amazon cited security and competition concerns.",
+          "Amazon's Real Concern\n\nSecurity was the stated reason, but competition likely played a role. Meta's AI could threaten Amazon's own AI ambitions.",
+          "Amazon's AI Keeps Growing\n\nWhile blocking Meta, Amazon expanded its own AI tools. This double standard shows how gatekeepers protect their turf.",
+          "Third-Party AI Barriers\n\nIf Amazon blocks Meta, other AI developers could face similar obstacles. This trend could stifle innovation and limit choice.",
+          "Who Really Loses?\n\nWhen giants control AI access, users lose. Ask yourself: if Amazon blocks Meta's AI, will your favorite tool be next?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Amazon just blocked Meta's AI agent.",
+          "They cited security and competition concerns.",
+          "Meanwhile, Amazon's own AI tools keep expanding.",
+          "This means third-party AI could face more barriers.",
+          "If giants control AI access, who really loses?"
+        ]
+      },
+      "instagram": {
+        "caption": "Meta's new Muse AI agent was cut off from Amazon's platform.\n\nAmazon cited security and competition concerns. 🔒\n\nMeanwhile, Amazon's own AI tools keep expanding.\n\nIf giants control AI access, third-party developers face more barriers.\n\nFor anyone building or publishing with AI, the tool you rely on could get blocked next.\n\nIf Amazon blocked Meta's AI, what happens when your favorite tool is next? ⚠️"
+      }
+    },
+    "instagram_caption": "Meta's new Muse AI agent was cut off from Amazon's platform.\n\nAmazon cited security and competition concerns. 🔒\n\nMeanwhile, Amazon's own AI tools keep expanding.\n\nIf giants control AI access, third-party developers face more barriers.\n\nFor anyone building or publishing with AI, the tool you rely on could get blocked next.\n\nIf Amazon blocked Meta's AI, what happens when your favorite tool is next? ⚠️",
+    "carousel_slides": [
+      {
+        "hook": "Amazon just cut off Meta's AI agent?!",
+        "description": "Amazon blocked Meta's Muse AI agent citing security and competition. Big Tech gatekeeping AI access is now a real threat.",
+        "visual_hint": "Split screen Amazon vs Meta logos",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Amazon logo"
+      },
+      {
+        "hook": "Security? Or just competition?",
+        "description": "Amazon claims security concerns, but Meta's AI could rival Amazon's own AI tools, revealing a double standard in tech.",
+        "visual_hint": "Cracked shield with dollar sign",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "security shield",
+        "image": "https://images.pexels.com/photos/24039171/pexels-photo-24039171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Amazon expands AI while blocking others",
+        "description": "As Amazon blocked Meta, it quietly expanded its own AI tools. Gatekeepers protect their turf, not users.",
+        "visual_hint": "Two AI robots, one chained",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Third-party AI faces more barriers",
+        "description": "If Amazon blocks Meta, smaller AI developers face similar obstacles, potentially stifling innovation and limiting consumer choice.",
+        "visual_hint": "Developer hitting brick wall",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who loses when giants gatekeep AI?",
+        "description": "When Amazon blocks Meta's AI, users lose. Ask yourself: will your favorite tool be next?",
+        "visual_hint": "Hand holding smartphone with AI",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person using smartphone",
+        "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Amazon_Prime_Illo.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-09-22T07:04:59.014Z",
+    "sourceId": "ac1368b0f72db0210352ea4d08573b4e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "with-tabby-a-former-accountant-is-using-ai-to-make",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+    "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+    "pubDate": "Mon, 21 Sep 2026 16:38:51 +0000",
+    "slides": [
+      "Can Tabby make accountants obsolete?",
+      "Its founder was an accountant himself",
+      "But AI handles only part of the work",
+      "Your reconciliations could shrink from days to hours",
+      "Learn one AI tool for your workflow this week"
+    ],
+    "thread_text": [
+      "1. Can Tabby replace accountants?\n\nTabby is an AI tool built by a former accountant to automate bookkeeping. It's already handling reconciliations for some firms, but does it replace the human entirely?",
+      "2. Founder was an accountant\n\nHe got tired of endless reconciliation work, so he built an AI to do it. That insider perspective shaped Tabby to target the most repetitive tasks first.",
+      "3. But AI only does part\n\nTabby automates data entry and matching, but judgment calls, client questions, and complex reporting still need a human. It's a tool, not a replacement.",
+      "4. Days to hours\n\nReconciliations that used to take days now finish in hours. That speed frees accountants to focus on advisory work instead of manual matching.",
+      "5. Learn one AI tool\n\nPick one repetitive task in your workflow and try an AI tool this week. Does it actually save time, or just shift the work? Test it yourself."
+    ],
+    "video_script": [
+      "Can AI replace accountants? Meet Tabby.",
+      "Its founder was an accountant. He built it.",
+      "But AI handles only part of the work.",
+      "Reconciliations go from days to hours.",
+      "Learn one AI tool for your workflow this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can Tabby replace accountants?\n\nTabby is an AI tool built by a former accountant to automate bookkeeping. It's already handling reconciliations for some firms, but does it replace the human entirely?",
+          "2. Founder was an accountant\n\nHe got tired of endless reconciliation work, so he built an AI to do it. That insider perspective shaped Tabby to target the most repetitive tasks first.",
+          "3. But AI only does part\n\nTabby automates data entry and matching, but judgment calls, client questions, and complex reporting still need a human. It's a tool, not a replacement.",
+          "4. Days to hours\n\nReconciliations that used to take days now finish in hours. That speed frees accountants to focus on advisory work instead of manual matching.",
+          "5. Learn one AI tool\n\nPick one repetitive task in your workflow and try an AI tool this week. Does it actually save time, or just shift the work? Test it yourself."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can AI replace accountants? Meet Tabby.",
+          "Its founder was an accountant. He built it.",
+          "But AI handles only part of the work.",
+          "Reconciliations go from days to hours.",
+          "Learn one AI tool for your workflow this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Reconciliations that used to take days now finish in hours. ⏱️\n\nTabby is an AI tool built by a former accountant to automate bookkeeping for firms.\n\nThe founder did the job himself and got tired of endless manual matching — so he targeted the most repetitive tasks first.\n\nBut AI only handles part of it: data entry and matching. Judgment calls, client questions, and complex reporting still need a human. 🤝\n\nIf you work in finance, your reconciliation time can shrink from days to hours, freeing you for advisory work instead. 📊\n\nPick one repetitive task in your workflow this week and test an AI tool on it. Does it actually save time, or just shift the work? 🔍"
+      }
+    },
+    "instagram_caption": "Reconciliations that used to take days now finish in hours. ⏱️\n\nTabby is an AI tool built by a former accountant to automate bookkeeping for firms.\n\nThe founder did the job himself and got tired of endless manual matching — so he targeted the most repetitive tasks first.\n\nBut AI only handles part of it: data entry and matching. Judgment calls, client questions, and complex reporting still need a human. 🤝\n\nIf you work in finance, your reconciliation time can shrink from days to hours, freeing you for advisory work instead. 📊\n\nPick one repetitive task in your workflow this week and test an AI tool on it. Does it actually save time, or just shift the work? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "AI won't replace accountants, but this will",
+        "description": "Tabby automates reconciliations for accounting firms, yet judgment calls and client questions still require a human expert.",
+        "visual_hint": "Split screen human vs AI",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "office desk calculator"
+      },
+      {
+        "hook": "He was an accountant first",
+        "description": "The founder built Tabby after doing endless manual reconciliations, targeting the most repetitive tasks first.",
+        "visual_hint": "Man at desk with laptop",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "accountant working office",
+        "image": "https://images.pexels.com/photos/7654167/pexels-photo-7654167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI only does part of the job",
+        "description": "Tabby handles data entry and matching, but complex reporting and advisory work remain human territory.",
+        "visual_hint": "Robot hand and human hand",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "robot arm factory",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Days of reconciliation become hours",
+        "description": "Tasks that took days now finish in hours, freeing accountants for higher-value advisory work.",
+        "visual_hint": "Clock hands spinning fast",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hourglass sand clock",
+        "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try one AI tool this week",
+        "description": "Pick a repetitive task in your workflow and test if AI actually saves time or just shifts work.",
+        "visual_hint": "Person typing on laptop",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop coffee desk",
+        "image": "https://images.pexels.com/photos/5942722/pexels-photo-5942722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1415313623-e1689969929952.jpg?resize=1200,800",
+    "savedAt": "2026-09-22T07:04:50.885Z",
+    "sourceId": "8a06f4e347265d618929e41e2074c073"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "morphotonics-raises-40m-to-expand-its-display-tech",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Morphotonics raises €40M to expand its display tech into data centers",
+    "link": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+    "pubDate": "Tue, 22 Sep 2026 06:00:00 +0000",
+    "slides": [
+      "Can Morphotonics' €40M bet reshape data centers?",
+      "Its display tech now targets optical interconnects",
+      "But the real prize is replacing copper wiring",
+      "Your servers could soon pack far more bandwidth",
+      "Ask if you're ready for optical compute"
+    ],
+    "thread_text": [
+      "1. The End of Copper Wiring?\n\nMorphotonics just raised €40M to replace the copper cables inside data centers with optical interconnects. Their display tech is now aiming at the server room.",
+      "2. From Screens to Servers\n\nMorphotonics didn't start in networking. Its core tech was built for displays, and that background gives it a manufacturing edge for optical interconnects.",
+      "3. Bandwidth Bottleneck\n\nCopper wiring is hitting physical limits. Optical interconnects promise far more bandwidth per server, which could change how data centers are built.",
+      "4. What This Means for You\n\nMore bandwidth per server means your cloud apps and AI tools could run faster. The shift to optical compute is already being funded.",
+      "5. Are You Ready?\n\nAsk your cloud provider if they plan to adopt optical interconnects. If they don't have an answer, you're already behind."
+    ],
+    "video_script": [
+      "Morphotonics just raised forty million to kill copper wiring.",
+      "Their display tech now targets optical interconnects in servers.",
+      "Copper is hitting a bandwidth wall. Optics can break it.",
+      "Your servers could soon pack far more bandwidth.",
+      "Ask if you're ready for optical compute."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The End of Copper Wiring?\n\nMorphotonics just raised €40M to replace the copper cables inside data centers with optical interconnects. Their display tech is now aiming at the server room.",
+          "2. From Screens to Servers\n\nMorphotonics didn't start in networking. Its core tech was built for displays, and that background gives it a manufacturing edge for optical interconnects.",
+          "3. Bandwidth Bottleneck\n\nCopper wiring is hitting physical limits. Optical interconnects promise far more bandwidth per server, which could change how data centers are built.",
+          "4. What This Means for You\n\nMore bandwidth per server means your cloud apps and AI tools could run faster. The shift to optical compute is already being funded.",
+          "5. Are You Ready?\n\nAsk your cloud provider if they plan to adopt optical interconnects. If they don't have an answer, you're already behind."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Morphotonics just raised forty million to kill copper wiring.",
+          "Their display tech now targets optical interconnects in servers.",
+          "Copper is hitting a bandwidth wall. Optics can break it.",
+          "Your servers could soon pack far more bandwidth.",
+          "Ask if you're ready for optical compute."
+        ]
+      },
+      "instagram": {
+        "caption": "40 million euros just went into replacing the copper wires inside your data center.\n\nMorphotonics built its tech for screens. Now it's aiming the same manufacturing process at the optical interconnects that connect servers. 🖥️\n\nCopper is hitting its physical ceiling. Optical wiring promises far more bandwidth per server.\n\nMore bandwidth per server means faster cloud apps and AI tools for you. ⚡\n\nIf your cloud provider can't say whether they're moving to optical, that's your answer. 🔌\n\nAre you ready for optical compute?"
+      }
+    },
+    "instagram_caption": "40 million euros just went into replacing the copper wires inside your data center.\n\nMorphotonics built its tech for screens. Now it's aiming the same manufacturing process at the optical interconnects that connect servers. 🖥️\n\nCopper is hitting its physical ceiling. Optical wiring promises far more bandwidth per server.\n\nMore bandwidth per server means faster cloud apps and AI tools for you. ⚡\n\nIf your cloud provider can't say whether they're moving to optical, that's your answer. 🔌\n\nAre you ready for optical compute?",
+    "carousel_slides": [
+      {
+        "hook": "Is copper wiring about to die?",
+        "description": "Copper wiring is hitting physical limits, so optical interconnects could replace it inside server rooms.",
+        "visual_hint": "Glowing fiber optic cables close-up",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "fiber optic cables"
+      },
+      {
+        "hook": "From screens to servers",
+        "description": "Morphotonics built display tech, and that manufacturing background now gives it an edge in optical interconnects.",
+        "visual_hint": "Split screen display and server",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "display screen",
+        "image": "https://images.pexels.com/photos/21391567/pexels-photo-21391567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The real prize is bandwidth",
+        "description": "Optical interconnects promise far more bandwidth per server, which could change how data centers are built.",
+        "visual_hint": "Macro shot of optical chip",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your cloud apps will speed up",
+        "description": "More bandwidth per server means your cloud apps and AI tools could run faster, and funding is already flowing.",
+        "visual_hint": "Hand holding glowing server drive",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before you're behind",
+        "description": "Ask your cloud provider if they plan to adopt optical interconnects, and comment SAVE for more deep dives.",
+        "visual_hint": "Phone with cloud icon overlay",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "cloud computing",
+        "image": "https://images.pexels.com/photos/12899121/pexels-photo-12899121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Morphotonics.jpg?resize=1200,675",
+    "savedAt": "2026-09-22T07:04:42.896Z",
+    "sourceId": "ca657215131e70333929dcdef8efea41"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "iphone-owners-can-now-submit-claims-in-apple-s-250",
     "prompt_version": "1.0.0",
     "status": "published",

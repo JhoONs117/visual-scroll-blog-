@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "morphotonics-raises-40m-to-expand-its-display-tech",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Morphotonics raises €40M to expand its display tech into data centers",
+  "link": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+  "pubDate": "Tue, 22 Sep 2026 06:00:00 +0000",
+  "slides": [
+    "Can Morphotonics' €40M bet reshape data centers?",
+    "Its display tech now targets optical interconnects",
+    "But the real prize is replacing copper wiring",
+    "Your servers could soon pack far more bandwidth",
+    "Ask if you're ready for optical compute"
+  ],
+  "thread_text": [
+    "1. The End of Copper Wiring?\n\nMorphotonics just raised €40M to replace the copper cables inside data centers with optical interconnects. Their display tech is now aiming at the server room.",
+    "2. From Screens to Servers\n\nMorphotonics didn't start in networking. Its core tech was built for displays, and that background gives it a manufacturing edge for optical interconnects.",
+    "3. Bandwidth Bottleneck\n\nCopper wiring is hitting physical limits. Optical interconnects promise far more bandwidth per server, which could change how data centers are built.",
+    "4. What This Means for You\n\nMore bandwidth per server means your cloud apps and AI tools could run faster. The shift to optical compute is already being funded.",
+    "5. Are You Ready?\n\nAsk your cloud provider if they plan to adopt optical interconnects. If they don't have an answer, you're already behind."
+  ],
+  "video_script": [
+    "Morphotonics just raised forty million to kill copper wiring.",
+    "Their display tech now targets optical interconnects in servers.",
+    "Copper is hitting a bandwidth wall. Optics can break it.",
+    "Your servers could soon pack far more bandwidth.",
+    "Ask if you're ready for optical compute."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The End of Copper Wiring?\n\nMorphotonics just raised €40M to replace the copper cables inside data centers with optical interconnects. Their display tech is now aiming at the server room.",
+        "2. From Screens to Servers\n\nMorphotonics didn't start in networking. Its core tech was built for displays, and that background gives it a manufacturing edge for optical interconnects.",
+        "3. Bandwidth Bottleneck\n\nCopper wiring is hitting physical limits. Optical interconnects promise far more bandwidth per server, which could change how data centers are built.",
+        "4. What This Means for You\n\nMore bandwidth per server means your cloud apps and AI tools could run faster. The shift to optical compute is already being funded.",
+        "5. Are You Ready?\n\nAsk your cloud provider if they plan to adopt optical interconnects. If they don't have an answer, you're already behind."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Morphotonics just raised forty million to kill copper wiring.",
+        "Their display tech now targets optical interconnects in servers.",
+        "Copper is hitting a bandwidth wall. Optics can break it.",
+        "Your servers could soon pack far more bandwidth.",
+        "Ask if you're ready for optical compute."
+      ]
+    },
+    "instagram": {
+      "caption": "40 million euros just went into replacing the copper wires inside your data center.\n\nMorphotonics built its tech for screens. Now it's aiming the same manufacturing process at the optical interconnects that connect servers. 🖥️\n\nCopper is hitting its physical ceiling. Optical wiring promises far more bandwidth per server.\n\nMore bandwidth per server means faster cloud apps and AI tools for you. ⚡\n\nIf your cloud provider can't say whether they're moving to optical, that's your answer. 🔌\n\nAre you ready for optical compute?"
+    }
+  },
+  "instagram_caption": "40 million euros just went into replacing the copper wires inside your data center.\n\nMorphotonics built its tech for screens. Now it's aiming the same manufacturing process at the optical interconnects that connect servers. 🖥️\n\nCopper is hitting its physical ceiling. Optical wiring promises far more bandwidth per server.\n\nMore bandwidth per server means faster cloud apps and AI tools for you. ⚡\n\nIf your cloud provider can't say whether they're moving to optical, that's your answer. 🔌\n\nAre you ready for optical compute?",
+  "carousel_slides": [
+    {
+      "hook": "Is copper wiring about to die?",
+      "description": "Copper wiring is hitting physical limits, so optical interconnects could replace it inside server rooms.",
+      "visual_hint": "Glowing fiber optic cables close-up",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "fiber optic cables"
+    },
+    {
+      "hook": "From screens to servers",
+      "description": "Morphotonics built display tech, and that manufacturing background now gives it an edge in optical interconnects.",
+      "visual_hint": "Split screen display and server",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "display screen",
+      "image": "https://images.pexels.com/photos/21391567/pexels-photo-21391567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The real prize is bandwidth",
+      "description": "Optical interconnects promise far more bandwidth per server, which could change how data centers are built.",
+      "visual_hint": "Macro shot of optical chip",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your cloud apps will speed up",
+      "description": "More bandwidth per server means your cloud apps and AI tools could run faster, and funding is already flowing.",
+      "visual_hint": "Hand holding glowing server drive",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you're behind",
+      "description": "Ask your cloud provider if they plan to adopt optical interconnects, and comment SAVE for more deep dives.",
+      "visual_hint": "Phone with cloud icon overlay",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "cloud computing",
+      "image": "https://images.pexels.com/photos/12899121/pexels-photo-12899121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Morphotonics.jpg?resize=1200,675",
+  "savedAt": "2026-09-22T07:04:42.896Z",
+  "sourceId": "ca657215131e70333929dcdef8efea41"
+}

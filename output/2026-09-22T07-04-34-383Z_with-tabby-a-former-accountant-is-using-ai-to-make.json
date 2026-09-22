@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "with-tabby-a-former-accountant-is-using-ai-to-make",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+  "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+  "pubDate": "Mon, 21 Sep 2026 16:38:51 +0000",
+  "slides": [
+    "Can Tabby make accountants obsolete?",
+    "Its founder was an accountant himself",
+    "But AI handles only part of the work",
+    "Your reconciliations could shrink from days to hours",
+    "Learn one AI tool for your workflow this week"
+  ],
+  "thread_text": [
+    "1. Can Tabby replace accountants?\n\nTabby is an AI tool built by a former accountant to automate bookkeeping. It's already handling reconciliations for some firms, but does it replace the human entirely?",
+    "2. Founder was an accountant\n\nHe got tired of endless reconciliation work, so he built an AI to do it. That insider perspective shaped Tabby to target the most repetitive tasks first.",
+    "3. But AI only does part\n\nTabby automates data entry and matching, but judgment calls, client questions, and complex reporting still need a human. It's a tool, not a replacement.",
+    "4. Days to hours\n\nReconciliations that used to take days now finish in hours. That speed frees accountants to focus on advisory work instead of manual matching.",
+    "5. Learn one AI tool\n\nPick one repetitive task in your workflow and try an AI tool this week. Does it actually save time, or just shift the work? Test it yourself."
+  ],
+  "video_script": [
+    "Can AI replace accountants? Meet Tabby.",
+    "Its founder was an accountant. He built it.",
+    "But AI handles only part of the work.",
+    "Reconciliations go from days to hours.",
+    "Learn one AI tool for your workflow this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can Tabby replace accountants?\n\nTabby is an AI tool built by a former accountant to automate bookkeeping. It's already handling reconciliations for some firms, but does it replace the human entirely?",
+        "2. Founder was an accountant\n\nHe got tired of endless reconciliation work, so he built an AI to do it. That insider perspective shaped Tabby to target the most repetitive tasks first.",
+        "3. But AI only does part\n\nTabby automates data entry and matching, but judgment calls, client questions, and complex reporting still need a human. It's a tool, not a replacement.",
+        "4. Days to hours\n\nReconciliations that used to take days now finish in hours. That speed frees accountants to focus on advisory work instead of manual matching.",
+        "5. Learn one AI tool\n\nPick one repetitive task in your workflow and try an AI tool this week. Does it actually save time, or just shift the work? Test it yourself."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can AI replace accountants? Meet Tabby.",
+        "Its founder was an accountant. He built it.",
+        "But AI handles only part of the work.",
+        "Reconciliations go from days to hours.",
+        "Learn one AI tool for your workflow this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Reconciliations that used to take days now finish in hours. ⏱️\n\nTabby is an AI tool built by a former accountant to automate bookkeeping for firms.\n\nThe founder did the job himself and got tired of endless manual matching — so he targeted the most repetitive tasks first.\n\nBut AI only handles part of it: data entry and matching. Judgment calls, client questions, and complex reporting still need a human. 🤝\n\nIf you work in finance, your reconciliation time can shrink from days to hours, freeing you for advisory work instead. 📊\n\nPick one repetitive task in your workflow this week and test an AI tool on it. Does it actually save time, or just shift the work? 🔍"
+    }
+  },
+  "instagram_caption": "Reconciliations that used to take days now finish in hours. ⏱️\n\nTabby is an AI tool built by a former accountant to automate bookkeeping for firms.\n\nThe founder did the job himself and got tired of endless manual matching — so he targeted the most repetitive tasks first.\n\nBut AI only handles part of it: data entry and matching. Judgment calls, client questions, and complex reporting still need a human. 🤝\n\nIf you work in finance, your reconciliation time can shrink from days to hours, freeing you for advisory work instead. 📊\n\nPick one repetitive task in your workflow this week and test an AI tool on it. Does it actually save time, or just shift the work? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "AI won't replace accountants, but this will",
+      "description": "Tabby automates reconciliations for accounting firms, yet judgment calls and client questions still require a human expert.",
+      "visual_hint": "Split screen human vs AI",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "office desk calculator"
+    },
+    {
+      "hook": "He was an accountant first",
+      "description": "The founder built Tabby after doing endless manual reconciliations, targeting the most repetitive tasks first.",
+      "visual_hint": "Man at desk with laptop",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "accountant working office",
+      "image": "https://images.pexels.com/photos/7654167/pexels-photo-7654167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI only does part of the job",
+      "description": "Tabby handles data entry and matching, but complex reporting and advisory work remain human territory.",
+      "visual_hint": "Robot hand and human hand",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robot arm factory",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Days of reconciliation become hours",
+      "description": "Tasks that took days now finish in hours, freeing accountants for higher-value advisory work.",
+      "visual_hint": "Clock hands spinning fast",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hourglass sand clock",
+      "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try one AI tool this week",
+      "description": "Pick a repetitive task in your workflow and test if AI actually saves time or just shifts work.",
+      "visual_hint": "Person typing on laptop",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop coffee desk",
+      "image": "https://images.pexels.com/photos/5942722/pexels-photo-5942722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1415313623-e1689969929952.jpg?resize=1200,800",
+  "savedAt": "2026-09-22T07:04:50.885Z",
+  "sourceId": "8a06f4e347265d618929e41e2074c073"
+}
