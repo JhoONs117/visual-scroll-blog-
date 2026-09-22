@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "un-says-ai-safeguards-can-t-wait-for-certainty",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "UN says AI safeguards can’t wait for certainty",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+  "pubDate": "2026-09-21T10:18:06.000Z",
+  "slides": [
+    "Can we govern AI before we understand it?",
+    "The UN says safeguards cannot wait for certainty",
+    "It wants rules even while evidence stays incomplete",
+    "Companies may face early compliance expectations anyway",
+    "Act before proof arrives, or react after harm"
+  ],
+  "thread_text": [
+    "1. Regulate Now, Understand Later\n\nThe UN says waiting for complete evidence on AI risks could be too late. Governments are being urged to act before they fully grasp what they're regulating.",
+    "2. Early Rules, Uncertain Science\n\nSafeguards can't wait for certainty, according to the UN. That means companies might face compliance expectations even while the evidence remains incomplete.",
+    "3. Companies Feel The Pressure\n\nFirms may need to follow new rules before regulators have a full picture. This puts businesses in the position of guessing what compliance will look like.",
+    "4. Act First, Or React After\n\nThe choice is stark: act before proof arrives, or react after harm. The UN is pushing for the former, even if it means imperfect rules.",
+    "5. Your Move, Test It\n\nTake a current AI tool you use. Ask yourself: what safeguards would you want in place before you trust it fully? If you don't have an answer, start there."
+  ],
+  "video_script": [
+    "Can we govern AI before we understand it?",
+    "The UN says safeguards cannot wait for certainty.",
+    "It wants rules even while evidence stays incomplete.",
+    "Companies may face early compliance expectations anyway.",
+    "Act before proof arrives, or react after harm."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Regulate Now, Understand Later\n\nThe UN says waiting for complete evidence on AI risks could be too late. Governments are being urged to act before they fully grasp what they're regulating.",
+        "2. Early Rules, Uncertain Science\n\nSafeguards can't wait for certainty, according to the UN. That means companies might face compliance expectations even while the evidence remains incomplete.",
+        "3. Companies Feel The Pressure\n\nFirms may need to follow new rules before regulators have a full picture. This puts businesses in the position of guessing what compliance will look like.",
+        "4. Act First, Or React After\n\nThe choice is stark: act before proof arrives, or react after harm. The UN is pushing for the former, even if it means imperfect rules.",
+        "5. Your Move, Test It\n\nTake a current AI tool you use. Ask yourself: what safeguards would you want in place before you trust it fully? If you don't have an answer, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can we govern AI before we understand it?",
+        "The UN says safeguards cannot wait for certainty.",
+        "It wants rules even while evidence stays incomplete.",
+        "Companies may face early compliance expectations anyway.",
+        "Act before proof arrives, or react after harm."
+      ]
+    },
+    "instagram": {
+      "caption": "The UN says governments shouldn't wait for full proof of AI risks before passing safeguards.\n\nThat means rules could arrive while scientists still disagree on what the risks actually are.\n\nCompanies might have to comply before regulators even know what full compliance looks like.\n\nIf you publish or build with AI, expect early rule changes before the evidence catches up. ⚖️\n\nThe choice they frame is simple: act before harm, or react after. 🧠\n\nWould you rather follow imperfect rules now, or wait and risk harm first? 🤔"
+    }
+  },
+  "instagram_caption": "The UN says governments shouldn't wait for full proof of AI risks before passing safeguards.\n\nThat means rules could arrive while scientists still disagree on what the risks actually are.\n\nCompanies might have to comply before regulators even know what full compliance looks like.\n\nIf you publish or build with AI, expect early rule changes before the evidence catches up. ⚖️\n\nThe choice they frame is simple: act before harm, or react after. 🧠\n\nWould you rather follow imperfect rules now, or wait and risk harm first? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can we govern what we don't understand?",
+      "description": "The UN warns that waiting for complete AI evidence could be too late — governments are urged to act now.",
+      "visual_hint": "Glowing AI brain with gavel shadow",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "artificial intelligence brain"
+    },
+    {
+      "hook": "Safeguards can't wait for certainty",
+      "description": "The UN says rules must exist even while evidence stays incomplete, forcing early compliance expectations on companies.",
+      "visual_hint": "Shield overlay on circuit board",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "circuit board closeup",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rules arrive before the proof",
+      "description": "Companies may face compliance duties while regulators still lack full evidence, leaving businesses to guess what's required.",
+      "visual_hint": "Uncertain data charts with question mark",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data chart screen",
+      "image": "https://images.pexels.com/photos/7948065/pexels-photo-7948065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Guess compliance, or wait for harm?",
+      "description": "Firms must follow new rules before regulators see the full picture — guessing what compliance will look like.",
+      "visual_hint": "Business hand holding policy document",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers meeting",
+      "image": "https://images.pexels.com/photos/12903171/pexels-photo-12903171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you trust AI",
+      "description": "Take one AI tool you use today and ask what safeguards you'd need before trusting it fully. Start there.",
+      "visual_hint": "Phone screen with AI safety checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone user hand",
+      "image": "https://images.pexels.com/photos/26772287/pexels-photo-26772287.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2234546269.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-22T20:41:26.826Z",
+  "sourceId": "13e93d540c1e658ac4fbaab0a58f9b8c"
+}

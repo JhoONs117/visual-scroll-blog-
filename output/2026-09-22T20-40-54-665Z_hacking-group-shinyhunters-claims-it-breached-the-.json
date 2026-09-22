@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "hacking-group-shinyhunters-claims-it-breached-the-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+  "link": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
+  "pubDate": "Tue, 22 Sep 2026 18:40:30 +0000",
+  "slides": [
+    "FBI hacked — but how deep did they get?",
+    "ShinyHunters says it stole agents' and applicants' data",
+    "The breach may expose undercover identities",
+    "If you applied, assume your data is already out",
+    "Check for leaks now — don't wait for the FBI"
+  ],
+  "thread_text": [
+    "1. FBI Breach: ShinyHunters Claims Stolen Agent Data\n\nThe hacker group says the stolen files include details on undercover agents and job applicants. This isn't just a privacy leak — it's a direct threat to operational security.",
+    "2. The Undercover Identity Risk\n\nIf an agent's cover is blown, it can put their life in danger. The breach may expose real names, addresses, and family connections of current and former personnel.",
+    "3. The Applicant Data Nightmare\n\nEven if you just applied years ago, your fingerprints, background checks, and personal info could be in the haul. ShinyHunters claims it has it all.",
+    "4. Assume Your Data Is Already Out\n\nDon't wait for an official notification. If you ever submitted an application, your sensitive details may already be circulating on dark web forums.",
+    "5. Check for Leaks Now — Don't Wait\n\nSearch your email on Have I Been Pwned or IdentityLeak.org. If your data is listed, change your passwords and freeze your credit today."
+  ],
+  "video_script": [
+    "The FBI has been hacked by ShinyHunters.",
+    "They stole data on agents and applicants.",
+    "Undercover identities may now be at risk.",
+    "If you applied, assume your data is out.",
+    "Check for leaks now, don't wait."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. FBI Breach: ShinyHunters Claims Stolen Agent Data\n\nThe hacker group says the stolen files include details on undercover agents and job applicants. This isn't just a privacy leak — it's a direct threat to operational security.",
+        "2. The Undercover Identity Risk\n\nIf an agent's cover is blown, it can put their life in danger. The breach may expose real names, addresses, and family connections of current and former personnel.",
+        "3. The Applicant Data Nightmare\n\nEven if you just applied years ago, your fingerprints, background checks, and personal info could be in the haul. ShinyHunters claims it has it all.",
+        "4. Assume Your Data Is Already Out\n\nDon't wait for an official notification. If you ever submitted an application, your sensitive details may already be circulating on dark web forums.",
+        "5. Check for Leaks Now — Don't Wait\n\nSearch your email on Have I Been Pwned or IdentityLeak.org. If your data is listed, change your passwords and freeze your credit today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "The FBI has been hacked by ShinyHunters.",
+        "They stole data on agents and applicants.",
+        "Undercover identities may now be at risk.",
+        "If you applied, assume your data is out.",
+        "Check for leaks now, don't wait."
+      ]
+    },
+    "instagram": {
+      "caption": "A hacker group says it stole data on current and former FBI agents — and people who just applied.\n\nShinyHunters claims the files include names, addresses and details that could blow undercover identities. 🕵️\n\nThat's not a privacy leak, that's a safety risk for real people.\n\nApplicants are in the haul too: fingerprints, background checks, the works.\n\nIf you ever applied, assume it's already on dark web forums — don't wait for an official letter. 🔒\n\nSearch your email on Have I Been Pwned today, change passwords, freeze your credit. Did you check yours yet?"
+    }
+  },
+  "instagram_caption": "A hacker group says it stole data on current and former FBI agents — and people who just applied.\n\nShinyHunters claims the files include names, addresses and details that could blow undercover identities. 🕵️\n\nThat's not a privacy leak, that's a safety risk for real people.\n\nApplicants are in the haul too: fingerprints, background checks, the works.\n\nIf you ever applied, assume it's already on dark web forums — don't wait for an official letter. 🔒\n\nSearch your email on Have I Been Pwned today, change passwords, freeze your credit. Did you check yours yet?",
+  "carousel_slides": [
+    {
+      "hook": "FBI Breach: Is Your Cover Blown?",
+      "description": "ShinyHunters claims it stole data on undercover agents; exposure could endanger lives and operational security.",
+      "visual_hint": "Dark server room with glowing red lights",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "ShinyHunters Says Agents' Data Stolen",
+      "description": "The group claims it has details on undercover agents and job applicants, threatening national security.",
+      "visual_hint": "Hacker silhouette typing on keyboard",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "hacker keyboard",
+      "image": "https://images.pexels.com/photos/5935786/pexels-photo-5935786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Undercover Identities Could Be Exposed",
+      "description": "If cover is blown, real names, addresses, and family connections of personnel may be at risk.",
+      "visual_hint": "Shadowy figure with hidden face",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "anonymous hacker",
+      "image": "https://images.pexels.com/photos/17788500/pexels-photo-17788500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Even Old Applicants' Data May Leak",
+      "description": "Fingerprints and background checks from years ago could be in the haul; assume your data is circulating.",
+      "visual_hint": "Stack of documents with personal info",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "documents pile",
+      "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check for Leaks Now — Don't Wait",
+      "description": "Search your email on Have I Been Pwned; if found, change passwords and freeze your credit immediately.",
+      "visual_hint": "Person checking phone with alert",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "phone alert",
+      "image": "https://images.pexels.com/photos/6034771/pexels-photo-6034771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/fbi-headquarters-2269711939.jpg?resize=1200,800",
+  "savedAt": "2026-09-22T20:41:10.874Z",
+  "sourceId": "7f7b416aab2f67fb4c79f54c1a30805e"
+}

@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "un-says-ai-safeguards-can-t-wait-for-certainty",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "UN says AI safeguards can’t wait for certainty",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+      "pubDate": "2026-09-21T10:18:06.000Z",
+      "slides": [
+        "Can we govern AI before we understand it?",
+        "The UN says safeguards cannot wait for certainty",
+        "It wants rules even while evidence stays incomplete",
+        "Companies may face early compliance expectations anyway",
+        "Act before proof arrives, or react after harm"
+      ],
+      "thread_text": [
+        "1. Regulate Now, Understand Later\n\nThe UN says waiting for complete evidence on AI risks could be too late. Governments are being urged to act before they fully grasp what they're regulating.",
+        "2. Early Rules, Uncertain Science\n\nSafeguards can't wait for certainty, according to the UN. That means companies might face compliance expectations even while the evidence remains incomplete.",
+        "3. Companies Feel The Pressure\n\nFirms may need to follow new rules before regulators have a full picture. This puts businesses in the position of guessing what compliance will look like.",
+        "4. Act First, Or React After\n\nThe choice is stark: act before proof arrives, or react after harm. The UN is pushing for the former, even if it means imperfect rules.",
+        "5. Your Move, Test It\n\nTake a current AI tool you use. Ask yourself: what safeguards would you want in place before you trust it fully? If you don't have an answer, start there."
+      ],
+      "video_script": [
+        "Can we govern AI before we understand it?",
+        "The UN says safeguards cannot wait for certainty.",
+        "It wants rules even while evidence stays incomplete.",
+        "Companies may face early compliance expectations anyway.",
+        "Act before proof arrives, or react after harm."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Regulate Now, Understand Later\n\nThe UN says waiting for complete evidence on AI risks could be too late. Governments are being urged to act before they fully grasp what they're regulating.",
+            "2. Early Rules, Uncertain Science\n\nSafeguards can't wait for certainty, according to the UN. That means companies might face compliance expectations even while the evidence remains incomplete.",
+            "3. Companies Feel The Pressure\n\nFirms may need to follow new rules before regulators have a full picture. This puts businesses in the position of guessing what compliance will look like.",
+            "4. Act First, Or React After\n\nThe choice is stark: act before proof arrives, or react after harm. The UN is pushing for the former, even if it means imperfect rules.",
+            "5. Your Move, Test It\n\nTake a current AI tool you use. Ask yourself: what safeguards would you want in place before you trust it fully? If you don't have an answer, start there."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Can we govern AI before we understand it?",
+            "The UN says safeguards cannot wait for certainty.",
+            "It wants rules even while evidence stays incomplete.",
+            "Companies may face early compliance expectations anyway.",
+            "Act before proof arrives, or react after harm."
+          ]
+        },
+        "instagram": {
+          "caption": "The UN says governments shouldn't wait for full proof of AI risks before passing safeguards.\n\nThat means rules could arrive while scientists still disagree on what the risks actually are.\n\nCompanies might have to comply before regulators even know what full compliance looks like.\n\nIf you publish or build with AI, expect early rule changes before the evidence catches up. ⚖️\n\nThe choice they frame is simple: act before harm, or react after. 🧠\n\nWould you rather follow imperfect rules now, or wait and risk harm first? 🤔"
+        }
+      },
+      "instagram_caption": "The UN says governments shouldn't wait for full proof of AI risks before passing safeguards.\n\nThat means rules could arrive while scientists still disagree on what the risks actually are.\n\nCompanies might have to comply before regulators even know what full compliance looks like.\n\nIf you publish or build with AI, expect early rule changes before the evidence catches up. ⚖️\n\nThe choice they frame is simple: act before harm, or react after. 🧠\n\nWould you rather follow imperfect rules now, or wait and risk harm first? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Can we govern what we don't understand?",
+          "description": "The UN warns that waiting for complete AI evidence could be too late — governments are urged to act now.",
+          "visual_hint": "Glowing AI brain with gavel shadow",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "artificial intelligence brain"
+        },
+        {
+          "hook": "Safeguards can't wait for certainty",
+          "description": "The UN says rules must exist even while evidence stays incomplete, forcing early compliance expectations on companies.",
+          "visual_hint": "Shield overlay on circuit board",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "circuit board closeup",
+          "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rules arrive before the proof",
+          "description": "Companies may face compliance duties while regulators still lack full evidence, leaving businesses to guess what's required.",
+          "visual_hint": "Uncertain data charts with question mark",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "data chart screen",
+          "image": "https://images.pexels.com/photos/7948065/pexels-photo-7948065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Guess compliance, or wait for harm?",
+          "description": "Firms must follow new rules before regulators see the full picture — guessing what compliance will look like.",
+          "visual_hint": "Business hand holding policy document",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers meeting",
+          "image": "https://images.pexels.com/photos/12903171/pexels-photo-12903171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before you trust AI",
+          "description": "Take one AI tool you use today and ask what safeguards you'd need before trusting it fully. Start there.",
+          "visual_hint": "Phone screen with AI safety checklist",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone user hand",
+          "image": "https://images.pexels.com/photos/26772287/pexels-photo-26772287.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2234546269.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-09-22T20:41:26.826Z",
+      "sourceId": "13e93d540c1e658ac4fbaab0a58f9b8c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "hacking-group-shinyhunters-claims-it-breached-the-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+      "link": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
+      "pubDate": "Tue, 22 Sep 2026 18:40:30 +0000",
+      "slides": [
+        "FBI hacked — but how deep did they get?",
+        "ShinyHunters says it stole agents' and applicants' data",
+        "The breach may expose undercover identities",
+        "If you applied, assume your data is already out",
+        "Check for leaks now — don't wait for the FBI"
+      ],
+      "thread_text": [
+        "1. FBI Breach: ShinyHunters Claims Stolen Agent Data\n\nThe hacker group says the stolen files include details on undercover agents and job applicants. This isn't just a privacy leak — it's a direct threat to operational security.",
+        "2. The Undercover Identity Risk\n\nIf an agent's cover is blown, it can put their life in danger. The breach may expose real names, addresses, and family connections of current and former personnel.",
+        "3. The Applicant Data Nightmare\n\nEven if you just applied years ago, your fingerprints, background checks, and personal info could be in the haul. ShinyHunters claims it has it all.",
+        "4. Assume Your Data Is Already Out\n\nDon't wait for an official notification. If you ever submitted an application, your sensitive details may already be circulating on dark web forums.",
+        "5. Check for Leaks Now — Don't Wait\n\nSearch your email on Have I Been Pwned or IdentityLeak.org. If your data is listed, change your passwords and freeze your credit today."
+      ],
+      "video_script": [
+        "The FBI has been hacked by ShinyHunters.",
+        "They stole data on agents and applicants.",
+        "Undercover identities may now be at risk.",
+        "If you applied, assume your data is out.",
+        "Check for leaks now, don't wait."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. FBI Breach: ShinyHunters Claims Stolen Agent Data\n\nThe hacker group says the stolen files include details on undercover agents and job applicants. This isn't just a privacy leak — it's a direct threat to operational security.",
+            "2. The Undercover Identity Risk\n\nIf an agent's cover is blown, it can put their life in danger. The breach may expose real names, addresses, and family connections of current and former personnel.",
+            "3. The Applicant Data Nightmare\n\nEven if you just applied years ago, your fingerprints, background checks, and personal info could be in the haul. ShinyHunters claims it has it all.",
+            "4. Assume Your Data Is Already Out\n\nDon't wait for an official notification. If you ever submitted an application, your sensitive details may already be circulating on dark web forums.",
+            "5. Check for Leaks Now — Don't Wait\n\nSearch your email on Have I Been Pwned or IdentityLeak.org. If your data is listed, change your passwords and freeze your credit today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "The FBI has been hacked by ShinyHunters.",
+            "They stole data on agents and applicants.",
+            "Undercover identities may now be at risk.",
+            "If you applied, assume your data is out.",
+            "Check for leaks now, don't wait."
+          ]
+        },
+        "instagram": {
+          "caption": "A hacker group says it stole data on current and former FBI agents — and people who just applied.\n\nShinyHunters claims the files include names, addresses and details that could blow undercover identities. 🕵️\n\nThat's not a privacy leak, that's a safety risk for real people.\n\nApplicants are in the haul too: fingerprints, background checks, the works.\n\nIf you ever applied, assume it's already on dark web forums — don't wait for an official letter. 🔒\n\nSearch your email on Have I Been Pwned today, change passwords, freeze your credit. Did you check yours yet?"
+        }
+      },
+      "instagram_caption": "A hacker group says it stole data on current and former FBI agents — and people who just applied.\n\nShinyHunters claims the files include names, addresses and details that could blow undercover identities. 🕵️\n\nThat's not a privacy leak, that's a safety risk for real people.\n\nApplicants are in the haul too: fingerprints, background checks, the works.\n\nIf you ever applied, assume it's already on dark web forums — don't wait for an official letter. 🔒\n\nSearch your email on Have I Been Pwned today, change passwords, freeze your credit. Did you check yours yet?",
+      "carousel_slides": [
+        {
+          "hook": "FBI Breach: Is Your Cover Blown?",
+          "description": "ShinyHunters claims it stole data on undercover agents; exposure could endanger lives and operational security.",
+          "visual_hint": "Dark server room with glowing red lights",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "ShinyHunters Says Agents' Data Stolen",
+          "description": "The group claims it has details on undercover agents and job applicants, threatening national security.",
+          "visual_hint": "Hacker silhouette typing on keyboard",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "hacker keyboard",
+          "image": "https://images.pexels.com/photos/5935786/pexels-photo-5935786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Undercover Identities Could Be Exposed",
+          "description": "If cover is blown, real names, addresses, and family connections of personnel may be at risk.",
+          "visual_hint": "Shadowy figure with hidden face",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "anonymous hacker",
+          "image": "https://images.pexels.com/photos/17788500/pexels-photo-17788500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Even Old Applicants' Data May Leak",
+          "description": "Fingerprints and background checks from years ago could be in the haul; assume your data is circulating.",
+          "visual_hint": "Stack of documents with personal info",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "documents pile",
+          "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check for Leaks Now — Don't Wait",
+          "description": "Search your email on Have I Been Pwned; if found, change passwords and freeze your credit immediately.",
+          "visual_hint": "Person checking phone with alert",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "phone alert",
+          "image": "https://images.pexels.com/photos/6034771/pexels-photo-6034771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/fbi-headquarters-2269711939.jpg?resize=1200,800",
+      "savedAt": "2026-09-22T20:41:10.874Z",
+      "sourceId": "7f7b416aab2f67fb4c79f54c1a30805e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "qualcomm-launches-two-new-smartphone-chips-with-em",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "pubDate": "Tue, 22 Sep 2026 20:00:00 +0000",
+      "slides": [
+        "Qualcomm's new chips: will AI make smartphones obsolete?",
+        "Two chips unveiled: Snapdragon 8 Gen 3 and 7+ Gen 3.",
+        "But the AI runs entirely on-device, no cloud needed.",
+        "This means faster, private AI apps on your next phone.",
+        "Check if your carrier supports these chips before upgrading."
+      ],
+      "thread_text": [
+        "1. AI on your phone, no cloud\n\nQualcomm's new Snapdragon 8 Gen 3 and 7+ Gen 3 run AI entirely on-device. No internet needed for voice, translation, or photo edits.",
+        "2. Two chips, one big shift\n\nThe 8 Gen 3 handles flagship speed, while 7+ Gen 3 brings on-device AI to mid-range phones. Both process data locally, not in a server farm.",
+        "3. Privacy that actually works\n\nYour voice recordings and photos never leave your phone. That means no data leaks, no cloud delays, and apps that respond instantly.",
+        "4. Your next phone will think\n\nExpect faster, smarter apps on upcoming Android devices. But not every carrier will support these chips right away.",
+        "5. Check your carrier first\n\nBefore you upgrade, ask: will my carrier support these Snapdragon chips? If not, you might pay for AI features you can't use."
+      ],
+      "video_script": [
+        "Qualcomm just launched two AI chips for phones.",
+        "They run AI on your device, no cloud.",
+        "That means faster and more private apps.",
+        "But your carrier might not support them yet.",
+        "Check before you buy your next phone."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI on your phone, no cloud\n\nQualcomm's new Snapdragon 8 Gen 3 and 7+ Gen 3 run AI entirely on-device. No internet needed for voice, translation, or photo edits.",
+            "2. Two chips, one big shift\n\nThe 8 Gen 3 handles flagship speed, while 7+ Gen 3 brings on-device AI to mid-range phones. Both process data locally, not in a server farm.",
+            "3. Privacy that actually works\n\nYour voice recordings and photos never leave your phone. That means no data leaks, no cloud delays, and apps that respond instantly.",
+            "4. Your next phone will think\n\nExpect faster, smarter apps on upcoming Android devices. But not every carrier will support these chips right away.",
+            "5. Check your carrier first\n\nBefore you upgrade, ask: will my carrier support these Snapdragon chips? If not, you might pay for AI features you can't use."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Qualcomm just launched two AI chips for phones.",
+            "They run AI on your device, no cloud.",
+            "That means faster and more private apps.",
+            "But your carrier might not support them yet.",
+            "Check before you buy your next phone."
+          ]
+        },
+        "instagram": {
+          "caption": "Two new Snapdragon chips run AI without sending your voice or photos anywhere.\n\nThe 8 Gen 3 powers flagship phones, the 7+ Gen 3 brings the same on-device processing to mid-range models. 🚀\n\nEverything stays local: no cloud, no upload delays, no data leaks.\n\nIf you edit photos or record voice notes for work, your apps get faster and your files never leave your device. 🔒\n\nBut some carriers won't support these chips right away. ⚠️\n\nBefore you upgrade, will you check if your carrier actually supports them? 📱"
+        }
+      },
+      "instagram_caption": "Two new Snapdragon chips run AI without sending your voice or photos anywhere.\n\nThe 8 Gen 3 powers flagship phones, the 7+ Gen 3 brings the same on-device processing to mid-range models. 🚀\n\nEverything stays local: no cloud, no upload delays, no data leaks.\n\nIf you edit photos or record voice notes for work, your apps get faster and your files never leave your device. 🔒\n\nBut some carriers won't support these chips right away. ⚠️\n\nBefore you upgrade, will you check if your carrier actually supports them? 📱",
+      "carousel_slides": [
+        {
+          "hook": "Will AI make smartphones obsolete?",
+          "description": "Qualcomm's new Snapdragon chips run AI entirely on-device, no cloud needed. Your voice, translation, and photos stay local.",
+          "visual_hint": "Smartphone with glowing AI chip overlay",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone circuit board"
+        },
+        {
+          "hook": "Two chips, two tiers, one shift",
+          "description": "Snapdragon 8 Gen 3 powers flagships; 7+ Gen 3 brings on-device AI to mid-range phones. Both process data locally.",
+          "visual_hint": "Two microchips side by side comparison",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "microchip processor closeup",
+          "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Privacy that never leaves your phone",
+          "description": "Voice recordings and photos never hit a server, meaning no cloud leaks, no delays, and instant app responses.",
+          "visual_hint": "Phone shield icon protecting data",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "data security lock",
+          "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your next phone will think faster",
+          "description": "Upcoming Android devices get smarter, quicker AI apps. But not every carrier will support these chips right away.",
+          "visual_hint": "Hand holding smartphone with AI glow",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your carrier before upgrading",
+          "description": "Ask if your carrier supports Snapdragon 8 Gen 3 or 7+ Gen 3, or you'll pay for AI features you can't use.",
+          "visual_hint": "Phone screen showing carrier compatibility check",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "mobile phone store",
+          "image": "https://images.pexels.com/photos/7661069/pexels-photo-7661069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/assets_2026_09_1789671614_Snapdragon-8-Elite-Extreme-Gen-6-and-Snapdragon-8-Elite-Gen-6-Image-2-Embargo-Sep-22-10am-HT-1pm-PT.jpg?resize=1200,675",
+      "savedAt": "2026-09-22T20:41:02.533Z",
+      "sourceId": "f5417683ef6a173a6da9ba9f448d57a4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "meta-patches-muse-exploit-that-let-attackers-contr",
       "prompt_version": "1.0.0",
       "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "qualcomm-launches-two-new-smartphone-chips-with-em",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+  "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+  "pubDate": "Tue, 22 Sep 2026 20:00:00 +0000",
+  "slides": [
+    "Qualcomm's new chips: will AI make smartphones obsolete?",
+    "Two chips unveiled: Snapdragon 8 Gen 3 and 7+ Gen 3.",
+    "But the AI runs entirely on-device, no cloud needed.",
+    "This means faster, private AI apps on your next phone.",
+    "Check if your carrier supports these chips before upgrading."
+  ],
+  "thread_text": [
+    "1. AI on your phone, no cloud\n\nQualcomm's new Snapdragon 8 Gen 3 and 7+ Gen 3 run AI entirely on-device. No internet needed for voice, translation, or photo edits.",
+    "2. Two chips, one big shift\n\nThe 8 Gen 3 handles flagship speed, while 7+ Gen 3 brings on-device AI to mid-range phones. Both process data locally, not in a server farm.",
+    "3. Privacy that actually works\n\nYour voice recordings and photos never leave your phone. That means no data leaks, no cloud delays, and apps that respond instantly.",
+    "4. Your next phone will think\n\nExpect faster, smarter apps on upcoming Android devices. But not every carrier will support these chips right away.",
+    "5. Check your carrier first\n\nBefore you upgrade, ask: will my carrier support these Snapdragon chips? If not, you might pay for AI features you can't use."
+  ],
+  "video_script": [
+    "Qualcomm just launched two AI chips for phones.",
+    "They run AI on your device, no cloud.",
+    "That means faster and more private apps.",
+    "But your carrier might not support them yet.",
+    "Check before you buy your next phone."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI on your phone, no cloud\n\nQualcomm's new Snapdragon 8 Gen 3 and 7+ Gen 3 run AI entirely on-device. No internet needed for voice, translation, or photo edits.",
+        "2. Two chips, one big shift\n\nThe 8 Gen 3 handles flagship speed, while 7+ Gen 3 brings on-device AI to mid-range phones. Both process data locally, not in a server farm.",
+        "3. Privacy that actually works\n\nYour voice recordings and photos never leave your phone. That means no data leaks, no cloud delays, and apps that respond instantly.",
+        "4. Your next phone will think\n\nExpect faster, smarter apps on upcoming Android devices. But not every carrier will support these chips right away.",
+        "5. Check your carrier first\n\nBefore you upgrade, ask: will my carrier support these Snapdragon chips? If not, you might pay for AI features you can't use."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Qualcomm just launched two AI chips for phones.",
+        "They run AI on your device, no cloud.",
+        "That means faster and more private apps.",
+        "But your carrier might not support them yet.",
+        "Check before you buy your next phone."
+      ]
+    },
+    "instagram": {
+      "caption": "Two new Snapdragon chips run AI without sending your voice or photos anywhere.\n\nThe 8 Gen 3 powers flagship phones, the 7+ Gen 3 brings the same on-device processing to mid-range models. 🚀\n\nEverything stays local: no cloud, no upload delays, no data leaks.\n\nIf you edit photos or record voice notes for work, your apps get faster and your files never leave your device. 🔒\n\nBut some carriers won't support these chips right away. ⚠️\n\nBefore you upgrade, will you check if your carrier actually supports them? 📱"
+    }
+  },
+  "instagram_caption": "Two new Snapdragon chips run AI without sending your voice or photos anywhere.\n\nThe 8 Gen 3 powers flagship phones, the 7+ Gen 3 brings the same on-device processing to mid-range models. 🚀\n\nEverything stays local: no cloud, no upload delays, no data leaks.\n\nIf you edit photos or record voice notes for work, your apps get faster and your files never leave your device. 🔒\n\nBut some carriers won't support these chips right away. ⚠️\n\nBefore you upgrade, will you check if your carrier actually supports them? 📱",
+  "carousel_slides": [
+    {
+      "hook": "Will AI make smartphones obsolete?",
+      "description": "Qualcomm's new Snapdragon chips run AI entirely on-device, no cloud needed. Your voice, translation, and photos stay local.",
+      "visual_hint": "Smartphone with glowing AI chip overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone circuit board"
+    },
+    {
+      "hook": "Two chips, two tiers, one shift",
+      "description": "Snapdragon 8 Gen 3 powers flagships; 7+ Gen 3 brings on-device AI to mid-range phones. Both process data locally.",
+      "visual_hint": "Two microchips side by side comparison",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "microchip processor closeup",
+      "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Privacy that never leaves your phone",
+      "description": "Voice recordings and photos never hit a server, meaning no cloud leaks, no delays, and instant app responses.",
+      "visual_hint": "Phone shield icon protecting data",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data security lock",
+      "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your next phone will think faster",
+      "description": "Upcoming Android devices get smarter, quicker AI apps. But not every carrier will support these chips right away.",
+      "visual_hint": "Hand holding smartphone with AI glow",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your carrier before upgrading",
+      "description": "Ask if your carrier supports Snapdragon 8 Gen 3 or 7+ Gen 3, or you'll pay for AI features you can't use.",
+      "visual_hint": "Phone screen showing carrier compatibility check",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "mobile phone store",
+      "image": "https://images.pexels.com/photos/7661069/pexels-photo-7661069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/assets_2026_09_1789671614_Snapdragon-8-Elite-Extreme-Gen-6-and-Snapdragon-8-Elite-Gen-6-Image-2-Embargo-Sep-22-10am-HT-1pm-PT.jpg?resize=1200,675",
+  "savedAt": "2026-09-22T20:41:02.533Z",
+  "sourceId": "f5417683ef6a173a6da9ba9f448d57a4"
+}
