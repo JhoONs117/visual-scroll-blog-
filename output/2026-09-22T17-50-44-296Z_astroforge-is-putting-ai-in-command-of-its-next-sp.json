@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "astroforge-is-putting-ai-in-command-of-its-next-sp",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AstroForge is putting AI in command of its next spacecraft",
+  "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+  "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
+  "slides": [
+    "AstroForge's next spacecraft: can AI fly it safely?",
+    "The asteroid-mining startup will let AI navigate and make decisions.",
+    "But AI's decisions will go through 10-second human veto window.",
+    "This shift means mission control must trust algorithms in real time.",
+    "If you work in ops, start rehearsing human-AI handoffs now."
+  ],
+  "thread_text": [
+    "1. AI flies, humans veto\n\nAstroForge's next asteroid-mining spacecraft will let AI navigate and make decisions, but every call goes through a 10-second human veto window.",
+    "2. The 10-second gap\n\nThat window is the entire safety net. If the AI makes a wrong move, mission control has ten seconds to catch it and override.",
+    "3. Trust in real time\n\nOperators must now trust algorithms live, not after the fact. The shift turns mission control into a human-AI handoff team.",
+    "4. Training gap\n\nMost ops teams have never rehearsed a 10-second veto. The asteroid-mining startup is betting they can learn fast enough.",
+    "5. Rehearse the handoff\n\nRun a drill today: give a teammate a 10-second window to veto a simulated AI decision. If you haven't done it, start there."
+  ],
+  "video_script": [
+    "AstroForge's next spacecraft will let AI fly and decide.",
+    "But every AI call gets a ten-second human veto window.",
+    "That window is the only safety net mission control has.",
+    "Operators must trust algorithms in real time, not later.",
+    "If you work in ops, rehearse human-AI handoffs today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI flies, humans veto\n\nAstroForge's next asteroid-mining spacecraft will let AI navigate and make decisions, but every call goes through a 10-second human veto window.",
+        "2. The 10-second gap\n\nThat window is the entire safety net. If the AI makes a wrong move, mission control has ten seconds to catch it and override.",
+        "3. Trust in real time\n\nOperators must now trust algorithms live, not after the fact. The shift turns mission control into a human-AI handoff team.",
+        "4. Training gap\n\nMost ops teams have never rehearsed a 10-second veto. The asteroid-mining startup is betting they can learn fast enough.",
+        "5. Rehearse the handoff\n\nRun a drill today: give a teammate a 10-second window to veto a simulated AI decision. If you haven't done it, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AstroForge's next spacecraft will let AI fly and decide.",
+        "But every AI call gets a ten-second human veto window.",
+        "That window is the only safety net mission control has.",
+        "Operators must trust algorithms in real time, not later.",
+        "If you work in ops, rehearse human-AI handoffs today."
+      ]
+    },
+    "instagram": {
+      "caption": "Ten seconds. That's the entire safety net between an AI decision and a wrong move in space.\n\nAstroForge's next asteroid-mining spacecraft will let AI navigate and call the shots, with mission control holding a 10-second veto window on every decision. 🚀\n\nThat means operators now trust algorithms live, not after the fact — and most ops teams have never rehearsed a handoff that fast.\n\nIf you run a control room, your job just became real-time algorithm supervision. 🧠\n\nRun the drill today: hand a teammate a simulated AI call and give them 10 seconds to veto it. ⏱️\n\nIf you miss the window, who catches it?"
+    }
+  },
+  "instagram_caption": "Ten seconds. That's the entire safety net between an AI decision and a wrong move in space.\n\nAstroForge's next asteroid-mining spacecraft will let AI navigate and call the shots, with mission control holding a 10-second veto window on every decision. 🚀\n\nThat means operators now trust algorithms live, not after the fact — and most ops teams have never rehearsed a handoff that fast.\n\nIf you run a control room, your job just became real-time algorithm supervision. 🧠\n\nRun the drill today: hand a teammate a simulated AI call and give them 10 seconds to veto it. ⏱️\n\nIf you miss the window, who catches it?",
+  "carousel_slides": [
+    {
+      "hook": "Ten seconds to stop an AI mistake?",
+      "description": "AstroForge's asteroid-mining spacecraft lets AI decide, but every call faces a 10-second human veto window.",
+      "visual_hint": "Spacecraft cockpit with countdown timer",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "spacecraft cockpit"
+    },
+    {
+      "hook": "AI will fly the next spacecraft",
+      "description": "The startup hands navigation and decisions to AI, removing humans from the real-time loop entirely.",
+      "visual_hint": "AI interface on spacecraft control panel",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "control panel",
+      "image": "https://images.pexels.com/photos/39255983/pexels-photo-39255983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Only ten seconds to override",
+      "description": "That narrow window is the entire safety net: a wrong AI move needs catching and reversing instantly.",
+      "visual_hint": "Countdown clock on mission control screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "countdown clock",
+      "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Mission control must trust live algorithms",
+      "description": "Operators now trust AI in real time, not after the fact, turning mission control into a human-AI handoff team.",
+      "visual_hint": "Operators watching live algorithm dashboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "mission control room",
+      "image": "https://images.pexels.com/photos/7663142/pexels-photo-7663142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Start rehearsing your human-AI handoffs now",
+      "description": "Run a drill today: give a teammate 10 seconds to veto a simulated AI decision. Save this if your team hasn't.",
+      "visual_hint": "Team practicing veto drill in office",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office team training",
+      "image": "https://images.pexels.com/photos/7648468/pexels-photo-7648468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+  "savedAt": "2026-09-22T17:51:04.164Z",
+  "sourceId": "63278f8d0a1c84a7d70a5ad4385d7012"
+}

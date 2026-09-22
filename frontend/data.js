@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "meta-patches-muse-exploit-that-let-attackers-contr",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta patches Muse exploit that let attackers control the AI agent",
+    "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+    "pubDate": "2026-09-22T11:53:58.000Z",
+    "slides": [
+      "Meta's Muse AI can be hijacked. By whom?",
+      "An exploit let attackers seize full agent control",
+      "The flaw wasn't a crash — it was silent obedience",
+      "Your own agent could be turned against you",
+      "Patch now, then ask: who else is listening?"
+    ],
+    "thread_text": [
+      "1. Who's really in control?\n\nMeta's Muse AI can be hijacked by attackers. An exploit gave them full agent control, and the flaw was silent obedience.",
+      "2. Silent obedience is worse\n\nThe AI didn't crash or flag an error—it just obeyed malicious commands. That means no alarm, no trace, just compliance.",
+      "3. Your agent, their weapon\n\nIf your own AI assistant can be turned against you, it could leak data, send messages, or take actions you never approved.",
+      "4. The patch is just the start\n\nMeta fixed this flaw, but the same pattern could exist in other AI agents. Who else is listening to your prompts?",
+      "5. Test your AI today\n\nTake a prompt injection test on your own agent. If it follows a hidden instruction, you're not in control. Patch now, then ask: who else is listening?"
+    ],
+    "video_script": [
+      "Meta's Muse AI can be hijacked by attackers.",
+      "An exploit gave them full control over the agent.",
+      "The flaw wasn't a crash, it was silent obedience.",
+      "Your own agent could be turned against you.",
+      "Patch now, then ask: who else is listening?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who's really in control?\n\nMeta's Muse AI can be hijacked by attackers. An exploit gave them full agent control, and the flaw was silent obedience.",
+          "2. Silent obedience is worse\n\nThe AI didn't crash or flag an error—it just obeyed malicious commands. That means no alarm, no trace, just compliance.",
+          "3. Your agent, their weapon\n\nIf your own AI assistant can be turned against you, it could leak data, send messages, or take actions you never approved.",
+          "4. The patch is just the start\n\nMeta fixed this flaw, but the same pattern could exist in other AI agents. Who else is listening to your prompts?",
+          "5. Test your AI today\n\nTake a prompt injection test on your own agent. If it follows a hidden instruction, you're not in control. Patch now, then ask: who else is listening?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta's Muse AI can be hijacked by attackers.",
+          "An exploit gave them full control over the agent.",
+          "The flaw wasn't a crash, it was silent obedience.",
+          "Your own agent could be turned against you.",
+          "Patch now, then ask: who else is listening?"
+        ]
+      },
+      "instagram": {
+        "caption": "An exploit gave attackers full control of Meta's Muse AI agent.\n\nIt didn't crash or throw an error. It just obeyed malicious commands. No alarm, no trace. 😳\n\nThat means your own AI assistant could leak data, send messages, or take actions you never approved.\n\nMeta shipped a patch, but the same silent-obedience pattern may live in other agents you already use.\n\nIf your agent follows a hidden instruction, you're not in control. 🚨\n\nWould you even notice if yours got hijacked today?\n\nTest one hidden prompt injection on your agent before you trust it again. 🔍"
+      }
+    },
+    "instagram_caption": "An exploit gave attackers full control of Meta's Muse AI agent.\n\nIt didn't crash or throw an error. It just obeyed malicious commands. No alarm, no trace. 😳\n\nThat means your own AI assistant could leak data, send messages, or take actions you never approved.\n\nMeta shipped a patch, but the same silent-obedience pattern may live in other agents you already use.\n\nIf your agent follows a hidden instruction, you're not in control. 🚨\n\nWould you even notice if yours got hijacked today?\n\nTest one hidden prompt injection on your agent before you trust it again. 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Your AI obeys hidden commands silently",
+        "description": "Meta's Muse AI was hijacked by an exploit granting attackers full agent control. The flaw was silent obedience, not a crash.",
+        "visual_hint": "Glowing AI interface with shadowy hand",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Attackers seized full agent control",
+        "description": "An exploit let attackers take complete command of Meta's Muse, turning a trusted AI into a tool for malicious actions.",
+        "visual_hint": "Hacker silhouette over glowing keyboard",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "hacker keyboard",
+        "image": "https://images.pexels.com/photos/5935786/pexels-photo-5935786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No crash, no alarm, just obedience",
+        "description": "The AI didn't flag an error or stop. It simply followed malicious instructions without any alert or trace.",
+        "visual_hint": "Silent robot hand reaching forward",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "robot hand",
+        "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your own assistant could betray you",
+        "description": "If your AI agent is hijacked, it could leak data, send messages, or act without your approval.",
+        "visual_hint": "Person using phone with shadow behind",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person smartphone",
+        "image": "https://images.pexels.com/photos/4006531/pexels-photo-4006531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Patch now, then test your AI",
+        "description": "Run a prompt injection test on your agent. If it follows hidden instructions, you're not in control. Save this and check your setup.",
+        "visual_hint": "Hand tapping patch button on screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "software update screen",
+        "image": "https://images.pexels.com/photos/17789079/pexels-photo-17789079.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+    "savedAt": "2026-09-22T17:51:19.635Z",
+    "sourceId": "d25222ba0d0d26f82366cfcaf6675bbb"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "nscale-s-ipo-will-test-wall-street-s-appetite-for-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+    "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+    "pubDate": "Tue, 22 Sep 2026 12:23:05 +0000",
+    "slides": [
+      "Nscale's IPO: Wall Street's AI gamble, again?",
+      "The British data center firm sells AI compute.",
+      "Yet 80% of its revenue comes from one client.",
+      "If that client walks, the IPO could collapse.",
+      "Read the prospectus's customer concentration risk before investing."
+    ],
+    "thread_text": [
+      "1. Wall Street's AI Gamble, Again?\n\nNscale just filed for an IPO. It sells AI compute from British data centers. But 80% of its revenue comes from a single client.",
+      "2. One Client, Most Revenue\n\nThat means if the client leaves, the business is essentially gone. The prospectus flags this as a major risk.",
+      "3. What Happens If They Walk?\n\nThe IPO could collapse. Investors are betting on a house of cards built on one relationship.",
+      "4. The Prospectus Warning\n\nCustomer concentration risk is buried in the fine print. It's a red flag you can't ignore.",
+      "5. Read Before You Invest\n\nOpen Nscale's prospectus and search for 'customer concentration.' If you haven't done it, start there."
+    ],
+    "video_script": [
+      "Nscale files for IPO, selling AI compute.",
+      "Eighty percent revenue from one client.",
+      "If that client leaves, IPO collapses.",
+      "Prospectus warns customer concentration risk.",
+      "Read it before you invest a dollar."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Wall Street's AI Gamble, Again?\n\nNscale just filed for an IPO. It sells AI compute from British data centers. But 80% of its revenue comes from a single client.",
+          "2. One Client, Most Revenue\n\nThat means if the client leaves, the business is essentially gone. The prospectus flags this as a major risk.",
+          "3. What Happens If They Walk?\n\nThe IPO could collapse. Investors are betting on a house of cards built on one relationship.",
+          "4. The Prospectus Warning\n\nCustomer concentration risk is buried in the fine print. It's a red flag you can't ignore.",
+          "5. Read Before You Invest\n\nOpen Nscale's prospectus and search for 'customer concentration.' If you haven't done it, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nscale files for IPO, selling AI compute.",
+          "Eighty percent revenue from one client.",
+          "If that client leaves, IPO collapses.",
+          "Prospectus warns customer concentration risk.",
+          "Read it before you invest a dollar."
+        ]
+      },
+      "instagram": {
+        "caption": "80% of one company's revenue comes from a single client. That's Nscale, a British data center firm selling AI compute, now filing for an IPO. 📉\n\nIf that client walks, the business is basically gone. The prospectus flags this as customer concentration risk.\n\nWall Street is betting on it anyway. 🔍\n\nFor anyone building or publishing with AI tools, this matters: your compute provider's stability isn't guaranteed just because they're going public.\n\nBefore you trust a new AI infrastructure name, do you actually check who their revenue depends on? ⚠️"
+      }
+    },
+    "instagram_caption": "80% of one company's revenue comes from a single client. That's Nscale, a British data center firm selling AI compute, now filing for an IPO. 📉\n\nIf that client walks, the business is basically gone. The prospectus flags this as customer concentration risk.\n\nWall Street is betting on it anyway. 🔍\n\nFor anyone building or publishing with AI tools, this matters: your compute provider's stability isn't guaranteed just because they're going public.\n\nBefore you trust a new AI infrastructure name, do you actually check who their revenue depends on? ⚠️",
+    "carousel_slides": [
+      {
+        "hook": "80% of revenue from one client?",
+        "description": "Nscale's IPO exposes a huge risk: if its single client leaves, the business is essentially gone.",
+        "visual_hint": "Single glowing server rack in dark data center",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "One client, most revenue",
+        "description": "The British data center firm sells AI compute, but nearly all its income depends on one unidentified customer.",
+        "visual_hint": "Split screen: data center vs single contract",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "If that client walks, then what?",
+        "description": "The prospectus flags customer concentration as a major risk, and the IPO could collapse overnight.",
+        "visual_hint": "Fragile tower of cards on stock chart",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prospectus warning buried in fine print",
+        "description": "Investors are betting on a house of cards built on one relationship, and the warning is easy to miss.",
+        "visual_hint": "Hand holding magnifying glass over document",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "magnifying glass document",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Read this before you invest",
+        "description": "Open Nscale's prospectus and search for 'customer concentration'. Then decide if the risk is worth it.",
+        "visual_hint": "Prospectus with highlighted risk section and pen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "financial prospectus",
+        "image": "https://images.pexels.com/photos/7567445/pexels-photo-7567445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
+    "savedAt": "2026-09-22T17:51:11.577Z",
+    "sourceId": "020fc8cb0d6ecf06cbafa09254c23d87"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "astroforge-is-putting-ai-in-command-of-its-next-sp",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AstroForge is putting AI in command of its next spacecraft",
+    "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+    "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
+    "slides": [
+      "AstroForge's next spacecraft: can AI fly it safely?",
+      "The asteroid-mining startup will let AI navigate and make decisions.",
+      "But AI's decisions will go through 10-second human veto window.",
+      "This shift means mission control must trust algorithms in real time.",
+      "If you work in ops, start rehearsing human-AI handoffs now."
+    ],
+    "thread_text": [
+      "1. AI flies, humans veto\n\nAstroForge's next asteroid-mining spacecraft will let AI navigate and make decisions, but every call goes through a 10-second human veto window.",
+      "2. The 10-second gap\n\nThat window is the entire safety net. If the AI makes a wrong move, mission control has ten seconds to catch it and override.",
+      "3. Trust in real time\n\nOperators must now trust algorithms live, not after the fact. The shift turns mission control into a human-AI handoff team.",
+      "4. Training gap\n\nMost ops teams have never rehearsed a 10-second veto. The asteroid-mining startup is betting they can learn fast enough.",
+      "5. Rehearse the handoff\n\nRun a drill today: give a teammate a 10-second window to veto a simulated AI decision. If you haven't done it, start there."
+    ],
+    "video_script": [
+      "AstroForge's next spacecraft will let AI fly and decide.",
+      "But every AI call gets a ten-second human veto window.",
+      "That window is the only safety net mission control has.",
+      "Operators must trust algorithms in real time, not later.",
+      "If you work in ops, rehearse human-AI handoffs today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI flies, humans veto\n\nAstroForge's next asteroid-mining spacecraft will let AI navigate and make decisions, but every call goes through a 10-second human veto window.",
+          "2. The 10-second gap\n\nThat window is the entire safety net. If the AI makes a wrong move, mission control has ten seconds to catch it and override.",
+          "3. Trust in real time\n\nOperators must now trust algorithms live, not after the fact. The shift turns mission control into a human-AI handoff team.",
+          "4. Training gap\n\nMost ops teams have never rehearsed a 10-second veto. The asteroid-mining startup is betting they can learn fast enough.",
+          "5. Rehearse the handoff\n\nRun a drill today: give a teammate a 10-second window to veto a simulated AI decision. If you haven't done it, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AstroForge's next spacecraft will let AI fly and decide.",
+          "But every AI call gets a ten-second human veto window.",
+          "That window is the only safety net mission control has.",
+          "Operators must trust algorithms in real time, not later.",
+          "If you work in ops, rehearse human-AI handoffs today."
+        ]
+      },
+      "instagram": {
+        "caption": "Ten seconds. That's the entire safety net between an AI decision and a wrong move in space.\n\nAstroForge's next asteroid-mining spacecraft will let AI navigate and call the shots, with mission control holding a 10-second veto window on every decision. 🚀\n\nThat means operators now trust algorithms live, not after the fact — and most ops teams have never rehearsed a handoff that fast.\n\nIf you run a control room, your job just became real-time algorithm supervision. 🧠\n\nRun the drill today: hand a teammate a simulated AI call and give them 10 seconds to veto it. ⏱️\n\nIf you miss the window, who catches it?"
+      }
+    },
+    "instagram_caption": "Ten seconds. That's the entire safety net between an AI decision and a wrong move in space.\n\nAstroForge's next asteroid-mining spacecraft will let AI navigate and call the shots, with mission control holding a 10-second veto window on every decision. 🚀\n\nThat means operators now trust algorithms live, not after the fact — and most ops teams have never rehearsed a handoff that fast.\n\nIf you run a control room, your job just became real-time algorithm supervision. 🧠\n\nRun the drill today: hand a teammate a simulated AI call and give them 10 seconds to veto it. ⏱️\n\nIf you miss the window, who catches it?",
+    "carousel_slides": [
+      {
+        "hook": "Ten seconds to stop an AI mistake?",
+        "description": "AstroForge's asteroid-mining spacecraft lets AI decide, but every call faces a 10-second human veto window.",
+        "visual_hint": "Spacecraft cockpit with countdown timer",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "spacecraft cockpit"
+      },
+      {
+        "hook": "AI will fly the next spacecraft",
+        "description": "The startup hands navigation and decisions to AI, removing humans from the real-time loop entirely.",
+        "visual_hint": "AI interface on spacecraft control panel",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "control panel",
+        "image": "https://images.pexels.com/photos/39255983/pexels-photo-39255983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Only ten seconds to override",
+        "description": "That narrow window is the entire safety net: a wrong AI move needs catching and reversing instantly.",
+        "visual_hint": "Countdown clock on mission control screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "countdown clock",
+        "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Mission control must trust live algorithms",
+        "description": "Operators now trust AI in real time, not after the fact, turning mission control into a human-AI handoff team.",
+        "visual_hint": "Operators watching live algorithm dashboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "mission control room",
+        "image": "https://images.pexels.com/photos/7663142/pexels-photo-7663142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Start rehearsing your human-AI handoffs now",
+        "description": "Run a drill today: give a teammate 10 seconds to veto a simulated AI decision. Save this if your team hasn't.",
+        "visual_hint": "Team practicing veto drill in office",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office team training",
+        "image": "https://images.pexels.com/photos/7648468/pexels-photo-7648468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+    "savedAt": "2026-09-22T17:51:04.164Z",
+    "sourceId": "63278f8d0a1c84a7d70a5ad4385d7012"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "toyota-s-6-4bn-robotics-estimate-puts-physical-ai-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Toyota’s $6.4bn robotics estimate puts physical AI in focus",
+    "link": "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/",
+    "pubDate": "Tue, 22 Sep 2026 10:00:00 +0000",
+    "slides": [
+      "Why is Toyota betting $6.4bn on robots?",
+      "Physical AI means machines that learn by doing",
+      "Most factories still can't handle unpredictable tasks",
+      "Your warehouse robots may soon adapt without reprogramming",
+      "One test: list tasks your robots can't do today"
+    ],
+    "thread_text": [
+      "1. Toyota's $6.4B Bet\n\nIt's not about cars. The company just placed the largest single wager on robots that learn on the job instead of following scripts.",
+      "2. Why Now?\n\nBecause software finally lets machines improve through trial and error. Physical AI stops being a research paper and starts being a product line.",
+      "3. The Factory Floor Truth\n\nMost automation still breaks on anything unusual. One misaligned part and the line stops. That's the gap Toyota is buying into.",
+      "4. Your Warehouse Next\n\nRobots that adapt without reprogramming mean fewer engineers on standby. The same shift hits logistics, agriculture, and small workshops.",
+      "5. Your Turn\n\nWrite down three tasks your team does that a robot can't handle today. If you can't name one, you're already behind. What's on your list?"
+    ],
+    "video_script": [
+      "Toyota just bet six point four billion dollars on robots.",
+      "These machines learn by doing, not by following scripts.",
+      "Most factories still break when something unexpected happens.",
+      "Your warehouse robots might soon adapt without reprogramming.",
+      "List tasks your robots cannot do today. Start there."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Toyota's $6.4B Bet\n\nIt's not about cars. The company just placed the largest single wager on robots that learn on the job instead of following scripts.",
+          "2. Why Now?\n\nBecause software finally lets machines improve through trial and error. Physical AI stops being a research paper and starts being a product line.",
+          "3. The Factory Floor Truth\n\nMost automation still breaks on anything unusual. One misaligned part and the line stops. That's the gap Toyota is buying into.",
+          "4. Your Warehouse Next\n\nRobots that adapt without reprogramming mean fewer engineers on standby. The same shift hits logistics, agriculture, and small workshops.",
+          "5. Your Turn\n\nWrite down three tasks your team does that a robot can't handle today. If you can't name one, you're already behind. What's on your list?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Toyota just bet six point four billion dollars on robots.",
+          "These machines learn by doing, not by following scripts.",
+          "Most factories still break when something unexpected happens.",
+          "Your warehouse robots might soon adapt without reprogramming.",
+          "List tasks your robots cannot do today. Start there."
+        ]
+      },
+      "instagram": {
+        "caption": "$6.4 billion is going into robots that learn on the job, not cars — Toyota just made its biggest bet yet on physical AI. 🤖\n\nMost factory automation still breaks the moment something is misaligned or unusual. The line just stops.\n\nPhysical AI fixes that: machines that improve through trial and error instead of following a fixed script.\n\nFor anyone creating or publishing content, this is the shift to watch — the same technology moving into warehouses, logistics, and small workshops.\n\nIf your work touches automation or operations, ask yourself: what tasks on your team can no robot do today? 🧠\n\nWrite down three. If you can’t name one, you’re already behind. ⚙️"
+      }
+    },
+    "instagram_caption": "$6.4 billion is going into robots that learn on the job, not cars — Toyota just made its biggest bet yet on physical AI. 🤖\n\nMost factory automation still breaks the moment something is misaligned or unusual. The line just stops.\n\nPhysical AI fixes that: machines that improve through trial and error instead of following a fixed script.\n\nFor anyone creating or publishing content, this is the shift to watch — the same technology moving into warehouses, logistics, and small workshops.\n\nIf your work touches automation or operations, ask yourself: what tasks on your team can no robot do today? 🧠\n\nWrite down three. If you can’t name one, you’re already behind. ⚙️",
+    "carousel_slides": [
+      {
+        "hook": "Why is Toyota betting $6.4bn on robots?",
+        "description": "Toyota places the largest single wager on machines that learn on the job, not follow scripts. It's about cars? No.",
+        "visual_hint": "Robot arm in factory",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "factory robot"
+      },
+      {
+        "hook": "Physical AI: machines that learn by doing",
+        "description": "Software now lets machines improve through trial and error, turning physical AI from research papers into product lines.",
+        "visual_hint": "Robot training in lab",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "robot arm",
+        "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Factories still break on unpredictable tasks",
+        "description": "Most automation fails on anything unusual. One misaligned part stops the line—that's the gap Toyota is buying into.",
+        "visual_hint": "Misaligned part on conveyor",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "conveyor belt",
+        "image": "https://images.pexels.com/photos/10039991/pexels-photo-10039991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your warehouse robots may soon adapt",
+        "description": "Robots that adapt without reprogramming mean fewer engineers on standby. The same shift hits logistics, agriculture, and small workshops.",
+        "visual_hint": "Warehouse robot moving shelves",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "warehouse robot",
+        "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "List tasks your robots can't do today",
+        "description": "Write down three tasks your team does that a robot can't handle today. If you can't name one, you're already behind. Save this.",
+        "visual_hint": "Person writing on notepad",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "notepad pen",
+        "image": "https://images.pexels.com/photos/7657385/pexels-photo-7657385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-09-22T17:50:53.446Z",
+    "sourceId": "0371209520cc9d11ab701cd167123d84"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "amazon-blocks-meta-s-muse-ai-agent",
     "prompt_version": "1.0.0",
     "status": "published",

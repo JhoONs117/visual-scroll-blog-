@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "toyota-s-6-4bn-robotics-estimate-puts-physical-ai-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Toyota’s $6.4bn robotics estimate puts physical AI in focus",
+  "link": "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/",
+  "pubDate": "Tue, 22 Sep 2026 10:00:00 +0000",
+  "slides": [
+    "Why is Toyota betting $6.4bn on robots?",
+    "Physical AI means machines that learn by doing",
+    "Most factories still can't handle unpredictable tasks",
+    "Your warehouse robots may soon adapt without reprogramming",
+    "One test: list tasks your robots can't do today"
+  ],
+  "thread_text": [
+    "1. Toyota's $6.4B Bet\n\nIt's not about cars. The company just placed the largest single wager on robots that learn on the job instead of following scripts.",
+    "2. Why Now?\n\nBecause software finally lets machines improve through trial and error. Physical AI stops being a research paper and starts being a product line.",
+    "3. The Factory Floor Truth\n\nMost automation still breaks on anything unusual. One misaligned part and the line stops. That's the gap Toyota is buying into.",
+    "4. Your Warehouse Next\n\nRobots that adapt without reprogramming mean fewer engineers on standby. The same shift hits logistics, agriculture, and small workshops.",
+    "5. Your Turn\n\nWrite down three tasks your team does that a robot can't handle today. If you can't name one, you're already behind. What's on your list?"
+  ],
+  "video_script": [
+    "Toyota just bet six point four billion dollars on robots.",
+    "These machines learn by doing, not by following scripts.",
+    "Most factories still break when something unexpected happens.",
+    "Your warehouse robots might soon adapt without reprogramming.",
+    "List tasks your robots cannot do today. Start there."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Toyota's $6.4B Bet\n\nIt's not about cars. The company just placed the largest single wager on robots that learn on the job instead of following scripts.",
+        "2. Why Now?\n\nBecause software finally lets machines improve through trial and error. Physical AI stops being a research paper and starts being a product line.",
+        "3. The Factory Floor Truth\n\nMost automation still breaks on anything unusual. One misaligned part and the line stops. That's the gap Toyota is buying into.",
+        "4. Your Warehouse Next\n\nRobots that adapt without reprogramming mean fewer engineers on standby. The same shift hits logistics, agriculture, and small workshops.",
+        "5. Your Turn\n\nWrite down three tasks your team does that a robot can't handle today. If you can't name one, you're already behind. What's on your list?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Toyota just bet six point four billion dollars on robots.",
+        "These machines learn by doing, not by following scripts.",
+        "Most factories still break when something unexpected happens.",
+        "Your warehouse robots might soon adapt without reprogramming.",
+        "List tasks your robots cannot do today. Start there."
+      ]
+    },
+    "instagram": {
+      "caption": "$6.4 billion is going into robots that learn on the job, not cars — Toyota just made its biggest bet yet on physical AI. 🤖\n\nMost factory automation still breaks the moment something is misaligned or unusual. The line just stops.\n\nPhysical AI fixes that: machines that improve through trial and error instead of following a fixed script.\n\nFor anyone creating or publishing content, this is the shift to watch — the same technology moving into warehouses, logistics, and small workshops.\n\nIf your work touches automation or operations, ask yourself: what tasks on your team can no robot do today? 🧠\n\nWrite down three. If you can’t name one, you’re already behind. ⚙️"
+    }
+  },
+  "instagram_caption": "$6.4 billion is going into robots that learn on the job, not cars — Toyota just made its biggest bet yet on physical AI. 🤖\n\nMost factory automation still breaks the moment something is misaligned or unusual. The line just stops.\n\nPhysical AI fixes that: machines that improve through trial and error instead of following a fixed script.\n\nFor anyone creating or publishing content, this is the shift to watch — the same technology moving into warehouses, logistics, and small workshops.\n\nIf your work touches automation or operations, ask yourself: what tasks on your team can no robot do today? 🧠\n\nWrite down three. If you can’t name one, you’re already behind. ⚙️",
+  "carousel_slides": [
+    {
+      "hook": "Why is Toyota betting $6.4bn on robots?",
+      "description": "Toyota places the largest single wager on machines that learn on the job, not follow scripts. It's about cars? No.",
+      "visual_hint": "Robot arm in factory",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "factory robot"
+    },
+    {
+      "hook": "Physical AI: machines that learn by doing",
+      "description": "Software now lets machines improve through trial and error, turning physical AI from research papers into product lines.",
+      "visual_hint": "Robot training in lab",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot arm",
+      "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Factories still break on unpredictable tasks",
+      "description": "Most automation fails on anything unusual. One misaligned part stops the line—that's the gap Toyota is buying into.",
+      "visual_hint": "Misaligned part on conveyor",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "conveyor belt",
+      "image": "https://images.pexels.com/photos/10039991/pexels-photo-10039991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your warehouse robots may soon adapt",
+      "description": "Robots that adapt without reprogramming mean fewer engineers on standby. The same shift hits logistics, agriculture, and small workshops.",
+      "visual_hint": "Warehouse robot moving shelves",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "warehouse robot",
+      "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "List tasks your robots can't do today",
+      "description": "Write down three tasks your team does that a robot can't handle today. If you can't name one, you're already behind. Save this.",
+      "visual_hint": "Person writing on notepad",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "notepad pen",
+      "image": "https://images.pexels.com/photos/7657385/pexels-photo-7657385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-22T17:50:53.446Z",
+  "sourceId": "0371209520cc9d11ab701cd167123d84"
+}
