@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "iphone-owners-can-now-submit-claims-in-apple-s-250",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+  "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+  "pubDate": "2026-09-21T13:36:52.000Z",
+  "slides": [
+    "Did Apple mislead you about Siri's AI?",
+    "A $250 million settlement is now open.",
+    "You might get a payout without proof of harm.",
+    "File at the official claims site by the deadline.",
+    "Check your eligibility today, don't wait."
+  ],
+  "thread_text": [
+    "1. Apple's Siri settlement\n\nA $250 million payout is now open for iPhone owners. No proof of harm needed to claim your share.",
+    "2. Who qualifies for cash\n\nIf you owned an iPhone with Siri between 2014 and 2021, you may be eligible. The settlement covers misleading AI claims.",
+    "3. No harm proof required\n\nYou don't need to show you were actually misled. Just having the device during the covered period is enough.",
+    "4. Deadline approaching\n\nClaims must be filed at the official site before the cutoff. Missing it means forfeiting your payout.",
+    "5. Check eligibility now\n\nGo to the official claims site and enter your device info. Takes two minutes — don't wait until it's too late."
+  ],
+  "video_script": [
+    "Did Apple mislead you about Siri's AI?",
+    "A 250 million dollar settlement is now open.",
+    "You might get paid without proof of harm.",
+    "File at the official claims site by the deadline.",
+    "Check your eligibility today. Don't wait."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Apple's Siri settlement\n\nA $250 million payout is now open for iPhone owners. No proof of harm needed to claim your share.",
+        "2. Who qualifies for cash\n\nIf you owned an iPhone with Siri between 2014 and 2021, you may be eligible. The settlement covers misleading AI claims.",
+        "3. No harm proof required\n\nYou don't need to show you were actually misled. Just having the device during the covered period is enough.",
+        "4. Deadline approaching\n\nClaims must be filed at the official site before the cutoff. Missing it means forfeiting your payout.",
+        "5. Check eligibility now\n\nGo to the official claims site and enter your device info. Takes two minutes — don't wait until it's too late."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Did Apple mislead you about Siri's AI?",
+        "A 250 million dollar settlement is now open.",
+        "You might get paid without proof of harm.",
+        "File at the official claims site by the deadline.",
+        "Check your eligibility today. Don't wait."
+      ]
+    },
+    "instagram": {
+      "caption": "Owned an iPhone with Siri between 2014 and 2021? You can now claim cash from Apple's $250 million settlement. 📱\n\nApple was accused of misleading people about Siri's AI. Now the payout is open, and you don't need to prove you were misled. 💰\n\nOwning the device during the covered period is enough. Claims go through the official site before the deadline. ⏳\n\nIf you made content or relied on Siri for work back then, this is money sitting unclaimed. Don't skip it.\n\nCheck your eligibility now — it takes two minutes. Are you filing before the cutoff? 👀"
+    }
+  },
+  "instagram_caption": "Owned an iPhone with Siri between 2014 and 2021? You can now claim cash from Apple's $250 million settlement. 📱\n\nApple was accused of misleading people about Siri's AI. Now the payout is open, and you don't need to prove you were misled. 💰\n\nOwning the device during the covered period is enough. Claims go through the official site before the deadline. ⏳\n\nIf you made content or relied on Siri for work back then, this is money sitting unclaimed. Don't skip it.\n\nCheck your eligibility now — it takes two minutes. Are you filing before the cutoff? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Did Siri lie to you for years?",
+      "description": "Apple's $250 million Siri settlement is open. If you owned a Siri iPhone between 2014 and 2021, you may qualify.",
+      "visual_hint": "iPhone with Siri glowing screen",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "iPhone Siri"
+    },
+    {
+      "hook": "$250 million now up for grabs",
+      "description": "No proof of harm needed to claim your share. Just having the device during the covered period is enough.",
+      "visual_hint": "Stack of cash on table",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "dollar bills",
+      "image": "https://images.pexels.com/photos/13668628/pexels-photo-13668628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No proof required to claim",
+      "description": "You don't need to show you were misled. Device ownership during the covered period is sufficient.",
+      "visual_hint": "Hand holding iPhone closeup",
+      "layout_type": "sensor-zoom",
+      "icon": "check",
+      "image_query": "smartphone hand",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The deadline won't wait for you",
+      "description": "Claims must be filed at the official site before the cutoff. Miss it and forfeit your payout entirely.",
+      "visual_hint": "Calendar with red circle",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "calendar deadline",
+      "image": "https://images.pexels.com/photos/8962466/pexels-photo-8962466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your eligibility right now",
+      "description": "Visit the official claims site, enter your device info, and file. Takes two minutes — do it today.",
+      "visual_hint": "Laptop showing claim form",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop website form",
+      "image": "https://images.pexels.com/photos/18096282/pexels-photo-18096282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC08433.webp?quality=90&amp;strip=all&amp;crop=0%2C11.097693417406%2C100%2C77.804613165189&amp;w=1200",
+  "savedAt": "2026-09-22T00:25:52.657Z",
+  "sourceId": "93b84abf7bbda6f32ac7b7e94e3123cb"
+}

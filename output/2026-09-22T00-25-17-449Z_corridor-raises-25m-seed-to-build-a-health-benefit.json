@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "corridor-raises-25m-seed-to-build-a-health-benefit",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
+  "link": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
+  "pubDate": "Mon, 21 Sep 2026 13:49:00 +0000",
+  "slides": [
+    "Can Corridor's $25M seed crack SMB health benefits?",
+    "The startup is a health benefits brokerage targeting small businesses.",
+    "Most SMBs overspend by 20% without knowing it.",
+    "You could lower premiums by switching to Corridor's platform.",
+    "Audit your current: you might save thousands."
+  ],
+  "thread_text": [
+    "1. The $25M question\n\nCorridor just raised a seed round to fix health benefits for small businesses. Most SMBs are overpaying by 20% without realizing it.",
+    "2. Why SMBs get crushed\n\nSmall businesses lack the bargaining power of large employers. Brokers often ignore them because commissions are too small.",
+    "3. The 20% hidden tax\n\nThat overspend isn't random — it's baked into renewals. Employees feel it in deductibles while owners see it in margins.",
+    "4. A platform play\n\nCorridor wants to automate the brokerage layer. Switch to their platform and premiums could drop.",
+    "5. Check your own numbers\n\nPull your last renewal notice and compare it to market rates. If you're off by double digits, start there."
+  ],
+  "video_script": [
+    "Corridor just raised twenty five million dollars.",
+    "They're a health benefits broker for small businesses.",
+    "Most small businesses overspend by twenty percent.",
+    "Switching to Corridor could lower your premiums.",
+    "Audit your current plan and save thousands."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $25M question\n\nCorridor just raised a seed round to fix health benefits for small businesses. Most SMBs are overpaying by 20% without realizing it.",
+        "2. Why SMBs get crushed\n\nSmall businesses lack the bargaining power of large employers. Brokers often ignore them because commissions are too small.",
+        "3. The 20% hidden tax\n\nThat overspend isn't random — it's baked into renewals. Employees feel it in deductibles while owners see it in margins.",
+        "4. A platform play\n\nCorridor wants to automate the brokerage layer. Switch to their platform and premiums could drop.",
+        "5. Check your own numbers\n\nPull your last renewal notice and compare it to market rates. If you're off by double digits, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Corridor just raised twenty five million dollars.",
+        "They're a health benefits broker for small businesses.",
+        "Most small businesses overspend by twenty percent.",
+        "Switching to Corridor could lower your premiums.",
+        "Audit your current plan and save thousands."
+      ]
+    },
+    "instagram": {
+      "caption": "Small businesses overpay health premiums by 20% without knowing it 💸\n\nCorridor raised $25M to build a benefits brokerage just for them.\n\nBrokers skip small clients because commissions are tiny, so owners get stuck with inflated renewals.\n\nCorridor automates that layer and claims premiums can drop if you switch.\n\nIf you handle benefits for a small team, pull your last renewal notice and compare it to market rates 📄\n\nA double-digit gap means real money out of your margin.\n\nWhen did you last check what you're actually paying for?"
+    }
+  },
+  "instagram_caption": "Small businesses overpay health premiums by 20% without knowing it 💸\n\nCorridor raised $25M to build a benefits brokerage just for them.\n\nBrokers skip small clients because commissions are tiny, so owners get stuck with inflated renewals.\n\nCorridor automates that layer and claims premiums can drop if you switch.\n\nIf you handle benefits for a small team, pull your last renewal notice and compare it to market rates 📄\n\nA double-digit gap means real money out of your margin.\n\nWhen did you last check what you're actually paying for?",
+  "carousel_slides": [
+    {
+      "hook": "Are you overpaying for health benefits?",
+      "description": "Most SMBs overspend by 20% on health benefits without knowing, quietly eroding margins and raising deductibles.",
+      "visual_hint": "Close-up of a health insurance bill",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "health insurance bill"
+    },
+    {
+      "hook": "Small businesses lack bargaining power",
+      "description": "Brokers often ignore SMBs because commissions are too small, leaving them with worse deals than large employers.",
+      "visual_hint": "Small business owner looking frustrated",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "small business owner",
+      "image": "https://images.pexels.com/photos/14933973/pexels-photo-14933973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The 20% hidden tax on renewals",
+      "description": "That overspend isn't random—it's baked into renewals. Employees feel it in deductibles, owners in margins.",
+      "visual_hint": "Stack of renewal notices with red numbers",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "renewal notice document",
+      "image": "https://images.pexels.com/photos/7926653/pexels-photo-7926653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Corridor automates the brokerage layer",
+      "description": "Corridor wants to automate health benefits brokerage. Switching to their platform could lower premiums for SMBs.",
+      "visual_hint": "Dashboard showing premium reduction",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "laptop dashboard finance",
+      "image": "https://images.pexels.com/photos/7681671/pexels-photo-7681671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your own renewal numbers now",
+      "description": "Pull your last renewal notice, compare to market rates, and if you're off by double digits, start saving today.",
+      "visual_hint": "Person comparing documents with calculator",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person calculator documents",
+      "image": "https://images.pexels.com/photos/8297030/pexels-photo-8297030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/1787270050672.jpg?resize=1200,800",
+  "savedAt": "2026-09-22T00:25:44.581Z",
+  "sourceId": "10defbfb15c04bb10cc0f34a1beb1351"
+}

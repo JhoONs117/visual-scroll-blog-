@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "kairos-power-gets-up-to-100m-from-samsung-group-to",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+  "link": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
+  "pubDate": "Mon, 21 Sep 2026 18:23:05 +0000",
+  "slides": [
+    "Can Kairos Power's nuclear reactor power Google?",
+    "It just got $100M from Samsung group",
+    "The reactor uses molten salt cooling, not water",
+    "This enables factory-built modular reactors for data centers",
+    "One action: watch for first deployment by 2030"
+  ],
+  "thread_text": [
+    "1. Google's Nuclear Bet\n\nKairos Power just secured $100M from Samsung Group to build molten-salt cooled nuclear reactors — the first real test of whether Big Tech's energy crisis can be solved by advanced nuclear.",
+    "2. Samsung's $100M Signal\n\nThe investment isn't just capital — it's a validation from a major industrial player that factory-built reactors can scale. Google's power needs are growing faster than renewables can cover.",
+    "3. Water-Free Cooling\n\nMolten salt cooling replaces the need for massive water supplies, enabling reactors to be built almost anywhere — including near data centers. That changes the geography of energy.",
+    "4. Modular by Design\n\nThese reactors are small enough to be factory-assembled and shipped to site. That means faster, cheaper deployment — exactly what AI data centers need as demand surges.",
+    "5. 2030 Deadline\n\nOne action: mark 2030 in your calendar. If Kairos hits its first deployment target, it will be the moment nuclear becomes a real option for tech. Watch this space."
+  ],
+  "video_script": [
+    "Google's power crisis might have a nuclear answer.",
+    "Samsung just put one hundred million dollars behind it.",
+    "This reactor uses molten salt, not water.",
+    "So it can be factory-built and shipped anywhere.",
+    "Watch for its first deployment by twenty thirty."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Google's Nuclear Bet\n\nKairos Power just secured $100M from Samsung Group to build molten-salt cooled nuclear reactors — the first real test of whether Big Tech's energy crisis can be solved by advanced nuclear.",
+        "2. Samsung's $100M Signal\n\nThe investment isn't just capital — it's a validation from a major industrial player that factory-built reactors can scale. Google's power needs are growing faster than renewables can cover.",
+        "3. Water-Free Cooling\n\nMolten salt cooling replaces the need for massive water supplies, enabling reactors to be built almost anywhere — including near data centers. That changes the geography of energy.",
+        "4. Modular by Design\n\nThese reactors are small enough to be factory-assembled and shipped to site. That means faster, cheaper deployment — exactly what AI data centers need as demand surges.",
+        "5. 2030 Deadline\n\nOne action: mark 2030 in your calendar. If Kairos hits its first deployment target, it will be the moment nuclear becomes a real option for tech. Watch this space."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google's power crisis might have a nuclear answer.",
+        "Samsung just put one hundred million dollars behind it.",
+        "This reactor uses molten salt, not water.",
+        "So it can be factory-built and shipped anywhere.",
+        "Watch for its first deployment by twenty thirty."
+      ]
+    },
+    "instagram": {
+      "caption": "Google’s data centers could soon run on nuclear reactors cooled by molten salt instead of water. ⚡\n\nKairos Power just got up to $100M from Samsung Group to build them.\n\nMolten salt cooling means no massive water supply needed — reactors can sit almost anywhere, including next to data centers.\n\nThey’re factory-built and modular, so deployment is faster and cheaper. First target: 2030.\n\nIf you publish or create with AI, the energy crunch behind your tools just got a new possible fix. 🔋\n\nWould you trust a reactor built specifically to power your AI workflows? 🤔"
+    }
+  },
+  "instagram_caption": "Google’s data centers could soon run on nuclear reactors cooled by molten salt instead of water. ⚡\n\nKairos Power just got up to $100M from Samsung Group to build them.\n\nMolten salt cooling means no massive water supply needed — reactors can sit almost anywhere, including next to data centers.\n\nThey’re factory-built and modular, so deployment is faster and cheaper. First target: 2030.\n\nIf you publish or create with AI, the energy crunch behind your tools just got a new possible fix. 🔋\n\nWould you trust a reactor built specifically to power your AI workflows? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Nuclear power for Google: real or hype?",
+      "description": "Kairos Power secured $100M from Samsung Group to build molten-salt nuclear reactors for Google's data centers.",
+      "visual_hint": "Nuclear reactor core glowing",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "nuclear reactor"
+    },
+    {
+      "hook": "Samsung's $100M bet on nuclear",
+      "description": "Samsung Group invested up to $100M in Kairos Power, validating factory-built reactors as a scalable energy solution for Big Tech.",
+      "visual_hint": "Samsung logo on building",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "Samsung headquarters",
+      "image": "https://images.pexels.com/photos/19279351/pexels-photo-19279351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Molten salt cooling changes everything",
+      "description": "Kairos reactors use molten salt instead of water, enabling deployment near data centers without massive water supplies.",
+      "visual_hint": "Molten salt glowing orange",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "molten salt",
+      "image": "https://images.pexels.com/photos/36423791/pexels-photo-36423791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Factory-built reactors for data centers",
+      "description": "Modular reactors are small enough to be factory-assembled and shipped, allowing faster, cheaper deployment for AI data centers.",
+      "visual_hint": "Modular reactor in factory",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory assembly line",
+      "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: nuclear by 2030",
+      "description": "Mark 2030 in your calendar. If Kairos hits its first deployment, nuclear becomes a real option for tech. Follow for updates.",
+      "visual_hint": "Calendar with 2030 circled",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar 2030",
+      "image": "https://images.pexels.com/photos/5417629/pexels-photo-5417629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-531153042-e1729096517914.jpeg?resize=1200,660",
+  "savedAt": "2026-09-22T00:25:35.770Z",
+  "sourceId": "e608e843a8ffafb4534b550afa5105de"
+}

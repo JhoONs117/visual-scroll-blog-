@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "iphone-owners-can-now-submit-claims-in-apple-s-250",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+    "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+    "pubDate": "2026-09-21T13:36:52.000Z",
+    "slides": [
+      "Did Apple mislead you about Siri's AI?",
+      "A $250 million settlement is now open.",
+      "You might get a payout without proof of harm.",
+      "File at the official claims site by the deadline.",
+      "Check your eligibility today, don't wait."
+    ],
+    "thread_text": [
+      "1. Apple's Siri settlement\n\nA $250 million payout is now open for iPhone owners. No proof of harm needed to claim your share.",
+      "2. Who qualifies for cash\n\nIf you owned an iPhone with Siri between 2014 and 2021, you may be eligible. The settlement covers misleading AI claims.",
+      "3. No harm proof required\n\nYou don't need to show you were actually misled. Just having the device during the covered period is enough.",
+      "4. Deadline approaching\n\nClaims must be filed at the official site before the cutoff. Missing it means forfeiting your payout.",
+      "5. Check eligibility now\n\nGo to the official claims site and enter your device info. Takes two minutes — don't wait until it's too late."
+    ],
+    "video_script": [
+      "Did Apple mislead you about Siri's AI?",
+      "A 250 million dollar settlement is now open.",
+      "You might get paid without proof of harm.",
+      "File at the official claims site by the deadline.",
+      "Check your eligibility today. Don't wait."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Apple's Siri settlement\n\nA $250 million payout is now open for iPhone owners. No proof of harm needed to claim your share.",
+          "2. Who qualifies for cash\n\nIf you owned an iPhone with Siri between 2014 and 2021, you may be eligible. The settlement covers misleading AI claims.",
+          "3. No harm proof required\n\nYou don't need to show you were actually misled. Just having the device during the covered period is enough.",
+          "4. Deadline approaching\n\nClaims must be filed at the official site before the cutoff. Missing it means forfeiting your payout.",
+          "5. Check eligibility now\n\nGo to the official claims site and enter your device info. Takes two minutes — don't wait until it's too late."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Did Apple mislead you about Siri's AI?",
+          "A 250 million dollar settlement is now open.",
+          "You might get paid without proof of harm.",
+          "File at the official claims site by the deadline.",
+          "Check your eligibility today. Don't wait."
+        ]
+      },
+      "instagram": {
+        "caption": "Owned an iPhone with Siri between 2014 and 2021? You can now claim cash from Apple's $250 million settlement. 📱\n\nApple was accused of misleading people about Siri's AI. Now the payout is open, and you don't need to prove you were misled. 💰\n\nOwning the device during the covered period is enough. Claims go through the official site before the deadline. ⏳\n\nIf you made content or relied on Siri for work back then, this is money sitting unclaimed. Don't skip it.\n\nCheck your eligibility now — it takes two minutes. Are you filing before the cutoff? 👀"
+      }
+    },
+    "instagram_caption": "Owned an iPhone with Siri between 2014 and 2021? You can now claim cash from Apple's $250 million settlement. 📱\n\nApple was accused of misleading people about Siri's AI. Now the payout is open, and you don't need to prove you were misled. 💰\n\nOwning the device during the covered period is enough. Claims go through the official site before the deadline. ⏳\n\nIf you made content or relied on Siri for work back then, this is money sitting unclaimed. Don't skip it.\n\nCheck your eligibility now — it takes two minutes. Are you filing before the cutoff? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Did Siri lie to you for years?",
+        "description": "Apple's $250 million Siri settlement is open. If you owned a Siri iPhone between 2014 and 2021, you may qualify.",
+        "visual_hint": "iPhone with Siri glowing screen",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "iPhone Siri"
+      },
+      {
+        "hook": "$250 million now up for grabs",
+        "description": "No proof of harm needed to claim your share. Just having the device during the covered period is enough.",
+        "visual_hint": "Stack of cash on table",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "dollar bills",
+        "image": "https://images.pexels.com/photos/13668628/pexels-photo-13668628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No proof required to claim",
+        "description": "You don't need to show you were misled. Device ownership during the covered period is sufficient.",
+        "visual_hint": "Hand holding iPhone closeup",
+        "layout_type": "sensor-zoom",
+        "icon": "check",
+        "image_query": "smartphone hand",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The deadline won't wait for you",
+        "description": "Claims must be filed at the official site before the cutoff. Miss it and forfeit your payout entirely.",
+        "visual_hint": "Calendar with red circle",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "calendar deadline",
+        "image": "https://images.pexels.com/photos/8962466/pexels-photo-8962466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your eligibility right now",
+        "description": "Visit the official claims site, enter your device info, and file. Takes two minutes — do it today.",
+        "visual_hint": "Laptop showing claim form",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop website form",
+        "image": "https://images.pexels.com/photos/18096282/pexels-photo-18096282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC08433.webp?quality=90&amp;strip=all&amp;crop=0%2C11.097693417406%2C100%2C77.804613165189&amp;w=1200",
+    "savedAt": "2026-09-22T00:25:52.657Z",
+    "sourceId": "93b84abf7bbda6f32ac7b7e94e3123cb"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "corridor-raises-25m-seed-to-build-a-health-benefit",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
+    "link": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
+    "pubDate": "Mon, 21 Sep 2026 13:49:00 +0000",
+    "slides": [
+      "Can Corridor's $25M seed crack SMB health benefits?",
+      "The startup is a health benefits brokerage targeting small businesses.",
+      "Most SMBs overspend by 20% without knowing it.",
+      "You could lower premiums by switching to Corridor's platform.",
+      "Audit your current: you might save thousands."
+    ],
+    "thread_text": [
+      "1. The $25M question\n\nCorridor just raised a seed round to fix health benefits for small businesses. Most SMBs are overpaying by 20% without realizing it.",
+      "2. Why SMBs get crushed\n\nSmall businesses lack the bargaining power of large employers. Brokers often ignore them because commissions are too small.",
+      "3. The 20% hidden tax\n\nThat overspend isn't random — it's baked into renewals. Employees feel it in deductibles while owners see it in margins.",
+      "4. A platform play\n\nCorridor wants to automate the brokerage layer. Switch to their platform and premiums could drop.",
+      "5. Check your own numbers\n\nPull your last renewal notice and compare it to market rates. If you're off by double digits, start there."
+    ],
+    "video_script": [
+      "Corridor just raised twenty five million dollars.",
+      "They're a health benefits broker for small businesses.",
+      "Most small businesses overspend by twenty percent.",
+      "Switching to Corridor could lower your premiums.",
+      "Audit your current plan and save thousands."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $25M question\n\nCorridor just raised a seed round to fix health benefits for small businesses. Most SMBs are overpaying by 20% without realizing it.",
+          "2. Why SMBs get crushed\n\nSmall businesses lack the bargaining power of large employers. Brokers often ignore them because commissions are too small.",
+          "3. The 20% hidden tax\n\nThat overspend isn't random — it's baked into renewals. Employees feel it in deductibles while owners see it in margins.",
+          "4. A platform play\n\nCorridor wants to automate the brokerage layer. Switch to their platform and premiums could drop.",
+          "5. Check your own numbers\n\nPull your last renewal notice and compare it to market rates. If you're off by double digits, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Corridor just raised twenty five million dollars.",
+          "They're a health benefits broker for small businesses.",
+          "Most small businesses overspend by twenty percent.",
+          "Switching to Corridor could lower your premiums.",
+          "Audit your current plan and save thousands."
+        ]
+      },
+      "instagram": {
+        "caption": "Small businesses overpay health premiums by 20% without knowing it 💸\n\nCorridor raised $25M to build a benefits brokerage just for them.\n\nBrokers skip small clients because commissions are tiny, so owners get stuck with inflated renewals.\n\nCorridor automates that layer and claims premiums can drop if you switch.\n\nIf you handle benefits for a small team, pull your last renewal notice and compare it to market rates 📄\n\nA double-digit gap means real money out of your margin.\n\nWhen did you last check what you're actually paying for?"
+      }
+    },
+    "instagram_caption": "Small businesses overpay health premiums by 20% without knowing it 💸\n\nCorridor raised $25M to build a benefits brokerage just for them.\n\nBrokers skip small clients because commissions are tiny, so owners get stuck with inflated renewals.\n\nCorridor automates that layer and claims premiums can drop if you switch.\n\nIf you handle benefits for a small team, pull your last renewal notice and compare it to market rates 📄\n\nA double-digit gap means real money out of your margin.\n\nWhen did you last check what you're actually paying for?",
+    "carousel_slides": [
+      {
+        "hook": "Are you overpaying for health benefits?",
+        "description": "Most SMBs overspend by 20% on health benefits without knowing, quietly eroding margins and raising deductibles.",
+        "visual_hint": "Close-up of a health insurance bill",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "health insurance bill"
+      },
+      {
+        "hook": "Small businesses lack bargaining power",
+        "description": "Brokers often ignore SMBs because commissions are too small, leaving them with worse deals than large employers.",
+        "visual_hint": "Small business owner looking frustrated",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "small business owner",
+        "image": "https://images.pexels.com/photos/14933973/pexels-photo-14933973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The 20% hidden tax on renewals",
+        "description": "That overspend isn't random—it's baked into renewals. Employees feel it in deductibles, owners in margins.",
+        "visual_hint": "Stack of renewal notices with red numbers",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "renewal notice document",
+        "image": "https://images.pexels.com/photos/7926653/pexels-photo-7926653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Corridor automates the brokerage layer",
+        "description": "Corridor wants to automate health benefits brokerage. Switching to their platform could lower premiums for SMBs.",
+        "visual_hint": "Dashboard showing premium reduction",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "laptop dashboard finance",
+        "image": "https://images.pexels.com/photos/7681671/pexels-photo-7681671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your own renewal numbers now",
+        "description": "Pull your last renewal notice, compare to market rates, and if you're off by double digits, start saving today.",
+        "visual_hint": "Person comparing documents with calculator",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person calculator documents",
+        "image": "https://images.pexels.com/photos/8297030/pexels-photo-8297030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/1787270050672.jpg?resize=1200,800",
+    "savedAt": "2026-09-22T00:25:44.581Z",
+    "sourceId": "10defbfb15c04bb10cc0f34a1beb1351"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "kairos-power-gets-up-to-100m-from-samsung-group-to",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+    "link": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
+    "pubDate": "Mon, 21 Sep 2026 18:23:05 +0000",
+    "slides": [
+      "Can Kairos Power's nuclear reactor power Google?",
+      "It just got $100M from Samsung group",
+      "The reactor uses molten salt cooling, not water",
+      "This enables factory-built modular reactors for data centers",
+      "One action: watch for first deployment by 2030"
+    ],
+    "thread_text": [
+      "1. Google's Nuclear Bet\n\nKairos Power just secured $100M from Samsung Group to build molten-salt cooled nuclear reactors — the first real test of whether Big Tech's energy crisis can be solved by advanced nuclear.",
+      "2. Samsung's $100M Signal\n\nThe investment isn't just capital — it's a validation from a major industrial player that factory-built reactors can scale. Google's power needs are growing faster than renewables can cover.",
+      "3. Water-Free Cooling\n\nMolten salt cooling replaces the need for massive water supplies, enabling reactors to be built almost anywhere — including near data centers. That changes the geography of energy.",
+      "4. Modular by Design\n\nThese reactors are small enough to be factory-assembled and shipped to site. That means faster, cheaper deployment — exactly what AI data centers need as demand surges.",
+      "5. 2030 Deadline\n\nOne action: mark 2030 in your calendar. If Kairos hits its first deployment target, it will be the moment nuclear becomes a real option for tech. Watch this space."
+    ],
+    "video_script": [
+      "Google's power crisis might have a nuclear answer.",
+      "Samsung just put one hundred million dollars behind it.",
+      "This reactor uses molten salt, not water.",
+      "So it can be factory-built and shipped anywhere.",
+      "Watch for its first deployment by twenty thirty."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Google's Nuclear Bet\n\nKairos Power just secured $100M from Samsung Group to build molten-salt cooled nuclear reactors — the first real test of whether Big Tech's energy crisis can be solved by advanced nuclear.",
+          "2. Samsung's $100M Signal\n\nThe investment isn't just capital — it's a validation from a major industrial player that factory-built reactors can scale. Google's power needs are growing faster than renewables can cover.",
+          "3. Water-Free Cooling\n\nMolten salt cooling replaces the need for massive water supplies, enabling reactors to be built almost anywhere — including near data centers. That changes the geography of energy.",
+          "4. Modular by Design\n\nThese reactors are small enough to be factory-assembled and shipped to site. That means faster, cheaper deployment — exactly what AI data centers need as demand surges.",
+          "5. 2030 Deadline\n\nOne action: mark 2030 in your calendar. If Kairos hits its first deployment target, it will be the moment nuclear becomes a real option for tech. Watch this space."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google's power crisis might have a nuclear answer.",
+          "Samsung just put one hundred million dollars behind it.",
+          "This reactor uses molten salt, not water.",
+          "So it can be factory-built and shipped anywhere.",
+          "Watch for its first deployment by twenty thirty."
+        ]
+      },
+      "instagram": {
+        "caption": "Google’s data centers could soon run on nuclear reactors cooled by molten salt instead of water. ⚡\n\nKairos Power just got up to $100M from Samsung Group to build them.\n\nMolten salt cooling means no massive water supply needed — reactors can sit almost anywhere, including next to data centers.\n\nThey’re factory-built and modular, so deployment is faster and cheaper. First target: 2030.\n\nIf you publish or create with AI, the energy crunch behind your tools just got a new possible fix. 🔋\n\nWould you trust a reactor built specifically to power your AI workflows? 🤔"
+      }
+    },
+    "instagram_caption": "Google’s data centers could soon run on nuclear reactors cooled by molten salt instead of water. ⚡\n\nKairos Power just got up to $100M from Samsung Group to build them.\n\nMolten salt cooling means no massive water supply needed — reactors can sit almost anywhere, including next to data centers.\n\nThey’re factory-built and modular, so deployment is faster and cheaper. First target: 2030.\n\nIf you publish or create with AI, the energy crunch behind your tools just got a new possible fix. 🔋\n\nWould you trust a reactor built specifically to power your AI workflows? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Nuclear power for Google: real or hype?",
+        "description": "Kairos Power secured $100M from Samsung Group to build molten-salt nuclear reactors for Google's data centers.",
+        "visual_hint": "Nuclear reactor core glowing",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "nuclear reactor"
+      },
+      {
+        "hook": "Samsung's $100M bet on nuclear",
+        "description": "Samsung Group invested up to $100M in Kairos Power, validating factory-built reactors as a scalable energy solution for Big Tech.",
+        "visual_hint": "Samsung logo on building",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "Samsung headquarters",
+        "image": "https://images.pexels.com/photos/19279351/pexels-photo-19279351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Molten salt cooling changes everything",
+        "description": "Kairos reactors use molten salt instead of water, enabling deployment near data centers without massive water supplies.",
+        "visual_hint": "Molten salt glowing orange",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "molten salt",
+        "image": "https://images.pexels.com/photos/36423791/pexels-photo-36423791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Factory-built reactors for data centers",
+        "description": "Modular reactors are small enough to be factory-assembled and shipped, allowing faster, cheaper deployment for AI data centers.",
+        "visual_hint": "Modular reactor in factory",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "factory assembly line",
+        "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: nuclear by 2030",
+        "description": "Mark 2030 in your calendar. If Kairos hits its first deployment, nuclear becomes a real option for tech. Follow for updates.",
+        "visual_hint": "Calendar with 2030 circled",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calendar 2030",
+        "image": "https://images.pexels.com/photos/5417629/pexels-photo-5417629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-531153042-e1729096517914.jpeg?resize=1200,660",
+    "savedAt": "2026-09-22T00:25:35.770Z",
+    "sourceId": "e608e843a8ffafb4534b550afa5105de"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "the-man-who-built-apple-s-stores-doesn-t-buy-silic",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+    "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+    "pubDate": "Mon, 21 Sep 2026 23:44:28 +0000",
+    "slides": [
+      "The man who built Apple Stores doubts AI shopping.",
+      "He's Ron Johnson, who launched the Apple Store in 2001.",
+      "But he says AI can't replicate the human touch.",
+      "Retailers rushing to adopt AI may lose customers.",
+      "Test AI in one store before rolling out."
+    ],
+    "thread_text": [
+      "1. He built Apple Stores\n\nRon Johnson launched the first Apple Store in 2001. Now he says AI shopping misses the point entirely.",
+      "2. Human touch matters\n\nJohnson argues AI can't replicate the subtle interactions that make retail work. Customers notice when it's missing.",
+      "3. The AI rush\n\nRetailers are racing to adopt AI tools. Johnson warns this could backfire and drive customers away.",
+      "4. Test before you scale\n\nHe suggests trying AI in one store first. See what actually happens before rolling it out everywhere.",
+      "5. What would you do?\n\nNext time you shop, notice if AI helps or hurts. Would you return to a store that replaced people with bots?"
+    ],
+    "video_script": [
+      "The man who built Apple Stores doubts AI shopping.",
+      "Ron Johnson launched the first Apple Store in 2001.",
+      "But he says AI can't replicate the human touch.",
+      "Retailers rushing to adopt AI may lose customers.",
+      "Test AI in one store before rolling out."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. He built Apple Stores\n\nRon Johnson launched the first Apple Store in 2001. Now he says AI shopping misses the point entirely.",
+          "2. Human touch matters\n\nJohnson argues AI can't replicate the subtle interactions that make retail work. Customers notice when it's missing.",
+          "3. The AI rush\n\nRetailers are racing to adopt AI tools. Johnson warns this could backfire and drive customers away.",
+          "4. Test before you scale\n\nHe suggests trying AI in one store first. See what actually happens before rolling it out everywhere.",
+          "5. What would you do?\n\nNext time you shop, notice if AI helps or hurts. Would you return to a store that replaced people with bots?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "The man who built Apple Stores doubts AI shopping.",
+          "Ron Johnson launched the first Apple Store in 2001.",
+          "But he says AI can't replicate the human touch.",
+          "Retailers rushing to adopt AI may lose customers.",
+          "Test AI in one store before rolling out."
+        ]
+      },
+      "instagram": {
+        "caption": "Ron Johnson launched the first Apple Store in 2001. Now he's skeptical about AI in retail. 🍎\n\nHe says AI can't copy the human touch that makes shopping work.\n\nRetailers racing to add AI could push customers away instead of keeping them.\n\nHis advice: test it in one store before rolling it out everywhere.\n\nIf you run a shop or build content around retail, this is a warning worth heeding. 🛒\n\nNext time you shop, would you go back to a store that swapped people for bots? 🤔"
+      }
+    },
+    "instagram_caption": "Ron Johnson launched the first Apple Store in 2001. Now he's skeptical about AI in retail. 🍎\n\nHe says AI can't copy the human touch that makes shopping work.\n\nRetailers racing to add AI could push customers away instead of keeping them.\n\nHis advice: test it in one store before rolling it out everywhere.\n\nIf you run a shop or build content around retail, this is a warning worth heeding. 🛒\n\nNext time you shop, would you go back to a store that swapped people for bots? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Can AI really replace the human touch?",
+        "description": "Ron Johnson, who launched Apple Stores, warns that AI shopping misses subtle human interactions and could drive customers away.",
+        "visual_hint": "Empty modern retail store interior",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "apple store interior"
+      },
+      {
+        "hook": "The man behind Apple Stores speaks",
+        "description": "Ron Johnson launched the first Apple Store in 2001. Now he doubts AI can replicate what makes retail work.",
+        "visual_hint": "Apple Store glass staircase",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "apple store staircase",
+        "image": "https://images.pexels.com/photos/37793330/pexels-photo-37793330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI can't fake genuine human connection",
+        "description": "Johnson argues AI fails to replicate subtle interactions that make retail work. Customers notice when it's missing.",
+        "visual_hint": "Facial recognition sensor scanning",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "facial recognition scanner",
+        "image": "https://images.pexels.com/photos/8090123/pexels-photo-8090123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rushing AI may backfire badly",
+        "description": "Retailers racing to adopt AI tools risk driving customers away. Johnson warns of losing the human touch entirely.",
+        "visual_hint": "Customer frustrated with self-checkout",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "self checkout machine",
+        "image": "https://images.pexels.com/photos/10693559/pexels-photo-10693559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test AI in one store first",
+        "description": "Johnson suggests trying AI in a single store before rolling out everywhere. See what actually happens first.",
+        "visual_hint": "Small store with AI kiosk",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "retail store kiosk",
+        "image": "https://images.pexels.com/photos/11290833/pexels-photo-11290833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1227849474.jpg?w=1024",
+    "savedAt": "2026-09-22T00:25:26.682Z",
+    "sourceId": "502072b10c62b360ab782563902bfa0e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "california-tightens-rules-on-ai-data-center-energy",
     "prompt_version": "1.0.0",
     "status": "published",
