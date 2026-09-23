@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "youtube-will-let-you-build-your-own-algorithm-with",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "YouTube will let you build your own algorithm with AI",
+  "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+  "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
+  "slides": [
+    "YouTube wants AI to design your feed now?",
+    "You'll describe your ideal recommendations in plain words",
+    "But the AI might ignore your stated preferences",
+    "Your feed could change based on daily prompts",
+    "Try one prompt: what do you actually want to watch?"
+  ],
+  "thread_text": [
+    "1. Your Feed, Your Words\n\nYouTube is building a feature where you type what you want to watch. It's part of a bigger bet on AI-driven recommendations.",
+    "2. The AI Might Ignore You\n\nEven if you describe your ideal feed, the system can override your input based on engagement signals. Your words are a suggestion, not a command.",
+    "3. Daily Prompts, Daily Feed\n\nImagine waking up and typing a prompt to reshape your recommendations. Your feed could shift every day based on your mood.",
+    "4. A Test Prompt for You\n\nTry asking yourself: what do I actually want to watch? Then see if YouTube's current algorithm delivers it.",
+    "5. Try It Yourself\n\nOpen YouTube and search for a niche topic you love. If the recommendations don't match, the AI isn't listening yet."
+  ],
+  "video_script": [
+    "YouTube wants AI to design your feed.",
+    "You describe your ideal recommendations in plain words.",
+    "But the AI might ignore your stated preferences.",
+    "Your feed could change based on daily prompts.",
+    "Try one prompt: what do you actually want to watch?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your Feed, Your Words\n\nYouTube is building a feature where you type what you want to watch. It's part of a bigger bet on AI-driven recommendations.",
+        "2. The AI Might Ignore You\n\nEven if you describe your ideal feed, the system can override your input based on engagement signals. Your words are a suggestion, not a command.",
+        "3. Daily Prompts, Daily Feed\n\nImagine waking up and typing a prompt to reshape your recommendations. Your feed could shift every day based on your mood.",
+        "4. A Test Prompt for You\n\nTry asking yourself: what do I actually want to watch? Then see if YouTube's current algorithm delivers it.",
+        "5. Try It Yourself\n\nOpen YouTube and search for a niche topic you love. If the recommendations don't match, the AI isn't listening yet."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "YouTube wants AI to design your feed.",
+        "You describe your ideal recommendations in plain words.",
+        "But the AI might ignore your stated preferences.",
+        "Your feed could change based on daily prompts.",
+        "Try one prompt: what do you actually want to watch?"
+      ]
+    },
+    "instagram": {
+      "caption": "You type what you want to watch, and the algorithm builds it.\n\nYouTube is working on an AI feature that lets you describe your ideal recommendations in plain words.\n\nThe catch: the system can still override your input based on engagement signals. Your words are a suggestion, not a command. 🤖\n\nYour feed could change daily based on a prompt you write that morning.\n\nIf you publish videos, discovery may stop depending on tags and start depending on whether the AI trusts your audience's behavior. 📉\n\nWhat would you type right now to fix your recommendations?"
+    }
+  },
+  "instagram_caption": "You type what you want to watch, and the algorithm builds it.\n\nYouTube is working on an AI feature that lets you describe your ideal recommendations in plain words.\n\nThe catch: the system can still override your input based on engagement signals. Your words are a suggestion, not a command. 🤖\n\nYour feed could change daily based on a prompt you write that morning.\n\nIf you publish videos, discovery may stop depending on tags and start depending on whether the AI trusts your audience's behavior. 📉\n\nWhat would you type right now to fix your recommendations?",
+  "carousel_slides": [
+    {
+      "hook": "Your words vs. YouTube's AI",
+      "description": "YouTube is building a feature to type your ideal feed. But the system may override your input based on engagement signals.",
+      "visual_hint": "AI interface with user text input",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone typing"
+    },
+    {
+      "hook": "Describe your perfect feed in words",
+      "description": "You'll type plain-language prompts to shape recommendations. It's part of a bigger bet on AI-driven feeds.",
+      "visual_hint": "Person speaking into smartphone microphone",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "voice assistant",
+      "image": "https://images.pexels.com/photos/4790267/pexels-photo-4790267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "But AI might ignore your preferences",
+      "description": "Even if you describe your ideal feed, the system can override your words based on engagement signals. Your input is a suggestion.",
+      "visual_hint": "Algorithmic gears overriding text bubble",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Daily prompts could reshape your feed",
+      "description": "Imagine waking up and typing a prompt to shift recommendations. Your feed could change every day based on your mood.",
+      "visual_hint": "Hand typing on phone at sunrise",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "morning coffee phone",
+      "image": "https://images.pexels.com/photos/14988552/pexels-photo-14988552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try one prompt: what do you want?",
+      "description": "Open YouTube and search a niche topic you love. If recommendations don't match, the AI isn't listening yet. Save this and test.",
+      "visual_hint": "Phone screen with search bar",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "youtube app screen",
+      "image": "https://images.pexels.com/photos/32141311/pexels-photo-32141311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Discovery-Custom-Feeds-Title-Card-1.jpg?resize=1200,675",
+  "savedAt": "2026-09-23T19:21:12.950Z",
+  "sourceId": "0869f53f8a88569c8de8cdd3c485e4e5"
+}

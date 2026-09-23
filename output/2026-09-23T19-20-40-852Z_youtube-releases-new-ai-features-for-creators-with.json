@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "youtube-releases-new-ai-features-for-creators-with",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "YouTube releases new AI features for creators within its Studio app",
+  "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+  "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
+  "slides": [
+    "YouTube's new Studio AI: friend or replacement?",
+    "It offers tools like automatic video editing and thumbnails.",
+    "But creators worry about losing their unique creative touch.",
+    "You can start using these tools to save hours per video.",
+    "Experiment now to stay ahead of the curve."
+  ],
+  "thread_text": [
+    "1. AI Takes Over Editing\n\nYouTube's new Studio AI can automatically edit your videos and generate thumbnails. But what does that mean for your creative control?",
+    "2. The Promise of Speed\n\nThese tools promise to save you hours per video, letting you focus on bigger things. But at what cost?",
+    "3. The Creative Dilemma\n\nCreators fear losing their unique touch as AI homogenizes content. Will your style get lost in the automation?",
+    "4. The Risk of Sameness\n\nIf everyone uses the same AI tools, won't all videos start to look and feel the same? That's the worry.",
+    "5. Your Move: Test It Now\n\nTry one AI tool on your next video. If you save time but lose your voice, is it worth it? Share your experience."
+  ],
+  "video_script": [
+    "YouTube's new Studio AI: friend or replacement?",
+    "It auto-edits and makes thumbnails for you.",
+    "But creators worry about losing their unique touch.",
+    "You can save hours per video with these tools.",
+    "Experiment now to stay ahead of the curve."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Takes Over Editing\n\nYouTube's new Studio AI can automatically edit your videos and generate thumbnails. But what does that mean for your creative control?",
+        "2. The Promise of Speed\n\nThese tools promise to save you hours per video, letting you focus on bigger things. But at what cost?",
+        "3. The Creative Dilemma\n\nCreators fear losing their unique touch as AI homogenizes content. Will your style get lost in the automation?",
+        "4. The Risk of Sameness\n\nIf everyone uses the same AI tools, won't all videos start to look and feel the same? That's the worry.",
+        "5. Your Move: Test It Now\n\nTry one AI tool on your next video. If you save time but lose your voice, is it worth it? Share your experience."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "YouTube's new Studio AI: friend or replacement?",
+        "It auto-edits and makes thumbnails for you.",
+        "But creators worry about losing their unique touch.",
+        "You can save hours per video with these tools.",
+        "Experiment now to stay ahead of the curve."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now get your videos cut and your thumbnails made automatically inside the YouTube Studio app. 🎬\n\nTwo new AI tools there handle editing and thumbnail generation for you.\n\nThey can save you hours on every single video.\n\nBut many creators worry this speed costs them their own style, since everyone gets the same help. 🤔\n\nIf your next video takes less time but looks like everyone else's, does that trade still pay off for you?\n\nPick one tool, test it on your next upload, and see if your voice survives. 👇"
+    }
+  },
+  "instagram_caption": "You can now get your videos cut and your thumbnails made automatically inside the YouTube Studio app. 🎬\n\nTwo new AI tools there handle editing and thumbnail generation for you.\n\nThey can save you hours on every single video.\n\nBut many creators worry this speed costs them their own style, since everyone gets the same help. 🤔\n\nIf your next video takes less time but looks like everyone else's, does that trade still pay off for you?\n\nPick one tool, test it on your next upload, and see if your voice survives. 👇",
+  "carousel_slides": [
+    {
+      "hook": "Is AI replacing your creative touch?",
+      "description": "YouTube Studio now auto-edits videos and generates thumbnails, raising creator fears about losing unique style to automation.",
+      "visual_hint": "Split screen human vs AI editing",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "video editing software"
+    },
+    {
+      "hook": "Auto-editing tools promise to save hours",
+      "description": "YouTube's AI can edit videos and create thumbnails automatically, cutting hours of work per video for creators.",
+      "visual_hint": "Timeline with AI auto-cut icons",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "video editing timeline",
+      "image": "https://images.pexels.com/photos/31718971/pexels-photo-31718971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Will your style get lost?",
+      "description": "Creators worry AI homogenizes content, erasing the unique creative touch that sets them apart from others.",
+      "visual_hint": "Identical video thumbnails in a row",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "identical video thumbnails",
+      "image": "https://images.pexels.com/photos/32141311/pexels-photo-32141311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one AI tool on your next video",
+      "description": "Try an AI editor and see if saving time costs your voice. Evaluate the trade-off before adopting fully.",
+      "visual_hint": "Creator's hand clicking AI edit button",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand clicking mouse",
+      "image": "https://images.pexels.com/photos/7915503/pexels-photo-7915503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Experiment now to stay ahead",
+      "description": "Save this post and start testing YouTube's AI tools today to keep your creative edge while boosting speed.",
+      "visual_hint": "Phone with save and comment icons",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone social media icons",
+      "image": "https://images.pexels.com/photos/3850266/pexels-photo-3850266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/09/youtube-studio.jpeg?resize=1200,683",
+  "savedAt": "2026-09-23T19:20:57.004Z",
+  "sourceId": "fe603b600b7eb15e328a297adbdb1311"
+}

@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "youtube-will-let-you-build-your-own-algorithm-with",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "YouTube will let you build your own algorithm with AI",
+      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
+      "slides": [
+        "YouTube wants AI to design your feed now?",
+        "You'll describe your ideal recommendations in plain words",
+        "But the AI might ignore your stated preferences",
+        "Your feed could change based on daily prompts",
+        "Try one prompt: what do you actually want to watch?"
+      ],
+      "thread_text": [
+        "1. Your Feed, Your Words\n\nYouTube is building a feature where you type what you want to watch. It's part of a bigger bet on AI-driven recommendations.",
+        "2. The AI Might Ignore You\n\nEven if you describe your ideal feed, the system can override your input based on engagement signals. Your words are a suggestion, not a command.",
+        "3. Daily Prompts, Daily Feed\n\nImagine waking up and typing a prompt to reshape your recommendations. Your feed could shift every day based on your mood.",
+        "4. A Test Prompt for You\n\nTry asking yourself: what do I actually want to watch? Then see if YouTube's current algorithm delivers it.",
+        "5. Try It Yourself\n\nOpen YouTube and search for a niche topic you love. If the recommendations don't match, the AI isn't listening yet."
+      ],
+      "video_script": [
+        "YouTube wants AI to design your feed.",
+        "You describe your ideal recommendations in plain words.",
+        "But the AI might ignore your stated preferences.",
+        "Your feed could change based on daily prompts.",
+        "Try one prompt: what do you actually want to watch?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your Feed, Your Words\n\nYouTube is building a feature where you type what you want to watch. It's part of a bigger bet on AI-driven recommendations.",
+            "2. The AI Might Ignore You\n\nEven if you describe your ideal feed, the system can override your input based on engagement signals. Your words are a suggestion, not a command.",
+            "3. Daily Prompts, Daily Feed\n\nImagine waking up and typing a prompt to reshape your recommendations. Your feed could shift every day based on your mood.",
+            "4. A Test Prompt for You\n\nTry asking yourself: what do I actually want to watch? Then see if YouTube's current algorithm delivers it.",
+            "5. Try It Yourself\n\nOpen YouTube and search for a niche topic you love. If the recommendations don't match, the AI isn't listening yet."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "YouTube wants AI to design your feed.",
+            "You describe your ideal recommendations in plain words.",
+            "But the AI might ignore your stated preferences.",
+            "Your feed could change based on daily prompts.",
+            "Try one prompt: what do you actually want to watch?"
+          ]
+        },
+        "instagram": {
+          "caption": "You type what you want to watch, and the algorithm builds it.\n\nYouTube is working on an AI feature that lets you describe your ideal recommendations in plain words.\n\nThe catch: the system can still override your input based on engagement signals. Your words are a suggestion, not a command. 🤖\n\nYour feed could change daily based on a prompt you write that morning.\n\nIf you publish videos, discovery may stop depending on tags and start depending on whether the AI trusts your audience's behavior. 📉\n\nWhat would you type right now to fix your recommendations?"
+        }
+      },
+      "instagram_caption": "You type what you want to watch, and the algorithm builds it.\n\nYouTube is working on an AI feature that lets you describe your ideal recommendations in plain words.\n\nThe catch: the system can still override your input based on engagement signals. Your words are a suggestion, not a command. 🤖\n\nYour feed could change daily based on a prompt you write that morning.\n\nIf you publish videos, discovery may stop depending on tags and start depending on whether the AI trusts your audience's behavior. 📉\n\nWhat would you type right now to fix your recommendations?",
+      "carousel_slides": [
+        {
+          "hook": "Your words vs. YouTube's AI",
+          "description": "YouTube is building a feature to type your ideal feed. But the system may override your input based on engagement signals.",
+          "visual_hint": "AI interface with user text input",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone typing"
+        },
+        {
+          "hook": "Describe your perfect feed in words",
+          "description": "You'll type plain-language prompts to shape recommendations. It's part of a bigger bet on AI-driven feeds.",
+          "visual_hint": "Person speaking into smartphone microphone",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "voice assistant",
+          "image": "https://images.pexels.com/photos/4790267/pexels-photo-4790267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "But AI might ignore your preferences",
+          "description": "Even if you describe your ideal feed, the system can override your words based on engagement signals. Your input is a suggestion.",
+          "visual_hint": "Algorithmic gears overriding text bubble",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Daily prompts could reshape your feed",
+          "description": "Imagine waking up and typing a prompt to shift recommendations. Your feed could change every day based on your mood.",
+          "visual_hint": "Hand typing on phone at sunrise",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "morning coffee phone",
+          "image": "https://images.pexels.com/photos/14988552/pexels-photo-14988552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Try one prompt: what do you want?",
+          "description": "Open YouTube and search a niche topic you love. If recommendations don't match, the AI isn't listening yet. Save this and test.",
+          "visual_hint": "Phone screen with search bar",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "youtube app screen",
+          "image": "https://images.pexels.com/photos/32141311/pexels-photo-32141311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Discovery-Custom-Feeds-Title-Card-1.jpg?resize=1200,675",
+      "savedAt": "2026-09-23T19:21:12.950Z",
+      "sourceId": "0869f53f8a88569c8de8cdd3c485e4e5"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "youtube-adds-new-creator-tools-like-video-a-b-test",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing",
+      "link": "https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/",
+      "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
+      "slides": [
+        "Is YouTube's new toolset a game changer for creators?",
+        "A/B testing and dynamic thumbnails now available.",
+        "But live dubbing might surprise you the most.",
+        "You can now test thumbnails automatically within hours.",
+        "Start A/B testing your thumbnails today."
+      ],
+      "thread_text": [
+        "1. YouTube just changed the game\n\nA/B testing and dynamic thumbnails are no longer locked behind expensive third-party services. Creators can now test thumbnails natively inside YouTube — automatically.",
+        "2. Stop guessing, start testing\n\nThe system rotates different thumbnails on your video and picks the winner within hours. No spreadsheets, no manual swaps, no external tools required.",
+        "3. But wait — live dubbing?\n\nYouTube also quietly added real-time audio dubbing. That means your video can reach audiences speaking entirely different languages without you recording a single extra word.",
+        "4. Your old workflow is obsolete\n\nThird-party A/B testing tools charged monthly fees for this exact feature. YouTube just killed that business model overnight — and gave every creator access for free.",
+        "5. Your move: test one thumbnail today\n\nTake your latest video, pick two thumbnails, and let YouTube's A/B test run for 24 hours. Will you trust the algorithm's winner — or your gut?"
+      ],
+      "video_script": [
+        "YouTube just launched native A/B testing for thumbnails.",
+        "The system finds your best thumbnail within hours.",
+        "No third-party tools needed anymore - it's built in.",
+        "But the real shock? YouTube quietly added live dubbing.",
+        "Your content can now speak every language instantly."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. YouTube just changed the game\n\nA/B testing and dynamic thumbnails are no longer locked behind expensive third-party services. Creators can now test thumbnails natively inside YouTube — automatically.",
+            "2. Stop guessing, start testing\n\nThe system rotates different thumbnails on your video and picks the winner within hours. No spreadsheets, no manual swaps, no external tools required.",
+            "3. But wait — live dubbing?\n\nYouTube also quietly added real-time audio dubbing. That means your video can reach audiences speaking entirely different languages without you recording a single extra word.",
+            "4. Your old workflow is obsolete\n\nThird-party A/B testing tools charged monthly fees for this exact feature. YouTube just killed that business model overnight — and gave every creator access for free.",
+            "5. Your move: test one thumbnail today\n\nTake your latest video, pick two thumbnails, and let YouTube's A/B test run for 24 hours. Will you trust the algorithm's winner — or your gut?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "YouTube just launched native A/B testing for thumbnails.",
+            "The system finds your best thumbnail within hours.",
+            "No third-party tools needed anymore - it's built in.",
+            "But the real shock? YouTube quietly added live dubbing.",
+            "Your content can now speak every language instantly."
+          ]
+        },
+        "instagram": {
+          "caption": "YouTube will now rotate different thumbnails on your video and pick the winner within hours.\n\nA/B testing and dynamic thumbnails are built right in, no third-party tool needed. 🎯\n\nLive dubbing also landed: your video can reach other languages without recording a word.\n\nYou can stop paying monthly for thumbnail testing and let the system run it for free.\n\nYour latest video is sitting there with one thumbnail. Will you test two before you post the next one? 👀"
+        }
+      },
+      "instagram_caption": "YouTube will now rotate different thumbnails on your video and pick the winner within hours.\n\nA/B testing and dynamic thumbnails are built right in, no third-party tool needed. 🎯\n\nLive dubbing also landed: your video can reach other languages without recording a word.\n\nYou can stop paying monthly for thumbnail testing and let the system run it for free.\n\nYour latest video is sitting there with one thumbnail. Will you test two before you post the next one? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Live dubbing changes everything for creators",
+          "description": "YouTube added real-time audio dubbing, letting your videos reach audiences in different languages without recording a single extra word.",
+          "visual_hint": "Glowing globe with audio waves",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "global network map"
+        },
+        {
+          "hook": "A/B testing now built into YouTube",
+          "description": "Dynamic thumbnails and A/B testing are natively available inside YouTube, no longer locked behind expensive third-party services.",
+          "visual_hint": "Two thumbnail images side by side",
+          "layout_type": "right-focus",
+          "icon": "check",
+          "image_query": "video editing screen",
+          "image": "https://images.pexels.com/photos/31718971/pexels-photo-31718971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Stop guessing, let the algorithm decide",
+          "description": "The system rotates different thumbnails automatically and picks the winner within hours, eliminating manual swaps and spreadsheets.",
+          "visual_hint": "Split screen with rotating thumbnails",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "algorithm data visualization",
+          "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your old workflow is now obsolete",
+          "description": "Third-party tools charged monthly fees for this exact feature. YouTube just killed that business model overnight and gave every creator free access.",
+          "visual_hint": "Hand holding phone with YouTube interface",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "smartphone youtube app",
+          "image": "https://images.pexels.com/photos/32141311/pexels-photo-32141311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one thumbnail today, see results",
+          "description": "Take your latest video, pick two thumbnails, and let YouTube's A/B test run for 24 hours. Save this post and try it now.",
+          "visual_hint": "YouTube analytics dashboard on screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "analytics dashboard screen",
+          "image": "https://images.pexels.com/photos/8100069/pexels-photo-8100069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8542360/pexels-photo-8542360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-09-23T19:21:05.323Z",
+      "sourceId": "b6623ede924d7d811339f1eb12b44c61"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "youtube-releases-new-ai-features-for-creators-with",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+      "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
+      "slides": [
+        "YouTube's new Studio AI: friend or replacement?",
+        "It offers tools like automatic video editing and thumbnails.",
+        "But creators worry about losing their unique creative touch.",
+        "You can start using these tools to save hours per video.",
+        "Experiment now to stay ahead of the curve."
+      ],
+      "thread_text": [
+        "1. AI Takes Over Editing\n\nYouTube's new Studio AI can automatically edit your videos and generate thumbnails. But what does that mean for your creative control?",
+        "2. The Promise of Speed\n\nThese tools promise to save you hours per video, letting you focus on bigger things. But at what cost?",
+        "3. The Creative Dilemma\n\nCreators fear losing their unique touch as AI homogenizes content. Will your style get lost in the automation?",
+        "4. The Risk of Sameness\n\nIf everyone uses the same AI tools, won't all videos start to look and feel the same? That's the worry.",
+        "5. Your Move: Test It Now\n\nTry one AI tool on your next video. If you save time but lose your voice, is it worth it? Share your experience."
+      ],
+      "video_script": [
+        "YouTube's new Studio AI: friend or replacement?",
+        "It auto-edits and makes thumbnails for you.",
+        "But creators worry about losing their unique touch.",
+        "You can save hours per video with these tools.",
+        "Experiment now to stay ahead of the curve."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI Takes Over Editing\n\nYouTube's new Studio AI can automatically edit your videos and generate thumbnails. But what does that mean for your creative control?",
+            "2. The Promise of Speed\n\nThese tools promise to save you hours per video, letting you focus on bigger things. But at what cost?",
+            "3. The Creative Dilemma\n\nCreators fear losing their unique touch as AI homogenizes content. Will your style get lost in the automation?",
+            "4. The Risk of Sameness\n\nIf everyone uses the same AI tools, won't all videos start to look and feel the same? That's the worry.",
+            "5. Your Move: Test It Now\n\nTry one AI tool on your next video. If you save time but lose your voice, is it worth it? Share your experience."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "YouTube's new Studio AI: friend or replacement?",
+            "It auto-edits and makes thumbnails for you.",
+            "But creators worry about losing their unique touch.",
+            "You can save hours per video with these tools.",
+            "Experiment now to stay ahead of the curve."
+          ]
+        },
+        "instagram": {
+          "caption": "You can now get your videos cut and your thumbnails made automatically inside the YouTube Studio app. 🎬\n\nTwo new AI tools there handle editing and thumbnail generation for you.\n\nThey can save you hours on every single video.\n\nBut many creators worry this speed costs them their own style, since everyone gets the same help. 🤔\n\nIf your next video takes less time but looks like everyone else's, does that trade still pay off for you?\n\nPick one tool, test it on your next upload, and see if your voice survives. 👇"
+        }
+      },
+      "instagram_caption": "You can now get your videos cut and your thumbnails made automatically inside the YouTube Studio app. 🎬\n\nTwo new AI tools there handle editing and thumbnail generation for you.\n\nThey can save you hours on every single video.\n\nBut many creators worry this speed costs them their own style, since everyone gets the same help. 🤔\n\nIf your next video takes less time but looks like everyone else's, does that trade still pay off for you?\n\nPick one tool, test it on your next upload, and see if your voice survives. 👇",
+      "carousel_slides": [
+        {
+          "hook": "Is AI replacing your creative touch?",
+          "description": "YouTube Studio now auto-edits videos and generates thumbnails, raising creator fears about losing unique style to automation.",
+          "visual_hint": "Split screen human vs AI editing",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "video editing software"
+        },
+        {
+          "hook": "Auto-editing tools promise to save hours",
+          "description": "YouTube's AI can edit videos and create thumbnails automatically, cutting hours of work per video for creators.",
+          "visual_hint": "Timeline with AI auto-cut icons",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "video editing timeline",
+          "image": "https://images.pexels.com/photos/31718971/pexels-photo-31718971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Will your style get lost?",
+          "description": "Creators worry AI homogenizes content, erasing the unique creative touch that sets them apart from others.",
+          "visual_hint": "Identical video thumbnails in a row",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "identical video thumbnails",
+          "image": "https://images.pexels.com/photos/32141311/pexels-photo-32141311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one AI tool on your next video",
+          "description": "Try an AI editor and see if saving time costs your voice. Evaluate the trade-off before adopting fully.",
+          "visual_hint": "Creator's hand clicking AI edit button",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand clicking mouse",
+          "image": "https://images.pexels.com/photos/7915503/pexels-photo-7915503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Experiment now to stay ahead",
+          "description": "Save this post and start testing YouTube's AI tools today to keep your creative edge while boosting speed.",
+          "visual_hint": "Phone with save and comment icons",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone social media icons",
+          "image": "https://images.pexels.com/photos/3850266/pexels-photo-3850266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/youtube-studio.jpeg?resize=1200,683",
+      "savedAt": "2026-09-23T19:20:57.004Z",
+      "sourceId": "fe603b600b7eb15e328a297adbdb1311"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "the-old-cybersecurity-model-is-breaking",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The old cybersecurity model is breaking",
+      "link": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
+      "pubDate": "Wed, 23 Sep 2026 17:44:02 +0000",
+      "slides": [
+        "The old cybersecurity model is breaking",
+        "Perimeter defense fails against AI-generated phishing at scale",
+        "Insiders accidentally leak more than hackers steal",
+        "Zero-trust means verifying every request, every time",
+        "Stop trusting your firewall; start trusting behavior"
+      ],
+      "thread_text": [
+        "1. The Old Model Is Breaking\n\nAI-generated phishing now scales at near-zero cost. Your firewall's perimeter defense can't keep up with attacks that adapt in real time.",
+        "2. Insiders Leak More Than Hackers\n\nEmployees accidentally expose credentials and data through simple mistakes. Hackers don't need to break in when the door is already open.",
+        "3. Zero-Trust: Verify Everything\n\nNever assume trust based on location or device. Every request must be authenticated and authorized, every single time.",
+        "4. Your Firewall Won't Save You\n\nStatic rules can't stop behavioral threats. Start trusting behavior patterns, not network boundaries.",
+        "5. Test Your Assumptions Today\n\nTake a prompt on ChatGPT and simulate a phishing email targeting your team. If you haven't done it, start there."
+      ],
+      "video_script": [
+        "Old security model is breaking right now.",
+        "AI phishing scales faster than your firewall.",
+        "Insiders leak more than hackers steal.",
+        "Zero-trust: verify every request, every time.",
+        "Stop trusting firewalls. Start trusting behavior."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Old Model Is Breaking\n\nAI-generated phishing now scales at near-zero cost. Your firewall's perimeter defense can't keep up with attacks that adapt in real time.",
+            "2. Insiders Leak More Than Hackers\n\nEmployees accidentally expose credentials and data through simple mistakes. Hackers don't need to break in when the door is already open.",
+            "3. Zero-Trust: Verify Everything\n\nNever assume trust based on location or device. Every request must be authenticated and authorized, every single time.",
+            "4. Your Firewall Won't Save You\n\nStatic rules can't stop behavioral threats. Start trusting behavior patterns, not network boundaries.",
+            "5. Test Your Assumptions Today\n\nTake a prompt on ChatGPT and simulate a phishing email targeting your team. If you haven't done it, start there."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Old security model is breaking right now.",
+            "AI phishing scales faster than your firewall.",
+            "Insiders leak more than hackers steal.",
+            "Zero-trust: verify every request, every time.",
+            "Stop trusting firewalls. Start trusting behavior."
+          ]
+        },
+        "instagram": {
+          "caption": "Your employees are leaking more data than hackers are stealing.\n\nAI-generated phishing now scales at near-zero cost, and the old perimeter defense can't keep up with attacks that adapt in real time.\n\nZero-trust means verifying every request, every time — not just once at the login screen.\n\nStatic firewall rules can't stop behavioral threats. Stop trusting network boundaries and start trusting behavior patterns. 🔐\n\nIf your security model still assumes \"inside = safe,\" it's already broken. ⚠️\n\nWhen did you last test whether your own team would click a fake phishing link? 🎣"
+        }
+      },
+      "instagram_caption": "Your employees are leaking more data than hackers are stealing.\n\nAI-generated phishing now scales at near-zero cost, and the old perimeter defense can't keep up with attacks that adapt in real time.\n\nZero-trust means verifying every request, every time — not just once at the login screen.\n\nStatic firewall rules can't stop behavioral threats. Stop trusting network boundaries and start trusting behavior patterns. 🔐\n\nIf your security model still assumes \"inside = safe,\" it's already broken. ⚠️\n\nWhen did you last test whether your own team would click a fake phishing link? 🎣",
+      "carousel_slides": [
+        {
+          "hook": "Who's really leaking your data?",
+          "description": "Insiders accidentally expose credentials more than hackers steal them. The breach is already inside your walls.",
+          "visual_hint": "Open door in office corridor",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "open door office"
+        },
+        {
+          "hook": "Your firewall can't see this coming",
+          "description": "AI-generated phishing scales at near-zero cost, adapting in real time. Perimeter defense fails against attacks that never stop mutating.",
+          "visual_hint": "Glowing phishing email on screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "phishing email screen",
+          "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The door is already open",
+          "description": "Employees accidentally leak credentials through simple mistakes. Hackers don't break in when trust is given away freely.",
+          "visual_hint": "Unlocked padlock on server rack",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "unlocked padlock server",
+          "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Trust no location, verify everything",
+          "description": "Zero-trust means authenticating and authorizing every request, every time. Location and device no longer earn automatic access.",
+          "visual_hint": "Fingerprint scan on access panel",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "fingerprint access panel",
+          "image": "https://images.pexels.com/photos/20901468/pexels-photo-20901468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your assumptions today — save this",
+          "description": "Simulate an AI phishing email targeting your team now. If you haven't done it yet, start there and comment your results.",
+          "visual_hint": "Laptop with ChatGPT prompt open",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop chat interface",
+          "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233776792.jpg?resize=1200,750",
+      "savedAt": "2026-09-23T19:20:49.294Z",
+      "sourceId": "542b7322fe0c135b7d80c51cf82b5a3b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "youtube-is-building-ai-creator-tools-that-do-almos",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -164018,6 +164434,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "zuppa-di-rana-pescatrice",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Zuppa di rana pescatrice",
+      "link": "https://ricette.giallozafferano.it/Zuppa-di-rana-pescatrice.html",
+      "pubDate": "Wed, 23 Sep 2026 16:55:00 +0200",
+      "content": "Zuppa di rana pescatrice con pomodoro e funghi secchi Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Primi piatti Zuppe, minestre e vellutate Zuppa di rana pescatrice /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 20 min Cottura: 60 min Dosi per: 6 persone Ascolta la ricetta Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti Ascolta su Spreaker. PRESENTAZIONE La zuppa di rana pescatrice è un piatto di pesce ricco e saporito che porta in tavola il gusto del mare in una versione calda e avvolgente. La rana pescatrice , o coda di rospo, è un pesce molto apprezzato per la sua polpa soda e delicata, che in questa ricetta viene cotta lentamente insieme alla polpa di pomodoro e a un soffritto di cipolla, carota e sedano. Per aggiungere un tocco speciale, abbiamo arricchito la zuppa di pesce con dei funghi porcini secchi che regalano una nota aromatica persistente, completata dal profumo fresco del prezzemolo e del timo. Ideale da accompagnare con delle fette di pane tostato, la zuppa di rana pescatrice può essere servita come primo, secondo o piatto unico, e renderà speciale il vostro menù di mare con il suo sapore intenso. Scoprite altre gustose ricette con la rana pescatrice: Rana pescatrice in guazzetto Coda di rospo con olive Bocconcini di rana pescatrice in crosta di mandorle Rana pescatrice al forno Monkfish Soup INGREDIENTI Rana pescatrice (da pulire) 800 g Polpa di pomodoro 400 g Cipolle 100 g Carote 80 g Sedano 80 g Funghi secchi porcini 30 g Aglio 1 spicchio Vino bianco 60 g Timo q.b. Prezzemolo q.b. Olio extravergine d'oliva q.b. Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Zuppa di rana pescatrice Per preparare la zuppa di rana pescatrice, per prima cosa mettete i funghi secchi in ammollo in acqua calda 1 . Mondate e tritate finemente la cipolla 2 , le carote e il sedano. Versate il trito di verdure in una casseruola con un filo d’olio 3 . Lasciate stufare a fuoco medio per una decina di minuti 4 , poi unite l’aglio 5 e i rametti di timo 6 . Nel frattempo, pulite la rana pescatrice: separate i filetti dalla lisca centrale 7 e divideteli in tranci 8 . Di questi, tritatene al coltello circa 250 g 9 . Aggiungete la polpa tritata nella casseruola 10 e rosolate per 1-2 minuti 11 , poi adagiate anche i tranci 12 . Mescolate e rosolate a fuoco vivace per 2-3 minuti. A questo punto eliminate l’aglio e sfumate con il vino bianco 13 , lasciando evaporare la parte alcolica. Intanto tritate grossolanamente i funghi reidratati 14 , avendo cura di non buttare l’acqua di ammollo, e uniteli in pentola 15 . Versate anche la polpa di pomodoro 16 e circa 200 g di acqua dei funghi 17 , poi regolate di sale 18 e di pepe. Coprite con il coperchio 19 e cuocete a fuoco dolce per circa 40 minuti. Trascorso questo tempo, rimuovete il coperchio e proseguite la cottura per altri 10 minuti 20 . Infine, aromatizzate con il prezzemolo tritato 21 . Impiattate e completate con qualche fogliolina di timo 22 e un filo d’olio 23 . La vostra zuppa di rana pescatrice è pronta per essere servita 24 ! Conservazione La zuppa di rana pescatrice si può conservare in frigorifero per 2 giorni. Si può congelare. Consiglio Se preferite, potete omettere i funghi porcini secchi. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Rana pescatrice Timo Funghi Pomodoro Aglio Sedano Olio di oliva Prezzemolo Cipolla Scopri tutto sugli ingredienti Presente in: Primi piatti sfiziosi , Primi piatti di pesce , Secondi piatti , Secondi piatti sfiziosi , Secondi piatti di pesce , Ricette sfiziose STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Zuppa di rana pescatrice 5.0 Risotto alla barbabietola e robiola 3.7 Mondeghili di brasato 5.0 SCOPRI Rana pescatrice al forno Rana pescatrice in padella Rana pescatrice alla catalana Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Zuppa di mare calda e avvolgente",
+        "Rana pescatrice, pomodoro, funghi porcini secchi",
+        "Rosola i tranci con trito di verdure",
+        "Cuoci coperto 40 minuti, poi scoperto 10",
+        "Prezzemolo e timo fresco: completa il piatto"
+      ],
+      "instagram_caption": "Quando il mare incontra il bosco, succede qualcosa di magico 🍲\nLa mia zuppa di rana pescatrice nasce così: tranci rosolati con un trito di verdure, poi pomodoro e funghi porcini secchi a dare profondità.\nTutto cuoce coperto per 40 minuti, poi altri 10 a pentola aperta per concentrare il profumo.\nUna spolverata di prezzemolo e timo fresco ed è pronta per scaldare le serate più fredde 🐟🍄\nSalva la ricetta e provala questo weekend 🌿",
+      "formats": {
+        "instagram": {
+          "caption": "Quando il mare incontra il bosco, succede qualcosa di magico 🍲\nLa mia zuppa di rana pescatrice nasce così: tranci rosolati con un trito di verdure, poi pomodoro e funghi porcini secchi a dare profondità.\nTutto cuoce coperto per 40 minuti, poi altri 10 a pentola aperta per concentrare il profumo.\nUna spolverata di prezzemolo e timo fresco ed è pronta per scaldare le serate più fredde 🐟🍄\nSalva la ricetta e provala questo weekend 🌿"
+        },
+        "tiktok": {
+          "script": [
+            "Oggi prepariamo una zuppa di mare calda e avvolgente.",
+            "Prendo rana pescatrice, pomodoro e funghi porcini secchi.",
+            "Rosolo i tranci con un trito di verdure.",
+            "Cuocio coperto 40 minuti, poi scoperto 10.",
+            "Prezzemolo e timo fresco completano il piatto."
+          ]
+        },
+        "x": {
+          "thread": [
+            "La zuppa di rana pescatrice è il piatto che non ti aspetti: mare caldo, profondo, avvolgente. Un cucchiaio e capisci che l'inverno può aspettare. 🍲",
+            "Parti dalla rana pescatrice a tranci, pomodoro maturo e funghi porcini secchi. Ammolla i porcini, poi rosola i tranci con un trito di verdure. Il profumo inizia a girare per casa.",
+            "Sfuma, aggiungi pomodoro e porcini con la loro acqua. Copri e lascia cuocere 40 minuti a fiamma dolce. Poi scopri e vai altri 10: il sugo si stringe, il pesce resta morbido.",
+            "Prezzemolo e timo fresco solo alla fine, per non perdere l'aroma. Un filo d'olio a crudo e la zuppa è pronta: densa, calda, con quel fondo marino che sa di casa.",
+            "Trucco: lasciala riposare 5 minuti prima di servirla, i sapori si legano. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Oggi prepariamo una zuppa di mare calda e avvolgente.",
+        "Prendo rana pescatrice, pomodoro e funghi porcini secchi.",
+        "Rosolo i tranci con un trito di verdure.",
+        "Cuocio coperto 40 minuti, poi scoperto 10.",
+        "Prezzemolo e timo fresco completano il piatto."
+      ],
+      "thread_text": [
+        "La zuppa di rana pescatrice è il piatto che non ti aspetti: mare caldo, profondo, avvolgente. Un cucchiaio e capisci che l'inverno può aspettare. 🍲",
+        "Parti dalla rana pescatrice a tranci, pomodoro maturo e funghi porcini secchi. Ammolla i porcini, poi rosola i tranci con un trito di verdure. Il profumo inizia a girare per casa.",
+        "Sfuma, aggiungi pomodoro e porcini con la loro acqua. Copri e lascia cuocere 40 minuti a fiamma dolce. Poi scopri e vai altri 10: il sugo si stringe, il pesce resta morbido.",
+        "Prezzemolo e timo fresco solo alla fine, per non perdere l'aroma. Un filo d'olio a crudo e la zuppa è pronta: densa, calda, con quel fondo marino che sa di casa.",
+        "Trucco: lasciala riposare 5 minuti prima di servirla, i sapori si legano. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Zuppa di rana pescatrice avvolgente",
+          "description": "Una zuppa di mare calda e confortante, perfetta per le serate più fredde.",
+          "visual_hint": "ciotola fumante di zuppa",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory fish soup"
+        },
+        {
+          "hook": "Rana pescatrice, pomodoro, porcini",
+          "description": "Ingredienti semplici e genuini: pesce pregiato, pomodoro fresco e funghi porcini secchi.",
+          "visual_hint": "ingredienti sul tagliere",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory monkfish tomato",
+          "image": "https://images.pexels.com/photos/18735017/pexels-photo-18735017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rosola i tranci con trito di verdure",
+          "description": "Il soffritto di verdure e la rosolatura sigillano i sapori e creano la base della zuppa.",
+          "visual_hint": "tranci che rosolano in padella",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory fish searing",
+          "image": "https://images.pexels.com/photos/16064369/pexels-photo-16064369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cuoci coperto 40 minuti, poi scoperto 10",
+          "description": "La lunga cottura coperta rende il pesce morbido e la zuppa intensa; gli ultimi minuti scoperti la addensano.",
+          "visual_hint": "pentola che sobbolle coperta",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory fish stew",
+          "image": "https://images.pexels.com/photos/14457502/pexels-photo-14457502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prezzemolo e timo fresco completano",
+          "description": "Una spolverata di erbe fresche prima di servire dà freschezza e profumo inconfondibile.",
+          "visual_hint": "zuppa guarnita con erbe",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory soup herbs",
+          "image": "https://images.pexels.com/photos/27098505/pexels-photo-27098505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "soup",
+      "signature_ingredients": [
+        "rana pescatrice",
+        "pomodoro",
+        "funghi porcini secchi"
+      ],
+      "image": "https://www.giallozafferano.it/images/366-36644/Zuppa-di-rana-pescatrice_650x433_wm.jpg",
+      "savedAt": "2026-09-23T19:29:38.348Z",
+      "sourceId": "7bc472a380e25dfabf8311565c8fa074"
+    },
     {
       "schema_version": 2,
       "agent": "food",

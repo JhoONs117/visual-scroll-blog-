@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-old-cybersecurity-model-is-breaking",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The old cybersecurity model is breaking",
+  "link": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
+  "pubDate": "Wed, 23 Sep 2026 17:44:02 +0000",
+  "slides": [
+    "The old cybersecurity model is breaking",
+    "Perimeter defense fails against AI-generated phishing at scale",
+    "Insiders accidentally leak more than hackers steal",
+    "Zero-trust means verifying every request, every time",
+    "Stop trusting your firewall; start trusting behavior"
+  ],
+  "thread_text": [
+    "1. The Old Model Is Breaking\n\nAI-generated phishing now scales at near-zero cost. Your firewall's perimeter defense can't keep up with attacks that adapt in real time.",
+    "2. Insiders Leak More Than Hackers\n\nEmployees accidentally expose credentials and data through simple mistakes. Hackers don't need to break in when the door is already open.",
+    "3. Zero-Trust: Verify Everything\n\nNever assume trust based on location or device. Every request must be authenticated and authorized, every single time.",
+    "4. Your Firewall Won't Save You\n\nStatic rules can't stop behavioral threats. Start trusting behavior patterns, not network boundaries.",
+    "5. Test Your Assumptions Today\n\nTake a prompt on ChatGPT and simulate a phishing email targeting your team. If you haven't done it, start there."
+  ],
+  "video_script": [
+    "Old security model is breaking right now.",
+    "AI phishing scales faster than your firewall.",
+    "Insiders leak more than hackers steal.",
+    "Zero-trust: verify every request, every time.",
+    "Stop trusting firewalls. Start trusting behavior."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Old Model Is Breaking\n\nAI-generated phishing now scales at near-zero cost. Your firewall's perimeter defense can't keep up with attacks that adapt in real time.",
+        "2. Insiders Leak More Than Hackers\n\nEmployees accidentally expose credentials and data through simple mistakes. Hackers don't need to break in when the door is already open.",
+        "3. Zero-Trust: Verify Everything\n\nNever assume trust based on location or device. Every request must be authenticated and authorized, every single time.",
+        "4. Your Firewall Won't Save You\n\nStatic rules can't stop behavioral threats. Start trusting behavior patterns, not network boundaries.",
+        "5. Test Your Assumptions Today\n\nTake a prompt on ChatGPT and simulate a phishing email targeting your team. If you haven't done it, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Old security model is breaking right now.",
+        "AI phishing scales faster than your firewall.",
+        "Insiders leak more than hackers steal.",
+        "Zero-trust: verify every request, every time.",
+        "Stop trusting firewalls. Start trusting behavior."
+      ]
+    },
+    "instagram": {
+      "caption": "Your employees are leaking more data than hackers are stealing.\n\nAI-generated phishing now scales at near-zero cost, and the old perimeter defense can't keep up with attacks that adapt in real time.\n\nZero-trust means verifying every request, every time — not just once at the login screen.\n\nStatic firewall rules can't stop behavioral threats. Stop trusting network boundaries and start trusting behavior patterns. 🔐\n\nIf your security model still assumes \"inside = safe,\" it's already broken. ⚠️\n\nWhen did you last test whether your own team would click a fake phishing link? 🎣"
+    }
+  },
+  "instagram_caption": "Your employees are leaking more data than hackers are stealing.\n\nAI-generated phishing now scales at near-zero cost, and the old perimeter defense can't keep up with attacks that adapt in real time.\n\nZero-trust means verifying every request, every time — not just once at the login screen.\n\nStatic firewall rules can't stop behavioral threats. Stop trusting network boundaries and start trusting behavior patterns. 🔐\n\nIf your security model still assumes \"inside = safe,\" it's already broken. ⚠️\n\nWhen did you last test whether your own team would click a fake phishing link? 🎣",
+  "carousel_slides": [
+    {
+      "hook": "Who's really leaking your data?",
+      "description": "Insiders accidentally expose credentials more than hackers steal them. The breach is already inside your walls.",
+      "visual_hint": "Open door in office corridor",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "open door office"
+    },
+    {
+      "hook": "Your firewall can't see this coming",
+      "description": "AI-generated phishing scales at near-zero cost, adapting in real time. Perimeter defense fails against attacks that never stop mutating.",
+      "visual_hint": "Glowing phishing email on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "phishing email screen",
+      "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The door is already open",
+      "description": "Employees accidentally leak credentials through simple mistakes. Hackers don't break in when trust is given away freely.",
+      "visual_hint": "Unlocked padlock on server rack",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "unlocked padlock server",
+      "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trust no location, verify everything",
+      "description": "Zero-trust means authenticating and authorizing every request, every time. Location and device no longer earn automatic access.",
+      "visual_hint": "Fingerprint scan on access panel",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "fingerprint access panel",
+      "image": "https://images.pexels.com/photos/20901468/pexels-photo-20901468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your assumptions today — save this",
+      "description": "Simulate an AI phishing email targeting your team now. If you haven't done it yet, start there and comment your results.",
+      "visual_hint": "Laptop with ChatGPT prompt open",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop chat interface",
+      "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233776792.jpg?resize=1200,750",
+  "savedAt": "2026-09-23T19:20:49.294Z",
+  "sourceId": "542b7322fe0c135b7d80c51cf82b5a3b"
+}

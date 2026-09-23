@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "youtube-adds-new-creator-tools-like-video-a-b-test",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing",
+  "link": "https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/",
+  "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
+  "slides": [
+    "Is YouTube's new toolset a game changer for creators?",
+    "A/B testing and dynamic thumbnails now available.",
+    "But live dubbing might surprise you the most.",
+    "You can now test thumbnails automatically within hours.",
+    "Start A/B testing your thumbnails today."
+  ],
+  "thread_text": [
+    "1. YouTube just changed the game\n\nA/B testing and dynamic thumbnails are no longer locked behind expensive third-party services. Creators can now test thumbnails natively inside YouTube — automatically.",
+    "2. Stop guessing, start testing\n\nThe system rotates different thumbnails on your video and picks the winner within hours. No spreadsheets, no manual swaps, no external tools required.",
+    "3. But wait — live dubbing?\n\nYouTube also quietly added real-time audio dubbing. That means your video can reach audiences speaking entirely different languages without you recording a single extra word.",
+    "4. Your old workflow is obsolete\n\nThird-party A/B testing tools charged monthly fees for this exact feature. YouTube just killed that business model overnight — and gave every creator access for free.",
+    "5. Your move: test one thumbnail today\n\nTake your latest video, pick two thumbnails, and let YouTube's A/B test run for 24 hours. Will you trust the algorithm's winner — or your gut?"
+  ],
+  "video_script": [
+    "YouTube just launched native A/B testing for thumbnails.",
+    "The system finds your best thumbnail within hours.",
+    "No third-party tools needed anymore - it's built in.",
+    "But the real shock? YouTube quietly added live dubbing.",
+    "Your content can now speak every language instantly."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. YouTube just changed the game\n\nA/B testing and dynamic thumbnails are no longer locked behind expensive third-party services. Creators can now test thumbnails natively inside YouTube — automatically.",
+        "2. Stop guessing, start testing\n\nThe system rotates different thumbnails on your video and picks the winner within hours. No spreadsheets, no manual swaps, no external tools required.",
+        "3. But wait — live dubbing?\n\nYouTube also quietly added real-time audio dubbing. That means your video can reach audiences speaking entirely different languages without you recording a single extra word.",
+        "4. Your old workflow is obsolete\n\nThird-party A/B testing tools charged monthly fees for this exact feature. YouTube just killed that business model overnight — and gave every creator access for free.",
+        "5. Your move: test one thumbnail today\n\nTake your latest video, pick two thumbnails, and let YouTube's A/B test run for 24 hours. Will you trust the algorithm's winner — or your gut?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "YouTube just launched native A/B testing for thumbnails.",
+        "The system finds your best thumbnail within hours.",
+        "No third-party tools needed anymore - it's built in.",
+        "But the real shock? YouTube quietly added live dubbing.",
+        "Your content can now speak every language instantly."
+      ]
+    },
+    "instagram": {
+      "caption": "YouTube will now rotate different thumbnails on your video and pick the winner within hours.\n\nA/B testing and dynamic thumbnails are built right in, no third-party tool needed. 🎯\n\nLive dubbing also landed: your video can reach other languages without recording a word.\n\nYou can stop paying monthly for thumbnail testing and let the system run it for free.\n\nYour latest video is sitting there with one thumbnail. Will you test two before you post the next one? 👀"
+    }
+  },
+  "instagram_caption": "YouTube will now rotate different thumbnails on your video and pick the winner within hours.\n\nA/B testing and dynamic thumbnails are built right in, no third-party tool needed. 🎯\n\nLive dubbing also landed: your video can reach other languages without recording a word.\n\nYou can stop paying monthly for thumbnail testing and let the system run it for free.\n\nYour latest video is sitting there with one thumbnail. Will you test two before you post the next one? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Live dubbing changes everything for creators",
+      "description": "YouTube added real-time audio dubbing, letting your videos reach audiences in different languages without recording a single extra word.",
+      "visual_hint": "Glowing globe with audio waves",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "global network map"
+    },
+    {
+      "hook": "A/B testing now built into YouTube",
+      "description": "Dynamic thumbnails and A/B testing are natively available inside YouTube, no longer locked behind expensive third-party services.",
+      "visual_hint": "Two thumbnail images side by side",
+      "layout_type": "right-focus",
+      "icon": "check",
+      "image_query": "video editing screen",
+      "image": "https://images.pexels.com/photos/31718971/pexels-photo-31718971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop guessing, let the algorithm decide",
+      "description": "The system rotates different thumbnails automatically and picks the winner within hours, eliminating manual swaps and spreadsheets.",
+      "visual_hint": "Split screen with rotating thumbnails",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "algorithm data visualization",
+      "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your old workflow is now obsolete",
+      "description": "Third-party tools charged monthly fees for this exact feature. YouTube just killed that business model overnight and gave every creator free access.",
+      "visual_hint": "Hand holding phone with YouTube interface",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "smartphone youtube app",
+      "image": "https://images.pexels.com/photos/32141311/pexels-photo-32141311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one thumbnail today, see results",
+      "description": "Take your latest video, pick two thumbnails, and let YouTube's A/B test run for 24 hours. Save this post and try it now.",
+      "visual_hint": "YouTube analytics dashboard on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "analytics dashboard screen",
+      "image": "https://images.pexels.com/photos/8100069/pexels-photo-8100069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/8542360/pexels-photo-8542360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-23T19:21:05.323Z",
+  "sourceId": "b6623ede924d7d811339f1eb12b44c61"
+}
