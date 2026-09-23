@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ema-raises-77m-as-ai-starts-eating-into-enterprise",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+  "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+  "pubDate": "Wed, 23 Sep 2026 12:00:00 +0000",
+  "slides": [
+    "Can Ema's AI replace your enterprise software?",
+    "It raised $77M to automate complex workflows.",
+    "But it cuts into services revenue, not just software.",
+    "Your job may shift from operator to AI supervisor.",
+    "Test one repetitive task with Ema today."
+  ],
+  "thread_text": [
+    "1. Your enterprise stack is obsolete\n\nEma just raised $77M to automate complex workflows that used to require human operators. That's not a feature update — it's a replacement strategy.",
+    "2. The hidden revenue threat\n\nMost AI tools sell you software. Ema cuts into the services revenue you bill clients for. That's a bigger disruption than a new competitor.",
+    "3. From operator to supervisor\n\nYour daily grind of clicking through repetitive tasks is disappearing. The new job is watching the AI, catching its mistakes, and retraining it. Different skill set, same paycheck — for now.",
+    "4. The $77M bet on your workflow\n\nInvestors aren't funding a chatbot. They're betting that your most complex, human-heavy processes can run without you. The question is whether you'll be the one supervising it or the one replaced by it.",
+    "5. Test one task this week\n\nPick a repetitive process you do daily. Run it through Ema's free trial or a similar tool. If it saves time, you've just found your new assistant. If it fails, you've found job security. Either way, you learn something real."
+  ],
+  "video_script": [
+    "Ema raised 77 million to automate your workflows.",
+    "It cuts services revenue, not just software.",
+    "Your job shifts from operator to AI supervisor.",
+    "Test one repetitive task with Ema today.",
+    "Then decide if you're supervising or replaced."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your enterprise stack is obsolete\n\nEma just raised $77M to automate complex workflows that used to require human operators. That's not a feature update — it's a replacement strategy.",
+        "2. The hidden revenue threat\n\nMost AI tools sell you software. Ema cuts into the services revenue you bill clients for. That's a bigger disruption than a new competitor.",
+        "3. From operator to supervisor\n\nYour daily grind of clicking through repetitive tasks is disappearing. The new job is watching the AI, catching its mistakes, and retraining it. Different skill set, same paycheck — for now.",
+        "4. The $77M bet on your workflow\n\nInvestors aren't funding a chatbot. They're betting that your most complex, human-heavy processes can run without you. The question is whether you'll be the one supervising it or the one replaced by it.",
+        "5. Test one task this week\n\nPick a repetitive process you do daily. Run it through Ema's free trial or a similar tool. If it saves time, you've just found your new assistant. If it fails, you've found job security. Either way, you learn something real."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Ema raised 77 million to automate your workflows.",
+        "It cuts services revenue, not just software.",
+        "Your job shifts from operator to AI supervisor.",
+        "Test one repetitive task with Ema today.",
+        "Then decide if you're supervising or replaced."
+      ]
+    },
+    "instagram": {
+      "caption": "$77M says your most complex workflows don't need you anymore.\n\nEma just raised that to automate tasks companies pay people to run. It's not another tool you buy 🤖\n\nIt eats the services revenue your firm bills clients, not just software licenses.\n\nYour day shifts from doing repetitive tasks to supervising the AI doing them.\n\nPick one task you repeat daily and run it through a tool like this. Does it hold up?\n\nIf it does, you just met your new assistant. If not, you found job security."
+    }
+  },
+  "instagram_caption": "$77M says your most complex workflows don't need you anymore.\n\nEma just raised that to automate tasks companies pay people to run. It's not another tool you buy 🤖\n\nIt eats the services revenue your firm bills clients, not just software licenses.\n\nYour day shifts from doing repetitive tasks to supervising the AI doing them.\n\nPick one task you repeat daily and run it through a tool like this. Does it hold up?\n\nIf it does, you just met your new assistant. If not, you found job security.",
+  "carousel_slides": [
+    {
+      "hook": "AI is eating your services revenue",
+      "description": "Ema raised $77M to automate complex workflows, threatening the services revenue you bill clients, not just software seats.",
+      "visual_hint": "Glowing AI brain over office desk",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "artificial intelligence brain"
+    },
+    {
+      "hook": "Ema just raised $77M for automation",
+      "description": "Investors bet that complex, human-heavy processes can run without you. The question is who supervises it.",
+      "visual_hint": "Stack of cash beside robot arm",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "venture capital funding",
+      "image": "https://images.pexels.com/photos/6289043/pexels-photo-6289043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It cuts services, not just software",
+      "description": "Most AI tools sell software. Ema replaces the billable services you charge for, a bigger disruption than any competitor.",
+      "visual_hint": "Splitting revenue chart with scissors",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "financial chart splitting",
+      "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You become the AI supervisor",
+      "description": "Your repetitive clicking disappears. The new job is watching AI, catching mistakes, retraining it. Different skills, same paycheck for now.",
+      "visual_hint": "Hand hovering over glowing keyboard",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "hand on keyboard",
+      "image": "https://images.pexels.com/photos/37005816/pexels-photo-37005816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one task with Ema today",
+      "description": "Pick a repetitive daily process. Run it through Ema's free trial. If it saves time, you found your assistant; if not, job security.",
+      "visual_hint": "Cursor clicking free trial button",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "computer mouse clicking",
+      "image": "https://images.pexels.com/photos/5931186/pexels-photo-5931186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-08-at-12.27.26-PM.png?resize=1200,671",
+  "savedAt": "2026-09-23T14:35:36.252Z",
+  "sourceId": "ca7a2de7d13c02aaf748d4351f66f057"
+}

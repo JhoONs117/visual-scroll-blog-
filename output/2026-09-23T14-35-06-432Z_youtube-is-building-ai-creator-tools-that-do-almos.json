@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "youtube-is-building-ai-creator-tools-that-do-almos",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "YouTube is building AI creator tools that do almost everything for them",
+  "link": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+  "pubDate": "2026-09-23T14:30:00.000Z",
+  "slides": [
+    "YouTube's AI tools might replace creators' unique voices.",
+    "New AI generates scripts, edits, and thumbnails automatically.",
+    "But tests show viewer trust drops when AI is detected.",
+    "Creators must disclose AI use, risking demonetization.",
+    "Test one AI tool this week to gauge audience reaction."
+  ],
+  "thread_text": [
+    "1. The Trust Trap\n\nYouTube's new AI can script, edit, and design thumbnails for you. But when viewers sense a bot, their trust drops—and they click away. Is saving time worth losing your audience?",
+    "2. Disclose or Demonetize\n\nCreators must now reveal AI use. That transparency can trigger algorithmic punishment. The platform says disclose; the audience says goodbye.",
+    "3. The Authenticity Tax\n\nViewers don't just want content—they want you. AI can mimic style, but it can't fake the human hesitation that builds loyalty. Test one tool on a low-stakes post and watch the comments.",
+    "4. The Algorithm Doesn't Blink\n\nYouTube's AI tools are designed to keep you on the platform, not to protect your brand. If your voice becomes generic, the algorithm will find someone cheaper. Your unique perspective is the only moat left.",
+    "5. Your Turn to Test\n\nPick one AI tool this week and run it on a real post. Then check: did your audience notice? Did they care? If you haven't tried it, you're already behind."
+  ],
+  "video_script": [
+    "YouTube's new AI can write, edit, and design for you.",
+    "But viewers trust you less when they detect AI.",
+    "Now you must disclose AI use or risk demonetization.",
+    "Your unique voice is the only thing AI can't copy.",
+    "Test one AI tool this week and watch your audience."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Trust Trap\n\nYouTube's new AI can script, edit, and design thumbnails for you. But when viewers sense a bot, their trust drops—and they click away. Is saving time worth losing your audience?",
+        "2. Disclose or Demonetize\n\nCreators must now reveal AI use. That transparency can trigger algorithmic punishment. The platform says disclose; the audience says goodbye.",
+        "3. The Authenticity Tax\n\nViewers don't just want content—they want you. AI can mimic style, but it can't fake the human hesitation that builds loyalty. Test one tool on a low-stakes post and watch the comments.",
+        "4. The Algorithm Doesn't Blink\n\nYouTube's AI tools are designed to keep you on the platform, not to protect your brand. If your voice becomes generic, the algorithm will find someone cheaper. Your unique perspective is the only moat left.",
+        "5. Your Turn to Test\n\nPick one AI tool this week and run it on a real post. Then check: did your audience notice? Did they care? If you haven't tried it, you're already behind."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "YouTube's new AI can write, edit, and design for you.",
+        "But viewers trust you less when they detect AI.",
+        "Now you must disclose AI use or risk demonetization.",
+        "Your unique voice is the only thing AI can't copy.",
+        "Test one AI tool this week and watch your audience."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next YouTube thumbnail might be designed by a bot, and viewers can tell. 🤖\n\nYouTube is rolling out tools that write scripts, edit video, and generate thumbnails automatically.\n\nCreators now have to disclose when AI is used, and that label can hurt reach and trust.\n\nTests show audiences click away once they sense a bot behind the content.\n\nIf you post videos, one AI tool could save you hours this week, but might cost you the audience that trusts your voice. 👀\n\nPick one tool, run it on a low-stakes post, and watch the comments. Did they notice? 🎬\n\nWould you risk it?"
+    }
+  },
+  "instagram_caption": "Your next YouTube thumbnail might be designed by a bot, and viewers can tell. 🤖\n\nYouTube is rolling out tools that write scripts, edit video, and generate thumbnails automatically.\n\nCreators now have to disclose when AI is used, and that label can hurt reach and trust.\n\nTests show audiences click away once they sense a bot behind the content.\n\nIf you post videos, one AI tool could save you hours this week, but might cost you the audience that trusts your voice. 👀\n\nPick one tool, run it on a low-stakes post, and watch the comments. Did they notice? 🎬\n\nWould you risk it?",
+  "carousel_slides": [
+    {
+      "hook": "Does AI content kill viewer trust?",
+      "description": "Tests show viewer trust drops when AI is detected, even with YouTube's new script, edit, and thumbnail tools.",
+      "visual_hint": "Declining trust graph with AI icon",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Disclose AI, risk demonetization?",
+      "description": "Creators must now reveal AI use, but transparency can trigger algorithmic punishment and audience loss.",
+      "visual_hint": "Warning sign over creator dashboard",
+      "layout_type": "right-focus",
+      "icon": "vibration",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Can AI fake human hesitation?",
+      "description": "AI mimics style but can't fake the human hesitation that builds loyalty. Authenticity becomes a tax.",
+      "visual_hint": "Robot hand writing script",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your voice is the only moat",
+      "description": "YouTube's AI keeps users on platform, not protecting your brand. Generic voices get replaced by cheaper alternatives.",
+      "visual_hint": "Person standing out in crowd",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "crowd market",
+      "image": "https://images.pexels.com/photos/3719495/pexels-photo-3719495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one AI tool this week",
+      "description": "Run one AI tool on a real post, then check if audience notices or cares. Save this for your next test.",
+      "visual_hint": "Checklist with AI tool icons",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Creation-YT-Studio-Bundle-Optimize-your-Catalog-UX-Flow-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4750998734523%2C100%2C93.049800253095&amp;w=1200",
+  "savedAt": "2026-09-23T14:35:45.093Z",
+  "sourceId": "8909ad75f4c2b2141b3aa51629839519"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "u-s-transcom-deploys-randomised-ai-to-secure-milit",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "U.S. TRANSCOM deploys randomised AI to secure military logistics",
+  "link": "https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/",
+  "pubDate": "Wed, 23 Sep 2026 13:13:15 +0000",
+  "slides": [
+    "Can randomised AI protect U.S. military logistics from attack?",
+    "TRANSCOM now tests unpredictable algorithms for supply chains.",
+    "Unlike fixed routes, randomness confuses adversaries—but also commanders.",
+    "Your supply chain could adopt similar unpredictability today.",
+    "Test one randomised delivery window this week."
+  ],
+  "thread_text": [
+    "1. War Games with Dice\n\nThe U.S. military is testing algorithms that deliberately randomise supply routes to confuse attackers. The idea: if you can't predict where a truck goes, you can't ambush it.",
+    "2. Unpredictable, Not Chaotic\n\nTRANSCOM is now running live experiments with these randomised algorithms. The goal is to keep adversaries guessing, but commanders still need to know where their own supplies are.",
+    "3. The Double-Edged Sword\n\nRandomness can hide movements from enemies—but it also makes it harder for friendly forces to track deliveries. Commanders lose the certainty they've relied on for decades.",
+    "4. Your Supply Chain Can Do It Too\n\nYou don't need a military budget. Randomised delivery windows or route shifts can disrupt potential thieves or competitors watching your patterns. Start small.",
+    "5. One Random Window\n\nPick one delivery this week and change its time by a few hours without telling anyone outside your team. See if it causes confusion—or reveals a weakness."
+  ],
+  "video_script": [
+    "The military is using random algorithms to protect supply routes.",
+    "They move supplies unpredictably so enemies can't plan attacks.",
+    "But randomness also confuses the commanders ordering the supplies.",
+    "You can try the same trick with your own deliveries.",
+    "Pick one delivery this week and shift its time randomly."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. War Games with Dice\n\nThe U.S. military is testing algorithms that deliberately randomise supply routes to confuse attackers. The idea: if you can't predict where a truck goes, you can't ambush it.",
+        "2. Unpredictable, Not Chaotic\n\nTRANSCOM is now running live experiments with these randomised algorithms. The goal is to keep adversaries guessing, but commanders still need to know where their own supplies are.",
+        "3. The Double-Edged Sword\n\nRandomness can hide movements from enemies—but it also makes it harder for friendly forces to track deliveries. Commanders lose the certainty they've relied on for decades.",
+        "4. Your Supply Chain Can Do It Too\n\nYou don't need a military budget. Randomised delivery windows or route shifts can disrupt potential thieves or competitors watching your patterns. Start small.",
+        "5. One Random Window\n\nPick one delivery this week and change its time by a few hours without telling anyone outside your team. See if it causes confusion—or reveals a weakness."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "The military is using random algorithms to protect supply routes.",
+        "They move supplies unpredictably so enemies can't plan attacks.",
+        "But randomness also confuses the commanders ordering the supplies.",
+        "You can try the same trick with your own deliveries.",
+        "Pick one delivery this week and shift its time randomly."
+      ]
+    },
+    "instagram": {
+      "caption": "The Pentagon is testing algorithms that randomize supply routes so attackers can't predict where trucks go.\n\nU.S. Transportation Command is now running live experiments with these unpredictable algorithms.\n\nThe point: if enemies can't guess the route, they can't ambush it. But randomness also makes it harder for commanders to track their own deliveries. 🎲\n\nYou don't need a military budget to use this.\n\nTry shifting one delivery window by a few hours this week and see who notices. 🚚\n\nWould that small change expose a weakness in your own routine?"
+    }
+  },
+  "instagram_caption": "The Pentagon is testing algorithms that randomize supply routes so attackers can't predict where trucks go.\n\nU.S. Transportation Command is now running live experiments with these unpredictable algorithms.\n\nThe point: if enemies can't guess the route, they can't ambush it. But randomness also makes it harder for commanders to track their own deliveries. 🎲\n\nYou don't need a military budget to use this.\n\nTry shifting one delivery window by a few hours this week and see who notices. 🚚\n\nWould that small change expose a weakness in your own routine?",
+  "carousel_slides": [
+    {
+      "hook": "Randomness hides supply chains from attackers?",
+      "description": "TRANSCOM tests algorithms that randomize routes, making ambushes harder—but commanders may lose track of their own deliveries.",
+      "visual_hint": "Military truck convoy on dusty road",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "military convoy"
+    },
+    {
+      "hook": "Unpredictable algorithms now run live experiments",
+      "description": "TRANSCOM is testing randomized supply routes to confuse adversaries, but commanders still need to know where supplies are.",
+      "visual_hint": "Digital map with moving dots",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "digital map",
+      "image": "https://images.pexels.com/photos/4558710/pexels-photo-4558710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Randomness cuts both ways in logistics",
+      "description": "Random routes hide movements from enemies but also make it harder for friendly forces to track deliveries, eroding command certainty.",
+      "visual_hint": "Split screen soldier and supply boxes",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "supply chain",
+      "image": "https://images.pexels.com/photos/4483859/pexels-photo-4483859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your supply chain can adopt unpredictability today",
+      "description": "You don't need a military budget. Randomize delivery windows or shift routes to disrupt thieves or competitors watching your patterns.",
+      "visual_hint": "Hand holding smartphone with delivery app",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "delivery van",
+      "image": "https://images.pexels.com/photos/11213246/pexels-photo-11213246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try one random delivery window this week",
+      "description": "Change a delivery time by a few hours without telling anyone outside your team. See if it causes confusion—or reveals a weakness.",
+      "visual_hint": "Clock and package on doorstep",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "delivery package",
+      "image": "https://images.pexels.com/photos/12725403/pexels-photo-12725403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/9977270/pexels-photo-9977270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-23T14:35:16.158Z",
+  "sourceId": "d97cb0c0478dc662de847253a0e23278"
+}

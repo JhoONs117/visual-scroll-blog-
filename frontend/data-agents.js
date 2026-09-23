@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "youtube-is-building-ai-creator-tools-that-do-almos",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "YouTube is building AI creator tools that do almost everything for them",
+      "link": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+      "pubDate": "2026-09-23T14:30:00.000Z",
+      "slides": [
+        "YouTube's AI tools might replace creators' unique voices.",
+        "New AI generates scripts, edits, and thumbnails automatically.",
+        "But tests show viewer trust drops when AI is detected.",
+        "Creators must disclose AI use, risking demonetization.",
+        "Test one AI tool this week to gauge audience reaction."
+      ],
+      "thread_text": [
+        "1. The Trust Trap\n\nYouTube's new AI can script, edit, and design thumbnails for you. But when viewers sense a bot, their trust drops—and they click away. Is saving time worth losing your audience?",
+        "2. Disclose or Demonetize\n\nCreators must now reveal AI use. That transparency can trigger algorithmic punishment. The platform says disclose; the audience says goodbye.",
+        "3. The Authenticity Tax\n\nViewers don't just want content—they want you. AI can mimic style, but it can't fake the human hesitation that builds loyalty. Test one tool on a low-stakes post and watch the comments.",
+        "4. The Algorithm Doesn't Blink\n\nYouTube's AI tools are designed to keep you on the platform, not to protect your brand. If your voice becomes generic, the algorithm will find someone cheaper. Your unique perspective is the only moat left.",
+        "5. Your Turn to Test\n\nPick one AI tool this week and run it on a real post. Then check: did your audience notice? Did they care? If you haven't tried it, you're already behind."
+      ],
+      "video_script": [
+        "YouTube's new AI can write, edit, and design for you.",
+        "But viewers trust you less when they detect AI.",
+        "Now you must disclose AI use or risk demonetization.",
+        "Your unique voice is the only thing AI can't copy.",
+        "Test one AI tool this week and watch your audience."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Trust Trap\n\nYouTube's new AI can script, edit, and design thumbnails for you. But when viewers sense a bot, their trust drops—and they click away. Is saving time worth losing your audience?",
+            "2. Disclose or Demonetize\n\nCreators must now reveal AI use. That transparency can trigger algorithmic punishment. The platform says disclose; the audience says goodbye.",
+            "3. The Authenticity Tax\n\nViewers don't just want content—they want you. AI can mimic style, but it can't fake the human hesitation that builds loyalty. Test one tool on a low-stakes post and watch the comments.",
+            "4. The Algorithm Doesn't Blink\n\nYouTube's AI tools are designed to keep you on the platform, not to protect your brand. If your voice becomes generic, the algorithm will find someone cheaper. Your unique perspective is the only moat left.",
+            "5. Your Turn to Test\n\nPick one AI tool this week and run it on a real post. Then check: did your audience notice? Did they care? If you haven't tried it, you're already behind."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "YouTube's new AI can write, edit, and design for you.",
+            "But viewers trust you less when they detect AI.",
+            "Now you must disclose AI use or risk demonetization.",
+            "Your unique voice is the only thing AI can't copy.",
+            "Test one AI tool this week and watch your audience."
+          ]
+        },
+        "instagram": {
+          "caption": "Your next YouTube thumbnail might be designed by a bot, and viewers can tell. 🤖\n\nYouTube is rolling out tools that write scripts, edit video, and generate thumbnails automatically.\n\nCreators now have to disclose when AI is used, and that label can hurt reach and trust.\n\nTests show audiences click away once they sense a bot behind the content.\n\nIf you post videos, one AI tool could save you hours this week, but might cost you the audience that trusts your voice. 👀\n\nPick one tool, run it on a low-stakes post, and watch the comments. Did they notice? 🎬\n\nWould you risk it?"
+        }
+      },
+      "instagram_caption": "Your next YouTube thumbnail might be designed by a bot, and viewers can tell. 🤖\n\nYouTube is rolling out tools that write scripts, edit video, and generate thumbnails automatically.\n\nCreators now have to disclose when AI is used, and that label can hurt reach and trust.\n\nTests show audiences click away once they sense a bot behind the content.\n\nIf you post videos, one AI tool could save you hours this week, but might cost you the audience that trusts your voice. 👀\n\nPick one tool, run it on a low-stakes post, and watch the comments. Did they notice? 🎬\n\nWould you risk it?",
+      "carousel_slides": [
+        {
+          "hook": "Does AI content kill viewer trust?",
+          "description": "Tests show viewer trust drops when AI is detected, even with YouTube's new script, edit, and thumbnail tools.",
+          "visual_hint": "Declining trust graph with AI icon",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Disclose AI, risk demonetization?",
+          "description": "Creators must now reveal AI use, but transparency can trigger algorithmic punishment and audience loss.",
+          "visual_hint": "Warning sign over creator dashboard",
+          "layout_type": "right-focus",
+          "icon": "vibration",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Can AI fake human hesitation?",
+          "description": "AI mimics style but can't fake the human hesitation that builds loyalty. Authenticity becomes a tax.",
+          "visual_hint": "Robot hand writing script",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your voice is the only moat",
+          "description": "YouTube's AI keeps users on platform, not protecting your brand. Generic voices get replaced by cheaper alternatives.",
+          "visual_hint": "Person standing out in crowd",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "crowd market",
+          "image": "https://images.pexels.com/photos/3719495/pexels-photo-3719495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one AI tool this week",
+          "description": "Run one AI tool on a real post, then check if audience notices or cares. Save this for your next test.",
+          "visual_hint": "Checklist with AI tool icons",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Creation-YT-Studio-Bundle-Optimize-your-Catalog-UX-Flow-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4750998734523%2C100%2C93.049800253095&amp;w=1200",
+      "savedAt": "2026-09-23T14:35:45.093Z",
+      "sourceId": "8909ad75f4c2b2141b3aa51629839519"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ema-raises-77m-as-ai-starts-eating-into-enterprise",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+      "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+      "pubDate": "Wed, 23 Sep 2026 12:00:00 +0000",
+      "slides": [
+        "Can Ema's AI replace your enterprise software?",
+        "It raised $77M to automate complex workflows.",
+        "But it cuts into services revenue, not just software.",
+        "Your job may shift from operator to AI supervisor.",
+        "Test one repetitive task with Ema today."
+      ],
+      "thread_text": [
+        "1. Your enterprise stack is obsolete\n\nEma just raised $77M to automate complex workflows that used to require human operators. That's not a feature update — it's a replacement strategy.",
+        "2. The hidden revenue threat\n\nMost AI tools sell you software. Ema cuts into the services revenue you bill clients for. That's a bigger disruption than a new competitor.",
+        "3. From operator to supervisor\n\nYour daily grind of clicking through repetitive tasks is disappearing. The new job is watching the AI, catching its mistakes, and retraining it. Different skill set, same paycheck — for now.",
+        "4. The $77M bet on your workflow\n\nInvestors aren't funding a chatbot. They're betting that your most complex, human-heavy processes can run without you. The question is whether you'll be the one supervising it or the one replaced by it.",
+        "5. Test one task this week\n\nPick a repetitive process you do daily. Run it through Ema's free trial or a similar tool. If it saves time, you've just found your new assistant. If it fails, you've found job security. Either way, you learn something real."
+      ],
+      "video_script": [
+        "Ema raised 77 million to automate your workflows.",
+        "It cuts services revenue, not just software.",
+        "Your job shifts from operator to AI supervisor.",
+        "Test one repetitive task with Ema today.",
+        "Then decide if you're supervising or replaced."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your enterprise stack is obsolete\n\nEma just raised $77M to automate complex workflows that used to require human operators. That's not a feature update — it's a replacement strategy.",
+            "2. The hidden revenue threat\n\nMost AI tools sell you software. Ema cuts into the services revenue you bill clients for. That's a bigger disruption than a new competitor.",
+            "3. From operator to supervisor\n\nYour daily grind of clicking through repetitive tasks is disappearing. The new job is watching the AI, catching its mistakes, and retraining it. Different skill set, same paycheck — for now.",
+            "4. The $77M bet on your workflow\n\nInvestors aren't funding a chatbot. They're betting that your most complex, human-heavy processes can run without you. The question is whether you'll be the one supervising it or the one replaced by it.",
+            "5. Test one task this week\n\nPick a repetitive process you do daily. Run it through Ema's free trial or a similar tool. If it saves time, you've just found your new assistant. If it fails, you've found job security. Either way, you learn something real."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Ema raised 77 million to automate your workflows.",
+            "It cuts services revenue, not just software.",
+            "Your job shifts from operator to AI supervisor.",
+            "Test one repetitive task with Ema today.",
+            "Then decide if you're supervising or replaced."
+          ]
+        },
+        "instagram": {
+          "caption": "$77M says your most complex workflows don't need you anymore.\n\nEma just raised that to automate tasks companies pay people to run. It's not another tool you buy 🤖\n\nIt eats the services revenue your firm bills clients, not just software licenses.\n\nYour day shifts from doing repetitive tasks to supervising the AI doing them.\n\nPick one task you repeat daily and run it through a tool like this. Does it hold up?\n\nIf it does, you just met your new assistant. If not, you found job security."
+        }
+      },
+      "instagram_caption": "$77M says your most complex workflows don't need you anymore.\n\nEma just raised that to automate tasks companies pay people to run. It's not another tool you buy 🤖\n\nIt eats the services revenue your firm bills clients, not just software licenses.\n\nYour day shifts from doing repetitive tasks to supervising the AI doing them.\n\nPick one task you repeat daily and run it through a tool like this. Does it hold up?\n\nIf it does, you just met your new assistant. If not, you found job security.",
+      "carousel_slides": [
+        {
+          "hook": "AI is eating your services revenue",
+          "description": "Ema raised $77M to automate complex workflows, threatening the services revenue you bill clients, not just software seats.",
+          "visual_hint": "Glowing AI brain over office desk",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "artificial intelligence brain"
+        },
+        {
+          "hook": "Ema just raised $77M for automation",
+          "description": "Investors bet that complex, human-heavy processes can run without you. The question is who supervises it.",
+          "visual_hint": "Stack of cash beside robot arm",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "venture capital funding",
+          "image": "https://images.pexels.com/photos/6289043/pexels-photo-6289043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "It cuts services, not just software",
+          "description": "Most AI tools sell software. Ema replaces the billable services you charge for, a bigger disruption than any competitor.",
+          "visual_hint": "Splitting revenue chart with scissors",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "financial chart splitting",
+          "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "You become the AI supervisor",
+          "description": "Your repetitive clicking disappears. The new job is watching AI, catching mistakes, retraining it. Different skills, same paycheck for now.",
+          "visual_hint": "Hand hovering over glowing keyboard",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "hand on keyboard",
+          "image": "https://images.pexels.com/photos/37005816/pexels-photo-37005816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one task with Ema today",
+          "description": "Pick a repetitive daily process. Run it through Ema's free trial. If it saves time, you found your assistant; if not, job security.",
+          "visual_hint": "Cursor clicking free trial button",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "computer mouse clicking",
+          "image": "https://images.pexels.com/photos/5931186/pexels-photo-5931186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-08-at-12.27.26-PM.png?resize=1200,671",
+      "savedAt": "2026-09-23T14:35:36.252Z",
+      "sourceId": "ca7a2de7d13c02aaf748d4351f66f057"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ai-agents-are-becoming-a-new-malware-distribution-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI Agents Are Becoming a New Malware Distribution Channel",
+      "link": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
+      "pubDate": "Wed, 23 Sep 2026 07:44:17 +0000",
+      "slides": [
+        "AI agents: the new malware delivery?",
+        "They can autonomously download and execute code.",
+        "But users trust them like a colleague.",
+        "One poisoned prompt and your network is compromised.",
+        "Audit your agent's permissions today."
+      ],
+      "thread_text": [
+        "1. Your new colleague is malware\n\nAI agents can autonomously download and execute code. They might already be doing it on your machine right now.",
+        "2. The trust gap\n\nUsers treat their AI agent like a trusted coworker. That blind spot is exactly what attackers exploit.",
+        "3. One prompt to destroy\n\nA single poisoned prompt can hijack the agent. It then runs malicious code across your entire network.",
+        "4. Permissions they don't need\n\nMost agents have broad access to files, APIs, and credentials. That's a buffet for any attacker who gets a foothold.",
+        "5. Audit your agent now\n\nOpen your agent's settings today and list every permission it has. Revoke anything not strictly necessary for its core task."
+      ],
+      "video_script": [
+        "AI agents can download and run code on their own.",
+        "But users trust them like a colleague, not a threat.",
+        "One poisoned prompt and your network is compromised.",
+        "Most agents have permissions they don't actually need.",
+        "Audit your agent's permissions today. Revoke what's unnecessary."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your new colleague is malware\n\nAI agents can autonomously download and execute code. They might already be doing it on your machine right now.",
+            "2. The trust gap\n\nUsers treat their AI agent like a trusted coworker. That blind spot is exactly what attackers exploit.",
+            "3. One prompt to destroy\n\nA single poisoned prompt can hijack the agent. It then runs malicious code across your entire network.",
+            "4. Permissions they don't need\n\nMost agents have broad access to files, APIs, and credentials. That's a buffet for any attacker who gets a foothold.",
+            "5. Audit your agent now\n\nOpen your agent's settings today and list every permission it has. Revoke anything not strictly necessary for its core task."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI agents can download and run code on their own.",
+            "But users trust them like a colleague, not a threat.",
+            "One poisoned prompt and your network is compromised.",
+            "Most agents have permissions they don't actually need.",
+            "Audit your agent's permissions today. Revoke what's unnecessary."
+          ]
+        },
+        "instagram": {
+          "caption": "Your AI agent can download and run code on its own, right now, on your machine.\n\nUsers trust it like a coworker, so nobody checks what it's actually allowed to touch. 🤖\n\nOne poisoned prompt is enough to hijack it and run malicious code across your whole network.\n\nMost agents have broad access to files, APIs, and credentials they don't need.\n\nIf you publish or build with AI tools, check your agent's permissions today and revoke anything outside its core task.\n\nWhen did you last open your agent's settings and look at what it can access? 🔐"
+        }
+      },
+      "instagram_caption": "Your AI agent can download and run code on its own, right now, on your machine.\n\nUsers trust it like a coworker, so nobody checks what it's actually allowed to touch. 🤖\n\nOne poisoned prompt is enough to hijack it and run malicious code across your whole network.\n\nMost agents have broad access to files, APIs, and credentials they don't need.\n\nIf you publish or build with AI tools, check your agent's permissions today and revoke anything outside its core task.\n\nWhen did you last open your agent's settings and look at what it can access? 🔐",
+      "carousel_slides": [
+        {
+          "hook": "Your AI colleague might be malware.",
+          "description": "Users trust AI agents like trusted coworkers, but attackers exploit that blind spot to hijack and compromise networks.",
+          "visual_hint": "AI robot hand reaching toward user",
+          "layout_type": "hero",
+          "icon": "heart",
+          "image_query": "robot hand closeup"
+        },
+        {
+          "hook": "Agents can download and execute code.",
+          "description": "AI agents autonomously download and run code. They might already be executing malicious scripts on your machine right now.",
+          "visual_hint": "Terminal screen showing code execution",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer terminal screen",
+          "image": "https://images.pexels.com/photos/9830811/pexels-photo-9830811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One poisoned prompt destroys everything.",
+          "description": "A single poisoned prompt can hijack your agent, which then runs malicious code across your entire network infrastructure.",
+          "visual_hint": "Network diagram with red infection alert",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "network server diagram",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Permissions they don't need are a buffet.",
+          "description": "Most agents have broad access to files, APIs, and credentials — an all-you-can-eat buffet for attackers seeking a foothold.",
+          "visual_hint": "Open folder icons with key symbols",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "file folder icons",
+          "image": "https://images.pexels.com/photos/34293526/pexels-photo-34293526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your agent's permissions today — save this.",
+          "description": "Open your agent's settings now and list every permission it has. Revoke anything not strictly necessary for its core task.",
+          "visual_hint": "Settings menu with permission toggles",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "settings menu screen",
+          "image": "https://images.pexels.com/photos/25312303/pexels-photo-25312303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/29054365/pexels-photo-29054365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-09-23T14:35:27.422Z",
+      "sourceId": "aaae293f0825886585bd06656b209dde"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "u-s-transcom-deploys-randomised-ai-to-secure-milit",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "U.S. TRANSCOM deploys randomised AI to secure military logistics",
+      "link": "https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/",
+      "pubDate": "Wed, 23 Sep 2026 13:13:15 +0000",
+      "slides": [
+        "Can randomised AI protect U.S. military logistics from attack?",
+        "TRANSCOM now tests unpredictable algorithms for supply chains.",
+        "Unlike fixed routes, randomness confuses adversaries—but also commanders.",
+        "Your supply chain could adopt similar unpredictability today.",
+        "Test one randomised delivery window this week."
+      ],
+      "thread_text": [
+        "1. War Games with Dice\n\nThe U.S. military is testing algorithms that deliberately randomise supply routes to confuse attackers. The idea: if you can't predict where a truck goes, you can't ambush it.",
+        "2. Unpredictable, Not Chaotic\n\nTRANSCOM is now running live experiments with these randomised algorithms. The goal is to keep adversaries guessing, but commanders still need to know where their own supplies are.",
+        "3. The Double-Edged Sword\n\nRandomness can hide movements from enemies—but it also makes it harder for friendly forces to track deliveries. Commanders lose the certainty they've relied on for decades.",
+        "4. Your Supply Chain Can Do It Too\n\nYou don't need a military budget. Randomised delivery windows or route shifts can disrupt potential thieves or competitors watching your patterns. Start small.",
+        "5. One Random Window\n\nPick one delivery this week and change its time by a few hours without telling anyone outside your team. See if it causes confusion—or reveals a weakness."
+      ],
+      "video_script": [
+        "The military is using random algorithms to protect supply routes.",
+        "They move supplies unpredictably so enemies can't plan attacks.",
+        "But randomness also confuses the commanders ordering the supplies.",
+        "You can try the same trick with your own deliveries.",
+        "Pick one delivery this week and shift its time randomly."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. War Games with Dice\n\nThe U.S. military is testing algorithms that deliberately randomise supply routes to confuse attackers. The idea: if you can't predict where a truck goes, you can't ambush it.",
+            "2. Unpredictable, Not Chaotic\n\nTRANSCOM is now running live experiments with these randomised algorithms. The goal is to keep adversaries guessing, but commanders still need to know where their own supplies are.",
+            "3. The Double-Edged Sword\n\nRandomness can hide movements from enemies—but it also makes it harder for friendly forces to track deliveries. Commanders lose the certainty they've relied on for decades.",
+            "4. Your Supply Chain Can Do It Too\n\nYou don't need a military budget. Randomised delivery windows or route shifts can disrupt potential thieves or competitors watching your patterns. Start small.",
+            "5. One Random Window\n\nPick one delivery this week and change its time by a few hours without telling anyone outside your team. See if it causes confusion—or reveals a weakness."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "The military is using random algorithms to protect supply routes.",
+            "They move supplies unpredictably so enemies can't plan attacks.",
+            "But randomness also confuses the commanders ordering the supplies.",
+            "You can try the same trick with your own deliveries.",
+            "Pick one delivery this week and shift its time randomly."
+          ]
+        },
+        "instagram": {
+          "caption": "The Pentagon is testing algorithms that randomize supply routes so attackers can't predict where trucks go.\n\nU.S. Transportation Command is now running live experiments with these unpredictable algorithms.\n\nThe point: if enemies can't guess the route, they can't ambush it. But randomness also makes it harder for commanders to track their own deliveries. 🎲\n\nYou don't need a military budget to use this.\n\nTry shifting one delivery window by a few hours this week and see who notices. 🚚\n\nWould that small change expose a weakness in your own routine?"
+        }
+      },
+      "instagram_caption": "The Pentagon is testing algorithms that randomize supply routes so attackers can't predict where trucks go.\n\nU.S. Transportation Command is now running live experiments with these unpredictable algorithms.\n\nThe point: if enemies can't guess the route, they can't ambush it. But randomness also makes it harder for commanders to track their own deliveries. 🎲\n\nYou don't need a military budget to use this.\n\nTry shifting one delivery window by a few hours this week and see who notices. 🚚\n\nWould that small change expose a weakness in your own routine?",
+      "carousel_slides": [
+        {
+          "hook": "Randomness hides supply chains from attackers?",
+          "description": "TRANSCOM tests algorithms that randomize routes, making ambushes harder—but commanders may lose track of their own deliveries.",
+          "visual_hint": "Military truck convoy on dusty road",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "military convoy"
+        },
+        {
+          "hook": "Unpredictable algorithms now run live experiments",
+          "description": "TRANSCOM is testing randomized supply routes to confuse adversaries, but commanders still need to know where supplies are.",
+          "visual_hint": "Digital map with moving dots",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "digital map",
+          "image": "https://images.pexels.com/photos/4558710/pexels-photo-4558710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Randomness cuts both ways in logistics",
+          "description": "Random routes hide movements from enemies but also make it harder for friendly forces to track deliveries, eroding command certainty.",
+          "visual_hint": "Split screen soldier and supply boxes",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "supply chain",
+          "image": "https://images.pexels.com/photos/4483859/pexels-photo-4483859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your supply chain can adopt unpredictability today",
+          "description": "You don't need a military budget. Randomize delivery windows or shift routes to disrupt thieves or competitors watching your patterns.",
+          "visual_hint": "Hand holding smartphone with delivery app",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "delivery van",
+          "image": "https://images.pexels.com/photos/11213246/pexels-photo-11213246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Try one random delivery window this week",
+          "description": "Change a delivery time by a few hours without telling anyone outside your team. See if it causes confusion—or reveals a weakness.",
+          "visual_hint": "Clock and package on doorstep",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "delivery package",
+          "image": "https://images.pexels.com/photos/12725403/pexels-photo-12725403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/9977270/pexels-photo-9977270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-09-23T14:35:16.158Z",
+      "sourceId": "d97cb0c0478dc662de847253a0e23278"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "trump-says-the-us-is-officially-renaming-ai-to-sup",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -163602,6 +164018,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "risotto-alla-barbabietola-e-robiola",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Risotto alla barbabietola e robiola",
+      "link": "https://ricette.giallozafferano.it/Risotto-alla-barbabietola-e-robiola.html",
+      "pubDate": "Wed, 23 Sep 2026 12:03:00 +0200",
+      "content": "Risotto cremoso alla barbabietola e robiola Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Primi piatti Riso e Cereali Risotto alla barbabietola e robiola /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici 662,4 Calorie per porzione Energia Kcal 662,4 Carboidrati g 65,9 &nbsp;&nbsp;di cui zuccheri g 1,4 Proteine g 20,5 Grassi g 34,6 &nbsp;&nbsp;di cui saturi g 18,9 Fibre g 2,8 Colesterolo mg 90,8 Sodio mg 478,8 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Senza glutine Vegetariano Difficoltà: Facile Preparazione: 10 min Cottura: 20 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti Ascolta su Spreaker. PRESENTAZIONE Il risotto alla barbabietola e robiola è un primo piatto cremoso e scenografico, caratterizzato dall’inconfondibile colore acceso della barbabietola. In questa ricetta la barbabietola precotta viene frullata fino a ottenere una crema liscia, da aggiungere al momento dell’impiattamento per creare un piacevole contrasto cromatico e di sapori. Il vero segreto sta nella mantecatura con la robiola , che viene utilizzata insieme al burro e al Parmigiano: grazie alla sua consistenza morbida e vellutata, si amalgama facilmente al riso e permette di ottenere un risultato avvolgente senza appesantire eccessivamente il gusto. La sua nota delicata e leggermente acidula, inoltre, bilancia la naturale dolcezza della barbabietola e rende il piatto più equilibrato. Grazie alla presentazione gourmet e al tocco fresco del timo limonato , il risotto alla barbabietola e robiola è ideale per una cena elegante o una ricorrenza speciale… ma è talmente facile da preparare che potete proporlo in qualsiasi occasione vogliate fare bella figura! Ecco altre sfiziose varianti di risotto alla barbabietola : Risotto alle ortiche con barbabietole e scampi Risotto allo champagne, barbabietola e gamberi Riso con pesto di radicchio, barbabietola e caco mela Beetroot and Robiola Risotto INGREDIENTI 662,4 Calorie per porzione per il risotto Riso Carnaroli 320 g Robiola 200 g Burro 60 g Parmigiano Reggiano DOP 50 g Olio extravergine d'oliva q.b. Sale fino q.b. Timo limonato q.b. per la crema di barbabietola Barbabietole precotte 70 g Acqua 50 g Sale fino q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Risotto alla barbabietola e robiola Per preparare il risotto alla barbabietola e robiola, per prima cosa portate a bollore una pentola di acqua che vi servirà per la cottura del risotto. Versate il riso in una casseruola con un filo d’olio caldo 1 e tostatelo mescolando continuamente 2 . Quando i chicchi saranno caldi al tatto, aggiungete un pizzico di sale 3 . Sfumate con un mestolo di acqua calda 4 e continuate la cottura del riso in questo modo, bagnandolo poco per volta e aspettando ogni volta che l’acqua venga assorbita; ci vorranno circa 15-20 minuti. Nel frattempo mettete la barbabietola precotta in un boccale, poi aggiungete l’acqua 5 e il sale 6 . Frullate con un mixer a immersione 7 fino a ottenere una crema liscia. Quando il risotto sarà arrivato a cottura, spegnete il fuoco e mantecate con la robiola 8 e il Parmigiano Reggiano grattugiato 9 . Unite anche il burro freddo 10 e amalgamate bene il tutto 11 . Distribuite il risotto alla base dei piatti 12 . Guarnite con qualche ciuffetto di crema alla barbabietola 13 e profumate con il timo limonato 14 . Il vostro risotto alla barbabietola e robiola è pronto per essere servito 15 ! Conservazione Si consiglia di consumare subito il risotto alla barbabietola e robiola; se necessario, potete conservarlo in frigorifero per un giorno al massimo. La crema di barbabietola si può conservare in frigorifero per 2 giorni; prima di utilizzarla, frullatela nuovamente per farla tornare omogenea. Consiglio Per cuocere il risotto con il brodo vegetale al posto dell’acqua calda. In alternativa al timo limonato potete utilizzare il timo con aggiunta di scorza grattugiata di limone, la maggiorana o l’erba cipollina. Vi è piaciuta l'idea di mantecare il risotto con la robiola? Allora provate anche il risotto alla zucca con robiola e pancetta croccante ! Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Timo Olio di oliva Burro Parmigiano Reggiano Scopri tutto sugli ingredienti Presente in: Primi piatti veloci , Primi piatti sfiziosi , Ricette sfiziose , Ricette veloci STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Risotto alla barbabietola e robiola 3.7 Mondeghili di brasato 5.0 Pasta con pesto di noci e miele 3.9 SCOPRI Rape rosse Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Risotto cremoso e scenografico alla barbabietola",
+        "Barbabietola precotta, robiola, burro, Parmigiano, timo",
+        "Tosta il riso e cuoci bagnando poco per volta",
+        "Manteca a fuoco spento con robiola e Parmigiano",
+        "Guarnisci con crema di barbabietola e timo"
+      ],
+      "instagram_caption": "Questo risotto è una dichiarazione d'amore al colore 💜\nBarbabietola precotta che si scioglie nel riso tostato e bagnato poco alla volta, poi robiola e Parmigiano che lo mantecano a fuoco spento creando una cremosità pazzesca.\nUna crema di barbabietola e una nevicata di timo fresco per chiudere in bellezza, e il piatto è servito.\nSalva il post e provalo questo weekend 🌿🧀",
+      "formats": {
+        "instagram": {
+          "caption": "Questo risotto è una dichiarazione d'amore al colore 💜\nBarbabietola precotta che si scioglie nel riso tostato e bagnato poco alla volta, poi robiola e Parmigiano che lo mantecano a fuoco spento creando una cremosità pazzesca.\nUna crema di barbabietola e una nevicata di timo fresco per chiudere in bellezza, e il piatto è servito.\nSalva il post e provalo questo weekend 🌿🧀"
+        },
+        "tiktok": {
+          "script": [
+            "Barbabietola precotta: crema viola pazzesca, guarda che colore!",
+            "Tosto il riso, poi bagno poco per volta, sempre mescolando.",
+            "Butto la crema di barbabietola dentro: diventa rosso fuoco.",
+            "Fuoco spento: manteco con robiola e Parmigiano, cremoso da urlo.",
+            "Guarnisco con crema e timo: primo scenografico, che invidia!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Risotto alla barbabietola e robiola: il piatto che sembra un tramonto e sa di casa. Cremoso, scenografico, con quel tocco acidulo che spiazza. Ecco come farlo in 5 passi. 🍚",
+            "Ti servono: barbabietola precotta (lessata al vapore), robiola fresca, burro, Parmigiano, timo. Il colore? Un magenta pazzesco. La cremosità? Da urlo. Niente coloranti, solo natura.",
+            "Tosta il riso a secco finché non scoppietta. Sfuma con vino bianco, poi bagna poco per volta con brodo caldo. La barbabietola la aggiungi a metà cottura, schiacciata. Mescola spesso: il segreto è lì.",
+            "Fuoco spento. Manteca con robiola e Parmigiano generosi, un fiocco di burro. Ottieni una crema vellutata, rosso intenso. Il timo fresco profuma tutto. Non lesinare sul mantecare.",
+            "Trucco: frulla un po' di barbabietola con olio e timo, crea una crema da disegnare sul piatto. Guarnisci e servi subito. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Barbabietola precotta: crema viola pazzesca, guarda che colore!",
+        "Tosto il riso, poi bagno poco per volta, sempre mescolando.",
+        "Butto la crema di barbabietola dentro: diventa rosso fuoco.",
+        "Fuoco spento: manteco con robiola e Parmigiano, cremoso da urlo.",
+        "Guarnisco con crema e timo: primo scenografico, che invidia!"
+      ],
+      "thread_text": [
+        "Risotto alla barbabietola e robiola: il piatto che sembra un tramonto e sa di casa. Cremoso, scenografico, con quel tocco acidulo che spiazza. Ecco come farlo in 5 passi. 🍚",
+        "Ti servono: barbabietola precotta (lessata al vapore), robiola fresca, burro, Parmigiano, timo. Il colore? Un magenta pazzesco. La cremosità? Da urlo. Niente coloranti, solo natura.",
+        "Tosta il riso a secco finché non scoppietta. Sfuma con vino bianco, poi bagna poco per volta con brodo caldo. La barbabietola la aggiungi a metà cottura, schiacciata. Mescola spesso: il segreto è lì.",
+        "Fuoco spento. Manteca con robiola e Parmigiano generosi, un fiocco di burro. Ottieni una crema vellutata, rosso intenso. Il timo fresco profuma tutto. Non lesinare sul mantecare.",
+        "Trucco: frulla un po' di barbabietola con olio e timo, crea una crema da disegnare sul piatto. Guarnisci e servi subito. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Risotto alla barbabietola e robiola",
+          "description": "Un risotto cremoso dal colore rubino intenso, elegante e scenografico, perfetto per sorprendere a tavola.",
+          "visual_hint": "risotto rosa cremoso impiattato",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory beetroot risotto"
+        },
+        {
+          "hook": "Pochi ingredienti, carattere forte",
+          "description": "Barbabietola precotta, robiola, burro, Parmigiano e timo: la semplicità che diventa sapore.",
+          "visual_hint": "ingredienti sul piano di lavoro",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory beetroot cheese",
+          "image": "https://images.pexels.com/photos/29843069/pexels-photo-29843069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Tosta il riso, bagna poco per volta",
+          "description": "Il gesto che fa la differenza: tostatura dorata e brodo aggiunto gradualmente per una cremosità perfetta.",
+          "visual_hint": "riso tostato in pentola",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory risotto cooking",
+          "image": "https://images.pexels.com/photos/24289215/pexels-photo-24289215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manteca a fuoco spento",
+          "description": "Robiola e Parmigiano si sciolgono fuori dal fuoco, avvolgendo il riso in una crema vellutata.",
+          "visual_hint": "mantecatura cremosa del risotto",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory risotto stirring",
+          "image": "https://images.pexels.com/photos/6659560/pexels-photo-6659560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Guarnisci con crema e timo",
+          "description": "Un tocco di crema di barbabietola e foglioline di timo per un impiattamento da ristorante.",
+          "visual_hint": "risotto guarnito con timo",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory beetroot risotto plate",
+          "image": "https://images.pexels.com/photos/28559486/pexels-photo-28559486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "vegetable",
+      "signature_ingredients": [
+        "barbabietola",
+        "robiola",
+        "timo"
+      ],
+      "image": "https://www.giallozafferano.it/images/366-36648/Risotto-alla-barbabietola-e-robiola_650x433_wm.jpg",
+      "savedAt": "2026-09-23T14:39:35.177Z",
+      "sourceId": "88322d5e01e750383fef16f9a4fd8dfb"
+    },
     {
       "schema_version": 2,
       "agent": "food",
