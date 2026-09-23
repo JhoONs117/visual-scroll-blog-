@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-launches-gpt-6-sol-and-luna-boasting-lower-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+  "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+  "pubDate": "Tue, 22 Sep 2026 18:00:00 +0000",
+  "slides": [
+    "Is GPT-6 Sol already better than you?",
+    "OpenAI splits its flagship into two distinct models",
+    "But Sol still fails at basic logic tricks",
+    "Your existing prompts may stop working today",
+    "Test one task with Luna before rivals do"
+  ],
+  "thread_text": [
+    "1. GPT-6 Sol: Better Than You?\n\nOpenAI just split its flagship into two models: Sol and Luna. Sol is powerful but fails at simple logic tricks. Your prompts might break today.",
+    "2. OpenAI Splits Flagship\n\nThe company divided its top model into Sol for raw power and Luna for speed. This isn't an upgrade—it's a fork in the road.",
+    "3. Sol Fails Basic Logic\n\nDespite its size, Sol stumbles on classic reasoning puzzles. That means bigger isn't always smarter, and your complex prompts may backfire.",
+    "4. Prompts Stop Working\n\nIf you rely on GPT-6's old behavior, your existing prompts may now produce garbage. The model changed under your feet.",
+    "5. Test Luna on One Task\n\nTake a simple task you do daily and run it through Luna. If it works, you've saved time before rivals catch on. If not, you know where you stand."
+  ],
+  "video_script": [
+    "OpenAI split its flagship into two models: Sol and Luna.",
+    "Sol is powerful but fails at basic logic tricks.",
+    "Your existing prompts may stop working today.",
+    "Test one task with Luna before rivals do.",
+    "Which model will you trust for your work?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. GPT-6 Sol: Better Than You?\n\nOpenAI just split its flagship into two models: Sol and Luna. Sol is powerful but fails at simple logic tricks. Your prompts might break today.",
+        "2. OpenAI Splits Flagship\n\nThe company divided its top model into Sol for raw power and Luna for speed. This isn't an upgrade—it's a fork in the road.",
+        "3. Sol Fails Basic Logic\n\nDespite its size, Sol stumbles on classic reasoning puzzles. That means bigger isn't always smarter, and your complex prompts may backfire.",
+        "4. Prompts Stop Working\n\nIf you rely on GPT-6's old behavior, your existing prompts may now produce garbage. The model changed under your feet.",
+        "5. Test Luna on One Task\n\nTake a simple task you do daily and run it through Luna. If it works, you've saved time before rivals catch on. If not, you know where you stand."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI split its flagship into two models: Sol and Luna.",
+        "Sol is powerful but fails at basic logic tricks.",
+        "Your existing prompts may stop working today.",
+        "Test one task with Luna before rivals do.",
+        "Which model will you trust for your work?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your prompts might stop working today.\n\nOpenAI split GPT-6 into two models: Sol and Luna. Sol is the powerful one, Luna the fast one. 🔀\n\nSol still fails at basic logic tricks, so bigger isn't smarter here. 🧠\n\nIf you built prompts around GPT-6's old behavior, they may now produce garbage. Test one daily task on Luna before rivals do. ⚡\n\nWhich task will you run first? 🤔"
+    }
+  },
+  "instagram_caption": "Your prompts might stop working today.\n\nOpenAI split GPT-6 into two models: Sol and Luna. Sol is the powerful one, Luna the fast one. 🔀\n\nSol still fails at basic logic tricks, so bigger isn't smarter here. 🧠\n\nIf you built prompts around GPT-6's old behavior, they may now produce garbage. Test one daily task on Luna before rivals do. ⚡\n\nWhich task will you run first? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Is GPT-6 Sol already better than you?",
+      "description": "OpenAI's new flagship Sol excels at raw power but fails simple logic tricks. Bigger doesn't always mean smarter.",
+      "visual_hint": "Split screen showing two AI models",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "OpenAI splits its flagship into two models",
+      "description": "Sol for power, Luna for speed. This isn't an upgrade—it's a fork in the road for your workflow.",
+      "visual_hint": "Two glowing model avatars diverging",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "fiber optic cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "But Sol still fails at basic logic tricks",
+      "description": "Despite its size, Sol stumbles on classic reasoning puzzles. Your complex prompts may backfire unpredictably.",
+      "visual_hint": "AI brain with error symbol",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your existing prompts may stop working today",
+      "description": "If you rely on GPT-6's old behavior, your prompts might now produce garbage. The model changed under your feet.",
+      "visual_hint": "Person typing at computer with warning",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one task with Luna before rivals do",
+      "description": "Take a daily task and run it through Luna. If it works, you save time before competitors catch on.",
+      "visual_hint": "Hand holding smartphone with checkmark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+  "savedAt": "2026-09-23T02:38:41.216Z",
+  "sourceId": "d5bcb149d5138fda53822abd247fb74f"
+}

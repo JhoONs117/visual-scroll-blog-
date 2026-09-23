@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "trump-says-the-us-is-officially-renaming-ai-to-sup",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+    "pubDate": "2026-09-22T16:01:10.000Z",
+    "slides": [
+      "Trump renames AI to 'super intelligence'—but why now?",
+      "The executive order lacks a clear legal definition.",
+      "No other nation uses this term, creating global confusion.",
+      "Companies must update labeling or face trade penalties.",
+      "Ask policymakers: does a name change make AI safer?"
+    ],
+    "thread_text": [
+      "1. The name game\n\nTrump renamed AI to 'super intelligence' via executive order. But the order never defines what that term actually means.",
+      "2. Who else says this?\n\nNo other country uses 'super intelligence' in policy. The US is now a linguistic outlier on the world stage.",
+      "3. Penalties for labels\n\nCompanies that don't update their product labeling could face trade penalties. Compliance costs are already being calculated.",
+      "4. The real question\n\nA name change doesn't add safety provisions. The order focuses on terminology, not technical guardrails.",
+      "5. Your move\n\nAsk a policymaker: does calling it 'super intelligence' make it safer? If they can't answer, the rebrand is just marketing."
+    ],
+    "video_script": [
+      "Trump renamed AI to super intelligence. But why now?",
+      "The executive order has no legal definition for the term.",
+      "No other nation uses this name. Global confusion is growing.",
+      "Companies must update labeling or face trade penalties.",
+      "Ask policymakers: does a name change make AI safer?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The name game\n\nTrump renamed AI to 'super intelligence' via executive order. But the order never defines what that term actually means.",
+          "2. Who else says this?\n\nNo other country uses 'super intelligence' in policy. The US is now a linguistic outlier on the world stage.",
+          "3. Penalties for labels\n\nCompanies that don't update their product labeling could face trade penalties. Compliance costs are already being calculated.",
+          "4. The real question\n\nA name change doesn't add safety provisions. The order focuses on terminology, not technical guardrails.",
+          "5. Your move\n\nAsk a policymaker: does calling it 'super intelligence' make it safer? If they can't answer, the rebrand is just marketing."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Trump renamed AI to super intelligence. But why now?",
+          "The executive order has no legal definition for the term.",
+          "No other nation uses this name. Global confusion is growing.",
+          "Companies must update labeling or face trade penalties.",
+          "Ask policymakers: does a name change make AI safer?"
+        ]
+      },
+      "instagram": {
+        "caption": "If you don't update your product labels, you could face trade penalties. \n\nTrump signed an executive order renaming AI to \"super intelligence.\" The order never defines what that term means. No other country uses it in policy, so the US is now a global outlier. 🤔\n\nCompanies are already calculating compliance costs for relabeling everything.\n\nIf you make or publish tech content, your wording may need to change to stay compliant and avoid penalties.\n\nCalling it \"super intelligence\" doesn't add a single safety rule. Does a new name make it safer? Ask a policymaker and watch them dodge. 🧠💸"
+      }
+    },
+    "instagram_caption": "If you don't update your product labels, you could face trade penalties. \n\nTrump signed an executive order renaming AI to \"super intelligence.\" The order never defines what that term means. No other country uses it in policy, so the US is now a global outlier. 🤔\n\nCompanies are already calculating compliance costs for relabeling everything.\n\nIf you make or publish tech content, your wording may need to change to stay compliant and avoid penalties.\n\nCalling it \"super intelligence\" doesn't add a single safety rule. Does a new name make it safer? Ask a policymaker and watch them dodge. 🧠💸",
+    "carousel_slides": [
+      {
+        "hook": "Why rebrand AI as 'super intelligence'?",
+        "description": "The US now uses a term no other nation adopts in policy—creating global confusion over what 'super intelligence' actually means legally.",
+        "visual_hint": "US flag behind glowing AI chip",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "US Capitol"
+      },
+      {
+        "hook": "No definition, no legal clarity",
+        "description": "The executive order rebrands AI but never defines 'super intelligence,' leaving companies uncertain how to comply with new labeling rules.",
+        "visual_hint": "Blank legal document with gavel",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "legal document",
+        "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "US alone in 'super intelligence'",
+        "description": "No other country uses this term in policy, making the US a linguistic outlier and sowing confusion in international AI governance.",
+        "visual_hint": "World map with US highlighted",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "world map",
+        "image": "https://images.pexels.com/photos/4406813/pexels-photo-4406813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Update labels or face penalties",
+        "description": "Companies must change product labeling to say 'super intelligence' or risk trade penalties—compliance costs are already being calculated.",
+        "visual_hint": "Worker updating product labels factory",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "factory workers",
+        "image": "https://images.pexels.com/photos/29988954/pexels-photo-29988954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Does a name make AI safer?",
+        "description": "Ask a policymaker if 'super intelligence' adds safety provisions—if they can't answer, the rebrand is just marketing.",
+        "visual_hint": "Person holding question mark sign",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "protest sign",
+        "image": "https://images.pexels.com/photos/11421067/pexels-photo-11421067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_1949029.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "savedAt": "2026-09-23T02:38:51.674Z",
+    "sourceId": "c0fa20c79506236b9792f7f191ce22d1"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-launches-gpt-6-sol-and-luna-boasting-lower-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+    "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+    "pubDate": "Tue, 22 Sep 2026 18:00:00 +0000",
+    "slides": [
+      "Is GPT-6 Sol already better than you?",
+      "OpenAI splits its flagship into two distinct models",
+      "But Sol still fails at basic logic tricks",
+      "Your existing prompts may stop working today",
+      "Test one task with Luna before rivals do"
+    ],
+    "thread_text": [
+      "1. GPT-6 Sol: Better Than You?\n\nOpenAI just split its flagship into two models: Sol and Luna. Sol is powerful but fails at simple logic tricks. Your prompts might break today.",
+      "2. OpenAI Splits Flagship\n\nThe company divided its top model into Sol for raw power and Luna for speed. This isn't an upgrade—it's a fork in the road.",
+      "3. Sol Fails Basic Logic\n\nDespite its size, Sol stumbles on classic reasoning puzzles. That means bigger isn't always smarter, and your complex prompts may backfire.",
+      "4. Prompts Stop Working\n\nIf you rely on GPT-6's old behavior, your existing prompts may now produce garbage. The model changed under your feet.",
+      "5. Test Luna on One Task\n\nTake a simple task you do daily and run it through Luna. If it works, you've saved time before rivals catch on. If not, you know where you stand."
+    ],
+    "video_script": [
+      "OpenAI split its flagship into two models: Sol and Luna.",
+      "Sol is powerful but fails at basic logic tricks.",
+      "Your existing prompts may stop working today.",
+      "Test one task with Luna before rivals do.",
+      "Which model will you trust for your work?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. GPT-6 Sol: Better Than You?\n\nOpenAI just split its flagship into two models: Sol and Luna. Sol is powerful but fails at simple logic tricks. Your prompts might break today.",
+          "2. OpenAI Splits Flagship\n\nThe company divided its top model into Sol for raw power and Luna for speed. This isn't an upgrade—it's a fork in the road.",
+          "3. Sol Fails Basic Logic\n\nDespite its size, Sol stumbles on classic reasoning puzzles. That means bigger isn't always smarter, and your complex prompts may backfire.",
+          "4. Prompts Stop Working\n\nIf you rely on GPT-6's old behavior, your existing prompts may now produce garbage. The model changed under your feet.",
+          "5. Test Luna on One Task\n\nTake a simple task you do daily and run it through Luna. If it works, you've saved time before rivals catch on. If not, you know where you stand."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI split its flagship into two models: Sol and Luna.",
+          "Sol is powerful but fails at basic logic tricks.",
+          "Your existing prompts may stop working today.",
+          "Test one task with Luna before rivals do.",
+          "Which model will you trust for your work?"
+        ]
+      },
+      "instagram": {
+        "caption": "Your prompts might stop working today.\n\nOpenAI split GPT-6 into two models: Sol and Luna. Sol is the powerful one, Luna the fast one. 🔀\n\nSol still fails at basic logic tricks, so bigger isn't smarter here. 🧠\n\nIf you built prompts around GPT-6's old behavior, they may now produce garbage. Test one daily task on Luna before rivals do. ⚡\n\nWhich task will you run first? 🤔"
+      }
+    },
+    "instagram_caption": "Your prompts might stop working today.\n\nOpenAI split GPT-6 into two models: Sol and Luna. Sol is the powerful one, Luna the fast one. 🔀\n\nSol still fails at basic logic tricks, so bigger isn't smarter here. 🧠\n\nIf you built prompts around GPT-6's old behavior, they may now produce garbage. Test one daily task on Luna before rivals do. ⚡\n\nWhich task will you run first? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Is GPT-6 Sol already better than you?",
+        "description": "OpenAI's new flagship Sol excels at raw power but fails simple logic tricks. Bigger doesn't always mean smarter.",
+        "visual_hint": "Split screen showing two AI models",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "OpenAI splits its flagship into two models",
+        "description": "Sol for power, Luna for speed. This isn't an upgrade—it's a fork in the road for your workflow.",
+        "visual_hint": "Two glowing model avatars diverging",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "fiber optic cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "But Sol still fails at basic logic tricks",
+        "description": "Despite its size, Sol stumbles on classic reasoning puzzles. Your complex prompts may backfire unpredictably.",
+        "visual_hint": "AI brain with error symbol",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "circuit board",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your existing prompts may stop working today",
+        "description": "If you rely on GPT-6's old behavior, your prompts might now produce garbage. The model changed under your feet.",
+        "visual_hint": "Person typing at computer with warning",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one task with Luna before rivals do",
+        "description": "Take a daily task and run it through Luna. If it works, you save time before competitors catch on.",
+        "visual_hint": "Hand holding smartphone with checkmark",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+    "savedAt": "2026-09-23T02:38:41.216Z",
+    "sourceId": "d5bcb149d5138fda53822abd247fb74f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "snorkel-ai-triples-valuation-to-3-5b-as-demand-for",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+    "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+    "pubDate": "Tue, 22 Sep 2026 21:56:43 +0000",
+    "slides": [
+      "Snorkel AI now valued at $3.5B, but why?",
+      "Demand for AI training data is booming.",
+      "Data labeling is shifting to programmatic synthesis, not humans.",
+      "Your models may soon run on synthetic data, changing accuracy.",
+      "Test one model on synthetic data today to see if it holds."
+    ],
+    "thread_text": [
+      "1. The $3.5B Question\n\nSnorkel AI just hit a $3.5B valuation. But here's the twist: the company is betting that humans won't be the ones labeling data for much longer.",
+      "2. The Data Gold Rush\n\nEvery AI model needs millions of labeled examples. Until recently, that meant hiring armies of people to tag images, text, and audio. That demand is still exploding.",
+      "3. Goodbye, Humans?\n\nSnorkel's core bet: programmatic synthesis. Instead of paying humans to label, you write code that generates labeled data automatically. Faster, cheaper, and scalable.",
+      "4. When Synthetic Data Bites Back\n\nBut synthetic data can introduce subtle biases and blind spots. Your model may ace the synthetic test set and fail on real-world inputs. Accuracy isn't guaranteed.",
+      "5. Test It Yourself\n\nGrab one of your models and retrain it on a small synthetic dataset. Compare its accuracy on real data. If the gap is big, you've found your next problem."
+    ],
+    "video_script": [
+      "Snorkel AI is now worth 3.5 billion dollars.",
+      "Why? Because AI needs tons of labeled data.",
+      "But labeling is shifting from humans to code.",
+      "Synthetic data can break your model's accuracy.",
+      "Test one model on synthetic data today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $3.5B Question\n\nSnorkel AI just hit a $3.5B valuation. But here's the twist: the company is betting that humans won't be the ones labeling data for much longer.",
+          "2. The Data Gold Rush\n\nEvery AI model needs millions of labeled examples. Until recently, that meant hiring armies of people to tag images, text, and audio. That demand is still exploding.",
+          "3. Goodbye, Humans?\n\nSnorkel's core bet: programmatic synthesis. Instead of paying humans to label, you write code that generates labeled data automatically. Faster, cheaper, and scalable.",
+          "4. When Synthetic Data Bites Back\n\nBut synthetic data can introduce subtle biases and blind spots. Your model may ace the synthetic test set and fail on real-world inputs. Accuracy isn't guaranteed.",
+          "5. Test It Yourself\n\nGrab one of your models and retrain it on a small synthetic dataset. Compare its accuracy on real data. If the gap is big, you've found your next problem."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Snorkel AI is now worth 3.5 billion dollars.",
+          "Why? Because AI needs tons of labeled data.",
+          "But labeling is shifting from humans to code.",
+          "Synthetic data can break your model's accuracy.",
+          "Test one model on synthetic data today."
+        ]
+      },
+      "instagram": {
+        "caption": "$3.5B valuation for a company betting humans won't label AI data much longer. 🤖\n\nSnorkel AI just tripled its worth as demand for training data explodes.\n\nInstead of paying people to tag images and text, it generates labeled data with code.\n\nCheaper and faster, but synthetic data can hide biases your model won't catch. 🧪\n\nIf you build or ship content with AI, your accuracy checks may be testing against fake data.\n\nRetrain one model on a small synthetic set and compare real-world results. 📊\n\nWould your product survive that gap?"
+      }
+    },
+    "instagram_caption": "$3.5B valuation for a company betting humans won't label AI data much longer. 🤖\n\nSnorkel AI just tripled its worth as demand for training data explodes.\n\nInstead of paying people to tag images and text, it generates labeled data with code.\n\nCheaper and faster, but synthetic data can hide biases your model won't catch. 🧪\n\nIf you build or ship content with AI, your accuracy checks may be testing against fake data.\n\nRetrain one model on a small synthetic set and compare real-world results. 📊\n\nWould your product survive that gap?",
+    "carousel_slides": [
+      {
+        "hook": "Is human data labeling dead?",
+        "description": "Snorkel AI hit a $3.5B valuation betting that code, not people, will label training data.",
+        "visual_hint": "Futuristic data center with glowing servers",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "AI's insatiable hunger for data",
+        "description": "Every model needs millions of labeled examples, driving explosive demand for faster, cheaper data generation.",
+        "visual_hint": "Abstract network of connected data points",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Code replaces human taggers",
+        "description": "Programmatic synthesis generates labeled data automatically, scaling faster and cheaper than manual labeling.",
+        "visual_hint": "Code on screen generating synthetic images",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer code",
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Synthetic data can silently break models",
+        "description": "Synthetic data introduces hidden biases, making models ace test sets but fail on real-world inputs.",
+        "visual_hint": "Robot hand holding a glitching data chip",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your model on synthetic data now",
+        "description": "Retrain one model on a small synthetic dataset, compare accuracy on real data, and spot the gap.",
+        "visual_hint": "Split screen real vs synthetic test results",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2259148891.jpg?resize=1200,686",
+    "savedAt": "2026-09-23T02:38:33.478Z",
+    "sourceId": "84a303211cd26a2a475591a71c914e72"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "un-says-ai-safeguards-can-t-wait-for-certainty",
     "prompt_version": "1.0.0",
     "status": "published",
