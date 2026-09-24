@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-is-going-to-let-you-build-games-with-ai-right",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta is going to let you build games with AI right on your phone",
+  "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+  "pubDate": "2026-09-24T17:52:29.000Z",
+  "slides": [
+    "Meta just made game development possible for anyone with a phone?",
+    "Their new AI tool builds entire games from simple text prompts.",
+    "But it won't let you create realistic shooters—only casual puzzles.",
+    "You can publish and share games instantly without coding.",
+    "Open Meta's AI Studio and type your first game idea today."
+  ],
+  "thread_text": [
+    "1. Meta's quiet revolution\n\nMeta's new AI tool builds entire games from simple text prompts. No coding, no experience—just your idea typed into a phone.",
+    "2. But there's a catch\n\nIt won't let you create realistic shooters. Only casual puzzles and simple experiences make the cut.",
+    "3. Publish in seconds\n\nYou can share your game instantly without writing a single line of code. The barrier to entry just disappeared.",
+    "4. Who benefits most\n\nAspiring creators who never had the technical skills now have a direct path from idea to playable game.",
+    "5. Your turn to build\n\nOpen Meta's AI Studio and type your first game idea today. What will you create first?"
+  ],
+  "video_script": [
+    "Meta just made game development possible for anyone with a phone.",
+    "Their new AI tool builds entire games from simple text prompts.",
+    "But it won't let you create realistic shooters, only casual puzzles.",
+    "You can publish and share games instantly without coding.",
+    "Open Meta's AI Studio and type your first game idea today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta's quiet revolution\n\nMeta's new AI tool builds entire games from simple text prompts. No coding, no experience—just your idea typed into a phone.",
+        "2. But there's a catch\n\nIt won't let you create realistic shooters. Only casual puzzles and simple experiences make the cut.",
+        "3. Publish in seconds\n\nYou can share your game instantly without writing a single line of code. The barrier to entry just disappeared.",
+        "4. Who benefits most\n\nAspiring creators who never had the technical skills now have a direct path from idea to playable game.",
+        "5. Your turn to build\n\nOpen Meta's AI Studio and type your first game idea today. What will you create first?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta just made game development possible for anyone with a phone.",
+        "Their new AI tool builds entire games from simple text prompts.",
+        "But it won't let you create realistic shooters, only casual puzzles.",
+        "You can publish and share games instantly without coding.",
+        "Open Meta's AI Studio and type your first game idea today."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now build a full game by typing a sentence into your phone.\n\nMeta's new AI tool turns simple text prompts into playable games.\n\nNo coding, no experience needed. But it only makes casual puzzles—realistic shooters are off limits.\n\nYou can publish and share your game instantly, right from your phone.\n\nIf you've ever had a game idea but no technical skills, the barrier just dropped. 🎮\n\nOpen Meta's AI Studio and type your first idea. What would you build first? 🕹️"
+    }
+  },
+  "instagram_caption": "You can now build a full game by typing a sentence into your phone.\n\nMeta's new AI tool turns simple text prompts into playable games.\n\nNo coding, no experience needed. But it only makes casual puzzles—realistic shooters are off limits.\n\nYou can publish and share your game instantly, right from your phone.\n\nIf you've ever had a game idea but no technical skills, the barrier just dropped. 🎮\n\nOpen Meta's AI Studio and type your first idea. What would you build first? 🕹️",
+  "carousel_slides": [
+    {
+      "hook": "No coding skills? Meta changes everything.",
+      "description": "Meta's AI tool builds entire games from simple text prompts. No coding or experience—just type your idea on a phone.",
+      "visual_hint": "Smartphone displaying a game creation interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone screen"
+    },
+    {
+      "hook": "What if you could build games?",
+      "description": "Meta's new AI tool turns your text prompts into playable games, but only casual puzzles pass the cut—not realistic shooters.",
+      "visual_hint": "Casual puzzle game on a phone screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "puzzle game",
+      "image": "https://images.pexels.com/photos/9227238/pexels-photo-9227238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The catch? No realistic shooters.",
+      "description": "Meta's AI only allows casual puzzles and simple experiences, blocking realistic shooters. Your game ideas face strict limits.",
+      "visual_hint": "Game controller with a red prohibition sign",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "game controller",
+      "image": "https://images.pexels.com/photos/30302447/pexels-photo-30302447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Publish your game in seconds.",
+      "description": "Share your game instantly without writing any code. The barrier to entry has completely disappeared for aspiring creators.",
+      "visual_hint": "Hand tapping publish button on phone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "publish button",
+      "image": "https://images.pexels.com/photos/7968784/pexels-photo-7968784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ready to build your first game?",
+      "description": "Open Meta's AI Studio and type your first game idea today. Save this post and share what you create.",
+      "visual_hint": "AI Studio interface with text input field",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "text input",
+      "image": "https://images.pexels.com/photos/9902413/pexels-photo-9902413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.56.53-AM.png?quality=90&amp;strip=all&amp;crop=0%2C3.4422539850274%2C100%2C93.115492029945&amp;w=1200",
+  "savedAt": "2026-09-24T19:38:20.526Z",
+  "sourceId": "c8ce86916686a255a41cec752dcdbd72"
+}

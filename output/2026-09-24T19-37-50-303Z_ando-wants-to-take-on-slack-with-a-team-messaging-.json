@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ando-wants-to-take-on-slack-with-a-team-messaging-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+  "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+  "pubDate": "Thu, 24 Sep 2026 14:31:00 +0000",
+  "slides": [
+    "Ando wants to replace Slack — but who wins?",
+    "It's a team messaging app for humans and agents",
+    "Agents aren't bots; they own tasks and ask questions",
+    "Your team could hire digital coworkers this quarter",
+    "Test one agent in a real project first"
+  ],
+  "thread_text": [
+    "1. Slack's quiet replacement\n\nA new team messaging app called Ando is built for humans and AI agents working side by side, and it's already being tested in real projects.",
+    "2. Agents own the work\n\nUnlike bots that just reply, these agents take full ownership of tasks, ask clarifying questions, and report back like a coworker would.",
+    "3. Digital coworkers this quarter\n\nYour team could hire an AI agent as a teammate within the next three months, not years. The tools are ready now.",
+    "4. Don't test it on everything\n\nStart with one agent on one real project first. If it fails, you learn fast; if it works, you scale with proof.",
+    "5. Pick a task today\n\nTake one repetitive task your team hates and try an AI agent on it this week. If you haven't done that yet, that's where to start."
+  ],
+  "video_script": [
+    "Ando wants to replace Slack for teams with AI.",
+    "Agents aren't bots — they own tasks and ask questions.",
+    "Your team could hire digital coworkers this quarter.",
+    "Test one agent in a real project first.",
+    "Pick a boring task and try an agent today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Slack's quiet replacement\n\nA new team messaging app called Ando is built for humans and AI agents working side by side, and it's already being tested in real projects.",
+        "2. Agents own the work\n\nUnlike bots that just reply, these agents take full ownership of tasks, ask clarifying questions, and report back like a coworker would.",
+        "3. Digital coworkers this quarter\n\nYour team could hire an AI agent as a teammate within the next three months, not years. The tools are ready now.",
+        "4. Don't test it on everything\n\nStart with one agent on one real project first. If it fails, you learn fast; if it works, you scale with proof.",
+        "5. Pick a task today\n\nTake one repetitive task your team hates and try an AI agent on it this week. If you haven't done that yet, that's where to start."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Ando wants to replace Slack for teams with AI.",
+        "Agents aren't bots — they own tasks and ask questions.",
+        "Your team could hire digital coworkers this quarter.",
+        "Test one agent in a real project first.",
+        "Pick a boring task and try an agent today."
+      ]
+    },
+    "instagram": {
+      "caption": "A messaging app is betting it can replace Slack by letting AI agents own tasks, not just reply in chat.\n\nAndo is built for teams of humans and AI agents working side by side, already tested in real projects. Unlike bots, these agents take ownership of a task, ask clarifying questions, and report back like a coworker.\n\nYour team could bring in a digital teammate this quarter, not years from now. 🗓️\n\nStart with one agent on one real project, not everything at once. 🤖\n\nWhich repetitive task would you hand off first this week? 👀"
+    }
+  },
+  "instagram_caption": "A messaging app is betting it can replace Slack by letting AI agents own tasks, not just reply in chat.\n\nAndo is built for teams of humans and AI agents working side by side, already tested in real projects. Unlike bots, these agents take ownership of a task, ask clarifying questions, and report back like a coworker.\n\nYour team could bring in a digital teammate this quarter, not years from now. 🗓️\n\nStart with one agent on one real project, not everything at once. 🤖\n\nWhich repetitive task would you hand off first this week? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Agents that work, not just reply?",
+      "description": "Ando is a team messaging app for humans and AI agents, now being tested in real projects.",
+      "visual_hint": "Split screen: human and digital coworker",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "office workspace"
+    },
+    {
+      "hook": "Your next teammate might be digital",
+      "description": "Ando lets humans and AI agents share a workspace; agents own tasks instead of just answering.",
+      "visual_hint": "Chat interface with agent avatar",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "messaging app screen",
+      "image": "https://images.pexels.com/photos/9898392/pexels-photo-9898392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Bots reply. Agents own tasks.",
+      "description": "Unlike bots, these AI agents take full ownership, ask clarifying questions, and report back like coworkers.",
+      "visual_hint": "Task checklist with agent icon",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "team collaboration",
+      "image": "https://images.pexels.com/photos/3862154/pexels-photo-3862154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Hire an AI teammate this quarter",
+      "description": "Your team could onboard a digital coworker within three months, not years. The tools are ready now.",
+      "visual_hint": "Hand shaking a digital avatar",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "business handshake",
+      "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: start with one agent",
+      "description": "Pick one repetitive task your team hates and test an AI agent on it this week.",
+      "visual_hint": "Single task highlighted on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop task list",
+      "image": "https://images.pexels.com/photos/7439127/pexels-photo-7439127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Sara-Du.png?resize=1200,594",
+  "savedAt": "2026-09-24T19:38:13.446Z",
+  "sourceId": "ee77f58aefaf506fada3b4a819834b11"
+}

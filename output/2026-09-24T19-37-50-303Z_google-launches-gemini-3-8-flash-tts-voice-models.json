@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-launches-gemini-3-8-flash-tts-voice-models",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google launches Gemini 3.8 Flash TTS voice models",
+  "link": "https://www.artificialintelligence-news.com/news/google-gemini-3-8-flash-tts-voice-models/",
+  "pubDate": "Thu, 24 Sep 2026 16:09:02 +0000",
+  "slides": [
+    "Google just dropped new Gemini voice models. Why now?",
+    "Gemini 3.8 Flash TTS handles real-time speech",
+    "But it struggles with emotional nuance in long form",
+    "Your voice assistant apps may need immediate retesting",
+    "Test one sentence with genuine anger today"
+  ],
+  "thread_text": [
+    "1. Google's Gemini Voice Drop\n\nNew TTS models just landed, but the real story is why now: real-time speech is finally fast enough for live apps.",
+    "2. Real-Time TTS Is Here\n\nGemini 3.8 Flash handles speech as it happens, not after. That means voice assistants can respond mid-sentence without awkward pauses.",
+    "3. The Emotional Nuance Gap\n\nLong-form speech still trips it up. It nails speed, but genuine anger or sadness over minutes? That's where it cracks.",
+    "4. Your App Might Break\n\nIf you build voice assistants on older models, retesting isn't optional. The new baseline just shifted under your feet.",
+    "5. Test Anger Right Now\n\nOpen your voice app and say one sentence with real anger. If it sounds flat, you've got work to do today."
+  ],
+  "video_script": [
+    "Google just dropped new Gemini voice models. Why now?",
+    "Gemini 3.8 Flash handles real-time speech on the fly.",
+    "But it still struggles with emotional nuance in long form.",
+    "Your voice assistant apps may need immediate retesting.",
+    "Test one sentence with genuine anger today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Google's Gemini Voice Drop\n\nNew TTS models just landed, but the real story is why now: real-time speech is finally fast enough for live apps.",
+        "2. Real-Time TTS Is Here\n\nGemini 3.8 Flash handles speech as it happens, not after. That means voice assistants can respond mid-sentence without awkward pauses.",
+        "3. The Emotional Nuance Gap\n\nLong-form speech still trips it up. It nails speed, but genuine anger or sadness over minutes? That's where it cracks.",
+        "4. Your App Might Break\n\nIf you build voice assistants on older models, retesting isn't optional. The new baseline just shifted under your feet.",
+        "5. Test Anger Right Now\n\nOpen your voice app and say one sentence with real anger. If it sounds flat, you've got work to do today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google just dropped new Gemini voice models. Why now?",
+        "Gemini 3.8 Flash handles real-time speech on the fly.",
+        "But it still struggles with emotional nuance in long form.",
+        "Your voice assistant apps may need immediate retesting.",
+        "Test one sentence with genuine anger today."
+      ]
+    },
+    "instagram": {
+      "caption": "Real-time speech is now fast enough for live apps — that's the actual headline. 🎙️\n\nGoogle launched Gemini 3.8 Flash TTS, handling voice as it happens, not after.\n\nIt nails speed, but genuine anger or sadness over minutes still cracks it. 🤔\n\nIf you build voice assistants on older models, your baseline just shifted — retesting isn't optional.\n\nOpen your voice app and say one sentence with real anger. 🎯 If it sounds flat, you've got work today.\n\nHow does your assistant handle frustration? 😤"
+    }
+  },
+  "instagram_caption": "Real-time speech is now fast enough for live apps — that's the actual headline. 🎙️\n\nGoogle launched Gemini 3.8 Flash TTS, handling voice as it happens, not after.\n\nIt nails speed, but genuine anger or sadness over minutes still cracks it. 🤔\n\nIf you build voice assistants on older models, your baseline just shifted — retesting isn't optional.\n\nOpen your voice app and say one sentence with real anger. 🎯 If it sounds flat, you've got work today.\n\nHow does your assistant handle frustration? 😤",
+  "carousel_slides": [
+    {
+      "hook": "Does your voice assistant sound flat?",
+      "description": "Google's Gemini 3.8 Flash TTS handles real-time speech but fails at emotional nuance, so your app may sound robotic.",
+      "visual_hint": "Smart speaker with sound waves",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smart speaker"
+    },
+    {
+      "hook": "Real-time speech changes everything",
+      "description": "Gemini 3.8 Flash processes speech as it happens, letting assistants respond mid-sentence without awkward pauses or delays.",
+      "visual_hint": "Person talking to smart device",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "voice assistant",
+      "image": "https://images.pexels.com/photos/4790267/pexels-photo-4790267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI nails speed, misses real emotion",
+      "description": "Gemini 3.8 Flash handles fast speech but cracks on genuine anger or sadness over long-form conversations, limiting emotional realism.",
+      "visual_hint": "Split face happy and angry",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "emotion face",
+      "image": "https://images.pexels.com/photos/33716145/pexels-photo-33716145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your voice app might be outdated",
+      "description": "If you build voice assistants on older models, the new baseline shifted. Immediate retesting is not optional for developers.",
+      "visual_hint": "Developer testing app on laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "app testing",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your app breaks",
+      "description": "Open your voice app and say one sentence with real anger. If it sounds flat, you have work to do today, so save this.",
+      "visual_hint": "Person speaking angrily to phone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "angry person phone",
+      "image": "https://images.pexels.com/photos/7927406/pexels-photo-7927406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/1279107/pexels-photo-1279107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-24T19:37:58.269Z",
+  "sourceId": "b17675bfaa783adecedc8cf7ffa3732e"
+}

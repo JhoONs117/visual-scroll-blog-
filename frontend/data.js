@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "meta-is-going-to-let-you-build-games-with-ai-right",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta is going to let you build games with AI right on your phone",
+    "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+    "pubDate": "2026-09-24T17:52:29.000Z",
+    "slides": [
+      "Meta just made game development possible for anyone with a phone?",
+      "Their new AI tool builds entire games from simple text prompts.",
+      "But it won't let you create realistic shooters—only casual puzzles.",
+      "You can publish and share games instantly without coding.",
+      "Open Meta's AI Studio and type your first game idea today."
+    ],
+    "thread_text": [
+      "1. Meta's quiet revolution\n\nMeta's new AI tool builds entire games from simple text prompts. No coding, no experience—just your idea typed into a phone.",
+      "2. But there's a catch\n\nIt won't let you create realistic shooters. Only casual puzzles and simple experiences make the cut.",
+      "3. Publish in seconds\n\nYou can share your game instantly without writing a single line of code. The barrier to entry just disappeared.",
+      "4. Who benefits most\n\nAspiring creators who never had the technical skills now have a direct path from idea to playable game.",
+      "5. Your turn to build\n\nOpen Meta's AI Studio and type your first game idea today. What will you create first?"
+    ],
+    "video_script": [
+      "Meta just made game development possible for anyone with a phone.",
+      "Their new AI tool builds entire games from simple text prompts.",
+      "But it won't let you create realistic shooters, only casual puzzles.",
+      "You can publish and share games instantly without coding.",
+      "Open Meta's AI Studio and type your first game idea today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Meta's quiet revolution\n\nMeta's new AI tool builds entire games from simple text prompts. No coding, no experience—just your idea typed into a phone.",
+          "2. But there's a catch\n\nIt won't let you create realistic shooters. Only casual puzzles and simple experiences make the cut.",
+          "3. Publish in seconds\n\nYou can share your game instantly without writing a single line of code. The barrier to entry just disappeared.",
+          "4. Who benefits most\n\nAspiring creators who never had the technical skills now have a direct path from idea to playable game.",
+          "5. Your turn to build\n\nOpen Meta's AI Studio and type your first game idea today. What will you create first?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta just made game development possible for anyone with a phone.",
+          "Their new AI tool builds entire games from simple text prompts.",
+          "But it won't let you create realistic shooters, only casual puzzles.",
+          "You can publish and share games instantly without coding.",
+          "Open Meta's AI Studio and type your first game idea today."
+        ]
+      },
+      "instagram": {
+        "caption": "You can now build a full game by typing a sentence into your phone.\n\nMeta's new AI tool turns simple text prompts into playable games.\n\nNo coding, no experience needed. But it only makes casual puzzles—realistic shooters are off limits.\n\nYou can publish and share your game instantly, right from your phone.\n\nIf you've ever had a game idea but no technical skills, the barrier just dropped. 🎮\n\nOpen Meta's AI Studio and type your first idea. What would you build first? 🕹️"
+      }
+    },
+    "instagram_caption": "You can now build a full game by typing a sentence into your phone.\n\nMeta's new AI tool turns simple text prompts into playable games.\n\nNo coding, no experience needed. But it only makes casual puzzles—realistic shooters are off limits.\n\nYou can publish and share your game instantly, right from your phone.\n\nIf you've ever had a game idea but no technical skills, the barrier just dropped. 🎮\n\nOpen Meta's AI Studio and type your first idea. What would you build first? 🕹️",
+    "carousel_slides": [
+      {
+        "hook": "No coding skills? Meta changes everything.",
+        "description": "Meta's AI tool builds entire games from simple text prompts. No coding or experience—just type your idea on a phone.",
+        "visual_hint": "Smartphone displaying a game creation interface",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone screen"
+      },
+      {
+        "hook": "What if you could build games?",
+        "description": "Meta's new AI tool turns your text prompts into playable games, but only casual puzzles pass the cut—not realistic shooters.",
+        "visual_hint": "Casual puzzle game on a phone screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "puzzle game",
+        "image": "https://images.pexels.com/photos/9227238/pexels-photo-9227238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The catch? No realistic shooters.",
+        "description": "Meta's AI only allows casual puzzles and simple experiences, blocking realistic shooters. Your game ideas face strict limits.",
+        "visual_hint": "Game controller with a red prohibition sign",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "game controller",
+        "image": "https://images.pexels.com/photos/30302447/pexels-photo-30302447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Publish your game in seconds.",
+        "description": "Share your game instantly without writing any code. The barrier to entry has completely disappeared for aspiring creators.",
+        "visual_hint": "Hand tapping publish button on phone",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "publish button",
+        "image": "https://images.pexels.com/photos/7968784/pexels-photo-7968784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ready to build your first game?",
+        "description": "Open Meta's AI Studio and type your first game idea today. Save this post and share what you create.",
+        "visual_hint": "AI Studio interface with text input field",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "text input",
+        "image": "https://images.pexels.com/photos/9902413/pexels-photo-9902413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.56.53-AM.png?quality=90&amp;strip=all&amp;crop=0%2C3.4422539850274%2C100%2C93.115492029945&amp;w=1200",
+    "savedAt": "2026-09-24T19:38:20.526Z",
+    "sourceId": "c8ce86916686a255a41cec752dcdbd72"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ando-wants-to-take-on-slack-with-a-team-messaging-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+    "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+    "pubDate": "Thu, 24 Sep 2026 14:31:00 +0000",
+    "slides": [
+      "Ando wants to replace Slack — but who wins?",
+      "It's a team messaging app for humans and agents",
+      "Agents aren't bots; they own tasks and ask questions",
+      "Your team could hire digital coworkers this quarter",
+      "Test one agent in a real project first"
+    ],
+    "thread_text": [
+      "1. Slack's quiet replacement\n\nA new team messaging app called Ando is built for humans and AI agents working side by side, and it's already being tested in real projects.",
+      "2. Agents own the work\n\nUnlike bots that just reply, these agents take full ownership of tasks, ask clarifying questions, and report back like a coworker would.",
+      "3. Digital coworkers this quarter\n\nYour team could hire an AI agent as a teammate within the next three months, not years. The tools are ready now.",
+      "4. Don't test it on everything\n\nStart with one agent on one real project first. If it fails, you learn fast; if it works, you scale with proof.",
+      "5. Pick a task today\n\nTake one repetitive task your team hates and try an AI agent on it this week. If you haven't done that yet, that's where to start."
+    ],
+    "video_script": [
+      "Ando wants to replace Slack for teams with AI.",
+      "Agents aren't bots — they own tasks and ask questions.",
+      "Your team could hire digital coworkers this quarter.",
+      "Test one agent in a real project first.",
+      "Pick a boring task and try an agent today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Slack's quiet replacement\n\nA new team messaging app called Ando is built for humans and AI agents working side by side, and it's already being tested in real projects.",
+          "2. Agents own the work\n\nUnlike bots that just reply, these agents take full ownership of tasks, ask clarifying questions, and report back like a coworker would.",
+          "3. Digital coworkers this quarter\n\nYour team could hire an AI agent as a teammate within the next three months, not years. The tools are ready now.",
+          "4. Don't test it on everything\n\nStart with one agent on one real project first. If it fails, you learn fast; if it works, you scale with proof.",
+          "5. Pick a task today\n\nTake one repetitive task your team hates and try an AI agent on it this week. If you haven't done that yet, that's where to start."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Ando wants to replace Slack for teams with AI.",
+          "Agents aren't bots — they own tasks and ask questions.",
+          "Your team could hire digital coworkers this quarter.",
+          "Test one agent in a real project first.",
+          "Pick a boring task and try an agent today."
+        ]
+      },
+      "instagram": {
+        "caption": "A messaging app is betting it can replace Slack by letting AI agents own tasks, not just reply in chat.\n\nAndo is built for teams of humans and AI agents working side by side, already tested in real projects. Unlike bots, these agents take ownership of a task, ask clarifying questions, and report back like a coworker.\n\nYour team could bring in a digital teammate this quarter, not years from now. 🗓️\n\nStart with one agent on one real project, not everything at once. 🤖\n\nWhich repetitive task would you hand off first this week? 👀"
+      }
+    },
+    "instagram_caption": "A messaging app is betting it can replace Slack by letting AI agents own tasks, not just reply in chat.\n\nAndo is built for teams of humans and AI agents working side by side, already tested in real projects. Unlike bots, these agents take ownership of a task, ask clarifying questions, and report back like a coworker.\n\nYour team could bring in a digital teammate this quarter, not years from now. 🗓️\n\nStart with one agent on one real project, not everything at once. 🤖\n\nWhich repetitive task would you hand off first this week? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Agents that work, not just reply?",
+        "description": "Ando is a team messaging app for humans and AI agents, now being tested in real projects.",
+        "visual_hint": "Split screen: human and digital coworker",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "office workspace"
+      },
+      {
+        "hook": "Your next teammate might be digital",
+        "description": "Ando lets humans and AI agents share a workspace; agents own tasks instead of just answering.",
+        "visual_hint": "Chat interface with agent avatar",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "messaging app screen",
+        "image": "https://images.pexels.com/photos/9898392/pexels-photo-9898392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Bots reply. Agents own tasks.",
+        "description": "Unlike bots, these AI agents take full ownership, ask clarifying questions, and report back like coworkers.",
+        "visual_hint": "Task checklist with agent icon",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "team collaboration",
+        "image": "https://images.pexels.com/photos/3862154/pexels-photo-3862154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Hire an AI teammate this quarter",
+        "description": "Your team could onboard a digital coworker within three months, not years. The tools are ready now.",
+        "visual_hint": "Hand shaking a digital avatar",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "business handshake",
+        "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: start with one agent",
+        "description": "Pick one repetitive task your team hates and test an AI agent on it this week.",
+        "visual_hint": "Single task highlighted on screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop task list",
+        "image": "https://images.pexels.com/photos/7439127/pexels-photo-7439127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Sara-Du.png?resize=1200,594",
+    "savedAt": "2026-09-24T19:38:13.446Z",
+    "sourceId": "ee77f58aefaf506fada3b4a819834b11"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "prismml-brings-its-tiny-llms-to-qualcomm-powered-s",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+    "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+    "pubDate": "Thu, 24 Sep 2026 19:00:42 +0000",
+    "slides": [
+      "Can smart glasses run AI without the cloud?",
+      "Qualcomm's chips now host PrismML's tiny language models.",
+      "But performance depends on tasks you'd never expect.",
+      "Developers can test offline AI on existing Snapdragon glasses.",
+      "Your next app might never need a server."
+    ],
+    "thread_text": [
+      "1. Offline AI on Glasses\n\nQualcomm's latest chips now run PrismML's tiny language models directly on Snapdragon smart glasses. No cloud, no server, no internet needed.",
+      "2. Your Face Is the Server\n\nAll processing happens on the device, so your data never leaves the frame. Privacy stops being a settings toggle and becomes a hardware feature.",
+      "3. The Weird Task Problem\n\nPerformance depends on tasks you'd never expect. A simple request can run fast while something obvious to you becomes painfully slow.",
+      "4. Developers Can Test Now\n\nExisting Snapdragon glasses already support offline AI development. No new hardware purchase, no waiting for next-gen devices.",
+      "5. Does Your App Need Cloud?\n\nTake one prompt your app sends to a server and test it locally this week. If it works, ask why you're still paying for cloud."
+    ],
+    "video_script": [
+      "Can smart glasses run AI without the cloud?",
+      "Qualcomm chips now host tiny language models directly.",
+      "But performance depends on tasks you would never expect.",
+      "Developers can test offline AI on existing Snapdragon glasses.",
+      "Your next app might never need a server."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Offline AI on Glasses\n\nQualcomm's latest chips now run PrismML's tiny language models directly on Snapdragon smart glasses. No cloud, no server, no internet needed.",
+          "2. Your Face Is the Server\n\nAll processing happens on the device, so your data never leaves the frame. Privacy stops being a settings toggle and becomes a hardware feature.",
+          "3. The Weird Task Problem\n\nPerformance depends on tasks you'd never expect. A simple request can run fast while something obvious to you becomes painfully slow.",
+          "4. Developers Can Test Now\n\nExisting Snapdragon glasses already support offline AI development. No new hardware purchase, no waiting for next-gen devices.",
+          "5. Does Your App Need Cloud?\n\nTake one prompt your app sends to a server and test it locally this week. If it works, ask why you're still paying for cloud."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can smart glasses run AI without the cloud?",
+          "Qualcomm chips now host tiny language models directly.",
+          "But performance depends on tasks you would never expect.",
+          "Developers can test offline AI on existing Snapdragon glasses.",
+          "Your next app might never need a server."
+        ]
+      },
+      "instagram": {
+        "caption": "Tiny language models now run directly on Snapdragon smart glasses — no internet, no server, no cloud. 🤖\n\nQualcomm's chips host PrismML's offline AI on the device itself, so your data never leaves the frame.\n\nPerformance is uneven though: some simple tasks run fast while obvious ones crawl. 🐢\n\nExisting Snapdragon glasses already support this, so developers can test offline AI today without buying new hardware.\n\nIf you build or publish, one server call in your app could soon disappear.\n\nTake one prompt your app sends to the cloud and try it locally this week. Does it still work? 💭"
+      }
+    },
+    "instagram_caption": "Tiny language models now run directly on Snapdragon smart glasses — no internet, no server, no cloud. 🤖\n\nQualcomm's chips host PrismML's offline AI on the device itself, so your data never leaves the frame.\n\nPerformance is uneven though: some simple tasks run fast while obvious ones crawl. 🐢\n\nExisting Snapdragon glasses already support this, so developers can test offline AI today without buying new hardware.\n\nIf you build or publish, one server call in your app could soon disappear.\n\nTake one prompt your app sends to the cloud and try it locally this week. Does it still work? 💭",
+    "carousel_slides": [
+      {
+        "hook": "Your face is now the server.",
+        "description": "PrismML's tiny LLMs run on Qualcomm Snapdragon smart glasses, so data never leaves the frame and privacy becomes a hardware feature.",
+        "visual_hint": "Smart glasses lens reflecting a glowing data circuit",
+        "layout_type": "hero",
+        "icon": "heart",
+        "image_query": "smart glasses device"
+      },
+      {
+        "hook": "No cloud. No internet. No server.",
+        "description": "Qualcomm's latest chips now host PrismML's tiny language models directly on Snapdragon glasses, enabling fully offline AI processing on the device.",
+        "visual_hint": "Microchip on a dark circuit board",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "qualcomm snapdragon chip",
+        "image": "https://images.pexels.com/photos/4432037/pexels-photo-4432037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Simple tasks fly. Obvious tasks crawl.",
+        "description": "Performance on tiny LLMs depends on tasks you'd never expect, with a basic request running fast while something obvious becomes painfully slow.",
+        "visual_hint": "Split screen fast versus slow indicator",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "stopwatch timer closeup",
+        "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Developers can test offline AI now.",
+        "description": "Existing Snapdragon glasses already support offline AI development, so no new hardware purchase and no waiting for next-gen devices is required.",
+        "visual_hint": "Developer hands typing on laptop with glasses",
+        "layout_type": "human-hand",
+        "icon": "check",
+        "image_query": "software developer laptop",
+        "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your next cloud bill.",
+        "description": "Take one prompt your app sends to a server and test it locally this week. If it works, ask why you're still paying for cloud.",
+        "visual_hint": "Smart glasses on desk with prompt card",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smart glasses desk",
+        "image": "https://images.pexels.com/photos/17689341/pexels-photo-17689341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/PrismML-Snapdragon-smartglasses.png?w=612",
+    "savedAt": "2026-09-24T19:38:06.037Z",
+    "sourceId": "401fbf3dbcdc62969d469fb0fee05fd5"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-launches-gemini-3-8-flash-tts-voice-models",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google launches Gemini 3.8 Flash TTS voice models",
+    "link": "https://www.artificialintelligence-news.com/news/google-gemini-3-8-flash-tts-voice-models/",
+    "pubDate": "Thu, 24 Sep 2026 16:09:02 +0000",
+    "slides": [
+      "Google just dropped new Gemini voice models. Why now?",
+      "Gemini 3.8 Flash TTS handles real-time speech",
+      "But it struggles with emotional nuance in long form",
+      "Your voice assistant apps may need immediate retesting",
+      "Test one sentence with genuine anger today"
+    ],
+    "thread_text": [
+      "1. Google's Gemini Voice Drop\n\nNew TTS models just landed, but the real story is why now: real-time speech is finally fast enough for live apps.",
+      "2. Real-Time TTS Is Here\n\nGemini 3.8 Flash handles speech as it happens, not after. That means voice assistants can respond mid-sentence without awkward pauses.",
+      "3. The Emotional Nuance Gap\n\nLong-form speech still trips it up. It nails speed, but genuine anger or sadness over minutes? That's where it cracks.",
+      "4. Your App Might Break\n\nIf you build voice assistants on older models, retesting isn't optional. The new baseline just shifted under your feet.",
+      "5. Test Anger Right Now\n\nOpen your voice app and say one sentence with real anger. If it sounds flat, you've got work to do today."
+    ],
+    "video_script": [
+      "Google just dropped new Gemini voice models. Why now?",
+      "Gemini 3.8 Flash handles real-time speech on the fly.",
+      "But it still struggles with emotional nuance in long form.",
+      "Your voice assistant apps may need immediate retesting.",
+      "Test one sentence with genuine anger today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Google's Gemini Voice Drop\n\nNew TTS models just landed, but the real story is why now: real-time speech is finally fast enough for live apps.",
+          "2. Real-Time TTS Is Here\n\nGemini 3.8 Flash handles speech as it happens, not after. That means voice assistants can respond mid-sentence without awkward pauses.",
+          "3. The Emotional Nuance Gap\n\nLong-form speech still trips it up. It nails speed, but genuine anger or sadness over minutes? That's where it cracks.",
+          "4. Your App Might Break\n\nIf you build voice assistants on older models, retesting isn't optional. The new baseline just shifted under your feet.",
+          "5. Test Anger Right Now\n\nOpen your voice app and say one sentence with real anger. If it sounds flat, you've got work to do today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google just dropped new Gemini voice models. Why now?",
+          "Gemini 3.8 Flash handles real-time speech on the fly.",
+          "But it still struggles with emotional nuance in long form.",
+          "Your voice assistant apps may need immediate retesting.",
+          "Test one sentence with genuine anger today."
+        ]
+      },
+      "instagram": {
+        "caption": "Real-time speech is now fast enough for live apps — that's the actual headline. 🎙️\n\nGoogle launched Gemini 3.8 Flash TTS, handling voice as it happens, not after.\n\nIt nails speed, but genuine anger or sadness over minutes still cracks it. 🤔\n\nIf you build voice assistants on older models, your baseline just shifted — retesting isn't optional.\n\nOpen your voice app and say one sentence with real anger. 🎯 If it sounds flat, you've got work today.\n\nHow does your assistant handle frustration? 😤"
+      }
+    },
+    "instagram_caption": "Real-time speech is now fast enough for live apps — that's the actual headline. 🎙️\n\nGoogle launched Gemini 3.8 Flash TTS, handling voice as it happens, not after.\n\nIt nails speed, but genuine anger or sadness over minutes still cracks it. 🤔\n\nIf you build voice assistants on older models, your baseline just shifted — retesting isn't optional.\n\nOpen your voice app and say one sentence with real anger. 🎯 If it sounds flat, you've got work today.\n\nHow does your assistant handle frustration? 😤",
+    "carousel_slides": [
+      {
+        "hook": "Does your voice assistant sound flat?",
+        "description": "Google's Gemini 3.8 Flash TTS handles real-time speech but fails at emotional nuance, so your app may sound robotic.",
+        "visual_hint": "Smart speaker with sound waves",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smart speaker"
+      },
+      {
+        "hook": "Real-time speech changes everything",
+        "description": "Gemini 3.8 Flash processes speech as it happens, letting assistants respond mid-sentence without awkward pauses or delays.",
+        "visual_hint": "Person talking to smart device",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "voice assistant",
+        "image": "https://images.pexels.com/photos/4790267/pexels-photo-4790267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI nails speed, misses real emotion",
+        "description": "Gemini 3.8 Flash handles fast speech but cracks on genuine anger or sadness over long-form conversations, limiting emotional realism.",
+        "visual_hint": "Split face happy and angry",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "emotion face",
+        "image": "https://images.pexels.com/photos/33716145/pexels-photo-33716145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your voice app might be outdated",
+        "description": "If you build voice assistants on older models, the new baseline shifted. Immediate retesting is not optional for developers.",
+        "visual_hint": "Developer testing app on laptop",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "app testing",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your app breaks",
+        "description": "Open your voice app and say one sentence with real anger. If it sounds flat, you have work to do today, so save this.",
+        "visual_hint": "Person speaking angrily to phone",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "angry person phone",
+        "image": "https://images.pexels.com/photos/7927406/pexels-photo-7927406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/1279107/pexels-photo-1279107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-09-24T19:37:58.269Z",
+    "sourceId": "b17675bfaa783adecedc8cf7ffa3732e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-agents-hacked-an-australian-government-webs",
     "prompt_version": "1.0.0",
     "status": "published",

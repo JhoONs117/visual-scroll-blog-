@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "prismml-brings-its-tiny-llms-to-qualcomm-powered-s",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+  "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+  "pubDate": "Thu, 24 Sep 2026 19:00:42 +0000",
+  "slides": [
+    "Can smart glasses run AI without the cloud?",
+    "Qualcomm's chips now host PrismML's tiny language models.",
+    "But performance depends on tasks you'd never expect.",
+    "Developers can test offline AI on existing Snapdragon glasses.",
+    "Your next app might never need a server."
+  ],
+  "thread_text": [
+    "1. Offline AI on Glasses\n\nQualcomm's latest chips now run PrismML's tiny language models directly on Snapdragon smart glasses. No cloud, no server, no internet needed.",
+    "2. Your Face Is the Server\n\nAll processing happens on the device, so your data never leaves the frame. Privacy stops being a settings toggle and becomes a hardware feature.",
+    "3. The Weird Task Problem\n\nPerformance depends on tasks you'd never expect. A simple request can run fast while something obvious to you becomes painfully slow.",
+    "4. Developers Can Test Now\n\nExisting Snapdragon glasses already support offline AI development. No new hardware purchase, no waiting for next-gen devices.",
+    "5. Does Your App Need Cloud?\n\nTake one prompt your app sends to a server and test it locally this week. If it works, ask why you're still paying for cloud."
+  ],
+  "video_script": [
+    "Can smart glasses run AI without the cloud?",
+    "Qualcomm chips now host tiny language models directly.",
+    "But performance depends on tasks you would never expect.",
+    "Developers can test offline AI on existing Snapdragon glasses.",
+    "Your next app might never need a server."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Offline AI on Glasses\n\nQualcomm's latest chips now run PrismML's tiny language models directly on Snapdragon smart glasses. No cloud, no server, no internet needed.",
+        "2. Your Face Is the Server\n\nAll processing happens on the device, so your data never leaves the frame. Privacy stops being a settings toggle and becomes a hardware feature.",
+        "3. The Weird Task Problem\n\nPerformance depends on tasks you'd never expect. A simple request can run fast while something obvious to you becomes painfully slow.",
+        "4. Developers Can Test Now\n\nExisting Snapdragon glasses already support offline AI development. No new hardware purchase, no waiting for next-gen devices.",
+        "5. Does Your App Need Cloud?\n\nTake one prompt your app sends to a server and test it locally this week. If it works, ask why you're still paying for cloud."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can smart glasses run AI without the cloud?",
+        "Qualcomm chips now host tiny language models directly.",
+        "But performance depends on tasks you would never expect.",
+        "Developers can test offline AI on existing Snapdragon glasses.",
+        "Your next app might never need a server."
+      ]
+    },
+    "instagram": {
+      "caption": "Tiny language models now run directly on Snapdragon smart glasses — no internet, no server, no cloud. 🤖\n\nQualcomm's chips host PrismML's offline AI on the device itself, so your data never leaves the frame.\n\nPerformance is uneven though: some simple tasks run fast while obvious ones crawl. 🐢\n\nExisting Snapdragon glasses already support this, so developers can test offline AI today without buying new hardware.\n\nIf you build or publish, one server call in your app could soon disappear.\n\nTake one prompt your app sends to the cloud and try it locally this week. Does it still work? 💭"
+    }
+  },
+  "instagram_caption": "Tiny language models now run directly on Snapdragon smart glasses — no internet, no server, no cloud. 🤖\n\nQualcomm's chips host PrismML's offline AI on the device itself, so your data never leaves the frame.\n\nPerformance is uneven though: some simple tasks run fast while obvious ones crawl. 🐢\n\nExisting Snapdragon glasses already support this, so developers can test offline AI today without buying new hardware.\n\nIf you build or publish, one server call in your app could soon disappear.\n\nTake one prompt your app sends to the cloud and try it locally this week. Does it still work? 💭",
+  "carousel_slides": [
+    {
+      "hook": "Your face is now the server.",
+      "description": "PrismML's tiny LLMs run on Qualcomm Snapdragon smart glasses, so data never leaves the frame and privacy becomes a hardware feature.",
+      "visual_hint": "Smart glasses lens reflecting a glowing data circuit",
+      "layout_type": "hero",
+      "icon": "heart",
+      "image_query": "smart glasses device"
+    },
+    {
+      "hook": "No cloud. No internet. No server.",
+      "description": "Qualcomm's latest chips now host PrismML's tiny language models directly on Snapdragon glasses, enabling fully offline AI processing on the device.",
+      "visual_hint": "Microchip on a dark circuit board",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "qualcomm snapdragon chip",
+      "image": "https://images.pexels.com/photos/4432037/pexels-photo-4432037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Simple tasks fly. Obvious tasks crawl.",
+      "description": "Performance on tiny LLMs depends on tasks you'd never expect, with a basic request running fast while something obvious becomes painfully slow.",
+      "visual_hint": "Split screen fast versus slow indicator",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "stopwatch timer closeup",
+      "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Developers can test offline AI now.",
+      "description": "Existing Snapdragon glasses already support offline AI development, so no new hardware purchase and no waiting for next-gen devices is required.",
+      "visual_hint": "Developer hands typing on laptop with glasses",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "software developer laptop",
+      "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next cloud bill.",
+      "description": "Take one prompt your app sends to a server and test it locally this week. If it works, ask why you're still paying for cloud.",
+      "visual_hint": "Smart glasses on desk with prompt card",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smart glasses desk",
+      "image": "https://images.pexels.com/photos/17689341/pexels-photo-17689341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/PrismML-Snapdragon-smartglasses.png?w=612",
+  "savedAt": "2026-09-24T19:38:06.037Z",
+  "sourceId": "401fbf3dbcdc62969d469fb0fee05fd5"
+}
