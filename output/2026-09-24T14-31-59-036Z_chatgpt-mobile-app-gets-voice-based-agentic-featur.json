@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "chatgpt-mobile-app-gets-voice-based-agentic-featur",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "ChatGPT mobile app gets voice-based agentic features",
+  "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+  "pubDate": "Wed, 23 Sep 2026 17:00:00 +0000",
+  "slides": [
+    "Will ChatGPT's voice soon control your phone?",
+    "New agentic voice features rolling out to mobile users",
+    "But agents can only handle tasks OpenAI pre-approved",
+    "Your daily app workflow may need no tapping soon",
+    "Test one voice command today to see limits"
+  ],
+  "thread_text": [
+    "1. Voice Takes Over Your Phone\n\nOpenAI is rolling out agentic voice features that let you control mobile apps without tapping. Early testers say it feels like having a remote control for your entire phone.",
+    "2. Pre-Approved Tasks Only\n\nHere's the catch: the AI can only handle tasks OpenAI has explicitly approved. Anything outside that list, and you're back to swiping and typing manually.",
+    "3. Daily Workflow Without Taps\n\nIf the feature works as promised, your morning routine—checking email, ordering coffee, scheduling rides—could happen through voice alone. No screen touches needed.",
+    "4. Test One Command Today\n\nTry asking ChatGPT to send a text or open an app using voice. You'll quickly see where the agent succeeds and where it hits a wall.",
+    "5. What Will You Automate?\n\nIf you could hand off just one daily phone task to an AI agent, which would it be? The answer might surprise you—and reveal what's really missing."
+  ],
+  "video_script": [
+    "ChatGPT's voice might soon control your phone.",
+    "New agentic features roll out to mobile users.",
+    "But agents only handle tasks OpenAI pre-approved.",
+    "Your daily workflow could soon need zero tapping.",
+    "Test one voice command today to find limits."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Voice Takes Over Your Phone\n\nOpenAI is rolling out agentic voice features that let you control mobile apps without tapping. Early testers say it feels like having a remote control for your entire phone.",
+        "2. Pre-Approved Tasks Only\n\nHere's the catch: the AI can only handle tasks OpenAI has explicitly approved. Anything outside that list, and you're back to swiping and typing manually.",
+        "3. Daily Workflow Without Taps\n\nIf the feature works as promised, your morning routine—checking email, ordering coffee, scheduling rides—could happen through voice alone. No screen touches needed.",
+        "4. Test One Command Today\n\nTry asking ChatGPT to send a text or open an app using voice. You'll quickly see where the agent succeeds and where it hits a wall.",
+        "5. What Will You Automate?\n\nIf you could hand off just one daily phone task to an AI agent, which would it be? The answer might surprise you—and reveal what's really missing."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "ChatGPT's voice might soon control your phone.",
+        "New agentic features roll out to mobile users.",
+        "But agents only handle tasks OpenAI pre-approved.",
+        "Your daily workflow could soon need zero tapping.",
+        "Test one voice command today to find limits."
+      ]
+    },
+    "instagram": {
+      "caption": "Your phone might soon be controllable by voice alone.\n\nOpenAI is rolling out agentic voice features to ChatGPT mobile users, letting the AI control apps without you tapping. 🎙️\n\nThe catch: it only handles tasks OpenAI has pre-approved. 📋 Step outside that list and you're back to swiping manually.\n\nIf you create or publish content, this means testing what commands actually work before assuming your workflow is hands-free. Your morning email-check and coffee order could skip the screen entirely. ☕\n\nTry one voice command today — send a text or open an app. Where does it fail you? 🤔"
+    }
+  },
+  "instagram_caption": "Your phone might soon be controllable by voice alone.\n\nOpenAI is rolling out agentic voice features to ChatGPT mobile users, letting the AI control apps without you tapping. 🎙️\n\nThe catch: it only handles tasks OpenAI has pre-approved. 📋 Step outside that list and you're back to swiping manually.\n\nIf you create or publish content, this means testing what commands actually work before assuming your workflow is hands-free. Your morning email-check and coffee order could skip the screen entirely. ☕\n\nTry one voice command today — send a text or open an app. Where does it fail you? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Approved tasks only? That kills it.",
+      "description": "OpenAI's agentic voice features can only handle tasks OpenAI explicitly pre-approved. Anything outside that list means manual swiping again.",
+      "visual_hint": "Locked smartphone screen glowing dimly",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone screen closeup"
+    },
+    {
+      "hook": "Voice control is rolling out now.",
+      "description": "Agentic voice features are reaching mobile users, letting early testers control apps without tapping. It feels like a remote control for your phone.",
+      "visual_hint": "Hand holding phone with voice wave",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "voice assistant phone",
+      "image": "https://images.pexels.com/photos/5083215/pexels-photo-5083215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Only pre-approved tasks work today.",
+      "description": "The AI can handle a limited whitelist of tasks. Try anything outside it, and you're back to typing and swiping manually.",
+      "visual_hint": "Checklist with limited approved items",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "checklist clipboard paper",
+      "image": "https://images.pexels.com/photos/6928997/pexels-photo-6928997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your morning routine without a tap.",
+      "description": "Checking email, ordering coffee, booking rides could happen entirely by voice. No screen touches needed if the feature delivers.",
+      "visual_hint": "Person speaking to phone hands-free",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person using smartphone",
+      "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one voice command today. Save this.",
+      "description": "Ask ChatGPT to send a text or open an app using voice. See where it succeeds and where it fails, then comment your result.",
+      "visual_hint": "Finger pressing voice command button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "voice command smartphone",
+      "image": "https://images.pexels.com/photos/7188823/pexels-photo-7188823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+  "savedAt": "2026-09-24T14:32:24.473Z",
+  "sourceId": "3ecdce7d836ad40de10d7e7fdb4577cb"
+}

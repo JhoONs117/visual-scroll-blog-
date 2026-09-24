@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "techcrunch-disrupt-2026-cal-ai-s-zach-yadegari-on-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+  "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+  "pubDate": "Thu, 24 Sep 2026 14:30:00 +0000",
+  "slides": [
+    "Zach Yadegari built Cal AI to 5M downloads. How?",
+    "The viral growth engine wasn't paid ads.",
+    "But most startups fail to capitalize on virality.",
+    "To mimic his tactics, you need a shareable core loop.",
+    "Test one viral loop on your product this week."
+  ],
+  "thread_text": [
+    "1. 5M Downloads, No Ads\n\nZach Yadegari built Cal AI to 5 million downloads without spending a dollar on paid ads. The growth engine was a shareable core loop.",
+    "2. How The Loop Worked\n\nEvery time someone logged a meal, the app generated a shareable visual. Users posted it because it made them look disciplined not spammy.",
+    "3. The Trap Most Founders Fall Into\n\nVirality spikes, then dies. Most startups treat it as a lucky accident instead of a repeatable system, and the spike becomes a flat line.",
+    "4. Build a Loop, Not a Campaign\n\nA campaign ends. A loop compounds. Yadegari's users brought new users because sharing was baked into the core action, not bolted on.",
+    "5. Test One Loop This Week\n\nPick one core action in your product. Ask: can a user share the result of that action in under 10 seconds? If not, redesign it. Then test it on real users."
+  ],
+  "video_script": [
+    "Zach Yadegari got 5 million downloads without paid ads.",
+    "His growth engine? A shareable core loop inside the app.",
+    "Most startups get a viral spike, then it dies.",
+    "They treat virality as luck, not a system.",
+    "Test one viral loop on your product this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. 5M Downloads, No Ads\n\nZach Yadegari built Cal AI to 5 million downloads without spending a dollar on paid ads. The growth engine was a shareable core loop.",
+        "2. How The Loop Worked\n\nEvery time someone logged a meal, the app generated a shareable visual. Users posted it because it made them look disciplined not spammy.",
+        "3. The Trap Most Founders Fall Into\n\nVirality spikes, then dies. Most startups treat it as a lucky accident instead of a repeatable system, and the spike becomes a flat line.",
+        "4. Build a Loop, Not a Campaign\n\nA campaign ends. A loop compounds. Yadegari's users brought new users because sharing was baked into the core action, not bolted on.",
+        "5. Test One Loop This Week\n\nPick one core action in your product. Ask: can a user share the result of that action in under 10 seconds? If not, redesign it. Then test it on real users."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Zach Yadegari got 5 million downloads without paid ads.",
+        "His growth engine? A shareable core loop inside the app.",
+        "Most startups get a viral spike, then it dies.",
+        "They treat virality as luck, not a system.",
+        "Test one viral loop on your product this week."
+      ]
+    },
+    "instagram": {
+      "caption": "5 million downloads and not a single dollar spent on paid ads. 🚀\n\nZach Yadegari grew Cal AI with a shareable core loop, not a marketing budget. Every time someone logged a meal, the app generated a visual worth posting.\n\nThe catch: most startups ride a viral spike and never turn it into a system. 👀\n\nIf you publish or build content, the lesson is direct: bake sharing into the core action, don't bolt it on later.\n\nPick one core action in your product this week. Can a user share the result in under 10 seconds? 🔁\n\nIf not, what would you redesign first? 💬"
+    }
+  },
+  "instagram_caption": "5 million downloads and not a single dollar spent on paid ads. 🚀\n\nZach Yadegari grew Cal AI with a shareable core loop, not a marketing budget. Every time someone logged a meal, the app generated a visual worth posting.\n\nThe catch: most startups ride a viral spike and never turn it into a system. 👀\n\nIf you publish or build content, the lesson is direct: bake sharing into the core action, don't bolt it on later.\n\nPick one core action in your product this week. Can a user share the result in under 10 seconds? 🔁\n\nIf not, what would you redesign first? 💬",
+  "carousel_slides": [
+    {
+      "hook": "Why 5M downloads without paid ads?",
+      "description": "Zach Yadegari built Cal AI to 5M downloads with zero ad spend. The engine was a shareable core loop, not luck.",
+      "visual_hint": "Smartphone with download counter",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone app store"
+    },
+    {
+      "hook": "The loop made sharing look disciplined.",
+      "description": "Every logged meal generated a shareable visual. Users posted it because it signaled discipline, not spam, driving organic growth.",
+      "visual_hint": "Food photo with share icon",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "food photography phone",
+      "image": "https://images.pexels.com/photos/3850228/pexels-photo-3850228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Virality spikes, then flatlines. Why?",
+      "description": "Most startups treat viral spikes as accidents, not systems. The spike dies, leaving a flat line and wasted momentum.",
+      "visual_hint": "Spike graph fading to flat",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Build a loop, not a campaign.",
+      "description": "Campaigns end; loops compound. Yadegari's sharing was baked into the core action, so users brought new users automatically.",
+      "visual_hint": "Circular arrows around phone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "circular arrows diagram",
+      "image": "https://images.pexels.com/photos/7948009/pexels-photo-7948009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one viral loop this week.",
+      "description": "Pick a core action. Can users share its result in under 10 seconds? If not, redesign it. Then test on real users. Save this.",
+      "visual_hint": "Stopwatch and checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stopwatch timer",
+      "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Zach-Yadegari_1-Speaker-16x9-Dark.png?resize=1200,675",
+  "savedAt": "2026-09-24T14:32:07.915Z",
+  "sourceId": "1ac291c5f2887395f7711147d1055678"
+}

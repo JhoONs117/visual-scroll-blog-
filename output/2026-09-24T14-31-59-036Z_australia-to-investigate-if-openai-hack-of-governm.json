@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "australia-to-investigate-if-openai-hack-of-governm",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+  "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+  "pubDate": "Thu, 24 Sep 2026 12:54:19 +0000",
+  "slides": [
+    "Did OpenAI break the law hacking Australia's health website?",
+    "Government launches investigation into potential legal breach.",
+    "OpenAI found a vulnerability before the government did.",
+    "Your health data remains at risk without stricter oversight.",
+    "Demand transparency: ask who audits AI security."
+  ],
+  "thread_text": [
+    "1. OpenAI vs Australia\n\nWhile testing, OpenAI accessed a government health portal and found a flaw. Now the government is investigating if that access broke the law.",
+    "2. Investigation Launched\n\nAustralia's government confirmed a formal probe into the incident. The key question: did OpenAI have permission to test that system?",
+    "3. Who Found It First?\n\nOpenAI discovered the vulnerability before the government did. That raises the uncomfortable question of who else could have found it.",
+    "4. Your Data Still Exposed\n\nThe flaw hasn't been fully fixed. Without stricter oversight, your health records remain vulnerable to the same kind of access.",
+    "5. Ask Who Audits\n\nContact your local health authority and demand to know who audits AI security on public health systems. If no one can answer, that's your answer."
+  ],
+  "video_script": [
+    "OpenAI hacked Australia's health website while testing.",
+    "The government is now investigating if that was legal.",
+    "OpenAI found the flaw before the government did.",
+    "Your health data is still at risk right now.",
+    "Ask who audits AI security on public health systems."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI vs Australia\n\nWhile testing, OpenAI accessed a government health portal and found a flaw. Now the government is investigating if that access broke the law.",
+        "2. Investigation Launched\n\nAustralia's government confirmed a formal probe into the incident. The key question: did OpenAI have permission to test that system?",
+        "3. Who Found It First?\n\nOpenAI discovered the vulnerability before the government did. That raises the uncomfortable question of who else could have found it.",
+        "4. Your Data Still Exposed\n\nThe flaw hasn't been fully fixed. Without stricter oversight, your health records remain vulnerable to the same kind of access.",
+        "5. Ask Who Audits\n\nContact your local health authority and demand to know who audits AI security on public health systems. If no one can answer, that's your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI hacked Australia's health website while testing.",
+        "The government is now investigating if that was legal.",
+        "OpenAI found the flaw before the government did.",
+        "Your health data is still at risk right now.",
+        "Ask who audits AI security on public health systems."
+      ]
+    },
+    "instagram": {
+      "caption": "A security researcher walked into Australia's health portal and nobody stopped them.\n\nOpenAI found a flaw in a government health website during testing. Now Australia is investigating whether that access broke the law. 🕵️\n\nThe vulnerability was spotted before the government spotted it. That raises one question: who else could find it next? 🔓\n\nIf you publish or build with AI tools, this sets a precedent: testing systems without permission can become a legal case.\n\nYour health records sit on that same infrastructure. 🩺 No one has confirmed who audits AI security on public systems.\n\nCan you name who audits the AI that touches your data? If not, that silence is your answer. 🤔"
+    }
+  },
+  "instagram_caption": "A security researcher walked into Australia's health portal and nobody stopped them.\n\nOpenAI found a flaw in a government health website during testing. Now Australia is investigating whether that access broke the law. 🕵️\n\nThe vulnerability was spotted before the government spotted it. That raises one question: who else could find it next? 🔓\n\nIf you publish or build with AI tools, this sets a precedent: testing systems without permission can become a legal case.\n\nYour health records sit on that same infrastructure. 🩺 No one has confirmed who audits AI security on public systems.\n\nCan you name who audits the AI that touches your data? If not, that silence is your answer. 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Who else found the flaw first?",
+      "description": "OpenAI discovered a vulnerability in Australia's health portal before the government did, raising questions about unknown actors.",
+      "visual_hint": "Glowing server rack in dark room",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Government launches formal investigation",
+      "description": "Australia confirmed a probe into whether OpenAI's testing access broke the law without permission.",
+      "visual_hint": "Official government building exterior",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "parliament building",
+      "image": "https://images.pexels.com/photos/20626853/pexels-photo-20626853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI found it before your government",
+      "description": "OpenAI spotted the health portal flaw first, exposing how vulnerable public systems are to unseen threats.",
+      "visual_hint": "Magnifying glass over code screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your health data is still exposed",
+      "description": "The vulnerability remains unfixed, leaving your medical records open to the same kind of unauthorized access.",
+      "visual_hint": "Hand holding medical records file",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "medical records",
+      "image": "https://images.pexels.com/photos/4989149/pexels-photo-4989149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demand answers on AI security now",
+      "description": "Contact your local health authority and ask who audits AI security on public health systems today.",
+      "visual_hint": "Person typing email on laptop",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop keyboard",
+      "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/albanese-2296078640.jpg?resize=1200,774",
+  "savedAt": "2026-09-24T14:32:16.022Z",
+  "sourceId": "77b59c06fc2c65de696c5b5512b0e406"
+}

@@ -2,6 +2,339 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "torta-di-compleanno-senza-cottura-regina-dei-ghiac",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Torta di compleanno senza cottura Regina dei Ghiacci con Pavesini, mascarpone e mirtilli",
+    "link": "https://ricette.giallozafferano.it/Torta-di-compleanno-senza-cottura-Regina-dei-Ghiacci-con-Pavesini-mascarpone-e-mirtilli.html",
+    "pubDate": "Thu, 24 Sep 2026 11:30:00 +0200",
+    "content": "Torta di compleanno senza cottura Regina dei Ghiacci con Pavesini Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Dolci Torte Torta di compleanno senza cottura Regina dei Ghiacci con Pavesini, mascarpone e mirtilli /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici 570,8 Calorie per porzione Energia Kcal 570,8 Carboidrati g 39,3 &nbsp;&nbsp;di cui zuccheri g 24,1 Proteine g 8,1 Grassi g 43,5 &nbsp;&nbsp;di cui saturi g 25,9 Fibre g 0,5 Colesterolo mg 176,3 Sodio mg 256,5 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Difficoltà: Media Preparazione: 60 min Dosi per: 10 persone Nota + il tempo di rassodamento in frigorifero (almeno 2 h) PRESENTAZIONE La torta di compleanno senza cottura Regina dei Ghiacci con Pavesini, mascarpone e mirtilli è una ricetta golosa e scenografica che Loredana ha condiviso con noi in occasione di una puntata del vodcast \" Ti mando un vocale \". Il dolce perfetto per una festa di compleanno perché gli ingredienti si assemblano direttamente nello stampo e si prepara senza accendere il forno! Fresca e cremosa, questa torta di compleanno è composta da strati di Pavesini che si alternano a una morbida crema a base di mascarpone e yogurt al cocco arricchita con tanti mirtilli. Il tocco speciale è dato da un pizzico di colorante naturale che tinge la crema delle tonalità dell'azzurro, ricordando così un paesaggio fiabesco e innevato, decorato con deliziosi fiori di marshmallow e simpatici Pavesini a tema. Al taglio della prima fetta, la torta di compleanno senza cottura Regina dei Ghiacci con Pavesini, mascarpone e mirtilli svelerà un mondo magico tutto da assaporare, che renderà indimenticabile la tavola di un'occasione speciale. No-Bake \"Ice Queen\" Birthday Cake with Pavesini, Mascarpone and Blueberries INGREDIENTI 570,8 Calorie per porzione Per uno stampo di 20x20 cm Pavesini 72 Mascarpone 600 g Panna fresca liquida 600 g Yogurt al cocco 120 g Zucchero a velo 140 g Latte intero 100 g Mirtilli 80 g Coloranti alimentari a base di spirulina 12 g Per decorare Pavesini 32 Marshmallow 3 Cioccolato bianco 50 g Cocco rapè q.b. Confettini colorati rossi, gialli, occhietti, fiocchi di neve q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta di compleanno senza cottura Regina dei Ghiacci con Pavesini, mascarpone e mirtilli Per preparare la torta di compleanno senza cottura Regina dei Ghiacci con Pavesini, mascarpone e mirtilli, per prima cosa unite in una ciotola il mascarpone e lo yogurt al cocco, poi aggiungete lo zucchero a velo 1 e la panna 2 . Azionate le fruste per qualche minuto finché il composto non risulta gonfio e compatto 3 . A questo punto suddividete l'impasto in 3 ciotole e tenetene da parte una, che servirà per la crema bianca 4 . Colorate la seconda ciotola con 3 g di colorante alla spirulina 5 e mescolate fino ad ottenere una tinta pastello 6 . Unite anche i mirtilli 7 e incorporateli mescolando delicatamente per non schiacciarli 8 . Tenete da parte 9 . Nella terza ciotola versate i restanti 9 g di colorante alla spirulina 10 e mescolate fino ad ottenere un azzurro più intenso 11 . Tenete da parte 12 . Potete passare alla composizione. Bagnate velocemente i Pavesini nel latte 13 e disponeteli in uno stampo quadrato da 20 cm 14 ; ve ne occorreranno 24. Quando avrete riempito la base dello stampo, distribuite la crema più scura 15 . Livellate la superficie 16 , poi adagiate altri 24 Pavesini leggermente inzuppati nel latte per formare un secondo strato 17 . Farcite con la crema di colore più chiaro, arricchita con i mirtilli 18 . Livellate accuratamente 19 e completate con un ultimo strato di 24 Pavesini bagnati nel latte. Infine ricoprite la superficie con la crema bianca 20 . Livellate bene e lasciate rassodare in frigorifero per almeno 2 ore 21 . Intanto potete occuparvi delle decorazioni. Sciogliete il cioccolato bianco e decorate 4 Pavesini con 2 piccole gocce aiutandovi con uno stuzzicadenti 22 , poi applicate sopra i confettini a forma di occhietti 23 . Su uno dei 2 Pavesini, applicate nello stesso modo un confettino rosso che farà da naso 24 . Sull'altro invece potete applicare uno zuccherino a forma di carota 25 . Spalmate la parte non decorata con il cioccolato bianco fuso 26 e fatela combaciare con un altro Pavesino 27 . Tenete da parte le decorazioni ottenute 28 . Inzuppate una estremità dei Pavesini rimanenti nel restante cioccolato fuso 29 e posizionateli su un vassoio foderato con carta forno, poi applicate subito gli zuccherini colorati a forma di fiocco di neve 30 . Riponete il tutto in frigorifero 31 . Infine incidete i marshmallow in 4 parti 32 e apriteli a fiore. Versate al centro una goccia di cioccolato fuso e applicate un confettino giallo 33 . Trascorso il tempo di rassodamento, riprendete la torta e sformatela. Posizionate i Pavesini decorati con i fiocchi di neve in verticale lungo tutto il bordo 34 . Spolverizzate la superficie con il cocco rapè 35 e inserite in cima i 2 Pavesini con gli occhietti e il nasino 36 . Completate con i fiori di marshmallow 37 e la vostra torta di compleanno senza cottura Regina dei Ghiacci con Pavesini, mascarpone e mirtilli è pronta per essere servita 38 e tagliata a fette 39 ! Conservazione La torta di compleanno senza cottura Regina dei Ghiacci con Pavesini, mascarpone e mirtilli può essere conservata in frigorifero per un massimo di 2 giorni. Non si consiglia la congelazione. Consiglio Se preferite, potete variare il gusto dello yogurt e la tonalità del colorante per realizzare altre deliziose varianti. Per rimanere sul tema, scoprite come preparare anche una bellissima torta fiocco di neve ! Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchero Cioccolato Mirtilli Latte Mascarpone Cocco Scopri tutto sugli ingredienti Presente in: Dolci freddi , Ricette sfiziose , Piatti freddi , Torte fredde STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pasta al forno cremosa Torta di mele con farina di mandorle 5.0 Torta di compleanno senza cottura Regina dei Ghiacci con Pavesini, mascarpone e mirtilli 5.0 SCOPRI Pavesini nutella e mascarpone Torta mascarpone e nutella Torta di compleanno al cioccolato Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Torta Regina dei Ghiacci senza cottura, fresca e scenografica",
+      "Pavesini, mascarpone, panna, yogurt al cocco e mirtilli",
+      "Bagna i Pavesini nel latte e alterna creme colorate",
+      "Strati di Pavesini e creme azzurre, poi frigorifero due ore",
+      "Decora con Pavesini, marshmallow, cocco e confettini"
+    ],
+    "instagram_caption": "Un soffio glaciale di dolcezza per il compleanno più magico ❄️\nNiente forno, solo Pavesini inzuppati nel latte che si alternano a creme vellutate di mascarpone, panna e yogurt al cocco, con un tocco di mirtilli per quel colore da regina dei ghiacci.\nDue ore in frigo ed è pronta a stupire: decorata con marshmallow, cocco e confettini sembra uscita da una favola 🧊🫐\nSalva la ricetta e preparala per il prossimo compleanno ✨",
+    "formats": {
+      "instagram": {
+        "caption": "Un soffio glaciale di dolcezza per il compleanno più magico ❄️\nNiente forno, solo Pavesini inzuppati nel latte che si alternano a creme vellutate di mascarpone, panna e yogurt al cocco, con un tocco di mirtilli per quel colore da regina dei ghiacci.\nDue ore in frigo ed è pronta a stupire: decorata con marshmallow, cocco e confettini sembra uscita da una favola 🧊🫐\nSalva la ricetta e preparala per il prossimo compleanno ✨"
+      },
+      "tiktok": {
+        "script": [
+          "Oggi torta Regina dei Ghiacci senza cottura, freschissima!",
+          "Prendo Pavesini, mascarpone, panna, yogurt al cocco e mirtilli.",
+          "Bagno i Pavesini nel latte e alterno creme colorate.",
+          "Strati di Pavesini e creme azzurre, poi frigo due ore.",
+          "Decoro con Pavesini, marshmallow, cocco e confettini. Che spettacolo!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "Niente forno, niente stress: la Regina dei Ghiacci è la torta di compleanno che stupisce tutti. Pavesini, mascarpone e mirtilli per un dessert freschissimo e scenografico. 🧊",
+          "Gli ingredienti: Pavesini, mascarpone, panna, yogurt al cocco e mirtilli. Basta questo per creare strati cremosi e colorati che sembrano un quadro.",
+          "Il gesto chiave: bagna i Pavesini nel latte (velocemente!) e alterna creme colorate. Non serve cottura, solo fantasia.",
+          "Componi strati di Pavesini e creme azzurre, poi in frigo per due ore. Il tempo fa miracoli: la torta si compatta e i sapori si fondono.",
+          "Prima di servire, decora con Pavesini, marshmallow, cocco e confettini. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Oggi torta Regina dei Ghiacci senza cottura, freschissima!",
+      "Prendo Pavesini, mascarpone, panna, yogurt al cocco e mirtilli.",
+      "Bagno i Pavesini nel latte e alterno creme colorate.",
+      "Strati di Pavesini e creme azzurre, poi frigo due ore.",
+      "Decoro con Pavesini, marshmallow, cocco e confettini. Che spettacolo!"
+    ],
+    "thread_text": [
+      "Niente forno, niente stress: la Regina dei Ghiacci è la torta di compleanno che stupisce tutti. Pavesini, mascarpone e mirtilli per un dessert freschissimo e scenografico. 🧊",
+      "Gli ingredienti: Pavesini, mascarpone, panna, yogurt al cocco e mirtilli. Basta questo per creare strati cremosi e colorati che sembrano un quadro.",
+      "Il gesto chiave: bagna i Pavesini nel latte (velocemente!) e alterna creme colorate. Non serve cottura, solo fantasia.",
+      "Componi strati di Pavesini e creme azzurre, poi in frigo per due ore. Il tempo fa miracoli: la torta si compatta e i sapori si fondono.",
+      "Prima di servire, decora con Pavesini, marshmallow, cocco e confettini. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Torta Regina dei Ghiacci, fresca e scenografica",
+        "description": "Un dessert al cucchiaio che sembra un regno incantato, pronto senza accendere il forno.",
+        "visual_hint": "torta azzurra intera decorata",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "blue layered cake"
+      },
+      {
+        "hook": "Pavesini, mascarpone, panna e mirtilli",
+        "description": "Cremoso, goloso e leggero: lo yogurt al cocco e i mirtilli danno il tocco vellutato.",
+        "visual_hint": "mascarpone panna mirtilli ciotole",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "mascarpone cream berries",
+        "image": "https://images.pexels.com/photos/10990660/pexels-photo-10990660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Bagna i Pavesini e crea gli strati",
+        "description": "Un rapido passaggio nel latte e via: alterna creme colorate per un effetto nuvola.",
+        "visual_hint": "Pavesini intinti nel latte",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "cookies dipped milk",
+        "image": "https://images.pexels.com/photos/15086415/pexels-photo-15086415.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Strati di creme azzurre e riposo in frigo",
+        "description": "Componi gli strati e lascia due ore in frigorifero: la magia si compie da sola.",
+        "visual_hint": "strati torta azzurra in teglia",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "layered dessert glasses",
+        "image": "https://images.pexels.com/photos/28250931/pexels-photo-28250931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Decora con cocco, marshmallow e confettini",
+        "description": "Pavesini, marshmallow, cocco e confettini per un finale da regina dei ghiacci.",
+        "visual_hint": "decorazione torta cocco confetti",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "frozen themed cake",
+        "image": "https://images.pexels.com/photos/33854730/pexels-photo-33854730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "dessert",
+    "signature_ingredients": [
+      "Pavesini",
+      "mascarpone",
+      "mirtilli"
+    ],
+    "image": "https://www.giallozafferano.it/images/366-36636/Torta-di-compleanno-senza-cottura-Regina-dei-Ghiacci-con-Pavesini-mascarpone-e-mirtilli_650x433_wm.jpg",
+    "savedAt": "2026-09-24T14:37:11.224Z",
+    "sourceId": "fac51f8c3b6ebc6962165d1479274ac8"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
+    "slug": "torta-di-mele-con-farina-di-mandorle",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Torta di mele con farina di mandorle",
+    "link": "https://ricette.giallozafferano.it/Torta-di-mele-con-farina-di-mandorle.html",
+    "pubDate": "Thu, 24 Sep 2026 11:34:00 +0200",
+    "content": "Torta di mele e mandorle soffice Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Dolci Torte Torta di mele con farina di mandorle /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici 534,5 Calorie per porzione Energia Kcal 534,5 Carboidrati g 56,6 &nbsp;&nbsp;di cui zuccheri g 28,7 Proteine g 11,3 Grassi g 30,1 &nbsp;&nbsp;di cui saturi g 12,2 Fibre g 4,6 Colesterolo mg 147,1 Sodio mg 283,4 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Vegetariano Difficoltà: Facile Preparazione: 30 min Cottura: 60 min Dosi per: 6 persone Costo: Basso Ascolta la ricetta Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti Ascolta su Spreaker. PRESENTAZIONE La torta di mele con farina di mandorle è una variante soffice e profumata della classica torta di mele che trasformerà la vostra colazione o merenda in un momento speciale. L’aggiunta del latte di mandorla e della farina di mandorle dona all’impasto un gusto delicato e aromatico, oltre a renderlo particolarmente morbido e fragrante. Le mele , tagliate a fettine sottili, vengono alternate all’impasto così da distribuirsi in ogni fetta e rendere ogni boccone ancora più ricco e goloso. Le mandorle a lamelle in superficie, infine, si tostano durante la cottura in forno e regalano una piacevole nota croccante. Facile da preparare e bella da portare in tavola, la torta di mele con farina di mandorle è la ricetta ideale per accompagnare una tazza di tè o caffè… provatela anche voi e non perdetevi altre sfiziose varianti di questo intramontabile dolce casalingo: Torta di mele e yogurt Torta di mele e noci Torta di mele con latte d'avena Torta di mele ai 4 cereali Torta di mele al limone Apple cake with almond flour INGREDIENTI 534,5 Calorie per porzione Per uno stampo da 18 cm Mele Gala (da pulire) 400 g Farina 00 170 g Farina di mandorle 100 g Latte di mandorle 150 g Zucchero 125 g Burro 125 g Uova 3 Lievito in polvere per dolci 12 g Baccello di vaniglia (i semi) 1 Sale fino 1 pizzico Per guarnire Mandorle in scaglie q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta di mele con farina di mandorle Per preparare la torta di mele con farina di mandorle, per prima cosa sciogliete il burro in un pentolino e lasciatelo intiepidire. Intanto versate in una ciotola capiente le uova insieme allo zucchero 1 , ai semi della bacca di vaniglia 2 e a un pizzico di sale 3 . Mescolate bene con una frusta, poi aggiungete il burro fuso intiepidito 4 e amalgamate ancora. Setacciate nella ciotola la farina e il lievito 5 , incorporando le polveri con la frusta 6 . Infine alternate il latte di mandorla 7 e la farina di mandorle 8 , mescolando fino ad ottenere un impasto omogeneo 9 . Ora sbucciate le mele e tagliatele a fettine sottili 10 . Imburrate e infarinate uno stampo a cerniera del diametro di 18 cm e distribuite poco impasto sul fondo 11 , poi aggiungete una parte delle mele 12 . Continuate ad alternare l’impasto 13 alla frutta fino ad esaurimento degli ingredienti. Terminate con un ultimo strato di mele 14 e infine cospargete la superficie con le mandorle a lamelle 15 . Cuocete in forno statico preriscaldato a 170° per circa 60 minuti 16 . Quando sarà bella dorata, sfornate e lasciate raffreddare completamente dentro lo stampo 17 prima di sformarla. La vostra torta di mele con farina di mandorle è pronta per essere gustata 18 ! Conservazione La torta di mele con farina di mandorle si può conservare a temperatura ambiente, coperta con una campana, per 2-3 giorni al massimo. Si può congelare. Consiglio Se preferite, potete sostituire il latte di mandorla con il latte d’avena o vaccino. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Mela Zucchero Burro Uovo Mandorle Scopri tutto sugli ingredienti Presente in: Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pasta al forno cremosa Torta di mele con farina di mandorle 5.0 Torta di compleanno senza cottura Regina dei Ghiacci con Pavesini, mascarpone e mirtilli 5.0 SCOPRI Torta con farina di mandorle Torta di mele con farina integrale Torta di mele con farina di riso Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Soffice torta di mele con cuore di mandorle",
+      "Mele, farina di mandorle, latte di mandorla, uova, burro",
+      "Alterna impasto e mele a fettine sottili",
+      "Cuoci a 170° per 60 minuti, statico",
+      "Mandorle a lamelle in superficie per croccantezza"
+    ],
+    "instagram_caption": "Il profumo che ti fa sentire a casa: torta di mele con farina di mandorle 🍏\nUn cuore morbido di mandorle, mele a fettine sottili che si nascondono tra gli strati e un latte di mandorla che rende tutto più vellutato.\nSoffice dentro, croccante fuori grazie alle lamelle tostate in superficie.\nIn forno a 170° per un'ora: il profumo farà il resto.\nSalva la ricetta e provala questo weekend 🌿✨",
+    "formats": {
+      "instagram": {
+        "caption": "Il profumo che ti fa sentire a casa: torta di mele con farina di mandorle 🍏\nUn cuore morbido di mandorle, mele a fettine sottili che si nascondono tra gli strati e un latte di mandorla che rende tutto più vellutato.\nSoffice dentro, croccante fuori grazie alle lamelle tostate in superficie.\nIn forno a 170° per un'ora: il profumo farà il resto.\nSalva la ricetta e provala questo weekend 🌿✨"
+      },
+      "tiktok": {
+        "script": [
+          "Oggi torta di mele soffice con cuore di mandorle!",
+          "Prendo mele, farina di mandorle, latte, uova e burro.",
+          "Alterno impasto e mele a fettine sottili, guarda che bello.",
+          "Inforno a 170 gradi per 60 minuti, statico.",
+          "Aggiungo mandorle a lamelle sopra per croccantezza!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "Torta di mele? Dimentica quella classica. Con farina di mandorle diventa umida, profumata, quasi una carezza. E in superficie croccante. La provi una volta e non torni indietro.",
+          "Ingredienti: mele a fettine sottili, farina di mandorle, latte di mandorla, uova, burro. Niente farina 00. Il mix è naturalmente senza glutine e il sapore è più ricco. Il burro fuso? Fondamentale.",
+          "Monta le uova con lo zucchero finché sono chiare e spumose. Poi alterna impasto e mele: uno strato di crema, uno di mele. Ripeti. Il segreto? Mele sottilissime, quasi trasparenti.",
+          "Inforna a 170° per 60 minuti, forno statico. Non aprire lo sportello prima di 45 minuti. La casa profumerà di mandorle e mele cotte. Resisti, ne vale la pena.",
+          "Prima di infornare, manda in superficie mandorle a lamelle: croccantezza perfetta. Fallo e dimmi se è sparita in 10 minuti 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Oggi torta di mele soffice con cuore di mandorle!",
+      "Prendo mele, farina di mandorle, latte, uova e burro.",
+      "Alterno impasto e mele a fettine sottili, guarda che bello.",
+      "Inforno a 170 gradi per 60 minuti, statico.",
+      "Aggiungo mandorle a lamelle sopra per croccantezza!"
+    ],
+    "thread_text": [
+      "Torta di mele? Dimentica quella classica. Con farina di mandorle diventa umida, profumata, quasi una carezza. E in superficie croccante. La provi una volta e non torni indietro.",
+      "Ingredienti: mele a fettine sottili, farina di mandorle, latte di mandorla, uova, burro. Niente farina 00. Il mix è naturalmente senza glutine e il sapore è più ricco. Il burro fuso? Fondamentale.",
+      "Monta le uova con lo zucchero finché sono chiare e spumose. Poi alterna impasto e mele: uno strato di crema, uno di mele. Ripeti. Il segreto? Mele sottilissime, quasi trasparenti.",
+      "Inforna a 170° per 60 minuti, forno statico. Non aprire lo sportello prima di 45 minuti. La casa profumerà di mandorle e mele cotte. Resisti, ne vale la pena.",
+      "Prima di infornare, manda in superficie mandorle a lamelle: croccantezza perfetta. Fallo e dimmi se è sparita in 10 minuti 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Torta di mele con farina di mandorle",
+        "description": "Soffice, profumata e dal cuore delicato di mandorle: la merenda perfetta per ogni momento.",
+        "visual_hint": "torta intera su tavolo",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "apple almond cake"
+      },
+      {
+        "hook": "Ingredienti che fanno la differenza",
+        "description": "Mele, farina di mandorle e latte di mandorla per un impasto naturalmente aromatico e vellutato.",
+        "visual_hint": "ingredienti disposti su piano",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "almond flour ingredients",
+        "image": "https://images.pexels.com/photos/8175340/pexels-photo-8175340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Alterna impasto e mele sottili",
+        "description": "Strati di impasto e fettine di mela creano il cuore morbido e succoso di questa torta.",
+        "visual_hint": "stratificazione impasto e mele",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "apple cake layers",
+        "image": "https://images.pexels.com/photos/5662081/pexels-photo-5662081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cuoci a 170° per 60 minuti",
+        "description": "In forno statico la torta si gonfia lentamente e diventa dorata e fragrante.",
+        "visual_hint": "torta in forno dorata",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "baking apple cake",
+        "image": "https://images.pexels.com/photos/31581244/pexels-photo-31581244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Mandorle a lamelle per croccantezza",
+        "description": "Cospargi la superficie e servi: ogni fetta unisce morbidezza e croccantezza irresistibile.",
+        "visual_hint": "fetta con mandorle lamelle",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "almond apple cake slice",
+        "image": "https://images.pexels.com/photos/18403955/pexels-photo-18403955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "dessert",
+    "signature_ingredients": [
+      "mele",
+      "farina di mandorle",
+      "latte di mandorla"
+    ],
+    "image": "https://www.giallozafferano.it/images/366-36652/Torta-di-mele-con-farina-di-mandorle_650x433_wm.jpg",
+    "savedAt": "2026-09-24T14:37:00.392Z",
+    "sourceId": "f6412d44d28168cfc2e71dd8a535bf56"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
+    "slug": "pasta-al-forno-cremosa",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Pasta al forno cremosa",
+    "link": "https://ricette.giallozafferano.it/Pasta-al-forno-cremosa.html",
+    "pubDate": "Thu, 24 Sep 2026 14:57:00 +0200",
+    "content": "Pasta al forno cremosa con funghi e provola Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Pasta al forno cremosa /5 CONDIVIDI INVIA FOTO COMMENTA de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 10 min Cottura: 40 min Dosi per: 6 persone Costo: Medio Ascolta la ricetta Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti Ascolta su Spreaker. PRESENTAZIONE La pasta al forno cremosa con funghi e provola è un primo piatto perfetto per il pranzo della domenica in famiglia, ricco, filante e irresistibilmente sfizioso. Una coccola da concedersi con l’arrivo delle prime giornate fredde, quando torna la voglia di piatti caldi, avvolgenti e gratinati al forno . La besciamella rende la pasta cremosa , i funghi aggiungono un gusto intenso e aromatico, mentre la provola forma in superficie una crosticina dorata e filante. Per prepararla potete utilizzare sia funghi freschi di stagione sia quelli surgelati, magari conservati dopo una raccolta particolarmente fortunata: in entrambi i casi otterrete una pasta al forno saporita e perfetta da portare in tavola ancora fumante. Lasciatevi tentare da queste ricette di pasta al forno : Pasta al forno con funghi e salsiccia Pasta al forno bianca Pasta al forno con spinaci e ricotta Pasta al forno con speck e gorgonzola INGREDIENTI Rigatoni 500 g Provola 280 g Funghi misti surgelati 500 g Aglio 1 spicchio Sale fino q.b. Prezzemolo q.b. Olio extravergine d'oliva q.b. Pepe nero q.b. per la besciamella Latte intero 1 l Farina 00 80 g Burro 100 g Noce moscata q.b. Sale fino q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta al forno cremosa Per preparare la pasta al forno cremosa iniziate dalla besciamella. Fate sciogliere il burro in un pentolino a fuoco dolce 1 , poi aggiungete la farina tutta in una volta 2 e mescolate con la frusta fino a ottenere un roux liscio. A questo punto unite il latte poco per volta 3 , continuando a mescolare per evitare la formazione di grumi. Regolate di sale 4 , profumate con la noce moscata grattugiata 5 e mescolate ancora fino a ottenere una consistenza liscia e leggermente densa 6 . Nel frattempo tritate le foglie del prezzemolo al coltello 7 e dedicatevi ai funghi. In una padella ampia versate l’olio, aggiungete l'aglio e i gambi del prezzemolo 8 , quindi unite i funghi ancora surgelati 9 . Regolate di sale 10 e di pepe 11 , poi lasciateli cuocere a fuoco vivace finché saranno morbidi e ben insaporiti. Quando i funghi saranno teneri e il liquido di vegetazione si sarà in parte asciugato, eliminate l’aglio 12 . Togliete anche i gambi del prezzemolo 13 . Portate a bollore una pentola di acqua salata e cuocete la pasta 14 . Intanto grattugiate la provola 15 . Scolate la pasta al dente e trasferitela direttamente nella padella con i funghi 16 , poi aggiungete la besciamella 17 e amalgamate bene il tutto, in modo che il condimento avvolga perfettamente la pasta 18 . A questo punto passate all’assemblaggio. Versate un primo strato di pasta in una pirofila 19 , distribuite una parte della provola grattugiata 20 , poi proseguite con un secondo strato di pasta 21 . Completate con altra provola in superficie 22 , fino a ottenere la pirofila pronta per la cottura 23 . Infornate in modalità grill a 230° per 5 minuti o finché in superficie si formerà una crosticina dorata e invitante. Sfornate e servite la pasta cremosa ben calda, filante e gratinata 24 . Conservazione La pasta cremosa si conserva in frigo per 2 giorni. Si sconsiglia la congelazione. Consiglio In alternativa ai funghi surgelati, potete utilizzare circa 600 g di funghi freschi. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Funghi Rigatoni Aglio Pasta Latte Olio di oliva Burro Prezzemolo Provola Scopri tutto sugli ingredienti Presente in: Primi piatti sfiziosi , Primi piatti al forno , Ricette sfiziose , Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pasta al forno cremosa Torta di mele con farina di mandorle 5.0 Torta di compleanno senza cottura Regina dei Ghiacci con Pavesini, mascarpone e mirtilli 5.0 SCOPRI Pasta al forno con melanzane Pasta al forno vegetariana Pasta e patate al forno Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Pasta gratinata con funghi e provola filante",
+      "Rigatoni, provola, funghi, besciamella, burro",
+      "Cuoci la pasta al dente con funghi",
+      "Mescola con besciamella, strati di provola",
+      "Grill 230° per crosticina dorata"
+    ],
+    "instagram_caption": "La pasta al forno cremosa che profuma di domenica in famiglia 🍄\nRigatoni cotti al dente, saltati con funghi succulenti e avvolti in una besciamella vellutata, poi strati generosi di provola che fila ad ogni forchettata 🧀\nUna passata sotto il grill a 230° per quella crosticina dorata che senti già croccare… e la casa si riempie di un profumo irresistibile ✨\nIl comfort food che conquista tutti, anche chi dice di non amare i funghi 😉\nSalva la ricetta e provala questo weekend 🍝",
+    "formats": {
+      "instagram": {
+        "caption": "La pasta al forno cremosa che profuma di domenica in famiglia 🍄\nRigatoni cotti al dente, saltati con funghi succulenti e avvolti in una besciamella vellutata, poi strati generosi di provola che fila ad ogni forchettata 🧀\nUna passata sotto il grill a 230° per quella crosticina dorata che senti già croccare… e la casa si riempie di un profumo irresistibile ✨\nIl comfort food che conquista tutti, anche chi dice di non amare i funghi 😉\nSalva la ricetta e provala questo weekend 🍝"
+      },
+      "tiktok": {
+        "script": [
+          "Butto i rigatoni nella pentola con i funghi!",
+          "Scolo tutto e mescolo con la besciamella cremosa.",
+          "Strati di provola filante, che spettacolo ragazzi!",
+          "Aggiungo fiocchi di burro e via in forno.",
+          "Griglio a 230 gradi per una crosticina dorata!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "La pasta al forno che fa il rumore del formaggio filante quando la tagli. Cremosa, dorata, impossibile da fermarsi. 🧀",
+          "Rigatoni, funghi, provola affumicata, besciamella e una noce di burro. La base perfetta per un capolavoro di comfort food.",
+          "Cuoci i rigatoni al dente insieme ai funghi. Scolali e condisci subito con la besciamella, poi strati di provola che si scioglie.",
+          "In forno a 230° con grill, finché la superficie non diventa una crosticina dorata e bubbly. Il profumo invade la cucina.",
+          "Il trucco? Un filo d'olio sulla superficie prima del grill. Provala e dimmi se riesci a resistere al secondo piatto 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Butto i rigatoni nella pentola con i funghi!",
+      "Scolo tutto e mescolo con la besciamella cremosa.",
+      "Strati di provola filante, che spettacolo ragazzi!",
+      "Aggiungo fiocchi di burro e via in forno.",
+      "Griglio a 230 gradi per una crosticina dorata!"
+    ],
+    "thread_text": [
+      "La pasta al forno che fa il rumore del formaggio filante quando la tagli. Cremosa, dorata, impossibile da fermarsi. 🧀",
+      "Rigatoni, funghi, provola affumicata, besciamella e una noce di burro. La base perfetta per un capolavoro di comfort food.",
+      "Cuoci i rigatoni al dente insieme ai funghi. Scolali e condisci subito con la besciamella, poi strati di provola che si scioglie.",
+      "In forno a 230° con grill, finché la superficie non diventa una crosticina dorata e bubbly. Il profumo invade la cucina.",
+      "Il trucco? Un filo d'olio sulla superficie prima del grill. Provala e dimmi se riesci a resistere al secondo piatto 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta al forno cremosa e filante",
+        "description": "Rigatoni gratinati con funghi e provola che fila: il comfort food che conquista al primo morso.",
+        "visual_hint": "primo piano pasta gratinata",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory baked pasta"
+      },
+      {
+        "hook": "Tre ingredienti, una cremosità infinita",
+        "description": "Provola, funghi e besciamella: la combinazione perfetta per una pasta al forno da chef.",
+        "visual_hint": "provola funghi besciamella",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory mushroom provola",
+        "image": "https://images.pexels.com/photos/17637075/pexels-photo-17637075.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cuoci la pasta al dente con i funghi",
+        "description": "Il segreto è cuocere la pasta insieme ai funghi: assorbe tutto il sapore e resta perfetta.",
+        "visual_hint": "pasta che cuoce con funghi",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory pasta mushrooms",
+        "image": "https://images.pexels.com/photos/29935439/pexels-photo-29935439.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Alterna besciamella e strati di provola",
+        "description": "Mescola la pasta con la besciamella e crea strati generosi di provola: la filantezza è assicurata.",
+        "visual_hint": "strati di provola e besciamella",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory pasta layers",
+        "image": "https://images.pexels.com/photos/7051076/pexels-photo-7051076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Grill a 230° per la crosticina dorata",
+        "description": "Gli ultimi minuti sotto il grill creano la crosticina perfetta: servi subito e goditi la fila.",
+        "visual_hint": "crosticina dorata sotto grill",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory golden crust",
+        "image": "https://images.pexels.com/photos/33637751/pexels-photo-33637751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "provola",
+      "funghi",
+      "besciamella"
+    ],
+    "image": "https://www.giallozafferano.it/images/366-36655/Pasta-al-forno-cremosa_650x433_wm.jpg",
+    "savedAt": "2026-09-24T14:36:49.380Z",
+    "sourceId": "4616896177c4ec7b9d07e63c2b793df0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "zuppa-di-rana-pescatrice",
     "prompt_version": "1.0.0",
     "status": "published",
