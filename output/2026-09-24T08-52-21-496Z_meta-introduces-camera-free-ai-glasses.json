@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-introduces-camera-free-ai-glasses",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta introduces camera-free AI glasses",
+  "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+  "pubDate": "Wed, 23 Sep 2026 23:39:44 +0000",
+  "slides": [
+    "Meta bets on AI glasses without cameras?",
+    "The device relies only on microphones and sensors",
+    "Camera-free means fewer privacy objections, but new limits",
+    "You may soon wear AI that hears, not sees",
+    "Test one daily task with audio-only AI today"
+  ],
+  "thread_text": [
+    "1. Meta's camera-free gamble\n\nMeta is building smart glasses that listen instead of watch. The device uses only microphones and sensors, betting that privacy concerns will drive adoption faster than visual features.",
+    "2. Ears over eyes\n\nThe trade-off: no camera means fewer objections from bystanders, but the AI loses visual context. It can hear your conversation, but it can't read the room.",
+    "3. The audio-only ceiling\n\nWithout a camera, the glasses can't identify objects, read text, or recognize faces. That limits use cases to audio-centric tasks like navigation, transcription, and voice commands.",
+    "4. Your next wearable\n\nYou may soon wear AI that hears, not sees. Meta's bet suggests the next wave of wearables won't be about capturing the world, but about processing sound in real time.",
+    "5. Test it today\n\nTake one daily task you do by voice — like setting reminders or asking for directions. Try doing it with audio-only AI. If it fails, you've found the camera's real value."
+  ],
+  "video_script": [
+    "Meta is betting on AI glasses without cameras.",
+    "They use only microphones and sensors to hear.",
+    "No camera means fewer privacy problems, but new limits.",
+    "You might soon wear AI that hears, not sees.",
+    "Test one daily task with audio-only AI today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta's camera-free gamble\n\nMeta is building smart glasses that listen instead of watch. The device uses only microphones and sensors, betting that privacy concerns will drive adoption faster than visual features.",
+        "2. Ears over eyes\n\nThe trade-off: no camera means fewer objections from bystanders, but the AI loses visual context. It can hear your conversation, but it can't read the room.",
+        "3. The audio-only ceiling\n\nWithout a camera, the glasses can't identify objects, read text, or recognize faces. That limits use cases to audio-centric tasks like navigation, transcription, and voice commands.",
+        "4. Your next wearable\n\nYou may soon wear AI that hears, not sees. Meta's bet suggests the next wave of wearables won't be about capturing the world, but about processing sound in real time.",
+        "5. Test it today\n\nTake one daily task you do by voice — like setting reminders or asking for directions. Try doing it with audio-only AI. If it fails, you've found the camera's real value."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta is betting on AI glasses without cameras.",
+        "They use only microphones and sensors to hear.",
+        "No camera means fewer privacy problems, but new limits.",
+        "You might soon wear AI that hears, not sees.",
+        "Test one daily task with audio-only AI today."
+      ]
+    },
+    "instagram": {
+      "caption": "Glasses that hear you but can't see you are now in development.\n\nMeta's new device skips the camera entirely, using only microphones and sensors. 📡\n\nNo camera means strangers won't object to being filmed, but the AI loses all visual context.\n\nIt can't identify objects, read text, or recognize faces. That narrows it to voice tasks: navigation, transcription, commands.\n\nIf you write or publish, your tools may soon process audio only, not images. 🎙️\n\nTry one voice task today with audio-only AI. Where does it break? 👇"
+    }
+  },
+  "instagram_caption": "Glasses that hear you but can't see you are now in development.\n\nMeta's new device skips the camera entirely, using only microphones and sensors. 📡\n\nNo camera means strangers won't object to being filmed, but the AI loses all visual context.\n\nIt can't identify objects, read text, or recognize faces. That narrows it to voice tasks: navigation, transcription, commands.\n\nIf you write or publish, your tools may soon process audio only, not images. 🎙️\n\nTry one voice task today with audio-only AI. Where does it break? 👇",
+  "carousel_slides": [
+    {
+      "hook": "Meta bets on glasses that only listen",
+      "description": "Meta is building AI glasses with microphones and sensors but no camera, betting privacy concerns will drive adoption faster than visual features.",
+      "visual_hint": "Futuristic glasses on dark surface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smart glasses"
+    },
+    {
+      "hook": "No camera, no visual context",
+      "description": "Without a camera, the AI can hear conversations but cannot read the room, identify objects, or recognize faces.",
+      "visual_hint": "Microphone and sensor array close-up",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "microphone sensor",
+      "image": "https://images.pexels.com/photos/4988132/pexels-photo-4988132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audio-only AI hits a ceiling",
+      "description": "Camera-free design limits use cases to audio-centric tasks like navigation, transcription, and voice commands, losing visual context entirely.",
+      "visual_hint": "Sound waves hitting a wall",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "sound waves",
+      "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You may soon wear AI that hears",
+      "description": "Meta's bet suggests the next wave of wearables will process sound in real time rather than capturing the visual world.",
+      "visual_hint": "Person wearing smart glasses",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person wearing glasses",
+      "image": "https://images.pexels.com/photos/17151925/pexels-photo-17151925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test audio-only AI today",
+      "description": "Take one daily voice task like setting reminders or asking directions, try it with audio-only AI, and save this post for later.",
+      "visual_hint": "Voice command on smartphone",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "voice assistant",
+      "image": "https://images.pexels.com/photos/4790267/pexels-photo-4790267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/ray-ban-audio.png?resize=1200,635",
+  "savedAt": "2026-09-24T08:52:38.587Z",
+  "sourceId": "abe26ab67059b7299b9e5985c4dd5e7e"
+}

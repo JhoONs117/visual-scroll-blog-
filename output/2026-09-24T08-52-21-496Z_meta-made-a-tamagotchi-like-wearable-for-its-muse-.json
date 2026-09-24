@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-made-a-tamagotchi-like-wearable-for-its-muse-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+  "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+  "pubDate": "Thu, 24 Sep 2026 00:46:17 +0000",
+  "slides": [
+    "Meta's new wearable: Tamagotchi for AI, but why?",
+    "It's a small, screen-equipped device for Muse AI.",
+    "You interact by petting and feeding it, not typing.",
+    "Your daily care shapes the AI's personality and responses.",
+    "Want a pet AI? Decide if you'll nurture or neglect it."
+  ],
+  "thread_text": [
+    "1. Pet Your Next AI?\n\nMeta has a new screen-equipped device for Muse AI that you interact with by petting and feeding it—no typing required.",
+    "2. Tamagotchi Meets AI\n\nThis small wearable is designed to be cared for like a digital pet. Your daily interactions shape its personality and responses.",
+    "3. Care Shapes Its Brain\n\nHow you nurture—or neglect—your AI pet directly influences how it thinks and reacts to you over time.",
+    "4. Wearable or Weird?\n\nUnlike smartwatches, this device thrives on physical touch and feeding. Meta bets you want a companion, not just a tool.",
+    "5. Nurture or Neglect?\n\nWould you actually remember to feed your AI pet every day? Try Muse on your phone this week and see if the bond sticks."
+  ],
+  "video_script": [
+    "Meta just unveiled a Tamagotchi-like AI wearable called Muse.",
+    "It has a screen and you interact by petting and feeding it.",
+    "Your daily care actually shapes its personality and responses.",
+    "No typing needed—just nurture it like a digital pet.",
+    "Would you nurture or neglect your own AI pet?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Pet Your Next AI?\n\nMeta has a new screen-equipped device for Muse AI that you interact with by petting and feeding it—no typing required.",
+        "2. Tamagotchi Meets AI\n\nThis small wearable is designed to be cared for like a digital pet. Your daily interactions shape its personality and responses.",
+        "3. Care Shapes Its Brain\n\nHow you nurture—or neglect—your AI pet directly influences how it thinks and reacts to you over time.",
+        "4. Wearable or Weird?\n\nUnlike smartwatches, this device thrives on physical touch and feeding. Meta bets you want a companion, not just a tool.",
+        "5. Nurture or Neglect?\n\nWould you actually remember to feed your AI pet every day? Try Muse on your phone this week and see if the bond sticks."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta just unveiled a Tamagotchi-like AI wearable called Muse.",
+        "It has a screen and you interact by petting and feeding it.",
+        "Your daily care actually shapes its personality and responses.",
+        "No typing needed—just nurture it like a digital pet.",
+        "Would you nurture or neglect your own AI pet?"
+      ]
+    },
+    "instagram": {
+      "caption": "Meta built a screen-equipped wearable for its Muse AI agent, and you interact with it by petting and feeding it instead of typing. 🐣\n\nIt's designed like a digital pet: small, worn on you, cared for daily.\n\nHow you nurture it — or neglect it — shapes its personality and how it responds to you.\n\nSo if you make content, this hints at a shift: AI you bond with, not just prompt.\n\nWould you actually remember to feed it every day, or would it starve in a drawer? 🍽️"
+    }
+  },
+  "instagram_caption": "Meta built a screen-equipped wearable for its Muse AI agent, and you interact with it by petting and feeding it instead of typing. 🐣\n\nIt's designed like a digital pet: small, worn on you, cared for daily.\n\nHow you nurture it — or neglect it — shapes its personality and how it responds to you.\n\nSo if you make content, this hints at a shift: AI you bond with, not just prompt.\n\nWould you actually remember to feed it every day, or would it starve in a drawer? 🍽️",
+  "carousel_slides": [
+    {
+      "hook": "Would you remember to feed your AI?",
+      "description": "Meta's new Muse AI wearable demands daily petting and feeding; neglect it and its personality changes.",
+      "visual_hint": "Close-up of small screen device",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "tamagotchi toy"
+    },
+    {
+      "hook": "It's a Tamagotchi for AI",
+      "description": "This small screen-equipped device is designed for Muse AI, replacing typing with tactile interaction.",
+      "visual_hint": "Wearable device on wrist",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartwatch wearable",
+      "image": "https://images.pexels.com/photos/18078985/pexels-photo-18078985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Petting and feeding shape its brain",
+      "description": "Your daily care directly influences how the AI thinks and responds to you over time.",
+      "visual_hint": "Hand touching glowing screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "human hand touching",
+      "image": "https://images.pexels.com/photos/10526881/pexels-photo-10526881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is this companion or just weird?",
+      "description": "Unlike smartwatches, this device thrives on physical touch, betting you want a pet not a tool.",
+      "visual_hint": "Person cradling device lovingly",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person holding gadget",
+      "image": "https://images.pexels.com/photos/5555816/pexels-photo-5555816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try Muse and see if the bond sticks",
+      "description": "Download Muse on your phone this week and test if you'll actually nurture your AI pet daily.",
+      "visual_hint": "Phone with Muse app open",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone app screen",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+  "savedAt": "2026-09-24T08:52:29.699Z",
+  "sourceId": "b3b054f1bbc73550f66e3e456a129bc7"
+}

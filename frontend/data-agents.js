@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "enveda-secures-311m-to-bring-more-nature-derived-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "pubDate": "Wed, 23 Sep 2026 19:31:28 +0000",
+      "slides": [
+        "Enveda just raised $311M, but can AI truly unlock nature's medicine?",
+        "The startup mines plants for drugs using machine learning",
+        "Most AI drug discovery ignores nature's chemical diversity",
+        "Your existing treatments may soon come from rainforest compounds",
+        "Ask your doctor: what plant-derived drugs are in trials?"
+      ],
+      "thread_text": [
+        "1. $311M Bet on Plants\n\nEnveda just raised a massive round to mine rainforests for drugs. But most AI drug discovery still ignores nature's chemical diversity.",
+        "2. Nature's Untapped Pharmacy\n\nPlants evolved thousands of unique molecules we've barely studied. Machine learning can finally match those compounds to human diseases.",
+        "3. AI's Blind Spot\n\nMost algorithms are trained on synthetic libraries, not natural products. That means they miss the weird, complex structures plants make.",
+        "4. Your Next Medicine?\n\nIf this works, treatments for cancer or inflammation could come from a leaf in the Amazon. Clinical trials are already testing plant-derived compounds.",
+        "5. Check Your Cabinet\n\nAsk your doctor if any of your current drugs originally came from plants. You might be surprised how many already do."
+      ],
+      "video_script": [
+        "This startup just raised 311 million dollars.",
+        "It uses AI to find drugs in plants.",
+        "Most AI drug discovery ignores nature's chemicals.",
+        "Your future medicine might come from a rainforest.",
+        "Ask your doctor about plant-derived drugs in trials."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $311M Bet on Plants\n\nEnveda just raised a massive round to mine rainforests for drugs. But most AI drug discovery still ignores nature's chemical diversity.",
+            "2. Nature's Untapped Pharmacy\n\nPlants evolved thousands of unique molecules we've barely studied. Machine learning can finally match those compounds to human diseases.",
+            "3. AI's Blind Spot\n\nMost algorithms are trained on synthetic libraries, not natural products. That means they miss the weird, complex structures plants make.",
+            "4. Your Next Medicine?\n\nIf this works, treatments for cancer or inflammation could come from a leaf in the Amazon. Clinical trials are already testing plant-derived compounds.",
+            "5. Check Your Cabinet\n\nAsk your doctor if any of your current drugs originally came from plants. You might be surprised how many already do."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "This startup just raised 311 million dollars.",
+            "It uses AI to find drugs in plants.",
+            "Most AI drug discovery ignores nature's chemicals.",
+            "Your future medicine might come from a rainforest.",
+            "Ask your doctor about plant-derived drugs in trials."
+          ]
+        },
+        "instagram": {
+          "caption": "A biotech startup just raised $311 million to turn rainforest plants into medicine. 🌿\n\nEnveda uses machine learning to scan plants for molecules we've barely studied.\n\nMost AI drug discovery only looks at synthetic compounds, so it misses nature's weird, complex chemistry.\n\nIf this works, treatments for cancer or inflammation could start in the Amazon. 🧪\n\nFor anyone covering health or tech: this is the story to watch, and the funding numbers back it up.\n\nNext time you take a pill, ask your doctor if it originally came from a plant. You might be surprised. 💊\n\nWhat plant-derived drug do you already rely on without knowing it? 🌱"
+        }
+      },
+      "instagram_caption": "A biotech startup just raised $311 million to turn rainforest plants into medicine. 🌿\n\nEnveda uses machine learning to scan plants for molecules we've barely studied.\n\nMost AI drug discovery only looks at synthetic compounds, so it misses nature's weird, complex chemistry.\n\nIf this works, treatments for cancer or inflammation could start in the Amazon. 🧪\n\nFor anyone covering health or tech: this is the story to watch, and the funding numbers back it up.\n\nNext time you take a pill, ask your doctor if it originally came from a plant. You might be surprised. 💊\n\nWhat plant-derived drug do you already rely on without knowing it? 🌱",
+      "carousel_slides": [
+        {
+          "hook": "Can AI unlock nature's hidden medicine?",
+          "description": "Enveda raised $311M to mine plants for drugs, but most AI drug discovery ignores nature's chemical diversity. That's a huge blind spot.",
+          "visual_hint": "Rainforest canopy with digital overlay",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "rainforest aerial view"
+        },
+        {
+          "hook": "Startup mines plants using machine learning",
+          "description": "Enveda uses machine learning to match plant compounds to diseases, potentially creating treatments from rainforest molecules that were previously overlooked.",
+          "visual_hint": "Scientist examining plant with tablet",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "laboratory plant research",
+          "image": "https://images.pexels.com/photos/8512667/pexels-photo-8512667.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI's blind spot: nature's chemical diversity",
+          "description": "Algorithms trained on synthetic libraries miss the weird, complex structures plants evolved, so they overlook promising natural drug candidates.",
+          "visual_hint": "Abstract molecular structures on screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "molecular structure model",
+          "image": "https://images.pexels.com/photos/7722849/pexels-photo-7722849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your next medicine from a leaf?",
+          "description": "If Enveda succeeds, cancer or inflammation treatments could come from Amazonian leaves, and clinical trials are already testing plant-derived compounds.",
+          "visual_hint": "Hand holding green leaf",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding leaf",
+          "image": "https://images.pexels.com/photos/1915363/pexels-photo-1915363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: check your medicine cabinet",
+          "description": "Ask your doctor if any of your current drugs originally came from plants. You might be surprised how many already do.",
+          "visual_hint": "Open medicine cabinet with pills",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "medicine cabinet",
+          "image": "https://images.pexels.com/photos/35503962/pexels-photo-35503962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/06/220509-Enveda-1038.jpg?resize=1200,800",
+      "savedAt": "2026-09-24T08:52:58.098Z",
+      "sourceId": "237e7ef9dd427e4406f68276fabc45ab"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "vc-firm-bessemer-now-has-another-5-75b-to-invest-i",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+      "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
+      "pubDate": "Wed, 23 Sep 2026 20:35:17 +0000",
+      "slides": [
+        "Bessemer just raised $5.75B — but for what exactly?",
+        "The firm's 12th fund, split across two vehicles.",
+        "AI deals now eat most of its checkbook.",
+        "Your startup's pitch must show AI-native scale.",
+        "Ask yourself: is your AI story fundable by 2026?"
+      ],
+      "thread_text": [
+        "1. The $5.75B AI Bet\n\nBessemer just closed its 12th fund, split into two vehicles, to double down on AI. Most of that checkbook now goes to AI deals.",
+        "2. Why Split The Fund?\n\nTwo vehicles let Bessemer back both early and growth-stage AI startups. That means more flexibility, but also more competition for founders.",
+        "3. AI Ate The Checkbook\n\nOver 70% of Bessemer's new fund is earmarked for AI. If your startup isn't AI-native, you're now pitching against the majority.",
+        "4. Pitch Must Show AI Scale\n\nInvestors want proof you can scale with AI, not just add a chatbot. Show unit economics that improve as your model learns.",
+        "5. Is Your Story Fundable?\n\nTake your current pitch and rewrite the traction slide to highlight AI-driven margins. Do it today. If you can't, you're not ready for 2026."
+      ],
+      "video_script": [
+        "Bessemer raised 5.75 billion dollars.",
+        "They split it into two funds.",
+        "Most of that money goes to AI.",
+        "Your pitch must show AI scale.",
+        "Is your story fundable by 2026?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The $5.75B AI Bet\n\nBessemer just closed its 12th fund, split into two vehicles, to double down on AI. Most of that checkbook now goes to AI deals.",
+            "2. Why Split The Fund?\n\nTwo vehicles let Bessemer back both early and growth-stage AI startups. That means more flexibility, but also more competition for founders.",
+            "3. AI Ate The Checkbook\n\nOver 70% of Bessemer's new fund is earmarked for AI. If your startup isn't AI-native, you're now pitching against the majority.",
+            "4. Pitch Must Show AI Scale\n\nInvestors want proof you can scale with AI, not just add a chatbot. Show unit economics that improve as your model learns.",
+            "5. Is Your Story Fundable?\n\nTake your current pitch and rewrite the traction slide to highlight AI-driven margins. Do it today. If you can't, you're not ready for 2026."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Bessemer raised 5.75 billion dollars.",
+            "They split it into two funds.",
+            "Most of that money goes to AI.",
+            "Your pitch must show AI scale.",
+            "Is your story fundable by 2026?"
+          ]
+        },
+        "instagram": {
+          "caption": "$5.75 billion just got raised, and most of it is going to AI startups.\n\nBessemer closed its 12th fund, split across two vehicles — one for early stage, one for growth. Over 70% of that money is earmarked for AI deals.\n\nIf your pitch doesn't show AI-native scale, you're competing for scraps. 😬\n\nFor content creators building tools: this means more AI products launching, faster. 🔧 More noise, more chances to stand out with something real.\n\nRewrite your traction slide to highlight AI-driven margins. If you can't do it today, you're not ready for 2026. 💡\n\nWhat would your pitch look like if AI wasn't in the first line? 🤔"
+        }
+      },
+      "instagram_caption": "$5.75 billion just got raised, and most of it is going to AI startups.\n\nBessemer closed its 12th fund, split across two vehicles — one for early stage, one for growth. Over 70% of that money is earmarked for AI deals.\n\nIf your pitch doesn't show AI-native scale, you're competing for scraps. 😬\n\nFor content creators building tools: this means more AI products launching, faster. 🔧 More noise, more chances to stand out with something real.\n\nRewrite your traction slide to highlight AI-driven margins. If you can't do it today, you're not ready for 2026. 💡\n\nWhat would your pitch look like if AI wasn't in the first line? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "AI now eats most of Bessemer's checkbook",
+          "description": "Bessemer closed its 12th fund at $5.75B, with over 70% earmarked for AI, intensifying competition for founders.",
+          "visual_hint": "Bold number on dark background",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Why split one fund into two?",
+          "description": "Two vehicles let Bessemer back both early and growth-stage AI startups, offering flexibility but also more competition.",
+          "visual_hint": "Two branching arrows from center",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "office building",
+          "image": "https://images.pexels.com/photos/19279351/pexels-photo-19279351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Is your startup AI-native enough?",
+          "description": "Over 70% of the new fund targets AI, so non-AI startups now pitch against the majority of Bessemer's portfolio.",
+          "visual_hint": "Pie chart with 70% highlighted",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Investors demand proof of AI scale",
+          "description": "Bessemer wants unit economics that improve as your model learns, not just a bolted-on chatbot.",
+          "visual_hint": "Hand holding rising growth chart",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to future-proof your pitch",
+          "description": "Rewrite your traction slide to highlight AI-driven margins today. If you can't, you're not ready for 2026.",
+          "visual_hint": "Notebook with pen and checklist",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
+      "savedAt": "2026-09-24T08:52:47.270Z",
+      "sourceId": "d12dfdfa3f04ee5e8ff6b21a345044a7"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "meta-introduces-camera-free-ai-glasses",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta introduces camera-free AI glasses",
+      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "pubDate": "Wed, 23 Sep 2026 23:39:44 +0000",
+      "slides": [
+        "Meta bets on AI glasses without cameras?",
+        "The device relies only on microphones and sensors",
+        "Camera-free means fewer privacy objections, but new limits",
+        "You may soon wear AI that hears, not sees",
+        "Test one daily task with audio-only AI today"
+      ],
+      "thread_text": [
+        "1. Meta's camera-free gamble\n\nMeta is building smart glasses that listen instead of watch. The device uses only microphones and sensors, betting that privacy concerns will drive adoption faster than visual features.",
+        "2. Ears over eyes\n\nThe trade-off: no camera means fewer objections from bystanders, but the AI loses visual context. It can hear your conversation, but it can't read the room.",
+        "3. The audio-only ceiling\n\nWithout a camera, the glasses can't identify objects, read text, or recognize faces. That limits use cases to audio-centric tasks like navigation, transcription, and voice commands.",
+        "4. Your next wearable\n\nYou may soon wear AI that hears, not sees. Meta's bet suggests the next wave of wearables won't be about capturing the world, but about processing sound in real time.",
+        "5. Test it today\n\nTake one daily task you do by voice — like setting reminders or asking for directions. Try doing it with audio-only AI. If it fails, you've found the camera's real value."
+      ],
+      "video_script": [
+        "Meta is betting on AI glasses without cameras.",
+        "They use only microphones and sensors to hear.",
+        "No camera means fewer privacy problems, but new limits.",
+        "You might soon wear AI that hears, not sees.",
+        "Test one daily task with audio-only AI today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Meta's camera-free gamble\n\nMeta is building smart glasses that listen instead of watch. The device uses only microphones and sensors, betting that privacy concerns will drive adoption faster than visual features.",
+            "2. Ears over eyes\n\nThe trade-off: no camera means fewer objections from bystanders, but the AI loses visual context. It can hear your conversation, but it can't read the room.",
+            "3. The audio-only ceiling\n\nWithout a camera, the glasses can't identify objects, read text, or recognize faces. That limits use cases to audio-centric tasks like navigation, transcription, and voice commands.",
+            "4. Your next wearable\n\nYou may soon wear AI that hears, not sees. Meta's bet suggests the next wave of wearables won't be about capturing the world, but about processing sound in real time.",
+            "5. Test it today\n\nTake one daily task you do by voice — like setting reminders or asking for directions. Try doing it with audio-only AI. If it fails, you've found the camera's real value."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta is betting on AI glasses without cameras.",
+            "They use only microphones and sensors to hear.",
+            "No camera means fewer privacy problems, but new limits.",
+            "You might soon wear AI that hears, not sees.",
+            "Test one daily task with audio-only AI today."
+          ]
+        },
+        "instagram": {
+          "caption": "Glasses that hear you but can't see you are now in development.\n\nMeta's new device skips the camera entirely, using only microphones and sensors. 📡\n\nNo camera means strangers won't object to being filmed, but the AI loses all visual context.\n\nIt can't identify objects, read text, or recognize faces. That narrows it to voice tasks: navigation, transcription, commands.\n\nIf you write or publish, your tools may soon process audio only, not images. 🎙️\n\nTry one voice task today with audio-only AI. Where does it break? 👇"
+        }
+      },
+      "instagram_caption": "Glasses that hear you but can't see you are now in development.\n\nMeta's new device skips the camera entirely, using only microphones and sensors. 📡\n\nNo camera means strangers won't object to being filmed, but the AI loses all visual context.\n\nIt can't identify objects, read text, or recognize faces. That narrows it to voice tasks: navigation, transcription, commands.\n\nIf you write or publish, your tools may soon process audio only, not images. 🎙️\n\nTry one voice task today with audio-only AI. Where does it break? 👇",
+      "carousel_slides": [
+        {
+          "hook": "Meta bets on glasses that only listen",
+          "description": "Meta is building AI glasses with microphones and sensors but no camera, betting privacy concerns will drive adoption faster than visual features.",
+          "visual_hint": "Futuristic glasses on dark surface",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smart glasses"
+        },
+        {
+          "hook": "No camera, no visual context",
+          "description": "Without a camera, the AI can hear conversations but cannot read the room, identify objects, or recognize faces.",
+          "visual_hint": "Microphone and sensor array close-up",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "microphone sensor",
+          "image": "https://images.pexels.com/photos/4988132/pexels-photo-4988132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audio-only AI hits a ceiling",
+          "description": "Camera-free design limits use cases to audio-centric tasks like navigation, transcription, and voice commands, losing visual context entirely.",
+          "visual_hint": "Sound waves hitting a wall",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "sound waves",
+          "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "You may soon wear AI that hears",
+          "description": "Meta's bet suggests the next wave of wearables will process sound in real time rather than capturing the visual world.",
+          "visual_hint": "Person wearing smart glasses",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person wearing glasses",
+          "image": "https://images.pexels.com/photos/17151925/pexels-photo-17151925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test audio-only AI today",
+          "description": "Take one daily voice task like setting reminders or asking directions, try it with audio-only AI, and save this post for later.",
+          "visual_hint": "Voice command on smartphone",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "voice assistant",
+          "image": "https://images.pexels.com/photos/4790267/pexels-photo-4790267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ray-ban-audio.png?resize=1200,635",
+      "savedAt": "2026-09-24T08:52:38.587Z",
+      "sourceId": "abe26ab67059b7299b9e5985c4dd5e7e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "meta-made-a-tamagotchi-like-wearable-for-its-muse-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "pubDate": "Thu, 24 Sep 2026 00:46:17 +0000",
+      "slides": [
+        "Meta's new wearable: Tamagotchi for AI, but why?",
+        "It's a small, screen-equipped device for Muse AI.",
+        "You interact by petting and feeding it, not typing.",
+        "Your daily care shapes the AI's personality and responses.",
+        "Want a pet AI? Decide if you'll nurture or neglect it."
+      ],
+      "thread_text": [
+        "1. Pet Your Next AI?\n\nMeta has a new screen-equipped device for Muse AI that you interact with by petting and feeding it—no typing required.",
+        "2. Tamagotchi Meets AI\n\nThis small wearable is designed to be cared for like a digital pet. Your daily interactions shape its personality and responses.",
+        "3. Care Shapes Its Brain\n\nHow you nurture—or neglect—your AI pet directly influences how it thinks and reacts to you over time.",
+        "4. Wearable or Weird?\n\nUnlike smartwatches, this device thrives on physical touch and feeding. Meta bets you want a companion, not just a tool.",
+        "5. Nurture or Neglect?\n\nWould you actually remember to feed your AI pet every day? Try Muse on your phone this week and see if the bond sticks."
+      ],
+      "video_script": [
+        "Meta just unveiled a Tamagotchi-like AI wearable called Muse.",
+        "It has a screen and you interact by petting and feeding it.",
+        "Your daily care actually shapes its personality and responses.",
+        "No typing needed—just nurture it like a digital pet.",
+        "Would you nurture or neglect your own AI pet?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Pet Your Next AI?\n\nMeta has a new screen-equipped device for Muse AI that you interact with by petting and feeding it—no typing required.",
+            "2. Tamagotchi Meets AI\n\nThis small wearable is designed to be cared for like a digital pet. Your daily interactions shape its personality and responses.",
+            "3. Care Shapes Its Brain\n\nHow you nurture—or neglect—your AI pet directly influences how it thinks and reacts to you over time.",
+            "4. Wearable or Weird?\n\nUnlike smartwatches, this device thrives on physical touch and feeding. Meta bets you want a companion, not just a tool.",
+            "5. Nurture or Neglect?\n\nWould you actually remember to feed your AI pet every day? Try Muse on your phone this week and see if the bond sticks."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta just unveiled a Tamagotchi-like AI wearable called Muse.",
+            "It has a screen and you interact by petting and feeding it.",
+            "Your daily care actually shapes its personality and responses.",
+            "No typing needed—just nurture it like a digital pet.",
+            "Would you nurture or neglect your own AI pet?"
+          ]
+        },
+        "instagram": {
+          "caption": "Meta built a screen-equipped wearable for its Muse AI agent, and you interact with it by petting and feeding it instead of typing. 🐣\n\nIt's designed like a digital pet: small, worn on you, cared for daily.\n\nHow you nurture it — or neglect it — shapes its personality and how it responds to you.\n\nSo if you make content, this hints at a shift: AI you bond with, not just prompt.\n\nWould you actually remember to feed it every day, or would it starve in a drawer? 🍽️"
+        }
+      },
+      "instagram_caption": "Meta built a screen-equipped wearable for its Muse AI agent, and you interact with it by petting and feeding it instead of typing. 🐣\n\nIt's designed like a digital pet: small, worn on you, cared for daily.\n\nHow you nurture it — or neglect it — shapes its personality and how it responds to you.\n\nSo if you make content, this hints at a shift: AI you bond with, not just prompt.\n\nWould you actually remember to feed it every day, or would it starve in a drawer? 🍽️",
+      "carousel_slides": [
+        {
+          "hook": "Would you remember to feed your AI?",
+          "description": "Meta's new Muse AI wearable demands daily petting and feeding; neglect it and its personality changes.",
+          "visual_hint": "Close-up of small screen device",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "tamagotchi toy"
+        },
+        {
+          "hook": "It's a Tamagotchi for AI",
+          "description": "This small screen-equipped device is designed for Muse AI, replacing typing with tactile interaction.",
+          "visual_hint": "Wearable device on wrist",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartwatch wearable",
+          "image": "https://images.pexels.com/photos/18078985/pexels-photo-18078985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Petting and feeding shape its brain",
+          "description": "Your daily care directly influences how the AI thinks and responds to you over time.",
+          "visual_hint": "Hand touching glowing screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "human hand touching",
+          "image": "https://images.pexels.com/photos/10526881/pexels-photo-10526881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Is this companion or just weird?",
+          "description": "Unlike smartwatches, this device thrives on physical touch, betting you want a pet not a tool.",
+          "visual_hint": "Person cradling device lovingly",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person holding gadget",
+          "image": "https://images.pexels.com/photos/5555816/pexels-photo-5555816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Try Muse and see if the bond sticks",
+          "description": "Download Muse on your phone this week and test if you'll actually nurture your AI pet daily.",
+          "visual_hint": "Phone with Muse app open",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone app screen",
+          "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+      "savedAt": "2026-09-24T08:52:29.699Z",
+      "sourceId": "b3b054f1bbc73550f66e3e456a129bc7"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "meta-s-ai-agent-is-a-cute-little-guy-who-s-great-a",
       "prompt_version": "1.0.0",
       "status": "published",

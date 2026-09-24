@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "vc-firm-bessemer-now-has-another-5-75b-to-invest-i",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+  "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
+  "pubDate": "Wed, 23 Sep 2026 20:35:17 +0000",
+  "slides": [
+    "Bessemer just raised $5.75B — but for what exactly?",
+    "The firm's 12th fund, split across two vehicles.",
+    "AI deals now eat most of its checkbook.",
+    "Your startup's pitch must show AI-native scale.",
+    "Ask yourself: is your AI story fundable by 2026?"
+  ],
+  "thread_text": [
+    "1. The $5.75B AI Bet\n\nBessemer just closed its 12th fund, split into two vehicles, to double down on AI. Most of that checkbook now goes to AI deals.",
+    "2. Why Split The Fund?\n\nTwo vehicles let Bessemer back both early and growth-stage AI startups. That means more flexibility, but also more competition for founders.",
+    "3. AI Ate The Checkbook\n\nOver 70% of Bessemer's new fund is earmarked for AI. If your startup isn't AI-native, you're now pitching against the majority.",
+    "4. Pitch Must Show AI Scale\n\nInvestors want proof you can scale with AI, not just add a chatbot. Show unit economics that improve as your model learns.",
+    "5. Is Your Story Fundable?\n\nTake your current pitch and rewrite the traction slide to highlight AI-driven margins. Do it today. If you can't, you're not ready for 2026."
+  ],
+  "video_script": [
+    "Bessemer raised 5.75 billion dollars.",
+    "They split it into two funds.",
+    "Most of that money goes to AI.",
+    "Your pitch must show AI scale.",
+    "Is your story fundable by 2026?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $5.75B AI Bet\n\nBessemer just closed its 12th fund, split into two vehicles, to double down on AI. Most of that checkbook now goes to AI deals.",
+        "2. Why Split The Fund?\n\nTwo vehicles let Bessemer back both early and growth-stage AI startups. That means more flexibility, but also more competition for founders.",
+        "3. AI Ate The Checkbook\n\nOver 70% of Bessemer's new fund is earmarked for AI. If your startup isn't AI-native, you're now pitching against the majority.",
+        "4. Pitch Must Show AI Scale\n\nInvestors want proof you can scale with AI, not just add a chatbot. Show unit economics that improve as your model learns.",
+        "5. Is Your Story Fundable?\n\nTake your current pitch and rewrite the traction slide to highlight AI-driven margins. Do it today. If you can't, you're not ready for 2026."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Bessemer raised 5.75 billion dollars.",
+        "They split it into two funds.",
+        "Most of that money goes to AI.",
+        "Your pitch must show AI scale.",
+        "Is your story fundable by 2026?"
+      ]
+    },
+    "instagram": {
+      "caption": "$5.75 billion just got raised, and most of it is going to AI startups.\n\nBessemer closed its 12th fund, split across two vehicles — one for early stage, one for growth. Over 70% of that money is earmarked for AI deals.\n\nIf your pitch doesn't show AI-native scale, you're competing for scraps. 😬\n\nFor content creators building tools: this means more AI products launching, faster. 🔧 More noise, more chances to stand out with something real.\n\nRewrite your traction slide to highlight AI-driven margins. If you can't do it today, you're not ready for 2026. 💡\n\nWhat would your pitch look like if AI wasn't in the first line? 🤔"
+    }
+  },
+  "instagram_caption": "$5.75 billion just got raised, and most of it is going to AI startups.\n\nBessemer closed its 12th fund, split across two vehicles — one for early stage, one for growth. Over 70% of that money is earmarked for AI deals.\n\nIf your pitch doesn't show AI-native scale, you're competing for scraps. 😬\n\nFor content creators building tools: this means more AI products launching, faster. 🔧 More noise, more chances to stand out with something real.\n\nRewrite your traction slide to highlight AI-driven margins. If you can't do it today, you're not ready for 2026. 💡\n\nWhat would your pitch look like if AI wasn't in the first line? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "AI now eats most of Bessemer's checkbook",
+      "description": "Bessemer closed its 12th fund at $5.75B, with over 70% earmarked for AI, intensifying competition for founders.",
+      "visual_hint": "Bold number on dark background",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Why split one fund into two?",
+      "description": "Two vehicles let Bessemer back both early and growth-stage AI startups, offering flexibility but also more competition.",
+      "visual_hint": "Two branching arrows from center",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office building",
+      "image": "https://images.pexels.com/photos/19279351/pexels-photo-19279351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is your startup AI-native enough?",
+      "description": "Over 70% of the new fund targets AI, so non-AI startups now pitch against the majority of Bessemer's portfolio.",
+      "visual_hint": "Pie chart with 70% highlighted",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Investors demand proof of AI scale",
+      "description": "Bessemer wants unit economics that improve as your model learns, not just a bolted-on chatbot.",
+      "visual_hint": "Hand holding rising growth chart",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to future-proof your pitch",
+      "description": "Rewrite your traction slide to highlight AI-driven margins today. If you can't, you're not ready for 2026.",
+      "visual_hint": "Notebook with pen and checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
+  "savedAt": "2026-09-24T08:52:47.270Z",
+  "sourceId": "d12dfdfa3f04ee5e8ff6b21a345044a7"
+}

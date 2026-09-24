@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "enveda-secures-311m-to-bring-more-nature-derived-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+  "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+  "pubDate": "Wed, 23 Sep 2026 19:31:28 +0000",
+  "slides": [
+    "Enveda just raised $311M, but can AI truly unlock nature's medicine?",
+    "The startup mines plants for drugs using machine learning",
+    "Most AI drug discovery ignores nature's chemical diversity",
+    "Your existing treatments may soon come from rainforest compounds",
+    "Ask your doctor: what plant-derived drugs are in trials?"
+  ],
+  "thread_text": [
+    "1. $311M Bet on Plants\n\nEnveda just raised a massive round to mine rainforests for drugs. But most AI drug discovery still ignores nature's chemical diversity.",
+    "2. Nature's Untapped Pharmacy\n\nPlants evolved thousands of unique molecules we've barely studied. Machine learning can finally match those compounds to human diseases.",
+    "3. AI's Blind Spot\n\nMost algorithms are trained on synthetic libraries, not natural products. That means they miss the weird, complex structures plants make.",
+    "4. Your Next Medicine?\n\nIf this works, treatments for cancer or inflammation could come from a leaf in the Amazon. Clinical trials are already testing plant-derived compounds.",
+    "5. Check Your Cabinet\n\nAsk your doctor if any of your current drugs originally came from plants. You might be surprised how many already do."
+  ],
+  "video_script": [
+    "This startup just raised 311 million dollars.",
+    "It uses AI to find drugs in plants.",
+    "Most AI drug discovery ignores nature's chemicals.",
+    "Your future medicine might come from a rainforest.",
+    "Ask your doctor about plant-derived drugs in trials."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $311M Bet on Plants\n\nEnveda just raised a massive round to mine rainforests for drugs. But most AI drug discovery still ignores nature's chemical diversity.",
+        "2. Nature's Untapped Pharmacy\n\nPlants evolved thousands of unique molecules we've barely studied. Machine learning can finally match those compounds to human diseases.",
+        "3. AI's Blind Spot\n\nMost algorithms are trained on synthetic libraries, not natural products. That means they miss the weird, complex structures plants make.",
+        "4. Your Next Medicine?\n\nIf this works, treatments for cancer or inflammation could come from a leaf in the Amazon. Clinical trials are already testing plant-derived compounds.",
+        "5. Check Your Cabinet\n\nAsk your doctor if any of your current drugs originally came from plants. You might be surprised how many already do."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "This startup just raised 311 million dollars.",
+        "It uses AI to find drugs in plants.",
+        "Most AI drug discovery ignores nature's chemicals.",
+        "Your future medicine might come from a rainforest.",
+        "Ask your doctor about plant-derived drugs in trials."
+      ]
+    },
+    "instagram": {
+      "caption": "A biotech startup just raised $311 million to turn rainforest plants into medicine. 🌿\n\nEnveda uses machine learning to scan plants for molecules we've barely studied.\n\nMost AI drug discovery only looks at synthetic compounds, so it misses nature's weird, complex chemistry.\n\nIf this works, treatments for cancer or inflammation could start in the Amazon. 🧪\n\nFor anyone covering health or tech: this is the story to watch, and the funding numbers back it up.\n\nNext time you take a pill, ask your doctor if it originally came from a plant. You might be surprised. 💊\n\nWhat plant-derived drug do you already rely on without knowing it? 🌱"
+    }
+  },
+  "instagram_caption": "A biotech startup just raised $311 million to turn rainforest plants into medicine. 🌿\n\nEnveda uses machine learning to scan plants for molecules we've barely studied.\n\nMost AI drug discovery only looks at synthetic compounds, so it misses nature's weird, complex chemistry.\n\nIf this works, treatments for cancer or inflammation could start in the Amazon. 🧪\n\nFor anyone covering health or tech: this is the story to watch, and the funding numbers back it up.\n\nNext time you take a pill, ask your doctor if it originally came from a plant. You might be surprised. 💊\n\nWhat plant-derived drug do you already rely on without knowing it? 🌱",
+  "carousel_slides": [
+    {
+      "hook": "Can AI unlock nature's hidden medicine?",
+      "description": "Enveda raised $311M to mine plants for drugs, but most AI drug discovery ignores nature's chemical diversity. That's a huge blind spot.",
+      "visual_hint": "Rainforest canopy with digital overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "rainforest aerial view"
+    },
+    {
+      "hook": "Startup mines plants using machine learning",
+      "description": "Enveda uses machine learning to match plant compounds to diseases, potentially creating treatments from rainforest molecules that were previously overlooked.",
+      "visual_hint": "Scientist examining plant with tablet",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "laboratory plant research",
+      "image": "https://images.pexels.com/photos/8512667/pexels-photo-8512667.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI's blind spot: nature's chemical diversity",
+      "description": "Algorithms trained on synthetic libraries miss the weird, complex structures plants evolved, so they overlook promising natural drug candidates.",
+      "visual_hint": "Abstract molecular structures on screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "molecular structure model",
+      "image": "https://images.pexels.com/photos/7722849/pexels-photo-7722849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your next medicine from a leaf?",
+      "description": "If Enveda succeeds, cancer or inflammation treatments could come from Amazonian leaves, and clinical trials are already testing plant-derived compounds.",
+      "visual_hint": "Hand holding green leaf",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding leaf",
+      "image": "https://images.pexels.com/photos/1915363/pexels-photo-1915363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: check your medicine cabinet",
+      "description": "Ask your doctor if any of your current drugs originally came from plants. You might be surprised how many already do.",
+      "visual_hint": "Open medicine cabinet with pills",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "medicine cabinet",
+      "image": "https://images.pexels.com/photos/35503962/pexels-photo-35503962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/06/220509-Enveda-1038.jpg?resize=1200,800",
+  "savedAt": "2026-09-24T08:52:58.098Z",
+  "sourceId": "237e7ef9dd427e4406f68276fabc45ab"
+}
