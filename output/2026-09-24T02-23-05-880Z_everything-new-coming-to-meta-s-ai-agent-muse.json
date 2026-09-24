@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "everything-new-coming-to-meta-s-ai-agent-muse",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Everything new coming to Meta’s AI agent Muse",
+  "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+  "pubDate": "Thu, 24 Sep 2026 01:13:32 +0000",
+  "slides": [
+    "Meta's new AI agent Muse: what's the catch?",
+    "It's an agent, not just another assistant.",
+    "Muse connects to your apps without explicit commands.",
+    "Early users report surprising privacy trade-offs.",
+    "Test it yourself: see if the hype holds up."
+  ],
+  "thread_text": [
+    "1. Meta's Muse: What's the Catch?\n\nIt's an AI agent that connects to your apps and acts without explicit commands. Early users say it works, but at a surprising cost.",
+    "2. Not Another Assistant\n\nMuse doesn't wait for prompts. It proactively reads your messages, calendar, and files to anticipate what you need.",
+    "3. It Acts Without Asking\n\nOnce connected, Muse takes actions on your behalf—like scheduling meetings or replying to emails—without you saying a word.",
+    "4. Privacy Trade-Offs Emerge\n\nEarly users report that to get that convenience, Muse needs deep access to your personal data. Some are uncomfortable with how much it sees.",
+    "5. Hype or Real? Test It\n\nTry Muse on a real task this week. Does it save time, or does the privacy cost make it not worth it?"
+  ],
+  "video_script": [
+    "Meta's new AI agent Muse. What's the catch?",
+    "It's not an assistant. It's an agent.",
+    "Muse connects to your apps without explicit commands.",
+    "Early users report surprising privacy trade-offs.",
+    "Test it yourself. See if the hype holds up."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta's Muse: What's the Catch?\n\nIt's an AI agent that connects to your apps and acts without explicit commands. Early users say it works, but at a surprising cost.",
+        "2. Not Another Assistant\n\nMuse doesn't wait for prompts. It proactively reads your messages, calendar, and files to anticipate what you need.",
+        "3. It Acts Without Asking\n\nOnce connected, Muse takes actions on your behalf—like scheduling meetings or replying to emails—without you saying a word.",
+        "4. Privacy Trade-Offs Emerge\n\nEarly users report that to get that convenience, Muse needs deep access to your personal data. Some are uncomfortable with how much it sees.",
+        "5. Hype or Real? Test It\n\nTry Muse on a real task this week. Does it save time, or does the privacy cost make it not worth it?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta's new AI agent Muse. What's the catch?",
+        "It's not an assistant. It's an agent.",
+        "Muse connects to your apps without explicit commands.",
+        "Early users report surprising privacy trade-offs.",
+        "Test it yourself. See if the hype holds up."
+      ]
+    },
+    "instagram": {
+      "caption": "Meta's Muse reads your messages, calendar and files to schedule meetings and reply to emails without you saying a word. 👀\n\nIt's not an assistant waiting for prompts. It's an agent that acts on its own.\n\nBut early users say that power costs deep access to your personal data, and some aren't comfortable with how much it sees. 🔒\n\nIf you build or publish content, this is the trade-off heading for your daily tools: done-for-you actions in exchange for what you feed it.\n\nWould you connect an agent that acts before you ask? Try Muse on one real task this week and see. ⚖️"
+    }
+  },
+  "instagram_caption": "Meta's Muse reads your messages, calendar and files to schedule meetings and reply to emails without you saying a word. 👀\n\nIt's not an assistant waiting for prompts. It's an agent that acts on its own.\n\nBut early users say that power costs deep access to your personal data, and some aren't comfortable with how much it sees. 🔒\n\nIf you build or publish content, this is the trade-off heading for your daily tools: done-for-you actions in exchange for what you feed it.\n\nWould you connect an agent that acts before you ask? Try Muse on one real task this week and see. ⚖️",
+  "carousel_slides": [
+    {
+      "hook": "This AI acts before you ask.",
+      "description": "Meta's Muse scans messages, calendar, and files to act on your behalf. Convenience comes with hidden costs.",
+      "visual_hint": "Futuristic AI network glowing interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Not just another assistant.",
+      "description": "Muse doesn't wait for prompts. It proactively reads your data to anticipate your needs before you speak.",
+      "visual_hint": "Smartphone screen with notifications",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It acts on your behalf.",
+      "description": "Once connected, Muse schedules meetings and replies to emails without you saying a word.",
+      "visual_hint": "Calendar with automated reminders",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "calendar planner",
+      "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "What are you giving up?",
+      "description": "Early users report deep personal data access. Some feel uncomfortable with how much Muse sees.",
+      "visual_hint": "Person worried looking at phone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "worried person phone",
+      "image": "https://images.pexels.com/photos/6383268/pexels-photo-6383268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and test Muse yourself.",
+      "description": "Try Muse on a real task this week. Does it save time, or does the privacy cost make it not worth it?",
+      "visual_hint": "Person testing app on laptop",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop user",
+      "image": "https://images.pexels.com/photos/20044347/pexels-photo-20044347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
+  "savedAt": "2026-09-24T02:23:14.050Z",
+  "sourceId": "a58dd3909ca16b4bae71ca219eea95d2"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-is-making-a-standalone-muse-ai-gadget",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta is making a standalone Muse AI gadget",
+  "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+  "pubDate": "2026-09-24T00:15:20.000Z",
+  "slides": [
+    "Meta is betting on a standalone Muse AI gadget?",
+    "It runs on-device without cloud connectivity",
+    "But privacy claims ignore Meta's data history",
+    "Your existing apps could lose exclusive AI features",
+    "Test one offline task: see what breaks"
+  ],
+  "thread_text": [
+    "1. Meta's offline AI gamble\n\nMeta is reportedly building a standalone AI gadget called Muse that runs entirely on-device — no cloud, no internet. The catch? Every privacy promise runs straight into Meta's data history.",
+    "2. No cloud, but whose rules?\n\nOn-device means your conversations never leave the hardware. But Meta has spent two decades monetizing user data — and trust doesn't reset just because the chip is local.",
+    "3. Your apps might lose AI perks\n\nIf Meta shifts exclusive AI features to Muse, the assistants inside your current apps could get stripped down. You'd have to buy new hardware just to keep what you already had.",
+    "4. Pick one task and test it\n\nTake something you do offline — drafting notes, translating, summarizing a file. Try it with your current AI tool in airplane mode. If it breaks, you've just found Muse's real selling point.",
+    "5. Would you actually switch?\n\nAsk yourself: does saving a few seconds justify handing a new device to the same company? Try the offline test on one real task this week before you decide."
+  ],
+  "video_script": [
+    "Meta's building an AI gadget that works without internet.",
+    "No cloud means privacy, but Meta's track record says otherwise.",
+    "Your current apps might lose AI features to this device.",
+    "Test one offline task today and see what breaks.",
+    "Would you trust Meta with an always-on local device?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta's offline AI gamble\n\nMeta is reportedly building a standalone AI gadget called Muse that runs entirely on-device — no cloud, no internet. The catch? Every privacy promise runs straight into Meta's data history.",
+        "2. No cloud, but whose rules?\n\nOn-device means your conversations never leave the hardware. But Meta has spent two decades monetizing user data — and trust doesn't reset just because the chip is local.",
+        "3. Your apps might lose AI perks\n\nIf Meta shifts exclusive AI features to Muse, the assistants inside your current apps could get stripped down. You'd have to buy new hardware just to keep what you already had.",
+        "4. Pick one task and test it\n\nTake something you do offline — drafting notes, translating, summarizing a file. Try it with your current AI tool in airplane mode. If it breaks, you've just found Muse's real selling point.",
+        "5. Would you actually switch?\n\nAsk yourself: does saving a few seconds justify handing a new device to the same company? Try the offline test on one real task this week before you decide."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta's building an AI gadget that works without internet.",
+        "No cloud means privacy, but Meta's track record says otherwise.",
+        "Your current apps might lose AI features to this device.",
+        "Test one offline task today and see what breaks.",
+        "Would you trust Meta with an always-on local device?"
+      ]
+    },
+    "instagram": {
+      "caption": "If Meta moves its exclusive AI features to a new device, the assistant in your current app could lose them.\n\nMeta is reportedly building a standalone gadget called Muse that runs on-device, with no cloud and no internet. 🔌\n\nEvery privacy promise still runs into Meta's own data history.\n\nOne test: put your phone in airplane mode and try a real offline task — notes, translation, a summary. 📝\n\nIf it breaks, that's the real selling point. 📵\n\nWould you buy new hardware just to keep features you already had? 🤔"
+    }
+  },
+  "instagram_caption": "If Meta moves its exclusive AI features to a new device, the assistant in your current app could lose them.\n\nMeta is reportedly building a standalone gadget called Muse that runs on-device, with no cloud and no internet. 🔌\n\nEvery privacy promise still runs into Meta's own data history.\n\nOne test: put your phone in airplane mode and try a real offline task — notes, translation, a summary. 📝\n\nIf it breaks, that's the real selling point. 📵\n\nWould you buy new hardware just to keep features you already had? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Would you trust Meta with offline AI?",
+      "description": "Meta's privacy promises clash with its data monetization history, so on-device processing alone won't rebuild user trust.",
+      "visual_hint": "person holding smartphone, skeptical expression",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone privacy"
+    },
+    {
+      "hook": "No cloud, but whose rules?",
+      "description": "Conversations stay on-device, but Meta's two-decade data monetization habit means local chips don't reset trust.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "microchip glowing on circuit board",
+      "image_query": "microchip processor",
+      "image": "https://images.pexels.com/photos/2582935/pexels-photo-2582935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your apps might lose AI perks",
+      "description": "If Meta moves exclusive AI features to Muse, current assistants get stripped down, forcing hardware upgrades for basics.",
+      "visual_hint": "app icons fading from phone screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smartphone apps",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one task in airplane mode",
+      "description": "Try drafting notes, translating, or summarizing offline with your current AI tool. If it fails, you've found Muse's selling point.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "hand tapping phone in airplane mode",
+      "image_query": "airplane mode phone",
+      "image": "https://images.pexels.com/photos/13025073/pexels-photo-13025073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you switch devices",
+      "description": "Run the offline test on one real task this week, then comment if your AI tool survived without internet.",
+      "visual_hint": "phone screen showing offline test checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist notebook",
+      "image": "https://images.pexels.com/photos/8450476/pexels-photo-8450476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/lcimg-d4d3d179-80e9-4873-9d38-24ac84737e8d.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-24T02:23:32.322Z",
+  "sourceId": "03e6d597d8c7e8b8de9cf2cee62c34c9"
+}
