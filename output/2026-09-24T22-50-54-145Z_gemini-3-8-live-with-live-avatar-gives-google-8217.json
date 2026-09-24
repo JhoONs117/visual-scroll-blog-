@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "gemini-3-8-live-with-live-avatar-gives-google-8217",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+  "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+  "pubDate": "2026-09-24T19:59:26.000Z",
+  "slides": [
+    "Google's AI just got a face—but whose?",
+    "Gemini 3.8 Live adds a real-time avatar",
+    "It reads your tone, not just your words",
+    "Now you must design for eye contact and pauses",
+    "Test one video call: does it feel human?"
+  ],
+  "thread_text": [
+    "1. Whose face is it?\n\nGoogle's Gemini 3.8 Live now puts a real-time avatar on your screen. It watches your expressions and adjusts its own.",
+    "2. Real-time avatar added\n\nThe system processes your tone and micro-expressions, not just your words. It's a two-way performance, not a command line.",
+    "3. It reads your tone\n\nYour pauses and eye movements become input. The AI responds to hesitation with a nod or a softer voice.",
+    "4. Design for eye contact\n\nYou now have to plan when to look away, when to pause. Every video call becomes a stage you didn't rehearse for.",
+    "5. Test one video call\n\nBook a 10-minute call with the new Gemini. Ask yourself: does it feel human, or do you feel watched?"
+  ],
+  "video_script": [
+    "Google's AI now has a face that watches you back.",
+    "Gemini 3.8 Live adds a real-time avatar on screen.",
+    "It reads your tone, your pauses, your eye contact.",
+    "You must now design every video call like a scene.",
+    "Test one call: does it feel human or creepy?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Whose face is it?\n\nGoogle's Gemini 3.8 Live now puts a real-time avatar on your screen. It watches your expressions and adjusts its own.",
+        "2. Real-time avatar added\n\nThe system processes your tone and micro-expressions, not just your words. It's a two-way performance, not a command line.",
+        "3. It reads your tone\n\nYour pauses and eye movements become input. The AI responds to hesitation with a nod or a softer voice.",
+        "4. Design for eye contact\n\nYou now have to plan when to look away, when to pause. Every video call becomes a stage you didn't rehearse for.",
+        "5. Test one video call\n\nBook a 10-minute call with the new Gemini. Ask yourself: does it feel human, or do you feel watched?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google's AI now has a face that watches you back.",
+        "Gemini 3.8 Live adds a real-time avatar on screen.",
+        "It reads your tone, your pauses, your eye contact.",
+        "You must now design every video call like a scene.",
+        "Test one call: does it feel human or creepy?"
+      ]
+    },
+    "instagram": {
+      "caption": "An avatar now looks back at you during video calls and changes its expression based on yours.\n\nGemini 3.8 Live added a real-time avatar that reads your tone and micro-expressions, not just your words. 👀\n\nYour pauses and eye movements become input — hesitation gets a nod or a softer voice back.\n\nIf you're on camera for work, you now design eye contact and silence like a performance. 🎭\n\nBook a 10-minute call with the new Gemini. Does it feel human, or do you feel watched? 🤖"
+    }
+  },
+  "instagram_caption": "An avatar now looks back at you during video calls and changes its expression based on yours.\n\nGemini 3.8 Live added a real-time avatar that reads your tone and micro-expressions, not just your words. 👀\n\nYour pauses and eye movements become input — hesitation gets a nod or a softer voice back.\n\nIf you're on camera for work, you now design eye contact and silence like a performance. 🎭\n\nBook a 10-minute call with the new Gemini. Does it feel human, or do you feel watched? 🤖",
+  "carousel_slides": [
+    {
+      "hook": "Does AI now see more than it speaks?",
+      "description": "Gemini 3.8 Live reads your tone and pauses. The AI no longer waits for commands; it responds in real time.",
+      "visual_hint": "Glowing avatar face on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "facial recognition"
+    },
+    {
+      "hook": "Google gives Gemini a real-time face",
+      "description": "Gemini 3.8 Live adds a live avatar on your screen. It watches your expressions and adjusts its own responses.",
+      "visual_hint": "Split screen human and AI avatar",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "video call",
+      "image": "https://images.pexels.com/photos/5486096/pexels-photo-5486096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your hesitation is now input data",
+      "description": "The system processes micro-expressions and tone, not just words. A pause triggers a nod or softer voice.",
+      "visual_hint": "Waveform and face sensors overlay",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "microphone waveform",
+      "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Every call becomes a stage you didn't rehearse",
+      "description": "You must now design for eye contact and pauses. When to look away becomes part of the interaction.",
+      "visual_hint": "Person planning camera angles",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "eye contact",
+      "image": "https://images.pexels.com/photos/14537109/pexels-photo-14537109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Book one call: does it feel human?",
+      "description": "Test a 10-minute Gemini call. Then ask if it felt human or if you felt watched. Save this for your next test.",
+      "visual_hint": "Smartphone with call timer",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/8090123/pexels-photo-8090123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-24T22:51:18.932Z",
+  "sourceId": "6c25baed85f26e869cba22c6fde0e827"
+}

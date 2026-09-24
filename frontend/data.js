@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "gemini-can-now-call-businesses-for-you-so-you-don-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+    "pubDate": "2026-09-24T16:04:31.000Z",
+    "slides": [
+      "What if you never had to wait on hold again?",
+      "Gemini can now call businesses on your behalf.",
+      "It handles real-time conversations, not just scripted menus.",
+      "You can delegate calls to book appointments or check hours.",
+      "Try it next time you're stuck on hold."
+    ],
+    "thread_text": [
+      "1. Never Wait On Hold Again\n\nGoogle's Gemini can now call businesses for you. It handles real-time conversations, so you don't have to.",
+      "2. Real Conversations, Not Menus\n\nIt navigates natural dialogue instead of rigid phone trees. That means no more pressing 1 for hours.",
+      "3. Your Personal Caller\n\nDelegate tasks like booking appointments or checking hours. Gemini does the talking while you focus on other things.",
+      "4. The End of Hold Music\n\nImagine skipping the queue entirely. This isn't a scripted bot—it's AI that understands and responds live.",
+      "5. Test It Yourself\n\nNext time you're stuck on hold, try Gemini. Does it save you time, or create new hassles? Try it on a real call this week."
+    ],
+    "video_script": [
+      "What if you never waited on hold again?",
+      "Gemini now calls businesses for you.",
+      "It handles real-time conversations, not menus.",
+      "Delegate calls to book appointments or check hours.",
+      "Try it next time you're stuck on hold."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Never Wait On Hold Again\n\nGoogle's Gemini can now call businesses for you. It handles real-time conversations, so you don't have to.",
+          "2. Real Conversations, Not Menus\n\nIt navigates natural dialogue instead of rigid phone trees. That means no more pressing 1 for hours.",
+          "3. Your Personal Caller\n\nDelegate tasks like booking appointments or checking hours. Gemini does the talking while you focus on other things.",
+          "4. The End of Hold Music\n\nImagine skipping the queue entirely. This isn't a scripted bot—it's AI that understands and responds live.",
+          "5. Test It Yourself\n\nNext time you're stuck on hold, try Gemini. Does it save you time, or create new hassles? Try it on a real call this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "What if you never waited on hold again?",
+          "Gemini now calls businesses for you.",
+          "It handles real-time conversations, not menus.",
+          "Delegate calls to book appointments or check hours.",
+          "Try it next time you're stuck on hold."
+        ]
+      },
+      "instagram": {
+        "caption": "You can hand your phone a task and skip the hold queue entirely. 📞\n\nGoogle's Gemini can now call businesses on your behalf. It holds real back-and-forth conversations instead of just punching through scripted menus.\n\nYou can send it to book an appointment or check opening hours while you keep working.\n\nIf you run a small business, this means customer calls land on an assistant that talks, not a voicemail you'll never return. 👀\n\nNext time a call puts you on hold, will you let Gemini take it or keep waiting? 🤔"
+      }
+    },
+    "instagram_caption": "You can hand your phone a task and skip the hold queue entirely. 📞\n\nGoogle's Gemini can now call businesses on your behalf. It holds real back-and-forth conversations instead of just punching through scripted menus.\n\nYou can send it to book an appointment or check opening hours while you keep working.\n\nIf you run a small business, this means customer calls land on an assistant that talks, not a voicemail you'll never return. 👀\n\nNext time a call puts you on hold, will you let Gemini take it or keep waiting? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Still wasting hours on hold?",
+        "description": "Gemini now makes calls for you, handling real-time conversations instead of rigid menu trees. No more pressing one for hours.",
+        "visual_hint": "Phone screen showing active AI call",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone call screen"
+      },
+      {
+        "hook": "AI that actually talks back",
+        "description": "Gemini navigates natural dialogue, not scripted phone menus. It understands and responds live, like a human assistant.",
+        "visual_hint": "Waveform visual with chat bubbles",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "voice waveform",
+        "image": "https://images.pexels.com/photos/6892890/pexels-photo-6892890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your personal caller is here",
+        "description": "Delegate appointments or hours checks to Gemini. It does the talking while you focus on what actually matters.",
+        "visual_hint": "Hand holding phone with calendar",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "calendar appointment",
+        "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Skip the queue entirely",
+        "description": "This isn't a scripted bot. Gemini handles live calls, so you can bypass hold music and get straight to results.",
+        "visual_hint": "Phone with no waiting icon",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office phone desk",
+        "image": "https://images.pexels.com/photos/10104938/pexels-photo-10104938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try it on your next call",
+        "description": "Next time you're stuck on hold, let Gemini dial. Save this post and test it on a real call this week.",
+        "visual_hint": "Phone with checkmark and arrow",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person making call",
+        "image": "https://images.pexels.com/photos/4240540/pexels-photo-4240540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-Using-On-Ear.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.735179330127%2C100%2C78.529641339745&amp;w=1200",
+    "savedAt": "2026-09-24T22:51:27.002Z",
+    "sourceId": "61c5a5ca4752ef2518476be75692d203"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "gemini-3-8-live-with-live-avatar-gives-google-8217",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+    "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+    "pubDate": "2026-09-24T19:59:26.000Z",
+    "slides": [
+      "Google's AI just got a face—but whose?",
+      "Gemini 3.8 Live adds a real-time avatar",
+      "It reads your tone, not just your words",
+      "Now you must design for eye contact and pauses",
+      "Test one video call: does it feel human?"
+    ],
+    "thread_text": [
+      "1. Whose face is it?\n\nGoogle's Gemini 3.8 Live now puts a real-time avatar on your screen. It watches your expressions and adjusts its own.",
+      "2. Real-time avatar added\n\nThe system processes your tone and micro-expressions, not just your words. It's a two-way performance, not a command line.",
+      "3. It reads your tone\n\nYour pauses and eye movements become input. The AI responds to hesitation with a nod or a softer voice.",
+      "4. Design for eye contact\n\nYou now have to plan when to look away, when to pause. Every video call becomes a stage you didn't rehearse for.",
+      "5. Test one video call\n\nBook a 10-minute call with the new Gemini. Ask yourself: does it feel human, or do you feel watched?"
+    ],
+    "video_script": [
+      "Google's AI now has a face that watches you back.",
+      "Gemini 3.8 Live adds a real-time avatar on screen.",
+      "It reads your tone, your pauses, your eye contact.",
+      "You must now design every video call like a scene.",
+      "Test one call: does it feel human or creepy?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Whose face is it?\n\nGoogle's Gemini 3.8 Live now puts a real-time avatar on your screen. It watches your expressions and adjusts its own.",
+          "2. Real-time avatar added\n\nThe system processes your tone and micro-expressions, not just your words. It's a two-way performance, not a command line.",
+          "3. It reads your tone\n\nYour pauses and eye movements become input. The AI responds to hesitation with a nod or a softer voice.",
+          "4. Design for eye contact\n\nYou now have to plan when to look away, when to pause. Every video call becomes a stage you didn't rehearse for.",
+          "5. Test one video call\n\nBook a 10-minute call with the new Gemini. Ask yourself: does it feel human, or do you feel watched?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google's AI now has a face that watches you back.",
+          "Gemini 3.8 Live adds a real-time avatar on screen.",
+          "It reads your tone, your pauses, your eye contact.",
+          "You must now design every video call like a scene.",
+          "Test one call: does it feel human or creepy?"
+        ]
+      },
+      "instagram": {
+        "caption": "An avatar now looks back at you during video calls and changes its expression based on yours.\n\nGemini 3.8 Live added a real-time avatar that reads your tone and micro-expressions, not just your words. 👀\n\nYour pauses and eye movements become input — hesitation gets a nod or a softer voice back.\n\nIf you're on camera for work, you now design eye contact and silence like a performance. 🎭\n\nBook a 10-minute call with the new Gemini. Does it feel human, or do you feel watched? 🤖"
+      }
+    },
+    "instagram_caption": "An avatar now looks back at you during video calls and changes its expression based on yours.\n\nGemini 3.8 Live added a real-time avatar that reads your tone and micro-expressions, not just your words. 👀\n\nYour pauses and eye movements become input — hesitation gets a nod or a softer voice back.\n\nIf you're on camera for work, you now design eye contact and silence like a performance. 🎭\n\nBook a 10-minute call with the new Gemini. Does it feel human, or do you feel watched? 🤖",
+    "carousel_slides": [
+      {
+        "hook": "Does AI now see more than it speaks?",
+        "description": "Gemini 3.8 Live reads your tone and pauses. The AI no longer waits for commands; it responds in real time.",
+        "visual_hint": "Glowing avatar face on screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "facial recognition"
+      },
+      {
+        "hook": "Google gives Gemini a real-time face",
+        "description": "Gemini 3.8 Live adds a live avatar on your screen. It watches your expressions and adjusts its own responses.",
+        "visual_hint": "Split screen human and AI avatar",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "video call",
+        "image": "https://images.pexels.com/photos/5486096/pexels-photo-5486096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your hesitation is now input data",
+        "description": "The system processes micro-expressions and tone, not just words. A pause triggers a nod or softer voice.",
+        "visual_hint": "Waveform and face sensors overlay",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "microphone waveform",
+        "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Every call becomes a stage you didn't rehearse",
+        "description": "You must now design for eye contact and pauses. When to look away becomes part of the interaction.",
+        "visual_hint": "Person planning camera angles",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "eye contact",
+        "image": "https://images.pexels.com/photos/14537109/pexels-photo-14537109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Book one call: does it feel human?",
+        "description": "Test a 10-minute Gemini call. Then ask if it felt human or if you felt watched. Save this for your next test.",
+        "visual_hint": "Smartphone with call timer",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/8090123/pexels-photo-8090123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-09-24T22:51:18.932Z",
+    "sourceId": "6c25baed85f26e869cba22c6fde0e827"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "shield-ai-waabi-and-general-motors-on-building-ai-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
+    "pubDate": "Thu, 24 Sep 2026 15:00:00 +0000",
+    "slides": [
+      "What if your AI has zero room for error?",
+      "Shield AI tests autonomy in combat without GPS",
+      "Waabi skips robotaxis to solve trucking first",
+      "GM's failure cost isn't clicks—it's lives",
+      "Pick one high-stakes task and demand perfection today"
+    ],
+    "thread_text": [
+      "1. No Room For Error\n\nShield AI sent autonomous jets into combat conditions without GPS. When the signal dies, the software has to make the call alone.",
+      "2. Trucking Before Taxis\n\nWaabi deliberately skipped robotaxis and pointed its self-driving stack at freight. Long-haul routes are simpler, but the consequences of failure are heavier.",
+      "3. The Real Cost Curve\n\nGM's autonomy failure wasn't measured in lost clicks or press cycles. It was measured in injuries, recalls, and trust that never came back.",
+      "4. Perfection Is A Filter\n\nHigh-stakes autonomy forces teams to reject 'good enough' models. A 95% accurate system is useless when the remaining 5% means a crash.",
+      "5. Pick Your Hard Problem\n\nChoose one task where failure is unacceptable and demand perfection from your AI today. Does your current setup survive that test, or does it need a rebuild?"
+    ],
+    "video_script": [
+      "Your AI has zero room for error.",
+      "Shield AI flies without GPS in combat.",
+      "Waabi chose trucking, not robotaxis.",
+      "GM's failure cost wasn't clicks, it was lives.",
+      "Pick one hard task and demand perfection."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. No Room For Error\n\nShield AI sent autonomous jets into combat conditions without GPS. When the signal dies, the software has to make the call alone.",
+          "2. Trucking Before Taxis\n\nWaabi deliberately skipped robotaxis and pointed its self-driving stack at freight. Long-haul routes are simpler, but the consequences of failure are heavier.",
+          "3. The Real Cost Curve\n\nGM's autonomy failure wasn't measured in lost clicks or press cycles. It was measured in injuries, recalls, and trust that never came back.",
+          "4. Perfection Is A Filter\n\nHigh-stakes autonomy forces teams to reject 'good enough' models. A 95% accurate system is useless when the remaining 5% means a crash.",
+          "5. Pick Your Hard Problem\n\nChoose one task where failure is unacceptable and demand perfection from your AI today. Does your current setup survive that test, or does it need a rebuild?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your AI has zero room for error.",
+          "Shield AI flies without GPS in combat.",
+          "Waabi chose trucking, not robotaxis.",
+          "GM's failure cost wasn't clicks, it was lives.",
+          "Pick one hard task and demand perfection."
+        ]
+      },
+      "instagram": {
+        "caption": "Your self-driving car can hallucinate and kill someone. That's the bar GM is talking about.\n\nAt TechCrunch Disrupt 2026, Shield AI, Waabi and GM explained why autonomy in combat, freight and cars leaves zero margin for error. Shield AI flies jets without GPS; Waabi skipped robotaxis for trucking; GM measures failure in lives, not clicks. 📉\n\nA 95% accurate model is useless when the missing 5% is a crash. ⚠️\n\nIf you ship AI features, this applies to you: \"good enough\" breaks down the moment a human is on the other end of the output. 🛠️\n\nPick one high-stakes task you automate today. Would you bet a life on it? 🚚"
+      }
+    },
+    "instagram_caption": "Your self-driving car can hallucinate and kill someone. That's the bar GM is talking about.\n\nAt TechCrunch Disrupt 2026, Shield AI, Waabi and GM explained why autonomy in combat, freight and cars leaves zero margin for error. Shield AI flies jets without GPS; Waabi skipped robotaxis for trucking; GM measures failure in lives, not clicks. 📉\n\nA 95% accurate model is useless when the missing 5% is a crash. ⚠️\n\nIf you ship AI features, this applies to you: \"good enough\" breaks down the moment a human is on the other end of the output. 🛠️\n\nPick one high-stakes task you automate today. Would you bet a life on it? 🚚",
+    "carousel_slides": [
+      {
+        "hook": "What if your AI has zero room for error?",
+        "description": "Shield AI sent autonomous jets into combat without GPS. When the signal dies, software must decide alone.",
+        "visual_hint": "Jet cockpit with glowing HUD",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "fighter jet cockpit"
+      },
+      {
+        "hook": "No GPS, no problem?",
+        "description": "Shield AI tested autonomy in combat conditions without GPS, where failure means lives lost and no second chance.",
+        "visual_hint": "Soldier using tablet in field",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "soldier tablet field",
+        "image": "https://images.pexels.com/photos/33353695/pexels-photo-33353695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Trucking before taxis: smarter order?",
+        "description": "Waabi skipped robotaxis to solve freight first. Long-haul is simpler but failure carries heavier consequences.",
+        "visual_hint": "Autonomous truck on highway",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "semi truck highway",
+        "image": "https://images.pexels.com/photos/5696170/pexels-photo-5696170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "When failure costs lives, not clicks",
+        "description": "GM's autonomy failure meant injuries and recalls, not just lost clicks. Trust never came back.",
+        "visual_hint": "Car crash test dummies",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "crash test dummy",
+        "image": "https://images.pexels.com/photos/13417377/pexels-photo-13417377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Demand perfection from your AI today",
+        "description": "Pick one high-stakes task where failure is unacceptable. Does your current setup survive? Test it now.",
+        "visual_hint": "Checklist with red X mark",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist failure mark",
+        "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Urtasun-Michael-Taylor_16x9-Dark.png?resize=1200,675",
+    "savedAt": "2026-09-24T22:51:10.931Z",
+    "sourceId": "f21d9280b33cca9841508a567c527e89"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-photos-clueless-inspired-virtual-closet-is-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+    "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+    "pubDate": "Thu, 24 Sep 2026 17:00:00 +0000",
+    "slides": [
+      "Google Photos wants to be your personal stylist?",
+      "It scans your photos to build a virtual closet.",
+      "But it may not understand your unique style.",
+      "Now you can access it on Android and iOS.",
+      "Try it and see if it actually helps."
+    ],
+    "thread_text": [
+      "1. Your Photos, Styled?\n\nGoogle Photos now scans your library to build a virtual closet. It might just become your personal stylist.",
+      "2. Closet in the Cloud\n\nThe feature pulls clothing items from your photos. No manual tagging needed.",
+      "3. A Style Blind Spot\n\nIt may not grasp your unique taste. Algorithmic suggestions can miss the mark.",
+      "4. Now on Your Phone\n\nAndroid and iOS users can access it today. The rollout is live.",
+      "5. Test It Yourself\n\nTry it on your next outfit photo. Does it actually help, or just add noise?"
+    ],
+    "video_script": [
+      "Google Photos wants to be your stylist.",
+      "It scans your photos to build a virtual closet.",
+      "But it may not get your unique style.",
+      "Now available on Android and iOS.",
+      "Try it and see if it helps."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your Photos, Styled?\n\nGoogle Photos now scans your library to build a virtual closet. It might just become your personal stylist.",
+          "2. Closet in the Cloud\n\nThe feature pulls clothing items from your photos. No manual tagging needed.",
+          "3. A Style Blind Spot\n\nIt may not grasp your unique taste. Algorithmic suggestions can miss the mark.",
+          "4. Now on Your Phone\n\nAndroid and iOS users can access it today. The rollout is live.",
+          "5. Test It Yourself\n\nTry it on your next outfit photo. Does it actually help, or just add noise?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google Photos wants to be your stylist.",
+          "It scans your photos to build a virtual closet.",
+          "But it may not get your unique style.",
+          "Now available on Android and iOS.",
+          "Try it and see if it helps."
+        ]
+      },
+      "instagram": {
+        "caption": "You upload an outfit photo, and Google Photos quietly adds it to a virtual closet. 👗\n\nThe feature scans your library and pulls out clothing items automatically — no manual tagging.\n\nBut it may misread your taste, so its suggestions can miss the mark.\n\nIt's now live on both Android and iOS.\n\nIf you post outfit content, your camera roll just became a styling tool you didn't ask for. 📸\n\nOpen the app and check if your closet already exists — does it actually get your style, or just guess? 🤔"
+      }
+    },
+    "instagram_caption": "You upload an outfit photo, and Google Photos quietly adds it to a virtual closet. 👗\n\nThe feature scans your library and pulls out clothing items automatically — no manual tagging.\n\nBut it may misread your taste, so its suggestions can miss the mark.\n\nIt's now live on both Android and iOS.\n\nIf you post outfit content, your camera roll just became a styling tool you didn't ask for. 📸\n\nOpen the app and check if your closet already exists — does it actually get your style, or just guess? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Does AI really get your style?",
+        "description": "Google Photos scans your library to build a virtual closet, but algorithmic suggestions might miss your unique taste entirely.",
+        "visual_hint": "Confused person looking at clothes",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "clothing rack"
+      },
+      {
+        "hook": "Your closet, built from photos",
+        "description": "The feature pulls clothing items from your photos with no manual tagging needed. Your entire wardrobe, automatically organized.",
+        "visual_hint": "Smartphone scanning clothing photos",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone gallery",
+        "image": "https://images.pexels.com/photos/8319664/pexels-photo-8319664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Algorithms might miss your taste",
+        "description": "It may not grasp your unique style. Algorithmic suggestions can overlook personal preferences and miss the mark completely.",
+        "visual_hint": "Algorithm data visualization abstract",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data visualization",
+        "image": "https://images.pexels.com/photos/7948065/pexels-photo-7948065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Now live on Android and iOS",
+        "description": "Android and iOS users can access the virtual closet today. The rollout is live and available for download now.",
+        "visual_hint": "Hand holding phone with app",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "mobile app",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try it and judge yourself",
+        "description": "Test it on your next outfit photo. Does it actually help, or just add noise? Save this and share your results.",
+        "visual_hint": "Person taking outfit selfie",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "outfit selfie",
+        "image": "https://images.pexels.com/photos/13929270/pexels-photo-13929270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/clueless-closet.webp?w=1200",
+    "savedAt": "2026-09-24T22:51:01.546Z",
+    "sourceId": "1ac6e3fa768eb33f658dbaa6549a5fd1"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "meta-is-going-to-let-you-build-games-with-ai-right",
     "prompt_version": "1.0.0",
     "status": "published",

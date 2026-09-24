@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "shield-ai-waabi-and-general-motors-on-building-ai-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+  "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
+  "pubDate": "Thu, 24 Sep 2026 15:00:00 +0000",
+  "slides": [
+    "What if your AI has zero room for error?",
+    "Shield AI tests autonomy in combat without GPS",
+    "Waabi skips robotaxis to solve trucking first",
+    "GM's failure cost isn't clicks—it's lives",
+    "Pick one high-stakes task and demand perfection today"
+  ],
+  "thread_text": [
+    "1. No Room For Error\n\nShield AI sent autonomous jets into combat conditions without GPS. When the signal dies, the software has to make the call alone.",
+    "2. Trucking Before Taxis\n\nWaabi deliberately skipped robotaxis and pointed its self-driving stack at freight. Long-haul routes are simpler, but the consequences of failure are heavier.",
+    "3. The Real Cost Curve\n\nGM's autonomy failure wasn't measured in lost clicks or press cycles. It was measured in injuries, recalls, and trust that never came back.",
+    "4. Perfection Is A Filter\n\nHigh-stakes autonomy forces teams to reject 'good enough' models. A 95% accurate system is useless when the remaining 5% means a crash.",
+    "5. Pick Your Hard Problem\n\nChoose one task where failure is unacceptable and demand perfection from your AI today. Does your current setup survive that test, or does it need a rebuild?"
+  ],
+  "video_script": [
+    "Your AI has zero room for error.",
+    "Shield AI flies without GPS in combat.",
+    "Waabi chose trucking, not robotaxis.",
+    "GM's failure cost wasn't clicks, it was lives.",
+    "Pick one hard task and demand perfection."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. No Room For Error\n\nShield AI sent autonomous jets into combat conditions without GPS. When the signal dies, the software has to make the call alone.",
+        "2. Trucking Before Taxis\n\nWaabi deliberately skipped robotaxis and pointed its self-driving stack at freight. Long-haul routes are simpler, but the consequences of failure are heavier.",
+        "3. The Real Cost Curve\n\nGM's autonomy failure wasn't measured in lost clicks or press cycles. It was measured in injuries, recalls, and trust that never came back.",
+        "4. Perfection Is A Filter\n\nHigh-stakes autonomy forces teams to reject 'good enough' models. A 95% accurate system is useless when the remaining 5% means a crash.",
+        "5. Pick Your Hard Problem\n\nChoose one task where failure is unacceptable and demand perfection from your AI today. Does your current setup survive that test, or does it need a rebuild?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your AI has zero room for error.",
+        "Shield AI flies without GPS in combat.",
+        "Waabi chose trucking, not robotaxis.",
+        "GM's failure cost wasn't clicks, it was lives.",
+        "Pick one hard task and demand perfection."
+      ]
+    },
+    "instagram": {
+      "caption": "Your self-driving car can hallucinate and kill someone. That's the bar GM is talking about.\n\nAt TechCrunch Disrupt 2026, Shield AI, Waabi and GM explained why autonomy in combat, freight and cars leaves zero margin for error. Shield AI flies jets without GPS; Waabi skipped robotaxis for trucking; GM measures failure in lives, not clicks. 📉\n\nA 95% accurate model is useless when the missing 5% is a crash. ⚠️\n\nIf you ship AI features, this applies to you: \"good enough\" breaks down the moment a human is on the other end of the output. 🛠️\n\nPick one high-stakes task you automate today. Would you bet a life on it? 🚚"
+    }
+  },
+  "instagram_caption": "Your self-driving car can hallucinate and kill someone. That's the bar GM is talking about.\n\nAt TechCrunch Disrupt 2026, Shield AI, Waabi and GM explained why autonomy in combat, freight and cars leaves zero margin for error. Shield AI flies jets without GPS; Waabi skipped robotaxis for trucking; GM measures failure in lives, not clicks. 📉\n\nA 95% accurate model is useless when the missing 5% is a crash. ⚠️\n\nIf you ship AI features, this applies to you: \"good enough\" breaks down the moment a human is on the other end of the output. 🛠️\n\nPick one high-stakes task you automate today. Would you bet a life on it? 🚚",
+  "carousel_slides": [
+    {
+      "hook": "What if your AI has zero room for error?",
+      "description": "Shield AI sent autonomous jets into combat without GPS. When the signal dies, software must decide alone.",
+      "visual_hint": "Jet cockpit with glowing HUD",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "fighter jet cockpit"
+    },
+    {
+      "hook": "No GPS, no problem?",
+      "description": "Shield AI tested autonomy in combat conditions without GPS, where failure means lives lost and no second chance.",
+      "visual_hint": "Soldier using tablet in field",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "soldier tablet field",
+      "image": "https://images.pexels.com/photos/33353695/pexels-photo-33353695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trucking before taxis: smarter order?",
+      "description": "Waabi skipped robotaxis to solve freight first. Long-haul is simpler but failure carries heavier consequences.",
+      "visual_hint": "Autonomous truck on highway",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "semi truck highway",
+      "image": "https://images.pexels.com/photos/5696170/pexels-photo-5696170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "When failure costs lives, not clicks",
+      "description": "GM's autonomy failure meant injuries and recalls, not just lost clicks. Trust never came back.",
+      "visual_hint": "Car crash test dummies",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "crash test dummy",
+      "image": "https://images.pexels.com/photos/13417377/pexels-photo-13417377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demand perfection from your AI today",
+      "description": "Pick one high-stakes task where failure is unacceptable. Does your current setup survive? Test it now.",
+      "visual_hint": "Checklist with red X mark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist failure mark",
+      "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Urtasun-Michael-Taylor_16x9-Dark.png?resize=1200,675",
+  "savedAt": "2026-09-24T22:51:10.931Z",
+  "sourceId": "f21d9280b33cca9841508a567c527e89"
+}

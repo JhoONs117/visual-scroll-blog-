@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "gemini-can-now-call-businesses-for-you-so-you-don-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+  "pubDate": "2026-09-24T16:04:31.000Z",
+  "slides": [
+    "What if you never had to wait on hold again?",
+    "Gemini can now call businesses on your behalf.",
+    "It handles real-time conversations, not just scripted menus.",
+    "You can delegate calls to book appointments or check hours.",
+    "Try it next time you're stuck on hold."
+  ],
+  "thread_text": [
+    "1. Never Wait On Hold Again\n\nGoogle's Gemini can now call businesses for you. It handles real-time conversations, so you don't have to.",
+    "2. Real Conversations, Not Menus\n\nIt navigates natural dialogue instead of rigid phone trees. That means no more pressing 1 for hours.",
+    "3. Your Personal Caller\n\nDelegate tasks like booking appointments or checking hours. Gemini does the talking while you focus on other things.",
+    "4. The End of Hold Music\n\nImagine skipping the queue entirely. This isn't a scripted bot—it's AI that understands and responds live.",
+    "5. Test It Yourself\n\nNext time you're stuck on hold, try Gemini. Does it save you time, or create new hassles? Try it on a real call this week."
+  ],
+  "video_script": [
+    "What if you never waited on hold again?",
+    "Gemini now calls businesses for you.",
+    "It handles real-time conversations, not menus.",
+    "Delegate calls to book appointments or check hours.",
+    "Try it next time you're stuck on hold."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Never Wait On Hold Again\n\nGoogle's Gemini can now call businesses for you. It handles real-time conversations, so you don't have to.",
+        "2. Real Conversations, Not Menus\n\nIt navigates natural dialogue instead of rigid phone trees. That means no more pressing 1 for hours.",
+        "3. Your Personal Caller\n\nDelegate tasks like booking appointments or checking hours. Gemini does the talking while you focus on other things.",
+        "4. The End of Hold Music\n\nImagine skipping the queue entirely. This isn't a scripted bot—it's AI that understands and responds live.",
+        "5. Test It Yourself\n\nNext time you're stuck on hold, try Gemini. Does it save you time, or create new hassles? Try it on a real call this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "What if you never waited on hold again?",
+        "Gemini now calls businesses for you.",
+        "It handles real-time conversations, not menus.",
+        "Delegate calls to book appointments or check hours.",
+        "Try it next time you're stuck on hold."
+      ]
+    },
+    "instagram": {
+      "caption": "You can hand your phone a task and skip the hold queue entirely. 📞\n\nGoogle's Gemini can now call businesses on your behalf. It holds real back-and-forth conversations instead of just punching through scripted menus.\n\nYou can send it to book an appointment or check opening hours while you keep working.\n\nIf you run a small business, this means customer calls land on an assistant that talks, not a voicemail you'll never return. 👀\n\nNext time a call puts you on hold, will you let Gemini take it or keep waiting? 🤔"
+    }
+  },
+  "instagram_caption": "You can hand your phone a task and skip the hold queue entirely. 📞\n\nGoogle's Gemini can now call businesses on your behalf. It holds real back-and-forth conversations instead of just punching through scripted menus.\n\nYou can send it to book an appointment or check opening hours while you keep working.\n\nIf you run a small business, this means customer calls land on an assistant that talks, not a voicemail you'll never return. 👀\n\nNext time a call puts you on hold, will you let Gemini take it or keep waiting? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Still wasting hours on hold?",
+      "description": "Gemini now makes calls for you, handling real-time conversations instead of rigid menu trees. No more pressing one for hours.",
+      "visual_hint": "Phone screen showing active AI call",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone call screen"
+    },
+    {
+      "hook": "AI that actually talks back",
+      "description": "Gemini navigates natural dialogue, not scripted phone menus. It understands and responds live, like a human assistant.",
+      "visual_hint": "Waveform visual with chat bubbles",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "voice waveform",
+      "image": "https://images.pexels.com/photos/6892890/pexels-photo-6892890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your personal caller is here",
+      "description": "Delegate appointments or hours checks to Gemini. It does the talking while you focus on what actually matters.",
+      "visual_hint": "Hand holding phone with calendar",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "calendar appointment",
+      "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Skip the queue entirely",
+      "description": "This isn't a scripted bot. Gemini handles live calls, so you can bypass hold music and get straight to results.",
+      "visual_hint": "Phone with no waiting icon",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office phone desk",
+      "image": "https://images.pexels.com/photos/10104938/pexels-photo-10104938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it on your next call",
+      "description": "Next time you're stuck on hold, let Gemini dial. Save this post and test it on a real call this week.",
+      "visual_hint": "Phone with checkmark and arrow",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person making call",
+      "image": "https://images.pexels.com/photos/4240540/pexels-photo-4240540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-Using-On-Ear.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.735179330127%2C100%2C78.529641339745&amp;w=1200",
+  "savedAt": "2026-09-24T22:51:27.002Z",
+  "sourceId": "61c5a5ca4752ef2518476be75692d203"
+}

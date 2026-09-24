@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-photos-clueless-inspired-virtual-closet-is-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+  "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+  "pubDate": "Thu, 24 Sep 2026 17:00:00 +0000",
+  "slides": [
+    "Google Photos wants to be your personal stylist?",
+    "It scans your photos to build a virtual closet.",
+    "But it may not understand your unique style.",
+    "Now you can access it on Android and iOS.",
+    "Try it and see if it actually helps."
+  ],
+  "thread_text": [
+    "1. Your Photos, Styled?\n\nGoogle Photos now scans your library to build a virtual closet. It might just become your personal stylist.",
+    "2. Closet in the Cloud\n\nThe feature pulls clothing items from your photos. No manual tagging needed.",
+    "3. A Style Blind Spot\n\nIt may not grasp your unique taste. Algorithmic suggestions can miss the mark.",
+    "4. Now on Your Phone\n\nAndroid and iOS users can access it today. The rollout is live.",
+    "5. Test It Yourself\n\nTry it on your next outfit photo. Does it actually help, or just add noise?"
+  ],
+  "video_script": [
+    "Google Photos wants to be your stylist.",
+    "It scans your photos to build a virtual closet.",
+    "But it may not get your unique style.",
+    "Now available on Android and iOS.",
+    "Try it and see if it helps."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your Photos, Styled?\n\nGoogle Photos now scans your library to build a virtual closet. It might just become your personal stylist.",
+        "2. Closet in the Cloud\n\nThe feature pulls clothing items from your photos. No manual tagging needed.",
+        "3. A Style Blind Spot\n\nIt may not grasp your unique taste. Algorithmic suggestions can miss the mark.",
+        "4. Now on Your Phone\n\nAndroid and iOS users can access it today. The rollout is live.",
+        "5. Test It Yourself\n\nTry it on your next outfit photo. Does it actually help, or just add noise?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google Photos wants to be your stylist.",
+        "It scans your photos to build a virtual closet.",
+        "But it may not get your unique style.",
+        "Now available on Android and iOS.",
+        "Try it and see if it helps."
+      ]
+    },
+    "instagram": {
+      "caption": "You upload an outfit photo, and Google Photos quietly adds it to a virtual closet. 👗\n\nThe feature scans your library and pulls out clothing items automatically — no manual tagging.\n\nBut it may misread your taste, so its suggestions can miss the mark.\n\nIt's now live on both Android and iOS.\n\nIf you post outfit content, your camera roll just became a styling tool you didn't ask for. 📸\n\nOpen the app and check if your closet already exists — does it actually get your style, or just guess? 🤔"
+    }
+  },
+  "instagram_caption": "You upload an outfit photo, and Google Photos quietly adds it to a virtual closet. 👗\n\nThe feature scans your library and pulls out clothing items automatically — no manual tagging.\n\nBut it may misread your taste, so its suggestions can miss the mark.\n\nIt's now live on both Android and iOS.\n\nIf you post outfit content, your camera roll just became a styling tool you didn't ask for. 📸\n\nOpen the app and check if your closet already exists — does it actually get your style, or just guess? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Does AI really get your style?",
+      "description": "Google Photos scans your library to build a virtual closet, but algorithmic suggestions might miss your unique taste entirely.",
+      "visual_hint": "Confused person looking at clothes",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "clothing rack"
+    },
+    {
+      "hook": "Your closet, built from photos",
+      "description": "The feature pulls clothing items from your photos with no manual tagging needed. Your entire wardrobe, automatically organized.",
+      "visual_hint": "Smartphone scanning clothing photos",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone gallery",
+      "image": "https://images.pexels.com/photos/8319664/pexels-photo-8319664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Algorithms might miss your taste",
+      "description": "It may not grasp your unique style. Algorithmic suggestions can overlook personal preferences and miss the mark completely.",
+      "visual_hint": "Algorithm data visualization abstract",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data visualization",
+      "image": "https://images.pexels.com/photos/7948065/pexels-photo-7948065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Now live on Android and iOS",
+      "description": "Android and iOS users can access the virtual closet today. The rollout is live and available for download now.",
+      "visual_hint": "Hand holding phone with app",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "mobile app",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it and judge yourself",
+      "description": "Test it on your next outfit photo. Does it actually help, or just add noise? Save this and share your results.",
+      "visual_hint": "Person taking outfit selfie",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "outfit selfie",
+      "image": "https://images.pexels.com/photos/13929270/pexels-photo-13929270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/04/clueless-closet.webp?w=1200",
+  "savedAt": "2026-09-24T22:51:01.546Z",
+  "sourceId": "1ac6e3fa768eb33f658dbaa6549a5fd1"
+}
