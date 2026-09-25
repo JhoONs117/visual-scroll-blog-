@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "it-s-sinister-that-meta-s-muse-ai-mascot-is-so-cut",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
+  "link": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
+  "pubDate": "2026-09-24T17:00:00.000Z",
+  "slides": [
+    "Meta's Muse AI mascot is cute. Why sinister?",
+    "Designers deliberately use cuteness to lower your guard.",
+    "You share more data with adorable interfaces without realizing.",
+    "Check your privacy settings for AI companions today.",
+    "Demand transparency: cuteness shouldn't hide data collection."
+  ],
+  "thread_text": [
+    "1. The Cute Data Trap\n\nMeta's new AI mascot was designed to feel harmless. That's exactly when you start sharing more than you planned.",
+    "2. Engineered Innocence\n\nDesigners know big eyes and soft voices lower your guard. It's not an accident — it's a conversion strategy.",
+    "3. Silent Over-Sharing\n\nYou reveal habits, contacts, and moods to adorable interfaces without a second thought. The data flows anyway.",
+    "4. Check Your AI Settings\n\nOpen your privacy dashboard for AI companions today. You might be surprised by what's already being collected.",
+    "5. Demand Clear Labels\n\nCuteness should never hide data collection. Ask for transparency — or turn the feature off."
+  ],
+  "video_script": [
+    "Meta's cute AI mascot might be hiding something.",
+    "Designers use cuteness to lower your guard.",
+    "You share more data with adorable interfaces without noticing.",
+    "Check your privacy settings for AI companions today.",
+    "Demand transparency: cuteness shouldn't hide data collection."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Cute Data Trap\n\nMeta's new AI mascot was designed to feel harmless. That's exactly when you start sharing more than you planned.",
+        "2. Engineered Innocence\n\nDesigners know big eyes and soft voices lower your guard. It's not an accident — it's a conversion strategy.",
+        "3. Silent Over-Sharing\n\nYou reveal habits, contacts, and moods to adorable interfaces without a second thought. The data flows anyway.",
+        "4. Check Your AI Settings\n\nOpen your privacy dashboard for AI companions today. You might be surprised by what's already being collected.",
+        "5. Demand Clear Labels\n\nCuteness should never hide data collection. Ask for transparency — or turn the feature off."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta's cute AI mascot might be hiding something.",
+        "Designers use cuteness to lower your guard.",
+        "You share more data with adorable interfaces without noticing.",
+        "Check your privacy settings for AI companions today.",
+        "Demand transparency: cuteness shouldn't hide data collection."
+      ]
+    },
+    "instagram": {
+      "caption": "Meta designed its new AI mascot Muse to look harmless on purpose.\n\nBig eyes and a soft voice aren't an accident. They're built to lower your guard so you share more.\n\nYou hand over habits, contacts, and moods to a cute face without a second thought. The data flows anyway. 🐣\n\nIf you publish or create, check your privacy dashboard for AI companions before you keep chatting. 👀\n\nCuteness shouldn't hide data collection.\n\nWill you open your settings today and see what's already been collected? 🔍"
+    }
+  },
+  "instagram_caption": "Meta designed its new AI mascot Muse to look harmless on purpose.\n\nBig eyes and a soft voice aren't an accident. They're built to lower your guard so you share more.\n\nYou hand over habits, contacts, and moods to a cute face without a second thought. The data flows anyway. 🐣\n\nIf you publish or create, check your privacy dashboard for AI companions before you keep chatting. 👀\n\nCuteness shouldn't hide data collection.\n\nWill you open your settings today and see what's already been collected? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Cute AI hides silent data collection",
+      "description": "Meta's Muse mascot feels harmless by design, so you share habits and moods more freely than intended.",
+      "visual_hint": "Soft glowing mascot face closeup",
+      "layout_type": "hero",
+      "icon": "heart",
+      "image_query": "chatbot interface screen"
+    },
+    {
+      "hook": "Big eyes are a conversion strategy",
+      "description": "Designers use soft voices and innocent expressions to lower your guard and boost engagement.",
+      "visual_hint": "Split screen: cute icon vs data graph",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "user interface design",
+      "image": "https://images.pexels.com/photos/3184455/pexels-photo-3184455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Adorable interfaces make you overshare",
+      "description": "You reveal contacts, routines, and emotions to friendly AI without thinking, while data flows anyway.",
+      "visual_hint": "Data streams flowing from smiling face",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "data center servers",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your privacy dashboard now",
+      "description": "Open AI companion settings today and review what personal data is already being collected about you.",
+      "visual_hint": "Hand tapping phone privacy menu",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "smartphone privacy settings",
+      "image": "https://images.pexels.com/photos/7241329/pexels-photo-7241329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next AI chat",
+      "description": "Demand clear labels on data collection, or turn the AI companion feature off entirely.",
+      "visual_hint": "Toggle switch next to warning label",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "privacy lock icon",
+      "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/jolly1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-25T02:38:56.893Z",
+  "sourceId": "de9785d00e47bbf16365ea510b6af63c"
+}
