@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "how-to-add-ai-to-legacy-software-without-rebuildin",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "How to Add AI to Legacy Software Without Rebuilding It",
+  "link": "https://www.artificialintelligence-news.com/news/how-to-add-ai-to-legacy-software-without-rebuilding-it/",
+  "pubDate": "Fri, 25 Sep 2026 07:43:32 +0000",
+  "slides": [
+    "Can your old software suddenly think?",
+    "Legacy systems run critical operations, but AI needs data access.",
+    "You don't have to rebuild to add intelligence.",
+    "Start with one API endpoint for AI insights.",
+    "Pick one workflow, add AI, measure results."
+  ],
+  "thread_text": [
+    "1. Wait, That Legacy System Can Think?\n\nThe average enterprise runs 900+ applications. Most of them were never built to share data with an AI model.",
+    "2. Data Is Trapped Inside\n\nAI needs to read and query live operational data. Your ERP and CRM were designed to lock that data in, not expose it.",
+    "3. No Rebuild Required\n\nYou don't need a six-month migration. You can add intelligence on top of what you already run, without touching the core.",
+    "4. One API Endpoint Is Enough\n\nExpose a single data stream to an AI service. That's the entire integration surface. No new database, no schema changes.",
+    "5. Pick One Workflow Today\n\nChoose a process that burns time every week. Add AI to that one step. Measure the hours saved before you scale."
+  ],
+  "video_script": [
+    "Your old software can suddenly think.",
+    "But AI needs access to your data.",
+    "You don't have to rebuild everything.",
+    "Start with one API endpoint.",
+    "Test one workflow, measure results."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Wait, That Legacy System Can Think?\n\nThe average enterprise runs 900+ applications. Most of them were never built to share data with an AI model.",
+        "2. Data Is Trapped Inside\n\nAI needs to read and query live operational data. Your ERP and CRM were designed to lock that data in, not expose it.",
+        "3. No Rebuild Required\n\nYou don't need a six-month migration. You can add intelligence on top of what you already run, without touching the core.",
+        "4. One API Endpoint Is Enough\n\nExpose a single data stream to an AI service. That's the entire integration surface. No new database, no schema changes.",
+        "5. Pick One Workflow Today\n\nChoose a process that burns time every week. Add AI to that one step. Measure the hours saved before you scale."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your old software can suddenly think.",
+        "But AI needs access to your data.",
+        "You don't have to rebuild everything.",
+        "Start with one API endpoint.",
+        "Test one workflow, measure results."
+      ]
+    },
+    "instagram": {
+      "caption": "The average enterprise runs 900+ applications, and most of them were never built to share data with an AI model.\n\nYour ERP and CRM were designed to lock data in, not expose it. That means AI can't read your live operational data unless you open a door.\n\nYou don't need a six-month migration. Expose one API endpoint, pick one workflow that burns time weekly, and measure the hours saved. 🔧\n\nThat's the entire integration surface — no new database, no schema changes. For anyone building or publishing content, this means you can add real intelligence to tools you already use, without starting over. 📊\n\nWhich workflow eats your week that AI could quietly handle? 🤔"
+    }
+  },
+  "instagram_caption": "The average enterprise runs 900+ applications, and most of them were never built to share data with an AI model.\n\nYour ERP and CRM were designed to lock data in, not expose it. That means AI can't read your live operational data unless you open a door.\n\nYou don't need a six-month migration. Expose one API endpoint, pick one workflow that burns time weekly, and measure the hours saved. 🔧\n\nThat's the entire integration surface — no new database, no schema changes. For anyone building or publishing content, this means you can add real intelligence to tools you already use, without starting over. 📊\n\nWhich workflow eats your week that AI could quietly handle? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can your old software suddenly think?",
+      "description": "Enterprises run 900+ apps built without AI data sharing. Adding intelligence doesn't require a six-month rebuild of your core systems.",
+      "visual_hint": "Circuit board glowing inside old computer",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer circuit board"
+    },
+    {
+      "hook": "Your critical data is trapped inside",
+      "description": "ERP and CRM systems lock operational data in. AI needs live access, but legacy architecture was never designed to expose it.",
+      "visual_hint": "Server room with locked data cables",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You don't have to rebuild anything",
+      "description": "Add intelligence on top of existing systems without touching the core. No migration, no disruption to critical daily operations.",
+      "visual_hint": "Layered architecture diagram on screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "software architecture diagram",
+      "image": "https://images.pexels.com/photos/4977409/pexels-photo-4977409.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One API endpoint is all you need",
+      "description": "Expose a single data stream to an AI service. No new database, no schema changes, just one integration point.",
+      "visual_hint": "Hand connecting cable to port",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "ethernet cable port",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pick one workflow today and save",
+      "description": "Choose a time-consuming process, add AI to that step, and measure hours saved before scaling further.",
+      "visual_hint": "Stopwatch on office desk",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stopwatch office desk",
+      "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/8108712/pexels-photo-8108712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-25T09:13:25.554Z",
+  "sourceId": "bfe4832a85969091977941221fdedafb"
+}

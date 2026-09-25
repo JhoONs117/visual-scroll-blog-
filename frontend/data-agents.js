@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "7-ai-powered-document-fraud-detection-tools-for-en",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "7 AI-Powered Document Fraud Detection Tools for Enterprise Onboarding",
+      "link": "https://www.artificialintelligence-news.com/news/7-ai-powered-document-fraud-detection-tools-for-enterprise-onboarding/",
+      "pubDate": "Fri, 25 Sep 2026 07:12:31 +0000",
+      "slides": [
+        "Can your onboarding process spot a forged document?",
+        "AI tools now detect fraud in seconds, not days",
+        "But they flag innocent errors as fraud too often",
+        "Review flagged cases manually before rejecting applicants",
+        "Test one tool on your worst fake ID case"
+      ],
+      "thread_text": [
+        "1. The 48-Hour Onboarding Gap\n\nA single forged utility bill slips through manual review, and a fraudster gets a corporate laptop by Friday. Your hiring team never sees it coming.",
+        "2. AI Flags Too Many Innocent Errors\n\nFalse positives hit 30% on blurry photos or nicknames. One rejected applicant was just a woman whose married name didn't match her ID.",
+        "3. The Manual Review Rule\n\nNever auto-reject a flagged case. A two-minute human check before the rejection email saves you from a discrimination lawsuit.",
+        "4. Test on Your Worst Fake\n\nTake the most obvious fake ID you've ever seen and run it through one AI tool. If it fails that, don't buy it.",
+        "5. Try This Today\n\nTake a real onboarding file from last month and run it through a free AI fraud detector. Did it flag anything you missed?"
+      ],
+      "video_script": [
+        "Your onboarding process might miss a forged document today.",
+        "AI tools now catch fraud in seconds, not days.",
+        "But they flag innocent errors as fraud too often.",
+        "Always review flagged cases manually before rejecting applicants.",
+        "Test one tool on your worst fake ID case."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The 48-Hour Onboarding Gap\n\nA single forged utility bill slips through manual review, and a fraudster gets a corporate laptop by Friday. Your hiring team never sees it coming.",
+            "2. AI Flags Too Many Innocent Errors\n\nFalse positives hit 30% on blurry photos or nicknames. One rejected applicant was just a woman whose married name didn't match her ID.",
+            "3. The Manual Review Rule\n\nNever auto-reject a flagged case. A two-minute human check before the rejection email saves you from a discrimination lawsuit.",
+            "4. Test on Your Worst Fake\n\nTake the most obvious fake ID you've ever seen and run it through one AI tool. If it fails that, don't buy it.",
+            "5. Try This Today\n\nTake a real onboarding file from last month and run it through a free AI fraud detector. Did it flag anything you missed?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your onboarding process might miss a forged document today.",
+            "AI tools now catch fraud in seconds, not days.",
+            "But they flag innocent errors as fraud too often.",
+            "Always review flagged cases manually before rejecting applicants.",
+            "Test one tool on your worst fake ID case."
+          ]
+        },
+        "instagram": {
+          "caption": "A forged utility bill gets someone a corporate laptop by Friday.\n\nAI tools can now spot document fraud in seconds instead of days. 🔍\n\nBut they also flag innocent mistakes as fraud in up to 30% of cases — like a married name that doesn't match the ID.\n\nThat means real applicants get rejected for nothing if no one checks.\n\nIf you hire or onboard people, never auto-reject a flagged case. A two-minute human review before that rejection email can save you a discrimination lawsuit. ⚠️\n\nTest one AI tool on the most obvious fake ID you've ever seen. If it misses that, don't buy it. ✅\n\nHave you ever run a real onboarding file through a fraud detector? What did it flag? 👀"
+        }
+      },
+      "instagram_caption": "A forged utility bill gets someone a corporate laptop by Friday.\n\nAI tools can now spot document fraud in seconds instead of days. 🔍\n\nBut they also flag innocent mistakes as fraud in up to 30% of cases — like a married name that doesn't match the ID.\n\nThat means real applicants get rejected for nothing if no one checks.\n\nIf you hire or onboard people, never auto-reject a flagged case. A two-minute human review before that rejection email can save you a discrimination lawsuit. ⚠️\n\nTest one AI tool on the most obvious fake ID you've ever seen. If it misses that, don't buy it. ✅\n\nHave you ever run a real onboarding file through a fraud detector? What did it flag? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Is your onboarding process missing forged documents?",
+          "description": "Manual review missed a forged utility bill; fraudster got a laptop by Friday. Your team never saw it coming.",
+          "visual_hint": "Split screen: real vs fake document",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "identity document closeup"
+        },
+        {
+          "hook": "AI detects fraud in seconds, not days",
+          "description": "AI tools now spot fraud in seconds, unlike manual review that takes days. Speed matters for enterprise onboarding.",
+          "visual_hint": "Clock with AI scanning document",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "clock technology abstract",
+          "image": "https://images.pexels.com/photos/17485607/pexels-photo-17485607.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "But AI flags innocent errors as fraud",
+          "description": "False positives hit 30% on blurry photos or nicknames. One woman was rejected due to married name mismatch.",
+          "visual_hint": "Red flag on blurry ID photo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "blurry document photo",
+          "image": "https://images.pexels.com/photos/6863174/pexels-photo-6863174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Never auto-reject flagged cases, review manually",
+          "description": "A two-minute human check before rejection saves you from discrimination lawsuits. Always review flagged cases manually.",
+          "visual_hint": "Person reviewing document on screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office worker computer screen",
+          "image": "https://images.pexels.com/photos/12903349/pexels-photo-12903349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one AI tool on your worst fake ID",
+          "description": "Run your most obvious fake ID through a free AI fraud detector. If it fails, don't buy it. Try today.",
+          "visual_hint": "Fake ID on scanner with AI overlay",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "fake id card",
+          "image": "https://images.pexels.com/photos/8830670/pexels-photo-8830670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5999873/pexels-photo-5999873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-09-25T09:13:34.420Z",
+      "sourceId": "a3167418a66616a7017ceb45f2231b7b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "how-to-add-ai-to-legacy-software-without-rebuildin",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "How to Add AI to Legacy Software Without Rebuilding It",
+      "link": "https://www.artificialintelligence-news.com/news/how-to-add-ai-to-legacy-software-without-rebuilding-it/",
+      "pubDate": "Fri, 25 Sep 2026 07:43:32 +0000",
+      "slides": [
+        "Can your old software suddenly think?",
+        "Legacy systems run critical operations, but AI needs data access.",
+        "You don't have to rebuild to add intelligence.",
+        "Start with one API endpoint for AI insights.",
+        "Pick one workflow, add AI, measure results."
+      ],
+      "thread_text": [
+        "1. Wait, That Legacy System Can Think?\n\nThe average enterprise runs 900+ applications. Most of them were never built to share data with an AI model.",
+        "2. Data Is Trapped Inside\n\nAI needs to read and query live operational data. Your ERP and CRM were designed to lock that data in, not expose it.",
+        "3. No Rebuild Required\n\nYou don't need a six-month migration. You can add intelligence on top of what you already run, without touching the core.",
+        "4. One API Endpoint Is Enough\n\nExpose a single data stream to an AI service. That's the entire integration surface. No new database, no schema changes.",
+        "5. Pick One Workflow Today\n\nChoose a process that burns time every week. Add AI to that one step. Measure the hours saved before you scale."
+      ],
+      "video_script": [
+        "Your old software can suddenly think.",
+        "But AI needs access to your data.",
+        "You don't have to rebuild everything.",
+        "Start with one API endpoint.",
+        "Test one workflow, measure results."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Wait, That Legacy System Can Think?\n\nThe average enterprise runs 900+ applications. Most of them were never built to share data with an AI model.",
+            "2. Data Is Trapped Inside\n\nAI needs to read and query live operational data. Your ERP and CRM were designed to lock that data in, not expose it.",
+            "3. No Rebuild Required\n\nYou don't need a six-month migration. You can add intelligence on top of what you already run, without touching the core.",
+            "4. One API Endpoint Is Enough\n\nExpose a single data stream to an AI service. That's the entire integration surface. No new database, no schema changes.",
+            "5. Pick One Workflow Today\n\nChoose a process that burns time every week. Add AI to that one step. Measure the hours saved before you scale."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your old software can suddenly think.",
+            "But AI needs access to your data.",
+            "You don't have to rebuild everything.",
+            "Start with one API endpoint.",
+            "Test one workflow, measure results."
+          ]
+        },
+        "instagram": {
+          "caption": "The average enterprise runs 900+ applications, and most of them were never built to share data with an AI model.\n\nYour ERP and CRM were designed to lock data in, not expose it. That means AI can't read your live operational data unless you open a door.\n\nYou don't need a six-month migration. Expose one API endpoint, pick one workflow that burns time weekly, and measure the hours saved. 🔧\n\nThat's the entire integration surface — no new database, no schema changes. For anyone building or publishing content, this means you can add real intelligence to tools you already use, without starting over. 📊\n\nWhich workflow eats your week that AI could quietly handle? 🤔"
+        }
+      },
+      "instagram_caption": "The average enterprise runs 900+ applications, and most of them were never built to share data with an AI model.\n\nYour ERP and CRM were designed to lock data in, not expose it. That means AI can't read your live operational data unless you open a door.\n\nYou don't need a six-month migration. Expose one API endpoint, pick one workflow that burns time weekly, and measure the hours saved. 🔧\n\nThat's the entire integration surface — no new database, no schema changes. For anyone building or publishing content, this means you can add real intelligence to tools you already use, without starting over. 📊\n\nWhich workflow eats your week that AI could quietly handle? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Can your old software suddenly think?",
+          "description": "Enterprises run 900+ apps built without AI data sharing. Adding intelligence doesn't require a six-month rebuild of your core systems.",
+          "visual_hint": "Circuit board glowing inside old computer",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer circuit board"
+        },
+        {
+          "hook": "Your critical data is trapped inside",
+          "description": "ERP and CRM systems lock operational data in. AI needs live access, but legacy architecture was never designed to expose it.",
+          "visual_hint": "Server room with locked data cables",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "You don't have to rebuild anything",
+          "description": "Add intelligence on top of existing systems without touching the core. No migration, no disruption to critical daily operations.",
+          "visual_hint": "Layered architecture diagram on screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "software architecture diagram",
+          "image": "https://images.pexels.com/photos/4977409/pexels-photo-4977409.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One API endpoint is all you need",
+          "description": "Expose a single data stream to an AI service. No new database, no schema changes, just one integration point.",
+          "visual_hint": "Hand connecting cable to port",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "ethernet cable port",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pick one workflow today and save",
+          "description": "Choose a time-consuming process, add AI to that step, and measure hours saved before scaling further.",
+          "visual_hint": "Stopwatch on office desk",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "stopwatch office desk",
+          "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8108712/pexels-photo-8108712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-09-25T09:13:25.554Z",
+      "sourceId": "bfe4832a85969091977941221fdedafb"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "the-gpu-shortage-inside-your-own-infrastructure-wh",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The GPU Shortage Inside Your Own Infrastructure: Why AI Workloads Queue While Capacity Sits Idle",
+      "link": "https://www.artificialintelligence-news.com/news/the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits-idle/",
+      "pubDate": "Fri, 25 Sep 2026 08:03:06 +0000",
+      "slides": [
+        "Your GPUs sit idle while AI jobs queue. Why?",
+        "Schedulers treat AI like batch jobs, not compute-hungry tenants",
+        "But the bottleneck isn't hardware—it's resource fragmentation",
+        "Reclaim stranded GPU memory with smarter bin-packing today",
+        "Audit your scheduler before buying another GPU"
+      ],
+      "thread_text": [
+        "1. Your GPUs Are Waiting\n\nYour AI jobs don't run because the hardware is broken. They queue because schedulers treat them like batch jobs, leaving compute stranded.",
+        "2. Schedulers Are the Problem\n\nAI workloads need continuous compute, not batch slots. Legacy schedulers kill utilization by design.",
+        "3. Fragmentation Kills More Than Hardware\n\nYou don't need more GPUs. You need smarter bin-packing to reclaim stranded memory across nodes.",
+        "4. Reclaim Stranded Memory Now\n\nBin-packing reallocates idle GPU memory without new hardware. Audit your current utilization today.",
+        "5. Audit Before You Buy\n\nCheck your scheduler's fragmentation rate before your next GPU purchase. If it's above 20%, fix that first."
+      ],
+      "video_script": [
+        "Your GPUs sit idle while AI jobs queue.",
+        "Schedulers treat AI like batch jobs, not compute tenants.",
+        "The bottleneck isn't hardware, it's resource fragmentation.",
+        "Reclaim stranded GPU memory with smarter bin-packing today.",
+        "Audit your scheduler before buying another GPU."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your GPUs Are Waiting\n\nYour AI jobs don't run because the hardware is broken. They queue because schedulers treat them like batch jobs, leaving compute stranded.",
+            "2. Schedulers Are the Problem\n\nAI workloads need continuous compute, not batch slots. Legacy schedulers kill utilization by design.",
+            "3. Fragmentation Kills More Than Hardware\n\nYou don't need more GPUs. You need smarter bin-packing to reclaim stranded memory across nodes.",
+            "4. Reclaim Stranded Memory Now\n\nBin-packing reallocates idle GPU memory without new hardware. Audit your current utilization today.",
+            "5. Audit Before You Buy\n\nCheck your scheduler's fragmentation rate before your next GPU purchase. If it's above 20%, fix that first."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your GPUs sit idle while AI jobs queue.",
+            "Schedulers treat AI like batch jobs, not compute tenants.",
+            "The bottleneck isn't hardware, it's resource fragmentation.",
+            "Reclaim stranded GPU memory with smarter bin-packing today.",
+            "Audit your scheduler before buying another GPU."
+          ]
+        },
+        "instagram": {
+          "caption": "Your AI jobs are stuck in a queue while the graphics chips you already pay for sit at half capacity.\n\nIt's not a hardware failure. Schedulers still treat AI tasks like batch jobs, so compute gets stranded across nodes.\n\nThe real problem is fragmentation, not a shortage: memory sits idle on one machine while jobs wait on another.\n\nIf you build or ship anything with AI, smarter bin-packing can reclaim that memory without buying a single new card. 🔧\n\nCheck your scheduler's fragmentation rate before your next purchase. If it's above 20%, fix that first. 📊\n\nSo what's your number right now? 🤔"
+        }
+      },
+      "instagram_caption": "Your AI jobs are stuck in a queue while the graphics chips you already pay for sit at half capacity.\n\nIt's not a hardware failure. Schedulers still treat AI tasks like batch jobs, so compute gets stranded across nodes.\n\nThe real problem is fragmentation, not a shortage: memory sits idle on one machine while jobs wait on another.\n\nIf you build or ship anything with AI, smarter bin-packing can reclaim that memory without buying a single new card. 🔧\n\nCheck your scheduler's fragmentation rate before your next purchase. If it's above 20%, fix that first. 📊\n\nSo what's your number right now? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Your GPUs wait while AI jobs queue",
+          "description": "GPUs sit idle because schedulers treat AI like batch jobs, leaving compute capacity stranded and unusable.",
+          "visual_hint": "Idle GPU server racks glowing softly",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "data center servers"
+        },
+        {
+          "hook": "Schedulers are the hidden bottleneck",
+          "description": "Legacy schedulers assign batch slots, not continuous compute. AI workloads starve while hardware utilization collapses by design.",
+          "visual_hint": "Scheduler interface with stalled job queues",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "network operations center",
+          "image": "https://images.pexels.com/photos/5408005/pexels-photo-5408005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fragmentation wastes more than hardware",
+          "description": "Stranded GPU memory across nodes causes queues. Smarter bin-packing reclaims capacity without buying new hardware.",
+          "visual_hint": "Fragmented memory blocks across GPU nodes",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "circuit board macro",
+          "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Reclaim stranded GPU memory today",
+          "description": "Bin-packing reallocates idle GPU memory without new hardware. Audit current utilization to recover wasted compute now.",
+          "visual_hint": "Hand adjusting server rack cables",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "server rack cables",
+          "image": "https://images.pexels.com/photos/15559038/pexels-photo-15559038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your scheduler before buying GPUs",
+          "description": "Check fragmentation rate first. If above 20%, fix scheduling before spending on new hardware. Save this for later.",
+          "visual_hint": "Dashboard showing GPU utilization metrics",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "performance dashboard monitor",
+          "image": "https://images.pexels.com/photos/19754775/pexels-photo-19754775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-09-25T09:13:16.275Z",
+      "sourceId": "13932f8d5fda3a4e1ed0c4fdf587e7e7"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "it-s-sinister-that-meta-s-muse-ai-mascot-is-so-cut",
       "prompt_version": "1.0.0",
       "status": "published",

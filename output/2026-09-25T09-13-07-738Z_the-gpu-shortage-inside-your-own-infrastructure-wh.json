@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-gpu-shortage-inside-your-own-infrastructure-wh",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The GPU Shortage Inside Your Own Infrastructure: Why AI Workloads Queue While Capacity Sits Idle",
+  "link": "https://www.artificialintelligence-news.com/news/the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits-idle/",
+  "pubDate": "Fri, 25 Sep 2026 08:03:06 +0000",
+  "slides": [
+    "Your GPUs sit idle while AI jobs queue. Why?",
+    "Schedulers treat AI like batch jobs, not compute-hungry tenants",
+    "But the bottleneck isn't hardware—it's resource fragmentation",
+    "Reclaim stranded GPU memory with smarter bin-packing today",
+    "Audit your scheduler before buying another GPU"
+  ],
+  "thread_text": [
+    "1. Your GPUs Are Waiting\n\nYour AI jobs don't run because the hardware is broken. They queue because schedulers treat them like batch jobs, leaving compute stranded.",
+    "2. Schedulers Are the Problem\n\nAI workloads need continuous compute, not batch slots. Legacy schedulers kill utilization by design.",
+    "3. Fragmentation Kills More Than Hardware\n\nYou don't need more GPUs. You need smarter bin-packing to reclaim stranded memory across nodes.",
+    "4. Reclaim Stranded Memory Now\n\nBin-packing reallocates idle GPU memory without new hardware. Audit your current utilization today.",
+    "5. Audit Before You Buy\n\nCheck your scheduler's fragmentation rate before your next GPU purchase. If it's above 20%, fix that first."
+  ],
+  "video_script": [
+    "Your GPUs sit idle while AI jobs queue.",
+    "Schedulers treat AI like batch jobs, not compute tenants.",
+    "The bottleneck isn't hardware, it's resource fragmentation.",
+    "Reclaim stranded GPU memory with smarter bin-packing today.",
+    "Audit your scheduler before buying another GPU."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your GPUs Are Waiting\n\nYour AI jobs don't run because the hardware is broken. They queue because schedulers treat them like batch jobs, leaving compute stranded.",
+        "2. Schedulers Are the Problem\n\nAI workloads need continuous compute, not batch slots. Legacy schedulers kill utilization by design.",
+        "3. Fragmentation Kills More Than Hardware\n\nYou don't need more GPUs. You need smarter bin-packing to reclaim stranded memory across nodes.",
+        "4. Reclaim Stranded Memory Now\n\nBin-packing reallocates idle GPU memory without new hardware. Audit your current utilization today.",
+        "5. Audit Before You Buy\n\nCheck your scheduler's fragmentation rate before your next GPU purchase. If it's above 20%, fix that first."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your GPUs sit idle while AI jobs queue.",
+        "Schedulers treat AI like batch jobs, not compute tenants.",
+        "The bottleneck isn't hardware, it's resource fragmentation.",
+        "Reclaim stranded GPU memory with smarter bin-packing today.",
+        "Audit your scheduler before buying another GPU."
+      ]
+    },
+    "instagram": {
+      "caption": "Your AI jobs are stuck in a queue while the graphics chips you already pay for sit at half capacity.\n\nIt's not a hardware failure. Schedulers still treat AI tasks like batch jobs, so compute gets stranded across nodes.\n\nThe real problem is fragmentation, not a shortage: memory sits idle on one machine while jobs wait on another.\n\nIf you build or ship anything with AI, smarter bin-packing can reclaim that memory without buying a single new card. 🔧\n\nCheck your scheduler's fragmentation rate before your next purchase. If it's above 20%, fix that first. 📊\n\nSo what's your number right now? 🤔"
+    }
+  },
+  "instagram_caption": "Your AI jobs are stuck in a queue while the graphics chips you already pay for sit at half capacity.\n\nIt's not a hardware failure. Schedulers still treat AI tasks like batch jobs, so compute gets stranded across nodes.\n\nThe real problem is fragmentation, not a shortage: memory sits idle on one machine while jobs wait on another.\n\nIf you build or ship anything with AI, smarter bin-packing can reclaim that memory without buying a single new card. 🔧\n\nCheck your scheduler's fragmentation rate before your next purchase. If it's above 20%, fix that first. 📊\n\nSo what's your number right now? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Your GPUs wait while AI jobs queue",
+      "description": "GPUs sit idle because schedulers treat AI like batch jobs, leaving compute capacity stranded and unusable.",
+      "visual_hint": "Idle GPU server racks glowing softly",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "data center servers"
+    },
+    {
+      "hook": "Schedulers are the hidden bottleneck",
+      "description": "Legacy schedulers assign batch slots, not continuous compute. AI workloads starve while hardware utilization collapses by design.",
+      "visual_hint": "Scheduler interface with stalled job queues",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "network operations center",
+      "image": "https://images.pexels.com/photos/5408005/pexels-photo-5408005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fragmentation wastes more than hardware",
+      "description": "Stranded GPU memory across nodes causes queues. Smarter bin-packing reclaims capacity without buying new hardware.",
+      "visual_hint": "Fragmented memory blocks across GPU nodes",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "circuit board macro",
+      "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Reclaim stranded GPU memory today",
+      "description": "Bin-packing reallocates idle GPU memory without new hardware. Audit current utilization to recover wasted compute now.",
+      "visual_hint": "Hand adjusting server rack cables",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "server rack cables",
+      "image": "https://images.pexels.com/photos/15559038/pexels-photo-15559038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your scheduler before buying GPUs",
+      "description": "Check fragmentation rate first. If above 20%, fix scheduling before spending on new hardware. Save this for later.",
+      "visual_hint": "Dashboard showing GPU utilization metrics",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "performance dashboard monitor",
+      "image": "https://images.pexels.com/photos/19754775/pexels-photo-19754775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-25T09:13:16.275Z",
+  "sourceId": "13932f8d5fda3a4e1ed0c4fdf587e7e7"
+}

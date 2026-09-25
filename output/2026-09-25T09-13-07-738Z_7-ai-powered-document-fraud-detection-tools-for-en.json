@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "7-ai-powered-document-fraud-detection-tools-for-en",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "7 AI-Powered Document Fraud Detection Tools for Enterprise Onboarding",
+  "link": "https://www.artificialintelligence-news.com/news/7-ai-powered-document-fraud-detection-tools-for-enterprise-onboarding/",
+  "pubDate": "Fri, 25 Sep 2026 07:12:31 +0000",
+  "slides": [
+    "Can your onboarding process spot a forged document?",
+    "AI tools now detect fraud in seconds, not days",
+    "But they flag innocent errors as fraud too often",
+    "Review flagged cases manually before rejecting applicants",
+    "Test one tool on your worst fake ID case"
+  ],
+  "thread_text": [
+    "1. The 48-Hour Onboarding Gap\n\nA single forged utility bill slips through manual review, and a fraudster gets a corporate laptop by Friday. Your hiring team never sees it coming.",
+    "2. AI Flags Too Many Innocent Errors\n\nFalse positives hit 30% on blurry photos or nicknames. One rejected applicant was just a woman whose married name didn't match her ID.",
+    "3. The Manual Review Rule\n\nNever auto-reject a flagged case. A two-minute human check before the rejection email saves you from a discrimination lawsuit.",
+    "4. Test on Your Worst Fake\n\nTake the most obvious fake ID you've ever seen and run it through one AI tool. If it fails that, don't buy it.",
+    "5. Try This Today\n\nTake a real onboarding file from last month and run it through a free AI fraud detector. Did it flag anything you missed?"
+  ],
+  "video_script": [
+    "Your onboarding process might miss a forged document today.",
+    "AI tools now catch fraud in seconds, not days.",
+    "But they flag innocent errors as fraud too often.",
+    "Always review flagged cases manually before rejecting applicants.",
+    "Test one tool on your worst fake ID case."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The 48-Hour Onboarding Gap\n\nA single forged utility bill slips through manual review, and a fraudster gets a corporate laptop by Friday. Your hiring team never sees it coming.",
+        "2. AI Flags Too Many Innocent Errors\n\nFalse positives hit 30% on blurry photos or nicknames. One rejected applicant was just a woman whose married name didn't match her ID.",
+        "3. The Manual Review Rule\n\nNever auto-reject a flagged case. A two-minute human check before the rejection email saves you from a discrimination lawsuit.",
+        "4. Test on Your Worst Fake\n\nTake the most obvious fake ID you've ever seen and run it through one AI tool. If it fails that, don't buy it.",
+        "5. Try This Today\n\nTake a real onboarding file from last month and run it through a free AI fraud detector. Did it flag anything you missed?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your onboarding process might miss a forged document today.",
+        "AI tools now catch fraud in seconds, not days.",
+        "But they flag innocent errors as fraud too often.",
+        "Always review flagged cases manually before rejecting applicants.",
+        "Test one tool on your worst fake ID case."
+      ]
+    },
+    "instagram": {
+      "caption": "A forged utility bill gets someone a corporate laptop by Friday.\n\nAI tools can now spot document fraud in seconds instead of days. 🔍\n\nBut they also flag innocent mistakes as fraud in up to 30% of cases — like a married name that doesn't match the ID.\n\nThat means real applicants get rejected for nothing if no one checks.\n\nIf you hire or onboard people, never auto-reject a flagged case. A two-minute human review before that rejection email can save you a discrimination lawsuit. ⚠️\n\nTest one AI tool on the most obvious fake ID you've ever seen. If it misses that, don't buy it. ✅\n\nHave you ever run a real onboarding file through a fraud detector? What did it flag? 👀"
+    }
+  },
+  "instagram_caption": "A forged utility bill gets someone a corporate laptop by Friday.\n\nAI tools can now spot document fraud in seconds instead of days. 🔍\n\nBut they also flag innocent mistakes as fraud in up to 30% of cases — like a married name that doesn't match the ID.\n\nThat means real applicants get rejected for nothing if no one checks.\n\nIf you hire or onboard people, never auto-reject a flagged case. A two-minute human review before that rejection email can save you a discrimination lawsuit. ⚠️\n\nTest one AI tool on the most obvious fake ID you've ever seen. If it misses that, don't buy it. ✅\n\nHave you ever run a real onboarding file through a fraud detector? What did it flag? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Is your onboarding process missing forged documents?",
+      "description": "Manual review missed a forged utility bill; fraudster got a laptop by Friday. Your team never saw it coming.",
+      "visual_hint": "Split screen: real vs fake document",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "identity document closeup"
+    },
+    {
+      "hook": "AI detects fraud in seconds, not days",
+      "description": "AI tools now spot fraud in seconds, unlike manual review that takes days. Speed matters for enterprise onboarding.",
+      "visual_hint": "Clock with AI scanning document",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "clock technology abstract",
+      "image": "https://images.pexels.com/photos/17485607/pexels-photo-17485607.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "But AI flags innocent errors as fraud",
+      "description": "False positives hit 30% on blurry photos or nicknames. One woman was rejected due to married name mismatch.",
+      "visual_hint": "Red flag on blurry ID photo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "blurry document photo",
+      "image": "https://images.pexels.com/photos/6863174/pexels-photo-6863174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Never auto-reject flagged cases, review manually",
+      "description": "A two-minute human check before rejection saves you from discrimination lawsuits. Always review flagged cases manually.",
+      "visual_hint": "Person reviewing document on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office worker computer screen",
+      "image": "https://images.pexels.com/photos/12903349/pexels-photo-12903349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one AI tool on your worst fake ID",
+      "description": "Run your most obvious fake ID through a free AI fraud detector. If it fails, don't buy it. Try today.",
+      "visual_hint": "Fake ID on scanner with AI overlay",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "fake id card",
+      "image": "https://images.pexels.com/photos/8830670/pexels-photo-8830670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5999873/pexels-photo-5999873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-25T09:13:34.420Z",
+  "sourceId": "a3167418a66616a7017ceb45f2231b7b"
+}
