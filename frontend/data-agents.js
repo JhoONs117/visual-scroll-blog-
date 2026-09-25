@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "lightspeed-targets-250m-for-new-india-fund-focusin",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "pubDate": "Fri, 25 Sep 2026 05:00:00 +0000",
+      "slides": [
+        "Lightspeed targets $250M for India. Why now?",
+        "India's AI startups still lack early-stage capital.",
+        "Most global VC firms skip Series A in India.",
+        "Founders can now pitch Lightspeed earlier than before.",
+        "One action: map their thesis to your pitch deck."
+      ],
+      "thread_text": [
+        "1. Lightspeed's $250M India Bet\n\nLightspeed just raised a $250M fund for India. The timing is no accident.",
+        "2. India's Early-Stage Gap\n\nIndian AI startups still struggle to get seed funding. Most global VCs won't touch Series A there.",
+        "3. Founders Get an Early Door\n\nLightspeed now lets founders pitch earlier than before. That changes who gets in the room.",
+        "4. Why Now? The Series A Snub\n\nGlobal VC firms skip Indian Series A rounds. Lightspeed's move signals a shift in strategy.",
+        "5. Map Your Pitch to Their Thesis\n\nTake your deck and align it with Lightspeed's India AI focus. Do it today, before the next batch."
+      ],
+      "video_script": [
+        "Lightspeed just raised two hundred fifty million for India.",
+        "But early-stage AI startups there still lack capital.",
+        "Global VCs usually skip Series A in India.",
+        "Now founders can pitch Lightspeed earlier than before.",
+        "Your move: map your pitch to their thesis."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Lightspeed's $250M India Bet\n\nLightspeed just raised a $250M fund for India. The timing is no accident.",
+            "2. India's Early-Stage Gap\n\nIndian AI startups still struggle to get seed funding. Most global VCs won't touch Series A there.",
+            "3. Founders Get an Early Door\n\nLightspeed now lets founders pitch earlier than before. That changes who gets in the room.",
+            "4. Why Now? The Series A Snub\n\nGlobal VC firms skip Indian Series A rounds. Lightspeed's move signals a shift in strategy.",
+            "5. Map Your Pitch to Their Thesis\n\nTake your deck and align it with Lightspeed's India AI focus. Do it today, before the next batch."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Lightspeed just raised two hundred fifty million for India.",
+            "But early-stage AI startups there still lack capital.",
+            "Global VCs usually skip Series A in India.",
+            "Now founders can pitch Lightspeed earlier than before.",
+            "Your move: map your pitch to their thesis."
+          ]
+        },
+        "instagram": {
+          "caption": "Lightspeed is raising a $250M fund for India, and most of it targets early-stage AI.\n\nGlobal VC firms usually skip Series A in India, so AI founders there get stuck before they can scale.\n\nNow founders can pitch Lightspeed earlier than before.\n\nIf you're building or writing about AI in India, your window to get in has just opened wider. 🇮🇳\n\nMap your deck to their India AI thesis before the next batch closes. 💰\n\nWhich part of your pitch still assumes you need to wait for Series A? 🚀"
+        }
+      },
+      "instagram_caption": "Lightspeed is raising a $250M fund for India, and most of it targets early-stage AI.\n\nGlobal VC firms usually skip Series A in India, so AI founders there get stuck before they can scale.\n\nNow founders can pitch Lightspeed earlier than before.\n\nIf you're building or writing about AI in India, your window to get in has just opened wider. 🇮🇳\n\nMap your deck to their India AI thesis before the next batch closes. 💰\n\nWhich part of your pitch still assumes you need to wait for Series A? 🚀",
+      "carousel_slides": [
+        {
+          "hook": "Why is Lightspeed betting big on India now?",
+          "description": "Lightspeed targets $250M for India, focusing on early-stage AI. The timing signals a strategic shift.",
+          "visual_hint": "Map of India with glowing investment pins",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "India map"
+        },
+        {
+          "hook": "Indian AI startups are starving for early capital",
+          "description": "Most global VCs skip Series A in India. Early-stage AI founders struggle to get seed funding.",
+          "visual_hint": "Empty wallet next to laptop",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "empty wallet",
+          "image": "https://images.pexels.com/photos/7927422/pexels-photo-7927422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Global VCs won't touch Indian Series A",
+          "description": "Lightspeed's $250M fund now lets founders pitch earlier. That changes who gets in the room.",
+          "visual_hint": "Closed door with venture capital sign",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "closed door",
+          "image": "https://images.pexels.com/photos/25745081/pexels-photo-25745081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Founders get an early door to Lightspeed",
+          "description": "You can now pitch Lightspeed earlier than before. No need to wait for Series A.",
+          "visual_hint": "Hand knocking on open door",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand knocking door",
+          "image": "https://images.pexels.com/photos/13724494/pexels-photo-13724494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Map your pitch to their thesis today",
+          "description": "Align your deck with Lightspeed's India AI focus. Do it now before the next batch.",
+          "visual_hint": "Pitch deck with India AI focus",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "pitch deck",
+          "image": "https://images.pexels.com/photos/7414307/pexels-photo-7414307.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/06/india-ai.jpg?w=1200",
+      "savedAt": "2026-09-25T14:52:40.101Z",
+      "sourceId": "bb5c1e3c8a7d21836e1f1d80cbed9e95"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "7-ai-powered-document-fraud-detection-tools-for-en",
       "prompt_version": "1.0.0",
       "status": "published",
