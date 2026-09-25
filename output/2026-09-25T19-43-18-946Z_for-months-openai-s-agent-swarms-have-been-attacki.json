@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "for-months-openai-s-agent-swarms-have-been-attacki",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+  "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+  "pubDate": "Fri, 25 Sep 2026 15:48:14 +0000",
+  "slides": [
+    "OpenAI's agent swarms: dark side of automation?",
+    "They probe online databases for hidden data.",
+    "Goal: find obscure facts, not to exploit.",
+    "This speeds drug discovery and fact-checking.",
+    "Ask: should AI scan your data?"
+  ],
+  "thread_text": [
+    "1. AI Agents Are Scanning Your Data\n\nOpenAI's agent swarms are probing online databases right now, hunting for hidden information you never meant to share.",
+    "2. The Goal Isn't Exploitation\n\nThey're built to find obscure facts, not to steal or hack. That distinction matters more than you think.",
+    "3. Faster Cures, Quicker Checks\n\nThis same tech could slash drug discovery timelines and fact-check claims in seconds instead of days.",
+    "4. But Who Controls the Swarm?\n\nIf these agents can dig up anything, the real question is who decides what's fair game.",
+    "5. Should AI Scan Your Data?\n\nOpen your settings on any app you use daily. Check if your data is opt-in or opt-out. Does it make sense to let an AI scan it?"
+  ],
+  "video_script": [
+    "OpenAI's agent swarms are scanning online databases right now.",
+    "They're hunting for hidden data, but not to exploit it.",
+    "The same tech speeds up drug discovery and fact-checking.",
+    "But who decides what data is fair game?",
+    "Check your app settings today. Should AI scan your data?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Agents Are Scanning Your Data\n\nOpenAI's agent swarms are probing online databases right now, hunting for hidden information you never meant to share.",
+        "2. The Goal Isn't Exploitation\n\nThey're built to find obscure facts, not to steal or hack. That distinction matters more than you think.",
+        "3. Faster Cures, Quicker Checks\n\nThis same tech could slash drug discovery timelines and fact-check claims in seconds instead of days.",
+        "4. But Who Controls the Swarm?\n\nIf these agents can dig up anything, the real question is who decides what's fair game.",
+        "5. Should AI Scan Your Data?\n\nOpen your settings on any app you use daily. Check if your data is opt-in or opt-out. Does it make sense to let an AI scan it?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI's agent swarms are scanning online databases right now.",
+        "They're hunting for hidden data, but not to exploit it.",
+        "The same tech speeds up drug discovery and fact-checking.",
+        "But who decides what data is fair game?",
+        "Check your app settings today. Should AI scan your data?"
+      ]
+    },
+    "instagram": {
+      "caption": "Software agents are scanning online databases right now, hunting for hidden facts nobody meant to surface.\n\nOpenAI built these agent swarms to dig up obscure information, and the stated goal isn't hacking or theft.\n\nThat same tech could cut drug discovery timelines and fact-check claims in seconds instead of days. 🔍\n\nBut if an agent can pull up anything, someone has to decide what's fair game — and right now, that someone isn't you. ⚖️\n\nFor anyone who publishes or stores data, the question shifts from \"is it public\" to \"did I consent to this scan.\" 🗂️\n\nOpen your settings on the apps you use daily. Is your data opt-in or opt-out? 🧩\n\nWould you let an AI read it?"
+    }
+  },
+  "instagram_caption": "Software agents are scanning online databases right now, hunting for hidden facts nobody meant to surface.\n\nOpenAI built these agent swarms to dig up obscure information, and the stated goal isn't hacking or theft.\n\nThat same tech could cut drug discovery timelines and fact-check claims in seconds instead of days. 🔍\n\nBut if an agent can pull up anything, someone has to decide what's fair game — and right now, that someone isn't you. ⚖️\n\nFor anyone who publishes or stores data, the question shifts from \"is it public\" to \"did I consent to this scan.\" 🗂️\n\nOpen your settings on the apps you use daily. Is your data opt-in or opt-out? 🧩\n\nWould you let an AI read it?",
+  "carousel_slides": [
+    {
+      "hook": "Should AI scan your private data?",
+      "description": "OpenAI's agent swarms are probing online databases right now, hunting for hidden information you never meant to share.",
+      "visual_hint": "Glowing server racks in dark data center",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "The goal isn't exploitation",
+      "description": "These agents are built to find obscure facts, not to steal or hack. That distinction matters more than you think.",
+      "visual_hint": "Digital waves flowing through circuit board",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Faster cures, quicker checks",
+      "description": "This same tech could slash drug discovery timelines and fact-check claims in seconds instead of days.",
+      "visual_hint": "Close-up of medical research lab equipment",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "laboratory microscope",
+      "image": "https://images.pexels.com/photos/8851782/pexels-photo-8851782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "But who controls the swarm?",
+      "description": "If these agents can dig up anything, the real question is who decides what's fair game.",
+      "visual_hint": "Human hand reaching toward floating data",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "human hand technology",
+      "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your app settings today",
+      "description": "Open your settings on any app you use daily. Check if your data is opt-in or opt-out. Does it make sense to let an AI scan it?",
+      "visual_hint": "Smartphone settings screen with toggle switches",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "smartphone settings",
+      "image": "https://images.pexels.com/photos/13888309/pexels-photo-13888309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197091379.jpg?w=1024",
+  "savedAt": "2026-09-25T19:43:59.764Z",
+  "sourceId": "042f70b50965514cf1b4b734a6a5a018"
+}

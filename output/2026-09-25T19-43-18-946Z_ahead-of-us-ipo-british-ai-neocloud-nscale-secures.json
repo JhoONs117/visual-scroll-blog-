@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ahead-of-us-ipo-british-ai-neocloud-nscale-secures",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+  "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+  "pubDate": "Fri, 25 Sep 2026 18:33:59 +0000",
+  "slides": [
+    "Nscale raises $3.36B before US IPO — but why?",
+    "British AI neocloud powers massive GPU clusters.",
+    "The twist: convertible debt, not equity, funds this.",
+    "Founders: watch dilution risk before IPO pricing.",
+    "Ask your banker: convertible or equity for growth?"
+  ],
+  "thread_text": [
+    "1. The $3.36B question\n\nNscale just raised that before its US IPO. The cash isn't equity — it's convertible debt. That changes who wins if things go wrong.",
+    "2. Debt that becomes stock\n\nConvertible debt means lenders can turn into shareholders later. If Nscale's valuation soars, they get rich. If it stalls, the company still owes.",
+    "3. Dilution hits different\n\nFounders often focus on IPO price. But convertible debt can dilute them more than equity if conversion triggers at a low price. Read the fine print.",
+    "4. Bankers love this tool\n\nThey'll push convertibles because they close fast and delay valuation fights. Ask them: what's the conversion trigger and who loses?",
+    "5. Before you sign anything\n\nAsk your banker: convertible or equity for growth? Run the dilution math on a napkin. If you can't explain it to a friend, don't sign."
+  ],
+  "video_script": [
+    "Nscale raised three point three six billion dollars.",
+    "The money is convertible debt, not equity.",
+    "If the company wins, lenders become shareholders.",
+    "Founders, check how conversion can dilute you.",
+    "Ask your banker: convertible or equity for growth?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $3.36B question\n\nNscale just raised that before its US IPO. The cash isn't equity — it's convertible debt. That changes who wins if things go wrong.",
+        "2. Debt that becomes stock\n\nConvertible debt means lenders can turn into shareholders later. If Nscale's valuation soars, they get rich. If it stalls, the company still owes.",
+        "3. Dilution hits different\n\nFounders often focus on IPO price. But convertible debt can dilute them more than equity if conversion triggers at a low price. Read the fine print.",
+        "4. Bankers love this tool\n\nThey'll push convertibles because they close fast and delay valuation fights. Ask them: what's the conversion trigger and who loses?",
+        "5. Before you sign anything\n\nAsk your banker: convertible or equity for growth? Run the dilution math on a napkin. If you can't explain it to a friend, don't sign."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Nscale raised three point three six billion dollars.",
+        "The money is convertible debt, not equity.",
+        "If the company wins, lenders become shareholders.",
+        "Founders, check how conversion can dilute you.",
+        "Ask your banker: convertible or equity for growth?"
+      ]
+    },
+    "instagram": {
+      "caption": "$3.36 billion raised, and none of it is equity.\n\nNscale, a British AI cloud company, took convertible debt before its US IPO. Lenders can later turn that debt into shares. 💰\n\nIf the valuation climbs, they win big. If it stalls, Nscale still owes the money.\n\nFounders: this can dilute you more than selling stock outright, especially if conversion happens at a low price.\n\nSo before your next raise, ask your banker one thing: convertible or equity, and who loses if it goes wrong? 🤔\n\nWould you sign that fine print today? 📉"
+    }
+  },
+  "instagram_caption": "$3.36 billion raised, and none of it is equity.\n\nNscale, a British AI cloud company, took convertible debt before its US IPO. Lenders can later turn that debt into shares. 💰\n\nIf the valuation climbs, they win big. If it stalls, Nscale still owes the money.\n\nFounders: this can dilute you more than selling stock outright, especially if conversion happens at a low price.\n\nSo before your next raise, ask your banker one thing: convertible or equity, and who loses if it goes wrong? 🤔\n\nWould you sign that fine print today? 📉",
+  "carousel_slides": [
+    {
+      "hook": "Why $3.36B convertible debt before IPO?",
+      "description": "Nscale raises $3.36B in convertible debt, not equity, before its US IPO. Lenders may become shareholders later, changing who wins.",
+      "visual_hint": "Stack of debt certificates on desk",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "debt certificates"
+    },
+    {
+      "hook": "British AI neocloud powers GPU clusters",
+      "description": "Nscale's massive GPU clusters require significant capital. Convertible debt funds this growth without immediate equity dilution.",
+      "visual_hint": "Rows of GPU servers in datacenter",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "GPU datacenter",
+      "image": "https://images.pexels.com/photos/6974258/pexels-photo-6974258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Convertible debt: the hidden dilution twist",
+      "description": "Convertible debt can dilute founders more than equity if conversion triggers at low prices. Read the fine print carefully.",
+      "visual_hint": "Stock chart with downward trend",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Founders: watch dilution risk before IPO",
+      "description": "Bankers push convertibles to close fast and delay valuation fights. Ask: what's the conversion trigger and who loses?",
+      "visual_hint": "Hand writing on legal document",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "legal document signing",
+      "image": "https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: convertible or equity for growth?",
+      "description": "Ask your banker: convertible or equity for growth? Run the dilution math on a napkin before signing anything.",
+      "visual_hint": "Napkin with math calculations",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "napkin math",
+      "image": "https://images.pexels.com/photos/7015903/pexels-photo-7015903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
+  "savedAt": "2026-09-25T19:43:40.155Z",
+  "sourceId": "38b884af575750000119cd186ca87ae1"
+}

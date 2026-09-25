@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "one-company-is-at-the-center-of-a-wave-of-rogue-ai",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "One company is at the center of a wave of rogue AI attacks",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+  "pubDate": "2026-09-25T15:39:48.000Z",
+  "slides": [
+    "One company sits at the center of rogue AI attacks",
+    "The attacker used stolen API keys, not malware",
+    "The company previously published the exploit itself",
+    "Your own API keys may be vulnerable right now",
+    "Audit your API keys today — revoke unused ones"
+  ],
+  "thread_text": [
+    "1. Who's Behind the Rogue AI?\n\nOne company sits at the center of every major rogue AI attack. Stolen API keys, not malware, powered the breach — and the exploit was published by the victim itself.",
+    "2. No Malware Needed\n\nAttackers bypassed traditional defenses entirely. They simply used stolen API keys to access the AI models directly. No phishing, no malicious code — just credentials.",
+    "3. They Published the Exploit\n\nThe company had previously disclosed the vulnerability in a research paper. Attackers read it and weaponized it. Transparency became the blueprint for their own attack.",
+    "4. Your Keys Are at Risk\n\nIf your API keys are sitting in a public repo or shared in logs, you're exposed. The same technique that hit this company can hit you — often without any warning.",
+    "5. Audit Your Keys Today\n\nGo to your API provider dashboard. Revoke any key you haven't used in 30 days. Then check your code for hardcoded keys. Do it now — before someone else does."
+  ],
+  "video_script": [
+    "One company is at the center of rogue AI attacks.",
+    "Hackers didn't use malware. They used stolen API keys.",
+    "The company had published the exploit itself.",
+    "Your own API keys might be vulnerable right now.",
+    "Audit your keys today. Revoke unused ones immediately."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who's Behind the Rogue AI?\n\nOne company sits at the center of every major rogue AI attack. Stolen API keys, not malware, powered the breach — and the exploit was published by the victim itself.",
+        "2. No Malware Needed\n\nAttackers bypassed traditional defenses entirely. They simply used stolen API keys to access the AI models directly. No phishing, no malicious code — just credentials.",
+        "3. They Published the Exploit\n\nThe company had previously disclosed the vulnerability in a research paper. Attackers read it and weaponized it. Transparency became the blueprint for their own attack.",
+        "4. Your Keys Are at Risk\n\nIf your API keys are sitting in a public repo or shared in logs, you're exposed. The same technique that hit this company can hit you — often without any warning.",
+        "5. Audit Your Keys Today\n\nGo to your API provider dashboard. Revoke any key you haven't used in 30 days. Then check your code for hardcoded keys. Do it now — before someone else does."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "One company is at the center of rogue AI attacks.",
+        "Hackers didn't use malware. They used stolen API keys.",
+        "The company had published the exploit itself.",
+        "Your own API keys might be vulnerable right now.",
+        "Audit your keys today. Revoke unused ones immediately."
+      ]
+    },
+    "instagram": {
+      "caption": "Someone stole API keys to break into AI models — no malware, no phishing, just credentials. 🔑\n\nThe company at the center of these rogue AI attacks had actually published the exploit itself in a research paper. Attackers read it and used it as a blueprint.\n\nIf your API keys sit in a public repo or shared logs, the same trick works on you. 🚨\n\nCheck your provider dashboard now and revoke every key you haven't used in 30 days. 🔒\n\nHow many unused keys are still active on your account right now? 👀"
+    }
+  },
+  "instagram_caption": "Someone stole API keys to break into AI models — no malware, no phishing, just credentials. 🔑\n\nThe company at the center of these rogue AI attacks had actually published the exploit itself in a research paper. Attackers read it and used it as a blueprint.\n\nIf your API keys sit in a public repo or shared logs, the same trick works on you. 🚨\n\nCheck your provider dashboard now and revoke every key you haven't used in 30 days. 🔒\n\nHow many unused keys are still active on your account right now? 👀",
+  "carousel_slides": [
+    {
+      "hook": "One company enabled every rogue AI attack?",
+      "description": "Attackers bypassed defenses using stolen API keys, not malware. The exploit was publicly published by the victim itself, creating a blueprint for attacks.",
+      "visual_hint": "Server room with glowing red warning lights",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "No malware, just stolen API keys?",
+      "description": "Attackers directly accessed AI models with stolen credentials. No phishing or malicious code needed, leaving traditional defenses completely useless.",
+      "visual_hint": "Glowing key inserted into digital lock",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "api key",
+      "image": "https://images.pexels.com/photos/8470846/pexels-photo-8470846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Did they publish their own exploit?",
+      "description": "The company disclosed the vulnerability in a research paper. Attackers read it and weaponized the transparency, turning it into their attack blueprint.",
+      "visual_hint": "Open research paper with highlighted exploit",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "research paper",
+      "image": "https://images.pexels.com/photos/6325904/pexels-photo-6325904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Are your API keys exposed right now?",
+      "description": "If your API keys sit in public repos or shared logs, you are exposed. The same technique that hit this company can hit you without warning.",
+      "visual_hint": "Hand holding phone showing exposed keys",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "public code repository",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this post, audit your keys now.",
+      "description": "Go to your API provider dashboard. Revoke any key unused for 30 days, then check code for hardcoded keys. Do it now before someone else does.",
+      "visual_hint": "Dashboard with revoke button highlighted",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "computer dashboard",
+      "image": "https://images.pexels.com/photos/7681671/pexels-photo-7681671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+  "savedAt": "2026-09-25T19:44:09.055Z",
+  "sourceId": "c01ce16603fc259093ee63ee7640685b"
+}

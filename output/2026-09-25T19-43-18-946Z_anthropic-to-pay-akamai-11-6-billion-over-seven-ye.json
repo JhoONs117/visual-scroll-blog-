@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-to-pay-akamai-11-6-billion-over-seven-ye",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+  "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+  "pubDate": "Fri, 25 Sep 2026 19:13:38 +0000",
+  "slides": [
+    "Anthropic commits $11.6B to Akamai. What's behind the deal?",
+    "It's a seven-year cloud infrastructure agreement.",
+    "But Akamai isn't known for AI compute at scale.",
+    "Your cloud costs may rise as AI giants lock in capacity.",
+    "Audit your vendor contracts before capacity gets scarce."
+  ],
+  "thread_text": [
+    "1. $11.6B to Akamai\n\nAnthropic just signed a seven-year cloud deal. The money isn't for GPUs — it's for capacity. And Akamai isn't known for AI compute at scale.",
+    "2. Seven years is the tell\n\nLong contracts lock in supply before demand peaks. That's not a tech bet — it's a scarcity hedge.",
+    "3. Akamai's odd role\n\nThey built their name on content delivery, not tensor ops. Either they're pivoting hard, or Anthropic knows something about network edge AI we don't.",
+    "4. Your bill will notice\n\nWhen giants lock in multi-year capacity, smaller players compete for leftovers. Cloud prices don't fall — they reprice.",
+    "5. Audit your contracts now\n\nOpen your vendor agreements today. Check auto-renew dates and capacity guarantees. If you haven't done it, start there."
+  ],
+  "video_script": [
+    "$11.6 billion to Akamai. Seven years.",
+    "Akamai isn't an AI compute company.",
+    "Long contracts mean capacity is getting scarce.",
+    "When giants lock in, your cloud bill rises.",
+    "Pull your vendor contracts today. Check renewals."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $11.6B to Akamai\n\nAnthropic just signed a seven-year cloud deal. The money isn't for GPUs — it's for capacity. And Akamai isn't known for AI compute at scale.",
+        "2. Seven years is the tell\n\nLong contracts lock in supply before demand peaks. That's not a tech bet — it's a scarcity hedge.",
+        "3. Akamai's odd role\n\nThey built their name on content delivery, not tensor ops. Either they're pivoting hard, or Anthropic knows something about network edge AI we don't.",
+        "4. Your bill will notice\n\nWhen giants lock in multi-year capacity, smaller players compete for leftovers. Cloud prices don't fall — they reprice.",
+        "5. Audit your contracts now\n\nOpen your vendor agreements today. Check auto-renew dates and capacity guarantees. If you haven't done it, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "$11.6 billion to Akamai. Seven years.",
+        "Akamai isn't an AI compute company.",
+        "Long contracts mean capacity is getting scarce.",
+        "When giants lock in, your cloud bill rises.",
+        "Pull your vendor contracts today. Check renewals."
+      ]
+    },
+    "instagram": {
+      "caption": "$11.6 billion for cloud capacity — none of it for chips.\n\nAnthropic signed a seven-year deal with Akamai, a company known for content delivery, not AI compute. 💰 That length is the real signal: giants are locking in supply before demand peaks.\n\nWhen capacity gets reserved years ahead, smaller teams compete for what's left. That usually means higher prices, not lower. 📈\n\nIf you run content or products on rented infrastructure, tonight is a good time to open your vendor contracts and check the auto-renew dates. 🔍\n\nDo you actually know when yours renews?"
+    }
+  },
+  "instagram_caption": "$11.6 billion for cloud capacity — none of it for chips.\n\nAnthropic signed a seven-year deal with Akamai, a company known for content delivery, not AI compute. 💰 That length is the real signal: giants are locking in supply before demand peaks.\n\nWhen capacity gets reserved years ahead, smaller teams compete for what's left. That usually means higher prices, not lower. 📈\n\nIf you run content or products on rented infrastructure, tonight is a good time to open your vendor contracts and check the auto-renew dates. 🔍\n\nDo you actually know when yours renews?",
+  "carousel_slides": [
+    {
+      "hook": "Why is Akamai suddenly worth $11.6B?",
+      "description": "Anthropic's seven-year cloud deal goes to a content-delivery firm, not a GPU giant. That signals edge computing is the new battleground.",
+      "visual_hint": "Glowing dollar sign over server racks",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Seven years is the real signal here",
+      "description": "Long contracts lock in supply before demand peaks. This isn't a tech bet—it's a scarcity hedge against future shortages.",
+      "visual_hint": "Calendar pages turning rapidly",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "calendar pages",
+      "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Akamai's pivot is stranger than it looks",
+      "description": "They built their name on content delivery, not tensor operations. Either a hard pivot or Anthropic sees edge AI potential we don't.",
+      "visual_hint": "Network cables plugged into edge router",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "network cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your cloud bill will feel this",
+      "description": "When giants lock in multi-year capacity, smaller players compete for leftovers. Prices don't fall—they reprice upward.",
+      "visual_hint": "Rising cost graph on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your vendor contracts today",
+      "description": "Open your agreements now. Check auto-renew dates and capacity guarantees before scarcity hits. Save this for your next renewal.",
+      "visual_hint": "Hand reviewing contract with pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "business contract",
+      "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1333934328.jpg?resize=1200,703",
+  "savedAt": "2026-09-25T19:43:28.277Z",
+  "sourceId": "4b9cd4f252fed7b064957e1ea4c617ba"
+}

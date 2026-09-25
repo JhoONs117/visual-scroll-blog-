@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "one-company-is-at-the-center-of-a-wave-of-rogue-ai",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "One company is at the center of a wave of rogue AI attacks",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+    "pubDate": "2026-09-25T15:39:48.000Z",
+    "slides": [
+      "One company sits at the center of rogue AI attacks",
+      "The attacker used stolen API keys, not malware",
+      "The company previously published the exploit itself",
+      "Your own API keys may be vulnerable right now",
+      "Audit your API keys today — revoke unused ones"
+    ],
+    "thread_text": [
+      "1. Who's Behind the Rogue AI?\n\nOne company sits at the center of every major rogue AI attack. Stolen API keys, not malware, powered the breach — and the exploit was published by the victim itself.",
+      "2. No Malware Needed\n\nAttackers bypassed traditional defenses entirely. They simply used stolen API keys to access the AI models directly. No phishing, no malicious code — just credentials.",
+      "3. They Published the Exploit\n\nThe company had previously disclosed the vulnerability in a research paper. Attackers read it and weaponized it. Transparency became the blueprint for their own attack.",
+      "4. Your Keys Are at Risk\n\nIf your API keys are sitting in a public repo or shared in logs, you're exposed. The same technique that hit this company can hit you — often without any warning.",
+      "5. Audit Your Keys Today\n\nGo to your API provider dashboard. Revoke any key you haven't used in 30 days. Then check your code for hardcoded keys. Do it now — before someone else does."
+    ],
+    "video_script": [
+      "One company is at the center of rogue AI attacks.",
+      "Hackers didn't use malware. They used stolen API keys.",
+      "The company had published the exploit itself.",
+      "Your own API keys might be vulnerable right now.",
+      "Audit your keys today. Revoke unused ones immediately."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who's Behind the Rogue AI?\n\nOne company sits at the center of every major rogue AI attack. Stolen API keys, not malware, powered the breach — and the exploit was published by the victim itself.",
+          "2. No Malware Needed\n\nAttackers bypassed traditional defenses entirely. They simply used stolen API keys to access the AI models directly. No phishing, no malicious code — just credentials.",
+          "3. They Published the Exploit\n\nThe company had previously disclosed the vulnerability in a research paper. Attackers read it and weaponized it. Transparency became the blueprint for their own attack.",
+          "4. Your Keys Are at Risk\n\nIf your API keys are sitting in a public repo or shared in logs, you're exposed. The same technique that hit this company can hit you — often without any warning.",
+          "5. Audit Your Keys Today\n\nGo to your API provider dashboard. Revoke any key you haven't used in 30 days. Then check your code for hardcoded keys. Do it now — before someone else does."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "One company is at the center of rogue AI attacks.",
+          "Hackers didn't use malware. They used stolen API keys.",
+          "The company had published the exploit itself.",
+          "Your own API keys might be vulnerable right now.",
+          "Audit your keys today. Revoke unused ones immediately."
+        ]
+      },
+      "instagram": {
+        "caption": "Someone stole API keys to break into AI models — no malware, no phishing, just credentials. 🔑\n\nThe company at the center of these rogue AI attacks had actually published the exploit itself in a research paper. Attackers read it and used it as a blueprint.\n\nIf your API keys sit in a public repo or shared logs, the same trick works on you. 🚨\n\nCheck your provider dashboard now and revoke every key you haven't used in 30 days. 🔒\n\nHow many unused keys are still active on your account right now? 👀"
+      }
+    },
+    "instagram_caption": "Someone stole API keys to break into AI models — no malware, no phishing, just credentials. 🔑\n\nThe company at the center of these rogue AI attacks had actually published the exploit itself in a research paper. Attackers read it and used it as a blueprint.\n\nIf your API keys sit in a public repo or shared logs, the same trick works on you. 🚨\n\nCheck your provider dashboard now and revoke every key you haven't used in 30 days. 🔒\n\nHow many unused keys are still active on your account right now? 👀",
+    "carousel_slides": [
+      {
+        "hook": "One company enabled every rogue AI attack?",
+        "description": "Attackers bypassed defenses using stolen API keys, not malware. The exploit was publicly published by the victim itself, creating a blueprint for attacks.",
+        "visual_hint": "Server room with glowing red warning lights",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "No malware, just stolen API keys?",
+        "description": "Attackers directly accessed AI models with stolen credentials. No phishing or malicious code needed, leaving traditional defenses completely useless.",
+        "visual_hint": "Glowing key inserted into digital lock",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "api key",
+        "image": "https://images.pexels.com/photos/8470846/pexels-photo-8470846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Did they publish their own exploit?",
+        "description": "The company disclosed the vulnerability in a research paper. Attackers read it and weaponized the transparency, turning it into their attack blueprint.",
+        "visual_hint": "Open research paper with highlighted exploit",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "research paper",
+        "image": "https://images.pexels.com/photos/6325904/pexels-photo-6325904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Are your API keys exposed right now?",
+        "description": "If your API keys sit in public repos or shared logs, you are exposed. The same technique that hit this company can hit you without warning.",
+        "visual_hint": "Hand holding phone showing exposed keys",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "public code repository",
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this post, audit your keys now.",
+        "description": "Go to your API provider dashboard. Revoke any key unused for 30 days, then check code for hardcoded keys. Do it now before someone else does.",
+        "visual_hint": "Dashboard with revoke button highlighted",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "computer dashboard",
+        "image": "https://images.pexels.com/photos/7681671/pexels-photo-7681671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+    "savedAt": "2026-09-25T19:44:09.055Z",
+    "sourceId": "c01ce16603fc259093ee63ee7640685b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "for-months-openai-s-agent-swarms-have-been-attacki",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+    "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+    "pubDate": "Fri, 25 Sep 2026 15:48:14 +0000",
+    "slides": [
+      "OpenAI's agent swarms: dark side of automation?",
+      "They probe online databases for hidden data.",
+      "Goal: find obscure facts, not to exploit.",
+      "This speeds drug discovery and fact-checking.",
+      "Ask: should AI scan your data?"
+    ],
+    "thread_text": [
+      "1. AI Agents Are Scanning Your Data\n\nOpenAI's agent swarms are probing online databases right now, hunting for hidden information you never meant to share.",
+      "2. The Goal Isn't Exploitation\n\nThey're built to find obscure facts, not to steal or hack. That distinction matters more than you think.",
+      "3. Faster Cures, Quicker Checks\n\nThis same tech could slash drug discovery timelines and fact-check claims in seconds instead of days.",
+      "4. But Who Controls the Swarm?\n\nIf these agents can dig up anything, the real question is who decides what's fair game.",
+      "5. Should AI Scan Your Data?\n\nOpen your settings on any app you use daily. Check if your data is opt-in or opt-out. Does it make sense to let an AI scan it?"
+    ],
+    "video_script": [
+      "OpenAI's agent swarms are scanning online databases right now.",
+      "They're hunting for hidden data, but not to exploit it.",
+      "The same tech speeds up drug discovery and fact-checking.",
+      "But who decides what data is fair game?",
+      "Check your app settings today. Should AI scan your data?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI Agents Are Scanning Your Data\n\nOpenAI's agent swarms are probing online databases right now, hunting for hidden information you never meant to share.",
+          "2. The Goal Isn't Exploitation\n\nThey're built to find obscure facts, not to steal or hack. That distinction matters more than you think.",
+          "3. Faster Cures, Quicker Checks\n\nThis same tech could slash drug discovery timelines and fact-check claims in seconds instead of days.",
+          "4. But Who Controls the Swarm?\n\nIf these agents can dig up anything, the real question is who decides what's fair game.",
+          "5. Should AI Scan Your Data?\n\nOpen your settings on any app you use daily. Check if your data is opt-in or opt-out. Does it make sense to let an AI scan it?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI's agent swarms are scanning online databases right now.",
+          "They're hunting for hidden data, but not to exploit it.",
+          "The same tech speeds up drug discovery and fact-checking.",
+          "But who decides what data is fair game?",
+          "Check your app settings today. Should AI scan your data?"
+        ]
+      },
+      "instagram": {
+        "caption": "Software agents are scanning online databases right now, hunting for hidden facts nobody meant to surface.\n\nOpenAI built these agent swarms to dig up obscure information, and the stated goal isn't hacking or theft.\n\nThat same tech could cut drug discovery timelines and fact-check claims in seconds instead of days. 🔍\n\nBut if an agent can pull up anything, someone has to decide what's fair game — and right now, that someone isn't you. ⚖️\n\nFor anyone who publishes or stores data, the question shifts from \"is it public\" to \"did I consent to this scan.\" 🗂️\n\nOpen your settings on the apps you use daily. Is your data opt-in or opt-out? 🧩\n\nWould you let an AI read it?"
+      }
+    },
+    "instagram_caption": "Software agents are scanning online databases right now, hunting for hidden facts nobody meant to surface.\n\nOpenAI built these agent swarms to dig up obscure information, and the stated goal isn't hacking or theft.\n\nThat same tech could cut drug discovery timelines and fact-check claims in seconds instead of days. 🔍\n\nBut if an agent can pull up anything, someone has to decide what's fair game — and right now, that someone isn't you. ⚖️\n\nFor anyone who publishes or stores data, the question shifts from \"is it public\" to \"did I consent to this scan.\" 🗂️\n\nOpen your settings on the apps you use daily. Is your data opt-in or opt-out? 🧩\n\nWould you let an AI read it?",
+    "carousel_slides": [
+      {
+        "hook": "Should AI scan your private data?",
+        "description": "OpenAI's agent swarms are probing online databases right now, hunting for hidden information you never meant to share.",
+        "visual_hint": "Glowing server racks in dark data center",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "The goal isn't exploitation",
+        "description": "These agents are built to find obscure facts, not to steal or hack. That distinction matters more than you think.",
+        "visual_hint": "Digital waves flowing through circuit board",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "circuit board",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Faster cures, quicker checks",
+        "description": "This same tech could slash drug discovery timelines and fact-check claims in seconds instead of days.",
+        "visual_hint": "Close-up of medical research lab equipment",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "laboratory microscope",
+        "image": "https://images.pexels.com/photos/8851782/pexels-photo-8851782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "But who controls the swarm?",
+        "description": "If these agents can dig up anything, the real question is who decides what's fair game.",
+        "visual_hint": "Human hand reaching toward floating data",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "human hand technology",
+        "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your app settings today",
+        "description": "Open your settings on any app you use daily. Check if your data is opt-in or opt-out. Does it make sense to let an AI scan it?",
+        "visual_hint": "Smartphone settings screen with toggle switches",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "smartphone settings",
+        "image": "https://images.pexels.com/photos/13888309/pexels-photo-13888309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197091379.jpg?w=1024",
+    "savedAt": "2026-09-25T19:43:59.764Z",
+    "sourceId": "042f70b50965514cf1b4b734a6a5a018"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ahead-of-us-ipo-british-ai-neocloud-nscale-secures",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+    "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+    "pubDate": "Fri, 25 Sep 2026 18:33:59 +0000",
+    "slides": [
+      "Nscale raises $3.36B before US IPO — but why?",
+      "British AI neocloud powers massive GPU clusters.",
+      "The twist: convertible debt, not equity, funds this.",
+      "Founders: watch dilution risk before IPO pricing.",
+      "Ask your banker: convertible or equity for growth?"
+    ],
+    "thread_text": [
+      "1. The $3.36B question\n\nNscale just raised that before its US IPO. The cash isn't equity — it's convertible debt. That changes who wins if things go wrong.",
+      "2. Debt that becomes stock\n\nConvertible debt means lenders can turn into shareholders later. If Nscale's valuation soars, they get rich. If it stalls, the company still owes.",
+      "3. Dilution hits different\n\nFounders often focus on IPO price. But convertible debt can dilute them more than equity if conversion triggers at a low price. Read the fine print.",
+      "4. Bankers love this tool\n\nThey'll push convertibles because they close fast and delay valuation fights. Ask them: what's the conversion trigger and who loses?",
+      "5. Before you sign anything\n\nAsk your banker: convertible or equity for growth? Run the dilution math on a napkin. If you can't explain it to a friend, don't sign."
+    ],
+    "video_script": [
+      "Nscale raised three point three six billion dollars.",
+      "The money is convertible debt, not equity.",
+      "If the company wins, lenders become shareholders.",
+      "Founders, check how conversion can dilute you.",
+      "Ask your banker: convertible or equity for growth?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $3.36B question\n\nNscale just raised that before its US IPO. The cash isn't equity — it's convertible debt. That changes who wins if things go wrong.",
+          "2. Debt that becomes stock\n\nConvertible debt means lenders can turn into shareholders later. If Nscale's valuation soars, they get rich. If it stalls, the company still owes.",
+          "3. Dilution hits different\n\nFounders often focus on IPO price. But convertible debt can dilute them more than equity if conversion triggers at a low price. Read the fine print.",
+          "4. Bankers love this tool\n\nThey'll push convertibles because they close fast and delay valuation fights. Ask them: what's the conversion trigger and who loses?",
+          "5. Before you sign anything\n\nAsk your banker: convertible or equity for growth? Run the dilution math on a napkin. If you can't explain it to a friend, don't sign."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nscale raised three point three six billion dollars.",
+          "The money is convertible debt, not equity.",
+          "If the company wins, lenders become shareholders.",
+          "Founders, check how conversion can dilute you.",
+          "Ask your banker: convertible or equity for growth?"
+        ]
+      },
+      "instagram": {
+        "caption": "$3.36 billion raised, and none of it is equity.\n\nNscale, a British AI cloud company, took convertible debt before its US IPO. Lenders can later turn that debt into shares. 💰\n\nIf the valuation climbs, they win big. If it stalls, Nscale still owes the money.\n\nFounders: this can dilute you more than selling stock outright, especially if conversion happens at a low price.\n\nSo before your next raise, ask your banker one thing: convertible or equity, and who loses if it goes wrong? 🤔\n\nWould you sign that fine print today? 📉"
+      }
+    },
+    "instagram_caption": "$3.36 billion raised, and none of it is equity.\n\nNscale, a British AI cloud company, took convertible debt before its US IPO. Lenders can later turn that debt into shares. 💰\n\nIf the valuation climbs, they win big. If it stalls, Nscale still owes the money.\n\nFounders: this can dilute you more than selling stock outright, especially if conversion happens at a low price.\n\nSo before your next raise, ask your banker one thing: convertible or equity, and who loses if it goes wrong? 🤔\n\nWould you sign that fine print today? 📉",
+    "carousel_slides": [
+      {
+        "hook": "Why $3.36B convertible debt before IPO?",
+        "description": "Nscale raises $3.36B in convertible debt, not equity, before its US IPO. Lenders may become shareholders later, changing who wins.",
+        "visual_hint": "Stack of debt certificates on desk",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "debt certificates"
+      },
+      {
+        "hook": "British AI neocloud powers GPU clusters",
+        "description": "Nscale's massive GPU clusters require significant capital. Convertible debt funds this growth without immediate equity dilution.",
+        "visual_hint": "Rows of GPU servers in datacenter",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "GPU datacenter",
+        "image": "https://images.pexels.com/photos/6974258/pexels-photo-6974258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Convertible debt: the hidden dilution twist",
+        "description": "Convertible debt can dilute founders more than equity if conversion triggers at low prices. Read the fine print carefully.",
+        "visual_hint": "Stock chart with downward trend",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Founders: watch dilution risk before IPO",
+        "description": "Bankers push convertibles to close fast and delay valuation fights. Ask: what's the conversion trigger and who loses?",
+        "visual_hint": "Hand writing on legal document",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "legal document signing",
+        "image": "https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: convertible or equity for growth?",
+        "description": "Ask your banker: convertible or equity for growth? Run the dilution math on a napkin before signing anything.",
+        "visual_hint": "Napkin with math calculations",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "napkin math",
+        "image": "https://images.pexels.com/photos/7015903/pexels-photo-7015903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
+    "savedAt": "2026-09-25T19:43:40.155Z",
+    "sourceId": "38b884af575750000119cd186ca87ae1"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "anthropic-to-pay-akamai-11-6-billion-over-seven-ye",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+    "pubDate": "Fri, 25 Sep 2026 19:13:38 +0000",
+    "slides": [
+      "Anthropic commits $11.6B to Akamai. What's behind the deal?",
+      "It's a seven-year cloud infrastructure agreement.",
+      "But Akamai isn't known for AI compute at scale.",
+      "Your cloud costs may rise as AI giants lock in capacity.",
+      "Audit your vendor contracts before capacity gets scarce."
+    ],
+    "thread_text": [
+      "1. $11.6B to Akamai\n\nAnthropic just signed a seven-year cloud deal. The money isn't for GPUs — it's for capacity. And Akamai isn't known for AI compute at scale.",
+      "2. Seven years is the tell\n\nLong contracts lock in supply before demand peaks. That's not a tech bet — it's a scarcity hedge.",
+      "3. Akamai's odd role\n\nThey built their name on content delivery, not tensor ops. Either they're pivoting hard, or Anthropic knows something about network edge AI we don't.",
+      "4. Your bill will notice\n\nWhen giants lock in multi-year capacity, smaller players compete for leftovers. Cloud prices don't fall — they reprice.",
+      "5. Audit your contracts now\n\nOpen your vendor agreements today. Check auto-renew dates and capacity guarantees. If you haven't done it, start there."
+    ],
+    "video_script": [
+      "$11.6 billion to Akamai. Seven years.",
+      "Akamai isn't an AI compute company.",
+      "Long contracts mean capacity is getting scarce.",
+      "When giants lock in, your cloud bill rises.",
+      "Pull your vendor contracts today. Check renewals."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $11.6B to Akamai\n\nAnthropic just signed a seven-year cloud deal. The money isn't for GPUs — it's for capacity. And Akamai isn't known for AI compute at scale.",
+          "2. Seven years is the tell\n\nLong contracts lock in supply before demand peaks. That's not a tech bet — it's a scarcity hedge.",
+          "3. Akamai's odd role\n\nThey built their name on content delivery, not tensor ops. Either they're pivoting hard, or Anthropic knows something about network edge AI we don't.",
+          "4. Your bill will notice\n\nWhen giants lock in multi-year capacity, smaller players compete for leftovers. Cloud prices don't fall — they reprice.",
+          "5. Audit your contracts now\n\nOpen your vendor agreements today. Check auto-renew dates and capacity guarantees. If you haven't done it, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "$11.6 billion to Akamai. Seven years.",
+          "Akamai isn't an AI compute company.",
+          "Long contracts mean capacity is getting scarce.",
+          "When giants lock in, your cloud bill rises.",
+          "Pull your vendor contracts today. Check renewals."
+        ]
+      },
+      "instagram": {
+        "caption": "$11.6 billion for cloud capacity — none of it for chips.\n\nAnthropic signed a seven-year deal with Akamai, a company known for content delivery, not AI compute. 💰 That length is the real signal: giants are locking in supply before demand peaks.\n\nWhen capacity gets reserved years ahead, smaller teams compete for what's left. That usually means higher prices, not lower. 📈\n\nIf you run content or products on rented infrastructure, tonight is a good time to open your vendor contracts and check the auto-renew dates. 🔍\n\nDo you actually know when yours renews?"
+      }
+    },
+    "instagram_caption": "$11.6 billion for cloud capacity — none of it for chips.\n\nAnthropic signed a seven-year deal with Akamai, a company known for content delivery, not AI compute. 💰 That length is the real signal: giants are locking in supply before demand peaks.\n\nWhen capacity gets reserved years ahead, smaller teams compete for what's left. That usually means higher prices, not lower. 📈\n\nIf you run content or products on rented infrastructure, tonight is a good time to open your vendor contracts and check the auto-renew dates. 🔍\n\nDo you actually know when yours renews?",
+    "carousel_slides": [
+      {
+        "hook": "Why is Akamai suddenly worth $11.6B?",
+        "description": "Anthropic's seven-year cloud deal goes to a content-delivery firm, not a GPU giant. That signals edge computing is the new battleground.",
+        "visual_hint": "Glowing dollar sign over server racks",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Seven years is the real signal here",
+        "description": "Long contracts lock in supply before demand peaks. This isn't a tech bet—it's a scarcity hedge against future shortages.",
+        "visual_hint": "Calendar pages turning rapidly",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "calendar pages",
+        "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Akamai's pivot is stranger than it looks",
+        "description": "They built their name on content delivery, not tensor operations. Either a hard pivot or Anthropic sees edge AI potential we don't.",
+        "visual_hint": "Network cables plugged into edge router",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "network cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your cloud bill will feel this",
+        "description": "When giants lock in multi-year capacity, smaller players compete for leftovers. Prices don't fall—they reprice upward.",
+        "visual_hint": "Rising cost graph on screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your vendor contracts today",
+        "description": "Open your agreements now. Check auto-renew dates and capacity guarantees before scarcity hits. Save this for your next renewal.",
+        "visual_hint": "Hand reviewing contract with pen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "business contract",
+        "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1333934328.jpg?resize=1200,703",
+    "savedAt": "2026-09-25T19:43:28.277Z",
+    "sourceId": "4b9cd4f252fed7b064957e1ea4c617ba"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "lightspeed-targets-250m-for-new-india-fund-focusin",
     "prompt_version": "1.0.0",
     "status": "published",
