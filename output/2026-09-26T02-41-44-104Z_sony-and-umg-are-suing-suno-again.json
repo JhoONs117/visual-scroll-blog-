@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "sony-and-umg-are-suing-suno-again",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Sony and UMG are suing Suno again",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+  "pubDate": "2026-09-25T15:51:56.000Z",
+  "slides": [
+    "Sony, UMG sue Suno again—what's really at stake?",
+    "New lawsuit claims Suno scraped copyrighted music without permission.",
+    "Surprisingly, Suno says its AI is transformative fair use.",
+    "This means future AI music tools may need licensing deals.",
+    "Check if your favorite AI music tool is next."
+  ],
+  "thread_text": [
+    "1. Music Giants Strike Again\n\nSony and UMG just sued Suno, claiming it scraped copyrighted tracks without permission. The outcome could reshape every AI music tool you use.",
+    "2. Scraping or Stealing?\n\nThe lawsuit alleges Suno trained its model on protected songs. If true, it's not just a legal problem—it's a blueprint for every AI music startup.",
+    "3. Suno's Bold Defense\n\nSuno argues its AI is transformative fair use. That's the same argument that saved Google Books—but music is a different beast.",
+    "4. Licensing Is Coming\n\nIf courts side with labels, future AI music tools will need licensing deals. That means higher costs, fewer free tools, and a very different landscape.",
+    "5. Is Your Tool Next?\n\nCheck if your favorite AI music tool has a licensing deal. If not, it might be the next lawsuit target. Which one do you use?"
+  ],
+  "video_script": [
+    "Sony and UMG just sued Suno for scraping music.",
+    "They say Suno used copyrighted songs without permission.",
+    "Suno claims its AI is fair use, like Google Books.",
+    "If labels win, AI music tools will need licenses.",
+    "Check if your favorite AI music tool is next."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Music Giants Strike Again\n\nSony and UMG just sued Suno, claiming it scraped copyrighted tracks without permission. The outcome could reshape every AI music tool you use.",
+        "2. Scraping or Stealing?\n\nThe lawsuit alleges Suno trained its model on protected songs. If true, it's not just a legal problem—it's a blueprint for every AI music startup.",
+        "3. Suno's Bold Defense\n\nSuno argues its AI is transformative fair use. That's the same argument that saved Google Books—but music is a different beast.",
+        "4. Licensing Is Coming\n\nIf courts side with labels, future AI music tools will need licensing deals. That means higher costs, fewer free tools, and a very different landscape.",
+        "5. Is Your Tool Next?\n\nCheck if your favorite AI music tool has a licensing deal. If not, it might be the next lawsuit target. Which one do you use?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Sony and UMG just sued Suno for scraping music.",
+        "They say Suno used copyrighted songs without permission.",
+        "Suno claims its AI is fair use, like Google Books.",
+        "If labels win, AI music tools will need licenses.",
+        "Check if your favorite AI music tool is next."
+      ]
+    },
+    "instagram": {
+      "caption": "Suno trained its AI on copyrighted songs without asking, Sony and UMG claim in a new lawsuit.\n\nSuno argues its AI is transformative fair use—the same defense that protected Google Books, but music licensing works differently.\n\nIf the labels win, every AI music tool will need paid licensing deals to survive.\n\nThat means higher subscription costs, fewer free tools, and maybe your favorite generator shutting down. 🎧\n\nCheck if the AI music tool you use has a licensing deal in place.\n\nWhich one do you use—and is it next? 🎵"
+    }
+  },
+  "instagram_caption": "Suno trained its AI on copyrighted songs without asking, Sony and UMG claim in a new lawsuit.\n\nSuno argues its AI is transformative fair use—the same defense that protected Google Books, but music licensing works differently.\n\nIf the labels win, every AI music tool will need paid licensing deals to survive.\n\nThat means higher subscription costs, fewer free tools, and maybe your favorite generator shutting down. 🎧\n\nCheck if the AI music tool you use has a licensing deal in place.\n\nWhich one do you use—and is it next? 🎵",
+  "carousel_slides": [
+    {
+      "hook": "Is your AI music tool next?",
+      "description": "Sony and UMG sued Suno again for scraping copyrighted tracks. The outcome could reshape every AI music tool you rely on.",
+      "visual_hint": "Gavel on judge's bench, tense mood",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "courtroom gavel"
+    },
+    {
+      "hook": "Suno scraped copyrighted songs, lawsuit claims",
+      "description": "The new lawsuit alleges Suno trained its AI on protected music without permission. If proven, it sets a legal precedent for all AI startups.",
+      "visual_hint": "Server racks glowing in dark data center",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Suno says its AI is fair use",
+      "description": "Suno defends itself with transformative fair use, the same argument that saved Google Books. But music may be treated differently by courts.",
+      "visual_hint": "Scales of justice close-up, balanced",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "scales justice",
+      "image": "https://images.pexels.com/photos/5669619/pexels-photo-5669619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Licensing deals are coming for AI music",
+      "description": "If labels win, future AI music tools will need licensing deals. That means higher costs, fewer free tools, and a very different landscape.",
+      "visual_hint": "Hand holding contract pen, signing",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "contract signing hand",
+      "image": "https://images.pexels.com/photos/5387261/pexels-photo-5387261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: check your AI music tool",
+      "description": "Comment which AI music tool you use and check if it has a licensing deal. If not, it might be the next lawsuit target.",
+      "visual_hint": "Smartphone screen with music app icons",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone music app",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-26T02:42:10.614Z",
+  "sourceId": "548f5a0f314c2af054529eda9962ad3e"
+}

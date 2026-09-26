@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "crusoe-abandons-1-25b-plan-to-use-boom-turbines-at",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+  "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+  "pubDate": "Fri, 25 Sep 2026 23:11:10 +0000",
+  "slides": [
+    "Crusoe just scrapped a $1.25B plan. Why?",
+    "The plan relied on Boom Supersonic turbines for AI data centers.",
+    "Boom's turbines aren't ready for prime time yet.",
+    "If you're betting on Boom for power, reconsider.",
+    "Check your vendors' readiness before signing."
+  ],
+  "thread_text": [
+    "1. Crusoe Kills $1.25B Plan\n\nA major AI data center build just got cancelled before construction even started, and the reason is the power source it depended on.",
+    "2. Betting on Boom Turbines\n\nThe entire project leaned on Boom Supersonic's turbines to generate electricity for the data center. That was the single point of failure.",
+    "3. Not Ready for Prime Time\n\nBoom's turbine technology is still years away from commercial deployment, so Crusoe had no working power source when the timeline mattered most.",
+    "4. If You're Counting on Boom\n\nAnyone planning AI infrastructure around Boom's power play needs to assume the turbines won't arrive on schedule. Build a backup vendor into the contract.",
+    "5. Check Your Vendors Now\n\nPull up your current power procurement contracts and ask: what happens if this vendor slips a year? If there's no answer, renegotiate today."
+  ],
+  "video_script": [
+    "Crusoe just scrapped a one point two five billion dollar plan.",
+    "It relied on Boom Supersonic turbines for AI data centers.",
+    "Boom's turbines aren't ready for prime time yet.",
+    "If you're betting on Boom for power, reconsider.",
+    "Check your vendors' readiness before signing."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Crusoe Kills $1.25B Plan\n\nA major AI data center build just got cancelled before construction even started, and the reason is the power source it depended on.",
+        "2. Betting on Boom Turbines\n\nThe entire project leaned on Boom Supersonic's turbines to generate electricity for the data center. That was the single point of failure.",
+        "3. Not Ready for Prime Time\n\nBoom's turbine technology is still years away from commercial deployment, so Crusoe had no working power source when the timeline mattered most.",
+        "4. If You're Counting on Boom\n\nAnyone planning AI infrastructure around Boom's power play needs to assume the turbines won't arrive on schedule. Build a backup vendor into the contract.",
+        "5. Check Your Vendors Now\n\nPull up your current power procurement contracts and ask: what happens if this vendor slips a year? If there's no answer, renegotiate today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Crusoe just scrapped a one point two five billion dollar plan.",
+        "It relied on Boom Supersonic turbines for AI data centers.",
+        "Boom's turbines aren't ready for prime time yet.",
+        "If you're betting on Boom for power, reconsider.",
+        "Check your vendors' readiness before signing."
+      ]
+    },
+    "instagram": {
+      "caption": "A $1.25 billion AI data center plan just died before construction started. 🏗️\n\nCrusoe cancelled it because the whole project depended on Boom Supersonic turbines for power.\n\nBoom's turbines aren't commercially ready yet, so there was no working energy source when the timeline mattered.\n\nIf you publish or build around AI infrastructure, don't assume vendor promises ship on time. ⚡\n\nAnyone planning capacity around a single power vendor is exposed.\n\nWhat's your backup if your power supplier slips a year? 🔌"
+    }
+  },
+  "instagram_caption": "A $1.25 billion AI data center plan just died before construction started. 🏗️\n\nCrusoe cancelled it because the whole project depended on Boom Supersonic turbines for power.\n\nBoom's turbines aren't commercially ready yet, so there was no working energy source when the timeline mattered.\n\nIf you publish or build around AI infrastructure, don't assume vendor promises ship on time. ⚡\n\nAnyone planning capacity around a single power vendor is exposed.\n\nWhat's your backup if your power supplier slips a year? 🔌",
+  "carousel_slides": [
+    {
+      "hook": "Power source risk killed a $1.25B project",
+      "description": "Crusoe abandoned a major AI data center because Boom Supersonic's turbines weren't ready, leaving no working power source.",
+      "visual_hint": "Data center construction site halted",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "abandoned construction site"
+    },
+    {
+      "hook": "They bet everything on one turbine vendor",
+      "description": "The entire plan relied on Boom Supersonic turbines for electricity, making that single vendor the critical point of failure.",
+      "visual_hint": "Single turbine spotlight in facility",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "industrial gas turbine",
+      "image": "https://images.pexels.com/photos/35596446/pexels-photo-35596446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Boom turbines are still years away",
+      "description": "Boom's turbine technology hasn't reached commercial deployment, so Crusoe had no functional power source when deadlines hit.",
+      "visual_hint": "Prototype turbine under development",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "turbine engine prototype",
+      "image": "https://images.pexels.com/photos/5262803/pexels-photo-5262803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Don't assume Boom will deliver on time",
+      "description": "If you're building AI infrastructure around Boom's power play, plan for delays and secure a backup vendor in your contract.",
+      "visual_hint": "Business hand reviewing contract",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "business contract signing",
+      "image": "https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your power contracts today",
+      "description": "Ask: what happens if your vendor slips a year? No answer means renegotiate now. Save this for your next procurement review.",
+      "visual_hint": "Contract with warning sticky note",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "procurement documents desk",
+      "image": "https://images.pexels.com/photos/7875799/pexels-photo-7875799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/12/Boom_Superpower_Hero_Dec2025.jpg?resize=1200,675",
+  "savedAt": "2026-09-26T02:41:53.117Z",
+  "sourceId": "4dc5a9b388b90b3e3268e3b3dfc8effb"
+}
