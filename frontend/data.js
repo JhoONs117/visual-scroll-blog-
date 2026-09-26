@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "can-cloudflare-ceo-matthew-prince-save-the-web-fro",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+    "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+    "pubDate": "2026-09-26T14:00:00.000Z",
+    "slides": [
+      "Matthew Prince: Can Cloudflare save the web from AI?",
+      "AI crawlers are scraping sites without payment or permission.",
+      "Surprise: Cloudflare now blocks all AI crawlers, no exception.",
+      "Publishers can ensure their content is used on their terms.",
+      "Monitor your site's traffic for AI bots, adjust now."
+    ],
+    "thread_text": [
+      "1. Cloudflare's AI blockade\n\nMatthew Prince just flipped the switch: every AI crawler now hits a wall. No deal, no access.",
+      "2. Scraping without consent\n\nFor years, bots have been hoovering up articles, images, and data without a cent or a permission slip. That era might be ending.",
+      "3. Publishers get leverage\n\nCloudflare's default is block, but site owners can set their own terms. Want to charge? Whitelist? It's finally a choice.",
+      "4. Why this matters now\n\nIf AI firms can't scrape freely, they'll have to negotiate. That shifts power from Silicon Valley back to creators.",
+      "5. Check your traffic today\n\nLog into your analytics and look for AI bot hits. If you see them, you now have a switch to flip. Have you checked yours?"
+    ],
+    "video_script": [
+      "Matthew Prince wants to stop AI from scraping the web.",
+      "AI crawlers take content without paying or asking.",
+      "Cloudflare now blocks all AI bots by default.",
+      "Publishers can set their own terms for access.",
+      "Check your site traffic for AI bots today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Cloudflare's AI blockade\n\nMatthew Prince just flipped the switch: every AI crawler now hits a wall. No deal, no access.",
+          "2. Scraping without consent\n\nFor years, bots have been hoovering up articles, images, and data without a cent or a permission slip. That era might be ending.",
+          "3. Publishers get leverage\n\nCloudflare's default is block, but site owners can set their own terms. Want to charge? Whitelist? It's finally a choice.",
+          "4. Why this matters now\n\nIf AI firms can't scrape freely, they'll have to negotiate. That shifts power from Silicon Valley back to creators.",
+          "5. Check your traffic today\n\nLog into your analytics and look for AI bot hits. If you see them, you now have a switch to flip. Have you checked yours?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Matthew Prince wants to stop AI from scraping the web.",
+          "AI crawlers take content without paying or asking.",
+          "Cloudflare now blocks all AI bots by default.",
+          "Publishers can set their own terms for access.",
+          "Check your site traffic for AI bots today."
+        ]
+      },
+      "instagram": {
+        "caption": "Every AI crawler that used to scrape websites for free now hits a blocked door.\n\nCloudflare flipped the switch: no payment, no permission, no access. 👀\n\nThe default is block, but publishers can set their own terms — whitelist, charge, or stay closed.\n\nIf AI firms can't scrape freely, they'll have to negotiate instead of taking. 🤝\n\nThat shifts leverage from Silicon Valley back to whoever makes the content.\n\nCheck your analytics for AI bot hits today. 🔍 You now have a switch to flip — have you looked at yours?"
+      }
+    },
+    "instagram_caption": "Every AI crawler that used to scrape websites for free now hits a blocked door.\n\nCloudflare flipped the switch: no payment, no permission, no access. 👀\n\nThe default is block, but publishers can set their own terms — whitelist, charge, or stay closed.\n\nIf AI firms can't scrape freely, they'll have to negotiate instead of taking. 🤝\n\nThat shifts leverage from Silicon Valley back to whoever makes the content.\n\nCheck your analytics for AI bot hits today. 🔍 You now have a switch to flip — have you looked at yours?",
+    "carousel_slides": [
+      {
+        "hook": "Cloudflare blocks AI crawlers by default",
+        "description": "Matthew Prince flipped a switch: every AI crawler now hits a wall, no deal, no access.",
+        "visual_hint": "Wall of code blocking robots",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "AI bots scrape without asking or paying",
+        "description": "For years, crawlers have hoovered up articles and data without permission or a cent. That era may end.",
+        "visual_hint": "Robot hands grabbing documents",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Surprise: Cloudflare now blocks all AI crawlers",
+        "description": "The default is block, but publishers can set their own terms: whitelist, charge, or refuse.",
+        "visual_hint": "Toggle switch labeled AI block",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "network switch",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Publishers finally get leverage over AI firms",
+        "description": "If AI firms can't scrape freely, they must negotiate. Power shifts from Silicon Valley back to creators.",
+        "visual_hint": "Handshake over contract papers",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "business handshake",
+        "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your traffic for AI bots now",
+        "description": "Log into analytics, look for AI bot hits, and flip the switch. Save this post and check today.",
+        "visual_hint": "Analytics dashboard with bot hits",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "analytics dashboard",
+        "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-09-26T20:24:39.978Z",
+    "sourceId": "3aa3a6348b5a2753d8028c057132baa8"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "automattic-has-a-new-board-after-failed-attempt-to",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Automattic has a new board after failed attempt to put CEO on leave",
+    "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+    "pubDate": "Fri, 25 Sep 2026 23:04:34 +0000",
+    "slides": [
+      "Automattic's board shake-up: what really happened?",
+      "Failed attempt to put CEO on leave",
+      "But new board members may challenge him",
+      "Watch for policy shifts at WordPress and Tumblr",
+      "Boards that move early shape company direction"
+    ],
+    "thread_text": [
+      "1. The boardroom coup that wasn't\n\nAutomattic's board tried to put CEO Matt Mullenweg on leave. It failed — but the fight is far from over.",
+      "2. The failed leave attempt\n\nA majority of the board voted to sideline Mullenweg. He refused. The move exposed a deeper power struggle over control.",
+      "3. New board members, new threats\n\nFresh faces on the board aren't loyalists. They're already questioning Mullenweg's decisions on WordPress and Tumblr.",
+      "4. Policy shifts are coming\n\nWatch for changes to WordPress dot com's moderation rules, Tumblr's content policies, and how Automattic handles its open-source community.",
+      "5. What boards do early matters\n\nIf you're building a company, decide now: who has real power when the CEO and board clash? Test your own governance plan with a simple scenario."
+    ],
+    "video_script": [
+      "Automattic's board tried to put the CEO on leave.",
+      "The attempt failed. But the board didn't back down.",
+      "New members are now challenging his control over WordPress and Tumblr.",
+      "Policy shifts could hit the open-source community and content rules.",
+      "Boards that move early shape everything. So should yours."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The boardroom coup that wasn't\n\nAutomattic's board tried to put CEO Matt Mullenweg on leave. It failed — but the fight is far from over.",
+          "2. The failed leave attempt\n\nA majority of the board voted to sideline Mullenweg. He refused. The move exposed a deeper power struggle over control.",
+          "3. New board members, new threats\n\nFresh faces on the board aren't loyalists. They're already questioning Mullenweg's decisions on WordPress and Tumblr.",
+          "4. Policy shifts are coming\n\nWatch for changes to WordPress dot com's moderation rules, Tumblr's content policies, and how Automattic handles its open-source community.",
+          "5. What boards do early matters\n\nIf you're building a company, decide now: who has real power when the CEO and board clash? Test your own governance plan with a simple scenario."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Automattic's board tried to put the CEO on leave.",
+          "The attempt failed. But the board didn't back down.",
+          "New members are now challenging his control over WordPress and Tumblr.",
+          "Policy shifts could hit the open-source community and content rules.",
+          "Boards that move early shape everything. So should yours."
+        ]
+      },
+      "instagram": {
+        "caption": "A majority of Automattic's board voted to put CEO Matt Mullenweg on leave. He refused, and the attempt failed. 🗳️\n\nNow the company has a new board, and the new members aren't loyalists. They're already questioning his calls on WordPress and Tumblr.\n\nFor anyone who publishes on WordPress.com or Tumblr, moderation rules and content policies could shift.\n\nIf you run a site on either platform, would you want to know who actually holds power before those changes land?"
+      }
+    },
+    "instagram_caption": "A majority of Automattic's board voted to put CEO Matt Mullenweg on leave. He refused, and the attempt failed. 🗳️\n\nNow the company has a new board, and the new members aren't loyalists. They're already questioning his calls on WordPress and Tumblr.\n\nFor anyone who publishes on WordPress.com or Tumblr, moderation rules and content policies could shift.\n\nIf you run a site on either platform, would you want to know who actually holds power before those changes land?",
+    "carousel_slides": [
+      {
+        "hook": "Who really controls Automattic?",
+        "description": "A board majority voted to sideline CEO Matt Mullenweg; he refused, exposing a deeper power struggle for control.",
+        "visual_hint": "Empty boardroom table, dramatic lighting",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "boardroom table empty"
+      },
+      {
+        "hook": "The leave attempt that failed",
+        "description": "The board tried to put Mullenweg on leave. He refused. The move revealed a fight over who really leads.",
+        "visual_hint": "Gavel striking, close-up, tension",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "gavel close up",
+        "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "New board members aren't loyalists",
+        "description": "Fresh faces are already questioning Mullenweg's decisions on WordPress and Tumblr. Expect pushback.",
+        "visual_hint": "Skeptical faces in meeting, diverse",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "office meeting diverse",
+        "image": "https://images.pexels.com/photos/5945799/pexels-photo-5945799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Policy shifts are coming soon",
+        "description": "Watch for changes to WordPress moderation, Tumblr content policies, and how Automattic handles its open-source community.",
+        "visual_hint": "Code on screen, warning signs",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "code screen warning",
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test your own governance",
+        "description": "Decide now: who has real power when CEO and board clash? Draft your own scenario. Link in bio for tools.",
+        "visual_hint": "Hand writing checklist, close-up",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "hand writing checklist",
+        "image": "https://images.pexels.com/photos/8450476/pexels-photo-8450476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Matt-Mullenweg.jpg?resize=1200,799",
+    "savedAt": "2026-09-26T20:24:32.577Z",
+    "sourceId": "270ddc73097a5e1300f3794f81228d22"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-pauses-training-of-its-most-capable-models-",
     "prompt_version": "1.0.0",
     "status": "published",
