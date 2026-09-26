@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-pauses-training-of-its-most-capable-models-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI pauses training of its ‘most capable models’",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+  "pubDate": "2026-09-26T16:34:59.000Z",
+  "slides": [
+    "OpenAI just paused training its most capable models. Why?",
+    "A new safety framework flags risks before training begins.",
+    "The pause isn't due to failure—it's a deliberate red-team test.",
+    "If you build on OpenAI, your release schedule may shift.",
+    "Check if your roadmap depends on unreleased model versions."
+  ],
+  "thread_text": [
+    "1. OpenAI Pauses Its Best Models\n\nTraining stopped on the most capable systems before release. Not a failure—a planned safety test.",
+    "2. Safety Before Training\n\nA new framework flags risks before a single GPU spins up. Red-teaming now starts at the design stage.",
+    "3. The Pause Is the Test\n\nThis isn't a breakdown. It's a deliberate stress test to see if safety holds under pressure.",
+    "4. Your Release Schedule Shifts\n\nIf your product depends on OpenAI's next model, your roadmap may need a backup plan. Start mapping alternatives now.",
+    "5. Check Your Roadmap Today\n\nList every feature tied to an unreleased model. If it's more than one, you have a single point of failure."
+  ],
+  "video_script": [
+    "OpenAI just paused training its most powerful models.",
+    "A new safety framework checks risks before training even starts.",
+    "It's not a failure—it's a deliberate red-team test.",
+    "If you build on OpenAI, your release schedule could shift.",
+    "Check your roadmap: does it depend on unreleased models?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI Pauses Its Best Models\n\nTraining stopped on the most capable systems before release. Not a failure—a planned safety test.",
+        "2. Safety Before Training\n\nA new framework flags risks before a single GPU spins up. Red-teaming now starts at the design stage.",
+        "3. The Pause Is the Test\n\nThis isn't a breakdown. It's a deliberate stress test to see if safety holds under pressure.",
+        "4. Your Release Schedule Shifts\n\nIf your product depends on OpenAI's next model, your roadmap may need a backup plan. Start mapping alternatives now.",
+        "5. Check Your Roadmap Today\n\nList every feature tied to an unreleased model. If it's more than one, you have a single point of failure."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI just paused training its most powerful models.",
+        "A new safety framework checks risks before training even starts.",
+        "It's not a failure—it's a deliberate red-team test.",
+        "If you build on OpenAI, your release schedule could shift.",
+        "Check your roadmap: does it depend on unreleased models?"
+      ]
+    },
+    "instagram": {
+      "caption": "Training just stopped on OpenAI's most capable models — and it wasn't a crash. 🛑\n\nA new safety framework now flags risks before training even starts, with red-teaming moved to the design stage.\n\nThe pause itself is the test: a deliberate stress check, not a failure.\n\nIf your product roadmap leans on OpenAI's next model, your release schedule may shift. ⚠️\n\nMake a list of every feature tied to an unreleased model. If it's more than one, you've got a single point of failure. 🔧\n\nSo what's your backup plan if that model slips a quarter? 🤔"
+    }
+  },
+  "instagram_caption": "Training just stopped on OpenAI's most capable models — and it wasn't a crash. 🛑\n\nA new safety framework now flags risks before training even starts, with red-teaming moved to the design stage.\n\nThe pause itself is the test: a deliberate stress check, not a failure.\n\nIf your product roadmap leans on OpenAI's next model, your release schedule may shift. ⚠️\n\nMake a list of every feature tied to an unreleased model. If it's more than one, you've got a single point of failure. 🔧\n\nSo what's your backup plan if that model slips a quarter? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Is the pause the real test?",
+      "description": "OpenAI stopped training its most capable models—not from failure, but to deliberately stress-test whether safety holds under pressure.",
+      "visual_hint": "Large glowing server rack in dark room",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Safety now starts before training",
+      "description": "A new framework flags risks before a single GPU spins up, pushing red-teaming into the design stage rather than post-release.",
+      "visual_hint": "Engineer inspecting circuit board early stage",
+      "layout_type": "right-focus",
+      "icon": "check",
+      "image_query": "circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "This isn't a breakdown, it's a stress test",
+      "description": "The training pause is deliberate red-teaming: engineers want to see if safety protocols survive extreme pressure before any public release.",
+      "visual_hint": "Close-up GPU chip under blue light",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "GPU chip",
+      "image": "https://images.pexels.com/photos/34552801/pexels-photo-34552801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your release schedule may shift",
+      "description": "If your product depends on OpenAI's next model, the pause could delay your roadmap. Start mapping backup model providers now.",
+      "visual_hint": "Product manager adjusting timeline on whiteboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "whiteboard planning",
+      "image": "https://images.pexels.com/photos/7430339/pexels-photo-7430339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: check your roadmap today",
+      "description": "List every feature tied to an unreleased OpenAI model. If more than one, you have a single point of failure—comment your count below.",
+      "visual_hint": "Hands writing checklist on notebook",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist notebook",
+      "image": "https://images.pexels.com/photos/8450476/pexels-photo-8450476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-26T17:37:41.002Z",
+  "sourceId": "ff2e233268a7a84e35062dd6b1dc9208"
+}

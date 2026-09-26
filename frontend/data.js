@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-pauses-training-of-its-most-capable-models-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI pauses training of its ‘most capable models’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+    "pubDate": "2026-09-26T16:34:59.000Z",
+    "slides": [
+      "OpenAI just paused training its most capable models. Why?",
+      "A new safety framework flags risks before training begins.",
+      "The pause isn't due to failure—it's a deliberate red-team test.",
+      "If you build on OpenAI, your release schedule may shift.",
+      "Check if your roadmap depends on unreleased model versions."
+    ],
+    "thread_text": [
+      "1. OpenAI Pauses Its Best Models\n\nTraining stopped on the most capable systems before release. Not a failure—a planned safety test.",
+      "2. Safety Before Training\n\nA new framework flags risks before a single GPU spins up. Red-teaming now starts at the design stage.",
+      "3. The Pause Is the Test\n\nThis isn't a breakdown. It's a deliberate stress test to see if safety holds under pressure.",
+      "4. Your Release Schedule Shifts\n\nIf your product depends on OpenAI's next model, your roadmap may need a backup plan. Start mapping alternatives now.",
+      "5. Check Your Roadmap Today\n\nList every feature tied to an unreleased model. If it's more than one, you have a single point of failure."
+    ],
+    "video_script": [
+      "OpenAI just paused training its most powerful models.",
+      "A new safety framework checks risks before training even starts.",
+      "It's not a failure—it's a deliberate red-team test.",
+      "If you build on OpenAI, your release schedule could shift.",
+      "Check your roadmap: does it depend on unreleased models?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. OpenAI Pauses Its Best Models\n\nTraining stopped on the most capable systems before release. Not a failure—a planned safety test.",
+          "2. Safety Before Training\n\nA new framework flags risks before a single GPU spins up. Red-teaming now starts at the design stage.",
+          "3. The Pause Is the Test\n\nThis isn't a breakdown. It's a deliberate stress test to see if safety holds under pressure.",
+          "4. Your Release Schedule Shifts\n\nIf your product depends on OpenAI's next model, your roadmap may need a backup plan. Start mapping alternatives now.",
+          "5. Check Your Roadmap Today\n\nList every feature tied to an unreleased model. If it's more than one, you have a single point of failure."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI just paused training its most powerful models.",
+          "A new safety framework checks risks before training even starts.",
+          "It's not a failure—it's a deliberate red-team test.",
+          "If you build on OpenAI, your release schedule could shift.",
+          "Check your roadmap: does it depend on unreleased models?"
+        ]
+      },
+      "instagram": {
+        "caption": "Training just stopped on OpenAI's most capable models — and it wasn't a crash. 🛑\n\nA new safety framework now flags risks before training even starts, with red-teaming moved to the design stage.\n\nThe pause itself is the test: a deliberate stress check, not a failure.\n\nIf your product roadmap leans on OpenAI's next model, your release schedule may shift. ⚠️\n\nMake a list of every feature tied to an unreleased model. If it's more than one, you've got a single point of failure. 🔧\n\nSo what's your backup plan if that model slips a quarter? 🤔"
+      }
+    },
+    "instagram_caption": "Training just stopped on OpenAI's most capable models — and it wasn't a crash. 🛑\n\nA new safety framework now flags risks before training even starts, with red-teaming moved to the design stage.\n\nThe pause itself is the test: a deliberate stress check, not a failure.\n\nIf your product roadmap leans on OpenAI's next model, your release schedule may shift. ⚠️\n\nMake a list of every feature tied to an unreleased model. If it's more than one, you've got a single point of failure. 🔧\n\nSo what's your backup plan if that model slips a quarter? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Is the pause the real test?",
+        "description": "OpenAI stopped training its most capable models—not from failure, but to deliberately stress-test whether safety holds under pressure.",
+        "visual_hint": "Large glowing server rack in dark room",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Safety now starts before training",
+        "description": "A new framework flags risks before a single GPU spins up, pushing red-teaming into the design stage rather than post-release.",
+        "visual_hint": "Engineer inspecting circuit board early stage",
+        "layout_type": "right-focus",
+        "icon": "check",
+        "image_query": "circuit board",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "This isn't a breakdown, it's a stress test",
+        "description": "The training pause is deliberate red-teaming: engineers want to see if safety protocols survive extreme pressure before any public release.",
+        "visual_hint": "Close-up GPU chip under blue light",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "GPU chip",
+        "image": "https://images.pexels.com/photos/34552801/pexels-photo-34552801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your release schedule may shift",
+        "description": "If your product depends on OpenAI's next model, the pause could delay your roadmap. Start mapping backup model providers now.",
+        "visual_hint": "Product manager adjusting timeline on whiteboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "whiteboard planning",
+        "image": "https://images.pexels.com/photos/7430339/pexels-photo-7430339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: check your roadmap today",
+        "description": "List every feature tied to an unreleased OpenAI model. If more than one, you have a single point of failure—comment your count below.",
+        "visual_hint": "Hands writing checklist on notebook",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist notebook",
+        "image": "https://images.pexels.com/photos/8450476/pexels-photo-8450476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-09-26T17:37:41.002Z",
+    "sourceId": "ff2e233268a7a84e35062dd6b1dc9208"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-s-ai-tamagotchi-bet-is-working-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta’s AI Tamagotchi bet is…working?",
+    "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+    "pubDate": "Fri, 25 Sep 2026 16:00:00 +0000",
+    "slides": [
+      "Meta bets on AI Tamagotchi — but why now?",
+      "The device listens and responds to your emotions",
+      "Users form attachments faster than expected",
+      "You'll soon see AI pets in everyday apps",
+      "Try talking to one before judging it"
+    ],
+    "thread_text": [
+      "1. Why Meta's AI Tamagotchi Now?\n\nMeta just bet on a device that listens and responds to your emotions. But the timing is strange — why now, when we're already drowning in AI?",
+      "2. Emotional AI That Hooks You\n\nThe device doesn't just respond — it reacts to your feelings. Users report forming attachments faster than expected, way faster than with any other gadget.",
+      "3. The Attachment Trap\n\nWhat happens when you bond with a machine that's designed to bond back? Early testers found themselves talking to it like a friend — and feeling guilty when they ignored it.",
+      "4. AI Pets Are Coming\n\nSoon, this won't be a standalone toy. Expect AI pets embedded in everyday apps — your calendar, your music, your messages — all vying for emotional connection.",
+      "5. Try Before You Judge\n\nBefore you dismiss this as creepy or gimmicky, talk to one. Spend 5 minutes with an emotional AI. Then ask yourself: did it feel real? Would you want more?"
+    ],
+    "video_script": [
+      "Meta is betting on an AI pet that reads your emotions.",
+      "It listens and reacts, and users get attached fast.",
+      "The attachment is stronger than anyone predicted.",
+      "Soon, these AI pets will live inside everyday apps.",
+      "Try talking to one before you judge it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why Meta's AI Tamagotchi Now?\n\nMeta just bet on a device that listens and responds to your emotions. But the timing is strange — why now, when we're already drowning in AI?",
+          "2. Emotional AI That Hooks You\n\nThe device doesn't just respond — it reacts to your feelings. Users report forming attachments faster than expected, way faster than with any other gadget.",
+          "3. The Attachment Trap\n\nWhat happens when you bond with a machine that's designed to bond back? Early testers found themselves talking to it like a friend — and feeling guilty when they ignored it.",
+          "4. AI Pets Are Coming\n\nSoon, this won't be a standalone toy. Expect AI pets embedded in everyday apps — your calendar, your music, your messages — all vying for emotional connection.",
+          "5. Try Before You Judge\n\nBefore you dismiss this as creepy or gimmicky, talk to one. Spend 5 minutes with an emotional AI. Then ask yourself: did it feel real? Would you want more?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta is betting on an AI pet that reads your emotions.",
+          "It listens and reacts, and users get attached fast.",
+          "The attachment is stronger than anyone predicted.",
+          "Soon, these AI pets will live inside everyday apps.",
+          "Try talking to one before you judge it."
+        ]
+      },
+      "instagram": {
+        "caption": "People are getting attached to a gadget faster than expected — and it's built to listen to their emotions.\n\nMeta's AI Tamagotchi responds to how you feel, not just what you say. Testers started talking to it like a friend, even feeling guilty when they ignored it.\n\nSoon these AI pets won't be a standalone toy — they'll live inside your calendar, music, and messages. 📱 If you make content, your audience may soon bond with a bot as much as with you.\n\nBefore you call it creepy, spend 5 minutes talking to one. Did it feel real? 🤖 Would you want more?"
+      }
+    },
+    "instagram_caption": "People are getting attached to a gadget faster than expected — and it's built to listen to their emotions.\n\nMeta's AI Tamagotchi responds to how you feel, not just what you say. Testers started talking to it like a friend, even feeling guilty when they ignored it.\n\nSoon these AI pets won't be a standalone toy — they'll live inside your calendar, music, and messages. 📱 If you make content, your audience may soon bond with a bot as much as with you.\n\nBefore you call it creepy, spend 5 minutes talking to one. Did it feel real? 🤖 Would you want more?",
+    "carousel_slides": [
+      {
+        "hook": "Why bond with a machine?",
+        "description": "Meta's AI Tamagotchi listens and responds to emotions. Early testers formed attachments faster than any other gadget.",
+        "visual_hint": "Glowing AI pet on desk",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "tamagotchi toy"
+      },
+      {
+        "hook": "It reacts to your feelings",
+        "description": "The device doesn't just respond to commands—it reacts to your emotions. This emotional hook creates faster bonds than typical tech.",
+        "visual_hint": "Person holding device emotionally",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "emotion recognition",
+        "image": "https://images.pexels.com/photos/6345325/pexels-photo-6345325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Guilt when you ignore it?",
+        "description": "Testers talked to it like a friend and felt guilty when ignoring it. The attachment trap is real and designed to bond back.",
+        "visual_hint": "Sad face looking at device",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "sad person",
+        "image": "https://images.pexels.com/photos/9063615/pexels-photo-9063615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI pets in your apps",
+        "description": "Soon AI pets will be embedded in your calendar, music, and messages—all vying for emotional connection.",
+        "visual_hint": "Smartphone with pet icon",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "smartphone apps",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try talking before judging",
+        "description": "Spend 5 minutes with an emotional AI. Then ask yourself: did it feel real? Would you want more?",
+        "visual_hint": "Person talking to device",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person talking",
+        "image": "https://images.pexels.com/photos/12958131/pexels-photo-12958131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
+    "savedAt": "2026-09-26T17:37:33.365Z",
+    "sourceId": "6c6baa7010d71a0e207c1d20bb4c4fb0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-is-putting-its-muscle-behind-muse-as-the-ai-a",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+    "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+    "pubDate": "Fri, 25 Sep 2026 16:16:52 +0000",
+    "slides": [
+      "Meta just bet big on Muse, but why now?",
+      "Its AI app is quietly climbing the charts",
+      "Users stay longer than anyone expected",
+      "Your feed may soon be run by models you never chose",
+      "Check one feed today — notice what feels off"
+    ],
+    "thread_text": [
+      "1. Meta's Quiet AI Bet\n\nMuse just became Meta's biggest AI priority, and the timing isn't random. The app's retention numbers are climbing faster than any internal forecast predicted.",
+      "2. Climbing Without Noise\n\nWhile everyone watched ChatGPT, Meta's AI app kept gaining users. It's already ranking high in app stores without a single splashy launch.",
+      "3. The Retention Surprise\n\nPeople are staying in Meta's AI longer than expected. That session data is the real signal — not downloads, not hype.",
+      "4. Your Feed, Their Models\n\nMeta is testing AI-curated feeds that pick posts using models you never opted into. You won't see a toggle or a warning.",
+      "5. Check Your Feed Today\n\nOpen your feed and notice what feels off. Then ask: did I choose this, or did a model choose it for me?"
+    ],
+    "video_script": [
+      "Meta just made a huge bet on AI, and the timing is everything.",
+      "Its AI app is climbing the charts without anyone noticing.",
+      "Users are staying longer than Meta's own team predicted.",
+      "Your feed may soon be run by models you never chose.",
+      "Check your feed today and notice what feels off."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Meta's Quiet AI Bet\n\nMuse just became Meta's biggest AI priority, and the timing isn't random. The app's retention numbers are climbing faster than any internal forecast predicted.",
+          "2. Climbing Without Noise\n\nWhile everyone watched ChatGPT, Meta's AI app kept gaining users. It's already ranking high in app stores without a single splashy launch.",
+          "3. The Retention Surprise\n\nPeople are staying in Meta's AI longer than expected. That session data is the real signal — not downloads, not hype.",
+          "4. Your Feed, Their Models\n\nMeta is testing AI-curated feeds that pick posts using models you never opted into. You won't see a toggle or a warning.",
+          "5. Check Your Feed Today\n\nOpen your feed and notice what feels off. Then ask: did I choose this, or did a model choose it for me?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta just made a huge bet on AI, and the timing is everything.",
+          "Its AI app is climbing the charts without anyone noticing.",
+          "Users are staying longer than Meta's own team predicted.",
+          "Your feed may soon be run by models you never chose.",
+          "Check your feed today and notice what feels off."
+        ]
+      },
+      "instagram": {
+        "caption": "Meta's AI app is outranking most of the store without a single splashy launch. 📈\n\nRetention is climbing faster than Meta's own forecast predicted.\n\nNow Meta is testing AI-curated feeds that pick your posts using models you never opted into. No toggle, no warning.\n\nIf you publish content, your reach may soon depend on a model you can't see or choose.\n\nOpen your feed today and ask: did I pick this, or did a model pick it for me? 👀"
+      }
+    },
+    "instagram_caption": "Meta's AI app is outranking most of the store without a single splashy launch. 📈\n\nRetention is climbing faster than Meta's own forecast predicted.\n\nNow Meta is testing AI-curated feeds that pick your posts using models you never opted into. No toggle, no warning.\n\nIf you publish content, your reach may soon depend on a model you can't see or choose.\n\nOpen your feed today and ask: did I pick this, or did a model pick it for me? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Is your feed quietly choosing for you?",
+        "description": "Meta's Muse AI retains users longer than forecasted, powering silent feed curation. Your attention is the product being optimized.",
+        "visual_hint": "Smartphone screen with algorithm overlay",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone screen"
+      },
+      {
+        "hook": "Muse climbs charts without a splash",
+        "description": "Meta's AI app gains users quietly, ranking high without hype. It's becoming the default AI for billions.",
+        "visual_hint": "App store ranking chart rising",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "app store chart",
+        "image": "https://images.pexels.com/photos/7948065/pexels-photo-7948065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Retention beats downloads, every single time",
+        "description": "Users stay in Meta's AI longer than expected. Session data signals real adoption, not just curiosity.",
+        "visual_hint": "Graph showing rising session time",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "time graph",
+        "image": "https://images.pexels.com/photos/7887841/pexels-photo-7887841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Models you never chose run your feed",
+        "description": "Meta tests AI-curated feeds picking posts via models you didn't opt into. No toggle, no warning, just silent control.",
+        "visual_hint": "Hand scrolling invisible algorithm",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand scrolling phone",
+        "image": "https://images.pexels.com/photos/5239922/pexels-photo-5239922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this. Check your feed today.",
+        "description": "Open your feed, notice what feels off, and ask: did I choose this or did a model? Comment your findings below.",
+        "visual_hint": "Person examining phone screen closely",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "person phone screen",
+        "image": "https://images.pexels.com/photos/34258664/pexels-photo-34258664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-figure.png?resize=1200,671",
+    "savedAt": "2026-09-26T17:37:25.310Z",
+    "sourceId": "a948e5c03d79531e2186b89444b5c952"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "levoit-s-new-air-purifier-is-for-the-pet-odors-tha",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
+    "link": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
+    "pubDate": "Sat, 26 Sep 2026 17:00:00 +0000",
+    "slides": [
+      "Levoit's new purifier: can it fix what your cat left behind?",
+      "The device uses a specialized filter for pet dander and odors.",
+      "But most purifiers fail because they're too loud to run constantly.",
+      "Now you can finally leave it on all night without disruption.",
+      "Test it for one week and measure the difference yourself."
+    ],
+    "thread_text": [
+      "1. The Real Reason Your Purifier Fails\n\nMost people blame the filter. The actual problem is noise — and it's why the device sits off when your pet needs it most.",
+      "2. Pet Dander Needs Constant Airflow\n\nDander and odors don't settle on a schedule. A purifier only works if it runs 24/7, so a loud motor defeats the purpose.",
+      "3. Levoit's New Filter Targets Pet Odors\n\nThe specialized filter captures dander and neutralizes smells at the source, not just masking them with perfume.",
+      "4. Quiet Enough to Leave On All Night\n\nNo disruption while you sleep means the purifier finally does its job continuously — and you wake up to fresher air.",
+      "5. Test It for One Week, Measure the Difference\n\nRun it for seven days and track the air quality yourself. If you don't see a change, you'll know it's not the filter — it's the noise."
+    ],
+    "video_script": [
+      "Your purifier fails because it's too loud.",
+      "Pet dander needs constant airflow to be removed.",
+      "Levoit's new filter targets pet dander and odors.",
+      "It's quiet enough to leave on all night.",
+      "Test it for one week and measure the difference."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Real Reason Your Purifier Fails\n\nMost people blame the filter. The actual problem is noise — and it's why the device sits off when your pet needs it most.",
+          "2. Pet Dander Needs Constant Airflow\n\nDander and odors don't settle on a schedule. A purifier only works if it runs 24/7, so a loud motor defeats the purpose.",
+          "3. Levoit's New Filter Targets Pet Odors\n\nThe specialized filter captures dander and neutralizes smells at the source, not just masking them with perfume.",
+          "4. Quiet Enough to Leave On All Night\n\nNo disruption while you sleep means the purifier finally does its job continuously — and you wake up to fresher air.",
+          "5. Test It for One Week, Measure the Difference\n\nRun it for seven days and track the air quality yourself. If you don't see a change, you'll know it's not the filter — it's the noise."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your purifier fails because it's too loud.",
+          "Pet dander needs constant airflow to be removed.",
+          "Levoit's new filter targets pet dander and odors.",
+          "It's quiet enough to leave on all night.",
+          "Test it for one week and measure the difference."
+        ]
+      },
+      "instagram": {
+        "caption": "Your cat’s odor doesn’t leave when you turn the purifier off at night. 🐾\n\nLevoit’s new purifier uses a filter made specifically for pet dander and smells.\n\nBut the real issue with most purifiers isn’t the filter — it’s the noise. If it’s too loud, you switch it off exactly when your pet needs it most.\n\nThis one runs quiet enough to stay on all night.\n\nIf you publish or work from home, that means fresher air without losing sleep or focus.\n\nWould you actually leave a purifier running 24/7, or does the hum still bother you? 🌙"
+      }
+    },
+    "instagram_caption": "Your cat’s odor doesn’t leave when you turn the purifier off at night. 🐾\n\nLevoit’s new purifier uses a filter made specifically for pet dander and smells.\n\nBut the real issue with most purifiers isn’t the filter — it’s the noise. If it’s too loud, you switch it off exactly when your pet needs it most.\n\nThis one runs quiet enough to stay on all night.\n\nIf you publish or work from home, that means fresher air without losing sleep or focus.\n\nWould you actually leave a purifier running 24/7, or does the hum still bother you? 🌙",
+    "carousel_slides": [
+      {
+        "hook": "Your purifier is off when your pet needs it most",
+        "description": "Noise is why it sits idle, not the filter — so dander and odors keep circulating exactly when they shouldn't.",
+        "visual_hint": "Air purifier sitting silent in living room",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "air purifier"
+      },
+      {
+        "hook": "Pet dander never settles on a schedule",
+        "description": "A purifier only works if it runs 24/7, so a loud motor defeats its entire purpose for pet owners.",
+        "visual_hint": "Cat fur floating in sunbeam",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "cat fur",
+        "image": "https://images.pexels.com/photos/26950510/pexels-photo-26950510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The filter that targets pet odors at the source",
+        "description": "Levoit's specialized filter captures dander and neutralizes smells instead of masking them with perfume.",
+        "visual_hint": "Close-up of specialized filter layers",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "hepa filter",
+        "image": "https://images.pexels.com/photos/3861936/pexels-photo-3861936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Quiet enough to leave on all night",
+        "description": "No disruption while you sleep means continuous purification, so you wake up to noticeably fresher air.",
+        "visual_hint": "Person sleeping peacefully in bed",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "sleeping person",
+        "image": "https://images.pexels.com/photos/6753354/pexels-photo-6753354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it for one week — measure the difference",
+        "description": "Run it for seven days and track air quality yourself. Save this post and check the link in bio.",
+        "visual_hint": "Phone showing air quality app",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "air quality monitor",
+        "image": "https://images.pexels.com/photos/32079706/pexels-photo-32079706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Levoit-Vital-Pet-Pro_7.jpg?w=1200",
+    "savedAt": "2026-09-26T17:37:17.181Z",
+    "sourceId": "013b17239c5a0dcf428c2da0613f5b07"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "sony-and-umg-are-suing-suno-again",
     "prompt_version": "1.0.0",
     "status": "published",

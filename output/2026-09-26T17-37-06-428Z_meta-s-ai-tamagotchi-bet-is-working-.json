@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-s-ai-tamagotchi-bet-is-working-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta’s AI Tamagotchi bet is…working?",
+  "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+  "pubDate": "Fri, 25 Sep 2026 16:00:00 +0000",
+  "slides": [
+    "Meta bets on AI Tamagotchi — but why now?",
+    "The device listens and responds to your emotions",
+    "Users form attachments faster than expected",
+    "You'll soon see AI pets in everyday apps",
+    "Try talking to one before judging it"
+  ],
+  "thread_text": [
+    "1. Why Meta's AI Tamagotchi Now?\n\nMeta just bet on a device that listens and responds to your emotions. But the timing is strange — why now, when we're already drowning in AI?",
+    "2. Emotional AI That Hooks You\n\nThe device doesn't just respond — it reacts to your feelings. Users report forming attachments faster than expected, way faster than with any other gadget.",
+    "3. The Attachment Trap\n\nWhat happens when you bond with a machine that's designed to bond back? Early testers found themselves talking to it like a friend — and feeling guilty when they ignored it.",
+    "4. AI Pets Are Coming\n\nSoon, this won't be a standalone toy. Expect AI pets embedded in everyday apps — your calendar, your music, your messages — all vying for emotional connection.",
+    "5. Try Before You Judge\n\nBefore you dismiss this as creepy or gimmicky, talk to one. Spend 5 minutes with an emotional AI. Then ask yourself: did it feel real? Would you want more?"
+  ],
+  "video_script": [
+    "Meta is betting on an AI pet that reads your emotions.",
+    "It listens and reacts, and users get attached fast.",
+    "The attachment is stronger than anyone predicted.",
+    "Soon, these AI pets will live inside everyday apps.",
+    "Try talking to one before you judge it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why Meta's AI Tamagotchi Now?\n\nMeta just bet on a device that listens and responds to your emotions. But the timing is strange — why now, when we're already drowning in AI?",
+        "2. Emotional AI That Hooks You\n\nThe device doesn't just respond — it reacts to your feelings. Users report forming attachments faster than expected, way faster than with any other gadget.",
+        "3. The Attachment Trap\n\nWhat happens when you bond with a machine that's designed to bond back? Early testers found themselves talking to it like a friend — and feeling guilty when they ignored it.",
+        "4. AI Pets Are Coming\n\nSoon, this won't be a standalone toy. Expect AI pets embedded in everyday apps — your calendar, your music, your messages — all vying for emotional connection.",
+        "5. Try Before You Judge\n\nBefore you dismiss this as creepy or gimmicky, talk to one. Spend 5 minutes with an emotional AI. Then ask yourself: did it feel real? Would you want more?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta is betting on an AI pet that reads your emotions.",
+        "It listens and reacts, and users get attached fast.",
+        "The attachment is stronger than anyone predicted.",
+        "Soon, these AI pets will live inside everyday apps.",
+        "Try talking to one before you judge it."
+      ]
+    },
+    "instagram": {
+      "caption": "People are getting attached to a gadget faster than expected — and it's built to listen to their emotions.\n\nMeta's AI Tamagotchi responds to how you feel, not just what you say. Testers started talking to it like a friend, even feeling guilty when they ignored it.\n\nSoon these AI pets won't be a standalone toy — they'll live inside your calendar, music, and messages. 📱 If you make content, your audience may soon bond with a bot as much as with you.\n\nBefore you call it creepy, spend 5 minutes talking to one. Did it feel real? 🤖 Would you want more?"
+    }
+  },
+  "instagram_caption": "People are getting attached to a gadget faster than expected — and it's built to listen to their emotions.\n\nMeta's AI Tamagotchi responds to how you feel, not just what you say. Testers started talking to it like a friend, even feeling guilty when they ignored it.\n\nSoon these AI pets won't be a standalone toy — they'll live inside your calendar, music, and messages. 📱 If you make content, your audience may soon bond with a bot as much as with you.\n\nBefore you call it creepy, spend 5 minutes talking to one. Did it feel real? 🤖 Would you want more?",
+  "carousel_slides": [
+    {
+      "hook": "Why bond with a machine?",
+      "description": "Meta's AI Tamagotchi listens and responds to emotions. Early testers formed attachments faster than any other gadget.",
+      "visual_hint": "Glowing AI pet on desk",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "tamagotchi toy"
+    },
+    {
+      "hook": "It reacts to your feelings",
+      "description": "The device doesn't just respond to commands—it reacts to your emotions. This emotional hook creates faster bonds than typical tech.",
+      "visual_hint": "Person holding device emotionally",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "emotion recognition",
+      "image": "https://images.pexels.com/photos/6345325/pexels-photo-6345325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Guilt when you ignore it?",
+      "description": "Testers talked to it like a friend and felt guilty when ignoring it. The attachment trap is real and designed to bond back.",
+      "visual_hint": "Sad face looking at device",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "sad person",
+      "image": "https://images.pexels.com/photos/9063615/pexels-photo-9063615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI pets in your apps",
+      "description": "Soon AI pets will be embedded in your calendar, music, and messages—all vying for emotional connection.",
+      "visual_hint": "Smartphone with pet icon",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone apps",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try talking before judging",
+      "description": "Spend 5 minutes with an emotional AI. Then ask yourself: did it feel real? Would you want more?",
+      "visual_hint": "Person talking to device",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person talking",
+      "image": "https://images.pexels.com/photos/12958131/pexels-photo-12958131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
+  "savedAt": "2026-09-26T17:37:33.365Z",
+  "sourceId": "6c6baa7010d71a0e207c1d20bb4c4fb0"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-is-putting-its-muscle-behind-muse-as-the-ai-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+  "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+  "pubDate": "Fri, 25 Sep 2026 16:16:52 +0000",
+  "slides": [
+    "Meta just bet big on Muse, but why now?",
+    "Its AI app is quietly climbing the charts",
+    "Users stay longer than anyone expected",
+    "Your feed may soon be run by models you never chose",
+    "Check one feed today — notice what feels off"
+  ],
+  "thread_text": [
+    "1. Meta's Quiet AI Bet\n\nMuse just became Meta's biggest AI priority, and the timing isn't random. The app's retention numbers are climbing faster than any internal forecast predicted.",
+    "2. Climbing Without Noise\n\nWhile everyone watched ChatGPT, Meta's AI app kept gaining users. It's already ranking high in app stores without a single splashy launch.",
+    "3. The Retention Surprise\n\nPeople are staying in Meta's AI longer than expected. That session data is the real signal — not downloads, not hype.",
+    "4. Your Feed, Their Models\n\nMeta is testing AI-curated feeds that pick posts using models you never opted into. You won't see a toggle or a warning.",
+    "5. Check Your Feed Today\n\nOpen your feed and notice what feels off. Then ask: did I choose this, or did a model choose it for me?"
+  ],
+  "video_script": [
+    "Meta just made a huge bet on AI, and the timing is everything.",
+    "Its AI app is climbing the charts without anyone noticing.",
+    "Users are staying longer than Meta's own team predicted.",
+    "Your feed may soon be run by models you never chose.",
+    "Check your feed today and notice what feels off."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta's Quiet AI Bet\n\nMuse just became Meta's biggest AI priority, and the timing isn't random. The app's retention numbers are climbing faster than any internal forecast predicted.",
+        "2. Climbing Without Noise\n\nWhile everyone watched ChatGPT, Meta's AI app kept gaining users. It's already ranking high in app stores without a single splashy launch.",
+        "3. The Retention Surprise\n\nPeople are staying in Meta's AI longer than expected. That session data is the real signal — not downloads, not hype.",
+        "4. Your Feed, Their Models\n\nMeta is testing AI-curated feeds that pick posts using models you never opted into. You won't see a toggle or a warning.",
+        "5. Check Your Feed Today\n\nOpen your feed and notice what feels off. Then ask: did I choose this, or did a model choose it for me?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta just made a huge bet on AI, and the timing is everything.",
+        "Its AI app is climbing the charts without anyone noticing.",
+        "Users are staying longer than Meta's own team predicted.",
+        "Your feed may soon be run by models you never chose.",
+        "Check your feed today and notice what feels off."
+      ]
+    },
+    "instagram": {
+      "caption": "Meta's AI app is outranking most of the store without a single splashy launch. 📈\n\nRetention is climbing faster than Meta's own forecast predicted.\n\nNow Meta is testing AI-curated feeds that pick your posts using models you never opted into. No toggle, no warning.\n\nIf you publish content, your reach may soon depend on a model you can't see or choose.\n\nOpen your feed today and ask: did I pick this, or did a model pick it for me? 👀"
+    }
+  },
+  "instagram_caption": "Meta's AI app is outranking most of the store without a single splashy launch. 📈\n\nRetention is climbing faster than Meta's own forecast predicted.\n\nNow Meta is testing AI-curated feeds that pick your posts using models you never opted into. No toggle, no warning.\n\nIf you publish content, your reach may soon depend on a model you can't see or choose.\n\nOpen your feed today and ask: did I pick this, or did a model pick it for me? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Is your feed quietly choosing for you?",
+      "description": "Meta's Muse AI retains users longer than forecasted, powering silent feed curation. Your attention is the product being optimized.",
+      "visual_hint": "Smartphone screen with algorithm overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone screen"
+    },
+    {
+      "hook": "Muse climbs charts without a splash",
+      "description": "Meta's AI app gains users quietly, ranking high without hype. It's becoming the default AI for billions.",
+      "visual_hint": "App store ranking chart rising",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "app store chart",
+      "image": "https://images.pexels.com/photos/7948065/pexels-photo-7948065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Retention beats downloads, every single time",
+      "description": "Users stay in Meta's AI longer than expected. Session data signals real adoption, not just curiosity.",
+      "visual_hint": "Graph showing rising session time",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "time graph",
+      "image": "https://images.pexels.com/photos/7887841/pexels-photo-7887841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Models you never chose run your feed",
+      "description": "Meta tests AI-curated feeds picking posts via models you didn't opt into. No toggle, no warning, just silent control.",
+      "visual_hint": "Hand scrolling invisible algorithm",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand scrolling phone",
+      "image": "https://images.pexels.com/photos/5239922/pexels-photo-5239922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Check your feed today.",
+      "description": "Open your feed, notice what feels off, and ask: did I choose this or did a model? Comment your findings below.",
+      "visual_hint": "Person examining phone screen closely",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "person phone screen",
+      "image": "https://images.pexels.com/photos/34258664/pexels-photo-34258664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-figure.png?resize=1200,671",
+  "savedAt": "2026-09-26T17:37:25.310Z",
+  "sourceId": "a948e5c03d79531e2186b89444b5c952"
+}
