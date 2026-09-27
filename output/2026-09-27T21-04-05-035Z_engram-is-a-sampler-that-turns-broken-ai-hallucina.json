@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "engram-is-a-sampler-that-turns-broken-ai-hallucina",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Engram is a sampler that turns broken AI hallucinations into music",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+  "pubDate": "2026-09-27T20:46:36.000Z",
+  "slides": [
+    "When AI hallucinates, can it make music?",
+    "Engram turns AI mistakes into sound.",
+    "But the results aren't random noise.",
+    "You can now make music from broken AI.",
+    "Try feeding a hallucination to Engram today."
+  ],
+  "thread_text": [
+    "1. AI Hallucinations Make Music\n\nEngram is a tool that converts AI mistakes into sound. The results are surprisingly musical, not random noise.",
+    "2. From Error to Art\n\nEvery AI hallucination has a unique acoustic fingerprint. Engram captures these patterns and turns them into audio you can play.",
+    "3. Not Just Noise\n\nThe output isn't chaotic static. It's structured sound that you can use as a creative starting point for music.",
+    "4. Your Turn to Create\n\nYou don't need to be a musician. Anyone can feed a hallucination to Engram and get a track in seconds.",
+    "5. Try It Today\n\nGo to ChatGPT, ask for something absurd, then paste the response into Engram. Does the result sound like music to you?"
+  ],
+  "video_script": [
+    "AI hallucinations can now make music.",
+    "Engram turns AI mistakes into sound.",
+    "But the results are not random noise.",
+    "You can make music from broken AI.",
+    "Try feeding a hallucination to Engram today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Hallucinations Make Music\n\nEngram is a tool that converts AI mistakes into sound. The results are surprisingly musical, not random noise.",
+        "2. From Error to Art\n\nEvery AI hallucination has a unique acoustic fingerprint. Engram captures these patterns and turns them into audio you can play.",
+        "3. Not Just Noise\n\nThe output isn't chaotic static. It's structured sound that you can use as a creative starting point for music.",
+        "4. Your Turn to Create\n\nYou don't need to be a musician. Anyone can feed a hallucination to Engram and get a track in seconds.",
+        "5. Try It Today\n\nGo to ChatGPT, ask for something absurd, then paste the response into Engram. Does the result sound like music to you?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI hallucinations can now make music.",
+        "Engram turns AI mistakes into sound.",
+        "But the results are not random noise.",
+        "You can make music from broken AI.",
+        "Try feeding a hallucination to Engram today."
+      ]
+    },
+    "instagram": {
+      "caption": "Every time an AI hallucinates, it leaves a unique acoustic fingerprint.\n\nEngram is a sampler that captures that fingerprint and turns it into sound you can actually play.\n\nThe output isn't chaotic static — it's structured audio, which means it works as a starting point for a track.\n\nSo if you make music or content, a broken AI answer just became raw material you can use in seconds, no instrument needed. 🎛️\n\nGo to ChatGPT, ask for something absurd, paste the reply into Engram, and listen. 🎧\n\nDoes what comes out sound like music to you, or just noise? 🤖"
+    }
+  },
+  "instagram_caption": "Every time an AI hallucinates, it leaves a unique acoustic fingerprint.\n\nEngram is a sampler that captures that fingerprint and turns it into sound you can actually play.\n\nThe output isn't chaotic static — it's structured audio, which means it works as a starting point for a track.\n\nSo if you make music or content, a broken AI answer just became raw material you can use in seconds, no instrument needed. 🎛️\n\nGo to ChatGPT, ask for something absurd, paste the reply into Engram, and listen. 🎧\n\nDoes what comes out sound like music to you, or just noise? 🤖",
+  "carousel_slides": [
+    {
+      "hook": "AI hallucinations become music?",
+      "description": "Engram converts AI mistakes into structured sound, not noise. Every error has a musical fingerprint you can play.",
+      "visual_hint": "Glitchy waveform glowing on dark screen",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "sound waveform"
+    },
+    {
+      "hook": "Every mistake has a sound",
+      "description": "Each AI hallucination carries a unique acoustic pattern. Engram captures these patterns and turns them into audio.",
+      "visual_hint": "Abstract error code morphing into sound waves",
+      "layout_type": "right-focus",
+      "icon": "vibration",
+      "image_query": "audio spectrum",
+      "image": "https://images.pexels.com/photos/16196046/pexels-photo-16196046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Not random noise—real structure",
+      "description": "The output isn't chaotic static. It's structured sound you can use as a creative starting point for music.",
+      "visual_hint": "Clean musical notes emerging from glitchy data",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "music notes",
+      "image": "https://images.pexels.com/photos/7457658/pexels-photo-7457658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Anyone can create a track",
+      "description": "You don't need to be a musician. Feed any hallucination to Engram and get a playable track in seconds.",
+      "layout_type": "human-hand",
+      "visual_hint": "Hand tapping play button on interface",
+      "icon": "check",
+      "image_query": "person using laptop",
+      "image": "https://images.pexels.com/photos/12902986/pexels-photo-12902986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it today—save this",
+      "description": "Go to ChatGPT, ask something absurd, paste the response into Engram. Does it sound like music to you?",
+      "visual_hint": "Split screen: ChatGPT response and Engram player",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "chatgpt interface",
+      "image": "https://images.pexels.com/photos/16027822/pexels-photo-16027822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&amp;strip=all&amp;crop=3.0945578231293%2C0%2C93.810884353741%2C100&amp;w=1200",
+  "savedAt": "2026-09-27T21:04:13.034Z",
+  "sourceId": "14fc67fa9a5092138d41deea88a3503d"
+}
