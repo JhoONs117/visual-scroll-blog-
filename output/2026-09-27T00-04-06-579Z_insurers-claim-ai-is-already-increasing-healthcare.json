@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "insurers-claim-ai-is-already-increasing-healthcare",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Insurers claim AI is already increasing healthcare costs",
+  "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+  "pubDate": "Sat, 26 Sep 2026 21:02:06 +0000",
+  "slides": [
+    "Insurers say AI is driving up healthcare costs. Why?",
+    "They cite increased utilization from AI-assisted diagnoses.",
+    "But some argue AI actually reduces unnecessary procedures.",
+    "Check your next medical bill for AI-related charges.",
+    "Question insurer claims; demand transparent AI cost data."
+  ],
+  "thread_text": [
+    "1. AI Diagnoses, Higher Bills?\n\nInsurers claim AI-assisted diagnoses are driving up healthcare costs by increasing utilization. Is your next bill about to jump?",
+    "2. More Scans, More Money?\n\nAI tools flag suspicious findings earlier, leading to more tests and procedures. Insurers say that's the real cost driver.",
+    "3. But AI Cuts Waste Too\n\nSome studies show AI reduces unnecessary procedures by catching false positives. So why are insurers only talking about higher costs?",
+    "4. Check Your Bill for AI\n\nNext time you get a medical bill, look for new AI-related charges. They're already appearing in some itemized statements.",
+    "5. Demand Transparent Data\n\nAsk your insurer for AI cost breakdowns. If they can't show the numbers, question the claim. Do it today."
+  ],
+  "video_script": [
+    "Insurers blame AI for rising healthcare costs.",
+    "They say AI leads to more tests and procedures.",
+    "But some argue AI reduces unnecessary procedures.",
+    "Check your medical bill for AI charges.",
+    "Question insurer claims and demand transparent data."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Diagnoses, Higher Bills?\n\nInsurers claim AI-assisted diagnoses are driving up healthcare costs by increasing utilization. Is your next bill about to jump?",
+        "2. More Scans, More Money?\n\nAI tools flag suspicious findings earlier, leading to more tests and procedures. Insurers say that's the real cost driver.",
+        "3. But AI Cuts Waste Too\n\nSome studies show AI reduces unnecessary procedures by catching false positives. So why are insurers only talking about higher costs?",
+        "4. Check Your Bill for AI\n\nNext time you get a medical bill, look for new AI-related charges. They're already appearing in some itemized statements.",
+        "5. Demand Transparent Data\n\nAsk your insurer for AI cost breakdowns. If they can't show the numbers, question the claim. Do it today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Insurers blame AI for rising healthcare costs.",
+        "They say AI leads to more tests and procedures.",
+        "But some argue AI reduces unnecessary procedures.",
+        "Check your medical bill for AI charges.",
+        "Question insurer claims and demand transparent data."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next medical bill could carry new AI-related charges insurers are quietly adding to itemized statements.\n\nInsurers say AI-assisted diagnoses push doctors to order more scans and tests, driving costs up.\n\nOthers point out AI also catches false positives, cutting unnecessary procedures.\n\nIf you publish or create health content, this debate shapes what you can credibly claim about AI saving money. 🩺\n\nNext time a bill arrives, look for AI line items. 📄 Ask your insurer for a cost breakdown. 💬\n\nIf they can't show the numbers, why trust the claim? 🤔"
+    }
+  },
+  "instagram_caption": "Your next medical bill could carry new AI-related charges insurers are quietly adding to itemized statements.\n\nInsurers say AI-assisted diagnoses push doctors to order more scans and tests, driving costs up.\n\nOthers point out AI also catches false positives, cutting unnecessary procedures.\n\nIf you publish or create health content, this debate shapes what you can credibly claim about AI saving money. 🩺\n\nNext time a bill arrives, look for AI line items. 📄 Ask your insurer for a cost breakdown. 💬\n\nIf they can't show the numbers, why trust the claim? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "AI cures you, insurers bill more?",
+      "description": "Insurers blame AI-assisted diagnoses for rising utilization, yet studies show AI cuts unnecessary procedures by catching false positives. Who's really paying?",
+      "visual_hint": "Doctor reviewing AI diagnosis on tablet",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "doctor tablet screen"
+    },
+    {
+      "hook": "More scans, more money?",
+      "description": "AI flags suspicious findings earlier, triggering extra tests. Insurers call that the real cost driver and pass it to your bill.",
+      "visual_hint": "Stack of medical bills next to stethoscope",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "medical bill paperwork",
+      "image": "https://images.pexels.com/photos/8927648/pexels-photo-8927648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI cuts waste, not just costs",
+      "description": "Some studies show AI reduces unnecessary procedures by filtering false positives. Insurers rarely mention these savings in their cost claims.",
+      "visual_hint": "AI algorithm analyzing scan data",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "MRI scan machine",
+      "image": "https://images.pexels.com/photos/7089390/pexels-photo-7089390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your bill already has AI charges",
+      "description": "Next medical bill, look for new AI-related line items. They're appearing in itemized statements now, often buried and unexplained.",
+      "visual_hint": "Finger pointing at itemized bill line",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hospital bill document",
+      "image": "https://images.pexels.com/photos/8927648/pexels-photo-8927648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demand AI cost transparency now",
+      "description": "Ask your insurer for AI cost breakdowns today. If they can't show the numbers, question the claim and share this post.",
+      "visual_hint": "Person holding phone with insurance app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "health insurance office",
+      "image": "https://images.pexels.com/photos/7163942/pexels-photo-7163942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
+  "savedAt": "2026-09-27T00:04:16.141Z",
+  "sourceId": "db474621d18afa3672b2614d32a53c87"
+}
