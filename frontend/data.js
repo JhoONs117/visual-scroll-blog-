@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "google-tests-buying-from-walmart-owned-flipkart-th",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+    "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+    "pubDate": "Sun, 27 Sep 2026 01:30:00 +0000",
+    "slides": [
+      "Google wants to buy your groceries?",
+      "Gemini now connects to Flipkart in India",
+      "But it skips the Flipkart app entirely",
+      "Your shopping cart just became conversational",
+      "Ask your assistant to order tonight"
+    ],
+    "thread_text": [
+      "1. Google wants your groceries?\n\nGoogle is integrating Gemini directly with Flipkart in India, letting you shop without ever opening the app.",
+      "2. Flipkart app skipped entirely\n\nGemini connects to Flipkart's backend, so you never see the storefront. Your cart becomes a chat window.",
+      "3. Your cart goes conversational\n\nInstead of browsing, you just tell Gemini what you need. It adds items, compares prices, and checks out for you.",
+      "4. Ask assistant to order tonight\n\nSay 'order my usual groceries' and Gemini handles it. No taps, no scrolling — just a confirmation.",
+      "5. Try it with one item\n\nOpen Gemini and ask it to find a product on Flipkart. If it works, you've just skipped the app forever. If not, tell me why."
+    ],
+    "video_script": [
+      "Google wants to buy your groceries now.",
+      "Gemini connects to Flipkart in India.",
+      "But it skips the Flipkart app entirely.",
+      "Your shopping cart just became conversational.",
+      "Ask your assistant to order tonight."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Google wants your groceries?\n\nGoogle is integrating Gemini directly with Flipkart in India, letting you shop without ever opening the app.",
+          "2. Flipkart app skipped entirely\n\nGemini connects to Flipkart's backend, so you never see the storefront. Your cart becomes a chat window.",
+          "3. Your cart goes conversational\n\nInstead of browsing, you just tell Gemini what you need. It adds items, compares prices, and checks out for you.",
+          "4. Ask assistant to order tonight\n\nSay 'order my usual groceries' and Gemini handles it. No taps, no scrolling — just a confirmation.",
+          "5. Try it with one item\n\nOpen Gemini and ask it to find a product on Flipkart. If it works, you've just skipped the app forever. If not, tell me why."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google wants to buy your groceries now.",
+          "Gemini connects to Flipkart in India.",
+          "But it skips the Flipkart app entirely.",
+          "Your shopping cart just became conversational.",
+          "Ask your assistant to order tonight."
+        ]
+      },
+      "instagram": {
+        "caption": "In India you can now buy groceries on Flipkart without opening Flipkart.\n\nGoogle is testing Gemini and AI Mode with Flipkart, so the assistant talks straight to the store's backend. No storefront, no app.\n\nYou just say \"order my usual groceries\" and it adds items, compares prices and checks out. 🤖\n\nIf you sell or advertise products online, the shelf you spent hours designing may never be seen — the assistant picks, not the shopper. 🛒\n\nWould you hand your weekly shopping list to a chatbot, or do you want to see the cart before you pay? 🧾"
+      }
+    },
+    "instagram_caption": "In India you can now buy groceries on Flipkart without opening Flipkart.\n\nGoogle is testing Gemini and AI Mode with Flipkart, so the assistant talks straight to the store's backend. No storefront, no app.\n\nYou just say \"order my usual groceries\" and it adds items, compares prices and checks out. 🤖\n\nIf you sell or advertise products online, the shelf you spent hours designing may never be seen — the assistant picks, not the shopper. 🛒\n\nWould you hand your weekly shopping list to a chatbot, or do you want to see the cart before you pay? 🧾",
+    "carousel_slides": [
+      {
+        "hook": "Is your shopping cart now a chat?",
+        "description": "Google integrates Gemini directly with Flipkart in India, so you shop without ever opening the app.",
+        "visual_hint": "Smartphone screen showing chatbot interface",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone screen"
+      },
+      {
+        "hook": "Gemini connects to Flipkart, no app needed",
+        "description": "Gemini links to Flipkart's backend, skipping the storefront entirely. Your cart becomes a conversation.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "visual_hint": "Chat bubbles merging with shopping cart",
+        "image_query": "shopping cart",
+        "image": "https://images.pexels.com/photos/16989513/pexels-photo-16989513.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Skip browsing, just tell Gemini what you need",
+        "description": "Instead of scrolling, you ask Gemini. It adds items, compares prices, and checks out for you.",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "visual_hint": "Voice waveform turning into product list",
+        "image_query": "voice assistant",
+        "image": "https://images.pexels.com/photos/4790267/pexels-photo-4790267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Say 'order my usual groceries' and it's done",
+        "description": "Gemini handles the entire order from your command, with just a confirmation. No taps, no scrolling.",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "visual_hint": "Hand holding phone with order confirmation",
+        "image_query": "hand phone",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: try ordering one item now",
+        "description": "Open Gemini and ask it to find a product on Flipkart. If it works, you've skipped the app forever.",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "visual_hint": "Gemini app icon with Flipkart logo",
+        "image_query": "google gemini",
+        "image": "https://images.pexels.com/photos/32319619/pexels-photo-32319619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1235830811-1.jpg?resize=1200,800",
+    "savedAt": "2026-09-27T13:25:33.568Z",
+    "sourceId": "7fbf00bb0a9a1302bab763deabb58cb7"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "pnoe-s-new-face-mask-wants-to-make-lab-grade-breat",
     "prompt_version": "1.0.0",
     "status": "published",
