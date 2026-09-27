@@ -1,0 +1,102 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "pnoe-s-new-face-mask-wants-to-make-lab-grade-breat",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
+  "link": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
+  "pubDate": "Sun, 27 Sep 2026 01:40:30 +0000",
+  "slides": [
+    "Can a mask replace your lab's breath test?",
+    "PNOE's new mask promises lab-grade results, self-serve",
+    "But accuracy depends on how you wear it",
+    "You could test metabolism at home, no technician",
+    "Try one breath test yourself and compare"
+  ],
+  "thread_text": [
+    "1. Your lab test's replacement?\n\nA new mask claims to measure metabolism with lab-grade accuracy. If it works, you won't need to schedule a breath test ever again.",
+    "2. Wear it wrong, waste your money\n\nPNOE's mask is self-serve, but accuracy depends entirely on how you put it on. A loose seal means unreliable numbers you might act on.",
+    "3. No technician, no waiting room\n\nYou could test metabolism at home on your own schedule. That removes the biggest barrier: finding someone to administer the test.",
+    "4. Compare it yourself\n\nTry one breath test with the mask and one at a lab. Same conditions, same day if possible. Then decide if the convenience is worth the risk."
+  ],
+  "video_script": [
+    "Can a mask replace your lab breath test?",
+    "PNOE promises lab-grade results, but self-serve.",
+    "Accuracy depends on how you wear it.",
+    "You could test metabolism at home, no technician.",
+    "Try one breath test yourself and compare."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your lab test's replacement?\n\nA new mask claims to measure metabolism with lab-grade accuracy. If it works, you won't need to schedule a breath test ever again.",
+        "2. Wear it wrong, waste your money\n\nPNOE's mask is self-serve, but accuracy depends entirely on how you put it on. A loose seal means unreliable numbers you might act on.",
+        "3. No technician, no waiting room\n\nYou could test metabolism at home on your own schedule. That removes the biggest barrier: finding someone to administer the test.",
+        "4. Compare it yourself\n\nTry one breath test with the mask and one at a lab. Same conditions, same day if possible. Then decide if the convenience is worth the risk."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can a mask replace your lab breath test?",
+        "PNOE promises lab-grade results, but self-serve.",
+        "Accuracy depends on how you wear it.",
+        "You could test metabolism at home, no technician.",
+        "Try one breath test yourself and compare."
+      ]
+    },
+    "instagram": {
+      "caption": "A mask claims to measure your metabolism as accurately as a lab breath test.\n\nPNOE's new mask is self-serve, so you'd test at home without a technician or a waiting room.\n\nBut accuracy depends entirely on how you wear it: a loose seal means unreliable numbers you might act on.\n\nFor anyone tracking content on health and performance, that's a story worth testing before sharing. 🩺\n\nTry one breath test with the mask and one at a lab under the same conditions, then compare. 🧪\n\nWould you trust a number you measured yourself enough to publish it? 🤔"
+    }
+  },
+  "instagram_caption": "A mask claims to measure your metabolism as accurately as a lab breath test.\n\nPNOE's new mask is self-serve, so you'd test at home without a technician or a waiting room.\n\nBut accuracy depends entirely on how you wear it: a loose seal means unreliable numbers you might act on.\n\nFor anyone tracking content on health and performance, that's a story worth testing before sharing. 🩺\n\nTry one breath test with the mask and one at a lab under the same conditions, then compare. 🧪\n\nWould you trust a number you measured yourself enough to publish it? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can a mask replace lab breath tests?",
+      "description": "PNOE's new mask claims lab-grade metabolism measurement, potentially eliminating scheduled breath tests and clinic visits entirely if accurate.",
+      "visual_hint": "Face mask with digital sensor overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "medical mask"
+    },
+    {
+      "hook": "Self-serve but accuracy depends on fit",
+      "description": "A loose seal on PNOE's mask means unreliable numbers, wasting money and leading to poor health decisions based on flawed data.",
+      "visual_hint": "Close-up of mask seal on face",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "face mask closeup",
+      "image": "https://images.pexels.com/photos/7480282/pexels-photo-7480282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test metabolism at home, no technician",
+      "description": "You could test metabolism at home on your own schedule, removing the biggest barrier of finding someone to administer the test.",
+      "visual_hint": "Person using mask at home",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "home testing kit",
+      "image": "https://images.pexels.com/photos/6213647/pexels-photo-6213647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Compare mask vs lab yourself",
+      "description": "Try one breath test with the mask and one at a lab under same conditions, then decide if convenience outweighs potential accuracy risks.",
+      "visual_hint": "Split screen mask and lab equipment",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "laboratory equipment",
+      "image": "https://images.pexels.com/photos/8940480/pexels-photo-8940480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your next health test",
+      "description": "Save this post and try one breath test yourself, then compare results with a lab test to see if it works for you.",
+      "visual_hint": "Phone screen with saved post icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone health app",
+      "image": "https://images.pexels.com/photos/4108205/pexels-photo-4108205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/PNOE-2.0.png?resize=1200,675",
+  "savedAt": "2026-09-27T07:22:31.731Z",
+  "sourceId": "e4d19eb73cb3cde1e37046bc7e307a75"
+}
