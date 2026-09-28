@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "shopify-opens-checkout-to-browser-based-ai-agents",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Shopify opens checkout to browser-based AI agents",
+  "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+  "pubDate": "Mon, 28 Sep 2026 19:33:57 +0000",
+  "slides": [
+    "Shopify just opened checkout to AI agents — what changes?",
+    "Agents can now complete purchases using stored payment credentials.",
+    "But full autonomy needs merchant consent and secure tokenization.",
+    "Your store can accept orders from browser-based AI shoppers.",
+    "Test with one agent purchase before competitors do."
+  ],
+  "thread_text": [
+    "1. AI now checks out\n\nShopify just opened its checkout API to AI agents. They can complete purchases using stored payment credentials.",
+    "2. Merchant consent required\n\nFull autonomy needs your explicit approval and secure tokenization before any agent can transact.",
+    "3. Your store, AI shoppers\n\nBrowser-based AI assistants can now place orders directly on your site — no human clicks needed.",
+    "4. First-mover advantage\n\nTest with one agent purchase now. Learn the flow before your competitors even know it exists.",
+    "5. Could you spot a bot order?\n\nIf an AI agent bought from you today, would your system catch it? Try one test transaction this week."
+  ],
+  "video_script": [
+    "Shopify just let AI agents complete purchases.",
+    "They use stored payment credentials to check out.",
+    "But full autonomy requires merchant consent and tokenization.",
+    "Your store can now accept orders from AI shoppers.",
+    "Test one agent purchase before competitors do."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI now checks out\n\nShopify just opened its checkout API to AI agents. They can complete purchases using stored payment credentials.",
+        "2. Merchant consent required\n\nFull autonomy needs your explicit approval and secure tokenization before any agent can transact.",
+        "3. Your store, AI shoppers\n\nBrowser-based AI assistants can now place orders directly on your site — no human clicks needed.",
+        "4. First-mover advantage\n\nTest with one agent purchase now. Learn the flow before your competitors even know it exists.",
+        "5. Could you spot a bot order?\n\nIf an AI agent bought from you today, would your system catch it? Try one test transaction this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Shopify just let AI agents complete purchases.",
+        "They use stored payment credentials to check out.",
+        "But full autonomy requires merchant consent and tokenization.",
+        "Your store can now accept orders from AI shoppers.",
+        "Test one agent purchase before competitors do."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now accept orders from an AI assistant that never opened a browser tab.\n\nShopify opened its checkout to browser-based AI agents. They complete purchases using stored payment credentials.\n\nFull autonomy still requires merchant consent and secure tokenization. Without both, agents can't transact on your store.\n\nIf you run a shop, this means new orders can arrive with no human clicking buy. 🤖\n\nTest one agent purchase this week, before your competitors even know it's possible. 🔒\n\nWould your system even flag a bot order as a bot? 👀"
+    }
+  },
+  "instagram_caption": "You can now accept orders from an AI assistant that never opened a browser tab.\n\nShopify opened its checkout to browser-based AI agents. They complete purchases using stored payment credentials.\n\nFull autonomy still requires merchant consent and secure tokenization. Without both, agents can't transact on your store.\n\nIf you run a shop, this means new orders can arrive with no human clicking buy. 🤖\n\nTest one agent purchase this week, before your competitors even know it's possible. 🔒\n\nWould your system even flag a bot order as a bot? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Would your store catch an AI buyer?",
+      "description": "Shopify opened checkout to browser-based AI agents that purchase with stored payment credentials — no human clicks, no warnings.",
+      "visual_hint": "Smartphone checkout screen glowing blue",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone checkout"
+    },
+    {
+      "hook": "Your consent unlocks full agent autonomy",
+      "description": "Agents need explicit merchant approval and secure tokenization before transacting — without both, full autonomy is impossible.",
+      "visual_hint": "Approval toggle beside lock icon",
+      "layout_type": "right-focus",
+      "icon": "check",
+      "image_query": "security lock",
+      "image": "https://images.pexels.com/photos/14893194/pexels-photo-14893194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI shoppers now browse your catalog",
+      "description": "Browser-based AI assistants place orders directly on your site, replacing human browsing and clicking with automated purchasing flows.",
+      "visual_hint": "Browser window with automated cursor",
+      "layout_type": "sensor-zoom",
+      "icon": "waves",
+      "image_query": "web browser screen",
+      "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One test purchase beats lost ground",
+      "description": "Run a single agent transaction to learn the new checkout flow before competitors realize the door has opened.",
+      "visual_hint": "Hand tapping buy button",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "online shopping",
+      "image": "https://images.pexels.com/photos/7661069/pexels-photo-7661069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your competitors do",
+      "description": "Run one test agent purchase this week and verify whether your system flags an automated bot order.",
+      "visual_hint": "Bookmark icon beside shopping cart",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "shopping cart",
+      "image": "https://images.pexels.com/photos/16989513/pexels-photo-16989513.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1238591177.jpg?resize=1200,800",
+  "savedAt": "2026-09-28T22:47:20.003Z",
+  "sourceId": "99c674f70f3c5ccf6dda44496045ef60"
+}

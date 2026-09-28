@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-launches-enterprise-ai-platform-hires-mongodb",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+  "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+  "pubDate": "Mon, 28 Sep 2026 16:52:38 +0000",
+  "slides": [
+    "Meta just entered enterprise AI. Why hire MongoDB's CEO?",
+    "Dev Raghu is stepping down from MongoDB to lead it.",
+    "Surprise: Meta's building for other companies, not itself.",
+    "Your AI vendor list now includes a social media giant.",
+    "Ask one question: does Meta belong on your shortlist?"
+  ],
+  "thread_text": [
+    "1. Meta's enterprise AI play\n\nMeta just launched an AI unit for other companies. It hired MongoDB's CEO Dev Raghu to run it. That's a social media giant selling AI to your business.",
+    "2. Dev Raghu jumps ship\n\nRaghu leaves MongoDB after years of database growth. He now leads Meta's enterprise AI charge. The move signals Meta wants to sell, not just build.",
+    "3. Building for others\n\nMeta's AI tools will now target external firms. That flips its playbook from internal products to B2B services. Your vendor list just got a new name.",
+    "4. Social giant on your list\n\nMeta now competes with your existing AI vendors. A company known for ads and feeds is pitching enterprise AI. The overlap may surprise you.",
+    "5. Test Meta on a real task\n\nTake a business workflow you use daily. Ask if Meta's AI offering fits. If you haven't evaluated it, start there."
+  ],
+  "video_script": [
+    "Meta just entered enterprise AI by hiring MongoDB's CEO.",
+    "Dev Raghu left MongoDB to lead Meta's new AI unit.",
+    "Meta is now building AI for other companies, not itself.",
+    "Your AI vendor list now includes a social media giant.",
+    "Ask yourself: does Meta belong on your shortlist?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta's enterprise AI play\n\nMeta just launched an AI unit for other companies. It hired MongoDB's CEO Dev Raghu to run it. That's a social media giant selling AI to your business.",
+        "2. Dev Raghu jumps ship\n\nRaghu leaves MongoDB after years of database growth. He now leads Meta's enterprise AI charge. The move signals Meta wants to sell, not just build.",
+        "3. Building for others\n\nMeta's AI tools will now target external firms. That flips its playbook from internal products to B2B services. Your vendor list just got a new name.",
+        "4. Social giant on your list\n\nMeta now competes with your existing AI vendors. A company known for ads and feeds is pitching enterprise AI. The overlap may surprise you.",
+        "5. Test Meta on a real task\n\nTake a business workflow you use daily. Ask if Meta's AI offering fits. If you haven't evaluated it, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta just entered enterprise AI by hiring MongoDB's CEO.",
+        "Dev Raghu left MongoDB to lead Meta's new AI unit.",
+        "Meta is now building AI for other companies, not itself.",
+        "Your AI vendor list now includes a social media giant.",
+        "Ask yourself: does Meta belong on your shortlist?"
+      ]
+    },
+    "instagram": {
+      "caption": "Meta is now selling AI to businesses like yours, not just using it internally.\n\nDev Raghu left MongoDB to lead the new unit. Her job: build AI tools for outside companies.\n\nThat means Meta competes directly with your current AI vendors.\n\nIf you publish content, your tool options just shifted. 🤖\n\nMeta built its name on ads and feeds. Now it wants a spot in your workflow. 🧩\n\nWould you even put Meta on your shortlist? 🎯\n\nTake one task you do daily and test if their offering fits. 📋"
+    }
+  },
+  "instagram_caption": "Meta is now selling AI to businesses like yours, not just using it internally.\n\nDev Raghu left MongoDB to lead the new unit. Her job: build AI tools for outside companies.\n\nThat means Meta competes directly with your current AI vendors.\n\nIf you publish content, your tool options just shifted. 🤖\n\nMeta built its name on ads and feeds. Now it wants a spot in your workflow. 🧩\n\nWould you even put Meta on your shortlist? 🎯\n\nTake one task you do daily and test if their offering fits. 📋",
+  "carousel_slides": [
+    {
+      "hook": "Is Meta really your next AI vendor?",
+      "description": "Meta launched an enterprise AI unit to sell tools to external companies, flipping its playbook from internal products to B2B services.",
+      "visual_hint": "Meta logo glowing over corporate skyline",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "corporate skyline"
+    },
+    {
+      "hook": "Why poach MongoDB's CEO for this?",
+      "description": "Dev Raghu left MongoDB's top job to lead Meta's enterprise AI charge, signaling Meta wants to sell, not just build.",
+      "visual_hint": "Executive handshake silhouette in office",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office handshake",
+      "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Meta builds for other companies now",
+      "description": "Meta's AI tools will target external firms directly, putting a social media giant in direct competition with your existing AI vendors.",
+      "visual_hint": "Abstract network nodes connecting businesses",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "network servers",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "A social giant on your vendor list",
+      "description": "Meta now pitches enterprise AI to businesses, so a company known for ads and feeds overlaps with your current vendor shortlist.",
+      "visual_hint": "Business person reviewing vendor list",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers laptop",
+      "image": "https://images.pexels.com/photos/7437087/pexels-photo-7437087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next vendor review",
+      "description": "Pick one daily business workflow and test if Meta's AI offering fits; if you haven't evaluated it, start there.",
+      "visual_hint": "Checklist with pen and laptop",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
+  "savedAt": "2026-09-28T22:47:35.118Z",
+  "sourceId": "2d794519f8a7619645444d4d179338e3"
+}

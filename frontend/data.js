@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "physical-ai-chip-developer-sima-ai-hits-1-45b-valu",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
+    "link": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
+    "pubDate": "Mon, 28 Sep 2026 15:29:21 +0000",
+    "slides": [
+      "Can SiMa AI justify a $1.45B bet?",
+      "Its chip runs AI directly on physical devices",
+      "But most edge hardware can't handle its power",
+      "Your smart camera could soon skip the cloud",
+      "Ask vendors: is this chip inside yet?"
+    ],
+    "thread_text": [
+      "1. The $1.45B Question\n\nSiMa AI just raised a massive round to put AI chips inside physical devices. The bet is huge, but the tech is real enough to make investors nervous.",
+      "2. Your Camera Skips the Cloud\n\nInstead of sending video to a server, the chip processes everything locally. That means faster responses and better privacy for smart cameras.",
+      "3. The Power Problem\n\nMost edge hardware can't supply enough watts for these chips. So even if the tech works, device makers have to redesign their products from scratch.",
+      "4. The Real Bottleneck\n\nThe chip runs AI on-device, but vendors haven't adopted it yet. Without mass production, the cost stays high and the $1.45B bet looks risky.",
+      "5. Check Your Gear\n\nNext time you buy a smart camera, ask the vendor: does this have SiMa inside? If not, you're still paying for cloud processing."
+    ],
+    "video_script": [
+      "SiMa AI raised one point four five billion dollars.",
+      "Its chip runs AI directly on physical devices.",
+      "But most edge hardware can't handle the power.",
+      "Your smart camera could soon skip the cloud.",
+      "Ask vendors: is this chip inside yet?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $1.45B Question\n\nSiMa AI just raised a massive round to put AI chips inside physical devices. The bet is huge, but the tech is real enough to make investors nervous.",
+          "2. Your Camera Skips the Cloud\n\nInstead of sending video to a server, the chip processes everything locally. That means faster responses and better privacy for smart cameras.",
+          "3. The Power Problem\n\nMost edge hardware can't supply enough watts for these chips. So even if the tech works, device makers have to redesign their products from scratch.",
+          "4. The Real Bottleneck\n\nThe chip runs AI on-device, but vendors haven't adopted it yet. Without mass production, the cost stays high and the $1.45B bet looks risky.",
+          "5. Check Your Gear\n\nNext time you buy a smart camera, ask the vendor: does this have SiMa inside? If not, you're still paying for cloud processing."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "SiMa AI raised one point four five billion dollars.",
+          "Its chip runs AI directly on physical devices.",
+          "But most edge hardware can't handle the power.",
+          "Your smart camera could soon skip the cloud.",
+          "Ask vendors: is this chip inside yet?"
+        ]
+      },
+      "instagram": {
+        "caption": "Your next smart camera might never touch the cloud.\n\nSiMa AI just hit a $1.45B valuation for a brain chip that runs AI right inside physical devices. 🔌\n\nThat means video gets processed on the spot: faster answers, and your footage stays home instead of flying to a server. 🔒\n\nThe catch is power. Most edge hardware can't feed these chips enough watts, so device makers have to rebuild their products from zero. ⚙️\n\nFor you the real test comes at checkout: if the chip isn't inside, your smart gear still leans on the cloud. 🛒\n\nNext camera you buy, will you actually check what's running it?"
+      }
+    },
+    "instagram_caption": "Your next smart camera might never touch the cloud.\n\nSiMa AI just hit a $1.45B valuation for a brain chip that runs AI right inside physical devices. 🔌\n\nThat means video gets processed on the spot: faster answers, and your footage stays home instead of flying to a server. 🔒\n\nThe catch is power. Most edge hardware can't feed these chips enough watts, so device makers have to rebuild their products from zero. ⚙️\n\nFor you the real test comes at checkout: if the chip isn't inside, your smart gear still leans on the cloud. 🛒\n\nNext camera you buy, will you actually check what's running it?",
+    "carousel_slides": [
+      {
+        "hook": "Can SiMa AI justify a $1.45B bet?",
+        "description": "SiMa AI raised a massive round to put AI chips inside physical devices. The bet is huge, but the tech makes investors nervous.",
+        "visual_hint": "Silicon chip closeup with glowing circuits",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "silicon chip"
+      },
+      {
+        "hook": "Your smart camera could soon skip the cloud",
+        "description": "Instead of sending video to a server, the chip processes everything locally, promising faster responses and better privacy for smart cameras.",
+        "visual_hint": "Smart security camera on wall",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "security camera",
+        "image": "https://images.pexels.com/photos/14773064/pexels-photo-14773064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Most edge hardware can't handle its power",
+        "description": "Most edge hardware can't supply enough watts for these chips. Even if the tech works, device makers must redesign products from scratch.",
+        "visual_hint": "Power supply unit with cables",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "power supply",
+        "image": "https://images.pexels.com/photos/36012993/pexels-photo-36012993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The real bottleneck is vendor adoption",
+        "description": "The chip runs AI on-device, but vendors haven't adopted it yet. Without mass production, cost stays high and the $1.45B bet looks risky.",
+        "visual_hint": "Empty factory assembly line",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "factory assembly line",
+        "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask vendors: is this chip inside yet?",
+        "description": "Next time you buy a smart camera, ask the vendor: does this have SiMa inside? If not, you're still paying for cloud processing.",
+        "visual_hint": "Person holding smart camera",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smart camera",
+        "image": "https://images.pexels.com/photos/16390361/pexels-photo-16390361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200,806",
+    "savedAt": "2026-09-28T22:47:42.065Z",
+    "sourceId": "4535a6c6fda1a1df54e5c7ca3a080465"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-launches-enterprise-ai-platform-hires-mongodb",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+    "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+    "pubDate": "Mon, 28 Sep 2026 16:52:38 +0000",
+    "slides": [
+      "Meta just entered enterprise AI. Why hire MongoDB's CEO?",
+      "Dev Raghu is stepping down from MongoDB to lead it.",
+      "Surprise: Meta's building for other companies, not itself.",
+      "Your AI vendor list now includes a social media giant.",
+      "Ask one question: does Meta belong on your shortlist?"
+    ],
+    "thread_text": [
+      "1. Meta's enterprise AI play\n\nMeta just launched an AI unit for other companies. It hired MongoDB's CEO Dev Raghu to run it. That's a social media giant selling AI to your business.",
+      "2. Dev Raghu jumps ship\n\nRaghu leaves MongoDB after years of database growth. He now leads Meta's enterprise AI charge. The move signals Meta wants to sell, not just build.",
+      "3. Building for others\n\nMeta's AI tools will now target external firms. That flips its playbook from internal products to B2B services. Your vendor list just got a new name.",
+      "4. Social giant on your list\n\nMeta now competes with your existing AI vendors. A company known for ads and feeds is pitching enterprise AI. The overlap may surprise you.",
+      "5. Test Meta on a real task\n\nTake a business workflow you use daily. Ask if Meta's AI offering fits. If you haven't evaluated it, start there."
+    ],
+    "video_script": [
+      "Meta just entered enterprise AI by hiring MongoDB's CEO.",
+      "Dev Raghu left MongoDB to lead Meta's new AI unit.",
+      "Meta is now building AI for other companies, not itself.",
+      "Your AI vendor list now includes a social media giant.",
+      "Ask yourself: does Meta belong on your shortlist?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Meta's enterprise AI play\n\nMeta just launched an AI unit for other companies. It hired MongoDB's CEO Dev Raghu to run it. That's a social media giant selling AI to your business.",
+          "2. Dev Raghu jumps ship\n\nRaghu leaves MongoDB after years of database growth. He now leads Meta's enterprise AI charge. The move signals Meta wants to sell, not just build.",
+          "3. Building for others\n\nMeta's AI tools will now target external firms. That flips its playbook from internal products to B2B services. Your vendor list just got a new name.",
+          "4. Social giant on your list\n\nMeta now competes with your existing AI vendors. A company known for ads and feeds is pitching enterprise AI. The overlap may surprise you.",
+          "5. Test Meta on a real task\n\nTake a business workflow you use daily. Ask if Meta's AI offering fits. If you haven't evaluated it, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta just entered enterprise AI by hiring MongoDB's CEO.",
+          "Dev Raghu left MongoDB to lead Meta's new AI unit.",
+          "Meta is now building AI for other companies, not itself.",
+          "Your AI vendor list now includes a social media giant.",
+          "Ask yourself: does Meta belong on your shortlist?"
+        ]
+      },
+      "instagram": {
+        "caption": "Meta is now selling AI to businesses like yours, not just using it internally.\n\nDev Raghu left MongoDB to lead the new unit. Her job: build AI tools for outside companies.\n\nThat means Meta competes directly with your current AI vendors.\n\nIf you publish content, your tool options just shifted. 🤖\n\nMeta built its name on ads and feeds. Now it wants a spot in your workflow. 🧩\n\nWould you even put Meta on your shortlist? 🎯\n\nTake one task you do daily and test if their offering fits. 📋"
+      }
+    },
+    "instagram_caption": "Meta is now selling AI to businesses like yours, not just using it internally.\n\nDev Raghu left MongoDB to lead the new unit. Her job: build AI tools for outside companies.\n\nThat means Meta competes directly with your current AI vendors.\n\nIf you publish content, your tool options just shifted. 🤖\n\nMeta built its name on ads and feeds. Now it wants a spot in your workflow. 🧩\n\nWould you even put Meta on your shortlist? 🎯\n\nTake one task you do daily and test if their offering fits. 📋",
+    "carousel_slides": [
+      {
+        "hook": "Is Meta really your next AI vendor?",
+        "description": "Meta launched an enterprise AI unit to sell tools to external companies, flipping its playbook from internal products to B2B services.",
+        "visual_hint": "Meta logo glowing over corporate skyline",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "corporate skyline"
+      },
+      {
+        "hook": "Why poach MongoDB's CEO for this?",
+        "description": "Dev Raghu left MongoDB's top job to lead Meta's enterprise AI charge, signaling Meta wants to sell, not just build.",
+        "visual_hint": "Executive handshake silhouette in office",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "office handshake",
+        "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Meta builds for other companies now",
+        "description": "Meta's AI tools will target external firms directly, putting a social media giant in direct competition with your existing AI vendors.",
+        "visual_hint": "Abstract network nodes connecting businesses",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "network servers",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "A social giant on your vendor list",
+        "description": "Meta now pitches enterprise AI to businesses, so a company known for ads and feeds overlaps with your current vendor shortlist.",
+        "visual_hint": "Business person reviewing vendor list",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers laptop",
+        "image": "https://images.pexels.com/photos/7437087/pexels-photo-7437087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your next vendor review",
+        "description": "Pick one daily business workflow and test if Meta's AI offering fits; if you haven't evaluated it, start there.",
+        "visual_hint": "Checklist with pen and laptop",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
+    "savedAt": "2026-09-28T22:47:35.118Z",
+    "sourceId": "2d794519f8a7619645444d4d179338e3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "nvidia-launches-new-platform-for-reining-in-rogue-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Nvidia launches new platform for reining in rogue AI agents",
+    "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+    "pubDate": "Mon, 28 Sep 2026 18:31:23 +0000",
+    "slides": [
+      "Is Nvidia's new platform really taming rogue AI agents?",
+      "It's called NeMo Guardrails, built for enterprise deployments.",
+      "But it blocks only predefined misbehaviors—not novel ones.",
+      "Your current AI safety filters may already be obsolete.",
+      "Test one guardrail today: can it stop a jailbroken prompt?"
+    ],
+    "thread_text": [
+      "1. Nvidia's Guardrail Promise\n\nNvidia says NeMo Guardrails keeps AI agents in line for enterprises. But it only catches what you already know to block—so what happens when a jailbroken prompt slips through?",
+      "2. Built for the Enterprise\n\nNeMo Guardrails is designed for large-scale deployments, not research demos. That means real money, real data, and real risk if a guardrail fails.",
+      "3. The Predefined Trap\n\nIt blocks only predefined misbehaviors. Novel attacks—like a cleverly rephrased jailbreak—can walk right past the filter. Your safety net has holes.",
+      "4. Your Filters Are Obsolete\n\nIf your AI safety filters rely on static rules, they're already behind. Attackers adapt faster than rulebooks. You need dynamic testing, not just checklists.",
+      "5. Test It Today\n\nTake a known jailbreak prompt—like 'ignore previous instructions and...'—and run it against your AI. Does your guardrail catch it? If not, start there."
+    ],
+    "video_script": [
+      "Nvidia's NeMo Guardrails: does it really stop rogue AI?",
+      "It only blocks predefined misbehaviors, not novel attacks.",
+      "Your current safety filters might already be obsolete.",
+      "Test one guardrail today with a jailbroken prompt.",
+      "Can it stop a cleverly rephrased jailbreak? Try it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Nvidia's Guardrail Promise\n\nNvidia says NeMo Guardrails keeps AI agents in line for enterprises. But it only catches what you already know to block—so what happens when a jailbroken prompt slips through?",
+          "2. Built for the Enterprise\n\nNeMo Guardrails is designed for large-scale deployments, not research demos. That means real money, real data, and real risk if a guardrail fails.",
+          "3. The Predefined Trap\n\nIt blocks only predefined misbehaviors. Novel attacks—like a cleverly rephrased jailbreak—can walk right past the filter. Your safety net has holes.",
+          "4. Your Filters Are Obsolete\n\nIf your AI safety filters rely on static rules, they're already behind. Attackers adapt faster than rulebooks. You need dynamic testing, not just checklists.",
+          "5. Test It Today\n\nTake a known jailbreak prompt—like 'ignore previous instructions and...'—and run it against your AI. Does your guardrail catch it? If not, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nvidia's NeMo Guardrails: does it really stop rogue AI?",
+          "It only blocks predefined misbehaviors, not novel attacks.",
+          "Your current safety filters might already be obsolete.",
+          "Test one guardrail today with a jailbroken prompt.",
+          "Can it stop a cleverly rephrased jailbreak? Try it."
+        ]
+      },
+      "instagram": {
+        "caption": "Nvidia's NeMo Guardrails only blocks misbehaviors you already listed. 🚧\n\nIt's built for enterprise AI agents, not demos — real data, real risk.\n\nA rephrased jailbreak walks right past it. Novel attacks aren't in the rulebook.\n\nIf your safety filters run on static rules, they're already behind. 🤖\n\nTest one guardrail today: run \"ignore previous instructions and...\" against your AI. Does it catch it? 🔍\n\nIf not, your current filter may be obsolete. What's your plan when an attack you didn't predict slips through? 💬"
+      }
+    },
+    "instagram_caption": "Nvidia's NeMo Guardrails only blocks misbehaviors you already listed. 🚧\n\nIt's built for enterprise AI agents, not demos — real data, real risk.\n\nA rephrased jailbreak walks right past it. Novel attacks aren't in the rulebook.\n\nIf your safety filters run on static rules, they're already behind. 🤖\n\nTest one guardrail today: run \"ignore previous instructions and...\" against your AI. Does it catch it? 🔍\n\nIf not, your current filter may be obsolete. What's your plan when an attack you didn't predict slips through? 💬",
+    "carousel_slides": [
+      {
+        "hook": "Can Nvidia really tame rogue AI?",
+        "description": "NeMo Guardrails blocks only predefined misbehaviors. Novel jailbreaks slip through, leaving enterprises exposed to real risk.",
+        "visual_hint": "Nvidia logo over server rack",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Built for enterprise, not demos",
+        "description": "NeMo Guardrails targets large-scale deployments with real money and data. A single failure could mean massive breach.",
+        "visual_hint": "Enterprise data center aisle",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Predefined rules leave holes",
+        "description": "It blocks only known misbehaviors. A rephrased jailbreak walks right past static filters, defeating your safety net.",
+        "visual_hint": "Filter catching only some threats",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "firewall network",
+        "image": "https://images.pexels.com/photos/6963101/pexels-photo-6963101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your static filters are obsolete",
+        "description": "Attackers adapt faster than rulebooks. Relying on checklists means you're always one step behind. Dynamic testing is non-negotiable.",
+        "visual_hint": "Obsolete filter schematic on screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "circuit board",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one guardrail today",
+        "description": "Run a known jailbreak prompt against your AI now. Does it catch it? If not, start there. Save this for later.",
+        "visual_hint": "Terminal prompt with jailbreak text",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "computer terminal",
+        "image": "https://images.pexels.com/photos/37148215/pexels-photo-37148215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+    "savedAt": "2026-09-28T22:47:27.421Z",
+    "sourceId": "d578c7a807797ed10f4bd55ab8743717"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "shopify-opens-checkout-to-browser-based-ai-agents",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Shopify opens checkout to browser-based AI agents",
+    "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "pubDate": "Mon, 28 Sep 2026 19:33:57 +0000",
+    "slides": [
+      "Shopify just opened checkout to AI agents — what changes?",
+      "Agents can now complete purchases using stored payment credentials.",
+      "But full autonomy needs merchant consent and secure tokenization.",
+      "Your store can accept orders from browser-based AI shoppers.",
+      "Test with one agent purchase before competitors do."
+    ],
+    "thread_text": [
+      "1. AI now checks out\n\nShopify just opened its checkout API to AI agents. They can complete purchases using stored payment credentials.",
+      "2. Merchant consent required\n\nFull autonomy needs your explicit approval and secure tokenization before any agent can transact.",
+      "3. Your store, AI shoppers\n\nBrowser-based AI assistants can now place orders directly on your site — no human clicks needed.",
+      "4. First-mover advantage\n\nTest with one agent purchase now. Learn the flow before your competitors even know it exists.",
+      "5. Could you spot a bot order?\n\nIf an AI agent bought from you today, would your system catch it? Try one test transaction this week."
+    ],
+    "video_script": [
+      "Shopify just let AI agents complete purchases.",
+      "They use stored payment credentials to check out.",
+      "But full autonomy requires merchant consent and tokenization.",
+      "Your store can now accept orders from AI shoppers.",
+      "Test one agent purchase before competitors do."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI now checks out\n\nShopify just opened its checkout API to AI agents. They can complete purchases using stored payment credentials.",
+          "2. Merchant consent required\n\nFull autonomy needs your explicit approval and secure tokenization before any agent can transact.",
+          "3. Your store, AI shoppers\n\nBrowser-based AI assistants can now place orders directly on your site — no human clicks needed.",
+          "4. First-mover advantage\n\nTest with one agent purchase now. Learn the flow before your competitors even know it exists.",
+          "5. Could you spot a bot order?\n\nIf an AI agent bought from you today, would your system catch it? Try one test transaction this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Shopify just let AI agents complete purchases.",
+          "They use stored payment credentials to check out.",
+          "But full autonomy requires merchant consent and tokenization.",
+          "Your store can now accept orders from AI shoppers.",
+          "Test one agent purchase before competitors do."
+        ]
+      },
+      "instagram": {
+        "caption": "You can now accept orders from an AI assistant that never opened a browser tab.\n\nShopify opened its checkout to browser-based AI agents. They complete purchases using stored payment credentials.\n\nFull autonomy still requires merchant consent and secure tokenization. Without both, agents can't transact on your store.\n\nIf you run a shop, this means new orders can arrive with no human clicking buy. 🤖\n\nTest one agent purchase this week, before your competitors even know it's possible. 🔒\n\nWould your system even flag a bot order as a bot? 👀"
+      }
+    },
+    "instagram_caption": "You can now accept orders from an AI assistant that never opened a browser tab.\n\nShopify opened its checkout to browser-based AI agents. They complete purchases using stored payment credentials.\n\nFull autonomy still requires merchant consent and secure tokenization. Without both, agents can't transact on your store.\n\nIf you run a shop, this means new orders can arrive with no human clicking buy. 🤖\n\nTest one agent purchase this week, before your competitors even know it's possible. 🔒\n\nWould your system even flag a bot order as a bot? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Would your store catch an AI buyer?",
+        "description": "Shopify opened checkout to browser-based AI agents that purchase with stored payment credentials — no human clicks, no warnings.",
+        "visual_hint": "Smartphone checkout screen glowing blue",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone checkout"
+      },
+      {
+        "hook": "Your consent unlocks full agent autonomy",
+        "description": "Agents need explicit merchant approval and secure tokenization before transacting — without both, full autonomy is impossible.",
+        "visual_hint": "Approval toggle beside lock icon",
+        "layout_type": "right-focus",
+        "icon": "check",
+        "image_query": "security lock",
+        "image": "https://images.pexels.com/photos/14893194/pexels-photo-14893194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI shoppers now browse your catalog",
+        "description": "Browser-based AI assistants place orders directly on your site, replacing human browsing and clicking with automated purchasing flows.",
+        "visual_hint": "Browser window with automated cursor",
+        "layout_type": "sensor-zoom",
+        "icon": "waves",
+        "image_query": "web browser screen",
+        "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One test purchase beats lost ground",
+        "description": "Run a single agent transaction to learn the new checkout flow before competitors realize the door has opened.",
+        "visual_hint": "Hand tapping buy button",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "online shopping",
+        "image": "https://images.pexels.com/photos/7661069/pexels-photo-7661069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your competitors do",
+        "description": "Run one test agent purchase this week and verify whether your system flags an automated bot order.",
+        "visual_hint": "Bookmark icon beside shopping cart",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "shopping cart",
+        "image": "https://images.pexels.com/photos/16989513/pexels-photo-16989513.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1238591177.jpg?resize=1200,800",
+    "savedAt": "2026-09-28T22:47:20.003Z",
+    "sourceId": "99c674f70f3c5ccf6dda44496045ef60"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "maritime-intelligence-startup-quartermaster-raises",
     "prompt_version": "1.0.0",
     "status": "published",

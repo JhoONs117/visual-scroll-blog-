@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "nvidia-launches-new-platform-for-reining-in-rogue-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Nvidia launches new platform for reining in rogue AI agents",
+  "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+  "pubDate": "Mon, 28 Sep 2026 18:31:23 +0000",
+  "slides": [
+    "Is Nvidia's new platform really taming rogue AI agents?",
+    "It's called NeMo Guardrails, built for enterprise deployments.",
+    "But it blocks only predefined misbehaviors—not novel ones.",
+    "Your current AI safety filters may already be obsolete.",
+    "Test one guardrail today: can it stop a jailbroken prompt?"
+  ],
+  "thread_text": [
+    "1. Nvidia's Guardrail Promise\n\nNvidia says NeMo Guardrails keeps AI agents in line for enterprises. But it only catches what you already know to block—so what happens when a jailbroken prompt slips through?",
+    "2. Built for the Enterprise\n\nNeMo Guardrails is designed for large-scale deployments, not research demos. That means real money, real data, and real risk if a guardrail fails.",
+    "3. The Predefined Trap\n\nIt blocks only predefined misbehaviors. Novel attacks—like a cleverly rephrased jailbreak—can walk right past the filter. Your safety net has holes.",
+    "4. Your Filters Are Obsolete\n\nIf your AI safety filters rely on static rules, they're already behind. Attackers adapt faster than rulebooks. You need dynamic testing, not just checklists.",
+    "5. Test It Today\n\nTake a known jailbreak prompt—like 'ignore previous instructions and...'—and run it against your AI. Does your guardrail catch it? If not, start there."
+  ],
+  "video_script": [
+    "Nvidia's NeMo Guardrails: does it really stop rogue AI?",
+    "It only blocks predefined misbehaviors, not novel attacks.",
+    "Your current safety filters might already be obsolete.",
+    "Test one guardrail today with a jailbroken prompt.",
+    "Can it stop a cleverly rephrased jailbreak? Try it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Nvidia's Guardrail Promise\n\nNvidia says NeMo Guardrails keeps AI agents in line for enterprises. But it only catches what you already know to block—so what happens when a jailbroken prompt slips through?",
+        "2. Built for the Enterprise\n\nNeMo Guardrails is designed for large-scale deployments, not research demos. That means real money, real data, and real risk if a guardrail fails.",
+        "3. The Predefined Trap\n\nIt blocks only predefined misbehaviors. Novel attacks—like a cleverly rephrased jailbreak—can walk right past the filter. Your safety net has holes.",
+        "4. Your Filters Are Obsolete\n\nIf your AI safety filters rely on static rules, they're already behind. Attackers adapt faster than rulebooks. You need dynamic testing, not just checklists.",
+        "5. Test It Today\n\nTake a known jailbreak prompt—like 'ignore previous instructions and...'—and run it against your AI. Does your guardrail catch it? If not, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Nvidia's NeMo Guardrails: does it really stop rogue AI?",
+        "It only blocks predefined misbehaviors, not novel attacks.",
+        "Your current safety filters might already be obsolete.",
+        "Test one guardrail today with a jailbroken prompt.",
+        "Can it stop a cleverly rephrased jailbreak? Try it."
+      ]
+    },
+    "instagram": {
+      "caption": "Nvidia's NeMo Guardrails only blocks misbehaviors you already listed. 🚧\n\nIt's built for enterprise AI agents, not demos — real data, real risk.\n\nA rephrased jailbreak walks right past it. Novel attacks aren't in the rulebook.\n\nIf your safety filters run on static rules, they're already behind. 🤖\n\nTest one guardrail today: run \"ignore previous instructions and...\" against your AI. Does it catch it? 🔍\n\nIf not, your current filter may be obsolete. What's your plan when an attack you didn't predict slips through? 💬"
+    }
+  },
+  "instagram_caption": "Nvidia's NeMo Guardrails only blocks misbehaviors you already listed. 🚧\n\nIt's built for enterprise AI agents, not demos — real data, real risk.\n\nA rephrased jailbreak walks right past it. Novel attacks aren't in the rulebook.\n\nIf your safety filters run on static rules, they're already behind. 🤖\n\nTest one guardrail today: run \"ignore previous instructions and...\" against your AI. Does it catch it? 🔍\n\nIf not, your current filter may be obsolete. What's your plan when an attack you didn't predict slips through? 💬",
+  "carousel_slides": [
+    {
+      "hook": "Can Nvidia really tame rogue AI?",
+      "description": "NeMo Guardrails blocks only predefined misbehaviors. Novel jailbreaks slip through, leaving enterprises exposed to real risk.",
+      "visual_hint": "Nvidia logo over server rack",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Built for enterprise, not demos",
+      "description": "NeMo Guardrails targets large-scale deployments with real money and data. A single failure could mean massive breach.",
+      "visual_hint": "Enterprise data center aisle",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Predefined rules leave holes",
+      "description": "It blocks only known misbehaviors. A rephrased jailbreak walks right past static filters, defeating your safety net.",
+      "visual_hint": "Filter catching only some threats",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "firewall network",
+      "image": "https://images.pexels.com/photos/6963101/pexels-photo-6963101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your static filters are obsolete",
+      "description": "Attackers adapt faster than rulebooks. Relying on checklists means you're always one step behind. Dynamic testing is non-negotiable.",
+      "visual_hint": "Obsolete filter schematic on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one guardrail today",
+      "description": "Run a known jailbreak prompt against your AI now. Does it catch it? If not, start there. Save this for later.",
+      "visual_hint": "Terminal prompt with jailbreak text",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "computer terminal",
+      "image": "https://images.pexels.com/photos/37148215/pexels-photo-37148215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+  "savedAt": "2026-09-28T22:47:27.421Z",
+  "sourceId": "d578c7a807797ed10f4bd55ab8743717"
+}

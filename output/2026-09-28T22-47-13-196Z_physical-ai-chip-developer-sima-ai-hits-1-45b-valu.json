@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "physical-ai-chip-developer-sima-ai-hits-1-45b-valu",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
+  "link": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
+  "pubDate": "Mon, 28 Sep 2026 15:29:21 +0000",
+  "slides": [
+    "Can SiMa AI justify a $1.45B bet?",
+    "Its chip runs AI directly on physical devices",
+    "But most edge hardware can't handle its power",
+    "Your smart camera could soon skip the cloud",
+    "Ask vendors: is this chip inside yet?"
+  ],
+  "thread_text": [
+    "1. The $1.45B Question\n\nSiMa AI just raised a massive round to put AI chips inside physical devices. The bet is huge, but the tech is real enough to make investors nervous.",
+    "2. Your Camera Skips the Cloud\n\nInstead of sending video to a server, the chip processes everything locally. That means faster responses and better privacy for smart cameras.",
+    "3. The Power Problem\n\nMost edge hardware can't supply enough watts for these chips. So even if the tech works, device makers have to redesign their products from scratch.",
+    "4. The Real Bottleneck\n\nThe chip runs AI on-device, but vendors haven't adopted it yet. Without mass production, the cost stays high and the $1.45B bet looks risky.",
+    "5. Check Your Gear\n\nNext time you buy a smart camera, ask the vendor: does this have SiMa inside? If not, you're still paying for cloud processing."
+  ],
+  "video_script": [
+    "SiMa AI raised one point four five billion dollars.",
+    "Its chip runs AI directly on physical devices.",
+    "But most edge hardware can't handle the power.",
+    "Your smart camera could soon skip the cloud.",
+    "Ask vendors: is this chip inside yet?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $1.45B Question\n\nSiMa AI just raised a massive round to put AI chips inside physical devices. The bet is huge, but the tech is real enough to make investors nervous.",
+        "2. Your Camera Skips the Cloud\n\nInstead of sending video to a server, the chip processes everything locally. That means faster responses and better privacy for smart cameras.",
+        "3. The Power Problem\n\nMost edge hardware can't supply enough watts for these chips. So even if the tech works, device makers have to redesign their products from scratch.",
+        "4. The Real Bottleneck\n\nThe chip runs AI on-device, but vendors haven't adopted it yet. Without mass production, the cost stays high and the $1.45B bet looks risky.",
+        "5. Check Your Gear\n\nNext time you buy a smart camera, ask the vendor: does this have SiMa inside? If not, you're still paying for cloud processing."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "SiMa AI raised one point four five billion dollars.",
+        "Its chip runs AI directly on physical devices.",
+        "But most edge hardware can't handle the power.",
+        "Your smart camera could soon skip the cloud.",
+        "Ask vendors: is this chip inside yet?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your next smart camera might never touch the cloud.\n\nSiMa AI just hit a $1.45B valuation for a brain chip that runs AI right inside physical devices. 🔌\n\nThat means video gets processed on the spot: faster answers, and your footage stays home instead of flying to a server. 🔒\n\nThe catch is power. Most edge hardware can't feed these chips enough watts, so device makers have to rebuild their products from zero. ⚙️\n\nFor you the real test comes at checkout: if the chip isn't inside, your smart gear still leans on the cloud. 🛒\n\nNext camera you buy, will you actually check what's running it?"
+    }
+  },
+  "instagram_caption": "Your next smart camera might never touch the cloud.\n\nSiMa AI just hit a $1.45B valuation for a brain chip that runs AI right inside physical devices. 🔌\n\nThat means video gets processed on the spot: faster answers, and your footage stays home instead of flying to a server. 🔒\n\nThe catch is power. Most edge hardware can't feed these chips enough watts, so device makers have to rebuild their products from zero. ⚙️\n\nFor you the real test comes at checkout: if the chip isn't inside, your smart gear still leans on the cloud. 🛒\n\nNext camera you buy, will you actually check what's running it?",
+  "carousel_slides": [
+    {
+      "hook": "Can SiMa AI justify a $1.45B bet?",
+      "description": "SiMa AI raised a massive round to put AI chips inside physical devices. The bet is huge, but the tech makes investors nervous.",
+      "visual_hint": "Silicon chip closeup with glowing circuits",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "silicon chip"
+    },
+    {
+      "hook": "Your smart camera could soon skip the cloud",
+      "description": "Instead of sending video to a server, the chip processes everything locally, promising faster responses and better privacy for smart cameras.",
+      "visual_hint": "Smart security camera on wall",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "security camera",
+      "image": "https://images.pexels.com/photos/14773064/pexels-photo-14773064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Most edge hardware can't handle its power",
+      "description": "Most edge hardware can't supply enough watts for these chips. Even if the tech works, device makers must redesign products from scratch.",
+      "visual_hint": "Power supply unit with cables",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "power supply",
+      "image": "https://images.pexels.com/photos/36012993/pexels-photo-36012993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The real bottleneck is vendor adoption",
+      "description": "The chip runs AI on-device, but vendors haven't adopted it yet. Without mass production, cost stays high and the $1.45B bet looks risky.",
+      "visual_hint": "Empty factory assembly line",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory assembly line",
+      "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask vendors: is this chip inside yet?",
+      "description": "Next time you buy a smart camera, ask the vendor: does this have SiMa inside? If not, you're still paying for cloud processing.",
+      "visual_hint": "Person holding smart camera",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smart camera",
+      "image": "https://images.pexels.com/photos/16390361/pexels-photo-16390361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200,806",
+  "savedAt": "2026-09-28T22:47:42.065Z",
+  "sourceId": "4535a6c6fda1a1df54e5c7ca3a080465"
+}
