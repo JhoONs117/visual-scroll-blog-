@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-gamma-and-clay-share-what-happens-when-e",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+  "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+  "pubDate": "Mon, 28 Sep 2026 15:30:00 +0000",
+  "slides": [
+    "Anthropic, Gamma, Clay: what really happens when AI deploys?",
+    "Enterprises moved past pilots to full-scale deployment.",
+    "Surprise: biggest wins came from constraining AI, not scaling.",
+    "Your AI stack may need fewer models, not more.",
+    "Start with one workflow, not the whole org."
+  ],
+  "thread_text": [
+    "1. The Constraint Paradox\n\nAnthropic, Gamma, and Clay didn't win by adding more models. They won by removing them.",
+    "2. Pilots Are Dead\n\nEnterprises stopped testing AI in sandboxes. Now it's production or nothing — and the failures are louder.",
+    "3. Less Is More\n\nTeams that restricted AI to a single workflow saw bigger gains than those who scaled across the org.",
+    "4. Stack Diet\n\nYou probably have five models doing one job. Cut to one and watch accuracy and speed jump.",
+    "5. One Workflow First\n\nPick a single task you do daily. Automate just that. If it doesn't save you 10 minutes, don't scale it."
+  ],
+  "video_script": [
+    "Everyone thinks more AI models mean better results.",
+    "But Anthropic and others actually cut models to win.",
+    "Enterprises stopped pilots and went full deployment.",
+    "The biggest surprise: constraining AI beat scaling it.",
+    "Start with one workflow, not your whole organization."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Constraint Paradox\n\nAnthropic, Gamma, and Clay didn't win by adding more models. They won by removing them.",
+        "2. Pilots Are Dead\n\nEnterprises stopped testing AI in sandboxes. Now it's production or nothing — and the failures are louder.",
+        "3. Less Is More\n\nTeams that restricted AI to a single workflow saw bigger gains than those who scaled across the org.",
+        "4. Stack Diet\n\nYou probably have five models doing one job. Cut to one and watch accuracy and speed jump.",
+        "5. One Workflow First\n\nPick a single task you do daily. Automate just that. If it doesn't save you 10 minutes, don't scale it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Everyone thinks more AI models mean better results.",
+        "But Anthropic and others actually cut models to win.",
+        "Enterprises stopped pilots and went full deployment.",
+        "The biggest surprise: constraining AI beat scaling it.",
+        "Start with one workflow, not your whole organization."
+      ]
+    },
+    "instagram": {
+      "caption": "Your AI stack probably has five models doing one job.\n\nAt TechCrunch Disrupt 2026, Anthropic, Gamma, and Clay shared what happened once enterprises actually deployed AI. 🚀 The surprise: the biggest wins came from constraining it, not scaling.\n\nTeams saw bigger gains restricting AI to one workflow than rolling it out across the whole org. Fewer models meant better accuracy and speed.\n\nIf you publish or create content, this changes your tool choices now. One model, one task, one measurable result.\n\nPick one task you do daily. 🎯 Automate just that. If it doesn't save you 10 minutes, don't scale it.\n\nWhich single workflow would you cut your stack down to? 👇"
+    }
+  },
+  "instagram_caption": "Your AI stack probably has five models doing one job.\n\nAt TechCrunch Disrupt 2026, Anthropic, Gamma, and Clay shared what happened once enterprises actually deployed AI. 🚀 The surprise: the biggest wins came from constraining it, not scaling.\n\nTeams saw bigger gains restricting AI to one workflow than rolling it out across the whole org. Fewer models meant better accuracy and speed.\n\nIf you publish or create content, this changes your tool choices now. One model, one task, one measurable result.\n\nPick one task you do daily. 🎯 Automate just that. If it doesn't save you 10 minutes, don't scale it.\n\nWhich single workflow would you cut your stack down to? 👇",
+  "carousel_slides": [
+    {
+      "hook": "Stop scaling AI. Start constraining it.",
+      "description": "Enterprises found that restricting AI to one workflow delivered bigger wins than org-wide deployment. Less really is more.",
+      "visual_hint": "Single glowing server rack isolated",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Pilots are dead. Production is brutal.",
+      "description": "Companies moved past sandbox testing into full-scale deployment. Failures are now public, expensive, and impossible to ignore.",
+      "visual_hint": "Factory floor with robotic arms",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The constraint paradox: less AI, more results.",
+      "description": "Teams that limited AI to a single task saw accuracy and speed jump. Scaling across everything diluted the gains.",
+      "visual_hint": "One highlighted node in network",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "network diagram",
+      "image": "https://images.pexels.com/photos/6642542/pexels-photo-6642542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI stack is probably too fat.",
+      "description": "Five models doing one job? Cut to one and watch accuracy and speed jump. Simplification beats proliferation.",
+      "visual_hint": "Hand deleting duplicate app icons",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone apps",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: automate one workflow first.",
+      "description": "Pick a daily task. Automate just that. If it doesn't save 10 minutes, don't scale it. Start small, win big.",
+      "visual_hint": "Checklist with single checked box",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist paper",
+      "image": "https://images.pexels.com/photos/6928997/pexels-photo-6928997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-De-Jong-Amin-Lee_16x9-Dark.png?resize=1200,675",
+  "savedAt": "2026-09-28T17:53:23.340Z",
+  "sourceId": "3db27ae105cf36e7cde854c76581f35f"
+}

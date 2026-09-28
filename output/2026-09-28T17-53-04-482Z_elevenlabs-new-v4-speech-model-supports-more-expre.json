@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "elevenlabs-new-v4-speech-model-supports-more-expre",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "ElevenLabs’ new v4 speech model supports more expression control and 90 languages",
+  "link": "https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/",
+  "pubDate": "Mon, 28 Sep 2026 14:00:00 +0000",
+  "slides": [
+    "What if your voice assistant could finally sound human?",
+    "ElevenLabs launches v4 with broader expressive control",
+    "It still misreads sarcasm, but now you can tweak it",
+    "You can now adjust tone and emotion per sentence",
+    "Test one phrase with v4 today; compare to your current"
+  ],
+  "thread_text": [
+    "1. Your assistant sounds fake\n\nElevenLabs v4 lets you adjust tone and emotion per sentence, so you can finally fix that robotic monotone.",
+    "2. Sarcasm still breaks it\n\nThe model misreads sarcasm, but now you can manually tweak the delivery to match your intent.",
+    "3. New expressive controls\n\nYou get broader control over emphasis, pitch, and pacing—no more one-size-fits-all voice.",
+    "4. Per-sentence emotion\n\nChange how each line feels without re-recording the whole script. Just select a sentence and adjust.",
+    "5. Test one phrase today\n\nTake a sentence you use often and run it through v4. Compare it to your current assistant. Does it sound human?"
+  ],
+  "video_script": [
+    "What if your voice assistant sounded human?",
+    "ElevenLabs v4 adds expressive control for tone and emotion.",
+    "It still misreads sarcasm, but now you can tweak it.",
+    "Adjust tone and emotion for each sentence individually.",
+    "Test one phrase with v4 today and compare."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your assistant sounds fake\n\nElevenLabs v4 lets you adjust tone and emotion per sentence, so you can finally fix that robotic monotone.",
+        "2. Sarcasm still breaks it\n\nThe model misreads sarcasm, but now you can manually tweak the delivery to match your intent.",
+        "3. New expressive controls\n\nYou get broader control over emphasis, pitch, and pacing—no more one-size-fits-all voice.",
+        "4. Per-sentence emotion\n\nChange how each line feels without re-recording the whole script. Just select a sentence and adjust.",
+        "5. Test one phrase today\n\nTake a sentence you use often and run it through v4. Compare it to your current assistant. Does it sound human?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "What if your voice assistant sounded human?",
+        "ElevenLabs v4 adds expressive control for tone and emotion.",
+        "It still misreads sarcasm, but now you can tweak it.",
+        "Adjust tone and emotion for each sentence individually.",
+        "Test one phrase with v4 today and compare."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now adjust the tone and emotion of each individual sentence in a voiceover.\n\nElevenLabs’ v4 speech model supports broader expression control across 90 languages. 🎙️\n\nIt still misreads sarcasm, so you’ll have to tweak the delivery yourself to match your intent.\n\nFor anyone recording content, that means fixing one flat line without redoing an entire script. ✍️\n\nTry running a phrase you say often through v4 and compare it to your current assistant — does it sound human? 🤖"
+    }
+  },
+  "instagram_caption": "You can now adjust the tone and emotion of each individual sentence in a voiceover.\n\nElevenLabs’ v4 speech model supports broader expression control across 90 languages. 🎙️\n\nIt still misreads sarcasm, so you’ll have to tweak the delivery yourself to match your intent.\n\nFor anyone recording content, that means fixing one flat line without redoing an entire script. ✍️\n\nTry running a phrase you say often through v4 and compare it to your current assistant — does it sound human? 🤖",
+  "carousel_slides": [
+    {
+      "hook": "Still sound robotic? Not anymore.",
+      "description": "ElevenLabs v4 adds broader expressive control and supports 90 languages, fixing the flat monotone of older assistants.",
+      "visual_hint": "Waveform morphing into natural voice curve",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "sound wave"
+    },
+    {
+      "hook": "Sarcasm still trips it up.",
+      "description": "The model misreads sarcasm, but v4 lets you manually tweak delivery to match your actual intent per line.",
+      "visual_hint": "Cursor adjusting sarcasm slider on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "mixing console",
+      "image": "https://images.pexels.com/photos/8132726/pexels-photo-8132726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Tweak tone sentence by sentence.",
+      "description": "You can now adjust emphasis, pitch, pacing and emotion per sentence without re-recording the whole script.",
+      "visual_hint": "Highlighted sentence with emotion dial",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "voice recorder",
+      "image": "https://images.pexels.com/photos/11713444/pexels-photo-11713444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Swap emotion without re-recording.",
+      "description": "Select any single sentence and change how it feels—no full take needed, just a quick per-line adjustment.",
+      "visual_hint": "Hand selecting text line on tablet",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "tablet screen",
+      "image": "https://images.pexels.com/photos/13570165/pexels-photo-13570165.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one phrase with v4 today.",
+      "description": "Run a sentence you use often through ElevenLabs v4 and compare it to your current assistant. Save this for later.",
+      "visual_hint": "Split screen old vs new voice",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "studio microphone",
+      "image": "https://images.pexels.com/photos/4988132/pexels-photo-4988132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
+  "savedAt": "2026-09-28T17:53:31.822Z",
+  "sourceId": "cc9edbfdd4431a419d7e83c605cfc526"
+}

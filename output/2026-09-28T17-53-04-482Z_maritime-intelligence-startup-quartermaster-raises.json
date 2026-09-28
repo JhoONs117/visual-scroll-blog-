@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "maritime-intelligence-startup-quartermaster-raises",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Maritime intelligence startup Quartermaster raises another $140M",
+  "link": "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/",
+  "pubDate": "Mon, 28 Sep 2026 13:00:00 +0000",
+  "slides": [
+    "Quartermaster just raised $140M again—why the hurry?",
+    "Maritime intelligence is a high-stakes, fragmented market.",
+    "Investors see AI as a way to dominate it.",
+    "Your shipping costs may soon be set by algorithms.",
+    "Ask: who controls the data that moves your goods?"
+  ],
+  "thread_text": [
+    "1. Big Money Moves In\n\nA maritime AI firm just raised $140M in a hurry—and it's not the only one. The rush to automate shipping decisions is already rewriting who gets to set prices.",
+    "2. A Fragmented Sea\n\nMaritime intelligence is scattered across brokers, ports, and carriers. No single player sees the whole board, which is exactly why AI firms are buying their way in.",
+    "3. Algorithms Set Prices\n\nYour shipping costs may soon be calculated by a model you've never seen. The companies training those models are the same ones now flush with investor cash.",
+    "4. Who Owns The Data?\n\nThe real battle isn't over boats—it's over the data that moves your goods. Whoever controls that pipeline controls the terms of trade.",
+    "5. Check Your Supply Chain\n\nAsk your logistics provider: who owns the data from your shipments? If they can't answer clearly, you're already behind."
+  ],
+  "video_script": [
+    "A shipping AI firm just raised 140 million dollars.",
+    "Maritime data is scattered and that means opportunity.",
+    "Investors are betting AI can dominate the oceans.",
+    "Soon algorithms may set your shipping costs directly.",
+    "Ask who controls the data moving your goods."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Big Money Moves In\n\nA maritime AI firm just raised $140M in a hurry—and it's not the only one. The rush to automate shipping decisions is already rewriting who gets to set prices.",
+        "2. A Fragmented Sea\n\nMaritime intelligence is scattered across brokers, ports, and carriers. No single player sees the whole board, which is exactly why AI firms are buying their way in.",
+        "3. Algorithms Set Prices\n\nYour shipping costs may soon be calculated by a model you've never seen. The companies training those models are the same ones now flush with investor cash.",
+        "4. Who Owns The Data?\n\nThe real battle isn't over boats—it's over the data that moves your goods. Whoever controls that pipeline controls the terms of trade.",
+        "5. Check Your Supply Chain\n\nAsk your logistics provider: who owns the data from your shipments? If they can't answer clearly, you're already behind."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A shipping AI firm just raised 140 million dollars.",
+        "Maritime data is scattered and that means opportunity.",
+        "Investors are betting AI can dominate the oceans.",
+        "Soon algorithms may set your shipping costs directly.",
+        "Ask who controls the data moving your goods."
+      ]
+    },
+    "instagram": {
+      "caption": "Another $140M just went to a startup that tracks ships. 🚢\n\nQuartermaster sells AI that reads maritime data — ports, brokers, carriers — and the market is so fragmented no one sees the whole board.\n\nInvestors are betting whoever trains the pricing model sets the price. Your shipping costs could soon come from an algorithm you've never seen.\n\nIf you ship or sell physical goods, that number lands on your margins.\n\nAsk your logistics provider: who owns your shipment data? ⚓"
+    }
+  },
+  "instagram_caption": "Another $140M just went to a startup that tracks ships. 🚢\n\nQuartermaster sells AI that reads maritime data — ports, brokers, carriers — and the market is so fragmented no one sees the whole board.\n\nInvestors are betting whoever trains the pricing model sets the price. Your shipping costs could soon come from an algorithm you've never seen.\n\nIf you ship or sell physical goods, that number lands on your margins.\n\nAsk your logistics provider: who owns your shipment data? ⚓",
+  "carousel_slides": [
+    {
+      "hook": "Who Really Sets Your Shipping Prices?",
+      "description": "A maritime AI firm raised $140M again. Investors see algorithms dominating this fragmented market—and rewriting who controls trade terms.",
+      "visual_hint": "Container ship at dusk, city skyline",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "container ship"
+    },
+    {
+      "hook": "The Fragmented Sea Nobody Owns",
+      "description": "Maritime intelligence is scattered across brokers, ports, and carriers. No single player sees the whole board—so AI firms are buying in.",
+      "visual_hint": "Port cranes, scattered shipping containers",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "port cranes",
+      "image": "https://images.pexels.com/photos/24703090/pexels-photo-24703090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your Shipping Costs? Calculated by Hidden Models",
+      "description": "Algorithms you've never seen may soon set your shipping costs. The firms training them are now flush with investor cash.",
+      "visual_hint": "Abstract data streams, glowing algorithms",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The Real Battle Is Over Data",
+      "description": "It's not about boats—it's about the data moving your goods. Whoever controls that pipeline controls the terms of trade.",
+      "visual_hint": "Hand holding smartphone, supply chain map",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "supply chain map",
+      "image": "https://images.pexels.com/photos/31067412/pexels-photo-31067412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save This: Who Owns Your Shipment Data?",
+      "description": "Ask your logistics provider: who owns the data from your shipments? If they can't answer clearly, you're already behind.",
+      "visual_hint": "Checklist, pen, logistics dashboard",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/quartermaster-smartmast-2.jpg?resize=1200,715",
+  "savedAt": "2026-09-28T17:53:41.316Z",
+  "sourceId": "b62b63880c71884436ddbb2c7419461a"
+}
