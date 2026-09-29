@@ -1,0 +1,106 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-gives-codex-reusable-cloud-environments-tha",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+  "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+  "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
+  "slides": [
+    "OpenAI hands Codex a memory that never forgets",
+    "Reusable cloud environments persist across every device you own",
+    "But devs still ask: where does the context actually live?",
+    "Your setup follows you, killing repetitive onboarding tasks",
+    "Try one reusable env today, not tomorrow"
+  ],
+  "thread_text": [
+    "1. Codex's new memory\n\nOpenAI just gave Codex a persistent memory that survives every session, meaning your AI coding assistant never forgets your codebase structure, preferences, or past fixes.",
+    "2. Setup follows you\n\nReusable cloud environments now persist across every device you own, so your dev setup travels with you instead of being rebuilt from scratch each time you switch machines.",
+    "3. Where does context live?\n\nEven with all this persistence, developers are asking a sharp question: is your context stored locally, in the cloud, or somewhere you can't see it? That answer changes everything about data ownership.",
+    "4. Onboarding is dying\n\nRepetitive onboarding tasks like cloning repos, installing dependencies, and configuring tools are being killed by environments that remember your entire workflow before you even sit down.",
+    "5. Test one env today\n\nPick one project you rebuild constantly. Set up a single reusable environment for it this week. If it doesn't save you real time on the second run, you've lost nothing.",
+    "6. The real tradeoff\n\nPersistent memory and reusable environments sound great until you realize your setup now lives somewhere you don't control. Convenience vs. ownership is the question nobody is answering yet."
+  ],
+  "video_script": [
+    "OpenAI just gave Codex a memory that never forgets.",
+    "Your dev setup now follows you across every device.",
+    "But developers keep asking: where does the context actually live?",
+    "That question matters more than the convenience.",
+    "Try one reusable environment today and see for yourself."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Codex's new memory\n\nOpenAI just gave Codex a persistent memory that survives every session, meaning your AI coding assistant never forgets your codebase structure, preferences, or past fixes.",
+        "2. Setup follows you\n\nReusable cloud environments now persist across every device you own, so your dev setup travels with you instead of being rebuilt from scratch each time you switch machines.",
+        "3. Where does context live?\n\nEven with all this persistence, developers are asking a sharp question: is your context stored locally, in the cloud, or somewhere you can't see it? That answer changes everything about data ownership.",
+        "4. Onboarding is dying\n\nRepetitive onboarding tasks like cloning repos, installing dependencies, and configuring tools are being killed by environments that remember your entire workflow before you even sit down.",
+        "5. Test one env today\n\nPick one project you rebuild constantly. Set up a single reusable environment for it this week. If it doesn't save you real time on the second run, you've lost nothing.",
+        "6. The real tradeoff\n\nPersistent memory and reusable environments sound great until you realize your setup now lives somewhere you don't control. Convenience vs. ownership is the question nobody is answering yet."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI just gave Codex a memory that never forgets.",
+        "Your dev setup now follows you across every device.",
+        "But developers keep asking: where does the context actually live?",
+        "That question matters more than the convenience.",
+        "Try one reusable environment today and see for yourself."
+      ]
+    },
+    "instagram": {
+      "caption": "Your dev setup now follows you across every device you own.\n\nOpenAI gave Codex a persistent memory that survives every session, so it remembers your codebase, your preferences, and past fixes.\n\nThose reusable cloud environments stay alive across machines, which kills repetitive tasks like cloning repos and reinstalling dependencies.\n\nFor anyone building or publishing code daily, that means less setup time and more shipping — as long as you're fine with your context living somewhere you don't control.\n\nSo here's the real question: is your setup stored locally, in the cloud, or somewhere you can't even see? 🤔\n\nPick one project you rebuild constantly and test a single reusable environment this week. 🛠️"
+    }
+  },
+  "instagram_caption": "Your dev setup now follows you across every device you own.\n\nOpenAI gave Codex a persistent memory that survives every session, so it remembers your codebase, your preferences, and past fixes.\n\nThose reusable cloud environments stay alive across machines, which kills repetitive tasks like cloning repos and reinstalling dependencies.\n\nFor anyone building or publishing code daily, that means less setup time and more shipping — as long as you're fine with your context living somewhere you don't control.\n\nSo here's the real question: is your setup stored locally, in the cloud, or somewhere you can't even see? 🤔\n\nPick one project you rebuild constantly and test a single reusable environment this week. 🛠️",
+  "carousel_slides": [
+    {
+      "hook": "Where does your context actually live?",
+      "description": "OpenAI gave Codex persistent memory, but developers still ask whether context is stored locally, in the cloud, or somewhere you can't see.",
+      "visual_hint": "Cloud server room glowing blue lights",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Your setup follows every device",
+      "description": "Reusable cloud environments persist across every device you own, so your dev setup travels with you instead of being rebuilt from scratch.",
+      "visual_hint": "Laptop tablet phone syncing together",
+      "layout_type": "right-focus",
+      "icon": "check",
+      "image_query": "laptop tablet phone",
+      "image": "https://images.pexels.com/photos/14713023/pexels-photo-14713023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Codex never forgets your codebase",
+      "description": "Codex's memory survives every session, remembering your codebase structure, preferences, and past fixes. But persistent memory raises ownership questions nobody answers yet.",
+      "visual_hint": "Brain with circuit board memory chip",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "memory chip",
+      "image": "https://images.pexels.com/photos/37113176/pexels-photo-37113176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Onboarding tasks are dying today",
+      "description": "Cloning repos, installing dependencies, configuring tools — repetitive onboarding is killed by environments that remember your entire workflow before you sit down.",
+      "visual_hint": "Hands typing on glowing keyboard",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you rebuild again",
+      "description": "Pick one project you constantly rebuild. Set up a single reusable environment this week and test if it saves real time by the second run.",
+      "visual_hint": "Rocket launching from laptop screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "rocket launch",
+      "image": "https://images.pexels.com/photos/5420670/pexels-photo-5420670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-29T17:20:17.139Z",
+  "sourceId": "26c92756de6d9f46e71e1606f60788b5"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-expands-chatgpt-s-plugins-with-app-like-int",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+  "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+  "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
+  "slides": [
+    "OpenAI just turned ChatGPT into an app platform?",
+    "Plugins now get custom interfaces and automations",
+    "But most users will never see them",
+    "Developers can now build full workflows inside chat",
+    "Check your plugin settings tomorrow"
+  ],
+  "thread_text": [
+    "1. ChatGPT becomes a platform\n\nOpenAI just gave ChatGPT custom interfaces and automations for plugins, turning it into an app platform. Most users won't see them yet.",
+    "2. Plugins get superpowers\n\nDevelopers can now build full workflows inside chat, with custom UIs and automation triggers. This means tasks run without leaving the conversation.",
+    "3. The invisible update\n\nThese new features are rolling out quietly. Unless you dig into settings, you might miss them entirely.",
+    "4. Workflows in chat\n\nImagine booking a flight, filing expenses, and updating your CRM without switching tabs. That's the promise, but it's early days.",
+    "5. Check your settings tomorrow\n\nOpen ChatGPT and look for new plugin options. Try one automation on a simple task. If you don't see it, wait a day."
+  ],
+  "video_script": [
+    "ChatGPT just became an app platform.",
+    "Plugins now have custom interfaces and automations.",
+    "But most users will never see them.",
+    "Developers can build full workflows inside chat.",
+    "Check your plugin settings tomorrow."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. ChatGPT becomes a platform\n\nOpenAI just gave ChatGPT custom interfaces and automations for plugins, turning it into an app platform. Most users won't see them yet.",
+        "2. Plugins get superpowers\n\nDevelopers can now build full workflows inside chat, with custom UIs and automation triggers. This means tasks run without leaving the conversation.",
+        "3. The invisible update\n\nThese new features are rolling out quietly. Unless you dig into settings, you might miss them entirely.",
+        "4. Workflows in chat\n\nImagine booking a flight, filing expenses, and updating your CRM without switching tabs. That's the promise, but it's early days.",
+        "5. Check your settings tomorrow\n\nOpen ChatGPT and look for new plugin options. Try one automation on a simple task. If you don't see it, wait a day."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "ChatGPT just became an app platform.",
+        "Plugins now have custom interfaces and automations.",
+        "But most users will never see them.",
+        "Developers can build full workflows inside chat.",
+        "Check your plugin settings tomorrow."
+      ]
+    },
+    "instagram": {
+      "caption": "Plugins can now have custom interfaces and run automations inside the chat, a bit like mini apps living in ChatGPT.\n\nOpenAI is turning ChatGPT into an app platform, so developers can build full workflows that run without leaving the conversation.\n\nYou might miss the whole thing: the update is rolling out quietly. 🧩\n\nIf you publish or build, this is where your tools could soon live, not in a separate tab.\n\nOpen ChatGPT, check your plugin settings, and try one automation on a simple task. Do you see it, or do you have to wait a day? 👀"
+    }
+  },
+  "instagram_caption": "Plugins can now have custom interfaces and run automations inside the chat, a bit like mini apps living in ChatGPT.\n\nOpenAI is turning ChatGPT into an app platform, so developers can build full workflows that run without leaving the conversation.\n\nYou might miss the whole thing: the update is rolling out quietly. 🧩\n\nIf you publish or build, this is where your tools could soon live, not in a separate tab.\n\nOpen ChatGPT, check your plugin settings, and try one automation on a simple task. Do you see it, or do you have to wait a day? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Is ChatGPT becoming an app platform?",
+      "description": "OpenAI gave plugins custom interfaces and automation triggers, letting developers build full app-like workflows directly inside ChatGPT conversations.",
+      "visual_hint": "Glowing ChatGPT interface with plugin panels",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Plugins just got serious superpowers",
+      "description": "Developers can now design custom UIs and automate tasks, so actions run without ever leaving the chat window.",
+      "visual_hint": "Developer hands typing code on laptop",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "laptop code",
+      "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Most users will never notice this",
+      "description": "These upgrades are rolling out quietly. Without digging into plugin settings, you will completely miss them entirely.",
+      "visual_hint": "Hidden settings menu barely visible screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smartphone settings",
+      "image": "https://images.pexels.com/photos/13888309/pexels-photo-13888309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Book flights inside a chat window",
+      "description": "Imagine filing expenses, updating your CRM, and booking travel without switching tabs, all inside one conversation.",
+      "visual_hint": "Hands using phone with floating icons",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your plugin settings right now",
+      "description": "Open ChatGPT, look for new plugin options, and try one automation on a simple task today.",
+      "visual_hint": "Open ChatGPT app on phone screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/plugins-.jpg?resize=1200,690",
+  "savedAt": "2026-09-29T17:20:33.938Z",
+  "sourceId": "c3416222c8baf1762068e544faa28827"
+}

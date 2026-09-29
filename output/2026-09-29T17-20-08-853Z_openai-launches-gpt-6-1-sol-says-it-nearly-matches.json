@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-launches-gpt-6-1-sol-says-it-nearly-matches",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+  "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+  "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
+  "slides": [
+    "Can Sol nearly match Astra without the price tag?",
+    "OpenAI says GPT-6.1 Sol is cheaper than Astra.",
+    "Yet it nearly matches Astra on most benchmarks.",
+    "Your AI costs could drop without losing quality.",
+    "Test Sol on one real task. Compare now."
+  ],
+  "thread_text": [
+    "1. Sol nearly matches Astra?\n\nOpenAI claims GPT-6.1 Sol is cheaper than Astra but still hits similar scores. That combination rarely happens.",
+    "2. The price-quality trade-off\n\nMost cheap models sacrifice accuracy. Sol reportedly keeps quality high on benchmarks while cutting costs.",
+    "3. Why benchmarks lie\n\nReal tasks often expose gaps. A model can ace tests yet fail on your specific workflow.",
+    "4. Your bill could shrink\n\nIf Sol delivers, you might reduce AI spend without downgrading output. That changes budget conversations.",
+    "5. Test Sol on one real task\n\nTake a prompt you'd normally send to Astra. Run it through Sol. Compare the results yourself."
+  ],
+  "video_script": [
+    "OpenAI says their new model is cheaper than Astra.",
+    "But it nearly matches Astra on most benchmarks.",
+    "That means your AI costs could drop without losing quality.",
+    "Test it on one real task you do daily.",
+    "Compare the results and see for yourself."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Sol nearly matches Astra?\n\nOpenAI claims GPT-6.1 Sol is cheaper than Astra but still hits similar scores. That combination rarely happens.",
+        "2. The price-quality trade-off\n\nMost cheap models sacrifice accuracy. Sol reportedly keeps quality high on benchmarks while cutting costs.",
+        "3. Why benchmarks lie\n\nReal tasks often expose gaps. A model can ace tests yet fail on your specific workflow.",
+        "4. Your bill could shrink\n\nIf Sol delivers, you might reduce AI spend without downgrading output. That changes budget conversations.",
+        "5. Test Sol on one real task\n\nTake a prompt you'd normally send to Astra. Run it through Sol. Compare the results yourself."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI says their new model is cheaper than Astra.",
+        "But it nearly matches Astra on most benchmarks.",
+        "That means your AI costs could drop without losing quality.",
+        "Test it on one real task you do daily.",
+        "Compare the results and see for yourself."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI says GPT-6.1 Sol nearly matches GPT-6 Astra on most benchmarks while costing less. 🧠\n\nCheaper models usually lose accuracy. Sol reportedly keeps quality high and drops the price. 💸\n\nBenchmarks don't show everything. A model can ace tests and still fail your specific workflow.\n\nIf it holds up, your AI bill shrinks without downgrading output.\n\nTake one prompt you'd normally send to Astra. 🧪 Run it through Sol. Compare the two results yourself. Would you switch?"
+    }
+  },
+  "instagram_caption": "OpenAI says GPT-6.1 Sol nearly matches GPT-6 Astra on most benchmarks while costing less. 🧠\n\nCheaper models usually lose accuracy. Sol reportedly keeps quality high and drops the price. 💸\n\nBenchmarks don't show everything. A model can ace tests and still fail your specific workflow.\n\nIf it holds up, your AI bill shrinks without downgrading output.\n\nTake one prompt you'd normally send to Astra. 🧪 Run it through Sol. Compare the two results yourself. Would you switch?",
+  "carousel_slides": [
+    {
+      "hook": "Cheaper AI that still matches top quality?",
+      "description": "OpenAI says GPT-6.1 Sol costs less than Astra yet scores similarly on most benchmarks. That combo rarely happens.",
+      "visual_hint": "Split screen: price tag vs trophy",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Sol undercuts Astra on price",
+      "description": "OpenAI claims Sol is cheaper than Astra, which could lower your AI bill without obvious trade-offs.",
+      "visual_hint": "Falling price graph with dollar sign",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Benchmarks rarely match your workflow",
+      "description": "A model can ace tests yet fail real tasks. Always validate Sol on your specific use case before switching.",
+      "visual_hint": "Lab test tubes next to laptop",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "laboratory equipment",
+      "image": "https://images.pexels.com/photos/8940480/pexels-photo-8940480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your budget could shrink safely",
+      "description": "If Sol delivers on quality, you cut AI spend without downgrading output, changing budget conversations entirely.",
+      "visual_hint": "Hand holding calculator with shrinking numbers",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office calculator",
+      "image": "https://images.pexels.com/photos/8296969/pexels-photo-8296969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: test Sol on one task",
+      "description": "Take a prompt you normally send to Astra, run it through Sol, and compare results yourself today.",
+      "visual_hint": "Two chat windows side by side",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "computer keyboard",
+      "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-29T17:20:24.690Z",
+  "sourceId": "95026b243ee0cefe9de8583a5fe0662b"
+}
