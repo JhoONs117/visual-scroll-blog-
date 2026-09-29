@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-is-supercharging-hacking-and-your-local-hospita",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+  "pubDate": "2026-09-28T18:30:00.000Z",
+  "slides": [
+    "AI is supercharging hacking—are hospitals and banks ready?",
+    "AI finds software vulnerabilities faster than human hackers can.",
+    "It can also generate convincing phishing emails at scale.",
+    "Patch systems and train staff on AI-powered phishing.",
+    "Demand stronger cybersecurity from your bank and hospital."
+  ],
+  "thread_text": [
+    "1. Hackers' New Weapon\n\nAI now scans code for holes and writes phishing emails in seconds. Your hospital and bank may not be ready.",
+    "2. Unpatched Hospitals\n\nMany hospitals still run outdated software. AI finds those flaws faster than any human team can fix them.",
+    "3. AI Phishing at Scale\n\nGeneric scam emails are now perfectly written and personalized. One click can cost your entire savings.",
+    "4. Patch and Train\n\nUpdate every system the moment a fix is released. Then run a fake AI phishing test on your staff this week.",
+    "5. Ask Your Bank\n\nCall your bank and hospital today. Ask: 'How do you defend against AI-powered cyberattacks?'"
+  ],
+  "video_script": [
+    "AI can now hack faster than any human.",
+    "Hospitals and banks are easy targets.",
+    "AI writes perfect phishing emails in seconds.",
+    "Patch your systems and train your staff.",
+    "Ask your bank and hospital about AI defenses."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Hackers' New Weapon\n\nAI now scans code for holes and writes phishing emails in seconds. Your hospital and bank may not be ready.",
+        "2. Unpatched Hospitals\n\nMany hospitals still run outdated software. AI finds those flaws faster than any human team can fix them.",
+        "3. AI Phishing at Scale\n\nGeneric scam emails are now perfectly written and personalized. One click can cost your entire savings.",
+        "4. Patch and Train\n\nUpdate every system the moment a fix is released. Then run a fake AI phishing test on your staff this week.",
+        "5. Ask Your Bank\n\nCall your bank and hospital today. Ask: 'How do you defend against AI-powered cyberattacks?'"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI can now hack faster than any human.",
+        "Hospitals and banks are easy targets.",
+        "AI writes perfect phishing emails in seconds.",
+        "Patch your systems and train your staff.",
+        "Ask your bank and hospital about AI defenses."
+      ]
+    },
+    "instagram": {
+      "caption": "Your hospital scans its code with AI now — but so do the hackers.\n\nArtificial intelligence spots software holes faster than any human security team can patch them.\n\nIt also writes convincing phishing emails at scale, personalized enough to fool trained staff.\n\nHospitals still running outdated systems are the easiest target. 🏥\n\nFor content creators, every tool you connect to your bank or health portal is a doorway.\n\nPatch every system the moment a fix drops, then run a fake AI phishing test on your team this week. 🔒\n\nCall your bank today and ask: how do you defend against AI-powered attacks? 📞"
+    }
+  },
+  "instagram_caption": "Your hospital scans its code with AI now — but so do the hackers.\n\nArtificial intelligence spots software holes faster than any human security team can patch them.\n\nIt also writes convincing phishing emails at scale, personalized enough to fool trained staff.\n\nHospitals still running outdated systems are the easiest target. 🏥\n\nFor content creators, every tool you connect to your bank or health portal is a doorway.\n\nPatch every system the moment a fix drops, then run a fake AI phishing test on your team this week. 🔒\n\nCall your bank today and ask: how do you defend against AI-powered attacks? 📞",
+  "carousel_slides": [
+    {
+      "hook": "One click could cost your life savings",
+      "description": "AI writes perfectly personalized phishing emails in seconds. Your bank and hospital defenses may already be compromised.",
+      "visual_hint": "Glowing phishing email on smartphone screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone phishing email"
+    },
+    {
+      "hook": "AI finds software holes faster than humans",
+      "description": "Hospitals still run outdated software. AI scans and exploits those flaws quicker than any human team can patch.",
+      "visual_hint": "Server room with blinking red warning lights",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your hospital's old software is a target",
+      "description": "Generic scams are now flawlessly written and personalized at scale. One click can drain your entire savings.",
+      "visual_hint": "Hospital corridor with outdated computer terminal",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "hospital corridor",
+      "image": "https://images.pexels.com/photos/27015942/pexels-photo-27015942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Patch systems. Train staff. Test this week.",
+      "description": "Update every system the moment a fix drops. Run a fake AI phishing test on your staff immediately.",
+      "visual_hint": "Hands typing on keyboard with security shield icon",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands typing keyboard",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your bank: How do you stop AI attacks?",
+      "description": "Call your bank and hospital today. Demand: 'How do you defend against AI-powered cyberattacks?' Save this post.",
+      "visual_hint": "Person on phone with bank building background",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "bank building exterior",
+      "image": "https://images.pexels.com/photos/37414851/pexels-photo-37414851.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+  "savedAt": "2026-09-29T10:16:16.694Z",
+  "sourceId": "edc2c184de87e0ad255c35be655f0e6f"
+}

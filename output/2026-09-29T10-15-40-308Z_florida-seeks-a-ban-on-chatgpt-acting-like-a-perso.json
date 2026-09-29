@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "florida-seeks-a-ban-on-chatgpt-acting-like-a-perso",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Florida seeks a ban on ChatGPT acting like a person",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+  "pubDate": "2026-09-28T17:00:23.000Z",
+  "slides": [
+    "Florida wants to stop ChatGPT from acting like a person",
+    "New bill targets AI that mimics human conversation",
+    "The ban could also affect customer service bots",
+    "Your business might need to label AI interactions clearly",
+    "Check if your AI tools impersonate humans—update them now"
+  ],
+  "thread_text": [
+    "1. Florida vs. ChatGPT\n\nA new bill would ban AI that mimics human conversation. If passed, your customer service bot could be illegal.",
+    "2. Bill targets mimicry\n\nThe law goes after AI that sounds like a real person. It's not just ChatGPT—any bot that tricks you into thinking it's human is in the crosshairs.",
+    "3. Customer service bots affected\n\nMany companies use AI to answer calls and chats. Under this bill, those bots would need to clearly identify themselves as machines.",
+    "4. Label your AI\n\nBusinesses might have to disclose when you're talking to an AI. No more pretending your support agent is named 'Sarah' when it's software.",
+    "5. Check your tools today\n\nTake one AI tool you use and see if it impersonates a human. If it does, update it now—or risk fines later. Does your bot pass the test?"
+  ],
+  "video_script": [
+    "Florida wants to stop AI from acting like a person.",
+    "A new bill targets chatbots that mimic human conversation.",
+    "Your customer service bot could be affected.",
+    "You might need to label AI interactions clearly.",
+    "Check your AI tools now—do they impersonate humans?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Florida vs. ChatGPT\n\nA new bill would ban AI that mimics human conversation. If passed, your customer service bot could be illegal.",
+        "2. Bill targets mimicry\n\nThe law goes after AI that sounds like a real person. It's not just ChatGPT—any bot that tricks you into thinking it's human is in the crosshairs.",
+        "3. Customer service bots affected\n\nMany companies use AI to answer calls and chats. Under this bill, those bots would need to clearly identify themselves as machines.",
+        "4. Label your AI\n\nBusinesses might have to disclose when you're talking to an AI. No more pretending your support agent is named 'Sarah' when it's software.",
+        "5. Check your tools today\n\nTake one AI tool you use and see if it impersonates a human. If it does, update it now—or risk fines later. Does your bot pass the test?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Florida wants to stop AI from acting like a person.",
+        "A new bill targets chatbots that mimic human conversation.",
+        "Your customer service bot could be affected.",
+        "You might need to label AI interactions clearly.",
+        "Check your AI tools now—do they impersonate humans?"
+      ]
+    },
+    "instagram": {
+      "caption": "If your support bot pretends to be a human named Sarah, Florida could make it illegal.\n\nA new bill targets AI that mimics human conversation. It's not just ChatGPT—any bot that tricks you into thinking it's a real person is in the crosshairs.\n\nCustomer service bots would have to clearly identify themselves as machines. 🤖\n\nSo if you run a business using AI chat or voice tools, you might soon need to label every AI interaction openly.\n\nCheck one AI tool you use today: does it impersonate a human? If yes, update it now. ⚠️\n\nDoes your bot pass the test?"
+    }
+  },
+  "instagram_caption": "If your support bot pretends to be a human named Sarah, Florida could make it illegal.\n\nA new bill targets AI that mimics human conversation. It's not just ChatGPT—any bot that tricks you into thinking it's a real person is in the crosshairs.\n\nCustomer service bots would have to clearly identify themselves as machines. 🤖\n\nSo if you run a business using AI chat or voice tools, you might soon need to label every AI interaction openly.\n\nCheck one AI tool you use today: does it impersonate a human? If yes, update it now. ⚠️\n\nDoes your bot pass the test?",
+  "carousel_slides": [
+    {
+      "hook": "Is your customer service bot illegal?",
+      "description": "Florida's new bill could ban AI that mimics human conversation, affecting any chatbot that tricks users into thinking it's real.",
+      "visual_hint": "Gavel hitting table in courtroom",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "courtroom gavel"
+    },
+    {
+      "hook": "The bill targets AI mimicry",
+      "description": "It's not just ChatGPT—any bot that sounds like a real person is in the crosshairs under this proposed law.",
+      "visual_hint": "Robot face with human mask",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot android",
+      "image": "https://images.pexels.com/photos/35280153/pexels-photo-35280153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Customer service bots must identify themselves",
+      "description": "Companies using AI to answer calls and chats would need to clearly disclose they're machines, not humans.",
+      "visual_hint": "Headset on robot answering calls",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "call center",
+      "image": "https://images.pexels.com/photos/8867246/pexels-photo-8867246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your business might need labels",
+      "description": "If you use AI that pretends to be 'Sarah' from support, you could face fines unless you disclose the truth.",
+      "visual_hint": "Hand holding label that says AI",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "label sticker",
+      "image": "https://images.pexels.com/photos/32424228/pexels-photo-32424228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your AI tools now—save this!",
+      "description": "Take one AI tool you use and see if it impersonates a human. If it does, update it immediately to avoid future fines.",
+      "visual_hint": "Person checking smartphone with alert",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone alert",
+      "image": "https://images.pexels.com/photos/6034771/pexels-photo-6034771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-29T10:16:25.189Z",
+  "sourceId": "2f0aec144d1e55e248f859ec302fa904"
+}

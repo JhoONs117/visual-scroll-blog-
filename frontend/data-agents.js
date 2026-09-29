@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "florida-seeks-a-ban-on-chatgpt-acting-like-a-perso",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Florida seeks a ban on ChatGPT acting like a person",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+      "pubDate": "2026-09-28T17:00:23.000Z",
+      "slides": [
+        "Florida wants to stop ChatGPT from acting like a person",
+        "New bill targets AI that mimics human conversation",
+        "The ban could also affect customer service bots",
+        "Your business might need to label AI interactions clearly",
+        "Check if your AI tools impersonate humans—update them now"
+      ],
+      "thread_text": [
+        "1. Florida vs. ChatGPT\n\nA new bill would ban AI that mimics human conversation. If passed, your customer service bot could be illegal.",
+        "2. Bill targets mimicry\n\nThe law goes after AI that sounds like a real person. It's not just ChatGPT—any bot that tricks you into thinking it's human is in the crosshairs.",
+        "3. Customer service bots affected\n\nMany companies use AI to answer calls and chats. Under this bill, those bots would need to clearly identify themselves as machines.",
+        "4. Label your AI\n\nBusinesses might have to disclose when you're talking to an AI. No more pretending your support agent is named 'Sarah' when it's software.",
+        "5. Check your tools today\n\nTake one AI tool you use and see if it impersonates a human. If it does, update it now—or risk fines later. Does your bot pass the test?"
+      ],
+      "video_script": [
+        "Florida wants to stop AI from acting like a person.",
+        "A new bill targets chatbots that mimic human conversation.",
+        "Your customer service bot could be affected.",
+        "You might need to label AI interactions clearly.",
+        "Check your AI tools now—do they impersonate humans?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Florida vs. ChatGPT\n\nA new bill would ban AI that mimics human conversation. If passed, your customer service bot could be illegal.",
+            "2. Bill targets mimicry\n\nThe law goes after AI that sounds like a real person. It's not just ChatGPT—any bot that tricks you into thinking it's human is in the crosshairs.",
+            "3. Customer service bots affected\n\nMany companies use AI to answer calls and chats. Under this bill, those bots would need to clearly identify themselves as machines.",
+            "4. Label your AI\n\nBusinesses might have to disclose when you're talking to an AI. No more pretending your support agent is named 'Sarah' when it's software.",
+            "5. Check your tools today\n\nTake one AI tool you use and see if it impersonates a human. If it does, update it now—or risk fines later. Does your bot pass the test?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Florida wants to stop AI from acting like a person.",
+            "A new bill targets chatbots that mimic human conversation.",
+            "Your customer service bot could be affected.",
+            "You might need to label AI interactions clearly.",
+            "Check your AI tools now—do they impersonate humans?"
+          ]
+        },
+        "instagram": {
+          "caption": "If your support bot pretends to be a human named Sarah, Florida could make it illegal.\n\nA new bill targets AI that mimics human conversation. It's not just ChatGPT—any bot that tricks you into thinking it's a real person is in the crosshairs.\n\nCustomer service bots would have to clearly identify themselves as machines. 🤖\n\nSo if you run a business using AI chat or voice tools, you might soon need to label every AI interaction openly.\n\nCheck one AI tool you use today: does it impersonate a human? If yes, update it now. ⚠️\n\nDoes your bot pass the test?"
+        }
+      },
+      "instagram_caption": "If your support bot pretends to be a human named Sarah, Florida could make it illegal.\n\nA new bill targets AI that mimics human conversation. It's not just ChatGPT—any bot that tricks you into thinking it's a real person is in the crosshairs.\n\nCustomer service bots would have to clearly identify themselves as machines. 🤖\n\nSo if you run a business using AI chat or voice tools, you might soon need to label every AI interaction openly.\n\nCheck one AI tool you use today: does it impersonate a human? If yes, update it now. ⚠️\n\nDoes your bot pass the test?",
+      "carousel_slides": [
+        {
+          "hook": "Is your customer service bot illegal?",
+          "description": "Florida's new bill could ban AI that mimics human conversation, affecting any chatbot that tricks users into thinking it's real.",
+          "visual_hint": "Gavel hitting table in courtroom",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "courtroom gavel"
+        },
+        {
+          "hook": "The bill targets AI mimicry",
+          "description": "It's not just ChatGPT—any bot that sounds like a real person is in the crosshairs under this proposed law.",
+          "visual_hint": "Robot face with human mask",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "robot android",
+          "image": "https://images.pexels.com/photos/35280153/pexels-photo-35280153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Customer service bots must identify themselves",
+          "description": "Companies using AI to answer calls and chats would need to clearly disclose they're machines, not humans.",
+          "visual_hint": "Headset on robot answering calls",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "call center",
+          "image": "https://images.pexels.com/photos/8867246/pexels-photo-8867246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your business might need labels",
+          "description": "If you use AI that pretends to be 'Sarah' from support, you could face fines unless you disclose the truth.",
+          "visual_hint": "Hand holding label that says AI",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "label sticker",
+          "image": "https://images.pexels.com/photos/32424228/pexels-photo-32424228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your AI tools now—save this!",
+          "description": "Take one AI tool you use and see if it impersonates a human. If it does, update it immediately to avoid future fines.",
+          "visual_hint": "Person checking smartphone with alert",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone alert",
+          "image": "https://images.pexels.com/photos/6034771/pexels-photo-6034771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-09-29T10:16:25.189Z",
+      "sourceId": "2f0aec144d1e55e248f859ec302fa904"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ai-is-supercharging-hacking-and-your-local-hospita",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+      "pubDate": "2026-09-28T18:30:00.000Z",
+      "slides": [
+        "AI is supercharging hacking—are hospitals and banks ready?",
+        "AI finds software vulnerabilities faster than human hackers can.",
+        "It can also generate convincing phishing emails at scale.",
+        "Patch systems and train staff on AI-powered phishing.",
+        "Demand stronger cybersecurity from your bank and hospital."
+      ],
+      "thread_text": [
+        "1. Hackers' New Weapon\n\nAI now scans code for holes and writes phishing emails in seconds. Your hospital and bank may not be ready.",
+        "2. Unpatched Hospitals\n\nMany hospitals still run outdated software. AI finds those flaws faster than any human team can fix them.",
+        "3. AI Phishing at Scale\n\nGeneric scam emails are now perfectly written and personalized. One click can cost your entire savings.",
+        "4. Patch and Train\n\nUpdate every system the moment a fix is released. Then run a fake AI phishing test on your staff this week.",
+        "5. Ask Your Bank\n\nCall your bank and hospital today. Ask: 'How do you defend against AI-powered cyberattacks?'"
+      ],
+      "video_script": [
+        "AI can now hack faster than any human.",
+        "Hospitals and banks are easy targets.",
+        "AI writes perfect phishing emails in seconds.",
+        "Patch your systems and train your staff.",
+        "Ask your bank and hospital about AI defenses."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Hackers' New Weapon\n\nAI now scans code for holes and writes phishing emails in seconds. Your hospital and bank may not be ready.",
+            "2. Unpatched Hospitals\n\nMany hospitals still run outdated software. AI finds those flaws faster than any human team can fix them.",
+            "3. AI Phishing at Scale\n\nGeneric scam emails are now perfectly written and personalized. One click can cost your entire savings.",
+            "4. Patch and Train\n\nUpdate every system the moment a fix is released. Then run a fake AI phishing test on your staff this week.",
+            "5. Ask Your Bank\n\nCall your bank and hospital today. Ask: 'How do you defend against AI-powered cyberattacks?'"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI can now hack faster than any human.",
+            "Hospitals and banks are easy targets.",
+            "AI writes perfect phishing emails in seconds.",
+            "Patch your systems and train your staff.",
+            "Ask your bank and hospital about AI defenses."
+          ]
+        },
+        "instagram": {
+          "caption": "Your hospital scans its code with AI now — but so do the hackers.\n\nArtificial intelligence spots software holes faster than any human security team can patch them.\n\nIt also writes convincing phishing emails at scale, personalized enough to fool trained staff.\n\nHospitals still running outdated systems are the easiest target. 🏥\n\nFor content creators, every tool you connect to your bank or health portal is a doorway.\n\nPatch every system the moment a fix drops, then run a fake AI phishing test on your team this week. 🔒\n\nCall your bank today and ask: how do you defend against AI-powered attacks? 📞"
+        }
+      },
+      "instagram_caption": "Your hospital scans its code with AI now — but so do the hackers.\n\nArtificial intelligence spots software holes faster than any human security team can patch them.\n\nIt also writes convincing phishing emails at scale, personalized enough to fool trained staff.\n\nHospitals still running outdated systems are the easiest target. 🏥\n\nFor content creators, every tool you connect to your bank or health portal is a doorway.\n\nPatch every system the moment a fix drops, then run a fake AI phishing test on your team this week. 🔒\n\nCall your bank today and ask: how do you defend against AI-powered attacks? 📞",
+      "carousel_slides": [
+        {
+          "hook": "One click could cost your life savings",
+          "description": "AI writes perfectly personalized phishing emails in seconds. Your bank and hospital defenses may already be compromised.",
+          "visual_hint": "Glowing phishing email on smartphone screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone phishing email"
+        },
+        {
+          "hook": "AI finds software holes faster than humans",
+          "description": "Hospitals still run outdated software. AI scans and exploits those flaws quicker than any human team can patch.",
+          "visual_hint": "Server room with blinking red warning lights",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your hospital's old software is a target",
+          "description": "Generic scams are now flawlessly written and personalized at scale. One click can drain your entire savings.",
+          "visual_hint": "Hospital corridor with outdated computer terminal",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "hospital corridor",
+          "image": "https://images.pexels.com/photos/27015942/pexels-photo-27015942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Patch systems. Train staff. Test this week.",
+          "description": "Update every system the moment a fix drops. Run a fake AI phishing test on your staff immediately.",
+          "visual_hint": "Hands typing on keyboard with security shield icon",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hands typing keyboard",
+          "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask your bank: How do you stop AI attacks?",
+          "description": "Call your bank and hospital today. Demand: 'How do you defend against AI-powered cyberattacks?' Save this post.",
+          "visual_hint": "Person on phone with bank building background",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "bank building exterior",
+          "image": "https://images.pexels.com/photos/37414851/pexels-photo-37414851.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+      "savedAt": "2026-09-29T10:16:16.694Z",
+      "sourceId": "edc2c184de87e0ad255c35be655f0e6f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "the-ai-boom-took-over-climate-week-and-not-everyon",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The AI boom took over Climate Week and not everyone is happy about it",
+      "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+      "pubDate": "Mon, 28 Sep 2026 19:21:59 +0000",
+      "slides": [
+        "AI took over Climate Week—but why the backlash?",
+        "AI energy use rivals small nations, straining climate goals.",
+        "Some say AI is a distraction from real climate action.",
+        "Critics argue AI solutions often ignore root causes.",
+        "Next time you hear an AI climate fix, ask: who benefits?"
+      ],
+      "thread_text": [
+        "1. Climate Week's AI Paradox\n\nAI dominated the agenda, but not as a hero. Protesters argued the tech's energy appetite and corporate backing undermine real climate action.",
+        "2. AI's Hidden Energy Bill\n\nData centers powering AI consume as much electricity as some small countries. That surge makes it harder for nations to meet their climate targets.",
+        "3. The Distraction Debate\n\nCritics say focusing on AI fixes lets polluters off the hook. It shifts attention from proven solutions like cutting emissions at the source.",
+        "4. Tech Won't Fix the Roots\n\nAI climate tools often treat symptoms, not causes. They optimize systems that are fundamentally unsustainable, ignoring the need for structural change.",
+        "5. Who Benefits From AI Hype?\n\nNext time you hear an AI climate solution, ask: who profits? Follow the money before you buy the promise."
+      ],
+      "video_script": [
+        "AI took over Climate Week, but not everyone's cheering.",
+        "AI's energy use rivals small nations, straining climate goals.",
+        "Some say AI is just a distraction from real action.",
+        "Critics argue AI fixes ignore the root causes.",
+        "Ask: who benefits from the AI climate hype?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Climate Week's AI Paradox\n\nAI dominated the agenda, but not as a hero. Protesters argued the tech's energy appetite and corporate backing undermine real climate action.",
+            "2. AI's Hidden Energy Bill\n\nData centers powering AI consume as much electricity as some small countries. That surge makes it harder for nations to meet their climate targets.",
+            "3. The Distraction Debate\n\nCritics say focusing on AI fixes lets polluters off the hook. It shifts attention from proven solutions like cutting emissions at the source.",
+            "4. Tech Won't Fix the Roots\n\nAI climate tools often treat symptoms, not causes. They optimize systems that are fundamentally unsustainable, ignoring the need for structural change.",
+            "5. Who Benefits From AI Hype?\n\nNext time you hear an AI climate solution, ask: who profits? Follow the money before you buy the promise."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI took over Climate Week, but not everyone's cheering.",
+            "AI's energy use rivals small nations, straining climate goals.",
+            "Some say AI is just a distraction from real action.",
+            "Critics argue AI fixes ignore the root causes.",
+            "Ask: who benefits from the AI climate hype?"
+          ]
+        },
+        "instagram": {
+          "caption": "Data centers running AI now consume as much electricity as some small countries. ⚡\n\nAt Climate Week, AI dominated the agenda, but protesters pushed back hard.\n\nThey say the energy surge makes national climate targets harder to hit, and that AI climate fixes often dodge the real problem: cutting emissions at the source.\n\nIf you publish content about AI tools, check their energy footprint before calling them green.\n\nWho actually profits when AI gets framed as a climate solution? 💰\n\nAsk that before you share the next promise. 🌍"
+        }
+      },
+      "instagram_caption": "Data centers running AI now consume as much electricity as some small countries. ⚡\n\nAt Climate Week, AI dominated the agenda, but protesters pushed back hard.\n\nThey say the energy surge makes national climate targets harder to hit, and that AI climate fixes often dodge the real problem: cutting emissions at the source.\n\nIf you publish content about AI tools, check their energy footprint before calling them green.\n\nWho actually profits when AI gets framed as a climate solution? 💰\n\nAsk that before you share the next promise. 🌍",
+      "carousel_slides": [
+        {
+          "hook": "Who really benefits from AI climate hype?",
+          "description": "At Climate Week, AI dominated but protesters warned its energy appetite and corporate ties undermine genuine climate action.",
+          "visual_hint": "Protesters holding signs outside conference center",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "protest crowd"
+        },
+        {
+          "hook": "AI's electricity use rivals small nations",
+          "description": "Data centers powering AI consume as much electricity as some small countries, making national climate targets harder to meet.",
+          "visual_hint": "Rows of servers glowing in data center",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Is AI a distraction from real solutions?",
+          "description": "Critics say focusing on AI fixes lets polluters off the hook, shifting attention from proven solutions like cutting emissions at source.",
+          "visual_hint": "Smokestacks emitting pollution against sky",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "factory smokestacks",
+          "image": "https://images.pexels.com/photos/13990608/pexels-photo-13990608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Tech won't fix the roots of crisis",
+          "description": "AI climate tools often treat symptoms, not causes, optimizing fundamentally unsustainable systems while ignoring the need for structural change.",
+          "visual_hint": "Hands holding globe with cracks",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hands holding globe",
+          "image": "https://images.pexels.com/photos/6899178/pexels-photo-6899178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: ask who profits from AI",
+          "description": "Next time you hear an AI climate solution, follow the money before you buy the promise. Save this post and share it.",
+          "visual_hint": "Money stack with question mark overlay",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "money stack",
+          "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1126706015.jpg?resize=1200,856",
+      "savedAt": "2026-09-29T10:16:08.719Z",
+      "sourceId": "19b5c695e9726952bda30bca0be261a1"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ex-tesla-team-raises-12-5m-to-put-supply-chains-on",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
+      "link": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
+      "pubDate": "Tue, 29 Sep 2026 09:00:00 +0000",
+      "slides": [
+        "Ex-Tesla team raises $12.5M for supply chains. What could go wrong?",
+        "They use AI to predict disruptions before they happen.",
+        "But their AI fails when suppliers lie about inventory.",
+        "Companies using it cut stockouts by 30% in pilot tests.",
+        "Test one supplier this week: ask for real-time data."
+      ],
+      "thread_text": [
+        "1. The $12.5M Supply Chain Gamble\n\nEx-Tesla engineers just raised $12.5M to fix supply chains with AI. But what happens when the data coming in is a lie?",
+        "2. AI Predicts Before It Breaks\n\nTheir system forecasts disruptions days before they hit. That means you can reroute, reorder, or renegotiate before the damage is done.",
+        "3. The Inventory Lie Problem\n\nIf a supplier fakes stock numbers, the AI learns from bad data. One dishonest partner can poison the whole forecast.",
+        "4. 30% Fewer Stockouts in Pilots\n\nIn pilot tests, companies using this AI cut stockouts by nearly a third. Real results, but only when the data is clean.",
+        "5. Test One Supplier Today\n\nAsk a single supplier for real-time inventory data this week. If they hesitate, you just found your weakest link."
+      ],
+      "video_script": [
+        "Ex-Tesla team just raised $12.5 million for supply chains.",
+        "Their AI predicts disruptions before they happen.",
+        "But it fails when suppliers lie about inventory.",
+        "Pilot tests cut stockouts by 30%.",
+        "Test one supplier: ask for real-time data."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The $12.5M Supply Chain Gamble\n\nEx-Tesla engineers just raised $12.5M to fix supply chains with AI. But what happens when the data coming in is a lie?",
+            "2. AI Predicts Before It Breaks\n\nTheir system forecasts disruptions days before they hit. That means you can reroute, reorder, or renegotiate before the damage is done.",
+            "3. The Inventory Lie Problem\n\nIf a supplier fakes stock numbers, the AI learns from bad data. One dishonest partner can poison the whole forecast.",
+            "4. 30% Fewer Stockouts in Pilots\n\nIn pilot tests, companies using this AI cut stockouts by nearly a third. Real results, but only when the data is clean.",
+            "5. Test One Supplier Today\n\nAsk a single supplier for real-time inventory data this week. If they hesitate, you just found your weakest link."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Ex-Tesla team just raised $12.5 million for supply chains.",
+            "Their AI predicts disruptions before they happen.",
+            "But it fails when suppliers lie about inventory.",
+            "Pilot tests cut stockouts by 30%.",
+            "Test one supplier: ask for real-time data."
+          ]
+        },
+        "instagram": {
+          "caption": "A supply chain AI just cut stockouts by 30% in pilot tests. 📦\n\nEx-Tesla engineers raised $12.5M to predict disruptions days before they hit, so you can reroute or reorder in time.\n\nBut there's a catch: if a supplier lies about inventory, the AI learns from bad data. One dishonest partner poisons the whole forecast. ⚠️\n\nIf you run content or ops, this is your daily reality: clean data is the whole game now.\n\nAsk one supplier for real-time inventory data this week. If they hesitate, you just found your weakest link. 🔍\n\nDo you actually trust your supplier numbers right now?"
+        }
+      },
+      "instagram_caption": "A supply chain AI just cut stockouts by 30% in pilot tests. 📦\n\nEx-Tesla engineers raised $12.5M to predict disruptions days before they hit, so you can reroute or reorder in time.\n\nBut there's a catch: if a supplier lies about inventory, the AI learns from bad data. One dishonest partner poisons the whole forecast. ⚠️\n\nIf you run content or ops, this is your daily reality: clean data is the whole game now.\n\nAsk one supplier for real-time inventory data this week. If they hesitate, you just found your weakest link. 🔍\n\nDo you actually trust your supplier numbers right now?",
+      "carousel_slides": [
+        {
+          "hook": "What if your supplier lies?",
+          "description": "Ex-Tesla team raised $12.5M for AI supply chains, but dishonest inventory data can poison the entire forecast.",
+          "visual_hint": "Split screen: clean data vs corrupted",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "warehouse shelves"
+        },
+        {
+          "hook": "AI predicts disruptions before they hit",
+          "description": "Their system forecasts supply chain breaks days ahead, letting you reroute, reorder, or renegotiate before damage.",
+          "visual_hint": "Digital map with warning icons",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "control room",
+          "image": "https://images.pexels.com/photos/15056120/pexels-photo-15056120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Bad data breaks the brain",
+          "description": "If one supplier fakes stock numbers, the AI learns from lies. A single dishonest partner corrupts every prediction.",
+          "visual_hint": "Glitch effect on inventory spreadsheet",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer code",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "30% fewer stockouts in pilots",
+          "description": "Companies using this AI cut stockouts by nearly a third in pilot tests, but only when supplier data stays clean.",
+          "visual_hint": "Hand holding product with checkmark",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "delivery truck",
+          "image": "https://images.pexels.com/photos/16370722/pexels-photo-16370722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this. Test one supplier now.",
+          "description": "Ask a single supplier for real-time inventory data this week. If they hesitate, you found your weakest link.",
+          "visual_hint": "Phone screen with data request",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "handshake business",
+          "image": "https://images.pexels.com/photos/2822647/pexels-photo-2822647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/atomic-founders.jpg?resize=1200,900",
+      "savedAt": "2026-09-29T10:15:51.497Z",
+      "sourceId": "8c8e0b75fd41227185637295cbde98ff"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "amd-is-acquiring-ai-company-world-labs-in-a-deal-w",
       "prompt_version": "1.0.0",
       "status": "published",

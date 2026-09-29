@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ex-tesla-team-raises-12-5m-to-put-supply-chains-on",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
+  "link": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
+  "pubDate": "Tue, 29 Sep 2026 09:00:00 +0000",
+  "slides": [
+    "Ex-Tesla team raises $12.5M for supply chains. What could go wrong?",
+    "They use AI to predict disruptions before they happen.",
+    "But their AI fails when suppliers lie about inventory.",
+    "Companies using it cut stockouts by 30% in pilot tests.",
+    "Test one supplier this week: ask for real-time data."
+  ],
+  "thread_text": [
+    "1. The $12.5M Supply Chain Gamble\n\nEx-Tesla engineers just raised $12.5M to fix supply chains with AI. But what happens when the data coming in is a lie?",
+    "2. AI Predicts Before It Breaks\n\nTheir system forecasts disruptions days before they hit. That means you can reroute, reorder, or renegotiate before the damage is done.",
+    "3. The Inventory Lie Problem\n\nIf a supplier fakes stock numbers, the AI learns from bad data. One dishonest partner can poison the whole forecast.",
+    "4. 30% Fewer Stockouts in Pilots\n\nIn pilot tests, companies using this AI cut stockouts by nearly a third. Real results, but only when the data is clean.",
+    "5. Test One Supplier Today\n\nAsk a single supplier for real-time inventory data this week. If they hesitate, you just found your weakest link."
+  ],
+  "video_script": [
+    "Ex-Tesla team just raised $12.5 million for supply chains.",
+    "Their AI predicts disruptions before they happen.",
+    "But it fails when suppliers lie about inventory.",
+    "Pilot tests cut stockouts by 30%.",
+    "Test one supplier: ask for real-time data."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $12.5M Supply Chain Gamble\n\nEx-Tesla engineers just raised $12.5M to fix supply chains with AI. But what happens when the data coming in is a lie?",
+        "2. AI Predicts Before It Breaks\n\nTheir system forecasts disruptions days before they hit. That means you can reroute, reorder, or renegotiate before the damage is done.",
+        "3. The Inventory Lie Problem\n\nIf a supplier fakes stock numbers, the AI learns from bad data. One dishonest partner can poison the whole forecast.",
+        "4. 30% Fewer Stockouts in Pilots\n\nIn pilot tests, companies using this AI cut stockouts by nearly a third. Real results, but only when the data is clean.",
+        "5. Test One Supplier Today\n\nAsk a single supplier for real-time inventory data this week. If they hesitate, you just found your weakest link."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Ex-Tesla team just raised $12.5 million for supply chains.",
+        "Their AI predicts disruptions before they happen.",
+        "But it fails when suppliers lie about inventory.",
+        "Pilot tests cut stockouts by 30%.",
+        "Test one supplier: ask for real-time data."
+      ]
+    },
+    "instagram": {
+      "caption": "A supply chain AI just cut stockouts by 30% in pilot tests. 📦\n\nEx-Tesla engineers raised $12.5M to predict disruptions days before they hit, so you can reroute or reorder in time.\n\nBut there's a catch: if a supplier lies about inventory, the AI learns from bad data. One dishonest partner poisons the whole forecast. ⚠️\n\nIf you run content or ops, this is your daily reality: clean data is the whole game now.\n\nAsk one supplier for real-time inventory data this week. If they hesitate, you just found your weakest link. 🔍\n\nDo you actually trust your supplier numbers right now?"
+    }
+  },
+  "instagram_caption": "A supply chain AI just cut stockouts by 30% in pilot tests. 📦\n\nEx-Tesla engineers raised $12.5M to predict disruptions days before they hit, so you can reroute or reorder in time.\n\nBut there's a catch: if a supplier lies about inventory, the AI learns from bad data. One dishonest partner poisons the whole forecast. ⚠️\n\nIf you run content or ops, this is your daily reality: clean data is the whole game now.\n\nAsk one supplier for real-time inventory data this week. If they hesitate, you just found your weakest link. 🔍\n\nDo you actually trust your supplier numbers right now?",
+  "carousel_slides": [
+    {
+      "hook": "What if your supplier lies?",
+      "description": "Ex-Tesla team raised $12.5M for AI supply chains, but dishonest inventory data can poison the entire forecast.",
+      "visual_hint": "Split screen: clean data vs corrupted",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "warehouse shelves"
+    },
+    {
+      "hook": "AI predicts disruptions before they hit",
+      "description": "Their system forecasts supply chain breaks days ahead, letting you reroute, reorder, or renegotiate before damage.",
+      "visual_hint": "Digital map with warning icons",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "control room",
+      "image": "https://images.pexels.com/photos/15056120/pexels-photo-15056120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Bad data breaks the brain",
+      "description": "If one supplier fakes stock numbers, the AI learns from lies. A single dishonest partner corrupts every prediction.",
+      "visual_hint": "Glitch effect on inventory spreadsheet",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer code",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "30% fewer stockouts in pilots",
+      "description": "Companies using this AI cut stockouts by nearly a third in pilot tests, but only when supplier data stays clean.",
+      "visual_hint": "Hand holding product with checkmark",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "delivery truck",
+      "image": "https://images.pexels.com/photos/16370722/pexels-photo-16370722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Test one supplier now.",
+      "description": "Ask a single supplier for real-time inventory data this week. If they hesitate, you found your weakest link.",
+      "visual_hint": "Phone screen with data request",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "handshake business",
+      "image": "https://images.pexels.com/photos/2822647/pexels-photo-2822647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/atomic-founders.jpg?resize=1200,900",
+  "savedAt": "2026-09-29T10:15:51.497Z",
+  "sourceId": "8c8e0b75fd41227185637295cbde98ff"
+}

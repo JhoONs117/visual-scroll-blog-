@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-ai-boom-took-over-climate-week-and-not-everyon",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The AI boom took over Climate Week and not everyone is happy about it",
+  "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+  "pubDate": "Mon, 28 Sep 2026 19:21:59 +0000",
+  "slides": [
+    "AI took over Climate Week—but why the backlash?",
+    "AI energy use rivals small nations, straining climate goals.",
+    "Some say AI is a distraction from real climate action.",
+    "Critics argue AI solutions often ignore root causes.",
+    "Next time you hear an AI climate fix, ask: who benefits?"
+  ],
+  "thread_text": [
+    "1. Climate Week's AI Paradox\n\nAI dominated the agenda, but not as a hero. Protesters argued the tech's energy appetite and corporate backing undermine real climate action.",
+    "2. AI's Hidden Energy Bill\n\nData centers powering AI consume as much electricity as some small countries. That surge makes it harder for nations to meet their climate targets.",
+    "3. The Distraction Debate\n\nCritics say focusing on AI fixes lets polluters off the hook. It shifts attention from proven solutions like cutting emissions at the source.",
+    "4. Tech Won't Fix the Roots\n\nAI climate tools often treat symptoms, not causes. They optimize systems that are fundamentally unsustainable, ignoring the need for structural change.",
+    "5. Who Benefits From AI Hype?\n\nNext time you hear an AI climate solution, ask: who profits? Follow the money before you buy the promise."
+  ],
+  "video_script": [
+    "AI took over Climate Week, but not everyone's cheering.",
+    "AI's energy use rivals small nations, straining climate goals.",
+    "Some say AI is just a distraction from real action.",
+    "Critics argue AI fixes ignore the root causes.",
+    "Ask: who benefits from the AI climate hype?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Climate Week's AI Paradox\n\nAI dominated the agenda, but not as a hero. Protesters argued the tech's energy appetite and corporate backing undermine real climate action.",
+        "2. AI's Hidden Energy Bill\n\nData centers powering AI consume as much electricity as some small countries. That surge makes it harder for nations to meet their climate targets.",
+        "3. The Distraction Debate\n\nCritics say focusing on AI fixes lets polluters off the hook. It shifts attention from proven solutions like cutting emissions at the source.",
+        "4. Tech Won't Fix the Roots\n\nAI climate tools often treat symptoms, not causes. They optimize systems that are fundamentally unsustainable, ignoring the need for structural change.",
+        "5. Who Benefits From AI Hype?\n\nNext time you hear an AI climate solution, ask: who profits? Follow the money before you buy the promise."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI took over Climate Week, but not everyone's cheering.",
+        "AI's energy use rivals small nations, straining climate goals.",
+        "Some say AI is just a distraction from real action.",
+        "Critics argue AI fixes ignore the root causes.",
+        "Ask: who benefits from the AI climate hype?"
+      ]
+    },
+    "instagram": {
+      "caption": "Data centers running AI now consume as much electricity as some small countries. ⚡\n\nAt Climate Week, AI dominated the agenda, but protesters pushed back hard.\n\nThey say the energy surge makes national climate targets harder to hit, and that AI climate fixes often dodge the real problem: cutting emissions at the source.\n\nIf you publish content about AI tools, check their energy footprint before calling them green.\n\nWho actually profits when AI gets framed as a climate solution? 💰\n\nAsk that before you share the next promise. 🌍"
+    }
+  },
+  "instagram_caption": "Data centers running AI now consume as much electricity as some small countries. ⚡\n\nAt Climate Week, AI dominated the agenda, but protesters pushed back hard.\n\nThey say the energy surge makes national climate targets harder to hit, and that AI climate fixes often dodge the real problem: cutting emissions at the source.\n\nIf you publish content about AI tools, check their energy footprint before calling them green.\n\nWho actually profits when AI gets framed as a climate solution? 💰\n\nAsk that before you share the next promise. 🌍",
+  "carousel_slides": [
+    {
+      "hook": "Who really benefits from AI climate hype?",
+      "description": "At Climate Week, AI dominated but protesters warned its energy appetite and corporate ties undermine genuine climate action.",
+      "visual_hint": "Protesters holding signs outside conference center",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "protest crowd"
+    },
+    {
+      "hook": "AI's electricity use rivals small nations",
+      "description": "Data centers powering AI consume as much electricity as some small countries, making national climate targets harder to meet.",
+      "visual_hint": "Rows of servers glowing in data center",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is AI a distraction from real solutions?",
+      "description": "Critics say focusing on AI fixes lets polluters off the hook, shifting attention from proven solutions like cutting emissions at source.",
+      "visual_hint": "Smokestacks emitting pollution against sky",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory smokestacks",
+      "image": "https://images.pexels.com/photos/13990608/pexels-photo-13990608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Tech won't fix the roots of crisis",
+      "description": "AI climate tools often treat symptoms, not causes, optimizing fundamentally unsustainable systems while ignoring the need for structural change.",
+      "visual_hint": "Hands holding globe with cracks",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands holding globe",
+      "image": "https://images.pexels.com/photos/6899178/pexels-photo-6899178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: ask who profits from AI",
+      "description": "Next time you hear an AI climate solution, follow the money before you buy the promise. Save this post and share it.",
+      "visual_hint": "Money stack with question mark overlay",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "money stack",
+      "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1126706015.jpg?resize=1200,856",
+  "savedAt": "2026-09-29T10:16:08.719Z",
+  "sourceId": "19b5c695e9726952bda30bca0be261a1"
+}
