@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "here-s-why-openai-is-absent-from-nvidia-s-industry",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+  "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+  "pubDate": "Tue, 29 Sep 2026 18:35:00 +0000",
+  "slides": [
+    "Why did OpenAI skip Nvidia's rogue AI agent coalition?",
+    "Nvidia built a safety alliance with rivals — but not OpenAI",
+    "OpenAI's absence may signal a deeper strategy clash",
+    "Your AI tools may not share safety standards across vendors",
+    "Demand interoperability — or risk rogue agents at work"
+  ],
+  "thread_text": [
+    "1. OpenAI walked out\n\nNvidia assembled a safety coalition for rogue AI agents. OpenAI, the company that built the most widely used model, didn't join. That omission is already being read as strategic.",
+    "2. Safety alliance formed\n\nNvidia brought rivals together to set shared guardrails for AI agents. The pact includes Google, Anthropic, and Microsoft — but not the market leader in consumer AI.",
+    "3. Strategy clash brewing\n\nOpenAI may be betting on its own safety stack instead of a shared one. If true, cross-vendor agents could fail to recognize each other's danger signals.",
+    "4. Your tools diverge\n\nWhen safety standards differ by vendor, your AI assistant won't know if another agent is safe to interact with. That gap is where rogue behavior slips through.",
+    "5. Demand interoperability now\n\nAsk your AI vendor: does your agent follow the same safety rules as the others? If they can't answer, you're the test case."
+  ],
+  "video_script": [
+    "OpenAI skipped Nvidia's rogue AI safety coalition.",
+    "Nvidia built a guardrail pact with rivals, but not OpenAI.",
+    "This may be a strategy clash, not an oversight.",
+    "Your AI tools won't share safety standards across vendors.",
+    "Demand interoperability today, or risk rogue agents."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI walked out\n\nNvidia assembled a safety coalition for rogue AI agents. OpenAI, the company that built the most widely used model, didn't join. That omission is already being read as strategic.",
+        "2. Safety alliance formed\n\nNvidia brought rivals together to set shared guardrails for AI agents. The pact includes Google, Anthropic, and Microsoft — but not the market leader in consumer AI.",
+        "3. Strategy clash brewing\n\nOpenAI may be betting on its own safety stack instead of a shared one. If true, cross-vendor agents could fail to recognize each other's danger signals.",
+        "4. Your tools diverge\n\nWhen safety standards differ by vendor, your AI assistant won't know if another agent is safe to interact with. That gap is where rogue behavior slips through.",
+        "5. Demand interoperability now\n\nAsk your AI vendor: does your agent follow the same safety rules as the others? If they can't answer, you're the test case."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI skipped Nvidia's rogue AI safety coalition.",
+        "Nvidia built a guardrail pact with rivals, but not OpenAI.",
+        "This may be a strategy clash, not an oversight.",
+        "Your AI tools won't share safety standards across vendors.",
+        "Demand interoperability today, or risk rogue agents."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI didn't join Nvidia's new safety coalition for AI agents.\n\nThe group includes Google, Anthropic and Microsoft — everyone except the company behind the most-used AI model. 🤝\n\nThat's not a scheduling issue. It likely means OpenAI is betting on its own safety rules instead of shared ones.\n\nSo when your assistant talks to an agent built by another vendor, neither may recognize the other's danger signals. ⚠️\n\nIf you build or publish with AI tools, this gap lands on you: you're the one testing whether cross-vendor agents behave.\n\nAsk your AI vendor one thing today: does your agent follow the same safety rules as the others? 📋\n\nIf they can't answer, you're the test case. 🔍"
+    }
+  },
+  "instagram_caption": "OpenAI didn't join Nvidia's new safety coalition for AI agents.\n\nThe group includes Google, Anthropic and Microsoft — everyone except the company behind the most-used AI model. 🤝\n\nThat's not a scheduling issue. It likely means OpenAI is betting on its own safety rules instead of shared ones.\n\nSo when your assistant talks to an agent built by another vendor, neither may recognize the other's danger signals. ⚠️\n\nIf you build or publish with AI tools, this gap lands on you: you're the one testing whether cross-vendor agents behave.\n\nAsk your AI vendor one thing today: does your agent follow the same safety rules as the others? 📋\n\nIf they can't answer, you're the test case. 🔍",
+  "carousel_slides": [
+    {
+      "hook": "OpenAI just snubbed Nvidia's safety pact",
+      "description": "Nvidia's coalition includes Google, Anthropic, and Microsoft, but not OpenAI. That omission signals a strategic split over AI agent safety.",
+      "visual_hint": "Empty chair at a conference table",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "conference table"
+    },
+    {
+      "hook": "Nvidia built a safety alliance without OpenAI",
+      "description": "Rivals united to set shared guardrails for rogue AI agents, leaving the market leader in consumer AI out of the room.",
+      "visual_hint": "Handshake between corporate leaders",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "business handshake",
+      "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "OpenAI may be betting on its own stack",
+      "description": "If OpenAI relies on proprietary safety instead of shared standards, cross-vendor agents might fail to recognize each other's danger signals.",
+      "visual_hint": "Two servers with different warning lights",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI tools won't share safety rules",
+      "description": "When vendors diverge on agent safety, your assistant can't tell if another agent is safe. That gap lets rogue behavior slip through.",
+      "visual_hint": "Person using AI assistant on laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demand interoperability — or become the test case",
+      "description": "Ask your AI vendor if their agent follows the same safety rules as others. If they can't answer, you're the experiment.",
+      "visual_hint": "User typing question to chatbot",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "computer keyboard",
+      "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
+  "savedAt": "2026-09-29T21:41:15.252Z",
+  "sourceId": "b7ee266b3afff5b48a696bb452c70cf3"
+}

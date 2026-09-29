@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-takes-on-microsoft-with-the-launch-of-what-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+    "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+    "pubDate": "Tue, 29 Sep 2026 17:45:51 +0000",
+    "slides": [
+      "OpenAI just took aim at Microsoft. Why now?",
+      "It launched tools that look like Office itself",
+      "But Microsoft is OpenAI's biggest partner and investor",
+      "You may soon choose between ChatGPT and Copilot",
+      "Test one real workflow this week and compare"
+    ],
+    "thread_text": [
+      "1. OpenAI Just Challenged Microsoft\n\nIt built tools that look like Office itself — Word, Excel, PowerPoint — setting up a direct collision with its biggest investor.",
+      "2. Why Burn Your Own Bridge?\n\nOpenAI depends on Microsoft for cloud and cash. But it just launched a product that competes with Microsoft's core business.",
+      "3. Two Products, One Choice\n\nSoon you'll pick between ChatGPT and Copilot for the same tasks. They come from the same partnership, yet they're rivals.",
+      "4. The Real Winner Is You\n\nCompetition forces both sides to improve fast. Features that were paid add-ons become standard or free within months.",
+      "5. Test One Workflow Today\n\nTake a real task you'd normally do in Word or Excel. Run it through ChatGPT. Does it save time or create extra edits?"
+    ],
+    "video_script": [
+      "OpenAI just built tools that look like Microsoft Office.",
+      "That's awkward because Microsoft is its biggest investor.",
+      "Soon you'll choose between ChatGPT and Microsoft Copilot.",
+      "Competition means better features and lower prices for you.",
+      "Test one real task today and compare the results."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. OpenAI Just Challenged Microsoft\n\nIt built tools that look like Office itself — Word, Excel, PowerPoint — setting up a direct collision with its biggest investor.",
+          "2. Why Burn Your Own Bridge?\n\nOpenAI depends on Microsoft for cloud and cash. But it just launched a product that competes with Microsoft's core business.",
+          "3. Two Products, One Choice\n\nSoon you'll pick between ChatGPT and Copilot for the same tasks. They come from the same partnership, yet they're rivals.",
+          "4. The Real Winner Is You\n\nCompetition forces both sides to improve fast. Features that were paid add-ons become standard or free within months.",
+          "5. Test One Workflow Today\n\nTake a real task you'd normally do in Word or Excel. Run it through ChatGPT. Does it save time or create extra edits?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI just built tools that look like Microsoft Office.",
+          "That's awkward because Microsoft is its biggest investor.",
+          "Soon you'll choose between ChatGPT and Microsoft Copilot.",
+          "Competition means better features and lower prices for you.",
+          "Test one real task today and compare the results."
+        ]
+      },
+      "instagram": {
+        "caption": "OpenAI just built a suite of tools that looks a lot like Word, Excel and PowerPoint — except it's all inside ChatGPT.\n\nThat puts it in direct competition with Microsoft, its biggest investor and cloud provider. 🤝\n\nSo soon you may be choosing between ChatGPT and Copilot for the exact same tasks.\n\nFor anyone creating content, this means the features you now pay extra for could become standard or free within months. 📝\n\nThis week, take one real task you'd normally do in Word or Excel and run it through ChatGPT. ⏱️\n\nDid it actually save time, or did it just create more edits? Let me know below. 👇"
+      }
+    },
+    "instagram_caption": "OpenAI just built a suite of tools that looks a lot like Word, Excel and PowerPoint — except it's all inside ChatGPT.\n\nThat puts it in direct competition with Microsoft, its biggest investor and cloud provider. 🤝\n\nSo soon you may be choosing between ChatGPT and Copilot for the exact same tasks.\n\nFor anyone creating content, this means the features you now pay extra for could become standard or free within months. 📝\n\nThis week, take one real task you'd normally do in Word or Excel and run it through ChatGPT. ⏱️\n\nDid it actually save time, or did it just create more edits? Let me know below. 👇",
+    "carousel_slides": [
+      {
+        "hook": "OpenAI just challenged its biggest investor",
+        "description": "OpenAI launched tools mimicking Word, Excel, and PowerPoint, directly competing with Microsoft, its largest partner and investor.",
+        "visual_hint": "Two corporate logos facing off",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "office building"
+      },
+      {
+        "hook": "Why would OpenAI burn its own bridge?",
+        "description": "OpenAI relies on Microsoft for cloud and cash, yet just launched a product competing with Microsoft's core business.",
+        "visual_hint": "Bridge breaking between two buildings",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "broken bridge",
+        "image": "https://images.pexels.com/photos/34804254/pexels-photo-34804254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Soon you'll choose between ChatGPT and Copilot",
+        "description": "Same partnership, rival products. You'll pick between ChatGPT and Copilot for identical tasks.",
+        "visual_hint": "Two app icons on a screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Competition is making both products better",
+        "description": "Rivalry forces faster improvement. Paid add-ons become standard or free within months.",
+        "visual_hint": "Rising chart with two lines",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and test one workflow now",
+        "description": "Take a real Word or Excel task, run it through ChatGPT, and see if it saves time.",
+        "visual_hint": "Hands typing on laptop",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop office desk",
+        "image": "https://images.pexels.com/photos/8296951/pexels-photo-8296951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/OpenAI.jpg?resize=1200,800",
+    "savedAt": "2026-09-29T21:41:24.417Z",
+    "sourceId": "3a556bd4fc98feb5e2d68b91deae4605"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "here-s-why-openai-is-absent-from-nvidia-s-industry",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+    "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+    "pubDate": "Tue, 29 Sep 2026 18:35:00 +0000",
+    "slides": [
+      "Why did OpenAI skip Nvidia's rogue AI agent coalition?",
+      "Nvidia built a safety alliance with rivals — but not OpenAI",
+      "OpenAI's absence may signal a deeper strategy clash",
+      "Your AI tools may not share safety standards across vendors",
+      "Demand interoperability — or risk rogue agents at work"
+    ],
+    "thread_text": [
+      "1. OpenAI walked out\n\nNvidia assembled a safety coalition for rogue AI agents. OpenAI, the company that built the most widely used model, didn't join. That omission is already being read as strategic.",
+      "2. Safety alliance formed\n\nNvidia brought rivals together to set shared guardrails for AI agents. The pact includes Google, Anthropic, and Microsoft — but not the market leader in consumer AI.",
+      "3. Strategy clash brewing\n\nOpenAI may be betting on its own safety stack instead of a shared one. If true, cross-vendor agents could fail to recognize each other's danger signals.",
+      "4. Your tools diverge\n\nWhen safety standards differ by vendor, your AI assistant won't know if another agent is safe to interact with. That gap is where rogue behavior slips through.",
+      "5. Demand interoperability now\n\nAsk your AI vendor: does your agent follow the same safety rules as the others? If they can't answer, you're the test case."
+    ],
+    "video_script": [
+      "OpenAI skipped Nvidia's rogue AI safety coalition.",
+      "Nvidia built a guardrail pact with rivals, but not OpenAI.",
+      "This may be a strategy clash, not an oversight.",
+      "Your AI tools won't share safety standards across vendors.",
+      "Demand interoperability today, or risk rogue agents."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. OpenAI walked out\n\nNvidia assembled a safety coalition for rogue AI agents. OpenAI, the company that built the most widely used model, didn't join. That omission is already being read as strategic.",
+          "2. Safety alliance formed\n\nNvidia brought rivals together to set shared guardrails for AI agents. The pact includes Google, Anthropic, and Microsoft — but not the market leader in consumer AI.",
+          "3. Strategy clash brewing\n\nOpenAI may be betting on its own safety stack instead of a shared one. If true, cross-vendor agents could fail to recognize each other's danger signals.",
+          "4. Your tools diverge\n\nWhen safety standards differ by vendor, your AI assistant won't know if another agent is safe to interact with. That gap is where rogue behavior slips through.",
+          "5. Demand interoperability now\n\nAsk your AI vendor: does your agent follow the same safety rules as the others? If they can't answer, you're the test case."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI skipped Nvidia's rogue AI safety coalition.",
+          "Nvidia built a guardrail pact with rivals, but not OpenAI.",
+          "This may be a strategy clash, not an oversight.",
+          "Your AI tools won't share safety standards across vendors.",
+          "Demand interoperability today, or risk rogue agents."
+        ]
+      },
+      "instagram": {
+        "caption": "OpenAI didn't join Nvidia's new safety coalition for AI agents.\n\nThe group includes Google, Anthropic and Microsoft — everyone except the company behind the most-used AI model. 🤝\n\nThat's not a scheduling issue. It likely means OpenAI is betting on its own safety rules instead of shared ones.\n\nSo when your assistant talks to an agent built by another vendor, neither may recognize the other's danger signals. ⚠️\n\nIf you build or publish with AI tools, this gap lands on you: you're the one testing whether cross-vendor agents behave.\n\nAsk your AI vendor one thing today: does your agent follow the same safety rules as the others? 📋\n\nIf they can't answer, you're the test case. 🔍"
+      }
+    },
+    "instagram_caption": "OpenAI didn't join Nvidia's new safety coalition for AI agents.\n\nThe group includes Google, Anthropic and Microsoft — everyone except the company behind the most-used AI model. 🤝\n\nThat's not a scheduling issue. It likely means OpenAI is betting on its own safety rules instead of shared ones.\n\nSo when your assistant talks to an agent built by another vendor, neither may recognize the other's danger signals. ⚠️\n\nIf you build or publish with AI tools, this gap lands on you: you're the one testing whether cross-vendor agents behave.\n\nAsk your AI vendor one thing today: does your agent follow the same safety rules as the others? 📋\n\nIf they can't answer, you're the test case. 🔍",
+    "carousel_slides": [
+      {
+        "hook": "OpenAI just snubbed Nvidia's safety pact",
+        "description": "Nvidia's coalition includes Google, Anthropic, and Microsoft, but not OpenAI. That omission signals a strategic split over AI agent safety.",
+        "visual_hint": "Empty chair at a conference table",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "conference table"
+      },
+      {
+        "hook": "Nvidia built a safety alliance without OpenAI",
+        "description": "Rivals united to set shared guardrails for rogue AI agents, leaving the market leader in consumer AI out of the room.",
+        "visual_hint": "Handshake between corporate leaders",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "business handshake",
+        "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "OpenAI may be betting on its own stack",
+        "description": "If OpenAI relies on proprietary safety instead of shared standards, cross-vendor agents might fail to recognize each other's danger signals.",
+        "visual_hint": "Two servers with different warning lights",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your AI tools won't share safety rules",
+        "description": "When vendors diverge on agent safety, your assistant can't tell if another agent is safe. That gap lets rogue behavior slip through.",
+        "visual_hint": "Person using AI assistant on laptop",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Demand interoperability — or become the test case",
+        "description": "Ask your AI vendor if their agent follows the same safety rules as others. If they can't answer, you're the experiment.",
+        "visual_hint": "User typing question to chatbot",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "computer keyboard",
+        "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
+    "savedAt": "2026-09-29T21:41:15.252Z",
+    "sourceId": "b7ee266b3afff5b48a696bb452c70cf3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-repotedly-in-talks-to-raise-30b-round-at-1-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+    "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "pubDate": "Tue, 29 Sep 2026 19:52:37 +0000",
+    "slides": [
+      "OpenAI seeks $30B. What if it can't deliver?",
+      "Reports suggest valuation could hit $1.4 trillion.",
+      "But AI revenue still lags far behind.",
+      "Founders must rethink burn rates and moats.",
+      "Bet on utility, not hype. Validate now."
+    ],
+    "thread_text": [
+      "1. $30B Bet\n\nOpenAI is reportedly raising at a valuation north of $1 trillion. That is more than the GDP of most countries for a company whose revenue is still measured in billions, not tens of billions.",
+      "2. Revenue Reality Check\n\nAI revenue across the industry is nowhere near the numbers being thrown around. The gap between valuation and actual cash flow is widening, not shrinking.",
+      "3. Founders' Wake-Up Call\n\nBurn rates built on cheap capital and hype cycles are dangerous. Moats now come from real usage, not model benchmarks. Investors are starting to ask harder questions.",
+      "4. Utility Over Hype\n\nThe winners will be products people actually need daily, not demos that impress on Twitter. Validate demand before scaling headcount or compute.",
+      "5. Test Your Own Assumptions\n\nTake one feature you're building and ask: would anyone pay for this today? If you can't answer with real data, you're betting on the same hype. Validate this week."
+    ],
+    "video_script": [
+      "OpenAI wants thirty billion dollars.",
+      "But AI revenue is still tiny.",
+      "Founders must rethink burn rates now.",
+      "Bet on utility, not on hype.",
+      "Validate your idea this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $30B Bet\n\nOpenAI is reportedly raising at a valuation north of $1 trillion. That is more than the GDP of most countries for a company whose revenue is still measured in billions, not tens of billions.",
+          "2. Revenue Reality Check\n\nAI revenue across the industry is nowhere near the numbers being thrown around. The gap between valuation and actual cash flow is widening, not shrinking.",
+          "3. Founders' Wake-Up Call\n\nBurn rates built on cheap capital and hype cycles are dangerous. Moats now come from real usage, not model benchmarks. Investors are starting to ask harder questions.",
+          "4. Utility Over Hype\n\nThe winners will be products people actually need daily, not demos that impress on Twitter. Validate demand before scaling headcount or compute.",
+          "5. Test Your Own Assumptions\n\nTake one feature you're building and ask: would anyone pay for this today? If you can't answer with real data, you're betting on the same hype. Validate this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI wants thirty billion dollars.",
+          "But AI revenue is still tiny.",
+          "Founders must rethink burn rates now.",
+          "Bet on utility, not on hype.",
+          "Validate your idea this week."
+        ]
+      },
+      "instagram": {
+        "caption": "OpenAI reportedly wants to raise $30 billion at a $1.4 trillion valuation. 🧮\n\nThat's more than the GDP of most countries — for a company whose revenue is still counted in billions.\n\nMeanwhile, real AI revenue across the industry keeps lagging far behind these numbers.\n\nIf you build with AI models, your costs rest on the same capital keeping those valuations alive. ⚠️\n\nValidate one feature this week: would anyone pay for it today, with real data? 🎯\n\nIf cheap capital dries up, does your product still stand? 💭"
+      }
+    },
+    "instagram_caption": "OpenAI reportedly wants to raise $30 billion at a $1.4 trillion valuation. 🧮\n\nThat's more than the GDP of most countries — for a company whose revenue is still counted in billions.\n\nMeanwhile, real AI revenue across the industry keeps lagging far behind these numbers.\n\nIf you build with AI models, your costs rest on the same capital keeping those valuations alive. ⚠️\n\nValidate one feature this week: would anyone pay for it today, with real data? 🎯\n\nIf cheap capital dries up, does your product still stand? 💭",
+    "carousel_slides": [
+      {
+        "hook": "AI revenue lags far behind valuations",
+        "description": "Industry AI revenue remains in billions while OpenAI reportedly seeks a $1.4 trillion valuation, widening the gap between cash flow and hype.",
+        "visual_hint": "Falling chart over server racks",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Is $1.4 trillion justified?",
+        "description": "Reports suggest OpenAI's valuation could hit $1.4 trillion, more than most countries' GDP, yet revenue is still measured in billions.",
+        "visual_hint": "Globe with upward arrow",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "world map",
+        "image": "https://images.pexels.com/photos/4406813/pexels-photo-4406813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Founders, rethink your burn rate",
+        "description": "Cheap capital and hype cycles built dangerous burn rates. Moats now come from real usage, not benchmarks, so investors ask harder questions.",
+        "visual_hint": "Flames consuming money",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "burning money",
+        "image": "https://images.pexels.com/photos/4588675/pexels-photo-4588675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Bet on utility, not hype",
+        "description": "Winners are products people need daily, not demos that impress on Twitter. Validate demand before scaling headcount or compute.",
+        "visual_hint": "Hand holding smartphone app",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "smartphone in hand",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Validate your assumptions this week",
+        "description": "Take one feature you're building and ask: would anyone pay today? If not, you're betting on hype. Save this and test now.",
+        "visual_hint": "Checklist with pen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+    "savedAt": "2026-09-29T21:41:07.872Z",
+    "sourceId": "f0d48337f0c9c48feae6bd838e1c2e10"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-s-latest-features-take-direct-aim-at-the-ap",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI’s latest features take direct aim at the app store model",
+    "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "pubDate": "Tue, 29 Sep 2026 20:15:47 +0000",
+    "slides": [
+      "OpenAI just made app stores nervous — but why?",
+      "It launched ChatGPT with native app-like features.",
+      "Surprise: devs can now bypass stores entirely.",
+      "Your next app might live inside a chat window.",
+      "If you build apps, test a ChatGPT extension this week."
+    ],
+    "thread_text": [
+      "1. App Stores Just Shook\n\nOpenAI rolled out native app-like features inside ChatGPT, letting developers publish directly to its 200M+ users—no store review, no 30% cut. That's a direct challenge to Apple and Google.",
+      "2. The Bypass Is Real\n\nDevs can now skip app stores entirely, embedding their tools as ChatGPT extensions. Distribution just shifted from curated marketplaces to a single chat window.",
+      "3. Your App Inside Chat\n\nThe next breakout app might never be downloaded. It could live as a conversation—users just ask for what they need, no install required.",
+      "4. Store Fees Under Fire\n\nIf this scales, the 15–30% commission model that funds Apple and Google's ecosystems starts to crack. Every indie dev now has a cheaper path to users.",
+      "5. Test It This Week\n\nBuild a simple ChatGPT extension and publish it. Spend one afternoon seeing if users engage—then decide if your roadmap changes."
+    ],
+    "video_script": [
+      "OpenAI just made app stores very nervous.",
+      "ChatGPT now has native app-like features built in.",
+      "Developers can bypass stores completely and publish directly.",
+      "Your next app might live inside a chat window.",
+      "If you build apps, test a ChatGPT extension this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. App Stores Just Shook\n\nOpenAI rolled out native app-like features inside ChatGPT, letting developers publish directly to its 200M+ users—no store review, no 30% cut. That's a direct challenge to Apple and Google.",
+          "2. The Bypass Is Real\n\nDevs can now skip app stores entirely, embedding their tools as ChatGPT extensions. Distribution just shifted from curated marketplaces to a single chat window.",
+          "3. Your App Inside Chat\n\nThe next breakout app might never be downloaded. It could live as a conversation—users just ask for what they need, no install required.",
+          "4. Store Fees Under Fire\n\nIf this scales, the 15–30% commission model that funds Apple and Google's ecosystems starts to crack. Every indie dev now has a cheaper path to users.",
+          "5. Test It This Week\n\nBuild a simple ChatGPT extension and publish it. Spend one afternoon seeing if users engage—then decide if your roadmap changes."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI just made app stores very nervous.",
+          "ChatGPT now has native app-like features built in.",
+          "Developers can bypass stores completely and publish directly.",
+          "Your next app might live inside a chat window.",
+          "If you build apps, test a ChatGPT extension this week."
+        ]
+      },
+      "instagram": {
+        "caption": "You can now put your app in front of 200M+ people without paying Apple or Google 30%.\n\nOpenAI added native app-like features inside ChatGPT. Developers publish directly, no store review, no commission.\n\nThat means your tool can live as a chat extension users just ask for — no download, no install screen.\n\nIf you build apps, your distribution just got a cheaper door. The 15-30% cut that funds app stores starts to crack.\n\nOne afternoon building a ChatGPT extension could change your whole roadmap. 📲\n\nWhat's stopping you from testing it this week? 🚀"
+      }
+    },
+    "instagram_caption": "You can now put your app in front of 200M+ people without paying Apple or Google 30%.\n\nOpenAI added native app-like features inside ChatGPT. Developers publish directly, no store review, no commission.\n\nThat means your tool can live as a chat extension users just ask for — no download, no install screen.\n\nIf you build apps, your distribution just got a cheaper door. The 15-30% cut that funds app stores starts to crack.\n\nOne afternoon building a ChatGPT extension could change your whole roadmap. 📲\n\nWhat's stopping you from testing it this week? 🚀",
+    "carousel_slides": [
+      {
+        "hook": "App stores just got bypassed entirely",
+        "description": "OpenAI lets developers publish directly to ChatGPT's 200M users—no review, no 30% cut.",
+        "visual_hint": "Cracked smartphone screen with app icons",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "broken smartphone screen"
+      },
+      {
+        "hook": "Your app could live inside a chat",
+        "description": "Native app-like features let developers embed tools as ChatGPT extensions, skipping distribution marketplaces.",
+        "visual_hint": "Chat bubbles floating over app grid",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "chat message bubbles",
+        "image": "https://images.pexels.com/photos/8015666/pexels-photo-8015666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No install required for next breakout",
+        "description": "Users just ask for what they need—no download, no homescreen icon. Conversation becomes distribution.",
+        "visual_hint": "Empty home screen with single chat icon",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "empty smartphone home screen",
+        "image": "https://images.pexels.com/photos/8947493/pexels-photo-8947493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Store fees under fire from indie devs",
+        "description": "If this scales, the 15–30% commission model cracks. Every indie dev gets a cheaper path to users.",
+        "visual_hint": "Hand holding phone with commission chart",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: test ChatGPT extension this week",
+        "description": "Build a simple ChatGPT extension and publish it. Spend one afternoon testing engagement—then adjust your roadmap.",
+        "visual_hint": "Laptop with coding environment open",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop coding screen",
+        "image": "https://images.pexels.com/photos/5473313/pexels-photo-5473313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+    "savedAt": "2026-09-29T21:41:00.068Z",
+    "sourceId": "6a33aca726c7950796005fd2b4f08335"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-apologizes-to-australia-after-its-ai-agents",
     "prompt_version": "1.0.0",
     "status": "published",

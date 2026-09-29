@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-repotedly-in-talks-to-raise-30b-round-at-1-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+  "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+  "pubDate": "Tue, 29 Sep 2026 19:52:37 +0000",
+  "slides": [
+    "OpenAI seeks $30B. What if it can't deliver?",
+    "Reports suggest valuation could hit $1.4 trillion.",
+    "But AI revenue still lags far behind.",
+    "Founders must rethink burn rates and moats.",
+    "Bet on utility, not hype. Validate now."
+  ],
+  "thread_text": [
+    "1. $30B Bet\n\nOpenAI is reportedly raising at a valuation north of $1 trillion. That is more than the GDP of most countries for a company whose revenue is still measured in billions, not tens of billions.",
+    "2. Revenue Reality Check\n\nAI revenue across the industry is nowhere near the numbers being thrown around. The gap between valuation and actual cash flow is widening, not shrinking.",
+    "3. Founders' Wake-Up Call\n\nBurn rates built on cheap capital and hype cycles are dangerous. Moats now come from real usage, not model benchmarks. Investors are starting to ask harder questions.",
+    "4. Utility Over Hype\n\nThe winners will be products people actually need daily, not demos that impress on Twitter. Validate demand before scaling headcount or compute.",
+    "5. Test Your Own Assumptions\n\nTake one feature you're building and ask: would anyone pay for this today? If you can't answer with real data, you're betting on the same hype. Validate this week."
+  ],
+  "video_script": [
+    "OpenAI wants thirty billion dollars.",
+    "But AI revenue is still tiny.",
+    "Founders must rethink burn rates now.",
+    "Bet on utility, not on hype.",
+    "Validate your idea this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $30B Bet\n\nOpenAI is reportedly raising at a valuation north of $1 trillion. That is more than the GDP of most countries for a company whose revenue is still measured in billions, not tens of billions.",
+        "2. Revenue Reality Check\n\nAI revenue across the industry is nowhere near the numbers being thrown around. The gap between valuation and actual cash flow is widening, not shrinking.",
+        "3. Founders' Wake-Up Call\n\nBurn rates built on cheap capital and hype cycles are dangerous. Moats now come from real usage, not model benchmarks. Investors are starting to ask harder questions.",
+        "4. Utility Over Hype\n\nThe winners will be products people actually need daily, not demos that impress on Twitter. Validate demand before scaling headcount or compute.",
+        "5. Test Your Own Assumptions\n\nTake one feature you're building and ask: would anyone pay for this today? If you can't answer with real data, you're betting on the same hype. Validate this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI wants thirty billion dollars.",
+        "But AI revenue is still tiny.",
+        "Founders must rethink burn rates now.",
+        "Bet on utility, not on hype.",
+        "Validate your idea this week."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI reportedly wants to raise $30 billion at a $1.4 trillion valuation. 🧮\n\nThat's more than the GDP of most countries — for a company whose revenue is still counted in billions.\n\nMeanwhile, real AI revenue across the industry keeps lagging far behind these numbers.\n\nIf you build with AI models, your costs rest on the same capital keeping those valuations alive. ⚠️\n\nValidate one feature this week: would anyone pay for it today, with real data? 🎯\n\nIf cheap capital dries up, does your product still stand? 💭"
+    }
+  },
+  "instagram_caption": "OpenAI reportedly wants to raise $30 billion at a $1.4 trillion valuation. 🧮\n\nThat's more than the GDP of most countries — for a company whose revenue is still counted in billions.\n\nMeanwhile, real AI revenue across the industry keeps lagging far behind these numbers.\n\nIf you build with AI models, your costs rest on the same capital keeping those valuations alive. ⚠️\n\nValidate one feature this week: would anyone pay for it today, with real data? 🎯\n\nIf cheap capital dries up, does your product still stand? 💭",
+  "carousel_slides": [
+    {
+      "hook": "AI revenue lags far behind valuations",
+      "description": "Industry AI revenue remains in billions while OpenAI reportedly seeks a $1.4 trillion valuation, widening the gap between cash flow and hype.",
+      "visual_hint": "Falling chart over server racks",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Is $1.4 trillion justified?",
+      "description": "Reports suggest OpenAI's valuation could hit $1.4 trillion, more than most countries' GDP, yet revenue is still measured in billions.",
+      "visual_hint": "Globe with upward arrow",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "world map",
+      "image": "https://images.pexels.com/photos/4406813/pexels-photo-4406813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Founders, rethink your burn rate",
+      "description": "Cheap capital and hype cycles built dangerous burn rates. Moats now come from real usage, not benchmarks, so investors ask harder questions.",
+      "visual_hint": "Flames consuming money",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "burning money",
+      "image": "https://images.pexels.com/photos/4588675/pexels-photo-4588675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Bet on utility, not hype",
+      "description": "Winners are products people need daily, not demos that impress on Twitter. Validate demand before scaling headcount or compute.",
+      "visual_hint": "Hand holding smartphone app",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone in hand",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Validate your assumptions this week",
+      "description": "Take one feature you're building and ask: would anyone pay today? If not, you're betting on hype. Save this and test now.",
+      "visual_hint": "Checklist with pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+  "savedAt": "2026-09-29T21:41:07.872Z",
+  "sourceId": "f0d48337f0c9c48feae6bd838e1c2e10"
+}

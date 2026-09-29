@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-s-latest-features-take-direct-aim-at-the-ap",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI’s latest features take direct aim at the app store model",
+  "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+  "pubDate": "Tue, 29 Sep 2026 20:15:47 +0000",
+  "slides": [
+    "OpenAI just made app stores nervous — but why?",
+    "It launched ChatGPT with native app-like features.",
+    "Surprise: devs can now bypass stores entirely.",
+    "Your next app might live inside a chat window.",
+    "If you build apps, test a ChatGPT extension this week."
+  ],
+  "thread_text": [
+    "1. App Stores Just Shook\n\nOpenAI rolled out native app-like features inside ChatGPT, letting developers publish directly to its 200M+ users—no store review, no 30% cut. That's a direct challenge to Apple and Google.",
+    "2. The Bypass Is Real\n\nDevs can now skip app stores entirely, embedding their tools as ChatGPT extensions. Distribution just shifted from curated marketplaces to a single chat window.",
+    "3. Your App Inside Chat\n\nThe next breakout app might never be downloaded. It could live as a conversation—users just ask for what they need, no install required.",
+    "4. Store Fees Under Fire\n\nIf this scales, the 15–30% commission model that funds Apple and Google's ecosystems starts to crack. Every indie dev now has a cheaper path to users.",
+    "5. Test It This Week\n\nBuild a simple ChatGPT extension and publish it. Spend one afternoon seeing if users engage—then decide if your roadmap changes."
+  ],
+  "video_script": [
+    "OpenAI just made app stores very nervous.",
+    "ChatGPT now has native app-like features built in.",
+    "Developers can bypass stores completely and publish directly.",
+    "Your next app might live inside a chat window.",
+    "If you build apps, test a ChatGPT extension this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. App Stores Just Shook\n\nOpenAI rolled out native app-like features inside ChatGPT, letting developers publish directly to its 200M+ users—no store review, no 30% cut. That's a direct challenge to Apple and Google.",
+        "2. The Bypass Is Real\n\nDevs can now skip app stores entirely, embedding their tools as ChatGPT extensions. Distribution just shifted from curated marketplaces to a single chat window.",
+        "3. Your App Inside Chat\n\nThe next breakout app might never be downloaded. It could live as a conversation—users just ask for what they need, no install required.",
+        "4. Store Fees Under Fire\n\nIf this scales, the 15–30% commission model that funds Apple and Google's ecosystems starts to crack. Every indie dev now has a cheaper path to users.",
+        "5. Test It This Week\n\nBuild a simple ChatGPT extension and publish it. Spend one afternoon seeing if users engage—then decide if your roadmap changes."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI just made app stores very nervous.",
+        "ChatGPT now has native app-like features built in.",
+        "Developers can bypass stores completely and publish directly.",
+        "Your next app might live inside a chat window.",
+        "If you build apps, test a ChatGPT extension this week."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now put your app in front of 200M+ people without paying Apple or Google 30%.\n\nOpenAI added native app-like features inside ChatGPT. Developers publish directly, no store review, no commission.\n\nThat means your tool can live as a chat extension users just ask for — no download, no install screen.\n\nIf you build apps, your distribution just got a cheaper door. The 15-30% cut that funds app stores starts to crack.\n\nOne afternoon building a ChatGPT extension could change your whole roadmap. 📲\n\nWhat's stopping you from testing it this week? 🚀"
+    }
+  },
+  "instagram_caption": "You can now put your app in front of 200M+ people without paying Apple or Google 30%.\n\nOpenAI added native app-like features inside ChatGPT. Developers publish directly, no store review, no commission.\n\nThat means your tool can live as a chat extension users just ask for — no download, no install screen.\n\nIf you build apps, your distribution just got a cheaper door. The 15-30% cut that funds app stores starts to crack.\n\nOne afternoon building a ChatGPT extension could change your whole roadmap. 📲\n\nWhat's stopping you from testing it this week? 🚀",
+  "carousel_slides": [
+    {
+      "hook": "App stores just got bypassed entirely",
+      "description": "OpenAI lets developers publish directly to ChatGPT's 200M users—no review, no 30% cut.",
+      "visual_hint": "Cracked smartphone screen with app icons",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "broken smartphone screen"
+    },
+    {
+      "hook": "Your app could live inside a chat",
+      "description": "Native app-like features let developers embed tools as ChatGPT extensions, skipping distribution marketplaces.",
+      "visual_hint": "Chat bubbles floating over app grid",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "chat message bubbles",
+      "image": "https://images.pexels.com/photos/8015666/pexels-photo-8015666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No install required for next breakout",
+      "description": "Users just ask for what they need—no download, no homescreen icon. Conversation becomes distribution.",
+      "visual_hint": "Empty home screen with single chat icon",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "empty smartphone home screen",
+      "image": "https://images.pexels.com/photos/8947493/pexels-photo-8947493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Store fees under fire from indie devs",
+      "description": "If this scales, the 15–30% commission model cracks. Every indie dev gets a cheaper path to users.",
+      "visual_hint": "Hand holding phone with commission chart",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: test ChatGPT extension this week",
+      "description": "Build a simple ChatGPT extension and publish it. Spend one afternoon testing engagement—then adjust your roadmap.",
+      "visual_hint": "Laptop with coding environment open",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop coding screen",
+      "image": "https://images.pexels.com/photos/5473313/pexels-photo-5473313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+  "savedAt": "2026-09-29T21:41:00.068Z",
+  "sourceId": "6a33aca726c7950796005fd2b4f08335"
+}
