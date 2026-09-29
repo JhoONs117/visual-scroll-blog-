@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "fbi-reportedly-declares-cyber-security-incident-af",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
+  "link": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
+  "pubDate": "Mon, 28 Sep 2026 14:50:30 +0000",
+  "slides": [
+    "FBI admits hackers stole agents' personal data—now what?",
+    "The breach reportedly involved a system used for case management.",
+    "Hackers may have accessed undercover identities and informant files.",
+    "If you're an agent, assume your data is compromised.",
+    "Change your passwords and enable two-factor authentication today."
+  ],
+  "thread_text": [
+    "1. FBI's Worst Nightmare\n\nHackers stole personal data of FBI agents from a case management system. The breach may have exposed undercover identities and informant files.",
+    "2. Not Just Any System\n\nThe compromised system was used for case management. That means it held details on ongoing operations and sensitive sources.",
+    "3. Undercover Blown\n\nIf hackers accessed undercover identities, agents' lives could be at risk. Informant files may also be in enemy hands.",
+    "4. Assume You're Compromised\n\nIf you're an FBI agent, your personal data may already be leaked. Don't wait for official confirmation to act.",
+    "5. Lock It Down Now\n\nChange your passwords and enable two-factor authentication today. One small step can prevent a major breach."
+  ],
+  "video_script": [
+    "The FBI just admitted hackers stole agents' personal data.",
+    "The breach hit a system used for case management.",
+    "Undercover identities and informant files may be exposed.",
+    "If you're an agent, assume your data is compromised.",
+    "Change your passwords and enable two-factor authentication today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. FBI's Worst Nightmare\n\nHackers stole personal data of FBI agents from a case management system. The breach may have exposed undercover identities and informant files.",
+        "2. Not Just Any System\n\nThe compromised system was used for case management. That means it held details on ongoing operations and sensitive sources.",
+        "3. Undercover Blown\n\nIf hackers accessed undercover identities, agents' lives could be at risk. Informant files may also be in enemy hands.",
+        "4. Assume You're Compromised\n\nIf you're an FBI agent, your personal data may already be leaked. Don't wait for official confirmation to act.",
+        "5. Lock It Down Now\n\nChange your passwords and enable two-factor authentication today. One small step can prevent a major breach."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "The FBI just admitted hackers stole agents' personal data.",
+        "The breach hit a system used for case management.",
+        "Undercover identities and informant files may be exposed.",
+        "If you're an agent, assume your data is compromised.",
+        "Change your passwords and enable two-factor authentication today."
+      ]
+    },
+    "instagram": {
+      "caption": "Hackers may have accessed undercover FBI identities and informant files.\n\nThe breach reportedly hit a case management system — the kind that holds details on ongoing operations and sensitive sources. 🚨\n\nIf identities were exposed, agents' lives could be at risk, not just their data. 🔓\n\nFor anyone in security or intelligence work: don't wait for official confirmation your data leaked.\n\nChange your passwords and turn on two-factor authentication today. 🔑\n\nIf your own employer got breached tomorrow, would you already be protected?"
+    }
+  },
+  "instagram_caption": "Hackers may have accessed undercover FBI identities and informant files.\n\nThe breach reportedly hit a case management system — the kind that holds details on ongoing operations and sensitive sources. 🚨\n\nIf identities were exposed, agents' lives could be at risk, not just their data. 🔓\n\nFor anyone in security or intelligence work: don't wait for official confirmation your data leaked.\n\nChange your passwords and turn on two-factor authentication today. 🔑\n\nIf your own employer got breached tomorrow, would you already be protected?",
+  "carousel_slides": [
+    {
+      "hook": "Undercover agents' lives just got exposed?",
+      "description": "Hackers reportedly stole FBI agents' personal data, potentially exposing undercover identities and informant files.",
+      "visual_hint": "Glowing red warning on dark screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "hacker computer"
+    },
+    {
+      "hook": "FBI's case management system breached",
+      "description": "The compromised system held details on ongoing operations and sensitive sources, making the breach extremely dangerous.",
+      "visual_hint": "Locked file cabinet with digital overlay",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your informant files may be in enemy hands",
+      "description": "If hackers accessed undercover identities, agents' lives could be at risk and sources compromised.",
+      "visual_hint": "Shadowy figure reading confidential documents",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "classified documents",
+      "image": "https://images.pexels.com/photos/8371713/pexels-photo-8371713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Assume your data is already leaked",
+      "description": "If you're an FBI agent, don't wait for official confirmation—your personal data may already be exposed.",
+      "visual_hint": "Agent's badge and smartphone with alert",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Lock it down before it's too late",
+      "description": "Change your passwords and enable two-factor authentication today. One small step can prevent a major breach.",
+      "visual_hint": "Hands typing on keyboard with lock icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "password security",
+      "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/fbi-edgar-hoover-building-2288940613.jpg?resize=1200,800",
+  "savedAt": "2026-09-29T03:26:06.208Z",
+  "sourceId": "a3cf01a0d31239e59ad06edba19f4c5b"
+}

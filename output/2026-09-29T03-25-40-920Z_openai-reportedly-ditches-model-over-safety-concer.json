@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-reportedly-ditches-model-over-safety-concer",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI reportedly ditches model over safety concerns",
+  "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+  "pubDate": "Mon, 28 Sep 2026 23:39:20 +0000",
+  "slides": [
+    "Why did OpenAI quietly abandon its own model?",
+    "Months of work vanished without a public explanation",
+    "Internal safety alarms, not capabilities, killed it",
+    "Your AI roadmap may depend on secrets you can't see",
+    "Ask vendors what they shelved and why"
+  ],
+  "thread_text": [
+    "1. The Model They Buried\n\nOpenAI ditched a model after months of work, no announcement, no blog post. The silence is the story.",
+    "2. Safety Killed It\n\nInternal alarms — not lack of capability — ended the project. The tech worked, but something spooked the safety team.",
+    "3. Your Roadmap Is Blind\n\nIf you're building on a vendor's roadmap, you're betting on decisions made in rooms you'll never see. They shelve, you pivot.",
+    "4. Ask About the Graveyard\n\nEvery AI vendor has a graveyard of abandoned models. Most won't mention it. That silence costs you months.",
+    "5. One Email Today\n\nWrite to your AI vendor: 'What have you shelved in the last year, and why?' Their answer — or silence — tells you everything."
+  ],
+  "video_script": [
+    "OpenAI quietly killed a model after months of work.",
+    "Safety alarms, not capability, ended the project.",
+    "Your roadmap bets on secrets you can't see.",
+    "Ask vendors what they shelved and why.",
+    "Their answer, or silence, is the real signal."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Model They Buried\n\nOpenAI ditched a model after months of work, no announcement, no blog post. The silence is the story.",
+        "2. Safety Killed It\n\nInternal alarms — not lack of capability — ended the project. The tech worked, but something spooked the safety team.",
+        "3. Your Roadmap Is Blind\n\nIf you're building on a vendor's roadmap, you're betting on decisions made in rooms you'll never see. They shelve, you pivot.",
+        "4. Ask About the Graveyard\n\nEvery AI vendor has a graveyard of abandoned models. Most won't mention it. That silence costs you months.",
+        "5. One Email Today\n\nWrite to your AI vendor: 'What have you shelved in the last year, and why?' Their answer — or silence — tells you everything."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI quietly killed a model after months of work.",
+        "Safety alarms, not capability, ended the project.",
+        "Your roadmap bets on secrets you can't see.",
+        "Ask vendors what they shelved and why.",
+        "Their answer, or silence, is the real signal."
+      ]
+    },
+    "instagram": {
+      "caption": "A model that worked was killed by internal safety alarms, not by failure.\n\nOpenAI quietly shelved it after months of work. No blog post, no announcement, just silence. 🚩\n\nYour roadmap runs on decisions made in rooms you'll never see. They shelve, you pivot. That silence costs months.\n\nIf you build or publish with AI tools, ask your vendor one question: what did you abandon this year, and why? 🗂️\n\nTheir answer, or their silence, tells you more than any launch. 🧩\n\nWhat are you actually betting on when you trust a roadmap you can't inspect? 🔍"
+    }
+  },
+  "instagram_caption": "A model that worked was killed by internal safety alarms, not by failure.\n\nOpenAI quietly shelved it after months of work. No blog post, no announcement, just silence. 🚩\n\nYour roadmap runs on decisions made in rooms you'll never see. They shelve, you pivot. That silence costs months.\n\nIf you build or publish with AI tools, ask your vendor one question: what did you abandon this year, and why? 🗂️\n\nTheir answer, or their silence, tells you more than any launch. 🧩\n\nWhat are you actually betting on when you trust a roadmap you can't inspect? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "What if safety killed your AI roadmap?",
+      "description": "OpenAI shelved a model after months, no public explanation. Internal safety alarms, not capability, ended it.",
+      "visual_hint": "Glowing server rack with red warning light",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Months of work vanished silently",
+      "description": "No announcement, no blog post. The silence around the abandoned model is the real story.",
+      "visual_hint": "Empty office desk, dark monitor",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "empty office",
+      "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Safety alarms, not capabilities, ended it",
+      "description": "The tech worked, but internal safety concerns spooked the team. A quiet kill switch flipped.",
+      "visual_hint": "Control room with red alert screens",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "control room",
+      "image": "https://images.pexels.com/photos/15056120/pexels-photo-15056120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI roadmap bets on unseen decisions",
+      "description": "Building on a vendor's roadmap means betting on choices made in rooms you'll never see.",
+      "visual_hint": "Businessperson looking at empty whiteboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "business meeting",
+      "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask vendors what they shelved and why",
+      "description": "Email your AI vendor: 'What have you shelved in the last year, and why?' Their answer or silence speaks.",
+      "visual_hint": "Hand writing email on laptop",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "email laptop",
+      "image": "https://images.pexels.com/photos/29359827/pexels-photo-29359827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+  "savedAt": "2026-09-29T03:25:49.180Z",
+  "sourceId": "df051edc9234f413e90ebf08b37724d4"
+}

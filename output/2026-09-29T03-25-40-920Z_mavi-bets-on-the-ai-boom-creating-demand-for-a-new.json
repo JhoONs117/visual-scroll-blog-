@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "mavi-bets-on-the-ai-boom-creating-demand-for-a-new",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
+  "link": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
+  "pubDate": "Mon, 28 Sep 2026 15:26:46 +0000",
+  "slides": [
+    "Can an accountant survive the AI boom?",
+    "MAVI says the profession needs a new kind of number cruncher.",
+    "But the real demand isn't for traditional accounting skills.",
+    "You need to learn AI tools to stay relevant.",
+    "Start by automating one repetitive task this week."
+  ],
+  "thread_text": [
+    "1. Your job is changing\n\nAI can now do 80% of routine bookkeeping in seconds. The question isn't whether accounting survives—it's which accountants do.",
+    "2. Old skills won't save you\n\nThe profession's own association says it needs a new type of number cruncher. Traditional certification alone no longer guarantees relevance in hiring pipelines.",
+    "3. The skills gap nobody names\n\nFirms aren't short on accountants who can reconcile accounts. They're short on people who can direct AI tools, catch their errors, and interpret what the numbers actually mean.",
+    "4. Learn the tools or lose ground\n\nAI literacy is now a hiring filter. Professionals who automate their own workflows are moving faster and getting promoted. Those who don't are training their replacement.",
+    "5. Pick one task today\n\nOpen ChatGPT and automate a single recurring report. Time how long it takes. If you haven't tried it yet, that's where you start."
+  ],
+  "video_script": [
+    "So can accountants actually survive the AI boom?",
+    "The professional association says we need a new kind of number cruncher.",
+    "But firms aren't hiring for traditional accounting skills anymore.",
+    "You need to learn AI tools to stay relevant right now.",
+    "Start by automating one repetitive task this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your job is changing\n\nAI can now do 80% of routine bookkeeping in seconds. The question isn't whether accounting survives—it's which accountants do.",
+        "2. Old skills won't save you\n\nThe profession's own association says it needs a new type of number cruncher. Traditional certification alone no longer guarantees relevance in hiring pipelines.",
+        "3. The skills gap nobody names\n\nFirms aren't short on accountants who can reconcile accounts. They're short on people who can direct AI tools, catch their errors, and interpret what the numbers actually mean.",
+        "4. Learn the tools or lose ground\n\nAI literacy is now a hiring filter. Professionals who automate their own workflows are moving faster and getting promoted. Those who don't are training their replacement.",
+        "5. Pick one task today\n\nOpen ChatGPT and automate a single recurring report. Time how long it takes. If you haven't tried it yet, that's where you start."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "So can accountants actually survive the AI boom?",
+        "The professional association says we need a new kind of number cruncher.",
+        "But firms aren't hiring for traditional accounting skills anymore.",
+        "You need to learn AI tools to stay relevant right now.",
+        "Start by automating one repetitive task this week."
+      ]
+    },
+    "instagram": {
+      "caption": "An accounting association says the profession needs a new kind of number cruncher.\n\nAI now handles most routine bookkeeping in seconds, so the old certification alone no longer gets you hired.\n\nFirms aren't short on people who reconcile accounts — they're short on people who can direct AI tools and catch their mistakes.\n\nIf you publish or work with numbers, AI literacy is already a hiring filter, not a bonus. 📊\n\nPick one recurring report this week, automate it, and time how long it takes. What's the first task you'd hand over? 🤖"
+    }
+  },
+  "instagram_caption": "An accounting association says the profession needs a new kind of number cruncher.\n\nAI now handles most routine bookkeeping in seconds, so the old certification alone no longer gets you hired.\n\nFirms aren't short on people who reconcile accounts — they're short on people who can direct AI tools and catch their mistakes.\n\nIf you publish or work with numbers, AI literacy is already a hiring filter, not a bonus. 📊\n\nPick one recurring report this week, automate it, and time how long it takes. What's the first task you'd hand over? 🤖",
+  "carousel_slides": [
+    {
+      "hook": "Is your accounting job AI-proof?",
+      "description": "AI handles 80% of routine bookkeeping in seconds, so only accountants who adapt will survive the shift.",
+      "visual_hint": "Split screen: human vs AI calculator",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "calculator machine"
+    },
+    {
+      "hook": "Old skills won't save you",
+      "description": "The profession's association says it needs a new type of number cruncher; traditional certification no longer guarantees relevance.",
+      "visual_hint": "Fading certificate beside glowing digital ledger",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "certificate document",
+      "image": "https://images.pexels.com/photos/8524952/pexels-photo-8524952.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The skills gap nobody names",
+      "description": "Firms aren't short on reconcilers—they're short on people who direct AI tools, catch errors, and interpret meaning.",
+      "visual_hint": "Magnifying glass over data error",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass data",
+      "image": "https://images.pexels.com/photos/6120168/pexels-photo-6120168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Learn AI tools or lose ground",
+      "description": "AI literacy is now a hiring filter. Professionals who automate workflows move faster; those who don't train their replacement.",
+      "visual_hint": "Hand typing on laptop with AI interface",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands laptop keyboard",
+      "image": "https://images.pexels.com/photos/27080975/pexels-photo-27080975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: automate one task today",
+      "description": "Open ChatGPT and automate a single recurring report. Time it. If you haven't tried, that's your start.",
+      "visual_hint": "Clock beside automated report on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "clock office desk",
+      "image": "https://images.pexels.com/photos/37808313/pexels-photo-37808313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Mavi.jpg?resize=1200,800",
+  "savedAt": "2026-09-29T03:25:57.813Z",
+  "sourceId": "c3eb429f2826553311e3f517a60d0af6"
+}

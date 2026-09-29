@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "amd-is-acquiring-ai-company-world-labs-in-a-deal-w",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+      "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+      "pubDate": "2026-09-28T21:31:35.000Z",
+      "slides": [
+        "Why is AMD buying an AI startup for $8 billion?",
+        "World Labs specializes in spatial intelligence for 3D worlds.",
+        "The real target isn't the tech—it's the founder's team.",
+        "If you rely on AMD chips for AI, your roadmap shifts.",
+        "Watch for new spatial computing tools from AMD next year."
+      ],
+      "thread_text": [
+        "1. AMD drops $8B on spatial AI\n\nAMD is acquiring World Labs, a startup building spatial intelligence for 3D worlds. The deal values the company at $8 billion.",
+        "2. What exactly is spatial intelligence?\n\nIt lets machines understand and navigate 3D spaces like humans do. Think robots, AR glasses, and autonomous systems that map the real world.",
+        "3. The real prize is the team\n\nAMD isn't just buying code—it's acquiring the founders and engineers behind World Labs. Talent is the scarce resource in AI right now.",
+        "4. Your AMD roadmap just shifted\n\nIf your AI stack runs on AMD chips, expect new spatial computing tools and hardware focus within a year. Budgets and porting plans may need revisiting.",
+        "5. Watch for AMD's spatial tools next year\n\nAsk your AMD rep about spatial computing roadmaps. If you're building 3D AI, test one prototype on their stack this quarter."
+      ],
+      "video_script": [
+        "AMD is buying an AI startup for eight billion dollars.",
+        "World Labs builds spatial intelligence for three-dimensional worlds.",
+        "The real target is the founder's team, not the tech.",
+        "If you use AMD chips for AI, your roadmap shifts.",
+        "Watch for new spatial computing tools from AMD next year."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AMD drops $8B on spatial AI\n\nAMD is acquiring World Labs, a startup building spatial intelligence for 3D worlds. The deal values the company at $8 billion.",
+            "2. What exactly is spatial intelligence?\n\nIt lets machines understand and navigate 3D spaces like humans do. Think robots, AR glasses, and autonomous systems that map the real world.",
+            "3. The real prize is the team\n\nAMD isn't just buying code—it's acquiring the founders and engineers behind World Labs. Talent is the scarce resource in AI right now.",
+            "4. Your AMD roadmap just shifted\n\nIf your AI stack runs on AMD chips, expect new spatial computing tools and hardware focus within a year. Budgets and porting plans may need revisiting.",
+            "5. Watch for AMD's spatial tools next year\n\nAsk your AMD rep about spatial computing roadmaps. If you're building 3D AI, test one prototype on their stack this quarter."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AMD is buying an AI startup for eight billion dollars.",
+            "World Labs builds spatial intelligence for three-dimensional worlds.",
+            "The real target is the founder's team, not the tech.",
+            "If you use AMD chips for AI, your roadmap shifts.",
+            "Watch for new spatial computing tools from AMD next year."
+          ]
+        },
+        "instagram": {
+          "caption": "$8 billion for a startup building spatial intelligence for 3D worlds. 🤖\n\nAMD is acquiring World Labs, a company that teaches machines to understand and navigate 3D spaces like humans do.\n\nThe real target isn't the code — it's the founders and engineers. Talent is the scarce resource in AI right now.\n\nIf your AI stack runs on AMD chips, expect new spatial computing tools within a year. Your porting plans and budget may need revisiting. 👀\n\nIf you're building 3D AI, would you test a prototype on their stack this quarter? 🧠"
+        }
+      },
+      "instagram_caption": "$8 billion for a startup building spatial intelligence for 3D worlds. 🤖\n\nAMD is acquiring World Labs, a company that teaches machines to understand and navigate 3D spaces like humans do.\n\nThe real target isn't the code — it's the founders and engineers. Talent is the scarce resource in AI right now.\n\nIf your AI stack runs on AMD chips, expect new spatial computing tools within a year. Your porting plans and budget may need revisiting. 👀\n\nIf you're building 3D AI, would you test a prototype on their stack this quarter? 🧠",
+      "carousel_slides": [
+        {
+          "hook": "AMD's $8B secret: it's not the tech",
+          "description": "AMD is acquiring World Labs for $8 billion, but the real target is the founder and engineering team behind spatial intelligence.",
+          "visual_hint": "Large glowing AMD logo over server racks",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "What is spatial intelligence, really?",
+          "description": "World Labs builds spatial intelligence for 3D worlds, letting machines map and navigate real spaces like humans do.",
+          "visual_hint": "3D wireframe globe with navigation paths",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "3D rendering",
+          "image": "https://images.pexels.com/photos/29376747/pexels-photo-29376747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Talent is the new scarce resource",
+          "description": "AMD isn't buying code—it's acquiring World Labs' founders and engineers, because AI talent is now the scarcest asset.",
+          "visual_hint": "Close-up of engineers collaborating on screens",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "engineers working",
+          "image": "https://images.pexels.com/photos/8961127/pexels-photo-8961127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AMD AI roadmap just shifted",
+          "description": "If your AI stack runs on AMD chips, expect new spatial computing tools and hardware focus within a year.",
+          "visual_hint": "Hand holding AMD chip on circuit board",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "computer chip",
+          "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Watch AMD's spatial tools next year",
+          "description": "Ask your AMD rep about spatial computing roadmaps. If you build 3D AI, test one prototype on their stack this quarter.",
+          "visual_hint": "Person pointing at floating 3D interface",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "augmented reality glasses",
+          "image": "https://images.pexels.com/photos/3761299/pexels-photo-3761299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2279092788.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
+      "savedAt": "2026-09-29T03:26:15.518Z",
+      "sourceId": "efa98b45caf354222d153274428f51d4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "fbi-reportedly-declares-cyber-security-incident-af",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
+      "link": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
+      "pubDate": "Mon, 28 Sep 2026 14:50:30 +0000",
+      "slides": [
+        "FBI admits hackers stole agents' personal data—now what?",
+        "The breach reportedly involved a system used for case management.",
+        "Hackers may have accessed undercover identities and informant files.",
+        "If you're an agent, assume your data is compromised.",
+        "Change your passwords and enable two-factor authentication today."
+      ],
+      "thread_text": [
+        "1. FBI's Worst Nightmare\n\nHackers stole personal data of FBI agents from a case management system. The breach may have exposed undercover identities and informant files.",
+        "2. Not Just Any System\n\nThe compromised system was used for case management. That means it held details on ongoing operations and sensitive sources.",
+        "3. Undercover Blown\n\nIf hackers accessed undercover identities, agents' lives could be at risk. Informant files may also be in enemy hands.",
+        "4. Assume You're Compromised\n\nIf you're an FBI agent, your personal data may already be leaked. Don't wait for official confirmation to act.",
+        "5. Lock It Down Now\n\nChange your passwords and enable two-factor authentication today. One small step can prevent a major breach."
+      ],
+      "video_script": [
+        "The FBI just admitted hackers stole agents' personal data.",
+        "The breach hit a system used for case management.",
+        "Undercover identities and informant files may be exposed.",
+        "If you're an agent, assume your data is compromised.",
+        "Change your passwords and enable two-factor authentication today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. FBI's Worst Nightmare\n\nHackers stole personal data of FBI agents from a case management system. The breach may have exposed undercover identities and informant files.",
+            "2. Not Just Any System\n\nThe compromised system was used for case management. That means it held details on ongoing operations and sensitive sources.",
+            "3. Undercover Blown\n\nIf hackers accessed undercover identities, agents' lives could be at risk. Informant files may also be in enemy hands.",
+            "4. Assume You're Compromised\n\nIf you're an FBI agent, your personal data may already be leaked. Don't wait for official confirmation to act.",
+            "5. Lock It Down Now\n\nChange your passwords and enable two-factor authentication today. One small step can prevent a major breach."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "The FBI just admitted hackers stole agents' personal data.",
+            "The breach hit a system used for case management.",
+            "Undercover identities and informant files may be exposed.",
+            "If you're an agent, assume your data is compromised.",
+            "Change your passwords and enable two-factor authentication today."
+          ]
+        },
+        "instagram": {
+          "caption": "Hackers may have accessed undercover FBI identities and informant files.\n\nThe breach reportedly hit a case management system — the kind that holds details on ongoing operations and sensitive sources. 🚨\n\nIf identities were exposed, agents' lives could be at risk, not just their data. 🔓\n\nFor anyone in security or intelligence work: don't wait for official confirmation your data leaked.\n\nChange your passwords and turn on two-factor authentication today. 🔑\n\nIf your own employer got breached tomorrow, would you already be protected?"
+        }
+      },
+      "instagram_caption": "Hackers may have accessed undercover FBI identities and informant files.\n\nThe breach reportedly hit a case management system — the kind that holds details on ongoing operations and sensitive sources. 🚨\n\nIf identities were exposed, agents' lives could be at risk, not just their data. 🔓\n\nFor anyone in security or intelligence work: don't wait for official confirmation your data leaked.\n\nChange your passwords and turn on two-factor authentication today. 🔑\n\nIf your own employer got breached tomorrow, would you already be protected?",
+      "carousel_slides": [
+        {
+          "hook": "Undercover agents' lives just got exposed?",
+          "description": "Hackers reportedly stole FBI agents' personal data, potentially exposing undercover identities and informant files.",
+          "visual_hint": "Glowing red warning on dark screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "hacker computer"
+        },
+        {
+          "hook": "FBI's case management system breached",
+          "description": "The compromised system held details on ongoing operations and sensitive sources, making the breach extremely dangerous.",
+          "visual_hint": "Locked file cabinet with digital overlay",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your informant files may be in enemy hands",
+          "description": "If hackers accessed undercover identities, agents' lives could be at risk and sources compromised.",
+          "visual_hint": "Shadowy figure reading confidential documents",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "classified documents",
+          "image": "https://images.pexels.com/photos/8371713/pexels-photo-8371713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Assume your data is already leaked",
+          "description": "If you're an FBI agent, don't wait for official confirmation—your personal data may already be exposed.",
+          "visual_hint": "Agent's badge and smartphone with alert",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Lock it down before it's too late",
+          "description": "Change your passwords and enable two-factor authentication today. One small step can prevent a major breach.",
+          "visual_hint": "Hands typing on keyboard with lock icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "password security",
+          "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/fbi-edgar-hoover-building-2288940613.jpg?resize=1200,800",
+      "savedAt": "2026-09-29T03:26:06.208Z",
+      "sourceId": "a3cf01a0d31239e59ad06edba19f4c5b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "mavi-bets-on-the-ai-boom-creating-demand-for-a-new",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
+      "link": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
+      "pubDate": "Mon, 28 Sep 2026 15:26:46 +0000",
+      "slides": [
+        "Can an accountant survive the AI boom?",
+        "MAVI says the profession needs a new kind of number cruncher.",
+        "But the real demand isn't for traditional accounting skills.",
+        "You need to learn AI tools to stay relevant.",
+        "Start by automating one repetitive task this week."
+      ],
+      "thread_text": [
+        "1. Your job is changing\n\nAI can now do 80% of routine bookkeeping in seconds. The question isn't whether accounting survives—it's which accountants do.",
+        "2. Old skills won't save you\n\nThe profession's own association says it needs a new type of number cruncher. Traditional certification alone no longer guarantees relevance in hiring pipelines.",
+        "3. The skills gap nobody names\n\nFirms aren't short on accountants who can reconcile accounts. They're short on people who can direct AI tools, catch their errors, and interpret what the numbers actually mean.",
+        "4. Learn the tools or lose ground\n\nAI literacy is now a hiring filter. Professionals who automate their own workflows are moving faster and getting promoted. Those who don't are training their replacement.",
+        "5. Pick one task today\n\nOpen ChatGPT and automate a single recurring report. Time how long it takes. If you haven't tried it yet, that's where you start."
+      ],
+      "video_script": [
+        "So can accountants actually survive the AI boom?",
+        "The professional association says we need a new kind of number cruncher.",
+        "But firms aren't hiring for traditional accounting skills anymore.",
+        "You need to learn AI tools to stay relevant right now.",
+        "Start by automating one repetitive task this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your job is changing\n\nAI can now do 80% of routine bookkeeping in seconds. The question isn't whether accounting survives—it's which accountants do.",
+            "2. Old skills won't save you\n\nThe profession's own association says it needs a new type of number cruncher. Traditional certification alone no longer guarantees relevance in hiring pipelines.",
+            "3. The skills gap nobody names\n\nFirms aren't short on accountants who can reconcile accounts. They're short on people who can direct AI tools, catch their errors, and interpret what the numbers actually mean.",
+            "4. Learn the tools or lose ground\n\nAI literacy is now a hiring filter. Professionals who automate their own workflows are moving faster and getting promoted. Those who don't are training their replacement.",
+            "5. Pick one task today\n\nOpen ChatGPT and automate a single recurring report. Time how long it takes. If you haven't tried it yet, that's where you start."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "So can accountants actually survive the AI boom?",
+            "The professional association says we need a new kind of number cruncher.",
+            "But firms aren't hiring for traditional accounting skills anymore.",
+            "You need to learn AI tools to stay relevant right now.",
+            "Start by automating one repetitive task this week."
+          ]
+        },
+        "instagram": {
+          "caption": "An accounting association says the profession needs a new kind of number cruncher.\n\nAI now handles most routine bookkeeping in seconds, so the old certification alone no longer gets you hired.\n\nFirms aren't short on people who reconcile accounts — they're short on people who can direct AI tools and catch their mistakes.\n\nIf you publish or work with numbers, AI literacy is already a hiring filter, not a bonus. 📊\n\nPick one recurring report this week, automate it, and time how long it takes. What's the first task you'd hand over? 🤖"
+        }
+      },
+      "instagram_caption": "An accounting association says the profession needs a new kind of number cruncher.\n\nAI now handles most routine bookkeeping in seconds, so the old certification alone no longer gets you hired.\n\nFirms aren't short on people who reconcile accounts — they're short on people who can direct AI tools and catch their mistakes.\n\nIf you publish or work with numbers, AI literacy is already a hiring filter, not a bonus. 📊\n\nPick one recurring report this week, automate it, and time how long it takes. What's the first task you'd hand over? 🤖",
+      "carousel_slides": [
+        {
+          "hook": "Is your accounting job AI-proof?",
+          "description": "AI handles 80% of routine bookkeeping in seconds, so only accountants who adapt will survive the shift.",
+          "visual_hint": "Split screen: human vs AI calculator",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "calculator machine"
+        },
+        {
+          "hook": "Old skills won't save you",
+          "description": "The profession's association says it needs a new type of number cruncher; traditional certification no longer guarantees relevance.",
+          "visual_hint": "Fading certificate beside glowing digital ledger",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "certificate document",
+          "image": "https://images.pexels.com/photos/8524952/pexels-photo-8524952.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The skills gap nobody names",
+          "description": "Firms aren't short on reconcilers—they're short on people who direct AI tools, catch errors, and interpret meaning.",
+          "visual_hint": "Magnifying glass over data error",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass data",
+          "image": "https://images.pexels.com/photos/6120168/pexels-photo-6120168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Learn AI tools or lose ground",
+          "description": "AI literacy is now a hiring filter. Professionals who automate workflows move faster; those who don't train their replacement.",
+          "visual_hint": "Hand typing on laptop with AI interface",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hands laptop keyboard",
+          "image": "https://images.pexels.com/photos/27080975/pexels-photo-27080975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: automate one task today",
+          "description": "Open ChatGPT and automate a single recurring report. Time it. If you haven't tried, that's your start.",
+          "visual_hint": "Clock beside automated report on screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "clock office desk",
+          "image": "https://images.pexels.com/photos/37808313/pexels-photo-37808313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Mavi.jpg?resize=1200,800",
+      "savedAt": "2026-09-29T03:25:57.813Z",
+      "sourceId": "c3eb429f2826553311e3f517a60d0af6"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-reportedly-ditches-model-over-safety-concer",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "pubDate": "Mon, 28 Sep 2026 23:39:20 +0000",
+      "slides": [
+        "Why did OpenAI quietly abandon its own model?",
+        "Months of work vanished without a public explanation",
+        "Internal safety alarms, not capabilities, killed it",
+        "Your AI roadmap may depend on secrets you can't see",
+        "Ask vendors what they shelved and why"
+      ],
+      "thread_text": [
+        "1. The Model They Buried\n\nOpenAI ditched a model after months of work, no announcement, no blog post. The silence is the story.",
+        "2. Safety Killed It\n\nInternal alarms — not lack of capability — ended the project. The tech worked, but something spooked the safety team.",
+        "3. Your Roadmap Is Blind\n\nIf you're building on a vendor's roadmap, you're betting on decisions made in rooms you'll never see. They shelve, you pivot.",
+        "4. Ask About the Graveyard\n\nEvery AI vendor has a graveyard of abandoned models. Most won't mention it. That silence costs you months.",
+        "5. One Email Today\n\nWrite to your AI vendor: 'What have you shelved in the last year, and why?' Their answer — or silence — tells you everything."
+      ],
+      "video_script": [
+        "OpenAI quietly killed a model after months of work.",
+        "Safety alarms, not capability, ended the project.",
+        "Your roadmap bets on secrets you can't see.",
+        "Ask vendors what they shelved and why.",
+        "Their answer, or silence, is the real signal."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Model They Buried\n\nOpenAI ditched a model after months of work, no announcement, no blog post. The silence is the story.",
+            "2. Safety Killed It\n\nInternal alarms — not lack of capability — ended the project. The tech worked, but something spooked the safety team.",
+            "3. Your Roadmap Is Blind\n\nIf you're building on a vendor's roadmap, you're betting on decisions made in rooms you'll never see. They shelve, you pivot.",
+            "4. Ask About the Graveyard\n\nEvery AI vendor has a graveyard of abandoned models. Most won't mention it. That silence costs you months.",
+            "5. One Email Today\n\nWrite to your AI vendor: 'What have you shelved in the last year, and why?' Their answer — or silence — tells you everything."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI quietly killed a model after months of work.",
+            "Safety alarms, not capability, ended the project.",
+            "Your roadmap bets on secrets you can't see.",
+            "Ask vendors what they shelved and why.",
+            "Their answer, or silence, is the real signal."
+          ]
+        },
+        "instagram": {
+          "caption": "A model that worked was killed by internal safety alarms, not by failure.\n\nOpenAI quietly shelved it after months of work. No blog post, no announcement, just silence. 🚩\n\nYour roadmap runs on decisions made in rooms you'll never see. They shelve, you pivot. That silence costs months.\n\nIf you build or publish with AI tools, ask your vendor one question: what did you abandon this year, and why? 🗂️\n\nTheir answer, or their silence, tells you more than any launch. 🧩\n\nWhat are you actually betting on when you trust a roadmap you can't inspect? 🔍"
+        }
+      },
+      "instagram_caption": "A model that worked was killed by internal safety alarms, not by failure.\n\nOpenAI quietly shelved it after months of work. No blog post, no announcement, just silence. 🚩\n\nYour roadmap runs on decisions made in rooms you'll never see. They shelve, you pivot. That silence costs months.\n\nIf you build or publish with AI tools, ask your vendor one question: what did you abandon this year, and why? 🗂️\n\nTheir answer, or their silence, tells you more than any launch. 🧩\n\nWhat are you actually betting on when you trust a roadmap you can't inspect? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "What if safety killed your AI roadmap?",
+          "description": "OpenAI shelved a model after months, no public explanation. Internal safety alarms, not capability, ended it.",
+          "visual_hint": "Glowing server rack with red warning light",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Months of work vanished silently",
+          "description": "No announcement, no blog post. The silence around the abandoned model is the real story.",
+          "visual_hint": "Empty office desk, dark monitor",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "empty office",
+          "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Safety alarms, not capabilities, ended it",
+          "description": "The tech worked, but internal safety concerns spooked the team. A quiet kill switch flipped.",
+          "visual_hint": "Control room with red alert screens",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "control room",
+          "image": "https://images.pexels.com/photos/15056120/pexels-photo-15056120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI roadmap bets on unseen decisions",
+          "description": "Building on a vendor's roadmap means betting on choices made in rooms you'll never see.",
+          "visual_hint": "Businessperson looking at empty whiteboard",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "business meeting",
+          "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask vendors what they shelved and why",
+          "description": "Email your AI vendor: 'What have you shelved in the last year, and why?' Their answer or silence speaks.",
+          "visual_hint": "Hand writing email on laptop",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "email laptop",
+          "image": "https://images.pexels.com/photos/29359827/pexels-photo-29359827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "savedAt": "2026-09-29T03:25:49.180Z",
+      "sourceId": "df051edc9234f413e90ebf08b37724d4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "physical-ai-chip-developer-sima-ai-hits-1-45b-valu",
       "prompt_version": "1.0.0",
       "status": "published",
