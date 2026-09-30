@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "a16z-backed-eliseai-raises-350m-doubles-valuation-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+  "link": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+  "pubDate": "Tue, 29 Sep 2026 21:51:36 +0000",
+  "slides": [
+    "Why did EliseAI's valuation double so fast?",
+    "a16z just backed a $350M round at $4B.",
+    "Most tenants never realize they're texting AI.",
+    "Leasing teams can now automate 90% of inquiries.",
+    "Check if your landlord already uses it."
+  ],
+  "thread_text": [
+    "1. A $4B Bet on Silence\n\nEliseAI just raised $350M from a16z. Most tenants will never know they texted a bot.",
+    "2. Why Investors Doubled Down\n\nLeasing teams use it to handle 90% of inquiries. Human agents only step in when a lease is ready to sign.",
+    "3. The Invisible Onboarding\n\nNo app download. No 'I'm an AI' disclaimer. Tenants just reply to a normal number and get instant answers.",
+    "4. The Real Cost of Speed\n\nIf 90% of questions vanish, do you need 90% fewer leasing staff? That's the math landlords are running right now.",
+    "5. Check This Before You Sign\n\nNext time you text a leasing office, ask: 'Am I talking to a person?' If the reply is instant, you have your answer."
+  ],
+  "video_script": [
+    "EliseAI just raised 350 million dollars from a16z.",
+    "Most tenants never realize they are texting an AI bot.",
+    "Leasing teams can now automate 90 percent of inquiries.",
+    "Landlords are quietly replacing human leasing agents.",
+    "Next time you text a leasing office, ask if it is human."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. A $4B Bet on Silence\n\nEliseAI just raised $350M from a16z. Most tenants will never know they texted a bot.",
+        "2. Why Investors Doubled Down\n\nLeasing teams use it to handle 90% of inquiries. Human agents only step in when a lease is ready to sign.",
+        "3. The Invisible Onboarding\n\nNo app download. No 'I'm an AI' disclaimer. Tenants just reply to a normal number and get instant answers.",
+        "4. The Real Cost of Speed\n\nIf 90% of questions vanish, do you need 90% fewer leasing staff? That's the math landlords are running right now.",
+        "5. Check This Before You Sign\n\nNext time you text a leasing office, ask: 'Am I talking to a person?' If the reply is instant, you have your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "EliseAI just raised 350 million dollars from a16z.",
+        "Most tenants never realize they are texting an AI bot.",
+        "Leasing teams can now automate 90 percent of inquiries.",
+        "Landlords are quietly replacing human leasing agents.",
+        "Next time you text a leasing office, ask if it is human."
+      ]
+    },
+    "instagram": {
+      "caption": "If you texted a leasing office and got an instant reply, it might not have been a person.\n\nEliseAI just raised $350M from a16z, doubling its valuation to $4 billion. Leasing teams use it to automate 90% of tenant inquiries. No app, no \"I'm an AI\" disclaimer — tenants just text a normal number. 🏢\n\nIf you make content about real estate or tech, this is your story: invisible AI is already in everyday conversations.\n\nNext time you text a landlord, ask: am I talking to a person? 🤖"
+    }
+  },
+  "instagram_caption": "If you texted a leasing office and got an instant reply, it might not have been a person.\n\nEliseAI just raised $350M from a16z, doubling its valuation to $4 billion. Leasing teams use it to automate 90% of tenant inquiries. No app, no \"I'm an AI\" disclaimer — tenants just text a normal number. 🏢\n\nIf you make content about real estate or tech, this is your story: invisible AI is already in everyday conversations.\n\nNext time you text a landlord, ask: am I talking to a person? 🤖",
+  "carousel_slides": [
+    {
+      "hook": "You might be texting an AI landlord",
+      "description": "EliseAI raised $350M from a16z at a $4B valuation. Most tenants never realize they're chatting with a bot.",
+      "visual_hint": "Smartphone screen with chat bubbles",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone texting"
+    },
+    {
+      "hook": "Why did investors double down?",
+      "description": "Leasing teams use EliseAI to handle 90% of inquiries. Human agents only step in when a lease is ready to sign.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Office desk with laptop",
+      "image_query": "office desk",
+      "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No app, no disclaimer, just replies",
+      "description": "Tenants text a normal number and get instant answers. No download, no 'I'm an AI' warning. The onboarding is invisible.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Phone notification pop-up",
+      "image_query": "phone notification",
+      "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Do landlords need fewer leasing staff?",
+      "description": "If 90% of questions vanish, landlords are running the math on cutting leasing staff by 90%. Speed has a real cost.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hand holding calculator",
+      "image_query": "hand calculator",
+      "image": "https://images.pexels.com/photos/8296969/pexels-photo-8296969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask this before you sign",
+      "description": "Next time you text a leasing office, ask: 'Am I talking to a person?' If the reply is instant, you have your answer. Save this.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Lease contract and pen",
+      "image_query": "lease contract",
+      "image": "https://images.pexels.com/photos/8482859/pexels-photo-8482859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1469304638.jpg?resize=1200,669",
+  "savedAt": "2026-09-30T00:54:58.143Z",
+  "sourceId": "261d2920949d096807dd097f49911de0"
+}

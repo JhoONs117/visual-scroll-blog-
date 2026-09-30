@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-reportedly-in-talks-to-raise-30b-round-at-1",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+  "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+  "pubDate": "Tue, 29 Sep 2026 19:52:37 +0000",
+  "slides": [
+    "Why does OpenAI need $30 billion?",
+    "Investors would value it at $1.4 trillion",
+    "But revenue lags far behind that number",
+    "Your AI tools may soon cost more",
+    "Watch what OpenAI does with the cash"
+  ],
+  "thread_text": [
+    "1. OpenAI's $30B Question\n\nOpenAI is raising $30 billion. Investors would value it at $1.4 trillion — but revenue lags far behind that number.",
+    "2. The $1.4 Trillion Bet\n\nThat valuation assumes AI becomes as essential as electricity. Current revenue is a tiny fraction of that.",
+    "3. Revenue Reality Check\n\nOpenAI's annual revenue is estimated in the low billions. The gap between that and $1.4 trillion is enormous.",
+    "4. Your AI Bill Is Coming\n\nTo justify the valuation, OpenAI will need to charge more. Your AI tools may soon cost more.",
+    "5. Watch the Money\n\nTrack how OpenAI spends that $30 billion. If it builds infrastructure, prices could stay low. If not, expect higher fees. Does that change your AI budget?"
+  ],
+  "video_script": [
+    "OpenAI is raising thirty billion dollars.",
+    "Investors think it's worth one point four trillion.",
+    "But its revenue is far smaller than that.",
+    "To close the gap, your AI tools may cost more.",
+    "Watch what OpenAI does with the cash."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI's $30B Question\n\nOpenAI is raising $30 billion. Investors would value it at $1.4 trillion — but revenue lags far behind that number.",
+        "2. The $1.4 Trillion Bet\n\nThat valuation assumes AI becomes as essential as electricity. Current revenue is a tiny fraction of that.",
+        "3. Revenue Reality Check\n\nOpenAI's annual revenue is estimated in the low billions. The gap between that and $1.4 trillion is enormous.",
+        "4. Your AI Bill Is Coming\n\nTo justify the valuation, OpenAI will need to charge more. Your AI tools may soon cost more.",
+        "5. Watch the Money\n\nTrack how OpenAI spends that $30 billion. If it builds infrastructure, prices could stay low. If not, expect higher fees. Does that change your AI budget?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI is raising thirty billion dollars.",
+        "Investors think it's worth one point four trillion.",
+        "But its revenue is far smaller than that.",
+        "To close the gap, your AI tools may cost more.",
+        "Watch what OpenAI does with the cash."
+      ]
+    },
+    "instagram": {
+      "caption": "Your AI subscription could get more expensive soon.\n\nOpenAI is reportedly raising $30 billion from investors. That money would value the company at $1.4 trillion. 💰\n\nProblem: its yearly revenue is only in the low billions. That gap is huge. 📉\n\nTo justify that number, OpenAI will likely charge more for its tools. If the cash goes into infrastructure, prices might stay low. If not, expect higher fees.\n\nThat means ChatGPT, image tools, or writing assistants you use daily could cost you more per month. 😬\n\nWant to check? Look at your current AI subscriptions and see what a price bump would mean for your budget. 💸"
+    }
+  },
+  "instagram_caption": "Your AI subscription could get more expensive soon.\n\nOpenAI is reportedly raising $30 billion from investors. That money would value the company at $1.4 trillion. 💰\n\nProblem: its yearly revenue is only in the low billions. That gap is huge. 📉\n\nTo justify that number, OpenAI will likely charge more for its tools. If the cash goes into infrastructure, prices might stay low. If not, expect higher fees.\n\nThat means ChatGPT, image tools, or writing assistants you use daily could cost you more per month. 😬\n\nWant to check? Look at your current AI subscriptions and see what a price bump would mean for your budget. 💸",
+  "carousel_slides": [
+    {
+      "hook": "OpenAI's $30B Raise: Is $1.4T Justified?",
+      "description": "The valuation assumes AI becomes as essential as electricity. Current revenue is a tiny fraction of that.",
+      "visual_hint": "Glowing server racks in data center",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "The $1.4 Trillion Bet",
+      "description": "That valuation depends on AI becoming ubiquitous. Revenue today is only a small slice of that number.",
+      "visual_hint": "Stock chart climbing steeply upward",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Revenue Reality Check: The Gap Is Huge",
+      "description": "OpenAI's annual revenue is estimated in the low billions. The gap to $1.4 trillion is enormous.",
+      "visual_hint": "Zoomed-in bar graph with gaps",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "financial chart",
+      "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI Bill Is Coming",
+      "description": "To justify the valuation, OpenAI will need to charge more. Your AI tools may soon cost more.",
+      "visual_hint": "Hand holding credit card near laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person using laptop",
+      "image": "https://images.pexels.com/photos/12902986/pexels-photo-12902986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Watch the Money: Save This Post",
+      "description": "Track how OpenAI spends the $30B. If it builds infrastructure, prices could stay low; if not, expect higher fees.",
+      "visual_hint": "Wallet with cash and coins",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "money wallet",
+      "image": "https://images.pexels.com/photos/4386433/pexels-photo-4386433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+  "savedAt": "2026-09-30T00:55:06.915Z",
+  "sourceId": "9a16357905559c9af8d26722feb45c93"
+}

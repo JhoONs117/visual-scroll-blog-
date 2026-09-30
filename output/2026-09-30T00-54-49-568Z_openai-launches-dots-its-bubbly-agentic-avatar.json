@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-launches-dots-its-bubbly-agentic-avatar",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI launches Dots, its bubbly agentic avatar",
+  "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+  "pubDate": "Tue, 29 Sep 2026 17:17:15 +0000",
+  "slides": [
+    "OpenAI just launched Dots – what does it change?",
+    "Its bubbly agentic avatar feels human, not robotic.",
+    "But it can act autonomously, not just chat.",
+    "Thus, it can complete tasks without your constant input.",
+    "Try Dots for one daily workflow this week."
+  ],
+  "thread_text": [
+    "1. OpenAI's Dots: Human or Robot?\n\nIt looks like a bubbly avatar but acts like an autonomous agent. That shift changes how you delegate work.",
+    "2. Beyond Chat: It Acts\n\nDots doesn't just reply—it initiates tasks, makes decisions, and executes steps on its own.",
+    "3. No Babysitting Required\n\nYou can hand off a task and walk away. It completes the workflow without constant check-ins.",
+    "4. Your Time, Reclaimed\n\nThat means fewer interruptions and more focus on deep work. But you'll need to trust it.",
+    "5. Test It Today\n\nPick one daily workflow—like sorting emails—and let Dots run it. See if you'd keep it."
+  ],
+  "video_script": [
+    "OpenAI just launched Dots, a new AI agent.",
+    "It looks like a friendly avatar, not a robot.",
+    "But it acts on its own, without needing your input.",
+    "So it can finish tasks while you do other things.",
+    "Try Dots on one daily workflow this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI's Dots: Human or Robot?\n\nIt looks like a bubbly avatar but acts like an autonomous agent. That shift changes how you delegate work.",
+        "2. Beyond Chat: It Acts\n\nDots doesn't just reply—it initiates tasks, makes decisions, and executes steps on its own.",
+        "3. No Babysitting Required\n\nYou can hand off a task and walk away. It completes the workflow without constant check-ins.",
+        "4. Your Time, Reclaimed\n\nThat means fewer interruptions and more focus on deep work. But you'll need to trust it.",
+        "5. Test It Today\n\nPick one daily workflow—like sorting emails—and let Dots run it. See if you'd keep it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI just launched Dots, a new AI agent.",
+        "It looks like a friendly avatar, not a robot.",
+        "But it acts on its own, without needing your input.",
+        "So it can finish tasks while you do other things.",
+        "Try Dots on one daily workflow this week."
+      ]
+    },
+    "instagram": {
+      "caption": "It looks like a friendly cartoon avatar, but it can finish a task without you watching.\n\nOpenAI just launched Dots, an agent that chats and acts on its own. 🎈\n\nIt doesn't wait for your prompts: it starts tasks, makes calls, and executes steps by itself. 🤖\n\nHand something off, walk away, and it completes the workflow without check-ins. ⏳\n\nSo you can reclaim focus time, but you have to trust it with real work.\n\nWhich daily task would you hand off first — email sorting, scheduling, or something else? 📋"
+    }
+  },
+  "instagram_caption": "It looks like a friendly cartoon avatar, but it can finish a task without you watching.\n\nOpenAI just launched Dots, an agent that chats and acts on its own. 🎈\n\nIt doesn't wait for your prompts: it starts tasks, makes calls, and executes steps by itself. 🤖\n\nHand something off, walk away, and it completes the workflow without check-ins. ⏳\n\nSo you can reclaim focus time, but you have to trust it with real work.\n\nWhich daily task would you hand off first — email sorting, scheduling, or something else? 📋",
+  "carousel_slides": [
+    {
+      "hook": "Can an avatar work without you?",
+      "description": "OpenAI's Dots looks bubbly but acts autonomously, completing tasks without constant input. This shift changes how you delegate work.",
+      "visual_hint": "Bubbly avatar with glowing edges",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot face"
+    },
+    {
+      "hook": "Feels human, acts like a machine",
+      "description": "Dots' bubbly agentic avatar feels human, not robotic, yet it initiates tasks and makes decisions on its own.",
+      "visual_hint": "Friendly avatar interacting with user",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "human robot interaction",
+      "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It doesn't just chat—it executes",
+      "description": "Dots can act autonomously, not just chat. It completes tasks without your constant input, reducing interruptions.",
+      "visual_hint": "Avatar performing multiple tasks",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "autonomous robot",
+      "image": "https://images.pexels.com/photos/19114198/pexels-photo-19114198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trust it to handle the workflow",
+      "description": "You can hand off a task and walk away. Dots completes the workflow without check-ins, reclaiming your time for deep work.",
+      "visual_hint": "Person walking away from screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office worker leaving",
+      "image": "https://images.pexels.com/photos/11665322/pexels-photo-11665322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: try Dots today",
+      "description": "Pick one daily workflow—like sorting emails—and let Dots run it. See if you'd keep it. Comment your results.",
+      "visual_hint": "Email inbox with Dots icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "email inbox",
+      "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-at-1.16.22-PM.jpg?w=988",
+  "savedAt": "2026-09-30T00:55:15.758Z",
+  "sourceId": "855aad9db334a20862c88114fff2400e"
+}

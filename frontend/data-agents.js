@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-expands-chatgpt-s-plug-ins-with-app-like-in",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
+      "slides": [
+        "Can OpenAI turn ChatGPT into an app store?",
+        "Plug-ins now get app-like interfaces, not just chat",
+        "But automations replace manual steps behind the scenes",
+        "Builders can chain actions without writing code",
+        "Test one plug-in this week: automate a dull task"
+      ],
+      "thread_text": [
+        "1. ChatGPT as app store?\n\nOpenAI just gave plug-ins app-like interfaces. That's not a feature — it's a platform power play.",
+        "2. Plug-ins get real UIs\n\nForget chat bubbles. Now they have buttons, forms, and dashboards. The chat window becomes an operating system.",
+        "3. Automations replace clicks\n\nBehind the scenes, manual steps vanish. One request can trigger a chain of actions across multiple plug-ins.",
+        "4. No-code action chaining\n\nBuilders can link plug-in actions without writing a single line. If you can drag and drop, you can automate.",
+        "5. Test one this week\n\nPick a dull task you repeat daily. Find a plug-in that automates it. If you haven't tried, that's your starting point."
+      ],
+      "video_script": [
+        "OpenAI is turning ChatGPT into an app store.",
+        "Plug-ins now look like real apps with buttons.",
+        "Automations quietly replace manual steps behind the scenes.",
+        "You can chain actions without writing any code.",
+        "Test one plug-in this week on a dull task."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. ChatGPT as app store?\n\nOpenAI just gave plug-ins app-like interfaces. That's not a feature — it's a platform power play.",
+            "2. Plug-ins get real UIs\n\nForget chat bubbles. Now they have buttons, forms, and dashboards. The chat window becomes an operating system.",
+            "3. Automations replace clicks\n\nBehind the scenes, manual steps vanish. One request can trigger a chain of actions across multiple plug-ins.",
+            "4. No-code action chaining\n\nBuilders can link plug-in actions without writing a single line. If you can drag and drop, you can automate.",
+            "5. Test one this week\n\nPick a dull task you repeat daily. Find a plug-in that automates it. If you haven't tried, that's your starting point."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI is turning ChatGPT into an app store.",
+            "Plug-ins now look like real apps with buttons.",
+            "Automations quietly replace manual steps behind the scenes.",
+            "You can chain actions without writing any code.",
+            "Test one plug-in this week on a dull task."
+          ]
+        },
+        "instagram": {
+          "caption": "ChatGPT plug-ins just got buttons, forms, and dashboards instead of plain chat.\n\nOpenAI is turning plug-ins into app-like interfaces, so the chat window starts acting like an operating system.\n\nAutomations now replace the manual steps behind the scenes — one request can trigger a chain of actions across several plug-ins.\n\nBuilders can link those actions without writing any code.\n\nIf you publish or create, your editing, scheduling, and research tools may soon plug straight into one chat box.\n\nOpen a plug-in this week and automate one dull task you repeat daily. Which task would you hand off first? 🔧⚡"
+        }
+      },
+      "instagram_caption": "ChatGPT plug-ins just got buttons, forms, and dashboards instead of plain chat.\n\nOpenAI is turning plug-ins into app-like interfaces, so the chat window starts acting like an operating system.\n\nAutomations now replace the manual steps behind the scenes — one request can trigger a chain of actions across several plug-ins.\n\nBuilders can link those actions without writing any code.\n\nIf you publish or create, your editing, scheduling, and research tools may soon plug straight into one chat box.\n\nOpen a plug-in this week and automate one dull task you repeat daily. Which task would you hand off first? 🔧⚡",
+      "carousel_slides": [
+        {
+          "hook": "ChatGPT is becoming an app store.",
+          "description": "OpenAI expanded plug-ins with app-like interfaces and automations, turning chat into a platform where apps live inside the conversation.",
+          "visual_hint": "Smartphone screen with app grid",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "app store"
+        },
+        {
+          "hook": "Plug-ins now have real interfaces.",
+          "description": "Buttons, forms, and dashboards replace plain chat bubbles, so plug-ins become mini-apps inside the chat window.",
+          "visual_hint": "Dashboard with buttons and forms",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "user interface",
+          "image": "https://images.pexels.com/photos/38337700/pexels-photo-38337700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Automations kill manual steps.",
+          "description": "One request can trigger a chain of actions across multiple plug-ins, replacing repetitive clicks with seamless automated workflows.",
+          "visual_hint": "Flowchart connecting multiple plug-ins",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "automation robot",
+          "image": "https://images.pexels.com/photos/10875411/pexels-photo-10875411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No-code chaining is here.",
+          "description": "Builders can link plug-in actions without writing code, so drag-and-drop automation becomes accessible to anyone.",
+          "visual_hint": "Drag-and-drop interface building blocks",
+          "layout_type": "human-hand",
+          "icon": "check",
+          "image_query": "drag drop",
+          "image": "https://images.pexels.com/photos/6940865/pexels-photo-6940865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: automate one dull task.",
+          "description": "Pick a repetitive daily task, find a plug-in that automates it, and test it this week to start your automation habit.",
+          "visual_hint": "Hand pointing at smartphone task list",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "task list",
+          "image": "https://images.pexels.com/photos/8581008/pexels-photo-8581008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/plugins-.jpg?resize=1200,690",
+      "savedAt": "2026-09-30T00:55:24.806Z",
+      "sourceId": "c3416222c8baf1762068e544faa28827"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-launches-dots-its-bubbly-agentic-avatar",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "pubDate": "Tue, 29 Sep 2026 17:17:15 +0000",
+      "slides": [
+        "OpenAI just launched Dots – what does it change?",
+        "Its bubbly agentic avatar feels human, not robotic.",
+        "But it can act autonomously, not just chat.",
+        "Thus, it can complete tasks without your constant input.",
+        "Try Dots for one daily workflow this week."
+      ],
+      "thread_text": [
+        "1. OpenAI's Dots: Human or Robot?\n\nIt looks like a bubbly avatar but acts like an autonomous agent. That shift changes how you delegate work.",
+        "2. Beyond Chat: It Acts\n\nDots doesn't just reply—it initiates tasks, makes decisions, and executes steps on its own.",
+        "3. No Babysitting Required\n\nYou can hand off a task and walk away. It completes the workflow without constant check-ins.",
+        "4. Your Time, Reclaimed\n\nThat means fewer interruptions and more focus on deep work. But you'll need to trust it.",
+        "5. Test It Today\n\nPick one daily workflow—like sorting emails—and let Dots run it. See if you'd keep it."
+      ],
+      "video_script": [
+        "OpenAI just launched Dots, a new AI agent.",
+        "It looks like a friendly avatar, not a robot.",
+        "But it acts on its own, without needing your input.",
+        "So it can finish tasks while you do other things.",
+        "Try Dots on one daily workflow this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. OpenAI's Dots: Human or Robot?\n\nIt looks like a bubbly avatar but acts like an autonomous agent. That shift changes how you delegate work.",
+            "2. Beyond Chat: It Acts\n\nDots doesn't just reply—it initiates tasks, makes decisions, and executes steps on its own.",
+            "3. No Babysitting Required\n\nYou can hand off a task and walk away. It completes the workflow without constant check-ins.",
+            "4. Your Time, Reclaimed\n\nThat means fewer interruptions and more focus on deep work. But you'll need to trust it.",
+            "5. Test It Today\n\nPick one daily workflow—like sorting emails—and let Dots run it. See if you'd keep it."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI just launched Dots, a new AI agent.",
+            "It looks like a friendly avatar, not a robot.",
+            "But it acts on its own, without needing your input.",
+            "So it can finish tasks while you do other things.",
+            "Try Dots on one daily workflow this week."
+          ]
+        },
+        "instagram": {
+          "caption": "It looks like a friendly cartoon avatar, but it can finish a task without you watching.\n\nOpenAI just launched Dots, an agent that chats and acts on its own. 🎈\n\nIt doesn't wait for your prompts: it starts tasks, makes calls, and executes steps by itself. 🤖\n\nHand something off, walk away, and it completes the workflow without check-ins. ⏳\n\nSo you can reclaim focus time, but you have to trust it with real work.\n\nWhich daily task would you hand off first — email sorting, scheduling, or something else? 📋"
+        }
+      },
+      "instagram_caption": "It looks like a friendly cartoon avatar, but it can finish a task without you watching.\n\nOpenAI just launched Dots, an agent that chats and acts on its own. 🎈\n\nIt doesn't wait for your prompts: it starts tasks, makes calls, and executes steps by itself. 🤖\n\nHand something off, walk away, and it completes the workflow without check-ins. ⏳\n\nSo you can reclaim focus time, but you have to trust it with real work.\n\nWhich daily task would you hand off first — email sorting, scheduling, or something else? 📋",
+      "carousel_slides": [
+        {
+          "hook": "Can an avatar work without you?",
+          "description": "OpenAI's Dots looks bubbly but acts autonomously, completing tasks without constant input. This shift changes how you delegate work.",
+          "visual_hint": "Bubbly avatar with glowing edges",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robot face"
+        },
+        {
+          "hook": "Feels human, acts like a machine",
+          "description": "Dots' bubbly agentic avatar feels human, not robotic, yet it initiates tasks and makes decisions on its own.",
+          "visual_hint": "Friendly avatar interacting with user",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "human robot interaction",
+          "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "It doesn't just chat—it executes",
+          "description": "Dots can act autonomously, not just chat. It completes tasks without your constant input, reducing interruptions.",
+          "visual_hint": "Avatar performing multiple tasks",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "autonomous robot",
+          "image": "https://images.pexels.com/photos/19114198/pexels-photo-19114198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Trust it to handle the workflow",
+          "description": "You can hand off a task and walk away. Dots completes the workflow without check-ins, reclaiming your time for deep work.",
+          "visual_hint": "Person walking away from screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office worker leaving",
+          "image": "https://images.pexels.com/photos/11665322/pexels-photo-11665322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: try Dots today",
+          "description": "Pick one daily workflow—like sorting emails—and let Dots run it. See if you'd keep it. Comment your results.",
+          "visual_hint": "Email inbox with Dots icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "email inbox",
+          "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-at-1.16.22-PM.jpg?w=988",
+      "savedAt": "2026-09-30T00:55:15.758Z",
+      "sourceId": "855aad9db334a20862c88114fff2400e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-reportedly-in-talks-to-raise-30b-round-at-1",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "pubDate": "Tue, 29 Sep 2026 19:52:37 +0000",
+      "slides": [
+        "Why does OpenAI need $30 billion?",
+        "Investors would value it at $1.4 trillion",
+        "But revenue lags far behind that number",
+        "Your AI tools may soon cost more",
+        "Watch what OpenAI does with the cash"
+      ],
+      "thread_text": [
+        "1. OpenAI's $30B Question\n\nOpenAI is raising $30 billion. Investors would value it at $1.4 trillion — but revenue lags far behind that number.",
+        "2. The $1.4 Trillion Bet\n\nThat valuation assumes AI becomes as essential as electricity. Current revenue is a tiny fraction of that.",
+        "3. Revenue Reality Check\n\nOpenAI's annual revenue is estimated in the low billions. The gap between that and $1.4 trillion is enormous.",
+        "4. Your AI Bill Is Coming\n\nTo justify the valuation, OpenAI will need to charge more. Your AI tools may soon cost more.",
+        "5. Watch the Money\n\nTrack how OpenAI spends that $30 billion. If it builds infrastructure, prices could stay low. If not, expect higher fees. Does that change your AI budget?"
+      ],
+      "video_script": [
+        "OpenAI is raising thirty billion dollars.",
+        "Investors think it's worth one point four trillion.",
+        "But its revenue is far smaller than that.",
+        "To close the gap, your AI tools may cost more.",
+        "Watch what OpenAI does with the cash."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. OpenAI's $30B Question\n\nOpenAI is raising $30 billion. Investors would value it at $1.4 trillion — but revenue lags far behind that number.",
+            "2. The $1.4 Trillion Bet\n\nThat valuation assumes AI becomes as essential as electricity. Current revenue is a tiny fraction of that.",
+            "3. Revenue Reality Check\n\nOpenAI's annual revenue is estimated in the low billions. The gap between that and $1.4 trillion is enormous.",
+            "4. Your AI Bill Is Coming\n\nTo justify the valuation, OpenAI will need to charge more. Your AI tools may soon cost more.",
+            "5. Watch the Money\n\nTrack how OpenAI spends that $30 billion. If it builds infrastructure, prices could stay low. If not, expect higher fees. Does that change your AI budget?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI is raising thirty billion dollars.",
+            "Investors think it's worth one point four trillion.",
+            "But its revenue is far smaller than that.",
+            "To close the gap, your AI tools may cost more.",
+            "Watch what OpenAI does with the cash."
+          ]
+        },
+        "instagram": {
+          "caption": "Your AI subscription could get more expensive soon.\n\nOpenAI is reportedly raising $30 billion from investors. That money would value the company at $1.4 trillion. 💰\n\nProblem: its yearly revenue is only in the low billions. That gap is huge. 📉\n\nTo justify that number, OpenAI will likely charge more for its tools. If the cash goes into infrastructure, prices might stay low. If not, expect higher fees.\n\nThat means ChatGPT, image tools, or writing assistants you use daily could cost you more per month. 😬\n\nWant to check? Look at your current AI subscriptions and see what a price bump would mean for your budget. 💸"
+        }
+      },
+      "instagram_caption": "Your AI subscription could get more expensive soon.\n\nOpenAI is reportedly raising $30 billion from investors. That money would value the company at $1.4 trillion. 💰\n\nProblem: its yearly revenue is only in the low billions. That gap is huge. 📉\n\nTo justify that number, OpenAI will likely charge more for its tools. If the cash goes into infrastructure, prices might stay low. If not, expect higher fees.\n\nThat means ChatGPT, image tools, or writing assistants you use daily could cost you more per month. 😬\n\nWant to check? Look at your current AI subscriptions and see what a price bump would mean for your budget. 💸",
+      "carousel_slides": [
+        {
+          "hook": "OpenAI's $30B Raise: Is $1.4T Justified?",
+          "description": "The valuation assumes AI becomes as essential as electricity. Current revenue is a tiny fraction of that.",
+          "visual_hint": "Glowing server racks in data center",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "The $1.4 Trillion Bet",
+          "description": "That valuation depends on AI becoming ubiquitous. Revenue today is only a small slice of that number.",
+          "visual_hint": "Stock chart climbing steeply upward",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Revenue Reality Check: The Gap Is Huge",
+          "description": "OpenAI's annual revenue is estimated in the low billions. The gap to $1.4 trillion is enormous.",
+          "visual_hint": "Zoomed-in bar graph with gaps",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "financial chart",
+          "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI Bill Is Coming",
+          "description": "To justify the valuation, OpenAI will need to charge more. Your AI tools may soon cost more.",
+          "visual_hint": "Hand holding credit card near laptop",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person using laptop",
+          "image": "https://images.pexels.com/photos/12902986/pexels-photo-12902986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Watch the Money: Save This Post",
+          "description": "Track how OpenAI spends the $30B. If it builds infrastructure, prices could stay low; if not, expect higher fees.",
+          "visual_hint": "Wallet with cash and coins",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "money wallet",
+          "image": "https://images.pexels.com/photos/4386433/pexels-photo-4386433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+      "savedAt": "2026-09-30T00:55:06.915Z",
+      "sourceId": "9a16357905559c9af8d26722feb45c93"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "a16z-backed-eliseai-raises-350m-doubles-valuation-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+      "link": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+      "pubDate": "Tue, 29 Sep 2026 21:51:36 +0000",
+      "slides": [
+        "Why did EliseAI's valuation double so fast?",
+        "a16z just backed a $350M round at $4B.",
+        "Most tenants never realize they're texting AI.",
+        "Leasing teams can now automate 90% of inquiries.",
+        "Check if your landlord already uses it."
+      ],
+      "thread_text": [
+        "1. A $4B Bet on Silence\n\nEliseAI just raised $350M from a16z. Most tenants will never know they texted a bot.",
+        "2. Why Investors Doubled Down\n\nLeasing teams use it to handle 90% of inquiries. Human agents only step in when a lease is ready to sign.",
+        "3. The Invisible Onboarding\n\nNo app download. No 'I'm an AI' disclaimer. Tenants just reply to a normal number and get instant answers.",
+        "4. The Real Cost of Speed\n\nIf 90% of questions vanish, do you need 90% fewer leasing staff? That's the math landlords are running right now.",
+        "5. Check This Before You Sign\n\nNext time you text a leasing office, ask: 'Am I talking to a person?' If the reply is instant, you have your answer."
+      ],
+      "video_script": [
+        "EliseAI just raised 350 million dollars from a16z.",
+        "Most tenants never realize they are texting an AI bot.",
+        "Leasing teams can now automate 90 percent of inquiries.",
+        "Landlords are quietly replacing human leasing agents.",
+        "Next time you text a leasing office, ask if it is human."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. A $4B Bet on Silence\n\nEliseAI just raised $350M from a16z. Most tenants will never know they texted a bot.",
+            "2. Why Investors Doubled Down\n\nLeasing teams use it to handle 90% of inquiries. Human agents only step in when a lease is ready to sign.",
+            "3. The Invisible Onboarding\n\nNo app download. No 'I'm an AI' disclaimer. Tenants just reply to a normal number and get instant answers.",
+            "4. The Real Cost of Speed\n\nIf 90% of questions vanish, do you need 90% fewer leasing staff? That's the math landlords are running right now.",
+            "5. Check This Before You Sign\n\nNext time you text a leasing office, ask: 'Am I talking to a person?' If the reply is instant, you have your answer."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "EliseAI just raised 350 million dollars from a16z.",
+            "Most tenants never realize they are texting an AI bot.",
+            "Leasing teams can now automate 90 percent of inquiries.",
+            "Landlords are quietly replacing human leasing agents.",
+            "Next time you text a leasing office, ask if it is human."
+          ]
+        },
+        "instagram": {
+          "caption": "If you texted a leasing office and got an instant reply, it might not have been a person.\n\nEliseAI just raised $350M from a16z, doubling its valuation to $4 billion. Leasing teams use it to automate 90% of tenant inquiries. No app, no \"I'm an AI\" disclaimer — tenants just text a normal number. 🏢\n\nIf you make content about real estate or tech, this is your story: invisible AI is already in everyday conversations.\n\nNext time you text a landlord, ask: am I talking to a person? 🤖"
+        }
+      },
+      "instagram_caption": "If you texted a leasing office and got an instant reply, it might not have been a person.\n\nEliseAI just raised $350M from a16z, doubling its valuation to $4 billion. Leasing teams use it to automate 90% of tenant inquiries. No app, no \"I'm an AI\" disclaimer — tenants just text a normal number. 🏢\n\nIf you make content about real estate or tech, this is your story: invisible AI is already in everyday conversations.\n\nNext time you text a landlord, ask: am I talking to a person? 🤖",
+      "carousel_slides": [
+        {
+          "hook": "You might be texting an AI landlord",
+          "description": "EliseAI raised $350M from a16z at a $4B valuation. Most tenants never realize they're chatting with a bot.",
+          "visual_hint": "Smartphone screen with chat bubbles",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone texting"
+        },
+        {
+          "hook": "Why did investors double down?",
+          "description": "Leasing teams use EliseAI to handle 90% of inquiries. Human agents only step in when a lease is ready to sign.",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "visual_hint": "Office desk with laptop",
+          "image_query": "office desk",
+          "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No app, no disclaimer, just replies",
+          "description": "Tenants text a normal number and get instant answers. No download, no 'I'm an AI' warning. The onboarding is invisible.",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "visual_hint": "Phone notification pop-up",
+          "image_query": "phone notification",
+          "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Do landlords need fewer leasing staff?",
+          "description": "If 90% of questions vanish, landlords are running the math on cutting leasing staff by 90%. Speed has a real cost.",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "visual_hint": "Hand holding calculator",
+          "image_query": "hand calculator",
+          "image": "https://images.pexels.com/photos/8296969/pexels-photo-8296969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask this before you sign",
+          "description": "Next time you text a leasing office, ask: 'Am I talking to a person?' If the reply is instant, you have your answer. Save this.",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "visual_hint": "Lease contract and pen",
+          "image_query": "lease contract",
+          "image": "https://images.pexels.com/photos/8482859/pexels-photo-8482859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1469304638.jpg?resize=1200,669",
+      "savedAt": "2026-09-30T00:54:58.143Z",
+      "sourceId": "261d2920949d096807dd097f49911de0"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-takes-on-microsoft-with-the-launch-of-what-",
       "prompt_version": "1.0.0",
       "status": "published",

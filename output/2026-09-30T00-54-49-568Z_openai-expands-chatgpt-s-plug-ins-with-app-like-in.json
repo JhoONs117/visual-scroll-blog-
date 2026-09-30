@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-expands-chatgpt-s-plug-ins-with-app-like-in",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+  "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+  "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
+  "slides": [
+    "Can OpenAI turn ChatGPT into an app store?",
+    "Plug-ins now get app-like interfaces, not just chat",
+    "But automations replace manual steps behind the scenes",
+    "Builders can chain actions without writing code",
+    "Test one plug-in this week: automate a dull task"
+  ],
+  "thread_text": [
+    "1. ChatGPT as app store?\n\nOpenAI just gave plug-ins app-like interfaces. That's not a feature — it's a platform power play.",
+    "2. Plug-ins get real UIs\n\nForget chat bubbles. Now they have buttons, forms, and dashboards. The chat window becomes an operating system.",
+    "3. Automations replace clicks\n\nBehind the scenes, manual steps vanish. One request can trigger a chain of actions across multiple plug-ins.",
+    "4. No-code action chaining\n\nBuilders can link plug-in actions without writing a single line. If you can drag and drop, you can automate.",
+    "5. Test one this week\n\nPick a dull task you repeat daily. Find a plug-in that automates it. If you haven't tried, that's your starting point."
+  ],
+  "video_script": [
+    "OpenAI is turning ChatGPT into an app store.",
+    "Plug-ins now look like real apps with buttons.",
+    "Automations quietly replace manual steps behind the scenes.",
+    "You can chain actions without writing any code.",
+    "Test one plug-in this week on a dull task."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. ChatGPT as app store?\n\nOpenAI just gave plug-ins app-like interfaces. That's not a feature — it's a platform power play.",
+        "2. Plug-ins get real UIs\n\nForget chat bubbles. Now they have buttons, forms, and dashboards. The chat window becomes an operating system.",
+        "3. Automations replace clicks\n\nBehind the scenes, manual steps vanish. One request can trigger a chain of actions across multiple plug-ins.",
+        "4. No-code action chaining\n\nBuilders can link plug-in actions without writing a single line. If you can drag and drop, you can automate.",
+        "5. Test one this week\n\nPick a dull task you repeat daily. Find a plug-in that automates it. If you haven't tried, that's your starting point."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI is turning ChatGPT into an app store.",
+        "Plug-ins now look like real apps with buttons.",
+        "Automations quietly replace manual steps behind the scenes.",
+        "You can chain actions without writing any code.",
+        "Test one plug-in this week on a dull task."
+      ]
+    },
+    "instagram": {
+      "caption": "ChatGPT plug-ins just got buttons, forms, and dashboards instead of plain chat.\n\nOpenAI is turning plug-ins into app-like interfaces, so the chat window starts acting like an operating system.\n\nAutomations now replace the manual steps behind the scenes — one request can trigger a chain of actions across several plug-ins.\n\nBuilders can link those actions without writing any code.\n\nIf you publish or create, your editing, scheduling, and research tools may soon plug straight into one chat box.\n\nOpen a plug-in this week and automate one dull task you repeat daily. Which task would you hand off first? 🔧⚡"
+    }
+  },
+  "instagram_caption": "ChatGPT plug-ins just got buttons, forms, and dashboards instead of plain chat.\n\nOpenAI is turning plug-ins into app-like interfaces, so the chat window starts acting like an operating system.\n\nAutomations now replace the manual steps behind the scenes — one request can trigger a chain of actions across several plug-ins.\n\nBuilders can link those actions without writing any code.\n\nIf you publish or create, your editing, scheduling, and research tools may soon plug straight into one chat box.\n\nOpen a plug-in this week and automate one dull task you repeat daily. Which task would you hand off first? 🔧⚡",
+  "carousel_slides": [
+    {
+      "hook": "ChatGPT is becoming an app store.",
+      "description": "OpenAI expanded plug-ins with app-like interfaces and automations, turning chat into a platform where apps live inside the conversation.",
+      "visual_hint": "Smartphone screen with app grid",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "app store"
+    },
+    {
+      "hook": "Plug-ins now have real interfaces.",
+      "description": "Buttons, forms, and dashboards replace plain chat bubbles, so plug-ins become mini-apps inside the chat window.",
+      "visual_hint": "Dashboard with buttons and forms",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "user interface",
+      "image": "https://images.pexels.com/photos/38337700/pexels-photo-38337700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Automations kill manual steps.",
+      "description": "One request can trigger a chain of actions across multiple plug-ins, replacing repetitive clicks with seamless automated workflows.",
+      "visual_hint": "Flowchart connecting multiple plug-ins",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "automation robot",
+      "image": "https://images.pexels.com/photos/10875411/pexels-photo-10875411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No-code chaining is here.",
+      "description": "Builders can link plug-in actions without writing code, so drag-and-drop automation becomes accessible to anyone.",
+      "visual_hint": "Drag-and-drop interface building blocks",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "drag drop",
+      "image": "https://images.pexels.com/photos/6940865/pexels-photo-6940865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: automate one dull task.",
+      "description": "Pick a repetitive daily task, find a plug-in that automates it, and test it this week to start your automation habit.",
+      "visual_hint": "Hand pointing at smartphone task list",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "task list",
+      "image": "https://images.pexels.com/photos/8581008/pexels-photo-8581008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/plugins-.jpg?resize=1200,690",
+  "savedAt": "2026-09-30T00:55:24.806Z",
+  "sourceId": "c3416222c8baf1762068e544faa28827"
+}
