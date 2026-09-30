@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "reddit-is-killing-rss-feeds-and-ending-public-api-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+  "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+  "pubDate": "Wed, 30 Sep 2026 17:45:00 +0000",
+  "slides": [
+    "Reddit's RSS feeds are dying: why now?",
+    "The company blames AI bots scraping data for free.",
+    "Users lose public API access, but AI still gets data.",
+    "Your favorite Reddit feed may stop updating tomorrow.",
+    "One day left: backup your feeds or switch to alternatives."
+  ],
+  "thread_text": [
+    "1. Reddit's RSS feeds are dying: why now?\n\nReddit will kill public RSS feeds tomorrow. The reason: AI bots scraping data for free, while users lose access.",
+    "2. Company blames AI bots\n\nReddit says AI companies scrape content without paying. So they're cutting off public API access, including RSS feeds.",
+    "3. Users lose access, AI still gets data\n\nRegular users lose RSS feeds, but AI companies can still buy data through paid deals. It's not about stopping scraping—it's about who pays.",
+    "4. Your favorite feed may stop updating\n\nTomorrow, many Reddit RSS feeds will stop working. If you rely on them, you'll see silence.",
+    "5. One day left: backup or switch\n\nExport your feeds now or switch to alternatives like Lemmy or RSS bridges. Don't wait until they're gone."
+  ],
+  "video_script": [
+    "Reddit is killing its RSS feeds tomorrow.",
+    "They blame AI bots scraping data for free.",
+    "Users lose access, but AI still gets data.",
+    "Your favorite Reddit feed may stop updating.",
+    "Backup your feeds or switch alternatives today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Reddit's RSS feeds are dying: why now?\n\nReddit will kill public RSS feeds tomorrow. The reason: AI bots scraping data for free, while users lose access.",
+        "2. Company blames AI bots\n\nReddit says AI companies scrape content without paying. So they're cutting off public API access, including RSS feeds.",
+        "3. Users lose access, AI still gets data\n\nRegular users lose RSS feeds, but AI companies can still buy data through paid deals. It's not about stopping scraping—it's about who pays.",
+        "4. Your favorite feed may stop updating\n\nTomorrow, many Reddit RSS feeds will stop working. If you rely on them, you'll see silence.",
+        "5. One day left: backup or switch\n\nExport your feeds now or switch to alternatives like Lemmy or RSS bridges. Don't wait until they're gone."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Reddit is killing its RSS feeds tomorrow.",
+        "They blame AI bots scraping data for free.",
+        "Users lose access, but AI still gets data.",
+        "Your favorite Reddit feed may stop updating.",
+        "Backup your feeds or switch alternatives today."
+      ]
+    },
+    "instagram": {
+      "caption": "If you read Reddit through an RSS app, it may stay silent starting tomorrow. 📵\n\nReddit is shutting down public RSS feeds and API access. The company says AI bots scrape its content for free.\n\nBut AI companies can still buy that same data through paid deals. So users lose access while AI keeps getting it.\n\nIf you publish or build tools on Reddit content, your workflows and feeds break overnight. ⚠️\n\nOne day left: export your feeds or switch to Lemmy or RSS bridges. 🛠️\n\nAre you backing yours up today, or letting them go dark? 🤔"
+    }
+  },
+  "instagram_caption": "If you read Reddit through an RSS app, it may stay silent starting tomorrow. 📵\n\nReddit is shutting down public RSS feeds and API access. The company says AI bots scrape its content for free.\n\nBut AI companies can still buy that same data through paid deals. So users lose access while AI keeps getting it.\n\nIf you publish or build tools on Reddit content, your workflows and feeds break overnight. ⚠️\n\nOne day left: export your feeds or switch to Lemmy or RSS bridges. 🛠️\n\nAre you backing yours up today, or letting them go dark? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Who really pays for Reddit's data?",
+      "description": "Reddit cuts public RSS feeds over AI scraping, yet paid deals keep data flowing to AI companies.",
+      "visual_hint": "Split screen: locked feed vs paid access",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Reddit points finger at AI bots",
+      "description": "Reddit blames AI companies for scraping content without paying, so it's ending public API access.",
+      "visual_hint": "Robot hand reaching for data stream",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Users locked out, AI still in",
+      "description": "Regular users lose RSS feeds while AI firms buy access through paid deals, not stopping scraping.",
+      "visual_hint": "Two doors: one shut, one open",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your favorite Reddit feed may stop",
+      "description": "Tomorrow many Reddit RSS feeds will stop updating, leaving your reader silent and empty.",
+      "visual_hint": "Empty RSS reader screen with error",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/18302592/pexels-photo-18302592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One day left: save your feeds!",
+      "description": "Export your Reddit RSS feeds now or switch to alternatives like Lemmy or RSS bridges today.",
+      "visual_hint": "Backup icon and countdown timer",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/06/reddit-glitch-1.jpg?resize=1200,675",
+  "savedAt": "2026-09-30T20:25:15.270Z",
+  "sourceId": "5713af8d86df5f9cd0393b33449a3a7e"
+}

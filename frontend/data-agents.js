@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "the-ugly-economics-of-consumer-ai",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The ugly economics of consumer AI",
+      "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "pubDate": "Wed, 30 Sep 2026 17:24:45 +0000",
+      "slides": [
+        "Can consumer AI survive its own economics?",
+        "Chatbots lose money on every free query",
+        "Even paid tiers barely cover inference costs",
+        "Your $20 subscription subsidizes power users",
+        "Check if your favorite AI tool still exists next year"
+      ],
+      "thread_text": [
+        "1. Can Consumer AI Survive?\n\nEvery free query you type costs the company real money. That math is starting to break.",
+        "2. Chatbots Burn Cash\n\nInference costs scale with usage, not revenue. More users means more losses, not profits.",
+        "3. Paid Tiers Barely Cover\n\nThe $20 you pay often doesn't cover what you actually use. Companies eat the difference.",
+        "4. Power Users Subsidized\n\nCasual subscribers fund the heavy users who max out limits daily. That's backwards.",
+        "5. Check Your AI Tool\n\nAsk yourself: would you pay $50/month for it? If not, it might not exist next year."
+      ],
+      "video_script": [
+        "Free AI queries cost companies real money.",
+        "Every chatbot you use loses money per query.",
+        "Even paid tiers barely cover the actual costs.",
+        "Your twenty dollars subsidizes the heaviest users.",
+        "Check if your favorite AI tool still exists next year."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can Consumer AI Survive?\n\nEvery free query you type costs the company real money. That math is starting to break.",
+            "2. Chatbots Burn Cash\n\nInference costs scale with usage, not revenue. More users means more losses, not profits.",
+            "3. Paid Tiers Barely Cover\n\nThe $20 you pay often doesn't cover what you actually use. Companies eat the difference.",
+            "4. Power Users Subsidized\n\nCasual subscribers fund the heavy users who max out limits daily. That's backwards.",
+            "5. Check Your AI Tool\n\nAsk yourself: would you pay $50/month for it? If not, it might not exist next year."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Free AI queries cost companies real money.",
+            "Every chatbot you use loses money per query.",
+            "Even paid tiers barely cover the actual costs.",
+            "Your twenty dollars subsidizes the heaviest users.",
+            "Check if your favorite AI tool still exists next year."
+          ]
+        },
+        "instagram": {
+          "caption": "Every free query you type costs the company real money — and that math is starting to break. 💸\n\nChatbots burn cash because costs scale with usage, not revenue. More users means more losses.\n\nYour $20 subscription often doesn't even cover what you actually use. Casual subscribers end up funding power users who max out limits daily.\n\nIf your favorite AI tool disappeared tomorrow, what would you actually pay to keep it? 🤔 If the answer isn't $50/month, it might not exist next year. Check before you build your workflow around it. ⚠️"
+        }
+      },
+      "instagram_caption": "Every free query you type costs the company real money — and that math is starting to break. 💸\n\nChatbots burn cash because costs scale with usage, not revenue. More users means more losses.\n\nYour $20 subscription often doesn't even cover what you actually use. Casual subscribers end up funding power users who max out limits daily.\n\nIf your favorite AI tool disappeared tomorrow, what would you actually pay to keep it? 🤔 If the answer isn't $50/month, it might not exist next year. Check before you build your workflow around it. ⚠️",
+      "carousel_slides": [
+        {
+          "hook": "Can consumer AI survive its economics?",
+          "description": "Free queries cost companies real money, and inference scales with usage, not revenue.",
+          "visual_hint": "Glowing server racks in dark data center",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Every free query burns real cash",
+          "description": "Inference costs grow with each query while revenue stays flat, so more users mean deeper losses.",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "visual_hint": "Burning money flowing into servers",
+          "image_query": "cash fire",
+          "image": "https://images.pexels.com/photos/4588670/pexels-photo-4588670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your $20 barely covers inference costs",
+          "description": "Paid subscriptions rarely match actual usage, so companies quietly absorb the expensive difference.",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "visual_hint": "Receipt showing tiny payment vs huge bill",
+          "image_query": "credit card receipt",
+          "image": "https://images.pexels.com/photos/5239877/pexels-photo-5239877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Casual users subsidize the power users",
+          "description": "Light subscribers fund heavy users who max out limits daily, flipping the entire pricing model upside down.",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "visual_hint": "Hand holding phone with usage meter",
+          "image_query": "hands smartphone",
+          "image": "https://images.pexels.com/photos/3946006/pexels-photo-3946006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Would you pay $50 a month?",
+          "description": "Ask if you'd pay double, then check whether your favorite AI tool still exists next year, and save this post.",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "visual_hint": "Price tag with question mark",
+          "image_query": "price tag",
+          "image": "https://images.pexels.com/photos/7986977/pexels-photo-7986977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+      "savedAt": "2026-09-30T20:25:22.879Z",
+      "sourceId": "96de1cedcbffc2ba24301931e75f39d4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "reddit-is-killing-rss-feeds-and-ending-public-api-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "pubDate": "Wed, 30 Sep 2026 17:45:00 +0000",
+      "slides": [
+        "Reddit's RSS feeds are dying: why now?",
+        "The company blames AI bots scraping data for free.",
+        "Users lose public API access, but AI still gets data.",
+        "Your favorite Reddit feed may stop updating tomorrow.",
+        "One day left: backup your feeds or switch to alternatives."
+      ],
+      "thread_text": [
+        "1. Reddit's RSS feeds are dying: why now?\n\nReddit will kill public RSS feeds tomorrow. The reason: AI bots scraping data for free, while users lose access.",
+        "2. Company blames AI bots\n\nReddit says AI companies scrape content without paying. So they're cutting off public API access, including RSS feeds.",
+        "3. Users lose access, AI still gets data\n\nRegular users lose RSS feeds, but AI companies can still buy data through paid deals. It's not about stopping scraping—it's about who pays.",
+        "4. Your favorite feed may stop updating\n\nTomorrow, many Reddit RSS feeds will stop working. If you rely on them, you'll see silence.",
+        "5. One day left: backup or switch\n\nExport your feeds now or switch to alternatives like Lemmy or RSS bridges. Don't wait until they're gone."
+      ],
+      "video_script": [
+        "Reddit is killing its RSS feeds tomorrow.",
+        "They blame AI bots scraping data for free.",
+        "Users lose access, but AI still gets data.",
+        "Your favorite Reddit feed may stop updating.",
+        "Backup your feeds or switch alternatives today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Reddit's RSS feeds are dying: why now?\n\nReddit will kill public RSS feeds tomorrow. The reason: AI bots scraping data for free, while users lose access.",
+            "2. Company blames AI bots\n\nReddit says AI companies scrape content without paying. So they're cutting off public API access, including RSS feeds.",
+            "3. Users lose access, AI still gets data\n\nRegular users lose RSS feeds, but AI companies can still buy data through paid deals. It's not about stopping scraping—it's about who pays.",
+            "4. Your favorite feed may stop updating\n\nTomorrow, many Reddit RSS feeds will stop working. If you rely on them, you'll see silence.",
+            "5. One day left: backup or switch\n\nExport your feeds now or switch to alternatives like Lemmy or RSS bridges. Don't wait until they're gone."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Reddit is killing its RSS feeds tomorrow.",
+            "They blame AI bots scraping data for free.",
+            "Users lose access, but AI still gets data.",
+            "Your favorite Reddit feed may stop updating.",
+            "Backup your feeds or switch alternatives today."
+          ]
+        },
+        "instagram": {
+          "caption": "If you read Reddit through an RSS app, it may stay silent starting tomorrow. 📵\n\nReddit is shutting down public RSS feeds and API access. The company says AI bots scrape its content for free.\n\nBut AI companies can still buy that same data through paid deals. So users lose access while AI keeps getting it.\n\nIf you publish or build tools on Reddit content, your workflows and feeds break overnight. ⚠️\n\nOne day left: export your feeds or switch to Lemmy or RSS bridges. 🛠️\n\nAre you backing yours up today, or letting them go dark? 🤔"
+        }
+      },
+      "instagram_caption": "If you read Reddit through an RSS app, it may stay silent starting tomorrow. 📵\n\nReddit is shutting down public RSS feeds and API access. The company says AI bots scrape its content for free.\n\nBut AI companies can still buy that same data through paid deals. So users lose access while AI keeps getting it.\n\nIf you publish or build tools on Reddit content, your workflows and feeds break overnight. ⚠️\n\nOne day left: export your feeds or switch to Lemmy or RSS bridges. 🛠️\n\nAre you backing yours up today, or letting them go dark? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Who really pays for Reddit's data?",
+          "description": "Reddit cuts public RSS feeds over AI scraping, yet paid deals keep data flowing to AI companies.",
+          "visual_hint": "Split screen: locked feed vs paid access",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Reddit points finger at AI bots",
+          "description": "Reddit blames AI companies for scraping content without paying, so it's ending public API access.",
+          "visual_hint": "Robot hand reaching for data stream",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Users locked out, AI still in",
+          "description": "Regular users lose RSS feeds while AI firms buy access through paid deals, not stopping scraping.",
+          "visual_hint": "Two doors: one shut, one open",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your favorite Reddit feed may stop",
+          "description": "Tomorrow many Reddit RSS feeds will stop updating, leaving your reader silent and empty.",
+          "visual_hint": "Empty RSS reader screen with error",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "people walking street",
+          "image": "https://images.pexels.com/photos/18302592/pexels-photo-18302592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One day left: save your feeds!",
+          "description": "Export your Reddit RSS feeds now or switch to alternatives like Lemmy or RSS bridges today.",
+          "visual_hint": "Backup icon and countdown timer",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "solar panels",
+          "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2023/06/reddit-glitch-1.jpg?resize=1200,675",
+      "savedAt": "2026-09-30T20:25:15.270Z",
+      "sourceId": "5713af8d86df5f9cd0393b33449a3a7e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ai-voice-startup-elevenlabs-doubles-valuation-to-2",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "pubDate": "Wed, 30 Sep 2026 18:23:57 +0000",
+      "slides": [
+        "ElevenLabs doubles valuation to $22B. But can it deliver?",
+        "Its AI voices now power many media and call centers.",
+        "Yet the real money comes from cloning your voice.",
+        "You could soon hear your own voice in ads.",
+        "Lock down your voice biometrics before it's too late."
+      ],
+      "thread_text": [
+        "1. Voice Theft Is Coming\n\nElevenLabs just hit a $22B valuation. Its AI voices already answer calls for major media and call centers. But the real profit isn't in the calls — it's in cloning you.",
+        "2. Cloning Beats Call Centers\n\nCompanies pay top dollar to copy a specific voice. Your customer service agent is cheap. Your identity is priceless. And the tech to steal it costs almost nothing.",
+        "3. Ads In Your Voice\n\nSoon you'll hear yourself selling products you never endorsed. A cloned voice can say anything. And you won't know until it's already playing.",
+        "4. Biometrics Under Attack\n\nVoice is the new fingerprint. Banks and phones use it to verify you. Once cloned, that lock is broken. No password reset can fix it.",
+        "5. Lock It Down Today\n\nCheck which accounts use voice ID. Turn on a second factor now. Then ask yourself: if your voice can be copied, what else can?"
+      ],
+      "video_script": [
+        "ElevenLabs just doubled to twenty-two billion dollars.",
+        "Its AI voices now run call centers and media.",
+        "But the real money is cloning your voice.",
+        "Soon you'll hear yourself in ads you never made.",
+        "Lock down your voice biometrics before it's too late."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Voice Theft Is Coming\n\nElevenLabs just hit a $22B valuation. Its AI voices already answer calls for major media and call centers. But the real profit isn't in the calls — it's in cloning you.",
+            "2. Cloning Beats Call Centers\n\nCompanies pay top dollar to copy a specific voice. Your customer service agent is cheap. Your identity is priceless. And the tech to steal it costs almost nothing.",
+            "3. Ads In Your Voice\n\nSoon you'll hear yourself selling products you never endorsed. A cloned voice can say anything. And you won't know until it's already playing.",
+            "4. Biometrics Under Attack\n\nVoice is the new fingerprint. Banks and phones use it to verify you. Once cloned, that lock is broken. No password reset can fix it.",
+            "5. Lock It Down Today\n\nCheck which accounts use voice ID. Turn on a second factor now. Then ask yourself: if your voice can be copied, what else can?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "ElevenLabs just doubled to twenty-two billion dollars.",
+            "Its AI voices now run call centers and media.",
+            "But the real money is cloning your voice.",
+            "Soon you'll hear yourself in ads you never made.",
+            "Lock down your voice biometrics before it's too late."
+          ]
+        },
+        "instagram": {
+          "caption": "Your voice can be cloned from a few seconds of audio, and it now sells for $22 billion.\n\nElevenLabs just doubled its valuation to $22B. Its AI voices already handle calls for media companies and call centers.\n\nBut the real money is cloning specific people — and the tech costs almost nothing to run. 🔓\n\nBanks and phones use your voice as a password. Once it's copied, there's no reset.\n\nIf your voice can be cloned, check which accounts rely on voice ID and turn on a second factor today. 🎙️\n\nWhat happens when you hear yourself in an ad you never recorded? 🤔"
+        }
+      },
+      "instagram_caption": "Your voice can be cloned from a few seconds of audio, and it now sells for $22 billion.\n\nElevenLabs just doubled its valuation to $22B. Its AI voices already handle calls for media companies and call centers.\n\nBut the real money is cloning specific people — and the tech costs almost nothing to run. 🔓\n\nBanks and phones use your voice as a password. Once it's copied, there's no reset.\n\nIf your voice can be cloned, check which accounts rely on voice ID and turn on a second factor today. 🎙️\n\nWhat happens when you hear yourself in an ad you never recorded? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Your voice is the new gold.",
+          "description": "ElevenLabs hit $22B valuation by cloning voices. Your identity can be copied for pennies, and you won't know until it's too late.",
+          "visual_hint": "Close-up of a microphone with sound waves",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "microphone studio"
+        },
+        {
+          "hook": "AI voices power media and call centers.",
+          "description": "ElevenLabs' AI voices now answer calls for major media and call centers. The real profit isn't in calls—it's in cloning you.",
+          "visual_hint": "Person talking on headset in call center",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "call center",
+          "image": "https://images.pexels.com/photos/8867246/pexels-photo-8867246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cloning your voice costs almost nothing.",
+          "description": "Companies pay top dollar to copy a specific voice. Your customer service agent is cheap; your identity is priceless.",
+          "visual_hint": "Hand holding a smartphone with voice recognition",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "voice recognition",
+          "image": "https://images.pexels.com/photos/4790267/pexels-photo-4790267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Soon you'll hear yourself in ads.",
+          "description": "A cloned voice can say anything. You'll hear yourself selling products you never endorsed, and you won't know until it plays.",
+          "visual_hint": "Person looking shocked at a screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "tv advertisement",
+          "image": "https://images.pexels.com/photos/13580457/pexels-photo-13580457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Lock down your voice before it's stolen.",
+          "description": "Check which accounts use voice ID and turn on two-factor authentication now. Then ask: if your voice can be copied, what else?",
+          "visual_hint": "Fingerprint scan on a smartphone",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "biometric security",
+          "image": "https://images.pexels.com/photos/8090123/pexels-photo-8090123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
+      "savedAt": "2026-09-30T20:25:07.557Z",
+      "sourceId": "7b98304de6322e172ff4cfd32a10b9b6"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "is-neko-health-s-body-scan-worth-it-spotify-billio",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+      "link": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+      "pubDate": "Wed, 30 Sep 2026 20:20:02 +0000",
+      "slides": [
+        "Can a billionaire's body scan actually save your life?",
+        "Neko Health brings its full-body scanner to America",
+        "It finds hidden risks, but also false alarms",
+        "You'll pay thousands out of pocket, no insurance",
+        "Book only if you can handle uncertain results"
+      ],
+      "thread_text": [
+        "1. Would you pay thousands for a scan that might scare you?\n\nNeko Health is bringing its full-body scanner to America. It finds hidden risks, but also flags things that turn out to be nothing.",
+        "2. What it actually detects\n\nThe scanner checks for early signs of disease — things you might not feel yet. But it can also surface false alarms that lead to unnecessary follow-ups.",
+        "3. No insurance, no problem?\n\nYou pay out of pocket. Thousands. No insurance coverage. That means the people who need it most may never afford it.",
+        "4. The billionaire factor\n\nA billionaire's endorsement doesn't make the scan right for you. The tech is promising, but the evidence isn't fully there yet.",
+        "5. Should you book one?\n\nOnly if you can handle uncertain results. Ask your doctor first. Would you really want to know everything — even if it might be wrong?"
+      ],
+      "video_script": [
+        "Can a billionaire's body scan actually save your life?",
+        "Neko Health brings its full-body scanner to America.",
+        "It finds hidden risks, but also false alarms.",
+        "You'll pay thousands out of pocket, no insurance.",
+        "Book only if you can handle uncertain results."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Would you pay thousands for a scan that might scare you?\n\nNeko Health is bringing its full-body scanner to America. It finds hidden risks, but also flags things that turn out to be nothing.",
+            "2. What it actually detects\n\nThe scanner checks for early signs of disease — things you might not feel yet. But it can also surface false alarms that lead to unnecessary follow-ups.",
+            "3. No insurance, no problem?\n\nYou pay out of pocket. Thousands. No insurance coverage. That means the people who need it most may never afford it.",
+            "4. The billionaire factor\n\nA billionaire's endorsement doesn't make the scan right for you. The tech is promising, but the evidence isn't fully there yet.",
+            "5. Should you book one?\n\nOnly if you can handle uncertain results. Ask your doctor first. Would you really want to know everything — even if it might be wrong?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Can a billionaire's body scan actually save your life?",
+            "Neko Health brings its full-body scanner to America.",
+            "It finds hidden risks, but also false alarms.",
+            "You'll pay thousands out of pocket, no insurance.",
+            "Book only if you can handle uncertain results."
+          ]
+        },
+        "instagram": {
+          "caption": "A full-body scan that finds hidden disease but also flags things that turn out to be nothing just landed in America.\n\nNeko Health checks for early signs of illness you can't feel yet. But it can also trigger false alarms and unnecessary follow-ups. 🩺\n\nYou pay thousands out of pocket. No insurance covers it.\n\nSo if you create health content, don't sell this as a lifesaver — the evidence isn't fully there, and the people who need it most can't afford it. ⚠️\n\nBefore you book, ask your doctor first. Would you really want to know everything, even if it might be wrong? 💭"
+        }
+      },
+      "instagram_caption": "A full-body scan that finds hidden disease but also flags things that turn out to be nothing just landed in America.\n\nNeko Health checks for early signs of illness you can't feel yet. But it can also trigger false alarms and unnecessary follow-ups. 🩺\n\nYou pay thousands out of pocket. No insurance covers it.\n\nSo if you create health content, don't sell this as a lifesaver — the evidence isn't fully there, and the people who need it most can't afford it. ⚠️\n\nBefore you book, ask your doctor first. Would you really want to know everything, even if it might be wrong? 💭",
+      "carousel_slides": [
+        {
+          "hook": "Would a scan that scares you help?",
+          "description": "Neko Health's full-body scanner finds hidden risks, but also flags harmless issues. False alarms can trigger unnecessary follow-ups.",
+          "visual_hint": "Futuristic body scanner chamber glowing blue",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "medical scanner"
+        },
+        {
+          "hook": "Spotify billionaire brings scanner to America",
+          "description": "The startup's full-body scanner is expanding to the US, promising early detection of diseases you might not feel yet.",
+          "visual_hint": "American flag with medical technology overlay",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "american flag",
+          "image": "https://images.pexels.com/photos/27596106/pexels-photo-27596106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "It finds hidden risks and false alarms",
+          "description": "The scan detects early disease signs but may surface false positives, leading to unnecessary tests and anxiety for patients.",
+          "visual_hint": "Medical monitor showing ambiguous scan results",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "medical monitor",
+          "image": "https://images.pexels.com/photos/6291261/pexels-photo-6291261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Thousands out of pocket, no insurance",
+          "description": "You pay thousands yourself with no insurance coverage. The people who need it most may never afford access.",
+          "visual_hint": "Empty wallet next to medical bill",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "empty wallet",
+          "image": "https://images.pexels.com/photos/7927422/pexels-photo-7927422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this if you'd scan anyway",
+          "description": "Ask your doctor first. Book only if you can handle uncertain results. Comment: would you want to know everything?",
+          "visual_hint": "Doctor consulting patient about scan results",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "doctor consultation",
+          "image": "https://images.pexels.com/photos/7578797/pexels-photo-7578797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2023/02/neko-founders.jpeg?resize=1200,800",
+      "savedAt": "2026-09-30T20:24:59.217Z",
+      "sourceId": "b9907aea74cceba8bc61b72a3b02e447"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "will-chinese-ai-companies-slow-down-a-top-house-de",
       "prompt_version": "1.0.0",
       "status": "published",

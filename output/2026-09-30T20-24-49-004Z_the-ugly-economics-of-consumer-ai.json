@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-ugly-economics-of-consumer-ai",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The ugly economics of consumer AI",
+  "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+  "pubDate": "Wed, 30 Sep 2026 17:24:45 +0000",
+  "slides": [
+    "Can consumer AI survive its own economics?",
+    "Chatbots lose money on every free query",
+    "Even paid tiers barely cover inference costs",
+    "Your $20 subscription subsidizes power users",
+    "Check if your favorite AI tool still exists next year"
+  ],
+  "thread_text": [
+    "1. Can Consumer AI Survive?\n\nEvery free query you type costs the company real money. That math is starting to break.",
+    "2. Chatbots Burn Cash\n\nInference costs scale with usage, not revenue. More users means more losses, not profits.",
+    "3. Paid Tiers Barely Cover\n\nThe $20 you pay often doesn't cover what you actually use. Companies eat the difference.",
+    "4. Power Users Subsidized\n\nCasual subscribers fund the heavy users who max out limits daily. That's backwards.",
+    "5. Check Your AI Tool\n\nAsk yourself: would you pay $50/month for it? If not, it might not exist next year."
+  ],
+  "video_script": [
+    "Free AI queries cost companies real money.",
+    "Every chatbot you use loses money per query.",
+    "Even paid tiers barely cover the actual costs.",
+    "Your twenty dollars subsidizes the heaviest users.",
+    "Check if your favorite AI tool still exists next year."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can Consumer AI Survive?\n\nEvery free query you type costs the company real money. That math is starting to break.",
+        "2. Chatbots Burn Cash\n\nInference costs scale with usage, not revenue. More users means more losses, not profits.",
+        "3. Paid Tiers Barely Cover\n\nThe $20 you pay often doesn't cover what you actually use. Companies eat the difference.",
+        "4. Power Users Subsidized\n\nCasual subscribers fund the heavy users who max out limits daily. That's backwards.",
+        "5. Check Your AI Tool\n\nAsk yourself: would you pay $50/month for it? If not, it might not exist next year."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Free AI queries cost companies real money.",
+        "Every chatbot you use loses money per query.",
+        "Even paid tiers barely cover the actual costs.",
+        "Your twenty dollars subsidizes the heaviest users.",
+        "Check if your favorite AI tool still exists next year."
+      ]
+    },
+    "instagram": {
+      "caption": "Every free query you type costs the company real money — and that math is starting to break. 💸\n\nChatbots burn cash because costs scale with usage, not revenue. More users means more losses.\n\nYour $20 subscription often doesn't even cover what you actually use. Casual subscribers end up funding power users who max out limits daily.\n\nIf your favorite AI tool disappeared tomorrow, what would you actually pay to keep it? 🤔 If the answer isn't $50/month, it might not exist next year. Check before you build your workflow around it. ⚠️"
+    }
+  },
+  "instagram_caption": "Every free query you type costs the company real money — and that math is starting to break. 💸\n\nChatbots burn cash because costs scale with usage, not revenue. More users means more losses.\n\nYour $20 subscription often doesn't even cover what you actually use. Casual subscribers end up funding power users who max out limits daily.\n\nIf your favorite AI tool disappeared tomorrow, what would you actually pay to keep it? 🤔 If the answer isn't $50/month, it might not exist next year. Check before you build your workflow around it. ⚠️",
+  "carousel_slides": [
+    {
+      "hook": "Can consumer AI survive its economics?",
+      "description": "Free queries cost companies real money, and inference scales with usage, not revenue.",
+      "visual_hint": "Glowing server racks in dark data center",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Every free query burns real cash",
+      "description": "Inference costs grow with each query while revenue stays flat, so more users mean deeper losses.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Burning money flowing into servers",
+      "image_query": "cash fire",
+      "image": "https://images.pexels.com/photos/4588670/pexels-photo-4588670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your $20 barely covers inference costs",
+      "description": "Paid subscriptions rarely match actual usage, so companies quietly absorb the expensive difference.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Receipt showing tiny payment vs huge bill",
+      "image_query": "credit card receipt",
+      "image": "https://images.pexels.com/photos/5239877/pexels-photo-5239877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Casual users subsidize the power users",
+      "description": "Light subscribers fund heavy users who max out limits daily, flipping the entire pricing model upside down.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hand holding phone with usage meter",
+      "image_query": "hands smartphone",
+      "image": "https://images.pexels.com/photos/3946006/pexels-photo-3946006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Would you pay $50 a month?",
+      "description": "Ask if you'd pay double, then check whether your favorite AI tool still exists next year, and save this post.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Price tag with question mark",
+      "image_query": "price tag",
+      "image": "https://images.pexels.com/photos/7986977/pexels-photo-7986977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+  "savedAt": "2026-09-30T20:25:22.879Z",
+  "sourceId": "96de1cedcbffc2ba24301931e75f39d4"
+}

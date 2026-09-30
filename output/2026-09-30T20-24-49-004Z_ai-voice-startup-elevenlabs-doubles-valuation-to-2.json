@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-voice-startup-elevenlabs-doubles-valuation-to-2",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+  "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+  "pubDate": "Wed, 30 Sep 2026 18:23:57 +0000",
+  "slides": [
+    "ElevenLabs doubles valuation to $22B. But can it deliver?",
+    "Its AI voices now power many media and call centers.",
+    "Yet the real money comes from cloning your voice.",
+    "You could soon hear your own voice in ads.",
+    "Lock down your voice biometrics before it's too late."
+  ],
+  "thread_text": [
+    "1. Voice Theft Is Coming\n\nElevenLabs just hit a $22B valuation. Its AI voices already answer calls for major media and call centers. But the real profit isn't in the calls — it's in cloning you.",
+    "2. Cloning Beats Call Centers\n\nCompanies pay top dollar to copy a specific voice. Your customer service agent is cheap. Your identity is priceless. And the tech to steal it costs almost nothing.",
+    "3. Ads In Your Voice\n\nSoon you'll hear yourself selling products you never endorsed. A cloned voice can say anything. And you won't know until it's already playing.",
+    "4. Biometrics Under Attack\n\nVoice is the new fingerprint. Banks and phones use it to verify you. Once cloned, that lock is broken. No password reset can fix it.",
+    "5. Lock It Down Today\n\nCheck which accounts use voice ID. Turn on a second factor now. Then ask yourself: if your voice can be copied, what else can?"
+  ],
+  "video_script": [
+    "ElevenLabs just doubled to twenty-two billion dollars.",
+    "Its AI voices now run call centers and media.",
+    "But the real money is cloning your voice.",
+    "Soon you'll hear yourself in ads you never made.",
+    "Lock down your voice biometrics before it's too late."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Voice Theft Is Coming\n\nElevenLabs just hit a $22B valuation. Its AI voices already answer calls for major media and call centers. But the real profit isn't in the calls — it's in cloning you.",
+        "2. Cloning Beats Call Centers\n\nCompanies pay top dollar to copy a specific voice. Your customer service agent is cheap. Your identity is priceless. And the tech to steal it costs almost nothing.",
+        "3. Ads In Your Voice\n\nSoon you'll hear yourself selling products you never endorsed. A cloned voice can say anything. And you won't know until it's already playing.",
+        "4. Biometrics Under Attack\n\nVoice is the new fingerprint. Banks and phones use it to verify you. Once cloned, that lock is broken. No password reset can fix it.",
+        "5. Lock It Down Today\n\nCheck which accounts use voice ID. Turn on a second factor now. Then ask yourself: if your voice can be copied, what else can?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "ElevenLabs just doubled to twenty-two billion dollars.",
+        "Its AI voices now run call centers and media.",
+        "But the real money is cloning your voice.",
+        "Soon you'll hear yourself in ads you never made.",
+        "Lock down your voice biometrics before it's too late."
+      ]
+    },
+    "instagram": {
+      "caption": "Your voice can be cloned from a few seconds of audio, and it now sells for $22 billion.\n\nElevenLabs just doubled its valuation to $22B. Its AI voices already handle calls for media companies and call centers.\n\nBut the real money is cloning specific people — and the tech costs almost nothing to run. 🔓\n\nBanks and phones use your voice as a password. Once it's copied, there's no reset.\n\nIf your voice can be cloned, check which accounts rely on voice ID and turn on a second factor today. 🎙️\n\nWhat happens when you hear yourself in an ad you never recorded? 🤔"
+    }
+  },
+  "instagram_caption": "Your voice can be cloned from a few seconds of audio, and it now sells for $22 billion.\n\nElevenLabs just doubled its valuation to $22B. Its AI voices already handle calls for media companies and call centers.\n\nBut the real money is cloning specific people — and the tech costs almost nothing to run. 🔓\n\nBanks and phones use your voice as a password. Once it's copied, there's no reset.\n\nIf your voice can be cloned, check which accounts rely on voice ID and turn on a second factor today. 🎙️\n\nWhat happens when you hear yourself in an ad you never recorded? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Your voice is the new gold.",
+      "description": "ElevenLabs hit $22B valuation by cloning voices. Your identity can be copied for pennies, and you won't know until it's too late.",
+      "visual_hint": "Close-up of a microphone with sound waves",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "microphone studio"
+    },
+    {
+      "hook": "AI voices power media and call centers.",
+      "description": "ElevenLabs' AI voices now answer calls for major media and call centers. The real profit isn't in calls—it's in cloning you.",
+      "visual_hint": "Person talking on headset in call center",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "call center",
+      "image": "https://images.pexels.com/photos/8867246/pexels-photo-8867246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cloning your voice costs almost nothing.",
+      "description": "Companies pay top dollar to copy a specific voice. Your customer service agent is cheap; your identity is priceless.",
+      "visual_hint": "Hand holding a smartphone with voice recognition",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "voice recognition",
+      "image": "https://images.pexels.com/photos/4790267/pexels-photo-4790267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Soon you'll hear yourself in ads.",
+      "description": "A cloned voice can say anything. You'll hear yourself selling products you never endorsed, and you won't know until it plays.",
+      "visual_hint": "Person looking shocked at a screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "tv advertisement",
+      "image": "https://images.pexels.com/photos/13580457/pexels-photo-13580457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Lock down your voice before it's stolen.",
+      "description": "Check which accounts use voice ID and turn on two-factor authentication now. Then ask: if your voice can be copied, what else?",
+      "visual_hint": "Fingerprint scan on a smartphone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "biometric security",
+      "image": "https://images.pexels.com/photos/8090123/pexels-photo-8090123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
+  "savedAt": "2026-09-30T20:25:07.557Z",
+  "sourceId": "7b98304de6322e172ff4cfd32a10b9b6"
+}
