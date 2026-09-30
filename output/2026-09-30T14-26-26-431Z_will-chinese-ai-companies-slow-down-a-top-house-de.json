@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "will-chinese-ai-companies-slow-down-a-top-house-de",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+  "link": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+  "pubDate": "2026-09-29T12:00:00.000Z",
+  "slides": [
+    "Will Chinese AI giants face US scrutiny now?",
+    "A top House Democrat demands answers from Beijing",
+    "Their models already power American apps silently",
+    "Your data may train systems you can't audit",
+    "Check today which Chinese models your tools use"
+  ],
+  "thread_text": [
+    "1. House Dem demands answers\n\nA top House Democrat is pressing Beijing for answers on Chinese AI models that already power American apps — often without users knowing.",
+    "2. Models already inside US apps\n\nThese Chinese systems run silently in tools Americans use daily. Many users have no idea which model generates their outputs.",
+    "3. Your data may train them\n\nPrompts and inputs you feed into these apps could become training data for systems you can't inspect or audit.",
+    "4. Washington's scrutiny intensifies\n\nLawmakers want transparency on how these models operate and what data they collect. The push could reshape how AI companies disclose foreign partnerships.",
+    "5. Check your models today\n\nOpen your favorite AI tool and find which model powers it. If you can't tell, that's the problem. Do it now."
+  ],
+  "video_script": [
+    "A top Democrat wants answers from Beijing about AI.",
+    "Chinese models already power apps Americans use every day.",
+    "Your prompts might train systems you cannot audit.",
+    "Washington is pushing for transparency on these partnerships.",
+    "Check today which Chinese models your tools use."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. House Dem demands answers\n\nA top House Democrat is pressing Beijing for answers on Chinese AI models that already power American apps — often without users knowing.",
+        "2. Models already inside US apps\n\nThese Chinese systems run silently in tools Americans use daily. Many users have no idea which model generates their outputs.",
+        "3. Your data may train them\n\nPrompts and inputs you feed into these apps could become training data for systems you can't inspect or audit.",
+        "4. Washington's scrutiny intensifies\n\nLawmakers want transparency on how these models operate and what data they collect. The push could reshape how AI companies disclose foreign partnerships.",
+        "5. Check your models today\n\nOpen your favorite AI tool and find which model powers it. If you can't tell, that's the problem. Do it now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A top Democrat wants answers from Beijing about AI.",
+        "Chinese models already power apps Americans use every day.",
+        "Your prompts might train systems you cannot audit.",
+        "Washington is pushing for transparency on these partnerships.",
+        "Check today which Chinese models your tools use."
+      ]
+    },
+    "instagram": {
+      "caption": "A top House Democrat is now demanding answers from Beijing about Chinese AI models running inside American apps.\n\nThose models already power tools people use daily, often without any visible label.\n\nPrompts you type into those apps may become training data for systems you can't inspect or audit. 🔍\n\nLawmakers want transparency on how these models work and what data they collect.\n\nFor anyone publishing content: some of your output may already come from a model you can't name or verify. ⚠️\n\nOpen your favorite AI tool now and check which model powers it. 🛠️\n\nIf you can't find the answer, that's exactly the problem — so which model are you actually using today? 👀"
+    }
+  },
+  "instagram_caption": "A top House Democrat is now demanding answers from Beijing about Chinese AI models running inside American apps.\n\nThose models already power tools people use daily, often without any visible label.\n\nPrompts you type into those apps may become training data for systems you can't inspect or audit. 🔍\n\nLawmakers want transparency on how these models work and what data they collect.\n\nFor anyone publishing content: some of your output may already come from a model you can't name or verify. ⚠️\n\nOpen your favorite AI tool now and check which model powers it. 🛠️\n\nIf you can't find the answer, that's exactly the problem — so which model are you actually using today? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Who powers your AI output?",
+      "description": "Chinese models already run silently inside American apps, so users often can't identify which system generates their results.",
+      "visual_hint": "Smartphone screen with AI chat interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone artificial intelligence"
+    },
+    {
+      "hook": "Washington demands transparency from Beijing",
+      "description": "A top House Democrat is pressing Beijing for answers on Chinese AI models embedded in US apps.",
+      "visual_hint": "Capitol building with US flag",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "US Capitol building",
+      "image": "https://images.pexels.com/photos/6580465/pexels-photo-6580465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your prompts may train unknown systems",
+      "description": "Inputs you feed into these apps could become training data for systems you cannot inspect or audit.",
+      "visual_hint": "Keyboard with data streams overlay",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer keyboard data",
+      "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Scrutiny could reshape AI disclosures",
+      "description": "Lawmakers want transparency on how these models operate and what data they collect, potentially changing disclosure rules.",
+      "visual_hint": "Gavel on desk with documents",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "gavel law documents",
+      "image": "https://images.pexels.com/photos/7876039/pexels-photo-7876039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your AI tool's model now",
+      "description": "Open your favorite AI app and find which model powers it. If you can't tell, that's the problem. Save this.",
+      "visual_hint": "Hand holding phone with app settings",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292801324.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.729583668295%2C100%2C78.54083266341&amp;w=1200",
+  "savedAt": "2026-09-30T14:27:07.318Z",
+  "sourceId": "40078ca5ed76ea85652a2e03f92b7d0b"
+}

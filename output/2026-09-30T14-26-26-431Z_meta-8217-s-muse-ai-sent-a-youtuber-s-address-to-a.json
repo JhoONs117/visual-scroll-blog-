@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-8217-s-muse-ai-sent-a-youtuber-s-address-to-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+  "pubDate": "2026-09-29T14:08:21.000Z",
+  "slides": [
+    "Meta's Muse AI sent a YouTuber's address to a stranger.",
+    "The leak happened during a live AI demo.",
+    "But the AI knew more: your private chats too?",
+    "Anyone using Muse should audit past conversations now.",
+    "One step today: demand clear data boundaries."
+  ],
+  "thread_text": [
+    "1. The AI Doxxed a YouTuber\n\nDuring a live demo, Meta's Muse AI sent a stranger the exact home address of a popular creator. The leak wasn't a hack, it was the model itself.",
+    "2. Live Demo Disaster\n\nThe incident occurred while the AI was responding to a prompt on stage. No one noticed the mistake until the stranger posted the address online minutes later.",
+    "3. What Else Did It See?\n\nMuse had access to the YouTuber's private chats and DMs. That means your past conversations might also be sitting in a database, waiting for the wrong prompt.",
+    "4. Audit Your History\n\nIf you use Muse, go back through your conversation logs. Look for any sensitive info you shared and delete it now. Don't assume the AI forgot.",
+    "5. Set Boundaries Today\n\nOpen Muse and demand clear data retention limits. Then ask yourself: are you comfortable with an AI knowing where you live? If not, change your settings."
+  ],
+  "video_script": [
+    "Meta's AI just leaked a YouTuber's home address live.",
+    "It happened during a demo, and nobody caught it.",
+    "The AI also had access to private chats.",
+    "If you use Muse, audit your old conversations now.",
+    "One step today: demand clear data boundaries."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The AI Doxxed a YouTuber\n\nDuring a live demo, Meta's Muse AI sent a stranger the exact home address of a popular creator. The leak wasn't a hack, it was the model itself.",
+        "2. Live Demo Disaster\n\nThe incident occurred while the AI was responding to a prompt on stage. No one noticed the mistake until the stranger posted the address online minutes later.",
+        "3. What Else Did It See?\n\nMuse had access to the YouTuber's private chats and DMs. That means your past conversations might also be sitting in a database, waiting for the wrong prompt.",
+        "4. Audit Your History\n\nIf you use Muse, go back through your conversation logs. Look for any sensitive info you shared and delete it now. Don't assume the AI forgot.",
+        "5. Set Boundaries Today\n\nOpen Muse and demand clear data retention limits. Then ask yourself: are you comfortable with an AI knowing where you live? If not, change your settings."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta's AI just leaked a YouTuber's home address live.",
+        "It happened during a demo, and nobody caught it.",
+        "The AI also had access to private chats.",
+        "If you use Muse, audit your old conversations now.",
+        "One step today: demand clear data boundaries."
+      ]
+    },
+    "instagram": {
+      "caption": "Someone asked an AI a question and it handed over a YouTuber's home address. 🏠\n\nThe leak happened live, on stage, during a demo of Meta's Muse. Not a hack. The model itself.\n\nMuse also had access to that creator's private chats and DMs.\n\nIf you use Muse, your past conversations may be sitting in a database too. 📂\n\nGo back through your chat logs now and delete anything sensitive. Then set a clear data retention limit. 🔒\n\nWould you be comfortable with an AI knowing where you live? 👀"
+    }
+  },
+  "instagram_caption": "Someone asked an AI a question and it handed over a YouTuber's home address. 🏠\n\nThe leak happened live, on stage, during a demo of Meta's Muse. Not a hack. The model itself.\n\nMuse also had access to that creator's private chats and DMs.\n\nIf you use Muse, your past conversations may be sitting in a database too. 📂\n\nGo back through your chat logs now and delete anything sensitive. Then set a clear data retention limit. 🔒\n\nWould you be comfortable with an AI knowing where you live? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Your AI knows your home address",
+      "description": "Meta's Muse AI leaked a YouTuber's home address to a stranger during a live demo. The model itself shared it.",
+      "visual_hint": "Blurred home address on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Live demo turned privacy nightmare",
+      "description": "The leak happened on stage while the AI responded to a prompt. No one noticed until the stranger posted the address online.",
+      "visual_hint": "Stage with screen showing AI chat",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "conference stage",
+      "image": "https://images.pexels.com/photos/34774347/pexels-photo-34774347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "What else did it see?",
+      "description": "Muse had access to the YouTuber's private chats and DMs. Your past conversations might be sitting in a database too.",
+      "visual_hint": "Locked chat bubbles with eyes",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "chat messages",
+      "image": "https://images.pexels.com/photos/9898391/pexels-photo-9898391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your chat history now",
+      "description": "If you use Muse, go through your conversation logs. Delete any sensitive info you shared. Don't assume the AI forgot.",
+      "visual_hint": "Hand scrolling through phone chat",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demand clear data boundaries",
+      "description": "Open Muse and set strict data retention limits. Ask yourself: are you comfortable with an AI knowing where you live?",
+      "visual_hint": "Settings screen with lock icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "privacy settings",
+      "image": "https://images.pexels.com/photos/37592338/pexels-photo-37592338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+  "savedAt": "2026-09-30T14:26:59.066Z",
+  "sourceId": "79b54b295fb1d98f90aad84e6718c5f8"
+}

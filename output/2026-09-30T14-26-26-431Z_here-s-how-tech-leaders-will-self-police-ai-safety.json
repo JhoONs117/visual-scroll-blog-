@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "here-s-how-tech-leaders-will-self-police-ai-safety",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+  "pubDate": "2026-09-30T12:24:32.000Z",
+  "slides": [
+    "Can tech leaders really self-police AI safety under Trump's deal?",
+    "Trump's deal hands oversight to tech companies themselves.",
+    "Yet self-policing often means no real consequences for violations.",
+    "You need to verify AI safety claims independently from now on.",
+    "Demand third-party audits, not corporate promises."
+  ],
+  "thread_text": [
+    "1. Who polices AI safety?\n\nThe Trump administration just handed oversight to the companies building the AI. That's like letting the fox guard the henhouse.",
+    "2. Self-policing = no consequences\n\nHistory shows tech companies rarely punish themselves for violations. Without an external referee, safety promises are just PR.",
+    "3. Trust is not verification\n\nYou can't tell if an AI is safe just by reading a blog post. Independent audits are the only way to catch hidden risks.",
+    "4. Your data is at stake\n\nIf companies grade their own homework, bias and errors slip through. You end up with flawed AI in your daily tools.",
+    "5. Demand third-party audits\n\nContact your representatives and ask for mandatory independent reviews. Don't settle for corporate promises."
+  ],
+  "video_script": [
+    "Trump's new deal lets tech companies police themselves.",
+    "But self-policing often means no real consequences.",
+    "You need to verify AI safety claims independently.",
+    "Demand third-party audits, not corporate promises.",
+    "Ask your representatives to enforce independent oversight."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who polices AI safety?\n\nThe Trump administration just handed oversight to the companies building the AI. That's like letting the fox guard the henhouse.",
+        "2. Self-policing = no consequences\n\nHistory shows tech companies rarely punish themselves for violations. Without an external referee, safety promises are just PR.",
+        "3. Trust is not verification\n\nYou can't tell if an AI is safe just by reading a blog post. Independent audits are the only way to catch hidden risks.",
+        "4. Your data is at stake\n\nIf companies grade their own homework, bias and errors slip through. You end up with flawed AI in your daily tools.",
+        "5. Demand third-party audits\n\nContact your representatives and ask for mandatory independent reviews. Don't settle for corporate promises."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Trump's new deal lets tech companies police themselves.",
+        "But self-policing often means no real consequences.",
+        "You need to verify AI safety claims independently.",
+        "Demand third-party audits, not corporate promises.",
+        "Ask your representatives to enforce independent oversight."
+      ]
+    },
+    "instagram": {
+      "caption": "The companies building the AI now grade their own safety homework.\n\nTrump's deal hands oversight to the tech firms themselves, no external referee. 😬\n\nSelf-policing historically means violations get no real consequences.\n\nIf bias and hidden risks slip through, they land in your daily tools.\n\nDemand third-party audits, not corporate promises. 🧐\n\nWho's checking the AI you use at work tomorrow? 👀"
+    }
+  },
+  "instagram_caption": "The companies building the AI now grade their own safety homework.\n\nTrump's deal hands oversight to the tech firms themselves, no external referee. 😬\n\nSelf-policing historically means violations get no real consequences.\n\nIf bias and hidden risks slip through, they land in your daily tools.\n\nDemand third-party audits, not corporate promises. 🧐\n\nWho's checking the AI you use at work tomorrow? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Who really watches AI safety?",
+      "description": "Trump's deal lets tech companies police themselves — the fox guarding the henhouse with no external referee.",
+      "visual_hint": "Empty government oversight chair",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "empty conference room"
+    },
+    {
+      "hook": "Self-policing means zero consequences",
+      "description": "History shows tech firms rarely punish themselves for violations. Without an external referee, safety promises are just PR.",
+      "visual_hint": "Corporate handshake, no auditor present",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "business handshake office",
+      "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trust is not verification",
+      "description": "You can't tell if AI is safe from a blog post. Independent audits are the only way to catch hidden risks.",
+      "visual_hint": "Magnifying glass over code screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "code screen closeup",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your data pays the price",
+      "description": "When companies grade their own homework, bias and errors slip through — flawed AI ends up in your daily tools.",
+      "visual_hint": "Person using AI app, hidden bias",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone user hand",
+      "image": "https://images.pexels.com/photos/17789089/pexels-photo-17789089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this — demand real audits",
+      "description": "Contact your representatives and ask for mandatory independent reviews. Don't settle for corporate promises. Link in bio.",
+      "visual_hint": "Citizen calling representative, checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person writing letter",
+      "image": "https://images.pexels.com/photos/4968667/pexels-photo-4968667.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.752607989199%2C100%2C78.494784021602&amp;w=1200",
+  "savedAt": "2026-09-30T14:26:42.396Z",
+  "sourceId": "6ff5b786da190badffdac34712213e73"
+}

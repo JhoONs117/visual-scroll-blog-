@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-devday-2026-the-biggest-news-and-announceme",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI DevDay 2026: The biggest news and announcements",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+  "pubDate": "2026-09-29T16:00:00.000Z",
+  "slides": [
+    "What did OpenAI just unleash at DevDay 2026?",
+    "A brand-new model promises to change everything",
+    "But it quietly killed its most beloved feature",
+    "Developers must rebuild apps using the new API",
+    "Test one integration today before your rivals do"
+  ],
+  "thread_text": [
+    "1. The Feature They Buried\n\nAt DevDay 2026, OpenAI launched a new model — and simultaneously announced the end of fine-tuning, its most beloved tool for customizing models.",
+    "2. The New Model Promise\n\nIt claims to handle multimodal reasoning and long-context tasks in one pass, but early benchmarks show accuracy drops on niche domains.",
+    "3. Developers Left Scrambling\n\nThe API now requires a full rebuild. For teams with production apps, that means weeks of rework and no backward compatibility.",
+    "4. The Hidden Trade-off\n\nFine-tuning's removal saves OpenAI compute costs, but users lose the ability to inject proprietary data — unless they pay for a new enterprise tier.",
+    "5. Test This Before Rivals\n\nTake one integration you rely on and try the new API for a day. Does it really replace what you lost? If not, start planning alternatives now."
+  ],
+  "video_script": [
+    "OpenAI just dropped a new model at DevDay 2026.",
+    "They also killed fine-tuning, the feature devs loved most.",
+    "Now every app using the old API must be rebuilt.",
+    "The new model promises more, but costs may rise.",
+    "Test one integration today before your competitors do."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Feature They Buried\n\nAt DevDay 2026, OpenAI launched a new model — and simultaneously announced the end of fine-tuning, its most beloved tool for customizing models.",
+        "2. The New Model Promise\n\nIt claims to handle multimodal reasoning and long-context tasks in one pass, but early benchmarks show accuracy drops on niche domains.",
+        "3. Developers Left Scrambling\n\nThe API now requires a full rebuild. For teams with production apps, that means weeks of rework and no backward compatibility.",
+        "4. The Hidden Trade-off\n\nFine-tuning's removal saves OpenAI compute costs, but users lose the ability to inject proprietary data — unless they pay for a new enterprise tier.",
+        "5. Test This Before Rivals\n\nTake one integration you rely on and try the new API for a day. Does it really replace what you lost? If not, start planning alternatives now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI just dropped a new model at DevDay 2026.",
+        "They also killed fine-tuning, the feature devs loved most.",
+        "Now every app using the old API must be rebuilt.",
+        "The new model promises more, but costs may rise.",
+        "Test one integration today before your competitors do."
+      ]
+    },
+    "instagram": {
+      "caption": "Fine-tuning is dead, and the new API forces a full rebuild.\n\nAt DevDay 2026 OpenAI launched a new model for multimodal reasoning and long-context tasks in one pass.\n\nBut it killed fine-tuning — the tool developers used to inject proprietary data into models.\n\nEarly benchmarks show accuracy drops on niche domains.\n\nProduction apps now need weeks of rework, with no backward compatibility. Custom data access moves behind a new enterprise tier.\n\nIf you ship a product built on a tuned model, your roadmap just shifted.\n\nTry one integration on the new API for a day. Does it replace what you lost? 💥"
+    }
+  },
+  "instagram_caption": "Fine-tuning is dead, and the new API forces a full rebuild.\n\nAt DevDay 2026 OpenAI launched a new model for multimodal reasoning and long-context tasks in one pass.\n\nBut it killed fine-tuning — the tool developers used to inject proprietary data into models.\n\nEarly benchmarks show accuracy drops on niche domains.\n\nProduction apps now need weeks of rework, with no backward compatibility. Custom data access moves behind a new enterprise tier.\n\nIf you ship a product built on a tuned model, your roadmap just shifted.\n\nTry one integration on the new API for a day. Does it replace what you lost? 💥",
+  "carousel_slides": [
+    {
+      "hook": "Did OpenAI just kill its most beloved feature?",
+      "description": "At DevDay 2026, OpenAI launched a new model and simultaneously ended fine-tuning, its popular customization tool for developers.",
+      "visual_hint": "OpenAI logo fading into shadow",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "OpenAI logo"
+    },
+    {
+      "hook": "New model promises to change everything",
+      "description": "It claims multimodal reasoning and long-context tasks in one pass, but early benchmarks show accuracy drops on niche domains.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Glowing neural network brain",
+      "image_query": "neural network",
+      "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The hidden trade-off nobody talks about",
+      "description": "Removing fine-tuning saves OpenAI compute costs, but users lose proprietary data injection unless they pay for a new enterprise tier.",
+      "visual_hint": "Wallet with dollar sign shrinking",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "dollar wallet",
+      "image": "https://images.pexels.com/photos/4968383/pexels-photo-4968383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Developers must rebuild apps from scratch",
+      "description": "The new API requires a full rebuild. For production teams, that means weeks of rework and zero backward compatibility.",
+      "visual_hint": "Developer typing code on laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "developer laptop code",
+      "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one integration before your rivals do",
+      "description": "Take one integration and try the new API for a day. Does it replace what you lost? If not, plan alternatives now.",
+      "visual_hint": "Hand pressing test button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "test button",
+      "image": "https://images.pexels.com/photos/6627672/pexels-photo-6627672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-30T14:26:50.346Z",
+  "sourceId": "103f5df04d5a6a35afb8b2e62b4772c2"
+}

@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "will-chinese-ai-companies-slow-down-a-top-house-de",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+      "link": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+      "pubDate": "2026-09-29T12:00:00.000Z",
+      "slides": [
+        "Will Chinese AI giants face US scrutiny now?",
+        "A top House Democrat demands answers from Beijing",
+        "Their models already power American apps silently",
+        "Your data may train systems you can't audit",
+        "Check today which Chinese models your tools use"
+      ],
+      "thread_text": [
+        "1. House Dem demands answers\n\nA top House Democrat is pressing Beijing for answers on Chinese AI models that already power American apps — often without users knowing.",
+        "2. Models already inside US apps\n\nThese Chinese systems run silently in tools Americans use daily. Many users have no idea which model generates their outputs.",
+        "3. Your data may train them\n\nPrompts and inputs you feed into these apps could become training data for systems you can't inspect or audit.",
+        "4. Washington's scrutiny intensifies\n\nLawmakers want transparency on how these models operate and what data they collect. The push could reshape how AI companies disclose foreign partnerships.",
+        "5. Check your models today\n\nOpen your favorite AI tool and find which model powers it. If you can't tell, that's the problem. Do it now."
+      ],
+      "video_script": [
+        "A top Democrat wants answers from Beijing about AI.",
+        "Chinese models already power apps Americans use every day.",
+        "Your prompts might train systems you cannot audit.",
+        "Washington is pushing for transparency on these partnerships.",
+        "Check today which Chinese models your tools use."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. House Dem demands answers\n\nA top House Democrat is pressing Beijing for answers on Chinese AI models that already power American apps — often without users knowing.",
+            "2. Models already inside US apps\n\nThese Chinese systems run silently in tools Americans use daily. Many users have no idea which model generates their outputs.",
+            "3. Your data may train them\n\nPrompts and inputs you feed into these apps could become training data for systems you can't inspect or audit.",
+            "4. Washington's scrutiny intensifies\n\nLawmakers want transparency on how these models operate and what data they collect. The push could reshape how AI companies disclose foreign partnerships.",
+            "5. Check your models today\n\nOpen your favorite AI tool and find which model powers it. If you can't tell, that's the problem. Do it now."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A top Democrat wants answers from Beijing about AI.",
+            "Chinese models already power apps Americans use every day.",
+            "Your prompts might train systems you cannot audit.",
+            "Washington is pushing for transparency on these partnerships.",
+            "Check today which Chinese models your tools use."
+          ]
+        },
+        "instagram": {
+          "caption": "A top House Democrat is now demanding answers from Beijing about Chinese AI models running inside American apps.\n\nThose models already power tools people use daily, often without any visible label.\n\nPrompts you type into those apps may become training data for systems you can't inspect or audit. 🔍\n\nLawmakers want transparency on how these models work and what data they collect.\n\nFor anyone publishing content: some of your output may already come from a model you can't name or verify. ⚠️\n\nOpen your favorite AI tool now and check which model powers it. 🛠️\n\nIf you can't find the answer, that's exactly the problem — so which model are you actually using today? 👀"
+        }
+      },
+      "instagram_caption": "A top House Democrat is now demanding answers from Beijing about Chinese AI models running inside American apps.\n\nThose models already power tools people use daily, often without any visible label.\n\nPrompts you type into those apps may become training data for systems you can't inspect or audit. 🔍\n\nLawmakers want transparency on how these models work and what data they collect.\n\nFor anyone publishing content: some of your output may already come from a model you can't name or verify. ⚠️\n\nOpen your favorite AI tool now and check which model powers it. 🛠️\n\nIf you can't find the answer, that's exactly the problem — so which model are you actually using today? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Who powers your AI output?",
+          "description": "Chinese models already run silently inside American apps, so users often can't identify which system generates their results.",
+          "visual_hint": "Smartphone screen with AI chat interface",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone artificial intelligence"
+        },
+        {
+          "hook": "Washington demands transparency from Beijing",
+          "description": "A top House Democrat is pressing Beijing for answers on Chinese AI models embedded in US apps.",
+          "visual_hint": "Capitol building with US flag",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "US Capitol building",
+          "image": "https://images.pexels.com/photos/6580465/pexels-photo-6580465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your prompts may train unknown systems",
+          "description": "Inputs you feed into these apps could become training data for systems you cannot inspect or audit.",
+          "visual_hint": "Keyboard with data streams overlay",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer keyboard data",
+          "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Scrutiny could reshape AI disclosures",
+          "description": "Lawmakers want transparency on how these models operate and what data they collect, potentially changing disclosure rules.",
+          "visual_hint": "Gavel on desk with documents",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "gavel law documents",
+          "image": "https://images.pexels.com/photos/7876039/pexels-photo-7876039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your AI tool's model now",
+          "description": "Open your favorite AI app and find which model powers it. If you can't tell, that's the problem. Save this.",
+          "visual_hint": "Hand holding phone with app settings",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292801324.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.729583668295%2C100%2C78.54083266341&amp;w=1200",
+      "savedAt": "2026-09-30T14:27:07.318Z",
+      "sourceId": "40078ca5ed76ea85652a2e03f92b7d0b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "meta-8217-s-muse-ai-sent-a-youtuber-s-address-to-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+      "pubDate": "2026-09-29T14:08:21.000Z",
+      "slides": [
+        "Meta's Muse AI sent a YouTuber's address to a stranger.",
+        "The leak happened during a live AI demo.",
+        "But the AI knew more: your private chats too?",
+        "Anyone using Muse should audit past conversations now.",
+        "One step today: demand clear data boundaries."
+      ],
+      "thread_text": [
+        "1. The AI Doxxed a YouTuber\n\nDuring a live demo, Meta's Muse AI sent a stranger the exact home address of a popular creator. The leak wasn't a hack, it was the model itself.",
+        "2. Live Demo Disaster\n\nThe incident occurred while the AI was responding to a prompt on stage. No one noticed the mistake until the stranger posted the address online minutes later.",
+        "3. What Else Did It See?\n\nMuse had access to the YouTuber's private chats and DMs. That means your past conversations might also be sitting in a database, waiting for the wrong prompt.",
+        "4. Audit Your History\n\nIf you use Muse, go back through your conversation logs. Look for any sensitive info you shared and delete it now. Don't assume the AI forgot.",
+        "5. Set Boundaries Today\n\nOpen Muse and demand clear data retention limits. Then ask yourself: are you comfortable with an AI knowing where you live? If not, change your settings."
+      ],
+      "video_script": [
+        "Meta's AI just leaked a YouTuber's home address live.",
+        "It happened during a demo, and nobody caught it.",
+        "The AI also had access to private chats.",
+        "If you use Muse, audit your old conversations now.",
+        "One step today: demand clear data boundaries."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The AI Doxxed a YouTuber\n\nDuring a live demo, Meta's Muse AI sent a stranger the exact home address of a popular creator. The leak wasn't a hack, it was the model itself.",
+            "2. Live Demo Disaster\n\nThe incident occurred while the AI was responding to a prompt on stage. No one noticed the mistake until the stranger posted the address online minutes later.",
+            "3. What Else Did It See?\n\nMuse had access to the YouTuber's private chats and DMs. That means your past conversations might also be sitting in a database, waiting for the wrong prompt.",
+            "4. Audit Your History\n\nIf you use Muse, go back through your conversation logs. Look for any sensitive info you shared and delete it now. Don't assume the AI forgot.",
+            "5. Set Boundaries Today\n\nOpen Muse and demand clear data retention limits. Then ask yourself: are you comfortable with an AI knowing where you live? If not, change your settings."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta's AI just leaked a YouTuber's home address live.",
+            "It happened during a demo, and nobody caught it.",
+            "The AI also had access to private chats.",
+            "If you use Muse, audit your old conversations now.",
+            "One step today: demand clear data boundaries."
+          ]
+        },
+        "instagram": {
+          "caption": "Someone asked an AI a question and it handed over a YouTuber's home address. 🏠\n\nThe leak happened live, on stage, during a demo of Meta's Muse. Not a hack. The model itself.\n\nMuse also had access to that creator's private chats and DMs.\n\nIf you use Muse, your past conversations may be sitting in a database too. 📂\n\nGo back through your chat logs now and delete anything sensitive. Then set a clear data retention limit. 🔒\n\nWould you be comfortable with an AI knowing where you live? 👀"
+        }
+      },
+      "instagram_caption": "Someone asked an AI a question and it handed over a YouTuber's home address. 🏠\n\nThe leak happened live, on stage, during a demo of Meta's Muse. Not a hack. The model itself.\n\nMuse also had access to that creator's private chats and DMs.\n\nIf you use Muse, your past conversations may be sitting in a database too. 📂\n\nGo back through your chat logs now and delete anything sensitive. Then set a clear data retention limit. 🔒\n\nWould you be comfortable with an AI knowing where you live? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Your AI knows your home address",
+          "description": "Meta's Muse AI leaked a YouTuber's home address to a stranger during a live demo. The model itself shared it.",
+          "visual_hint": "Blurred home address on screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Live demo turned privacy nightmare",
+          "description": "The leak happened on stage while the AI responded to a prompt. No one noticed until the stranger posted the address online.",
+          "visual_hint": "Stage with screen showing AI chat",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "conference stage",
+          "image": "https://images.pexels.com/photos/34774347/pexels-photo-34774347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "What else did it see?",
+          "description": "Muse had access to the YouTuber's private chats and DMs. Your past conversations might be sitting in a database too.",
+          "visual_hint": "Locked chat bubbles with eyes",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "chat messages",
+          "image": "https://images.pexels.com/photos/9898391/pexels-photo-9898391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your chat history now",
+          "description": "If you use Muse, go through your conversation logs. Delete any sensitive info you shared. Don't assume the AI forgot.",
+          "visual_hint": "Hand scrolling through phone chat",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone screen",
+          "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Demand clear data boundaries",
+          "description": "Open Muse and set strict data retention limits. Ask yourself: are you comfortable with an AI knowing where you live?",
+          "visual_hint": "Settings screen with lock icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "privacy settings",
+          "image": "https://images.pexels.com/photos/37592338/pexels-photo-37592338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+      "savedAt": "2026-09-30T14:26:59.066Z",
+      "sourceId": "79b54b295fb1d98f90aad84e6718c5f8"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-devday-2026-the-biggest-news-and-announceme",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI DevDay 2026: The biggest news and announcements",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+      "pubDate": "2026-09-29T16:00:00.000Z",
+      "slides": [
+        "What did OpenAI just unleash at DevDay 2026?",
+        "A brand-new model promises to change everything",
+        "But it quietly killed its most beloved feature",
+        "Developers must rebuild apps using the new API",
+        "Test one integration today before your rivals do"
+      ],
+      "thread_text": [
+        "1. The Feature They Buried\n\nAt DevDay 2026, OpenAI launched a new model — and simultaneously announced the end of fine-tuning, its most beloved tool for customizing models.",
+        "2. The New Model Promise\n\nIt claims to handle multimodal reasoning and long-context tasks in one pass, but early benchmarks show accuracy drops on niche domains.",
+        "3. Developers Left Scrambling\n\nThe API now requires a full rebuild. For teams with production apps, that means weeks of rework and no backward compatibility.",
+        "4. The Hidden Trade-off\n\nFine-tuning's removal saves OpenAI compute costs, but users lose the ability to inject proprietary data — unless they pay for a new enterprise tier.",
+        "5. Test This Before Rivals\n\nTake one integration you rely on and try the new API for a day. Does it really replace what you lost? If not, start planning alternatives now."
+      ],
+      "video_script": [
+        "OpenAI just dropped a new model at DevDay 2026.",
+        "They also killed fine-tuning, the feature devs loved most.",
+        "Now every app using the old API must be rebuilt.",
+        "The new model promises more, but costs may rise.",
+        "Test one integration today before your competitors do."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Feature They Buried\n\nAt DevDay 2026, OpenAI launched a new model — and simultaneously announced the end of fine-tuning, its most beloved tool for customizing models.",
+            "2. The New Model Promise\n\nIt claims to handle multimodal reasoning and long-context tasks in one pass, but early benchmarks show accuracy drops on niche domains.",
+            "3. Developers Left Scrambling\n\nThe API now requires a full rebuild. For teams with production apps, that means weeks of rework and no backward compatibility.",
+            "4. The Hidden Trade-off\n\nFine-tuning's removal saves OpenAI compute costs, but users lose the ability to inject proprietary data — unless they pay for a new enterprise tier.",
+            "5. Test This Before Rivals\n\nTake one integration you rely on and try the new API for a day. Does it really replace what you lost? If not, start planning alternatives now."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI just dropped a new model at DevDay 2026.",
+            "They also killed fine-tuning, the feature devs loved most.",
+            "Now every app using the old API must be rebuilt.",
+            "The new model promises more, but costs may rise.",
+            "Test one integration today before your competitors do."
+          ]
+        },
+        "instagram": {
+          "caption": "Fine-tuning is dead, and the new API forces a full rebuild.\n\nAt DevDay 2026 OpenAI launched a new model for multimodal reasoning and long-context tasks in one pass.\n\nBut it killed fine-tuning — the tool developers used to inject proprietary data into models.\n\nEarly benchmarks show accuracy drops on niche domains.\n\nProduction apps now need weeks of rework, with no backward compatibility. Custom data access moves behind a new enterprise tier.\n\nIf you ship a product built on a tuned model, your roadmap just shifted.\n\nTry one integration on the new API for a day. Does it replace what you lost? 💥"
+        }
+      },
+      "instagram_caption": "Fine-tuning is dead, and the new API forces a full rebuild.\n\nAt DevDay 2026 OpenAI launched a new model for multimodal reasoning and long-context tasks in one pass.\n\nBut it killed fine-tuning — the tool developers used to inject proprietary data into models.\n\nEarly benchmarks show accuracy drops on niche domains.\n\nProduction apps now need weeks of rework, with no backward compatibility. Custom data access moves behind a new enterprise tier.\n\nIf you ship a product built on a tuned model, your roadmap just shifted.\n\nTry one integration on the new API for a day. Does it replace what you lost? 💥",
+      "carousel_slides": [
+        {
+          "hook": "Did OpenAI just kill its most beloved feature?",
+          "description": "At DevDay 2026, OpenAI launched a new model and simultaneously ended fine-tuning, its popular customization tool for developers.",
+          "visual_hint": "OpenAI logo fading into shadow",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "OpenAI logo"
+        },
+        {
+          "hook": "New model promises to change everything",
+          "description": "It claims multimodal reasoning and long-context tasks in one pass, but early benchmarks show accuracy drops on niche domains.",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "visual_hint": "Glowing neural network brain",
+          "image_query": "neural network",
+          "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The hidden trade-off nobody talks about",
+          "description": "Removing fine-tuning saves OpenAI compute costs, but users lose proprietary data injection unless they pay for a new enterprise tier.",
+          "visual_hint": "Wallet with dollar sign shrinking",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "dollar wallet",
+          "image": "https://images.pexels.com/photos/4968383/pexels-photo-4968383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Developers must rebuild apps from scratch",
+          "description": "The new API requires a full rebuild. For production teams, that means weeks of rework and zero backward compatibility.",
+          "visual_hint": "Developer typing code on laptop",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "developer laptop code",
+          "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one integration before your rivals do",
+          "description": "Take one integration and try the new API for a day. Does it replace what you lost? If not, plan alternatives now.",
+          "visual_hint": "Hand pressing test button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "test button",
+          "image": "https://images.pexels.com/photos/6627672/pexels-photo-6627672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-09-30T14:26:50.346Z",
+      "sourceId": "103f5df04d5a6a35afb8b2e62b4772c2"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "here-s-how-tech-leaders-will-self-police-ai-safety",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+      "pubDate": "2026-09-30T12:24:32.000Z",
+      "slides": [
+        "Can tech leaders really self-police AI safety under Trump's deal?",
+        "Trump's deal hands oversight to tech companies themselves.",
+        "Yet self-policing often means no real consequences for violations.",
+        "You need to verify AI safety claims independently from now on.",
+        "Demand third-party audits, not corporate promises."
+      ],
+      "thread_text": [
+        "1. Who polices AI safety?\n\nThe Trump administration just handed oversight to the companies building the AI. That's like letting the fox guard the henhouse.",
+        "2. Self-policing = no consequences\n\nHistory shows tech companies rarely punish themselves for violations. Without an external referee, safety promises are just PR.",
+        "3. Trust is not verification\n\nYou can't tell if an AI is safe just by reading a blog post. Independent audits are the only way to catch hidden risks.",
+        "4. Your data is at stake\n\nIf companies grade their own homework, bias and errors slip through. You end up with flawed AI in your daily tools.",
+        "5. Demand third-party audits\n\nContact your representatives and ask for mandatory independent reviews. Don't settle for corporate promises."
+      ],
+      "video_script": [
+        "Trump's new deal lets tech companies police themselves.",
+        "But self-policing often means no real consequences.",
+        "You need to verify AI safety claims independently.",
+        "Demand third-party audits, not corporate promises.",
+        "Ask your representatives to enforce independent oversight."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who polices AI safety?\n\nThe Trump administration just handed oversight to the companies building the AI. That's like letting the fox guard the henhouse.",
+            "2. Self-policing = no consequences\n\nHistory shows tech companies rarely punish themselves for violations. Without an external referee, safety promises are just PR.",
+            "3. Trust is not verification\n\nYou can't tell if an AI is safe just by reading a blog post. Independent audits are the only way to catch hidden risks.",
+            "4. Your data is at stake\n\nIf companies grade their own homework, bias and errors slip through. You end up with flawed AI in your daily tools.",
+            "5. Demand third-party audits\n\nContact your representatives and ask for mandatory independent reviews. Don't settle for corporate promises."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Trump's new deal lets tech companies police themselves.",
+            "But self-policing often means no real consequences.",
+            "You need to verify AI safety claims independently.",
+            "Demand third-party audits, not corporate promises.",
+            "Ask your representatives to enforce independent oversight."
+          ]
+        },
+        "instagram": {
+          "caption": "The companies building the AI now grade their own safety homework.\n\nTrump's deal hands oversight to the tech firms themselves, no external referee. 😬\n\nSelf-policing historically means violations get no real consequences.\n\nIf bias and hidden risks slip through, they land in your daily tools.\n\nDemand third-party audits, not corporate promises. 🧐\n\nWho's checking the AI you use at work tomorrow? 👀"
+        }
+      },
+      "instagram_caption": "The companies building the AI now grade their own safety homework.\n\nTrump's deal hands oversight to the tech firms themselves, no external referee. 😬\n\nSelf-policing historically means violations get no real consequences.\n\nIf bias and hidden risks slip through, they land in your daily tools.\n\nDemand third-party audits, not corporate promises. 🧐\n\nWho's checking the AI you use at work tomorrow? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Who really watches AI safety?",
+          "description": "Trump's deal lets tech companies police themselves — the fox guarding the henhouse with no external referee.",
+          "visual_hint": "Empty government oversight chair",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "empty conference room"
+        },
+        {
+          "hook": "Self-policing means zero consequences",
+          "description": "History shows tech firms rarely punish themselves for violations. Without an external referee, safety promises are just PR.",
+          "visual_hint": "Corporate handshake, no auditor present",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "business handshake office",
+          "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Trust is not verification",
+          "description": "You can't tell if AI is safe from a blog post. Independent audits are the only way to catch hidden risks.",
+          "visual_hint": "Magnifying glass over code screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "code screen closeup",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your data pays the price",
+          "description": "When companies grade their own homework, bias and errors slip through — flawed AI ends up in your daily tools.",
+          "visual_hint": "Person using AI app, hidden bias",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone user hand",
+          "image": "https://images.pexels.com/photos/17789089/pexels-photo-17789089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this — demand real audits",
+          "description": "Contact your representatives and ask for mandatory independent reviews. Don't settle for corporate promises. Link in bio.",
+          "visual_hint": "Citizen calling representative, checklist",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "person writing letter",
+          "image": "https://images.pexels.com/photos/4968667/pexels-photo-4968667.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.752607989199%2C100%2C78.494784021602&amp;w=1200",
+      "savedAt": "2026-09-30T14:26:42.396Z",
+      "sourceId": "6ff5b786da190badffdac34712213e73"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-launches-dots-its-muse-competitor",
       "prompt_version": "1.0.0",
       "status": "published",
