@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-launches-dots-its-muse-competitor",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI launches Dots, its Muse competitor",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "pubDate": "2026-09-29T17:15:00.000Z",
+      "slides": [
+        "Can OpenAI's Dots outcreate Adobe Muse?",
+        "It generates vector art from text prompts",
+        "But early tests show it struggles with complex layouts",
+        "Designers can now iterate entire brand kits in minutes",
+        "Try one rebrand concept before competitors do"
+      ],
+      "thread_text": [
+        "1. OpenAI Dots vs Adobe Muse\n\nA new tool generates vector art from text prompts — and early testers say it can rebuild an entire brand kit in minutes.",
+        "2. Early Tests Struggle\n\nComplex layouts — nested grids, multi-column compositions — break the output. Simple icons and logos work fine.",
+        "3. Designers Iterate Fast\n\nSpeed changes the workflow: instead of one concept, you can explore fifty directions before lunch.",
+        "4. Your Competitors Move First\n\nIf they're already testing prompts, they'll ship rebrands while you're still sketching mood boards.",
+        "5. Try One Rebrand Today\n\nTake a real client prompt and run it through Dots. If the output needs heavy editing, ask: is the saved time worth the extra pass?"
+      ],
+      "video_script": [
+        "OpenAI's new tool Dots turns text into vector art fast.",
+        "Early tests show it breaks on complex layouts with nested grids.",
+        "Designers can now iterate entire brand kits in minutes.",
+        "Your competitors might already be testing prompts for rebrands.",
+        "Try one rebrand concept today and see if it works."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. OpenAI Dots vs Adobe Muse\n\nA new tool generates vector art from text prompts — and early testers say it can rebuild an entire brand kit in minutes.",
+            "2. Early Tests Struggle\n\nComplex layouts — nested grids, multi-column compositions — break the output. Simple icons and logos work fine.",
+            "3. Designers Iterate Fast\n\nSpeed changes the workflow: instead of one concept, you can explore fifty directions before lunch.",
+            "4. Your Competitors Move First\n\nIf they're already testing prompts, they'll ship rebrands while you're still sketching mood boards.",
+            "5. Try One Rebrand Today\n\nTake a real client prompt and run it through Dots. If the output needs heavy editing, ask: is the saved time worth the extra pass?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI's new tool Dots turns text into vector art fast.",
+            "Early tests show it breaks on complex layouts with nested grids.",
+            "Designers can now iterate entire brand kits in minutes.",
+            "Your competitors might already be testing prompts for rebrands.",
+            "Try one rebrand concept today and see if it works."
+          ]
+        },
+        "instagram": {
+          "caption": "Typing \"minimalist coffee brand, earthy tones\" now gets you vector art in seconds.\n\nOpenAI launched Dots, a direct competitor to Adobe Muse.\n\nEarly tests: simple icons and logos work. Nested grids and multi-column layouts break.\n\nYou can now iterate an entire brand kit in minutes instead of days.\n\nIf your competitors already test prompts, they'll ship rebrands before you finish mood boards.\n\nGrab one real client prompt and run it through Dots. Does the saved time survive the cleanup? 🎨⚡"
+        }
+      },
+      "instagram_caption": "Typing \"minimalist coffee brand, earthy tones\" now gets you vector art in seconds.\n\nOpenAI launched Dots, a direct competitor to Adobe Muse.\n\nEarly tests: simple icons and logos work. Nested grids and multi-column layouts break.\n\nYou can now iterate an entire brand kit in minutes instead of days.\n\nIf your competitors already test prompts, they'll ship rebrands before you finish mood boards.\n\nGrab one real client prompt and run it through Dots. Does the saved time survive the cleanup? 🎨⚡",
+      "carousel_slides": [
+        {
+          "hook": "Can AI really replace Adobe Muse?",
+          "description": "OpenAI's Dots generates vector art from text prompts, but early tests reveal it breaks on complex layouts. Simple icons work fine.",
+          "visual_hint": "Split screen: simple icon vs broken grid",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "vector graphic design"
+        },
+        {
+          "hook": "Text prompts now create vector art",
+          "description": "Dots turns words into vector graphics instantly, but nested grids and multi-column compositions fail, limiting professional use.",
+          "visual_hint": "Text prompt turning into vector shapes",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "text to image ai",
+          "image": "https://images.pexels.com/photos/16245253/pexels-photo-16245253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Complex layouts break AI output",
+          "description": "Nested grids and multi-column compositions fail in early tests, while simple logos and icons succeed without editing.",
+          "visual_hint": "Broken grid with red X marks",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "broken grid layout",
+          "image": "https://images.pexels.com/photos/38312499/pexels-photo-38312499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Iterate fifty brand kits before lunch",
+          "description": "Designers can now explore dozens of brand directions in minutes, shifting workflow from one concept to rapid iteration.",
+          "visual_hint": "Designer hands shuffling brand cards",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "designer hands working",
+          "image": "https://images.pexels.com/photos/12902985/pexels-photo-12902985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before competitors rebrand",
+          "description": "Run one real client prompt through Dots today. If output needs heavy editing, ask: is saved time worth the extra pass?",
+          "visual_hint": "Prompt input box with cursor blinking",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "computer prompt screen",
+          "image": "https://images.pexels.com/photos/16027823/pexels-photo-16027823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dots-Hero-Image.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+      "savedAt": "2026-09-30T07:45:07.309Z",
+      "sourceId": "9c75674b313ac967839662ad64952f45"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ai-researchers-put-out-videos-saying-superintellig",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+      "pubDate": "2026-09-29T17:35:03.000Z",
+      "slides": [
+        "Superintelligence: exactly as dangerous as it sounds?",
+        "Top AI researchers just released videos warning the public",
+        "But many of those same researchers are building it",
+        "Your job, data, and decisions are now the test case",
+        "Ask your AI vendor one hard question this week"
+      ],
+      "thread_text": [
+        "1. Dangerous exactly as it sounds\n\nTop AI researchers just released videos warning the public about superintelligence risks. Many of those same researchers are building it.",
+        "2. Who exactly is in danger\n\nThe warnings target superintelligence, not today's chatbots. But the race to build it is already shaping your job, data, and decisions.",
+        "3. The builders are also the warned\n\nLeading AI labs employ these researchers and fund the videos. They know the risks better than anyone and still continue.",
+        "4. Your job is the test case\n\nCompanies are deploying AI tools into hiring, lending, and medical triage right now. You rarely get to see the safety tests.",
+        "5. Ask your AI vendor this week\n\nAsk: If this model fails on my data, who is liable? If you haven't asked, start there. Test the answer on a real workflow."
+      ],
+      "video_script": [
+        "Five slides about AI superintelligence",
+        "Researchers warn the public, but they build it",
+        "Your job and data are the test case",
+        "Ask your AI vendor one hard question",
+        "Who is liable when the model fails"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Dangerous exactly as it sounds\n\nTop AI researchers just released videos warning the public about superintelligence risks. Many of those same researchers are building it.",
+            "2. Who exactly is in danger\n\nThe warnings target superintelligence, not today's chatbots. But the race to build it is already shaping your job, data, and decisions.",
+            "3. The builders are also the warned\n\nLeading AI labs employ these researchers and fund the videos. They know the risks better than anyone and still continue.",
+            "4. Your job is the test case\n\nCompanies are deploying AI tools into hiring, lending, and medical triage right now. You rarely get to see the safety tests.",
+            "5. Ask your AI vendor this week\n\nAsk: If this model fails on my data, who is liable? If you haven't asked, start there. Test the answer on a real workflow."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Five slides about AI superintelligence",
+            "Researchers warn the public, but they build it",
+            "Your job and data are the test case",
+            "Ask your AI vendor one hard question",
+            "Who is liable when the model fails"
+          ]
+        },
+        "instagram": {
+          "caption": "Superintelligence is \"exactly as dangerous as it sounds.\" That's the warning top AI researchers just put in public videos.\n\nThey know the risks best because many of them are building it at the labs funding those same videos.\n\nMeanwhile AI already screens resumes, loans, and medical cases, and you rarely see the safety tests behind those tools.\n\nIf you create or publish content, your data and workflow are the live test case, not a future scenario.\n\nAsk your AI vendor this week: if this model fails on my data, who is liable? ⚠️\n\nThen test the answer on one real task. 🧪"
+        }
+      },
+      "instagram_caption": "Superintelligence is \"exactly as dangerous as it sounds.\" That's the warning top AI researchers just put in public videos.\n\nThey know the risks best because many of them are building it at the labs funding those same videos.\n\nMeanwhile AI already screens resumes, loans, and medical cases, and you rarely see the safety tests behind those tools.\n\nIf you create or publish content, your data and workflow are the live test case, not a future scenario.\n\nAsk your AI vendor this week: if this model fails on my data, who is liable? ⚠️\n\nThen test the answer on one real task. 🧪",
+      "carousel_slides": [
+        {
+          "hook": "They build it, then warn us?",
+          "description": "Leading AI labs employ researchers who publicly warn about superintelligence dangers, yet continue building it. They know the risks best and still proceed.",
+          "visual_hint": "Researcher silhouette against glowing screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Warnings target superintelligence, not chatbots",
+          "description": "The alert focuses on future superintelligence, but the race is already impacting your job, data, and decisions today.",
+          "visual_hint": "Split screen: chatbot vs superintelligence concept",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Same researchers funding the warnings",
+          "description": "AI labs fund these warning videos. The people who understand the risks best keep building anyway.",
+          "visual_hint": "Money flowing from lab to video production",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your job is the test case",
+          "description": "AI tools now decide hiring, lending, and medical triage. You rarely see the safety tests behind them.",
+          "visual_hint": "Hand using AI interface for decision",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this. Ask your AI vendor today.",
+          "description": "Ask: If this model fails on my data, who is liable? Test the answer on a real workflow now.",
+          "visual_hint": "Person asking question to vendor table",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "business meeting",
+          "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-09-30T07:44:59.753Z",
+      "sourceId": "b8eb1ff5c01db2552cccf34a1e46f175"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "sam-altman-says-openai-won-t-go-public-until-its-m",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "pubDate": "2026-09-30T00:19:13.000Z",
+      "slides": [
+        "Will OpenAI ever go public?",
+        "Sam Altman ties IPO to AI safety first",
+        "But safety has no agreed definition",
+        "Founders can now delay investor exits indefinitely",
+        "Ask: who decides safe enough?"
+      ],
+      "thread_text": [
+        "1. OpenAI's IPO Paradox\n\nSam Altman says going public depends on AI safety – but safety has no agreed definition. So who really decides?",
+        "2. Altman's Safety Condition\n\nHe tied the IPO to safety first. That sounds noble, but it leaves the timing entirely in his hands.",
+        "3. Safety Is Undefined\n\nNo universal standard exists for 'safe AI'. Without a benchmark, 'safe enough' becomes a judgment call.",
+        "4. Founders Can Delay Exits\n\nNew structures let founders postpone investor payouts indefinitely. Altman's safety clause fits that playbook.",
+        "5. Who Decides Safe Enough?\n\nTake a prompt on ChatGPT and ask it to define AI safety. Then ask yourself: would you trust that answer to time a trillion-dollar IPO?"
+      ],
+      "video_script": [
+        "Sam Altman says OpenAI will go public only when AI is safe.",
+        "But nobody agrees on what safe actually means.",
+        "So he gets to decide when it's safe enough.",
+        "New rules let founders delay investor payouts indefinitely.",
+        "Ask yourself: who should really decide?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. OpenAI's IPO Paradox\n\nSam Altman says going public depends on AI safety – but safety has no agreed definition. So who really decides?",
+            "2. Altman's Safety Condition\n\nHe tied the IPO to safety first. That sounds noble, but it leaves the timing entirely in his hands.",
+            "3. Safety Is Undefined\n\nNo universal standard exists for 'safe AI'. Without a benchmark, 'safe enough' becomes a judgment call.",
+            "4. Founders Can Delay Exits\n\nNew structures let founders postpone investor payouts indefinitely. Altman's safety clause fits that playbook.",
+            "5. Who Decides Safe Enough?\n\nTake a prompt on ChatGPT and ask it to define AI safety. Then ask yourself: would you trust that answer to time a trillion-dollar IPO?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Sam Altman says OpenAI will go public only when AI is safe.",
+            "But nobody agrees on what safe actually means.",
+            "So he gets to decide when it's safe enough.",
+            "New rules let founders delay investor payouts indefinitely.",
+            "Ask yourself: who should really decide?"
+          ]
+        },
+        "instagram": {
+          "caption": "Sam Altman said OpenAI won't go public until its models are \"safe\" — a condition with no agreed definition 🤔\n\nThat means the timing of a trillion-dollar exit sits entirely in his hands.\n\nNo universal benchmark for AI safety exists, so \"safe enough\" stays a judgment call.\n\nNew founder-friendly structures let him delay investor payouts indefinitely anyway.\n\nIf you build or publish with OpenAI's tools, your roadmap depends on a decision no one can measure or audit 🔍\n\nSo who actually gets to decide when AI is safe enough to go public? ⏳"
+        }
+      },
+      "instagram_caption": "Sam Altman said OpenAI won't go public until its models are \"safe\" — a condition with no agreed definition 🤔\n\nThat means the timing of a trillion-dollar exit sits entirely in his hands.\n\nNo universal benchmark for AI safety exists, so \"safe enough\" stays a judgment call.\n\nNew founder-friendly structures let him delay investor payouts indefinitely anyway.\n\nIf you build or publish with OpenAI's tools, your roadmap depends on a decision no one can measure or audit 🔍\n\nSo who actually gets to decide when AI is safe enough to go public? ⏳",
+      "carousel_slides": [
+        {
+          "hook": "Who decides when AI is safe enough?",
+          "description": "Sam Altman says OpenAI's IPO depends on AI safety, but no agreed definition of 'safe' exists today.",
+          "visual_hint": "OpenAI logo on dark background",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Altman ties IPO to safety first",
+          "description": "He made safety a condition for going public, but that leaves the timing entirely in his hands.",
+          "visual_hint": "Handshake over contract document",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Safety has no agreed definition",
+          "description": "No universal benchmark exists for safe AI. Without one, 'safe enough' becomes a subjective judgment call.",
+          "visual_hint": "Question mark over circuit board",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "circuit board closeup",
+          "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Founders can delay investor exits indefinitely",
+          "description": "New corporate structures let founders postpone investor payouts. Altman's safety clause fits that pattern.",
+          "visual_hint": "Calendar with blocked exit dates",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers meeting",
+          "image": "https://images.pexels.com/photos/12903171/pexels-photo-12903171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your next ChatGPT prompt",
+          "description": "Ask ChatGPT to define AI safety, then ask yourself: would you trust that answer to time a trillion-dollar IPO?",
+          "visual_hint": "Phone screen with ChatGPT interface",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "people using smartphone",
+          "image": "https://images.pexels.com/photos/7279328/pexels-photo-7279328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-09-30T07:44:52.027Z",
+      "sourceId": "a3f4cfd233094b1b6d2c6155d077d122"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ai-powered-app-maker-wabi-pivots-to-a-messaging-ex",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI-powered app maker Wabi pivots to a messaging experience",
+      "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+      "pubDate": "Tue, 29 Sep 2026 17:20:00 +0000",
+      "slides": [
+        "Wabi: the app that builds apps—now a messaging platform?",
+        "Its AI tool lets anyone create apps without code.",
+        "But the real surprise: Wabi's pivot targets WhatsApp, not app stores.",
+        "Users will soon message Wabi to build and launch apps instantly.",
+        "Ask: will conversational creation make traditional app builders obsolete?"
+      ],
+      "thread_text": [
+        "1. Messaging App Builds Apps\n\nWabi started as a no-code tool for anyone to build apps. Now it's pivoting to let you build them inside WhatsApp.",
+        "2. No Code, No App Store\n\nInstead of publishing to app stores, Wabi lets users message an AI to create and launch apps instantly.",
+        "3. ChatGPT for Apps?\n\nIf you can describe it in a text, Wabi's AI will build it. No technical skills needed.",
+        "4. WhatsApp Is the New OS\n\nWabi's pivot targets WhatsApp, not app stores. That means billions of users could soon build apps without leaving their chat.",
+        "5. Will This Kill App Builders?\n\nCan conversational creation replace traditional tools? Try building a simple app via a chat prompt this week. Does it feel faster?"
+      ],
+      "video_script": [
+        "Wabi: the app that builds apps.",
+        "Now you can build apps without code.",
+        "But the real surprise: it's for WhatsApp.",
+        "Just message Wabi to build and launch apps.",
+        "Will conversational creation make app builders obsolete?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Messaging App Builds Apps\n\nWabi started as a no-code tool for anyone to build apps. Now it's pivoting to let you build them inside WhatsApp.",
+            "2. No Code, No App Store\n\nInstead of publishing to app stores, Wabi lets users message an AI to create and launch apps instantly.",
+            "3. ChatGPT for Apps?\n\nIf you can describe it in a text, Wabi's AI will build it. No technical skills needed.",
+            "4. WhatsApp Is the New OS\n\nWabi's pivot targets WhatsApp, not app stores. That means billions of users could soon build apps without leaving their chat.",
+            "5. Will This Kill App Builders?\n\nCan conversational creation replace traditional tools? Try building a simple app via a chat prompt this week. Does it feel faster?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Wabi: the app that builds apps.",
+            "Now you can build apps without code.",
+            "But the real surprise: it's for WhatsApp.",
+            "Just message Wabi to build and launch apps.",
+            "Will conversational creation make app builders obsolete?"
+          ]
+        },
+        "instagram": {
+          "caption": "You'll soon build an app by texting it into a chat, no code and no app store.\n\nWabi started as a no-code tool that let anyone create apps.\n\nNow it's pivoting to messaging: users will message its AI to build and launch apps instantly.\n\nThe target isn't app stores — it's WhatsApp, where billions already spend their day. 📱\n\nSo if you make or publish tools, your next competitor might be a single text. 🤖\n\nWould you trust a chat prompt to ship something real? 👀"
+        }
+      },
+      "instagram_caption": "You'll soon build an app by texting it into a chat, no code and no app store.\n\nWabi started as a no-code tool that let anyone create apps.\n\nNow it's pivoting to messaging: users will message its AI to build and launch apps instantly.\n\nThe target isn't app stores — it's WhatsApp, where billions already spend their day. 📱\n\nSo if you make or publish tools, your next competitor might be a single text. 🤖\n\nWould you trust a chat prompt to ship something real? 👀",
+      "carousel_slides": [
+        {
+          "hook": "WhatsApp is the new app store?",
+          "description": "Wabi pivots from no-code tool to messaging platform, letting billions build apps inside WhatsApp without app stores.",
+          "visual_hint": "Smartphone with chat bubbles, app icons",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone chat"
+        },
+        {
+          "hook": "No code needed, just message",
+          "description": "Wabi's AI lets anyone create apps by describing them in text, eliminating technical skills and traditional app builders.",
+          "visual_hint": "Hand typing on phone, AI code",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "person typing smartphone",
+          "image": "https://images.pexels.com/photos/6669795/pexels-photo-6669795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Forget app stores, chat to build",
+          "description": "Instead of publishing to app stores, users message Wabi's AI to instantly create and launch apps.",
+          "visual_hint": "Chat interface with app icon emerging",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "chat interface app",
+          "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Billions could build via chat",
+          "description": "Wabi targets WhatsApp's massive user base, enabling instant app creation without leaving the messaging app.",
+          "visual_hint": "Global network, WhatsApp logo, users",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "global network whatsapp",
+          "image": "https://images.pexels.com/photos/8542360/pexels-photo-8542360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Will conversational creation kill app builders?",
+          "description": "Try building a simple app via a chat prompt this week and see if it feels faster than traditional tools.",
+          "visual_hint": "Split screen: code vs chat",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "split screen code chat",
+          "image": "https://images.pexels.com/photos/3861964/pexels-photo-3861964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/wabi-20.jpg?resize=1200,620",
+      "savedAt": "2026-09-30T07:44:44.864Z",
+      "sourceId": "e7ce24fdf0ff6f011c211038b8bc41c4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-expands-chatgpt-s-plug-ins-with-app-like-in",
       "prompt_version": "1.0.0",
       "status": "published",

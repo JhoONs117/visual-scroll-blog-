@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-powered-app-maker-wabi-pivots-to-a-messaging-ex",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI-powered app maker Wabi pivots to a messaging experience",
+  "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+  "pubDate": "Tue, 29 Sep 2026 17:20:00 +0000",
+  "slides": [
+    "Wabi: the app that builds apps—now a messaging platform?",
+    "Its AI tool lets anyone create apps without code.",
+    "But the real surprise: Wabi's pivot targets WhatsApp, not app stores.",
+    "Users will soon message Wabi to build and launch apps instantly.",
+    "Ask: will conversational creation make traditional app builders obsolete?"
+  ],
+  "thread_text": [
+    "1. Messaging App Builds Apps\n\nWabi started as a no-code tool for anyone to build apps. Now it's pivoting to let you build them inside WhatsApp.",
+    "2. No Code, No App Store\n\nInstead of publishing to app stores, Wabi lets users message an AI to create and launch apps instantly.",
+    "3. ChatGPT for Apps?\n\nIf you can describe it in a text, Wabi's AI will build it. No technical skills needed.",
+    "4. WhatsApp Is the New OS\n\nWabi's pivot targets WhatsApp, not app stores. That means billions of users could soon build apps without leaving their chat.",
+    "5. Will This Kill App Builders?\n\nCan conversational creation replace traditional tools? Try building a simple app via a chat prompt this week. Does it feel faster?"
+  ],
+  "video_script": [
+    "Wabi: the app that builds apps.",
+    "Now you can build apps without code.",
+    "But the real surprise: it's for WhatsApp.",
+    "Just message Wabi to build and launch apps.",
+    "Will conversational creation make app builders obsolete?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Messaging App Builds Apps\n\nWabi started as a no-code tool for anyone to build apps. Now it's pivoting to let you build them inside WhatsApp.",
+        "2. No Code, No App Store\n\nInstead of publishing to app stores, Wabi lets users message an AI to create and launch apps instantly.",
+        "3. ChatGPT for Apps?\n\nIf you can describe it in a text, Wabi's AI will build it. No technical skills needed.",
+        "4. WhatsApp Is the New OS\n\nWabi's pivot targets WhatsApp, not app stores. That means billions of users could soon build apps without leaving their chat.",
+        "5. Will This Kill App Builders?\n\nCan conversational creation replace traditional tools? Try building a simple app via a chat prompt this week. Does it feel faster?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Wabi: the app that builds apps.",
+        "Now you can build apps without code.",
+        "But the real surprise: it's for WhatsApp.",
+        "Just message Wabi to build and launch apps.",
+        "Will conversational creation make app builders obsolete?"
+      ]
+    },
+    "instagram": {
+      "caption": "You'll soon build an app by texting it into a chat, no code and no app store.\n\nWabi started as a no-code tool that let anyone create apps.\n\nNow it's pivoting to messaging: users will message its AI to build and launch apps instantly.\n\nThe target isn't app stores — it's WhatsApp, where billions already spend their day. 📱\n\nSo if you make or publish tools, your next competitor might be a single text. 🤖\n\nWould you trust a chat prompt to ship something real? 👀"
+    }
+  },
+  "instagram_caption": "You'll soon build an app by texting it into a chat, no code and no app store.\n\nWabi started as a no-code tool that let anyone create apps.\n\nNow it's pivoting to messaging: users will message its AI to build and launch apps instantly.\n\nThe target isn't app stores — it's WhatsApp, where billions already spend their day. 📱\n\nSo if you make or publish tools, your next competitor might be a single text. 🤖\n\nWould you trust a chat prompt to ship something real? 👀",
+  "carousel_slides": [
+    {
+      "hook": "WhatsApp is the new app store?",
+      "description": "Wabi pivots from no-code tool to messaging platform, letting billions build apps inside WhatsApp without app stores.",
+      "visual_hint": "Smartphone with chat bubbles, app icons",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone chat"
+    },
+    {
+      "hook": "No code needed, just message",
+      "description": "Wabi's AI lets anyone create apps by describing them in text, eliminating technical skills and traditional app builders.",
+      "visual_hint": "Hand typing on phone, AI code",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "person typing smartphone",
+      "image": "https://images.pexels.com/photos/6669795/pexels-photo-6669795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Forget app stores, chat to build",
+      "description": "Instead of publishing to app stores, users message Wabi's AI to instantly create and launch apps.",
+      "visual_hint": "Chat interface with app icon emerging",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "chat interface app",
+      "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Billions could build via chat",
+      "description": "Wabi targets WhatsApp's massive user base, enabling instant app creation without leaving the messaging app.",
+      "visual_hint": "Global network, WhatsApp logo, users",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "global network whatsapp",
+      "image": "https://images.pexels.com/photos/8542360/pexels-photo-8542360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Will conversational creation kill app builders?",
+      "description": "Try building a simple app via a chat prompt this week and see if it feels faster than traditional tools.",
+      "visual_hint": "Split screen: code vs chat",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "split screen code chat",
+      "image": "https://images.pexels.com/photos/3861964/pexels-photo-3861964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/wabi-20.jpg?resize=1200,620",
+  "savedAt": "2026-09-30T07:44:44.864Z",
+  "sourceId": "e7ce24fdf0ff6f011c211038b8bc41c4"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-researchers-put-out-videos-saying-superintellig",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+  "pubDate": "2026-09-29T17:35:03.000Z",
+  "slides": [
+    "Superintelligence: exactly as dangerous as it sounds?",
+    "Top AI researchers just released videos warning the public",
+    "But many of those same researchers are building it",
+    "Your job, data, and decisions are now the test case",
+    "Ask your AI vendor one hard question this week"
+  ],
+  "thread_text": [
+    "1. Dangerous exactly as it sounds\n\nTop AI researchers just released videos warning the public about superintelligence risks. Many of those same researchers are building it.",
+    "2. Who exactly is in danger\n\nThe warnings target superintelligence, not today's chatbots. But the race to build it is already shaping your job, data, and decisions.",
+    "3. The builders are also the warned\n\nLeading AI labs employ these researchers and fund the videos. They know the risks better than anyone and still continue.",
+    "4. Your job is the test case\n\nCompanies are deploying AI tools into hiring, lending, and medical triage right now. You rarely get to see the safety tests.",
+    "5. Ask your AI vendor this week\n\nAsk: If this model fails on my data, who is liable? If you haven't asked, start there. Test the answer on a real workflow."
+  ],
+  "video_script": [
+    "Five slides about AI superintelligence",
+    "Researchers warn the public, but they build it",
+    "Your job and data are the test case",
+    "Ask your AI vendor one hard question",
+    "Who is liable when the model fails"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Dangerous exactly as it sounds\n\nTop AI researchers just released videos warning the public about superintelligence risks. Many of those same researchers are building it.",
+        "2. Who exactly is in danger\n\nThe warnings target superintelligence, not today's chatbots. But the race to build it is already shaping your job, data, and decisions.",
+        "3. The builders are also the warned\n\nLeading AI labs employ these researchers and fund the videos. They know the risks better than anyone and still continue.",
+        "4. Your job is the test case\n\nCompanies are deploying AI tools into hiring, lending, and medical triage right now. You rarely get to see the safety tests.",
+        "5. Ask your AI vendor this week\n\nAsk: If this model fails on my data, who is liable? If you haven't asked, start there. Test the answer on a real workflow."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Five slides about AI superintelligence",
+        "Researchers warn the public, but they build it",
+        "Your job and data are the test case",
+        "Ask your AI vendor one hard question",
+        "Who is liable when the model fails"
+      ]
+    },
+    "instagram": {
+      "caption": "Superintelligence is \"exactly as dangerous as it sounds.\" That's the warning top AI researchers just put in public videos.\n\nThey know the risks best because many of them are building it at the labs funding those same videos.\n\nMeanwhile AI already screens resumes, loans, and medical cases, and you rarely see the safety tests behind those tools.\n\nIf you create or publish content, your data and workflow are the live test case, not a future scenario.\n\nAsk your AI vendor this week: if this model fails on my data, who is liable? ⚠️\n\nThen test the answer on one real task. 🧪"
+    }
+  },
+  "instagram_caption": "Superintelligence is \"exactly as dangerous as it sounds.\" That's the warning top AI researchers just put in public videos.\n\nThey know the risks best because many of them are building it at the labs funding those same videos.\n\nMeanwhile AI already screens resumes, loans, and medical cases, and you rarely see the safety tests behind those tools.\n\nIf you create or publish content, your data and workflow are the live test case, not a future scenario.\n\nAsk your AI vendor this week: if this model fails on my data, who is liable? ⚠️\n\nThen test the answer on one real task. 🧪",
+  "carousel_slides": [
+    {
+      "hook": "They build it, then warn us?",
+      "description": "Leading AI labs employ researchers who publicly warn about superintelligence dangers, yet continue building it. They know the risks best and still proceed.",
+      "visual_hint": "Researcher silhouette against glowing screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Warnings target superintelligence, not chatbots",
+      "description": "The alert focuses on future superintelligence, but the race is already impacting your job, data, and decisions today.",
+      "visual_hint": "Split screen: chatbot vs superintelligence concept",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Same researchers funding the warnings",
+      "description": "AI labs fund these warning videos. The people who understand the risks best keep building anyway.",
+      "visual_hint": "Money flowing from lab to video production",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your job is the test case",
+      "description": "AI tools now decide hiring, lending, and medical triage. You rarely see the safety tests behind them.",
+      "visual_hint": "Hand using AI interface for decision",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Ask your AI vendor today.",
+      "description": "Ask: If this model fails on my data, who is liable? Test the answer on a real workflow now.",
+      "visual_hint": "Person asking question to vendor table",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "business meeting",
+      "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-30T07:44:59.753Z",
+  "sourceId": "b8eb1ff5c01db2552cccf34a1e46f175"
+}

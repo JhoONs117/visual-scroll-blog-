@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-launches-dots-its-muse-competitor",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI launches Dots, its Muse competitor",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+  "pubDate": "2026-09-29T17:15:00.000Z",
+  "slides": [
+    "Can OpenAI's Dots outcreate Adobe Muse?",
+    "It generates vector art from text prompts",
+    "But early tests show it struggles with complex layouts",
+    "Designers can now iterate entire brand kits in minutes",
+    "Try one rebrand concept before competitors do"
+  ],
+  "thread_text": [
+    "1. OpenAI Dots vs Adobe Muse\n\nA new tool generates vector art from text prompts — and early testers say it can rebuild an entire brand kit in minutes.",
+    "2. Early Tests Struggle\n\nComplex layouts — nested grids, multi-column compositions — break the output. Simple icons and logos work fine.",
+    "3. Designers Iterate Fast\n\nSpeed changes the workflow: instead of one concept, you can explore fifty directions before lunch.",
+    "4. Your Competitors Move First\n\nIf they're already testing prompts, they'll ship rebrands while you're still sketching mood boards.",
+    "5. Try One Rebrand Today\n\nTake a real client prompt and run it through Dots. If the output needs heavy editing, ask: is the saved time worth the extra pass?"
+  ],
+  "video_script": [
+    "OpenAI's new tool Dots turns text into vector art fast.",
+    "Early tests show it breaks on complex layouts with nested grids.",
+    "Designers can now iterate entire brand kits in minutes.",
+    "Your competitors might already be testing prompts for rebrands.",
+    "Try one rebrand concept today and see if it works."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI Dots vs Adobe Muse\n\nA new tool generates vector art from text prompts — and early testers say it can rebuild an entire brand kit in minutes.",
+        "2. Early Tests Struggle\n\nComplex layouts — nested grids, multi-column compositions — break the output. Simple icons and logos work fine.",
+        "3. Designers Iterate Fast\n\nSpeed changes the workflow: instead of one concept, you can explore fifty directions before lunch.",
+        "4. Your Competitors Move First\n\nIf they're already testing prompts, they'll ship rebrands while you're still sketching mood boards.",
+        "5. Try One Rebrand Today\n\nTake a real client prompt and run it through Dots. If the output needs heavy editing, ask: is the saved time worth the extra pass?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI's new tool Dots turns text into vector art fast.",
+        "Early tests show it breaks on complex layouts with nested grids.",
+        "Designers can now iterate entire brand kits in minutes.",
+        "Your competitors might already be testing prompts for rebrands.",
+        "Try one rebrand concept today and see if it works."
+      ]
+    },
+    "instagram": {
+      "caption": "Typing \"minimalist coffee brand, earthy tones\" now gets you vector art in seconds.\n\nOpenAI launched Dots, a direct competitor to Adobe Muse.\n\nEarly tests: simple icons and logos work. Nested grids and multi-column layouts break.\n\nYou can now iterate an entire brand kit in minutes instead of days.\n\nIf your competitors already test prompts, they'll ship rebrands before you finish mood boards.\n\nGrab one real client prompt and run it through Dots. Does the saved time survive the cleanup? 🎨⚡"
+    }
+  },
+  "instagram_caption": "Typing \"minimalist coffee brand, earthy tones\" now gets you vector art in seconds.\n\nOpenAI launched Dots, a direct competitor to Adobe Muse.\n\nEarly tests: simple icons and logos work. Nested grids and multi-column layouts break.\n\nYou can now iterate an entire brand kit in minutes instead of days.\n\nIf your competitors already test prompts, they'll ship rebrands before you finish mood boards.\n\nGrab one real client prompt and run it through Dots. Does the saved time survive the cleanup? 🎨⚡",
+  "carousel_slides": [
+    {
+      "hook": "Can AI really replace Adobe Muse?",
+      "description": "OpenAI's Dots generates vector art from text prompts, but early tests reveal it breaks on complex layouts. Simple icons work fine.",
+      "visual_hint": "Split screen: simple icon vs broken grid",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "vector graphic design"
+    },
+    {
+      "hook": "Text prompts now create vector art",
+      "description": "Dots turns words into vector graphics instantly, but nested grids and multi-column compositions fail, limiting professional use.",
+      "visual_hint": "Text prompt turning into vector shapes",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "text to image ai",
+      "image": "https://images.pexels.com/photos/16245253/pexels-photo-16245253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Complex layouts break AI output",
+      "description": "Nested grids and multi-column compositions fail in early tests, while simple logos and icons succeed without editing.",
+      "visual_hint": "Broken grid with red X marks",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "broken grid layout",
+      "image": "https://images.pexels.com/photos/38312499/pexels-photo-38312499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Iterate fifty brand kits before lunch",
+      "description": "Designers can now explore dozens of brand directions in minutes, shifting workflow from one concept to rapid iteration.",
+      "visual_hint": "Designer hands shuffling brand cards",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "designer hands working",
+      "image": "https://images.pexels.com/photos/12902985/pexels-photo-12902985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before competitors rebrand",
+      "description": "Run one real client prompt through Dots today. If output needs heavy editing, ask: is saved time worth the extra pass?",
+      "visual_hint": "Prompt input box with cursor blinking",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "computer prompt screen",
+      "image": "https://images.pexels.com/photos/16027823/pexels-photo-16027823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dots-Hero-Image.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+  "savedAt": "2026-09-30T07:45:07.309Z",
+  "sourceId": "9c75674b313ac967839662ad64952f45"
+}

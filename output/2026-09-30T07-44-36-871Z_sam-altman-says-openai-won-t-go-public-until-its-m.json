@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "sam-altman-says-openai-won-t-go-public-until-its-m",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+  "pubDate": "2026-09-30T00:19:13.000Z",
+  "slides": [
+    "Will OpenAI ever go public?",
+    "Sam Altman ties IPO to AI safety first",
+    "But safety has no agreed definition",
+    "Founders can now delay investor exits indefinitely",
+    "Ask: who decides safe enough?"
+  ],
+  "thread_text": [
+    "1. OpenAI's IPO Paradox\n\nSam Altman says going public depends on AI safety – but safety has no agreed definition. So who really decides?",
+    "2. Altman's Safety Condition\n\nHe tied the IPO to safety first. That sounds noble, but it leaves the timing entirely in his hands.",
+    "3. Safety Is Undefined\n\nNo universal standard exists for 'safe AI'. Without a benchmark, 'safe enough' becomes a judgment call.",
+    "4. Founders Can Delay Exits\n\nNew structures let founders postpone investor payouts indefinitely. Altman's safety clause fits that playbook.",
+    "5. Who Decides Safe Enough?\n\nTake a prompt on ChatGPT and ask it to define AI safety. Then ask yourself: would you trust that answer to time a trillion-dollar IPO?"
+  ],
+  "video_script": [
+    "Sam Altman says OpenAI will go public only when AI is safe.",
+    "But nobody agrees on what safe actually means.",
+    "So he gets to decide when it's safe enough.",
+    "New rules let founders delay investor payouts indefinitely.",
+    "Ask yourself: who should really decide?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI's IPO Paradox\n\nSam Altman says going public depends on AI safety – but safety has no agreed definition. So who really decides?",
+        "2. Altman's Safety Condition\n\nHe tied the IPO to safety first. That sounds noble, but it leaves the timing entirely in his hands.",
+        "3. Safety Is Undefined\n\nNo universal standard exists for 'safe AI'. Without a benchmark, 'safe enough' becomes a judgment call.",
+        "4. Founders Can Delay Exits\n\nNew structures let founders postpone investor payouts indefinitely. Altman's safety clause fits that playbook.",
+        "5. Who Decides Safe Enough?\n\nTake a prompt on ChatGPT and ask it to define AI safety. Then ask yourself: would you trust that answer to time a trillion-dollar IPO?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Sam Altman says OpenAI will go public only when AI is safe.",
+        "But nobody agrees on what safe actually means.",
+        "So he gets to decide when it's safe enough.",
+        "New rules let founders delay investor payouts indefinitely.",
+        "Ask yourself: who should really decide?"
+      ]
+    },
+    "instagram": {
+      "caption": "Sam Altman said OpenAI won't go public until its models are \"safe\" — a condition with no agreed definition 🤔\n\nThat means the timing of a trillion-dollar exit sits entirely in his hands.\n\nNo universal benchmark for AI safety exists, so \"safe enough\" stays a judgment call.\n\nNew founder-friendly structures let him delay investor payouts indefinitely anyway.\n\nIf you build or publish with OpenAI's tools, your roadmap depends on a decision no one can measure or audit 🔍\n\nSo who actually gets to decide when AI is safe enough to go public? ⏳"
+    }
+  },
+  "instagram_caption": "Sam Altman said OpenAI won't go public until its models are \"safe\" — a condition with no agreed definition 🤔\n\nThat means the timing of a trillion-dollar exit sits entirely in his hands.\n\nNo universal benchmark for AI safety exists, so \"safe enough\" stays a judgment call.\n\nNew founder-friendly structures let him delay investor payouts indefinitely anyway.\n\nIf you build or publish with OpenAI's tools, your roadmap depends on a decision no one can measure or audit 🔍\n\nSo who actually gets to decide when AI is safe enough to go public? ⏳",
+  "carousel_slides": [
+    {
+      "hook": "Who decides when AI is safe enough?",
+      "description": "Sam Altman says OpenAI's IPO depends on AI safety, but no agreed definition of 'safe' exists today.",
+      "visual_hint": "OpenAI logo on dark background",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Altman ties IPO to safety first",
+      "description": "He made safety a condition for going public, but that leaves the timing entirely in his hands.",
+      "visual_hint": "Handshake over contract document",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Safety has no agreed definition",
+      "description": "No universal benchmark exists for safe AI. Without one, 'safe enough' becomes a subjective judgment call.",
+      "visual_hint": "Question mark over circuit board",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "circuit board closeup",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Founders can delay investor exits indefinitely",
+      "description": "New corporate structures let founders postpone investor payouts. Altman's safety clause fits that pattern.",
+      "visual_hint": "Calendar with blocked exit dates",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers meeting",
+      "image": "https://images.pexels.com/photos/12903171/pexels-photo-12903171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next ChatGPT prompt",
+      "description": "Ask ChatGPT to define AI safety, then ask yourself: would you trust that answer to time a trillion-dollar IPO?",
+      "visual_hint": "Phone screen with ChatGPT interface",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "people using smartphone",
+      "image": "https://images.pexels.com/photos/7279328/pexels-photo-7279328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-30T07:44:52.027Z",
+  "sourceId": "a3f4cfd233094b1b6d2c6155d077d122"
+}
