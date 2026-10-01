@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-cuts-ties-with-3-safety-researchers-wsj-rep",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+  "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+  "pubDate": "Thu, 01 Oct 2026 18:14:42 +0000",
+  "slides": [
+    "OpenAI just cut three safety researchers—what's really behind it?",
+    "The departures were reported by The Wall Street Journal.",
+    "They left in the middle of a high-stakes AI safety review.",
+    "If you use OpenAI's tools, your risk model may be outdated.",
+    "Demand independent safety audits before your next deployment."
+  ],
+  "thread_text": [
+    "1. OpenAI's Safety Departures\n\nThe Wall Street Journal reported three safety researchers left OpenAI in the middle of a high-stakes AI safety review.",
+    "2. Why They Left Matters\n\nThe timing suggests internal disagreement over how to assess risks before releasing new models.",
+    "3. Your Risk Model Is Outdated\n\nIf you use OpenAI's tools, the safety assumptions you built your deployment on may no longer hold.",
+    "4. No Independent Verification\n\nWithout external audits, companies can keep their safety findings private—even when key reviewers walk out.",
+    "5. Demand Audits Before Deploying\n\nAsk your AI vendor for independent safety audit results. If they can't provide them, delay your next deployment."
+  ],
+  "video_script": [
+    "OpenAI just lost three safety researchers.",
+    "They left during a high-stakes safety review.",
+    "That means your risk model may be stale.",
+    "You rely on OpenAI, but audits stay private.",
+    "Demand independent safety audits before your next deployment."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI's Safety Departures\n\nThe Wall Street Journal reported three safety researchers left OpenAI in the middle of a high-stakes AI safety review.",
+        "2. Why They Left Matters\n\nThe timing suggests internal disagreement over how to assess risks before releasing new models.",
+        "3. Your Risk Model Is Outdated\n\nIf you use OpenAI's tools, the safety assumptions you built your deployment on may no longer hold.",
+        "4. No Independent Verification\n\nWithout external audits, companies can keep their safety findings private—even when key reviewers walk out.",
+        "5. Demand Audits Before Deploying\n\nAsk your AI vendor for independent safety audit results. If they can't provide them, delay your next deployment."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI just lost three safety researchers.",
+        "They left during a high-stakes safety review.",
+        "That means your risk model may be stale.",
+        "You rely on OpenAI, but audits stay private.",
+        "Demand independent safety audits before your next deployment."
+      ]
+    },
+    "instagram": {
+      "caption": "Three safety researchers left OpenAI in the middle of a high-stakes safety review, per The Wall Street Journal. 🚨\n\nThe timing suggests real disagreement over how to assess risks before releasing new models.\n\nIf you use OpenAI's tools, the safety assumptions your deployment was built on may no longer hold. ⚠️\n\nNo independent verification means you can't confirm what's still being checked — or by whom. 👀\n\nBefore your next deployment, ask your AI vendor for independent safety audit results. If they can't provide them, delay. 🛑\n\nWould you ship on safety claims you can't verify?"
+    }
+  },
+  "instagram_caption": "Three safety researchers left OpenAI in the middle of a high-stakes safety review, per The Wall Street Journal. 🚨\n\nThe timing suggests real disagreement over how to assess risks before releasing new models.\n\nIf you use OpenAI's tools, the safety assumptions your deployment was built on may no longer hold. ⚠️\n\nNo independent verification means you can't confirm what's still being checked — or by whom. 👀\n\nBefore your next deployment, ask your AI vendor for independent safety audit results. If they can't provide them, delay. 🛑\n\nWould you ship on safety claims you can't verify?",
+  "carousel_slides": [
+    {
+      "hook": "Your outdated risk model just expired",
+      "description": "Three OpenAI safety researchers left mid-review, so safety assumptions you built deployments on may no longer hold.",
+      "visual_hint": "Empty office chair at desk",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "office desk"
+    },
+    {
+      "hook": "The Wall Street Journal reported the exits",
+      "description": "The departures were reported by The Wall Street Journal during a high-stakes AI safety review.",
+      "visual_hint": "Newspaper with headline visible",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "newspaper stack",
+      "image": "https://images.pexels.com/photos/14604033/pexels-photo-14604033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "They left before finishing the assessment",
+      "description": "Their timing suggests internal disagreement over how to assess risks before releasing new models.",
+      "visual_hint": "Close-up of unfinished checklist",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "safety checklist",
+      "image": "https://images.pexels.com/photos/7937679/pexels-photo-7937679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No independent verification exists for users",
+      "description": "Without external audits, companies can keep safety findings private, even when key reviewers walk out.",
+      "visual_hint": "Hand holding locked folder",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "locked folder",
+      "image": "https://images.pexels.com/photos/8297536/pexels-photo-8297536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demand audits before your next deployment",
+      "description": "Ask your AI vendor for independent safety audit results. If they can't provide them, delay your next deployment.",
+      "visual_hint": "Hand holding audit report",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "audit report",
+      "image": "https://images.pexels.com/photos/7947637/pexels-photo-7947637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-10-01T22:09:40.921Z",
+  "sourceId": "b56eb6fb25bd9dd2ee16e329ed1a9f40"
+}

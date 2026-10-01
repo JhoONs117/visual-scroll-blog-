@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-reportedly-tests-paying-publishers-for-ai-s",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google reportedly tests paying publishers for AI search results",
+  "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+  "pubDate": "2026-09-30T14:51:49.000Z",
+  "slides": [
+    "Can Google pay publishers and still own AI search?",
+    "It reportedly tests direct payments for content use",
+    "But only for some publishers, under unclear terms",
+    "Your site's traffic could shift based on who gets paid",
+    "Check if your content is part of the test today"
+  ],
+  "thread_text": [
+    "1. Google's Quiet Test\n\nGoogle is reportedly paying some publishers directly for content used in AI search. But not all publishers, and not on terms anyone has confirmed.",
+    "2. Who Gets Paid?\n\nThe test is selective. Publishers cut out of the deal could see their traffic drop as AI answers replace clicks to their sites.",
+    "3. The Traffic Shift\n\nIf your site depends on search traffic, the payment list is the new ranking. Not being on it may mean not being seen.",
+    "4. Terms Unknown\n\nGoogle hasn't explained how it picks partners, what it pays, or how long the test runs. That opacity is the real story for anyone publishing online.",
+    "5. Check Your Site Now\n\nSearch for your domain in Google's AI results. If your content appears without a click, you're already in the test — paid or not. Check today."
+  ],
+  "video_script": [
+    "Google is testing direct payments to some publishers.",
+    "But not all publishers, and the terms are unclear.",
+    "If you're not paid, your traffic could drop.",
+    "Your site's visibility may depend on that list.",
+    "Check if your content is in the test today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Google's Quiet Test\n\nGoogle is reportedly paying some publishers directly for content used in AI search. But not all publishers, and not on terms anyone has confirmed.",
+        "2. Who Gets Paid?\n\nThe test is selective. Publishers cut out of the deal could see their traffic drop as AI answers replace clicks to their sites.",
+        "3. The Traffic Shift\n\nIf your site depends on search traffic, the payment list is the new ranking. Not being on it may mean not being seen.",
+        "4. Terms Unknown\n\nGoogle hasn't explained how it picks partners, what it pays, or how long the test runs. That opacity is the real story for anyone publishing online.",
+        "5. Check Your Site Now\n\nSearch for your domain in Google's AI results. If your content appears without a click, you're already in the test — paid or not. Check today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google is testing direct payments to some publishers.",
+        "But not all publishers, and the terms are unclear.",
+        "If you're not paid, your traffic could drop.",
+        "Your site's visibility may depend on that list.",
+        "Check if your content is in the test today."
+      ]
+    },
+    "instagram": {
+      "caption": "Google is reportedly paying some publishers for content that feeds its AI search results.\n\nThe test is selective: only certain outlets are getting direct payments, and Google hasn't confirmed the terms, the amounts, or how long it runs.\n\nEveryone else keeps publishing while AI answers quietly absorb the clicks those publishers used to get.\n\nIf your site lives on search traffic, being left off that payment list could mean fewer visitors, not just fewer dollars. 📉\n\nSearch your own domain in Google's AI results today. If your content shows up with no click back to you, you're already in the test, paid or not. 👀\n\nWould you even know if Google used your work right now? 🤔"
+    }
+  },
+  "instagram_caption": "Google is reportedly paying some publishers for content that feeds its AI search results.\n\nThe test is selective: only certain outlets are getting direct payments, and Google hasn't confirmed the terms, the amounts, or how long it runs.\n\nEveryone else keeps publishing while AI answers quietly absorb the clicks those publishers used to get.\n\nIf your site lives on search traffic, being left off that payment list could mean fewer visitors, not just fewer dollars. 📉\n\nSearch your own domain in Google's AI results today. If your content shows up with no click back to you, you're already in the test, paid or not. 👀\n\nWould you even know if Google used your work right now? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Is Google paying publishers for AI?",
+      "description": "Google reportedly pays some publishers directly for AI search content, but only select partners under unconfirmed terms.",
+      "visual_hint": "Google logo on smartphone screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Google logo smartphone"
+    },
+    {
+      "hook": "Who really gets paid?",
+      "description": "The payment test is selective; excluded publishers may see traffic drop as AI answers replace clicks.",
+      "visual_hint": "Split view: paid vs unpaid publishers",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office workers computers",
+      "image": "https://images.pexels.com/photos/12903155/pexels-photo-12903155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Payment list is new ranking",
+      "description": "If your site depends on search traffic, not being on the payment list may mean not being seen.",
+      "visual_hint": "Glowing search results with dollar signs",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "search engine results page",
+      "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Terms remain completely unknown",
+      "description": "Google hasn't explained partner selection, payment amounts, or test duration; opacity is the real story.",
+      "visual_hint": "Blurred contract with question mark",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "contract document signing",
+      "image": "https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your site today",
+      "description": "Search your domain in Google AI results; if content appears without a click, you're in the test.",
+      "visual_hint": "Hand holding phone with search bar",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-01T22:10:05.790Z",
+  "sourceId": "338faf7edf9e9825e4cb2810eda372b4"
+}

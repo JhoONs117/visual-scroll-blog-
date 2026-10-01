@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "kevin-mandia-s-new-agent-swarm-security-startup-ar",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+  "link": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+  "pubDate": "Thu, 01 Oct 2026 21:55:22 +0000",
+  "slides": [
+    "Can 20 agents replace your security team?",
+    "Armadin, Kevin Mandia's new startup, just raised $255.5M.",
+    "Yet the tool doesn't fully replace human judgment.",
+    "You'll need to hire AI-savvy analysts to stay safe.",
+    "Test one agent on a real alert this week."
+  ],
+  "thread_text": [
+    "1. AI Agents Replace Security Teams?\n\nArmadin just raised $255.5M to deploy 20 autonomous agents that hunt threats. But the founder says they don't replace human judgment yet.",
+    "2. $255.5M Bet on Agents\n\nKevin Mandia's new startup Armadin raised a massive round to build AI security agents. The pitch: 20 agents can do the work of a team, but you still need people to guide them.",
+    "3. Humans Still in the Loop\n\nEven with 20 agents, the tool doesn't fully replace human judgment. You'll need AI-savvy analysts to interpret alerts and make final calls.",
+    "4. Hire AI-Savvy Analysts\n\nSecurity teams must adapt. The new role is not just monitoring — it's managing agents, tuning prompts, and knowing when to override the AI.",
+    "5. Test One Agent Today\n\nTake a real alert from your queue and run it through a single AI agent. See where it succeeds and where it fails. That gap is your new job description."
+  ],
+  "video_script": [
+    "Can twenty AI agents replace your security team?",
+    "Armadin raised two hundred fifty five million to try.",
+    "But the tool still needs human judgment to work.",
+    "So you will need AI-savvy analysts to stay safe.",
+    "Test one agent on a real alert this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Agents Replace Security Teams?\n\nArmadin just raised $255.5M to deploy 20 autonomous agents that hunt threats. But the founder says they don't replace human judgment yet.",
+        "2. $255.5M Bet on Agents\n\nKevin Mandia's new startup Armadin raised a massive round to build AI security agents. The pitch: 20 agents can do the work of a team, but you still need people to guide them.",
+        "3. Humans Still in the Loop\n\nEven with 20 agents, the tool doesn't fully replace human judgment. You'll need AI-savvy analysts to interpret alerts and make final calls.",
+        "4. Hire AI-Savvy Analysts\n\nSecurity teams must adapt. The new role is not just monitoring — it's managing agents, tuning prompts, and knowing when to override the AI.",
+        "5. Test One Agent Today\n\nTake a real alert from your queue and run it through a single AI agent. See where it succeeds and where it fails. That gap is your new job description."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can twenty AI agents replace your security team?",
+        "Armadin raised two hundred fifty five million to try.",
+        "But the tool still needs human judgment to work.",
+        "So you will need AI-savvy analysts to stay safe.",
+        "Test one agent on a real alert this week."
+      ]
+    },
+    "instagram": {
+      "caption": "20 AI agents could soon handle what a full security team does. 🛡️\n\nKevin Mandia's new startup Armadin just raised $255.5M at a $2.5B valuation to build exactly that.\n\nBut Mandia himself says the agents don't fully replace human judgment. Someone still has to read the alerts and make the final call.\n\nIf you work in security, your job is shifting from monitoring to managing agents — tuning them, and knowing when to override.\n\nGrab one real alert from your queue and run it through a single agent this week. Where it fails is your new job description.\n\nWould you trust 20 agents with your worst alert? 🤖"
+    }
+  },
+  "instagram_caption": "20 AI agents could soon handle what a full security team does. 🛡️\n\nKevin Mandia's new startup Armadin just raised $255.5M at a $2.5B valuation to build exactly that.\n\nBut Mandia himself says the agents don't fully replace human judgment. Someone still has to read the alerts and make the final call.\n\nIf you work in security, your job is shifting from monitoring to managing agents — tuning them, and knowing when to override.\n\nGrab one real alert from your queue and run it through a single agent this week. Where it fails is your new job description.\n\nWould you trust 20 agents with your worst alert? 🤖",
+  "carousel_slides": [
+    {
+      "hook": "Can AI agents replace human judgment?",
+      "description": "Armadin's 20 agents hunt threats but the founder admits they don't replace human judgment yet.",
+      "visual_hint": "Futuristic control room with agent avatars",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "server room"
+    },
+    {
+      "hook": "$255.5M bet on agent swarm",
+      "description": "Kevin Mandia's startup Armadin raised $255.5M at $2.5B valuation to deploy 20 autonomous security agents.",
+      "visual_hint": "Stack of cash next to glowing servers",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Humans still in the loop",
+      "description": "The tool doesn't fully replace human judgment; you'll need analysts to interpret alerts and override AI.",
+      "visual_hint": "Analyst hands typing on keyboard",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Hire AI-savvy analysts now",
+      "description": "Security teams must adapt: the new role is managing agents, tuning prompts, and knowing when to override.",
+      "visual_hint": "Team collaborating around a screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/18302592/pexels-photo-18302592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test one agent",
+      "description": "Take a real alert from your queue and run it through a single AI agent this week.",
+      "visual_hint": "Checklist with one agent highlighted",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+  "savedAt": "2026-10-01T22:09:25.896Z",
+  "sourceId": "07c30cc156c1fe770ec99aee6c7a03f7"
+}

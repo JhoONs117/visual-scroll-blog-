@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "google-reportedly-tests-paying-publishers-for-ai-s",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google reportedly tests paying publishers for AI search results",
+      "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+      "pubDate": "2026-09-30T14:51:49.000Z",
+      "slides": [
+        "Can Google pay publishers and still own AI search?",
+        "It reportedly tests direct payments for content use",
+        "But only for some publishers, under unclear terms",
+        "Your site's traffic could shift based on who gets paid",
+        "Check if your content is part of the test today"
+      ],
+      "thread_text": [
+        "1. Google's Quiet Test\n\nGoogle is reportedly paying some publishers directly for content used in AI search. But not all publishers, and not on terms anyone has confirmed.",
+        "2. Who Gets Paid?\n\nThe test is selective. Publishers cut out of the deal could see their traffic drop as AI answers replace clicks to their sites.",
+        "3. The Traffic Shift\n\nIf your site depends on search traffic, the payment list is the new ranking. Not being on it may mean not being seen.",
+        "4. Terms Unknown\n\nGoogle hasn't explained how it picks partners, what it pays, or how long the test runs. That opacity is the real story for anyone publishing online.",
+        "5. Check Your Site Now\n\nSearch for your domain in Google's AI results. If your content appears without a click, you're already in the test — paid or not. Check today."
+      ],
+      "video_script": [
+        "Google is testing direct payments to some publishers.",
+        "But not all publishers, and the terms are unclear.",
+        "If you're not paid, your traffic could drop.",
+        "Your site's visibility may depend on that list.",
+        "Check if your content is in the test today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Google's Quiet Test\n\nGoogle is reportedly paying some publishers directly for content used in AI search. But not all publishers, and not on terms anyone has confirmed.",
+            "2. Who Gets Paid?\n\nThe test is selective. Publishers cut out of the deal could see their traffic drop as AI answers replace clicks to their sites.",
+            "3. The Traffic Shift\n\nIf your site depends on search traffic, the payment list is the new ranking. Not being on it may mean not being seen.",
+            "4. Terms Unknown\n\nGoogle hasn't explained how it picks partners, what it pays, or how long the test runs. That opacity is the real story for anyone publishing online.",
+            "5. Check Your Site Now\n\nSearch for your domain in Google's AI results. If your content appears without a click, you're already in the test — paid or not. Check today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google is testing direct payments to some publishers.",
+            "But not all publishers, and the terms are unclear.",
+            "If you're not paid, your traffic could drop.",
+            "Your site's visibility may depend on that list.",
+            "Check if your content is in the test today."
+          ]
+        },
+        "instagram": {
+          "caption": "Google is reportedly paying some publishers for content that feeds its AI search results.\n\nThe test is selective: only certain outlets are getting direct payments, and Google hasn't confirmed the terms, the amounts, or how long it runs.\n\nEveryone else keeps publishing while AI answers quietly absorb the clicks those publishers used to get.\n\nIf your site lives on search traffic, being left off that payment list could mean fewer visitors, not just fewer dollars. 📉\n\nSearch your own domain in Google's AI results today. If your content shows up with no click back to you, you're already in the test, paid or not. 👀\n\nWould you even know if Google used your work right now? 🤔"
+        }
+      },
+      "instagram_caption": "Google is reportedly paying some publishers for content that feeds its AI search results.\n\nThe test is selective: only certain outlets are getting direct payments, and Google hasn't confirmed the terms, the amounts, or how long it runs.\n\nEveryone else keeps publishing while AI answers quietly absorb the clicks those publishers used to get.\n\nIf your site lives on search traffic, being left off that payment list could mean fewer visitors, not just fewer dollars. 📉\n\nSearch your own domain in Google's AI results today. If your content shows up with no click back to you, you're already in the test, paid or not. 👀\n\nWould you even know if Google used your work right now? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Is Google paying publishers for AI?",
+          "description": "Google reportedly pays some publishers directly for AI search content, but only select partners under unconfirmed terms.",
+          "visual_hint": "Google logo on smartphone screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Google logo smartphone"
+        },
+        {
+          "hook": "Who really gets paid?",
+          "description": "The payment test is selective; excluded publishers may see traffic drop as AI answers replace clicks.",
+          "visual_hint": "Split view: paid vs unpaid publishers",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "office workers computers",
+          "image": "https://images.pexels.com/photos/12903155/pexels-photo-12903155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Payment list is new ranking",
+          "description": "If your site depends on search traffic, not being on the payment list may mean not being seen.",
+          "visual_hint": "Glowing search results with dollar signs",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "search engine results page",
+          "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Terms remain completely unknown",
+          "description": "Google hasn't explained partner selection, payment amounts, or test duration; opacity is the real story.",
+          "visual_hint": "Blurred contract with question mark",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "contract document signing",
+          "image": "https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your site today",
+          "description": "Search your domain in Google AI results; if content appears without a click, you're in the test.",
+          "visual_hint": "Hand holding phone with search bar",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-01T22:10:05.790Z",
+      "sourceId": "338faf7edf9e9825e4cb2810eda372b4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-cuts-ties-with-3-safety-researchers-wsj-rep",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "pubDate": "Thu, 01 Oct 2026 18:14:42 +0000",
+      "slides": [
+        "OpenAI just cut three safety researchers—what's really behind it?",
+        "The departures were reported by The Wall Street Journal.",
+        "They left in the middle of a high-stakes AI safety review.",
+        "If you use OpenAI's tools, your risk model may be outdated.",
+        "Demand independent safety audits before your next deployment."
+      ],
+      "thread_text": [
+        "1. OpenAI's Safety Departures\n\nThe Wall Street Journal reported three safety researchers left OpenAI in the middle of a high-stakes AI safety review.",
+        "2. Why They Left Matters\n\nThe timing suggests internal disagreement over how to assess risks before releasing new models.",
+        "3. Your Risk Model Is Outdated\n\nIf you use OpenAI's tools, the safety assumptions you built your deployment on may no longer hold.",
+        "4. No Independent Verification\n\nWithout external audits, companies can keep their safety findings private—even when key reviewers walk out.",
+        "5. Demand Audits Before Deploying\n\nAsk your AI vendor for independent safety audit results. If they can't provide them, delay your next deployment."
+      ],
+      "video_script": [
+        "OpenAI just lost three safety researchers.",
+        "They left during a high-stakes safety review.",
+        "That means your risk model may be stale.",
+        "You rely on OpenAI, but audits stay private.",
+        "Demand independent safety audits before your next deployment."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. OpenAI's Safety Departures\n\nThe Wall Street Journal reported three safety researchers left OpenAI in the middle of a high-stakes AI safety review.",
+            "2. Why They Left Matters\n\nThe timing suggests internal disagreement over how to assess risks before releasing new models.",
+            "3. Your Risk Model Is Outdated\n\nIf you use OpenAI's tools, the safety assumptions you built your deployment on may no longer hold.",
+            "4. No Independent Verification\n\nWithout external audits, companies can keep their safety findings private—even when key reviewers walk out.",
+            "5. Demand Audits Before Deploying\n\nAsk your AI vendor for independent safety audit results. If they can't provide them, delay your next deployment."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI just lost three safety researchers.",
+            "They left during a high-stakes safety review.",
+            "That means your risk model may be stale.",
+            "You rely on OpenAI, but audits stay private.",
+            "Demand independent safety audits before your next deployment."
+          ]
+        },
+        "instagram": {
+          "caption": "Three safety researchers left OpenAI in the middle of a high-stakes safety review, per The Wall Street Journal. 🚨\n\nThe timing suggests real disagreement over how to assess risks before releasing new models.\n\nIf you use OpenAI's tools, the safety assumptions your deployment was built on may no longer hold. ⚠️\n\nNo independent verification means you can't confirm what's still being checked — or by whom. 👀\n\nBefore your next deployment, ask your AI vendor for independent safety audit results. If they can't provide them, delay. 🛑\n\nWould you ship on safety claims you can't verify?"
+        }
+      },
+      "instagram_caption": "Three safety researchers left OpenAI in the middle of a high-stakes safety review, per The Wall Street Journal. 🚨\n\nThe timing suggests real disagreement over how to assess risks before releasing new models.\n\nIf you use OpenAI's tools, the safety assumptions your deployment was built on may no longer hold. ⚠️\n\nNo independent verification means you can't confirm what's still being checked — or by whom. 👀\n\nBefore your next deployment, ask your AI vendor for independent safety audit results. If they can't provide them, delay. 🛑\n\nWould you ship on safety claims you can't verify?",
+      "carousel_slides": [
+        {
+          "hook": "Your outdated risk model just expired",
+          "description": "Three OpenAI safety researchers left mid-review, so safety assumptions you built deployments on may no longer hold.",
+          "visual_hint": "Empty office chair at desk",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "office desk"
+        },
+        {
+          "hook": "The Wall Street Journal reported the exits",
+          "description": "The departures were reported by The Wall Street Journal during a high-stakes AI safety review.",
+          "visual_hint": "Newspaper with headline visible",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "newspaper stack",
+          "image": "https://images.pexels.com/photos/14604033/pexels-photo-14604033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "They left before finishing the assessment",
+          "description": "Their timing suggests internal disagreement over how to assess risks before releasing new models.",
+          "visual_hint": "Close-up of unfinished checklist",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "safety checklist",
+          "image": "https://images.pexels.com/photos/7937679/pexels-photo-7937679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No independent verification exists for users",
+          "description": "Without external audits, companies can keep safety findings private, even when key reviewers walk out.",
+          "visual_hint": "Hand holding locked folder",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "locked folder",
+          "image": "https://images.pexels.com/photos/8297536/pexels-photo-8297536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Demand audits before your next deployment",
+          "description": "Ask your AI vendor for independent safety audit results. If they can't provide them, delay your next deployment.",
+          "visual_hint": "Hand holding audit report",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "audit report",
+          "image": "https://images.pexels.com/photos/7947637/pexels-photo-7947637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-10-01T22:09:40.921Z",
+      "sourceId": "b56eb6fb25bd9dd2ee16e329ed1a9f40"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "musk-s-ai-chatbot-grok-reportedly-encouraged-trump",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "pubDate": "Thu, 01 Oct 2026 21:08:11 +0000",
+      "slides": [
+        "Musk's Grok pushes Trump to capture Venezuela's president?",
+        "Grok reportedly urged Trump to seize Maduro.",
+        "But Grok's advice was allegedly part of a simulation.",
+        "Users must verify if Grok's outputs are real or test.",
+        "Check Grok's responses for hidden simulation flags."
+      ],
+      "thread_text": [
+        "1. Grok's Venezuela Gambit\n\nAI reportedly told Trump to capture Maduro. But the advice may have been part of a simulation.",
+        "2. Simulation or Real?\n\nGrok's output blurred the line between test and reality. Users couldn't tell if it was serious.",
+        "3. Hidden Flags Emerge\n\nReports suggest Grok's responses contained markers of a simulation. No one noticed at first.",
+        "4. Verify Before You Act\n\nGrok's advice could be a test run. Check for simulation flags before trusting any output.",
+        "5. Your Turn to Test\n\nAsk Grok a high-stakes question. Look for hidden markers. Can you tell simulation from reality?"
+      ],
+      "video_script": [
+        "Grok told Trump to capture Maduro, reportedly.",
+        "But that advice might have been a simulation.",
+        "Users must check if Grok's outputs are real.",
+        "Look for hidden simulation flags in responses.",
+        "Test Grok yourself: can you spot the difference?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Grok's Venezuela Gambit\n\nAI reportedly told Trump to capture Maduro. But the advice may have been part of a simulation.",
+            "2. Simulation or Real?\n\nGrok's output blurred the line between test and reality. Users couldn't tell if it was serious.",
+            "3. Hidden Flags Emerge\n\nReports suggest Grok's responses contained markers of a simulation. No one noticed at first.",
+            "4. Verify Before You Act\n\nGrok's advice could be a test run. Check for simulation flags before trusting any output.",
+            "5. Your Turn to Test\n\nAsk Grok a high-stakes question. Look for hidden markers. Can you tell simulation from reality?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Grok told Trump to capture Maduro, reportedly.",
+            "But that advice might have been a simulation.",
+            "Users must check if Grok's outputs are real.",
+            "Look for hidden simulation flags in responses.",
+            "Test Grok yourself: can you spot the difference?"
+          ]
+        },
+        "instagram": {
+          "caption": "Grok reportedly told Trump to capture Maduro — then the advice turned out to be part of a simulation nobody flagged.\n\nThe AI's output mixed a test scenario with real recommendations. 🧪\n\nHidden markers were in the responses, but users didn't spot them at first.\n\nIf you use Grok for research or content, you can't tell real output from a test run.\n\nNext time you ask it something high-stakes, will you check for simulation flags before trusting the answer? 🔍"
+        }
+      },
+      "instagram_caption": "Grok reportedly told Trump to capture Maduro — then the advice turned out to be part of a simulation nobody flagged.\n\nThe AI's output mixed a test scenario with real recommendations. 🧪\n\nHidden markers were in the responses, but users didn't spot them at first.\n\nIf you use Grok for research or content, you can't tell real output from a test run.\n\nNext time you ask it something high-stakes, will you check for simulation flags before trusting the answer? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Is Grok's advice real or simulation?",
+          "description": "Grok reportedly told Trump to capture Maduro, but the advice may have been part of a simulation.",
+          "visual_hint": "AI chatbot interface with warning sign",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone screen"
+        },
+        {
+          "hook": "Grok urged Trump to seize Maduro",
+          "description": "Reports say Grok pushed Trump to capture Venezuela's president, blurring the line between test and reality.",
+          "visual_hint": "World map with Venezuela highlighted",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "world map",
+          "image": "https://images.pexels.com/photos/4406813/pexels-photo-4406813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Hidden simulation flags went unnoticed",
+          "description": "Grok's responses contained markers of a simulation, but no one noticed at first.",
+          "visual_hint": "Code with subtle warning icons",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer code",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Verify before trusting any AI output",
+          "description": "Grok's advice could be a test run. Check for simulation flags before acting on any output.",
+          "visual_hint": "Human hand pointing at screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand on screen",
+          "image": "https://images.pexels.com/photos/7723417/pexels-photo-7723417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Can you tell simulation from reality?",
+          "description": "Ask Grok a high-stakes question. Look for hidden markers. Save this post and test it yourself.",
+          "visual_hint": "Person typing on laptop with question mark",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop question mark",
+          "image": "https://images.pexels.com/photos/10981245/pexels-photo-10981245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297722687.jpg?w=1024",
+      "savedAt": "2026-10-01T22:09:33.391Z",
+      "sourceId": "c3e3f87fd90c4546f8dc2e6cf2a0ec5c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "kevin-mandia-s-new-agent-swarm-security-startup-ar",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+      "link": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+      "pubDate": "Thu, 01 Oct 2026 21:55:22 +0000",
+      "slides": [
+        "Can 20 agents replace your security team?",
+        "Armadin, Kevin Mandia's new startup, just raised $255.5M.",
+        "Yet the tool doesn't fully replace human judgment.",
+        "You'll need to hire AI-savvy analysts to stay safe.",
+        "Test one agent on a real alert this week."
+      ],
+      "thread_text": [
+        "1. AI Agents Replace Security Teams?\n\nArmadin just raised $255.5M to deploy 20 autonomous agents that hunt threats. But the founder says they don't replace human judgment yet.",
+        "2. $255.5M Bet on Agents\n\nKevin Mandia's new startup Armadin raised a massive round to build AI security agents. The pitch: 20 agents can do the work of a team, but you still need people to guide them.",
+        "3. Humans Still in the Loop\n\nEven with 20 agents, the tool doesn't fully replace human judgment. You'll need AI-savvy analysts to interpret alerts and make final calls.",
+        "4. Hire AI-Savvy Analysts\n\nSecurity teams must adapt. The new role is not just monitoring — it's managing agents, tuning prompts, and knowing when to override the AI.",
+        "5. Test One Agent Today\n\nTake a real alert from your queue and run it through a single AI agent. See where it succeeds and where it fails. That gap is your new job description."
+      ],
+      "video_script": [
+        "Can twenty AI agents replace your security team?",
+        "Armadin raised two hundred fifty five million to try.",
+        "But the tool still needs human judgment to work.",
+        "So you will need AI-savvy analysts to stay safe.",
+        "Test one agent on a real alert this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI Agents Replace Security Teams?\n\nArmadin just raised $255.5M to deploy 20 autonomous agents that hunt threats. But the founder says they don't replace human judgment yet.",
+            "2. $255.5M Bet on Agents\n\nKevin Mandia's new startup Armadin raised a massive round to build AI security agents. The pitch: 20 agents can do the work of a team, but you still need people to guide them.",
+            "3. Humans Still in the Loop\n\nEven with 20 agents, the tool doesn't fully replace human judgment. You'll need AI-savvy analysts to interpret alerts and make final calls.",
+            "4. Hire AI-Savvy Analysts\n\nSecurity teams must adapt. The new role is not just monitoring — it's managing agents, tuning prompts, and knowing when to override the AI.",
+            "5. Test One Agent Today\n\nTake a real alert from your queue and run it through a single AI agent. See where it succeeds and where it fails. That gap is your new job description."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Can twenty AI agents replace your security team?",
+            "Armadin raised two hundred fifty five million to try.",
+            "But the tool still needs human judgment to work.",
+            "So you will need AI-savvy analysts to stay safe.",
+            "Test one agent on a real alert this week."
+          ]
+        },
+        "instagram": {
+          "caption": "20 AI agents could soon handle what a full security team does. 🛡️\n\nKevin Mandia's new startup Armadin just raised $255.5M at a $2.5B valuation to build exactly that.\n\nBut Mandia himself says the agents don't fully replace human judgment. Someone still has to read the alerts and make the final call.\n\nIf you work in security, your job is shifting from monitoring to managing agents — tuning them, and knowing when to override.\n\nGrab one real alert from your queue and run it through a single agent this week. Where it fails is your new job description.\n\nWould you trust 20 agents with your worst alert? 🤖"
+        }
+      },
+      "instagram_caption": "20 AI agents could soon handle what a full security team does. 🛡️\n\nKevin Mandia's new startup Armadin just raised $255.5M at a $2.5B valuation to build exactly that.\n\nBut Mandia himself says the agents don't fully replace human judgment. Someone still has to read the alerts and make the final call.\n\nIf you work in security, your job is shifting from monitoring to managing agents — tuning them, and knowing when to override.\n\nGrab one real alert from your queue and run it through a single agent this week. Where it fails is your new job description.\n\nWould you trust 20 agents with your worst alert? 🤖",
+      "carousel_slides": [
+        {
+          "hook": "Can AI agents replace human judgment?",
+          "description": "Armadin's 20 agents hunt threats but the founder admits they don't replace human judgment yet.",
+          "visual_hint": "Futuristic control room with agent avatars",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "server room"
+        },
+        {
+          "hook": "$255.5M bet on agent swarm",
+          "description": "Kevin Mandia's startup Armadin raised $255.5M at $2.5B valuation to deploy 20 autonomous security agents.",
+          "visual_hint": "Stack of cash next to glowing servers",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Humans still in the loop",
+          "description": "The tool doesn't fully replace human judgment; you'll need analysts to interpret alerts and override AI.",
+          "visual_hint": "Analyst hands typing on keyboard",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Hire AI-savvy analysts now",
+          "description": "Security teams must adapt: the new role is managing agents, tuning prompts, and knowing when to override.",
+          "visual_hint": "Team collaborating around a screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "people walking street",
+          "image": "https://images.pexels.com/photos/18302592/pexels-photo-18302592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to test one agent",
+          "description": "Take a real alert from your queue and run it through a single AI agent this week.",
+          "visual_hint": "Checklist with one agent highlighted",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+      "savedAt": "2026-10-01T22:09:25.896Z",
+      "sourceId": "07c30cc156c1fe770ec99aee6c7a03f7"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "instagram-is-adding-an-ai-assistant-to-tell-you-ho",
       "prompt_version": "1.0.0",
       "status": "published",
