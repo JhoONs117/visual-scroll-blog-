@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "destro-ai-s-secret-sauce-is-getting-robots-and-hum",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+    "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+    "pubDate": "Wed, 30 Sep 2026 16:00:00 +0000",
+    "slides": [
+      "Can robots and humans truly work in sync?",
+      "Destro AI solves a key coordination problem.",
+      "But the breakthrough came from unexpected source.",
+      "Your team can now deploy hybrid workflows.",
+      "Test one task with both robot and human."
+    ],
+    "thread_text": [
+      "1. Can Robots Truly Sync With Humans?\n\nA new AI system, Destro, just solved the coordination problem that's been blocking hybrid teams for years. But the real shock? It didn't come from robotics.",
+      "2. Destro's Unexpected Origin\n\nResearchers built it by studying how human teams adapt when plans break. The algorithm learns from improvisation, not rigid schedules.",
+      "3. The Twist Nobody Saw Coming\n\nThe breakthrough came from an old warehouse logistics problem. Destro repurposed a scheduling trick from food delivery apps to sync robot and human tasks in real time.",
+      "4. What This Means For Your Team\n\nYou can now deploy hybrid workflows where robots handle repetitive steps and humans jump in when judgment is needed. No new hardware required.",
+      "5. Test It On One Task Today\n\nPick a single repetitive task in your workflow. Run it with both a robot and a human using Destro's free trial. If you haven't done it, start there."
+    ],
+    "video_script": [
+      "Can robots and humans really work in sync?",
+      "Destro AI just solved the coordination problem.",
+      "But the breakthrough came from an unexpected source.",
+      "Your team can now deploy hybrid workflows.",
+      "Test one task with both robot and human."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can Robots Truly Sync With Humans?\n\nA new AI system, Destro, just solved the coordination problem that's been blocking hybrid teams for years. But the real shock? It didn't come from robotics.",
+          "2. Destro's Unexpected Origin\n\nResearchers built it by studying how human teams adapt when plans break. The algorithm learns from improvisation, not rigid schedules.",
+          "3. The Twist Nobody Saw Coming\n\nThe breakthrough came from an old warehouse logistics problem. Destro repurposed a scheduling trick from food delivery apps to sync robot and human tasks in real time.",
+          "4. What This Means For Your Team\n\nYou can now deploy hybrid workflows where robots handle repetitive steps and humans jump in when judgment is needed. No new hardware required.",
+          "5. Test It On One Task Today\n\nPick a single repetitive task in your workflow. Run it with both a robot and a human using Destro's free trial. If you haven't done it, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can robots and humans really work in sync?",
+          "Destro AI just solved the coordination problem.",
+          "But the breakthrough came from an unexpected source.",
+          "Your team can now deploy hybrid workflows.",
+          "Test one task with both robot and human."
+        ]
+      },
+      "instagram": {
+        "caption": "Researchers built a robot-human sync system by watching how people improvise when plans break, not by studying robots.\n\nDestro AI borrowed a scheduling trick from food delivery apps to keep robots and humans on the same task in real time.\n\nRobots handle the repetitive steps, humans jump in when judgment is needed. No new hardware. 🤖\n\nIf you run any workflow, you can test this on one task today with a free trial.\n\nWhich single task in your week would you hand to a robot first? 🔄"
+      }
+    },
+    "instagram_caption": "Researchers built a robot-human sync system by watching how people improvise when plans break, not by studying robots.\n\nDestro AI borrowed a scheduling trick from food delivery apps to keep robots and humans on the same task in real time.\n\nRobots handle the repetitive steps, humans jump in when judgment is needed. No new hardware. 🤖\n\nIf you run any workflow, you can test this on one task today with a free trial.\n\nWhich single task in your week would you hand to a robot first? 🔄",
+    "carousel_slides": [
+      {
+        "hook": "Robots and humans, finally in sync?",
+        "description": "Destro AI's coordination breakthrough didn't come from robotics—it came from studying how human teams improvise when plans break.",
+        "visual_hint": "Robot arm and human hand together",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "factory robot"
+      },
+      {
+        "hook": "The coordination problem that blocked hybrid teams",
+        "description": "Destro solved the synchronization gap by learning from human improvisation, not rigid schedules—enabling real-time task coordination.",
+        "visual_hint": "Split screen human robot workflow",
+        "layout_type": "right-focus",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The breakthrough came from food delivery apps",
+        "description": "Destro repurposed a scheduling trick from warehouse logistics and delivery apps to sync robot and human tasks in real time.",
+        "visual_hint": "Delivery app map with routes",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "delivery truck",
+        "image": "https://images.pexels.com/photos/18885403/pexels-photo-18885403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Deploy hybrid workflows without new hardware",
+        "description": "Robots handle repetitive steps while humans jump in for judgment calls—no new hardware required for your team.",
+        "visual_hint": "Human and robot collaborating on assembly",
+        "layout_type": "human-hand",
+        "icon": "check",
+        "image_query": "assembly line",
+        "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: test one task today",
+        "description": "Pick a single repetitive task. Run it with both a robot and a human using Destro's free trial. Start now.",
+        "visual_hint": "Checklist with robot and human icons",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Destro-AI-Announcement-Cover.png?resize=1200,800",
+    "savedAt": "2026-10-01T00:56:19.309Z",
+    "sourceId": "ac11aaa6e810f103515b430dfa72926c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "doordash-launches-an-ai-agent-you-can-text-to-orde",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "DoorDash launches an AI agent you can text to order food",
+    "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+    "pubDate": "Wed, 30 Sep 2026 16:00:24 +0000",
+    "slides": [
+      "Can texting DoorDash replace scrolling menus?",
+      "Its AI agent takes orders via SMS",
+      "But it second-guesses special requests",
+      "Expect it messy on custom combos",
+      "Test it on your weirdest order tonight"
+    ],
+    "thread_text": [
+      "1. Forget menus, just text\n\nDoorDash's new AI agent takes your order via SMS. No app, no scrolling. It's a full conversation with a bot that remembers your usual.",
+      "2. AI that chats back\n\nYou text what you want. The agent asks follow-up questions, suggests add-ons, and confirms. It's like ordering from a friend who knows the menu.",
+      "3. When AI gets picky\n\nSpecial requests like 'no onions' work fine. But ask for extra sauce on the side? The agent second-guesses and may mess up.",
+      "4. Custom combos = chaos\n\nTry ordering a burger with no bun, extra pickles, and a side of ranch. The AI gets confused. Expect errors on anything non-standard.",
+      "5. Test your weirdest order\n\nTonight, text DoorDash your craziest combo. See if the AI nails it or flakes. Share the result—would you trust it again?"
+    ],
+    "video_script": [
+      "DoorDash now lets you order by texting.",
+      "The AI agent chats back and confirms.",
+      "But special requests make it second-guess.",
+      "Weird custom combos often get messed up.",
+      "Test your strangest order tonight and see."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Forget menus, just text\n\nDoorDash's new AI agent takes your order via SMS. No app, no scrolling. It's a full conversation with a bot that remembers your usual.",
+          "2. AI that chats back\n\nYou text what you want. The agent asks follow-up questions, suggests add-ons, and confirms. It's like ordering from a friend who knows the menu.",
+          "3. When AI gets picky\n\nSpecial requests like 'no onions' work fine. But ask for extra sauce on the side? The agent second-guesses and may mess up.",
+          "4. Custom combos = chaos\n\nTry ordering a burger with no bun, extra pickles, and a side of ranch. The AI gets confused. Expect errors on anything non-standard.",
+          "5. Test your weirdest order\n\nTonight, text DoorDash your craziest combo. See if the AI nails it or flakes. Share the result—would you trust it again?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "DoorDash now lets you order by texting.",
+          "The AI agent chats back and confirms.",
+          "But special requests make it second-guess.",
+          "Weird custom combos often get messed up.",
+          "Test your strangest order tonight and see."
+        ]
+      },
+      "instagram": {
+        "caption": "You can now order dinner by sending a text instead of opening an app.\n\nDoorDash launched an AI agent that takes your order over SMS and remembers your usual. 😮\n\nIt handles simple tweaks like “no onions” fine, but second-guesses anything custom.\n\nAsk for a burger with no bun and a side of ranch, and it gets confused. 😅\n\nIf you post food content, save your weirdest combo as a test case, because your audience will ask how the bot handles it. 🍔\n\nWhat’s the strangest order you’d text it tonight? 🤖"
+      }
+    },
+    "instagram_caption": "You can now order dinner by sending a text instead of opening an app.\n\nDoorDash launched an AI agent that takes your order over SMS and remembers your usual. 😮\n\nIt handles simple tweaks like “no onions” fine, but second-guesses anything custom.\n\nAsk for a burger with no bun and a side of ranch, and it gets confused. 😅\n\nIf you post food content, save your weirdest combo as a test case, because your audience will ask how the bot handles it. 🍔\n\nWhat’s the strangest order you’d text it tonight? 🤖",
+    "carousel_slides": [
+      {
+        "hook": "Can texting replace scrolling menus?",
+        "description": "DoorDash's AI agent takes orders via SMS, no app needed. It remembers your usual and chats back.",
+        "visual_hint": "Phone screen with chat bubble conversation",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone text message"
+      },
+      {
+        "hook": "AI that chats back and remembers",
+        "description": "You text what you want; the agent asks follow-ups, suggests add-ons, and confirms like a friend.",
+        "visual_hint": "Person texting on phone at table",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "person texting phone",
+        "image": "https://images.pexels.com/photos/9898392/pexels-photo-9898392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "But it second-guesses special requests",
+        "description": "Simple asks like 'no onions' work, but extra sauce on the side may confuse the AI and cause errors.",
+        "visual_hint": "Close-up of sauce packets on side",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "sauce packets closeup",
+        "image": "https://images.pexels.com/photos/36372509/pexels-photo-36372509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Custom combos become total chaos",
+        "description": "Ordering a burger with no bun, extra pickles, and ranch? The AI gets confused and makes mistakes on non-standard items.",
+        "visual_hint": "Burger with unusual toppings and no bun",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "burger no bun",
+        "image": "https://images.pexels.com/photos/4253700/pexels-photo-4253700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and test your weirdest order",
+        "description": "Tonight, text DoorDash your craziest combo. Share the result and see if you'd trust it again.",
+        "visual_hint": "Phone with chat and food emojis",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "phone food emoji",
+        "image": "https://images.pexels.com/photos/9822668/pexels-photo-9822668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-11.47.10-AM.png?w=982",
+    "savedAt": "2026-10-01T00:56:11.385Z",
+    "sourceId": "68dcdac188f44e2191390d70b23a9489"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "valor-atreides-and-sequoia-back-ai-startup-flow-en",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "pubDate": "Wed, 30 Sep 2026 21:07:40 +0000",
+    "slides": [
+      "Why does a $750M bet on Flow Engineering matter?",
+      "Valor, Atreides, and Sequoia led the round.",
+      "The startup has almost no public product traction yet.",
+      "Your AI engineering tools may soon face a cheaper rival.",
+      "Watch which investors follow this pattern next quarter."
+    ],
+    "thread_text": [
+      "1. The $750M Question\n\nValor, Atreides, and Sequoia just co-led a massive round for Flow Engineering. That's a lot of money for a company with no public product.",
+      "2. No Product Yet\n\nThe startup has almost no public traction. Investors are betting on a thesis, not a shipped tool.",
+      "3. Your Tools Just Got Target\n\nIf Flow Engineering succeeds, your current AI engineering stack could face a cheaper rival overnight.",
+      "4. Follow the Money\n\nSequoia and Valor have a pattern of backing pre-product bets. Watch which investors copy this move next quarter.",
+      "5. Test This Yourself\n\nTake your current AI tooling and ask: what would a $750M competitor do differently? If you can't answer, start there."
+    ],
+    "video_script": [
+      "Valor, Atreides, and Sequoia bet $750 million on Flow Engineering.",
+      "That company has almost no public product traction yet.",
+      "If they succeed, your AI engineering tools face a cheaper rival.",
+      "Watch which investors follow this pattern next quarter.",
+      "Take your current tool and ask what a $750M rival would do."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $750M Question\n\nValor, Atreides, and Sequoia just co-led a massive round for Flow Engineering. That's a lot of money for a company with no public product.",
+          "2. No Product Yet\n\nThe startup has almost no public traction. Investors are betting on a thesis, not a shipped tool.",
+          "3. Your Tools Just Got Target\n\nIf Flow Engineering succeeds, your current AI engineering stack could face a cheaper rival overnight.",
+          "4. Follow the Money\n\nSequoia and Valor have a pattern of backing pre-product bets. Watch which investors copy this move next quarter.",
+          "5. Test This Yourself\n\nTake your current AI tooling and ask: what would a $750M competitor do differently? If you can't answer, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Valor, Atreides, and Sequoia bet $750 million on Flow Engineering.",
+          "That company has almost no public product traction yet.",
+          "If they succeed, your AI engineering tools face a cheaper rival.",
+          "Watch which investors follow this pattern next quarter.",
+          "Take your current tool and ask what a $750M rival would do."
+        ]
+      },
+      "instagram": {
+        "caption": "Valor, Atreides, and Sequoia just co-led a $750M round for Flow Engineering — a startup with almost no public product traction. 💰\n\nThat's a bet on a thesis, not a shipped tool.\n\nIf it works, your current AI engineering stack could face a cheaper rival overnight. ⚙️\n\nSo the real question: could your job or tools be undercut by a company that hasn't even launched yet? 👀\n\nTake your current AI tooling and ask what a $750M competitor would do differently. If you can't answer, that's your starting point. 🚀"
+      }
+    },
+    "instagram_caption": "Valor, Atreides, and Sequoia just co-led a $750M round for Flow Engineering — a startup with almost no public product traction. 💰\n\nThat's a bet on a thesis, not a shipped tool.\n\nIf it works, your current AI engineering stack could face a cheaper rival overnight. ⚙️\n\nSo the real question: could your job or tools be undercut by a company that hasn't even launched yet? 👀\n\nTake your current AI tooling and ask what a $750M competitor would do differently. If you can't answer, that's your starting point. 🚀",
+    "carousel_slides": [
+      {
+        "hook": "A $750M Bet Without a Product?",
+        "description": "Valor, Atreides, Sequoia co-led Flow Engineering at $750M. That's massive for a startup with almost no public traction.",
+        "visual_hint": "A massive check on dark table",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "blank check"
+      },
+      {
+        "hook": "Sequoia and Valor Lead the Round",
+        "description": "Three top-tier firms co-led the round. Their pattern: backing pre-product bets before anyone else sees the thesis.",
+        "visual_hint": "Three investors signing a document",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "business meeting",
+        "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No Public Product, No Traction",
+        "description": "Investors are betting on a thesis, not a shipped tool. Almost no public product traction yet.",
+        "visual_hint": "Empty product interface on screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "blank screen",
+        "image": "https://images.pexels.com/photos/5082556/pexels-photo-5082556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your AI Tools Just Got Target",
+        "description": "If Flow Engineering succeeds, your current AI engineering stack could face a cheaper rival overnight.",
+        "visual_hint": "Hand pointing at competitive dashboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand pointing",
+        "image": "https://images.pexels.com/photos/9127687/pexels-photo-9127687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save This: Follow the Money Pattern",
+        "description": "Next quarter, watch which investors copy Sequoia and Valor's pre-product bet. Save this post to track it.",
+        "visual_hint": "Money flowing into startup logo",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
+    "savedAt": "2026-10-01T00:56:03.006Z",
+    "sourceId": "1531fa60609908b599317670c350b810"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-releases-gemini-4-argon-called-its-most-pow",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "pubDate": "Wed, 30 Sep 2026 23:43:07 +0000",
+    "slides": [
+      "Can Google's Gemini 4 Argon outthink you?",
+      "It's the most powerful model Google has built.",
+      "But early tests show it fails at common sense tasks.",
+      "Developers must update API calls to access it.",
+      "Test Gemini 4 Argon on your toughest problem today."
+    ],
+    "thread_text": [
+      "1. Google's Gemini 4 Argon: Genius or Fool?\n\nEarly tests reveal it fails at common sense tasks. Can a model this powerful still trip on basics?",
+      "2. The Most Powerful Model Yet\n\nGoogle claims Gemini 4 Argon is its most powerful. But power doesn't guarantee practical intelligence.",
+      "3. Developers, Update Your API Calls\n\nTo access Gemini 4 Argon, you must update your API calls. Ignore this and your integration breaks.",
+      "4. The Common Sense Gap\n\nWhile it excels at complex problems, it stumbles on simple reasoning. That's a red flag for real-world use.",
+      "5. Test It on Your Toughest Problem\n\nTake a prompt that challenges you and run it on Gemini 4 Argon. Does it solve it or reveal a flaw?"
+    ],
+    "video_script": [
+      "Can Google's Gemini 4 Argon outthink you?",
+      "It's Google's most powerful model yet.",
+      "But early tests show it fails common sense tasks.",
+      "Developers must update API calls to access it.",
+      "Test Gemini 4 Argon on your toughest problem today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Google's Gemini 4 Argon: Genius or Fool?\n\nEarly tests reveal it fails at common sense tasks. Can a model this powerful still trip on basics?",
+          "2. The Most Powerful Model Yet\n\nGoogle claims Gemini 4 Argon is its most powerful. But power doesn't guarantee practical intelligence.",
+          "3. Developers, Update Your API Calls\n\nTo access Gemini 4 Argon, you must update your API calls. Ignore this and your integration breaks.",
+          "4. The Common Sense Gap\n\nWhile it excels at complex problems, it stumbles on simple reasoning. That's a red flag for real-world use.",
+          "5. Test It on Your Toughest Problem\n\nTake a prompt that challenges you and run it on Gemini 4 Argon. Does it solve it or reveal a flaw?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can Google's Gemini 4 Argon outthink you?",
+          "It's Google's most powerful model yet.",
+          "But early tests show it fails common sense tasks.",
+          "Developers must update API calls to access it.",
+          "Test Gemini 4 Argon on your toughest problem today."
+        ]
+      },
+      "instagram": {
+        "caption": "Your API calls just broke if you use Gemini. 😅\n\nGoogle released Gemini 4 Argon, calling it its most powerful model yet.\n\nBut early tests show it fails at common sense tasks while acing complex ones.\n\nDevelopers have to update their API calls to reach it at all.\n\nSo if you build or publish with Gemini, your pipeline needs a fix before it works again. 🤖\n\nWhat's one simple question you'd test it on first?"
+      }
+    },
+    "instagram_caption": "Your API calls just broke if you use Gemini. 😅\n\nGoogle released Gemini 4 Argon, calling it its most powerful model yet.\n\nBut early tests show it fails at common sense tasks while acing complex ones.\n\nDevelopers have to update their API calls to reach it at all.\n\nSo if you build or publish with Gemini, your pipeline needs a fix before it works again. 🤖\n\nWhat's one simple question you'd test it on first?",
+    "carousel_slides": [
+      {
+        "hook": "Powerful but fails at common sense?",
+        "description": "Google's most powerful model yet stumbles on simple reasoning tasks, raising red flags for real-world reliability.",
+        "visual_hint": "Glowing AI brain with warning sign",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Google calls it the most powerful model.",
+        "description": "Gemini 4 Argon sets a new benchmark for raw capability, but power alone doesn't guarantee practical intelligence.",
+        "visual_hint": "Chip with rising power graph",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer chip",
+        "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It fails at basic common sense.",
+        "description": "Early tests show the model excels at complex problems yet stumbles on simple reasoning, a critical flaw.",
+        "visual_hint": "Magnifying glass over error message",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "error message screen",
+        "image": "https://images.pexels.com/photos/5053987/pexels-photo-5053987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Developers must update API calls now.",
+        "description": "Access requires updated API calls; ignoring this breaks your integration and halts development workflows.",
+        "visual_hint": "Developer typing code on laptop",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "programmer laptop code",
+        "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it on your toughest problem today.",
+        "description": "Run your hardest prompt on Gemini 4 Argon and see if it solves or reveals a flaw.",
+        "visual_hint": "Person typing challenge into AI",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person using laptop",
+        "image": "https://images.pexels.com/photos/12902986/pexels-photo-12902986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+    "savedAt": "2026-10-01T00:55:55.415Z",
+    "sourceId": "b0e8a6f4f58bef00669d1a4f0999daed"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "the-ugly-economics-of-consumer-ai",
     "prompt_version": "1.0.0",
     "status": "published",

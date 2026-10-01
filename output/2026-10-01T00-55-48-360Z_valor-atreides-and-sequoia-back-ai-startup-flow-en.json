@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "valor-atreides-and-sequoia-back-ai-startup-flow-en",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+  "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+  "pubDate": "Wed, 30 Sep 2026 21:07:40 +0000",
+  "slides": [
+    "Why does a $750M bet on Flow Engineering matter?",
+    "Valor, Atreides, and Sequoia led the round.",
+    "The startup has almost no public product traction yet.",
+    "Your AI engineering tools may soon face a cheaper rival.",
+    "Watch which investors follow this pattern next quarter."
+  ],
+  "thread_text": [
+    "1. The $750M Question\n\nValor, Atreides, and Sequoia just co-led a massive round for Flow Engineering. That's a lot of money for a company with no public product.",
+    "2. No Product Yet\n\nThe startup has almost no public traction. Investors are betting on a thesis, not a shipped tool.",
+    "3. Your Tools Just Got Target\n\nIf Flow Engineering succeeds, your current AI engineering stack could face a cheaper rival overnight.",
+    "4. Follow the Money\n\nSequoia and Valor have a pattern of backing pre-product bets. Watch which investors copy this move next quarter.",
+    "5. Test This Yourself\n\nTake your current AI tooling and ask: what would a $750M competitor do differently? If you can't answer, start there."
+  ],
+  "video_script": [
+    "Valor, Atreides, and Sequoia bet $750 million on Flow Engineering.",
+    "That company has almost no public product traction yet.",
+    "If they succeed, your AI engineering tools face a cheaper rival.",
+    "Watch which investors follow this pattern next quarter.",
+    "Take your current tool and ask what a $750M rival would do."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $750M Question\n\nValor, Atreides, and Sequoia just co-led a massive round for Flow Engineering. That's a lot of money for a company with no public product.",
+        "2. No Product Yet\n\nThe startup has almost no public traction. Investors are betting on a thesis, not a shipped tool.",
+        "3. Your Tools Just Got Target\n\nIf Flow Engineering succeeds, your current AI engineering stack could face a cheaper rival overnight.",
+        "4. Follow the Money\n\nSequoia and Valor have a pattern of backing pre-product bets. Watch which investors copy this move next quarter.",
+        "5. Test This Yourself\n\nTake your current AI tooling and ask: what would a $750M competitor do differently? If you can't answer, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Valor, Atreides, and Sequoia bet $750 million on Flow Engineering.",
+        "That company has almost no public product traction yet.",
+        "If they succeed, your AI engineering tools face a cheaper rival.",
+        "Watch which investors follow this pattern next quarter.",
+        "Take your current tool and ask what a $750M rival would do."
+      ]
+    },
+    "instagram": {
+      "caption": "Valor, Atreides, and Sequoia just co-led a $750M round for Flow Engineering — a startup with almost no public product traction. 💰\n\nThat's a bet on a thesis, not a shipped tool.\n\nIf it works, your current AI engineering stack could face a cheaper rival overnight. ⚙️\n\nSo the real question: could your job or tools be undercut by a company that hasn't even launched yet? 👀\n\nTake your current AI tooling and ask what a $750M competitor would do differently. If you can't answer, that's your starting point. 🚀"
+    }
+  },
+  "instagram_caption": "Valor, Atreides, and Sequoia just co-led a $750M round for Flow Engineering — a startup with almost no public product traction. 💰\n\nThat's a bet on a thesis, not a shipped tool.\n\nIf it works, your current AI engineering stack could face a cheaper rival overnight. ⚙️\n\nSo the real question: could your job or tools be undercut by a company that hasn't even launched yet? 👀\n\nTake your current AI tooling and ask what a $750M competitor would do differently. If you can't answer, that's your starting point. 🚀",
+  "carousel_slides": [
+    {
+      "hook": "A $750M Bet Without a Product?",
+      "description": "Valor, Atreides, Sequoia co-led Flow Engineering at $750M. That's massive for a startup with almost no public traction.",
+      "visual_hint": "A massive check on dark table",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "blank check"
+    },
+    {
+      "hook": "Sequoia and Valor Lead the Round",
+      "description": "Three top-tier firms co-led the round. Their pattern: backing pre-product bets before anyone else sees the thesis.",
+      "visual_hint": "Three investors signing a document",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "business meeting",
+      "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No Public Product, No Traction",
+      "description": "Investors are betting on a thesis, not a shipped tool. Almost no public product traction yet.",
+      "visual_hint": "Empty product interface on screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "blank screen",
+      "image": "https://images.pexels.com/photos/5082556/pexels-photo-5082556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI Tools Just Got Target",
+      "description": "If Flow Engineering succeeds, your current AI engineering stack could face a cheaper rival overnight.",
+      "visual_hint": "Hand pointing at competitive dashboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand pointing",
+      "image": "https://images.pexels.com/photos/9127687/pexels-photo-9127687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save This: Follow the Money Pattern",
+      "description": "Next quarter, watch which investors copy Sequoia and Valor's pre-product bet. Save this post to track it.",
+      "visual_hint": "Money flowing into startup logo",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
+  "savedAt": "2026-10-01T00:56:03.006Z",
+  "sourceId": "1531fa60609908b599317670c350b810"
+}

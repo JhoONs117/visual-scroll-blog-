@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "doordash-launches-an-ai-agent-you-can-text-to-orde",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "DoorDash launches an AI agent you can text to order food",
+  "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+  "pubDate": "Wed, 30 Sep 2026 16:00:24 +0000",
+  "slides": [
+    "Can texting DoorDash replace scrolling menus?",
+    "Its AI agent takes orders via SMS",
+    "But it second-guesses special requests",
+    "Expect it messy on custom combos",
+    "Test it on your weirdest order tonight"
+  ],
+  "thread_text": [
+    "1. Forget menus, just text\n\nDoorDash's new AI agent takes your order via SMS. No app, no scrolling. It's a full conversation with a bot that remembers your usual.",
+    "2. AI that chats back\n\nYou text what you want. The agent asks follow-up questions, suggests add-ons, and confirms. It's like ordering from a friend who knows the menu.",
+    "3. When AI gets picky\n\nSpecial requests like 'no onions' work fine. But ask for extra sauce on the side? The agent second-guesses and may mess up.",
+    "4. Custom combos = chaos\n\nTry ordering a burger with no bun, extra pickles, and a side of ranch. The AI gets confused. Expect errors on anything non-standard.",
+    "5. Test your weirdest order\n\nTonight, text DoorDash your craziest combo. See if the AI nails it or flakes. Share the result—would you trust it again?"
+  ],
+  "video_script": [
+    "DoorDash now lets you order by texting.",
+    "The AI agent chats back and confirms.",
+    "But special requests make it second-guess.",
+    "Weird custom combos often get messed up.",
+    "Test your strangest order tonight and see."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Forget menus, just text\n\nDoorDash's new AI agent takes your order via SMS. No app, no scrolling. It's a full conversation with a bot that remembers your usual.",
+        "2. AI that chats back\n\nYou text what you want. The agent asks follow-up questions, suggests add-ons, and confirms. It's like ordering from a friend who knows the menu.",
+        "3. When AI gets picky\n\nSpecial requests like 'no onions' work fine. But ask for extra sauce on the side? The agent second-guesses and may mess up.",
+        "4. Custom combos = chaos\n\nTry ordering a burger with no bun, extra pickles, and a side of ranch. The AI gets confused. Expect errors on anything non-standard.",
+        "5. Test your weirdest order\n\nTonight, text DoorDash your craziest combo. See if the AI nails it or flakes. Share the result—would you trust it again?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "DoorDash now lets you order by texting.",
+        "The AI agent chats back and confirms.",
+        "But special requests make it second-guess.",
+        "Weird custom combos often get messed up.",
+        "Test your strangest order tonight and see."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now order dinner by sending a text instead of opening an app.\n\nDoorDash launched an AI agent that takes your order over SMS and remembers your usual. 😮\n\nIt handles simple tweaks like “no onions” fine, but second-guesses anything custom.\n\nAsk for a burger with no bun and a side of ranch, and it gets confused. 😅\n\nIf you post food content, save your weirdest combo as a test case, because your audience will ask how the bot handles it. 🍔\n\nWhat’s the strangest order you’d text it tonight? 🤖"
+    }
+  },
+  "instagram_caption": "You can now order dinner by sending a text instead of opening an app.\n\nDoorDash launched an AI agent that takes your order over SMS and remembers your usual. 😮\n\nIt handles simple tweaks like “no onions” fine, but second-guesses anything custom.\n\nAsk for a burger with no bun and a side of ranch, and it gets confused. 😅\n\nIf you post food content, save your weirdest combo as a test case, because your audience will ask how the bot handles it. 🍔\n\nWhat’s the strangest order you’d text it tonight? 🤖",
+  "carousel_slides": [
+    {
+      "hook": "Can texting replace scrolling menus?",
+      "description": "DoorDash's AI agent takes orders via SMS, no app needed. It remembers your usual and chats back.",
+      "visual_hint": "Phone screen with chat bubble conversation",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone text message"
+    },
+    {
+      "hook": "AI that chats back and remembers",
+      "description": "You text what you want; the agent asks follow-ups, suggests add-ons, and confirms like a friend.",
+      "visual_hint": "Person texting on phone at table",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "person texting phone",
+      "image": "https://images.pexels.com/photos/9898392/pexels-photo-9898392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "But it second-guesses special requests",
+      "description": "Simple asks like 'no onions' work, but extra sauce on the side may confuse the AI and cause errors.",
+      "visual_hint": "Close-up of sauce packets on side",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "sauce packets closeup",
+      "image": "https://images.pexels.com/photos/36372509/pexels-photo-36372509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Custom combos become total chaos",
+      "description": "Ordering a burger with no bun, extra pickles, and ranch? The AI gets confused and makes mistakes on non-standard items.",
+      "visual_hint": "Burger with unusual toppings and no bun",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "burger no bun",
+      "image": "https://images.pexels.com/photos/4253700/pexels-photo-4253700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and test your weirdest order",
+      "description": "Tonight, text DoorDash your craziest combo. Share the result and see if you'd trust it again.",
+      "visual_hint": "Phone with chat and food emojis",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "phone food emoji",
+      "image": "https://images.pexels.com/photos/9822668/pexels-photo-9822668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-11.47.10-AM.png?w=982",
+  "savedAt": "2026-10-01T00:56:11.385Z",
+  "sourceId": "68dcdac188f44e2191390d70b23a9489"
+}
