@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "instagram-is-adding-an-ai-assistant-to-tell-you-ho",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+      "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+      "pubDate": "2026-09-30T14:30:00.000Z",
+      "slides": [
+        "Instagram wants AI to run your account?",
+        "A built-in assistant now suggests your next post",
+        "But it also rewrites captions it thinks are weak",
+        "Your reach may depend on pleasing its taste",
+        "Try one post its way and measure honestly"
+      ],
+      "thread_text": [
+        "1. Instagram wants AI to run your account?\n\nA new built-in assistant now suggests your next post — and your reach may soon depend on pleasing its taste.",
+        "2. It also rewrites your captions\n\nIf the AI thinks they're weak, it swaps them out. You might not even notice until after posting.",
+        "3. Your reach gets scored\n\nInstagram shows your content to fewer people if the AI doesn't like it. Its approval becomes your distribution.",
+        "4. The real cost of AI help\n\nYou save minutes, but you may lose your voice. Followers can tell when a machine wrote your post — and they'll scroll past.",
+        "5. Try one post its way\n\nLet the assistant suggest a post this week. Check the reach. Then decide if it's worth the edit time. Does it actually work for you?"
+      ],
+      "video_script": [
+        "Instagram now has an AI assistant that suggests your next post.",
+        "It can rewrite your caption if it thinks it is weak.",
+        "Your reach may depend on pleasing its taste.",
+        "That means your content gets scored by a machine.",
+        "Try one post its way and check the reach."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Instagram wants AI to run your account?\n\nA new built-in assistant now suggests your next post — and your reach may soon depend on pleasing its taste.",
+            "2. It also rewrites your captions\n\nIf the AI thinks they're weak, it swaps them out. You might not even notice until after posting.",
+            "3. Your reach gets scored\n\nInstagram shows your content to fewer people if the AI doesn't like it. Its approval becomes your distribution.",
+            "4. The real cost of AI help\n\nYou save minutes, but you may lose your voice. Followers can tell when a machine wrote your post — and they'll scroll past.",
+            "5. Try one post its way\n\nLet the assistant suggest a post this week. Check the reach. Then decide if it's worth the edit time. Does it actually work for you?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Instagram now has an AI assistant that suggests your next post.",
+            "It can rewrite your caption if it thinks it is weak.",
+            "Your reach may depend on pleasing its taste.",
+            "That means your content gets scored by a machine.",
+            "Try one post its way and check the reach."
+          ]
+        },
+        "instagram": {
+          "caption": "Instagram now suggests your next post for you.\n\nA built-in assistant picks your content, then rewrites captions it decides are weak. You might not notice until after you've posted.\n\nAnd if the AI doesn't like what you made, Instagram shows it to fewer people. Its approval becomes your reach. 🤖\n\nSo you save a few minutes, but your voice gets edited into someone else's taste. Followers can spot a machine-written caption and scroll past. 👀\n\nLet it draft one post this week, then check your reach. Did it actually work for you? 📉"
+        }
+      },
+      "instagram_caption": "Instagram now suggests your next post for you.\n\nA built-in assistant picks your content, then rewrites captions it decides are weak. You might not notice until after you've posted.\n\nAnd if the AI doesn't like what you made, Instagram shows it to fewer people. Its approval becomes your reach. 🤖\n\nSo you save a few minutes, but your voice gets edited into someone else's taste. Followers can spot a machine-written caption and scroll past. 👀\n\nLet it draft one post this week, then check your reach. Did it actually work for you? 📉",
+      "carousel_slides": [
+        {
+          "hook": "Is Instagram AI choosing who sees your posts?",
+          "description": "Instagram's new assistant suggests posts and scores your content; if the AI disapproves, your reach shrinks and fewer people see you.",
+          "visual_hint": "AI interface overlaying Instagram feed",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone screen"
+        },
+        {
+          "hook": "A built-in assistant now writes your next post",
+          "description": "The AI proposes your next post idea before you even start typing, turning creation into a one-tap response to its suggestions.",
+          "visual_hint": "Phone screen showing suggested post",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "mobile phone",
+          "image": "https://images.pexels.com/photos/17706936/pexels-photo-17706936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "It rewrites your captions without asking",
+          "description": "If the AI judges your caption weak, it swaps in its own version; you might not notice until after you hit publish.",
+          "visual_hint": "Caption text being auto-edited",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "text editing screen",
+          "image": "https://images.pexels.com/photos/7983364/pexels-photo-7983364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your reach depends on pleasing its taste",
+          "description": "Instagram shows your content to fewer people when the AI dislikes it, so its approval becomes the gatekeeper of your distribution.",
+          "visual_hint": "Declining reach graph on dashboard",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "analytics dashboard",
+          "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Try one AI-suggested post this week",
+          "description": "Let the assistant suggest one post this week, check the reach, then decide if the edit time was worth it for you.",
+          "visual_hint": "Hand tapping publish button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "social media phone",
+          "image": "https://images.pexels.com/photos/3850266/pexels-photo-3850266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-01T16:48:16.051Z",
+      "sourceId": "99fba4b37980fcc536e18cf7a9686e6b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-s-new-agent-is-a-shot-at-meta-but-can-it-co",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+      "pubDate": "2026-10-01T14:36:50.000Z",
+      "slides": [
+        "OpenAI's new agent targets Meta's social empire",
+        "It browses, clicks, and posts autonomously",
+        "But Meta's tools are already free",
+        "You still pay per task — unlike Meta",
+        "Test one workflow before you commit"
+      ],
+      "thread_text": [
+        "1. The agent that posts for you\n\nOpenAI just launched an agent that browses, clicks, and posts on social media without you. It’s a direct shot at Meta’s dominance.",
+        "2. Meta’s free alternative\n\nMeta already offers free tools that do similar tasks. So why pay per action when the competition gives it away?",
+        "3. The hidden cost per click\n\nOpenAI charges for every task your agent completes. Those small fees add up fast—especially if you’re running daily posts.",
+        "4. Who actually wins here\n\nIf Meta’s tools are free and OpenAI’s are metered, the real battle is over your workflow. Convenience vs. cost.",
+        "5. Try before you buy\n\nPick one repetitive social task you do this week. Run it manually, then test OpenAI’s agent on it. Does the time saved justify the bill?"
+      ],
+      "video_script": [
+        "OpenAI's new agent posts for you autonomously.",
+        "But Meta already offers similar tools for free.",
+        "You pay per task with OpenAI, unlike Meta.",
+        "So which one saves you money and time?",
+        "Test one workflow before you commit."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The agent that posts for you\n\nOpenAI just launched an agent that browses, clicks, and posts on social media without you. It’s a direct shot at Meta’s dominance.",
+            "2. Meta’s free alternative\n\nMeta already offers free tools that do similar tasks. So why pay per action when the competition gives it away?",
+            "3. The hidden cost per click\n\nOpenAI charges for every task your agent completes. Those small fees add up fast—especially if you’re running daily posts.",
+            "4. Who actually wins here\n\nIf Meta’s tools are free and OpenAI’s are metered, the real battle is over your workflow. Convenience vs. cost.",
+            "5. Try before you buy\n\nPick one repetitive social task you do this week. Run it manually, then test OpenAI’s agent on it. Does the time saved justify the bill?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI's new agent posts for you autonomously.",
+            "But Meta already offers similar tools for free.",
+            "You pay per task with OpenAI, unlike Meta.",
+            "So which one saves you money and time?",
+            "Test one workflow before you commit."
+          ]
+        },
+        "instagram": {
+          "caption": "You can now pay an AI to post on social media for you.\n\nOpenAI launched an agent that browses, clicks, and posts on its own — a direct shot at Meta. 🎯\n\nProblem: Meta already offers similar tools for free.\n\nOpenAI charges you per task, so daily posts add up fast. 💸\n\nIf you publish content, this means weighing convenience against a bill that grows with every action.\n\nPick one repetitive task you do this week, run it manually, then test the agent on it. Does the time saved cover the cost? ⏱️"
+        }
+      },
+      "instagram_caption": "You can now pay an AI to post on social media for you.\n\nOpenAI launched an agent that browses, clicks, and posts on its own — a direct shot at Meta. 🎯\n\nProblem: Meta already offers similar tools for free.\n\nOpenAI charges you per task, so daily posts add up fast. 💸\n\nIf you publish content, this means weighing convenience against a bill that grows with every action.\n\nPick one repetitive task you do this week, run it manually, then test the agent on it. Does the time saved cover the cost? ⏱️",
+      "carousel_slides": [
+        {
+          "hook": "Why pay when Meta does it free?",
+          "description": "OpenAI's new agent browses, clicks, and posts autonomously, but Meta already offers similar tools for free, undermining the value.",
+          "visual_hint": "Split screen: paid vs free icons",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "social media icons"
+        },
+        {
+          "hook": "OpenAI's agent automates your social posts",
+          "description": "It browses, clicks, and posts without you, directly challenging Meta's dominance in social media automation.",
+          "visual_hint": "Robot hand clicking a mouse",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "robot hand computer",
+          "image": "https://images.pexels.com/photos/7688545/pexels-photo-7688545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Meta's tools are already free",
+          "description": "Meta provides free tools for similar tasks, so paying per action with OpenAI may not be worth it.",
+          "visual_hint": "Free tag on Meta logo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "facebook logo",
+          "image": "https://images.pexels.com/photos/13570163/pexels-photo-13570163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Hidden costs add up fast",
+          "description": "OpenAI charges per task your agent completes. Small fees accumulate quickly, especially with daily posting.",
+          "visual_hint": "Stack of coins with meter",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "stack of coins",
+          "image": "https://images.pexels.com/photos/11743785/pexels-photo-11743785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Try before you buy: test one workflow",
+          "description": "Pick a repetitive social task, run it manually, then test OpenAI's agent. Does time saved justify the cost?",
+          "visual_hint": "Checklist with task and timer",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297767958.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.754010807628%2C100%2C78.491978384743&amp;w=1200",
+      "savedAt": "2026-10-01T16:48:08.336Z",
+      "sourceId": "cdc4b946eb2571997dabd0e216235da7"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "brian-chesky-interview-ai-agents-need-their-own-op",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Brian Chesky interview: AI agents need their own operating system",
+      "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+      "pubDate": "Thu, 01 Oct 2026 15:12:00 +0000",
+      "slides": [
+        "Why does Airbnb's Chesky say AI agents need an OS?",
+        "He means agents managing tools, memory, and permissions themselves",
+        "Yet today's agents still flail without constant human babysitting",
+        "If agents control your calendar, you'll grant real access",
+        "Pick one task and let an agent run it alone"
+      ],
+      "thread_text": [
+        "1. Your Agent Doesn't Work\n\nAirbnb's Chesky says AI agents need their own operating system. Right now, you're the one manually managing every tool, memory, and permission.",
+        "2. The Missing OS\n\nChesky means agents should handle tools, memory, and permissions themselves. Today, they can't — so you're stuck as the middleman for every decision.",
+        "3. Constant Babysitting\n\nEven simple tasks fail without you watching. Agents flail because they lack persistent memory and the ability to request access on their own.",
+        "4. Real Access, Real Risk\n\nIf an agent controls your calendar, it needs genuine permissions. That's a leap most people aren't ready to take — but it's the only way agents become useful.",
+        "5. Your Turn to Test\n\nPick one repetitive task — like scheduling a weekly meeting. Let an agent run it alone for a week. Does it actually save time, or just shift the work?"
+      ],
+      "video_script": [
+        "Airbnb's CEO says AI agents need an operating system.",
+        "That means agents manage tools, memory, and permissions alone.",
+        "Today, they still need you watching every step.",
+        "If agents touch your calendar, you give real access.",
+        "Pick one task and let an agent run it."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your Agent Doesn't Work\n\nAirbnb's Chesky says AI agents need their own operating system. Right now, you're the one manually managing every tool, memory, and permission.",
+            "2. The Missing OS\n\nChesky means agents should handle tools, memory, and permissions themselves. Today, they can't — so you're stuck as the middleman for every decision.",
+            "3. Constant Babysitting\n\nEven simple tasks fail without you watching. Agents flail because they lack persistent memory and the ability to request access on their own.",
+            "4. Real Access, Real Risk\n\nIf an agent controls your calendar, it needs genuine permissions. That's a leap most people aren't ready to take — but it's the only way agents become useful.",
+            "5. Your Turn to Test\n\nPick one repetitive task — like scheduling a weekly meeting. Let an agent run it alone for a week. Does it actually save time, or just shift the work?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Airbnb's CEO says AI agents need an operating system.",
+            "That means agents manage tools, memory, and permissions alone.",
+            "Today, they still need you watching every step.",
+            "If agents touch your calendar, you give real access.",
+            "Pick one task and let an agent run it."
+          ]
+        },
+        "instagram": {
+          "caption": "Your calendar agent can't even reschedule a meeting without you hovering over every step.\n\nAirbnb's Chesky says AI agents need their own operating system — meaning they should handle tools, memory, and permissions on their own. Right now they can't, so you stay the middleman for every single decision. 🤖\n\nAn agent that truly runs your schedule needs real access to your accounts — a leap most people won't take yet. ⚙️\n\nIf you make content or run your own workflow, this is the bottleneck that decides whether agents actually save you time.\n\nTry one repetitive task this week — a weekly meeting invite — and let an agent run it solo. Did it save time, or just move the work around? 🗓️"
+        }
+      },
+      "instagram_caption": "Your calendar agent can't even reschedule a meeting without you hovering over every step.\n\nAirbnb's Chesky says AI agents need their own operating system — meaning they should handle tools, memory, and permissions on their own. Right now they can't, so you stay the middleman for every single decision. 🤖\n\nAn agent that truly runs your schedule needs real access to your accounts — a leap most people won't take yet. ⚙️\n\nIf you make content or run your own workflow, this is the bottleneck that decides whether agents actually save you time.\n\nTry one repetitive task this week — a weekly meeting invite — and let an agent run it solo. Did it save time, or just move the work around? 🗓️",
+      "carousel_slides": [
+        {
+          "hook": "Why AI agents still need babysitting",
+          "description": "Chesky says agents should manage tools, memory, and permissions alone — but today they collapse without constant human supervision.",
+          "visual_hint": "Frustrated person watching laptop screen",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Agents should run their own tools",
+          "description": "Chesky envisions agents handling memory and permissions themselves. Right now they cannot, so you stay the middleman.",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "visual_hint": "Abstract network nodes connecting",
+          "image_query": "circuit board",
+          "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Simple tasks fail without you watching",
+          "description": "Agents flail because they lack persistent memory and cannot request access on their own. Constant babysitting kills productivity.",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "visual_hint": "Close-up robotic arm malfunctioning",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Real access means real risk",
+          "description": "If an agent controls your calendar, it needs genuine permissions. Most people are not ready for that leap.",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "visual_hint": "Hand holding smartphone calendar",
+          "image_query": "office calendar",
+          "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one agent task this week",
+          "description": "Pick a repetitive task like scheduling a weekly meeting. Let an agent run it alone for seven days. Save this post.",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "visual_hint": "Person reviewing weekly planner",
+          "image_query": "desk calendar",
+          "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Brian-Chesky-Environmental-Headshot-3.jpg?resize=1200,675",
+      "savedAt": "2026-10-01T16:48:00.393Z",
+      "sourceId": "e0ffe3730fa17abfe776874be06cb8ed"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "shopify-debuts-canvas-a-way-to-build-online-stores",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "pubDate": "Thu, 01 Oct 2026 16:44:35 +0000",
+      "slides": [
+        "What if you could build a store by chatting?",
+        "Shopify just launched Canvas, an AI-powered store builder.",
+        "It generates entire storefronts from a single conversation.",
+        "You can now create a store without writing code.",
+        "Try it: describe your dream store in a chat."
+      ],
+      "thread_text": [
+        "1. Chat your store into existence\n\nShopify's new Canvas tool turns a conversation into a full online store. No code, no templates.",
+        "2. AI builds the whole storefront\n\nCanvas generates layout, product pages, and checkout from a single chat. You just describe what you want.",
+        "3. No code? No problem.\n\nYou can now launch a store without touching a single line of code. Just type a description and hit enter.",
+        "4. From idea to live in minutes\n\nWhat used to take weeks of design and setup now happens in one conversation. Speed changes everything.",
+        "5. Your turn: dream it, then chat it\n\nOpen Shopify Canvas and type your dream store. See what it builds. Then tell me: would you trust AI with your brand?"
+      ],
+      "video_script": [
+        "Imagine building a store just by chatting.",
+        "Shopify Canvas is an AI store builder.",
+        "It creates whole storefronts from one talk.",
+        "No code needed, ever.",
+        "Try it: describe your dream store now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Chat your store into existence\n\nShopify's new Canvas tool turns a conversation into a full online store. No code, no templates.",
+            "2. AI builds the whole storefront\n\nCanvas generates layout, product pages, and checkout from a single chat. You just describe what you want.",
+            "3. No code? No problem.\n\nYou can now launch a store without touching a single line of code. Just type a description and hit enter.",
+            "4. From idea to live in minutes\n\nWhat used to take weeks of design and setup now happens in one conversation. Speed changes everything.",
+            "5. Your turn: dream it, then chat it\n\nOpen Shopify Canvas and type your dream store. See what it builds. Then tell me: would you trust AI with your brand?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Imagine building a store just by chatting.",
+            "Shopify Canvas is an AI store builder.",
+            "It creates whole storefronts from one talk.",
+            "No code needed, ever.",
+            "Try it: describe your dream store now."
+          ]
+        },
+        "instagram": {
+          "caption": "You can now build a whole online store by chatting.\n\nShopify just launched Canvas: you describe the shop you want, and the AI generates layout, product pages and checkout from that one conversation. 💬\n\nNo code, no templates.\n\nWhat used to take weeks of design now happens in minutes.\n\nIf you sell anything online, the setup work you keep postponing just got shorter. 🛠️\n\nWould you let AI build your brand's storefront, or do you want to control every pixel yourself? 🤔"
+        }
+      },
+      "instagram_caption": "You can now build a whole online store by chatting.\n\nShopify just launched Canvas: you describe the shop you want, and the AI generates layout, product pages and checkout from that one conversation. 💬\n\nNo code, no templates.\n\nWhat used to take weeks of design now happens in minutes.\n\nIf you sell anything online, the setup work you keep postponing just got shorter. 🛠️\n\nWould you let AI build your brand's storefront, or do you want to control every pixel yourself? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Build a store by chatting?",
+          "description": "Shopify Canvas turns a single conversation into a complete online storefront, generating layout, product pages, and checkout automatically.",
+          "visual_hint": "Chat interface transforming into storefront",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone chat app"
+        },
+        {
+          "hook": "Forget code. Just describe it.",
+          "description": "Canvas generates entire storefronts from one chat, so you can launch without touching code or choosing templates.",
+          "visual_hint": "Split screen chat and store preview",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer screen code",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Weeks of work, now minutes.",
+          "description": "What used to take weeks of design and setup now happens in one conversation, changing how fast you launch.",
+          "visual_hint": "Clock dissolving into chat bubbles",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "hourglass sand timer",
+          "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No code? No problem.",
+          "description": "You can launch a store without writing a single line of code, simply by typing a description and hitting enter.",
+          "visual_hint": "Hand typing on keyboard",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hands typing keyboard",
+          "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ready to chat your store?",
+          "description": "Open Shopify Canvas, type your dream store, and see what it builds. Would you trust AI with your brand?",
+          "visual_hint": "Chat input with store icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "shopping online store",
+          "image": "https://images.pexels.com/photos/7661069/pexels-photo-7661069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517",
+      "savedAt": "2026-10-01T16:47:50.101Z",
+      "sourceId": "4aa9873d3078b31451f0f45e5f9f23d2"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "all-the-latest-news-on-meta-s-cute-creepy-muse-ai-",
       "prompt_version": "1.0.0",
       "status": "published",

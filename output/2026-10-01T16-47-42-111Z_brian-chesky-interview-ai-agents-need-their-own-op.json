@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "brian-chesky-interview-ai-agents-need-their-own-op",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Brian Chesky interview: AI agents need their own operating system",
+  "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+  "pubDate": "Thu, 01 Oct 2026 15:12:00 +0000",
+  "slides": [
+    "Why does Airbnb's Chesky say AI agents need an OS?",
+    "He means agents managing tools, memory, and permissions themselves",
+    "Yet today's agents still flail without constant human babysitting",
+    "If agents control your calendar, you'll grant real access",
+    "Pick one task and let an agent run it alone"
+  ],
+  "thread_text": [
+    "1. Your Agent Doesn't Work\n\nAirbnb's Chesky says AI agents need their own operating system. Right now, you're the one manually managing every tool, memory, and permission.",
+    "2. The Missing OS\n\nChesky means agents should handle tools, memory, and permissions themselves. Today, they can't — so you're stuck as the middleman for every decision.",
+    "3. Constant Babysitting\n\nEven simple tasks fail without you watching. Agents flail because they lack persistent memory and the ability to request access on their own.",
+    "4. Real Access, Real Risk\n\nIf an agent controls your calendar, it needs genuine permissions. That's a leap most people aren't ready to take — but it's the only way agents become useful.",
+    "5. Your Turn to Test\n\nPick one repetitive task — like scheduling a weekly meeting. Let an agent run it alone for a week. Does it actually save time, or just shift the work?"
+  ],
+  "video_script": [
+    "Airbnb's CEO says AI agents need an operating system.",
+    "That means agents manage tools, memory, and permissions alone.",
+    "Today, they still need you watching every step.",
+    "If agents touch your calendar, you give real access.",
+    "Pick one task and let an agent run it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your Agent Doesn't Work\n\nAirbnb's Chesky says AI agents need their own operating system. Right now, you're the one manually managing every tool, memory, and permission.",
+        "2. The Missing OS\n\nChesky means agents should handle tools, memory, and permissions themselves. Today, they can't — so you're stuck as the middleman for every decision.",
+        "3. Constant Babysitting\n\nEven simple tasks fail without you watching. Agents flail because they lack persistent memory and the ability to request access on their own.",
+        "4. Real Access, Real Risk\n\nIf an agent controls your calendar, it needs genuine permissions. That's a leap most people aren't ready to take — but it's the only way agents become useful.",
+        "5. Your Turn to Test\n\nPick one repetitive task — like scheduling a weekly meeting. Let an agent run it alone for a week. Does it actually save time, or just shift the work?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Airbnb's CEO says AI agents need an operating system.",
+        "That means agents manage tools, memory, and permissions alone.",
+        "Today, they still need you watching every step.",
+        "If agents touch your calendar, you give real access.",
+        "Pick one task and let an agent run it."
+      ]
+    },
+    "instagram": {
+      "caption": "Your calendar agent can't even reschedule a meeting without you hovering over every step.\n\nAirbnb's Chesky says AI agents need their own operating system — meaning they should handle tools, memory, and permissions on their own. Right now they can't, so you stay the middleman for every single decision. 🤖\n\nAn agent that truly runs your schedule needs real access to your accounts — a leap most people won't take yet. ⚙️\n\nIf you make content or run your own workflow, this is the bottleneck that decides whether agents actually save you time.\n\nTry one repetitive task this week — a weekly meeting invite — and let an agent run it solo. Did it save time, or just move the work around? 🗓️"
+    }
+  },
+  "instagram_caption": "Your calendar agent can't even reschedule a meeting without you hovering over every step.\n\nAirbnb's Chesky says AI agents need their own operating system — meaning they should handle tools, memory, and permissions on their own. Right now they can't, so you stay the middleman for every single decision. 🤖\n\nAn agent that truly runs your schedule needs real access to your accounts — a leap most people won't take yet. ⚙️\n\nIf you make content or run your own workflow, this is the bottleneck that decides whether agents actually save you time.\n\nTry one repetitive task this week — a weekly meeting invite — and let an agent run it solo. Did it save time, or just move the work around? 🗓️",
+  "carousel_slides": [
+    {
+      "hook": "Why AI agents still need babysitting",
+      "description": "Chesky says agents should manage tools, memory, and permissions alone — but today they collapse without constant human supervision.",
+      "visual_hint": "Frustrated person watching laptop screen",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Agents should run their own tools",
+      "description": "Chesky envisions agents handling memory and permissions themselves. Right now they cannot, so you stay the middleman.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Abstract network nodes connecting",
+      "image_query": "circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Simple tasks fail without you watching",
+      "description": "Agents flail because they lack persistent memory and cannot request access on their own. Constant babysitting kills productivity.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Close-up robotic arm malfunctioning",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Real access means real risk",
+      "description": "If an agent controls your calendar, it needs genuine permissions. Most people are not ready for that leap.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hand holding smartphone calendar",
+      "image_query": "office calendar",
+      "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one agent task this week",
+      "description": "Pick a repetitive task like scheduling a weekly meeting. Let an agent run it alone for seven days. Save this post.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Person reviewing weekly planner",
+      "image_query": "desk calendar",
+      "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Brian-Chesky-Environmental-Headshot-3.jpg?resize=1200,675",
+  "savedAt": "2026-10-01T16:48:00.393Z",
+  "sourceId": "e0ffe3730fa17abfe776874be06cb8ed"
+}

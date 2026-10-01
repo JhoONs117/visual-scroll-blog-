@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-s-new-agent-is-a-shot-at-meta-but-can-it-co",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+  "pubDate": "2026-10-01T14:36:50.000Z",
+  "slides": [
+    "OpenAI's new agent targets Meta's social empire",
+    "It browses, clicks, and posts autonomously",
+    "But Meta's tools are already free",
+    "You still pay per task — unlike Meta",
+    "Test one workflow before you commit"
+  ],
+  "thread_text": [
+    "1. The agent that posts for you\n\nOpenAI just launched an agent that browses, clicks, and posts on social media without you. It’s a direct shot at Meta’s dominance.",
+    "2. Meta’s free alternative\n\nMeta already offers free tools that do similar tasks. So why pay per action when the competition gives it away?",
+    "3. The hidden cost per click\n\nOpenAI charges for every task your agent completes. Those small fees add up fast—especially if you’re running daily posts.",
+    "4. Who actually wins here\n\nIf Meta’s tools are free and OpenAI’s are metered, the real battle is over your workflow. Convenience vs. cost.",
+    "5. Try before you buy\n\nPick one repetitive social task you do this week. Run it manually, then test OpenAI’s agent on it. Does the time saved justify the bill?"
+  ],
+  "video_script": [
+    "OpenAI's new agent posts for you autonomously.",
+    "But Meta already offers similar tools for free.",
+    "You pay per task with OpenAI, unlike Meta.",
+    "So which one saves you money and time?",
+    "Test one workflow before you commit."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The agent that posts for you\n\nOpenAI just launched an agent that browses, clicks, and posts on social media without you. It’s a direct shot at Meta’s dominance.",
+        "2. Meta’s free alternative\n\nMeta already offers free tools that do similar tasks. So why pay per action when the competition gives it away?",
+        "3. The hidden cost per click\n\nOpenAI charges for every task your agent completes. Those small fees add up fast—especially if you’re running daily posts.",
+        "4. Who actually wins here\n\nIf Meta’s tools are free and OpenAI’s are metered, the real battle is over your workflow. Convenience vs. cost.",
+        "5. Try before you buy\n\nPick one repetitive social task you do this week. Run it manually, then test OpenAI’s agent on it. Does the time saved justify the bill?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI's new agent posts for you autonomously.",
+        "But Meta already offers similar tools for free.",
+        "You pay per task with OpenAI, unlike Meta.",
+        "So which one saves you money and time?",
+        "Test one workflow before you commit."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now pay an AI to post on social media for you.\n\nOpenAI launched an agent that browses, clicks, and posts on its own — a direct shot at Meta. 🎯\n\nProblem: Meta already offers similar tools for free.\n\nOpenAI charges you per task, so daily posts add up fast. 💸\n\nIf you publish content, this means weighing convenience against a bill that grows with every action.\n\nPick one repetitive task you do this week, run it manually, then test the agent on it. Does the time saved cover the cost? ⏱️"
+    }
+  },
+  "instagram_caption": "You can now pay an AI to post on social media for you.\n\nOpenAI launched an agent that browses, clicks, and posts on its own — a direct shot at Meta. 🎯\n\nProblem: Meta already offers similar tools for free.\n\nOpenAI charges you per task, so daily posts add up fast. 💸\n\nIf you publish content, this means weighing convenience against a bill that grows with every action.\n\nPick one repetitive task you do this week, run it manually, then test the agent on it. Does the time saved cover the cost? ⏱️",
+  "carousel_slides": [
+    {
+      "hook": "Why pay when Meta does it free?",
+      "description": "OpenAI's new agent browses, clicks, and posts autonomously, but Meta already offers similar tools for free, undermining the value.",
+      "visual_hint": "Split screen: paid vs free icons",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "social media icons"
+    },
+    {
+      "hook": "OpenAI's agent automates your social posts",
+      "description": "It browses, clicks, and posts without you, directly challenging Meta's dominance in social media automation.",
+      "visual_hint": "Robot hand clicking a mouse",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot hand computer",
+      "image": "https://images.pexels.com/photos/7688545/pexels-photo-7688545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Meta's tools are already free",
+      "description": "Meta provides free tools for similar tasks, so paying per action with OpenAI may not be worth it.",
+      "visual_hint": "Free tag on Meta logo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "facebook logo",
+      "image": "https://images.pexels.com/photos/13570163/pexels-photo-13570163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Hidden costs add up fast",
+      "description": "OpenAI charges per task your agent completes. Small fees accumulate quickly, especially with daily posting.",
+      "visual_hint": "Stack of coins with meter",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stack of coins",
+      "image": "https://images.pexels.com/photos/11743785/pexels-photo-11743785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try before you buy: test one workflow",
+      "description": "Pick a repetitive social task, run it manually, then test OpenAI's agent. Does time saved justify the cost?",
+      "visual_hint": "Checklist with task and timer",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297767958.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.754010807628%2C100%2C78.491978384743&amp;w=1200",
+  "savedAt": "2026-10-01T16:48:08.336Z",
+  "sourceId": "cdc4b946eb2571997dabd0e216235da7"
+}

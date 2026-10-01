@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "instagram-is-adding-an-ai-assistant-to-tell-you-ho",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+  "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+  "pubDate": "2026-09-30T14:30:00.000Z",
+  "slides": [
+    "Instagram wants AI to run your account?",
+    "A built-in assistant now suggests your next post",
+    "But it also rewrites captions it thinks are weak",
+    "Your reach may depend on pleasing its taste",
+    "Try one post its way and measure honestly"
+  ],
+  "thread_text": [
+    "1. Instagram wants AI to run your account?\n\nA new built-in assistant now suggests your next post — and your reach may soon depend on pleasing its taste.",
+    "2. It also rewrites your captions\n\nIf the AI thinks they're weak, it swaps them out. You might not even notice until after posting.",
+    "3. Your reach gets scored\n\nInstagram shows your content to fewer people if the AI doesn't like it. Its approval becomes your distribution.",
+    "4. The real cost of AI help\n\nYou save minutes, but you may lose your voice. Followers can tell when a machine wrote your post — and they'll scroll past.",
+    "5. Try one post its way\n\nLet the assistant suggest a post this week. Check the reach. Then decide if it's worth the edit time. Does it actually work for you?"
+  ],
+  "video_script": [
+    "Instagram now has an AI assistant that suggests your next post.",
+    "It can rewrite your caption if it thinks it is weak.",
+    "Your reach may depend on pleasing its taste.",
+    "That means your content gets scored by a machine.",
+    "Try one post its way and check the reach."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Instagram wants AI to run your account?\n\nA new built-in assistant now suggests your next post — and your reach may soon depend on pleasing its taste.",
+        "2. It also rewrites your captions\n\nIf the AI thinks they're weak, it swaps them out. You might not even notice until after posting.",
+        "3. Your reach gets scored\n\nInstagram shows your content to fewer people if the AI doesn't like it. Its approval becomes your distribution.",
+        "4. The real cost of AI help\n\nYou save minutes, but you may lose your voice. Followers can tell when a machine wrote your post — and they'll scroll past.",
+        "5. Try one post its way\n\nLet the assistant suggest a post this week. Check the reach. Then decide if it's worth the edit time. Does it actually work for you?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Instagram now has an AI assistant that suggests your next post.",
+        "It can rewrite your caption if it thinks it is weak.",
+        "Your reach may depend on pleasing its taste.",
+        "That means your content gets scored by a machine.",
+        "Try one post its way and check the reach."
+      ]
+    },
+    "instagram": {
+      "caption": "Instagram now suggests your next post for you.\n\nA built-in assistant picks your content, then rewrites captions it decides are weak. You might not notice until after you've posted.\n\nAnd if the AI doesn't like what you made, Instagram shows it to fewer people. Its approval becomes your reach. 🤖\n\nSo you save a few minutes, but your voice gets edited into someone else's taste. Followers can spot a machine-written caption and scroll past. 👀\n\nLet it draft one post this week, then check your reach. Did it actually work for you? 📉"
+    }
+  },
+  "instagram_caption": "Instagram now suggests your next post for you.\n\nA built-in assistant picks your content, then rewrites captions it decides are weak. You might not notice until after you've posted.\n\nAnd if the AI doesn't like what you made, Instagram shows it to fewer people. Its approval becomes your reach. 🤖\n\nSo you save a few minutes, but your voice gets edited into someone else's taste. Followers can spot a machine-written caption and scroll past. 👀\n\nLet it draft one post this week, then check your reach. Did it actually work for you? 📉",
+  "carousel_slides": [
+    {
+      "hook": "Is Instagram AI choosing who sees your posts?",
+      "description": "Instagram's new assistant suggests posts and scores your content; if the AI disapproves, your reach shrinks and fewer people see you.",
+      "visual_hint": "AI interface overlaying Instagram feed",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone screen"
+    },
+    {
+      "hook": "A built-in assistant now writes your next post",
+      "description": "The AI proposes your next post idea before you even start typing, turning creation into a one-tap response to its suggestions.",
+      "visual_hint": "Phone screen showing suggested post",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "mobile phone",
+      "image": "https://images.pexels.com/photos/17706936/pexels-photo-17706936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It rewrites your captions without asking",
+      "description": "If the AI judges your caption weak, it swaps in its own version; you might not notice until after you hit publish.",
+      "visual_hint": "Caption text being auto-edited",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "text editing screen",
+      "image": "https://images.pexels.com/photos/7983364/pexels-photo-7983364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your reach depends on pleasing its taste",
+      "description": "Instagram shows your content to fewer people when the AI dislikes it, so its approval becomes the gatekeeper of your distribution.",
+      "visual_hint": "Declining reach graph on dashboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "analytics dashboard",
+      "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try one AI-suggested post this week",
+      "description": "Let the assistant suggest one post this week, check the reach, then decide if the edit time was worth it for you.",
+      "visual_hint": "Hand tapping publish button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "social media phone",
+      "image": "https://images.pexels.com/photos/3850266/pexels-photo-3850266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-01T16:48:16.051Z",
+  "sourceId": "99fba4b37980fcc536e18cf7a9686e6b"
+}

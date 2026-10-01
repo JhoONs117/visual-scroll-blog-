@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "shopify-debuts-canvas-a-way-to-build-online-stores",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+  "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+  "pubDate": "Thu, 01 Oct 2026 16:44:35 +0000",
+  "slides": [
+    "What if you could build a store by chatting?",
+    "Shopify just launched Canvas, an AI-powered store builder.",
+    "It generates entire storefronts from a single conversation.",
+    "You can now create a store without writing code.",
+    "Try it: describe your dream store in a chat."
+  ],
+  "thread_text": [
+    "1. Chat your store into existence\n\nShopify's new Canvas tool turns a conversation into a full online store. No code, no templates.",
+    "2. AI builds the whole storefront\n\nCanvas generates layout, product pages, and checkout from a single chat. You just describe what you want.",
+    "3. No code? No problem.\n\nYou can now launch a store without touching a single line of code. Just type a description and hit enter.",
+    "4. From idea to live in minutes\n\nWhat used to take weeks of design and setup now happens in one conversation. Speed changes everything.",
+    "5. Your turn: dream it, then chat it\n\nOpen Shopify Canvas and type your dream store. See what it builds. Then tell me: would you trust AI with your brand?"
+  ],
+  "video_script": [
+    "Imagine building a store just by chatting.",
+    "Shopify Canvas is an AI store builder.",
+    "It creates whole storefronts from one talk.",
+    "No code needed, ever.",
+    "Try it: describe your dream store now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Chat your store into existence\n\nShopify's new Canvas tool turns a conversation into a full online store. No code, no templates.",
+        "2. AI builds the whole storefront\n\nCanvas generates layout, product pages, and checkout from a single chat. You just describe what you want.",
+        "3. No code? No problem.\n\nYou can now launch a store without touching a single line of code. Just type a description and hit enter.",
+        "4. From idea to live in minutes\n\nWhat used to take weeks of design and setup now happens in one conversation. Speed changes everything.",
+        "5. Your turn: dream it, then chat it\n\nOpen Shopify Canvas and type your dream store. See what it builds. Then tell me: would you trust AI with your brand?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Imagine building a store just by chatting.",
+        "Shopify Canvas is an AI store builder.",
+        "It creates whole storefronts from one talk.",
+        "No code needed, ever.",
+        "Try it: describe your dream store now."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now build a whole online store by chatting.\n\nShopify just launched Canvas: you describe the shop you want, and the AI generates layout, product pages and checkout from that one conversation. 💬\n\nNo code, no templates.\n\nWhat used to take weeks of design now happens in minutes.\n\nIf you sell anything online, the setup work you keep postponing just got shorter. 🛠️\n\nWould you let AI build your brand's storefront, or do you want to control every pixel yourself? 🤔"
+    }
+  },
+  "instagram_caption": "You can now build a whole online store by chatting.\n\nShopify just launched Canvas: you describe the shop you want, and the AI generates layout, product pages and checkout from that one conversation. 💬\n\nNo code, no templates.\n\nWhat used to take weeks of design now happens in minutes.\n\nIf you sell anything online, the setup work you keep postponing just got shorter. 🛠️\n\nWould you let AI build your brand's storefront, or do you want to control every pixel yourself? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Build a store by chatting?",
+      "description": "Shopify Canvas turns a single conversation into a complete online storefront, generating layout, product pages, and checkout automatically.",
+      "visual_hint": "Chat interface transforming into storefront",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone chat app"
+    },
+    {
+      "hook": "Forget code. Just describe it.",
+      "description": "Canvas generates entire storefronts from one chat, so you can launch without touching code or choosing templates.",
+      "visual_hint": "Split screen chat and store preview",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer screen code",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Weeks of work, now minutes.",
+      "description": "What used to take weeks of design and setup now happens in one conversation, changing how fast you launch.",
+      "visual_hint": "Clock dissolving into chat bubbles",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "hourglass sand timer",
+      "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No code? No problem.",
+      "description": "You can launch a store without writing a single line of code, simply by typing a description and hitting enter.",
+      "visual_hint": "Hand typing on keyboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands typing keyboard",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ready to chat your store?",
+      "description": "Open Shopify Canvas, type your dream store, and see what it builds. Would you trust AI with your brand?",
+      "visual_hint": "Chat input with store icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "shopping online store",
+      "image": "https://images.pexels.com/photos/7661069/pexels-photo-7661069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517",
+  "savedAt": "2026-10-01T16:47:50.101Z",
+  "sourceId": "4aa9873d3078b31451f0f45e5f9f23d2"
+}
