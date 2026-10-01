@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "here-8217-s-what-ai-leaders-are-saying-about-trump",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+  "pubDate": "2026-09-30T17:15:49.000Z",
+  "slides": [
+    "Trump's new AI safety plan: what are leaders hiding?",
+    "It demands federal audits for powerful models",
+    "But top labs call it voluntary guidance, not law",
+    "Your compliance team must document model risks now",
+    "Ask vendors for audit trails before renewal"
+  ],
+  "thread_text": [
+    "1. The Quiet Loophole\n\nTrump's AI safety plan demands federal audits for powerful models. But top labs are already calling it voluntary guidance, not law.",
+    "2. Audits Without Teeth\n\nThe plan requires independent auditors to test dangerous capabilities. Labs say they'll comply only if it doesn't slow them down.",
+    "3. Your Team's Blind Spot\n\nYour compliance team must document model risks now. The federal guidance may never become law, but insurers and courts are already asking.",
+    "4. Vendors Dodge the Question\n\nAsk vendors for audit trails before renewal. If they can't produce one, you're the one holding the liability.",
+    "5. Test Your Vendor Today\n\nTake your top AI vendor and ask for their last audit report. If they don't have one, what does that tell you?"
+  ],
+  "video_script": [
+    "Trump's AI plan wants federal audits.",
+    "Labs call it voluntary, not law.",
+    "Your team must document model risks now.",
+    "Ask vendors for audit trails before renewal.",
+    "Test your top vendor today. Ask for proof."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Quiet Loophole\n\nTrump's AI safety plan demands federal audits for powerful models. But top labs are already calling it voluntary guidance, not law.",
+        "2. Audits Without Teeth\n\nThe plan requires independent auditors to test dangerous capabilities. Labs say they'll comply only if it doesn't slow them down.",
+        "3. Your Team's Blind Spot\n\nYour compliance team must document model risks now. The federal guidance may never become law, but insurers and courts are already asking.",
+        "4. Vendors Dodge the Question\n\nAsk vendors for audit trails before renewal. If they can't produce one, you're the one holding the liability.",
+        "5. Test Your Vendor Today\n\nTake your top AI vendor and ask for their last audit report. If they don't have one, what does that tell you?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Trump's AI plan wants federal audits.",
+        "Labs call it voluntary, not law.",
+        "Your team must document model risks now.",
+        "Ask vendors for audit trails before renewal.",
+        "Test your top vendor today. Ask for proof."
+      ]
+    },
+    "instagram": {
+      "caption": "Federal audits for powerful AI models are now on the table, but top labs are calling the plan voluntary guidance, not law.\n\nSo the audits exist on paper, not in court. Labs say they'll comply only if it doesn't slow them down. ⚠️\n\nMeanwhile your compliance team still has to document model risks, because insurers and courts are already asking for them.\n\nAsk your top AI vendor for their last audit report before you renew. 🧾\n\nIf they can't produce one, the liability sits with you. 🔍\n\nWhat does it tell you if they have nothing to show?"
+    }
+  },
+  "instagram_caption": "Federal audits for powerful AI models are now on the table, but top labs are calling the plan voluntary guidance, not law.\n\nSo the audits exist on paper, not in court. Labs say they'll comply only if it doesn't slow them down. ⚠️\n\nMeanwhile your compliance team still has to document model risks, because insurers and courts are already asking for them.\n\nAsk your top AI vendor for their last audit report before you renew. 🧾\n\nIf they can't produce one, the liability sits with you. 🔍\n\nWhat does it tell you if they have nothing to show?",
+  "carousel_slides": [
+    {
+      "hook": "Is your AI vendor hiding their audit?",
+      "description": "The plan demands federal audits, but top labs already call it voluntary guidance, not binding law. Enforcement remains uncertain.",
+      "visual_hint": "Gavel beside glowing server rack",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Federal audits are now on the table",
+      "description": "Independent auditors must test dangerous model capabilities, but labs say they'll comply only if it doesn't slow them down.",
+      "visual_hint": "Auditor reviewing code on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The law may never arrive",
+      "description": "Your compliance team must document model risks now, because insurers and courts are already asking for evidence.",
+      "visual_hint": "Compliance officer reviewing documents",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "legal documents",
+      "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your vendor can't show the receipts",
+      "description": "Ask vendors for audit trails before renewal. If they can't produce one, you're the one holding the liability.",
+      "visual_hint": "Signed contract on office desk",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "business contract",
+      "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next renewal",
+      "description": "Take your top AI vendor and request their last audit report today. Comment what you find below.",
+      "visual_hint": "Person holding smartphone with checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.728009376723%2C100%2C78.543981246555&amp;w=1200",
+  "savedAt": "2026-10-01T08:03:50.165Z",
+  "sourceId": "11a1f3460e4780dcf74c16dd767b44ec"
+}

@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "all-the-latest-news-on-meta-s-cute-creepy-muse-ai-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+      "pubDate": "2026-09-30T15:18:49.000Z",
+      "slides": [
+        "Meta's Muse AI agent: cute or creepy?",
+        "It engages users with playful, humanlike conversation",
+        "Yet it harvests deeply personal data without asking",
+        "Opt out of Muse training in settings today",
+        "One question: will you trade privacy for charm?"
+      ],
+      "thread_text": [
+        "1. Charm at what cost?\n\nMeta's new Muse AI agent chats playfully, but it quietly harvests deeply personal data without asking.",
+        "2. Playful but invasive\n\nMuse engages users with humanlike conversation, making the data collection feel less like surveillance and more like friendship.",
+        "3. No opt-out prompt\n\nYou're not asked for permission. The default setting trains Muse on your most intimate exchanges.",
+        "4. You can still escape\n\nGo to settings today and toggle off Muse training. It's a few taps that could protect your privacy.",
+        "5. Will you trade privacy?\n\nYour charm threshold is being tested. Does the conversation feel worth the cost? Answer for yourself."
+      ],
+      "video_script": [
+        "Meta's Muse AI chats like a friend.",
+        "But it harvests your personal data without asking.",
+        "No permission needed, it's on by default.",
+        "Opt out in settings today.",
+        "Will you trade privacy for charm?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Charm at what cost?\n\nMeta's new Muse AI agent chats playfully, but it quietly harvests deeply personal data without asking.",
+            "2. Playful but invasive\n\nMuse engages users with humanlike conversation, making the data collection feel less like surveillance and more like friendship.",
+            "3. No opt-out prompt\n\nYou're not asked for permission. The default setting trains Muse on your most intimate exchanges.",
+            "4. You can still escape\n\nGo to settings today and toggle off Muse training. It's a few taps that could protect your privacy.",
+            "5. Will you trade privacy?\n\nYour charm threshold is being tested. Does the conversation feel worth the cost? Answer for yourself."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta's Muse AI chats like a friend.",
+            "But it harvests your personal data without asking.",
+            "No permission needed, it's on by default.",
+            "Opt out in settings today.",
+            "Will you trade privacy for charm?"
+          ]
+        },
+        "instagram": {
+          "caption": "Meta's new Muse AI agent chats like a friend, then pockets your most personal exchanges.\n\nIt feels playful and human. 😊\n\nBut you're never asked for permission — the default setting trains Muse on what you tell it.\n\nThat includes the stuff you'd only say to someone you trust.\n\nIf you use Meta apps, go to settings today and toggle off Muse training. A few taps.\n\nSo: how charming does a chatbot have to be before you hand over your secrets? 🤔"
+        }
+      },
+      "instagram_caption": "Meta's new Muse AI agent chats like a friend, then pockets your most personal exchanges.\n\nIt feels playful and human. 😊\n\nBut you're never asked for permission — the default setting trains Muse on what you tell it.\n\nThat includes the stuff you'd only say to someone you trust.\n\nIf you use Meta apps, go to settings today and toggle off Muse training. A few taps.\n\nSo: how charming does a chatbot have to be before you hand over your secrets? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Charm without consent: a privacy trade?",
+          "description": "Meta's Muse AI agent collects deeply personal data without asking permission, making surveillance feel like friendship.",
+          "visual_hint": "Abstract humanoid robot face close-up",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "humanoid robot"
+        },
+        {
+          "hook": "Playful chats, invasive data harvesting",
+          "description": "Muse engages users with humanlike conversation, but the charm masks deep data collection that feels less like surveillance.",
+          "visual_hint": "Smartphone screen with chat bubbles",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartphone screen",
+          "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No opt-out, your data trains Muse",
+          "description": "By default, your intimate exchanges train Muse without a permission prompt, harvesting personal data automatically.",
+          "visual_hint": "Data streams flowing into server",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Escape the training: toggle off now",
+          "description": "You can still opt out: go to settings and turn off Muse training. A few taps protect your privacy.",
+          "visual_hint": "Hand tapping settings toggle on phone",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand phone",
+          "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Will you trade privacy for charm?",
+          "description": "Your charm threshold is tested. Save this post and check your settings to disable Muse training today.",
+          "visual_hint": "Person holding phone with concerned look",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "person phone",
+          "image": "https://images.pexels.com/photos/32619789/pexels-photo-32619789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+      "savedAt": "2026-10-01T08:03:58.227Z",
+      "sourceId": "44aebdaabbbf244ddb899389aeed160e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "here-8217-s-what-ai-leaders-are-saying-about-trump",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+      "pubDate": "2026-09-30T17:15:49.000Z",
+      "slides": [
+        "Trump's new AI safety plan: what are leaders hiding?",
+        "It demands federal audits for powerful models",
+        "But top labs call it voluntary guidance, not law",
+        "Your compliance team must document model risks now",
+        "Ask vendors for audit trails before renewal"
+      ],
+      "thread_text": [
+        "1. The Quiet Loophole\n\nTrump's AI safety plan demands federal audits for powerful models. But top labs are already calling it voluntary guidance, not law.",
+        "2. Audits Without Teeth\n\nThe plan requires independent auditors to test dangerous capabilities. Labs say they'll comply only if it doesn't slow them down.",
+        "3. Your Team's Blind Spot\n\nYour compliance team must document model risks now. The federal guidance may never become law, but insurers and courts are already asking.",
+        "4. Vendors Dodge the Question\n\nAsk vendors for audit trails before renewal. If they can't produce one, you're the one holding the liability.",
+        "5. Test Your Vendor Today\n\nTake your top AI vendor and ask for their last audit report. If they don't have one, what does that tell you?"
+      ],
+      "video_script": [
+        "Trump's AI plan wants federal audits.",
+        "Labs call it voluntary, not law.",
+        "Your team must document model risks now.",
+        "Ask vendors for audit trails before renewal.",
+        "Test your top vendor today. Ask for proof."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Quiet Loophole\n\nTrump's AI safety plan demands federal audits for powerful models. But top labs are already calling it voluntary guidance, not law.",
+            "2. Audits Without Teeth\n\nThe plan requires independent auditors to test dangerous capabilities. Labs say they'll comply only if it doesn't slow them down.",
+            "3. Your Team's Blind Spot\n\nYour compliance team must document model risks now. The federal guidance may never become law, but insurers and courts are already asking.",
+            "4. Vendors Dodge the Question\n\nAsk vendors for audit trails before renewal. If they can't produce one, you're the one holding the liability.",
+            "5. Test Your Vendor Today\n\nTake your top AI vendor and ask for their last audit report. If they don't have one, what does that tell you?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Trump's AI plan wants federal audits.",
+            "Labs call it voluntary, not law.",
+            "Your team must document model risks now.",
+            "Ask vendors for audit trails before renewal.",
+            "Test your top vendor today. Ask for proof."
+          ]
+        },
+        "instagram": {
+          "caption": "Federal audits for powerful AI models are now on the table, but top labs are calling the plan voluntary guidance, not law.\n\nSo the audits exist on paper, not in court. Labs say they'll comply only if it doesn't slow them down. ⚠️\n\nMeanwhile your compliance team still has to document model risks, because insurers and courts are already asking for them.\n\nAsk your top AI vendor for their last audit report before you renew. 🧾\n\nIf they can't produce one, the liability sits with you. 🔍\n\nWhat does it tell you if they have nothing to show?"
+        }
+      },
+      "instagram_caption": "Federal audits for powerful AI models are now on the table, but top labs are calling the plan voluntary guidance, not law.\n\nSo the audits exist on paper, not in court. Labs say they'll comply only if it doesn't slow them down. ⚠️\n\nMeanwhile your compliance team still has to document model risks, because insurers and courts are already asking for them.\n\nAsk your top AI vendor for their last audit report before you renew. 🧾\n\nIf they can't produce one, the liability sits with you. 🔍\n\nWhat does it tell you if they have nothing to show?",
+      "carousel_slides": [
+        {
+          "hook": "Is your AI vendor hiding their audit?",
+          "description": "The plan demands federal audits, but top labs already call it voluntary guidance, not binding law. Enforcement remains uncertain.",
+          "visual_hint": "Gavel beside glowing server rack",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Federal audits are now on the table",
+          "description": "Independent auditors must test dangerous model capabilities, but labs say they'll comply only if it doesn't slow them down.",
+          "visual_hint": "Auditor reviewing code on screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer code screen",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The law may never arrive",
+          "description": "Your compliance team must document model risks now, because insurers and courts are already asking for evidence.",
+          "visual_hint": "Compliance officer reviewing documents",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "legal documents",
+          "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your vendor can't show the receipts",
+          "description": "Ask vendors for audit trails before renewal. If they can't produce one, you're the one holding the liability.",
+          "visual_hint": "Signed contract on office desk",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "business contract",
+          "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your next renewal",
+          "description": "Take your top AI vendor and request their last audit report today. Comment what you find below.",
+          "visual_hint": "Person holding smartphone with checklist",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.728009376723%2C100%2C78.543981246555&amp;w=1200",
+      "savedAt": "2026-10-01T08:03:50.165Z",
+      "sourceId": "11a1f3460e4780dcf74c16dd767b44ec"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "instagram-rolls-out-an-ai-video-assistant-for-crea",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Instagram rolls out an AI video assistant for creators",
+      "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
+      "pubDate": "Wed, 30 Sep 2026 14:30:00 +0000",
+      "slides": [
+        "What if Instagram's AI edited your videos?",
+        "A new assistant for Instagram creators",
+        "But it only works for select creators",
+        "Your daily editing grind could shrink fast",
+        "Test one clip with it this week"
+      ],
+      "thread_text": [
+        "1. Instagram's AI Editor\n\nA new assistant for creators is being tested, but it only works for select accounts. Most people won't get access yet.",
+        "2. The Daily Editing Grind\n\nCreators spend hours cutting clips, adding captions, and syncing audio. This tool claims to shrink that to minutes.",
+        "3. Who Actually Gets It\n\nAccess is limited to a small group of creators. Everyone else has to wait or find workarounds.",
+        "4. What This Means for You\n\nIf you're not in the test group, your editing time stays the same. The gap between early and late adopters could widen.",
+        "5. Test One Clip Now\n\nTake a short video and run it through any AI editor you have access to. Does it save you time or create more work? Try it this week."
+      ],
+      "video_script": [
+        "Instagram's new AI assistant edits videos for creators.",
+        "But it only works for a select few right now.",
+        "Your daily editing grind could shrink fast.",
+        "Test one clip with any AI editor this week.",
+        "Does it save time or just add more work?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Instagram's AI Editor\n\nA new assistant for creators is being tested, but it only works for select accounts. Most people won't get access yet.",
+            "2. The Daily Editing Grind\n\nCreators spend hours cutting clips, adding captions, and syncing audio. This tool claims to shrink that to minutes.",
+            "3. Who Actually Gets It\n\nAccess is limited to a small group of creators. Everyone else has to wait or find workarounds.",
+            "4. What This Means for You\n\nIf you're not in the test group, your editing time stays the same. The gap between early and late adopters could widen.",
+            "5. Test One Clip Now\n\nTake a short video and run it through any AI editor you have access to. Does it save you time or create more work? Try it this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Instagram's new AI assistant edits videos for creators.",
+            "But it only works for a select few right now.",
+            "Your daily editing grind could shrink fast.",
+            "Test one clip with any AI editor this week.",
+            "Does it save time or just add more work?"
+          ]
+        },
+        "instagram": {
+          "caption": "Instagram is testing an AI video assistant that edits clips for you, but it's locked to a small group of creators right now.\n\nIt handles the cutting, captions, and audio sync that normally eat your afternoon.\n\nEveryone outside the test keeps editing the old way, by hand.\n\nIf you're not in the group, nothing changes for your workflow yet, and the gap between early and late access could widen.\n\nTry one short clip in any AI editor you already have this week. Does it actually save time, or just add steps? 🎬"
+        }
+      },
+      "instagram_caption": "Instagram is testing an AI video assistant that edits clips for you, but it's locked to a small group of creators right now.\n\nIt handles the cutting, captions, and audio sync that normally eat your afternoon.\n\nEveryone outside the test keeps editing the old way, by hand.\n\nIf you're not in the group, nothing changes for your workflow yet, and the gap between early and late access could widen.\n\nTry one short clip in any AI editor you already have this week. Does it actually save time, or just add steps? 🎬",
+      "carousel_slides": [
+        {
+          "hook": "Only select creators get AI editing?",
+          "description": "Instagram's AI video assistant is still in testing, limited to a small group. Most creators are locked out.",
+          "visual_hint": "Smartphone screen showing editing interface",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone editing app"
+        },
+        {
+          "hook": "A new assistant for Instagram creators",
+          "description": "It claims to cut clip cutting, captions, and audio syncing from hours to minutes. But it's not for everyone yet.",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "visual_hint": "Video timeline with AI icons",
+          "image_query": "video editing timeline",
+          "image": "https://images.pexels.com/photos/31718971/pexels-photo-31718971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Access is limited, most creators wait",
+          "description": "Only a small group gets the tool. Everyone else keeps grinding manually, widening the early adopter gap.",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "visual_hint": "Lock icon over creator profile",
+          "image_query": "locked smartphone screen",
+          "image": "https://images.pexels.com/photos/11857283/pexels-photo-11857283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your daily editing grind could shrink",
+          "description": "If you're not in the test group, your editing time stays the same. Hours lost to manual work continue.",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "visual_hint": "Hands on keyboard editing video",
+          "image_query": "hands editing laptop",
+          "image": "https://images.pexels.com/photos/7610449/pexels-photo-7610449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this for your next edit",
+          "description": "Take one short clip and run it through any AI editor you can access this week. See if it saves time.",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "visual_hint": "Phone with AI editing app open",
+          "image_query": "person using smartphone",
+          "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
+      "savedAt": "2026-10-01T08:03:42.101Z",
+      "sourceId": "54ee13af22de6047f4259f867e3c47aa"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-s-jev-clone-could-help-the-frontier-lab-sto",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "pubDate": "Wed, 30 Sep 2026 19:00:57 +0000",
+      "slides": [
+        "OpenAI's new Jev clone: can it stop swarming agents?",
+        "The lab's agents are multiplying, but control is slipping.",
+        "The clone learns by watching, not just obeying commands.",
+        "If deployed, you'll see fewer rogue agent incidents.",
+        "Test your own agents with oversight hooks now."
+      ],
+      "thread_text": [
+        "1. Clone That Learns by Watching\n\nOpenAI built a Jev-style clone to stop agent swarms from going rogue. It learns from observing behavior, not just commands.",
+        "2. Control Is Slipping\n\nLabs are deploying more autonomous agents every week. The old command-based guardrails can't keep up with the swarm.",
+        "3. Swarms Getting Smarter\n\nEach agent learns from the others, creating emergent behavior no one programmed. That's why oversight needs to be baked into the architecture.",
+        "4. Fewer Rogue Incidents\n\nIf deployed, the clone catches deviations before they cascade. Early tests show a sharp drop in runaway agent actions.",
+        "5. Test Your Own Agents Now\n\nGrab a sandbox and run your agents with oversight hooks. If you haven't tried it, that's where you start."
+      ],
+      "video_script": [
+        "OpenAI's new clone learns by watching, not obeying.",
+        "Your agents are multiplying, but control is slipping fast.",
+        "The clone spots rogue behavior before it spreads.",
+        "If deployed, you'll see fewer runaway agent incidents.",
+        "Test your own agents with oversight hooks today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Clone That Learns by Watching\n\nOpenAI built a Jev-style clone to stop agent swarms from going rogue. It learns from observing behavior, not just commands.",
+            "2. Control Is Slipping\n\nLabs are deploying more autonomous agents every week. The old command-based guardrails can't keep up with the swarm.",
+            "3. Swarms Getting Smarter\n\nEach agent learns from the others, creating emergent behavior no one programmed. That's why oversight needs to be baked into the architecture.",
+            "4. Fewer Rogue Incidents\n\nIf deployed, the clone catches deviations before they cascade. Early tests show a sharp drop in runaway agent actions.",
+            "5. Test Your Own Agents Now\n\nGrab a sandbox and run your agents with oversight hooks. If you haven't tried it, that's where you start."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI's new clone learns by watching, not obeying.",
+            "Your agents are multiplying, but control is slipping fast.",
+            "The clone spots rogue behavior before it spreads.",
+            "If deployed, you'll see fewer runaway agent incidents.",
+            "Test your own agents with oversight hooks today."
+          ]
+        },
+        "instagram": {
+          "caption": "Your agents can start acting in ways nobody programmed—and you won't see it coming.\n\nOpenAI built a Jev-style clone that learns by watching behavior, not just obeying commands. Teams are deploying more autonomous agents every week, and the old guardrails can't keep up.\n\nEach agent learns from the others, so runaway actions cascade before anyone notices. Early tests show the clone catches deviations and sharply cuts rogue incidents. 🤖\n\nIf you run agents in production, this is your blind spot. 👀\n\nWould you trust a watcher clone over your own oversight hooks? 🛠️"
+        }
+      },
+      "instagram_caption": "Your agents can start acting in ways nobody programmed—and you won't see it coming.\n\nOpenAI built a Jev-style clone that learns by watching behavior, not just obeying commands. Teams are deploying more autonomous agents every week, and the old guardrails can't keep up.\n\nEach agent learns from the others, so runaway actions cascade before anyone notices. Early tests show the clone catches deviations and sharply cuts rogue incidents. 🤖\n\nIf you run agents in production, this is your blind spot. 👀\n\nWould you trust a watcher clone over your own oversight hooks? 🛠️",
+      "carousel_slides": [
+        {
+          "hook": "Can oversight be baked into agent architecture?",
+          "description": "OpenAI's Jev-style clone learns by watching behavior, not commands, to stop swarming agents from going rogue.",
+          "visual_hint": "Close-up of code on screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer code"
+        },
+        {
+          "hook": "Control is slipping as agents multiply",
+          "description": "Labs deploy more autonomous agents weekly; old command-based guardrails can't keep up with the swarm.",
+          "visual_hint": "Multiple robot arms in factory",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "factory robots",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Swarms learn from each other",
+          "description": "Each agent learns from others, creating emergent behavior no one programmed, so oversight must be in the architecture.",
+          "visual_hint": "Network of connected nodes",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "neural network",
+          "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fewer rogue agent incidents ahead",
+          "description": "If deployed, the clone catches deviations before they cascade; early tests show a sharp drop in runaway actions.",
+          "visual_hint": "Dashboard with declining incident graph",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your agents with oversight hooks now",
+          "description": "Grab a sandbox and run your agents with oversight hooks to prevent rogue behavior. Start today.",
+          "visual_hint": "Person typing on laptop in sandbox",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "person typing laptop",
+          "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297228249.jpg?resize=1200,800",
+      "savedAt": "2026-10-01T08:03:34.357Z",
+      "sourceId": "b8d72f3674ce3433a0a76d5a8f499a2a"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "destro-ai-s-secret-sauce-is-getting-robots-and-hum",
       "prompt_version": "1.0.0",
       "status": "published",

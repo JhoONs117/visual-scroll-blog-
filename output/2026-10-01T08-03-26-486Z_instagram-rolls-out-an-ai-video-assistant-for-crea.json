@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "instagram-rolls-out-an-ai-video-assistant-for-crea",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Instagram rolls out an AI video assistant for creators",
+  "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
+  "pubDate": "Wed, 30 Sep 2026 14:30:00 +0000",
+  "slides": [
+    "What if Instagram's AI edited your videos?",
+    "A new assistant for Instagram creators",
+    "But it only works for select creators",
+    "Your daily editing grind could shrink fast",
+    "Test one clip with it this week"
+  ],
+  "thread_text": [
+    "1. Instagram's AI Editor\n\nA new assistant for creators is being tested, but it only works for select accounts. Most people won't get access yet.",
+    "2. The Daily Editing Grind\n\nCreators spend hours cutting clips, adding captions, and syncing audio. This tool claims to shrink that to minutes.",
+    "3. Who Actually Gets It\n\nAccess is limited to a small group of creators. Everyone else has to wait or find workarounds.",
+    "4. What This Means for You\n\nIf you're not in the test group, your editing time stays the same. The gap between early and late adopters could widen.",
+    "5. Test One Clip Now\n\nTake a short video and run it through any AI editor you have access to. Does it save you time or create more work? Try it this week."
+  ],
+  "video_script": [
+    "Instagram's new AI assistant edits videos for creators.",
+    "But it only works for a select few right now.",
+    "Your daily editing grind could shrink fast.",
+    "Test one clip with any AI editor this week.",
+    "Does it save time or just add more work?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Instagram's AI Editor\n\nA new assistant for creators is being tested, but it only works for select accounts. Most people won't get access yet.",
+        "2. The Daily Editing Grind\n\nCreators spend hours cutting clips, adding captions, and syncing audio. This tool claims to shrink that to minutes.",
+        "3. Who Actually Gets It\n\nAccess is limited to a small group of creators. Everyone else has to wait or find workarounds.",
+        "4. What This Means for You\n\nIf you're not in the test group, your editing time stays the same. The gap between early and late adopters could widen.",
+        "5. Test One Clip Now\n\nTake a short video and run it through any AI editor you have access to. Does it save you time or create more work? Try it this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Instagram's new AI assistant edits videos for creators.",
+        "But it only works for a select few right now.",
+        "Your daily editing grind could shrink fast.",
+        "Test one clip with any AI editor this week.",
+        "Does it save time or just add more work?"
+      ]
+    },
+    "instagram": {
+      "caption": "Instagram is testing an AI video assistant that edits clips for you, but it's locked to a small group of creators right now.\n\nIt handles the cutting, captions, and audio sync that normally eat your afternoon.\n\nEveryone outside the test keeps editing the old way, by hand.\n\nIf you're not in the group, nothing changes for your workflow yet, and the gap between early and late access could widen.\n\nTry one short clip in any AI editor you already have this week. Does it actually save time, or just add steps? 🎬"
+    }
+  },
+  "instagram_caption": "Instagram is testing an AI video assistant that edits clips for you, but it's locked to a small group of creators right now.\n\nIt handles the cutting, captions, and audio sync that normally eat your afternoon.\n\nEveryone outside the test keeps editing the old way, by hand.\n\nIf you're not in the group, nothing changes for your workflow yet, and the gap between early and late access could widen.\n\nTry one short clip in any AI editor you already have this week. Does it actually save time, or just add steps? 🎬",
+  "carousel_slides": [
+    {
+      "hook": "Only select creators get AI editing?",
+      "description": "Instagram's AI video assistant is still in testing, limited to a small group. Most creators are locked out.",
+      "visual_hint": "Smartphone screen showing editing interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone editing app"
+    },
+    {
+      "hook": "A new assistant for Instagram creators",
+      "description": "It claims to cut clip cutting, captions, and audio syncing from hours to minutes. But it's not for everyone yet.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Video timeline with AI icons",
+      "image_query": "video editing timeline",
+      "image": "https://images.pexels.com/photos/31718971/pexels-photo-31718971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Access is limited, most creators wait",
+      "description": "Only a small group gets the tool. Everyone else keeps grinding manually, widening the early adopter gap.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Lock icon over creator profile",
+      "image_query": "locked smartphone screen",
+      "image": "https://images.pexels.com/photos/11857283/pexels-photo-11857283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your daily editing grind could shrink",
+      "description": "If you're not in the test group, your editing time stays the same. Hours lost to manual work continue.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hands on keyboard editing video",
+      "image_query": "hands editing laptop",
+      "image": "https://images.pexels.com/photos/7610449/pexels-photo-7610449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your next edit",
+      "description": "Take one short clip and run it through any AI editor you can access this week. See if it saves time.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Phone with AI editing app open",
+      "image_query": "person using smartphone",
+      "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
+  "savedAt": "2026-10-01T08:03:42.101Z",
+  "sourceId": "54ee13af22de6047f4259f867e3c47aa"
+}
