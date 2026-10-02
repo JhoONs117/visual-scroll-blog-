@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "it-s-not-ai-anymore-it-s-super-intelligence-accord",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+  "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+  "pubDate": "Fri, 02 Oct 2026 17:48:16 +0000",
+  "slides": [
+    "Why is the White House suddenly saying superintelligence?",
+    "A new executive order rebrands AI policy overnight",
+    "It targets models nobody has publicly seen yet",
+    "Your compliance rules may shift within months",
+    "Watch the next federal AI guidance closely"
+  ],
+  "thread_text": [
+    "1. Superintelligence Order\n\nThe White House just dropped an executive order that rebrands AI policy overnight—and it targets models nobody has publicly seen yet.",
+    "2. Compliance Clock Ticking\n\nYour current AI rules might be obsolete in months. The order signals a shift toward regulating future systems, not just today's tools.",
+    "3. Invisible Models Hit\n\nIt’s not about ChatGPT or Gemini. The order aims at hypothetical superintelligent models that don’t exist yet, but could soon.",
+    "4. Rules Without Examples\n\nHow do you comply with regulations for technology that hasn’t been built? The order leaves that question wide open for now.",
+    "5. Watch Federal Guidance\n\nCheck for new federal AI guidance this quarter. If you build or deploy AI, simulate a compliance review for a model you haven’t released yet."
+  ],
+  "video_script": [
+    "White House just said superintelligence in an executive order.",
+    "Your AI compliance rules could shift within months.",
+    "It targets models nobody has publicly seen yet.",
+    "How do you regulate something that doesn't exist?",
+    "Watch next federal AI guidance closely. Review your roadmap."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Superintelligence Order\n\nThe White House just dropped an executive order that rebrands AI policy overnight—and it targets models nobody has publicly seen yet.",
+        "2. Compliance Clock Ticking\n\nYour current AI rules might be obsolete in months. The order signals a shift toward regulating future systems, not just today's tools.",
+        "3. Invisible Models Hit\n\nIt’s not about ChatGPT or Gemini. The order aims at hypothetical superintelligent models that don’t exist yet, but could soon.",
+        "4. Rules Without Examples\n\nHow do you comply with regulations for technology that hasn’t been built? The order leaves that question wide open for now.",
+        "5. Watch Federal Guidance\n\nCheck for new federal AI guidance this quarter. If you build or deploy AI, simulate a compliance review for a model you haven’t released yet."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "White House just said superintelligence in an executive order.",
+        "Your AI compliance rules could shift within months.",
+        "It targets models nobody has publicly seen yet.",
+        "How do you regulate something that doesn't exist?",
+        "Watch next federal AI guidance closely. Review your roadmap."
+      ]
+    },
+    "instagram": {
+      "caption": "A new executive order wants your AI compliance rules to cover models that haven't been built yet. 🧠\n\nThe White House is rebranding AI policy around \"superintelligence\"—regulating future systems, not today's tools like ChatGPT.\n\nIt targets hypothetical models nobody has publicly seen. 📋\n\nSo how do you comply with rules for technology that doesn't exist? The order leaves that open.\n\nIf you build or deploy AI, your current rules could be obsolete within months.\n\nWould you pass a compliance review for a model you haven't released? 🔍"
+    }
+  },
+  "instagram_caption": "A new executive order wants your AI compliance rules to cover models that haven't been built yet. 🧠\n\nThe White House is rebranding AI policy around \"superintelligence\"—regulating future systems, not today's tools like ChatGPT.\n\nIt targets hypothetical models nobody has publicly seen. 📋\n\nSo how do you comply with rules for technology that doesn't exist? The order leaves that open.\n\nIf you build or deploy AI, your current rules could be obsolete within months.\n\nWould you pass a compliance review for a model you haven't released? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Rules for AI that doesn't exist yet?",
+      "description": "The White House targets hypothetical superintelligent models nobody has seen, yet compliance rules could shift within months.",
+      "visual_hint": "Abstract glowing brain hologram over dark surface",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "server room"
+    },
+    {
+      "hook": "AI policy rebranded overnight by executive order",
+      "description": "A new executive order rebrands AI policy overnight, targeting future systems rather than today's publicly available tools.",
+      "visual_hint": "Official document with executive seal on desk",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "White House",
+      "image": "https://images.pexels.com/photos/32165574/pexels-photo-32165574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Invisible models in the regulatory crosshairs",
+      "description": "The order targets superintelligent models that don't exist yet, catching hypothetical systems and future developers off guard.",
+      "visual_hint": "Radar screen scanning empty digital space",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "radar screen",
+      "image": "https://images.pexels.com/photos/3862624/pexels-photo-3862624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your compliance rules may expire soon",
+      "description": "Your current AI rules might be obsolete in months, forcing a shift toward regulating future systems, not just today's.",
+      "visual_hint": "Hand holding a crumbling clock or hourglass",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hourglass sand",
+      "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Watch for new federal AI guidance this quarter",
+      "description": "If you build or deploy AI, simulate a compliance review for an unreleased model and save this for updates.",
+      "visual_hint": "Calendar with highlighted quarter and pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office calendar",
+      "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
+  "savedAt": "2026-10-02T21:37:29.669Z",
+  "sourceId": "398e0e7a6913fdf10337978a02d7e14e"
+}

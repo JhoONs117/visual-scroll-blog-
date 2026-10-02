@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "sean-parker-is-rebuilding-stability-ai-around-musi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Sean Parker is rebuilding Stability AI around music",
+  "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+  "pubDate": "Fri, 02 Oct 2026 21:09:14 +0000",
+  "slides": [
+    "Can Sean Parker save Stability AI?",
+    "The company is now betting on music generation",
+    "But its image tools were once the main draw",
+    "Music makers could soon get new AI tools",
+    "Test one Stability music demo this week"
+  ],
+  "thread_text": [
+    "1. Can Sean Parker rescue Stability AI?\n\nThe company that once led open-source image generation is now fighting for relevance. Sean Parker's involvement could reshape its future.",
+    "2. Stability bets on music AI\n\nWith image tools losing ground, Stability is pivoting to music generation. It's a risky move into a crowded field.",
+    "3. Image tools: the fading glory\n\nStable Diffusion was a breakthrough, but competitors like Midjourney and DALL-E have surged ahead. Stability's image business is now a shadow of its former self.",
+    "4. Music makers: new AI tools incoming\n\nProducers and artists could soon have powerful AI-assisted music creation tools. Stability's demo hints at what's coming.",
+    "5. Test a Stability music demo now\n\nTry one of their music generation demos this week. Does it deliver usable results, or is it just hype? Your feedback matters."
+  ],
+  "video_script": [
+    "Sean Parker might save Stability AI from irrelevance.",
+    "Now they're betting on music generation instead of images.",
+    "Their image tools used to be the main draw.",
+    "Music makers could get new AI tools soon.",
+    "Test one Stability music demo this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can Sean Parker rescue Stability AI?\n\nThe company that once led open-source image generation is now fighting for relevance. Sean Parker's involvement could reshape its future.",
+        "2. Stability bets on music AI\n\nWith image tools losing ground, Stability is pivoting to music generation. It's a risky move into a crowded field.",
+        "3. Image tools: the fading glory\n\nStable Diffusion was a breakthrough, but competitors like Midjourney and DALL-E have surged ahead. Stability's image business is now a shadow of its former self.",
+        "4. Music makers: new AI tools incoming\n\nProducers and artists could soon have powerful AI-assisted music creation tools. Stability's demo hints at what's coming.",
+        "5. Test a Stability music demo now\n\nTry one of their music generation demos this week. Does it deliver usable results, or is it just hype? Your feedback matters."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Sean Parker might save Stability AI from irrelevance.",
+        "Now they're betting on music generation instead of images.",
+        "Their image tools used to be the main draw.",
+        "Music makers could get new AI tools soon.",
+        "Test one Stability music demo this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Sean Parker is stepping in at Stability AI, and the company is now betting on music generation instead of image tools.\n\nStable Diffusion once led open-source image generation, but Midjourney and DALL-E pulled ahead. 🎛️\n\nNow producers could soon get AI-assisted music creation tools, and a demo is already out.\n\nIf you make music or content, this shift decides which tools land in your workflow next. 🎧\n\nAre you testing the Stability music demo this week, or waiting to see real results first? 🎹"
+    }
+  },
+  "instagram_caption": "Sean Parker is stepping in at Stability AI, and the company is now betting on music generation instead of image tools.\n\nStable Diffusion once led open-source image generation, but Midjourney and DALL-E pulled ahead. 🎛️\n\nNow producers could soon get AI-assisted music creation tools, and a demo is already out.\n\nIf you make music or content, this shift decides which tools land in your workflow next. 🎧\n\nAre you testing the Stability music demo this week, or waiting to see real results first? 🎹",
+  "carousel_slides": [
+    {
+      "hook": "Can Sean Parker rescue Stability AI?",
+      "description": "Stability once led open-source image generation but now fights for relevance. Parker's involvement could reshape its future direction.",
+      "visual_hint": "Parker silhouette facing glowing screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "tech conference stage"
+    },
+    {
+      "hook": "Stability bets big on music AI",
+      "description": "With image tools losing ground, Stability pivots to music generation. A risky move into a crowded field.",
+      "visual_hint": "Audio waveforms on studio monitor",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "music studio speakers",
+      "image": "https://images.pexels.com/photos/8198135/pexels-photo-8198135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stable Diffusion's glory days are fading",
+      "description": "Stable Diffusion was a breakthrough, but Midjourney and DALL-E surged ahead. Stability's image business is now a shadow of itself.",
+      "visual_hint": "Faded pixelated image on screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer graphics screen",
+      "image": "https://images.pexels.com/photos/2582933/pexels-photo-2582933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Producers could get powerful new AI tools",
+      "description": "Music makers may soon have AI-assisted creation tools. Stability's demo hints at what's coming for artists and producers.",
+      "visual_hint": "Hands on synthesizer keyboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "synthesizer keyboard closeup",
+      "image": "https://images.pexels.com/photos/16572549/pexels-photo-16572549.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try a Stability music demo now",
+      "description": "Test one of Stability's music generation demos this week. Does it deliver usable results or just hype? Share your feedback.",
+      "visual_hint": "Cursor clicking play button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "play button interface",
+      "image": "https://images.pexels.com/photos/8089672/pexels-photo-8089672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
+  "savedAt": "2026-10-02T21:37:13.559Z",
+  "sourceId": "f8f9945809c1e062c9fb5ef31d1793af"
+}

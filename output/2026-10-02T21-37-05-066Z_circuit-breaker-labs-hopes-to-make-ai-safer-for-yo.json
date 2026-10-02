@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "circuit-breaker-labs-hopes-to-make-ai-safer-for-yo",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+  "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+  "pubDate": "Fri, 02 Oct 2026 17:00:00 +0000",
+  "slides": [
+    "Circuit Breaker Labs asks: can AI be safe for your kids?",
+    "They build guardrails that monitor AI conversations in real time.",
+    "But the system flags harmless questions, missing real threats.",
+    "You'll soon choose: unchecked AI or frequent false alarms.",
+    "Test one AI tool with your child today, then decide."
+  ],
+  "thread_text": [
+    "1. The Hidden Cost of \"Safety\"\n\nCircuit Breaker Labs claims to make AI safe for kids with real-time guardrails. But early tests show it flags harmless questions while sleeping on the real threats.",
+    "2. What Guardrails Catch\n\nThe system monitors every chat for risky keywords. But a child asking about \"knives\" in a cooking context gets blocked, while grooming language slips through unnoticed.",
+    "3. The False Alarm Spiral\n\nWhen harmless questions trigger warnings, parents stop trusting the alerts. The real danger is buried in noise you learn to ignore.",
+    "4. Your Two Terrible Options\n\nUnchecked AI that teaches your kid anything, or a tool that cries wolf until you disable it. That's the choice Circuit Breaker Labs is selling.",
+    "5. Don't Take Their Word\n\nOpen one AI tool with your child today. Type something innocent and see what gets flagged. Then decide if \"safe\" means what they claim."
+  ],
+  "video_script": [
+    "Circuit Breaker Labs says their AI is safe for kids.",
+    "It flags innocent questions but misses real dangers.",
+    "Parents get bombarded with false alerts.",
+    "Soon you'll pick: no filter or constant fake alarms.",
+    "Test one AI tool with your child today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Hidden Cost of \"Safety\"\n\nCircuit Breaker Labs claims to make AI safe for kids with real-time guardrails. But early tests show it flags harmless questions while sleeping on the real threats.",
+        "2. What Guardrails Catch\n\nThe system monitors every chat for risky keywords. But a child asking about \"knives\" in a cooking context gets blocked, while grooming language slips through unnoticed.",
+        "3. The False Alarm Spiral\n\nWhen harmless questions trigger warnings, parents stop trusting the alerts. The real danger is buried in noise you learn to ignore.",
+        "4. Your Two Terrible Options\n\nUnchecked AI that teaches your kid anything, or a tool that cries wolf until you disable it. That's the choice Circuit Breaker Labs is selling.",
+        "5. Don't Take Their Word\n\nOpen one AI tool with your child today. Type something innocent and see what gets flagged. Then decide if \"safe\" means what they claim."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Circuit Breaker Labs says their AI is safe for kids.",
+        "It flags innocent questions but misses real dangers.",
+        "Parents get bombarded with false alerts.",
+        "Soon you'll pick: no filter or constant fake alarms.",
+        "Test one AI tool with your child today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your kid asks about knives while cooking and gets blocked. Ask something actually dangerous and nothing happens.\n\nCircuit Breaker Labs built real-time guardrails that scan every AI chat for risky words. Tests show they flag innocent questions but miss grooming language. 🚩\n\nParents drown in false alarms, then stop reading them. The real threat hides in that noise.\n\nIf you publish or build with AI tools, this becomes your problem too. 🤖\n\nOpen one AI tool with your child today. Type something harmless. See what gets flagged. 🧪\n\nWould you trust an alert system that cries wolf? 👀"
+    }
+  },
+  "instagram_caption": "Your kid asks about knives while cooking and gets blocked. Ask something actually dangerous and nothing happens.\n\nCircuit Breaker Labs built real-time guardrails that scan every AI chat for risky words. Tests show they flag innocent questions but miss grooming language. 🚩\n\nParents drown in false alarms, then stop reading them. The real threat hides in that noise.\n\nIf you publish or build with AI tools, this becomes your problem too. 🤖\n\nOpen one AI tool with your child today. Type something harmless. See what gets flagged. 🧪\n\nWould you trust an alert system that cries wolf? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Is Your Child's AI Guardrail Actually Working?",
+      "description": "Circuit Breaker Labs claims real-time safety. Early tests show harmless questions get flagged while genuine threats slip through.",
+      "visual_hint": "Parent and child looking at tablet together",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "tablet child screen"
+    },
+    {
+      "hook": "What Guardrails Actually Catch",
+      "description": "The system monitors chats for risky keywords. A cooking question about knives gets blocked, but grooming language goes unnoticed.",
+      "visual_hint": "Chat bubbles with warning icons on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "chat interface screen",
+      "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "False Alarms Kill Trust In Safety",
+      "description": "When harmless questions trigger warnings, parents stop trusting alerts. Real danger hides in noise you learn to ignore.",
+      "visual_hint": "Red warning alerts on smartphone screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "warning alert screen",
+      "image": "https://images.pexels.com/photos/9830823/pexels-photo-9830823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Two Terrible Choices, One Decision",
+      "description": "Unchecked AI that teaches anything, or a tool that cries wolf until disabled. That's the only choice being sold.",
+      "visual_hint": "Hand holding two different smartphones",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands holding smartphones",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save This Before Your Child Chats Again",
+      "description": "Open one AI tool with your child today. Type something innocent, see what gets flagged, and decide for yourself.",
+      "visual_hint": "Parent and child typing on laptop together",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop family desk",
+      "image": "https://images.pexels.com/photos/8055459/pexels-photo-8055459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Circuit-Labs-founders-2.jpeg?resize=1200,1037",
+  "savedAt": "2026-10-02T21:37:38.084Z",
+  "sourceId": "0b1cf3414054dc07df072c8735f09b3d"
+}

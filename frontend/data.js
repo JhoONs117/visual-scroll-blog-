@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "circuit-breaker-labs-hopes-to-make-ai-safer-for-yo",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+    "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+    "pubDate": "Fri, 02 Oct 2026 17:00:00 +0000",
+    "slides": [
+      "Circuit Breaker Labs asks: can AI be safe for your kids?",
+      "They build guardrails that monitor AI conversations in real time.",
+      "But the system flags harmless questions, missing real threats.",
+      "You'll soon choose: unchecked AI or frequent false alarms.",
+      "Test one AI tool with your child today, then decide."
+    ],
+    "thread_text": [
+      "1. The Hidden Cost of \"Safety\"\n\nCircuit Breaker Labs claims to make AI safe for kids with real-time guardrails. But early tests show it flags harmless questions while sleeping on the real threats.",
+      "2. What Guardrails Catch\n\nThe system monitors every chat for risky keywords. But a child asking about \"knives\" in a cooking context gets blocked, while grooming language slips through unnoticed.",
+      "3. The False Alarm Spiral\n\nWhen harmless questions trigger warnings, parents stop trusting the alerts. The real danger is buried in noise you learn to ignore.",
+      "4. Your Two Terrible Options\n\nUnchecked AI that teaches your kid anything, or a tool that cries wolf until you disable it. That's the choice Circuit Breaker Labs is selling.",
+      "5. Don't Take Their Word\n\nOpen one AI tool with your child today. Type something innocent and see what gets flagged. Then decide if \"safe\" means what they claim."
+    ],
+    "video_script": [
+      "Circuit Breaker Labs says their AI is safe for kids.",
+      "It flags innocent questions but misses real dangers.",
+      "Parents get bombarded with false alerts.",
+      "Soon you'll pick: no filter or constant fake alarms.",
+      "Test one AI tool with your child today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Hidden Cost of \"Safety\"\n\nCircuit Breaker Labs claims to make AI safe for kids with real-time guardrails. But early tests show it flags harmless questions while sleeping on the real threats.",
+          "2. What Guardrails Catch\n\nThe system monitors every chat for risky keywords. But a child asking about \"knives\" in a cooking context gets blocked, while grooming language slips through unnoticed.",
+          "3. The False Alarm Spiral\n\nWhen harmless questions trigger warnings, parents stop trusting the alerts. The real danger is buried in noise you learn to ignore.",
+          "4. Your Two Terrible Options\n\nUnchecked AI that teaches your kid anything, or a tool that cries wolf until you disable it. That's the choice Circuit Breaker Labs is selling.",
+          "5. Don't Take Their Word\n\nOpen one AI tool with your child today. Type something innocent and see what gets flagged. Then decide if \"safe\" means what they claim."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Circuit Breaker Labs says their AI is safe for kids.",
+          "It flags innocent questions but misses real dangers.",
+          "Parents get bombarded with false alerts.",
+          "Soon you'll pick: no filter or constant fake alarms.",
+          "Test one AI tool with your child today."
+        ]
+      },
+      "instagram": {
+        "caption": "Your kid asks about knives while cooking and gets blocked. Ask something actually dangerous and nothing happens.\n\nCircuit Breaker Labs built real-time guardrails that scan every AI chat for risky words. Tests show they flag innocent questions but miss grooming language. 🚩\n\nParents drown in false alarms, then stop reading them. The real threat hides in that noise.\n\nIf you publish or build with AI tools, this becomes your problem too. 🤖\n\nOpen one AI tool with your child today. Type something harmless. See what gets flagged. 🧪\n\nWould you trust an alert system that cries wolf? 👀"
+      }
+    },
+    "instagram_caption": "Your kid asks about knives while cooking and gets blocked. Ask something actually dangerous and nothing happens.\n\nCircuit Breaker Labs built real-time guardrails that scan every AI chat for risky words. Tests show they flag innocent questions but miss grooming language. 🚩\n\nParents drown in false alarms, then stop reading them. The real threat hides in that noise.\n\nIf you publish or build with AI tools, this becomes your problem too. 🤖\n\nOpen one AI tool with your child today. Type something harmless. See what gets flagged. 🧪\n\nWould you trust an alert system that cries wolf? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Is Your Child's AI Guardrail Actually Working?",
+        "description": "Circuit Breaker Labs claims real-time safety. Early tests show harmless questions get flagged while genuine threats slip through.",
+        "visual_hint": "Parent and child looking at tablet together",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "tablet child screen"
+      },
+      {
+        "hook": "What Guardrails Actually Catch",
+        "description": "The system monitors chats for risky keywords. A cooking question about knives gets blocked, but grooming language goes unnoticed.",
+        "visual_hint": "Chat bubbles with warning icons on screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "chat interface screen",
+        "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "False Alarms Kill Trust In Safety",
+        "description": "When harmless questions trigger warnings, parents stop trusting alerts. Real danger hides in noise you learn to ignore.",
+        "visual_hint": "Red warning alerts on smartphone screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "warning alert screen",
+        "image": "https://images.pexels.com/photos/9830823/pexels-photo-9830823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Two Terrible Choices, One Decision",
+        "description": "Unchecked AI that teaches anything, or a tool that cries wolf until disabled. That's the only choice being sold.",
+        "visual_hint": "Hand holding two different smartphones",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands holding smartphones",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save This Before Your Child Chats Again",
+        "description": "Open one AI tool with your child today. Type something innocent, see what gets flagged, and decide for yourself.",
+        "visual_hint": "Parent and child typing on laptop together",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop family desk",
+        "image": "https://images.pexels.com/photos/8055459/pexels-photo-8055459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Circuit-Labs-founders-2.jpeg?resize=1200,1037",
+    "savedAt": "2026-10-02T21:37:38.084Z",
+    "sourceId": "0b1cf3414054dc07df072c8735f09b3d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "it-s-not-ai-anymore-it-s-super-intelligence-accord",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+    "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+    "pubDate": "Fri, 02 Oct 2026 17:48:16 +0000",
+    "slides": [
+      "Why is the White House suddenly saying superintelligence?",
+      "A new executive order rebrands AI policy overnight",
+      "It targets models nobody has publicly seen yet",
+      "Your compliance rules may shift within months",
+      "Watch the next federal AI guidance closely"
+    ],
+    "thread_text": [
+      "1. Superintelligence Order\n\nThe White House just dropped an executive order that rebrands AI policy overnight—and it targets models nobody has publicly seen yet.",
+      "2. Compliance Clock Ticking\n\nYour current AI rules might be obsolete in months. The order signals a shift toward regulating future systems, not just today's tools.",
+      "3. Invisible Models Hit\n\nIt’s not about ChatGPT or Gemini. The order aims at hypothetical superintelligent models that don’t exist yet, but could soon.",
+      "4. Rules Without Examples\n\nHow do you comply with regulations for technology that hasn’t been built? The order leaves that question wide open for now.",
+      "5. Watch Federal Guidance\n\nCheck for new federal AI guidance this quarter. If you build or deploy AI, simulate a compliance review for a model you haven’t released yet."
+    ],
+    "video_script": [
+      "White House just said superintelligence in an executive order.",
+      "Your AI compliance rules could shift within months.",
+      "It targets models nobody has publicly seen yet.",
+      "How do you regulate something that doesn't exist?",
+      "Watch next federal AI guidance closely. Review your roadmap."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Superintelligence Order\n\nThe White House just dropped an executive order that rebrands AI policy overnight—and it targets models nobody has publicly seen yet.",
+          "2. Compliance Clock Ticking\n\nYour current AI rules might be obsolete in months. The order signals a shift toward regulating future systems, not just today's tools.",
+          "3. Invisible Models Hit\n\nIt’s not about ChatGPT or Gemini. The order aims at hypothetical superintelligent models that don’t exist yet, but could soon.",
+          "4. Rules Without Examples\n\nHow do you comply with regulations for technology that hasn’t been built? The order leaves that question wide open for now.",
+          "5. Watch Federal Guidance\n\nCheck for new federal AI guidance this quarter. If you build or deploy AI, simulate a compliance review for a model you haven’t released yet."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "White House just said superintelligence in an executive order.",
+          "Your AI compliance rules could shift within months.",
+          "It targets models nobody has publicly seen yet.",
+          "How do you regulate something that doesn't exist?",
+          "Watch next federal AI guidance closely. Review your roadmap."
+        ]
+      },
+      "instagram": {
+        "caption": "A new executive order wants your AI compliance rules to cover models that haven't been built yet. 🧠\n\nThe White House is rebranding AI policy around \"superintelligence\"—regulating future systems, not today's tools like ChatGPT.\n\nIt targets hypothetical models nobody has publicly seen. 📋\n\nSo how do you comply with rules for technology that doesn't exist? The order leaves that open.\n\nIf you build or deploy AI, your current rules could be obsolete within months.\n\nWould you pass a compliance review for a model you haven't released? 🔍"
+      }
+    },
+    "instagram_caption": "A new executive order wants your AI compliance rules to cover models that haven't been built yet. 🧠\n\nThe White House is rebranding AI policy around \"superintelligence\"—regulating future systems, not today's tools like ChatGPT.\n\nIt targets hypothetical models nobody has publicly seen. 📋\n\nSo how do you comply with rules for technology that doesn't exist? The order leaves that open.\n\nIf you build or deploy AI, your current rules could be obsolete within months.\n\nWould you pass a compliance review for a model you haven't released? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Rules for AI that doesn't exist yet?",
+        "description": "The White House targets hypothetical superintelligent models nobody has seen, yet compliance rules could shift within months.",
+        "visual_hint": "Abstract glowing brain hologram over dark surface",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "server room"
+      },
+      {
+        "hook": "AI policy rebranded overnight by executive order",
+        "description": "A new executive order rebrands AI policy overnight, targeting future systems rather than today's publicly available tools.",
+        "visual_hint": "Official document with executive seal on desk",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "White House",
+        "image": "https://images.pexels.com/photos/32165574/pexels-photo-32165574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Invisible models in the regulatory crosshairs",
+        "description": "The order targets superintelligent models that don't exist yet, catching hypothetical systems and future developers off guard.",
+        "visual_hint": "Radar screen scanning empty digital space",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "radar screen",
+        "image": "https://images.pexels.com/photos/3862624/pexels-photo-3862624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your compliance rules may expire soon",
+        "description": "Your current AI rules might be obsolete in months, forcing a shift toward regulating future systems, not just today's.",
+        "visual_hint": "Hand holding a crumbling clock or hourglass",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hourglass sand",
+        "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Watch for new federal AI guidance this quarter",
+        "description": "If you build or deploy AI, simulate a compliance review for an unreleased model and save this for updates.",
+        "visual_hint": "Calendar with highlighted quarter and pen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office calendar",
+        "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
+    "savedAt": "2026-10-02T21:37:29.669Z",
+    "sourceId": "398e0e7a6913fdf10337978a02d7e14e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "apple-says-it-s-tightening-macos-full-disk-access-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+    "pubDate": "Fri, 02 Oct 2026 18:11:27 +0000",
+    "slides": [
+      "Apple's new macOS blocks AI agents like you?",
+      "Full Disk Access now restricts apps, including AI assistants.",
+      "But AI agents may bypass these controls through indirect queries.",
+      "Update your Mac apps to avoid compatibility errors.",
+      "Review which apps need Full Disk Access—revoke it often."
+    ],
+    "thread_text": [
+      "1. Apple's new macOS just blocked AI agents\n\nApple's latest macOS update now prevents AI assistants from accessing your files without explicit permission. Full Disk Access is the new gatekeeper.",
+      "2. Full Disk Access now restricts apps\n\nAny app that wants to read your entire disk must be manually approved in System Settings. That includes AI tools that previously ran unchecked.",
+      "3. AI agents can still bypass controls\n\nInstead of direct file access, AI agents can query other apps or services that already have Full Disk Access. This indirect path leaves a loophole.",
+      "4. Update your Mac apps now\n\nOlder versions of apps may crash or lose functionality under the new restrictions. Check for updates to avoid compatibility errors.",
+      "5. Review which apps need Full Disk Access\n\nOpen System Settings > Privacy & Security > Full Disk Access. Revoke it from any app that doesn't absolutely need it. Do this today."
+    ],
+    "video_script": [
+      "Apple's new macOS blocks AI agents from your files.",
+      "Full Disk Access now requires manual approval for every app.",
+      "But AI agents can bypass by querying other apps.",
+      "Update your Mac apps to avoid compatibility errors.",
+      "Review Full Disk Access permissions and revoke often."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Apple's new macOS just blocked AI agents\n\nApple's latest macOS update now prevents AI assistants from accessing your files without explicit permission. Full Disk Access is the new gatekeeper.",
+          "2. Full Disk Access now restricts apps\n\nAny app that wants to read your entire disk must be manually approved in System Settings. That includes AI tools that previously ran unchecked.",
+          "3. AI agents can still bypass controls\n\nInstead of direct file access, AI agents can query other apps or services that already have Full Disk Access. This indirect path leaves a loophole.",
+          "4. Update your Mac apps now\n\nOlder versions of apps may crash or lose functionality under the new restrictions. Check for updates to avoid compatibility errors.",
+          "5. Review which apps need Full Disk Access\n\nOpen System Settings > Privacy & Security > Full Disk Access. Revoke it from any app that doesn't absolutely need it. Do this today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple's new macOS blocks AI agents from your files.",
+          "Full Disk Access now requires manual approval for every app.",
+          "But AI agents can bypass by querying other apps.",
+          "Update your Mac apps to avoid compatibility errors.",
+          "Review Full Disk Access permissions and revoke often."
+        ]
+      },
+      "instagram": {
+        "caption": "Your files aren't readable by AI assistants anymore without a green light. 🔐\n\nApple's new macOS update puts Full Disk Access in charge: every app that wants to scan your whole disk needs manual approval in System Settings.\n\nBut AI agents can still slip through by querying apps that already have access. A loophole, not a fix.\n\nIf you publish or create on a Mac, old app versions may crash. Update everything now. ⚠️\n\nThen open System Settings > Privacy & Security > Full Disk Access and revoke it from anything that doesn't truly need it. 🧹\n\nHave you checked which apps still have full access to your disk? 👀"
+      }
+    },
+    "instagram_caption": "Your files aren't readable by AI assistants anymore without a green light. 🔐\n\nApple's new macOS update puts Full Disk Access in charge: every app that wants to scan your whole disk needs manual approval in System Settings.\n\nBut AI agents can still slip through by querying apps that already have access. A loophole, not a fix.\n\nIf you publish or create on a Mac, old app versions may crash. Update everything now. ⚠️\n\nThen open System Settings > Privacy & Security > Full Disk Access and revoke it from anything that doesn't truly need it. 🧹\n\nHave you checked which apps still have full access to your disk? 👀",
+    "carousel_slides": [
+      {
+        "hook": "AI agents can still bypass disk controls",
+        "description": "AI agents may bypass Full Disk Access restrictions by querying apps that already hold permission, leaving a loophole in Apple's new macOS security.",
+        "visual_hint": "Magnifying glass on digital lock icon",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "magnifying glass lock"
+      },
+      {
+        "hook": "Full Disk Access now limits every app",
+        "description": "Any app reading your entire disk must be manually approved in System Settings, including AI tools that previously ran unchecked.",
+        "visual_hint": "System Settings privacy panel screenshot",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "macbook system settings",
+        "image": "https://images.pexels.com/photos/30530402/pexels-photo-30530402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Indirect queries create a security loophole",
+        "description": "Instead of direct file access, AI agents can query other apps that already have Full Disk Access, bypassing Apple's new gatekeeper entirely.",
+        "visual_hint": "Network diagram showing indirect data flow",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "network diagram computer",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Update your Mac apps to avoid crashes",
+        "description": "Older app versions may crash or lose functionality under new restrictions. Check for updates today to avoid compatibility errors.",
+        "visual_hint": "Hand tapping software update button",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "software update button",
+        "image": "https://images.pexels.com/photos/17789083/pexels-photo-17789083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Revoke Full Disk Access from unnecessary apps",
+        "description": "Open System Settings > Privacy & Security > Full Disk Access and revoke permission from any app that doesn't absolutely need it. Do it now.",
+        "visual_hint": "Checklist with apps being unchecked",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "privacy settings checklist",
+        "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800",
+    "savedAt": "2026-10-02T21:37:21.984Z",
+    "sourceId": "6a225a11d9fca6a952ccec24a725f7cd"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "sean-parker-is-rebuilding-stability-ai-around-musi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "pubDate": "Fri, 02 Oct 2026 21:09:14 +0000",
+    "slides": [
+      "Can Sean Parker save Stability AI?",
+      "The company is now betting on music generation",
+      "But its image tools were once the main draw",
+      "Music makers could soon get new AI tools",
+      "Test one Stability music demo this week"
+    ],
+    "thread_text": [
+      "1. Can Sean Parker rescue Stability AI?\n\nThe company that once led open-source image generation is now fighting for relevance. Sean Parker's involvement could reshape its future.",
+      "2. Stability bets on music AI\n\nWith image tools losing ground, Stability is pivoting to music generation. It's a risky move into a crowded field.",
+      "3. Image tools: the fading glory\n\nStable Diffusion was a breakthrough, but competitors like Midjourney and DALL-E have surged ahead. Stability's image business is now a shadow of its former self.",
+      "4. Music makers: new AI tools incoming\n\nProducers and artists could soon have powerful AI-assisted music creation tools. Stability's demo hints at what's coming.",
+      "5. Test a Stability music demo now\n\nTry one of their music generation demos this week. Does it deliver usable results, or is it just hype? Your feedback matters."
+    ],
+    "video_script": [
+      "Sean Parker might save Stability AI from irrelevance.",
+      "Now they're betting on music generation instead of images.",
+      "Their image tools used to be the main draw.",
+      "Music makers could get new AI tools soon.",
+      "Test one Stability music demo this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can Sean Parker rescue Stability AI?\n\nThe company that once led open-source image generation is now fighting for relevance. Sean Parker's involvement could reshape its future.",
+          "2. Stability bets on music AI\n\nWith image tools losing ground, Stability is pivoting to music generation. It's a risky move into a crowded field.",
+          "3. Image tools: the fading glory\n\nStable Diffusion was a breakthrough, but competitors like Midjourney and DALL-E have surged ahead. Stability's image business is now a shadow of its former self.",
+          "4. Music makers: new AI tools incoming\n\nProducers and artists could soon have powerful AI-assisted music creation tools. Stability's demo hints at what's coming.",
+          "5. Test a Stability music demo now\n\nTry one of their music generation demos this week. Does it deliver usable results, or is it just hype? Your feedback matters."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Sean Parker might save Stability AI from irrelevance.",
+          "Now they're betting on music generation instead of images.",
+          "Their image tools used to be the main draw.",
+          "Music makers could get new AI tools soon.",
+          "Test one Stability music demo this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Sean Parker is stepping in at Stability AI, and the company is now betting on music generation instead of image tools.\n\nStable Diffusion once led open-source image generation, but Midjourney and DALL-E pulled ahead. 🎛️\n\nNow producers could soon get AI-assisted music creation tools, and a demo is already out.\n\nIf you make music or content, this shift decides which tools land in your workflow next. 🎧\n\nAre you testing the Stability music demo this week, or waiting to see real results first? 🎹"
+      }
+    },
+    "instagram_caption": "Sean Parker is stepping in at Stability AI, and the company is now betting on music generation instead of image tools.\n\nStable Diffusion once led open-source image generation, but Midjourney and DALL-E pulled ahead. 🎛️\n\nNow producers could soon get AI-assisted music creation tools, and a demo is already out.\n\nIf you make music or content, this shift decides which tools land in your workflow next. 🎧\n\nAre you testing the Stability music demo this week, or waiting to see real results first? 🎹",
+    "carousel_slides": [
+      {
+        "hook": "Can Sean Parker rescue Stability AI?",
+        "description": "Stability once led open-source image generation but now fights for relevance. Parker's involvement could reshape its future direction.",
+        "visual_hint": "Parker silhouette facing glowing screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "tech conference stage"
+      },
+      {
+        "hook": "Stability bets big on music AI",
+        "description": "With image tools losing ground, Stability pivots to music generation. A risky move into a crowded field.",
+        "visual_hint": "Audio waveforms on studio monitor",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "music studio speakers",
+        "image": "https://images.pexels.com/photos/8198135/pexels-photo-8198135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stable Diffusion's glory days are fading",
+        "description": "Stable Diffusion was a breakthrough, but Midjourney and DALL-E surged ahead. Stability's image business is now a shadow of itself.",
+        "visual_hint": "Faded pixelated image on screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer graphics screen",
+        "image": "https://images.pexels.com/photos/2582933/pexels-photo-2582933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Producers could get powerful new AI tools",
+        "description": "Music makers may soon have AI-assisted creation tools. Stability's demo hints at what's coming for artists and producers.",
+        "visual_hint": "Hands on synthesizer keyboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "synthesizer keyboard closeup",
+        "image": "https://images.pexels.com/photos/16572549/pexels-photo-16572549.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try a Stability music demo now",
+        "description": "Test one of Stability's music generation demos this week. Does it deliver usable results or just hype? Share your feedback.",
+        "visual_hint": "Cursor clicking play button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "play button interface",
+        "image": "https://images.pexels.com/photos/8089672/pexels-photo-8089672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
+    "savedAt": "2026-10-02T21:37:13.559Z",
+    "sourceId": "f8f9945809c1e062c9fb5ef31d1793af"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "ai-music-maker-suno-now-generates-spoken-words",
     "prompt_version": "1.0.0",
     "status": "published",

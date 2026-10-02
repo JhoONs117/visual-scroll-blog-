@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-says-it-s-tightening-macos-full-disk-access-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+  "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+  "pubDate": "Fri, 02 Oct 2026 18:11:27 +0000",
+  "slides": [
+    "Apple's new macOS blocks AI agents like you?",
+    "Full Disk Access now restricts apps, including AI assistants.",
+    "But AI agents may bypass these controls through indirect queries.",
+    "Update your Mac apps to avoid compatibility errors.",
+    "Review which apps need Full Disk Access—revoke it often."
+  ],
+  "thread_text": [
+    "1. Apple's new macOS just blocked AI agents\n\nApple's latest macOS update now prevents AI assistants from accessing your files without explicit permission. Full Disk Access is the new gatekeeper.",
+    "2. Full Disk Access now restricts apps\n\nAny app that wants to read your entire disk must be manually approved in System Settings. That includes AI tools that previously ran unchecked.",
+    "3. AI agents can still bypass controls\n\nInstead of direct file access, AI agents can query other apps or services that already have Full Disk Access. This indirect path leaves a loophole.",
+    "4. Update your Mac apps now\n\nOlder versions of apps may crash or lose functionality under the new restrictions. Check for updates to avoid compatibility errors.",
+    "5. Review which apps need Full Disk Access\n\nOpen System Settings > Privacy & Security > Full Disk Access. Revoke it from any app that doesn't absolutely need it. Do this today."
+  ],
+  "video_script": [
+    "Apple's new macOS blocks AI agents from your files.",
+    "Full Disk Access now requires manual approval for every app.",
+    "But AI agents can bypass by querying other apps.",
+    "Update your Mac apps to avoid compatibility errors.",
+    "Review Full Disk Access permissions and revoke often."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Apple's new macOS just blocked AI agents\n\nApple's latest macOS update now prevents AI assistants from accessing your files without explicit permission. Full Disk Access is the new gatekeeper.",
+        "2. Full Disk Access now restricts apps\n\nAny app that wants to read your entire disk must be manually approved in System Settings. That includes AI tools that previously ran unchecked.",
+        "3. AI agents can still bypass controls\n\nInstead of direct file access, AI agents can query other apps or services that already have Full Disk Access. This indirect path leaves a loophole.",
+        "4. Update your Mac apps now\n\nOlder versions of apps may crash or lose functionality under the new restrictions. Check for updates to avoid compatibility errors.",
+        "5. Review which apps need Full Disk Access\n\nOpen System Settings > Privacy & Security > Full Disk Access. Revoke it from any app that doesn't absolutely need it. Do this today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple's new macOS blocks AI agents from your files.",
+        "Full Disk Access now requires manual approval for every app.",
+        "But AI agents can bypass by querying other apps.",
+        "Update your Mac apps to avoid compatibility errors.",
+        "Review Full Disk Access permissions and revoke often."
+      ]
+    },
+    "instagram": {
+      "caption": "Your files aren't readable by AI assistants anymore without a green light. 🔐\n\nApple's new macOS update puts Full Disk Access in charge: every app that wants to scan your whole disk needs manual approval in System Settings.\n\nBut AI agents can still slip through by querying apps that already have access. A loophole, not a fix.\n\nIf you publish or create on a Mac, old app versions may crash. Update everything now. ⚠️\n\nThen open System Settings > Privacy & Security > Full Disk Access and revoke it from anything that doesn't truly need it. 🧹\n\nHave you checked which apps still have full access to your disk? 👀"
+    }
+  },
+  "instagram_caption": "Your files aren't readable by AI assistants anymore without a green light. 🔐\n\nApple's new macOS update puts Full Disk Access in charge: every app that wants to scan your whole disk needs manual approval in System Settings.\n\nBut AI agents can still slip through by querying apps that already have access. A loophole, not a fix.\n\nIf you publish or create on a Mac, old app versions may crash. Update everything now. ⚠️\n\nThen open System Settings > Privacy & Security > Full Disk Access and revoke it from anything that doesn't truly need it. 🧹\n\nHave you checked which apps still have full access to your disk? 👀",
+  "carousel_slides": [
+    {
+      "hook": "AI agents can still bypass disk controls",
+      "description": "AI agents may bypass Full Disk Access restrictions by querying apps that already hold permission, leaving a loophole in Apple's new macOS security.",
+      "visual_hint": "Magnifying glass on digital lock icon",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "magnifying glass lock"
+    },
+    {
+      "hook": "Full Disk Access now limits every app",
+      "description": "Any app reading your entire disk must be manually approved in System Settings, including AI tools that previously ran unchecked.",
+      "visual_hint": "System Settings privacy panel screenshot",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "macbook system settings",
+      "image": "https://images.pexels.com/photos/30530402/pexels-photo-30530402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Indirect queries create a security loophole",
+      "description": "Instead of direct file access, AI agents can query other apps that already have Full Disk Access, bypassing Apple's new gatekeeper entirely.",
+      "visual_hint": "Network diagram showing indirect data flow",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "network diagram computer",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Update your Mac apps to avoid crashes",
+      "description": "Older app versions may crash or lose functionality under new restrictions. Check for updates today to avoid compatibility errors.",
+      "visual_hint": "Hand tapping software update button",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "software update button",
+      "image": "https://images.pexels.com/photos/17789083/pexels-photo-17789083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Revoke Full Disk Access from unnecessary apps",
+      "description": "Open System Settings > Privacy & Security > Full Disk Access and revoke permission from any app that doesn't absolutely need it. Do it now.",
+      "visual_hint": "Checklist with apps being unchecked",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "privacy settings checklist",
+      "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800",
+  "savedAt": "2026-10-02T21:37:21.984Z",
+  "sourceId": "6a225a11d9fca6a952ccec24a725f7cd"
+}
