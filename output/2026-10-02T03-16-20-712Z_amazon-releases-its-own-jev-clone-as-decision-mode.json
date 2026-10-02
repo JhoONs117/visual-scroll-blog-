@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "amazon-releases-its-own-jev-clone-as-decision-mode",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Amazon releases its own Jev clone as decision models flood the web",
+  "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+  "pubDate": "Thu, 01 Oct 2026 16:49:22 +0000",
+  "slides": [
+    "Amazon's Jev clone: just another AI?",
+    "It's a decision model, not a language model.",
+    "But Amazon's version can explain its own decisions.",
+    "You can now audit why an AI chose X over Y.",
+    "Try demanding an explanation from your AI today."
+  ],
+  "thread_text": [
+    "1. Amazon's AI clone: Just another AI?\n\nAmazon built a decision model, not a language model. It doesn't write poems. It makes choices — and then explains them.",
+    "2. It decides, not chats.\n\nUnlike most AI, this isn't trained to talk. It's trained to pick X over Y and show its work. That's a different beast entirely.",
+    "3. But can it explain why?\n\nYes. Amazon's version can audit its own decisions. You can ask why it chose X. Most AI just says 'trust me.' This one shows receipts.",
+    "4. You can audit the choice.\n\nFor the first time, businesses can trace why an AI picked one option over another. No black box. Just a log of reasoning.",
+    "5. Demand an explanation today.\n\nNext time your AI makes a call, ask it why. If it can't explain, maybe it shouldn't be deciding."
+  ],
+  "video_script": [
+    "Amazon just built an AI that doesn't chat.",
+    "It makes decisions and explains them.",
+    "You can finally audit why it chose X.",
+    "Most AI hides its reasoning. This one doesn't.",
+    "Ask your AI to explain itself today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Amazon's AI clone: Just another AI?\n\nAmazon built a decision model, not a language model. It doesn't write poems. It makes choices — and then explains them.",
+        "2. It decides, not chats.\n\nUnlike most AI, this isn't trained to talk. It's trained to pick X over Y and show its work. That's a different beast entirely.",
+        "3. But can it explain why?\n\nYes. Amazon's version can audit its own decisions. You can ask why it chose X. Most AI just says 'trust me.' This one shows receipts.",
+        "4. You can audit the choice.\n\nFor the first time, businesses can trace why an AI picked one option over another. No black box. Just a log of reasoning.",
+        "5. Demand an explanation today.\n\nNext time your AI makes a call, ask it why. If it can't explain, maybe it shouldn't be deciding."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Amazon just built an AI that doesn't chat.",
+        "It makes decisions and explains them.",
+        "You can finally audit why it chose X.",
+        "Most AI hides its reasoning. This one doesn't.",
+        "Ask your AI to explain itself today."
+      ]
+    },
+    "instagram": {
+      "caption": "Amazon built an AI that picks X over Y, then shows you why.\n\nIt's a decision model, not a language model. It doesn't chat or write poems.\n\nBut here's the twist: you can now audit why it chose one option over another. 🧾\n\nNo black box. A log of reasoning you can actually check.\n\nSo if you use AI to make calls in your work, you can finally trace the logic behind each choice. 👀\n\nNext time your AI decides something, ask it why. If it can't explain, should it really be deciding for you? 🤔"
+    }
+  },
+  "instagram_caption": "Amazon built an AI that picks X over Y, then shows you why.\n\nIt's a decision model, not a language model. It doesn't chat or write poems.\n\nBut here's the twist: you can now audit why it chose one option over another. 🧾\n\nNo black box. A log of reasoning you can actually check.\n\nSo if you use AI to make calls in your work, you can finally trace the logic behind each choice. 👀\n\nNext time your AI decides something, ask it why. If it can't explain, should it really be deciding for you? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can your AI explain its decisions?",
+      "description": "Amazon built a decision model that explains choices, not just language. It audits itself, unlike most black-box AI.",
+      "visual_hint": "Glowing server rack with decision tree overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "It decides, not chats.",
+      "description": "Amazon's model isn't trained to talk. It picks X over Y and shows its work, a fundamentally different beast.",
+      "visual_hint": "Split screen: chat bubble vs. decision fork",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Most AI says trust me. This shows receipts.",
+      "description": "Amazon's version audits its own decisions. You can ask why it chose X, and it answers with reasoning.",
+      "visual_hint": "AI brain with transparent audit log layer",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "artificial intelligence brain",
+      "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You can now audit why AI chose X.",
+      "description": "Businesses can trace why an AI picked one option over another. No black box, just a log of reasoning.",
+      "visual_hint": "Hand pointing at decision log on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office desk computer",
+      "image": "https://images.pexels.com/photos/22711217/pexels-photo-22711217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demand an explanation from your AI today.",
+      "description": "Next time your AI makes a call, ask it why. If it can't explain, maybe it shouldn't be deciding.",
+      "visual_hint": "Person asking question to AI interface",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person using laptop",
+      "image": "https://images.pexels.com/photos/12902986/pexels-photo-12902986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/William_Stanley_Jevons_portrait_extract.jpg?w=726",
+  "savedAt": "2026-10-02T03:16:49.692Z",
+  "sourceId": "d807344c9cb1da495a126cf732a88365"
+}

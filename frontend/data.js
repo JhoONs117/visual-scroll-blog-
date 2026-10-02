@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "amazon-releases-its-own-jev-clone-as-decision-mode",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Amazon releases its own Jev clone as decision models flood the web",
+    "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+    "pubDate": "Thu, 01 Oct 2026 16:49:22 +0000",
+    "slides": [
+      "Amazon's Jev clone: just another AI?",
+      "It's a decision model, not a language model.",
+      "But Amazon's version can explain its own decisions.",
+      "You can now audit why an AI chose X over Y.",
+      "Try demanding an explanation from your AI today."
+    ],
+    "thread_text": [
+      "1. Amazon's AI clone: Just another AI?\n\nAmazon built a decision model, not a language model. It doesn't write poems. It makes choices — and then explains them.",
+      "2. It decides, not chats.\n\nUnlike most AI, this isn't trained to talk. It's trained to pick X over Y and show its work. That's a different beast entirely.",
+      "3. But can it explain why?\n\nYes. Amazon's version can audit its own decisions. You can ask why it chose X. Most AI just says 'trust me.' This one shows receipts.",
+      "4. You can audit the choice.\n\nFor the first time, businesses can trace why an AI picked one option over another. No black box. Just a log of reasoning.",
+      "5. Demand an explanation today.\n\nNext time your AI makes a call, ask it why. If it can't explain, maybe it shouldn't be deciding."
+    ],
+    "video_script": [
+      "Amazon just built an AI that doesn't chat.",
+      "It makes decisions and explains them.",
+      "You can finally audit why it chose X.",
+      "Most AI hides its reasoning. This one doesn't.",
+      "Ask your AI to explain itself today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Amazon's AI clone: Just another AI?\n\nAmazon built a decision model, not a language model. It doesn't write poems. It makes choices — and then explains them.",
+          "2. It decides, not chats.\n\nUnlike most AI, this isn't trained to talk. It's trained to pick X over Y and show its work. That's a different beast entirely.",
+          "3. But can it explain why?\n\nYes. Amazon's version can audit its own decisions. You can ask why it chose X. Most AI just says 'trust me.' This one shows receipts.",
+          "4. You can audit the choice.\n\nFor the first time, businesses can trace why an AI picked one option over another. No black box. Just a log of reasoning.",
+          "5. Demand an explanation today.\n\nNext time your AI makes a call, ask it why. If it can't explain, maybe it shouldn't be deciding."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Amazon just built an AI that doesn't chat.",
+          "It makes decisions and explains them.",
+          "You can finally audit why it chose X.",
+          "Most AI hides its reasoning. This one doesn't.",
+          "Ask your AI to explain itself today."
+        ]
+      },
+      "instagram": {
+        "caption": "Amazon built an AI that picks X over Y, then shows you why.\n\nIt's a decision model, not a language model. It doesn't chat or write poems.\n\nBut here's the twist: you can now audit why it chose one option over another. 🧾\n\nNo black box. A log of reasoning you can actually check.\n\nSo if you use AI to make calls in your work, you can finally trace the logic behind each choice. 👀\n\nNext time your AI decides something, ask it why. If it can't explain, should it really be deciding for you? 🤔"
+      }
+    },
+    "instagram_caption": "Amazon built an AI that picks X over Y, then shows you why.\n\nIt's a decision model, not a language model. It doesn't chat or write poems.\n\nBut here's the twist: you can now audit why it chose one option over another. 🧾\n\nNo black box. A log of reasoning you can actually check.\n\nSo if you use AI to make calls in your work, you can finally trace the logic behind each choice. 👀\n\nNext time your AI decides something, ask it why. If it can't explain, should it really be deciding for you? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Can your AI explain its decisions?",
+        "description": "Amazon built a decision model that explains choices, not just language. It audits itself, unlike most black-box AI.",
+        "visual_hint": "Glowing server rack with decision tree overlay",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "It decides, not chats.",
+        "description": "Amazon's model isn't trained to talk. It picks X over Y and shows its work, a fundamentally different beast.",
+        "visual_hint": "Split screen: chat bubble vs. decision fork",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "circuit board",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Most AI says trust me. This shows receipts.",
+        "description": "Amazon's version audits its own decisions. You can ask why it chose X, and it answers with reasoning.",
+        "visual_hint": "AI brain with transparent audit log layer",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "artificial intelligence brain",
+        "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "You can now audit why AI chose X.",
+        "description": "Businesses can trace why an AI picked one option over another. No black box, just a log of reasoning.",
+        "visual_hint": "Hand pointing at decision log on screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office desk computer",
+        "image": "https://images.pexels.com/photos/22711217/pexels-photo-22711217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Demand an explanation from your AI today.",
+        "description": "Next time your AI makes a call, ask it why. If it can't explain, maybe it shouldn't be deciding.",
+        "visual_hint": "Person asking question to AI interface",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person using laptop",
+        "image": "https://images.pexels.com/photos/12902986/pexels-photo-12902986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/William_Stanley_Jevons_portrait_extract.jpg?w=726",
+    "savedAt": "2026-10-02T03:16:49.692Z",
+    "sourceId": "d807344c9cb1da495a126cf732a88365"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "opus-5-5-loves-to-tell-you-this-matters-and-other-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+    "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+    "pubDate": "Thu, 01 Oct 2026 17:50:19 +0000",
+    "slides": [
+      "Opus 5.5 keeps saying 'this matters'—why?",
+      "Anthropic's model flags importance without saying why",
+      "It's a tell, not a judgment",
+      "Strip those phrases from your prompts now",
+      "Ask instead: matters to whom, and how much?"
+    ],
+    "thread_text": [
+      "1. Why does Opus 5.5 keep saying 'this matters'?\n\nAnthropic's newest model flags importance on its own. You never asked it to. That's not a feature — that's a tell.",
+      "2. It signals, it doesn't judge\n\nThe model marks something as important without telling you why. That's a tell about how it was trained, not a verdict on your question.",
+      "3. Training leaves fingerprints\n\nRLHF rewards models for sounding confident. So 'this matters' becomes a habit, not a reasoned conclusion. You're reading a reflex.",
+      "4. Strip those phrases now\n\nSearch your prompts for 'important', 'key', 'matters'. Every time you use them, the model mirrors you back. Delete them and watch what changes.",
+      "5. Ask: matters to whom, how much?\n\nTake a prompt you use weekly. Replace 'what matters here' with 'rank these three by impact on X.' See if the output gets sharper."
+    ],
+    "video_script": [
+      "Your AI keeps saying this matters. Why?",
+      "It flags importance but never explains the flag.",
+      "That phrase is a training tell, not a verdict.",
+      "Remove importance words from your prompts today.",
+      "Instead ask: matters to whom, and how much?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why does Opus 5.5 keep saying 'this matters'?\n\nAnthropic's newest model flags importance on its own. You never asked it to. That's not a feature — that's a tell.",
+          "2. It signals, it doesn't judge\n\nThe model marks something as important without telling you why. That's a tell about how it was trained, not a verdict on your question.",
+          "3. Training leaves fingerprints\n\nRLHF rewards models for sounding confident. So 'this matters' becomes a habit, not a reasoned conclusion. You're reading a reflex.",
+          "4. Strip those phrases now\n\nSearch your prompts for 'important', 'key', 'matters'. Every time you use them, the model mirrors you back. Delete them and watch what changes.",
+          "5. Ask: matters to whom, how much?\n\nTake a prompt you use weekly. Replace 'what matters here' with 'rank these three by impact on X.' See if the output gets sharper."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your AI keeps saying this matters. Why?",
+          "It flags importance but never explains the flag.",
+          "That phrase is a training tell, not a verdict.",
+          "Remove importance words from your prompts today.",
+          "Instead ask: matters to whom, and how much?"
+        ]
+      },
+      "instagram": {
+        "caption": "Anthropic's newest model flags importance on its own — you never asked it to.\n\nOpus 5.5 keeps inserting \"this matters\" into its answers, signaling something is important without ever saying why.\n\nThat's not a judgment. It's a tell — a training fingerprint from how the model was rewarded for sounding confident. 🧠\n\nSearch your prompts for \"important,\" \"key,\" \"matters.\" Every time you use them, the model mirrors you back. Strip them and watch what shifts.\n\nDeleting them is step one. Step two: ask \"matters to whom, and how much?\" 🔍\n\nNext time an AI tells you something matters — will you ask who decided that, or just nod along? 👀"
+      }
+    },
+    "instagram_caption": "Anthropic's newest model flags importance on its own — you never asked it to.\n\nOpus 5.5 keeps inserting \"this matters\" into its answers, signaling something is important without ever saying why.\n\nThat's not a judgment. It's a tell — a training fingerprint from how the model was rewarded for sounding confident. 🧠\n\nSearch your prompts for \"important,\" \"key,\" \"matters.\" Every time you use them, the model mirrors you back. Strip them and watch what shifts.\n\nDeleting them is step one. Step two: ask \"matters to whom, and how much?\" 🔍\n\nNext time an AI tells you something matters — will you ask who decided that, or just nod along? 👀",
+    "carousel_slides": [
+      {
+        "hook": "AI says 'this matters' unprompted—red flag?",
+        "description": "Anthropic's Opus 5.5 flags importance without being asked.",
+        "visual_hint": "Glowing server racks, data streams",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "server room"
+      },
+      {
+        "hook": "It signals, never explains why",
+        "description": "The model marks importance but omits reasoning—a training artifact, not a judgment on your prompt.",
+        "visual_hint": "Abstract neural network with blinking nodes",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "artificial intelligence",
+        "image": "https://images.pexels.com/photos/7688592/pexels-photo-7688592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "RLHF taught it to sound confident",
+        "description": "Reward models favor certainty, so 'this matters' becomes a reflex, not a reasoned conclusion.",
+        "visual_hint": "Close-up of GPU chip circuitry",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "microchip closeup",
+        "image": "https://images.pexels.com/photos/7286003/pexels-photo-7286003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Delete 'important', 'key', 'matters'—watch output change",
+        "description": "Every time you use those words, the model mirrors you. Strip them and see what's left.",
+        "visual_hint": "Hand highlighting text on screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "typing keyboard",
+        "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: ask 'matters to whom, how much?'",
+        "description": "Replace 'what matters here' with 'rank these three by impact on X' and test sharper output.",
+        "visual_hint": "Checklist with ranking arrows",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "business chart",
+        "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1200",
+    "savedAt": "2026-10-02T03:16:39.201Z",
+    "sourceId": "33280aa886acff1bdee4c153e59c1ad8"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "chatgpt-can-now-virtually-try-on-clothes-for-you",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "ChatGPT can now virtually try on clothes for you",
+    "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+    "pubDate": "Thu, 01 Oct 2026 19:21:53 +0000",
+    "slides": [
+      "Can ChatGPT dress you better than you can?",
+      "It now generates virtual try-on images of you",
+      "But it still can't feel fabric or fit",
+      "Snap a photo and preview outfits before buying",
+      "Try one real purchase with it this week"
+    ],
+    "thread_text": [
+      "1. Can AI Dress You Better?\n\nChatGPT now generates virtual try-on images of you from a single photo. See outfits before buying.",
+      "2. Snap A Photo, Preview Outfits\n\nUpload your picture and the AI shows you wearing clothes. No more guessing online.",
+      "3. But It Can't Feel Fabric\n\nVirtual try-on misses texture, fit, and comfort. You still need to touch and move.",
+      "4. Try Before You Buy\n\nUse it for one real purchase this week. Compare the preview to the actual fit.",
+      "5. Your Turn: Test It Today\n\nTake a photo, generate an outfit, and buy one item. Did the AI get it right?"
+    ],
+    "video_script": [
+      "Can ChatGPT dress you better than you can?",
+      "It now makes virtual try-on images of you.",
+      "But it still can't feel fabric or fit.",
+      "Snap a photo and preview outfits before buying.",
+      "Try one real purchase with it this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can AI Dress You Better?\n\nChatGPT now generates virtual try-on images of you from a single photo. See outfits before buying.",
+          "2. Snap A Photo, Preview Outfits\n\nUpload your picture and the AI shows you wearing clothes. No more guessing online.",
+          "3. But It Can't Feel Fabric\n\nVirtual try-on misses texture, fit, and comfort. You still need to touch and move.",
+          "4. Try Before You Buy\n\nUse it for one real purchase this week. Compare the preview to the actual fit.",
+          "5. Your Turn: Test It Today\n\nTake a photo, generate an outfit, and buy one item. Did the AI get it right?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can ChatGPT dress you better than you can?",
+          "It now makes virtual try-on images of you.",
+          "But it still can't feel fabric or fit.",
+          "Snap a photo and preview outfits before buying.",
+          "Try one real purchase with it this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Snap one photo of yourself and ChatGPT will show you wearing the outfit before you buy it. 👕\n\nIt generates virtual try-on images from a single upload, so you can preview clothes without ordering three sizes and returning two.\n\nBut it can't feel fabric, fit, or comfort.\n\nYou still have to touch and move in the real thing.\n\nIf you sell or style clothes online, this changes how customers decide what to buy this week. 🛍️\n\nTry it on one real purchase: snap a photo, generate the look, then compare it to what arrives. 📸\n\nDid the AI get the fit right, or did the photo lie? 🤔"
+      }
+    },
+    "instagram_caption": "Snap one photo of yourself and ChatGPT will show you wearing the outfit before you buy it. 👕\n\nIt generates virtual try-on images from a single upload, so you can preview clothes without ordering three sizes and returning two.\n\nBut it can't feel fabric, fit, or comfort.\n\nYou still have to touch and move in the real thing.\n\nIf you sell or style clothes online, this changes how customers decide what to buy this week. 🛍️\n\nTry it on one real purchase: snap a photo, generate the look, then compare it to what arrives. 📸\n\nDid the AI get the fit right, or did the photo lie? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Can AI outdress you?",
+        "description": "ChatGPT now creates virtual try-on images from one photo, letting you see outfits before buying any piece.",
+        "visual_hint": "Phone screen showing outfit preview",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone fashion app"
+      },
+      {
+        "hook": "Snap a photo, preview outfits instantly",
+        "description": "Upload your picture and the AI shows you wearing clothes, eliminating guesswork from online shopping completely.",
+        "visual_hint": "Person holding phone taking selfie",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "camera phone selfie",
+        "image": "https://images.pexels.com/photos/5139254/pexels-photo-5139254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Virtual try-on can't feel fabric",
+        "description": "AI previews miss texture, fit, and comfort, so you still need to touch and move in real clothes.",
+        "visual_hint": "Hands touching fabric texture close-up",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "fabric texture closeup",
+        "image": "https://images.pexels.com/photos/6276056/pexels-photo-6276056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try before you buy, smartly",
+        "description": "Use it for one real purchase this week, then compare the preview to the actual fit you receive.",
+        "visual_hint": "Person comparing phone and actual clothing",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "shopping bag delivery",
+        "image": "https://images.pexels.com/photos/6613914/pexels-photo-6613914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test AI try-on today, save this",
+        "description": "Take a photo, generate an outfit, buy one item, then comment if the AI got your fit right.",
+        "visual_hint": "Phone with try-on image and shopping cart",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "online shopping cart",
+        "image": "https://images.pexels.com/photos/6214389/pexels-photo-6214389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Virtual-Try-On.jpg?resize=1200,675",
+    "savedAt": "2026-10-02T03:16:31.364Z",
+    "sourceId": "a4548c383007ff688d653963b6131740"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "google-reportedly-tests-paying-publishers-for-ai-s",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "chatgpt-can-now-virtually-try-on-clothes-for-you",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "ChatGPT can now virtually try on clothes for you",
+  "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+  "pubDate": "Thu, 01 Oct 2026 19:21:53 +0000",
+  "slides": [
+    "Can ChatGPT dress you better than you can?",
+    "It now generates virtual try-on images of you",
+    "But it still can't feel fabric or fit",
+    "Snap a photo and preview outfits before buying",
+    "Try one real purchase with it this week"
+  ],
+  "thread_text": [
+    "1. Can AI Dress You Better?\n\nChatGPT now generates virtual try-on images of you from a single photo. See outfits before buying.",
+    "2. Snap A Photo, Preview Outfits\n\nUpload your picture and the AI shows you wearing clothes. No more guessing online.",
+    "3. But It Can't Feel Fabric\n\nVirtual try-on misses texture, fit, and comfort. You still need to touch and move.",
+    "4. Try Before You Buy\n\nUse it for one real purchase this week. Compare the preview to the actual fit.",
+    "5. Your Turn: Test It Today\n\nTake a photo, generate an outfit, and buy one item. Did the AI get it right?"
+  ],
+  "video_script": [
+    "Can ChatGPT dress you better than you can?",
+    "It now makes virtual try-on images of you.",
+    "But it still can't feel fabric or fit.",
+    "Snap a photo and preview outfits before buying.",
+    "Try one real purchase with it this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can AI Dress You Better?\n\nChatGPT now generates virtual try-on images of you from a single photo. See outfits before buying.",
+        "2. Snap A Photo, Preview Outfits\n\nUpload your picture and the AI shows you wearing clothes. No more guessing online.",
+        "3. But It Can't Feel Fabric\n\nVirtual try-on misses texture, fit, and comfort. You still need to touch and move.",
+        "4. Try Before You Buy\n\nUse it for one real purchase this week. Compare the preview to the actual fit.",
+        "5. Your Turn: Test It Today\n\nTake a photo, generate an outfit, and buy one item. Did the AI get it right?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can ChatGPT dress you better than you can?",
+        "It now makes virtual try-on images of you.",
+        "But it still can't feel fabric or fit.",
+        "Snap a photo and preview outfits before buying.",
+        "Try one real purchase with it this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Snap one photo of yourself and ChatGPT will show you wearing the outfit before you buy it. 👕\n\nIt generates virtual try-on images from a single upload, so you can preview clothes without ordering three sizes and returning two.\n\nBut it can't feel fabric, fit, or comfort.\n\nYou still have to touch and move in the real thing.\n\nIf you sell or style clothes online, this changes how customers decide what to buy this week. 🛍️\n\nTry it on one real purchase: snap a photo, generate the look, then compare it to what arrives. 📸\n\nDid the AI get the fit right, or did the photo lie? 🤔"
+    }
+  },
+  "instagram_caption": "Snap one photo of yourself and ChatGPT will show you wearing the outfit before you buy it. 👕\n\nIt generates virtual try-on images from a single upload, so you can preview clothes without ordering three sizes and returning two.\n\nBut it can't feel fabric, fit, or comfort.\n\nYou still have to touch and move in the real thing.\n\nIf you sell or style clothes online, this changes how customers decide what to buy this week. 🛍️\n\nTry it on one real purchase: snap a photo, generate the look, then compare it to what arrives. 📸\n\nDid the AI get the fit right, or did the photo lie? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can AI outdress you?",
+      "description": "ChatGPT now creates virtual try-on images from one photo, letting you see outfits before buying any piece.",
+      "visual_hint": "Phone screen showing outfit preview",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone fashion app"
+    },
+    {
+      "hook": "Snap a photo, preview outfits instantly",
+      "description": "Upload your picture and the AI shows you wearing clothes, eliminating guesswork from online shopping completely.",
+      "visual_hint": "Person holding phone taking selfie",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "camera phone selfie",
+      "image": "https://images.pexels.com/photos/5139254/pexels-photo-5139254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Virtual try-on can't feel fabric",
+      "description": "AI previews miss texture, fit, and comfort, so you still need to touch and move in real clothes.",
+      "visual_hint": "Hands touching fabric texture close-up",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "fabric texture closeup",
+      "image": "https://images.pexels.com/photos/6276056/pexels-photo-6276056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try before you buy, smartly",
+      "description": "Use it for one real purchase this week, then compare the preview to the actual fit you receive.",
+      "visual_hint": "Person comparing phone and actual clothing",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "shopping bag delivery",
+      "image": "https://images.pexels.com/photos/6613914/pexels-photo-6613914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test AI try-on today, save this",
+      "description": "Take a photo, generate an outfit, buy one item, then comment if the AI got your fit right.",
+      "visual_hint": "Phone with try-on image and shopping cart",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "online shopping cart",
+      "image": "https://images.pexels.com/photos/6214389/pexels-photo-6214389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Virtual-Try-On.jpg?resize=1200,675",
+  "savedAt": "2026-10-02T03:16:31.364Z",
+  "sourceId": "a4548c383007ff688d653963b6131740"
+}
