@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "ai-music-maker-suno-now-generates-spoken-words",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI music maker Suno now generates spoken words",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+    "pubDate": "2026-10-02T09:42:19.000Z",
+    "slides": [
+      "Suno just learned to speak. Can it replace voice actors?",
+      "The AI music tool now generates spoken word audio too",
+      "But the voice synthesis lacks emotional nuance of humans",
+      "Podcasters can draft full episodes without recording anything",
+      "Test one voiceover today: does it pass your ear?"
+    ],
+    "thread_text": [
+      "1. Voice Actors at Risk\n\nSuno now generates spoken-word audio, letting anyone produce broadcast-quality voiceovers without a microphone or a human voice actor.",
+      "2. Podcast Without Recording\n\nCreators can draft entire episodes using Suno's new text-to-speech feature, skipping the recording studio and editing time.",
+      "3. Emotion Missing\n\nThe output sounds flat compared to human delivery. Suno's synthetic voice lacks the emotional nuance that trained actors bring to scripts.",
+      "4. The Real Trade-Off\n\nSpeed and cost savings come at a price. If you have to re-edit to inject feeling, have you really saved time?",
+      "5. Test Your Own Ear\n\nGenerate one voiceover with Suno today and play it for a colleague. Ask them: does this pass as human, or does it give itself away?"
+    ],
+    "video_script": [
+      "Suno now speaks. Voice actors are watching.",
+      "Podcasters can make full episodes without recording.",
+      "But the voice sounds flat, missing human emotion.",
+      "Speed is tempting, but re-editing might cost more.",
+      "Test one voiceover today. Does it fool you?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Voice Actors at Risk\n\nSuno now generates spoken-word audio, letting anyone produce broadcast-quality voiceovers without a microphone or a human voice actor.",
+          "2. Podcast Without Recording\n\nCreators can draft entire episodes using Suno's new text-to-speech feature, skipping the recording studio and editing time.",
+          "3. Emotion Missing\n\nThe output sounds flat compared to human delivery. Suno's synthetic voice lacks the emotional nuance that trained actors bring to scripts.",
+          "4. The Real Trade-Off\n\nSpeed and cost savings come at a price. If you have to re-edit to inject feeling, have you really saved time?",
+          "5. Test Your Own Ear\n\nGenerate one voiceover with Suno today and play it for a colleague. Ask them: does this pass as human, or does it give itself away?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Suno now speaks. Voice actors are watching.",
+          "Podcasters can make full episodes without recording.",
+          "But the voice sounds flat, missing human emotion.",
+          "Speed is tempting, but re-editing might cost more.",
+          "Test one voiceover today. Does it fool you?"
+        ]
+      },
+      "instagram": {
+        "caption": "Need a voiceover for a podcast episode? You can now generate it without recording a single word.\n\nSuno, previously known for making music, now produces spoken-word audio too. 🎙️ Anyone can draft a full episode without a microphone or a voice actor.\n\nThe catch: the output sounds flat. It lacks the emotional nuance a trained human brings. 😕\n\nFor creators, that means speed and cost savings — but also re-edits if you want feeling in the delivery.\n\nGenerate one voiceover with Suno today and play it for someone. Ask: does it pass as human? 🤔"
+      }
+    },
+    "instagram_caption": "Need a voiceover for a podcast episode? You can now generate it without recording a single word.\n\nSuno, previously known for making music, now produces spoken-word audio too. 🎙️ Anyone can draft a full episode without a microphone or a voice actor.\n\nThe catch: the output sounds flat. It lacks the emotional nuance a trained human brings. 😕\n\nFor creators, that means speed and cost savings — but also re-edits if you want feeling in the delivery.\n\nGenerate one voiceover with Suno today and play it for someone. Ask: does it pass as human? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Can AI voices replace human voice actors?",
+        "description": "Suno now generates spoken-word audio, letting anyone create broadcast-quality voiceovers without microphones or professional actors. Is this the end?",
+        "visual_hint": "Split image of microphone and AI waveform",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "microphone studio"
+      },
+      {
+        "hook": "Podcast episodes without recording a single word",
+        "description": "Creators can draft entire episodes using Suno's text-to-speech, skipping studios and editing time. Faster, cheaper, but what's lost?",
+        "visual_hint": "Person at laptop with headphones",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "podcast studio",
+        "image": "https://images.pexels.com/photos/31236103/pexels-photo-31236103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The emotion is missing, and you can hear it",
+        "description": "Suno's synthetic voice sounds flat compared to trained actors. It lacks the emotional nuance that brings scripts to life, leaving listeners cold.",
+        "visual_hint": "Close-up of a waveform with flat line",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "audio waveform",
+        "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Speed and cost come with a hidden price",
+        "description": "If you have to re-edit to inject feeling, have you really saved time? The trade-off between efficiency and authenticity is real.",
+        "visual_hint": "Hand editing audio on screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "audio editing software",
+        "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your own ear: does AI pass as human?",
+        "description": "Generate one voiceover with Suno and play it for a colleague. Ask: does this pass as human, or does it give itself away?",
+        "visual_hint": "Two people listening with headphones",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "people headphones",
+        "image": "https://images.pexels.com/photos/16726134/pexels-photo-16726134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-02T10:10:28.759Z",
+    "sourceId": "190c03ca19ef6f66b941c58697e73578"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "photon-held-a-funeral-for-mobile-apps-now-it-has-4",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+    "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+    "pubDate": "Thu, 01 Oct 2026 14:00:00 +0000",
+    "slides": [
+      "Photon buried mobile apps in a funeral. Why?",
+      "It just raised $4.5M to replace them with agents",
+      "But agents still can't do what apps do silently",
+      "Teams must rebuild onboarding around conversational flows",
+      "Pick one app your users hate. Prototype its agent today"
+    ],
+    "thread_text": [
+      "1. The funeral for apps\n\nPhoton just raised $4.5M to replace mobile apps with AI agents. But most teams still haven't figured out how to make agents actually work.",
+      "2. Agents can't do this\n\nApps run silently in the background — notifications, syncs, updates. Agents need constant conversation. That's a huge gap nobody's talking about.",
+      "3. The onboarding problem\n\nIf your users talk to agents instead of tapping icons, your entire onboarding flow breaks. You can't teach a chat what used to be a tutorial.",
+      "4. Rebuild around dialogue\n\nTeams that win will redesign onboarding as a conversation. The first message a user sends becomes your new home screen.",
+      "5. Pick one app to kill\n\nOpen ChatGPT and prototype an agent for the app your users complain about most. Test it with one real user this week. Does it feel faster or just different?"
+    ],
+    "video_script": [
+      "Photon buried mobile apps in a funeral.",
+      "They raised four point five million to replace them.",
+      "But agents can't do what apps do silently.",
+      "So teams must rebuild onboarding around conversations.",
+      "Pick one app users hate and prototype its agent today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The funeral for apps\n\nPhoton just raised $4.5M to replace mobile apps with AI agents. But most teams still haven't figured out how to make agents actually work.",
+          "2. Agents can't do this\n\nApps run silently in the background — notifications, syncs, updates. Agents need constant conversation. That's a huge gap nobody's talking about.",
+          "3. The onboarding problem\n\nIf your users talk to agents instead of tapping icons, your entire onboarding flow breaks. You can't teach a chat what used to be a tutorial.",
+          "4. Rebuild around dialogue\n\nTeams that win will redesign onboarding as a conversation. The first message a user sends becomes your new home screen.",
+          "5. Pick one app to kill\n\nOpen ChatGPT and prototype an agent for the app your users complain about most. Test it with one real user this week. Does it feel faster or just different?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Photon buried mobile apps in a funeral.",
+          "They raised four point five million to replace them.",
+          "But agents can't do what apps do silently.",
+          "So teams must rebuild onboarding around conversations.",
+          "Pick one app users hate and prototype its agent today."
+        ]
+      },
+      "instagram": {
+        "caption": "$4.5M says your next app should be a conversation, not a screen.\n\nPhoton held a funeral for mobile apps — then raised $4.5M to replace them with AI agents.\n\nThe catch: apps work silently in the background. Agents need you to talk to them. 🗣️\n\nThat breaks your onboarding. A tutorial becomes a chat, and the first message is the new home screen.\n\nIf you build products, this changes what you ship next.\n\nPick the app your users hate most. Prototype its agent today — would it feel faster, or just different?"
+      }
+    },
+    "instagram_caption": "$4.5M says your next app should be a conversation, not a screen.\n\nPhoton held a funeral for mobile apps — then raised $4.5M to replace them with AI agents.\n\nThe catch: apps work silently in the background. Agents need you to talk to them. 🗣️\n\nThat breaks your onboarding. A tutorial becomes a chat, and the first message is the new home screen.\n\nIf you build products, this changes what you ship next.\n\nPick the app your users hate most. Prototype its agent today — would it feel faster, or just different?",
+    "carousel_slides": [
+      {
+        "hook": "Apps run silently. Agents demand constant chatter.",
+        "description": "Photon raised $4.5M to replace mobile apps with agents, but agents need conversation while apps work silently in the background.",
+        "visual_hint": "Smartphone on funeral podium, dark background",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone funeral"
+      },
+      {
+        "hook": "Photon just raised $4.5M to kill apps.",
+        "description": "Photon secured $4.5M to replace mobile apps with AI agents, yet most teams still haven't figured out how to make agents actually work.",
+        "visual_hint": "VC funding check presented to startup team",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "venture capital funding",
+        "image": "https://images.pexels.com/photos/5909810/pexels-photo-5909810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Agents can't do what apps do silently.",
+        "description": "Apps run silently in the background: notifications, syncs, updates. Agents need constant conversation, creating a gap nobody's talking about.",
+        "visual_hint": "Split screen: silent phone vs chat bubbles",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "chat interface",
+        "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Conversational agents break your entire onboarding.",
+        "description": "If users talk to agents instead of tapping icons, your onboarding flow breaks. You can't teach a chat what used to be a tutorial.",
+        "visual_hint": "User chatting with agent on phone screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this. Kill one app this week.",
+        "description": "Open ChatGPT, prototype an agent for your most hated app, and test it with one real user this week.",
+        "visual_hint": "Person prototyping agent on laptop",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person typing laptop",
+        "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/DSC01567.jpg?resize=1200,801",
+    "savedAt": "2026-10-02T10:10:20.348Z",
+    "sourceId": "3f4ea9f16a21e9597423d91f4f7558c3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "amazon-releases-its-own-jev-clone-as-decision-mode",
     "prompt_version": "1.0.0",
     "status": "published",

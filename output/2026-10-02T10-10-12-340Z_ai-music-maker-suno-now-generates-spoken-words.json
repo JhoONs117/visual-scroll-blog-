@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-music-maker-suno-now-generates-spoken-words",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI music maker Suno now generates spoken words",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+  "pubDate": "2026-10-02T09:42:19.000Z",
+  "slides": [
+    "Suno just learned to speak. Can it replace voice actors?",
+    "The AI music tool now generates spoken word audio too",
+    "But the voice synthesis lacks emotional nuance of humans",
+    "Podcasters can draft full episodes without recording anything",
+    "Test one voiceover today: does it pass your ear?"
+  ],
+  "thread_text": [
+    "1. Voice Actors at Risk\n\nSuno now generates spoken-word audio, letting anyone produce broadcast-quality voiceovers without a microphone or a human voice actor.",
+    "2. Podcast Without Recording\n\nCreators can draft entire episodes using Suno's new text-to-speech feature, skipping the recording studio and editing time.",
+    "3. Emotion Missing\n\nThe output sounds flat compared to human delivery. Suno's synthetic voice lacks the emotional nuance that trained actors bring to scripts.",
+    "4. The Real Trade-Off\n\nSpeed and cost savings come at a price. If you have to re-edit to inject feeling, have you really saved time?",
+    "5. Test Your Own Ear\n\nGenerate one voiceover with Suno today and play it for a colleague. Ask them: does this pass as human, or does it give itself away?"
+  ],
+  "video_script": [
+    "Suno now speaks. Voice actors are watching.",
+    "Podcasters can make full episodes without recording.",
+    "But the voice sounds flat, missing human emotion.",
+    "Speed is tempting, but re-editing might cost more.",
+    "Test one voiceover today. Does it fool you?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Voice Actors at Risk\n\nSuno now generates spoken-word audio, letting anyone produce broadcast-quality voiceovers without a microphone or a human voice actor.",
+        "2. Podcast Without Recording\n\nCreators can draft entire episodes using Suno's new text-to-speech feature, skipping the recording studio and editing time.",
+        "3. Emotion Missing\n\nThe output sounds flat compared to human delivery. Suno's synthetic voice lacks the emotional nuance that trained actors bring to scripts.",
+        "4. The Real Trade-Off\n\nSpeed and cost savings come at a price. If you have to re-edit to inject feeling, have you really saved time?",
+        "5. Test Your Own Ear\n\nGenerate one voiceover with Suno today and play it for a colleague. Ask them: does this pass as human, or does it give itself away?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Suno now speaks. Voice actors are watching.",
+        "Podcasters can make full episodes without recording.",
+        "But the voice sounds flat, missing human emotion.",
+        "Speed is tempting, but re-editing might cost more.",
+        "Test one voiceover today. Does it fool you?"
+      ]
+    },
+    "instagram": {
+      "caption": "Need a voiceover for a podcast episode? You can now generate it without recording a single word.\n\nSuno, previously known for making music, now produces spoken-word audio too. 🎙️ Anyone can draft a full episode without a microphone or a voice actor.\n\nThe catch: the output sounds flat. It lacks the emotional nuance a trained human brings. 😕\n\nFor creators, that means speed and cost savings — but also re-edits if you want feeling in the delivery.\n\nGenerate one voiceover with Suno today and play it for someone. Ask: does it pass as human? 🤔"
+    }
+  },
+  "instagram_caption": "Need a voiceover for a podcast episode? You can now generate it without recording a single word.\n\nSuno, previously known for making music, now produces spoken-word audio too. 🎙️ Anyone can draft a full episode without a microphone or a voice actor.\n\nThe catch: the output sounds flat. It lacks the emotional nuance a trained human brings. 😕\n\nFor creators, that means speed and cost savings — but also re-edits if you want feeling in the delivery.\n\nGenerate one voiceover with Suno today and play it for someone. Ask: does it pass as human? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can AI voices replace human voice actors?",
+      "description": "Suno now generates spoken-word audio, letting anyone create broadcast-quality voiceovers without microphones or professional actors. Is this the end?",
+      "visual_hint": "Split image of microphone and AI waveform",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "microphone studio"
+    },
+    {
+      "hook": "Podcast episodes without recording a single word",
+      "description": "Creators can draft entire episodes using Suno's text-to-speech, skipping studios and editing time. Faster, cheaper, but what's lost?",
+      "visual_hint": "Person at laptop with headphones",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "podcast studio",
+      "image": "https://images.pexels.com/photos/31236103/pexels-photo-31236103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The emotion is missing, and you can hear it",
+      "description": "Suno's synthetic voice sounds flat compared to trained actors. It lacks the emotional nuance that brings scripts to life, leaving listeners cold.",
+      "visual_hint": "Close-up of a waveform with flat line",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "audio waveform",
+      "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Speed and cost come with a hidden price",
+      "description": "If you have to re-edit to inject feeling, have you really saved time? The trade-off between efficiency and authenticity is real.",
+      "visual_hint": "Hand editing audio on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "audio editing software",
+      "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your own ear: does AI pass as human?",
+      "description": "Generate one voiceover with Suno and play it for a colleague. Ask: does this pass as human, or does it give itself away?",
+      "visual_hint": "Two people listening with headphones",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "people headphones",
+      "image": "https://images.pexels.com/photos/16726134/pexels-photo-16726134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-02T10:10:28.759Z",
+  "sourceId": "190c03ca19ef6f66b941c58697e73578"
+}

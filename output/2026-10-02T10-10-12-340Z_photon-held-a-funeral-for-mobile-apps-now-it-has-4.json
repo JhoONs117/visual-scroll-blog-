@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "photon-held-a-funeral-for-mobile-apps-now-it-has-4",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+  "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+  "pubDate": "Thu, 01 Oct 2026 14:00:00 +0000",
+  "slides": [
+    "Photon buried mobile apps in a funeral. Why?",
+    "It just raised $4.5M to replace them with agents",
+    "But agents still can't do what apps do silently",
+    "Teams must rebuild onboarding around conversational flows",
+    "Pick one app your users hate. Prototype its agent today"
+  ],
+  "thread_text": [
+    "1. The funeral for apps\n\nPhoton just raised $4.5M to replace mobile apps with AI agents. But most teams still haven't figured out how to make agents actually work.",
+    "2. Agents can't do this\n\nApps run silently in the background — notifications, syncs, updates. Agents need constant conversation. That's a huge gap nobody's talking about.",
+    "3. The onboarding problem\n\nIf your users talk to agents instead of tapping icons, your entire onboarding flow breaks. You can't teach a chat what used to be a tutorial.",
+    "4. Rebuild around dialogue\n\nTeams that win will redesign onboarding as a conversation. The first message a user sends becomes your new home screen.",
+    "5. Pick one app to kill\n\nOpen ChatGPT and prototype an agent for the app your users complain about most. Test it with one real user this week. Does it feel faster or just different?"
+  ],
+  "video_script": [
+    "Photon buried mobile apps in a funeral.",
+    "They raised four point five million to replace them.",
+    "But agents can't do what apps do silently.",
+    "So teams must rebuild onboarding around conversations.",
+    "Pick one app users hate and prototype its agent today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The funeral for apps\n\nPhoton just raised $4.5M to replace mobile apps with AI agents. But most teams still haven't figured out how to make agents actually work.",
+        "2. Agents can't do this\n\nApps run silently in the background — notifications, syncs, updates. Agents need constant conversation. That's a huge gap nobody's talking about.",
+        "3. The onboarding problem\n\nIf your users talk to agents instead of tapping icons, your entire onboarding flow breaks. You can't teach a chat what used to be a tutorial.",
+        "4. Rebuild around dialogue\n\nTeams that win will redesign onboarding as a conversation. The first message a user sends becomes your new home screen.",
+        "5. Pick one app to kill\n\nOpen ChatGPT and prototype an agent for the app your users complain about most. Test it with one real user this week. Does it feel faster or just different?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Photon buried mobile apps in a funeral.",
+        "They raised four point five million to replace them.",
+        "But agents can't do what apps do silently.",
+        "So teams must rebuild onboarding around conversations.",
+        "Pick one app users hate and prototype its agent today."
+      ]
+    },
+    "instagram": {
+      "caption": "$4.5M says your next app should be a conversation, not a screen.\n\nPhoton held a funeral for mobile apps — then raised $4.5M to replace them with AI agents.\n\nThe catch: apps work silently in the background. Agents need you to talk to them. 🗣️\n\nThat breaks your onboarding. A tutorial becomes a chat, and the first message is the new home screen.\n\nIf you build products, this changes what you ship next.\n\nPick the app your users hate most. Prototype its agent today — would it feel faster, or just different?"
+    }
+  },
+  "instagram_caption": "$4.5M says your next app should be a conversation, not a screen.\n\nPhoton held a funeral for mobile apps — then raised $4.5M to replace them with AI agents.\n\nThe catch: apps work silently in the background. Agents need you to talk to them. 🗣️\n\nThat breaks your onboarding. A tutorial becomes a chat, and the first message is the new home screen.\n\nIf you build products, this changes what you ship next.\n\nPick the app your users hate most. Prototype its agent today — would it feel faster, or just different?",
+  "carousel_slides": [
+    {
+      "hook": "Apps run silently. Agents demand constant chatter.",
+      "description": "Photon raised $4.5M to replace mobile apps with agents, but agents need conversation while apps work silently in the background.",
+      "visual_hint": "Smartphone on funeral podium, dark background",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone funeral"
+    },
+    {
+      "hook": "Photon just raised $4.5M to kill apps.",
+      "description": "Photon secured $4.5M to replace mobile apps with AI agents, yet most teams still haven't figured out how to make agents actually work.",
+      "visual_hint": "VC funding check presented to startup team",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "venture capital funding",
+      "image": "https://images.pexels.com/photos/5909810/pexels-photo-5909810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Agents can't do what apps do silently.",
+      "description": "Apps run silently in the background: notifications, syncs, updates. Agents need constant conversation, creating a gap nobody's talking about.",
+      "visual_hint": "Split screen: silent phone vs chat bubbles",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "chat interface",
+      "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Conversational agents break your entire onboarding.",
+      "description": "If users talk to agents instead of tapping icons, your onboarding flow breaks. You can't teach a chat what used to be a tutorial.",
+      "visual_hint": "User chatting with agent on phone screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Kill one app this week.",
+      "description": "Open ChatGPT, prototype an agent for your most hated app, and test it with one real user this week.",
+      "visual_hint": "Person prototyping agent on laptop",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person typing laptop",
+      "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/DSC01567.jpg?resize=1200,801",
+  "savedAt": "2026-10-02T10:10:20.348Z",
+  "sourceId": "3f4ea9f16a21e9597423d91f4f7558c3"
+}

@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "ai-music-maker-suno-now-generates-spoken-words",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI music maker Suno now generates spoken words",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "pubDate": "2026-10-02T09:42:19.000Z",
+      "slides": [
+        "Suno just learned to speak. Can it replace voice actors?",
+        "The AI music tool now generates spoken word audio too",
+        "But the voice synthesis lacks emotional nuance of humans",
+        "Podcasters can draft full episodes without recording anything",
+        "Test one voiceover today: does it pass your ear?"
+      ],
+      "thread_text": [
+        "1. Voice Actors at Risk\n\nSuno now generates spoken-word audio, letting anyone produce broadcast-quality voiceovers without a microphone or a human voice actor.",
+        "2. Podcast Without Recording\n\nCreators can draft entire episodes using Suno's new text-to-speech feature, skipping the recording studio and editing time.",
+        "3. Emotion Missing\n\nThe output sounds flat compared to human delivery. Suno's synthetic voice lacks the emotional nuance that trained actors bring to scripts.",
+        "4. The Real Trade-Off\n\nSpeed and cost savings come at a price. If you have to re-edit to inject feeling, have you really saved time?",
+        "5. Test Your Own Ear\n\nGenerate one voiceover with Suno today and play it for a colleague. Ask them: does this pass as human, or does it give itself away?"
+      ],
+      "video_script": [
+        "Suno now speaks. Voice actors are watching.",
+        "Podcasters can make full episodes without recording.",
+        "But the voice sounds flat, missing human emotion.",
+        "Speed is tempting, but re-editing might cost more.",
+        "Test one voiceover today. Does it fool you?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Voice Actors at Risk\n\nSuno now generates spoken-word audio, letting anyone produce broadcast-quality voiceovers without a microphone or a human voice actor.",
+            "2. Podcast Without Recording\n\nCreators can draft entire episodes using Suno's new text-to-speech feature, skipping the recording studio and editing time.",
+            "3. Emotion Missing\n\nThe output sounds flat compared to human delivery. Suno's synthetic voice lacks the emotional nuance that trained actors bring to scripts.",
+            "4. The Real Trade-Off\n\nSpeed and cost savings come at a price. If you have to re-edit to inject feeling, have you really saved time?",
+            "5. Test Your Own Ear\n\nGenerate one voiceover with Suno today and play it for a colleague. Ask them: does this pass as human, or does it give itself away?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Suno now speaks. Voice actors are watching.",
+            "Podcasters can make full episodes without recording.",
+            "But the voice sounds flat, missing human emotion.",
+            "Speed is tempting, but re-editing might cost more.",
+            "Test one voiceover today. Does it fool you?"
+          ]
+        },
+        "instagram": {
+          "caption": "Need a voiceover for a podcast episode? You can now generate it without recording a single word.\n\nSuno, previously known for making music, now produces spoken-word audio too. 🎙️ Anyone can draft a full episode without a microphone or a voice actor.\n\nThe catch: the output sounds flat. It lacks the emotional nuance a trained human brings. 😕\n\nFor creators, that means speed and cost savings — but also re-edits if you want feeling in the delivery.\n\nGenerate one voiceover with Suno today and play it for someone. Ask: does it pass as human? 🤔"
+        }
+      },
+      "instagram_caption": "Need a voiceover for a podcast episode? You can now generate it without recording a single word.\n\nSuno, previously known for making music, now produces spoken-word audio too. 🎙️ Anyone can draft a full episode without a microphone or a voice actor.\n\nThe catch: the output sounds flat. It lacks the emotional nuance a trained human brings. 😕\n\nFor creators, that means speed and cost savings — but also re-edits if you want feeling in the delivery.\n\nGenerate one voiceover with Suno today and play it for someone. Ask: does it pass as human? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Can AI voices replace human voice actors?",
+          "description": "Suno now generates spoken-word audio, letting anyone create broadcast-quality voiceovers without microphones or professional actors. Is this the end?",
+          "visual_hint": "Split image of microphone and AI waveform",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "microphone studio"
+        },
+        {
+          "hook": "Podcast episodes without recording a single word",
+          "description": "Creators can draft entire episodes using Suno's text-to-speech, skipping studios and editing time. Faster, cheaper, but what's lost?",
+          "visual_hint": "Person at laptop with headphones",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "podcast studio",
+          "image": "https://images.pexels.com/photos/31236103/pexels-photo-31236103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The emotion is missing, and you can hear it",
+          "description": "Suno's synthetic voice sounds flat compared to trained actors. It lacks the emotional nuance that brings scripts to life, leaving listeners cold.",
+          "visual_hint": "Close-up of a waveform with flat line",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "audio waveform",
+          "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Speed and cost come with a hidden price",
+          "description": "If you have to re-edit to inject feeling, have you really saved time? The trade-off between efficiency and authenticity is real.",
+          "visual_hint": "Hand editing audio on screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "audio editing software",
+          "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your own ear: does AI pass as human?",
+          "description": "Generate one voiceover with Suno and play it for a colleague. Ask: does this pass as human, or does it give itself away?",
+          "visual_hint": "Two people listening with headphones",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "people headphones",
+          "image": "https://images.pexels.com/photos/16726134/pexels-photo-16726134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-02T10:10:28.759Z",
+      "sourceId": "190c03ca19ef6f66b941c58697e73578"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "photon-held-a-funeral-for-mobile-apps-now-it-has-4",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "pubDate": "Thu, 01 Oct 2026 14:00:00 +0000",
+      "slides": [
+        "Photon buried mobile apps in a funeral. Why?",
+        "It just raised $4.5M to replace them with agents",
+        "But agents still can't do what apps do silently",
+        "Teams must rebuild onboarding around conversational flows",
+        "Pick one app your users hate. Prototype its agent today"
+      ],
+      "thread_text": [
+        "1. The funeral for apps\n\nPhoton just raised $4.5M to replace mobile apps with AI agents. But most teams still haven't figured out how to make agents actually work.",
+        "2. Agents can't do this\n\nApps run silently in the background — notifications, syncs, updates. Agents need constant conversation. That's a huge gap nobody's talking about.",
+        "3. The onboarding problem\n\nIf your users talk to agents instead of tapping icons, your entire onboarding flow breaks. You can't teach a chat what used to be a tutorial.",
+        "4. Rebuild around dialogue\n\nTeams that win will redesign onboarding as a conversation. The first message a user sends becomes your new home screen.",
+        "5. Pick one app to kill\n\nOpen ChatGPT and prototype an agent for the app your users complain about most. Test it with one real user this week. Does it feel faster or just different?"
+      ],
+      "video_script": [
+        "Photon buried mobile apps in a funeral.",
+        "They raised four point five million to replace them.",
+        "But agents can't do what apps do silently.",
+        "So teams must rebuild onboarding around conversations.",
+        "Pick one app users hate and prototype its agent today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The funeral for apps\n\nPhoton just raised $4.5M to replace mobile apps with AI agents. But most teams still haven't figured out how to make agents actually work.",
+            "2. Agents can't do this\n\nApps run silently in the background — notifications, syncs, updates. Agents need constant conversation. That's a huge gap nobody's talking about.",
+            "3. The onboarding problem\n\nIf your users talk to agents instead of tapping icons, your entire onboarding flow breaks. You can't teach a chat what used to be a tutorial.",
+            "4. Rebuild around dialogue\n\nTeams that win will redesign onboarding as a conversation. The first message a user sends becomes your new home screen.",
+            "5. Pick one app to kill\n\nOpen ChatGPT and prototype an agent for the app your users complain about most. Test it with one real user this week. Does it feel faster or just different?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Photon buried mobile apps in a funeral.",
+            "They raised four point five million to replace them.",
+            "But agents can't do what apps do silently.",
+            "So teams must rebuild onboarding around conversations.",
+            "Pick one app users hate and prototype its agent today."
+          ]
+        },
+        "instagram": {
+          "caption": "$4.5M says your next app should be a conversation, not a screen.\n\nPhoton held a funeral for mobile apps — then raised $4.5M to replace them with AI agents.\n\nThe catch: apps work silently in the background. Agents need you to talk to them. 🗣️\n\nThat breaks your onboarding. A tutorial becomes a chat, and the first message is the new home screen.\n\nIf you build products, this changes what you ship next.\n\nPick the app your users hate most. Prototype its agent today — would it feel faster, or just different?"
+        }
+      },
+      "instagram_caption": "$4.5M says your next app should be a conversation, not a screen.\n\nPhoton held a funeral for mobile apps — then raised $4.5M to replace them with AI agents.\n\nThe catch: apps work silently in the background. Agents need you to talk to them. 🗣️\n\nThat breaks your onboarding. A tutorial becomes a chat, and the first message is the new home screen.\n\nIf you build products, this changes what you ship next.\n\nPick the app your users hate most. Prototype its agent today — would it feel faster, or just different?",
+      "carousel_slides": [
+        {
+          "hook": "Apps run silently. Agents demand constant chatter.",
+          "description": "Photon raised $4.5M to replace mobile apps with agents, but agents need conversation while apps work silently in the background.",
+          "visual_hint": "Smartphone on funeral podium, dark background",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone funeral"
+        },
+        {
+          "hook": "Photon just raised $4.5M to kill apps.",
+          "description": "Photon secured $4.5M to replace mobile apps with AI agents, yet most teams still haven't figured out how to make agents actually work.",
+          "visual_hint": "VC funding check presented to startup team",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "venture capital funding",
+          "image": "https://images.pexels.com/photos/5909810/pexels-photo-5909810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Agents can't do what apps do silently.",
+          "description": "Apps run silently in the background: notifications, syncs, updates. Agents need constant conversation, creating a gap nobody's talking about.",
+          "visual_hint": "Split screen: silent phone vs chat bubbles",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "chat interface",
+          "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Conversational agents break your entire onboarding.",
+          "description": "If users talk to agents instead of tapping icons, your onboarding flow breaks. You can't teach a chat what used to be a tutorial.",
+          "visual_hint": "User chatting with agent on phone screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this. Kill one app this week.",
+          "description": "Open ChatGPT, prototype an agent for your most hated app, and test it with one real user this week.",
+          "visual_hint": "Person prototyping agent on laptop",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "person typing laptop",
+          "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/DSC01567.jpg?resize=1200,801",
+      "savedAt": "2026-10-02T10:10:20.348Z",
+      "sourceId": "3f4ea9f16a21e9597423d91f4f7558c3"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "amazon-releases-its-own-jev-clone-as-decision-mode",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -175042,6 +175250,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pasta-con-cime-di-rapa-e-ombrina",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pasta con cime di rapa e ombrina",
+      "link": "https://ricette.giallozafferano.it/Pasta-con-cime-di-rapa-e-ombrina.html",
+      "pubDate": "Fri, 02 Oct 2026 08:59:00 +0200",
+      "content": "Pasta con cime di rapa e ombrina: ricetta con colatura di alici Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X SPECIALE Pasta italiana: sapore unico in collaborazione con Primi piatti Pasta Contenuto Sponsorizzato Pasta con cime di rapa e ombrina /5 CONDIVIDI INVIA FOTO COMMENTA de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 30 min Cottura: 20 min Dosi per: 4 persone Ascolta la ricetta Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti Ascolta su Spreaker. PRESENTAZIONE La pasta con cime di rapa e ombrina è un primo piatto di mare dal carattere deciso, in cui la delicatezza del pesce incontra il gusto leggermente amarognolo, tipico di questa verdura. Le fettuccine vengono avvolte dalla crema di cime di rapa e vengono completate con le cimette e i bocconcini di ombrina. A rendere speciale il condimento è la colatura di alici, aggiunta alla fine per regalare una nota sapida e intensa che esalta sia il gusto dell’ombrina sia quello delle cime di rapa, senza coprirli. Preparate la pasta con cime di rapa e ombrina per scoprire un abbinamento raffinato, in cui pochi ingredienti dal sapore mediterraneo danno vita a un primo piatto cremoso e ricco di sfumature. Ecco altre ricette con l'ombrina da provare: pasta con ombrina e zucchine trombetta ombrina marinata ombrina al forno ombrina alla ligure trancio di ombrina grigliata INGREDIENTI Fettuccine 320 g Ombrina (filetto) 200 g Cime di rapa 1 kg Aglio 1 spicchio Peperoncino fresco q.b. Colatura di alici 2 g Olio extravergine d'oliva q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta con cime di rapa e ombrina Per preparare la pasta con cime di rapa e ombrina, iniziate dalla pulizia delle cime di rapa, eliminando le parti più dure e separando le foglie dalle cimette 1 2 . Portate a bollore una pentola di acqua salata 3 . Tuffatevi le foglie 4 e cuocetele per 10 minuti 5 . Scolatele senza eliminare l'acqua di cottura: vi servirà sia per cuocere la pasta sia, se necessario, per regolare la consistenza del condimento. Trasferite le foglie cotte in un boccale 6 . Aggiungete un filo d'olio extravergine d'oliva 7 e frullatele 8 fino a ottenere una crema omogenea. In una padella capiente fate imbiondire lo spicchio d'aglio con il peperoncino fresco tagliato a rondelle 9 . Aggiungete le cimette di rapa tenute da parte 10 , un pizzico di sale 11 e fatele tostare bene a fiamma media per circa 5 minuti, poi eliminate l'aglio 12 . Unite quindi la crema realizzata con le cime di rapa 13 , aggiungete un mestolino di acqua di cottura 14 e amalgamate il tutto. Spegnete il fuoco e tenete da parte. Passate quindi all'ombrina. Eliminate accuratamente tutte le spine dal filetto 15 . Tagliate il filetto a tocchetti di dimensioni regolari 16 . Scaldate una padella antiaderente con una parte dell'olio extravergine d'oliva. Sistematevi i pezzi di ombrina appoggiandoli inizialmente sul lato della pelle e salateli 17 . Cuoceteli per circa 2 minuti, poi girateli delicatamente 18 . Proseguite la cottura per altri 2 minuti sul lato della polpa 19 . Una volta pronti, toglieteli dalla padella e teneteli da parte. Cuocete le fettuccine nella stessa acqua utilizzata per le cime di rapa, che avrete riportato a bollore 20 . Scolatele circa 2 minuti prima del tempo di cottura indicato sulla confezione e trasferitele direttamente nella padella con il condimento 21 . Terminate la cottura delle fettuccine in padella, aggiungendo ancora poca acqua se necessario. A cottura ultimata aggiungete la colatura di alici 22 e saltate brevemente il tutto 23 . Distribuite la pasta nei piatti 24 . Completate con i tocchetti di ombrina 25 , le cimette di rapa rimaste in padella 26 e servitela subito 27 . Conservazione Consigliamo di consumare la pasta con cime di rapa e ombrina appena preparata, quando il condimento è ancora cremoso e il pesce mantiene la consistenza migliore. Se avanza, potete conservarla in frigorifero, in un contenitore ermetico, per massimo 1 giorno. È preferibile non congelare il piatto completo. Consiglio Scolate le fettuccine al dente e completate la cottura direttamente nella crema di cime di rapa, in questo modo assorbiranno meglio il condimento. Dosate inoltre con attenzione la colatura di alici, considerando che apporta già una spiccata sapidità al piatto. Per questa ricetta, ti consigliamo di provare le Fettuccine n° 89 Rummo Pasta Rummo, eccezionale tenuta alla cottura. Grazie alla qualità delle semole utilizzate, alla cura dei maestri pastai e al Metodo Lenta Lavorazione®, la pasta Rummo è la prima certificata per la tenuta alla cottura. Gli oltre 175 anni di esperienza e la trafilatura al bronzo rendono Pasta Rummo eccezionale. Scopri di più Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Cime di rapa Aglio Ombrina Olio di oliva Peperoncino Scopri tutto sugli ingredienti Presente in: Primi piatti di pesce STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Benessere Primi piatti Pasta con ombrina, zucchine trombetta e pomodorini gialli 5.0 La pasta con ombrina, zucchine trombetta e pomodorini gialli è uno sfizioso primo piatto di pesce dal condimento cremoso e colorato! Scopri la ricetta Vai alla ricetta Come pulire l'ombrina 1.0 Come si pulisce l'ombrina? Con la scuola di cucina GialloZafferano imparerete a pulire e sfilettare questo delicato e pregiato pesce! Vai alla ricetta Secondi piatti Ombrina al forno 2 4.5 L'ombrina al forno è un secondo facile e gustoso, con verdure arrostite che esaltano il gusto delicato del pesce. Scoprite qui dosi e procedimento. Vai alla ricetta Secondi piatti Ombrina alla ligure 4.9 L'ombrina alla ligure è un secondo piatto di pesce, semplice e genuino. Scopri qui dosi e procedimento per preparare questa ricetta a casa tua! Vai alla ricetta Secondi piatti Trancio di ombrina grigliato 3 3.0 Il trancio di ombrina grigliato è un secondo piatto a base di pesce molto saporito, servito con un contorno mediterraneo di pomodorini e olive nere! Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Fettuccine cremose con cime di rapa e ombrina",
+        "Fettuccine, ombrina, cime di rapa, colatura di alici",
+        "Frulla le foglie di rapa con olio",
+        "Salta la pasta con la crema di rapa",
+        "Aggiungi colatura di alici a fuoco spento"
+      ],
+      "instagram_caption": "La pasta che sa di mare e di terra, in un solo boccone. 🌊🌿\nFettuccine cremose avvolte da una vellutata di cime di rapa frullate con l'olio, poi l'ombrina che si sfoglia dolcemente e la colatura di alici che entra a fuoco spento per dare quella spinta sapida che non ti aspetti.\nUn piatto semplice ma di carattere, dove ogni ingrediente parla senza coprire gli altri.\nSalva questo reel e provala questo weekend! 🍝✨",
+      "formats": {
+        "instagram": {
+          "caption": "La pasta che sa di mare e di terra, in un solo boccone. 🌊🌿\nFettuccine cremose avvolte da una vellutata di cime di rapa frullate con l'olio, poi l'ombrina che si sfoglia dolcemente e la colatura di alici che entra a fuoco spento per dare quella spinta sapida che non ti aspetti.\nUn piatto semplice ma di carattere, dove ogni ingrediente parla senza coprire gli altri.\nSalva questo reel e provala questo weekend! 🍝✨"
+        },
+        "tiktok": {
+          "script": [
+            "Fettuccine cremose con cime di rapa e ombrina",
+            "Butto fettuccine, ombrina, cime di rapa e colatura",
+            "Frullo le foglie di rapa con olio, che crema",
+            "Salto la pasta con la crema di rapa",
+            "Colatura di alici a fuoco spento, che profumo"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Cime di rapa e ombrina: il mare che incontra la terra in un piatto che sa di casa. Un primo che spacca, altro che solita pasta. Fidati, la crema di rapa cambia tutto.",
+            "Parti dalle fettuccine. In padella l'ombrina si rosola e profuma l'olio. Le cime di rapa lessate? Tienile da parte, serve tutto. La colatura di alici arriva dopo, a fuoco spento.",
+            "Frulla le foglie di rapa lessate con un filo d'olio evo. Diventa una crema verde che avvolge la pasta come un abbraccio. Non serve panna, la natura fa il suo lavoro.",
+            "Salta le fettuccine nella crema di rapa con l'ombrina a pezzetti. Un mestolo d'acqua di cottura e manteca che è una meraviglia. Il profumo? Da chiudere gli occhi.",
+            "Fuori dal fuoco, aggiungi la colatura di alici: esalta tutto senza coprire. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Fettuccine cremose con cime di rapa e ombrina",
+        "Butto fettuccine, ombrina, cime di rapa e colatura",
+        "Frullo le foglie di rapa con olio, che crema",
+        "Salto la pasta con la crema di rapa",
+        "Colatura di alici a fuoco spento, che profumo"
+      ],
+      "thread_text": [
+        "Cime di rapa e ombrina: il mare che incontra la terra in un piatto che sa di casa. Un primo che spacca, altro che solita pasta. Fidati, la crema di rapa cambia tutto.",
+        "Parti dalle fettuccine. In padella l'ombrina si rosola e profuma l'olio. Le cime di rapa lessate? Tienile da parte, serve tutto. La colatura di alici arriva dopo, a fuoco spento.",
+        "Frulla le foglie di rapa lessate con un filo d'olio evo. Diventa una crema verde che avvolge la pasta come un abbraccio. Non serve panna, la natura fa il suo lavoro.",
+        "Salta le fettuccine nella crema di rapa con l'ombrina a pezzetti. Un mestolo d'acqua di cottura e manteca che è una meraviglia. Il profumo? Da chiudere gli occhi.",
+        "Fuori dal fuoco, aggiungi la colatura di alici: esalta tutto senza coprire. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Fettuccine cremose con cime di rapa e ombrina",
+          "description": "Un primo di mare e terra dal sapore deciso, cremoso e sorprendente.",
+          "visual_hint": "piatto fumante primo piano",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory fettuccine seafood"
+        },
+        {
+          "hook": "Tre ingredienti, un equilibrio perfetto",
+          "description": "Fettuccine, ombrina e cime di rapa: semplicità che diventa eleganza.",
+          "visual_hint": "ingredienti disposti su tavolo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory fish pasta",
+          "image": "https://images.pexels.com/photos/36375386/pexels-photo-36375386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il segreto è la crema di rapa",
+          "description": "Frulla le foglie con olio per ottenere una salsa verde vellutata.",
+          "visual_hint": "frullatore con crema verde",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory green sauce",
+          "image": "https://images.pexels.com/photos/7937018/pexels-photo-7937018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Salta tutto in padella",
+          "description": "Manteca la pasta con la crema di rapa per avvolgere ogni fettuccina.",
+          "visual_hint": "padella con pasta e crema",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory pasta pan",
+          "image": "https://images.pexels.com/photos/37726962/pexels-photo-37726962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Colatura di alici, tocco finale",
+          "description": "A fuoco spento aggiungi la colatura: esalta il mare e chiude il piatto.",
+          "visual_hint": "gocce di colatura sul piatto",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory pasta dish",
+          "image": "https://images.pexels.com/photos/31235407/pexels-photo-31235407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "fettuccine",
+        "ombrina",
+        "cime di rapa"
+      ],
+      "image": "https://www.giallozafferano.it/images/366-36602/Pasta-con-cime-di-rapa-e-ombrina_650x433_wm.jpg",
+      "savedAt": "2026-10-02T10:14:43.146Z",
+      "sourceId": "3a922b47d490f54259ae655342bdc384"
+    },
     {
       "schema_version": 2,
       "agent": "food",
