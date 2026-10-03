@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "capcom-is-preparing-for-a-future-where-we-create-g",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+  "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+  "pubDate": "2026-10-03T16:49:10.000Z",
+  "slides": [
+    "Capcom wants AI as your co-developer. Ready?",
+    "It compares AI to a calculator, not replacement",
+    "But they admit one game flopped due to AI",
+    "Studios must decide: integrate AI or compete against",
+    "Add AI to one workflow, evaluate the result"
+  ],
+  "thread_text": [
+    "1. Capcom’s AI Bet\n\nThey want AI as co-developer, comparing it to a calculator. But one game already flopped because of it.",
+    "2. Calculator or Crutch?\n\nCapcom says AI won't replace devs, just assist. Yet the flop shows even assistive tools can sink a project if misapplied.",
+    "3. The Flop They Admit\n\nA game failed due to AI integration. Capcom doesn't name it, but the lesson is clear: AI isn't a magic fix.",
+    "4. Integrate or Die\n\nStudios face a choice: adopt AI into workflows or compete against those who do. The pressure is on.",
+    "5. Test One Workflow\n\nPick a single task, add AI, and evaluate the result. If you haven't tried it, start with your next post."
+  ],
+  "video_script": [
+    "Capcom wants AI as your co-developer.",
+    "They compare it to a calculator, not a replacement.",
+    "But they admit one game flopped due to AI.",
+    "Studios must decide: integrate AI or compete against it.",
+    "Add AI to one workflow, evaluate the result."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Capcom’s AI Bet\n\nThey want AI as co-developer, comparing it to a calculator. But one game already flopped because of it.",
+        "2. Calculator or Crutch?\n\nCapcom says AI won't replace devs, just assist. Yet the flop shows even assistive tools can sink a project if misapplied.",
+        "3. The Flop They Admit\n\nA game failed due to AI integration. Capcom doesn't name it, but the lesson is clear: AI isn't a magic fix.",
+        "4. Integrate or Die\n\nStudios face a choice: adopt AI into workflows or compete against those who do. The pressure is on.",
+        "5. Test One Workflow\n\nPick a single task, add AI, and evaluate the result. If you haven't tried it, start with your next post."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Capcom wants AI as your co-developer.",
+        "They compare it to a calculator, not a replacement.",
+        "But they admit one game flopped due to AI.",
+        "Studios must decide: integrate AI or compete against it.",
+        "Add AI to one workflow, evaluate the result."
+      ]
+    },
+    "instagram": {
+      "caption": "Capcom just said out loud what most studios only whisper: they're building toward a future where games get made together with AI.\n\nThey frame it as a calculator, not a replacement. A tool, not a teammate.\n\nBut they also named the cost: one game already flopped after wiring AI into its development.\n\nSo the choice facing every studio is blunt — fold AI into your pipeline, or compete against the ones who already did.\n\nStart with one task. Add AI. Judge the output honestly. 🎮\n\nWhat's the first workflow you'd hand to a machine?"
+    }
+  },
+  "instagram_caption": "Capcom just said out loud what most studios only whisper: they're building toward a future where games get made together with AI.\n\nThey frame it as a calculator, not a replacement. A tool, not a teammate.\n\nBut they also named the cost: one game already flopped after wiring AI into its development.\n\nSo the choice facing every studio is blunt — fold AI into your pipeline, or compete against the ones who already did.\n\nStart with one task. Add AI. Judge the output honestly. 🎮\n\nWhat's the first workflow you'd hand to a machine?",
+  "carousel_slides": [
+    {
+      "hook": "One game flopped because of AI?",
+      "description": "Capcom admits a game failed after AI integration. The lesson: AI isn't a magic fix for development.",
+      "visual_hint": "Broken game controller on desk",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "broken controller"
+    },
+    {
+      "hook": "AI is a calculator, not a replacement",
+      "description": "Capcom compares AI to a calculator: it assists developers but doesn't replace them. Yet misapplied tools can sink projects.",
+      "visual_hint": "Calculator on office desk",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "calculator desk",
+      "image": "https://images.pexels.com/photos/8296969/pexels-photo-8296969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The flop they won't name",
+      "description": "A Capcom game failed due to AI integration. The unnamed flop proves assistive tools can backfire if misapplied.",
+      "visual_hint": "Game box with red X",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "video game box",
+      "image": "https://images.pexels.com/photos/7330919/pexels-photo-7330919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Integrate AI or compete against it?",
+      "description": "Studios must choose: adopt AI into workflows or compete against those who do. The pressure is on.",
+      "visual_hint": "Split path in office",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers meeting",
+      "image": "https://images.pexels.com/photos/12903171/pexels-photo-12903171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test AI on one workflow now",
+      "description": "Pick a single task, add AI, and evaluate the result. Save this post for your next workflow experiment.",
+      "visual_hint": "Person testing AI tool",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop workflow",
+      "image": "https://images.pexels.com/photos/7439127/pexels-photo-7439127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+  "savedAt": "2026-10-03T20:22:40.144Z",
+  "sourceId": "cc9d67938b46f0abe5ce757e5d5b5449"
+}

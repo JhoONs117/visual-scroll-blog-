@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "capcom-is-preparing-for-a-future-where-we-create-g",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+    "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+    "pubDate": "2026-10-03T16:49:10.000Z",
+    "slides": [
+      "Capcom wants AI as your co-developer. Ready?",
+      "It compares AI to a calculator, not replacement",
+      "But they admit one game flopped due to AI",
+      "Studios must decide: integrate AI or compete against",
+      "Add AI to one workflow, evaluate the result"
+    ],
+    "thread_text": [
+      "1. Capcom’s AI Bet\n\nThey want AI as co-developer, comparing it to a calculator. But one game already flopped because of it.",
+      "2. Calculator or Crutch?\n\nCapcom says AI won't replace devs, just assist. Yet the flop shows even assistive tools can sink a project if misapplied.",
+      "3. The Flop They Admit\n\nA game failed due to AI integration. Capcom doesn't name it, but the lesson is clear: AI isn't a magic fix.",
+      "4. Integrate or Die\n\nStudios face a choice: adopt AI into workflows or compete against those who do. The pressure is on.",
+      "5. Test One Workflow\n\nPick a single task, add AI, and evaluate the result. If you haven't tried it, start with your next post."
+    ],
+    "video_script": [
+      "Capcom wants AI as your co-developer.",
+      "They compare it to a calculator, not a replacement.",
+      "But they admit one game flopped due to AI.",
+      "Studios must decide: integrate AI or compete against it.",
+      "Add AI to one workflow, evaluate the result."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Capcom’s AI Bet\n\nThey want AI as co-developer, comparing it to a calculator. But one game already flopped because of it.",
+          "2. Calculator or Crutch?\n\nCapcom says AI won't replace devs, just assist. Yet the flop shows even assistive tools can sink a project if misapplied.",
+          "3. The Flop They Admit\n\nA game failed due to AI integration. Capcom doesn't name it, but the lesson is clear: AI isn't a magic fix.",
+          "4. Integrate or Die\n\nStudios face a choice: adopt AI into workflows or compete against those who do. The pressure is on.",
+          "5. Test One Workflow\n\nPick a single task, add AI, and evaluate the result. If you haven't tried it, start with your next post."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Capcom wants AI as your co-developer.",
+          "They compare it to a calculator, not a replacement.",
+          "But they admit one game flopped due to AI.",
+          "Studios must decide: integrate AI or compete against it.",
+          "Add AI to one workflow, evaluate the result."
+        ]
+      },
+      "instagram": {
+        "caption": "Capcom just said out loud what most studios only whisper: they're building toward a future where games get made together with AI.\n\nThey frame it as a calculator, not a replacement. A tool, not a teammate.\n\nBut they also named the cost: one game already flopped after wiring AI into its development.\n\nSo the choice facing every studio is blunt — fold AI into your pipeline, or compete against the ones who already did.\n\nStart with one task. Add AI. Judge the output honestly. 🎮\n\nWhat's the first workflow you'd hand to a machine?"
+      }
+    },
+    "instagram_caption": "Capcom just said out loud what most studios only whisper: they're building toward a future where games get made together with AI.\n\nThey frame it as a calculator, not a replacement. A tool, not a teammate.\n\nBut they also named the cost: one game already flopped after wiring AI into its development.\n\nSo the choice facing every studio is blunt — fold AI into your pipeline, or compete against the ones who already did.\n\nStart with one task. Add AI. Judge the output honestly. 🎮\n\nWhat's the first workflow you'd hand to a machine?",
+    "carousel_slides": [
+      {
+        "hook": "One game flopped because of AI?",
+        "description": "Capcom admits a game failed after AI integration. The lesson: AI isn't a magic fix for development.",
+        "visual_hint": "Broken game controller on desk",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "broken controller"
+      },
+      {
+        "hook": "AI is a calculator, not a replacement",
+        "description": "Capcom compares AI to a calculator: it assists developers but doesn't replace them. Yet misapplied tools can sink projects.",
+        "visual_hint": "Calculator on office desk",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "calculator desk",
+        "image": "https://images.pexels.com/photos/8296969/pexels-photo-8296969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The flop they won't name",
+        "description": "A Capcom game failed due to AI integration. The unnamed flop proves assistive tools can backfire if misapplied.",
+        "visual_hint": "Game box with red X",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "video game box",
+        "image": "https://images.pexels.com/photos/7330919/pexels-photo-7330919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Integrate AI or compete against it?",
+        "description": "Studios must choose: adopt AI into workflows or compete against those who do. The pressure is on.",
+        "visual_hint": "Split path in office",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers meeting",
+        "image": "https://images.pexels.com/photos/12903171/pexels-photo-12903171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test AI on one workflow now",
+        "description": "Pick a single task, add AI, and evaluate the result. Save this post for your next workflow experiment.",
+        "visual_hint": "Person testing AI tool",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop workflow",
+        "image": "https://images.pexels.com/photos/7439127/pexels-photo-7439127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "savedAt": "2026-10-03T20:22:40.144Z",
+    "sourceId": "cc9d67938b46f0abe5ce757e5d5b5449"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "spotify-billionaire-s-body-scan-startup-has-come-t",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Spotify billionaire’s body scan startup has come to America",
+    "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+    "pubDate": "Sat, 03 Oct 2026 14:00:00 +0000",
+    "slides": [
+      "What if your next diagnosis came from a body scan?",
+      "Spotify billionaire Daniel Ek backs this startup",
+      "It detects diseases doctors often miss entirely",
+      "But American insurance may not cover it yet",
+      "Ask your doctor: is a scan worth the price?"
+    ],
+    "thread_text": [
+      "1. The Scan Doctors Order\n\nA startup backed by Spotify's billionaire founder claims its AI can spot diseases physicians miss on standard scans. Your next diagnosis might depend on it.",
+      "2. Ek's Quiet Bet\n\nDaniel Ek didn't just fund another health app. He's betting that AI reading body scans will become the default first opinion, not a second one.",
+      "3. The Missed Diagnoses\n\nThese are conditions that often slip through routine checks—until it's too late. The AI flags patterns human eyes overlook in 30 seconds.",
+      "4. Insurance Says No\n\nEven if the scan works, most US insurers won't reimburse it yet. You'd pay out of pocket while the evidence piles up.",
+      "5. Ask Before You Pay\n\nNext time you see your doctor, ask: would this scan change my treatment? If the answer is no, don't buy it."
+    ],
+    "video_script": [
+      "What if your next diagnosis came from a scan?",
+      "Spotify's billionaire founder is backing this startup.",
+      "It finds diseases doctors often miss entirely.",
+      "But American insurance may not cover it yet.",
+      "Ask your doctor: is a scan worth the price?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Scan Doctors Order\n\nA startup backed by Spotify's billionaire founder claims its AI can spot diseases physicians miss on standard scans. Your next diagnosis might depend on it.",
+          "2. Ek's Quiet Bet\n\nDaniel Ek didn't just fund another health app. He's betting that AI reading body scans will become the default first opinion, not a second one.",
+          "3. The Missed Diagnoses\n\nThese are conditions that often slip through routine checks—until it's too late. The AI flags patterns human eyes overlook in 30 seconds.",
+          "4. Insurance Says No\n\nEven if the scan works, most US insurers won't reimburse it yet. You'd pay out of pocket while the evidence piles up.",
+          "5. Ask Before You Pay\n\nNext time you see your doctor, ask: would this scan change my treatment? If the answer is no, don't buy it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "What if your next diagnosis came from a scan?",
+          "Spotify's billionaire founder is backing this startup.",
+          "It finds diseases doctors often miss entirely.",
+          "But American insurance may not cover it yet.",
+          "Ask your doctor: is a scan worth the price?"
+        ]
+      },
+      "instagram": {
+        "caption": "A scan backed by Spotify's billionaire founder claims it catches diseases doctors miss on standard tests.\n\nIt's now launching in America. The AI flags patterns in body scans in about 30 seconds.\n\nMost US insurers won't cover it yet, so you'd pay out of pocket. 🩺\n\nFor anyone writing about health or tech, this is a real case of AI moving faster than the system that pays for it. 📊\n\nNext doctor visit, ask: would this scan actually change my treatment? 🧠\n\nIf the answer is no, would you still pay for it? 💬"
+      }
+    },
+    "instagram_caption": "A scan backed by Spotify's billionaire founder claims it catches diseases doctors miss on standard tests.\n\nIt's now launching in America. The AI flags patterns in body scans in about 30 seconds.\n\nMost US insurers won't cover it yet, so you'd pay out of pocket. 🩺\n\nFor anyone writing about health or tech, this is a real case of AI moving faster than the system that pays for it. 📊\n\nNext doctor visit, ask: would this scan actually change my treatment? 🧠\n\nIf the answer is no, would you still pay for it? 💬",
+    "carousel_slides": [
+      {
+        "hook": "AI finds what doctors miss",
+        "description": "A startup backed by Spotify's billionaire claims its AI spots diseases physicians often overlook on standard scans.",
+        "visual_hint": "AI scanning medical body image",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "medical scanner"
+      },
+      {
+        "hook": "Spotify billionaire bets on health",
+        "description": "Daniel Ek backs this startup to make AI body scan readings the default first opinion, not just a second one.",
+        "visual_hint": "Spotify logo and medical chart",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "Daniel Ek",
+        "image": "https://images.pexels.com/photos/6333664/pexels-photo-6333664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Diseases doctors miss entirely",
+        "description": "The AI flags patterns human eyes overlook in 30 seconds, catching conditions that slip through routine checks until it's too late.",
+        "visual_hint": "30-second timer over medical scan",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "medical scan",
+        "image": "https://images.pexels.com/photos/7089390/pexels-photo-7089390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Insurance may not cover it",
+        "description": "Most US insurers won't reimburse the scan yet, so you'd pay out of pocket while evidence piles up.",
+        "visual_hint": "Insurance card and medical bill",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "insurance form",
+        "image": "https://images.pexels.com/photos/7736031/pexels-photo-7736031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your next checkup",
+        "description": "Ask your doctor: would this scan change my treatment? If no, don't buy it. Save this post and share.",
+        "visual_hint": "Doctor and patient conversation",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "doctor patient",
+        "image": "https://images.pexels.com/photos/7578797/pexels-photo-7578797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/Neko-Health-Marylebone-3.jpg?resize=1200,900",
+    "savedAt": "2026-10-03T20:22:32.227Z",
+    "sourceId": "debadb1b626121bd647a62d6851425b3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "all-the-ai-agents-that-can-live-in-your-text-messa",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "All the AI agents that can live in your text messages ",
+    "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "pubDate": "Sat, 03 Oct 2026 14:00:00 +0000",
+    "slides": [
+      "Can an AI agent live in your texts?",
+      "Text-message agents act on your behalf directly",
+      "They reply, book, and pay without opening apps",
+      "Your bank and calendar become chat commands",
+      "Text one task to an agent this week"
+    ],
+    "thread_text": [
+      "1. Your AI Now Lives in Texts\n\nA new wave of agents can read your messages and act without you opening a single app. They reply, book, and pay on your behalf.",
+      "2. No App, Just Chat\n\nThese text-message agents operate directly inside your existing conversations. You don't download anything new — you just text a number.",
+      "3. Booking and Paying by Text\n\nThey can schedule appointments, reserve tables, and send payments. All it takes is a single message from you.",
+      "4. Bank and Calendar as Commands\n\nYour financial and scheduling data becomes just another chat input. The agent treats your bank and calendar like programmable endpoints.",
+      "5. Try One Task This Week\n\nSend a text to an agent to book a haircut or pay a bill. If it fails, you've lost nothing but a few seconds."
+    ],
+    "video_script": [
+      "Imagine an AI that lives inside your text messages.",
+      "It replies, books, and pays without you opening any app.",
+      "Your bank and calendar turn into simple chat commands.",
+      "No new downloads — just text a number and it acts.",
+      "Try one task this week: send a text to book something."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your AI Now Lives in Texts\n\nA new wave of agents can read your messages and act without you opening a single app. They reply, book, and pay on your behalf.",
+          "2. No App, Just Chat\n\nThese text-message agents operate directly inside your existing conversations. You don't download anything new — you just text a number.",
+          "3. Booking and Paying by Text\n\nThey can schedule appointments, reserve tables, and send payments. All it takes is a single message from you.",
+          "4. Bank and Calendar as Commands\n\nYour financial and scheduling data becomes just another chat input. The agent treats your bank and calendar like programmable endpoints.",
+          "5. Try One Task This Week\n\nSend a text to an agent to book a haircut or pay a bill. If it fails, you've lost nothing but a few seconds."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Imagine an AI that lives inside your text messages.",
+          "It replies, books, and pays without you opening any app.",
+          "Your bank and calendar turn into simple chat commands.",
+          "No new downloads — just text a number and it acts.",
+          "Try one task this week: send a text to book something."
+        ]
+      },
+      "instagram": {
+        "caption": "You can now pay a bill or book a table by sending a text — no app to open.\n\nText-message agents read your conversations and act on your behalf directly: they reply, schedule, and pay.\n\nYour bank and calendar turn into chat commands the agent treats as programmable inputs. 📲\n\nYou just text a number; nothing new to download.\n\nIf you publish or create content, this changes your daily tools: scheduling and payments can run through messages instead of dashboards. ⚡\n\nWhich single task would you hand to a text agent this week — a haircut, a bill, something else? 🤔"
+      }
+    },
+    "instagram_caption": "You can now pay a bill or book a table by sending a text — no app to open.\n\nText-message agents read your conversations and act on your behalf directly: they reply, schedule, and pay.\n\nYour bank and calendar turn into chat commands the agent treats as programmable inputs. 📲\n\nYou just text a number; nothing new to download.\n\nIf you publish or create content, this changes your daily tools: scheduling and payments can run through messages instead of dashboards. ⚡\n\nWhich single task would you hand to a text agent this week — a haircut, a bill, something else? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Your AI now lives in text messages",
+        "description": "A new wave of agents reads your messages and acts on your behalf, so you never have to open another app again.",
+        "visual_hint": "Smartphone screen glowing with chat bubbles",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "smartphone chat screen"
+      },
+      {
+        "hook": "No app, just chat",
+        "description": "These agents operate inside your existing conversations. You don't download anything new, you simply text a number and they respond.",
+        "visual_hint": "Phone number on a message thread",
+        "layout_type": "right-focus",
+        "icon": "vibration",
+        "image_query": "text message inbox",
+        "image": "https://images.pexels.com/photos/9898392/pexels-photo-9898392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "They reply, book, and pay for you",
+        "description": "Text-message agents can schedule appointments, reserve tables, and send payments, all from a single message you send.",
+        "visual_hint": "Calendar and wallet icons on phone",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "calendar wallet smartphone",
+        "image": "https://images.pexels.com/photos/6214459/pexels-photo-6214459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your bank and calendar become commands",
+        "description": "Your financial and scheduling data turns into just another chat input, as the agent treats your bank and calendar like programmable endpoints.",
+        "visual_hint": "Bank app and calendar side by side",
+        "layout_type": "human-hand",
+        "icon": "tag",
+        "image_query": "online banking calendar",
+        "image": "https://images.pexels.com/photos/7821528/pexels-photo-7821528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and text one task now",
+        "description": "Send a text to an agent to book a haircut or pay a bill. If it fails, you lose only a few seconds.",
+        "visual_hint": "Hand holding phone sending text",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+    "savedAt": "2026-10-03T20:22:24.877Z",
+    "sourceId": "6ae30ec75fda881d11493e3971d2b8e3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "an-openai-safety-employee-has-quit-and-is-sounding",
     "prompt_version": "1.0.0",
     "status": "published",

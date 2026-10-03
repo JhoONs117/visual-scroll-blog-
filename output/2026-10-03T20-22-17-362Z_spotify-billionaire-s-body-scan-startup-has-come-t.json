@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "spotify-billionaire-s-body-scan-startup-has-come-t",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Spotify billionaire’s body scan startup has come to America",
+  "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+  "pubDate": "Sat, 03 Oct 2026 14:00:00 +0000",
+  "slides": [
+    "What if your next diagnosis came from a body scan?",
+    "Spotify billionaire Daniel Ek backs this startup",
+    "It detects diseases doctors often miss entirely",
+    "But American insurance may not cover it yet",
+    "Ask your doctor: is a scan worth the price?"
+  ],
+  "thread_text": [
+    "1. The Scan Doctors Order\n\nA startup backed by Spotify's billionaire founder claims its AI can spot diseases physicians miss on standard scans. Your next diagnosis might depend on it.",
+    "2. Ek's Quiet Bet\n\nDaniel Ek didn't just fund another health app. He's betting that AI reading body scans will become the default first opinion, not a second one.",
+    "3. The Missed Diagnoses\n\nThese are conditions that often slip through routine checks—until it's too late. The AI flags patterns human eyes overlook in 30 seconds.",
+    "4. Insurance Says No\n\nEven if the scan works, most US insurers won't reimburse it yet. You'd pay out of pocket while the evidence piles up.",
+    "5. Ask Before You Pay\n\nNext time you see your doctor, ask: would this scan change my treatment? If the answer is no, don't buy it."
+  ],
+  "video_script": [
+    "What if your next diagnosis came from a scan?",
+    "Spotify's billionaire founder is backing this startup.",
+    "It finds diseases doctors often miss entirely.",
+    "But American insurance may not cover it yet.",
+    "Ask your doctor: is a scan worth the price?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Scan Doctors Order\n\nA startup backed by Spotify's billionaire founder claims its AI can spot diseases physicians miss on standard scans. Your next diagnosis might depend on it.",
+        "2. Ek's Quiet Bet\n\nDaniel Ek didn't just fund another health app. He's betting that AI reading body scans will become the default first opinion, not a second one.",
+        "3. The Missed Diagnoses\n\nThese are conditions that often slip through routine checks—until it's too late. The AI flags patterns human eyes overlook in 30 seconds.",
+        "4. Insurance Says No\n\nEven if the scan works, most US insurers won't reimburse it yet. You'd pay out of pocket while the evidence piles up.",
+        "5. Ask Before You Pay\n\nNext time you see your doctor, ask: would this scan change my treatment? If the answer is no, don't buy it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "What if your next diagnosis came from a scan?",
+        "Spotify's billionaire founder is backing this startup.",
+        "It finds diseases doctors often miss entirely.",
+        "But American insurance may not cover it yet.",
+        "Ask your doctor: is a scan worth the price?"
+      ]
+    },
+    "instagram": {
+      "caption": "A scan backed by Spotify's billionaire founder claims it catches diseases doctors miss on standard tests.\n\nIt's now launching in America. The AI flags patterns in body scans in about 30 seconds.\n\nMost US insurers won't cover it yet, so you'd pay out of pocket. 🩺\n\nFor anyone writing about health or tech, this is a real case of AI moving faster than the system that pays for it. 📊\n\nNext doctor visit, ask: would this scan actually change my treatment? 🧠\n\nIf the answer is no, would you still pay for it? 💬"
+    }
+  },
+  "instagram_caption": "A scan backed by Spotify's billionaire founder claims it catches diseases doctors miss on standard tests.\n\nIt's now launching in America. The AI flags patterns in body scans in about 30 seconds.\n\nMost US insurers won't cover it yet, so you'd pay out of pocket. 🩺\n\nFor anyone writing about health or tech, this is a real case of AI moving faster than the system that pays for it. 📊\n\nNext doctor visit, ask: would this scan actually change my treatment? 🧠\n\nIf the answer is no, would you still pay for it? 💬",
+  "carousel_slides": [
+    {
+      "hook": "AI finds what doctors miss",
+      "description": "A startup backed by Spotify's billionaire claims its AI spots diseases physicians often overlook on standard scans.",
+      "visual_hint": "AI scanning medical body image",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "medical scanner"
+    },
+    {
+      "hook": "Spotify billionaire bets on health",
+      "description": "Daniel Ek backs this startup to make AI body scan readings the default first opinion, not just a second one.",
+      "visual_hint": "Spotify logo and medical chart",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "Daniel Ek",
+      "image": "https://images.pexels.com/photos/6333664/pexels-photo-6333664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Diseases doctors miss entirely",
+      "description": "The AI flags patterns human eyes overlook in 30 seconds, catching conditions that slip through routine checks until it's too late.",
+      "visual_hint": "30-second timer over medical scan",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "medical scan",
+      "image": "https://images.pexels.com/photos/7089390/pexels-photo-7089390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Insurance may not cover it",
+      "description": "Most US insurers won't reimburse the scan yet, so you'd pay out of pocket while evidence piles up.",
+      "visual_hint": "Insurance card and medical bill",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "insurance form",
+      "image": "https://images.pexels.com/photos/7736031/pexels-photo-7736031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next checkup",
+      "description": "Ask your doctor: would this scan change my treatment? If no, don't buy it. Save this post and share.",
+      "visual_hint": "Doctor and patient conversation",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "doctor patient",
+      "image": "https://images.pexels.com/photos/7578797/pexels-photo-7578797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/09/Neko-Health-Marylebone-3.jpg?resize=1200,900",
+  "savedAt": "2026-10-03T20:22:32.227Z",
+  "sourceId": "debadb1b626121bd647a62d6851425b3"
+}

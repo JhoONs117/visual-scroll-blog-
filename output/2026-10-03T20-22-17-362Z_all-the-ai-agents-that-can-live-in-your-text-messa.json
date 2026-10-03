@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "all-the-ai-agents-that-can-live-in-your-text-messa",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "All the AI agents that can live in your text messages ",
+  "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+  "pubDate": "Sat, 03 Oct 2026 14:00:00 +0000",
+  "slides": [
+    "Can an AI agent live in your texts?",
+    "Text-message agents act on your behalf directly",
+    "They reply, book, and pay without opening apps",
+    "Your bank and calendar become chat commands",
+    "Text one task to an agent this week"
+  ],
+  "thread_text": [
+    "1. Your AI Now Lives in Texts\n\nA new wave of agents can read your messages and act without you opening a single app. They reply, book, and pay on your behalf.",
+    "2. No App, Just Chat\n\nThese text-message agents operate directly inside your existing conversations. You don't download anything new — you just text a number.",
+    "3. Booking and Paying by Text\n\nThey can schedule appointments, reserve tables, and send payments. All it takes is a single message from you.",
+    "4. Bank and Calendar as Commands\n\nYour financial and scheduling data becomes just another chat input. The agent treats your bank and calendar like programmable endpoints.",
+    "5. Try One Task This Week\n\nSend a text to an agent to book a haircut or pay a bill. If it fails, you've lost nothing but a few seconds."
+  ],
+  "video_script": [
+    "Imagine an AI that lives inside your text messages.",
+    "It replies, books, and pays without you opening any app.",
+    "Your bank and calendar turn into simple chat commands.",
+    "No new downloads — just text a number and it acts.",
+    "Try one task this week: send a text to book something."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your AI Now Lives in Texts\n\nA new wave of agents can read your messages and act without you opening a single app. They reply, book, and pay on your behalf.",
+        "2. No App, Just Chat\n\nThese text-message agents operate directly inside your existing conversations. You don't download anything new — you just text a number.",
+        "3. Booking and Paying by Text\n\nThey can schedule appointments, reserve tables, and send payments. All it takes is a single message from you.",
+        "4. Bank and Calendar as Commands\n\nYour financial and scheduling data becomes just another chat input. The agent treats your bank and calendar like programmable endpoints.",
+        "5. Try One Task This Week\n\nSend a text to an agent to book a haircut or pay a bill. If it fails, you've lost nothing but a few seconds."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Imagine an AI that lives inside your text messages.",
+        "It replies, books, and pays without you opening any app.",
+        "Your bank and calendar turn into simple chat commands.",
+        "No new downloads — just text a number and it acts.",
+        "Try one task this week: send a text to book something."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now pay a bill or book a table by sending a text — no app to open.\n\nText-message agents read your conversations and act on your behalf directly: they reply, schedule, and pay.\n\nYour bank and calendar turn into chat commands the agent treats as programmable inputs. 📲\n\nYou just text a number; nothing new to download.\n\nIf you publish or create content, this changes your daily tools: scheduling and payments can run through messages instead of dashboards. ⚡\n\nWhich single task would you hand to a text agent this week — a haircut, a bill, something else? 🤔"
+    }
+  },
+  "instagram_caption": "You can now pay a bill or book a table by sending a text — no app to open.\n\nText-message agents read your conversations and act on your behalf directly: they reply, schedule, and pay.\n\nYour bank and calendar turn into chat commands the agent treats as programmable inputs. 📲\n\nYou just text a number; nothing new to download.\n\nIf you publish or create content, this changes your daily tools: scheduling and payments can run through messages instead of dashboards. ⚡\n\nWhich single task would you hand to a text agent this week — a haircut, a bill, something else? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Your AI now lives in text messages",
+      "description": "A new wave of agents reads your messages and acts on your behalf, so you never have to open another app again.",
+      "visual_hint": "Smartphone screen glowing with chat bubbles",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "smartphone chat screen"
+    },
+    {
+      "hook": "No app, just chat",
+      "description": "These agents operate inside your existing conversations. You don't download anything new, you simply text a number and they respond.",
+      "visual_hint": "Phone number on a message thread",
+      "layout_type": "right-focus",
+      "icon": "vibration",
+      "image_query": "text message inbox",
+      "image": "https://images.pexels.com/photos/9898392/pexels-photo-9898392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "They reply, book, and pay for you",
+      "description": "Text-message agents can schedule appointments, reserve tables, and send payments, all from a single message you send.",
+      "visual_hint": "Calendar and wallet icons on phone",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "calendar wallet smartphone",
+      "image": "https://images.pexels.com/photos/6214459/pexels-photo-6214459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your bank and calendar become commands",
+      "description": "Your financial and scheduling data turns into just another chat input, as the agent treats your bank and calendar like programmable endpoints.",
+      "visual_hint": "Bank app and calendar side by side",
+      "layout_type": "human-hand",
+      "icon": "tag",
+      "image_query": "online banking calendar",
+      "image": "https://images.pexels.com/photos/7821528/pexels-photo-7821528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and text one task now",
+      "description": "Send a text to an agent to book a haircut or pay a bill. If it fails, you lose only a few seconds.",
+      "visual_hint": "Hand holding phone sending text",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+  "savedAt": "2026-10-03T20:22:24.877Z",
+  "sourceId": "6ae30ec75fda881d11493e3971d2b8e3"
+}
