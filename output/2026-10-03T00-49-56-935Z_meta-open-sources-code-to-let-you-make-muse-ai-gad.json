@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-open-sources-code-to-let-you-make-muse-ai-gad",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta open sources code to let you make Muse AI gadgets",
+  "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+  "pubDate": "2026-10-02T21:08:37.000Z",
+  "slides": [
+    "Meta open sources code for Muse AI gadgets, but why?",
+    "The toolkit builds custom AI hardware assistants",
+    "But anyone can now clone and sell your design",
+    "Your prototypes can ship without Meta's approval",
+    "Ask: who owns your next gadget's firmware?"
+  ],
+  "thread_text": [
+    "1. The Firmware Fight Begins\n\nMeta just open-sourced the code for its Muse AI gadgets. That means anyone can build custom hardware assistants—but also clone and sell your design without Meta's approval.",
+    "2. Build Without Gatekeepers\n\nThe toolkit lets you prototype AI hardware without waiting for Meta's sign-off. You ship when you're ready, not when they say so.",
+    "3. Your Design, Anyone's Product\n\nOpen source means your competitor can copy your gadget and undercut you. No legal shield, no exclusive rights. Just code.",
+    "4. Who Controls the Code?\n\nIf you use Meta's firmware, you're building on their foundation. They can change the rules, and you can't stop them.",
+    "5. Your Move, Maker\n\nTake a design you've been sitting on and ask: could someone else ship it tomorrow? If yes, you need a plan. What's yours?"
+  ],
+  "video_script": [
+    "Meta open sources its AI gadget code.",
+    "Now anyone can clone and sell your design.",
+    "You can ship prototypes without Meta's approval.",
+    "But who owns your gadget's firmware?",
+    "Ask yourself: who controls your next device?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Firmware Fight Begins\n\nMeta just open-sourced the code for its Muse AI gadgets. That means anyone can build custom hardware assistants—but also clone and sell your design without Meta's approval.",
+        "2. Build Without Gatekeepers\n\nThe toolkit lets you prototype AI hardware without waiting for Meta's sign-off. You ship when you're ready, not when they say so.",
+        "3. Your Design, Anyone's Product\n\nOpen source means your competitor can copy your gadget and undercut you. No legal shield, no exclusive rights. Just code.",
+        "4. Who Controls the Code?\n\nIf you use Meta's firmware, you're building on their foundation. They can change the rules, and you can't stop them.",
+        "5. Your Move, Maker\n\nTake a design you've been sitting on and ask: could someone else ship it tomorrow? If yes, you need a plan. What's yours?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta open sources its AI gadget code.",
+        "Now anyone can clone and sell your design.",
+        "You can ship prototypes without Meta's approval.",
+        "But who owns your gadget's firmware?",
+        "Ask yourself: who controls your next device?"
+      ]
+    },
+    "instagram": {
+      "caption": "Anyone can now clone your AI gadget and sell it, with Meta’s blessing. 🛠️\n\nMeta open-sourced the firmware behind its Muse AI hardware. You can prototype and ship an assistant without waiting for approval.\n\nBut open source cuts both ways: your competitor can copy the design and undercut you, no legal shield. ⚖️\n\nIf your product depends on their code, Meta can change the rules anytime you can’t stop.\n\nWould someone ship your idea tomorrow? If yes, what’s your plan? 👇"
+    }
+  },
+  "instagram_caption": "Anyone can now clone your AI gadget and sell it, with Meta’s blessing. 🛠️\n\nMeta open-sourced the firmware behind its Muse AI hardware. You can prototype and ship an assistant without waiting for approval.\n\nBut open source cuts both ways: your competitor can copy the design and undercut you, no legal shield. ⚖️\n\nIf your product depends on their code, Meta can change the rules anytime you can’t stop.\n\nWould someone ship your idea tomorrow? If yes, what’s your plan? 👇",
+  "carousel_slides": [
+    {
+      "hook": "Can anyone clone and sell your design?",
+      "description": "Meta's open source Muse code means competitors can copy your gadget without approval. No legal shield, no exclusive rights.",
+      "visual_hint": "Split screen identical devices facing off",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "circuit board closeup"
+    },
+    {
+      "hook": "Build AI hardware without Meta's sign-off",
+      "description": "The toolkit lets you prototype custom AI assistants and ship when ready, not when Meta approves. Full creative control, zero gatekeepers.",
+      "visual_hint": "Developer hands assembling prototype circuit",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "electronics workshop",
+      "image": "https://images.pexels.com/photos/35216547/pexels-photo-35216547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your prototype, their product tomorrow",
+      "description": "Open source firmware means your competitor can replicate your gadget and undercut your price. Every design becomes public domain instantly.",
+      "visual_hint": "Identical gadgets rolling off assembly line",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory production line",
+      "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who really controls your gadget's firmware?",
+      "description": "Building on Meta's foundation means they can change rules anytime. You ship without approval, but lose long-term control.",
+      "visual_hint": "Firmware code displayed on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this if you're building AI hardware",
+      "description": "Check your prototype today: could someone else ship it tomorrow? If yes, you need a protection plan now.",
+      "visual_hint": "Maker reviewing design with concern",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "engineer workshop prototype",
+      "image": "https://images.pexels.com/photos/6654752/pexels-photo-6654752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+  "savedAt": "2026-10-03T00:50:21.436Z",
+  "sourceId": "572d71e2575246edb315ef76f320c3d5"
+}

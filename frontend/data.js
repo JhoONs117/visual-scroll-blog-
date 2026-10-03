@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "apple-will-limit-mac-disk-access-as-ai-agents-subs",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+    "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+    "pubDate": "2026-10-02T20:08:40.000Z",
+    "slides": [
+      "Apple just locked down your Mac's disk – why?",
+      "AI agents will 'substantially' increase risk, says Apple.",
+      "The limit targets a core system feature, not just apps.",
+      "Your automation scripts may break until you grant new permissions.",
+      "Audit your disk-access tools before the next macOS update."
+    ],
+    "thread_text": [
+      "1. Apple's disk lockdown\n\nmacOS now blocks full disk access by default for a core system feature, flagging AI agents as a major new risk vector. Your scripts won't run until you manually approve each one.",
+      "2. The real target\n\nThis isn't about sandboxing apps. It hits the low-level disk access that automation tools rely on, effectively shutting down background processes until you re-authorize them.",
+      "3. Why AI agents\n\nApple says AI agents 'substantially' increase risk because they can chain actions across files and apps. One runaway agent could read, modify, and exfiltrate data without a single prompt.",
+      "4. What breaks first\n\nYour backup scripts, file syncers, and cron jobs will silently fail after the update. They won't crash — they'll just lose permission and wait for you to notice.",
+      "5. Audit before update\n\nOpen System Settings > Privacy & Security > Full Disk Access today. Remove tools you don't recognize. Then test your critical scripts on a spare Mac before the next macOS update."
+    ],
+    "video_script": [
+      "Apple just locked down your Mac's disk access.",
+      "AI agents are the reason, they say. Massive risk.",
+      "It's not just apps. Core system features are hit.",
+      "Your automation scripts will break until you approve.",
+      "Audit your disk tools before you update."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Apple's disk lockdown\n\nmacOS now blocks full disk access by default for a core system feature, flagging AI agents as a major new risk vector. Your scripts won't run until you manually approve each one.",
+          "2. The real target\n\nThis isn't about sandboxing apps. It hits the low-level disk access that automation tools rely on, effectively shutting down background processes until you re-authorize them.",
+          "3. Why AI agents\n\nApple says AI agents 'substantially' increase risk because they can chain actions across files and apps. One runaway agent could read, modify, and exfiltrate data without a single prompt.",
+          "4. What breaks first\n\nYour backup scripts, file syncers, and cron jobs will silently fail after the update. They won't crash — they'll just lose permission and wait for you to notice.",
+          "5. Audit before update\n\nOpen System Settings > Privacy & Security > Full Disk Access today. Remove tools you don't recognize. Then test your critical scripts on a spare Mac before the next macOS update."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple just locked down your Mac's disk access.",
+          "AI agents are the reason, they say. Massive risk.",
+          "It's not just apps. Core system features are hit.",
+          "Your automation scripts will break until you approve.",
+          "Audit your disk tools before you update."
+        ]
+      },
+      "instagram": {
+        "caption": "Your backup scripts and cron jobs will stop working after the next macOS update — silently.\n\nApple now blocks full disk access by default for a core system feature, not just apps. It flags AI agents as a \"substantial\" new risk: they can chain file reads, edits, and transfers across apps without asking.\n\nTools you rely on will lose permission and just wait for you to notice.\n\nOpen System Settings > Privacy & Security > Full Disk Access today. Remove anything you don't recognize 🔍 Then test your critical scripts before updating.\n\nWhich of your tools would survive a silent permission reset? ⚙️"
+      }
+    },
+    "instagram_caption": "Your backup scripts and cron jobs will stop working after the next macOS update — silently.\n\nApple now blocks full disk access by default for a core system feature, not just apps. It flags AI agents as a \"substantial\" new risk: they can chain file reads, edits, and transfers across apps without asking.\n\nTools you rely on will lose permission and just wait for you to notice.\n\nOpen System Settings > Privacy & Security > Full Disk Access today. Remove anything you don't recognize 🔍 Then test your critical scripts before updating.\n\nWhich of your tools would survive a silent permission reset? ⚙️",
+    "carousel_slides": [
+      {
+        "hook": "Is Apple shutting down your automation?",
+        "description": "Apple now blocks full disk access by default, citing AI agents as a major risk. Your scripts won't run until you manually approve each one.",
+        "visual_hint": "Locked Mac disk icon with warning",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "hard drive"
+      },
+      {
+        "hook": "AI agents are the real target",
+        "description": "Apple says AI agents 'substantially' increase risk by chaining actions across files and apps, potentially reading and exfiltrating data without prompts.",
+        "visual_hint": "AI agent network diagram with risk arrows",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "artificial intelligence",
+        "image": "https://images.pexels.com/photos/7688592/pexels-photo-7688592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It's not just apps – it's system-level",
+        "description": "The limit hits low-level disk access that automation tools rely on, shutting down background processes until you re-authorize them.",
+        "visual_hint": "System settings privacy panel close-up",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "system settings",
+        "image": "https://images.pexels.com/photos/16094057/pexels-photo-16094057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your scripts will silently fail",
+        "description": "Backup scripts, file syncers, and cron jobs will lose permission after the update and won't crash – they'll just wait for you to notice.",
+        "visual_hint": "Broken script icon with permission denied",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "computer script",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit now before the next macOS update",
+        "description": "Open System Settings > Privacy & Security > Full Disk Access, remove unknown tools, and test critical scripts on a spare Mac.",
+        "visual_hint": "Checklist with system settings open",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-03T00:50:29.677Z",
+    "sourceId": "f9df9058658b6647f5eee1a896df8c0b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-open-sources-code-to-let-you-make-muse-ai-gad",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta open sources code to let you make Muse AI gadgets",
+    "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+    "pubDate": "2026-10-02T21:08:37.000Z",
+    "slides": [
+      "Meta open sources code for Muse AI gadgets, but why?",
+      "The toolkit builds custom AI hardware assistants",
+      "But anyone can now clone and sell your design",
+      "Your prototypes can ship without Meta's approval",
+      "Ask: who owns your next gadget's firmware?"
+    ],
+    "thread_text": [
+      "1. The Firmware Fight Begins\n\nMeta just open-sourced the code for its Muse AI gadgets. That means anyone can build custom hardware assistants—but also clone and sell your design without Meta's approval.",
+      "2. Build Without Gatekeepers\n\nThe toolkit lets you prototype AI hardware without waiting for Meta's sign-off. You ship when you're ready, not when they say so.",
+      "3. Your Design, Anyone's Product\n\nOpen source means your competitor can copy your gadget and undercut you. No legal shield, no exclusive rights. Just code.",
+      "4. Who Controls the Code?\n\nIf you use Meta's firmware, you're building on their foundation. They can change the rules, and you can't stop them.",
+      "5. Your Move, Maker\n\nTake a design you've been sitting on and ask: could someone else ship it tomorrow? If yes, you need a plan. What's yours?"
+    ],
+    "video_script": [
+      "Meta open sources its AI gadget code.",
+      "Now anyone can clone and sell your design.",
+      "You can ship prototypes without Meta's approval.",
+      "But who owns your gadget's firmware?",
+      "Ask yourself: who controls your next device?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Firmware Fight Begins\n\nMeta just open-sourced the code for its Muse AI gadgets. That means anyone can build custom hardware assistants—but also clone and sell your design without Meta's approval.",
+          "2. Build Without Gatekeepers\n\nThe toolkit lets you prototype AI hardware without waiting for Meta's sign-off. You ship when you're ready, not when they say so.",
+          "3. Your Design, Anyone's Product\n\nOpen source means your competitor can copy your gadget and undercut you. No legal shield, no exclusive rights. Just code.",
+          "4. Who Controls the Code?\n\nIf you use Meta's firmware, you're building on their foundation. They can change the rules, and you can't stop them.",
+          "5. Your Move, Maker\n\nTake a design you've been sitting on and ask: could someone else ship it tomorrow? If yes, you need a plan. What's yours?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta open sources its AI gadget code.",
+          "Now anyone can clone and sell your design.",
+          "You can ship prototypes without Meta's approval.",
+          "But who owns your gadget's firmware?",
+          "Ask yourself: who controls your next device?"
+        ]
+      },
+      "instagram": {
+        "caption": "Anyone can now clone your AI gadget and sell it, with Meta’s blessing. 🛠️\n\nMeta open-sourced the firmware behind its Muse AI hardware. You can prototype and ship an assistant without waiting for approval.\n\nBut open source cuts both ways: your competitor can copy the design and undercut you, no legal shield. ⚖️\n\nIf your product depends on their code, Meta can change the rules anytime you can’t stop.\n\nWould someone ship your idea tomorrow? If yes, what’s your plan? 👇"
+      }
+    },
+    "instagram_caption": "Anyone can now clone your AI gadget and sell it, with Meta’s blessing. 🛠️\n\nMeta open-sourced the firmware behind its Muse AI hardware. You can prototype and ship an assistant without waiting for approval.\n\nBut open source cuts both ways: your competitor can copy the design and undercut you, no legal shield. ⚖️\n\nIf your product depends on their code, Meta can change the rules anytime you can’t stop.\n\nWould someone ship your idea tomorrow? If yes, what’s your plan? 👇",
+    "carousel_slides": [
+      {
+        "hook": "Can anyone clone and sell your design?",
+        "description": "Meta's open source Muse code means competitors can copy your gadget without approval. No legal shield, no exclusive rights.",
+        "visual_hint": "Split screen identical devices facing off",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "circuit board closeup"
+      },
+      {
+        "hook": "Build AI hardware without Meta's sign-off",
+        "description": "The toolkit lets you prototype custom AI assistants and ship when ready, not when Meta approves. Full creative control, zero gatekeepers.",
+        "visual_hint": "Developer hands assembling prototype circuit",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "electronics workshop",
+        "image": "https://images.pexels.com/photos/35216547/pexels-photo-35216547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your prototype, their product tomorrow",
+        "description": "Open source firmware means your competitor can replicate your gadget and undercut your price. Every design becomes public domain instantly.",
+        "visual_hint": "Identical gadgets rolling off assembly line",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory production line",
+        "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who really controls your gadget's firmware?",
+        "description": "Building on Meta's foundation means they can change rules anytime. You ship without approval, but lose long-term control.",
+        "visual_hint": "Firmware code displayed on screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "computer code screen",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this if you're building AI hardware",
+        "description": "Check your prototype today: could someone else ship it tomorrow? If yes, you need a protection plan now.",
+        "visual_hint": "Maker reviewing design with concern",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "engineer workshop prototype",
+        "image": "https://images.pexels.com/photos/6654752/pexels-photo-6654752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+    "savedAt": "2026-10-03T00:50:21.436Z",
+    "sourceId": "572d71e2575246edb315ef76f320c3d5"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "tesla-sustains-its-ev-sales-momentum-despite-us-tr",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Tesla sustains its EV sales momentum despite US troubles",
+    "link": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
+    "pubDate": "Fri, 02 Oct 2026 13:39:23 +0000",
+    "slides": [
+      "Can Tesla keep winning while America turns away?",
+      "US sales fell as competition and politics bite",
+      "But global deliveries hit new records anyway",
+      "Your next car may come from Shanghai, not Texas",
+      "Check where your EV is actually built"
+    ],
+    "thread_text": [
+      "1. Tesla's US sales are falling\n\nBut global deliveries just hit a record. The reason? Most of those cars weren't built in America.",
+      "2. Politics is hurting demand\n\nUS sales dropped as competition and political backlash bite. Meanwhile, factories in Shanghai are shipping more cars than ever.",
+      "3. Your next EV might be Chinese\n\nThe car you buy could come from Shanghai, not Texas. That changes everything about the 'American' brand.",
+      "4. Check where your car is made\n\nMost people don't know their EV's real origin. Look at the VIN or the window sticker. You might be surprised.",
+      "5. Look up your EV's factory\n\nGo to your car's VIN or manufacturer site. Find out which country built it. Does that change your view?"
+    ],
+    "video_script": [
+      "Tesla US sales are falling.",
+      "But global deliveries hit a record.",
+      "Your next car may come from Shanghai.",
+      "Check where your electric vehicle is built.",
+      "Look at the VIN or window sticker."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Tesla's US sales are falling\n\nBut global deliveries just hit a record. The reason? Most of those cars weren't built in America.",
+          "2. Politics is hurting demand\n\nUS sales dropped as competition and political backlash bite. Meanwhile, factories in Shanghai are shipping more cars than ever.",
+          "3. Your next EV might be Chinese\n\nThe car you buy could come from Shanghai, not Texas. That changes everything about the 'American' brand.",
+          "4. Check where your car is made\n\nMost people don't know their EV's real origin. Look at the VIN or the window sticker. You might be surprised.",
+          "5. Look up your EV's factory\n\nGo to your car's VIN or manufacturer site. Find out which country built it. Does that change your view?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Tesla US sales are falling.",
+          "But global deliveries hit a record.",
+          "Your next car may come from Shanghai.",
+          "Check where your electric vehicle is built.",
+          "Look at the VIN or window sticker."
+        ]
+      },
+      "instagram": {
+        "caption": "Most Tesla buyers in the US don't know their car was built in Shanghai, not Texas. 🚗\n\nUS sales dropped as competition and politics bit into demand.\n\nBut global deliveries still hit a record — thanks to factories abroad.\n\nThat reshapes what \"American brand\" even means now.\n\nIf you make content about cars, tech or trade, check where your EV is actually built before you call it American. 🔍\n\nLook at the VIN or the window sticker.\n\nWould knowing your Tesla came from China change how you feel about driving it? 🤔"
+      }
+    },
+    "instagram_caption": "Most Tesla buyers in the US don't know their car was built in Shanghai, not Texas. 🚗\n\nUS sales dropped as competition and politics bit into demand.\n\nBut global deliveries still hit a record — thanks to factories abroad.\n\nThat reshapes what \"American brand\" even means now.\n\nIf you make content about cars, tech or trade, check where your EV is actually built before you call it American. 🔍\n\nLook at the VIN or the window sticker.\n\nWould knowing your Tesla came from China change how you feel about driving it? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Tesla's American brand is now a global lie",
+        "description": "US sales dropped, but global deliveries hit a record. Most of those cars weren't built in America.",
+        "visual_hint": "Split image: US flag vs Chinese factory",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Tesla factory"
+      },
+      {
+        "hook": "US sales fell as competition and politics bite",
+        "description": "American demand is hurting, while Shanghai factories ship more cars than ever.",
+        "visual_hint": "Falling sales chart with political symbols",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Global deliveries hit new records anyway",
+        "description": "Despite US troubles, Tesla's worldwide numbers climbed. The reason? Overseas production.",
+        "visual_hint": "World map with rising delivery icons",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "world map",
+        "image": "https://images.pexels.com/photos/5137785/pexels-photo-5137785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your next car may come from Shanghai, not Texas",
+        "description": "The EV you buy could be built in China. That changes everything about the 'American' brand.",
+        "visual_hint": "Shipping port with car carriers",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "shanghai port",
+        "image": "https://images.pexels.com/photos/38139977/pexels-photo-38139977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check where your EV is actually built",
+        "description": "Look at your VIN or window sticker. Find out which country made it. Does that change your view?",
+        "visual_hint": "Person inspecting car VIN sticker",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "car vin sticker",
+        "image": "https://images.pexels.com/photos/38330972/pexels-photo-38330972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1246103921.jpg?resize=1200,789",
+    "savedAt": "2026-10-03T00:50:12.613Z",
+    "sourceId": "a9b4e91ded7c02dc7749b7834a259f6f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "slovenia-s-si-domain-sees-a-surge-in-registrations",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order",
+    "link": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/",
+    "pubDate": "Fri, 02 Oct 2026 14:47:46 +0000",
+    "slides": [
+      "Why is Slovenia's .si domain suddenly surging?",
+      "Trump signed an order on 'super intelligence'",
+      "But registrations came from names he never mentioned",
+      "Companies are preemptively grabbing .si defensively",
+      "Check if your brand's .si is still available"
+    ],
+    "thread_text": [
+      "1. The .si gold rush\n\nAn obscure country code is being registered in bulk, and the names don't match any public announcement.",
+      "2. Trump's superintelligence order\n\nThe directive didn't mention Slovenia once, yet that's where the registrations are landing.",
+      "3. Defensive domain grabbing\n\nCompanies aren't launching there — they're buying to block someone else from doing it first.",
+      "4. The pattern behind the panic\n\nWhen AI policy moves fast, legal teams hedge by securing every plausible jurisdiction before competitors do.",
+      "5. Check your .si today\n\nSearch your brand on a domain registrar. If it's taken by a stranger, you've already lost the option."
+    ],
+    "video_script": [
+      "Slovenia's .si domain is suddenly surging.",
+      "Trump signed an order on super intelligence.",
+      "But registrations came from names he never mentioned.",
+      "Companies are preemptively grabbing .si defensively.",
+      "Check if your brand's .si is still available."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The .si gold rush\n\nAn obscure country code is being registered in bulk, and the names don't match any public announcement.",
+          "2. Trump's superintelligence order\n\nThe directive didn't mention Slovenia once, yet that's where the registrations are landing.",
+          "3. Defensive domain grabbing\n\nCompanies aren't launching there — they're buying to block someone else from doing it first.",
+          "4. The pattern behind the panic\n\nWhen AI policy moves fast, legal teams hedge by securing every plausible jurisdiction before competitors do.",
+          "5. Check your .si today\n\nSearch your brand on a domain registrar. If it's taken by a stranger, you've already lost the option."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Slovenia's .si domain is suddenly surging.",
+          "Trump signed an order on super intelligence.",
+          "But registrations came from names he never mentioned.",
+          "Companies are preemptively grabbing .si defensively.",
+          "Check if your brand's .si is still available."
+        ]
+      },
+      "instagram": {
+        "caption": "Slovenia's .si domain is being registered in bulk, and the names don't match any public announcement.\n\nTrump signed an order on \"super intelligence\" — it never mentioned Slovenia once.\n\nCompanies aren't launching there. They're grabbing .si defensively to block someone else from taking it first. 🧠\n\nWhen AI policy moves this fast, legal teams hedge by locking every plausible jurisdiction before competitors do.\n\nIf someone else already owns your brand's .si, you've lost the option entirely. 🔒\n\nSearch your brand on a registrar right now — is it still free?"
+      }
+    },
+    "instagram_caption": "Slovenia's .si domain is being registered in bulk, and the names don't match any public announcement.\n\nTrump signed an order on \"super intelligence\" — it never mentioned Slovenia once.\n\nCompanies aren't launching there. They're grabbing .si defensively to block someone else from taking it first. 🧠\n\nWhen AI policy moves this fast, legal teams hedge by locking every plausible jurisdiction before competitors do.\n\nIf someone else already owns your brand's .si, you've lost the option entirely. 🔒\n\nSearch your brand on a registrar right now — is it still free?",
+    "carousel_slides": [
+      {
+        "hook": "Is your brand's .si already gone?",
+        "description": "Slovenia's .si domain is surging after Trump's 'super intelligence' order, and the registrations came from names he never mentioned.",
+        "visual_hint": "Domain registration list on screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Trump signed a 'super intelligence' order",
+        "description": "The directive didn't mention Slovenia once, yet that's exactly where the bulk registrations are landing.",
+        "visual_hint": "Signed document with official seal",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "government building",
+        "image": "https://images.pexels.com/photos/28451083/pexels-photo-28451083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The names were never announced",
+        "description": "Companies registered .si domains in bulk, but none match any public announcement or known brand list.",
+        "visual_hint": "Anonymous domain list on screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer screen",
+        "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "They're buying to block, not launch",
+        "description": "Firms are preemptively grabbing .si defensively, blocking competitors from securing plausible jurisdictions before AI policy moves.",
+        "visual_hint": "Hands typing on keyboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your .si disappears",
+        "description": "Search your brand on a domain registrar now. If a stranger owns it, you've already lost the option.",
+        "visual_hint": "Domain search bar with checkmark",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop screen",
+        "image": "https://images.pexels.com/photos/17115912/pexels-photo-17115912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024",
+    "savedAt": "2026-10-03T00:50:04.332Z",
+    "sourceId": "a5ffab817e6a449ed66ae647f48490f6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "circuit-breaker-labs-hopes-to-make-ai-safer-for-yo",
     "prompt_version": "1.0.0",
     "status": "published",

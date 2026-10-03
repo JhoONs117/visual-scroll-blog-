@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "tesla-sustains-its-ev-sales-momentum-despite-us-tr",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Tesla sustains its EV sales momentum despite US troubles",
+  "link": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
+  "pubDate": "Fri, 02 Oct 2026 13:39:23 +0000",
+  "slides": [
+    "Can Tesla keep winning while America turns away?",
+    "US sales fell as competition and politics bite",
+    "But global deliveries hit new records anyway",
+    "Your next car may come from Shanghai, not Texas",
+    "Check where your EV is actually built"
+  ],
+  "thread_text": [
+    "1. Tesla's US sales are falling\n\nBut global deliveries just hit a record. The reason? Most of those cars weren't built in America.",
+    "2. Politics is hurting demand\n\nUS sales dropped as competition and political backlash bite. Meanwhile, factories in Shanghai are shipping more cars than ever.",
+    "3. Your next EV might be Chinese\n\nThe car you buy could come from Shanghai, not Texas. That changes everything about the 'American' brand.",
+    "4. Check where your car is made\n\nMost people don't know their EV's real origin. Look at the VIN or the window sticker. You might be surprised.",
+    "5. Look up your EV's factory\n\nGo to your car's VIN or manufacturer site. Find out which country built it. Does that change your view?"
+  ],
+  "video_script": [
+    "Tesla US sales are falling.",
+    "But global deliveries hit a record.",
+    "Your next car may come from Shanghai.",
+    "Check where your electric vehicle is built.",
+    "Look at the VIN or window sticker."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Tesla's US sales are falling\n\nBut global deliveries just hit a record. The reason? Most of those cars weren't built in America.",
+        "2. Politics is hurting demand\n\nUS sales dropped as competition and political backlash bite. Meanwhile, factories in Shanghai are shipping more cars than ever.",
+        "3. Your next EV might be Chinese\n\nThe car you buy could come from Shanghai, not Texas. That changes everything about the 'American' brand.",
+        "4. Check where your car is made\n\nMost people don't know their EV's real origin. Look at the VIN or the window sticker. You might be surprised.",
+        "5. Look up your EV's factory\n\nGo to your car's VIN or manufacturer site. Find out which country built it. Does that change your view?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Tesla US sales are falling.",
+        "But global deliveries hit a record.",
+        "Your next car may come from Shanghai.",
+        "Check where your electric vehicle is built.",
+        "Look at the VIN or window sticker."
+      ]
+    },
+    "instagram": {
+      "caption": "Most Tesla buyers in the US don't know their car was built in Shanghai, not Texas. 🚗\n\nUS sales dropped as competition and politics bit into demand.\n\nBut global deliveries still hit a record — thanks to factories abroad.\n\nThat reshapes what \"American brand\" even means now.\n\nIf you make content about cars, tech or trade, check where your EV is actually built before you call it American. 🔍\n\nLook at the VIN or the window sticker.\n\nWould knowing your Tesla came from China change how you feel about driving it? 🤔"
+    }
+  },
+  "instagram_caption": "Most Tesla buyers in the US don't know their car was built in Shanghai, not Texas. 🚗\n\nUS sales dropped as competition and politics bit into demand.\n\nBut global deliveries still hit a record — thanks to factories abroad.\n\nThat reshapes what \"American brand\" even means now.\n\nIf you make content about cars, tech or trade, check where your EV is actually built before you call it American. 🔍\n\nLook at the VIN or the window sticker.\n\nWould knowing your Tesla came from China change how you feel about driving it? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Tesla's American brand is now a global lie",
+      "description": "US sales dropped, but global deliveries hit a record. Most of those cars weren't built in America.",
+      "visual_hint": "Split image: US flag vs Chinese factory",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Tesla factory"
+    },
+    {
+      "hook": "US sales fell as competition and politics bite",
+      "description": "American demand is hurting, while Shanghai factories ship more cars than ever.",
+      "visual_hint": "Falling sales chart with political symbols",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Global deliveries hit new records anyway",
+      "description": "Despite US troubles, Tesla's worldwide numbers climbed. The reason? Overseas production.",
+      "visual_hint": "World map with rising delivery icons",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "world map",
+      "image": "https://images.pexels.com/photos/5137785/pexels-photo-5137785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your next car may come from Shanghai, not Texas",
+      "description": "The EV you buy could be built in China. That changes everything about the 'American' brand.",
+      "visual_hint": "Shipping port with car carriers",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "shanghai port",
+      "image": "https://images.pexels.com/photos/38139977/pexels-photo-38139977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check where your EV is actually built",
+      "description": "Look at your VIN or window sticker. Find out which country made it. Does that change your view?",
+      "visual_hint": "Person inspecting car VIN sticker",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "car vin sticker",
+      "image": "https://images.pexels.com/photos/38330972/pexels-photo-38330972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1246103921.jpg?resize=1200,789",
+  "savedAt": "2026-10-03T00:50:12.613Z",
+  "sourceId": "a9b4e91ded7c02dc7749b7834a259f6f"
+}

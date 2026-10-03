@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-will-limit-mac-disk-access-as-ai-agents-subs",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+  "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+  "pubDate": "2026-10-02T20:08:40.000Z",
+  "slides": [
+    "Apple just locked down your Mac's disk – why?",
+    "AI agents will 'substantially' increase risk, says Apple.",
+    "The limit targets a core system feature, not just apps.",
+    "Your automation scripts may break until you grant new permissions.",
+    "Audit your disk-access tools before the next macOS update."
+  ],
+  "thread_text": [
+    "1. Apple's disk lockdown\n\nmacOS now blocks full disk access by default for a core system feature, flagging AI agents as a major new risk vector. Your scripts won't run until you manually approve each one.",
+    "2. The real target\n\nThis isn't about sandboxing apps. It hits the low-level disk access that automation tools rely on, effectively shutting down background processes until you re-authorize them.",
+    "3. Why AI agents\n\nApple says AI agents 'substantially' increase risk because they can chain actions across files and apps. One runaway agent could read, modify, and exfiltrate data without a single prompt.",
+    "4. What breaks first\n\nYour backup scripts, file syncers, and cron jobs will silently fail after the update. They won't crash — they'll just lose permission and wait for you to notice.",
+    "5. Audit before update\n\nOpen System Settings > Privacy & Security > Full Disk Access today. Remove tools you don't recognize. Then test your critical scripts on a spare Mac before the next macOS update."
+  ],
+  "video_script": [
+    "Apple just locked down your Mac's disk access.",
+    "AI agents are the reason, they say. Massive risk.",
+    "It's not just apps. Core system features are hit.",
+    "Your automation scripts will break until you approve.",
+    "Audit your disk tools before you update."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Apple's disk lockdown\n\nmacOS now blocks full disk access by default for a core system feature, flagging AI agents as a major new risk vector. Your scripts won't run until you manually approve each one.",
+        "2. The real target\n\nThis isn't about sandboxing apps. It hits the low-level disk access that automation tools rely on, effectively shutting down background processes until you re-authorize them.",
+        "3. Why AI agents\n\nApple says AI agents 'substantially' increase risk because they can chain actions across files and apps. One runaway agent could read, modify, and exfiltrate data without a single prompt.",
+        "4. What breaks first\n\nYour backup scripts, file syncers, and cron jobs will silently fail after the update. They won't crash — they'll just lose permission and wait for you to notice.",
+        "5. Audit before update\n\nOpen System Settings > Privacy & Security > Full Disk Access today. Remove tools you don't recognize. Then test your critical scripts on a spare Mac before the next macOS update."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple just locked down your Mac's disk access.",
+        "AI agents are the reason, they say. Massive risk.",
+        "It's not just apps. Core system features are hit.",
+        "Your automation scripts will break until you approve.",
+        "Audit your disk tools before you update."
+      ]
+    },
+    "instagram": {
+      "caption": "Your backup scripts and cron jobs will stop working after the next macOS update — silently.\n\nApple now blocks full disk access by default for a core system feature, not just apps. It flags AI agents as a \"substantial\" new risk: they can chain file reads, edits, and transfers across apps without asking.\n\nTools you rely on will lose permission and just wait for you to notice.\n\nOpen System Settings > Privacy & Security > Full Disk Access today. Remove anything you don't recognize 🔍 Then test your critical scripts before updating.\n\nWhich of your tools would survive a silent permission reset? ⚙️"
+    }
+  },
+  "instagram_caption": "Your backup scripts and cron jobs will stop working after the next macOS update — silently.\n\nApple now blocks full disk access by default for a core system feature, not just apps. It flags AI agents as a \"substantial\" new risk: they can chain file reads, edits, and transfers across apps without asking.\n\nTools you rely on will lose permission and just wait for you to notice.\n\nOpen System Settings > Privacy & Security > Full Disk Access today. Remove anything you don't recognize 🔍 Then test your critical scripts before updating.\n\nWhich of your tools would survive a silent permission reset? ⚙️",
+  "carousel_slides": [
+    {
+      "hook": "Is Apple shutting down your automation?",
+      "description": "Apple now blocks full disk access by default, citing AI agents as a major risk. Your scripts won't run until you manually approve each one.",
+      "visual_hint": "Locked Mac disk icon with warning",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "hard drive"
+    },
+    {
+      "hook": "AI agents are the real target",
+      "description": "Apple says AI agents 'substantially' increase risk by chaining actions across files and apps, potentially reading and exfiltrating data without prompts.",
+      "visual_hint": "AI agent network diagram with risk arrows",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "artificial intelligence",
+      "image": "https://images.pexels.com/photos/7688592/pexels-photo-7688592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It's not just apps – it's system-level",
+      "description": "The limit hits low-level disk access that automation tools rely on, shutting down background processes until you re-authorize them.",
+      "visual_hint": "System settings privacy panel close-up",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "system settings",
+      "image": "https://images.pexels.com/photos/16094057/pexels-photo-16094057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your scripts will silently fail",
+      "description": "Backup scripts, file syncers, and cron jobs will lose permission after the update and won't crash – they'll just wait for you to notice.",
+      "visual_hint": "Broken script icon with permission denied",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "computer script",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit now before the next macOS update",
+      "description": "Open System Settings > Privacy & Security > Full Disk Access, remove unknown tools, and test critical scripts on a spare Mac.",
+      "visual_hint": "Checklist with system settings open",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-03T00:50:29.677Z",
+  "sourceId": "f9df9058658b6647f5eee1a896df8c0b"
+}

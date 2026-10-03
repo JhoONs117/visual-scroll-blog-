@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "slovenia-s-si-domain-sees-a-surge-in-registrations",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order",
+  "link": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/",
+  "pubDate": "Fri, 02 Oct 2026 14:47:46 +0000",
+  "slides": [
+    "Why is Slovenia's .si domain suddenly surging?",
+    "Trump signed an order on 'super intelligence'",
+    "But registrations came from names he never mentioned",
+    "Companies are preemptively grabbing .si defensively",
+    "Check if your brand's .si is still available"
+  ],
+  "thread_text": [
+    "1. The .si gold rush\n\nAn obscure country code is being registered in bulk, and the names don't match any public announcement.",
+    "2. Trump's superintelligence order\n\nThe directive didn't mention Slovenia once, yet that's where the registrations are landing.",
+    "3. Defensive domain grabbing\n\nCompanies aren't launching there — they're buying to block someone else from doing it first.",
+    "4. The pattern behind the panic\n\nWhen AI policy moves fast, legal teams hedge by securing every plausible jurisdiction before competitors do.",
+    "5. Check your .si today\n\nSearch your brand on a domain registrar. If it's taken by a stranger, you've already lost the option."
+  ],
+  "video_script": [
+    "Slovenia's .si domain is suddenly surging.",
+    "Trump signed an order on super intelligence.",
+    "But registrations came from names he never mentioned.",
+    "Companies are preemptively grabbing .si defensively.",
+    "Check if your brand's .si is still available."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The .si gold rush\n\nAn obscure country code is being registered in bulk, and the names don't match any public announcement.",
+        "2. Trump's superintelligence order\n\nThe directive didn't mention Slovenia once, yet that's where the registrations are landing.",
+        "3. Defensive domain grabbing\n\nCompanies aren't launching there — they're buying to block someone else from doing it first.",
+        "4. The pattern behind the panic\n\nWhen AI policy moves fast, legal teams hedge by securing every plausible jurisdiction before competitors do.",
+        "5. Check your .si today\n\nSearch your brand on a domain registrar. If it's taken by a stranger, you've already lost the option."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Slovenia's .si domain is suddenly surging.",
+        "Trump signed an order on super intelligence.",
+        "But registrations came from names he never mentioned.",
+        "Companies are preemptively grabbing .si defensively.",
+        "Check if your brand's .si is still available."
+      ]
+    },
+    "instagram": {
+      "caption": "Slovenia's .si domain is being registered in bulk, and the names don't match any public announcement.\n\nTrump signed an order on \"super intelligence\" — it never mentioned Slovenia once.\n\nCompanies aren't launching there. They're grabbing .si defensively to block someone else from taking it first. 🧠\n\nWhen AI policy moves this fast, legal teams hedge by locking every plausible jurisdiction before competitors do.\n\nIf someone else already owns your brand's .si, you've lost the option entirely. 🔒\n\nSearch your brand on a registrar right now — is it still free?"
+    }
+  },
+  "instagram_caption": "Slovenia's .si domain is being registered in bulk, and the names don't match any public announcement.\n\nTrump signed an order on \"super intelligence\" — it never mentioned Slovenia once.\n\nCompanies aren't launching there. They're grabbing .si defensively to block someone else from taking it first. 🧠\n\nWhen AI policy moves this fast, legal teams hedge by locking every plausible jurisdiction before competitors do.\n\nIf someone else already owns your brand's .si, you've lost the option entirely. 🔒\n\nSearch your brand on a registrar right now — is it still free?",
+  "carousel_slides": [
+    {
+      "hook": "Is your brand's .si already gone?",
+      "description": "Slovenia's .si domain is surging after Trump's 'super intelligence' order, and the registrations came from names he never mentioned.",
+      "visual_hint": "Domain registration list on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Trump signed a 'super intelligence' order",
+      "description": "The directive didn't mention Slovenia once, yet that's exactly where the bulk registrations are landing.",
+      "visual_hint": "Signed document with official seal",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "government building",
+      "image": "https://images.pexels.com/photos/28451083/pexels-photo-28451083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The names were never announced",
+      "description": "Companies registered .si domains in bulk, but none match any public announcement or known brand list.",
+      "visual_hint": "Anonymous domain list on screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer screen",
+      "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "They're buying to block, not launch",
+      "description": "Firms are preemptively grabbing .si defensively, blocking competitors from securing plausible jurisdictions before AI policy moves.",
+      "visual_hint": "Hands typing on keyboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your .si disappears",
+      "description": "Search your brand on a domain registrar now. If a stranger owns it, you've already lost the option.",
+      "visual_hint": "Domain search bar with checkmark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop screen",
+      "image": "https://images.pexels.com/photos/17115912/pexels-photo-17115912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024",
+  "savedAt": "2026-10-03T00:50:04.332Z",
+  "sourceId": "a5ffab817e6a449ed66ae647f48490f6"
+}
