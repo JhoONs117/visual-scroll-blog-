@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-safety-employee-resigns-claiming-the-compan",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+  "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+  "pubDate": "Sat, 03 Oct 2026 16:30:01 +0000",
+  "slides": [
+    "Why did OpenAI's safety lead just walk out?",
+    "Another safety resignation, but this one stings differently",
+    "She says the culture broke, not the models",
+    "If safety staff keep leaving, who reviews the next launch?",
+    "Check if your AI vendor still has safety people"
+  ],
+  "thread_text": [
+    "1. Safety lead walks out\n\nOpenAI's head of safety just resigned. That's the second high-profile exit in months.",
+    "2. Culture, not code\n\nShe says the models aren't the problem — the company's internal culture is. That's a harder fix than any bug.",
+    "3. Who reviews the next launch?\n\nIf safety staff keep leaving, who signs off on the next big model? The answer might be nobody.",
+    "4. Check your vendor\n\nAsk your AI provider: how many safety people do you have left? If they can't answer, that's your answer.",
+    "5. Ask before you buy\n\nNext time you evaluate an AI tool, ask about their safety team turnover. If they dodge, walk away."
+  ],
+  "video_script": [
+    "OpenAI's safety lead just quit.",
+    "She says the culture broke, not the models.",
+    "Second safety exit in months.",
+    "Who reviews the next launch?",
+    "Ask your AI vendor about safety staff."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Safety lead walks out\n\nOpenAI's head of safety just resigned. That's the second high-profile exit in months.",
+        "2. Culture, not code\n\nShe says the models aren't the problem — the company's internal culture is. That's a harder fix than any bug.",
+        "3. Who reviews the next launch?\n\nIf safety staff keep leaving, who signs off on the next big model? The answer might be nobody.",
+        "4. Check your vendor\n\nAsk your AI provider: how many safety people do you have left? If they can't answer, that's your answer.",
+        "5. Ask before you buy\n\nNext time you evaluate an AI tool, ask about their safety team turnover. If they dodge, walk away."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI's safety lead just quit.",
+        "She says the culture broke, not the models.",
+        "Second safety exit in months.",
+        "Who reviews the next launch?",
+        "Ask your AI vendor about safety staff."
+      ]
+    },
+    "instagram": {
+      "caption": "The person who signed off on OpenAI's safety reviews just quit, and she says the culture broke, not the models.\n\nThat's the second safety lead to walk out in months. 🚨\n\nIf the people checking the risks keep leaving, who approves the next big launch?\n\nFor anyone publishing with AI-generated content, this matters: the guardrails you trust may have nobody left behind them.\n\nAsk your AI vendor how many safety people they still have. If they can't answer, that's your answer. 👀\n\nWhen did you last check who's actually reviewing the tools you use?"
+    }
+  },
+  "instagram_caption": "The person who signed off on OpenAI's safety reviews just quit, and she says the culture broke, not the models.\n\nThat's the second safety lead to walk out in months. 🚨\n\nIf the people checking the risks keep leaving, who approves the next big launch?\n\nFor anyone publishing with AI-generated content, this matters: the guardrails you trust may have nobody left behind them.\n\nAsk your AI vendor how many safety people they still have. If they can't answer, that's your answer. 👀\n\nWhen did you last check who's actually reviewing the tools you use?",
+  "carousel_slides": [
+    {
+      "hook": "What breaks first: models or culture?",
+      "description": "OpenAI's safety lead resigned, claiming internal culture is broken. The models aren't the problem — the people fixing them are leaving.",
+      "visual_hint": "Person walking out of glass office door",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "office building exit"
+    },
+    {
+      "hook": "Second safety exit in months",
+      "description": "Another high-profile resignation from OpenAI's safety team. One departure is a warning; two is a pattern.",
+      "visual_hint": "Two empty chairs at a conference table",
+      "layout_type": "right-focus",
+      "icon": "vibration",
+      "image_query": "empty conference room",
+      "image": "https://images.pexels.com/photos/6949365/pexels-photo-6949365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "She blames culture, not code",
+      "description": "The departing lead says the company's internal culture broke, not the AI. Culture is harder to patch than any bug.",
+      "visual_hint": "Cracked wall inside a modern office",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "cracked concrete wall",
+      "image": "https://images.pexels.com/photos/4710926/pexels-photo-4710926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who signs off on the next model?",
+      "description": "If safety staff keep leaving, nobody may be left to review the next launch. The answer might be no one.",
+      "visual_hint": "Unsigned document on an empty desk",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "empty office desk",
+      "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next AI buy",
+      "description": "Ask your AI vendor how many safety people they have left. If they dodge the question, that's your answer — walk away.",
+      "visual_hint": "Hand holding phone with question mark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/31390615/pexels-photo-31390615.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-10-03T17:41:34.908Z",
+  "sourceId": "6b3471ffae71b32e9c286c758f195ee9"
+}

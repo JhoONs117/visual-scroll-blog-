@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "splice-ceo-kakul-srivastava-thinks-ai-emails-are-k",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+  "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+  "pubDate": "2026-10-03T15:00:00.000Z",
+  "slides": [
+    "Splice CEO Kakul Srivastava: are AI emails killing conversations?",
+    "Splice is a platform for music creators to collaborate.",
+    "AI emails feel personal but are mass-produced, breaking trust.",
+    "You should avoid AI-generated emails in creative collaborations.",
+    "Write one genuine email today to preserve real conversation."
+  ],
+  "thread_text": [
+    "1. The Real Cost of AI Emails\n\nSplice's CEO says AI-crafted messages feel personal but are mass-produced, quietly breaking trust in creative work.",
+    "2. Built for Collaboration\n\nSplice connects music creators worldwide, where a single email can decide whether a track gets finished or forgotten.",
+    "3. The Trust Trap\n\nMass-produced emails may save time, but they erode the human connection that creative partnerships depend on.",
+    "4. Skip the AI Email\n\nIn creative collaborations, authenticity matters more than efficiency. A generic message can kill a promising project.",
+    "5. Send One Real Email\n\nOpen your inbox and write a genuine email to a collaborator today. Does it make sense to save 20 minutes if you then have to edit twice?"
+  ],
+  "video_script": [
+    "AI emails feel personal but are mass-produced.",
+    "Splice connects music creators for real collaboration.",
+    "Mass emails break trust in creative partnerships.",
+    "Avoid AI-generated emails in creative work.",
+    "Write one genuine email today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Real Cost of AI Emails\n\nSplice's CEO says AI-crafted messages feel personal but are mass-produced, quietly breaking trust in creative work.",
+        "2. Built for Collaboration\n\nSplice connects music creators worldwide, where a single email can decide whether a track gets finished or forgotten.",
+        "3. The Trust Trap\n\nMass-produced emails may save time, but they erode the human connection that creative partnerships depend on.",
+        "4. Skip the AI Email\n\nIn creative collaborations, authenticity matters more than efficiency. A generic message can kill a promising project.",
+        "5. Send One Real Email\n\nOpen your inbox and write a genuine email to a collaborator today. Does it make sense to save 20 minutes if you then have to edit twice?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI emails feel personal but are mass-produced.",
+        "Splice connects music creators for real collaboration.",
+        "Mass emails break trust in creative partnerships.",
+        "Avoid AI-generated emails in creative work.",
+        "Write one genuine email today."
+      ]
+    },
+    "instagram": {
+      "caption": "The CEO of Splice just called out the emails you've been sending.\n\nKakul Srivastava says AI-written messages feel personal but are mass-produced, which quietly breaks trust between collaborators. 🎧\n\nSplice connects music creators worldwide, where one email can decide if a track gets finished or forgotten.\n\nIf you're a creator, a generic message can kill a promising project before it starts.\n\nDoes saving 20 minutes matter if you have to edit twice anyway? ✍️"
+    }
+  },
+  "instagram_caption": "The CEO of Splice just called out the emails you've been sending.\n\nKakul Srivastava says AI-written messages feel personal but are mass-produced, which quietly breaks trust between collaborators. 🎧\n\nSplice connects music creators worldwide, where one email can decide if a track gets finished or forgotten.\n\nIf you're a creator, a generic message can kill a promising project before it starts.\n\nDoes saving 20 minutes matter if you have to edit twice anyway? ✍️",
+  "carousel_slides": [
+    {
+      "hook": "Are AI emails quietly killing real conversations?",
+      "description": "Splice CEO Kakul Srivastava warns AI-crafted emails feel personal but are mass-produced, breaking trust in creative work.",
+      "visual_hint": "Fractured email icon with glowing edges",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "email inbox screen"
+    },
+    {
+      "hook": "Where collaboration decides if tracks survive",
+      "description": "Splice connects music creators worldwide, where one email can decide whether a track gets finished or forgotten.",
+      "visual_hint": "Hands exchanging digital music notes",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "music studio equipment",
+      "image": "https://images.pexels.com/photos/2049411/pexels-photo-2049411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Mass emails are eroding creative trust",
+      "description": "AI emails save time but erode the human connection creative partnerships depend on, turning collaboration into transaction.",
+      "visual_hint": "Cracked heart made of pixels",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "broken chain link",
+      "image": "https://images.pexels.com/photos/35740122/pexels-photo-35740122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Skip the AI email in collaborations",
+      "description": "In creative partnerships, authenticity matters more than efficiency; a generic message can kill a promising project.",
+      "visual_hint": "Hand crumpling a printed email",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand crumpling paper",
+      "image": "https://images.pexels.com/photos/7927286/pexels-photo-7927286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Write one genuine email today",
+      "description": "Open your inbox and send a real email to a collaborator. Save this post to remember: authenticity beats speed.",
+      "visual_hint": "Finger tapping send on keyboard",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop keyboard typing",
+      "image": "https://images.pexels.com/photos/7578686/pexels-photo-7578686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-03T17:41:42.486Z",
+  "sourceId": "177ca5e89d7b60729315074e96716734"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "an-openai-safety-employee-has-quit-and-is-sounding",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "An OpenAI safety employee has quit and is sounding the alarm",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+  "pubDate": "2026-10-03T14:31:56.000Z",
+  "slides": [
+    "Why did OpenAI's safety lead walk out?",
+    "She says safety took a back seat to speed",
+    "Not the first departure — others left quietly too",
+    "Your AI tools may ship with fewer guardrails",
+    "Check the safety page before you trust anymore"
+  ],
+  "thread_text": [
+    "1. OpenAI's Safety Lead Quit\n\nShe walked out the door this week. Her reason: speed now beats safety in every product decision.",
+    "2. Safety Took a Back Seat\n\nIn her exit note, she said guardrails were repeatedly delayed to hit launch dates. Engineers were told to ship first, patch later.",
+    "3. Others Left Quietly Too\n\nShe's not the first. At least three safety team members departed in the past year without public announcements.",
+    "4. Your Tools Ship With Fewer Guardrails\n\nThat means the AI apps you use daily may have weaker filters, fewer red-team tests, and faster release cycles.",
+    "5. Check the Safety Page Today\n\nOpen your main AI tool's safety page. Look for a last-updated date. If it's older than six months, ask why."
+  ],
+  "video_script": [
+    "OpenAI's safety lead just walked out.",
+    "She says speed beat safety every time.",
+    "Three others left quietly before her.",
+    "Your AI tools may ship with fewer guardrails.",
+    "Check the safety page before you trust again."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI's Safety Lead Quit\n\nShe walked out the door this week. Her reason: speed now beats safety in every product decision.",
+        "2. Safety Took a Back Seat\n\nIn her exit note, she said guardrails were repeatedly delayed to hit launch dates. Engineers were told to ship first, patch later.",
+        "3. Others Left Quietly Too\n\nShe's not the first. At least three safety team members departed in the past year without public announcements.",
+        "4. Your Tools Ship With Fewer Guardrails\n\nThat means the AI apps you use daily may have weaker filters, fewer red-team tests, and faster release cycles.",
+        "5. Check the Safety Page Today\n\nOpen your main AI tool's safety page. Look for a last-updated date. If it's older than six months, ask why."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI's safety lead just walked out.",
+        "She says speed beat safety every time.",
+        "Three others left quietly before her.",
+        "Your AI tools may ship with fewer guardrails.",
+        "Check the safety page before you trust again."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI's safety lead walked out this week. Her exit note says guardrails got delayed over and over to hit launch dates.\n\nSpeed beat safety in every product call. Engineers were told to ship first, patch later.\n\nShe's not the first — at least three safety team members left in the past year, quietly.\n\nThat means the AI tools you use daily may ship with weaker filters and fewer red-team tests. ⚠️\n\nIf you build or publish with AI, your output could carry risks nobody flagged.\n\nOpen your main AI tool's safety page. Look at the last-updated date. Older than six months? Ask why. 🔍"
+    }
+  },
+  "instagram_caption": "OpenAI's safety lead walked out this week. Her exit note says guardrails got delayed over and over to hit launch dates.\n\nSpeed beat safety in every product call. Engineers were told to ship first, patch later.\n\nShe's not the first — at least three safety team members left in the past year, quietly.\n\nThat means the AI tools you use daily may ship with weaker filters and fewer red-team tests. ⚠️\n\nIf you build or publish with AI, your output could carry risks nobody flagged.\n\nOpen your main AI tool's safety page. Look at the last-updated date. Older than six months? Ask why. 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Did OpenAI just lose its safety lead?",
+      "description": "The safety lead quit this week because speed now beats safety in every product decision. Your AI tools may ship with fewer guardrails.",
+      "visual_hint": "Empty office chair, desk with laptop",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "empty office"
+    },
+    {
+      "hook": "Safety took a back seat to speed",
+      "description": "Her exit note says guardrails were repeatedly delayed to hit launch dates. Engineers were told to ship first, patch later.",
+      "visual_hint": "Stopwatch on a desk, blurred papers",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stopwatch desk",
+      "image": "https://images.pexels.com/photos/9944845/pexels-photo-9944845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "She is not the first to leave",
+      "description": "At least three safety team members departed in the past year without public announcements. Others left quietly too.",
+      "visual_hint": "Row of empty chairs in office",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "empty chairs",
+      "image": "https://images.pexels.com/photos/18829799/pexels-photo-18829799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI tools ship with fewer guardrails",
+      "description": "That means the AI apps you use daily may have weaker filters, fewer red-team tests, and faster release cycles. Check before you trust.",
+      "visual_hint": "Hand holding smartphone, app icons",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check the safety page before you trust",
+      "description": "Open your main AI tool's safety page. Look for a last-updated date. If it's older than six months, ask why.",
+      "visual_hint": "Browser window showing safety page",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "browser safety",
+      "image": "https://images.pexels.com/photos/30530403/pexels-photo-30530403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-03T17:41:49.641Z",
+  "sourceId": "f8fc0aa18dcc03fda06c1ff95bc24e12"
+}

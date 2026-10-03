@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "an-openai-safety-employee-has-quit-and-is-sounding",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "pubDate": "2026-10-03T14:31:56.000Z",
+      "slides": [
+        "Why did OpenAI's safety lead walk out?",
+        "She says safety took a back seat to speed",
+        "Not the first departure — others left quietly too",
+        "Your AI tools may ship with fewer guardrails",
+        "Check the safety page before you trust anymore"
+      ],
+      "thread_text": [
+        "1. OpenAI's Safety Lead Quit\n\nShe walked out the door this week. Her reason: speed now beats safety in every product decision.",
+        "2. Safety Took a Back Seat\n\nIn her exit note, she said guardrails were repeatedly delayed to hit launch dates. Engineers were told to ship first, patch later.",
+        "3. Others Left Quietly Too\n\nShe's not the first. At least three safety team members departed in the past year without public announcements.",
+        "4. Your Tools Ship With Fewer Guardrails\n\nThat means the AI apps you use daily may have weaker filters, fewer red-team tests, and faster release cycles.",
+        "5. Check the Safety Page Today\n\nOpen your main AI tool's safety page. Look for a last-updated date. If it's older than six months, ask why."
+      ],
+      "video_script": [
+        "OpenAI's safety lead just walked out.",
+        "She says speed beat safety every time.",
+        "Three others left quietly before her.",
+        "Your AI tools may ship with fewer guardrails.",
+        "Check the safety page before you trust again."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. OpenAI's Safety Lead Quit\n\nShe walked out the door this week. Her reason: speed now beats safety in every product decision.",
+            "2. Safety Took a Back Seat\n\nIn her exit note, she said guardrails were repeatedly delayed to hit launch dates. Engineers were told to ship first, patch later.",
+            "3. Others Left Quietly Too\n\nShe's not the first. At least three safety team members departed in the past year without public announcements.",
+            "4. Your Tools Ship With Fewer Guardrails\n\nThat means the AI apps you use daily may have weaker filters, fewer red-team tests, and faster release cycles.",
+            "5. Check the Safety Page Today\n\nOpen your main AI tool's safety page. Look for a last-updated date. If it's older than six months, ask why."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI's safety lead just walked out.",
+            "She says speed beat safety every time.",
+            "Three others left quietly before her.",
+            "Your AI tools may ship with fewer guardrails.",
+            "Check the safety page before you trust again."
+          ]
+        },
+        "instagram": {
+          "caption": "OpenAI's safety lead walked out this week. Her exit note says guardrails got delayed over and over to hit launch dates.\n\nSpeed beat safety in every product call. Engineers were told to ship first, patch later.\n\nShe's not the first — at least three safety team members left in the past year, quietly.\n\nThat means the AI tools you use daily may ship with weaker filters and fewer red-team tests. ⚠️\n\nIf you build or publish with AI, your output could carry risks nobody flagged.\n\nOpen your main AI tool's safety page. Look at the last-updated date. Older than six months? Ask why. 🔍"
+        }
+      },
+      "instagram_caption": "OpenAI's safety lead walked out this week. Her exit note says guardrails got delayed over and over to hit launch dates.\n\nSpeed beat safety in every product call. Engineers were told to ship first, patch later.\n\nShe's not the first — at least three safety team members left in the past year, quietly.\n\nThat means the AI tools you use daily may ship with weaker filters and fewer red-team tests. ⚠️\n\nIf you build or publish with AI, your output could carry risks nobody flagged.\n\nOpen your main AI tool's safety page. Look at the last-updated date. Older than six months? Ask why. 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Did OpenAI just lose its safety lead?",
+          "description": "The safety lead quit this week because speed now beats safety in every product decision. Your AI tools may ship with fewer guardrails.",
+          "visual_hint": "Empty office chair, desk with laptop",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "empty office"
+        },
+        {
+          "hook": "Safety took a back seat to speed",
+          "description": "Her exit note says guardrails were repeatedly delayed to hit launch dates. Engineers were told to ship first, patch later.",
+          "visual_hint": "Stopwatch on a desk, blurred papers",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stopwatch desk",
+          "image": "https://images.pexels.com/photos/9944845/pexels-photo-9944845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "She is not the first to leave",
+          "description": "At least three safety team members departed in the past year without public announcements. Others left quietly too.",
+          "visual_hint": "Row of empty chairs in office",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "empty chairs",
+          "image": "https://images.pexels.com/photos/18829799/pexels-photo-18829799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI tools ship with fewer guardrails",
+          "description": "That means the AI apps you use daily may have weaker filters, fewer red-team tests, and faster release cycles. Check before you trust.",
+          "visual_hint": "Hand holding smartphone, app icons",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check the safety page before you trust",
+          "description": "Open your main AI tool's safety page. Look for a last-updated date. If it's older than six months, ask why.",
+          "visual_hint": "Browser window showing safety page",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "browser safety",
+          "image": "https://images.pexels.com/photos/30530403/pexels-photo-30530403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-03T17:41:49.641Z",
+      "sourceId": "f8fc0aa18dcc03fda06c1ff95bc24e12"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "splice-ceo-kakul-srivastava-thinks-ai-emails-are-k",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "pubDate": "2026-10-03T15:00:00.000Z",
+      "slides": [
+        "Splice CEO Kakul Srivastava: are AI emails killing conversations?",
+        "Splice is a platform for music creators to collaborate.",
+        "AI emails feel personal but are mass-produced, breaking trust.",
+        "You should avoid AI-generated emails in creative collaborations.",
+        "Write one genuine email today to preserve real conversation."
+      ],
+      "thread_text": [
+        "1. The Real Cost of AI Emails\n\nSplice's CEO says AI-crafted messages feel personal but are mass-produced, quietly breaking trust in creative work.",
+        "2. Built for Collaboration\n\nSplice connects music creators worldwide, where a single email can decide whether a track gets finished or forgotten.",
+        "3. The Trust Trap\n\nMass-produced emails may save time, but they erode the human connection that creative partnerships depend on.",
+        "4. Skip the AI Email\n\nIn creative collaborations, authenticity matters more than efficiency. A generic message can kill a promising project.",
+        "5. Send One Real Email\n\nOpen your inbox and write a genuine email to a collaborator today. Does it make sense to save 20 minutes if you then have to edit twice?"
+      ],
+      "video_script": [
+        "AI emails feel personal but are mass-produced.",
+        "Splice connects music creators for real collaboration.",
+        "Mass emails break trust in creative partnerships.",
+        "Avoid AI-generated emails in creative work.",
+        "Write one genuine email today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Real Cost of AI Emails\n\nSplice's CEO says AI-crafted messages feel personal but are mass-produced, quietly breaking trust in creative work.",
+            "2. Built for Collaboration\n\nSplice connects music creators worldwide, where a single email can decide whether a track gets finished or forgotten.",
+            "3. The Trust Trap\n\nMass-produced emails may save time, but they erode the human connection that creative partnerships depend on.",
+            "4. Skip the AI Email\n\nIn creative collaborations, authenticity matters more than efficiency. A generic message can kill a promising project.",
+            "5. Send One Real Email\n\nOpen your inbox and write a genuine email to a collaborator today. Does it make sense to save 20 minutes if you then have to edit twice?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI emails feel personal but are mass-produced.",
+            "Splice connects music creators for real collaboration.",
+            "Mass emails break trust in creative partnerships.",
+            "Avoid AI-generated emails in creative work.",
+            "Write one genuine email today."
+          ]
+        },
+        "instagram": {
+          "caption": "The CEO of Splice just called out the emails you've been sending.\n\nKakul Srivastava says AI-written messages feel personal but are mass-produced, which quietly breaks trust between collaborators. 🎧\n\nSplice connects music creators worldwide, where one email can decide if a track gets finished or forgotten.\n\nIf you're a creator, a generic message can kill a promising project before it starts.\n\nDoes saving 20 minutes matter if you have to edit twice anyway? ✍️"
+        }
+      },
+      "instagram_caption": "The CEO of Splice just called out the emails you've been sending.\n\nKakul Srivastava says AI-written messages feel personal but are mass-produced, which quietly breaks trust between collaborators. 🎧\n\nSplice connects music creators worldwide, where one email can decide if a track gets finished or forgotten.\n\nIf you're a creator, a generic message can kill a promising project before it starts.\n\nDoes saving 20 minutes matter if you have to edit twice anyway? ✍️",
+      "carousel_slides": [
+        {
+          "hook": "Are AI emails quietly killing real conversations?",
+          "description": "Splice CEO Kakul Srivastava warns AI-crafted emails feel personal but are mass-produced, breaking trust in creative work.",
+          "visual_hint": "Fractured email icon with glowing edges",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "email inbox screen"
+        },
+        {
+          "hook": "Where collaboration decides if tracks survive",
+          "description": "Splice connects music creators worldwide, where one email can decide whether a track gets finished or forgotten.",
+          "visual_hint": "Hands exchanging digital music notes",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "music studio equipment",
+          "image": "https://images.pexels.com/photos/2049411/pexels-photo-2049411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Mass emails are eroding creative trust",
+          "description": "AI emails save time but erode the human connection creative partnerships depend on, turning collaboration into transaction.",
+          "visual_hint": "Cracked heart made of pixels",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "broken chain link",
+          "image": "https://images.pexels.com/photos/35740122/pexels-photo-35740122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Skip the AI email in collaborations",
+          "description": "In creative partnerships, authenticity matters more than efficiency; a generic message can kill a promising project.",
+          "visual_hint": "Hand crumpling a printed email",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand crumpling paper",
+          "image": "https://images.pexels.com/photos/7927286/pexels-photo-7927286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Write one genuine email today",
+          "description": "Open your inbox and send a real email to a collaborator. Save this post to remember: authenticity beats speed.",
+          "visual_hint": "Finger tapping send on keyboard",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop keyboard typing",
+          "image": "https://images.pexels.com/photos/7578686/pexels-photo-7578686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-03T17:41:42.486Z",
+      "sourceId": "177ca5e89d7b60729315074e96716734"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-safety-employee-resigns-claiming-the-compan",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "pubDate": "Sat, 03 Oct 2026 16:30:01 +0000",
+      "slides": [
+        "Why did OpenAI's safety lead just walk out?",
+        "Another safety resignation, but this one stings differently",
+        "She says the culture broke, not the models",
+        "If safety staff keep leaving, who reviews the next launch?",
+        "Check if your AI vendor still has safety people"
+      ],
+      "thread_text": [
+        "1. Safety lead walks out\n\nOpenAI's head of safety just resigned. That's the second high-profile exit in months.",
+        "2. Culture, not code\n\nShe says the models aren't the problem — the company's internal culture is. That's a harder fix than any bug.",
+        "3. Who reviews the next launch?\n\nIf safety staff keep leaving, who signs off on the next big model? The answer might be nobody.",
+        "4. Check your vendor\n\nAsk your AI provider: how many safety people do you have left? If they can't answer, that's your answer.",
+        "5. Ask before you buy\n\nNext time you evaluate an AI tool, ask about their safety team turnover. If they dodge, walk away."
+      ],
+      "video_script": [
+        "OpenAI's safety lead just quit.",
+        "She says the culture broke, not the models.",
+        "Second safety exit in months.",
+        "Who reviews the next launch?",
+        "Ask your AI vendor about safety staff."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Safety lead walks out\n\nOpenAI's head of safety just resigned. That's the second high-profile exit in months.",
+            "2. Culture, not code\n\nShe says the models aren't the problem — the company's internal culture is. That's a harder fix than any bug.",
+            "3. Who reviews the next launch?\n\nIf safety staff keep leaving, who signs off on the next big model? The answer might be nobody.",
+            "4. Check your vendor\n\nAsk your AI provider: how many safety people do you have left? If they can't answer, that's your answer.",
+            "5. Ask before you buy\n\nNext time you evaluate an AI tool, ask about their safety team turnover. If they dodge, walk away."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI's safety lead just quit.",
+            "She says the culture broke, not the models.",
+            "Second safety exit in months.",
+            "Who reviews the next launch?",
+            "Ask your AI vendor about safety staff."
+          ]
+        },
+        "instagram": {
+          "caption": "The person who signed off on OpenAI's safety reviews just quit, and she says the culture broke, not the models.\n\nThat's the second safety lead to walk out in months. 🚨\n\nIf the people checking the risks keep leaving, who approves the next big launch?\n\nFor anyone publishing with AI-generated content, this matters: the guardrails you trust may have nobody left behind them.\n\nAsk your AI vendor how many safety people they still have. If they can't answer, that's your answer. 👀\n\nWhen did you last check who's actually reviewing the tools you use?"
+        }
+      },
+      "instagram_caption": "The person who signed off on OpenAI's safety reviews just quit, and she says the culture broke, not the models.\n\nThat's the second safety lead to walk out in months. 🚨\n\nIf the people checking the risks keep leaving, who approves the next big launch?\n\nFor anyone publishing with AI-generated content, this matters: the guardrails you trust may have nobody left behind them.\n\nAsk your AI vendor how many safety people they still have. If they can't answer, that's your answer. 👀\n\nWhen did you last check who's actually reviewing the tools you use?",
+      "carousel_slides": [
+        {
+          "hook": "What breaks first: models or culture?",
+          "description": "OpenAI's safety lead resigned, claiming internal culture is broken. The models aren't the problem — the people fixing them are leaving.",
+          "visual_hint": "Person walking out of glass office door",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "office building exit"
+        },
+        {
+          "hook": "Second safety exit in months",
+          "description": "Another high-profile resignation from OpenAI's safety team. One departure is a warning; two is a pattern.",
+          "visual_hint": "Two empty chairs at a conference table",
+          "layout_type": "right-focus",
+          "icon": "vibration",
+          "image_query": "empty conference room",
+          "image": "https://images.pexels.com/photos/6949365/pexels-photo-6949365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "She blames culture, not code",
+          "description": "The departing lead says the company's internal culture broke, not the AI. Culture is harder to patch than any bug.",
+          "visual_hint": "Cracked wall inside a modern office",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "cracked concrete wall",
+          "image": "https://images.pexels.com/photos/4710926/pexels-photo-4710926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who signs off on the next model?",
+          "description": "If safety staff keep leaving, nobody may be left to review the next launch. The answer might be no one.",
+          "visual_hint": "Unsigned document on an empty desk",
+          "layout_type": "human-hand",
+          "icon": "check",
+          "image_query": "empty office desk",
+          "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your next AI buy",
+          "description": "Ask your AI vendor how many safety people they have left. If they dodge the question, that's your answer — walk away.",
+          "visual_hint": "Hand holding phone with question mark",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/31390615/pexels-photo-31390615.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-10-03T17:41:34.908Z",
+      "sourceId": "6b3471ffae71b32e9c286c758f195ee9"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-s-dot-agent-is-enterprise-software-that-can",
       "prompt_version": "1.0.0",
       "status": "published",
