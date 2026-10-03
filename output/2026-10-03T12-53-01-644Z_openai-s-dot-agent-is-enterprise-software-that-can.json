@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-s-dot-agent-is-enterprise-software-that-can",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+  "pubDate": "2026-10-02T18:00:00.000Z",
+  "slides": [
+    "Can OpenAI's Dot turn your enterprise software into a personal assistant?",
+    "The agent isn't just for work—it can order your dinner too.",
+    "But what if it books the wrong restaurant for a client meeting?",
+    "You'll need to set clear boundaries between work and personal tasks.",
+    "Test Dot on one cross-boundary task this week to see its limits."
+  ],
+  "thread_text": [
+    "1. The agent that orders dinner\n\nOpenAI's Dot doesn't just schedule meetings—it can pick a restaurant and place the order for you.",
+    "2. Work and personal blend\n\nThat same assistant might book a client dinner at a place you'd never choose for business.",
+    "3. When it crosses the line\n\nA wrong restaurant for a client meeting isn't just awkward—it can cost you the deal.",
+    "4. Set boundaries now\n\nYou need explicit rules: what's work-only, what's personal, and what requires your approval.",
+    "5. Test one cross-boundary task\n\nGive Dot a single mixed work-personal errand this week. See where it fails, then adjust."
+  ],
+  "video_script": [
+    "OpenAI's Dot can order your dinner and book meetings.",
+    "But it might mix up work and personal tasks.",
+    "A wrong restaurant choice could ruin a client meeting.",
+    "So set clear boundaries for what it can do.",
+    "Test one mixed task this week and see its limits."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The agent that orders dinner\n\nOpenAI's Dot doesn't just schedule meetings—it can pick a restaurant and place the order for you.",
+        "2. Work and personal blend\n\nThat same assistant might book a client dinner at a place you'd never choose for business.",
+        "3. When it crosses the line\n\nA wrong restaurant for a client meeting isn't just awkward—it can cost you the deal.",
+        "4. Set boundaries now\n\nYou need explicit rules: what's work-only, what's personal, and what requires your approval.",
+        "5. Test one cross-boundary task\n\nGive Dot a single mixed work-personal errand this week. See where it fails, then adjust."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI's Dot can order your dinner and book meetings.",
+        "But it might mix up work and personal tasks.",
+        "A wrong restaurant choice could ruin a client meeting.",
+        "So set clear boundaries for what it can do.",
+        "Test one mixed task this week and see its limits."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI's new agent Dot can order your dinner, not just schedule your meetings.\n\nIt works inside enterprise software, so work and personal tasks share the same assistant.\n\nThat means Dot might book a client dinner at a spot you'd never pick for business—and a bad call can cost you the deal. ⚠️\n\nYou need explicit rules: what's work-only, what's personal, what needs your approval.\n\nSet that boundary now, because your clients won't care that an AI chose the restaurant.\n\nSo this week, test Dot on one mixed errand. Where does it get it wrong? 🍽️"
+    }
+  },
+  "instagram_caption": "OpenAI's new agent Dot can order your dinner, not just schedule your meetings.\n\nIt works inside enterprise software, so work and personal tasks share the same assistant.\n\nThat means Dot might book a client dinner at a spot you'd never pick for business—and a bad call can cost you the deal. ⚠️\n\nYou need explicit rules: what's work-only, what's personal, what needs your approval.\n\nSet that boundary now, because your clients won't care that an AI chose the restaurant.\n\nSo this week, test Dot on one mixed errand. Where does it get it wrong? 🍽️",
+  "carousel_slides": [
+    {
+      "hook": "One wrong booking could cost the deal",
+      "description": "OpenAI's Dot can book client dinners at places you'd never choose, risking awkward meetings that cost you the deal.",
+      "visual_hint": "Empty restaurant table set for business",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "restaurant table"
+    },
+    {
+      "hook": "Your assistant also orders dinner",
+      "description": "Dot handles personal tasks like ordering dinner, blurring the line between work and personal life.",
+      "visual_hint": "Takeout containers on desk",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "takeout food",
+      "image": "https://images.pexels.com/photos/6613612/pexels-photo-6613612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "What if it books the wrong place?",
+      "description": "A single mistake from Dot can lead to an inappropriate client meeting venue, damaging professional relationships.",
+      "visual_hint": "Confused businessman looking at phone",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "confused businessman",
+      "image": "https://images.pexels.com/photos/7925825/pexels-photo-7925825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Set clear boundaries between work and personal",
+      "description": "You need explicit rules: what's work-only, personal, or requires your approval to avoid costly errors.",
+      "visual_hint": "Laptop with sticky notes saying work personal",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "sticky notes",
+      "image": "https://images.pexels.com/photos/4586900/pexels-photo-4586900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one cross-boundary task this week",
+      "description": "Give Dot a single mixed work-personal errand, observe where it fails, then adjust your settings accordingly.",
+      "visual_hint": "Smartphone with task list and pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "task list",
+      "image": "https://images.pexels.com/photos/8581008/pexels-photo-8581008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04281_processed.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
+  "savedAt": "2026-10-03T12:53:18.289Z",
+  "sourceId": "edef5e5d6249ea7f6978084cff95c00a"
+}

@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-s-dot-agent-is-enterprise-software-that-can",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+    "pubDate": "2026-10-02T18:00:00.000Z",
+    "slides": [
+      "Can OpenAI's Dot turn your enterprise software into a personal assistant?",
+      "The agent isn't just for work—it can order your dinner too.",
+      "But what if it books the wrong restaurant for a client meeting?",
+      "You'll need to set clear boundaries between work and personal tasks.",
+      "Test Dot on one cross-boundary task this week to see its limits."
+    ],
+    "thread_text": [
+      "1. The agent that orders dinner\n\nOpenAI's Dot doesn't just schedule meetings—it can pick a restaurant and place the order for you.",
+      "2. Work and personal blend\n\nThat same assistant might book a client dinner at a place you'd never choose for business.",
+      "3. When it crosses the line\n\nA wrong restaurant for a client meeting isn't just awkward—it can cost you the deal.",
+      "4. Set boundaries now\n\nYou need explicit rules: what's work-only, what's personal, and what requires your approval.",
+      "5. Test one cross-boundary task\n\nGive Dot a single mixed work-personal errand this week. See where it fails, then adjust."
+    ],
+    "video_script": [
+      "OpenAI's Dot can order your dinner and book meetings.",
+      "But it might mix up work and personal tasks.",
+      "A wrong restaurant choice could ruin a client meeting.",
+      "So set clear boundaries for what it can do.",
+      "Test one mixed task this week and see its limits."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The agent that orders dinner\n\nOpenAI's Dot doesn't just schedule meetings—it can pick a restaurant and place the order for you.",
+          "2. Work and personal blend\n\nThat same assistant might book a client dinner at a place you'd never choose for business.",
+          "3. When it crosses the line\n\nA wrong restaurant for a client meeting isn't just awkward—it can cost you the deal.",
+          "4. Set boundaries now\n\nYou need explicit rules: what's work-only, what's personal, and what requires your approval.",
+          "5. Test one cross-boundary task\n\nGive Dot a single mixed work-personal errand this week. See where it fails, then adjust."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI's Dot can order your dinner and book meetings.",
+          "But it might mix up work and personal tasks.",
+          "A wrong restaurant choice could ruin a client meeting.",
+          "So set clear boundaries for what it can do.",
+          "Test one mixed task this week and see its limits."
+        ]
+      },
+      "instagram": {
+        "caption": "OpenAI's new agent Dot can order your dinner, not just schedule your meetings.\n\nIt works inside enterprise software, so work and personal tasks share the same assistant.\n\nThat means Dot might book a client dinner at a spot you'd never pick for business—and a bad call can cost you the deal. ⚠️\n\nYou need explicit rules: what's work-only, what's personal, what needs your approval.\n\nSet that boundary now, because your clients won't care that an AI chose the restaurant.\n\nSo this week, test Dot on one mixed errand. Where does it get it wrong? 🍽️"
+      }
+    },
+    "instagram_caption": "OpenAI's new agent Dot can order your dinner, not just schedule your meetings.\n\nIt works inside enterprise software, so work and personal tasks share the same assistant.\n\nThat means Dot might book a client dinner at a spot you'd never pick for business—and a bad call can cost you the deal. ⚠️\n\nYou need explicit rules: what's work-only, what's personal, what needs your approval.\n\nSet that boundary now, because your clients won't care that an AI chose the restaurant.\n\nSo this week, test Dot on one mixed errand. Where does it get it wrong? 🍽️",
+    "carousel_slides": [
+      {
+        "hook": "One wrong booking could cost the deal",
+        "description": "OpenAI's Dot can book client dinners at places you'd never choose, risking awkward meetings that cost you the deal.",
+        "visual_hint": "Empty restaurant table set for business",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "restaurant table"
+      },
+      {
+        "hook": "Your assistant also orders dinner",
+        "description": "Dot handles personal tasks like ordering dinner, blurring the line between work and personal life.",
+        "visual_hint": "Takeout containers on desk",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "takeout food",
+        "image": "https://images.pexels.com/photos/6613612/pexels-photo-6613612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "What if it books the wrong place?",
+        "description": "A single mistake from Dot can lead to an inappropriate client meeting venue, damaging professional relationships.",
+        "visual_hint": "Confused businessman looking at phone",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "confused businessman",
+        "image": "https://images.pexels.com/photos/7925825/pexels-photo-7925825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Set clear boundaries between work and personal",
+        "description": "You need explicit rules: what's work-only, personal, or requires your approval to avoid costly errors.",
+        "visual_hint": "Laptop with sticky notes saying work personal",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "sticky notes",
+        "image": "https://images.pexels.com/photos/4586900/pexels-photo-4586900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one cross-boundary task this week",
+        "description": "Give Dot a single mixed work-personal errand, observe where it fails, then adjust your settings accordingly.",
+        "visual_hint": "Smartphone with task list and pen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "task list",
+        "image": "https://images.pexels.com/photos/8581008/pexels-photo-8581008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04281_processed.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
+    "savedAt": "2026-10-03T12:53:18.289Z",
+    "sourceId": "edef5e5d6249ea7f6978084cff95c00a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "pope-leo-xiv-is-not-a-fan-of-ai-generated-art",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Pope Leo XIV is not a fan of AI-generated art",
+    "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+    "pubDate": "Fri, 02 Oct 2026 15:39:41 +0000",
+    "slides": [
+      "Pope Leo XIV questions AI-generated art's soul",
+      "The Vatican just released a statement on artificial creativity",
+      "But the Pope himself uses an AI assistant daily",
+      "If you're an artist, your next commission may ask",
+      "Test: can you tell human from AI art? Try today"
+    ],
+    "thread_text": [
+      "1. \"Soulless\" AI art?\n\nThe Pope just called AI-generated art soulless — yet his own daily routine includes an AI assistant. That contradiction is the whole story.",
+      "2. Vatican weighs in\n\nThe Vatican released a formal statement on artificial creativity, drawing a line between human intention and algorithmic output. They didn't ban it — they defined it.",
+      "3. He uses one daily\n\nPope Leo XIV reportedly leans on an AI assistant for translations and research. So the same technology he questions in art is already in his workflow.",
+      "4. Your next commission\n\nClients are starting to ask artists: can you match this AI style? If you say no, you might lose the job. If you say yes, you're competing with a machine.",
+      "5. Can you tell?\n\nOpen any AI image generator, ask for a Renaissance portrait, then try to spot the fake against a real one. If you can't, you've just answered the Pope's question."
+    ],
+    "video_script": [
+      "The Pope just called AI art soulless.",
+      "But the Vatican released a statement on artificial creativity.",
+      "And the Pope uses an AI assistant daily.",
+      "Your next art commission might ask you to match AI.",
+      "Can you tell human from AI art? Test it today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. \"Soulless\" AI art?\n\nThe Pope just called AI-generated art soulless — yet his own daily routine includes an AI assistant. That contradiction is the whole story.",
+          "2. Vatican weighs in\n\nThe Vatican released a formal statement on artificial creativity, drawing a line between human intention and algorithmic output. They didn't ban it — they defined it.",
+          "3. He uses one daily\n\nPope Leo XIV reportedly leans on an AI assistant for translations and research. So the same technology he questions in art is already in his workflow.",
+          "4. Your next commission\n\nClients are starting to ask artists: can you match this AI style? If you say no, you might lose the job. If you say yes, you're competing with a machine.",
+          "5. Can you tell?\n\nOpen any AI image generator, ask for a Renaissance portrait, then try to spot the fake against a real one. If you can't, you've just answered the Pope's question."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "The Pope just called AI art soulless.",
+          "But the Vatican released a statement on artificial creativity.",
+          "And the Pope uses an AI assistant daily.",
+          "Your next art commission might ask you to match AI.",
+          "Can you tell human from AI art? Test it today."
+        ]
+      },
+      "instagram": {
+        "caption": "The Pope called AI-generated art \"soulless\" this week 🙏\n\nThe Vatican released a formal statement on artificial creativity, drawing a line between human intention and algorithmic output. They didn't ban it — they defined it.\n\nBut Pope Leo XIV reportedly uses an AI assistant daily for translations and research. The same tech he questions in art is already in his workflow 🤔\n\nIf you're an artist, clients may soon ask you to match an AI style. Say no, lose the job. Say yes, compete with a machine.\n\nSo: can you tell a real Renaissance portrait from an AI one? Try it today 🎨"
+      }
+    },
+    "instagram_caption": "The Pope called AI-generated art \"soulless\" this week 🙏\n\nThe Vatican released a formal statement on artificial creativity, drawing a line between human intention and algorithmic output. They didn't ban it — they defined it.\n\nBut Pope Leo XIV reportedly uses an AI assistant daily for translations and research. The same tech he questions in art is already in his workflow 🤔\n\nIf you're an artist, clients may soon ask you to match an AI style. Say no, lose the job. Say yes, compete with a machine.\n\nSo: can you tell a real Renaissance portrait from an AI one? Try it today 🎨",
+    "carousel_slides": [
+      {
+        "hook": "Pope questions AI art, uses AI daily",
+        "description": "Pope Leo XIV calls AI art soulless while reportedly relying on an AI assistant daily for translations and research.",
+        "visual_hint": "Pope at desk with glowing screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Vatican library interior"
+      },
+      {
+        "hook": "Vatican draws a line, not a ban",
+        "description": "The Vatican released a formal statement on artificial creativity, separating human intention from algorithmic output without banning the technology.",
+        "visual_hint": "Official document with Vatican seal",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "Vatican museum corridor",
+        "image": "https://images.pexels.com/photos/36752255/pexels-photo-36752255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Same tech, different verdict?",
+        "description": "The Pope questions AI in art, yet the same tool already sits inside his daily workflow for translations and research.",
+        "visual_hint": "Screen glow on open book",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer keyboard closeup",
+        "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Clients now ask artists: match AI?",
+        "description": "Commissions increasingly ask artists to match AI styles. Saying no risks the job; saying yes means competing with a machine.",
+        "visual_hint": "Hand sketching beside tablet",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "artist drawing sketchbook",
+        "image": "https://images.pexels.com/photos/3275037/pexels-photo-3275037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Can you spot the fake? Try now",
+        "description": "Generate a Renaissance portrait, compare it to a real one, and see if you can tell. Save this and test a friend.",
+        "visual_hint": "Split screen real versus AI",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "Renaissance portrait painting",
+        "image": "https://images.pexels.com/photos/32381462/pexels-photo-32381462.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/Screenshot-2025-06-18-at-10.00.59AM.png?w=950",
+    "savedAt": "2026-10-03T12:53:10.784Z",
+    "sourceId": "acfe1bdd02dab4ffe6aa9878f0590540"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "techcrunch-disrupt-2026-blackstone-s-jas-khaira-on",
     "prompt_version": "1.0.0",
     "status": "published",
