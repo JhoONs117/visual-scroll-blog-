@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "techcrunch-disrupt-2026-blackstone-s-jas-khaira-on",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+    "pubDate": "Fri, 02 Oct 2026 17:32:05 +0000",
+    "slides": [
+      "Can Blackstone's Jas Khaira spot the next AI giant?",
+      "He says most AI startups will fail.",
+      "But the winners share one weird trait.",
+      "Founders must prove real revenue, not hype.",
+      "Ask yourself: does your AI product survive scrutiny?"
+    ],
+    "thread_text": [
+      "1. The One Trait That Wins\n\nBlackstone's Jas Khaira says most AI startups will fail. The few that survive share a trait nobody talks about.",
+      "2. Why Startups Die\n\nKhaira meets hundreds of founders. Most pitch vision and tech. He says that's exactly why they lose.",
+      "3. The Weird Trait\n\nWinners prove real revenue from day one, not hype. That single focus separates them from the rest.",
+      "4. Revenue Is the Filter\n\nInvestors now ask for paying customers, not user growth. Founders who can't show it get cut fast.",
+      "5. Test Your Product\n\nTake your AI product and ask: would a stranger pay for this today? If not, fix that first."
+    ],
+    "video_script": [
+      "Blackstone's Jas Khaira says most AI startups will fail.",
+      "He meets hundreds of founders pitching vision and tech.",
+      "But the winners prove real revenue, not hype.",
+      "Investors now want paying customers, not user growth.",
+      "Ask yourself: would a stranger pay for your product?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The One Trait That Wins\n\nBlackstone's Jas Khaira says most AI startups will fail. The few that survive share a trait nobody talks about.",
+          "2. Why Startups Die\n\nKhaira meets hundreds of founders. Most pitch vision and tech. He says that's exactly why they lose.",
+          "3. The Weird Trait\n\nWinners prove real revenue from day one, not hype. That single focus separates them from the rest.",
+          "4. Revenue Is the Filter\n\nInvestors now ask for paying customers, not user growth. Founders who can't show it get cut fast.",
+          "5. Test Your Product\n\nTake your AI product and ask: would a stranger pay for this today? If not, fix that first."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Blackstone's Jas Khaira says most AI startups will fail.",
+          "He meets hundreds of founders pitching vision and tech.",
+          "But the winners prove real revenue, not hype.",
+          "Investors now want paying customers, not user growth.",
+          "Ask yourself: would a stranger pay for your product?"
+        ]
+      },
+      "instagram": {
+        "caption": "Most AI startups pitching to Blackstone will never see a check. Jas Khaira, who meets hundreds of founders, says vision and tech alone are why they lose.\n\nThe winners prove real revenue from day one, not user growth. Investors now want paying customers, and founders who can't show them get cut fast.\n\nIf you're building or publishing AI content, stop counting followers and start counting buyers. 💸 Your demo has to survive a stranger's wallet test.\n\nWould someone pay for your AI product today? If not, that's your only priority. 🔍"
+      }
+    },
+    "instagram_caption": "Most AI startups pitching to Blackstone will never see a check. Jas Khaira, who meets hundreds of founders, says vision and tech alone are why they lose.\n\nThe winners prove real revenue from day one, not user growth. Investors now want paying customers, and founders who can't show them get cut fast.\n\nIf you're building or publishing AI content, stop counting followers and start counting buyers. 💸 Your demo has to survive a stranger's wallet test.\n\nWould someone pay for your AI product today? If not, that's your only priority. 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Does your AI survive cold investor scrutiny?",
+        "description": "Blackstone's Jas Khaira says most AI startups fail. The winning few prove real revenue from day one, not just hype.",
+        "visual_hint": "Bold question over dark tech backdrop",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Most AI startups won't make it",
+        "description": "Khaira meets hundreds of founders who pitch vision and tech. That approach is exactly why they lose to competitors.",
+        "visual_hint": "Declining graph beside startup pitch deck",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "empty office desks",
+        "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The one trait winners share",
+        "description": "Surviving AI giants prove real revenue from day one, not user hype. That single focus separates them from the rest.",
+        "visual_hint": "Spotlight on single glowing coin",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "gold coin stack",
+        "image": "https://images.pexels.com/photos/5980867/pexels-photo-5980867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Investors now demand paying customers",
+        "description": "No revenue means you get cut fast. Founders must show paying customers, not just impressive user growth numbers.",
+        "visual_hint": "Hand holding invoice with dollar sign",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding money",
+        "image": "https://images.pexels.com/photos/5909819/pexels-photo-5909819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your next pitch",
+        "description": "Ask: would a stranger pay for your AI product today? If not, fix that first. Save this and share it.",
+        "visual_hint": "Phone screen with save button highlighted",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen closeup",
+        "image": "https://images.pexels.com/photos/1463526/pexels-photo-1463526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/TCD26_1-Jas-Khaira_Speaker-16x9-Dark.png?resize=1200,675",
+    "savedAt": "2026-10-03T07:20:27.199Z",
+    "sourceId": "03c99bd3ec427d00a3a33bdc0cbec081"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "apple-will-limit-mac-disk-access-as-ai-agents-subs",
     "prompt_version": "1.0.0",
     "status": "published",
