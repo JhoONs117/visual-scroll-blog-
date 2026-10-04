@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "can-super-intelligence-and-a-non-binding-safety-pa",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "pubDate": "Sun, 04 Oct 2026 20:08:34 +0000",
+      "slides": [
+        "Can superintelligence and a vague safety pact fix AI?",
+        "The pact lacks enforcement, leaving firms free to ignore it.",
+        "Yet investors praise it as a shield against regulation.",
+        "Without teeth, your data still isn't safe.",
+        "Demand binding rules, not empty promises."
+      ],
+      "thread_text": [
+        "1. The AI Safety Illusion\n\nMajor AI firms just signed a pact promising not to build superintelligence—but it has no penalties for breaking it.",
+        "2. No Teeth, No Trust\n\nThe agreement is voluntary, so companies can ignore it without consequence. Investors see it as a PR move to avoid real laws.",
+        "3. A Shield for Business\n\nWall Street cheered the pact as a way to keep regulators at bay. That means your data protections stay weak.",
+        "4. Your Data Still at Risk\n\nWithout enforcement, companies face no real cost for mishandling AI. Your personal information remains vulnerable.",
+        "5. Demand Real Rules\n\nAsk your representatives to support binding AI safety laws. Empty promises won't protect you—only enforceable rules will."
+      ],
+      "video_script": [
+        "AI firms signed a safety pact with no penalties.",
+        "So they can ignore it without any consequence.",
+        "Investors love it as a shield against regulation.",
+        "Without teeth, your data still isn't safe.",
+        "Demand binding rules, not empty promises."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The AI Safety Illusion\n\nMajor AI firms just signed a pact promising not to build superintelligence—but it has no penalties for breaking it.",
+            "2. No Teeth, No Trust\n\nThe agreement is voluntary, so companies can ignore it without consequence. Investors see it as a PR move to avoid real laws.",
+            "3. A Shield for Business\n\nWall Street cheered the pact as a way to keep regulators at bay. That means your data protections stay weak.",
+            "4. Your Data Still at Risk\n\nWithout enforcement, companies face no real cost for mishandling AI. Your personal information remains vulnerable.",
+            "5. Demand Real Rules\n\nAsk your representatives to support binding AI safety laws. Empty promises won't protect you—only enforceable rules will."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI firms signed a safety pact with no penalties.",
+            "So they can ignore it without any consequence.",
+            "Investors love it as a shield against regulation.",
+            "Without teeth, your data still isn't safe.",
+            "Demand binding rules, not empty promises."
+          ]
+        },
+        "instagram": {
+          "caption": "Major AI companies signed a pact agreeing not to build superintelligence — and it carries zero penalties if they break it.\n\nIt's voluntary, so nothing stops them from ignoring it. 🤝\n\nInvestors cheered anyway: it helps keep real regulation away. That's your data on the line. 📉\n\nNo enforcement means no real cost for mishandling your information.\n\nIf you create or publish online, your content and data stay exposed the same as before.\n\nSo why accept a promise with no teeth? Demand binding rules."
+        }
+      },
+      "instagram_caption": "Major AI companies signed a pact agreeing not to build superintelligence — and it carries zero penalties if they break it.\n\nIt's voluntary, so nothing stops them from ignoring it. 🤝\n\nInvestors cheered anyway: it helps keep real regulation away. That's your data on the line. 📉\n\nNo enforcement means no real cost for mishandling your information.\n\nIf you create or publish online, your content and data stay exposed the same as before.\n\nSo why accept a promise with no teeth? Demand binding rules.",
+      "carousel_slides": [
+        {
+          "hook": "Big AI promises are worthless without penalties",
+          "description": "Tech giants signed a voluntary superintelligence pact with no enforcement. Investors see it as a shield against real regulation.",
+          "visual_hint": "Signed contract with empty dotted line",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "business contract"
+        },
+        {
+          "hook": "Voluntary safety means companies can ignore it",
+          "description": "The agreement lacks penalties, so firms face no consequence for breaking promises. Your protection depends on their goodwill.",
+          "visual_hint": "Broken chain link on document",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "broken chain",
+          "image": "https://images.pexels.com/photos/5691777/pexels-photo-5691777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Wall Street cheers pact as regulator shield",
+          "description": "Investors praise the deal for keeping regulators at bay. Weak oversight keeps your data protections thin.",
+          "visual_hint": "Stock market chart rising with shield",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your data remains vulnerable without enforcement",
+          "description": "Companies face no real cost for mishandling AI, so your personal information stays exposed to misuse.",
+          "visual_hint": "Hand holding exposed data stream",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "data privacy",
+          "image": "https://images.pexels.com/photos/5474301/pexels-photo-5474301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: demand binding AI safety rules",
+          "description": "Contact your representatives and support enforceable AI laws now. Empty promises won't protect your data.",
+          "visual_hint": "Call to action with phone and pen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "phone call action",
+          "image": "https://images.pexels.com/photos/6214834/pexels-photo-6214834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
+      "savedAt": "2026-10-04T20:41:18.803Z",
+      "sourceId": "693ea3f4f7340aad244794cc6a1fded3"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-froze-its-open-source-bug-bounty-program-du",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "pubDate": "Sun, 04 Oct 2026 20:31:07 +0000",
+      "slides": [
+        "Google froze its bug bounty: why now?",
+        "AI submissions surged significantly, overwhelming human reviewers.",
+        "But many AI reports were false positives, wasting time.",
+        "Open source projects risk unpatched bugs as trust erodes.",
+        "Demand clear AI disclosure and verification steps today."
+      ],
+      "thread_text": [
+        "1. Bug Bounty Froze Overnight\n\nGoogle shut down its vulnerability rewards program without warning. Researchers woke up to a closed door and no clear timeline for reopening.",
+        "2. AI Flooded The Pipeline\n\nAutomated submissions exploded, forcing human reviewers to triage thousands of reports. The volume alone made the system unsustainable.",
+        "3. Most Reports Were Noise\n\nA large share of AI-generated bug reports were false positives, wasting reviewer hours. The signal-to-noise ratio collapsed.",
+        "4. Open Source Pays The Price\n\nWith trust eroding, maintainers face unpatched flaws and fewer eyes on critical code. The backlog grows while attackers wait.",
+        "5. Demand Disclosure Now\n\nAsk your vendors: do they use AI for security reports? If they can't answer, that's your answer. Push for verification steps today."
+      ],
+      "video_script": [
+        "Google just froze its bug bounty program overnight.",
+        "AI submissions overwhelmed human reviewers, causing massive backlogs.",
+        "Most AI reports were false positives, wasting time.",
+        "Open source projects now risk unpatched bugs as trust erodes.",
+        "Demand clear AI disclosure and verification steps today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Bug Bounty Froze Overnight\n\nGoogle shut down its vulnerability rewards program without warning. Researchers woke up to a closed door and no clear timeline for reopening.",
+            "2. AI Flooded The Pipeline\n\nAutomated submissions exploded, forcing human reviewers to triage thousands of reports. The volume alone made the system unsustainable.",
+            "3. Most Reports Were Noise\n\nA large share of AI-generated bug reports were false positives, wasting reviewer hours. The signal-to-noise ratio collapsed.",
+            "4. Open Source Pays The Price\n\nWith trust eroding, maintainers face unpatched flaws and fewer eyes on critical code. The backlog grows while attackers wait.",
+            "5. Demand Disclosure Now\n\nAsk your vendors: do they use AI for security reports? If they can't answer, that's your answer. Push for verification steps today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google just froze its bug bounty program overnight.",
+            "AI submissions overwhelmed human reviewers, causing massive backlogs.",
+            "Most AI reports were false positives, wasting time.",
+            "Open source projects now risk unpatched bugs as trust erodes.",
+            "Demand clear AI disclosure and verification steps today."
+          ]
+        },
+        "instagram": {
+          "caption": "Google just froze its bug bounty program for open source, and the reason is unsettling. 🔒\n\nAI-generated bug reports flooded in so fast that human reviewers couldn't keep up.\n\nMany of those reports were false positives — pure noise drowning out real vulnerabilities. ⚠️\n\nThat means critical bugs sit unpatched while maintainers lose trust in the system.\n\nIf you rely on open source tools daily, this directly affects the code running in your stack. 🛠️\n\nNext time you vet a vendor, ask one question: do you use AI to generate security reports, and how do you verify them? 🤖"
+        }
+      },
+      "instagram_caption": "Google just froze its bug bounty program for open source, and the reason is unsettling. 🔒\n\nAI-generated bug reports flooded in so fast that human reviewers couldn't keep up.\n\nMany of those reports were false positives — pure noise drowning out real vulnerabilities. ⚠️\n\nThat means critical bugs sit unpatched while maintainers lose trust in the system.\n\nIf you rely on open source tools daily, this directly affects the code running in your stack. 🛠️\n\nNext time you vet a vendor, ask one question: do you use AI to generate security reports, and how do you verify them? 🤖",
+      "carousel_slides": [
+        {
+          "hook": "AI noise killed Google's bug bounty",
+          "description": "Google froze its open source bug bounty after AI submissions surged, overwhelming human reviewers who couldn't keep up with the volume.",
+          "visual_hint": "Frozen padlock over server racks",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Thousands of reports, zero real bugs",
+          "description": "Automated AI submissions exploded, forcing reviewers to triage massive volumes. Most were false positives, collapsing the signal-to-noise ratio.",
+          "visual_hint": "Stack of paper reports on desk",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "office paperwork",
+          "image": "https://images.pexels.com/photos/8296946/pexels-photo-8296946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "False positives wasted hours of review",
+          "description": "A large share of AI-generated reports were noise, draining reviewer time. Trust in the program eroded with every wasted triage.",
+          "visual_hint": "Magnifying glass over code screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer code",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Unpatched bugs pile up as trust fades",
+          "description": "Open source maintainers now face unpatched flaws and fewer eyes on critical code. The backlog grows while attackers quietly wait.",
+          "visual_hint": "Lone developer at empty office",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "empty office",
+          "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask vendors: do you use AI reports?",
+          "description": "Ask your vendors if they use AI for security reports. If they can't answer, push for clear disclosure and verification steps today.",
+          "visual_hint": "Hand holding phone with question",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone hand",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863",
+      "savedAt": "2026-10-04T20:41:11.102Z",
+      "sourceId": "072378cdfd56a51b352e493c5017787f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "an-ai-couldn-t-beat-humans-at-starcraft-so-it-deci",
       "prompt_version": "1.0.0",
       "status": "published",

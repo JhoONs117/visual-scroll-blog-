@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-froze-its-open-source-bug-bounty-program-du",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+  "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+  "pubDate": "Sun, 04 Oct 2026 20:31:07 +0000",
+  "slides": [
+    "Google froze its bug bounty: why now?",
+    "AI submissions surged significantly, overwhelming human reviewers.",
+    "But many AI reports were false positives, wasting time.",
+    "Open source projects risk unpatched bugs as trust erodes.",
+    "Demand clear AI disclosure and verification steps today."
+  ],
+  "thread_text": [
+    "1. Bug Bounty Froze Overnight\n\nGoogle shut down its vulnerability rewards program without warning. Researchers woke up to a closed door and no clear timeline for reopening.",
+    "2. AI Flooded The Pipeline\n\nAutomated submissions exploded, forcing human reviewers to triage thousands of reports. The volume alone made the system unsustainable.",
+    "3. Most Reports Were Noise\n\nA large share of AI-generated bug reports were false positives, wasting reviewer hours. The signal-to-noise ratio collapsed.",
+    "4. Open Source Pays The Price\n\nWith trust eroding, maintainers face unpatched flaws and fewer eyes on critical code. The backlog grows while attackers wait.",
+    "5. Demand Disclosure Now\n\nAsk your vendors: do they use AI for security reports? If they can't answer, that's your answer. Push for verification steps today."
+  ],
+  "video_script": [
+    "Google just froze its bug bounty program overnight.",
+    "AI submissions overwhelmed human reviewers, causing massive backlogs.",
+    "Most AI reports were false positives, wasting time.",
+    "Open source projects now risk unpatched bugs as trust erodes.",
+    "Demand clear AI disclosure and verification steps today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Bug Bounty Froze Overnight\n\nGoogle shut down its vulnerability rewards program without warning. Researchers woke up to a closed door and no clear timeline for reopening.",
+        "2. AI Flooded The Pipeline\n\nAutomated submissions exploded, forcing human reviewers to triage thousands of reports. The volume alone made the system unsustainable.",
+        "3. Most Reports Were Noise\n\nA large share of AI-generated bug reports were false positives, wasting reviewer hours. The signal-to-noise ratio collapsed.",
+        "4. Open Source Pays The Price\n\nWith trust eroding, maintainers face unpatched flaws and fewer eyes on critical code. The backlog grows while attackers wait.",
+        "5. Demand Disclosure Now\n\nAsk your vendors: do they use AI for security reports? If they can't answer, that's your answer. Push for verification steps today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google just froze its bug bounty program overnight.",
+        "AI submissions overwhelmed human reviewers, causing massive backlogs.",
+        "Most AI reports were false positives, wasting time.",
+        "Open source projects now risk unpatched bugs as trust erodes.",
+        "Demand clear AI disclosure and verification steps today."
+      ]
+    },
+    "instagram": {
+      "caption": "Google just froze its bug bounty program for open source, and the reason is unsettling. 🔒\n\nAI-generated bug reports flooded in so fast that human reviewers couldn't keep up.\n\nMany of those reports were false positives — pure noise drowning out real vulnerabilities. ⚠️\n\nThat means critical bugs sit unpatched while maintainers lose trust in the system.\n\nIf you rely on open source tools daily, this directly affects the code running in your stack. 🛠️\n\nNext time you vet a vendor, ask one question: do you use AI to generate security reports, and how do you verify them? 🤖"
+    }
+  },
+  "instagram_caption": "Google just froze its bug bounty program for open source, and the reason is unsettling. 🔒\n\nAI-generated bug reports flooded in so fast that human reviewers couldn't keep up.\n\nMany of those reports were false positives — pure noise drowning out real vulnerabilities. ⚠️\n\nThat means critical bugs sit unpatched while maintainers lose trust in the system.\n\nIf you rely on open source tools daily, this directly affects the code running in your stack. 🛠️\n\nNext time you vet a vendor, ask one question: do you use AI to generate security reports, and how do you verify them? 🤖",
+  "carousel_slides": [
+    {
+      "hook": "AI noise killed Google's bug bounty",
+      "description": "Google froze its open source bug bounty after AI submissions surged, overwhelming human reviewers who couldn't keep up with the volume.",
+      "visual_hint": "Frozen padlock over server racks",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Thousands of reports, zero real bugs",
+      "description": "Automated AI submissions exploded, forcing reviewers to triage massive volumes. Most were false positives, collapsing the signal-to-noise ratio.",
+      "visual_hint": "Stack of paper reports on desk",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office paperwork",
+      "image": "https://images.pexels.com/photos/8296946/pexels-photo-8296946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "False positives wasted hours of review",
+      "description": "A large share of AI-generated reports were noise, draining reviewer time. Trust in the program eroded with every wasted triage.",
+      "visual_hint": "Magnifying glass over code screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer code",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Unpatched bugs pile up as trust fades",
+      "description": "Open source maintainers now face unpatched flaws and fewer eyes on critical code. The backlog grows while attackers quietly wait.",
+      "visual_hint": "Lone developer at empty office",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "empty office",
+      "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask vendors: do you use AI reports?",
+      "description": "Ask your vendors if they use AI for security reports. If they can't answer, push for clear disclosure and verification steps today.",
+      "visual_hint": "Hand holding phone with question",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone hand",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863",
+  "savedAt": "2026-10-04T20:41:11.102Z",
+  "sourceId": "072378cdfd56a51b352e493c5017787f"
+}
