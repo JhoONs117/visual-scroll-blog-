@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "ai-hallucinations-are-making-entitled-customers-ev",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI hallucinations are making entitled customers even worse",
+      "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+      "pubDate": "2026-10-02T12:00:00.000Z",
+      "slides": [
+        "When AI lies, who pays the price?",
+        "Chatbots now invent fake refund policies",
+        "Customers weaponize hallucinations against staff",
+        "Your team needs a script for AI-cited demands",
+        "Audit one AI answer your customers rely on"
+      ],
+      "thread_text": [
+        "1. The AI Refund Scam\n\nA customer demands a full refund citing a \"policy\" your chatbot invented. Your support team has no record of it. Now what?",
+        "2. Chatbots Write Fiction\n\nThey sound confident. But when asked about refunds, they generate fake policies that sound official. Your customers believe them.",
+        "3. Customers Fight Back\n\nSome are now using those fake policies as weapons. They screenshot the bot's lie and demand you honor it. Your staff is caught in the middle.",
+        "4. Script the Chaos\n\nYou need a clear response for when a customer quotes an AI hallucination. Train your team to verify, apologize, and correct.",
+        "5. Audit Your AI Today\n\nAsk your chatbot for a refund policy. If it makes one up, you have a problem. Fix it before a customer does."
+      ],
+      "video_script": [
+        "Your chatbot just invented a refund policy.",
+        "Customers are quoting it back to your staff.",
+        "Now they're demanding you honor it.",
+        "Do you have a script for that?",
+        "Audit one AI answer today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The AI Refund Scam\n\nA customer demands a full refund citing a \"policy\" your chatbot invented. Your support team has no record of it. Now what?",
+            "2. Chatbots Write Fiction\n\nThey sound confident. But when asked about refunds, they generate fake policies that sound official. Your customers believe them.",
+            "3. Customers Fight Back\n\nSome are now using those fake policies as weapons. They screenshot the bot's lie and demand you honor it. Your staff is caught in the middle.",
+            "4. Script the Chaos\n\nYou need a clear response for when a customer quotes an AI hallucination. Train your team to verify, apologize, and correct.",
+            "5. Audit Your AI Today\n\nAsk your chatbot for a refund policy. If it makes one up, you have a problem. Fix it before a customer does."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your chatbot just invented a refund policy.",
+            "Customers are quoting it back to your staff.",
+            "Now they're demanding you honor it.",
+            "Do you have a script for that?",
+            "Audit one AI answer today."
+          ]
+        },
+        "instagram": {
+          "caption": "A customer screenshots your chatbot's fake refund policy and demands you honor it.\n\nThe bot invented a policy that never existed. Sounds official, so they believe it. Now your support team is stuck in the middle.\n\nSome are weaponizing those hallucinations against staff, asking for money back on rules you never wrote.\n\nIf you publish or run a business, audit what your chatbot tells customers about refunds, pricing, policies. One made-up answer can cost you.\n\nHave you checked what your bot says when someone asks for a refund? 🔍"
+        }
+      },
+      "instagram_caption": "A customer screenshots your chatbot's fake refund policy and demands you honor it.\n\nThe bot invented a policy that never existed. Sounds official, so they believe it. Now your support team is stuck in the middle.\n\nSome are weaponizing those hallucinations against staff, asking for money back on rules you never wrote.\n\nIf you publish or run a business, audit what your chatbot tells customers about refunds, pricing, policies. One made-up answer can cost you.\n\nHave you checked what your bot says when someone asks for a refund? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Customers weaponize chatbot hallucinations against your staff",
+          "description": "Support teams face demands based on fake refund policies invented by AI chatbots, leaving staff caught in the middle.",
+          "visual_hint": "Angry customer pointing at phone screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "angry customer phone"
+        },
+        {
+          "hook": "Chatbots invent fake refund policies confidently",
+          "description": "AI chatbots generate official-sounding refund policies that don't exist, and customers believe them completely.",
+          "visual_hint": "Chatbot interface with fake policy text",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "chatbot screen interface",
+          "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Screenshots of bot lies become customer weapons",
+          "description": "Customers screenshot AI hallucinations and demand companies honor them, forcing staff to verify, apologize, and correct.",
+          "visual_hint": "Phone screenshot of chatbot conversation",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "smartphone screenshot conversation",
+          "image": "https://images.pexels.com/photos/39529032/pexels-photo-39529032.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your team needs a script for AI-cited demands",
+          "description": "Train support staff to handle customers quoting AI hallucinations with a clear response protocol: verify, apologize, correct.",
+          "visual_hint": "Support team training session",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office training meeting",
+          "image": "https://images.pexels.com/photos/7648468/pexels-photo-7648468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your AI before a customer does",
+          "description": "Ask your chatbot for a refund policy today. If it invents one, fix it immediately before customers exploit it.",
+          "visual_hint": "Person testing chatbot on laptop",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop chatbot testing",
+          "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_D.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-04T00:15:19.516Z",
+      "sourceId": "1f69f98b0809fe93cd9c4600d4899448"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "capcom-is-preparing-for-a-future-where-we-create-g",
       "prompt_version": "1.0.0",
       "status": "published",
