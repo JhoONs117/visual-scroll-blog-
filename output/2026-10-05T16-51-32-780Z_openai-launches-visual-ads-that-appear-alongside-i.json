@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-launches-visual-ads-that-appear-alongside-i",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI launches visual ads that appear alongside image generation results",
+  "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+  "pubDate": "Mon, 05 Oct 2026 15:14:24 +0000",
+  "slides": [
+    "OpenAI just turned every image into a billboard?",
+    "Visual ads now appear beside DALL-E generations",
+    "But the ads don't match what you actually asked for",
+    "This means your brand could appear next to anything",
+    "Check today if your competitors are already buying these placements"
+  ],
+  "thread_text": [
+    "1. Ads Next to DALL-E?\n\nOpenAI just placed visual ads right beside every DALL-E generation. Your AI images now come with a side of sponsored content.",
+    "2. Ads Ignore Your Prompt\n\nThe ads are not for the thing you asked for. You prompt for a cat poster, you might see an ad for dog food.",
+    "3. Brands Land Anywhere\n\nThat mismatch means your brand could appear next to completely unrelated or even offensive AI art. No control, no context.",
+    "4. Competitors May Buy In\n\nIf your competitors are already buying these placements, they are showing up in every generation your team makes.",
+    "5. Audit Your Brand Today\n\nRun five prompts on DALL-E right now. See if your logo or a rival's appears. If you haven't checked, do it today."
+  ],
+  "video_script": [
+    "OpenAI just put ads next to every DALL-E image.",
+    "The ads don't match what you asked for.",
+    "Your brand could show up next to anything.",
+    "Competitors might already be buying these spots.",
+    "Test five prompts today and see for yourself."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Ads Next to DALL-E?\n\nOpenAI just placed visual ads right beside every DALL-E generation. Your AI images now come with a side of sponsored content.",
+        "2. Ads Ignore Your Prompt\n\nThe ads are not for the thing you asked for. You prompt for a cat poster, you might see an ad for dog food.",
+        "3. Brands Land Anywhere\n\nThat mismatch means your brand could appear next to completely unrelated or even offensive AI art. No control, no context.",
+        "4. Competitors May Buy In\n\nIf your competitors are already buying these placements, they are showing up in every generation your team makes.",
+        "5. Audit Your Brand Today\n\nRun five prompts on DALL-E right now. See if your logo or a rival's appears. If you haven't checked, do it today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI just put ads next to every DALL-E image.",
+        "The ads don't match what you asked for.",
+        "Your brand could show up next to anything.",
+        "Competitors might already be buying these spots.",
+        "Test five prompts today and see for yourself."
+      ]
+    },
+    "instagram": {
+      "caption": "Your DALL-E image now loads with an ad next to it.\n\nOpenAI put visual ads beside every image the tool generates.\n\nThe ad doesn't match your prompt. Ask for a cat poster, get dog food. 🐱\n\nSo a brand can land next to unrelated or even offensive AI art, with no context.\n\nIf you make or publish content, your routine just changed: every generation now carries someone else's logo near yours, and competitors can buy that spot before you do.\n\nOpen five prompts in DALL-E right now — do you see a rival's name in the results? 👀"
+    }
+  },
+  "instagram_caption": "Your DALL-E image now loads with an ad next to it.\n\nOpenAI put visual ads beside every image the tool generates.\n\nThe ad doesn't match your prompt. Ask for a cat poster, get dog food. 🐱\n\nSo a brand can land next to unrelated or even offensive AI art, with no context.\n\nIf you make or publish content, your routine just changed: every generation now carries someone else's logo near yours, and competitors can buy that spot before you do.\n\nOpen five prompts in DALL-E right now — do you see a rival's name in the results? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Your AI images now include ads?",
+      "description": "OpenAI placed visual ads beside every DALL-E generation, turning your creative tool into a sponsored billboard you never asked for.",
+      "visual_hint": "OpenAI logo with ad banners overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "OpenAI logo"
+    },
+    {
+      "hook": "Ads ignore what you actually prompt",
+      "description": "The ads shown don't match your request. Prompt for a cat poster, get dog food ads instead, breaking contextual relevance entirely.",
+      "visual_hint": "Cat poster with dog food ad",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "cat poster",
+      "image": "https://images.pexels.com/photos/5327899/pexels-photo-5327899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your brand could appear anywhere",
+      "description": "No control over placement means your logo might sit beside unrelated or offensive AI art, damaging brand safety instantly.",
+      "visual_hint": "Brand logo next to abstract art",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "brand logo",
+      "image": "https://images.pexels.com/photos/21430413/pexels-photo-21430413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Competitors might already be buying in",
+      "description": "If rivals purchase these placements, they appear in every generation your team creates, stealing your visibility without you knowing.",
+      "visual_hint": "Competitor logos crowding DALL-E output",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "competitor logos",
+      "image": "https://images.pexels.com/photos/26748112/pexels-photo-26748112.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and audit your brand today",
+      "description": "Run five DALL-E prompts now. Check if your logo or a rival's appears. Visit the link in bio for a full audit checklist.",
+      "visual_hint": "Checklist with DALL-E prompts",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1200",
+  "savedAt": "2026-10-05T16:51:41.061Z",
+  "sourceId": "e36223c0def053e4cd4c04ba70f77bcc"
+}

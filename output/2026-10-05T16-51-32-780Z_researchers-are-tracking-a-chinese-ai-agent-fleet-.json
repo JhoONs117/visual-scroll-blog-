@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "researchers-are-tracking-a-chinese-ai-agent-fleet-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+  "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+  "pubDate": "Mon, 05 Oct 2026 14:35:09 +0000",
+  "slides": [
+    "A Chinese AI agent fleet is quietly reshaping cyberattacks.",
+    "Researchers now track coordinated AI agents, not lone hackers.",
+    "These agents can adapt and learn from each other in real time.",
+    "Your security team may need to counter autonomous threats.",
+    "Ask: are your defenses ready for a thinking adversary?"
+  ],
+  "thread_text": [
+    "1. The fleet is here\n\nChinese AI agents now coordinate attacks, adapting in real time. Your lone hacker profile is obsolete.",
+    "2. They learn together\n\nEach agent shares what works, so the whole swarm gets smarter mid-breach. No human can match that speed.",
+    "3. Your team is outnumbered\n\nSecurity analysts now face autonomous threats that never sleep and never repeat a mistake.",
+    "4. The new arms race\n\nDefenders must build AI that thinks faster than the attacker's AI. It's a battle of algorithms now.",
+    "5. Test your readiness\n\nRun a tabletop exercise with an AI adversary this week. If your team can't adapt, you're already behind."
+  ],
+  "video_script": [
+    "Chinese AI agents are quietly reshaping cyberattacks.",
+    "They coordinate and learn from each other in real time.",
+    "Security teams now face autonomous, thinking adversaries.",
+    "Your defenses must counter threats that adapt instantly.",
+    "Ask yourself: are your defenses ready for a thinking adversary?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The fleet is here\n\nChinese AI agents now coordinate attacks, adapting in real time. Your lone hacker profile is obsolete.",
+        "2. They learn together\n\nEach agent shares what works, so the whole swarm gets smarter mid-breach. No human can match that speed.",
+        "3. Your team is outnumbered\n\nSecurity analysts now face autonomous threats that never sleep and never repeat a mistake.",
+        "4. The new arms race\n\nDefenders must build AI that thinks faster than the attacker's AI. It's a battle of algorithms now.",
+        "5. Test your readiness\n\nRun a tabletop exercise with an AI adversary this week. If your team can't adapt, you're already behind."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Chinese AI agents are quietly reshaping cyberattacks.",
+        "They coordinate and learn from each other in real time.",
+        "Security teams now face autonomous, thinking adversaries.",
+        "Your defenses must counter threats that adapt instantly.",
+        "Ask yourself: are your defenses ready for a thinking adversary?"
+      ]
+    },
+    "instagram": {
+      "caption": "A Chinese AI agent fleet is coordinating cyberattacks, and each agent shares what works with the others mid-breach. 🛡️\n\nResearchers are no longer tracking lone hackers. They're tracking swarms of AI agents that adapt and learn from each other in real time. ⚡\n\nNo human attacker can match that speed, and these agents never sleep or repeat a mistake.\n\nIf your work depends on digital infrastructure, your security team may now be outnumbered by threats that think. 🤖\n\nRun a tabletop exercise with an AI adversary this week. If your team can't adapt faster than the attacker's AI, are you already behind? 🔍"
+    }
+  },
+  "instagram_caption": "A Chinese AI agent fleet is coordinating cyberattacks, and each agent shares what works with the others mid-breach. 🛡️\n\nResearchers are no longer tracking lone hackers. They're tracking swarms of AI agents that adapt and learn from each other in real time. ⚡\n\nNo human attacker can match that speed, and these agents never sleep or repeat a mistake.\n\nIf your work depends on digital infrastructure, your security team may now be outnumbered by threats that think. 🤖\n\nRun a tabletop exercise with an AI adversary this week. If your team can't adapt faster than the attacker's AI, are you already behind? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Can your team outthink a swarm?",
+      "description": "Chinese AI agents coordinate attacks, sharing breakthroughs mid-breach. The lone hacker is obsolete; now you face adaptive swarms.",
+      "visual_hint": "Glowing network of connected nodes",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Lone hackers are obsolete now",
+      "description": "Researchers track coordinated AI agent fleets, not individuals. Your threat model must shift from person to swarm.",
+      "visual_hint": "Multiple robot arms in sync",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI agents learn mid-breach",
+      "description": "Each agent shares what works, so the whole swarm gets smarter in real time. No human can match that speed.",
+      "visual_hint": "Abstract neural network with pulsating links",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "neural network",
+      "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your security team is outnumbered",
+      "description": "Analysts now face autonomous threats that never sleep and never repeat a mistake. Human speed alone cannot keep up.",
+      "visual_hint": "Exhausted analyst facing multiple screens",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: test your AI readiness",
+      "description": "Run a tabletop exercise with an AI adversary this week. If your team can't adapt, you're already behind.",
+      "visual_hint": "Team around table with AI simulation",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/18302592/pexels-photo-18302592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+  "savedAt": "2026-10-05T16:51:57.583Z",
+  "sourceId": "b70963ac4f5c2e753b896a7875247a79"
+}

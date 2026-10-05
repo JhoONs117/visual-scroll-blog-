@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-is-sticking-more-ads-in-chatgpt",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI is sticking more ads in ChatGPT",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+      "pubDate": "2026-10-05T13:09:48.000Z",
+      "slides": [
+        "OpenAI is stuffing more ads into ChatGPT",
+        "Free users now see sponsored recommendations in answers",
+        "But paying subscribers get an ad-free experience",
+        "If you're on free tier, expect more commercial nudges",
+        "Check your plan — ads may already be there"
+      ],
+      "thread_text": [
+        "1. ChatGPT Ads Sneak In\n\nFree users now see sponsored recommendations inside answers. The moment you ask a question, a brand can appear.",
+        "2. Paid Users Stay Clean\n\nSubscribers don't see these ads. So the ad-free experience is now a paid feature, not a default.",
+        "3. Free Tier Gets Pushier\n\nIf you're not paying, expect more commercial nudges. OpenAI is testing how much promotion you'll tolerate.",
+        "4. Ads May Already Be There\n\nThe rollout is gradual, so your account might already show them. Check your next few responses carefully.",
+        "5. Check Your Plan Today\n\nOpen ChatGPT and ask a product-related question. If you see a sponsored suggestion, you're in the test group."
+      ],
+      "video_script": [
+        "OpenAI is putting ads inside ChatGPT answers.",
+        "Free users now see sponsored recommendations when they ask questions.",
+        "Paying subscribers get an ad-free experience.",
+        "If you're on the free tier, expect more commercial nudges.",
+        "Check your plan — ads may already be there."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. ChatGPT Ads Sneak In\n\nFree users now see sponsored recommendations inside answers. The moment you ask a question, a brand can appear.",
+            "2. Paid Users Stay Clean\n\nSubscribers don't see these ads. So the ad-free experience is now a paid feature, not a default.",
+            "3. Free Tier Gets Pushier\n\nIf you're not paying, expect more commercial nudges. OpenAI is testing how much promotion you'll tolerate.",
+            "4. Ads May Already Be There\n\nThe rollout is gradual, so your account might already show them. Check your next few responses carefully.",
+            "5. Check Your Plan Today\n\nOpen ChatGPT and ask a product-related question. If you see a sponsored suggestion, you're in the test group."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI is putting ads inside ChatGPT answers.",
+            "Free users now see sponsored recommendations when they ask questions.",
+            "Paying subscribers get an ad-free experience.",
+            "If you're on the free tier, expect more commercial nudges.",
+            "Check your plan — ads may already be there."
+          ]
+        },
+        "instagram": {
+          "caption": "Free users asking ChatGPT something are now being served sponsored recommendations right inside the answers. 😳\n\nOpenAI is stuffing more ads into the free tier. Paying subscribers stay clean — no ads there.\n\nSo ad-free answers are now a paid feature, not the default. 💸\n\nIf you publish content or run a brand, that sponsored slot just became prime real estate inside someone's question.\n\nOpen ChatGPT and ask a product question. If you see a sponsored suggestion, you're in the test group. 👀\n\nChecked your last few answers yet? 🔍"
+        }
+      },
+      "instagram_caption": "Free users asking ChatGPT something are now being served sponsored recommendations right inside the answers. 😳\n\nOpenAI is stuffing more ads into the free tier. Paying subscribers stay clean — no ads there.\n\nSo ad-free answers are now a paid feature, not the default. 💸\n\nIf you publish content or run a brand, that sponsored slot just became prime real estate inside someone's question.\n\nOpen ChatGPT and ask a product question. If you see a sponsored suggestion, you're in the test group. 👀\n\nChecked your last few answers yet? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Is ChatGPT free still truly free?",
+          "description": "OpenAI now tests sponsored recommendations for free users, making ad-free answers a paid privilege instead of the default.",
+          "visual_hint": "ChatGPT interface with ad banner overlay",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "ChatGPT interface"
+        },
+        {
+          "hook": "Sponsored answers appear in your chat",
+          "description": "Free users see brand recommendations inside responses. Each question can trigger a paid promotion without clear labeling.",
+          "visual_hint": "Smartphone showing sponsored suggestion popup",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartphone screen",
+          "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Paying subscribers avoid the ads",
+          "description": "Only paying subscribers get an ad-free experience. The clean interface is now a paid feature, not a default.",
+          "visual_hint": "Split screen free versus paid interface",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "subscription payment screen",
+          "image": "https://images.pexels.com/photos/7821752/pexels-photo-7821752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Free tier faces more commercial nudges",
+          "description": "If you are not paying, expect more promotional prompts. OpenAI tests how much advertising free users will tolerate.",
+          "visual_hint": "Hand scrolling through push notifications",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "push notification phone",
+          "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your plan before ads check you",
+          "description": "Open ChatGPT and ask a product question. If a sponsored suggestion appears, you are already in the test group.",
+          "visual_hint": "User tapping ChatGPT settings menu",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "settings menu screen",
+          "image": "https://images.pexels.com/photos/25312303/pexels-photo-25312303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/chatgpt-visual-ads.webp?quality=90&amp;strip=all&amp;crop=2.25,0,95.5,100",
+      "savedAt": "2026-10-05T16:52:05.771Z",
+      "sourceId": "d4ec394db9bf0a4036df4f028c27243e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "researchers-are-tracking-a-chinese-ai-agent-fleet-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+      "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "pubDate": "Mon, 05 Oct 2026 14:35:09 +0000",
+      "slides": [
+        "A Chinese AI agent fleet is quietly reshaping cyberattacks.",
+        "Researchers now track coordinated AI agents, not lone hackers.",
+        "These agents can adapt and learn from each other in real time.",
+        "Your security team may need to counter autonomous threats.",
+        "Ask: are your defenses ready for a thinking adversary?"
+      ],
+      "thread_text": [
+        "1. The fleet is here\n\nChinese AI agents now coordinate attacks, adapting in real time. Your lone hacker profile is obsolete.",
+        "2. They learn together\n\nEach agent shares what works, so the whole swarm gets smarter mid-breach. No human can match that speed.",
+        "3. Your team is outnumbered\n\nSecurity analysts now face autonomous threats that never sleep and never repeat a mistake.",
+        "4. The new arms race\n\nDefenders must build AI that thinks faster than the attacker's AI. It's a battle of algorithms now.",
+        "5. Test your readiness\n\nRun a tabletop exercise with an AI adversary this week. If your team can't adapt, you're already behind."
+      ],
+      "video_script": [
+        "Chinese AI agents are quietly reshaping cyberattacks.",
+        "They coordinate and learn from each other in real time.",
+        "Security teams now face autonomous, thinking adversaries.",
+        "Your defenses must counter threats that adapt instantly.",
+        "Ask yourself: are your defenses ready for a thinking adversary?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The fleet is here\n\nChinese AI agents now coordinate attacks, adapting in real time. Your lone hacker profile is obsolete.",
+            "2. They learn together\n\nEach agent shares what works, so the whole swarm gets smarter mid-breach. No human can match that speed.",
+            "3. Your team is outnumbered\n\nSecurity analysts now face autonomous threats that never sleep and never repeat a mistake.",
+            "4. The new arms race\n\nDefenders must build AI that thinks faster than the attacker's AI. It's a battle of algorithms now.",
+            "5. Test your readiness\n\nRun a tabletop exercise with an AI adversary this week. If your team can't adapt, you're already behind."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Chinese AI agents are quietly reshaping cyberattacks.",
+            "They coordinate and learn from each other in real time.",
+            "Security teams now face autonomous, thinking adversaries.",
+            "Your defenses must counter threats that adapt instantly.",
+            "Ask yourself: are your defenses ready for a thinking adversary?"
+          ]
+        },
+        "instagram": {
+          "caption": "A Chinese AI agent fleet is coordinating cyberattacks, and each agent shares what works with the others mid-breach. 🛡️\n\nResearchers are no longer tracking lone hackers. They're tracking swarms of AI agents that adapt and learn from each other in real time. ⚡\n\nNo human attacker can match that speed, and these agents never sleep or repeat a mistake.\n\nIf your work depends on digital infrastructure, your security team may now be outnumbered by threats that think. 🤖\n\nRun a tabletop exercise with an AI adversary this week. If your team can't adapt faster than the attacker's AI, are you already behind? 🔍"
+        }
+      },
+      "instagram_caption": "A Chinese AI agent fleet is coordinating cyberattacks, and each agent shares what works with the others mid-breach. 🛡️\n\nResearchers are no longer tracking lone hackers. They're tracking swarms of AI agents that adapt and learn from each other in real time. ⚡\n\nNo human attacker can match that speed, and these agents never sleep or repeat a mistake.\n\nIf your work depends on digital infrastructure, your security team may now be outnumbered by threats that think. 🤖\n\nRun a tabletop exercise with an AI adversary this week. If your team can't adapt faster than the attacker's AI, are you already behind? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Can your team outthink a swarm?",
+          "description": "Chinese AI agents coordinate attacks, sharing breakthroughs mid-breach. The lone hacker is obsolete; now you face adaptive swarms.",
+          "visual_hint": "Glowing network of connected nodes",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Lone hackers are obsolete now",
+          "description": "Researchers track coordinated AI agent fleets, not individuals. Your threat model must shift from person to swarm.",
+          "visual_hint": "Multiple robot arms in sync",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI agents learn mid-breach",
+          "description": "Each agent shares what works, so the whole swarm gets smarter in real time. No human can match that speed.",
+          "visual_hint": "Abstract neural network with pulsating links",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "neural network",
+          "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your security team is outnumbered",
+          "description": "Analysts now face autonomous threats that never sleep and never repeat a mistake. Human speed alone cannot keep up.",
+          "visual_hint": "Exhausted analyst facing multiple screens",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: test your AI readiness",
+          "description": "Run a tabletop exercise with an AI adversary this week. If your team can't adapt, you're already behind.",
+          "visual_hint": "Team around table with AI simulation",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "people walking street",
+          "image": "https://images.pexels.com/photos/18302592/pexels-photo-18302592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+      "savedAt": "2026-10-05T16:51:57.583Z",
+      "sourceId": "b70963ac4f5c2e753b896a7875247a79"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "lola-vision-systems-is-trying-to-make-it-easier-to",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
+      "link": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
+      "pubDate": "Mon, 05 Oct 2026 15:00:00 +0000",
+      "slides": [
+        "Can Lola Vision Systems fix edge AI's chip problem?",
+        "Its software simplifies running models on diverse chips",
+        "But the surprise: it targets chips already in devices",
+        "You may soon deploy AI without new hardware",
+        "Test one model on your existing gear today"
+      ],
+      "thread_text": [
+        "1. The Hidden Chip Trap\n\nLola Vision Systems just launched software that runs AI models on the chips already inside your devices, no new hardware required.",
+        "2. The Edge AI Reality\n\nMost edge devices are stuck with a random mix of processors. Writing code for each one is a nightmare that slows everything down.",
+        "3. One Model, Any Chip\n\nTheir tool lets you deploy a single model across completely different architectures, bypassing the usual compatibility hell.",
+        "4. No New Hardware Needed\n\nInstead of buying specialized AI chips, you just use what's already there. That changes the entire cost equation for deployment.",
+        "5. Test It On Your Gear\n\nGrab a model you already use and try running it on your current laptop or phone. If it works, you just saved a hardware upgrade."
+      ],
+      "video_script": [
+        "Lola Vision Systems says you don't need new chips.",
+        "Their software runs AI on the hardware you already own.",
+        "It handles all the different processors inside your devices.",
+        "That means no expensive upgrades just to deploy AI.",
+        "Try running one model on your current gear today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Hidden Chip Trap\n\nLola Vision Systems just launched software that runs AI models on the chips already inside your devices, no new hardware required.",
+            "2. The Edge AI Reality\n\nMost edge devices are stuck with a random mix of processors. Writing code for each one is a nightmare that slows everything down.",
+            "3. One Model, Any Chip\n\nTheir tool lets you deploy a single model across completely different architectures, bypassing the usual compatibility hell.",
+            "4. No New Hardware Needed\n\nInstead of buying specialized AI chips, you just use what's already there. That changes the entire cost equation for deployment.",
+            "5. Test It On Your Gear\n\nGrab a model you already use and try running it on your current laptop or phone. If it works, you just saved a hardware upgrade."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Lola Vision Systems says you don't need new chips.",
+            "Their software runs AI on the hardware you already own.",
+            "It handles all the different processors inside your devices.",
+            "That means no expensive upgrades just to deploy AI.",
+            "Try running one model on your current gear today."
+          ]
+        },
+        "instagram": {
+          "caption": "Your next AI project might not need new chips at all. 💻\n\nLola Vision Systems built software that runs AI models on the processors already inside your devices.\n\nMost edge gadgets carry a messy mix of chips, and coding for each one slows everything down.\n\nTheir tool deploys a single model across different architectures, skipping the compatibility nightmare.\n\nThat means no rush to buy specialized AI hardware just to ship something.\n\nSo what's the real cost of skipping that upgrade for your next build? ⚙️\n\nTry it: run a model you already use on your current laptop 👇"
+        }
+      },
+      "instagram_caption": "Your next AI project might not need new chips at all. 💻\n\nLola Vision Systems built software that runs AI models on the processors already inside your devices.\n\nMost edge gadgets carry a messy mix of chips, and coding for each one slows everything down.\n\nTheir tool deploys a single model across different architectures, skipping the compatibility nightmare.\n\nThat means no rush to buy specialized AI hardware just to ship something.\n\nSo what's the real cost of skipping that upgrade for your next build? ⚙️\n\nTry it: run a model you already use on your current laptop 👇",
+      "carousel_slides": [
+        {
+          "hook": "Stop buying AI chips you don't need",
+          "description": "Lola Vision Systems launched software that runs AI models on chips already inside your devices, no new hardware required.",
+          "visual_hint": "Circuit board with glowing pathways",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "circuit board"
+        },
+        {
+          "hook": "One model, any chip architecture",
+          "description": "Their tool deploys a single model across completely different architectures, bypassing the usual compatibility hell that slows everything down.",
+          "visual_hint": "Software interface with diverse chip icons",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer chip",
+          "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The hidden chip trap",
+          "description": "Most edge devices are stuck with a random mix of processors, and writing code for each one is a nightmare that slows everything down.",
+          "visual_hint": "Close-up of mixed processors on motherboard",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "motherboard components",
+          "image": "https://images.pexels.com/photos/4432037/pexels-photo-4432037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No new hardware needed",
+          "description": "Instead of buying specialized AI chips, you just use what's already there, changing the entire cost equation for deployment.",
+          "visual_hint": "Hand holding a laptop with AI model",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "laptop hand",
+          "image": "https://images.pexels.com/photos/5231337/pexels-photo-5231337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your next upgrade",
+          "description": "Grab a model you already use and try running it on your current laptop or phone today.",
+          "visual_hint": "Phone and laptop running AI model",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "phone laptop",
+          "image": "https://images.pexels.com/photos/5054347/pexels-photo-5054347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2248111953.jpg?resize=1200,600",
+      "savedAt": "2026-10-05T16:51:49.398Z",
+      "sourceId": "49cf74c5cfc8052f90301d9ed2832655"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-launches-visual-ads-that-appear-alongside-i",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "pubDate": "Mon, 05 Oct 2026 15:14:24 +0000",
+      "slides": [
+        "OpenAI just turned every image into a billboard?",
+        "Visual ads now appear beside DALL-E generations",
+        "But the ads don't match what you actually asked for",
+        "This means your brand could appear next to anything",
+        "Check today if your competitors are already buying these placements"
+      ],
+      "thread_text": [
+        "1. Ads Next to DALL-E?\n\nOpenAI just placed visual ads right beside every DALL-E generation. Your AI images now come with a side of sponsored content.",
+        "2. Ads Ignore Your Prompt\n\nThe ads are not for the thing you asked for. You prompt for a cat poster, you might see an ad for dog food.",
+        "3. Brands Land Anywhere\n\nThat mismatch means your brand could appear next to completely unrelated or even offensive AI art. No control, no context.",
+        "4. Competitors May Buy In\n\nIf your competitors are already buying these placements, they are showing up in every generation your team makes.",
+        "5. Audit Your Brand Today\n\nRun five prompts on DALL-E right now. See if your logo or a rival's appears. If you haven't checked, do it today."
+      ],
+      "video_script": [
+        "OpenAI just put ads next to every DALL-E image.",
+        "The ads don't match what you asked for.",
+        "Your brand could show up next to anything.",
+        "Competitors might already be buying these spots.",
+        "Test five prompts today and see for yourself."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Ads Next to DALL-E?\n\nOpenAI just placed visual ads right beside every DALL-E generation. Your AI images now come with a side of sponsored content.",
+            "2. Ads Ignore Your Prompt\n\nThe ads are not for the thing you asked for. You prompt for a cat poster, you might see an ad for dog food.",
+            "3. Brands Land Anywhere\n\nThat mismatch means your brand could appear next to completely unrelated or even offensive AI art. No control, no context.",
+            "4. Competitors May Buy In\n\nIf your competitors are already buying these placements, they are showing up in every generation your team makes.",
+            "5. Audit Your Brand Today\n\nRun five prompts on DALL-E right now. See if your logo or a rival's appears. If you haven't checked, do it today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI just put ads next to every DALL-E image.",
+            "The ads don't match what you asked for.",
+            "Your brand could show up next to anything.",
+            "Competitors might already be buying these spots.",
+            "Test five prompts today and see for yourself."
+          ]
+        },
+        "instagram": {
+          "caption": "Your DALL-E image now loads with an ad next to it.\n\nOpenAI put visual ads beside every image the tool generates.\n\nThe ad doesn't match your prompt. Ask for a cat poster, get dog food. 🐱\n\nSo a brand can land next to unrelated or even offensive AI art, with no context.\n\nIf you make or publish content, your routine just changed: every generation now carries someone else's logo near yours, and competitors can buy that spot before you do.\n\nOpen five prompts in DALL-E right now — do you see a rival's name in the results? 👀"
+        }
+      },
+      "instagram_caption": "Your DALL-E image now loads with an ad next to it.\n\nOpenAI put visual ads beside every image the tool generates.\n\nThe ad doesn't match your prompt. Ask for a cat poster, get dog food. 🐱\n\nSo a brand can land next to unrelated or even offensive AI art, with no context.\n\nIf you make or publish content, your routine just changed: every generation now carries someone else's logo near yours, and competitors can buy that spot before you do.\n\nOpen five prompts in DALL-E right now — do you see a rival's name in the results? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Your AI images now include ads?",
+          "description": "OpenAI placed visual ads beside every DALL-E generation, turning your creative tool into a sponsored billboard you never asked for.",
+          "visual_hint": "OpenAI logo with ad banners overlay",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "OpenAI logo"
+        },
+        {
+          "hook": "Ads ignore what you actually prompt",
+          "description": "The ads shown don't match your request. Prompt for a cat poster, get dog food ads instead, breaking contextual relevance entirely.",
+          "visual_hint": "Cat poster with dog food ad",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "cat poster",
+          "image": "https://images.pexels.com/photos/5327899/pexels-photo-5327899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your brand could appear anywhere",
+          "description": "No control over placement means your logo might sit beside unrelated or offensive AI art, damaging brand safety instantly.",
+          "visual_hint": "Brand logo next to abstract art",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "brand logo",
+          "image": "https://images.pexels.com/photos/21430413/pexels-photo-21430413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Competitors might already be buying in",
+          "description": "If rivals purchase these placements, they appear in every generation your team creates, stealing your visibility without you knowing.",
+          "visual_hint": "Competitor logos crowding DALL-E output",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "competitor logos",
+          "image": "https://images.pexels.com/photos/26748112/pexels-photo-26748112.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this and audit your brand today",
+          "description": "Run five DALL-E prompts now. Check if your logo or a rival's appears. Visit the link in bio for a full audit checklist.",
+          "visual_hint": "Checklist with DALL-E prompts",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1200",
+      "savedAt": "2026-10-05T16:51:41.061Z",
+      "sourceId": "e36223c0def053e4cd4c04ba70f77bcc"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "nj-s-former-lt-gov-is-using-ai-to-say-he-s-innocen",
       "prompt_version": "1.0.0",
       "status": "published",

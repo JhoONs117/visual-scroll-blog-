@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "lola-vision-systems-is-trying-to-make-it-easier-to",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
+  "link": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
+  "pubDate": "Mon, 05 Oct 2026 15:00:00 +0000",
+  "slides": [
+    "Can Lola Vision Systems fix edge AI's chip problem?",
+    "Its software simplifies running models on diverse chips",
+    "But the surprise: it targets chips already in devices",
+    "You may soon deploy AI without new hardware",
+    "Test one model on your existing gear today"
+  ],
+  "thread_text": [
+    "1. The Hidden Chip Trap\n\nLola Vision Systems just launched software that runs AI models on the chips already inside your devices, no new hardware required.",
+    "2. The Edge AI Reality\n\nMost edge devices are stuck with a random mix of processors. Writing code for each one is a nightmare that slows everything down.",
+    "3. One Model, Any Chip\n\nTheir tool lets you deploy a single model across completely different architectures, bypassing the usual compatibility hell.",
+    "4. No New Hardware Needed\n\nInstead of buying specialized AI chips, you just use what's already there. That changes the entire cost equation for deployment.",
+    "5. Test It On Your Gear\n\nGrab a model you already use and try running it on your current laptop or phone. If it works, you just saved a hardware upgrade."
+  ],
+  "video_script": [
+    "Lola Vision Systems says you don't need new chips.",
+    "Their software runs AI on the hardware you already own.",
+    "It handles all the different processors inside your devices.",
+    "That means no expensive upgrades just to deploy AI.",
+    "Try running one model on your current gear today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Hidden Chip Trap\n\nLola Vision Systems just launched software that runs AI models on the chips already inside your devices, no new hardware required.",
+        "2. The Edge AI Reality\n\nMost edge devices are stuck with a random mix of processors. Writing code for each one is a nightmare that slows everything down.",
+        "3. One Model, Any Chip\n\nTheir tool lets you deploy a single model across completely different architectures, bypassing the usual compatibility hell.",
+        "4. No New Hardware Needed\n\nInstead of buying specialized AI chips, you just use what's already there. That changes the entire cost equation for deployment.",
+        "5. Test It On Your Gear\n\nGrab a model you already use and try running it on your current laptop or phone. If it works, you just saved a hardware upgrade."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Lola Vision Systems says you don't need new chips.",
+        "Their software runs AI on the hardware you already own.",
+        "It handles all the different processors inside your devices.",
+        "That means no expensive upgrades just to deploy AI.",
+        "Try running one model on your current gear today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next AI project might not need new chips at all. 💻\n\nLola Vision Systems built software that runs AI models on the processors already inside your devices.\n\nMost edge gadgets carry a messy mix of chips, and coding for each one slows everything down.\n\nTheir tool deploys a single model across different architectures, skipping the compatibility nightmare.\n\nThat means no rush to buy specialized AI hardware just to ship something.\n\nSo what's the real cost of skipping that upgrade for your next build? ⚙️\n\nTry it: run a model you already use on your current laptop 👇"
+    }
+  },
+  "instagram_caption": "Your next AI project might not need new chips at all. 💻\n\nLola Vision Systems built software that runs AI models on the processors already inside your devices.\n\nMost edge gadgets carry a messy mix of chips, and coding for each one slows everything down.\n\nTheir tool deploys a single model across different architectures, skipping the compatibility nightmare.\n\nThat means no rush to buy specialized AI hardware just to ship something.\n\nSo what's the real cost of skipping that upgrade for your next build? ⚙️\n\nTry it: run a model you already use on your current laptop 👇",
+  "carousel_slides": [
+    {
+      "hook": "Stop buying AI chips you don't need",
+      "description": "Lola Vision Systems launched software that runs AI models on chips already inside your devices, no new hardware required.",
+      "visual_hint": "Circuit board with glowing pathways",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "circuit board"
+    },
+    {
+      "hook": "One model, any chip architecture",
+      "description": "Their tool deploys a single model across completely different architectures, bypassing the usual compatibility hell that slows everything down.",
+      "visual_hint": "Software interface with diverse chip icons",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer chip",
+      "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The hidden chip trap",
+      "description": "Most edge devices are stuck with a random mix of processors, and writing code for each one is a nightmare that slows everything down.",
+      "visual_hint": "Close-up of mixed processors on motherboard",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "motherboard components",
+      "image": "https://images.pexels.com/photos/4432037/pexels-photo-4432037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No new hardware needed",
+      "description": "Instead of buying specialized AI chips, you just use what's already there, changing the entire cost equation for deployment.",
+      "visual_hint": "Hand holding a laptop with AI model",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "laptop hand",
+      "image": "https://images.pexels.com/photos/5231337/pexels-photo-5231337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next upgrade",
+      "description": "Grab a model you already use and try running it on your current laptop or phone today.",
+      "visual_hint": "Phone and laptop running AI model",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "phone laptop",
+      "image": "https://images.pexels.com/photos/5054347/pexels-photo-5054347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2248111953.jpg?resize=1200,600",
+  "savedAt": "2026-10-05T16:51:49.398Z",
+  "sourceId": "49cf74c5cfc8052f90301d9ed2832655"
+}
