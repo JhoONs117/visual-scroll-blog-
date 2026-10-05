@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "nj-s-former-lt-gov-is-using-ai-to-say-he-s-innocen",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+    "pubDate": "2026-10-04T16:16:04.000Z",
+    "slides": [
+      "Can AI clear Sheila Oliver's name?",
+      "She's using it to fight harassment claims",
+      "But AI isn't neutral—it echoes its training",
+      "Your reputation could hinge on machine judgment",
+      "Ask: who audits the AI that judges you?"
+    ],
+    "thread_text": [
+      "1. AI on Trial\n\nA New Jersey official wants AI to clear her name against harassment claims. The machine that judges her is the same one trained on our worst biases.",
+      "2. The Tool She Uses\n\nShe's using AI to analyze the accusations. But the model can't know her context—only patterns from data it was fed.",
+      "3. Bias Doesn't Disappear\n\nAI isn't neutral. It echoes its training. If the data is sexist, the judgment will be too—just with a math label.",
+      "4. Your Turn Next\n\nReputation, job, freedom—all could hinge on machine judgment. And you won't get to cross-examine the algorithm.",
+      "5. Who Audits the AI?\n\nTake a prompt on ChatGPT: ask it to judge a harassment case. If you haven't tested the bias yourself, start there."
+    ],
+    "video_script": [
+      "Can AI clear Sheila Oliver's name?",
+      "She's using it to fight harassment claims.",
+      "But AI isn't neutral—it echoes its training.",
+      "Your reputation could hinge on machine judgment.",
+      "Ask: who audits the AI that judges you?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI on Trial\n\nA New Jersey official wants AI to clear her name against harassment claims. The machine that judges her is the same one trained on our worst biases.",
+          "2. The Tool She Uses\n\nShe's using AI to analyze the accusations. But the model can't know her context—only patterns from data it was fed.",
+          "3. Bias Doesn't Disappear\n\nAI isn't neutral. It echoes its training. If the data is sexist, the judgment will be too—just with a math label.",
+          "4. Your Turn Next\n\nReputation, job, freedom—all could hinge on machine judgment. And you won't get to cross-examine the algorithm.",
+          "5. Who Audits the AI?\n\nTake a prompt on ChatGPT: ask it to judge a harassment case. If you haven't tested the bias yourself, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can AI clear Sheila Oliver's name?",
+          "She's using it to fight harassment claims.",
+          "But AI isn't neutral—it echoes its training.",
+          "Your reputation could hinge on machine judgment.",
+          "Ask: who audits the AI that judges you?"
+        ]
+      },
+      "instagram": {
+        "caption": "A former New Jersey lieutenant governor is using AI to argue she's innocent of sexual harassment claims.\n\nShe's feeding the accusations into a model to back her defense.\n\nBut AI isn't neutral—it echoes whatever patterns it was trained on, including sexist ones. ⚖️\n\nSo the same machine judging her reputation is built from data full of our worst biases.\n\nIf you publish or create content, your credibility could soon rest on an algorithm you can't question.\n\nNext time you ask ChatGPT to judge a harassment case, remember: who actually audits the AI deciding your fate? 🤖"
+      }
+    },
+    "instagram_caption": "A former New Jersey lieutenant governor is using AI to argue she's innocent of sexual harassment claims.\n\nShe's feeding the accusations into a model to back her defense.\n\nBut AI isn't neutral—it echoes whatever patterns it was trained on, including sexist ones. ⚖️\n\nSo the same machine judging her reputation is built from data full of our worst biases.\n\nIf you publish or create content, your credibility could soon rest on an algorithm you can't question.\n\nNext time you ask ChatGPT to judge a harassment case, remember: who actually audits the AI deciding your fate? 🤖",
+    "carousel_slides": [
+      {
+        "hook": "Can AI really judge harassment?",
+        "description": "A New Jersey official wants AI to clear her name, but the machine is trained on our worst biases.",
+        "visual_hint": "Gavel striking with digital code overlay",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "courthouse gavel"
+      },
+      {
+        "hook": "She's using AI to fight claims",
+        "description": "She feeds accusations into a model that can't know her context, only patterns from biased data.",
+        "visual_hint": "Female hand typing on keyboard",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "office desk computer",
+        "image": "https://images.pexels.com/photos/22711217/pexels-photo-22711217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI isn't neutral—it echoes training",
+        "description": "If the data is sexist, the judgment will be too, just with a math label attached.",
+        "visual_hint": "Server room blinking with red light",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your reputation could hinge on machine judgment",
+        "description": "Your job and freedom may depend on an algorithm you'll never get to cross-examine.",
+        "visual_hint": "Person looking at glowing screen worried",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person silhouette screen",
+        "image": "https://images.pexels.com/photos/9439262/pexels-photo-9439262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who audits the AI that judges you?",
+        "description": "Test it yourself: ask ChatGPT to judge a harassment case and see the bias firsthand.",
+        "visual_hint": "Laptop with ChatGPT prompt interface",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop code screen",
+        "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2244569411.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.752607989199%2C100%2C78.494784021602&amp;w=1200",
+    "savedAt": "2026-10-05T00:20:00.548Z",
+    "sourceId": "fa9cb1f77255d4110fcb152922f819ab"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "can-super-intelligence-and-a-non-binding-safety-pa",
     "prompt_version": "1.0.0",
     "status": "published",
