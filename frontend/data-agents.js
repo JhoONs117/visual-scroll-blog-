@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "all-the-drama-around-ai-8217-s-takeover-of-mathema",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "All the drama around AI&#8217;s takeover of mathematics",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "pubDate": "2026-10-05T19:28:59.000Z",
+      "slides": [
+        "Will AI conquer mathematics next?",
+        "No theorem proven end to end by AI yet",
+        "But one model solved an open problem",
+        "Researchers now use AI to spot patterns",
+        "Check one proof yourself this week"
+      ],
+      "thread_text": [
+        "1. AI Conquering Math?\n\nNot yet. No theorem has been proven end-to-end by an AI, but one model solved an open problem that had stumped humans for decades.",
+        "2. The Open Problem\n\nThat model didn't just find a solution. It discovered a pattern no one had seen, which could unlock new mathematical realms.",
+        "3. Pattern Hunters\n\nResearchers now use AI to spot hidden structures in math. It's not about proving theorems; it's about finding clues.",
+        "4. Human-AI Symbiosis\n\nThe future isn't AI replacing mathematicians. It's AI as a tool to amplify human intuition and creativity.",
+        "5. Test a Proof Yourself\n\nTake a known theorem and try to break it with a language model. If you haven't, start with something simple."
+      ],
+      "video_script": [
+        "Will AI conquer mathematics? Not yet, but it's getting closer.",
+        "No theorem proven end to end by AI, but one model cracked an open problem.",
+        "Now researchers use AI to spot patterns humans miss.",
+        "It's not about replacing mathematicians; it's about amplifying them.",
+        "This week, test a proof yourself with an AI. Try it on a simple theorem."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI Conquering Math?\n\nNot yet. No theorem has been proven end-to-end by an AI, but one model solved an open problem that had stumped humans for decades.",
+            "2. The Open Problem\n\nThat model didn't just find a solution. It discovered a pattern no one had seen, which could unlock new mathematical realms.",
+            "3. Pattern Hunters\n\nResearchers now use AI to spot hidden structures in math. It's not about proving theorems; it's about finding clues.",
+            "4. Human-AI Symbiosis\n\nThe future isn't AI replacing mathematicians. It's AI as a tool to amplify human intuition and creativity.",
+            "5. Test a Proof Yourself\n\nTake a known theorem and try to break it with a language model. If you haven't, start with something simple."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Will AI conquer mathematics? Not yet, but it's getting closer.",
+            "No theorem proven end to end by AI, but one model cracked an open problem.",
+            "Now researchers use AI to spot patterns humans miss.",
+            "It's not about replacing mathematicians; it's about amplifying them.",
+            "This week, test a proof yourself with an AI. Try it on a simple theorem."
+          ]
+        },
+        "instagram": {
+          "caption": "No AI has proven a theorem end to end yet, but one model cracked an open problem that stumped mathematicians for decades. 🤖\n\nThat model didn't just answer it. It found a pattern nobody had seen, which could open new mathematical territory.\n\nResearchers now use AI not to prove theorems, but to spot hidden structures and clues. 🔍\n\nIf you write or publish, this changes your toolbox: you can test your own proofs with a language model, not just trust textbooks.\n\nGrab a known theorem this week and try to break it with an AI. Did it hold or crack?"
+        }
+      },
+      "instagram_caption": "No AI has proven a theorem end to end yet, but one model cracked an open problem that stumped mathematicians for decades. 🤖\n\nThat model didn't just answer it. It found a pattern nobody had seen, which could open new mathematical territory.\n\nResearchers now use AI not to prove theorems, but to spot hidden structures and clues. 🔍\n\nIf you write or publish, this changes your toolbox: you can test your own proofs with a language model, not just trust textbooks.\n\nGrab a known theorem this week and try to break it with an AI. Did it hold or crack?",
+      "carousel_slides": [
+        {
+          "hook": "AI just cracked an open math problem",
+          "description": "One model solved a problem that stumped humans for decades, discovering a pattern no one had seen before.",
+          "visual_hint": "AI model finding hidden pattern",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "server room"
+        },
+        {
+          "hook": "No theorem fully proven by AI yet",
+          "description": "Despite the breakthrough, no mathematical theorem has been proven end-to-end by an AI system so far.",
+          "visual_hint": "Unfinished proof on chalkboard",
+          "layout_type": "right-focus",
+          "icon": "check",
+          "image_query": "chalkboard equations",
+          "image": "https://images.pexels.com/photos/8197538/pexels-photo-8197538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "But one model solved an open problem",
+          "description": "That model didn't just find a solution; it uncovered a pattern that could unlock entirely new mathematical realms.",
+          "visual_hint": "Glowing pattern emerging from data",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "fractal pattern",
+          "image": "https://images.pexels.com/photos/20425035/pexels-photo-20425035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Researchers now use AI to spot patterns",
+          "description": "AI helps researchers find hidden structures in math, not proving theorems but finding clues for human intuition.",
+          "visual_hint": "Scientist examining AI-generated pattern",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "research laboratory",
+          "image": "https://images.pexels.com/photos/8851456/pexels-photo-8851456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test a proof yourself this week",
+          "description": "Take a known theorem and try to break it with a language model. Start simple, then share your findings.",
+          "visual_hint": "Hand typing on laptop with theorem",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop screen",
+          "image": "https://images.pexels.com/photos/21391567/pexels-photo-21391567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268684_OpenAI_claims_to_revolutionize_maths_CVirginia2-1.webp?quality=90&amp;strip=all&amp;crop=0,10.732984293194,100,78.534031413613",
+      "savedAt": "2026-10-05T23:31:03.341Z",
+      "sourceId": "a2264bd4ba738a5a4d7328cc86966d92"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "instinct-brings-its-ai-agent-to-group-chats-even-f",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "pubDate": "Mon, 05 Oct 2026 18:54:30 +0000",
+      "slides": [
+        "Instinct's AI agent now invades your group chats?",
+        "It joins chats even for friends without an account.",
+        "But it could expose private conversations to the AI.",
+        "Your group chats may never be private again.",
+        "Decide: invite the agent or keep humans only?"
+      ],
+      "thread_text": [
+        "1. The Chat Invader\n\nInstinct's AI agent can join your group chats even if your friends never signed up for it. It reads everything.",
+        "2. No Account Needed\n\nThe agent slips into conversations with people who never opted in. Their messages become training data without consent.",
+        "3. Privacy Gone Silent\n\nPrivate jokes, health updates, relationship drama—all scanned by an AI you never invited. Nobody in the chat agreed to this.",
+        "4. The Opt-Out Trap\n\nYou can't control what your friends share. Once the agent is in, every message is fair game for analysis and storage.",
+        "5. Your Move\n\nNext time you create a group chat, decide: add the agent or keep it human-only? Ask your friends what they'd choose."
+      ],
+      "video_script": [
+        "Instinct's AI agent is entering your group chats.",
+        "It joins even if your friends have no account.",
+        "Private conversations could be exposed to the AI.",
+        "Your group chats may never be private again.",
+        "Will you invite the agent or keep humans only?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Chat Invader\n\nInstinct's AI agent can join your group chats even if your friends never signed up for it. It reads everything.",
+            "2. No Account Needed\n\nThe agent slips into conversations with people who never opted in. Their messages become training data without consent.",
+            "3. Privacy Gone Silent\n\nPrivate jokes, health updates, relationship drama—all scanned by an AI you never invited. Nobody in the chat agreed to this.",
+            "4. The Opt-Out Trap\n\nYou can't control what your friends share. Once the agent is in, every message is fair game for analysis and storage.",
+            "5. Your Move\n\nNext time you create a group chat, decide: add the agent or keep it human-only? Ask your friends what they'd choose."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Instinct's AI agent is entering your group chats.",
+            "It joins even if your friends have no account.",
+            "Private conversations could be exposed to the AI.",
+            "Your group chats may never be private again.",
+            "Will you invite the agent or keep humans only?"
+          ]
+        },
+        "instagram": {
+          "caption": "Your friends don't need an account for this.\n\nInstinct's AI agent can join your group chats even when some members never signed up. It reads every message, and their replies become training data without consent.\n\nPrivate jokes, health updates, relationship drama — all scanned by an AI nobody in the chat invited. 🤖\n\nYou can't control what others share once the agent is in. Every message is fair game for analysis and storage. 🔒\n\nIf you run a group chat for work or friends, check who's actually in it before your next message. 📱\n\nNext chat you create: agent in or humans only? Ask your friends what they'd pick. 💬"
+        }
+      },
+      "instagram_caption": "Your friends don't need an account for this.\n\nInstinct's AI agent can join your group chats even when some members never signed up. It reads every message, and their replies become training data without consent.\n\nPrivate jokes, health updates, relationship drama — all scanned by an AI nobody in the chat invited. 🤖\n\nYou can't control what others share once the agent is in. Every message is fair game for analysis and storage. 🔒\n\nIf you run a group chat for work or friends, check who's actually in it before your next message. 📱\n\nNext chat you create: agent in or humans only? Ask your friends what they'd pick. 💬",
+      "carousel_slides": [
+        {
+          "hook": "Your private chats are no longer private",
+          "description": "Instinct's AI silently joins group chats, reading every message even when friends never signed up or consented.",
+          "visual_hint": "Smartphone screen showing chat interface",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone messaging app"
+        },
+        {
+          "hook": "Friends without accounts get exposed",
+          "description": "The AI agent slips into conversations with people who never opted in. Their messages become training data without consent.",
+          "visual_hint": "Phone with contact list icons",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "contact list phone",
+          "image": "https://images.pexels.com/photos/9841328/pexels-photo-9841328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who agreed to AI scanning everything?",
+          "description": "Private jokes, health updates, relationship drama—all scanned by an AI you never invited. Nobody in the chat agreed.",
+          "visual_hint": "Server room with blinking lights",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room data",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "You can't control what friends share",
+          "description": "Once the agent is in, every message is fair game for analysis and storage. The opt-out trap has no exit.",
+          "visual_hint": "Hand holding phone with chat",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Would you add AI to your group?",
+          "description": "Next time you create a group chat, decide: add the agent or keep it human-only. Ask your friends what they'd choose.",
+          "visual_hint": "Group chat on phone screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "group chat phone",
+          "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+      "savedAt": "2026-10-05T23:30:36.807Z",
+      "sourceId": "a8ac03afa12de2705aa7a83b343a7fcf"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "reflection-debuts-beam-an-open-weight-ai-model-to-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "pubDate": "Mon, 05 Oct 2026 19:33:53 +0000",
+      "slides": [
+        "Reflection debuts Beam, but can it rival China's giants?",
+        "Beam is open-weight and runs on less compute.",
+        "It matches Chinese models on key benchmarks, but not all.",
+        "You can now run Beam locally on a single GPU.",
+        "Test Beam on your own data before switching."
+      ],
+      "thread_text": [
+        "1. Beam vs China's giants\n\nReflection just released Beam, an open-weight model that runs on far less compute. It matches top Chinese models on key benchmarks, but not all.",
+        "2. Run Beam on one GPU\n\nYou can now run Beam locally on a single GPU. No cloud needed, no data leaving your machine.",
+        "3. Benchmarks match, but not all\n\nBeam holds its own on many tests, but falls short on some. That gap matters depending on your use case.",
+        "4. Test before you switch\n\nDon't trust benchmarks alone. Run Beam on your own data before replacing your current model.",
+        "5. Your move: test Beam today\n\nGrab a prompt you use daily. Run it through Beam locally. If it fails, you saved yourself a costly switch."
+      ],
+      "video_script": [
+        "Reflection just dropped Beam, a new open-weight model.",
+        "It runs on one GPU, no cloud required.",
+        "Matches Chinese giants on many benchmarks, but not all.",
+        "Test it on your own data before switching.",
+        "Does it beat your current model? Try it today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Beam vs China's giants\n\nReflection just released Beam, an open-weight model that runs on far less compute. It matches top Chinese models on key benchmarks, but not all.",
+            "2. Run Beam on one GPU\n\nYou can now run Beam locally on a single GPU. No cloud needed, no data leaving your machine.",
+            "3. Benchmarks match, but not all\n\nBeam holds its own on many tests, but falls short on some. That gap matters depending on your use case.",
+            "4. Test before you switch\n\nDon't trust benchmarks alone. Run Beam on your own data before replacing your current model.",
+            "5. Your move: test Beam today\n\nGrab a prompt you use daily. Run it through Beam locally. If it fails, you saved yourself a costly switch."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Reflection just dropped Beam, a new open-weight model.",
+            "It runs on one GPU, no cloud required.",
+            "Matches Chinese giants on many benchmarks, but not all.",
+            "Test it on your own data before switching.",
+            "Does it beat your current model? Try it today."
+          ]
+        },
+        "instagram": {
+          "caption": "You can now run Beam on a single GPU, locally. 🔥\n\nReflection released Beam, an open-weight model built to run on far less compute than Chinese rivals like DeepSeek.\n\nIt matches them on key benchmarks, but not all. That gap matters depending on your use case.\n\nNo cloud, no data leaving your machine. 💻\n\nIf you publish or build with AI, you can test a serious model without renting compute or sending data out.\n\nGrab one prompt you use daily, run it through Beam locally. 🧪\n\nDoes it hold up on your data, or fall apart? 👀"
+        }
+      },
+      "instagram_caption": "You can now run Beam on a single GPU, locally. 🔥\n\nReflection released Beam, an open-weight model built to run on far less compute than Chinese rivals like DeepSeek.\n\nIt matches them on key benchmarks, but not all. That gap matters depending on your use case.\n\nNo cloud, no data leaving your machine. 💻\n\nIf you publish or build with AI, you can test a serious model without renting compute or sending data out.\n\nGrab one prompt you use daily, run it through Beam locally. 🧪\n\nDoes it hold up on your data, or fall apart? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Does cheap AI actually beat China's giants?",
+          "description": "Beam matches top Chinese models on many benchmarks, but not all. The gap changes everything for your use case.",
+          "visual_hint": "Split screen: US chip vs Chinese server",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Beam runs on far less compute",
+          "description": "It's open-weight and efficient. Lower hardware costs mean more teams can deploy advanced AI locally.",
+          "visual_hint": "Single GPU glowing inside a small rig",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "graphics card",
+          "image": "https://images.pexels.com/photos/6974258/pexels-photo-6974258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Benchmarks match, but not all",
+          "description": "Beam holds its own on many tests, but falls short on some. That gap matters depending on your use case.",
+          "visual_hint": "Bar chart with mixed green and red bars",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Run Beam locally on one GPU",
+          "description": "No cloud needed, no data leaving your machine. You can now test it on your own hardware today.",
+          "visual_hint": "Hands plugging a GPU into a motherboard",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "motherboard closeup",
+          "image": "https://images.pexels.com/photos/30847268/pexels-photo-30847268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test Beam on your data first",
+          "description": "Grab a daily prompt, run it through Beam locally. If it fails, you saved a costly switch.",
+          "visual_hint": "Laptop screen with prompt and run button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop desk",
+          "image": "https://images.pexels.com/photos/6893890/pexels-photo-6893890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Reflection-AI-Beam.png?resize=1200,669",
+      "savedAt": "2026-10-05T23:30:26.283Z",
+      "sourceId": "13557b75794fecc1a64ce26e06e7015d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-will-start-watermarking-chatgpt-s-text-in-t",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "pubDate": "Mon, 05 Oct 2026 20:36:48 +0000",
+      "slides": [
+        "Will OpenAI's watermark expose your ChatGPT use?",
+        "Watermarking applies specifically to text in the EU.",
+        "But watermarks can be removed by simple edits.",
+        "ChatGPT outputs may now be traceable back to you.",
+        "Check your prompts: EU rules change what's traceable."
+      ],
+      "thread_text": [
+        "1. Your ChatGPT Chats Now Traceable\n\nOpenAI's new watermarking technology can embed invisible markers in AI-generated text, potentially linking outputs back to your account.",
+        "2. EU Text Watermarking Mandate\n\nUnder the EU AI Act, companies like OpenAI must label AI-generated text. This rule applies specifically to text, not images or code.",
+        "3. Watermarks Easily Removed\n\nSimple edits like swapping synonyms or reordering sentences can strip the watermark, making it unreliable for enforcement.",
+        "4. Privacy Implications for Users\n\nIf watermarks persist, your ChatGPT conversations could be traced. This raises concerns about anonymity and data retention.",
+        "5. Test Your Prompts Today\n\nCheck if your typical prompts trigger watermarking. Try rewriting a generated paragraph and see if the mark disappears."
+      ],
+      "video_script": [
+        "OpenAI's watermark could link ChatGPT text back to you.",
+        "EU rules require watermarking for AI text specifically.",
+        "But simple edits can remove the watermark entirely.",
+        "Your ChatGPT outputs might now be traceable.",
+        "Check your prompts and test watermark removal today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your ChatGPT Chats Now Traceable\n\nOpenAI's new watermarking technology can embed invisible markers in AI-generated text, potentially linking outputs back to your account.",
+            "2. EU Text Watermarking Mandate\n\nUnder the EU AI Act, companies like OpenAI must label AI-generated text. This rule applies specifically to text, not images or code.",
+            "3. Watermarks Easily Removed\n\nSimple edits like swapping synonyms or reordering sentences can strip the watermark, making it unreliable for enforcement.",
+            "4. Privacy Implications for Users\n\nIf watermarks persist, your ChatGPT conversations could be traced. This raises concerns about anonymity and data retention.",
+            "5. Test Your Prompts Today\n\nCheck if your typical prompts trigger watermarking. Try rewriting a generated paragraph and see if the mark disappears."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI's watermark could link ChatGPT text back to you.",
+            "EU rules require watermarking for AI text specifically.",
+            "But simple edits can remove the watermark entirely.",
+            "Your ChatGPT outputs might now be traceable.",
+            "Check your prompts and test watermark removal today."
+          ]
+        },
+        "instagram": {
+          "caption": "OpenAI is about to embed invisible watermarks in ChatGPT's text for users in the EU. 🔍\n\nThe rule comes from the EU AI Act and only covers text, not images or code.\n\nGood news: swapping a few synonyms or reordering sentences can strip the mark. ✂️\n\nIf a watermark survives, though, your ChatGPT output could be traced back to your account, raising real anonymity questions.\n\nYour published content may now carry a hidden tag linking it to your prompts. 🤔\n\nTry rewriting one AI paragraph you've used and see if the mark holds. 🧪\n\nWould you still trust ChatGPT with sensitive drafts?"
+        }
+      },
+      "instagram_caption": "OpenAI is about to embed invisible watermarks in ChatGPT's text for users in the EU. 🔍\n\nThe rule comes from the EU AI Act and only covers text, not images or code.\n\nGood news: swapping a few synonyms or reordering sentences can strip the mark. ✂️\n\nIf a watermark survives, though, your ChatGPT output could be traced back to your account, raising real anonymity questions.\n\nYour published content may now carry a hidden tag linking it to your prompts. 🤔\n\nTry rewriting one AI paragraph you've used and see if the mark holds. 🧪\n\nWould you still trust ChatGPT with sensitive drafts?",
+      "carousel_slides": [
+        {
+          "hook": "Can EU watermark strip your ChatGPT privacy?",
+          "description": "OpenAI's invisible watermarks make AI text traceable to accounts, but simple rewrites remove them, questioning enforcement.",
+          "visual_hint": "Invisible text watermark overlay effect",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer screen code"
+        },
+        {
+          "hook": "EU mandates AI text labels now",
+          "description": "Under EU AI Act, OpenAI must watermark text outputs only, not images or code, forcing transparency on AI content.",
+          "visual_hint": "EU flag with text watermarks",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "European Union flag",
+          "image": "https://images.pexels.com/photos/39315211/pexels-photo-39315211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Watermarks vanish with simple edits",
+          "description": "Swapping synonyms or reordering sentences strips the mark, making it unreliable for tracing AI-generated content.",
+          "visual_hint": "Text editing software cursor changing words",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "text editor screen",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your ChatGPT chats may be traced",
+          "description": "If watermark persists, conversations could link back to you, raising anonymity and data retention concerns for users.",
+          "visual_hint": "Chat bubbles linked to user profile",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person typing laptop",
+          "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to protect your prompts",
+          "description": "Test your prompts for watermarks: rewrite generated text and see if the mark disappears. Comment your results below.",
+          "visual_hint": "Hand rewriting text on screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "hands typing keyboard",
+          "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "savedAt": "2026-10-05T23:30:18.556Z",
+      "sourceId": "212da1d35ed9326db03a01e78358aa34"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-is-sticking-more-ads-in-chatgpt",
       "prompt_version": "1.0.0",
       "status": "published",

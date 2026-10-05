@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "instinct-brings-its-ai-agent-to-group-chats-even-f",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+  "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+  "pubDate": "Mon, 05 Oct 2026 18:54:30 +0000",
+  "slides": [
+    "Instinct's AI agent now invades your group chats?",
+    "It joins chats even for friends without an account.",
+    "But it could expose private conversations to the AI.",
+    "Your group chats may never be private again.",
+    "Decide: invite the agent or keep humans only?"
+  ],
+  "thread_text": [
+    "1. The Chat Invader\n\nInstinct's AI agent can join your group chats even if your friends never signed up for it. It reads everything.",
+    "2. No Account Needed\n\nThe agent slips into conversations with people who never opted in. Their messages become training data without consent.",
+    "3. Privacy Gone Silent\n\nPrivate jokes, health updates, relationship drama—all scanned by an AI you never invited. Nobody in the chat agreed to this.",
+    "4. The Opt-Out Trap\n\nYou can't control what your friends share. Once the agent is in, every message is fair game for analysis and storage.",
+    "5. Your Move\n\nNext time you create a group chat, decide: add the agent or keep it human-only? Ask your friends what they'd choose."
+  ],
+  "video_script": [
+    "Instinct's AI agent is entering your group chats.",
+    "It joins even if your friends have no account.",
+    "Private conversations could be exposed to the AI.",
+    "Your group chats may never be private again.",
+    "Will you invite the agent or keep humans only?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Chat Invader\n\nInstinct's AI agent can join your group chats even if your friends never signed up for it. It reads everything.",
+        "2. No Account Needed\n\nThe agent slips into conversations with people who never opted in. Their messages become training data without consent.",
+        "3. Privacy Gone Silent\n\nPrivate jokes, health updates, relationship drama—all scanned by an AI you never invited. Nobody in the chat agreed to this.",
+        "4. The Opt-Out Trap\n\nYou can't control what your friends share. Once the agent is in, every message is fair game for analysis and storage.",
+        "5. Your Move\n\nNext time you create a group chat, decide: add the agent or keep it human-only? Ask your friends what they'd choose."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Instinct's AI agent is entering your group chats.",
+        "It joins even if your friends have no account.",
+        "Private conversations could be exposed to the AI.",
+        "Your group chats may never be private again.",
+        "Will you invite the agent or keep humans only?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your friends don't need an account for this.\n\nInstinct's AI agent can join your group chats even when some members never signed up. It reads every message, and their replies become training data without consent.\n\nPrivate jokes, health updates, relationship drama — all scanned by an AI nobody in the chat invited. 🤖\n\nYou can't control what others share once the agent is in. Every message is fair game for analysis and storage. 🔒\n\nIf you run a group chat for work or friends, check who's actually in it before your next message. 📱\n\nNext chat you create: agent in or humans only? Ask your friends what they'd pick. 💬"
+    }
+  },
+  "instagram_caption": "Your friends don't need an account for this.\n\nInstinct's AI agent can join your group chats even when some members never signed up. It reads every message, and their replies become training data without consent.\n\nPrivate jokes, health updates, relationship drama — all scanned by an AI nobody in the chat invited. 🤖\n\nYou can't control what others share once the agent is in. Every message is fair game for analysis and storage. 🔒\n\nIf you run a group chat for work or friends, check who's actually in it before your next message. 📱\n\nNext chat you create: agent in or humans only? Ask your friends what they'd pick. 💬",
+  "carousel_slides": [
+    {
+      "hook": "Your private chats are no longer private",
+      "description": "Instinct's AI silently joins group chats, reading every message even when friends never signed up or consented.",
+      "visual_hint": "Smartphone screen showing chat interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone messaging app"
+    },
+    {
+      "hook": "Friends without accounts get exposed",
+      "description": "The AI agent slips into conversations with people who never opted in. Their messages become training data without consent.",
+      "visual_hint": "Phone with contact list icons",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "contact list phone",
+      "image": "https://images.pexels.com/photos/9841328/pexels-photo-9841328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who agreed to AI scanning everything?",
+      "description": "Private jokes, health updates, relationship drama—all scanned by an AI you never invited. Nobody in the chat agreed.",
+      "visual_hint": "Server room with blinking lights",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room data",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You can't control what friends share",
+      "description": "Once the agent is in, every message is fair game for analysis and storage. The opt-out trap has no exit.",
+      "visual_hint": "Hand holding phone with chat",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Would you add AI to your group?",
+      "description": "Next time you create a group chat, decide: add the agent or keep it human-only. Ask your friends what they'd choose.",
+      "visual_hint": "Group chat on phone screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "group chat phone",
+      "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+  "savedAt": "2026-10-05T23:30:36.807Z",
+  "sourceId": "a8ac03afa12de2705aa7a83b343a7fcf"
+}

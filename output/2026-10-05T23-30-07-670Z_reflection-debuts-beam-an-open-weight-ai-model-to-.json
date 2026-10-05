@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "reflection-debuts-beam-an-open-weight-ai-model-to-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+  "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+  "pubDate": "Mon, 05 Oct 2026 19:33:53 +0000",
+  "slides": [
+    "Reflection debuts Beam, but can it rival China's giants?",
+    "Beam is open-weight and runs on less compute.",
+    "It matches Chinese models on key benchmarks, but not all.",
+    "You can now run Beam locally on a single GPU.",
+    "Test Beam on your own data before switching."
+  ],
+  "thread_text": [
+    "1. Beam vs China's giants\n\nReflection just released Beam, an open-weight model that runs on far less compute. It matches top Chinese models on key benchmarks, but not all.",
+    "2. Run Beam on one GPU\n\nYou can now run Beam locally on a single GPU. No cloud needed, no data leaving your machine.",
+    "3. Benchmarks match, but not all\n\nBeam holds its own on many tests, but falls short on some. That gap matters depending on your use case.",
+    "4. Test before you switch\n\nDon't trust benchmarks alone. Run Beam on your own data before replacing your current model.",
+    "5. Your move: test Beam today\n\nGrab a prompt you use daily. Run it through Beam locally. If it fails, you saved yourself a costly switch."
+  ],
+  "video_script": [
+    "Reflection just dropped Beam, a new open-weight model.",
+    "It runs on one GPU, no cloud required.",
+    "Matches Chinese giants on many benchmarks, but not all.",
+    "Test it on your own data before switching.",
+    "Does it beat your current model? Try it today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Beam vs China's giants\n\nReflection just released Beam, an open-weight model that runs on far less compute. It matches top Chinese models on key benchmarks, but not all.",
+        "2. Run Beam on one GPU\n\nYou can now run Beam locally on a single GPU. No cloud needed, no data leaving your machine.",
+        "3. Benchmarks match, but not all\n\nBeam holds its own on many tests, but falls short on some. That gap matters depending on your use case.",
+        "4. Test before you switch\n\nDon't trust benchmarks alone. Run Beam on your own data before replacing your current model.",
+        "5. Your move: test Beam today\n\nGrab a prompt you use daily. Run it through Beam locally. If it fails, you saved yourself a costly switch."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Reflection just dropped Beam, a new open-weight model.",
+        "It runs on one GPU, no cloud required.",
+        "Matches Chinese giants on many benchmarks, but not all.",
+        "Test it on your own data before switching.",
+        "Does it beat your current model? Try it today."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now run Beam on a single GPU, locally. 🔥\n\nReflection released Beam, an open-weight model built to run on far less compute than Chinese rivals like DeepSeek.\n\nIt matches them on key benchmarks, but not all. That gap matters depending on your use case.\n\nNo cloud, no data leaving your machine. 💻\n\nIf you publish or build with AI, you can test a serious model without renting compute or sending data out.\n\nGrab one prompt you use daily, run it through Beam locally. 🧪\n\nDoes it hold up on your data, or fall apart? 👀"
+    }
+  },
+  "instagram_caption": "You can now run Beam on a single GPU, locally. 🔥\n\nReflection released Beam, an open-weight model built to run on far less compute than Chinese rivals like DeepSeek.\n\nIt matches them on key benchmarks, but not all. That gap matters depending on your use case.\n\nNo cloud, no data leaving your machine. 💻\n\nIf you publish or build with AI, you can test a serious model without renting compute or sending data out.\n\nGrab one prompt you use daily, run it through Beam locally. 🧪\n\nDoes it hold up on your data, or fall apart? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Does cheap AI actually beat China's giants?",
+      "description": "Beam matches top Chinese models on many benchmarks, but not all. The gap changes everything for your use case.",
+      "visual_hint": "Split screen: US chip vs Chinese server",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Beam runs on far less compute",
+      "description": "It's open-weight and efficient. Lower hardware costs mean more teams can deploy advanced AI locally.",
+      "visual_hint": "Single GPU glowing inside a small rig",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "graphics card",
+      "image": "https://images.pexels.com/photos/6974258/pexels-photo-6974258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Benchmarks match, but not all",
+      "description": "Beam holds its own on many tests, but falls short on some. That gap matters depending on your use case.",
+      "visual_hint": "Bar chart with mixed green and red bars",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Run Beam locally on one GPU",
+      "description": "No cloud needed, no data leaving your machine. You can now test it on your own hardware today.",
+      "visual_hint": "Hands plugging a GPU into a motherboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "motherboard closeup",
+      "image": "https://images.pexels.com/photos/30847268/pexels-photo-30847268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Beam on your data first",
+      "description": "Grab a daily prompt, run it through Beam locally. If it fails, you saved a costly switch.",
+      "visual_hint": "Laptop screen with prompt and run button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop desk",
+      "image": "https://images.pexels.com/photos/6893890/pexels-photo-6893890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Reflection-AI-Beam.png?resize=1200,669",
+  "savedAt": "2026-10-05T23:30:26.283Z",
+  "sourceId": "13557b75794fecc1a64ce26e06e7015d"
+}

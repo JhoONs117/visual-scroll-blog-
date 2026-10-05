@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "all-the-drama-around-ai-8217-s-takeover-of-mathema",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "All the drama around AI&#8217;s takeover of mathematics",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+  "pubDate": "2026-10-05T19:28:59.000Z",
+  "slides": [
+    "Will AI conquer mathematics next?",
+    "No theorem proven end to end by AI yet",
+    "But one model solved an open problem",
+    "Researchers now use AI to spot patterns",
+    "Check one proof yourself this week"
+  ],
+  "thread_text": [
+    "1. AI Conquering Math?\n\nNot yet. No theorem has been proven end-to-end by an AI, but one model solved an open problem that had stumped humans for decades.",
+    "2. The Open Problem\n\nThat model didn't just find a solution. It discovered a pattern no one had seen, which could unlock new mathematical realms.",
+    "3. Pattern Hunters\n\nResearchers now use AI to spot hidden structures in math. It's not about proving theorems; it's about finding clues.",
+    "4. Human-AI Symbiosis\n\nThe future isn't AI replacing mathematicians. It's AI as a tool to amplify human intuition and creativity.",
+    "5. Test a Proof Yourself\n\nTake a known theorem and try to break it with a language model. If you haven't, start with something simple."
+  ],
+  "video_script": [
+    "Will AI conquer mathematics? Not yet, but it's getting closer.",
+    "No theorem proven end to end by AI, but one model cracked an open problem.",
+    "Now researchers use AI to spot patterns humans miss.",
+    "It's not about replacing mathematicians; it's about amplifying them.",
+    "This week, test a proof yourself with an AI. Try it on a simple theorem."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Conquering Math?\n\nNot yet. No theorem has been proven end-to-end by an AI, but one model solved an open problem that had stumped humans for decades.",
+        "2. The Open Problem\n\nThat model didn't just find a solution. It discovered a pattern no one had seen, which could unlock new mathematical realms.",
+        "3. Pattern Hunters\n\nResearchers now use AI to spot hidden structures in math. It's not about proving theorems; it's about finding clues.",
+        "4. Human-AI Symbiosis\n\nThe future isn't AI replacing mathematicians. It's AI as a tool to amplify human intuition and creativity.",
+        "5. Test a Proof Yourself\n\nTake a known theorem and try to break it with a language model. If you haven't, start with something simple."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Will AI conquer mathematics? Not yet, but it's getting closer.",
+        "No theorem proven end to end by AI, but one model cracked an open problem.",
+        "Now researchers use AI to spot patterns humans miss.",
+        "It's not about replacing mathematicians; it's about amplifying them.",
+        "This week, test a proof yourself with an AI. Try it on a simple theorem."
+      ]
+    },
+    "instagram": {
+      "caption": "No AI has proven a theorem end to end yet, but one model cracked an open problem that stumped mathematicians for decades. 🤖\n\nThat model didn't just answer it. It found a pattern nobody had seen, which could open new mathematical territory.\n\nResearchers now use AI not to prove theorems, but to spot hidden structures and clues. 🔍\n\nIf you write or publish, this changes your toolbox: you can test your own proofs with a language model, not just trust textbooks.\n\nGrab a known theorem this week and try to break it with an AI. Did it hold or crack?"
+    }
+  },
+  "instagram_caption": "No AI has proven a theorem end to end yet, but one model cracked an open problem that stumped mathematicians for decades. 🤖\n\nThat model didn't just answer it. It found a pattern nobody had seen, which could open new mathematical territory.\n\nResearchers now use AI not to prove theorems, but to spot hidden structures and clues. 🔍\n\nIf you write or publish, this changes your toolbox: you can test your own proofs with a language model, not just trust textbooks.\n\nGrab a known theorem this week and try to break it with an AI. Did it hold or crack?",
+  "carousel_slides": [
+    {
+      "hook": "AI just cracked an open math problem",
+      "description": "One model solved a problem that stumped humans for decades, discovering a pattern no one had seen before.",
+      "visual_hint": "AI model finding hidden pattern",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "server room"
+    },
+    {
+      "hook": "No theorem fully proven by AI yet",
+      "description": "Despite the breakthrough, no mathematical theorem has been proven end-to-end by an AI system so far.",
+      "visual_hint": "Unfinished proof on chalkboard",
+      "layout_type": "right-focus",
+      "icon": "check",
+      "image_query": "chalkboard equations",
+      "image": "https://images.pexels.com/photos/8197538/pexels-photo-8197538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "But one model solved an open problem",
+      "description": "That model didn't just find a solution; it uncovered a pattern that could unlock entirely new mathematical realms.",
+      "visual_hint": "Glowing pattern emerging from data",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "fractal pattern",
+      "image": "https://images.pexels.com/photos/20425035/pexels-photo-20425035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Researchers now use AI to spot patterns",
+      "description": "AI helps researchers find hidden structures in math, not proving theorems but finding clues for human intuition.",
+      "visual_hint": "Scientist examining AI-generated pattern",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "research laboratory",
+      "image": "https://images.pexels.com/photos/8851456/pexels-photo-8851456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test a proof yourself this week",
+      "description": "Take a known theorem and try to break it with a language model. Start simple, then share your findings.",
+      "visual_hint": "Hand typing on laptop with theorem",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop screen",
+      "image": "https://images.pexels.com/photos/21391567/pexels-photo-21391567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268684_OpenAI_claims_to_revolutionize_maths_CVirginia2-1.webp?quality=90&amp;strip=all&amp;crop=0,10.732984293194,100,78.534031413613",
+  "savedAt": "2026-10-05T23:31:03.341Z",
+  "sourceId": "a2264bd4ba738a5a4d7328cc86966d92"
+}
