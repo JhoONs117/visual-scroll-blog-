@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-is-adding-text-watermarking-in-chatgpt-and-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "pubDate": "2026-10-05T18:08:39.000Z",
+      "slides": [
+        "OpenAI is adding text watermarking in ChatGPT and Codex.",
+        "Watermarks will be detectable but invisible to users.",
+        "Critics warn it could erode trust in AI writing.",
+        "Users may soon need to think before copying AI text.",
+        "Test if your workflow triggers watermarks before it's too late."
+      ],
+      "thread_text": [
+        "1. The Hidden Mark\n\nOpenAI is adding text watermarking to ChatGPT and Codex. It's detectable but invisible to users.",
+        "2. Trust Under Fire\n\nCritics warn this could erode trust in AI writing. Readers may start doubting everything they see.",
+        "3. Copy With Care\n\nUsers may soon need to think before copying AI text. Watermarks could follow every paste.",
+        "4. Workflow Alert\n\nYour workflow might trigger watermarks without you knowing. Test it before it's too late.",
+        "5. Test Your Workflow\n\nRun a typical prompt through ChatGPT today. Check if watermarks appear in your final output."
+      ],
+      "video_script": [
+        "OpenAI adds invisible watermarks to ChatGPT and Codex.",
+        "The marks are detectable but users won't see them.",
+        "Critics say this could erode trust in AI writing.",
+        "Think before you copy AI text into your work.",
+        "Test your workflow now before it's too late."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Hidden Mark\n\nOpenAI is adding text watermarking to ChatGPT and Codex. It's detectable but invisible to users.",
+            "2. Trust Under Fire\n\nCritics warn this could erode trust in AI writing. Readers may start doubting everything they see.",
+            "3. Copy With Care\n\nUsers may soon need to think before copying AI text. Watermarks could follow every paste.",
+            "4. Workflow Alert\n\nYour workflow might trigger watermarks without you knowing. Test it before it's too late.",
+            "5. Test Your Workflow\n\nRun a typical prompt through ChatGPT today. Check if watermarks appear in your final output."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI adds invisible watermarks to ChatGPT and Codex.",
+            "The marks are detectable but users won't see them.",
+            "Critics say this could erode trust in AI writing.",
+            "Think before you copy AI text into your work.",
+            "Test your workflow now before it's too late."
+          ]
+        },
+        "instagram": {
+          "caption": "Anything you copy from ChatGPT and paste somewhere could soon carry a hidden mark.\n\nOpenAI is adding text watermarking to ChatGPT and Codex. It’s detectable by tools but invisible to you.\n\nCritics warn it could erode trust, with readers doubting anything they see. 🧐\n\nIf you write or publish content, your copied AI text may soon be traceable back to a model. ⌨️\n\nHave you tested whether a typical prompt triggers a watermark in your final output? 🚨"
+        }
+      },
+      "instagram_caption": "Anything you copy from ChatGPT and paste somewhere could soon carry a hidden mark.\n\nOpenAI is adding text watermarking to ChatGPT and Codex. It’s detectable by tools but invisible to you.\n\nCritics warn it could erode trust, with readers doubting anything they see. 🧐\n\nIf you write or publish content, your copied AI text may soon be traceable back to a model. ⌨️\n\nHave you tested whether a typical prompt triggers a watermark in your final output? 🚨",
+      "carousel_slides": [
+        {
+          "hook": "Is AI writing still trustworthy?",
+          "description": "OpenAI adds invisible text watermarking to ChatGPT and Codex, detectable but hidden from users, raising trust concerns.",
+          "visual_hint": "Invisible digital watermark overlay on text",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "watermark paper"
+        },
+        {
+          "hook": "Watermarks you cannot see",
+          "description": "Watermarks stay invisible to users yet detectable by tools, meaning every AI-generated text carries a hidden signature.",
+          "visual_hint": "Magnifying glass revealing hidden code",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "magnifying glass code",
+          "image": "https://images.pexels.com/photos/17543457/pexels-photo-17543457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Trust in AI writing is eroding",
+          "description": "Critics warn watermarking could make readers doubt all writing, unsure what is human and what is machine.",
+          "visual_hint": "Split face human versus robot",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "human robot face",
+          "image": "https://images.pexels.com/photos/37911407/pexels-photo-37911407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Think before you copy AI text",
+          "description": "Copied AI text may carry watermarks through every paste, forcing users to reconsider their workflow and output.",
+          "visual_hint": "Hand copying text with watermark trail",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand copying paper",
+          "image": "https://images.pexels.com/photos/6567858/pexels-photo-6567858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your workflow before it's too late",
+          "description": "Run a typical prompt through ChatGPT now and check if watermarks appear in your final output.",
+          "visual_hint": "Checklist with watermark detection step",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist computer screen",
+          "image": "https://images.pexels.com/photos/7278884/pexels-photo-7278884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-06T11:06:02.857Z",
+      "sourceId": "97af931021b60f6521c1d5e0e4c1867b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "wikipedia-operator-says-openai-8217-s-8216-rogue-8",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+      "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+      "pubDate": "2026-10-05T19:05:19.000Z",
+      "slides": [
+        "Wikipedia operator: OpenAI bots 'rogue'?",
+        "May outage hit Wikimedia servers hard.",
+        "Bots may have caused the crash, not users.",
+        "If true, your site could be next.",
+        "Check server logs for AI scrapers today."
+      ],
+      "thread_text": [
+        "1. Wikipedia's AI bots caught?\n\nA May outage took down Wikimedia servers. Now operator says OpenAI bots may be the real culprit, not human users.",
+        "2. Crash wasn't human\n\nTraffic from AI scrapers overwhelmed the system. The same tool you use for research could be quietly hammering every site you own.",
+        "3. Your site is next\n\nIf bots can bring down Wikipedia, no server is safe. The next spike might come from a bot you never invited.",
+        "4. Check logs today\n\nLook for suspicious bot activity. One line of code blocking bad scrapers can save you a weekend of downtime.",
+        "5. Run this test now\n\nOpen your server logs and search for AI crawler names. If you see more than a few, block them before the next crash."
+      ],
+      "video_script": [
+        "Wikipedia blames OpenAI bots for a major outage.",
+        "The crash may have come from scrapers, not people.",
+        "If bots can take down Wikipedia, your site is next.",
+        "Check your server logs for unusual AI traffic today.",
+        "Block the scrapers before they block you."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Wikipedia's AI bots caught?\n\nA May outage took down Wikimedia servers. Now operator says OpenAI bots may be the real culprit, not human users.",
+            "2. Crash wasn't human\n\nTraffic from AI scrapers overwhelmed the system. The same tool you use for research could be quietly hammering every site you own.",
+            "3. Your site is next\n\nIf bots can bring down Wikipedia, no server is safe. The next spike might come from a bot you never invited.",
+            "4. Check logs today\n\nLook for suspicious bot activity. One line of code blocking bad scrapers can save you a weekend of downtime.",
+            "5. Run this test now\n\nOpen your server logs and search for AI crawler names. If you see more than a few, block them before the next crash."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Wikipedia blames OpenAI bots for a major outage.",
+            "The crash may have come from scrapers, not people.",
+            "If bots can take down Wikipedia, your site is next.",
+            "Check your server logs for unusual AI traffic today.",
+            "Block the scrapers before they block you."
+          ]
+        },
+        "instagram": {
+          "caption": "A May outage that took down Wikimedia servers may trace back to OpenAI bots, not human visitors.\n\nThe operator now says traffic from AI scrapers is a suspect in the crash. 🤖\n\nIf bots can overwhelm Wikipedia's infrastructure, smaller sites don't stand a chance.\n\nThe same AI tools people use for research could be quietly hammering your servers right now.\n\nPull your server logs and search for AI crawler names — block the aggressive ones before your next spike. 🔍\n\nIf a bot flood hit tomorrow, would you even know which ones caused it? ⚠️"
+        }
+      },
+      "instagram_caption": "A May outage that took down Wikimedia servers may trace back to OpenAI bots, not human visitors.\n\nThe operator now says traffic from AI scrapers is a suspect in the crash. 🤖\n\nIf bots can overwhelm Wikipedia's infrastructure, smaller sites don't stand a chance.\n\nThe same AI tools people use for research could be quietly hammering your servers right now.\n\nPull your server logs and search for AI crawler names — block the aggressive ones before your next spike. 🔍\n\nIf a bot flood hit tomorrow, would you even know which ones caused it? ⚠️",
+      "carousel_slides": [
+        {
+          "hook": "Can AI bots crash your site?",
+          "description": "Wikipedia's operator says OpenAI bots may have caused a May outage, not human users. Your site could be next.",
+          "visual_hint": "Server room with blinking red lights",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "May outage hit Wikimedia servers hard",
+          "description": "Traffic from AI scrapers overwhelmed the system. The same tool you use for research could be quietly hammering every site you own.",
+          "visual_hint": "Traffic spike graph on monitor",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "network traffic",
+          "image": "https://images.pexels.com/photos/34095344/pexels-photo-34095344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Bots may have caused the crash",
+          "description": "If bots can bring down Wikipedia, no server is safe. The next spike might come from a bot you never invited.",
+          "visual_hint": "Robot hand touching server rack",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "robot hand",
+          "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your site could be next",
+          "description": "Check your server logs for suspicious bot activity today. One line of code blocking bad scrapers can save a weekend of downtime.",
+          "visual_hint": "Person typing on laptop with logs",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "server logs",
+          "image": "https://images.pexels.com/photos/18187117/pexels-photo-18187117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Run this test now",
+          "description": "Open your server logs and search for AI crawler names. If you see many, block them before the next crash.",
+          "visual_hint": "Magnifying glass over code on screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "code screen",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+      "savedAt": "2026-10-06T11:05:54.421Z",
+      "sourceId": "aea90afb465bda47fa05f41b5fc945d8"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "hackerrank-s-ai-interviewer-offers-a-glimpse-into-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "pubDate": "Mon, 05 Oct 2026 16:43:35 +0000",
+      "slides": [
+        "HackerRank's AI interviewer is now questioning candidates",
+        "It analyzes code, not just correct answers",
+        "But it flags nervousness as a red flag",
+        "Candidates must practice talking through their logic",
+        "Would you trust a machine to judge your potential?"
+      ],
+      "thread_text": [
+        "1. AI Interviewer Is Here\n\nHackerRank's AI now analyzes your code live, not just final answers. It runs as you type.",
+        "2. It Watches How You Think\n\nIt flags hesitation, pauses, and even nervousness as red flags. Your thinking process becomes data.",
+        "3. Nervous? That's a Flag\n\nCandidates who stutter or backtrack are scored lower. The AI can't tell anxiety from incompetence.",
+        "4. Practicing Is Now Mandatory\n\nYou must talk through your logic out loud while coding. Silent problem-solving could get you rejected.",
+        "5. Would You Trust It?\n\nTake a mock coding interview with an AI tool this week. If you pause, it notices. Test it yourself."
+      ],
+      "video_script": [
+        "HackerRank's AI interviewer is now questioning candidates live.",
+        "It analyzes code as you type, not just correct answers.",
+        "But it flags nervousness, pauses, and hesitation as red flags.",
+        "Candidates must practice talking through their logic out loud.",
+        "Would you trust a machine to judge your potential?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI Interviewer Is Here\n\nHackerRank's AI now analyzes your code live, not just final answers. It runs as you type.",
+            "2. It Watches How You Think\n\nIt flags hesitation, pauses, and even nervousness as red flags. Your thinking process becomes data.",
+            "3. Nervous? That's a Flag\n\nCandidates who stutter or backtrack are scored lower. The AI can't tell anxiety from incompetence.",
+            "4. Practicing Is Now Mandatory\n\nYou must talk through your logic out loud while coding. Silent problem-solving could get you rejected.",
+            "5. Would You Trust It?\n\nTake a mock coding interview with an AI tool this week. If you pause, it notices. Test it yourself."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "HackerRank's AI interviewer is now questioning candidates live.",
+            "It analyzes code as you type, not just correct answers.",
+            "But it flags nervousness, pauses, and hesitation as red flags.",
+            "Candidates must practice talking through their logic out loud.",
+            "Would you trust a machine to judge your potential?"
+          ]
+        },
+        "instagram": {
+          "caption": "Talk through your code out loud or get scored lower. HackerRank's AI interviewer analyzes you live as you type. 🎯\n\nIt flags hesitation and pauses as red flags, not just wrong answers.\n\nStutter or backtrack and the system reads it as incompetence — it can't tell nerves from skill gaps. 🧠\n\nIf you code in silence for a living, this changes your prep: narration is now mandatory.\n\nTake one mock AI interview this week and watch what gets flagged. ⌨️\n\nWould you trust a machine to score your potential?"
+        }
+      },
+      "instagram_caption": "Talk through your code out loud or get scored lower. HackerRank's AI interviewer analyzes you live as you type. 🎯\n\nIt flags hesitation and pauses as red flags, not just wrong answers.\n\nStutter or backtrack and the system reads it as incompetence — it can't tell nerves from skill gaps. 🧠\n\nIf you code in silence for a living, this changes your prep: narration is now mandatory.\n\nTake one mock AI interview this week and watch what gets flagged. ⌨️\n\nWould you trust a machine to score your potential?",
+      "carousel_slides": [
+        {
+          "hook": "Is Nervousness a Hiring Red Flag?",
+          "description": "HackerRank's AI flags hesitation and pauses as red flags, scoring candidates lower for stuttering. It can't distinguish anxiety from incompetence.",
+          "visual_hint": "AI interface analyzing candidate's nervous behavior",
+          "layout_type": "hero",
+          "icon": "heart",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Your Code Is Now Under AI Watch",
+          "description": "HackerRank's AI interviewer analyzes code live as you type, not just final answers. It runs in real-time, tracking every keystroke.",
+          "visual_hint": "Live code analysis with AI overlay",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer code",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "It Measures Your Thinking Process",
+          "description": "The AI monitors how you think, flagging hesitation and pauses as red flags. Your problem-solving process becomes data for evaluation.",
+          "visual_hint": "AI sensors tracking cognitive patterns",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "brain scan",
+          "image": "https://images.pexels.com/photos/4226119/pexels-photo-4226119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Must Practice Talking Through Logic",
+          "description": "Candidates must now talk through their logic out loud while coding. Silent problem-solving could lead to rejection by the AI.",
+          "visual_hint": "Person speaking while coding at desk",
+          "layout_type": "human-hand",
+          "icon": "check",
+          "image_query": "person coding",
+          "image": "https://images.pexels.com/photos/9553909/pexels-photo-9553909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test the AI Interviewer Yourself",
+          "description": "Take a mock coding interview with an AI tool this week. If you pause, it notices. See if you trust a machine to judge your potential.",
+          "visual_hint": "Call to action with AI interview interface",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "job interview",
+          "image": "https://images.pexels.com/photos/4225928/pexels-photo-4225928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-10-06T11:05:45.253Z",
+      "sourceId": "9b91fcda04f797f9b097e78d586fb0c2"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "tiktok-rolls-out-an-ai-shopping-assistant-and-one-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "pubDate": "Mon, 05 Oct 2026 18:29:00 +0000",
+      "slides": [
+        "TikTok just made impulse buys one click away",
+        "Its AI assistant suggests products based on your watch history",
+        "But the assistant may recommend items you never searched for",
+        "You'll see 'buy now' buttons without leaving the video",
+        "Next time you scroll, ask: who profits from your impulse?"
+      ],
+      "thread_text": [
+        "1. One‑Click Impulse Buys\n\nTikTok's new AI assistant turns your watch history into a checkout button. You never search—it just suggests.",
+        "2. The AI Watches You\n\nIt recommends products based on every pause and rewatch. Your behavior becomes a shopping list.",
+        "3. Suggestions You Never Asked For\n\nThe assistant may push items you never searched for, widening the net beyond your intent.",
+        "4. Buy Without Leaving\n\n'Buy now' buttons appear right in the video. No app switch, no friction—just tap and pay.",
+        "5. Who Profits From Your Scroll?\n\nNext time you open TikTok, ask: is this recommendation for me, or for their revenue? Check your last impulse buy."
+      ],
+      "video_script": [
+        "TikTok's AI just made impulse buying one click away.",
+        "It watches your history and suggests products instantly.",
+        "But it might push things you never even searched for.",
+        "You'll see buy now buttons without leaving the video.",
+        "Next time you scroll, ask: who profits from your impulse?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. One‑Click Impulse Buys\n\nTikTok's new AI assistant turns your watch history into a checkout button. You never search—it just suggests.",
+            "2. The AI Watches You\n\nIt recommends products based on every pause and rewatch. Your behavior becomes a shopping list.",
+            "3. Suggestions You Never Asked For\n\nThe assistant may push items you never searched for, widening the net beyond your intent.",
+            "4. Buy Without Leaving\n\n'Buy now' buttons appear right in the video. No app switch, no friction—just tap and pay.",
+            "5. Who Profits From Your Scroll?\n\nNext time you open TikTok, ask: is this recommendation for me, or for their revenue? Check your last impulse buy."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "TikTok's AI just made impulse buying one click away.",
+            "It watches your history and suggests products instantly.",
+            "But it might push things you never even searched for.",
+            "You'll see buy now buttons without leaving the video.",
+            "Next time you scroll, ask: who profits from your impulse?"
+          ]
+        },
+        "instagram": {
+          "caption": "TikTok will suggest products based on your watch history, even items you never searched for.\n\nThe AI shopping assistant reads every pause and rewatch, then turns that behavior into recommendations.\n\nA \"buy now\" button sits inside the video, so checkout happens without leaving the feed. 🛒\n\nIf you post content, your viewers can now buy mid-scroll, which shifts how you'd ever link or promote a product. 👀\n\nNext time a recommendation pops up, ask: 🧠 is this for me, or for their revenue?"
+        }
+      },
+      "instagram_caption": "TikTok will suggest products based on your watch history, even items you never searched for.\n\nThe AI shopping assistant reads every pause and rewatch, then turns that behavior into recommendations.\n\nA \"buy now\" button sits inside the video, so checkout happens without leaving the feed. 🛒\n\nIf you post content, your viewers can now buy mid-scroll, which shifts how you'd ever link or promote a product. 👀\n\nNext time a recommendation pops up, ask: 🧠 is this for me, or for their revenue?",
+      "carousel_slides": [
+        {
+          "hook": "Does TikTok know what you'll buy next?",
+          "description": "Its AI assistant turns your watch history into product suggestions—even items you never searched for. Your attention becomes inventory.",
+          "visual_hint": "Smartphone with glowing recommendation feed",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone shopping app"
+        },
+        {
+          "hook": "It watches every pause and rewatch",
+          "description": "The AI builds a shopping list from your behavior, not your intent. Every scroll trains it to sell you more.",
+          "visual_hint": "Eye scanning scrolling screen data",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data tracking screen",
+          "image": "https://images.pexels.com/photos/7947960/pexels-photo-7947960.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Get recommended things you never wanted",
+          "description": "The assistant may push products you never searched for, widening the net beyond your actual intent.",
+          "visual_hint": "Unexpected product popping up screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "online shopping cart",
+          "image": "https://images.pexels.com/photos/6214389/pexels-photo-6214389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Buy now without leaving the video",
+          "description": "'Buy now' buttons appear right in the video. No app switch, no friction—just tap and pay instantly.",
+          "visual_hint": "Finger tapping buy now button",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "finger tapping smartphone",
+          "image": "https://images.pexels.com/photos/11361811/pexels-photo-11361811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who really profits from your impulse scroll?",
+          "description": "Next time you open TikTok, ask: is this recommendation for me, or for their revenue? Check your last impulse buy.",
+          "visual_hint": "Empty wallet with phone screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "empty wallet phone",
+          "image": "https://images.pexels.com/photos/7927422/pexels-photo-7927422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801",
+      "savedAt": "2026-10-06T11:05:36.599Z",
+      "sourceId": "1278561c2128f73a9a08927d98dbc55b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "all-the-drama-around-ai-8217-s-takeover-of-mathema",
       "prompt_version": "1.0.0",
       "status": "published",

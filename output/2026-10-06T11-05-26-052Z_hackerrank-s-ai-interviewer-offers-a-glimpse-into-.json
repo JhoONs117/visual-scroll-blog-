@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "hackerrank-s-ai-interviewer-offers-a-glimpse-into-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+  "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+  "pubDate": "Mon, 05 Oct 2026 16:43:35 +0000",
+  "slides": [
+    "HackerRank's AI interviewer is now questioning candidates",
+    "It analyzes code, not just correct answers",
+    "But it flags nervousness as a red flag",
+    "Candidates must practice talking through their logic",
+    "Would you trust a machine to judge your potential?"
+  ],
+  "thread_text": [
+    "1. AI Interviewer Is Here\n\nHackerRank's AI now analyzes your code live, not just final answers. It runs as you type.",
+    "2. It Watches How You Think\n\nIt flags hesitation, pauses, and even nervousness as red flags. Your thinking process becomes data.",
+    "3. Nervous? That's a Flag\n\nCandidates who stutter or backtrack are scored lower. The AI can't tell anxiety from incompetence.",
+    "4. Practicing Is Now Mandatory\n\nYou must talk through your logic out loud while coding. Silent problem-solving could get you rejected.",
+    "5. Would You Trust It?\n\nTake a mock coding interview with an AI tool this week. If you pause, it notices. Test it yourself."
+  ],
+  "video_script": [
+    "HackerRank's AI interviewer is now questioning candidates live.",
+    "It analyzes code as you type, not just correct answers.",
+    "But it flags nervousness, pauses, and hesitation as red flags.",
+    "Candidates must practice talking through their logic out loud.",
+    "Would you trust a machine to judge your potential?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Interviewer Is Here\n\nHackerRank's AI now analyzes your code live, not just final answers. It runs as you type.",
+        "2. It Watches How You Think\n\nIt flags hesitation, pauses, and even nervousness as red flags. Your thinking process becomes data.",
+        "3. Nervous? That's a Flag\n\nCandidates who stutter or backtrack are scored lower. The AI can't tell anxiety from incompetence.",
+        "4. Practicing Is Now Mandatory\n\nYou must talk through your logic out loud while coding. Silent problem-solving could get you rejected.",
+        "5. Would You Trust It?\n\nTake a mock coding interview with an AI tool this week. If you pause, it notices. Test it yourself."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "HackerRank's AI interviewer is now questioning candidates live.",
+        "It analyzes code as you type, not just correct answers.",
+        "But it flags nervousness, pauses, and hesitation as red flags.",
+        "Candidates must practice talking through their logic out loud.",
+        "Would you trust a machine to judge your potential?"
+      ]
+    },
+    "instagram": {
+      "caption": "Talk through your code out loud or get scored lower. HackerRank's AI interviewer analyzes you live as you type. 🎯\n\nIt flags hesitation and pauses as red flags, not just wrong answers.\n\nStutter or backtrack and the system reads it as incompetence — it can't tell nerves from skill gaps. 🧠\n\nIf you code in silence for a living, this changes your prep: narration is now mandatory.\n\nTake one mock AI interview this week and watch what gets flagged. ⌨️\n\nWould you trust a machine to score your potential?"
+    }
+  },
+  "instagram_caption": "Talk through your code out loud or get scored lower. HackerRank's AI interviewer analyzes you live as you type. 🎯\n\nIt flags hesitation and pauses as red flags, not just wrong answers.\n\nStutter or backtrack and the system reads it as incompetence — it can't tell nerves from skill gaps. 🧠\n\nIf you code in silence for a living, this changes your prep: narration is now mandatory.\n\nTake one mock AI interview this week and watch what gets flagged. ⌨️\n\nWould you trust a machine to score your potential?",
+  "carousel_slides": [
+    {
+      "hook": "Is Nervousness a Hiring Red Flag?",
+      "description": "HackerRank's AI flags hesitation and pauses as red flags, scoring candidates lower for stuttering. It can't distinguish anxiety from incompetence.",
+      "visual_hint": "AI interface analyzing candidate's nervous behavior",
+      "layout_type": "hero",
+      "icon": "heart",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Your Code Is Now Under AI Watch",
+      "description": "HackerRank's AI interviewer analyzes code live as you type, not just final answers. It runs in real-time, tracking every keystroke.",
+      "visual_hint": "Live code analysis with AI overlay",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer code",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It Measures Your Thinking Process",
+      "description": "The AI monitors how you think, flagging hesitation and pauses as red flags. Your problem-solving process becomes data for evaluation.",
+      "visual_hint": "AI sensors tracking cognitive patterns",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "brain scan",
+      "image": "https://images.pexels.com/photos/4226119/pexels-photo-4226119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Must Practice Talking Through Logic",
+      "description": "Candidates must now talk through their logic out loud while coding. Silent problem-solving could lead to rejection by the AI.",
+      "visual_hint": "Person speaking while coding at desk",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "person coding",
+      "image": "https://images.pexels.com/photos/9553909/pexels-photo-9553909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test the AI Interviewer Yourself",
+      "description": "Take a mock coding interview with an AI tool this week. If you pause, it notices. See if you trust a machine to judge your potential.",
+      "visual_hint": "Call to action with AI interview interface",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "job interview",
+      "image": "https://images.pexels.com/photos/4225928/pexels-photo-4225928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-10-06T11:05:45.253Z",
+  "sourceId": "9b91fcda04f797f9b097e78d586fb0c2"
+}

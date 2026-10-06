@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "tiktok-rolls-out-an-ai-shopping-assistant-and-one-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+  "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+  "pubDate": "Mon, 05 Oct 2026 18:29:00 +0000",
+  "slides": [
+    "TikTok just made impulse buys one click away",
+    "Its AI assistant suggests products based on your watch history",
+    "But the assistant may recommend items you never searched for",
+    "You'll see 'buy now' buttons without leaving the video",
+    "Next time you scroll, ask: who profits from your impulse?"
+  ],
+  "thread_text": [
+    "1. One‑Click Impulse Buys\n\nTikTok's new AI assistant turns your watch history into a checkout button. You never search—it just suggests.",
+    "2. The AI Watches You\n\nIt recommends products based on every pause and rewatch. Your behavior becomes a shopping list.",
+    "3. Suggestions You Never Asked For\n\nThe assistant may push items you never searched for, widening the net beyond your intent.",
+    "4. Buy Without Leaving\n\n'Buy now' buttons appear right in the video. No app switch, no friction—just tap and pay.",
+    "5. Who Profits From Your Scroll?\n\nNext time you open TikTok, ask: is this recommendation for me, or for their revenue? Check your last impulse buy."
+  ],
+  "video_script": [
+    "TikTok's AI just made impulse buying one click away.",
+    "It watches your history and suggests products instantly.",
+    "But it might push things you never even searched for.",
+    "You'll see buy now buttons without leaving the video.",
+    "Next time you scroll, ask: who profits from your impulse?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. One‑Click Impulse Buys\n\nTikTok's new AI assistant turns your watch history into a checkout button. You never search—it just suggests.",
+        "2. The AI Watches You\n\nIt recommends products based on every pause and rewatch. Your behavior becomes a shopping list.",
+        "3. Suggestions You Never Asked For\n\nThe assistant may push items you never searched for, widening the net beyond your intent.",
+        "4. Buy Without Leaving\n\n'Buy now' buttons appear right in the video. No app switch, no friction—just tap and pay.",
+        "5. Who Profits From Your Scroll?\n\nNext time you open TikTok, ask: is this recommendation for me, or for their revenue? Check your last impulse buy."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "TikTok's AI just made impulse buying one click away.",
+        "It watches your history and suggests products instantly.",
+        "But it might push things you never even searched for.",
+        "You'll see buy now buttons without leaving the video.",
+        "Next time you scroll, ask: who profits from your impulse?"
+      ]
+    },
+    "instagram": {
+      "caption": "TikTok will suggest products based on your watch history, even items you never searched for.\n\nThe AI shopping assistant reads every pause and rewatch, then turns that behavior into recommendations.\n\nA \"buy now\" button sits inside the video, so checkout happens without leaving the feed. 🛒\n\nIf you post content, your viewers can now buy mid-scroll, which shifts how you'd ever link or promote a product. 👀\n\nNext time a recommendation pops up, ask: 🧠 is this for me, or for their revenue?"
+    }
+  },
+  "instagram_caption": "TikTok will suggest products based on your watch history, even items you never searched for.\n\nThe AI shopping assistant reads every pause and rewatch, then turns that behavior into recommendations.\n\nA \"buy now\" button sits inside the video, so checkout happens without leaving the feed. 🛒\n\nIf you post content, your viewers can now buy mid-scroll, which shifts how you'd ever link or promote a product. 👀\n\nNext time a recommendation pops up, ask: 🧠 is this for me, or for their revenue?",
+  "carousel_slides": [
+    {
+      "hook": "Does TikTok know what you'll buy next?",
+      "description": "Its AI assistant turns your watch history into product suggestions—even items you never searched for. Your attention becomes inventory.",
+      "visual_hint": "Smartphone with glowing recommendation feed",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone shopping app"
+    },
+    {
+      "hook": "It watches every pause and rewatch",
+      "description": "The AI builds a shopping list from your behavior, not your intent. Every scroll trains it to sell you more.",
+      "visual_hint": "Eye scanning scrolling screen data",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data tracking screen",
+      "image": "https://images.pexels.com/photos/7947960/pexels-photo-7947960.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Get recommended things you never wanted",
+      "description": "The assistant may push products you never searched for, widening the net beyond your actual intent.",
+      "visual_hint": "Unexpected product popping up screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "online shopping cart",
+      "image": "https://images.pexels.com/photos/6214389/pexels-photo-6214389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Buy now without leaving the video",
+      "description": "'Buy now' buttons appear right in the video. No app switch, no friction—just tap and pay instantly.",
+      "visual_hint": "Finger tapping buy now button",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "finger tapping smartphone",
+      "image": "https://images.pexels.com/photos/11361811/pexels-photo-11361811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who really profits from your impulse scroll?",
+      "description": "Next time you open TikTok, ask: is this recommendation for me, or for their revenue? Check your last impulse buy.",
+      "visual_hint": "Empty wallet with phone screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "empty wallet phone",
+      "image": "https://images.pexels.com/photos/7927422/pexels-photo-7927422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801",
+  "savedAt": "2026-10-06T11:05:36.599Z",
+  "sourceId": "1278561c2128f73a9a08927d98dbc55b"
+}

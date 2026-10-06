@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-is-adding-text-watermarking-in-chatgpt-and-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+  "pubDate": "2026-10-05T18:08:39.000Z",
+  "slides": [
+    "OpenAI is adding text watermarking in ChatGPT and Codex.",
+    "Watermarks will be detectable but invisible to users.",
+    "Critics warn it could erode trust in AI writing.",
+    "Users may soon need to think before copying AI text.",
+    "Test if your workflow triggers watermarks before it's too late."
+  ],
+  "thread_text": [
+    "1. The Hidden Mark\n\nOpenAI is adding text watermarking to ChatGPT and Codex. It's detectable but invisible to users.",
+    "2. Trust Under Fire\n\nCritics warn this could erode trust in AI writing. Readers may start doubting everything they see.",
+    "3. Copy With Care\n\nUsers may soon need to think before copying AI text. Watermarks could follow every paste.",
+    "4. Workflow Alert\n\nYour workflow might trigger watermarks without you knowing. Test it before it's too late.",
+    "5. Test Your Workflow\n\nRun a typical prompt through ChatGPT today. Check if watermarks appear in your final output."
+  ],
+  "video_script": [
+    "OpenAI adds invisible watermarks to ChatGPT and Codex.",
+    "The marks are detectable but users won't see them.",
+    "Critics say this could erode trust in AI writing.",
+    "Think before you copy AI text into your work.",
+    "Test your workflow now before it's too late."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Hidden Mark\n\nOpenAI is adding text watermarking to ChatGPT and Codex. It's detectable but invisible to users.",
+        "2. Trust Under Fire\n\nCritics warn this could erode trust in AI writing. Readers may start doubting everything they see.",
+        "3. Copy With Care\n\nUsers may soon need to think before copying AI text. Watermarks could follow every paste.",
+        "4. Workflow Alert\n\nYour workflow might trigger watermarks without you knowing. Test it before it's too late.",
+        "5. Test Your Workflow\n\nRun a typical prompt through ChatGPT today. Check if watermarks appear in your final output."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI adds invisible watermarks to ChatGPT and Codex.",
+        "The marks are detectable but users won't see them.",
+        "Critics say this could erode trust in AI writing.",
+        "Think before you copy AI text into your work.",
+        "Test your workflow now before it's too late."
+      ]
+    },
+    "instagram": {
+      "caption": "Anything you copy from ChatGPT and paste somewhere could soon carry a hidden mark.\n\nOpenAI is adding text watermarking to ChatGPT and Codex. It’s detectable by tools but invisible to you.\n\nCritics warn it could erode trust, with readers doubting anything they see. 🧐\n\nIf you write or publish content, your copied AI text may soon be traceable back to a model. ⌨️\n\nHave you tested whether a typical prompt triggers a watermark in your final output? 🚨"
+    }
+  },
+  "instagram_caption": "Anything you copy from ChatGPT and paste somewhere could soon carry a hidden mark.\n\nOpenAI is adding text watermarking to ChatGPT and Codex. It’s detectable by tools but invisible to you.\n\nCritics warn it could erode trust, with readers doubting anything they see. 🧐\n\nIf you write or publish content, your copied AI text may soon be traceable back to a model. ⌨️\n\nHave you tested whether a typical prompt triggers a watermark in your final output? 🚨",
+  "carousel_slides": [
+    {
+      "hook": "Is AI writing still trustworthy?",
+      "description": "OpenAI adds invisible text watermarking to ChatGPT and Codex, detectable but hidden from users, raising trust concerns.",
+      "visual_hint": "Invisible digital watermark overlay on text",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "watermark paper"
+    },
+    {
+      "hook": "Watermarks you cannot see",
+      "description": "Watermarks stay invisible to users yet detectable by tools, meaning every AI-generated text carries a hidden signature.",
+      "visual_hint": "Magnifying glass revealing hidden code",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "magnifying glass code",
+      "image": "https://images.pexels.com/photos/17543457/pexels-photo-17543457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trust in AI writing is eroding",
+      "description": "Critics warn watermarking could make readers doubt all writing, unsure what is human and what is machine.",
+      "visual_hint": "Split face human versus robot",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "human robot face",
+      "image": "https://images.pexels.com/photos/37911407/pexels-photo-37911407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Think before you copy AI text",
+      "description": "Copied AI text may carry watermarks through every paste, forcing users to reconsider their workflow and output.",
+      "visual_hint": "Hand copying text with watermark trail",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand copying paper",
+      "image": "https://images.pexels.com/photos/6567858/pexels-photo-6567858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your workflow before it's too late",
+      "description": "Run a typical prompt through ChatGPT now and check if watermarks appear in your final output.",
+      "visual_hint": "Checklist with watermark detection step",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist computer screen",
+      "image": "https://images.pexels.com/photos/7278884/pexels-photo-7278884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-06T11:06:02.857Z",
+  "sourceId": "97af931021b60f6521c1d5e0e4c1867b"
+}

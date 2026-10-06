@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "wikipedia-operator-says-openai-8217-s-8216-rogue-8",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+  "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+  "pubDate": "2026-10-05T19:05:19.000Z",
+  "slides": [
+    "Wikipedia operator: OpenAI bots 'rogue'?",
+    "May outage hit Wikimedia servers hard.",
+    "Bots may have caused the crash, not users.",
+    "If true, your site could be next.",
+    "Check server logs for AI scrapers today."
+  ],
+  "thread_text": [
+    "1. Wikipedia's AI bots caught?\n\nA May outage took down Wikimedia servers. Now operator says OpenAI bots may be the real culprit, not human users.",
+    "2. Crash wasn't human\n\nTraffic from AI scrapers overwhelmed the system. The same tool you use for research could be quietly hammering every site you own.",
+    "3. Your site is next\n\nIf bots can bring down Wikipedia, no server is safe. The next spike might come from a bot you never invited.",
+    "4. Check logs today\n\nLook for suspicious bot activity. One line of code blocking bad scrapers can save you a weekend of downtime.",
+    "5. Run this test now\n\nOpen your server logs and search for AI crawler names. If you see more than a few, block them before the next crash."
+  ],
+  "video_script": [
+    "Wikipedia blames OpenAI bots for a major outage.",
+    "The crash may have come from scrapers, not people.",
+    "If bots can take down Wikipedia, your site is next.",
+    "Check your server logs for unusual AI traffic today.",
+    "Block the scrapers before they block you."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Wikipedia's AI bots caught?\n\nA May outage took down Wikimedia servers. Now operator says OpenAI bots may be the real culprit, not human users.",
+        "2. Crash wasn't human\n\nTraffic from AI scrapers overwhelmed the system. The same tool you use for research could be quietly hammering every site you own.",
+        "3. Your site is next\n\nIf bots can bring down Wikipedia, no server is safe. The next spike might come from a bot you never invited.",
+        "4. Check logs today\n\nLook for suspicious bot activity. One line of code blocking bad scrapers can save you a weekend of downtime.",
+        "5. Run this test now\n\nOpen your server logs and search for AI crawler names. If you see more than a few, block them before the next crash."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Wikipedia blames OpenAI bots for a major outage.",
+        "The crash may have come from scrapers, not people.",
+        "If bots can take down Wikipedia, your site is next.",
+        "Check your server logs for unusual AI traffic today.",
+        "Block the scrapers before they block you."
+      ]
+    },
+    "instagram": {
+      "caption": "A May outage that took down Wikimedia servers may trace back to OpenAI bots, not human visitors.\n\nThe operator now says traffic from AI scrapers is a suspect in the crash. 🤖\n\nIf bots can overwhelm Wikipedia's infrastructure, smaller sites don't stand a chance.\n\nThe same AI tools people use for research could be quietly hammering your servers right now.\n\nPull your server logs and search for AI crawler names — block the aggressive ones before your next spike. 🔍\n\nIf a bot flood hit tomorrow, would you even know which ones caused it? ⚠️"
+    }
+  },
+  "instagram_caption": "A May outage that took down Wikimedia servers may trace back to OpenAI bots, not human visitors.\n\nThe operator now says traffic from AI scrapers is a suspect in the crash. 🤖\n\nIf bots can overwhelm Wikipedia's infrastructure, smaller sites don't stand a chance.\n\nThe same AI tools people use for research could be quietly hammering your servers right now.\n\nPull your server logs and search for AI crawler names — block the aggressive ones before your next spike. 🔍\n\nIf a bot flood hit tomorrow, would you even know which ones caused it? ⚠️",
+  "carousel_slides": [
+    {
+      "hook": "Can AI bots crash your site?",
+      "description": "Wikipedia's operator says OpenAI bots may have caused a May outage, not human users. Your site could be next.",
+      "visual_hint": "Server room with blinking red lights",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "May outage hit Wikimedia servers hard",
+      "description": "Traffic from AI scrapers overwhelmed the system. The same tool you use for research could be quietly hammering every site you own.",
+      "visual_hint": "Traffic spike graph on monitor",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "network traffic",
+      "image": "https://images.pexels.com/photos/34095344/pexels-photo-34095344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Bots may have caused the crash",
+      "description": "If bots can bring down Wikipedia, no server is safe. The next spike might come from a bot you never invited.",
+      "visual_hint": "Robot hand touching server rack",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robot hand",
+      "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your site could be next",
+      "description": "Check your server logs for suspicious bot activity today. One line of code blocking bad scrapers can save a weekend of downtime.",
+      "visual_hint": "Person typing on laptop with logs",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "server logs",
+      "image": "https://images.pexels.com/photos/18187117/pexels-photo-18187117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Run this test now",
+      "description": "Open your server logs and search for AI crawler names. If you see many, block them before the next crash.",
+      "visual_hint": "Magnifying glass over code on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "code screen",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+  "savedAt": "2026-10-06T11:05:54.421Z",
+  "sourceId": "aea90afb465bda47fa05f41b5fc945d8"
+}
