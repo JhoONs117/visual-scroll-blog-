@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "mistral-s-new-1t-model-aims-to-leapfrog-closed-and",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+  "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+  "pubDate": "Tue, 06 Oct 2026 14:33:16 +0000",
+  "slides": [
+    "Can Mistral's 1T model actually beat closed rivals?",
+    "It's open-weight, unlike GPT-4 or Claude.",
+    "But raw scale often hides serving costs.",
+    "Your inference bill may drop or spike.",
+    "Test it on your hardest query before believing hype."
+  ],
+  "thread_text": [
+    "1. Open-weight giant\n\nMistral's 1T parameter model just dropped, and it's open-weight. That means you can download it, but can it actually compete with GPT-4 and Claude?",
+    "2. Freedom to tweak\n\nUnlike closed rivals, you can fine-tune and self-host. No API lock-in, but you'll need serious hardware to run it.",
+    "3. Scale isn't free\n\nThe 1T size balloons serving costs. Inference could get pricey fast, even if the weights are free.",
+    "4. Your bill, your call\n\nDepending on your setup, costs might drop or spike. Benchmark against your current stack before switching.",
+    "5. Test before trust\n\nTake your hardest query and run it on Mistral. If it doesn't beat your current model, the hype isn't worth it."
+  ],
+  "video_script": [
+    "Mistral's new model is open-weight and huge.",
+    "You can tweak it, but hardware costs bite.",
+    "Serving a trillion parameters isn't cheap.",
+    "Your bill might drop or skyrocket.",
+    "Test it on your worst query first."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Open-weight giant\n\nMistral's 1T parameter model just dropped, and it's open-weight. That means you can download it, but can it actually compete with GPT-4 and Claude?",
+        "2. Freedom to tweak\n\nUnlike closed rivals, you can fine-tune and self-host. No API lock-in, but you'll need serious hardware to run it.",
+        "3. Scale isn't free\n\nThe 1T size balloons serving costs. Inference could get pricey fast, even if the weights are free.",
+        "4. Your bill, your call\n\nDepending on your setup, costs might drop or spike. Benchmark against your current stack before switching.",
+        "5. Test before trust\n\nTake your hardest query and run it on Mistral. If it doesn't beat your current model, the hype isn't worth it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Mistral's new model is open-weight and huge.",
+        "You can tweak it, but hardware costs bite.",
+        "Serving a trillion parameters isn't cheap.",
+        "Your bill might drop or skyrocket.",
+        "Test it on your worst query first."
+      ]
+    },
+    "instagram": {
+      "caption": "Mistral's new model packs 1 trillion parameters and you can download the weights for free.\n\nOpen-weight means you can fine-tune it and skip API lock-in entirely. Unlike GPT-4 or Claude, nobody can shut off your access. 🧠\n\nBut 1T parameters mean serious hardware to self-host, and your inference bill could swing either way. 💸\n\nIf you build or publish with AI, benchmark this against your current stack before switching anything.\n\nRun your hardest query on it first. If it doesn't beat what you already use, the hype isn't worth it. 🔍\n\nWhat's the one query you'd test it against? ⚙️"
+    }
+  },
+  "instagram_caption": "Mistral's new model packs 1 trillion parameters and you can download the weights for free.\n\nOpen-weight means you can fine-tune it and skip API lock-in entirely. Unlike GPT-4 or Claude, nobody can shut off your access. 🧠\n\nBut 1T parameters mean serious hardware to self-host, and your inference bill could swing either way. 💸\n\nIf you build or publish with AI, benchmark this against your current stack before switching anything.\n\nRun your hardest query on it first. If it doesn't beat what you already use, the hype isn't worth it. 🔍\n\nWhat's the one query you'd test it against? ⚙️",
+  "carousel_slides": [
+    {
+      "hook": "Open weights, hidden serving costs?",
+      "description": "Mistral's 1T model is open-weight, but raw scale often hides inference costs that can spike unexpectedly.",
+      "visual_hint": "Massive server rack close-up",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Fine-tune and self-host freely.",
+      "description": "Unlike GPT-4 or Claude, you can tweak and deploy Mistral yourself, but serious hardware is required.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Hand adjusting GPU settings",
+      "image_query": "graphics card",
+      "image": "https://images.pexels.com/photos/6974258/pexels-photo-6974258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Scale isn't free.",
+      "description": "A 1T parameter model balloons serving costs. Inference could get pricey fast, even if weights are free.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Cost graph rising steeply",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your bill may drop or spike.",
+      "description": "Depending on your setup, costs might change drastically. Benchmark against your current stack before switching.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hand holding invoice paper",
+      "image_query": "office desk",
+      "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: test before you trust.",
+      "description": "Run your hardest query on Mistral. If it doesn't beat your current model, the hype isn't worth it.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Person typing on laptop",
+      "image_query": "laptop screen",
+      "image": "https://images.pexels.com/photos/17115912/pexels-photo-17115912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
+  "savedAt": "2026-10-06T17:39:00.344Z",
+  "sourceId": "8653701588de7d2f464ed970f6a2ef19"
+}

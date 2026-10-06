@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "vinod-khosla-believes-ex-deepmind-engineer-s-wajo-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust",
+  "link": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
+  "pubDate": "Tue, 06 Oct 2026 15:15:00 +0000",
+  "slides": [
+    "Can Wajo beat billion-dollar agent giants on trust?",
+    "Vinod Khosla just backed ex-DeepMind engineer's startup.",
+    "But Wajo's real weapon isn't the model itself.",
+    "You'll soon choose agent trust over raw benchmarks.",
+    "Test one agent on a real task this week."
+  ],
+  "thread_text": [
+    "1. Trust vs. Giants\n\nVinod Khosla just backed an ex-DeepMind engineer's startup. Can a small team beat billion-dollar agent giants on trust alone?",
+    "2. The Real Weapon\n\nWajo's edge isn't the underlying model. It's how the agent proves reliability on real tasks, not benchmarks.",
+    "3. Benchmarks Are Lying\n\nRaw scores don't predict real-world performance. Soon you'll pick agents based on trust, not leaderboard rankings.",
+    "4. One Task Test\n\nTake a single real task this week and run it through one agent. See if it actually delivers without hand-holding.",
+    "5. Your Turn\n\nWhich agent do you trust with your work today? Test one on a real post this week. If it fails, you'll know why trust matters."
+  ],
+  "video_script": [
+    "Vinod Khosla just backed an ex-DeepMind engineer.",
+    "But Wajo's real weapon isn't the model itself.",
+    "You'll soon choose agent trust over raw benchmarks.",
+    "Test one agent on a real task this week.",
+    "Which agent do you trust with your work today?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Trust vs. Giants\n\nVinod Khosla just backed an ex-DeepMind engineer's startup. Can a small team beat billion-dollar agent giants on trust alone?",
+        "2. The Real Weapon\n\nWajo's edge isn't the underlying model. It's how the agent proves reliability on real tasks, not benchmarks.",
+        "3. Benchmarks Are Lying\n\nRaw scores don't predict real-world performance. Soon you'll pick agents based on trust, not leaderboard rankings.",
+        "4. One Task Test\n\nTake a single real task this week and run it through one agent. See if it actually delivers without hand-holding.",
+        "5. Your Turn\n\nWhich agent do you trust with your work today? Test one on a real post this week. If it fails, you'll know why trust matters."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Vinod Khosla just backed an ex-DeepMind engineer.",
+        "But Wajo's real weapon isn't the model itself.",
+        "You'll soon choose agent trust over raw benchmarks.",
+        "Test one agent on a real task this week.",
+        "Which agent do you trust with your work today?"
+      ]
+    },
+    "instagram": {
+      "caption": "An ex-DeepMind engineer just got Vinod Khosla's backing for a new agent called Wajo. 🤖\n\nWajo's edge isn't its underlying model.\n\nIt's how the agent proves reliability on real tasks, not benchmarks.\n\nRaw scores don't predict real-world performance, so trust becomes the deciding factor.\n\nThat means you may soon pick agents by reliability, not leaderboard rank. ⚙️\n\nTry one agent on a real task this week. 🧪\n\nWhich agent do you actually trust with your work today? 🤔"
+    }
+  },
+  "instagram_caption": "An ex-DeepMind engineer just got Vinod Khosla's backing for a new agent called Wajo. 🤖\n\nWajo's edge isn't its underlying model.\n\nIt's how the agent proves reliability on real tasks, not benchmarks.\n\nRaw scores don't predict real-world performance, so trust becomes the deciding factor.\n\nThat means you may soon pick agents by reliability, not leaderboard rank. ⚙️\n\nTry one agent on a real task this week. 🧪\n\nWhich agent do you actually trust with your work today? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Is trust the new benchmark for AI?",
+      "description": "Vinod Khosla backs ex-DeepMind engineer's Wajo to beat billion-dollar agent giants on reliability, not raw model power.",
+      "visual_hint": "Glowing digital brain versus trophy",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Khosla bets on ex-DeepMind engineer",
+      "description": "Wajo's real weapon isn't the model; it's proving reliability on real tasks, not just benchmarks.",
+      "visual_hint": "Investor handshake with startup logo",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "handshake office",
+      "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Benchmarks are lying to you",
+      "description": "Raw scores don't predict real-world performance. Soon you'll choose agents based on trust, not leaderboard rankings.",
+      "visual_hint": "Leaderboard cracking under pressure",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one agent on a real task",
+      "description": "Take a single real task this week and run it through one agent. See if it delivers without hand-holding.",
+      "visual_hint": "Person testing app on laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "laptop testing",
+      "image": "https://images.pexels.com/photos/3862605/pexels-photo-3862605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: trust beats benchmarks",
+      "description": "Which agent do you trust with your work today? Test one on a real post this week and see why trust matters.",
+      "visual_hint": "Finger tapping save icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/3-1.jpeg?resize=1200,675",
+  "savedAt": "2026-10-06T17:38:41.511Z",
+  "sourceId": "2e9425f7b39cb9eaab56776eb116eaf4"
+}

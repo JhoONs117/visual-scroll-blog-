@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "mirror-particle-is-building-a-world-model-of-human",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Mirror Particle is building a ‘world model’ of human behavior",
+  "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+  "pubDate": "Tue, 06 Oct 2026 16:35:00 +0000",
+  "slides": [
+    "Can Mirror Particle predict what you'll do next?",
+    "It builds a world model of human behavior",
+    "But behavior isn't physics—it shifts with context",
+    "Your team could soon simulate user decisions",
+    "Test one prediction against real outcomes today"
+  ],
+  "thread_text": [
+    "1. Mirror Particle's Bet\n\nIt builds a world model of human behavior, not just your clicks. The company claims it can forecast what you'll do next before you decide.",
+    "2. Behavior Isn't Physics\n\nUnlike gravity, human decisions shift with context. The same person chooses differently depending on mood, framing, or who's watching.",
+    "3. Your Team's New Toy\n\nSoon you could simulate user decisions inside your product. No need to guess how people respond to a new feature or pricing change.",
+    "4. Test It Today\n\nTake one prediction from Mirror Particle and run it against real outcomes. If it's wrong, the model just learned something valuable.",
+    "5. Whose Behavior Is It?\n\nIf a model can predict you, does it also shape you? Ask yourself: would you trust a system that knows your next move?"
+  ],
+  "video_script": [
+    "Mirror Particle claims it can predict your next decision.",
+    "It builds a world model of human behavior, not physics.",
+    "But people shift with context, unlike gravity or atoms.",
+    "Your team could simulate user choices before shipping features.",
+    "Test one prediction against real outcomes today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Mirror Particle's Bet\n\nIt builds a world model of human behavior, not just your clicks. The company claims it can forecast what you'll do next before you decide.",
+        "2. Behavior Isn't Physics\n\nUnlike gravity, human decisions shift with context. The same person chooses differently depending on mood, framing, or who's watching.",
+        "3. Your Team's New Toy\n\nSoon you could simulate user decisions inside your product. No need to guess how people respond to a new feature or pricing change.",
+        "4. Test It Today\n\nTake one prediction from Mirror Particle and run it against real outcomes. If it's wrong, the model just learned something valuable.",
+        "5. Whose Behavior Is It?\n\nIf a model can predict you, does it also shape you? Ask yourself: would you trust a system that knows your next move?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Mirror Particle claims it can predict your next decision.",
+        "It builds a world model of human behavior, not physics.",
+        "But people shift with context, unlike gravity or atoms.",
+        "Your team could simulate user choices before shipping features.",
+        "Test one prediction against real outcomes today."
+      ]
+    },
+    "instagram": {
+      "caption": "Someone is claiming they can forecast what you'll do before you decide. 🔮\n\nMirror Particle is building a world model of human behavior, not just clicks.\n\nBut behavior isn't gravity. The same person picks differently based on mood or who's watching. 🧠\n\nSoon your team could simulate user decisions before shipping a feature or changing pricing.\n\nIf you make content, one wrong prediction tells you more than ten surveys. 👀\n\nWould you trust a system that knows your next move?"
+    }
+  },
+  "instagram_caption": "Someone is claiming they can forecast what you'll do before you decide. 🔮\n\nMirror Particle is building a world model of human behavior, not just clicks.\n\nBut behavior isn't gravity. The same person picks differently based on mood or who's watching. 🧠\n\nSoon your team could simulate user decisions before shipping a feature or changing pricing.\n\nIf you make content, one wrong prediction tells you more than ten surveys. 👀\n\nWould you trust a system that knows your next move?",
+  "carousel_slides": [
+    {
+      "hook": "Can a model predict your next move?",
+      "description": "Mirror Particle builds a world model of human behavior, forecasting decisions before you even make them. But behavior isn't physics—it shifts with context.",
+      "visual_hint": "Abstract neural network brain glowing",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "neural network brain"
+    },
+    {
+      "hook": "Your decisions aren't governed by gravity",
+      "description": "Unlike physical laws, human choices change with mood, framing, and audience. A world model must capture that fluidity, not just clicks.",
+      "visual_hint": "Person standing at a crossroads",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "person crossroads",
+      "image": "https://images.pexels.com/photos/13013697/pexels-photo-13013697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Soon you'll simulate users inside your product",
+      "description": "Test how people respond to new features or pricing without guessing. Mirror Particle lets your team run behavioral simulations before launch.",
+      "visual_hint": "Dashboard with user simulation graphs",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "dashboard analytics screen",
+      "image": "https://images.pexels.com/photos/8100069/pexels-photo-8100069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one prediction against real outcomes today",
+      "description": "Take a single forecast from Mirror Particle, compare it to actual behavior. If it's wrong, the model learns something valuable.",
+      "visual_hint": "Split screen prediction vs reality",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "split screen comparison",
+      "image": "https://images.pexels.com/photos/21391567/pexels-photo-21391567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Would you trust a system that knows your next move?",
+      "description": "If a model can predict you, does it also shape you? Share your thoughts in the comments and visit the link in bio to explore more.",
+      "visual_hint": "Person facing a glowing predictive interface",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person interface glowing",
+      "image": "https://images.pexels.com/photos/37911407/pexels-photo-37911407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675",
+  "savedAt": "2026-10-06T17:38:33.316Z",
+  "sourceId": "23d4205c2c0b5e9af75c45a981289c27"
+}

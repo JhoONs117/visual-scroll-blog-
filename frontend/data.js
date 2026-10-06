@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "mistral-s-new-1t-model-aims-to-leapfrog-closed-and",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+    "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+    "pubDate": "Tue, 06 Oct 2026 14:33:16 +0000",
+    "slides": [
+      "Can Mistral's 1T model actually beat closed rivals?",
+      "It's open-weight, unlike GPT-4 or Claude.",
+      "But raw scale often hides serving costs.",
+      "Your inference bill may drop or spike.",
+      "Test it on your hardest query before believing hype."
+    ],
+    "thread_text": [
+      "1. Open-weight giant\n\nMistral's 1T parameter model just dropped, and it's open-weight. That means you can download it, but can it actually compete with GPT-4 and Claude?",
+      "2. Freedom to tweak\n\nUnlike closed rivals, you can fine-tune and self-host. No API lock-in, but you'll need serious hardware to run it.",
+      "3. Scale isn't free\n\nThe 1T size balloons serving costs. Inference could get pricey fast, even if the weights are free.",
+      "4. Your bill, your call\n\nDepending on your setup, costs might drop or spike. Benchmark against your current stack before switching.",
+      "5. Test before trust\n\nTake your hardest query and run it on Mistral. If it doesn't beat your current model, the hype isn't worth it."
+    ],
+    "video_script": [
+      "Mistral's new model is open-weight and huge.",
+      "You can tweak it, but hardware costs bite.",
+      "Serving a trillion parameters isn't cheap.",
+      "Your bill might drop or skyrocket.",
+      "Test it on your worst query first."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Open-weight giant\n\nMistral's 1T parameter model just dropped, and it's open-weight. That means you can download it, but can it actually compete with GPT-4 and Claude?",
+          "2. Freedom to tweak\n\nUnlike closed rivals, you can fine-tune and self-host. No API lock-in, but you'll need serious hardware to run it.",
+          "3. Scale isn't free\n\nThe 1T size balloons serving costs. Inference could get pricey fast, even if the weights are free.",
+          "4. Your bill, your call\n\nDepending on your setup, costs might drop or spike. Benchmark against your current stack before switching.",
+          "5. Test before trust\n\nTake your hardest query and run it on Mistral. If it doesn't beat your current model, the hype isn't worth it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Mistral's new model is open-weight and huge.",
+          "You can tweak it, but hardware costs bite.",
+          "Serving a trillion parameters isn't cheap.",
+          "Your bill might drop or skyrocket.",
+          "Test it on your worst query first."
+        ]
+      },
+      "instagram": {
+        "caption": "Mistral's new model packs 1 trillion parameters and you can download the weights for free.\n\nOpen-weight means you can fine-tune it and skip API lock-in entirely. Unlike GPT-4 or Claude, nobody can shut off your access. 🧠\n\nBut 1T parameters mean serious hardware to self-host, and your inference bill could swing either way. 💸\n\nIf you build or publish with AI, benchmark this against your current stack before switching anything.\n\nRun your hardest query on it first. If it doesn't beat what you already use, the hype isn't worth it. 🔍\n\nWhat's the one query you'd test it against? ⚙️"
+      }
+    },
+    "instagram_caption": "Mistral's new model packs 1 trillion parameters and you can download the weights for free.\n\nOpen-weight means you can fine-tune it and skip API lock-in entirely. Unlike GPT-4 or Claude, nobody can shut off your access. 🧠\n\nBut 1T parameters mean serious hardware to self-host, and your inference bill could swing either way. 💸\n\nIf you build or publish with AI, benchmark this against your current stack before switching anything.\n\nRun your hardest query on it first. If it doesn't beat what you already use, the hype isn't worth it. 🔍\n\nWhat's the one query you'd test it against? ⚙️",
+    "carousel_slides": [
+      {
+        "hook": "Open weights, hidden serving costs?",
+        "description": "Mistral's 1T model is open-weight, but raw scale often hides inference costs that can spike unexpectedly.",
+        "visual_hint": "Massive server rack close-up",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Fine-tune and self-host freely.",
+        "description": "Unlike GPT-4 or Claude, you can tweak and deploy Mistral yourself, but serious hardware is required.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "visual_hint": "Hand adjusting GPU settings",
+        "image_query": "graphics card",
+        "image": "https://images.pexels.com/photos/6974258/pexels-photo-6974258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Scale isn't free.",
+        "description": "A 1T parameter model balloons serving costs. Inference could get pricey fast, even if weights are free.",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "visual_hint": "Cost graph rising steeply",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your bill may drop or spike.",
+        "description": "Depending on your setup, costs might change drastically. Benchmark against your current stack before switching.",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "visual_hint": "Hand holding invoice paper",
+        "image_query": "office desk",
+        "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: test before you trust.",
+        "description": "Run your hardest query on Mistral. If it doesn't beat your current model, the hype isn't worth it.",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "visual_hint": "Person typing on laptop",
+        "image_query": "laptop screen",
+        "image": "https://images.pexels.com/photos/17115912/pexels-photo-17115912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
+    "savedAt": "2026-10-06T17:39:00.344Z",
+    "sourceId": "8653701588de7d2f464ed970f6a2ef19"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "bluesky-wants-to-give-you-your-own-domain-on-the-o",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Bluesky wants to give you your own domain on the open web",
+    "link": "https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/",
+    "pubDate": "Tue, 06 Oct 2026 14:41:52 +0000",
+    "slides": [
+      "Bluesky wants to hand you a domain — but why?",
+      "Your handle could become your actual website address",
+      "Most users still don't control their online identity",
+      "Sign up now to claim yours before squatters do",
+      "Own your name or rent it forever?"
+    ],
+    "thread_text": [
+      "1. Your handle just became real estate\n\nBluesky now hands you a domain for free. Your @name can resolve as an actual web address, no registrar needed.",
+      "2. Why is a social app giving away domains?\n\nBecause whoever controls your handle controls your identity. Bluesky is betting that ownership keeps you locked in — not ads.",
+      "3. Most people are still renting their name\n\nOn other platforms, your handle is a lease. The company can revoke it, rename you, or sell your reach overnight.",
+      "4. Squatters are already circling\n\nEarly claimers lock in the good names. Late arrivals get leftovers — or pay a premium to whoever grabbed theirs first.",
+      "5. Go claim your name today\n\nSign in to Bluesky, open settings, and set your handle as a domain before someone else does. Did you already check if yours is taken?"
+    ],
+    "video_script": [
+      "Bluesky is giving users free domains for their handles.",
+      "Your username can now work as a real website address.",
+      "Most platforms still rent your identity to you.",
+      "Squatters grab good names fast, so timing matters.",
+      "Claim your handle now before someone else takes it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your handle just became real estate\n\nBluesky now hands you a domain for free. Your @name can resolve as an actual web address, no registrar needed.",
+          "2. Why is a social app giving away domains?\n\nBecause whoever controls your handle controls your identity. Bluesky is betting that ownership keeps you locked in — not ads.",
+          "3. Most people are still renting their name\n\nOn other platforms, your handle is a lease. The company can revoke it, rename you, or sell your reach overnight.",
+          "4. Squatters are already circling\n\nEarly claimers lock in the good names. Late arrivals get leftovers — or pay a premium to whoever grabbed theirs first.",
+          "5. Go claim your name today\n\nSign in to Bluesky, open settings, and set your handle as a domain before someone else does. Did you already check if yours is taken?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Bluesky is giving users free domains for their handles.",
+          "Your username can now work as a real website address.",
+          "Most platforms still rent your identity to you.",
+          "Squatters grab good names fast, so timing matters.",
+          "Claim your handle now before someone else takes it."
+        ]
+      },
+      "instagram": {
+        "caption": "Your @handle on Bluesky can now double as a real web address you actually own.\n\nBluesky started handing users their own domain for free — no registrar, no fees.\n\nIt works because whoever controls your handle controls your identity, and the app is betting ownership keeps you around.\n\nEverywhere else your name is just a lease the platform can revoke or sell overnight.\n\nIf you publish anything under a handle, you already know your audience finds you there — lose it and you lose the link.\n\nSquatters are grabbing good names first, so early claimers win.\n\nCheck settings today: is yours still available? 🔍"
+      }
+    },
+    "instagram_caption": "Your @handle on Bluesky can now double as a real web address you actually own.\n\nBluesky started handing users their own domain for free — no registrar, no fees.\n\nIt works because whoever controls your handle controls your identity, and the app is betting ownership keeps you around.\n\nEverywhere else your name is just a lease the platform can revoke or sell overnight.\n\nIf you publish anything under a handle, you already know your audience finds you there — lose it and you lose the link.\n\nSquatters are grabbing good names first, so early claimers win.\n\nCheck settings today: is yours still available? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Are you renting your own name?",
+        "description": "On most platforms your handle is a lease. The company can revoke or rename it overnight without warning.",
+        "visual_hint": "Person holding phone with fading username",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "person holding smartphone"
+      },
+      {
+        "hook": "Bluesky gives you a free domain",
+        "description": "Your handle can now resolve as a real web address. No registrar fees, no middleman required to claim it.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "visual_hint": "Domain name resolving on screen",
+        "image_query": "computer screen code",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Whoever controls your handle controls you",
+        "description": "Bluesky bets that owning your identity keeps you loyal. Not ads, not algorithms, just genuine ownership of your name.",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "visual_hint": "Digital identity network nodes glowing",
+        "image_query": "network server room",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Squatters are already grabbing good names",
+        "description": "Early claimers lock in the best handles. Late arrivals get leftovers or pay a premium to whoever grabbed theirs first.",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "visual_hint": "Hand typing domain name quickly",
+        "image_query": "hands typing keyboard",
+        "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Go claim your name before someone else does",
+        "description": "Sign in to Bluesky, open settings, and set your handle as a domain today. Save this and check if yours is still available.",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "visual_hint": "Checkmark beside claimed domain name",
+        "image_query": "checkmark digital screen",
+        "image": "https://images.pexels.com/photos/34328485/pexels-photo-34328485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024",
+    "savedAt": "2026-10-06T17:38:51.961Z",
+    "sourceId": "ae1870a9c544727df5fdb8471351b9c2"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "vinod-khosla-believes-ex-deepmind-engineer-s-wajo-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust",
+    "link": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
+    "pubDate": "Tue, 06 Oct 2026 15:15:00 +0000",
+    "slides": [
+      "Can Wajo beat billion-dollar agent giants on trust?",
+      "Vinod Khosla just backed ex-DeepMind engineer's startup.",
+      "But Wajo's real weapon isn't the model itself.",
+      "You'll soon choose agent trust over raw benchmarks.",
+      "Test one agent on a real task this week."
+    ],
+    "thread_text": [
+      "1. Trust vs. Giants\n\nVinod Khosla just backed an ex-DeepMind engineer's startup. Can a small team beat billion-dollar agent giants on trust alone?",
+      "2. The Real Weapon\n\nWajo's edge isn't the underlying model. It's how the agent proves reliability on real tasks, not benchmarks.",
+      "3. Benchmarks Are Lying\n\nRaw scores don't predict real-world performance. Soon you'll pick agents based on trust, not leaderboard rankings.",
+      "4. One Task Test\n\nTake a single real task this week and run it through one agent. See if it actually delivers without hand-holding.",
+      "5. Your Turn\n\nWhich agent do you trust with your work today? Test one on a real post this week. If it fails, you'll know why trust matters."
+    ],
+    "video_script": [
+      "Vinod Khosla just backed an ex-DeepMind engineer.",
+      "But Wajo's real weapon isn't the model itself.",
+      "You'll soon choose agent trust over raw benchmarks.",
+      "Test one agent on a real task this week.",
+      "Which agent do you trust with your work today?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Trust vs. Giants\n\nVinod Khosla just backed an ex-DeepMind engineer's startup. Can a small team beat billion-dollar agent giants on trust alone?",
+          "2. The Real Weapon\n\nWajo's edge isn't the underlying model. It's how the agent proves reliability on real tasks, not benchmarks.",
+          "3. Benchmarks Are Lying\n\nRaw scores don't predict real-world performance. Soon you'll pick agents based on trust, not leaderboard rankings.",
+          "4. One Task Test\n\nTake a single real task this week and run it through one agent. See if it actually delivers without hand-holding.",
+          "5. Your Turn\n\nWhich agent do you trust with your work today? Test one on a real post this week. If it fails, you'll know why trust matters."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Vinod Khosla just backed an ex-DeepMind engineer.",
+          "But Wajo's real weapon isn't the model itself.",
+          "You'll soon choose agent trust over raw benchmarks.",
+          "Test one agent on a real task this week.",
+          "Which agent do you trust with your work today?"
+        ]
+      },
+      "instagram": {
+        "caption": "An ex-DeepMind engineer just got Vinod Khosla's backing for a new agent called Wajo. 🤖\n\nWajo's edge isn't its underlying model.\n\nIt's how the agent proves reliability on real tasks, not benchmarks.\n\nRaw scores don't predict real-world performance, so trust becomes the deciding factor.\n\nThat means you may soon pick agents by reliability, not leaderboard rank. ⚙️\n\nTry one agent on a real task this week. 🧪\n\nWhich agent do you actually trust with your work today? 🤔"
+      }
+    },
+    "instagram_caption": "An ex-DeepMind engineer just got Vinod Khosla's backing for a new agent called Wajo. 🤖\n\nWajo's edge isn't its underlying model.\n\nIt's how the agent proves reliability on real tasks, not benchmarks.\n\nRaw scores don't predict real-world performance, so trust becomes the deciding factor.\n\nThat means you may soon pick agents by reliability, not leaderboard rank. ⚙️\n\nTry one agent on a real task this week. 🧪\n\nWhich agent do you actually trust with your work today? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Is trust the new benchmark for AI?",
+        "description": "Vinod Khosla backs ex-DeepMind engineer's Wajo to beat billion-dollar agent giants on reliability, not raw model power.",
+        "visual_hint": "Glowing digital brain versus trophy",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Khosla bets on ex-DeepMind engineer",
+        "description": "Wajo's real weapon isn't the model; it's proving reliability on real tasks, not just benchmarks.",
+        "visual_hint": "Investor handshake with startup logo",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "handshake office",
+        "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Benchmarks are lying to you",
+        "description": "Raw scores don't predict real-world performance. Soon you'll choose agents based on trust, not leaderboard rankings.",
+        "visual_hint": "Leaderboard cracking under pressure",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one agent on a real task",
+        "description": "Take a single real task this week and run it through one agent. See if it delivers without hand-holding.",
+        "visual_hint": "Person testing app on laptop",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "laptop testing",
+        "image": "https://images.pexels.com/photos/3862605/pexels-photo-3862605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: trust beats benchmarks",
+        "description": "Which agent do you trust with your work today? Test one on a real post this week and see why trust matters.",
+        "visual_hint": "Finger tapping save icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/3-1.jpeg?resize=1200,675",
+    "savedAt": "2026-10-06T17:38:41.511Z",
+    "sourceId": "2e9425f7b39cb9eaab56776eb116eaf4"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "mirror-particle-is-building-a-world-model-of-human",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Mirror Particle is building a ‘world model’ of human behavior",
+    "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+    "pubDate": "Tue, 06 Oct 2026 16:35:00 +0000",
+    "slides": [
+      "Can Mirror Particle predict what you'll do next?",
+      "It builds a world model of human behavior",
+      "But behavior isn't physics—it shifts with context",
+      "Your team could soon simulate user decisions",
+      "Test one prediction against real outcomes today"
+    ],
+    "thread_text": [
+      "1. Mirror Particle's Bet\n\nIt builds a world model of human behavior, not just your clicks. The company claims it can forecast what you'll do next before you decide.",
+      "2. Behavior Isn't Physics\n\nUnlike gravity, human decisions shift with context. The same person chooses differently depending on mood, framing, or who's watching.",
+      "3. Your Team's New Toy\n\nSoon you could simulate user decisions inside your product. No need to guess how people respond to a new feature or pricing change.",
+      "4. Test It Today\n\nTake one prediction from Mirror Particle and run it against real outcomes. If it's wrong, the model just learned something valuable.",
+      "5. Whose Behavior Is It?\n\nIf a model can predict you, does it also shape you? Ask yourself: would you trust a system that knows your next move?"
+    ],
+    "video_script": [
+      "Mirror Particle claims it can predict your next decision.",
+      "It builds a world model of human behavior, not physics.",
+      "But people shift with context, unlike gravity or atoms.",
+      "Your team could simulate user choices before shipping features.",
+      "Test one prediction against real outcomes today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Mirror Particle's Bet\n\nIt builds a world model of human behavior, not just your clicks. The company claims it can forecast what you'll do next before you decide.",
+          "2. Behavior Isn't Physics\n\nUnlike gravity, human decisions shift with context. The same person chooses differently depending on mood, framing, or who's watching.",
+          "3. Your Team's New Toy\n\nSoon you could simulate user decisions inside your product. No need to guess how people respond to a new feature or pricing change.",
+          "4. Test It Today\n\nTake one prediction from Mirror Particle and run it against real outcomes. If it's wrong, the model just learned something valuable.",
+          "5. Whose Behavior Is It?\n\nIf a model can predict you, does it also shape you? Ask yourself: would you trust a system that knows your next move?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Mirror Particle claims it can predict your next decision.",
+          "It builds a world model of human behavior, not physics.",
+          "But people shift with context, unlike gravity or atoms.",
+          "Your team could simulate user choices before shipping features.",
+          "Test one prediction against real outcomes today."
+        ]
+      },
+      "instagram": {
+        "caption": "Someone is claiming they can forecast what you'll do before you decide. 🔮\n\nMirror Particle is building a world model of human behavior, not just clicks.\n\nBut behavior isn't gravity. The same person picks differently based on mood or who's watching. 🧠\n\nSoon your team could simulate user decisions before shipping a feature or changing pricing.\n\nIf you make content, one wrong prediction tells you more than ten surveys. 👀\n\nWould you trust a system that knows your next move?"
+      }
+    },
+    "instagram_caption": "Someone is claiming they can forecast what you'll do before you decide. 🔮\n\nMirror Particle is building a world model of human behavior, not just clicks.\n\nBut behavior isn't gravity. The same person picks differently based on mood or who's watching. 🧠\n\nSoon your team could simulate user decisions before shipping a feature or changing pricing.\n\nIf you make content, one wrong prediction tells you more than ten surveys. 👀\n\nWould you trust a system that knows your next move?",
+    "carousel_slides": [
+      {
+        "hook": "Can a model predict your next move?",
+        "description": "Mirror Particle builds a world model of human behavior, forecasting decisions before you even make them. But behavior isn't physics—it shifts with context.",
+        "visual_hint": "Abstract neural network brain glowing",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "neural network brain"
+      },
+      {
+        "hook": "Your decisions aren't governed by gravity",
+        "description": "Unlike physical laws, human choices change with mood, framing, and audience. A world model must capture that fluidity, not just clicks.",
+        "visual_hint": "Person standing at a crossroads",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "person crossroads",
+        "image": "https://images.pexels.com/photos/13013697/pexels-photo-13013697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Soon you'll simulate users inside your product",
+        "description": "Test how people respond to new features or pricing without guessing. Mirror Particle lets your team run behavioral simulations before launch.",
+        "visual_hint": "Dashboard with user simulation graphs",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "dashboard analytics screen",
+        "image": "https://images.pexels.com/photos/8100069/pexels-photo-8100069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one prediction against real outcomes today",
+        "description": "Take a single forecast from Mirror Particle, compare it to actual behavior. If it's wrong, the model learns something valuable.",
+        "visual_hint": "Split screen prediction vs reality",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "split screen comparison",
+        "image": "https://images.pexels.com/photos/21391567/pexels-photo-21391567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this. Would you trust a system that knows your next move?",
+        "description": "If a model can predict you, does it also shape you? Share your thoughts in the comments and visit the link in bio to explore more.",
+        "visual_hint": "Person facing a glowing predictive interface",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person interface glowing",
+        "image": "https://images.pexels.com/photos/37911407/pexels-photo-37911407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675",
+    "savedAt": "2026-10-06T17:38:33.316Z",
+    "sourceId": "23d4205c2c0b5e9af75c45a981289c27"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-is-adding-text-watermarking-in-chatgpt-and-",
     "prompt_version": "1.0.0",
     "status": "published",

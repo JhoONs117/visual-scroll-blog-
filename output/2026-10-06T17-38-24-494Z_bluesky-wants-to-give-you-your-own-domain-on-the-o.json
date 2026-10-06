@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "bluesky-wants-to-give-you-your-own-domain-on-the-o",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Bluesky wants to give you your own domain on the open web",
+  "link": "https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/",
+  "pubDate": "Tue, 06 Oct 2026 14:41:52 +0000",
+  "slides": [
+    "Bluesky wants to hand you a domain — but why?",
+    "Your handle could become your actual website address",
+    "Most users still don't control their online identity",
+    "Sign up now to claim yours before squatters do",
+    "Own your name or rent it forever?"
+  ],
+  "thread_text": [
+    "1. Your handle just became real estate\n\nBluesky now hands you a domain for free. Your @name can resolve as an actual web address, no registrar needed.",
+    "2. Why is a social app giving away domains?\n\nBecause whoever controls your handle controls your identity. Bluesky is betting that ownership keeps you locked in — not ads.",
+    "3. Most people are still renting their name\n\nOn other platforms, your handle is a lease. The company can revoke it, rename you, or sell your reach overnight.",
+    "4. Squatters are already circling\n\nEarly claimers lock in the good names. Late arrivals get leftovers — or pay a premium to whoever grabbed theirs first.",
+    "5. Go claim your name today\n\nSign in to Bluesky, open settings, and set your handle as a domain before someone else does. Did you already check if yours is taken?"
+  ],
+  "video_script": [
+    "Bluesky is giving users free domains for their handles.",
+    "Your username can now work as a real website address.",
+    "Most platforms still rent your identity to you.",
+    "Squatters grab good names fast, so timing matters.",
+    "Claim your handle now before someone else takes it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your handle just became real estate\n\nBluesky now hands you a domain for free. Your @name can resolve as an actual web address, no registrar needed.",
+        "2. Why is a social app giving away domains?\n\nBecause whoever controls your handle controls your identity. Bluesky is betting that ownership keeps you locked in — not ads.",
+        "3. Most people are still renting their name\n\nOn other platforms, your handle is a lease. The company can revoke it, rename you, or sell your reach overnight.",
+        "4. Squatters are already circling\n\nEarly claimers lock in the good names. Late arrivals get leftovers — or pay a premium to whoever grabbed theirs first.",
+        "5. Go claim your name today\n\nSign in to Bluesky, open settings, and set your handle as a domain before someone else does. Did you already check if yours is taken?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Bluesky is giving users free domains for their handles.",
+        "Your username can now work as a real website address.",
+        "Most platforms still rent your identity to you.",
+        "Squatters grab good names fast, so timing matters.",
+        "Claim your handle now before someone else takes it."
+      ]
+    },
+    "instagram": {
+      "caption": "Your @handle on Bluesky can now double as a real web address you actually own.\n\nBluesky started handing users their own domain for free — no registrar, no fees.\n\nIt works because whoever controls your handle controls your identity, and the app is betting ownership keeps you around.\n\nEverywhere else your name is just a lease the platform can revoke or sell overnight.\n\nIf you publish anything under a handle, you already know your audience finds you there — lose it and you lose the link.\n\nSquatters are grabbing good names first, so early claimers win.\n\nCheck settings today: is yours still available? 🔍"
+    }
+  },
+  "instagram_caption": "Your @handle on Bluesky can now double as a real web address you actually own.\n\nBluesky started handing users their own domain for free — no registrar, no fees.\n\nIt works because whoever controls your handle controls your identity, and the app is betting ownership keeps you around.\n\nEverywhere else your name is just a lease the platform can revoke or sell overnight.\n\nIf you publish anything under a handle, you already know your audience finds you there — lose it and you lose the link.\n\nSquatters are grabbing good names first, so early claimers win.\n\nCheck settings today: is yours still available? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Are you renting your own name?",
+      "description": "On most platforms your handle is a lease. The company can revoke or rename it overnight without warning.",
+      "visual_hint": "Person holding phone with fading username",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "person holding smartphone"
+    },
+    {
+      "hook": "Bluesky gives you a free domain",
+      "description": "Your handle can now resolve as a real web address. No registrar fees, no middleman required to claim it.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Domain name resolving on screen",
+      "image_query": "computer screen code",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Whoever controls your handle controls you",
+      "description": "Bluesky bets that owning your identity keeps you loyal. Not ads, not algorithms, just genuine ownership of your name.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Digital identity network nodes glowing",
+      "image_query": "network server room",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Squatters are already grabbing good names",
+      "description": "Early claimers lock in the best handles. Late arrivals get leftovers or pay a premium to whoever grabbed theirs first.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hand typing domain name quickly",
+      "image_query": "hands typing keyboard",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Go claim your name before someone else does",
+      "description": "Sign in to Bluesky, open settings, and set your handle as a domain today. Save this and check if yours is still available.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Checkmark beside claimed domain name",
+      "image_query": "checkmark digital screen",
+      "image": "https://images.pexels.com/photos/34328485/pexels-photo-34328485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024",
+  "savedAt": "2026-10-06T17:38:51.961Z",
+  "sourceId": "ae1870a9c544727df5fdb8471351b9c2"
+}
