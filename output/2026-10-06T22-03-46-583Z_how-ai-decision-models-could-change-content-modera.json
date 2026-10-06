@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "how-ai-decision-models-could-change-content-modera",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "How AI decision models could change content moderation",
+  "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+  "pubDate": "Tue, 06 Oct 2026 20:35:20 +0000",
+  "slides": [
+    "Can AI decision models make content moderation obsolete?",
+    "They predict outcomes, not just flag rule violations",
+    "But they inherit biases from flawed training data",
+    "Your moderation team needs new skills to audit them",
+    "Ask: who trains the decision model you deploy?"
+  ],
+  "thread_text": [
+    "1. Moderation's Next Shift\n\nAI models now predict outcomes, not just flag violations. That changes who gets silenced and why.",
+    "2. Bias by Design\n\nThey inherit biases from flawed training data. Your team can't just review flags anymore.",
+    "3. New Skills Needed\n\nModerators must audit decision models. That means understanding how they learn and fail.",
+    "4. Who Trains Your AI?\n\nAsk who built the model you deploy. Their choices shape every call your team makes.",
+    "5. Test It Yourself\n\nTake a prompt on ChatGPT and simulate a moderation decision. If you haven't done it, start there."
+  ],
+  "video_script": [
+    "AI models now predict outcomes, not just flag violations.",
+    "They inherit biases from flawed training data.",
+    "Your moderation team needs new skills to audit them.",
+    "Ask: who trains the decision model you deploy?",
+    "Test a moderation decision on ChatGPT today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Moderation's Next Shift\n\nAI models now predict outcomes, not just flag violations. That changes who gets silenced and why.",
+        "2. Bias by Design\n\nThey inherit biases from flawed training data. Your team can't just review flags anymore.",
+        "3. New Skills Needed\n\nModerators must audit decision models. That means understanding how they learn and fail.",
+        "4. Who Trains Your AI?\n\nAsk who built the model you deploy. Their choices shape every call your team makes.",
+        "5. Test It Yourself\n\nTake a prompt on ChatGPT and simulate a moderation decision. If you haven't done it, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI models now predict outcomes, not just flag violations.",
+        "They inherit biases from flawed training data.",
+        "Your moderation team needs new skills to audit them.",
+        "Ask: who trains the decision model you deploy?",
+        "Test a moderation decision on ChatGPT today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your moderation team flags a post. An AI model now predicts what happens next.\n\nThese models don't just catch rule violations. They forecast outcomes: who gets silenced, who gets amplified.\n\nThey learn from training data, so they absorb its biases. Your reviewers can't just check flags anymore. They have to audit the model itself. 🧠\n\nThat means new skills on your team, and hard questions about who built the model you deploy.\n\nIf you publish or moderate content, your reach now depends on decisions no human fully reviews.\n\nHave you ever asked who trained the model making calls on your posts? 🔍"
+    }
+  },
+  "instagram_caption": "Your moderation team flags a post. An AI model now predicts what happens next.\n\nThese models don't just catch rule violations. They forecast outcomes: who gets silenced, who gets amplified.\n\nThey learn from training data, so they absorb its biases. Your reviewers can't just check flags anymore. They have to audit the model itself. 🧠\n\nThat means new skills on your team, and hard questions about who built the model you deploy.\n\nIf you publish or moderate content, your reach now depends on decisions no human fully reviews.\n\nHave you ever asked who trained the model making calls on your posts? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Is your AI moderation team biased?",
+      "description": "AI decision models inherit biases from flawed training data, so your moderation team cannot just review flags anymore.",
+      "visual_hint": "Glowing server rack with warning light",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "AI predicts outcomes, not just violations",
+      "description": "These models predict outcomes beyond rule violations, changing who gets silenced and why.",
+      "visual_hint": "Futuristic interface with predictive graphs",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data visualization",
+      "image": "https://images.pexels.com/photos/7948065/pexels-photo-7948065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Biased training data leads to silent censorship",
+      "description": "They inherit biases from flawed training data. Your team must audit decision models, understanding how they learn and fail.",
+      "visual_hint": "Distorted mirror reflecting data",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "code screen",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who trains the AI you deploy?",
+      "description": "Ask who built the model you deploy. Their choices shape every call your team makes.",
+      "visual_hint": "Hand holding glowing AI chip",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "robot hand",
+      "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your moderation AI now",
+      "description": "Take a prompt on ChatGPT and simulate a moderation decision. If you haven't done it, start there.",
+      "visual_hint": "Laptop with ChatGPT interface",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop screen",
+      "image": "https://images.pexels.com/photos/17115912/pexels-photo-17115912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1200,675",
+  "savedAt": "2026-10-06T22:04:04.176Z",
+  "sourceId": "aedc083d210ff86e50ebe59d5aec5dc3"
+}

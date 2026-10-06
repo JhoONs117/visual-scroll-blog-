@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-computing-startup-lambda-to-raise-4b-ahead-of-p",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+  "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+  "pubDate": "Tue, 06 Oct 2026 20:00:30 +0000",
+  "slides": [
+    "Lambda wants $4B before its IPO — why now?",
+    "The AI computing startup rents GPU clusters to train models",
+    "Its revenue run rate reportedly just crossed $500M",
+    "That means your cloud GPU bill could soon shift providers",
+    "Check if your training costs favor Lambda over incumbents"
+  ],
+  "thread_text": [
+    "1. Lambda's $4B IPO Gamble\n\nLambda just crossed $500M in revenue and wants $4B before going public. The GPU rental market is heating up fast.",
+    "2. What Lambda Actually Does\n\nThe startup rents GPU clusters so companies can train AI models without buying hardware. Think of it as Airbnb for compute.",
+    "3. The Revenue Run Rate Jump\n\nHitting $500M means Lambda is no longer a niche player. It's now competing directly with AWS, Google Cloud, and Azure.",
+    "4. Why Your Bill Might Change\n\nIf Lambda undercuts incumbents, your cloud GPU costs could drop. Or your provider might slash prices to keep you.",
+    "5. Run Your Own Numbers\n\nCheck your last training bill. Compare Lambda's per-hour rates to what you pay now. If the gap is wide, switch."
+  ],
+  "video_script": [
+    "Lambda wants four billion dollars before its public offering.",
+    "It rents graphics processors so you can train AI models.",
+    "Its yearly revenue just passed five hundred million dollars.",
+    "That means your cloud graphics bill might soon change.",
+    "Compare Lambda's prices to your current provider today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Lambda's $4B IPO Gamble\n\nLambda just crossed $500M in revenue and wants $4B before going public. The GPU rental market is heating up fast.",
+        "2. What Lambda Actually Does\n\nThe startup rents GPU clusters so companies can train AI models without buying hardware. Think of it as Airbnb for compute.",
+        "3. The Revenue Run Rate Jump\n\nHitting $500M means Lambda is no longer a niche player. It's now competing directly with AWS, Google Cloud, and Azure.",
+        "4. Why Your Bill Might Change\n\nIf Lambda undercuts incumbents, your cloud GPU costs could drop. Or your provider might slash prices to keep you.",
+        "5. Run Your Own Numbers\n\nCheck your last training bill. Compare Lambda's per-hour rates to what you pay now. If the gap is wide, switch."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Lambda wants four billion dollars before its public offering.",
+        "It rents graphics processors so you can train AI models.",
+        "Its yearly revenue just passed five hundred million dollars.",
+        "That means your cloud graphics bill might soon change.",
+        "Compare Lambda's prices to your current provider today."
+      ]
+    },
+    "instagram": {
+      "caption": "Lambda just crossed $500M in revenue renting GPU clusters — and now wants $4B before going public. 🚀\n\nIf you train models, Lambda is the Airbnb of compute: rent GPUs by the hour instead of buying hardware.\n\nThat revenue jump means it's now taking on AWS, Google Cloud and Azure directly. 💥\n\nSo your cloud provider might cut GPU prices to keep you — or you just switch and pay less.\n\nCheck your last training bill, compare Lambda's hourly rate, and if the gap is wide, move. 🧮\n\nWould you actually switch providers to cut costs, or is migrating too painful? 🤔"
+    }
+  },
+  "instagram_caption": "Lambda just crossed $500M in revenue renting GPU clusters — and now wants $4B before going public. 🚀\n\nIf you train models, Lambda is the Airbnb of compute: rent GPUs by the hour instead of buying hardware.\n\nThat revenue jump means it's now taking on AWS, Google Cloud and Azure directly. 💥\n\nSo your cloud provider might cut GPU prices to keep you — or you just switch and pay less.\n\nCheck your last training bill, compare Lambda's hourly rate, and if the gap is wide, move. 🧮\n\nWould you actually switch providers to cut costs, or is migrating too painful? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "$500M revenue, then $4B before IPO?",
+      "description": "Lambda reportedly crossed $500M in revenue run rate and now seeks $4B ahead of its planned IPO.",
+      "visual_hint": "Close-up of a stock exchange ticker screen.",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Lambda rents GPU clusters to train AI models",
+      "description": "The startup rents GPU clusters so companies can train AI models without buying hardware, like Airbnb for compute.",
+      "visual_hint": "Rows of glowing GPU server racks.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your cloud GPU bill could soon shift",
+      "description": "If Lambda undercuts incumbents, your cloud GPU costs could drop, or your current provider may cut prices.",
+      "visual_hint": "Cloud cost dashboard with falling line graph.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "cloud computing",
+      "image": "https://images.pexels.com/photos/12899121/pexels-photo-12899121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Does your training budget favor Lambda?",
+      "description": "Check your last training bill. Compare Lambda's per-hour rates to what you pay now, and decide.",
+      "visual_hint": "Hand holding invoice over laptop.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next GPU bill",
+      "description": "Run your own numbers: compare Lambda's per-hour rates to your current provider, and reply with your savings.",
+      "visual_hint": "Smartphone with calculator app open.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calculator",
+      "image": "https://images.pexels.com/photos/8296969/pexels-photo-8296969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1148109686.jpg?resize=1200,687",
+  "savedAt": "2026-10-06T22:04:12.415Z",
+  "sourceId": "c6c0f9e409efb4ee87ac94ce0ad01643"
+}

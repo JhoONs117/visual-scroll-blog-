@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "silicon-valley-s-ai-wunderkind-launches-underdog-t",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+  "link": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+  "pubDate": "Tue, 06 Oct 2026 20:47:01 +0000",
+  "slides": [
+    "Can a teenager out-privacy Silicon Valley giants?",
+    "Underdog claims zero data retention by default",
+    "But its model runs partly on-device. How?",
+    "Your chats never leave your phone. What breaks?",
+    "Test Underdog on one sensitive prompt today"
+  ],
+  "thread_text": [
+    "1. Teen vs. Tech Giants\n\nA 17-year-old built Underdog, a chat app that claims zero data retention by default. Unlike Big Tech, it doesn't store your chats on a server.",
+    "2. Bye-Bye Server Storage\n\nUnderdog processes messages partly on your device. That means even if someone subpoenas the company, there's nothing to hand over.",
+    "3. The On-Device Catch\n\nRunning AI on a phone is slow and limited. So Underdog splits the work: some stays local, some goes to the cloud. But then, is it really private?",
+    "4. When Privacy Breaks\n\nIf your chats never leave your phone, you lose access to them from other devices. No sync, no backup. And if you lose your phone, your history is gone forever.",
+    "5. Your Move\n\nOpen your favorite AI chat and send one sensitive prompt. Then ask: would you trust it on Underdog? Test it today."
+  ],
+  "video_script": [
+    "A teenager built a private chat app.",
+    "It keeps your messages on your phone.",
+    "But some data still goes to the cloud.",
+    "So you lose sync and backup.",
+    "Try one sensitive prompt and see."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Teen vs. Tech Giants\n\nA 17-year-old built Underdog, a chat app that claims zero data retention by default. Unlike Big Tech, it doesn't store your chats on a server.",
+        "2. Bye-Bye Server Storage\n\nUnderdog processes messages partly on your device. That means even if someone subpoenas the company, there's nothing to hand over.",
+        "3. The On-Device Catch\n\nRunning AI on a phone is slow and limited. So Underdog splits the work: some stays local, some goes to the cloud. But then, is it really private?",
+        "4. When Privacy Breaks\n\nIf your chats never leave your phone, you lose access to them from other devices. No sync, no backup. And if you lose your phone, your history is gone forever.",
+        "5. Your Move\n\nOpen your favorite AI chat and send one sensitive prompt. Then ask: would you trust it on Underdog? Test it today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A teenager built a private chat app.",
+        "It keeps your messages on your phone.",
+        "But some data still goes to the cloud.",
+        "So you lose sync and backup.",
+        "Try one sensitive prompt and see."
+      ]
+    },
+    "instagram": {
+      "caption": "A 17-year-old says his chat app keeps zero of your data by default. 🔒\n\nUnderdog runs part of its AI on your phone, so chats never hit a server.\n\nThat means even a subpoena turns up nothing to hand over.\n\nThe catch: split processing, no sync, no backup. Lose your phone, lose your history.\n\nIf you write or work on your phone, your archive now lives on one device only.\n\nWould you trade sync and backup for chats no court can reach? 💭"
+    }
+  },
+  "instagram_caption": "A 17-year-old says his chat app keeps zero of your data by default. 🔒\n\nUnderdog runs part of its AI on your phone, so chats never hit a server.\n\nThat means even a subpoena turns up nothing to hand over.\n\nThe catch: split processing, no sync, no backup. Lose your phone, lose your history.\n\nIf you write or work on your phone, your archive now lives on one device only.\n\nWould you trade sync and backup for chats no court can reach? 💭",
+  "carousel_slides": [
+    {
+      "hook": "Can a teen beat Big Tech privacy?",
+      "description": "A 17-year-old built Underdog, claiming zero data retention by default. Unlike Big Tech, it doesn't store your chats on a server.",
+      "visual_hint": "Teen developer coding at laptop",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "teenager coding"
+    },
+    {
+      "hook": "Underdog promises zero data retention",
+      "description": "Underdog processes messages partly on your device. Even if someone subpoenas the company, there's nothing to hand over.",
+      "visual_hint": "Smartphone with privacy shield icon",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone privacy",
+      "image": "https://images.pexels.com/photos/6963187/pexels-photo-6963187.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "On-device AI: is it really private?",
+      "description": "Running AI on a phone is slow and limited. Underdog splits work local and cloud, but then is it truly private?",
+      "visual_hint": "Smartphone with split screen: local and cloud",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smartphone cloud",
+      "image": "https://images.pexels.com/photos/2230898/pexels-photo-2230898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No sync, no backup, no history",
+      "description": "If chats never leave your phone, you lose access from other devices. Lose your phone, history is gone forever.",
+      "visual_hint": "Phone with broken sync icon",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "broken phone",
+      "image": "https://images.pexels.com/photos/6755053/pexels-photo-6755053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Underdog with one sensitive prompt",
+      "description": "Open your favorite AI chat and send one sensitive prompt. Then ask: would you trust it on Underdog? Save this and try today.",
+      "visual_hint": "Person typing on phone with shield",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person typing phone",
+      "image": "https://images.pexels.com/photos/5592313/pexels-photo-5592313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
+  "savedAt": "2026-10-06T22:03:54.216Z",
+  "sourceId": "e2d7657db4f8b5e1b8a130c078c0a3d0"
+}

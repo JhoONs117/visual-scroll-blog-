@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "the-next-hurdle-for-ai-agents-getting-websites-to-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The next hurdle for AI agents: getting websites to let them in",
+    "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+    "pubDate": "Tue, 06 Oct 2026 19:56:50 +0000",
+    "slides": [
+      "Can AI agents get past the web's front door?",
+      "Websites now block bots with CAPTCHAs and paywalls.",
+      "But agents are learning to mimic human browsing.",
+      "Your favorite sites may soon open to agents.",
+      "Ask: will you let agents act for you?"
+    ],
+    "thread_text": [
+      "1. The Web's Front Door Is Closing\n\nAI agents can now browse like humans, but websites are fighting back with CAPTCHAs and paywalls. The battle for access has begun.",
+      "2. Bots Hit a Wall\n\nSites deploy CAPTCHAs and paywalls to block automated traffic. This prevents agents from completing tasks like booking or research.",
+      "3. Agents Learn to Blend In\n\nNew AI models mimic human mouse movements and timing to bypass checks. They're getting harder to detect.",
+      "4. Your Favorite Sites May Open Up\n\nAs agents prove useful, sites might whitelist them for tasks like shopping or scheduling. Access could become a feature, not a threat.",
+      "5. Will You Delegate Your Browsing?\n\nNext time you book a flight, consider letting an agent handle it. Try a simple task on ChatGPT with browsing enabled. If it fails, you'll know why."
+    ],
+    "video_script": [
+      "AI agents want to browse the web for you.",
+      "But websites block bots with CAPTCHAs and paywalls.",
+      "Agents are learning to mimic human behavior.",
+      "Soon, your favorite sites might welcome them.",
+      "Will you let an agent act on your behalf?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Web's Front Door Is Closing\n\nAI agents can now browse like humans, but websites are fighting back with CAPTCHAs and paywalls. The battle for access has begun.",
+          "2. Bots Hit a Wall\n\nSites deploy CAPTCHAs and paywalls to block automated traffic. This prevents agents from completing tasks like booking or research.",
+          "3. Agents Learn to Blend In\n\nNew AI models mimic human mouse movements and timing to bypass checks. They're getting harder to detect.",
+          "4. Your Favorite Sites May Open Up\n\nAs agents prove useful, sites might whitelist them for tasks like shopping or scheduling. Access could become a feature, not a threat.",
+          "5. Will You Delegate Your Browsing?\n\nNext time you book a flight, consider letting an agent handle it. Try a simple task on ChatGPT with browsing enabled. If it fails, you'll know why."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI agents want to browse the web for you.",
+          "But websites block bots with CAPTCHAs and paywalls.",
+          "Agents are learning to mimic human behavior.",
+          "Soon, your favorite sites might welcome them.",
+          "Will you let an agent act on your behalf?"
+        ]
+      },
+      "instagram": {
+        "caption": "Your next flight booking might stall at a CAPTCHA a bot can't solve.\n\nAI agents can browse like humans now, but websites are slamming the door with CAPTCHAs and paywalls.\n\nNew models fake mouse movements and timing to slip past those checks.\n\nIf you publish a site, agents may soon ask for a key instead of forcing the door.\n\nStart by whitelisting bots for simple tasks like scheduling, then watch what they break.\n\nWould you actually let an agent book your next trip for you? 🤖🚪"
+      }
+    },
+    "instagram_caption": "Your next flight booking might stall at a CAPTCHA a bot can't solve.\n\nAI agents can browse like humans now, but websites are slamming the door with CAPTCHAs and paywalls.\n\nNew models fake mouse movements and timing to slip past those checks.\n\nIf you publish a site, agents may soon ask for a key instead of forcing the door.\n\nStart by whitelisting bots for simple tasks like scheduling, then watch what they break.\n\nWould you actually let an agent book your next trip for you? 🤖🚪",
+    "carousel_slides": [
+      {
+        "hook": "Will websites ever open doors to AI?",
+        "description": "AI agents can browse like humans, but sites fight back with CAPTCHAs and paywalls. Will access become a feature?",
+        "visual_hint": "Locked door with digital padlock",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "locked door"
+      },
+      {
+        "hook": "Bots hit a wall",
+        "description": "Websites deploy CAPTCHAs and paywalls to block automated traffic, preventing agents from completing tasks like booking or research.",
+        "visual_hint": "CAPTCHA challenge on screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "captcha screen",
+        "image": "https://images.pexels.com/photos/39608730/pexels-photo-39608730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI agents learn to mimic humans",
+        "description": "New AI models mimic human mouse movements and timing to bypass checks. They're getting harder to detect.",
+        "visual_hint": "Cursor moving like human hand",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer cursor",
+        "image": "https://images.pexels.com/photos/7240353/pexels-photo-7240353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sites may soon open up to agents",
+        "description": "As agents prove useful, sites might whitelist them for tasks like shopping or scheduling. Access could become a feature.",
+        "visual_hint": "Website interface with agent access",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "website interface",
+        "image": "https://images.pexels.com/photos/7679865/pexels-photo-7679865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ready to let agents act for you?",
+        "description": "Next time you book a flight, consider letting an agent handle it. Try a simple task with browsing enabled.",
+        "visual_hint": "Hand delegating to robot assistant",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "robot assistant",
+        "image": "https://images.pexels.com/photos/9534649/pexels-photo-9534649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agent-bots-GettyImages-2243729307.jpg?resize=1200,800",
+    "savedAt": "2026-10-06T22:04:20.550Z",
+    "sourceId": "159ed2438ba175b0a78888c9270a33e5"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ai-computing-startup-lambda-to-raise-4b-ahead-of-p",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+    "pubDate": "Tue, 06 Oct 2026 20:00:30 +0000",
+    "slides": [
+      "Lambda wants $4B before its IPO — why now?",
+      "The AI computing startup rents GPU clusters to train models",
+      "Its revenue run rate reportedly just crossed $500M",
+      "That means your cloud GPU bill could soon shift providers",
+      "Check if your training costs favor Lambda over incumbents"
+    ],
+    "thread_text": [
+      "1. Lambda's $4B IPO Gamble\n\nLambda just crossed $500M in revenue and wants $4B before going public. The GPU rental market is heating up fast.",
+      "2. What Lambda Actually Does\n\nThe startup rents GPU clusters so companies can train AI models without buying hardware. Think of it as Airbnb for compute.",
+      "3. The Revenue Run Rate Jump\n\nHitting $500M means Lambda is no longer a niche player. It's now competing directly with AWS, Google Cloud, and Azure.",
+      "4. Why Your Bill Might Change\n\nIf Lambda undercuts incumbents, your cloud GPU costs could drop. Or your provider might slash prices to keep you.",
+      "5. Run Your Own Numbers\n\nCheck your last training bill. Compare Lambda's per-hour rates to what you pay now. If the gap is wide, switch."
+    ],
+    "video_script": [
+      "Lambda wants four billion dollars before its public offering.",
+      "It rents graphics processors so you can train AI models.",
+      "Its yearly revenue just passed five hundred million dollars.",
+      "That means your cloud graphics bill might soon change.",
+      "Compare Lambda's prices to your current provider today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Lambda's $4B IPO Gamble\n\nLambda just crossed $500M in revenue and wants $4B before going public. The GPU rental market is heating up fast.",
+          "2. What Lambda Actually Does\n\nThe startup rents GPU clusters so companies can train AI models without buying hardware. Think of it as Airbnb for compute.",
+          "3. The Revenue Run Rate Jump\n\nHitting $500M means Lambda is no longer a niche player. It's now competing directly with AWS, Google Cloud, and Azure.",
+          "4. Why Your Bill Might Change\n\nIf Lambda undercuts incumbents, your cloud GPU costs could drop. Or your provider might slash prices to keep you.",
+          "5. Run Your Own Numbers\n\nCheck your last training bill. Compare Lambda's per-hour rates to what you pay now. If the gap is wide, switch."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Lambda wants four billion dollars before its public offering.",
+          "It rents graphics processors so you can train AI models.",
+          "Its yearly revenue just passed five hundred million dollars.",
+          "That means your cloud graphics bill might soon change.",
+          "Compare Lambda's prices to your current provider today."
+        ]
+      },
+      "instagram": {
+        "caption": "Lambda just crossed $500M in revenue renting GPU clusters — and now wants $4B before going public. 🚀\n\nIf you train models, Lambda is the Airbnb of compute: rent GPUs by the hour instead of buying hardware.\n\nThat revenue jump means it's now taking on AWS, Google Cloud and Azure directly. 💥\n\nSo your cloud provider might cut GPU prices to keep you — or you just switch and pay less.\n\nCheck your last training bill, compare Lambda's hourly rate, and if the gap is wide, move. 🧮\n\nWould you actually switch providers to cut costs, or is migrating too painful? 🤔"
+      }
+    },
+    "instagram_caption": "Lambda just crossed $500M in revenue renting GPU clusters — and now wants $4B before going public. 🚀\n\nIf you train models, Lambda is the Airbnb of compute: rent GPUs by the hour instead of buying hardware.\n\nThat revenue jump means it's now taking on AWS, Google Cloud and Azure directly. 💥\n\nSo your cloud provider might cut GPU prices to keep you — or you just switch and pay less.\n\nCheck your last training bill, compare Lambda's hourly rate, and if the gap is wide, move. 🧮\n\nWould you actually switch providers to cut costs, or is migrating too painful? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "$500M revenue, then $4B before IPO?",
+        "description": "Lambda reportedly crossed $500M in revenue run rate and now seeks $4B ahead of its planned IPO.",
+        "visual_hint": "Close-up of a stock exchange ticker screen.",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Lambda rents GPU clusters to train AI models",
+        "description": "The startup rents GPU clusters so companies can train AI models without buying hardware, like Airbnb for compute.",
+        "visual_hint": "Rows of glowing GPU server racks.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your cloud GPU bill could soon shift",
+        "description": "If Lambda undercuts incumbents, your cloud GPU costs could drop, or your current provider may cut prices.",
+        "visual_hint": "Cloud cost dashboard with falling line graph.",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "cloud computing",
+        "image": "https://images.pexels.com/photos/12899121/pexels-photo-12899121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Does your training budget favor Lambda?",
+        "description": "Check your last training bill. Compare Lambda's per-hour rates to what you pay now, and decide.",
+        "visual_hint": "Hand holding invoice over laptop.",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your next GPU bill",
+        "description": "Run your own numbers: compare Lambda's per-hour rates to your current provider, and reply with your savings.",
+        "visual_hint": "Smartphone with calculator app open.",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calculator",
+        "image": "https://images.pexels.com/photos/8296969/pexels-photo-8296969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1148109686.jpg?resize=1200,687",
+    "savedAt": "2026-10-06T22:04:12.415Z",
+    "sourceId": "c6c0f9e409efb4ee87ac94ce0ad01643"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "how-ai-decision-models-could-change-content-modera",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "How AI decision models could change content moderation",
+    "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+    "pubDate": "Tue, 06 Oct 2026 20:35:20 +0000",
+    "slides": [
+      "Can AI decision models make content moderation obsolete?",
+      "They predict outcomes, not just flag rule violations",
+      "But they inherit biases from flawed training data",
+      "Your moderation team needs new skills to audit them",
+      "Ask: who trains the decision model you deploy?"
+    ],
+    "thread_text": [
+      "1. Moderation's Next Shift\n\nAI models now predict outcomes, not just flag violations. That changes who gets silenced and why.",
+      "2. Bias by Design\n\nThey inherit biases from flawed training data. Your team can't just review flags anymore.",
+      "3. New Skills Needed\n\nModerators must audit decision models. That means understanding how they learn and fail.",
+      "4. Who Trains Your AI?\n\nAsk who built the model you deploy. Their choices shape every call your team makes.",
+      "5. Test It Yourself\n\nTake a prompt on ChatGPT and simulate a moderation decision. If you haven't done it, start there."
+    ],
+    "video_script": [
+      "AI models now predict outcomes, not just flag violations.",
+      "They inherit biases from flawed training data.",
+      "Your moderation team needs new skills to audit them.",
+      "Ask: who trains the decision model you deploy?",
+      "Test a moderation decision on ChatGPT today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Moderation's Next Shift\n\nAI models now predict outcomes, not just flag violations. That changes who gets silenced and why.",
+          "2. Bias by Design\n\nThey inherit biases from flawed training data. Your team can't just review flags anymore.",
+          "3. New Skills Needed\n\nModerators must audit decision models. That means understanding how they learn and fail.",
+          "4. Who Trains Your AI?\n\nAsk who built the model you deploy. Their choices shape every call your team makes.",
+          "5. Test It Yourself\n\nTake a prompt on ChatGPT and simulate a moderation decision. If you haven't done it, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI models now predict outcomes, not just flag violations.",
+          "They inherit biases from flawed training data.",
+          "Your moderation team needs new skills to audit them.",
+          "Ask: who trains the decision model you deploy?",
+          "Test a moderation decision on ChatGPT today."
+        ]
+      },
+      "instagram": {
+        "caption": "Your moderation team flags a post. An AI model now predicts what happens next.\n\nThese models don't just catch rule violations. They forecast outcomes: who gets silenced, who gets amplified.\n\nThey learn from training data, so they absorb its biases. Your reviewers can't just check flags anymore. They have to audit the model itself. 🧠\n\nThat means new skills on your team, and hard questions about who built the model you deploy.\n\nIf you publish or moderate content, your reach now depends on decisions no human fully reviews.\n\nHave you ever asked who trained the model making calls on your posts? 🔍"
+      }
+    },
+    "instagram_caption": "Your moderation team flags a post. An AI model now predicts what happens next.\n\nThese models don't just catch rule violations. They forecast outcomes: who gets silenced, who gets amplified.\n\nThey learn from training data, so they absorb its biases. Your reviewers can't just check flags anymore. They have to audit the model itself. 🧠\n\nThat means new skills on your team, and hard questions about who built the model you deploy.\n\nIf you publish or moderate content, your reach now depends on decisions no human fully reviews.\n\nHave you ever asked who trained the model making calls on your posts? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Is your AI moderation team biased?",
+        "description": "AI decision models inherit biases from flawed training data, so your moderation team cannot just review flags anymore.",
+        "visual_hint": "Glowing server rack with warning light",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "AI predicts outcomes, not just violations",
+        "description": "These models predict outcomes beyond rule violations, changing who gets silenced and why.",
+        "visual_hint": "Futuristic interface with predictive graphs",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data visualization",
+        "image": "https://images.pexels.com/photos/7948065/pexels-photo-7948065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Biased training data leads to silent censorship",
+        "description": "They inherit biases from flawed training data. Your team must audit decision models, understanding how they learn and fail.",
+        "visual_hint": "Distorted mirror reflecting data",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "code screen",
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who trains the AI you deploy?",
+        "description": "Ask who built the model you deploy. Their choices shape every call your team makes.",
+        "visual_hint": "Hand holding glowing AI chip",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "robot hand",
+        "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your moderation AI now",
+        "description": "Take a prompt on ChatGPT and simulate a moderation decision. If you haven't done it, start there.",
+        "visual_hint": "Laptop with ChatGPT interface",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop screen",
+        "image": "https://images.pexels.com/photos/17115912/pexels-photo-17115912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1200,675",
+    "savedAt": "2026-10-06T22:04:04.176Z",
+    "sourceId": "aedc083d210ff86e50ebe59d5aec5dc3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "silicon-valley-s-ai-wunderkind-launches-underdog-t",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+    "link": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+    "pubDate": "Tue, 06 Oct 2026 20:47:01 +0000",
+    "slides": [
+      "Can a teenager out-privacy Silicon Valley giants?",
+      "Underdog claims zero data retention by default",
+      "But its model runs partly on-device. How?",
+      "Your chats never leave your phone. What breaks?",
+      "Test Underdog on one sensitive prompt today"
+    ],
+    "thread_text": [
+      "1. Teen vs. Tech Giants\n\nA 17-year-old built Underdog, a chat app that claims zero data retention by default. Unlike Big Tech, it doesn't store your chats on a server.",
+      "2. Bye-Bye Server Storage\n\nUnderdog processes messages partly on your device. That means even if someone subpoenas the company, there's nothing to hand over.",
+      "3. The On-Device Catch\n\nRunning AI on a phone is slow and limited. So Underdog splits the work: some stays local, some goes to the cloud. But then, is it really private?",
+      "4. When Privacy Breaks\n\nIf your chats never leave your phone, you lose access to them from other devices. No sync, no backup. And if you lose your phone, your history is gone forever.",
+      "5. Your Move\n\nOpen your favorite AI chat and send one sensitive prompt. Then ask: would you trust it on Underdog? Test it today."
+    ],
+    "video_script": [
+      "A teenager built a private chat app.",
+      "It keeps your messages on your phone.",
+      "But some data still goes to the cloud.",
+      "So you lose sync and backup.",
+      "Try one sensitive prompt and see."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Teen vs. Tech Giants\n\nA 17-year-old built Underdog, a chat app that claims zero data retention by default. Unlike Big Tech, it doesn't store your chats on a server.",
+          "2. Bye-Bye Server Storage\n\nUnderdog processes messages partly on your device. That means even if someone subpoenas the company, there's nothing to hand over.",
+          "3. The On-Device Catch\n\nRunning AI on a phone is slow and limited. So Underdog splits the work: some stays local, some goes to the cloud. But then, is it really private?",
+          "4. When Privacy Breaks\n\nIf your chats never leave your phone, you lose access to them from other devices. No sync, no backup. And if you lose your phone, your history is gone forever.",
+          "5. Your Move\n\nOpen your favorite AI chat and send one sensitive prompt. Then ask: would you trust it on Underdog? Test it today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A teenager built a private chat app.",
+          "It keeps your messages on your phone.",
+          "But some data still goes to the cloud.",
+          "So you lose sync and backup.",
+          "Try one sensitive prompt and see."
+        ]
+      },
+      "instagram": {
+        "caption": "A 17-year-old says his chat app keeps zero of your data by default. 🔒\n\nUnderdog runs part of its AI on your phone, so chats never hit a server.\n\nThat means even a subpoena turns up nothing to hand over.\n\nThe catch: split processing, no sync, no backup. Lose your phone, lose your history.\n\nIf you write or work on your phone, your archive now lives on one device only.\n\nWould you trade sync and backup for chats no court can reach? 💭"
+      }
+    },
+    "instagram_caption": "A 17-year-old says his chat app keeps zero of your data by default. 🔒\n\nUnderdog runs part of its AI on your phone, so chats never hit a server.\n\nThat means even a subpoena turns up nothing to hand over.\n\nThe catch: split processing, no sync, no backup. Lose your phone, lose your history.\n\nIf you write or work on your phone, your archive now lives on one device only.\n\nWould you trade sync and backup for chats no court can reach? 💭",
+    "carousel_slides": [
+      {
+        "hook": "Can a teen beat Big Tech privacy?",
+        "description": "A 17-year-old built Underdog, claiming zero data retention by default. Unlike Big Tech, it doesn't store your chats on a server.",
+        "visual_hint": "Teen developer coding at laptop",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "teenager coding"
+      },
+      {
+        "hook": "Underdog promises zero data retention",
+        "description": "Underdog processes messages partly on your device. Even if someone subpoenas the company, there's nothing to hand over.",
+        "visual_hint": "Smartphone with privacy shield icon",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone privacy",
+        "image": "https://images.pexels.com/photos/6963187/pexels-photo-6963187.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "On-device AI: is it really private?",
+        "description": "Running AI on a phone is slow and limited. Underdog splits work local and cloud, but then is it truly private?",
+        "visual_hint": "Smartphone with split screen: local and cloud",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "smartphone cloud",
+        "image": "https://images.pexels.com/photos/2230898/pexels-photo-2230898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No sync, no backup, no history",
+        "description": "If chats never leave your phone, you lose access from other devices. Lose your phone, history is gone forever.",
+        "visual_hint": "Phone with broken sync icon",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "broken phone",
+        "image": "https://images.pexels.com/photos/6755053/pexels-photo-6755053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Underdog with one sensitive prompt",
+        "description": "Open your favorite AI chat and send one sensitive prompt. Then ask: would you trust it on Underdog? Save this and try today.",
+        "visual_hint": "Person typing on phone with shield",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person typing phone",
+        "image": "https://images.pexels.com/photos/5592313/pexels-photo-5592313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
+    "savedAt": "2026-10-06T22:03:54.216Z",
+    "sourceId": "e2d7657db4f8b5e1b8a130c078c0a3d0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "mistral-s-new-1t-model-aims-to-leapfrog-closed-and",
     "prompt_version": "1.0.0",
     "status": "published",
