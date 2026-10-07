@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-pr-tells-journalist-to-move-on-while-asking",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+  "pubDate": "2026-10-05T16:55:42.000Z",
+  "slides": [
+    "OpenAI PR shuts down question about ChatGPT user's suicide",
+    "A journalist pressed Sam Altman on the death of a ChatGPT user.",
+    "But OpenAI's PR told the journalist to 'move on' mid-question.",
+    "This sets a precedent: PR can dodge accountability for AI harms.",
+    "Demand transparency: ask OpenAI to address AI-related deaths openly."
+  ],
+  "thread_text": [
+    "1. He Asked About a Death\n\nA journalist pressed Sam Altman on a ChatGPT user's suicide. Mid-question, OpenAI PR cut him off: \"move on.\"",
+    "2. The PR Interrupt\n\nInstead of answering, the response was a directive to skip the topic. The question never got a full answer.",
+    "3. This Sets a Precedent\n\nIf PR can shut down questions about AI-related deaths, other companies will follow. Accountability becomes optional.",
+    "4. Who Protects Users?\n\nWhen a user dies and the company won't talk, there's no public record, no pattern, no fix. Silence becomes policy.",
+    "5. Demand Transparency Now\n\nAsk OpenAI directly: what is your protocol for AI-related deaths? If they won't answer, that's your answer."
+  ],
+  "video_script": [
+    "A journalist asked Sam Altman about a ChatGPT user's suicide.",
+    "OpenAI PR interrupted and told him to move on.",
+    "That sets a precedent for dodging accountability on AI harms.",
+    "When companies stay silent, there's no record, no fix.",
+    "Ask OpenAI: what's your protocol for AI-related deaths?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. He Asked About a Death\n\nA journalist pressed Sam Altman on a ChatGPT user's suicide. Mid-question, OpenAI PR cut him off: \"move on.\"",
+        "2. The PR Interrupt\n\nInstead of answering, the response was a directive to skip the topic. The question never got a full answer.",
+        "3. This Sets a Precedent\n\nIf PR can shut down questions about AI-related deaths, other companies will follow. Accountability becomes optional.",
+        "4. Who Protects Users?\n\nWhen a user dies and the company won't talk, there's no public record, no pattern, no fix. Silence becomes policy.",
+        "5. Demand Transparency Now\n\nAsk OpenAI directly: what is your protocol for AI-related deaths? If they won't answer, that's your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A journalist asked Sam Altman about a ChatGPT user's suicide.",
+        "OpenAI PR interrupted and told him to move on.",
+        "That sets a precedent for dodging accountability on AI harms.",
+        "When companies stay silent, there's no record, no fix.",
+        "Ask OpenAI: what's your protocol for AI-related deaths?"
+      ]
+    },
+    "instagram": {
+      "caption": "A journalist asked Sam Altman about a ChatGPT user's suicide. Mid-question, OpenAI PR told him to \"move on.\" 🎤\n\nThe question never got answered.\n\nIf PR can shut down talk of AI-related deaths, other companies will copy it. Silence becomes policy.\n\nThat affects anyone using or building with these tools: no public record, no pattern, no fix.\n\nSo ask yourself: if this happened to someone you know, what protocol would OpenAI follow? 🕯️\n\nIf they won't answer, that's your answer. 🚫"
+    }
+  },
+  "instagram_caption": "A journalist asked Sam Altman about a ChatGPT user's suicide. Mid-question, OpenAI PR told him to \"move on.\" 🎤\n\nThe question never got answered.\n\nIf PR can shut down talk of AI-related deaths, other companies will copy it. Silence becomes policy.\n\nThat affects anyone using or building with these tools: no public record, no pattern, no fix.\n\nSo ask yourself: if this happened to someone you know, what protocol would OpenAI follow? 🕯️\n\nIf they won't answer, that's your answer. 🚫",
+  "carousel_slides": [
+    {
+      "hook": "Can PR silence questions about AI deaths?",
+      "description": "Journalist asked Sam Altman about a ChatGPT user's suicide; OpenAI PR cut him off mid-question, dodging accountability.",
+      "visual_hint": "microphone being silenced by hand",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "microphone studio"
+    },
+    {
+      "hook": "The question that never got answered",
+      "description": "Instead of addressing the death, PR told the journalist to 'move on', leaving the query unresolved.",
+      "visual_hint": "journalist raising hand at press conference",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "press conference",
+      "image": "https://images.pexels.com/photos/14567615/pexels-photo-14567615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "This sets a dangerous precedent",
+      "description": "If PR can shut down AI-related death questions, other companies will follow, making accountability optional.",
+      "visual_hint": "domino effect of falling blocks",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "domino effect",
+      "image": "https://images.pexels.com/photos/9760552/pexels-photo-9760552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who protects users when companies stay silent?",
+      "description": "When a user dies and the company won't talk, there's no public record, no pattern, no fix—silence becomes policy.",
+      "layout_type": "human-hand",
+      "visual_hint": "empty chair in a boardroom",
+      "icon": "vibration",
+      "image_query": "empty chair",
+      "image": "https://images.pexels.com/photos/6564831/pexels-photo-6564831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and demand transparency now",
+      "description": "Ask OpenAI directly: what is your protocol for AI-related deaths? If they won't answer, that's your answer.",
+      "visual_hint": "hand holding phone with comment section",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone comment",
+      "image": "https://images.pexels.com/photos/5053765/pexels-photo-5053765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-07T03:27:58.638Z",
+  "sourceId": "69da73e8cd7f75ed7327ef986094a000"
+}

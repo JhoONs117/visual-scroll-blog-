@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ex-ramp-engineers-raise-20m-for-platform-melius-af",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+  "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+  "pubDate": "Tue, 06 Oct 2026 22:34:03 +0000",
+  "slides": [
+    "Ex-Ramp engineers raised $20M—but their first product? Scrapped.",
+    "They pivoted to Melius, a platform for unknown purpose.",
+    "Investors backed them despite the pivot—why?",
+    "Melius automates financial ops for mid-sized companies.",
+    "Pivot fast or die: test one assumption this week."
+  ],
+  "thread_text": [
+    "1. Scrapped After $20M\n\nEx-Ramp engineers raised $20M, then killed their first product. They pivoted to Melius, and investors still backed them.",
+    "2. Unknown Purpose Pivot\n\nMelius was pitched as a platform for an unspecified use case. Skeptics questioned why VCs doubled down before clarity emerged.",
+    "3. Backed Despite Pivot\n\nInvestors bet on the team's pattern recognition, not the original idea. They saw speed of iteration as the real asset.",
+    "4. Financial Ops Automation\n\nMelius now automates financial operations for mid-sized companies. The pivot turned a vague concept into a concrete B2B tool.",
+    "5. Test One Assumption\n\nPick one assumption in your current project. Run a 48-hour test on it this week. If you haven't done it, start there."
+  ],
+  "video_script": [
+    "They raised twenty million dollars, then scrapped their product.",
+    "So they pivoted to Melius, but wouldn't say what it did.",
+    "Investors still wrote checks because they bet on the team.",
+    "Now Melius automates financial operations for mid-sized companies.",
+    "Test one assumption this week, or risk dying slow."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Scrapped After $20M\n\nEx-Ramp engineers raised $20M, then killed their first product. They pivoted to Melius, and investors still backed them.",
+        "2. Unknown Purpose Pivot\n\nMelius was pitched as a platform for an unspecified use case. Skeptics questioned why VCs doubled down before clarity emerged.",
+        "3. Backed Despite Pivot\n\nInvestors bet on the team's pattern recognition, not the original idea. They saw speed of iteration as the real asset.",
+        "4. Financial Ops Automation\n\nMelius now automates financial operations for mid-sized companies. The pivot turned a vague concept into a concrete B2B tool.",
+        "5. Test One Assumption\n\nPick one assumption in your current project. Run a 48-hour test on it this week. If you haven't done it, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "They raised twenty million dollars, then scrapped their product.",
+        "So they pivoted to Melius, but wouldn't say what it did.",
+        "Investors still wrote checks because they bet on the team.",
+        "Now Melius automates financial operations for mid-sized companies.",
+        "Test one assumption this week, or risk dying slow."
+      ]
+    },
+    "instagram": {
+      "caption": "They raised $20M and then killed their own product.\n\nTwo ex-Ramp engineers scrapped their first idea, pitched Melius with no clear use case, and investors still wired the money. 💸\n\nThe bet wasn't the idea. It was how fast the team killed it and moved.\n\nMelius now automates financial ops for mid-sized companies — a vague concept turned concrete B2B tool. 🔧\n\nIf you build or publish content, this is your signal: your first version is disposable. Your speed isn't.\n\nPick one assumption in your current project. Test it in 48 hours. ⏱️\n\nWhat are you still defending that you already know is dead? 👀"
+    }
+  },
+  "instagram_caption": "They raised $20M and then killed their own product.\n\nTwo ex-Ramp engineers scrapped their first idea, pitched Melius with no clear use case, and investors still wired the money. 💸\n\nThe bet wasn't the idea. It was how fast the team killed it and moved.\n\nMelius now automates financial ops for mid-sized companies — a vague concept turned concrete B2B tool. 🔧\n\nIf you build or publish content, this is your signal: your first version is disposable. Your speed isn't.\n\nPick one assumption in your current project. Test it in 48 hours. ⏱️\n\nWhat are you still defending that you already know is dead? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Investors bet on speed, not idea?",
+      "description": "Ex-Ramp engineers raised $20M for Melius after scrapping their first product. VCs backed their iteration speed over the original concept.",
+      "visual_hint": "Pitch deck with bold metrics",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "startup pitch deck"
+    },
+    {
+      "hook": "What if your product fails?",
+      "description": "They pivoted to Melius, initially pitched as a platform for an unspecified use case. Skeptics questioned why VCs doubled down.",
+      "visual_hint": "Split screen: old vs new product",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "product prototype sketch",
+      "image": "https://images.pexels.com/photos/6665023/pexels-photo-6665023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Why back a vague concept?",
+      "description": "Investors saw pattern recognition and fast iteration as the real asset, not the original idea. Team quality outweighed early ambiguity.",
+      "visual_hint": "Investor looking at growth chart",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "From vague to concrete B2B tool",
+      "description": "Melius now automates financial operations for mid-sized companies. The pivot turned an unspecified platform into a focused automation solution.",
+      "visual_hint": "Automated financial dashboard on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "financial dashboard screen",
+      "image": "https://images.pexels.com/photos/7681671/pexels-photo-7681671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one assumption this week",
+      "description": "Pick one assumption in your current project. Run a 48-hour test now. Save this post and share your result in comments.",
+      "visual_hint": "Timer with 48-hour countdown",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "countdown timer",
+      "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Melius.jpg?resize=1200,800",
+  "savedAt": "2026-10-07T03:27:31.943Z",
+  "sourceId": "3bd217aa84bd6b84a1483f31271752ca"
+}

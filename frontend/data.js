@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-pr-tells-journalist-to-move-on-while-asking",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+    "pubDate": "2026-10-05T16:55:42.000Z",
+    "slides": [
+      "OpenAI PR shuts down question about ChatGPT user's suicide",
+      "A journalist pressed Sam Altman on the death of a ChatGPT user.",
+      "But OpenAI's PR told the journalist to 'move on' mid-question.",
+      "This sets a precedent: PR can dodge accountability for AI harms.",
+      "Demand transparency: ask OpenAI to address AI-related deaths openly."
+    ],
+    "thread_text": [
+      "1. He Asked About a Death\n\nA journalist pressed Sam Altman on a ChatGPT user's suicide. Mid-question, OpenAI PR cut him off: \"move on.\"",
+      "2. The PR Interrupt\n\nInstead of answering, the response was a directive to skip the topic. The question never got a full answer.",
+      "3. This Sets a Precedent\n\nIf PR can shut down questions about AI-related deaths, other companies will follow. Accountability becomes optional.",
+      "4. Who Protects Users?\n\nWhen a user dies and the company won't talk, there's no public record, no pattern, no fix. Silence becomes policy.",
+      "5. Demand Transparency Now\n\nAsk OpenAI directly: what is your protocol for AI-related deaths? If they won't answer, that's your answer."
+    ],
+    "video_script": [
+      "A journalist asked Sam Altman about a ChatGPT user's suicide.",
+      "OpenAI PR interrupted and told him to move on.",
+      "That sets a precedent for dodging accountability on AI harms.",
+      "When companies stay silent, there's no record, no fix.",
+      "Ask OpenAI: what's your protocol for AI-related deaths?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. He Asked About a Death\n\nA journalist pressed Sam Altman on a ChatGPT user's suicide. Mid-question, OpenAI PR cut him off: \"move on.\"",
+          "2. The PR Interrupt\n\nInstead of answering, the response was a directive to skip the topic. The question never got a full answer.",
+          "3. This Sets a Precedent\n\nIf PR can shut down questions about AI-related deaths, other companies will follow. Accountability becomes optional.",
+          "4. Who Protects Users?\n\nWhen a user dies and the company won't talk, there's no public record, no pattern, no fix. Silence becomes policy.",
+          "5. Demand Transparency Now\n\nAsk OpenAI directly: what is your protocol for AI-related deaths? If they won't answer, that's your answer."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A journalist asked Sam Altman about a ChatGPT user's suicide.",
+          "OpenAI PR interrupted and told him to move on.",
+          "That sets a precedent for dodging accountability on AI harms.",
+          "When companies stay silent, there's no record, no fix.",
+          "Ask OpenAI: what's your protocol for AI-related deaths?"
+        ]
+      },
+      "instagram": {
+        "caption": "A journalist asked Sam Altman about a ChatGPT user's suicide. Mid-question, OpenAI PR told him to \"move on.\" 🎤\n\nThe question never got answered.\n\nIf PR can shut down talk of AI-related deaths, other companies will copy it. Silence becomes policy.\n\nThat affects anyone using or building with these tools: no public record, no pattern, no fix.\n\nSo ask yourself: if this happened to someone you know, what protocol would OpenAI follow? 🕯️\n\nIf they won't answer, that's your answer. 🚫"
+      }
+    },
+    "instagram_caption": "A journalist asked Sam Altman about a ChatGPT user's suicide. Mid-question, OpenAI PR told him to \"move on.\" 🎤\n\nThe question never got answered.\n\nIf PR can shut down talk of AI-related deaths, other companies will copy it. Silence becomes policy.\n\nThat affects anyone using or building with these tools: no public record, no pattern, no fix.\n\nSo ask yourself: if this happened to someone you know, what protocol would OpenAI follow? 🕯️\n\nIf they won't answer, that's your answer. 🚫",
+    "carousel_slides": [
+      {
+        "hook": "Can PR silence questions about AI deaths?",
+        "description": "Journalist asked Sam Altman about a ChatGPT user's suicide; OpenAI PR cut him off mid-question, dodging accountability.",
+        "visual_hint": "microphone being silenced by hand",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "microphone studio"
+      },
+      {
+        "hook": "The question that never got answered",
+        "description": "Instead of addressing the death, PR told the journalist to 'move on', leaving the query unresolved.",
+        "visual_hint": "journalist raising hand at press conference",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "press conference",
+        "image": "https://images.pexels.com/photos/14567615/pexels-photo-14567615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "This sets a dangerous precedent",
+        "description": "If PR can shut down AI-related death questions, other companies will follow, making accountability optional.",
+        "visual_hint": "domino effect of falling blocks",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "domino effect",
+        "image": "https://images.pexels.com/photos/9760552/pexels-photo-9760552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who protects users when companies stay silent?",
+        "description": "When a user dies and the company won't talk, there's no public record, no pattern, no fix—silence becomes policy.",
+        "layout_type": "human-hand",
+        "visual_hint": "empty chair in a boardroom",
+        "icon": "vibration",
+        "image_query": "empty chair",
+        "image": "https://images.pexels.com/photos/6564831/pexels-photo-6564831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and demand transparency now",
+        "description": "Ask OpenAI directly: what is your protocol for AI-related deaths? If they won't answer, that's your answer.",
+        "visual_hint": "hand holding phone with comment section",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone comment",
+        "image": "https://images.pexels.com/photos/5053765/pexels-photo-5053765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-07T03:27:58.638Z",
+    "sourceId": "69da73e8cd7f75ed7327ef986094a000"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-drops-another-batch-of-mathematical-breakth",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI drops another batch of mathematical breakthroughs",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+    "pubDate": "2026-10-06T23:26:38.000Z",
+    "slides": [
+      "OpenAI just cracked problems math's best couldn't. What changed?",
+      "These aren't contest puzzles. They're open research conjectures.",
+      "The model found proofs humans had missed for decades.",
+      "Check your own hard problems — AI may already solve them.",
+      "Stop asking if AI can reason. Ask what it just proved."
+    ],
+    "thread_text": [
+      "1. AI Cracks Open Math\n\nOpenAI's model produced proofs for open research conjectures, not contest puzzles. Mathematicians had missed them for decades.",
+      "2. Proofs Humans Missed\n\nThese aren't toy problems. The model found valid proofs for questions that stumped experts since the 1980s.",
+      "3. Not Just Pattern Matching\n\nIt's not retrieving known answers. The AI constructed novel logical steps, then verified them formally.",
+      "4. Your Hard Problem Next\n\nIf it can solve open conjectures, it might handle your stuck project. Test it on a problem you've abandoned.",
+      "5. What Did It Prove?\n\nStop debating if AI reasons. Take a conjecture from your field and ask the model for a proof. See what happens."
+    ],
+    "video_script": [
+      "OpenAI's AI just solved open math problems.",
+      "Not contest puzzles—real conjectures experts missed.",
+      "The model found proofs humans overlooked for decades.",
+      "Check your own stuck problems. AI might solve them.",
+      "Stop asking if AI reasons. Ask what it proved."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI Cracks Open Math\n\nOpenAI's model produced proofs for open research conjectures, not contest puzzles. Mathematicians had missed them for decades.",
+          "2. Proofs Humans Missed\n\nThese aren't toy problems. The model found valid proofs for questions that stumped experts since the 1980s.",
+          "3. Not Just Pattern Matching\n\nIt's not retrieving known answers. The AI constructed novel logical steps, then verified them formally.",
+          "4. Your Hard Problem Next\n\nIf it can solve open conjectures, it might handle your stuck project. Test it on a problem you've abandoned.",
+          "5. What Did It Prove?\n\nStop debating if AI reasons. Take a conjecture from your field and ask the model for a proof. See what happens."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI's AI just solved open math problems.",
+          "Not contest puzzles—real conjectures experts missed.",
+          "The model found proofs humans overlooked for decades.",
+          "Check your own stuck problems. AI might solve them.",
+          "Stop asking if AI reasons. Ask what it proved."
+        ]
+      },
+      "instagram": {
+        "caption": "A model just wrote proofs for open research conjectures that mathematicians had missed for decades. 🧠\n\nThese aren't contest puzzles — they're genuine open questions that stumped experts since the 1980s.\n\nThe AI didn't retrieve known answers. It built new logical steps and verified them formally.\n\nSo the problem you abandoned in your drafts might already be solvable — run it through a model today.\n\n📐 If it can prove open conjectures, what's stopping you from testing it on your own stuck problem?\n\nWhat have you got sitting in a drawer? 🤔"
+      }
+    },
+    "instagram_caption": "A model just wrote proofs for open research conjectures that mathematicians had missed for decades. 🧠\n\nThese aren't contest puzzles — they're genuine open questions that stumped experts since the 1980s.\n\nThe AI didn't retrieve known answers. It built new logical steps and verified them formally.\n\nSo the problem you abandoned in your drafts might already be solvable — run it through a model today.\n\n📐 If it can prove open conjectures, what's stopping you from testing it on your own stuck problem?\n\nWhat have you got sitting in a drawer? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "AI just proved what mathematicians couldn't",
+        "description": "OpenAI's model found proofs for open research conjectures, not contest puzzles. Experts had missed them for decades.",
+        "visual_hint": "Glowing mathematical symbols on dark screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "blackboard equations"
+      },
+      {
+        "hook": "These aren't toy problems",
+        "description": "They're open research conjectures that stumped mathematicians since the 1980s. The model delivered valid proofs where humans failed.",
+        "visual_hint": "Old library with dusty math books",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "library bookshelf",
+        "image": "https://images.pexels.com/photos/5114911/pexels-photo-5114911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It didn't retrieve — it constructed",
+        "description": "The AI built novel logical steps and verified them formally, not just pattern-matching known answers. A new kind of reasoning.",
+        "visual_hint": "Abstract neural network visualization",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "neural network diagram",
+        "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your stuck problem might be next",
+        "description": "If AI solves open conjectures, it could crack your abandoned project. Test it on one problem you've given up on.",
+        "visual_hint": "Hand holding pen over notebook",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand writing notebook",
+        "image": "https://images.pexels.com/photos/5583621/pexels-photo-5583621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this. Then test your own conjecture",
+        "description": "Stop debating if AI reasons. Pick a conjecture from your field and ask the model for a proof. See what happens.",
+        "visual_hint": "Person typing on laptop late night",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop night desk",
+        "image": "https://images.pexels.com/photos/7864380/pexels-photo-7864380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.744316765259%2C100%2C78.511366469482&amp;w=1200",
+    "savedAt": "2026-10-07T03:27:50.337Z",
+    "sourceId": "9edaf582bfe592c50620436c71d54676"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ex-ramp-engineers-raise-20m-for-platform-melius-af",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "pubDate": "Tue, 06 Oct 2026 22:34:03 +0000",
+    "slides": [
+      "Ex-Ramp engineers raised $20M—but their first product? Scrapped.",
+      "They pivoted to Melius, a platform for unknown purpose.",
+      "Investors backed them despite the pivot—why?",
+      "Melius automates financial ops for mid-sized companies.",
+      "Pivot fast or die: test one assumption this week."
+    ],
+    "thread_text": [
+      "1. Scrapped After $20M\n\nEx-Ramp engineers raised $20M, then killed their first product. They pivoted to Melius, and investors still backed them.",
+      "2. Unknown Purpose Pivot\n\nMelius was pitched as a platform for an unspecified use case. Skeptics questioned why VCs doubled down before clarity emerged.",
+      "3. Backed Despite Pivot\n\nInvestors bet on the team's pattern recognition, not the original idea. They saw speed of iteration as the real asset.",
+      "4. Financial Ops Automation\n\nMelius now automates financial operations for mid-sized companies. The pivot turned a vague concept into a concrete B2B tool.",
+      "5. Test One Assumption\n\nPick one assumption in your current project. Run a 48-hour test on it this week. If you haven't done it, start there."
+    ],
+    "video_script": [
+      "They raised twenty million dollars, then scrapped their product.",
+      "So they pivoted to Melius, but wouldn't say what it did.",
+      "Investors still wrote checks because they bet on the team.",
+      "Now Melius automates financial operations for mid-sized companies.",
+      "Test one assumption this week, or risk dying slow."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Scrapped After $20M\n\nEx-Ramp engineers raised $20M, then killed their first product. They pivoted to Melius, and investors still backed them.",
+          "2. Unknown Purpose Pivot\n\nMelius was pitched as a platform for an unspecified use case. Skeptics questioned why VCs doubled down before clarity emerged.",
+          "3. Backed Despite Pivot\n\nInvestors bet on the team's pattern recognition, not the original idea. They saw speed of iteration as the real asset.",
+          "4. Financial Ops Automation\n\nMelius now automates financial operations for mid-sized companies. The pivot turned a vague concept into a concrete B2B tool.",
+          "5. Test One Assumption\n\nPick one assumption in your current project. Run a 48-hour test on it this week. If you haven't done it, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "They raised twenty million dollars, then scrapped their product.",
+          "So they pivoted to Melius, but wouldn't say what it did.",
+          "Investors still wrote checks because they bet on the team.",
+          "Now Melius automates financial operations for mid-sized companies.",
+          "Test one assumption this week, or risk dying slow."
+        ]
+      },
+      "instagram": {
+        "caption": "They raised $20M and then killed their own product.\n\nTwo ex-Ramp engineers scrapped their first idea, pitched Melius with no clear use case, and investors still wired the money. 💸\n\nThe bet wasn't the idea. It was how fast the team killed it and moved.\n\nMelius now automates financial ops for mid-sized companies — a vague concept turned concrete B2B tool. 🔧\n\nIf you build or publish content, this is your signal: your first version is disposable. Your speed isn't.\n\nPick one assumption in your current project. Test it in 48 hours. ⏱️\n\nWhat are you still defending that you already know is dead? 👀"
+      }
+    },
+    "instagram_caption": "They raised $20M and then killed their own product.\n\nTwo ex-Ramp engineers scrapped their first idea, pitched Melius with no clear use case, and investors still wired the money. 💸\n\nThe bet wasn't the idea. It was how fast the team killed it and moved.\n\nMelius now automates financial ops for mid-sized companies — a vague concept turned concrete B2B tool. 🔧\n\nIf you build or publish content, this is your signal: your first version is disposable. Your speed isn't.\n\nPick one assumption in your current project. Test it in 48 hours. ⏱️\n\nWhat are you still defending that you already know is dead? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Investors bet on speed, not idea?",
+        "description": "Ex-Ramp engineers raised $20M for Melius after scrapping their first product. VCs backed their iteration speed over the original concept.",
+        "visual_hint": "Pitch deck with bold metrics",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "startup pitch deck"
+      },
+      {
+        "hook": "What if your product fails?",
+        "description": "They pivoted to Melius, initially pitched as a platform for an unspecified use case. Skeptics questioned why VCs doubled down.",
+        "visual_hint": "Split screen: old vs new product",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "product prototype sketch",
+        "image": "https://images.pexels.com/photos/6665023/pexels-photo-6665023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Why back a vague concept?",
+        "description": "Investors saw pattern recognition and fast iteration as the real asset, not the original idea. Team quality outweighed early ambiguity.",
+        "visual_hint": "Investor looking at growth chart",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "From vague to concrete B2B tool",
+        "description": "Melius now automates financial operations for mid-sized companies. The pivot turned an unspecified platform into a focused automation solution.",
+        "visual_hint": "Automated financial dashboard on screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "financial dashboard screen",
+        "image": "https://images.pexels.com/photos/7681671/pexels-photo-7681671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one assumption this week",
+        "description": "Pick one assumption in your current project. Run a 48-hour test now. Save this post and share your result in comments.",
+        "visual_hint": "Timer with 48-hour countdown",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "countdown timer",
+        "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Melius.jpg?resize=1200,800",
+    "savedAt": "2026-10-07T03:27:31.943Z",
+    "sourceId": "3bd217aa84bd6b84a1483f31271752ca"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "the-next-hurdle-for-ai-agents-getting-websites-to-",
     "prompt_version": "1.0.0",
     "status": "published",

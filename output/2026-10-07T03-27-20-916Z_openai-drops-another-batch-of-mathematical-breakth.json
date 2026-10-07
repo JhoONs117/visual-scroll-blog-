@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-drops-another-batch-of-mathematical-breakth",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI drops another batch of mathematical breakthroughs",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+  "pubDate": "2026-10-06T23:26:38.000Z",
+  "slides": [
+    "OpenAI just cracked problems math's best couldn't. What changed?",
+    "These aren't contest puzzles. They're open research conjectures.",
+    "The model found proofs humans had missed for decades.",
+    "Check your own hard problems — AI may already solve them.",
+    "Stop asking if AI can reason. Ask what it just proved."
+  ],
+  "thread_text": [
+    "1. AI Cracks Open Math\n\nOpenAI's model produced proofs for open research conjectures, not contest puzzles. Mathematicians had missed them for decades.",
+    "2. Proofs Humans Missed\n\nThese aren't toy problems. The model found valid proofs for questions that stumped experts since the 1980s.",
+    "3. Not Just Pattern Matching\n\nIt's not retrieving known answers. The AI constructed novel logical steps, then verified them formally.",
+    "4. Your Hard Problem Next\n\nIf it can solve open conjectures, it might handle your stuck project. Test it on a problem you've abandoned.",
+    "5. What Did It Prove?\n\nStop debating if AI reasons. Take a conjecture from your field and ask the model for a proof. See what happens."
+  ],
+  "video_script": [
+    "OpenAI's AI just solved open math problems.",
+    "Not contest puzzles—real conjectures experts missed.",
+    "The model found proofs humans overlooked for decades.",
+    "Check your own stuck problems. AI might solve them.",
+    "Stop asking if AI reasons. Ask what it proved."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Cracks Open Math\n\nOpenAI's model produced proofs for open research conjectures, not contest puzzles. Mathematicians had missed them for decades.",
+        "2. Proofs Humans Missed\n\nThese aren't toy problems. The model found valid proofs for questions that stumped experts since the 1980s.",
+        "3. Not Just Pattern Matching\n\nIt's not retrieving known answers. The AI constructed novel logical steps, then verified them formally.",
+        "4. Your Hard Problem Next\n\nIf it can solve open conjectures, it might handle your stuck project. Test it on a problem you've abandoned.",
+        "5. What Did It Prove?\n\nStop debating if AI reasons. Take a conjecture from your field and ask the model for a proof. See what happens."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI's AI just solved open math problems.",
+        "Not contest puzzles—real conjectures experts missed.",
+        "The model found proofs humans overlooked for decades.",
+        "Check your own stuck problems. AI might solve them.",
+        "Stop asking if AI reasons. Ask what it proved."
+      ]
+    },
+    "instagram": {
+      "caption": "A model just wrote proofs for open research conjectures that mathematicians had missed for decades. 🧠\n\nThese aren't contest puzzles — they're genuine open questions that stumped experts since the 1980s.\n\nThe AI didn't retrieve known answers. It built new logical steps and verified them formally.\n\nSo the problem you abandoned in your drafts might already be solvable — run it through a model today.\n\n📐 If it can prove open conjectures, what's stopping you from testing it on your own stuck problem?\n\nWhat have you got sitting in a drawer? 🤔"
+    }
+  },
+  "instagram_caption": "A model just wrote proofs for open research conjectures that mathematicians had missed for decades. 🧠\n\nThese aren't contest puzzles — they're genuine open questions that stumped experts since the 1980s.\n\nThe AI didn't retrieve known answers. It built new logical steps and verified them formally.\n\nSo the problem you abandoned in your drafts might already be solvable — run it through a model today.\n\n📐 If it can prove open conjectures, what's stopping you from testing it on your own stuck problem?\n\nWhat have you got sitting in a drawer? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "AI just proved what mathematicians couldn't",
+      "description": "OpenAI's model found proofs for open research conjectures, not contest puzzles. Experts had missed them for decades.",
+      "visual_hint": "Glowing mathematical symbols on dark screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "blackboard equations"
+    },
+    {
+      "hook": "These aren't toy problems",
+      "description": "They're open research conjectures that stumped mathematicians since the 1980s. The model delivered valid proofs where humans failed.",
+      "visual_hint": "Old library with dusty math books",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "library bookshelf",
+      "image": "https://images.pexels.com/photos/5114911/pexels-photo-5114911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It didn't retrieve — it constructed",
+      "description": "The AI built novel logical steps and verified them formally, not just pattern-matching known answers. A new kind of reasoning.",
+      "visual_hint": "Abstract neural network visualization",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "neural network diagram",
+      "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your stuck problem might be next",
+      "description": "If AI solves open conjectures, it could crack your abandoned project. Test it on one problem you've given up on.",
+      "visual_hint": "Hand holding pen over notebook",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand writing notebook",
+      "image": "https://images.pexels.com/photos/5583621/pexels-photo-5583621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Then test your own conjecture",
+      "description": "Stop debating if AI reasons. Pick a conjecture from your field and ask the model for a proof. See what happens.",
+      "visual_hint": "Person typing on laptop late night",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop night desk",
+      "image": "https://images.pexels.com/photos/7864380/pexels-photo-7864380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.744316765259%2C100%2C78.511366469482&amp;w=1200",
+  "savedAt": "2026-10-07T03:27:50.337Z",
+  "sourceId": "9edaf582bfe592c50620436c71d54676"
+}
