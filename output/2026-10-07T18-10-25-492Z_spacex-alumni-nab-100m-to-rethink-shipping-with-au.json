@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "spacex-alumni-nab-100m-to-rethink-shipping-with-au",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
+  "link": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
+  "pubDate": "Wed, 07 Oct 2026 15:00:00 +0000",
+  "slides": [
+    "Why would SpaceX veterans turn to freight trains?",
+    "They raised $100M to rethink shipping entirely.",
+    "But their plan bypasses existing rails completely.",
+    "Shippers may cut cross-country costs by half.",
+    "One route to test: ask if rail moves your goods cheaper."
+  ],
+  "thread_text": [
+    "1. The Freight Train Bet\n\nSpaceX veterans just raised $100M to bypass existing rails entirely. They're betting that a new kind of freight train can move goods cheaper than anything on the tracks today.",
+    "2. Why Bypass The Rails?\n\nExisting rail infrastructure is slow and inflexible. Their plan skips it completely, aiming to cut cross-country shipping costs by half for shippers.",
+    "3. $100M To Rethink Shipping\n\nThe founders come from SpaceX, where they learned to build hardware that ignores legacy systems. Now they're applying that mindset to freight.",
+    "4. Half The Cost, Same Route\n\nShippers could see cross-country costs drop by 50%. That's not a small tweak; it's a direct threat to trucking and traditional rail economics.",
+    "5. Test It On Your Route\n\nAsk your logistics team: does rail move your goods cheaper than what you're paying now? Run the numbers on one real shipment this week."
+  ],
+  "video_script": [
+    "SpaceX veterans just raised one hundred million to rethink freight.",
+    "Their plan skips existing rails and bypasses the entire system.",
+    "They say shippers could cut cross-country costs by half.",
+    "No tracks, no legacy constraints, just a new kind of train.",
+    "Ask your logistics team: does rail move your goods cheaper?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Freight Train Bet\n\nSpaceX veterans just raised $100M to bypass existing rails entirely. They're betting that a new kind of freight train can move goods cheaper than anything on the tracks today.",
+        "2. Why Bypass The Rails?\n\nExisting rail infrastructure is slow and inflexible. Their plan skips it completely, aiming to cut cross-country shipping costs by half for shippers.",
+        "3. $100M To Rethink Shipping\n\nThe founders come from SpaceX, where they learned to build hardware that ignores legacy systems. Now they're applying that mindset to freight.",
+        "4. Half The Cost, Same Route\n\nShippers could see cross-country costs drop by 50%. That's not a small tweak; it's a direct threat to trucking and traditional rail economics.",
+        "5. Test It On Your Route\n\nAsk your logistics team: does rail move your goods cheaper than what you're paying now? Run the numbers on one real shipment this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "SpaceX veterans just raised one hundred million to rethink freight.",
+        "Their plan skips existing rails and bypasses the entire system.",
+        "They say shippers could cut cross-country costs by half.",
+        "No tracks, no legacy constraints, just a new kind of train.",
+        "Ask your logistics team: does rail move your goods cheaper?"
+      ]
+    },
+    "instagram": {
+      "caption": "Cross-country shipping costs could drop by half.\n\nSpaceX veterans raised $100M to build autonomous freight trains that skip existing rails entirely. 🚂\n\nTheir hardware-first mindset targets rail that's slow and inflexible, cutting shipper costs by 50%.\n\nFor anyone shipping physical goods, that's not a small tweak — it undercuts trucking and traditional rail economics. 📦\n\nAsk your logistics team: would rail move one real shipment cheaper than what you pay now? 💰"
+    }
+  },
+  "instagram_caption": "Cross-country shipping costs could drop by half.\n\nSpaceX veterans raised $100M to build autonomous freight trains that skip existing rails entirely. 🚂\n\nTheir hardware-first mindset targets rail that's slow and inflexible, cutting shipper costs by 50%.\n\nFor anyone shipping physical goods, that's not a small tweak — it undercuts trucking and traditional rail economics. 📦\n\nAsk your logistics team: would rail move one real shipment cheaper than what you pay now? 💰",
+  "carousel_slides": [
+    {
+      "hook": "Why bypass every existing rail line?",
+      "description": "SpaceX veterans raised $100M to skip legacy rail infrastructure entirely, cutting cross-country shipping costs by half.",
+      "visual_hint": "Abandoned rail tracks fading into distance",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "railway tracks"
+    },
+    {
+      "hook": "SpaceX mindset meets freight trains",
+      "description": "Founders learned at SpaceX to build hardware ignoring legacy systems. Now they apply that to reinvent freight transport.",
+      "visual_hint": "Engineers examining futuristic train prototype",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "freight train",
+      "image": "https://images.pexels.com/photos/18351505/pexels-photo-18351505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "$100M to rethink shipping completely",
+      "description": "The funding aims to halve cross-country costs for shippers, directly threatening trucking and traditional rail economics.",
+      "visual_hint": "Close-up of hundred dollar bills stacked",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "money stack",
+      "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Shippers could cut costs by half",
+      "description": "Cross-country shipping costs may drop 50%, a direct threat to trucking and traditional rail pricing models.",
+      "visual_hint": "Hand holding calculator over shipping invoice",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "calculator invoice",
+      "image": "https://images.pexels.com/photos/7680692/pexels-photo-7680692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask if rail moves your goods cheaper",
+      "description": "Run the numbers on one real shipment this week. Does rail beat what you pay now? Save this post.",
+      "visual_hint": "Logistics manager reviewing route options",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "logistics warehouse",
+      "image": "https://images.pexels.com/photos/11666903/pexels-photo-11666903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/parallel-systems-panther-vehicle.jpeg?resize=1200,675",
+  "savedAt": "2026-10-07T18:11:02.028Z",
+  "sourceId": "a7f501e82808445c8546c83fce562b33"
+}

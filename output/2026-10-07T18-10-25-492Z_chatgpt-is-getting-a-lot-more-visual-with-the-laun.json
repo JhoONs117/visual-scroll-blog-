@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "chatgpt-is-getting-a-lot-more-visual-with-the-laun",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+  "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+  "pubDate": "Wed, 07 Oct 2026 18:00:19 +0000",
+  "slides": [
+    "ChatGPT breaks free from the chat box",
+    "New interface merges text, images, and data",
+    "But GPT-4.5 can now see and draw",
+    "Designers can prototype directly in the conversation",
+    "Sketch your next idea in ChatGPT today"
+  ],
+  "thread_text": [
+    "1. The chat box just died\n\nChatGPT now handles images, sketches, and data without switching apps. That changes what you can ask for in a single prompt.",
+    "2. One window, three inputs\n\nThe new interface blends text, images, and structured data. You no longer paste a chart into a separate tool — it lives in the conversation.",
+    "3. GPT-4.5 learned to draw\n\nIt can see what you sketch and generate visuals back. That flips the workflow: you react to a drawing instead of describing one.",
+    "4. Prototype inside the thread\n\nDesigners can test layouts and iterate without leaving the chat. The feedback loop shrinks from hours to seconds.",
+    "5. Sketch your next idea now\n\nOpen ChatGPT, draw a rough box, and ask it to turn that into a wireframe. If you haven't tried it, that's your first move."
+  ],
+  "video_script": [
+    "ChatGPT is no longer just a chat box.",
+    "Text, images, and data now live together.",
+    "GPT-4.5 can see and draw back.",
+    "Designers prototype right inside the conversation.",
+    "Sketch your next idea in ChatGPT today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The chat box just died\n\nChatGPT now handles images, sketches, and data without switching apps. That changes what you can ask for in a single prompt.",
+        "2. One window, three inputs\n\nThe new interface blends text, images, and structured data. You no longer paste a chart into a separate tool — it lives in the conversation.",
+        "3. GPT-4.5 learned to draw\n\nIt can see what you sketch and generate visuals back. That flips the workflow: you react to a drawing instead of describing one.",
+        "4. Prototype inside the thread\n\nDesigners can test layouts and iterate without leaving the chat. The feedback loop shrinks from hours to seconds.",
+        "5. Sketch your next idea now\n\nOpen ChatGPT, draw a rough box, and ask it to turn that into a wireframe. If you haven't tried it, that's your first move."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "ChatGPT is no longer just a chat box.",
+        "Text, images, and data now live together.",
+        "GPT-4.5 can see and draw back.",
+        "Designers prototype right inside the conversation.",
+        "Sketch your next idea in ChatGPT today."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now draw a rough box in ChatGPT and it turns it into a wireframe. ✏️\n\nThe new interface merges text, images, and data in one window, so you stop switching between apps.\n\nGPT-4.5 sees what you sketch and draws back. You react to a visual instead of describing one in words.\n\nYou can prototype layouts inside the conversation and iterate in seconds, not hours. 🛠️\n\nIf you design or publish anything, this cuts the gap between idea and draft to almost zero.\n\nWhat would you sketch first if the feedback loop were that fast? 🎨\n\n#ai #chatgpt #contentcreation #design"
+    }
+  },
+  "instagram_caption": "You can now draw a rough box in ChatGPT and it turns it into a wireframe. ✏️\n\nThe new interface merges text, images, and data in one window, so you stop switching between apps.\n\nGPT-4.5 sees what you sketch and draws back. You react to a visual instead of describing one in words.\n\nYou can prototype layouts inside the conversation and iterate in seconds, not hours. 🛠️\n\nIf you design or publish anything, this cuts the gap between idea and draft to almost zero.\n\nWhat would you sketch first if the feedback loop were that fast? 🎨\n\n#ai #chatgpt #contentcreation #design",
+  "carousel_slides": [
+    {
+      "hook": "GPT-4.5 can now see and draw",
+      "description": "It sees your rough sketch and generates visuals back, flipping the workflow from describing to reacting to a drawing.",
+      "visual_hint": "Split screen showing sketch transforming into rendered image",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "digital drawing tablet"
+    },
+    {
+      "hook": "One window, three inputs",
+      "description": "The new interface merges text, images, and structured data, so charts and visuals live inside the conversation instead of separate apps.",
+      "visual_hint": "Chat interface with text, image thumbnails, and data chart",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "computer screen interface",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The chat box just died",
+      "description": "ChatGPT now handles images, sketches, and data in a single prompt, changing what you can ask for in one shot.",
+      "visual_hint": "Chat box cracking open with visuals bursting out",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "broken glass screen",
+      "image": "https://images.pexels.com/photos/28379995/pexels-photo-28379995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prototype inside the thread",
+      "description": "Designers test layouts and iterate without leaving the chat, shrinking the feedback loop from hours to seconds.",
+      "visual_hint": "Hands sketching wireframe on tablet in conversation",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "designer sketching wireframe",
+      "image": "https://images.pexels.com/photos/7257234/pexels-photo-7257234.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Sketch your next idea today",
+      "description": "Open ChatGPT, draw a rough box, and ask it to turn that into a wireframe — that is your first move.",
+      "visual_hint": "Simple rough box sketch with arrow pointing to polished wireframe",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "notebook pencil sketch",
+      "image": "https://images.pexels.com/photos/30812808/pexels-photo-30812808.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Intelligent-UI.png?resize=1200,675",
+  "savedAt": "2026-10-07T18:10:33.281Z",
+  "sourceId": "b81f72b7c1ca73df6e335d75c8ae025a"
+}

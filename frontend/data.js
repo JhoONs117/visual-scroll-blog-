@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "spacex-alumni-nab-100m-to-rethink-shipping-with-au",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
+    "link": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
+    "pubDate": "Wed, 07 Oct 2026 15:00:00 +0000",
+    "slides": [
+      "Why would SpaceX veterans turn to freight trains?",
+      "They raised $100M to rethink shipping entirely.",
+      "But their plan bypasses existing rails completely.",
+      "Shippers may cut cross-country costs by half.",
+      "One route to test: ask if rail moves your goods cheaper."
+    ],
+    "thread_text": [
+      "1. The Freight Train Bet\n\nSpaceX veterans just raised $100M to bypass existing rails entirely. They're betting that a new kind of freight train can move goods cheaper than anything on the tracks today.",
+      "2. Why Bypass The Rails?\n\nExisting rail infrastructure is slow and inflexible. Their plan skips it completely, aiming to cut cross-country shipping costs by half for shippers.",
+      "3. $100M To Rethink Shipping\n\nThe founders come from SpaceX, where they learned to build hardware that ignores legacy systems. Now they're applying that mindset to freight.",
+      "4. Half The Cost, Same Route\n\nShippers could see cross-country costs drop by 50%. That's not a small tweak; it's a direct threat to trucking and traditional rail economics.",
+      "5. Test It On Your Route\n\nAsk your logistics team: does rail move your goods cheaper than what you're paying now? Run the numbers on one real shipment this week."
+    ],
+    "video_script": [
+      "SpaceX veterans just raised one hundred million to rethink freight.",
+      "Their plan skips existing rails and bypasses the entire system.",
+      "They say shippers could cut cross-country costs by half.",
+      "No tracks, no legacy constraints, just a new kind of train.",
+      "Ask your logistics team: does rail move your goods cheaper?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Freight Train Bet\n\nSpaceX veterans just raised $100M to bypass existing rails entirely. They're betting that a new kind of freight train can move goods cheaper than anything on the tracks today.",
+          "2. Why Bypass The Rails?\n\nExisting rail infrastructure is slow and inflexible. Their plan skips it completely, aiming to cut cross-country shipping costs by half for shippers.",
+          "3. $100M To Rethink Shipping\n\nThe founders come from SpaceX, where they learned to build hardware that ignores legacy systems. Now they're applying that mindset to freight.",
+          "4. Half The Cost, Same Route\n\nShippers could see cross-country costs drop by 50%. That's not a small tweak; it's a direct threat to trucking and traditional rail economics.",
+          "5. Test It On Your Route\n\nAsk your logistics team: does rail move your goods cheaper than what you're paying now? Run the numbers on one real shipment this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "SpaceX veterans just raised one hundred million to rethink freight.",
+          "Their plan skips existing rails and bypasses the entire system.",
+          "They say shippers could cut cross-country costs by half.",
+          "No tracks, no legacy constraints, just a new kind of train.",
+          "Ask your logistics team: does rail move your goods cheaper?"
+        ]
+      },
+      "instagram": {
+        "caption": "Cross-country shipping costs could drop by half.\n\nSpaceX veterans raised $100M to build autonomous freight trains that skip existing rails entirely. 🚂\n\nTheir hardware-first mindset targets rail that's slow and inflexible, cutting shipper costs by 50%.\n\nFor anyone shipping physical goods, that's not a small tweak — it undercuts trucking and traditional rail economics. 📦\n\nAsk your logistics team: would rail move one real shipment cheaper than what you pay now? 💰"
+      }
+    },
+    "instagram_caption": "Cross-country shipping costs could drop by half.\n\nSpaceX veterans raised $100M to build autonomous freight trains that skip existing rails entirely. 🚂\n\nTheir hardware-first mindset targets rail that's slow and inflexible, cutting shipper costs by 50%.\n\nFor anyone shipping physical goods, that's not a small tweak — it undercuts trucking and traditional rail economics. 📦\n\nAsk your logistics team: would rail move one real shipment cheaper than what you pay now? 💰",
+    "carousel_slides": [
+      {
+        "hook": "Why bypass every existing rail line?",
+        "description": "SpaceX veterans raised $100M to skip legacy rail infrastructure entirely, cutting cross-country shipping costs by half.",
+        "visual_hint": "Abandoned rail tracks fading into distance",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "railway tracks"
+      },
+      {
+        "hook": "SpaceX mindset meets freight trains",
+        "description": "Founders learned at SpaceX to build hardware ignoring legacy systems. Now they apply that to reinvent freight transport.",
+        "visual_hint": "Engineers examining futuristic train prototype",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "freight train",
+        "image": "https://images.pexels.com/photos/18351505/pexels-photo-18351505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "$100M to rethink shipping completely",
+        "description": "The funding aims to halve cross-country costs for shippers, directly threatening trucking and traditional rail economics.",
+        "visual_hint": "Close-up of hundred dollar bills stacked",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "money stack",
+        "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Shippers could cut costs by half",
+        "description": "Cross-country shipping costs may drop 50%, a direct threat to trucking and traditional rail pricing models.",
+        "visual_hint": "Hand holding calculator over shipping invoice",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "calculator invoice",
+        "image": "https://images.pexels.com/photos/7680692/pexels-photo-7680692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask if rail moves your goods cheaper",
+        "description": "Run the numbers on one real shipment this week. Does rail beat what you pay now? Save this post.",
+        "visual_hint": "Logistics manager reviewing route options",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "logistics warehouse",
+        "image": "https://images.pexels.com/photos/11666903/pexels-photo-11666903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/parallel-systems-panther-vehicle.jpeg?resize=1200,675",
+    "savedAt": "2026-10-07T18:11:02.028Z",
+    "sourceId": "a7f501e82808445c8546c83fce562b33"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "healthleap-raises-38m-for-its-ai-that-flags-hospit",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+    "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+    "pubDate": "Wed, 07 Oct 2026 15:07:08 +0000",
+    "slides": [
+      "Healthleap just raised $38M — but why do hospitals need it?",
+      "Its AI flags patients whose condition might quietly worsen.",
+      "The surprise: it doesn't diagnose, only prioritizes who doctors see first.",
+      "Nurses using it report fewer missed deteriorations during shifts.",
+      "Ask your hospital if they use early-warning AI yet."
+    ],
+    "thread_text": [
+      "1. Hospitals' Quiet Crisis\n\nCleveland Clinic, Cedars-Sinai, and others are deploying AI that flags deteriorating patients. Healthleap just raised $38M to scale this—not for diagnosis, but for triage before nurses miss warning signs.",
+      "2. AI That Watches Vitals\n\nIt doesn't diagnose. It ingests vitals and flags subtle trends that signal decline—often hours before a crash. That means nurses can intervene earlier, not just react.",
+      "3. The Triage Revolution\n\nWhy can't AI just diagnose? Because diagnosis requires context and liability. Prioritizing who to check first is a safer, faster win—augmenting nurses without replacing them.",
+      "4. Nurses See Fewer Missed Cases\n\nIn trials, nurses using early-warning AI reported fewer missed deteriorations during shifts. That's not automation—that's a safety net for the humans already stretched thin.",
+      "5. Ask Your Hospital Today\n\nDoes your hospital use early-warning AI yet? If not, ask why. This isn't future tech—it's scaling now. Your next shift might depend on it."
+    ],
+    "video_script": [
+      "Startup Healthleap raised $38 million to help hospitals.",
+      "Its AI doesn't diagnose, it flags quiet patient declines.",
+      "It prioritizes who nurses should see first.",
+      "Nurses report fewer missed cases during shifts.",
+      "Ask your hospital if they use early-warning AI."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Hospitals' Quiet Crisis\n\nCleveland Clinic, Cedars-Sinai, and others are deploying AI that flags deteriorating patients. Healthleap just raised $38M to scale this—not for diagnosis, but for triage before nurses miss warning signs.",
+          "2. AI That Watches Vitals\n\nIt doesn't diagnose. It ingests vitals and flags subtle trends that signal decline—often hours before a crash. That means nurses can intervene earlier, not just react.",
+          "3. The Triage Revolution\n\nWhy can't AI just diagnose? Because diagnosis requires context and liability. Prioritizing who to check first is a safer, faster win—augmenting nurses without replacing them.",
+          "4. Nurses See Fewer Missed Cases\n\nIn trials, nurses using early-warning AI reported fewer missed deteriorations during shifts. That's not automation—that's a safety net for the humans already stretched thin.",
+          "5. Ask Your Hospital Today\n\nDoes your hospital use early-warning AI yet? If not, ask why. This isn't future tech—it's scaling now. Your next shift might depend on it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Startup Healthleap raised $38 million to help hospitals.",
+          "Its AI doesn't diagnose, it flags quiet patient declines.",
+          "It prioritizes who nurses should see first.",
+          "Nurses report fewer missed cases during shifts.",
+          "Ask your hospital if they use early-warning AI."
+        ]
+      },
+      "instagram": {
+        "caption": "Someone just put $38M behind software that watches hospital vitals so nurses don't miss a patient getting worse. 🏥\n\nHealthleap's AI doesn't diagnose anything. It flags whose condition is quietly declining, so staff check them first.\n\nIt's triage, not treatment — a safety net for nurses already stretched thin. In trials, they reported fewer missed deteriorations.\n\nIf you or someone you love ends up in a hospital bed, this tech decides how fast someone walks over. Ask your hospital if they run early-warning AI yet. 🩺\n\nWould you want to know?"
+      }
+    },
+    "instagram_caption": "Someone just put $38M behind software that watches hospital vitals so nurses don't miss a patient getting worse. 🏥\n\nHealthleap's AI doesn't diagnose anything. It flags whose condition is quietly declining, so staff check them first.\n\nIt's triage, not treatment — a safety net for nurses already stretched thin. In trials, they reported fewer missed deteriorations.\n\nIf you or someone you love ends up in a hospital bed, this tech decides how fast someone walks over. Ask your hospital if they run early-warning AI yet. 🩺\n\nWould you want to know?",
+    "carousel_slides": [
+      {
+        "hook": "Why hospitals need AI that flags patients?",
+        "description": "Healthleap raised $38M to scale AI that flags deteriorating patients before nurses miss warning signs—not for diagnosis but triage.",
+        "visual_hint": "Hospital monitor with AI alert interface",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "hospital monitor"
+      },
+      {
+        "hook": "AI that watches vitals, not diagnoses",
+        "description": "It ingests vitals and flags subtle trends signaling decline hours before a crash, enabling earlier nurse intervention instead of reaction.",
+        "visual_hint": "Heart rate graph on screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "heart rate monitor",
+        "image": "https://images.pexels.com/photos/6291261/pexels-photo-6291261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The surprise: it doesn't diagnose",
+        "description": "Diagnosis requires context and liability, so prioritizing who doctors see first is a safer, faster win—augmenting nurses without replacing.",
+        "visual_hint": "Doctor reviewing tablet with patient list",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "doctor tablet",
+        "image": "https://images.pexels.com/photos/19963124/pexels-photo-19963124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Nurses report fewer missed deteriorations",
+        "description": "In trials, nurses using early-warning AI reported fewer missed deteriorations during shifts, acting as a safety net for stretched humans.",
+        "visual_hint": "Nurse smiling at hospital station",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "nurse hospital",
+        "image": "https://images.pexels.com/photos/6129236/pexels-photo-6129236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask your hospital about early-warning AI today",
+        "description": "Does your hospital use early-warning AI yet? If not, ask why. This tech is scaling now—your next shift might depend on it.",
+        "visual_hint": "Person holding phone with question mark",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person phone question",
+        "image": "https://images.pexels.com/photos/12405407/pexels-photo-12405407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/healthleap.jpeg?resize=1200,675",
+    "savedAt": "2026-10-07T18:10:53.042Z",
+    "sourceId": "fc38477a8aad94423f499cf6bdd2bbba"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-rolls-out-new-ai-tools-to-detect-ads-that-sec",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+    "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+    "pubDate": "Wed, 07 Oct 2026 16:53:46 +0000",
+    "slides": [
+      "Does Meta know what lurks in your feed?",
+      "New AI tools target ads hiding abuse links",
+      "But detection fails when predators use coded language",
+      "Advertisers face stricter screening before campaigns go live",
+      "Report suspicious ads—your click could save a child"
+    ],
+    "thread_text": [
+      "1. Your feed knows more than you think\n\nMeta's ad system can't tell you which sponsored posts link to abuse material. The platform profits from the feed you scroll—but doesn't fully know what's in it.",
+      "2. New AI tools fight back\n\nStartups are building detectors to catch ads that hide links to child abuse. They scan creatives and landing pages before a single impression runs.",
+      "3. Predators use coded language\n\nWhen abusers swap obvious terms for emojis and slang, detection rates collapse. The same AI that flags one word lets ten others slip through.",
+      "4. Advertisers get screened harder\n\nNew rules force campaigns through stricter pre-checks before they go live. But screening only works if platforms share data across the entire ad network.",
+      "5. One click can save a child\n\nSee a suspicious ad? Report it directly to the platform. Your report enters a review queue that can pull the ad and flag the buyer. Do it today."
+    ],
+    "video_script": [
+      "Your feed hides ads that link to abuse.",
+      "New AI tries to catch them before you click.",
+      "But predators use emojis and coded slang.",
+      "Advertisers now face stricter screening before campaigns launch.",
+      "Report a suspicious ad. Your click could save a child."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your feed knows more than you think\n\nMeta's ad system can't tell you which sponsored posts link to abuse material. The platform profits from the feed you scroll—but doesn't fully know what's in it.",
+          "2. New AI tools fight back\n\nStartups are building detectors to catch ads that hide links to child abuse. They scan creatives and landing pages before a single impression runs.",
+          "3. Predators use coded language\n\nWhen abusers swap obvious terms for emojis and slang, detection rates collapse. The same AI that flags one word lets ten others slip through.",
+          "4. Advertisers get screened harder\n\nNew rules force campaigns through stricter pre-checks before they go live. But screening only works if platforms share data across the entire ad network.",
+          "5. One click can save a child\n\nSee a suspicious ad? Report it directly to the platform. Your report enters a review queue that can pull the ad and flag the buyer. Do it today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your feed hides ads that link to abuse.",
+          "New AI tries to catch them before you click.",
+          "But predators use emojis and coded slang.",
+          "Advertisers now face stricter screening before campaigns launch.",
+          "Report a suspicious ad. Your click could save a child."
+        ]
+      },
+      "instagram": {
+        "caption": "Some sponsored posts in your feed link to child abuse material — and Meta can't always tell you which ones.\n\nNew AI tools now scan ads and landing pages before they run, hunting for hidden abuse links. 🛡️\n\nBut when predators swap explicit words for emojis and slang, detection falls apart — one flagged term, ten slipping through. ⚠️\n\nAdvertisers now face stricter pre-checks before campaigns go live. If you create content or run ads, expect slower approvals and more scrutiny. 👀\n\nPlatforms still only catch what they share data on.\n\nSee a suspicious ad? Report it — your click can pull it down."
+      }
+    },
+    "instagram_caption": "Some sponsored posts in your feed link to child abuse material — and Meta can't always tell you which ones.\n\nNew AI tools now scan ads and landing pages before they run, hunting for hidden abuse links. 🛡️\n\nBut when predators swap explicit words for emojis and slang, detection falls apart — one flagged term, ten slipping through. ⚠️\n\nAdvertisers now face stricter pre-checks before campaigns go live. If you create content or run ads, expect slower approvals and more scrutiny. 👀\n\nPlatforms still only catch what they share data on.\n\nSee a suspicious ad? Report it — your click can pull it down.",
+    "carousel_slides": [
+      {
+        "hook": "Does Meta know what lurks in your feed?",
+        "description": "Meta's ad system can't identify sponsored posts linking to abuse material, profiting from feeds it doesn't fully monitor.",
+        "visual_hint": "Phone screen with shadowy ad",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone screen"
+      },
+      {
+        "hook": "New AI tools target ads hiding abuse links",
+        "description": "Startups build detectors scanning creatives and landing pages before any impression runs, catching hidden abuse links early.",
+        "visual_hint": "AI scanning digital advertisement",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "artificial intelligence",
+        "image": "https://images.pexels.com/photos/7688592/pexels-photo-7688592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Predators use coded language to evade detection",
+        "description": "When abusers swap obvious terms for emojis and slang, detection rates collapse, letting ten others slip through.",
+        "visual_hint": "Emoji symbols on dark screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "emoji keyboard",
+        "image": "https://images.pexels.com/photos/32880673/pexels-photo-32880673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Advertisers face stricter screening before campaigns go live",
+        "description": "New rules force pre-checks, but screening only works if platforms share data across the entire ad network.",
+        "visual_hint": "Checklist with approved stamp",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office desk",
+        "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Report suspicious ads—your click could save a child",
+        "description": "See a suspicious ad? Report it directly to the platform. Your report enters a review queue that can pull the ad.",
+        "visual_hint": "Hand tapping report button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "hand smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2152655802.jpg?resize=1200,802",
+    "savedAt": "2026-10-07T18:10:44.228Z",
+    "sourceId": "dfd3923fff903b86aabfbffa17980062"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "chatgpt-is-getting-a-lot-more-visual-with-the-laun",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+    "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+    "pubDate": "Wed, 07 Oct 2026 18:00:19 +0000",
+    "slides": [
+      "ChatGPT breaks free from the chat box",
+      "New interface merges text, images, and data",
+      "But GPT-4.5 can now see and draw",
+      "Designers can prototype directly in the conversation",
+      "Sketch your next idea in ChatGPT today"
+    ],
+    "thread_text": [
+      "1. The chat box just died\n\nChatGPT now handles images, sketches, and data without switching apps. That changes what you can ask for in a single prompt.",
+      "2. One window, three inputs\n\nThe new interface blends text, images, and structured data. You no longer paste a chart into a separate tool — it lives in the conversation.",
+      "3. GPT-4.5 learned to draw\n\nIt can see what you sketch and generate visuals back. That flips the workflow: you react to a drawing instead of describing one.",
+      "4. Prototype inside the thread\n\nDesigners can test layouts and iterate without leaving the chat. The feedback loop shrinks from hours to seconds.",
+      "5. Sketch your next idea now\n\nOpen ChatGPT, draw a rough box, and ask it to turn that into a wireframe. If you haven't tried it, that's your first move."
+    ],
+    "video_script": [
+      "ChatGPT is no longer just a chat box.",
+      "Text, images, and data now live together.",
+      "GPT-4.5 can see and draw back.",
+      "Designers prototype right inside the conversation.",
+      "Sketch your next idea in ChatGPT today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The chat box just died\n\nChatGPT now handles images, sketches, and data without switching apps. That changes what you can ask for in a single prompt.",
+          "2. One window, three inputs\n\nThe new interface blends text, images, and structured data. You no longer paste a chart into a separate tool — it lives in the conversation.",
+          "3. GPT-4.5 learned to draw\n\nIt can see what you sketch and generate visuals back. That flips the workflow: you react to a drawing instead of describing one.",
+          "4. Prototype inside the thread\n\nDesigners can test layouts and iterate without leaving the chat. The feedback loop shrinks from hours to seconds.",
+          "5. Sketch your next idea now\n\nOpen ChatGPT, draw a rough box, and ask it to turn that into a wireframe. If you haven't tried it, that's your first move."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "ChatGPT is no longer just a chat box.",
+          "Text, images, and data now live together.",
+          "GPT-4.5 can see and draw back.",
+          "Designers prototype right inside the conversation.",
+          "Sketch your next idea in ChatGPT today."
+        ]
+      },
+      "instagram": {
+        "caption": "You can now draw a rough box in ChatGPT and it turns it into a wireframe. ✏️\n\nThe new interface merges text, images, and data in one window, so you stop switching between apps.\n\nGPT-4.5 sees what you sketch and draws back. You react to a visual instead of describing one in words.\n\nYou can prototype layouts inside the conversation and iterate in seconds, not hours. 🛠️\n\nIf you design or publish anything, this cuts the gap between idea and draft to almost zero.\n\nWhat would you sketch first if the feedback loop were that fast? 🎨\n\n#ai #chatgpt #contentcreation #design"
+      }
+    },
+    "instagram_caption": "You can now draw a rough box in ChatGPT and it turns it into a wireframe. ✏️\n\nThe new interface merges text, images, and data in one window, so you stop switching between apps.\n\nGPT-4.5 sees what you sketch and draws back. You react to a visual instead of describing one in words.\n\nYou can prototype layouts inside the conversation and iterate in seconds, not hours. 🛠️\n\nIf you design or publish anything, this cuts the gap between idea and draft to almost zero.\n\nWhat would you sketch first if the feedback loop were that fast? 🎨\n\n#ai #chatgpt #contentcreation #design",
+    "carousel_slides": [
+      {
+        "hook": "GPT-4.5 can now see and draw",
+        "description": "It sees your rough sketch and generates visuals back, flipping the workflow from describing to reacting to a drawing.",
+        "visual_hint": "Split screen showing sketch transforming into rendered image",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "digital drawing tablet"
+      },
+      {
+        "hook": "One window, three inputs",
+        "description": "The new interface merges text, images, and structured data, so charts and visuals live inside the conversation instead of separate apps.",
+        "visual_hint": "Chat interface with text, image thumbnails, and data chart",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "computer screen interface",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The chat box just died",
+        "description": "ChatGPT now handles images, sketches, and data in a single prompt, changing what you can ask for in one shot.",
+        "visual_hint": "Chat box cracking open with visuals bursting out",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "broken glass screen",
+        "image": "https://images.pexels.com/photos/28379995/pexels-photo-28379995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prototype inside the thread",
+        "description": "Designers test layouts and iterate without leaving the chat, shrinking the feedback loop from hours to seconds.",
+        "visual_hint": "Hands sketching wireframe on tablet in conversation",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "designer sketching wireframe",
+        "image": "https://images.pexels.com/photos/7257234/pexels-photo-7257234.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sketch your next idea today",
+        "description": "Open ChatGPT, draw a rough box, and ask it to turn that into a wireframe — that is your first move.",
+        "visual_hint": "Simple rough box sketch with arrow pointing to polished wireframe",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "notebook pencil sketch",
+        "image": "https://images.pexels.com/photos/30812808/pexels-photo-30812808.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Intelligent-UI.png?resize=1200,675",
+    "savedAt": "2026-10-07T18:10:33.281Z",
+    "sourceId": "b81f72b7c1ca73df6e335d75c8ae025a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-pr-tells-journalist-to-move-on-while-asking",
     "prompt_version": "1.0.0",
     "status": "published",

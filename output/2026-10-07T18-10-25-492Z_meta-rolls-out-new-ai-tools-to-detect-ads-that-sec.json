@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-rolls-out-new-ai-tools-to-detect-ads-that-sec",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+  "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+  "pubDate": "Wed, 07 Oct 2026 16:53:46 +0000",
+  "slides": [
+    "Does Meta know what lurks in your feed?",
+    "New AI tools target ads hiding abuse links",
+    "But detection fails when predators use coded language",
+    "Advertisers face stricter screening before campaigns go live",
+    "Report suspicious ads—your click could save a child"
+  ],
+  "thread_text": [
+    "1. Your feed knows more than you think\n\nMeta's ad system can't tell you which sponsored posts link to abuse material. The platform profits from the feed you scroll—but doesn't fully know what's in it.",
+    "2. New AI tools fight back\n\nStartups are building detectors to catch ads that hide links to child abuse. They scan creatives and landing pages before a single impression runs.",
+    "3. Predators use coded language\n\nWhen abusers swap obvious terms for emojis and slang, detection rates collapse. The same AI that flags one word lets ten others slip through.",
+    "4. Advertisers get screened harder\n\nNew rules force campaigns through stricter pre-checks before they go live. But screening only works if platforms share data across the entire ad network.",
+    "5. One click can save a child\n\nSee a suspicious ad? Report it directly to the platform. Your report enters a review queue that can pull the ad and flag the buyer. Do it today."
+  ],
+  "video_script": [
+    "Your feed hides ads that link to abuse.",
+    "New AI tries to catch them before you click.",
+    "But predators use emojis and coded slang.",
+    "Advertisers now face stricter screening before campaigns launch.",
+    "Report a suspicious ad. Your click could save a child."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your feed knows more than you think\n\nMeta's ad system can't tell you which sponsored posts link to abuse material. The platform profits from the feed you scroll—but doesn't fully know what's in it.",
+        "2. New AI tools fight back\n\nStartups are building detectors to catch ads that hide links to child abuse. They scan creatives and landing pages before a single impression runs.",
+        "3. Predators use coded language\n\nWhen abusers swap obvious terms for emojis and slang, detection rates collapse. The same AI that flags one word lets ten others slip through.",
+        "4. Advertisers get screened harder\n\nNew rules force campaigns through stricter pre-checks before they go live. But screening only works if platforms share data across the entire ad network.",
+        "5. One click can save a child\n\nSee a suspicious ad? Report it directly to the platform. Your report enters a review queue that can pull the ad and flag the buyer. Do it today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your feed hides ads that link to abuse.",
+        "New AI tries to catch them before you click.",
+        "But predators use emojis and coded slang.",
+        "Advertisers now face stricter screening before campaigns launch.",
+        "Report a suspicious ad. Your click could save a child."
+      ]
+    },
+    "instagram": {
+      "caption": "Some sponsored posts in your feed link to child abuse material — and Meta can't always tell you which ones.\n\nNew AI tools now scan ads and landing pages before they run, hunting for hidden abuse links. 🛡️\n\nBut when predators swap explicit words for emojis and slang, detection falls apart — one flagged term, ten slipping through. ⚠️\n\nAdvertisers now face stricter pre-checks before campaigns go live. If you create content or run ads, expect slower approvals and more scrutiny. 👀\n\nPlatforms still only catch what they share data on.\n\nSee a suspicious ad? Report it — your click can pull it down."
+    }
+  },
+  "instagram_caption": "Some sponsored posts in your feed link to child abuse material — and Meta can't always tell you which ones.\n\nNew AI tools now scan ads and landing pages before they run, hunting for hidden abuse links. 🛡️\n\nBut when predators swap explicit words for emojis and slang, detection falls apart — one flagged term, ten slipping through. ⚠️\n\nAdvertisers now face stricter pre-checks before campaigns go live. If you create content or run ads, expect slower approvals and more scrutiny. 👀\n\nPlatforms still only catch what they share data on.\n\nSee a suspicious ad? Report it — your click can pull it down.",
+  "carousel_slides": [
+    {
+      "hook": "Does Meta know what lurks in your feed?",
+      "description": "Meta's ad system can't identify sponsored posts linking to abuse material, profiting from feeds it doesn't fully monitor.",
+      "visual_hint": "Phone screen with shadowy ad",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone screen"
+    },
+    {
+      "hook": "New AI tools target ads hiding abuse links",
+      "description": "Startups build detectors scanning creatives and landing pages before any impression runs, catching hidden abuse links early.",
+      "visual_hint": "AI scanning digital advertisement",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "artificial intelligence",
+      "image": "https://images.pexels.com/photos/7688592/pexels-photo-7688592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Predators use coded language to evade detection",
+      "description": "When abusers swap obvious terms for emojis and slang, detection rates collapse, letting ten others slip through.",
+      "visual_hint": "Emoji symbols on dark screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "emoji keyboard",
+      "image": "https://images.pexels.com/photos/32880673/pexels-photo-32880673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Advertisers face stricter screening before campaigns go live",
+      "description": "New rules force pre-checks, but screening only works if platforms share data across the entire ad network.",
+      "visual_hint": "Checklist with approved stamp",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office desk",
+      "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Report suspicious ads—your click could save a child",
+      "description": "See a suspicious ad? Report it directly to the platform. Your report enters a review queue that can pull the ad.",
+      "visual_hint": "Hand tapping report button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hand smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2152655802.jpg?resize=1200,802",
+  "savedAt": "2026-10-07T18:10:44.228Z",
+  "sourceId": "dfd3923fff903b86aabfbffa17980062"
+}

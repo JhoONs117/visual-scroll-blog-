@@ -2,6 +2,228 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "dolce-con-fette-biscottate-e-yogurt",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Dolce con fette biscottate e yogurt",
+    "link": "https://ricette.giallozafferano.it/Dolce-con-fette-biscottate-e-yogurt.html",
+    "pubDate": "Wed, 07 Oct 2026 10:24:00 +0200",
+    "content": "Dolce con fette biscottate e yogurt, ricetta fit e veloce senza cottura Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X BENESSERE Dolci Dolce con fette biscottate e yogurt /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici 268,5 Calorie per porzione Energia Kcal 268,5 Carboidrati g 40,6 &nbsp;&nbsp;di cui zuccheri g 18,3 Proteine g 9,6 Grassi g 8,4 &nbsp;&nbsp;di cui saturi g 2,8 Fibre g 2,9 Colesterolo mg 10 Sodio mg 204,7 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Light Vegetariano Difficoltà: Molto facile Preparazione: 5 min Dosi per: 2 persone Costo: Molto basso PRESENTAZIONE Il dolce con fette biscottate e yogurt è una ricetta fit senza cottura, pronta in soli 5 minuti, perfetta per iniziare la giornata in modo semplice e goloso. Le fette biscottate integrali, leggermente bagnate nel latte di riso, vengono alternate a strati di yogurt greco addolcito con miele e nocciole tritate. I lamponi freschi completano il dolce con una nota fresca e leggermente acidula. Facile da preparare e da comporre direttamente nel piatto, è un’idea veloce per rendere più sfiziosa la colazione di tutti i giorni. Ecco altri dolci fit per la colazione da non perdere: granola senza zucchero pancake proteici ciccio pancake porridge proteico No-bake yogurt dessert with rusks Scopri anche Fette biscottate Fette al cioccolato e profumo di mandorla Fette di cacao al latte Sfoglia tutte INGREDIENTI 268,5 Calorie per porzione Fette biscottate integrali 6 Yogurt greco 150 g Miele 30 g Nocciole 10 g Latte di riso 100 g Lamponi 20 g AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Dolce con fette biscottate e yogurt Per preparare il dolce con fette biscottate e yogurt, versate in una ciotola lo yogurt greco e il miele 1 ; poi mescolate con un cucchiaio 2 fino a ottenere una crema omogenea. Tritate grossolanamente le nocciole 3 e tenetele da parte. Versate il latte di riso in una pirofila. Immergete velocemente le fette biscottate nel latte, una alla volta, bagnandole da entrambi i lati senza lasciarle in ammollo troppo a lungo 4 . Componete ciascun dolce utilizzando 3 fette biscottate: sistemate la prima fetta sul piatto 5 e distribuite sopra una parte dello yogurt al miele 6 . Con queste dosi otterrete 2 dolci. Aggiungete un po’ di nocciole tritate 7 . Proseguite nello stesso modo con le altre fette, alternando gli strati. Completate con lo yogurt rimasto, le nocciole tritate 8 e i lamponi freschi 9 . Il vostro dolce con fette biscottate e yogurt è pronto per essere servito. Conservazione Si consiglia di preparare e consumare subito il dolce con fette biscottate e yogurt, così da mantenere la consistenza delle fette biscottate. Si sconsiglia la congelazione. Consiglio Per una variante al caffè e cioccolato, potete bagnare le fette biscottate in un mix di latte di riso e caffè e completare gli strati con cioccolato fondente tritato o gocce di cioccolato. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Yogurt greco Yogurt Scopri tutto sugli ingredienti Presente in: Dolci veloci , Ricette veloci STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Fette biscottate 131 4.4 Fette al cioccolato e profumo di mandorla 54 4.0 Fette di cacao al latte 732 4.1 Torta a fette 3 4.1 Torta morbida con yogurt e frutta 36 4.2 Muffin alle fragole e yogurt con Nutella® 5 4.8 Gelato allo yogurt 86 3.6 Yogurt greco 53 2.0 ULTIME RICETTE Mandarini di Halloween Benessere Zuppa di lenticchie con curcuma e zenzero 5.0 Tortelli di zucca alla mantovana 5.0 SCOPRI Fette biscottate integrali Dolci con fette biscottate Come fare le fette biscottate Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Lievitati Fette biscottate 131 4.4 Le fette biscottate sono delle gustose e fragranti fette di pane tostato ideali per la prima colazione. Vai alla ricetta Dolci Fette al cioccolato e profumo di mandorla 54 4.0 Le fette al cioccolato e profumo di mandorla sono delle soffici delizie che potrete preparare per poi offrirle accompagnate da un buon thè o caffè. Vai alla ricetta Dolci Fette di cacao al latte 732 4.1 Le fette di cacao al latte sono delle golosissime merendine fatte in casa composte da due basi al cacao farcite con della gustosa crema al latte. Vai alla ricetta Dolci Torta a fette 3 4.1 La torta a fette è un dolce goloso e colorato, servito in tante porzioni per creare decorazioni fantasiose, ideale per una merenda in compagnia. Vai alla ricetta Dolci Torta morbida con yogurt e frutta 36 4.2 La torta morbida con yogurt e frutti di bosco è un dolce realizzato con lo stampo furbo; perfetto per la merenda di grandi e piccini. Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Dolce fit senza cottura per colazione golosa",
+      "Fette biscottate, yogurt greco, miele, latte di riso",
+      "Bagna le fette biscottate nel latte di riso",
+      "Alterna strati di yogurt al miele e nocciole",
+      "Completa con lamponi freschi e nocciole tritate"
+    ],
+    "instagram_caption": "Colazione da re, ma in versione fit e senza forno 🍯\nBasta qualche fetta biscottata bagnata nel latte di riso, strati di yogurt greco al miele e una pioggia di nocciole tritate.\nChiudo tutto con lamponi freschi che danno quella nota acidula perfetta 🍓\nPronta in 5 minuti, sembra una cheesecake ma è molto più leggera.\nSalvatela per la prossima mattina pigra e fatemi sapere se l'avete provata 💛",
+    "formats": {
+      "instagram": {
+        "caption": "Colazione da re, ma in versione fit e senza forno 🍯\nBasta qualche fetta biscottata bagnata nel latte di riso, strati di yogurt greco al miele e una pioggia di nocciole tritate.\nChiudo tutto con lamponi freschi che danno quella nota acidula perfetta 🍓\nPronta in 5 minuti, sembra una cheesecake ma è molto più leggera.\nSalvatela per la prossima mattina pigra e fatemi sapere se l'avete provata 💛"
+      },
+      "tiktok": {
+        "script": [
+          "Dolce fit senza cottura, perfetto per colazione golosa!",
+          "Prendo fette biscottate, yogurt greco, miele e latte di riso.",
+          "Bagno le fette biscottate nel latte di riso.",
+          "Alterno strati di yogurt al miele e nocciole.",
+          "Completo con lamponi freschi e nocciole tritate. Buonissimo!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "Colazione fit che sa di dessert? Sì, si può. Con fette biscottate e yogurt greco tiri fuori un dolce senza cottura da urlo. E no, non è la solita cosa triste.",
+          "Ti servono: fette biscottate, yogurt greco, miele, latte di riso, nocciole e lamponi. Roba che hai già in casa. Il bagno nel latte di riso è il segreto per non avere un mattone secco.",
+          "Prendi una teglia o un contenitore. Fai strati: fette bagnate, yogurt al miele, nocciole tritate. Ripeti. Non lesinare sullo yogurt, deve essere cremoso.",
+          "Chiudi con lamponi freschi e una pioggia di nocciole. In frigo per almeno 2 ore. Il momento in cui affondi il cucchiaio è puro godimento.",
+          "Trucco: aggiungi un filo di miele anche sopra prima di servire. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Dolce fit senza cottura, perfetto per colazione golosa!",
+      "Prendo fette biscottate, yogurt greco, miele e latte di riso.",
+      "Bagno le fette biscottate nel latte di riso.",
+      "Alterno strati di yogurt al miele e nocciole.",
+      "Completo con lamponi freschi e nocciole tritate. Buonissimo!"
+    ],
+    "thread_text": [
+      "Colazione fit che sa di dessert? Sì, si può. Con fette biscottate e yogurt greco tiri fuori un dolce senza cottura da urlo. E no, non è la solita cosa triste.",
+      "Ti servono: fette biscottate, yogurt greco, miele, latte di riso, nocciole e lamponi. Roba che hai già in casa. Il bagno nel latte di riso è il segreto per non avere un mattone secco.",
+      "Prendi una teglia o un contenitore. Fai strati: fette bagnate, yogurt al miele, nocciole tritate. Ripeti. Non lesinare sullo yogurt, deve essere cremoso.",
+      "Chiudi con lamponi freschi e una pioggia di nocciole. In frigo per almeno 2 ore. Il momento in cui affondi il cucchiaio è puro godimento.",
+      "Trucco: aggiungi un filo di miele anche sopra prima di servire. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Dolce fit senza cottura, colazione golosa",
+        "description": "Un dessert al cucchiaio cremoso e leggero, pronto in pochi minuti senza forno per una colazione da sogno.",
+        "visual_hint": "vasetto vetro con strati",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "yogurt dessert glass"
+      },
+      {
+        "hook": "Fette biscottate, yogurt greco e miele",
+        "description": "Solo quattro ingredienti semplici: fette biscottate, yogurt greco, miele e latte di riso per una base cremosa.",
+        "visual_hint": "ingredienti su tavolo chiaro",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "greek yogurt ingredients",
+        "image": "https://images.pexels.com/photos/38875934/pexels-photo-38875934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Bagna le fette nel latte di riso",
+        "description": "Un gesto rapido: immergi le fette biscottate nel latte di riso per renderle morbide senza sfaldarle.",
+        "visual_hint": "fette immerse nel latte",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "rusk dipped milk",
+        "image": "https://images.pexels.com/photos/15086415/pexels-photo-15086415.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Alterna strati di yogurt e nocciole",
+        "description": "Componi il dolce alternando yogurt al miele e nocciole, creando strati perfetti e golosi nel bicchiere.",
+        "visual_hint": "strati nel bicchiere",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "layered yogurt parfait",
+        "image": "https://images.pexels.com/photos/23332948/pexels-photo-23332948.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Completa con lamponi e nocciole tritate",
+        "description": "Chiudi con lamponi freschi e nocciole tritate: il tocco croccante che rende questo dolce fit irresistibile.",
+        "visual_hint": "lamponi e nocciole sopra",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "raspberry yogurt dessert",
+        "image": "https://images.pexels.com/photos/7937394/pexels-photo-7937394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "dessert",
+    "signature_ingredients": [
+      "fette biscottate",
+      "yogurt greco",
+      "lamponi"
+    ],
+    "image": "https://www.giallozafferano.it/images/366-36683/Dolce-con-fette-biscottate-e-yogurt_1200x800_wm.jpg",
+    "savedAt": "2026-10-07T18:16:23.447Z",
+    "sourceId": "9aa5c226026f74ea4e6a8084814183f6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
+    "slug": "zuppa-di-lenticchie-con-curcuma-e-zenzero",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Zuppa di lenticchie con curcuma e zenzero",
+    "link": "https://ricette.giallozafferano.it/Zuppa-di-lenticchie-con-curcuma-e-zenzero.html",
+    "pubDate": "Wed, 07 Oct 2026 12:46:00 +0200",
+    "content": "Zuppa di lenticchie con curcuma e zenzero Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X BENESSERE Primi piatti Zuppe, minestre e vellutate Zuppa di lenticchie con curcuma e zenzero /5 Ricetta proposta da Lulù Gargari CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici 508,2 Calorie per porzione Energia Kcal 508,2 Carboidrati g 84,4 &nbsp;&nbsp;di cui zuccheri g 4,1 Proteine g 31,5 Grassi g 6,6 &nbsp;&nbsp;di cui saturi g 1 Fibre g 14,8 Sodio mg 158 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Senza glutine Senza lattosio Vegetariano Vegano Dieta Mediterranea Difficoltà: Facile Preparazione: 10 min Cottura: 25 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti Ascolta su Spreaker. PRESENTAZIONE La zuppa di lenticchie con curcuma e zenzero è il comfort food perfetto per i mesi più freschi: una ricetta vegetariana cremosa e avvolgente, da gustare ben calda per una coccola genuina. Facile e veloce da preparare, è resa speciale dal profumo delle spezie che aggiungono un tocco sfizioso e diverso dal solito, esaltando il sapore delle lenticchie . Potete accompagnare la zuppa di lenticchie con delle fette di pane tostato oppure arricchirla con farro, riso, orzo o pasta spezzata per trasformarla in una minestra corposa e nutriente. Servite la zuppa di lenticchie con curcuma e zenzero per una cena leggera e lasciatevi rassicurare dal suo gusto semplice ma incredibilmente appagante! Ecco altre varianti da provare: Zuppa di zucca e lenticchie Zuppa di farro e lenticchie Crema di patate e lenticchie al curry Crema di lenticchie Lentil Soup with Turmeric and Ginger Scopri anche Crema di lenticchie Vellutata di lenticchie in crosta Zuppa di lenticchie Sfoglia tutte INGREDIENTI 508,2 Calorie per porzione Lenticchie precotte (peso sgocciolato) 500 g Cipolle 100 g Sedano 100 g Brodo vegetale 800 g Curcuma in polvere 1 cucchiaino Zenzero in polvere 1 cucchiaino Basilico q.b. Olio extravergine d'oliva q.b. Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Zuppa di lenticchie con curcuma e zenzero Per preparare la zuppa di lenticchie con curcuma e zenzero, per prima cosa affettate sia il sedano che la cipolla 1 . Versate le verdure in una casseruola con un giro d’olio 2 , salate 3 e pepate. Aggiungete lo zenzero 4 e la curcuma in polvere 5 , poi soffriggete dolcemente per 5 minuti 6 . A questo punto unite le lenticchie precotte 7 e mescolate per un paio di minuti per farle insaporire, dopodiché versate quasi tutto il brodo vegetale 8 . Portate a leggero bollore e cuocete per 10-15 minuti 9 . A fine cottura, frullate una parte della zuppa con un mixer a immersione 10 . potete regolare la consistenza aggiungendo eventualmente il brodo rimasto. Impiattate 11 e guarnite con un paio di foglioline di basilico 12 . Infine completate con un filo d’olio 13 , un pizzico di curcuma 14 e una macinata di pepe. La vostra zuppa di lenticchie con curcuma e zenzero è pronta per essere servita 15 ! Conservazione La zuppa di lenticchie con curcuma e zenzero si può conservare in frigorifero per 3 giorni. Potete congelarla. Consiglio Se preferite utilizzare le lenticchie secchie, cuocetele prima a parte in acqua bollente seguendo le indicazioni riportate sulla confezione. Aggiungete al soffritto un pezzetto di peperoncino fresco per un tocco piccante. Se desiderate, potete arricchire la zuppa di lenticchie con cereali, riso o pasta. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Lenticchie Zenzero Curcuma Basilico Sedano Olio di oliva Cipolla Scopri tutto sugli ingredienti Presente in: Primi piatti veloci , Primi piatti sfiziosi , Ricette sfiziose , Ricette veloci STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Crema di lenticchie 33 4.6 Vellutata di lenticchie in crosta 38 4.0 Zuppa di lenticchie 132 4.3 Zuppa di zucca e lenticchie 11 4.4 Zuppa di farro e lenticchie 7 4.5 Zuppa ai 3 cereali, lenticchie e patate 12 4.4 Fregola con lenticchie 13 4.5 Pasta e lenticchie cremosa 3 4.4 ULTIME RICETTE Mandarini di Halloween Benessere Zuppa di lenticchie con curcuma e zenzero 5.0 Tortelli di zucca alla mantovana 5.0 SCOPRI Curcuma e zenzero Zuppa di lenticchie rosse Zuppa di lenticchie e patate Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Primi piatti Crema di lenticchie 33 4.6 La crema di lenticchie è un caldo e gustoso primo piatto, semplice e sfizioso, è perfetto da guarnire con olio a crudo e dorati crostini di pane! Vai alla ricetta Primi piatti Vellutata di lenticchie in crosta 38 4.0 La vellutata di lenticchie in crosta è un antipasto gustoso e raffinato, con briciole di cotechino croccante e dorata pasta sfoglia. Vai alla ricetta Primi piatti Zuppa di lenticchie 132 4.3 La zuppa di lenticchie è un primo piatto invernale, genuino, e corroborante. Scopri qui dosi e procedimento per preparare a casa tua questa ricetta. Vai alla ricetta Primi piatti Zuppa di zucca e lenticchie 11 4.4 Zuppa di zucca e lenticchie cremosa e nutriente, con cavolo nero e farina di ceci: la ricetta di un comfort food autunnale sano e ricco di gusto. Vai alla ricetta Primi piatti Zuppa di farro e lenticchie 7 4.5 La zuppa di farro e lenticchie è un primo corposo e bilanciato, preparato con una cottura lenta come tradizione vuole. Scoprite dosi e procedimento. Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Zuppa di lenticchie cremosa con curcuma e zenzero.",
+      "Lenticchie precotte, cipolla, sedano, curcuma, zenzero.",
+      "Soffriggi sedano e cipolla con spezie per 5 minuti.",
+      "Unisci lenticchie e brodo, cuoci 10-15 minuti, frulla parte.",
+      "Guarnisci con basilico, olio, curcuma e pepe."
+    ],
+    "instagram_caption": "Questa zuppa di lenticchie è pura coccola speziata 🌿\nSoffriggi cipolla e sedano con curcuma e zenzero, poi unisci le lenticchie e il brodo e lascia cuocere 10-15 minuti.\nFrulla una parte per una cremosità avvolgente, senza perdere la consistenza dei legumi.\nGuarnisci con basilico fresco, un filo d'olio, una spolverata di curcuma e pepe per un tocco dorato ✨\nCalda, profumata e pronta in mezz'ora: la comfort food che ci vuole adesso 🥣\nSalvala e provala questo weekend 💛",
+    "formats": {
+      "instagram": {
+        "caption": "Questa zuppa di lenticchie è pura coccola speziata 🌿\nSoffriggi cipolla e sedano con curcuma e zenzero, poi unisci le lenticchie e il brodo e lascia cuocere 10-15 minuti.\nFrulla una parte per una cremosità avvolgente, senza perdere la consistenza dei legumi.\nGuarnisci con basilico fresco, un filo d'olio, una spolverata di curcuma e pepe per un tocco dorato ✨\nCalda, profumata e pronta in mezz'ora: la comfort food che ci vuole adesso 🥣\nSalvala e provala questo weekend 💛"
+      },
+      "tiktok": {
+        "script": [
+          "Oggi zuppa cremosa di lenticchie con curcuma e zenzero!",
+          "Prendo lenticchie precotte, cipolla, sedano, curcuma e zenzero.",
+          "Soffriggo sedano e cipolla con le spezie per cinque minuti.",
+          "Aggiungo lenticchie e brodo, cuocio quindici minuti, frullo un po'.",
+          "Guarnisco con basilico, olio, curcuma e pepe. Che profumo!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "La zuppa che ti rimette in piedi in 20 minuti: lenticchie, curcuma e zenzero. Cremosa, speziata, quasi terapeutica. E no, non serve la pentola a pressione.",
+          "Parti da sedano e cipolla. Soffriggili con curcuma e zenzero per 5 minuti: il profumo ti dice già che è la strada giusta. Poi lenticchie precotte e brodo.",
+          "Cuoci 10-15 minuti. Poi frulla solo una parte: metà cremosa, metà a pezzetti. È il segreto per una consistenza che non stanca mai.",
+          "Guarnisci con basilico fresco, un filo d'olio, una spolverata di curcuma e pepe nero. Il contrasto freddo- caldo? No, quello è un altro piatto. Qui è puro comfort.",
+          "Provala stasera e dimmi se non è la zuppa più confortante dell'inverno 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Oggi zuppa cremosa di lenticchie con curcuma e zenzero!",
+      "Prendo lenticchie precotte, cipolla, sedano, curcuma e zenzero.",
+      "Soffriggo sedano e cipolla con le spezie per cinque minuti.",
+      "Aggiungo lenticchie e brodo, cuocio quindici minuti, frullo un po'.",
+      "Guarnisco con basilico, olio, curcuma e pepe. Che profumo!"
+    ],
+    "thread_text": [
+      "La zuppa che ti rimette in piedi in 20 minuti: lenticchie, curcuma e zenzero. Cremosa, speziata, quasi terapeutica. E no, non serve la pentola a pressione.",
+      "Parti da sedano e cipolla. Soffriggili con curcuma e zenzero per 5 minuti: il profumo ti dice già che è la strada giusta. Poi lenticchie precotte e brodo.",
+      "Cuoci 10-15 minuti. Poi frulla solo una parte: metà cremosa, metà a pezzetti. È il segreto per una consistenza che non stanca mai.",
+      "Guarnisci con basilico fresco, un filo d'olio, una spolverata di curcuma e pepe nero. Il contrasto freddo- caldo? No, quello è un altro piatto. Qui è puro comfort.",
+      "Provala stasera e dimmi se non è la zuppa più confortante dell'inverno 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Zuppa cremosa curcuma e zenzero",
+        "description": "Una vellutata di lenticchie dorata e speziata, calda e avvolgente.",
+        "visual_hint": "ciotola zuppa dorata fumante",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory lentil soup"
+      },
+      {
+        "hook": "Pochi ingredienti, tanto sapore",
+        "description": "Lenticchie precotte, cipolla, sedano e le spezie che fanno la differenza.",
+        "visual_hint": "ingredienti freschi su tavolo",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory ingredients flatlay",
+        "image": "https://images.pexels.com/photos/5202254/pexels-photo-5202254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Soffriggi con le spezie",
+        "description": "Cinque minuti di soffritto per sprigionare curcuma e zenzero.",
+        "visual_hint": "soffritto in padella spezie",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory sauteing vegetables",
+        "image": "https://images.pexels.com/photos/37923406/pexels-photo-37923406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cuoci e frulla a metà",
+        "description": "Unisci lenticchie e brodo, cuoci 15 minuti e frulla parte per cremosità.",
+        "visual_hint": "frullatore zuppa in pentola",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory blended soup",
+        "image": "https://images.pexels.com/photos/7455910/pexels-photo-7455910.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Guarnisci e servi calda",
+        "description": "Basilico, olio, una spolverata di curcuma e pepe per chiudere in bellezza.",
+        "visual_hint": "zuppa guarnita ciotola",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory lentil bowl",
+        "image": "https://images.pexels.com/photos/35646479/pexels-photo-35646479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "soup",
+    "signature_ingredients": [
+      "lenticchie",
+      "curcuma",
+      "zenzero"
+    ],
+    "image": "https://www.giallozafferano.it/images/366-36684/Zuppa-di-lenticchie-con-curcuma-e-zenzero_1200x800_wm.jpg",
+    "savedAt": "2026-10-07T18:16:12.555Z",
+    "sourceId": "2c0937b83ff97ffdbfe37a969c95085c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "pasta-con-cime-di-rapa-e-ombrina",
     "prompt_version": "1.0.0",
     "status": "published",

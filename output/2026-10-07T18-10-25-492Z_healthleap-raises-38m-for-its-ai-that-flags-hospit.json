@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "healthleap-raises-38m-for-its-ai-that-flags-hospit",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+  "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+  "pubDate": "Wed, 07 Oct 2026 15:07:08 +0000",
+  "slides": [
+    "Healthleap just raised $38M — but why do hospitals need it?",
+    "Its AI flags patients whose condition might quietly worsen.",
+    "The surprise: it doesn't diagnose, only prioritizes who doctors see first.",
+    "Nurses using it report fewer missed deteriorations during shifts.",
+    "Ask your hospital if they use early-warning AI yet."
+  ],
+  "thread_text": [
+    "1. Hospitals' Quiet Crisis\n\nCleveland Clinic, Cedars-Sinai, and others are deploying AI that flags deteriorating patients. Healthleap just raised $38M to scale this—not for diagnosis, but for triage before nurses miss warning signs.",
+    "2. AI That Watches Vitals\n\nIt doesn't diagnose. It ingests vitals and flags subtle trends that signal decline—often hours before a crash. That means nurses can intervene earlier, not just react.",
+    "3. The Triage Revolution\n\nWhy can't AI just diagnose? Because diagnosis requires context and liability. Prioritizing who to check first is a safer, faster win—augmenting nurses without replacing them.",
+    "4. Nurses See Fewer Missed Cases\n\nIn trials, nurses using early-warning AI reported fewer missed deteriorations during shifts. That's not automation—that's a safety net for the humans already stretched thin.",
+    "5. Ask Your Hospital Today\n\nDoes your hospital use early-warning AI yet? If not, ask why. This isn't future tech—it's scaling now. Your next shift might depend on it."
+  ],
+  "video_script": [
+    "Startup Healthleap raised $38 million to help hospitals.",
+    "Its AI doesn't diagnose, it flags quiet patient declines.",
+    "It prioritizes who nurses should see first.",
+    "Nurses report fewer missed cases during shifts.",
+    "Ask your hospital if they use early-warning AI."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Hospitals' Quiet Crisis\n\nCleveland Clinic, Cedars-Sinai, and others are deploying AI that flags deteriorating patients. Healthleap just raised $38M to scale this—not for diagnosis, but for triage before nurses miss warning signs.",
+        "2. AI That Watches Vitals\n\nIt doesn't diagnose. It ingests vitals and flags subtle trends that signal decline—often hours before a crash. That means nurses can intervene earlier, not just react.",
+        "3. The Triage Revolution\n\nWhy can't AI just diagnose? Because diagnosis requires context and liability. Prioritizing who to check first is a safer, faster win—augmenting nurses without replacing them.",
+        "4. Nurses See Fewer Missed Cases\n\nIn trials, nurses using early-warning AI reported fewer missed deteriorations during shifts. That's not automation—that's a safety net for the humans already stretched thin.",
+        "5. Ask Your Hospital Today\n\nDoes your hospital use early-warning AI yet? If not, ask why. This isn't future tech—it's scaling now. Your next shift might depend on it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Startup Healthleap raised $38 million to help hospitals.",
+        "Its AI doesn't diagnose, it flags quiet patient declines.",
+        "It prioritizes who nurses should see first.",
+        "Nurses report fewer missed cases during shifts.",
+        "Ask your hospital if they use early-warning AI."
+      ]
+    },
+    "instagram": {
+      "caption": "Someone just put $38M behind software that watches hospital vitals so nurses don't miss a patient getting worse. 🏥\n\nHealthleap's AI doesn't diagnose anything. It flags whose condition is quietly declining, so staff check them first.\n\nIt's triage, not treatment — a safety net for nurses already stretched thin. In trials, they reported fewer missed deteriorations.\n\nIf you or someone you love ends up in a hospital bed, this tech decides how fast someone walks over. Ask your hospital if they run early-warning AI yet. 🩺\n\nWould you want to know?"
+    }
+  },
+  "instagram_caption": "Someone just put $38M behind software that watches hospital vitals so nurses don't miss a patient getting worse. 🏥\n\nHealthleap's AI doesn't diagnose anything. It flags whose condition is quietly declining, so staff check them first.\n\nIt's triage, not treatment — a safety net for nurses already stretched thin. In trials, they reported fewer missed deteriorations.\n\nIf you or someone you love ends up in a hospital bed, this tech decides how fast someone walks over. Ask your hospital if they run early-warning AI yet. 🩺\n\nWould you want to know?",
+  "carousel_slides": [
+    {
+      "hook": "Why hospitals need AI that flags patients?",
+      "description": "Healthleap raised $38M to scale AI that flags deteriorating patients before nurses miss warning signs—not for diagnosis but triage.",
+      "visual_hint": "Hospital monitor with AI alert interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "hospital monitor"
+    },
+    {
+      "hook": "AI that watches vitals, not diagnoses",
+      "description": "It ingests vitals and flags subtle trends signaling decline hours before a crash, enabling earlier nurse intervention instead of reaction.",
+      "visual_hint": "Heart rate graph on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "heart rate monitor",
+      "image": "https://images.pexels.com/photos/6291261/pexels-photo-6291261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The surprise: it doesn't diagnose",
+      "description": "Diagnosis requires context and liability, so prioritizing who doctors see first is a safer, faster win—augmenting nurses without replacing.",
+      "visual_hint": "Doctor reviewing tablet with patient list",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "doctor tablet",
+      "image": "https://images.pexels.com/photos/19963124/pexels-photo-19963124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Nurses report fewer missed deteriorations",
+      "description": "In trials, nurses using early-warning AI reported fewer missed deteriorations during shifts, acting as a safety net for stretched humans.",
+      "visual_hint": "Nurse smiling at hospital station",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "nurse hospital",
+      "image": "https://images.pexels.com/photos/6129236/pexels-photo-6129236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your hospital about early-warning AI today",
+      "description": "Does your hospital use early-warning AI yet? If not, ask why. This tech is scaling now—your next shift might depend on it.",
+      "visual_hint": "Person holding phone with question mark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person phone question",
+      "image": "https://images.pexels.com/photos/12405407/pexels-photo-12405407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/healthleap.jpeg?resize=1200,675",
+  "savedAt": "2026-10-07T18:10:53.042Z",
+  "sourceId": "fc38477a8aad94423f499cf6bdd2bbba"
+}
