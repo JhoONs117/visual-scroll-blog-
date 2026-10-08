@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "robot-data-startup-mecka-ai-nabs-60m-from-sequoia",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+  "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+  "pubDate": "Wed, 07 Oct 2026 23:36:57 +0000",
+  "slides": [
+    "Why does a robot data startup just raise $60M?",
+    "Mecka AI collects physical-world data for robot training",
+    "Sequoia bets on robots learning from human motion, not code",
+    "Your warehouse robots may soon train like self-driving cars",
+    "Watch who owns robot training data next"
+  ],
+  "thread_text": [
+    "1. The $60M Question\n\nMecka AI just raised a massive round. Sequoia is betting that robots will learn from human motion, not hand-coded rules.",
+    "2. Motion, Not Code\n\nInstead of writing scripts for every possible task, Mecka AI collects physical-world data. This allows robots to mimic how humans move naturally.",
+    "3. Training Like Teslas\n\nThe goal is to make warehouse robots learn like self-driving cars. They ingest millions of examples to handle unpredictable situations on the floor.",
+    "4. The Ownership Trap\n\nIf robots learn from human motion, who owns that movement data? The battle over training rights is the next big legal frontier for automation.",
+    "5. Audit Your Automation\n\nDoes your warehouse rely on fixed scripts? Ask your vendor if their system learns from human input or just follows rigid code."
+  ],
+  "video_script": [
+    "Mecka AI just raised sixty million dollars.",
+    "Sequoia bets robots learn from motion.",
+    "Warehouse robots will train like self-driving cars.",
+    "But who owns the robot training data?",
+    "Check if your automation learns or just follows."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $60M Question\n\nMecka AI just raised a massive round. Sequoia is betting that robots will learn from human motion, not hand-coded rules.",
+        "2. Motion, Not Code\n\nInstead of writing scripts for every possible task, Mecka AI collects physical-world data. This allows robots to mimic how humans move naturally.",
+        "3. Training Like Teslas\n\nThe goal is to make warehouse robots learn like self-driving cars. They ingest millions of examples to handle unpredictable situations on the floor.",
+        "4. The Ownership Trap\n\nIf robots learn from human motion, who owns that movement data? The battle over training rights is the next big legal frontier for automation.",
+        "5. Audit Your Automation\n\nDoes your warehouse rely on fixed scripts? Ask your vendor if their system learns from human input or just follows rigid code."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Mecka AI just raised sixty million dollars.",
+        "Sequoia bets robots learn from motion.",
+        "Warehouse robots will train like self-driving cars.",
+        "But who owns the robot training data?",
+        "Check if your automation learns or just follows."
+      ]
+    },
+    "instagram": {
+      "caption": "Someone just put $60M behind the idea that your warehouse robot should learn by watching people move, not by following scripts.\n\nMecka AI raised that round from Sequoia to collect physical-world data for robot training.\n\nThe bet: robots pick up tasks from human motion the way self-driving cars learn from millions of driving examples.\n\nThat means fewer rigid rules and more real-world footage.\n\nIf you work with warehouse automation, ask your vendor one thing: does your system learn from human input, or just run fixed code? 🤖\n\nThe motion data has to come from somewhere. Who owns it when it's yours? 📹"
+    }
+  },
+  "instagram_caption": "Someone just put $60M behind the idea that your warehouse robot should learn by watching people move, not by following scripts.\n\nMecka AI raised that round from Sequoia to collect physical-world data for robot training.\n\nThe bet: robots pick up tasks from human motion the way self-driving cars learn from millions of driving examples.\n\nThat means fewer rigid rules and more real-world footage.\n\nIf you work with warehouse automation, ask your vendor one thing: does your system learn from human input, or just run fixed code? 🤖\n\nThe motion data has to come from somewhere. Who owns it when it's yours? 📹",
+  "carousel_slides": [
+    {
+      "hook": "Will robots learn from human motion, not code?",
+      "description": "Mecka AI raised $60M from Sequoia to collect physical-world data, betting robots will mimic human movement instead of hand-coded rules.",
+      "visual_hint": "Robot arm and human hand side by side",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot arm"
+    },
+    {
+      "hook": "The data fueling robot training isn't code.",
+      "description": "Mecka AI gathers physical-world data to train robots, enabling them to learn from real human motion rather than rigid scripts.",
+      "visual_hint": "Sensors capturing human motion in warehouse",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "motion capture",
+      "image": "https://images.pexels.com/photos/7561822/pexels-photo-7561822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Sequoia's $60M bet: robots learn like Teslas.",
+      "description": "Warehouse robots could soon train like self-driving cars, ingesting millions of examples to handle unpredictable situations on the floor.",
+      "visual_hint": "Self-driving car sensor scanning warehouse",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "autonomous car",
+      "image": "https://images.pexels.com/photos/39434843/pexels-photo-39434843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who owns your motion data?",
+      "description": "If robots learn from human motion, the battle over training rights becomes the next big legal frontier for automation.",
+      "visual_hint": "Hand signing contract with robot nearby",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "handshake contract",
+      "image": "https://images.pexels.com/photos/8441789/pexels-photo-8441789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: audit your warehouse automation now.",
+      "description": "Ask your vendor if their system learns from human input or just follows rigid code. Visit link in bio for key questions.",
+      "visual_hint": "Checklist with warehouse background",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "warehouse checklist",
+      "image": "https://images.pexels.com/photos/7843990/pexels-photo-7843990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+  "savedAt": "2026-10-07T23:56:29.350Z",
+  "sourceId": "651a4bbf3d233521e01dee20cd3ba1a6"
+}

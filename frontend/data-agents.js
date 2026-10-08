@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "google-experiments-with-an-ai-powered-gaming-platf",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google experiments with an AI-powered gaming platform",
+      "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+      "pubDate": "Wed, 07 Oct 2026 14:36:23 +0000",
+      "slides": [
+        "Is Google building your next game console?",
+        "An AI-powered gaming platform is quietly being tested",
+        "But it may not stream games at all",
+        "Your controller could change based on the game",
+        "Ask: would you play a game designed live by AI?"
+      ],
+      "thread_text": [
+        "1. Google's Quiet Console Play\n\nA cloud gaming platform powered by AI is being tested internally. It may not stream games at all.",
+        "2. No Streaming Required\n\nInstead of sending video, the system could generate game content on the fly. That changes what 'playing online' means.",
+        "3. Controllers That Adapt\n\nYour gamepad could morph its layout based on the game. Buttons appear only when you need them.",
+        "4. Games Designed Live\n\nAn AI could build levels, rules, and challenges as you play. No two sessions would ever be the same.",
+        "5. Would You Play?\n\nIf a game is designed live by AI, does it still feel fair? Try imagining your favorite game with no fixed rules."
+      ],
+      "video_script": [
+        "Google might be building a game console.",
+        "An AI platform is being tested quietly.",
+        "It may not stream games at all.",
+        "Your controller could change based on the game.",
+        "Would you play a game designed live by AI?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Google's Quiet Console Play\n\nA cloud gaming platform powered by AI is being tested internally. It may not stream games at all.",
+            "2. No Streaming Required\n\nInstead of sending video, the system could generate game content on the fly. That changes what 'playing online' means.",
+            "3. Controllers That Adapt\n\nYour gamepad could morph its layout based on the game. Buttons appear only when you need them.",
+            "4. Games Designed Live\n\nAn AI could build levels, rules, and challenges as you play. No two sessions would ever be the same.",
+            "5. Would You Play?\n\nIf a game is designed live by AI, does it still feel fair? Try imagining your favorite game with no fixed rules."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google might be building a game console.",
+            "An AI platform is being tested quietly.",
+            "It may not stream games at all.",
+            "Your controller could change based on the game.",
+            "Would you play a game designed live by AI?"
+          ]
+        },
+        "instagram": {
+          "caption": "The controller might change shape depending on the game you're playing.\n\nGoogle is quietly testing an AI-powered gaming platform internally.\n\nIt may not stream games at all — instead the system could generate levels, rules, and challenges live as you play. 🎮\n\nControllers could adapt too: buttons showing up only when you need them.\n\nIf you make content, this shifts how games get built and played. No fixed design means no fixed walkthroughs or guides.\n\nWould you play a game designed live by AI, with no set rules? 🤔"
+        }
+      },
+      "instagram_caption": "The controller might change shape depending on the game you're playing.\n\nGoogle is quietly testing an AI-powered gaming platform internally.\n\nIt may not stream games at all — instead the system could generate levels, rules, and challenges live as you play. 🎮\n\nControllers could adapt too: buttons showing up only when you need them.\n\nIf you make content, this shifts how games get built and played. No fixed design means no fixed walkthroughs or guides.\n\nWould you play a game designed live by AI, with no set rules? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Your controller could abandon you mid-game",
+          "description": "Google's AI platform may not stream games — it generates content live instead. That changes what playing online means.",
+          "visual_hint": "abstract AI cloud gaming interface",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Google is quietly testing something huge",
+          "description": "An AI-powered gaming platform is running internal experiments now, no public reveal. Console wars might restart without hardware.",
+          "visual_hint": "testing lab with glowing screens",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer chip",
+          "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Streaming might not be the point at all",
+          "description": "Instead of sending video, the system creates game content on the fly, making every session unique and unpredictable.",
+          "visual_hint": "data flow visualisation network",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "fiber optic cables",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Buttons could appear only when needed",
+          "description": "Your gamepad may morph its layout based on the game, hiding or revealing controls dynamically as you play.",
+          "visual_hint": "adaptive game controller close-up",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "video game controller",
+          "image": "https://images.pexels.com/photos/11382204/pexels-photo-11382204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Would you play a game with no fixed rules?",
+          "description": "Save this post and comment: if AI designs levels live, does it still feel fair?",
+          "visual_hint": "hand holding glowing controller",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "gaming setup",
+          "image": "https://images.pexels.com/photos/28993061/pexels-photo-28993061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Google-Playground1.png?w=1142",
+      "savedAt": "2026-10-07T23:56:54.708Z",
+      "sourceId": "60862e24b98b764eb3682b42f96e29c4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "microsoft-releases-new-nvidia-chip-ai-pcs-with-rev",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "pubDate": "Wed, 07 Oct 2026 20:22:37 +0000",
+      "slides": [
+        "Microsoft thinks your next PC needs an AI chip.",
+        "You can run small AI models locally, no cloud.",
+        "But your current apps won't use that chip yet.",
+        "Upgrading now means paying for unused potential.",
+        "Wait six months or buy for battery life instead."
+      ],
+      "thread_text": [
+        "Microsoft's AI PC Bet\n\nEvery new Windows laptop will soon ship with a dedicated neural chip. Microsoft is betting you'll pay for it before any app actually uses it.",
+        "Local AI, No Cloud\n\nSmall models can now run entirely on your device. No internet, no subscription, no data leaving your machine.",
+        "The App Gap\n\nYour current software can't see that chip. Developers need months to rewrite apps that tap into it.",
+        "Paying for Potential\n\nYou're buying hardware for features that don't exist yet. The silicon is ready. The ecosystem isn't.",
+        "Wait or Buy?\n\nIf you need battery life, buy now. If you want AI performance, wait six months. Check one app you use daily, does it list neural chip support?"
+      ],
+      "video_script": [
+        "Microsoft says your next PC needs an AI chip.",
+        "Small AI models can run locally, no cloud needed.",
+        "But your current apps won't use that chip yet.",
+        "You'd be paying for unused potential right now.",
+        "Wait six months, or buy for battery life instead."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Microsoft's AI PC Bet\n\nEvery new Windows laptop will soon ship with a dedicated neural chip. Microsoft is betting you'll pay for it before any app actually uses it.",
+            "Local AI, No Cloud\n\nSmall models can now run entirely on your device. No internet, no subscription, no data leaving your machine.",
+            "The App Gap\n\nYour current software can't see that chip. Developers need months to rewrite apps that tap into it.",
+            "Paying for Potential\n\nYou're buying hardware for features that don't exist yet. The silicon is ready. The ecosystem isn't.",
+            "Wait or Buy?\n\nIf you need battery life, buy now. If you want AI performance, wait six months. Check one app you use daily, does it list neural chip support?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Microsoft says your next PC needs an AI chip.",
+            "Small AI models can run locally, no cloud needed.",
+            "But your current apps won't use that chip yet.",
+            "You'd be paying for unused potential right now.",
+            "Wait six months, or buy for battery life instead."
+          ]
+        },
+        "instagram": {
+          "caption": "Every new Windows laptop will soon ship with a chip your apps can't use yet. 🧠\n\nMicrosoft is putting a dedicated neural chip in new PCs so small AI models run locally, no cloud needed.\n\nBut your current software can't see that chip. Developers need months to rewrite apps that use it.\n\nYou're paying now for features that don't exist yet.\n\nIf you make content on your laptop, nothing speeds up today. You'd be buying battery life, not AI performance.\n\nWhat app do you use daily that would actually need that chip? 🔍"
+        }
+      },
+      "instagram_caption": "Every new Windows laptop will soon ship with a chip your apps can't use yet. 🧠\n\nMicrosoft is putting a dedicated neural chip in new PCs so small AI models run locally, no cloud needed.\n\nBut your current software can't see that chip. Developers need months to rewrite apps that use it.\n\nYou're paying now for features that don't exist yet.\n\nIf you make content on your laptop, nothing speeds up today. You'd be buying battery life, not AI performance.\n\nWhat app do you use daily that would actually need that chip? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Buying hardware for apps that don't exist",
+          "description": "Microsoft's new AI PCs ship with a neural chip your current software can't use yet, so you're paying for unused potential.",
+          "visual_hint": "Close-up of neural chip on laptop motherboard",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "circuit board"
+        },
+        {
+          "hook": "Small AI models run locally, no cloud",
+          "description": "Run small AI models entirely on your device—no internet, no subscription, no data leaving your machine.",
+          "visual_hint": "Laptop screen showing offline AI model interface",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "laptop screen",
+          "image": "https://images.pexels.com/photos/17115912/pexels-photo-17115912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your apps can't see that chip",
+          "description": "Current software can't tap the neural chip; developers need months to rewrite apps that use it.",
+          "visual_hint": "App icons with a disabled chip symbol",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "app icons",
+          "image": "https://images.pexels.com/photos/33632617/pexels-photo-33632617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Paying for potential, not performance",
+          "description": "You're buying hardware for features that don't exist yet. The silicon is ready, but the ecosystem isn't.",
+          "visual_hint": "Hand holding a laptop with a question mark",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding laptop",
+          "image": "https://images.pexels.com/photos/8653658/pexels-photo-8653658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Wait six months or buy for battery?",
+          "description": "Save this post. Check one app you use daily—does it list neural chip support? If not, wait before upgrading.",
+          "visual_hint": "Checklist with battery and AI chip items",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677",
+      "savedAt": "2026-10-07T23:56:45.280Z",
+      "sourceId": "eb599b08c7e3d0b1e443f93e9477fb45"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "nous-research-confirms-it-hit-1-5b-valuation-launc",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "pubDate": "Wed, 07 Oct 2026 20:48:45 +0000",
+      "slides": [
+        "What if AI agents could run your business?",
+        "Nous Research just hit $1.5B valuation.",
+        "They launched agents for business users—not just techies.",
+        "Now you can deploy AI agents without writing code.",
+        "Which task will you delegate first?"
+      ],
+      "thread_text": [
+        "1. The $1.5B code-free bet\n\nNous Research just hit a $1.5B valuation. Their new agents are aimed at business users, not developers.",
+        "2. Built for non-techies\n\nYou can now deploy these agents without writing a single line of code. That removes the biggest barrier for most teams.",
+        "3. Agents that run the show\n\nThe pitch: these agents don't just answer questions. They can execute tasks and manage workflows on their own.",
+        "4. Your first delegation\n\nWhat would you hand off first? A report, a scheduling mess, a research rabbit hole—pick one and see if it sticks.",
+        "5. Test it this week\n\nTake a real task you did yesterday and try an agent on it. If you haven't done that yet, start there."
+      ],
+      "video_script": [
+        "Nous Research just hit a 1.5 billion dollar valuation.",
+        "They launched AI agents for business users, not just techies.",
+        "Now you can deploy agents without writing any code.",
+        "So which task will you delegate first?",
+        "Try one real task this week and see."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The $1.5B code-free bet\n\nNous Research just hit a $1.5B valuation. Their new agents are aimed at business users, not developers.",
+            "2. Built for non-techies\n\nYou can now deploy these agents without writing a single line of code. That removes the biggest barrier for most teams.",
+            "3. Agents that run the show\n\nThe pitch: these agents don't just answer questions. They can execute tasks and manage workflows on their own.",
+            "4. Your first delegation\n\nWhat would you hand off first? A report, a scheduling mess, a research rabbit hole—pick one and see if it sticks.",
+            "5. Test it this week\n\nTake a real task you did yesterday and try an agent on it. If you haven't done that yet, start there."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Nous Research just hit a 1.5 billion dollar valuation.",
+            "They launched AI agents for business users, not just techies.",
+            "Now you can deploy agents without writing any code.",
+            "So which task will you delegate first?",
+            "Try one real task this week and see."
+          ]
+        },
+        "instagram": {
+          "caption": "1.5 billion dollars for agents you don't need to code.\n\nNous Research just hit that valuation 🚀 and launched AI agents made for business users, not developers.\n\nYou can now deploy them without writing a single line of code — the biggest barrier for most teams just disappeared.\n\nThese agents don't just answer questions. They execute tasks and manage workflows on their own 🤖\n\nIf you publish content, this means delegating research, scheduling and reporting without hiring anyone new.\n\nSo what do you hand off first: the report, the inbox chaos, or that research rabbit hole? 👇"
+        }
+      },
+      "instagram_caption": "1.5 billion dollars for agents you don't need to code.\n\nNous Research just hit that valuation 🚀 and launched AI agents made for business users, not developers.\n\nYou can now deploy them without writing a single line of code — the biggest barrier for most teams just disappeared.\n\nThese agents don't just answer questions. They execute tasks and manage workflows on their own 🤖\n\nIf you publish content, this means delegating research, scheduling and reporting without hiring anyone new.\n\nSo what do you hand off first: the report, the inbox chaos, or that research rabbit hole? 👇",
+      "carousel_slides": [
+        {
+          "hook": "What if AI agents ran your business?",
+          "description": "Nous Research hits $1.5B valuation with no-code agents that execute tasks, not just answer questions. That changes everything.",
+          "visual_hint": "Futuristic business dashboard with AI",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Nous Research hits $1.5B valuation",
+          "description": "Their new agents target business users, not developers. This signals a major shift toward mainstream AI adoption.",
+          "visual_hint": "Valuation graph rising sharply",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Agents that run the show",
+          "description": "These agents don't just answer—they execute tasks and manage workflows autonomously. Your team delegates, they deliver.",
+          "visual_hint": "Robotic hand managing tasks",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No code needed to deploy agents",
+          "description": "You can now deploy AI agents without writing a single line of code. The biggest barrier for teams just vanished.",
+          "visual_hint": "Hand using drag-and-drop interface",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "What will you delegate first?",
+          "description": "Pick one real task you did yesterday—a report, scheduling, research—and test an agent on it this week.",
+          "visual_hint": "Checklist with tasks being checked",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "people walking street",
+          "image": "https://images.pexels.com/photos/18302592/pexels-photo-18302592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
+      "savedAt": "2026-10-07T23:56:37.247Z",
+      "sourceId": "1d6dcd635bc7906e8be2cafa53ba90c8"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "robot-data-startup-mecka-ai-nabs-60m-from-sequoia",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+      "pubDate": "Wed, 07 Oct 2026 23:36:57 +0000",
+      "slides": [
+        "Why does a robot data startup just raise $60M?",
+        "Mecka AI collects physical-world data for robot training",
+        "Sequoia bets on robots learning from human motion, not code",
+        "Your warehouse robots may soon train like self-driving cars",
+        "Watch who owns robot training data next"
+      ],
+      "thread_text": [
+        "1. The $60M Question\n\nMecka AI just raised a massive round. Sequoia is betting that robots will learn from human motion, not hand-coded rules.",
+        "2. Motion, Not Code\n\nInstead of writing scripts for every possible task, Mecka AI collects physical-world data. This allows robots to mimic how humans move naturally.",
+        "3. Training Like Teslas\n\nThe goal is to make warehouse robots learn like self-driving cars. They ingest millions of examples to handle unpredictable situations on the floor.",
+        "4. The Ownership Trap\n\nIf robots learn from human motion, who owns that movement data? The battle over training rights is the next big legal frontier for automation.",
+        "5. Audit Your Automation\n\nDoes your warehouse rely on fixed scripts? Ask your vendor if their system learns from human input or just follows rigid code."
+      ],
+      "video_script": [
+        "Mecka AI just raised sixty million dollars.",
+        "Sequoia bets robots learn from motion.",
+        "Warehouse robots will train like self-driving cars.",
+        "But who owns the robot training data?",
+        "Check if your automation learns or just follows."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The $60M Question\n\nMecka AI just raised a massive round. Sequoia is betting that robots will learn from human motion, not hand-coded rules.",
+            "2. Motion, Not Code\n\nInstead of writing scripts for every possible task, Mecka AI collects physical-world data. This allows robots to mimic how humans move naturally.",
+            "3. Training Like Teslas\n\nThe goal is to make warehouse robots learn like self-driving cars. They ingest millions of examples to handle unpredictable situations on the floor.",
+            "4. The Ownership Trap\n\nIf robots learn from human motion, who owns that movement data? The battle over training rights is the next big legal frontier for automation.",
+            "5. Audit Your Automation\n\nDoes your warehouse rely on fixed scripts? Ask your vendor if their system learns from human input or just follows rigid code."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Mecka AI just raised sixty million dollars.",
+            "Sequoia bets robots learn from motion.",
+            "Warehouse robots will train like self-driving cars.",
+            "But who owns the robot training data?",
+            "Check if your automation learns or just follows."
+          ]
+        },
+        "instagram": {
+          "caption": "Someone just put $60M behind the idea that your warehouse robot should learn by watching people move, not by following scripts.\n\nMecka AI raised that round from Sequoia to collect physical-world data for robot training.\n\nThe bet: robots pick up tasks from human motion the way self-driving cars learn from millions of driving examples.\n\nThat means fewer rigid rules and more real-world footage.\n\nIf you work with warehouse automation, ask your vendor one thing: does your system learn from human input, or just run fixed code? 🤖\n\nThe motion data has to come from somewhere. Who owns it when it's yours? 📹"
+        }
+      },
+      "instagram_caption": "Someone just put $60M behind the idea that your warehouse robot should learn by watching people move, not by following scripts.\n\nMecka AI raised that round from Sequoia to collect physical-world data for robot training.\n\nThe bet: robots pick up tasks from human motion the way self-driving cars learn from millions of driving examples.\n\nThat means fewer rigid rules and more real-world footage.\n\nIf you work with warehouse automation, ask your vendor one thing: does your system learn from human input, or just run fixed code? 🤖\n\nThe motion data has to come from somewhere. Who owns it when it's yours? 📹",
+      "carousel_slides": [
+        {
+          "hook": "Will robots learn from human motion, not code?",
+          "description": "Mecka AI raised $60M from Sequoia to collect physical-world data, betting robots will mimic human movement instead of hand-coded rules.",
+          "visual_hint": "Robot arm and human hand side by side",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robot arm"
+        },
+        {
+          "hook": "The data fueling robot training isn't code.",
+          "description": "Mecka AI gathers physical-world data to train robots, enabling them to learn from real human motion rather than rigid scripts.",
+          "visual_hint": "Sensors capturing human motion in warehouse",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "motion capture",
+          "image": "https://images.pexels.com/photos/7561822/pexels-photo-7561822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Sequoia's $60M bet: robots learn like Teslas.",
+          "description": "Warehouse robots could soon train like self-driving cars, ingesting millions of examples to handle unpredictable situations on the floor.",
+          "visual_hint": "Self-driving car sensor scanning warehouse",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "autonomous car",
+          "image": "https://images.pexels.com/photos/39434843/pexels-photo-39434843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who owns your motion data?",
+          "description": "If robots learn from human motion, the battle over training rights becomes the next big legal frontier for automation.",
+          "visual_hint": "Hand signing contract with robot nearby",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "handshake contract",
+          "image": "https://images.pexels.com/photos/8441789/pexels-photo-8441789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: audit your warehouse automation now.",
+          "description": "Ask your vendor if their system learns from human input or just follows rigid code. Visit link in bio for key questions.",
+          "visual_hint": "Checklist with warehouse background",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "warehouse checklist",
+          "image": "https://images.pexels.com/photos/7843990/pexels-photo-7843990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+      "savedAt": "2026-10-07T23:56:29.350Z",
+      "sourceId": "651a4bbf3d233521e01dee20cd3ba1a6"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "spacex-alumni-nab-100m-to-rethink-shipping-with-au",
       "prompt_version": "1.0.0",
       "status": "published",

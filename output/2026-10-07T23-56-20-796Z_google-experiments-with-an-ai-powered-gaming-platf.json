@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-experiments-with-an-ai-powered-gaming-platf",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google experiments with an AI-powered gaming platform",
+  "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+  "pubDate": "Wed, 07 Oct 2026 14:36:23 +0000",
+  "slides": [
+    "Is Google building your next game console?",
+    "An AI-powered gaming platform is quietly being tested",
+    "But it may not stream games at all",
+    "Your controller could change based on the game",
+    "Ask: would you play a game designed live by AI?"
+  ],
+  "thread_text": [
+    "1. Google's Quiet Console Play\n\nA cloud gaming platform powered by AI is being tested internally. It may not stream games at all.",
+    "2. No Streaming Required\n\nInstead of sending video, the system could generate game content on the fly. That changes what 'playing online' means.",
+    "3. Controllers That Adapt\n\nYour gamepad could morph its layout based on the game. Buttons appear only when you need them.",
+    "4. Games Designed Live\n\nAn AI could build levels, rules, and challenges as you play. No two sessions would ever be the same.",
+    "5. Would You Play?\n\nIf a game is designed live by AI, does it still feel fair? Try imagining your favorite game with no fixed rules."
+  ],
+  "video_script": [
+    "Google might be building a game console.",
+    "An AI platform is being tested quietly.",
+    "It may not stream games at all.",
+    "Your controller could change based on the game.",
+    "Would you play a game designed live by AI?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Google's Quiet Console Play\n\nA cloud gaming platform powered by AI is being tested internally. It may not stream games at all.",
+        "2. No Streaming Required\n\nInstead of sending video, the system could generate game content on the fly. That changes what 'playing online' means.",
+        "3. Controllers That Adapt\n\nYour gamepad could morph its layout based on the game. Buttons appear only when you need them.",
+        "4. Games Designed Live\n\nAn AI could build levels, rules, and challenges as you play. No two sessions would ever be the same.",
+        "5. Would You Play?\n\nIf a game is designed live by AI, does it still feel fair? Try imagining your favorite game with no fixed rules."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google might be building a game console.",
+        "An AI platform is being tested quietly.",
+        "It may not stream games at all.",
+        "Your controller could change based on the game.",
+        "Would you play a game designed live by AI?"
+      ]
+    },
+    "instagram": {
+      "caption": "The controller might change shape depending on the game you're playing.\n\nGoogle is quietly testing an AI-powered gaming platform internally.\n\nIt may not stream games at all — instead the system could generate levels, rules, and challenges live as you play. 🎮\n\nControllers could adapt too: buttons showing up only when you need them.\n\nIf you make content, this shifts how games get built and played. No fixed design means no fixed walkthroughs or guides.\n\nWould you play a game designed live by AI, with no set rules? 🤔"
+    }
+  },
+  "instagram_caption": "The controller might change shape depending on the game you're playing.\n\nGoogle is quietly testing an AI-powered gaming platform internally.\n\nIt may not stream games at all — instead the system could generate levels, rules, and challenges live as you play. 🎮\n\nControllers could adapt too: buttons showing up only when you need them.\n\nIf you make content, this shifts how games get built and played. No fixed design means no fixed walkthroughs or guides.\n\nWould you play a game designed live by AI, with no set rules? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Your controller could abandon you mid-game",
+      "description": "Google's AI platform may not stream games — it generates content live instead. That changes what playing online means.",
+      "visual_hint": "abstract AI cloud gaming interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Google is quietly testing something huge",
+      "description": "An AI-powered gaming platform is running internal experiments now, no public reveal. Console wars might restart without hardware.",
+      "visual_hint": "testing lab with glowing screens",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer chip",
+      "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Streaming might not be the point at all",
+      "description": "Instead of sending video, the system creates game content on the fly, making every session unique and unpredictable.",
+      "visual_hint": "data flow visualisation network",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "fiber optic cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Buttons could appear only when needed",
+      "description": "Your gamepad may morph its layout based on the game, hiding or revealing controls dynamically as you play.",
+      "visual_hint": "adaptive game controller close-up",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "video game controller",
+      "image": "https://images.pexels.com/photos/11382204/pexels-photo-11382204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Would you play a game with no fixed rules?",
+      "description": "Save this post and comment: if AI designs levels live, does it still feel fair?",
+      "visual_hint": "hand holding glowing controller",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "gaming setup",
+      "image": "https://images.pexels.com/photos/28993061/pexels-photo-28993061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Google-Playground1.png?w=1142",
+  "savedAt": "2026-10-07T23:56:54.708Z",
+  "sourceId": "60862e24b98b764eb3682b42f96e29c4"
+}
