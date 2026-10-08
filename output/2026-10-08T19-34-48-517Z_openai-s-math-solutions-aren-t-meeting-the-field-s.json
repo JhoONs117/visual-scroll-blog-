@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-s-math-solutions-aren-t-meeting-the-field-s",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+  "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+  "pubDate": "Thu, 08 Oct 2026 18:10:55 +0000",
+  "slides": [
+    "OpenAI's math solutions: really solving problems?",
+    "Their model often gets answers right but proofs wrong.",
+    "Critics say steps are missing, not just final numbers.",
+    "So you still need to verify every derivation manually.",
+    "Ask for the work, not just the answer."
+  ],
+  "thread_text": [
+    "1. The Math Problem\n\nOpenAI's model solves problems but often gets the proof wrong. So the answer looks right, yet the reasoning is broken.",
+    "2. Right Answer, Wrong Proof\n\nIt nails the final number but skips steps, making the solution unreliable. That's not math, that's guessing.",
+    "3. Missing Steps, Not Just Numbers\n\nCritics point out that the model omits crucial derivations. You can't trust the answer if the path is hidden.",
+    "4. Manual Verification Needed\n\nYou still have to check every line yourself. That defeats the purpose of automation.",
+    "5. Ask for the Work\n\nNext time, demand the full derivation. If it can't show it, don't trust it. Will you verify your next AI answer?"
+  ],
+  "video_script": [
+    "OpenAI's model solves math but gets proofs wrong.",
+    "It gives the right answer but skips steps.",
+    "Critics say the missing steps make it unreliable.",
+    "You still have to verify every derivation manually.",
+    "So always ask for the work, not just the answer."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Math Problem\n\nOpenAI's model solves problems but often gets the proof wrong. So the answer looks right, yet the reasoning is broken.",
+        "2. Right Answer, Wrong Proof\n\nIt nails the final number but skips steps, making the solution unreliable. That's not math, that's guessing.",
+        "3. Missing Steps, Not Just Numbers\n\nCritics point out that the model omits crucial derivations. You can't trust the answer if the path is hidden.",
+        "4. Manual Verification Needed\n\nYou still have to check every line yourself. That defeats the purpose of automation.",
+        "5. Ask for the Work\n\nNext time, demand the full derivation. If it can't show it, don't trust it. Will you verify your next AI answer?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI's model solves math but gets proofs wrong.",
+        "It gives the right answer but skips steps.",
+        "Critics say the missing steps make it unreliable.",
+        "You still have to verify every derivation manually.",
+        "So always ask for the work, not just the answer."
+      ]
+    },
+    "instagram": {
+      "caption": "The final number is right but the proof is broken, so the solution still doesn't add up.\n\nOpenAI's model often nails the answer while botching the derivation. 🧮\n\nCritics say it skips crucial steps, and that's not math, it's guessing.\n\nSo every line still needs a manual check, which defeats the point of automating it.\n\nIf you publish or build on AI math output, you can't trust a result you can't trace. ⚠️\n\nNext time you get an AI answer, will you ask for the full work or just accept the number? 🔍"
+    }
+  },
+  "instagram_caption": "The final number is right but the proof is broken, so the solution still doesn't add up.\n\nOpenAI's model often nails the answer while botching the derivation. 🧮\n\nCritics say it skips crucial steps, and that's not math, it's guessing.\n\nSo every line still needs a manual check, which defeats the point of automating it.\n\nIf you publish or build on AI math output, you can't trust a result you can't trace. ⚠️\n\nNext time you get an AI answer, will you ask for the full work or just accept the number? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Can you trust an AI's math proof?",
+      "description": "OpenAI's model nails final numbers but skips steps, so the reasoning is often broken and unreliable.",
+      "visual_hint": "Glowing math equations on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "math equations"
+    },
+    {
+      "hook": "Right answer, but the proof is wrong",
+      "description": "The model skips crucial steps, making solutions unreliable. That's not math—it's guessing with numbers.",
+      "visual_hint": "Broken pencil on notebook",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "pencil notebook",
+      "image": "https://images.pexels.com/photos/8099373/pexels-photo-8099373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Missing steps, hidden path, zero trust",
+      "description": "Critics say the model omits derivations. You can't trust an answer if the solution path is hidden.",
+      "visual_hint": "Magnifying glass over missing lines",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Manual verification defeats the purpose",
+      "description": "You still have to check every line yourself. That defeats the purpose of automation entirely.",
+      "visual_hint": "Hand checking printout with pen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand pen paper",
+      "image": "https://images.pexels.com/photos/7774239/pexels-photo-7774239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next AI answer",
+      "description": "Demand the full derivation next time. If it can't show the work, don't trust it. Save this tip.",
+      "visual_hint": "Smartphone with save icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-11-at-1.39.30-PM.png?w=672",
+  "savedAt": "2026-10-08T19:35:21.360Z",
+  "sourceId": "81c67bededb8c6b25afd17a88430411e"
+}

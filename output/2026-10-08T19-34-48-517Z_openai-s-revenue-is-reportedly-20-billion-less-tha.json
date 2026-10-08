@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-s-revenue-is-reportedly-20-billion-less-tha",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+  "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+  "pubDate": "Thu, 08 Oct 2026 18:19:42 +0000",
+  "slides": [
+    "Is OpenAI's boom already cracking?",
+    "It projected $20 billion less revenue than expected",
+    "But expenses keep climbing, not shrinking",
+    "Your AI budget may soon face tougher scrutiny",
+    "Audit your AI spend this quarter"
+  ],
+  "thread_text": [
+    "1. OpenAI's revenue gap\n\nOpenAI projected $20 billion less revenue than expected. That's not a rounding error—it's a warning shot for every company betting on AI.",
+    "2. Costs keep rising\n\nMeanwhile, compute and talent expenses are still climbing. The old playbook of 'spend now, figure out ROI later' is breaking.",
+    "3. Your budget under scrutiny\n\nCFOs are starting to ask hard questions about AI line items. If you can't tie spend to outcomes, you're next on the chopping block.",
+    "4. The reckoning is here\n\nAI vendors are slashing prices to stay competitive, but that won't save you if your tools aren't delivering. Efficiency is the new mandate.",
+    "5. Audit your AI spend\n\nThis quarter, pull a list of every AI subscription and ask: did it save time or make money? If not, cut it. Start with one tool today."
+  ],
+  "video_script": [
+    "OpenAI just missed its revenue target by twenty billion dollars.",
+    "At the same time, its expenses keep climbing, not shrinking.",
+    "Your boss is going to ask why you're spending so much on AI.",
+    "Most AI tools don't deliver enough value to justify the cost.",
+    "Audit your AI subscriptions this quarter. Cut what doesn't work."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI's revenue gap\n\nOpenAI projected $20 billion less revenue than expected. That's not a rounding error—it's a warning shot for every company betting on AI.",
+        "2. Costs keep rising\n\nMeanwhile, compute and talent expenses are still climbing. The old playbook of 'spend now, figure out ROI later' is breaking.",
+        "3. Your budget under scrutiny\n\nCFOs are starting to ask hard questions about AI line items. If you can't tie spend to outcomes, you're next on the chopping block.",
+        "4. The reckoning is here\n\nAI vendors are slashing prices to stay competitive, but that won't save you if your tools aren't delivering. Efficiency is the new mandate.",
+        "5. Audit your AI spend\n\nThis quarter, pull a list of every AI subscription and ask: did it save time or make money? If not, cut it. Start with one tool today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI just missed its revenue target by twenty billion dollars.",
+        "At the same time, its expenses keep climbing, not shrinking.",
+        "Your boss is going to ask why you're spending so much on AI.",
+        "Most AI tools don't deliver enough value to justify the cost.",
+        "Audit your AI subscriptions this quarter. Cut what doesn't work."
+      ]
+    },
+    "instagram": {
+      "caption": "Revenue forecasts just got revised down by $20 billion. That's a hole, not a rounding error. 📉\n\nOpenAI's projected earnings came in far below what was promised to investors.\n\nCompute and talent costs keep climbing anyway, so the gap isn't closing on its own.\n\nIf you pay for AI tools at work, your finance team is about to start asking what they actually returned.\n\nPull your subscription list this week: which tool saved real hours or made real money? 📊\n\nIf you can't answer, you already know which one goes first. 🔍"
+    }
+  },
+  "instagram_caption": "Revenue forecasts just got revised down by $20 billion. That's a hole, not a rounding error. 📉\n\nOpenAI's projected earnings came in far below what was promised to investors.\n\nCompute and talent costs keep climbing anyway, so the gap isn't closing on its own.\n\nIf you pay for AI tools at work, your finance team is about to start asking what they actually returned.\n\nPull your subscription list this week: which tool saved real hours or made real money? 📊\n\nIf you can't answer, you already know which one goes first. 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Is your AI strategy built on a bubble?",
+      "description": "OpenAI reportedly projected $20 billion less revenue than expected, a warning sign for every company betting big on AI tools.",
+      "visual_hint": "OpenAI logo over cracked glass",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "cracked glass"
+    },
+    {
+      "hook": "The revenue gap is massive.",
+      "description": "That $20 billion shortfall isn't a rounding error—it signals the AI gold rush might be cooling faster than expected.",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "visual_hint": "Declining revenue chart arrow",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costs keep climbing anyway.",
+      "description": "Compute and talent expenses continue rising even as revenue projections drop. The old 'spend now, figure out ROI later' playbook is breaking.",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "visual_hint": "Server racks with rising cost overlay",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "CFOs are asking harder questions now.",
+      "description": "AI line items face new scrutiny. If you can't tie spend to outcomes, your budget is next on the chopping block.",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "visual_hint": "Hand pointing at budget spreadsheet",
+      "image_query": "office workers meeting",
+      "image": "https://images.pexels.com/photos/12903171/pexels-photo-12903171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Audit your AI spend today.",
+      "description": "Pull every AI subscription this quarter and ask: did it save time or make money? If not, cut it. Start with one tool today. Link in bio.",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "visual_hint": "Checklist with AI tools crossed out",
+      "image_query": "notebook checklist",
+      "image": "https://images.pexels.com/photos/8450476/pexels-photo-8450476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+  "savedAt": "2026-10-08T19:35:05.176Z",
+  "sourceId": "c48d7960551d8f367d2e147889459e81"
+}

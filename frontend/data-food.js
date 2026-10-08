@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "risotto-alla-puttanesca-con-pomodori-arrosto",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Risotto alla puttanesca con pomodori arrosto",
+    "link": "https://ricette.giallozafferano.it/Risotto-alla-puttanesca-con-pomodori-arrosto.html",
+    "pubDate": "Thu, 08 Oct 2026 11:30:00 +0200",
+    "content": "Risotto alla puttanesca con pomodori arrosto Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X SPECIALE Vodcast - Discorsi in Osteria Chef CHEF Primi piatti Riso e Cereali Risotto alla puttanesca con pomodori arrosto /5 Ricetta proposta da Cesare Battisti CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici 1001,1 Calorie per porzione Energia Kcal 1001,1 Carboidrati g 68,4 &nbsp;&nbsp;di cui zuccheri g 2,5 Proteine g 11,4 Grassi g 76,6 &nbsp;&nbsp;di cui saturi g 23,2 Fibre g 3,6 Colesterolo mg 67,7 Sodio mg 345 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Senza glutine Difficoltà: Difficile Preparazione: 20 min Cottura: 3 h 20 min Dosi per: 4 persone Costo: Medio PRESENTAZIONE Il risotto alla puttanesca con pomodori arrosto è una reinterpretazione gourmet della celebre pasta alla puttanesca , che ritroviamo qui in una veste più raffinata e accattivante. Lo chef Cesare Battisti , patron del ristorante Ratanà, firma questa ricetta ispirandosi al piatto del cuore di Fra Marcello, in occasione di una puntata del vodcast “ Discorsi in osteria ”. Protagonista del risotto è la crema di pomodori arrosto, preparata cuocendo lentamente i pomodorini in forno con aglio e timo. Una volta morbidi e ben arrostiti, vengono frullati e la purea ottenuta viene ulteriormente concentrata in forno: il risultato è una salsa dal gusto intenso e saporito, perfetta per dare carattere al risotto . Non mancano gli ingredienti tipici della puttanesca, proposti però con una marcia in più. I capperi fritti regalano una nota sapida e sfiziosa, mentre le olive nere in polvere aggiungono un tocco stuzzicante e rendono ancora più particolare la presentazione. A completare il piatto, prezzemolo e salsa alle acciughe per un risultato ricco di contrasti e dal gusto deciso. Scoprite come preparare questo risotto alla puttanesca gourmet e portate in tavola una versione originale e sorprendente di uno dei grandi classici della cucina italiana! Ecco altre ricette ispirate agli spaghetti alla puttanesca : Rigatoni alla puttanesca e nduja Spaghetti con polpo alla puttanesca Risotto alla puttanesca Puttanesca risotto with roasted tomatoes Scopri anche Arista di maiale arrosto Roast beef all'inglese Bistecca alla Tartara Sfoglia tutte INGREDIENTI 1001,1 Calorie per porzione Riso Carnaroli 320 g Brodo vegetale 700 g Burro 90 g Formaggio grattugiato Lodigiano 60 g Capperi sotto sale 30 Olive nere in polvere 2 cucchiai Prezzemolo q.b. Salsa alle acciughe q.b. per la crema di pomodori arrosto Pomodorini perini 350 g Olio extravergine d'oliva 1 cucchiaio Aglio 1 spicchio Timo 1 rametto Sale fino q.b. per friggere i capperi Olio di semi di arachide q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Risotto alla puttanesca con pomodori arrosto Per preparare il risotto alla puttanesca con pomodori arrosto iniziate dalla crema di pomodoro. Tagliate i pomodori a pezzi grossolani 1 . Metteteli in una teglia con un pizzico di sale 2 e un giro di olio evo 3 . Insaporite con l’aglio in camicia 4 e il timo 5 . Cuocete in forno statico preriscaldato a 140 °C per un paio d’ore 6 . Una volta ammorbiditi, frullate i pomodori 7 fino a ottenere una purea 8 . A questo punto stendete la purea su una teglia foderata con carta da forno 9 e lasciatela in forno statico a 80 °C per circa 1 ora. In un pentolino mettete a scaldare l'olio di semi e immergete i capperi dissalati 10 , friggeteli per pochi istanti 11 e scolateli su carta assorbente 12 . Nel frattempo sarà pronta anche la crema di pomodoro 13 , tenetela da parte. In una pentola, fate tostare il riso a secco 14 , poi sfumate con il brodo caldo 15 fino a ricoprire il riso. Cominciate la cottura a fuoco sostenuto; nel momento in cui comincerà a sobbollire, abbassate la fiamma. Continuate a girare il risotto, aggiungendo un mestolo di brodo alla volta quando vedete che il riso ha assorbito completamente il brodo precedente. A 10 minuti dalla fine della cottura, aggiungete la crema di pomodori arrosto 16 e riportate a bollore. Una volta terminata la cottura, spegnete il fuoco e mantecate con burro freddo e formaggio Lodigiano 17 . Lasciate riposare il risotto 3 minuti 18 , così che la temperatura si abbassi: il risotto deve essere servito a 50 °C, non bollente come la pasta, altrimenti si perdono i sapori. Insaporite con un filo d'olio evo 19 , il prezzemolo tritato, un giro di salsa di acciughe, la polvere di olive nere e i capperi fritti 20 . Il risotto alla puttanesca con pomodori arrosto è pronto da gustare 21 . Conservazione Consigliamo di consumare subito il risotto alla puttanesca con pomodori arrosto. Consiglio (ottenuta disidratando le olive in salamoia — non sott’olio, mi raccomando — con l’essiccatore oppure in forno ventilato a 180 °C per 2 ore) Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Timo Aglio Olive in salamoia Olio di oliva Burro Prezzemolo Capperi Scopri tutto sugli ingredienti Presente in: Primi piatti sfiziosi , Primi piatti al forno , Ricette sfiziose , Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Arista di maiale arrosto 32 4.4 Roast beef all'inglese 101 4.3 Bistecca alla Tartara 56 4.2 Cassoeula rivisitata con polenta 3.8 Risotto giallo all'arancia 3.9 Crema di zucca arrosto con verdure croccanti 4.8 Spaghetti con polpette di salsiccia e salsa di pomodori gialli 4.9 Pasta con vongole, zucca e funghi 5.0 ULTIME RICETTE Matcha latte 5.0 Minestra autunnale 5.0 Risotto alla puttanesca con pomodori arrosto 5.0 SCOPRI Riso e patate Baccalà al forno Baccalà al forno con patate Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Secondi piatti Arista di maiale arrosto 32 4.4 L'arista di maiale arrosto è un classico secondo piatto di carne, servito con delle succulente patate a spicchi. Vai alla ricetta Secondi piatti Roast beef all'inglese 101 4.3 Scopri la ricetta facile del roast beef all’inglese, il tradizionale arrosto di manzo al sangue cotto al forno, tipico della cucina anglosassone. Vai alla ricetta Secondi piatti Bistecca alla Tartara 56 4.2 La bistecca alla tartara è una ricetta per gli amanti della carne cruda: scoprite gli ingredienti utilizzati per condire questa gustosa tartare! Vai alla ricetta Piatti Unici Cassoeula rivisitata con polenta 3.8 La cassoeula rivisitata con polenta è una versione alternativa del tipico piatto lombardo realizzata con ingredienti della tradizione. Qui la ricetta! Vai alla ricetta Primi piatti Risotto giallo all'arancia 3.9 Il risotto giallo all'arancia è una profumata variante del tipico piatto milanese, altrettanto cremosa e saporita. Ecco la ricetta per&hellip; Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Risotto puttanesca con crema di pomodori arrosto",
+      "Pomodorini, capperi, olive, acciughe, Lodigiano",
+      "Tosta il riso, sfuma con brodo caldo",
+      "Manteca con burro e formaggio, riposa 3 minuti",
+      "Servi a 50°C con capperi fritti e prezzemolo"
+    ],
+    "instagram_caption": "Il risotto che sa di mare anche senza mare. 🍅\nHo preso la puttanesca e l'ho trasformata in un risotto cremoso, con pomodorini arrostiti che esplodono di dolcezza.\nCapperi, olive, acciughe e Lodigiano si fondono in un mantecato che profuma di Mediterraneo.\nCapperi fritti croccanti sopra, prezzemolo fresco e una temperatura perfetta: 50°C, né un grado in più.\nSalva il post e provala questo weekend 🌿🫒🐟",
+    "formats": {
+      "instagram": {
+        "caption": "Il risotto che sa di mare anche senza mare. 🍅\nHo preso la puttanesca e l'ho trasformata in un risotto cremoso, con pomodorini arrostiti che esplodono di dolcezza.\nCapperi, olive, acciughe e Lodigiano si fondono in un mantecato che profuma di Mediterraneo.\nCapperi fritti croccanti sopra, prezzemolo fresco e una temperatura perfetta: 50°C, né un grado in più.\nSalva il post e provala questo weekend 🌿🫒🐟"
+      },
+      "tiktok": {
+        "script": [
+          "Pomodorini in teglia con olio, arrosto tutto",
+          "Capperi, olive, acciughe: che profumo pazzesco",
+          "Tosto il riso, brodo caldo e via",
+          "Manteco burro e Lodigiano, riposa tre minuti",
+          "Servo a cinquanta gradi con capperi fritti"
+        ]
+      },
+      "x": {
+        "thread": [
+          "Il risotto alla puttanesca esiste. E con i pomodori arrosto è un'altra cosa. Ti spiego come farlo in 5 step. 🍅",
+          "Parti da una crema di pomodori arrosto: pomodorini, capperi, olive, acciughe e Lodigiano. Frulla tutto e tieni da parte.",
+          "Tosta il riso in padella con un filo d'olio. Sfuma con brodo caldo poco alla volta. Il segreto? Mantecare con burro e formaggio, poi riposo di 3 minuti.",
+          "Servi a 50°C: mi raccomando il termometro. Guarnisci con capperi fritti e prezzemolo fresco. Croccantezza e profumo che spaccano.",
+          "Il trucco finale: aggiungi i capperi fritti solo al momento di servire, così restano croccanti. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Pomodorini in teglia con olio, arrosto tutto",
+      "Capperi, olive, acciughe: che profumo pazzesco",
+      "Tosto il riso, brodo caldo e via",
+      "Manteco burro e Lodigiano, riposa tre minuti",
+      "Servo a cinquanta gradi con capperi fritti"
+    ],
+    "thread_text": [
+      "Il risotto alla puttanesca esiste. E con i pomodori arrosto è un'altra cosa. Ti spiego come farlo in 5 step. 🍅",
+      "Parti da una crema di pomodori arrosto: pomodorini, capperi, olive, acciughe e Lodigiano. Frulla tutto e tieni da parte.",
+      "Tosta il riso in padella con un filo d'olio. Sfuma con brodo caldo poco alla volta. Il segreto? Mantecare con burro e formaggio, poi riposo di 3 minuti.",
+      "Servi a 50°C: mi raccomando il termometro. Guarnisci con capperi fritti e prezzemolo fresco. Croccantezza e profumo che spaccano.",
+      "Il trucco finale: aggiungi i capperi fritti solo al momento di servire, così restano croccanti. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Risotto puttanesca, pomodori arrosto cremosi",
+        "description": "Un risotto audace che unisce la tradizione napoletana alla cremosità del Lodigiano.",
+        "visual_hint": "risotto cremoso con pomodorini",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory tomato risotto"
+      },
+      {
+        "hook": "Pomodorini, capperi, olive, acciughe, Lodigiano",
+        "description": "Cinque ingredienti intensi per un gusto mediterraneo deciso e avvolgente.",
+        "visual_hint": "ingredienti mediterranei su tavolo",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory mediterranean ingredients",
+        "image": "https://images.pexels.com/photos/33984947/pexels-photo-33984947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Tosta il riso, sfuma con brodo caldo",
+        "description": "La tostatura esalta gli aromi, il brodo caldo crea la cremosità perfetta.",
+        "visual_hint": "riso tostato in padella",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory rice toasting",
+        "image": "https://images.pexels.com/photos/12913642/pexels-photo-12913642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Manteca con burro e formaggio, riposa 3 minuti",
+        "description": "La mantecatura avvolge ogni chicco, il riposo rende il risotto all'onda.",
+        "visual_hint": "mantecatura risotto cremoso",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory risotto stirring",
+        "image": "https://images.pexels.com/photos/39836882/pexels-photo-39836882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Servi a 50°C con capperi fritti e prezzemolo",
+        "description": "Capperi croccanti e prezzemolo fresco completano il piatto con texture e colore.",
+        "visual_hint": "risotto impiattato con capperi",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory plated risotto",
+        "image": "https://images.pexels.com/photos/28559486/pexels-photo-28559486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "generic",
+    "signature_ingredients": [
+      "pomodorini",
+      "capperi",
+      "acciughe"
+    ],
+    "image": "https://www.giallozafferano.it/images/366-36679/Risotto-alla-puttanesca-con-pomodori-arrosto_1200x800_wm.jpg",
+    "savedAt": "2026-10-08T19:43:39.440Z",
+    "sourceId": "5ae6e70e951d821a3ae2218482367c7a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "dolce-con-fette-biscottate-e-yogurt",
     "prompt_version": "1.0.0",
     "status": "published",

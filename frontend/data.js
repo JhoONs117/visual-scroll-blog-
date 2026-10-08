@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-s-math-solutions-aren-t-meeting-the-field-s",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+    "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+    "pubDate": "Thu, 08 Oct 2026 18:10:55 +0000",
+    "slides": [
+      "OpenAI's math solutions: really solving problems?",
+      "Their model often gets answers right but proofs wrong.",
+      "Critics say steps are missing, not just final numbers.",
+      "So you still need to verify every derivation manually.",
+      "Ask for the work, not just the answer."
+    ],
+    "thread_text": [
+      "1. The Math Problem\n\nOpenAI's model solves problems but often gets the proof wrong. So the answer looks right, yet the reasoning is broken.",
+      "2. Right Answer, Wrong Proof\n\nIt nails the final number but skips steps, making the solution unreliable. That's not math, that's guessing.",
+      "3. Missing Steps, Not Just Numbers\n\nCritics point out that the model omits crucial derivations. You can't trust the answer if the path is hidden.",
+      "4. Manual Verification Needed\n\nYou still have to check every line yourself. That defeats the purpose of automation.",
+      "5. Ask for the Work\n\nNext time, demand the full derivation. If it can't show it, don't trust it. Will you verify your next AI answer?"
+    ],
+    "video_script": [
+      "OpenAI's model solves math but gets proofs wrong.",
+      "It gives the right answer but skips steps.",
+      "Critics say the missing steps make it unreliable.",
+      "You still have to verify every derivation manually.",
+      "So always ask for the work, not just the answer."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Math Problem\n\nOpenAI's model solves problems but often gets the proof wrong. So the answer looks right, yet the reasoning is broken.",
+          "2. Right Answer, Wrong Proof\n\nIt nails the final number but skips steps, making the solution unreliable. That's not math, that's guessing.",
+          "3. Missing Steps, Not Just Numbers\n\nCritics point out that the model omits crucial derivations. You can't trust the answer if the path is hidden.",
+          "4. Manual Verification Needed\n\nYou still have to check every line yourself. That defeats the purpose of automation.",
+          "5. Ask for the Work\n\nNext time, demand the full derivation. If it can't show it, don't trust it. Will you verify your next AI answer?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI's model solves math but gets proofs wrong.",
+          "It gives the right answer but skips steps.",
+          "Critics say the missing steps make it unreliable.",
+          "You still have to verify every derivation manually.",
+          "So always ask for the work, not just the answer."
+        ]
+      },
+      "instagram": {
+        "caption": "The final number is right but the proof is broken, so the solution still doesn't add up.\n\nOpenAI's model often nails the answer while botching the derivation. 🧮\n\nCritics say it skips crucial steps, and that's not math, it's guessing.\n\nSo every line still needs a manual check, which defeats the point of automating it.\n\nIf you publish or build on AI math output, you can't trust a result you can't trace. ⚠️\n\nNext time you get an AI answer, will you ask for the full work or just accept the number? 🔍"
+      }
+    },
+    "instagram_caption": "The final number is right but the proof is broken, so the solution still doesn't add up.\n\nOpenAI's model often nails the answer while botching the derivation. 🧮\n\nCritics say it skips crucial steps, and that's not math, it's guessing.\n\nSo every line still needs a manual check, which defeats the point of automating it.\n\nIf you publish or build on AI math output, you can't trust a result you can't trace. ⚠️\n\nNext time you get an AI answer, will you ask for the full work or just accept the number? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Can you trust an AI's math proof?",
+        "description": "OpenAI's model nails final numbers but skips steps, so the reasoning is often broken and unreliable.",
+        "visual_hint": "Glowing math equations on screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "math equations"
+      },
+      {
+        "hook": "Right answer, but the proof is wrong",
+        "description": "The model skips crucial steps, making solutions unreliable. That's not math—it's guessing with numbers.",
+        "visual_hint": "Broken pencil on notebook",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "pencil notebook",
+        "image": "https://images.pexels.com/photos/8099373/pexels-photo-8099373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Missing steps, hidden path, zero trust",
+        "description": "Critics say the model omits derivations. You can't trust an answer if the solution path is hidden.",
+        "visual_hint": "Magnifying glass over missing lines",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Manual verification defeats the purpose",
+        "description": "You still have to check every line yourself. That defeats the purpose of automation entirely.",
+        "visual_hint": "Hand checking printout with pen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand pen paper",
+        "image": "https://images.pexels.com/photos/7774239/pexels-photo-7774239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your next AI answer",
+        "description": "Demand the full derivation next time. If it can't show the work, don't trust it. Save this tip.",
+        "visual_hint": "Smartphone with save icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-11-at-1.39.30-PM.png?w=672",
+    "savedAt": "2026-10-08T19:35:21.360Z",
+    "sourceId": "81c67bededb8c6b25afd17a88430411e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-brings-agentic-ai-to-gemini-starting-with-b",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google brings agentic AI to Gemini, starting with businesses",
+    "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+    "pubDate": "Thu, 08 Oct 2026 18:18:00 +0000",
+    "slides": [
+      "Google's Gemini is getting agentic AI — who wins?",
+      "Agents will act autonomously for business tasks",
+      "But Google starts with businesses, not consumers",
+      "Your team may soon hand off workflows to Gemini agents",
+      "Ask one question: what task would you delegate?"
+    ],
+    "thread_text": [
+      "1. Google's Agentic Pivot\n\nGoogle just announced Gemini is getting agentic AI — agents that act autonomously for business tasks. But Google starts with businesses, not consumers.",
+      "2. The Enterprise Bet\n\nYour team may soon hand off entire workflows to Gemini agents. The first movers are companies, not individuals.",
+      "3. Why Not Consumers?\n\nBusinesses have clear tasks, measurable ROI, and tolerance for errors. Consumers don't. That's why Google is testing agents where the stakes are high but structured.",
+      "4. The Real Shift\n\nAgents won't just suggest — they'll execute. That means your role shifts from doing to supervising. Are you ready to manage a robot coworker?",
+      "5. One Question\n\nWhat task would you delegate first? Pick one from your week and imagine handing it to an agent. If you can't name one, you're not ready for the shift."
+    ],
+    "video_script": [
+      "Google's Gemini is getting agentic AI for business tasks.",
+      "Agents will act autonomously, starting with companies, not consumers.",
+      "Your team may soon hand off workflows to Gemini agents.",
+      "What task would you delegate first?",
+      "Pick one and imagine handing it off today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Google's Agentic Pivot\n\nGoogle just announced Gemini is getting agentic AI — agents that act autonomously for business tasks. But Google starts with businesses, not consumers.",
+          "2. The Enterprise Bet\n\nYour team may soon hand off entire workflows to Gemini agents. The first movers are companies, not individuals.",
+          "3. Why Not Consumers?\n\nBusinesses have clear tasks, measurable ROI, and tolerance for errors. Consumers don't. That's why Google is testing agents where the stakes are high but structured.",
+          "4. The Real Shift\n\nAgents won't just suggest — they'll execute. That means your role shifts from doing to supervising. Are you ready to manage a robot coworker?",
+          "5. One Question\n\nWhat task would you delegate first? Pick one from your week and imagine handing it to an agent. If you can't name one, you're not ready for the shift."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google's Gemini is getting agentic AI for business tasks.",
+          "Agents will act autonomously, starting with companies, not consumers.",
+          "Your team may soon hand off workflows to Gemini agents.",
+          "What task would you delegate first?",
+          "Pick one and imagine handing it off today."
+        ]
+      },
+      "instagram": {
+        "caption": "Gemini's new agents won't just suggest things — they'll act on their own.\n\nGoogle is rolling out agentic AI as agents that execute business tasks autonomously. 🤖\n\nThe catch: it starts with companies, not consumers. Businesses have clear tasks, measurable ROI, and tolerance for errors — you don't.\n\nThat means your role shifts from doing the work to supervising it. 👀\n\nSo here's the real question: which single task from your week would you hand off first? If you can't name one, you're not ready. ✍️"
+      }
+    },
+    "instagram_caption": "Gemini's new agents won't just suggest things — they'll act on their own.\n\nGoogle is rolling out agentic AI as agents that execute business tasks autonomously. 🤖\n\nThe catch: it starts with companies, not consumers. Businesses have clear tasks, measurable ROI, and tolerance for errors — you don't.\n\nThat means your role shifts from doing the work to supervising it. 👀\n\nSo here's the real question: which single task from your week would you hand off first? If you can't name one, you're not ready. ✍️",
+    "carousel_slides": [
+      {
+        "hook": "Why Google starts with businesses, not consumers?",
+        "description": "Businesses have clear tasks and measurable ROI; consumers don't. Google tests agents where stakes are high but structured.",
+        "visual_hint": "Google logo on office building",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Google headquarters"
+      },
+      {
+        "hook": "Agents will act autonomously for business tasks",
+        "description": "Your team may soon hand off entire workflows to Gemini agents. First movers are companies, not individuals.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "visual_hint": "Robotic arm in factory",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "But Google starts with businesses, not consumers",
+        "description": "Consumers lack clear tasks and tolerance for errors. Google tests agents where stakes are high but structured.",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "visual_hint": "Server room with glowing lights",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your role shifts from doing to supervising",
+        "description": "Agents won't just suggest — they'll execute. Are you ready to manage a robot coworker?",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "visual_hint": "Human hand shaking robot hand",
+        "image_query": "human robot handshake",
+        "image": "https://images.pexels.com/photos/6153346/pexels-photo-6153346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "What task would you delegate first?",
+        "description": "Pick one task from your week and imagine handing it to an agent. Comment your answer below!",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "visual_hint": "Person thinking with laptop",
+        "image_query": "office worker thinking",
+        "image": "https://images.pexels.com/photos/12903124/pexels-photo-12903124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/image_3.max-2100x2100_0CYZWqn.jpg?resize=1200,591",
+    "savedAt": "2026-10-08T19:35:13.260Z",
+    "sourceId": "ceca2e2c1a06a203a669ab1ef73aacf4"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-s-revenue-is-reportedly-20-billion-less-tha",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+    "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "pubDate": "Thu, 08 Oct 2026 18:19:42 +0000",
+    "slides": [
+      "Is OpenAI's boom already cracking?",
+      "It projected $20 billion less revenue than expected",
+      "But expenses keep climbing, not shrinking",
+      "Your AI budget may soon face tougher scrutiny",
+      "Audit your AI spend this quarter"
+    ],
+    "thread_text": [
+      "1. OpenAI's revenue gap\n\nOpenAI projected $20 billion less revenue than expected. That's not a rounding error—it's a warning shot for every company betting on AI.",
+      "2. Costs keep rising\n\nMeanwhile, compute and talent expenses are still climbing. The old playbook of 'spend now, figure out ROI later' is breaking.",
+      "3. Your budget under scrutiny\n\nCFOs are starting to ask hard questions about AI line items. If you can't tie spend to outcomes, you're next on the chopping block.",
+      "4. The reckoning is here\n\nAI vendors are slashing prices to stay competitive, but that won't save you if your tools aren't delivering. Efficiency is the new mandate.",
+      "5. Audit your AI spend\n\nThis quarter, pull a list of every AI subscription and ask: did it save time or make money? If not, cut it. Start with one tool today."
+    ],
+    "video_script": [
+      "OpenAI just missed its revenue target by twenty billion dollars.",
+      "At the same time, its expenses keep climbing, not shrinking.",
+      "Your boss is going to ask why you're spending so much on AI.",
+      "Most AI tools don't deliver enough value to justify the cost.",
+      "Audit your AI subscriptions this quarter. Cut what doesn't work."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. OpenAI's revenue gap\n\nOpenAI projected $20 billion less revenue than expected. That's not a rounding error—it's a warning shot for every company betting on AI.",
+          "2. Costs keep rising\n\nMeanwhile, compute and talent expenses are still climbing. The old playbook of 'spend now, figure out ROI later' is breaking.",
+          "3. Your budget under scrutiny\n\nCFOs are starting to ask hard questions about AI line items. If you can't tie spend to outcomes, you're next on the chopping block.",
+          "4. The reckoning is here\n\nAI vendors are slashing prices to stay competitive, but that won't save you if your tools aren't delivering. Efficiency is the new mandate.",
+          "5. Audit your AI spend\n\nThis quarter, pull a list of every AI subscription and ask: did it save time or make money? If not, cut it. Start with one tool today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI just missed its revenue target by twenty billion dollars.",
+          "At the same time, its expenses keep climbing, not shrinking.",
+          "Your boss is going to ask why you're spending so much on AI.",
+          "Most AI tools don't deliver enough value to justify the cost.",
+          "Audit your AI subscriptions this quarter. Cut what doesn't work."
+        ]
+      },
+      "instagram": {
+        "caption": "Revenue forecasts just got revised down by $20 billion. That's a hole, not a rounding error. 📉\n\nOpenAI's projected earnings came in far below what was promised to investors.\n\nCompute and talent costs keep climbing anyway, so the gap isn't closing on its own.\n\nIf you pay for AI tools at work, your finance team is about to start asking what they actually returned.\n\nPull your subscription list this week: which tool saved real hours or made real money? 📊\n\nIf you can't answer, you already know which one goes first. 🔍"
+      }
+    },
+    "instagram_caption": "Revenue forecasts just got revised down by $20 billion. That's a hole, not a rounding error. 📉\n\nOpenAI's projected earnings came in far below what was promised to investors.\n\nCompute and talent costs keep climbing anyway, so the gap isn't closing on its own.\n\nIf you pay for AI tools at work, your finance team is about to start asking what they actually returned.\n\nPull your subscription list this week: which tool saved real hours or made real money? 📊\n\nIf you can't answer, you already know which one goes first. 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Is your AI strategy built on a bubble?",
+        "description": "OpenAI reportedly projected $20 billion less revenue than expected, a warning sign for every company betting big on AI tools.",
+        "visual_hint": "OpenAI logo over cracked glass",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "cracked glass"
+      },
+      {
+        "hook": "The revenue gap is massive.",
+        "description": "That $20 billion shortfall isn't a rounding error—it signals the AI gold rush might be cooling faster than expected.",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "visual_hint": "Declining revenue chart arrow",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Costs keep climbing anyway.",
+        "description": "Compute and talent expenses continue rising even as revenue projections drop. The old 'spend now, figure out ROI later' playbook is breaking.",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "visual_hint": "Server racks with rising cost overlay",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "CFOs are asking harder questions now.",
+        "description": "AI line items face new scrutiny. If you can't tie spend to outcomes, your budget is next on the chopping block.",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "visual_hint": "Hand pointing at budget spreadsheet",
+        "image_query": "office workers meeting",
+        "image": "https://images.pexels.com/photos/12903171/pexels-photo-12903171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this. Audit your AI spend today.",
+        "description": "Pull every AI subscription this quarter and ask: did it save time or make money? If not, cut it. Start with one tool today. Link in bio.",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "visual_hint": "Checklist with AI tools crossed out",
+        "image_query": "notebook checklist",
+        "image": "https://images.pexels.com/photos/8450476/pexels-photo-8450476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+    "savedAt": "2026-10-08T19:35:05.176Z",
+    "sourceId": "c48d7960551d8f367d2e147889459e81"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "popular-ai-leaderboard-arena-nearly-doubles-valuat",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+    "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+    "pubDate": "Thu, 08 Oct 2026 18:19:45 +0000",
+    "slides": [
+      "An AI leaderboard worth $3.1B — but why?",
+      "Arena compares models via blind human votes.",
+      "Yet its data isn't the main revenue source.",
+      "For startups, a high rank now drives funding.",
+      "Test your model on Arena before assuming strength."
+    ],
+    "thread_text": [
+      "1. The $3.1B Question\n\nAn AI leaderboard just got valued at $3.1 billion. No, it doesn't sell compute or cloud credits. It sells something far weirder: blind human votes.",
+      "2. Blind Votes, Real Data\n\nArena shows two model outputs side by side, no names attached. You pick the better one. That simple mechanic has become the industry's default scoreboard.",
+      "3. Not the Revenue\n\nThe ranking isn't the business. The real money comes from companies paying to test their models on Arena before launch. The leaderboard is just the bait.",
+      "4. Funding Fuel\n\nFor startups, a top Arena rank now opens investor doors. VCs scan the leaderboard before they take a meeting. A high score replaces a pitch deck.",
+      "5. Test Before You Trust\n\nTake your own model — or your favorite chatbot — and run it through Arena this week. If it doesn't rank, don't assume it's strong."
+    ],
+    "video_script": [
+      "An AI leaderboard just hit three point one billion dollars.",
+      "It works by showing you two answers, no names attached.",
+      "But the ranking isn't where the money comes from.",
+      "Startups use a high rank to raise funding fast.",
+      "Test your model on Arena before assuming it's strong."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $3.1B Question\n\nAn AI leaderboard just got valued at $3.1 billion. No, it doesn't sell compute or cloud credits. It sells something far weirder: blind human votes.",
+          "2. Blind Votes, Real Data\n\nArena shows two model outputs side by side, no names attached. You pick the better one. That simple mechanic has become the industry's default scoreboard.",
+          "3. Not the Revenue\n\nThe ranking isn't the business. The real money comes from companies paying to test their models on Arena before launch. The leaderboard is just the bait.",
+          "4. Funding Fuel\n\nFor startups, a top Arena rank now opens investor doors. VCs scan the leaderboard before they take a meeting. A high score replaces a pitch deck.",
+          "5. Test Before You Trust\n\nTake your own model — or your favorite chatbot — and run it through Arena this week. If it doesn't rank, don't assume it's strong."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "An AI leaderboard just hit three point one billion dollars.",
+          "It works by showing you two answers, no names attached.",
+          "But the ranking isn't where the money comes from.",
+          "Startups use a high rank to raise funding fast.",
+          "Test your model on Arena before assuming it's strong."
+        ]
+      },
+      "instagram": {
+        "caption": "A leaderboard of AI models is now worth $3.1 billion — nearly double its value 10 months ago 📊\n\nArena ranks models through blind human votes: two answers side by side, no names, you pick the better one.\n\nThe ranking itself isn't the revenue. Companies pay to test their models there before launch. The leaderboard is the bait.\n\nFor startups, a top rank now opens investor doors — some VCs check it before a meeting.\n\nIf you build or pick AI tools, a high rank can sway who funds or trusts your model. 🤔\n\nWhich model would you bet on — and have you actually tested it on Arena?"
+      }
+    },
+    "instagram_caption": "A leaderboard of AI models is now worth $3.1 billion — nearly double its value 10 months ago 📊\n\nArena ranks models through blind human votes: two answers side by side, no names, you pick the better one.\n\nThe ranking itself isn't the revenue. Companies pay to test their models there before launch. The leaderboard is the bait.\n\nFor startups, a top rank now opens investor doors — some VCs check it before a meeting.\n\nIf you build or pick AI tools, a high rank can sway who funds or trusts your model. 🤔\n\nWhich model would you bet on — and have you actually tested it on Arena?",
+    "carousel_slides": [
+      {
+        "hook": "AI leaderboard worth $3.1B — why?",
+        "description": "Arena's real money isn't rankings — companies pay to test models before launch. The leaderboard is just bait.",
+        "visual_hint": "Glowing leaderboard screen with dollar signs",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Blind votes, not benchmarks.",
+        "description": "Arena shows two model outputs side by side with no names. You pick the better one — simple mechanic, industry default scoreboard.",
+        "visual_hint": "Split screen with anonymous chatbot responses",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer screen",
+        "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The ranking isn't the business.",
+        "description": "Companies pay to test models on Arena before launch. The leaderboard attracts them — revenue comes from private testing.",
+        "visual_hint": "Corporate logos behind a curtain",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "office building",
+        "image": "https://images.pexels.com/photos/19279351/pexels-photo-19279351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Top rank opens investor doors.",
+        "description": "VCs scan Arena before meetings. For startups, a high score now drives funding — sometimes replacing the pitch deck.",
+        "visual_hint": "Hand holding a glowing ranking chart",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your model on Arena now.",
+        "description": "Run your own model or favorite chatbot through Arena this week. If it doesn't rank, don't assume it's strong.",
+        "visual_hint": "Arrow pointing to a test button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "computer keyboard",
+        "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
+    "savedAt": "2026-10-08T19:34:56.903Z",
+    "sourceId": "494307aa9111eef189fbcf22ce8a7a52"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "google-experiments-with-an-ai-powered-gaming-platf",
     "prompt_version": "1.0.0",
     "status": "published",

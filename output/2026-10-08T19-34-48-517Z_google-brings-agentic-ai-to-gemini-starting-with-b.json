@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-brings-agentic-ai-to-gemini-starting-with-b",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google brings agentic AI to Gemini, starting with businesses",
+  "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+  "pubDate": "Thu, 08 Oct 2026 18:18:00 +0000",
+  "slides": [
+    "Google's Gemini is getting agentic AI — who wins?",
+    "Agents will act autonomously for business tasks",
+    "But Google starts with businesses, not consumers",
+    "Your team may soon hand off workflows to Gemini agents",
+    "Ask one question: what task would you delegate?"
+  ],
+  "thread_text": [
+    "1. Google's Agentic Pivot\n\nGoogle just announced Gemini is getting agentic AI — agents that act autonomously for business tasks. But Google starts with businesses, not consumers.",
+    "2. The Enterprise Bet\n\nYour team may soon hand off entire workflows to Gemini agents. The first movers are companies, not individuals.",
+    "3. Why Not Consumers?\n\nBusinesses have clear tasks, measurable ROI, and tolerance for errors. Consumers don't. That's why Google is testing agents where the stakes are high but structured.",
+    "4. The Real Shift\n\nAgents won't just suggest — they'll execute. That means your role shifts from doing to supervising. Are you ready to manage a robot coworker?",
+    "5. One Question\n\nWhat task would you delegate first? Pick one from your week and imagine handing it to an agent. If you can't name one, you're not ready for the shift."
+  ],
+  "video_script": [
+    "Google's Gemini is getting agentic AI for business tasks.",
+    "Agents will act autonomously, starting with companies, not consumers.",
+    "Your team may soon hand off workflows to Gemini agents.",
+    "What task would you delegate first?",
+    "Pick one and imagine handing it off today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Google's Agentic Pivot\n\nGoogle just announced Gemini is getting agentic AI — agents that act autonomously for business tasks. But Google starts with businesses, not consumers.",
+        "2. The Enterprise Bet\n\nYour team may soon hand off entire workflows to Gemini agents. The first movers are companies, not individuals.",
+        "3. Why Not Consumers?\n\nBusinesses have clear tasks, measurable ROI, and tolerance for errors. Consumers don't. That's why Google is testing agents where the stakes are high but structured.",
+        "4. The Real Shift\n\nAgents won't just suggest — they'll execute. That means your role shifts from doing to supervising. Are you ready to manage a robot coworker?",
+        "5. One Question\n\nWhat task would you delegate first? Pick one from your week and imagine handing it to an agent. If you can't name one, you're not ready for the shift."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google's Gemini is getting agentic AI for business tasks.",
+        "Agents will act autonomously, starting with companies, not consumers.",
+        "Your team may soon hand off workflows to Gemini agents.",
+        "What task would you delegate first?",
+        "Pick one and imagine handing it off today."
+      ]
+    },
+    "instagram": {
+      "caption": "Gemini's new agents won't just suggest things — they'll act on their own.\n\nGoogle is rolling out agentic AI as agents that execute business tasks autonomously. 🤖\n\nThe catch: it starts with companies, not consumers. Businesses have clear tasks, measurable ROI, and tolerance for errors — you don't.\n\nThat means your role shifts from doing the work to supervising it. 👀\n\nSo here's the real question: which single task from your week would you hand off first? If you can't name one, you're not ready. ✍️"
+    }
+  },
+  "instagram_caption": "Gemini's new agents won't just suggest things — they'll act on their own.\n\nGoogle is rolling out agentic AI as agents that execute business tasks autonomously. 🤖\n\nThe catch: it starts with companies, not consumers. Businesses have clear tasks, measurable ROI, and tolerance for errors — you don't.\n\nThat means your role shifts from doing the work to supervising it. 👀\n\nSo here's the real question: which single task from your week would you hand off first? If you can't name one, you're not ready. ✍️",
+  "carousel_slides": [
+    {
+      "hook": "Why Google starts with businesses, not consumers?",
+      "description": "Businesses have clear tasks and measurable ROI; consumers don't. Google tests agents where stakes are high but structured.",
+      "visual_hint": "Google logo on office building",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Google headquarters"
+    },
+    {
+      "hook": "Agents will act autonomously for business tasks",
+      "description": "Your team may soon hand off entire workflows to Gemini agents. First movers are companies, not individuals.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Robotic arm in factory",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "But Google starts with businesses, not consumers",
+      "description": "Consumers lack clear tasks and tolerance for errors. Google tests agents where stakes are high but structured.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Server room with glowing lights",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your role shifts from doing to supervising",
+      "description": "Agents won't just suggest — they'll execute. Are you ready to manage a robot coworker?",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Human hand shaking robot hand",
+      "image_query": "human robot handshake",
+      "image": "https://images.pexels.com/photos/6153346/pexels-photo-6153346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "What task would you delegate first?",
+      "description": "Pick one task from your week and imagine handing it to an agent. Comment your answer below!",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Person thinking with laptop",
+      "image_query": "office worker thinking",
+      "image": "https://images.pexels.com/photos/12903124/pexels-photo-12903124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/image_3.max-2100x2100_0CYZWqn.jpg?resize=1200,591",
+  "savedAt": "2026-10-08T19:35:13.260Z",
+  "sourceId": "ceca2e2c1a06a203a669ab1ef73aacf4"
+}

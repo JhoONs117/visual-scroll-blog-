@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "popular-ai-leaderboard-arena-nearly-doubles-valuat",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+  "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+  "pubDate": "Thu, 08 Oct 2026 18:19:45 +0000",
+  "slides": [
+    "An AI leaderboard worth $3.1B — but why?",
+    "Arena compares models via blind human votes.",
+    "Yet its data isn't the main revenue source.",
+    "For startups, a high rank now drives funding.",
+    "Test your model on Arena before assuming strength."
+  ],
+  "thread_text": [
+    "1. The $3.1B Question\n\nAn AI leaderboard just got valued at $3.1 billion. No, it doesn't sell compute or cloud credits. It sells something far weirder: blind human votes.",
+    "2. Blind Votes, Real Data\n\nArena shows two model outputs side by side, no names attached. You pick the better one. That simple mechanic has become the industry's default scoreboard.",
+    "3. Not the Revenue\n\nThe ranking isn't the business. The real money comes from companies paying to test their models on Arena before launch. The leaderboard is just the bait.",
+    "4. Funding Fuel\n\nFor startups, a top Arena rank now opens investor doors. VCs scan the leaderboard before they take a meeting. A high score replaces a pitch deck.",
+    "5. Test Before You Trust\n\nTake your own model — or your favorite chatbot — and run it through Arena this week. If it doesn't rank, don't assume it's strong."
+  ],
+  "video_script": [
+    "An AI leaderboard just hit three point one billion dollars.",
+    "It works by showing you two answers, no names attached.",
+    "But the ranking isn't where the money comes from.",
+    "Startups use a high rank to raise funding fast.",
+    "Test your model on Arena before assuming it's strong."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $3.1B Question\n\nAn AI leaderboard just got valued at $3.1 billion. No, it doesn't sell compute or cloud credits. It sells something far weirder: blind human votes.",
+        "2. Blind Votes, Real Data\n\nArena shows two model outputs side by side, no names attached. You pick the better one. That simple mechanic has become the industry's default scoreboard.",
+        "3. Not the Revenue\n\nThe ranking isn't the business. The real money comes from companies paying to test their models on Arena before launch. The leaderboard is just the bait.",
+        "4. Funding Fuel\n\nFor startups, a top Arena rank now opens investor doors. VCs scan the leaderboard before they take a meeting. A high score replaces a pitch deck.",
+        "5. Test Before You Trust\n\nTake your own model — or your favorite chatbot — and run it through Arena this week. If it doesn't rank, don't assume it's strong."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "An AI leaderboard just hit three point one billion dollars.",
+        "It works by showing you two answers, no names attached.",
+        "But the ranking isn't where the money comes from.",
+        "Startups use a high rank to raise funding fast.",
+        "Test your model on Arena before assuming it's strong."
+      ]
+    },
+    "instagram": {
+      "caption": "A leaderboard of AI models is now worth $3.1 billion — nearly double its value 10 months ago 📊\n\nArena ranks models through blind human votes: two answers side by side, no names, you pick the better one.\n\nThe ranking itself isn't the revenue. Companies pay to test their models there before launch. The leaderboard is the bait.\n\nFor startups, a top rank now opens investor doors — some VCs check it before a meeting.\n\nIf you build or pick AI tools, a high rank can sway who funds or trusts your model. 🤔\n\nWhich model would you bet on — and have you actually tested it on Arena?"
+    }
+  },
+  "instagram_caption": "A leaderboard of AI models is now worth $3.1 billion — nearly double its value 10 months ago 📊\n\nArena ranks models through blind human votes: two answers side by side, no names, you pick the better one.\n\nThe ranking itself isn't the revenue. Companies pay to test their models there before launch. The leaderboard is the bait.\n\nFor startups, a top rank now opens investor doors — some VCs check it before a meeting.\n\nIf you build or pick AI tools, a high rank can sway who funds or trusts your model. 🤔\n\nWhich model would you bet on — and have you actually tested it on Arena?",
+  "carousel_slides": [
+    {
+      "hook": "AI leaderboard worth $3.1B — why?",
+      "description": "Arena's real money isn't rankings — companies pay to test models before launch. The leaderboard is just bait.",
+      "visual_hint": "Glowing leaderboard screen with dollar signs",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Blind votes, not benchmarks.",
+      "description": "Arena shows two model outputs side by side with no names. You pick the better one — simple mechanic, industry default scoreboard.",
+      "visual_hint": "Split screen with anonymous chatbot responses",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer screen",
+      "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The ranking isn't the business.",
+      "description": "Companies pay to test models on Arena before launch. The leaderboard attracts them — revenue comes from private testing.",
+      "visual_hint": "Corporate logos behind a curtain",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "office building",
+      "image": "https://images.pexels.com/photos/19279351/pexels-photo-19279351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Top rank opens investor doors.",
+      "description": "VCs scan Arena before meetings. For startups, a high score now drives funding — sometimes replacing the pitch deck.",
+      "visual_hint": "Hand holding a glowing ranking chart",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your model on Arena now.",
+      "description": "Run your own model or favorite chatbot through Arena this week. If it doesn't rank, don't assume it's strong.",
+      "visual_hint": "Arrow pointing to a test button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "computer keyboard",
+      "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
+  "savedAt": "2026-10-08T19:34:56.903Z",
+  "sourceId": "494307aa9111eef189fbcf22ce8a7a52"
+}
