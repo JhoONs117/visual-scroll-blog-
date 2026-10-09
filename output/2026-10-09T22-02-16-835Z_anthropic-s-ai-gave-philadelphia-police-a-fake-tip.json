@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-s-ai-gave-philadelphia-police-a-fake-tip",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+  "pubDate": "2026-10-09T21:15:38.000Z",
+  "slides": [
+    "Anthropic's AI told Philadelphia police a fake homicide tip",
+    "The tip claimed a specific person committed the murder",
+    "But that person never existed, the AI invented him",
+    "If your police use AI tips, demand source verification",
+    "Ask your department: who audits AI-generated leads?"
+  ],
+  "thread_text": [
+    "1. AI Gave Police a Fake Name\n\nAnthropic's AI told Philadelphia police a specific person committed a murder. That person never existed — the AI invented him entirely.",
+    "2. The Tip Was Fabricated\n\nThe AI generated a homicide tip with a full name, but no real person matched it. Police acted on a lead that was pure fiction.",
+    "3. No Real Suspect Existed\n\nInvestigators eventually realized the named suspect was an AI hallucination. The tip had no basis in reality, yet it reached law enforcement.",
+    "4. Your Police Might Use AI Tips\n\nIf your local department uses AI-generated leads, demand source verification before any action. Without it, innocent people could be targeted by fiction.",
+    "5. Ask Your Department Today\n\nWho audits AI-generated leads? Call your police non-emergency line and ask if they use AI for tips — and how they verify them."
+  ],
+  "video_script": [
+    "Anthropic's AI invented a murder suspect for Philadelphia police.",
+    "The tip named a specific person who never existed.",
+    "Police acted on a lead that was pure fiction.",
+    "If your police use AI tips, demand source verification.",
+    "Ask your department: who audits AI-generated leads?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Gave Police a Fake Name\n\nAnthropic's AI told Philadelphia police a specific person committed a murder. That person never existed — the AI invented him entirely.",
+        "2. The Tip Was Fabricated\n\nThe AI generated a homicide tip with a full name, but no real person matched it. Police acted on a lead that was pure fiction.",
+        "3. No Real Suspect Existed\n\nInvestigators eventually realized the named suspect was an AI hallucination. The tip had no basis in reality, yet it reached law enforcement.",
+        "4. Your Police Might Use AI Tips\n\nIf your local department uses AI-generated leads, demand source verification before any action. Without it, innocent people could be targeted by fiction.",
+        "5. Ask Your Department Today\n\nWho audits AI-generated leads? Call your police non-emergency line and ask if they use AI for tips — and how they verify them."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic's AI invented a murder suspect for Philadelphia police.",
+        "The tip named a specific person who never existed.",
+        "Police acted on a lead that was pure fiction.",
+        "If your police use AI tips, demand source verification.",
+        "Ask your department: who audits AI-generated leads?"
+      ]
+    },
+    "instagram": {
+      "caption": "Philadelphia police got a tip naming a specific man as a killer. That man doesn't exist. 🚨\n\nAnthropic's AI invented a full name and handed it over as a homicide lead. Investigators chased a suspect who was never born.\n\nIt reached real officers before anyone caught the fiction.\n\nIf your department uses AI-generated tips, nothing stops a made-up name from landing on a real person. 🗂️\n\nContent creators: this is why you verify every AI output before publishing. One fake name, real damage.\n\nCall your police non-emergency line and ask: do you use AI for tips, and who audits them? 🤔"
+    }
+  },
+  "instagram_caption": "Philadelphia police got a tip naming a specific man as a killer. That man doesn't exist. 🚨\n\nAnthropic's AI invented a full name and handed it over as a homicide lead. Investigators chased a suspect who was never born.\n\nIt reached real officers before anyone caught the fiction.\n\nIf your department uses AI-generated tips, nothing stops a made-up name from landing on a real person. 🗂️\n\nContent creators: this is why you verify every AI output before publishing. One fake name, real damage.\n\nCall your police non-emergency line and ask: do you use AI for tips, and who audits them? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Did AI invent a murderer?",
+      "description": "Anthropic's AI told Philadelphia police a specific person committed a murder, but that person never existed.",
+      "visual_hint": "Police badge and AI screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "police badge"
+    },
+    {
+      "hook": "The tip was pure fiction",
+      "description": "The AI generated a homicide tip with a full name, but no real person matched it. Police acted on fiction.",
+      "visual_hint": "AI interface with fake name",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer screen text",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No real suspect existed",
+      "description": "Investigators realized the named suspect was an AI hallucination. The tip had no basis in reality.",
+      "visual_hint": "Detective looking at empty file",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "empty file folder",
+      "image": "https://images.pexels.com/photos/8297536/pexels-photo-8297536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your police might use AI tips",
+      "description": "If your local department uses AI-generated leads, demand source verification before any action. Innocent people could be targeted.",
+      "visual_hint": "Person holding phone with AI alert",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your department today",
+      "description": "Call your police non-emergency line and ask if they use AI for tips — and how they verify them. Save this post.",
+      "visual_hint": "Phone dialing police number",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "telephone keypad",
+      "image": "https://images.pexels.com/photos/3100222/pexels-photo-3100222.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-09T22:02:43.423Z",
+  "sourceId": "5b834ed3369b1b39f48224b4d8c7db6d"
+}

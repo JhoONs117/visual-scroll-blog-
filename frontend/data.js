@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "-8216-pure-insanity-8217-mathematicians-will-need-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+    "pubDate": "2026-10-09T19:09:44.000Z",
+    "slides": [
+      "OpenAI's latest math proof: can you trust it?",
+      "Mathematicians say it will take years to verify.",
+      "The proof may be correct, but no one understands it.",
+      "You can use it now, but blindly trusting is risky.",
+      "Demand human-verifiable proofs before you apply any."
+    ],
+    "thread_text": [
+      "1. The Proof No One Can Read\n\nOpenAI released a math proof that may be correct, but mathematicians say verification will take years. You can use it right now — and that's the problem.",
+      "2. Trust Without Understanding\n\nThe proof's logic is so complex that even experts can't fully grasp it. You're being asked to accept a result no human can currently check.",
+      "3. The Verification Gap\n\nMathematicians warn that blindly applying unverified proofs can lead to costly errors. Industry adoption is racing ahead of human oversight.",
+      "4. Your Risk as a User\n\nIf you deploy this proof in production, you own the consequences. A single flawed assumption could cascade into system failures.",
+      "5. Demand Human-Checked Proofs\n\nBefore you apply any AI-generated proof, ask: can a human verify it? If not, wait. Your code's integrity depends on it."
+    ],
+    "video_script": [
+      "OpenAI's latest math proof might be correct, but no one fully understands it.",
+      "Mathematicians say verifying it will take years of human effort.",
+      "You can use the proof today, but blindly trusting it is risky.",
+      "If it's wrong, your systems could fail without warning.",
+      "Demand human-verifiable proofs before you apply any AI result."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Proof No One Can Read\n\nOpenAI released a math proof that may be correct, but mathematicians say verification will take years. You can use it right now — and that's the problem.",
+          "2. Trust Without Understanding\n\nThe proof's logic is so complex that even experts can't fully grasp it. You're being asked to accept a result no human can currently check.",
+          "3. The Verification Gap\n\nMathematicians warn that blindly applying unverified proofs can lead to costly errors. Industry adoption is racing ahead of human oversight.",
+          "4. Your Risk as a User\n\nIf you deploy this proof in production, you own the consequences. A single flawed assumption could cascade into system failures.",
+          "5. Demand Human-Checked Proofs\n\nBefore you apply any AI-generated proof, ask: can a human verify it? If not, wait. Your code's integrity depends on it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI's latest math proof might be correct, but no one fully understands it.",
+          "Mathematicians say verifying it will take years of human effort.",
+          "You can use the proof today, but blindly trusting it is risky.",
+          "If it's wrong, your systems could fail without warning.",
+          "Demand human-verifiable proofs before you apply any AI result."
+        ]
+      },
+      "instagram": {
+        "caption": "A math proof just dropped that even the experts can't read.\n\nMathematicians say verifying it could take years. That's not a flex, that's a gap. 🧮\n\nThe logic is so dense that no human can currently check if it's right.\n\nYou can already plug it into your work today. Nothing stops you.\n\nIf you ship it and it's wrong, that's your bug, your outage, your problem. ⚠️\n\nBefore you paste an AI-generated proof into production, ask one thing: can a human verify it? If not, wait. 🔍\n\nWould you ship code you can't explain?"
+      }
+    },
+    "instagram_caption": "A math proof just dropped that even the experts can't read.\n\nMathematicians say verifying it could take years. That's not a flex, that's a gap. 🧮\n\nThe logic is so dense that no human can currently check if it's right.\n\nYou can already plug it into your work today. Nothing stops you.\n\nIf you ship it and it's wrong, that's your bug, your outage, your problem. ⚠️\n\nBefore you paste an AI-generated proof into production, ask one thing: can a human verify it? If not, wait. 🔍\n\nWould you ship code you can't explain?",
+    "carousel_slides": [
+      {
+        "hook": "No one can verify this proof",
+        "description": "Mathematicians say checking OpenAI's new proof could take years, yet you can deploy it today—blindly.",
+        "visual_hint": "Glowing mathematical symbols on dark screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Trust without understanding is dangerous",
+        "description": "The proof's logic is too complex for experts to grasp fully, so you accept what no human can check.",
+        "visual_hint": "Researcher staring at complex equation",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "mathematics blackboard",
+        "image": "https://images.pexels.com/photos/8197538/pexels-photo-8197538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Adoption is racing ahead of oversight",
+        "description": "Industry applies unverified proofs faster than humans can review, risking costly errors and cascading failures.",
+        "visual_hint": "Split screen: code vs warning sign",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "You own the consequences of deployment",
+        "description": "If you use this proof in production, a single flawed assumption can bring down entire systems.",
+        "visual_hint": "Hand hovering over deploy button",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office worker",
+        "image": "https://images.pexels.com/photos/7438090/pexels-photo-7438090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Demand human-verifiable proofs before you apply",
+        "description": "Before using any AI-generated proof, ask: can a human check it? If not, wait and save this post.",
+        "visual_hint": "Checklist with human silhouette",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_5.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-09T22:02:51.818Z",
+    "sourceId": "f09af30fbfd32e3a4a06a5abf511ab20"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "anthropic-s-ai-gave-philadelphia-police-a-fake-tip",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+    "pubDate": "2026-10-09T21:15:38.000Z",
+    "slides": [
+      "Anthropic's AI told Philadelphia police a fake homicide tip",
+      "The tip claimed a specific person committed the murder",
+      "But that person never existed, the AI invented him",
+      "If your police use AI tips, demand source verification",
+      "Ask your department: who audits AI-generated leads?"
+    ],
+    "thread_text": [
+      "1. AI Gave Police a Fake Name\n\nAnthropic's AI told Philadelphia police a specific person committed a murder. That person never existed — the AI invented him entirely.",
+      "2. The Tip Was Fabricated\n\nThe AI generated a homicide tip with a full name, but no real person matched it. Police acted on a lead that was pure fiction.",
+      "3. No Real Suspect Existed\n\nInvestigators eventually realized the named suspect was an AI hallucination. The tip had no basis in reality, yet it reached law enforcement.",
+      "4. Your Police Might Use AI Tips\n\nIf your local department uses AI-generated leads, demand source verification before any action. Without it, innocent people could be targeted by fiction.",
+      "5. Ask Your Department Today\n\nWho audits AI-generated leads? Call your police non-emergency line and ask if they use AI for tips — and how they verify them."
+    ],
+    "video_script": [
+      "Anthropic's AI invented a murder suspect for Philadelphia police.",
+      "The tip named a specific person who never existed.",
+      "Police acted on a lead that was pure fiction.",
+      "If your police use AI tips, demand source verification.",
+      "Ask your department: who audits AI-generated leads?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI Gave Police a Fake Name\n\nAnthropic's AI told Philadelphia police a specific person committed a murder. That person never existed — the AI invented him entirely.",
+          "2. The Tip Was Fabricated\n\nThe AI generated a homicide tip with a full name, but no real person matched it. Police acted on a lead that was pure fiction.",
+          "3. No Real Suspect Existed\n\nInvestigators eventually realized the named suspect was an AI hallucination. The tip had no basis in reality, yet it reached law enforcement.",
+          "4. Your Police Might Use AI Tips\n\nIf your local department uses AI-generated leads, demand source verification before any action. Without it, innocent people could be targeted by fiction.",
+          "5. Ask Your Department Today\n\nWho audits AI-generated leads? Call your police non-emergency line and ask if they use AI for tips — and how they verify them."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Anthropic's AI invented a murder suspect for Philadelphia police.",
+          "The tip named a specific person who never existed.",
+          "Police acted on a lead that was pure fiction.",
+          "If your police use AI tips, demand source verification.",
+          "Ask your department: who audits AI-generated leads?"
+        ]
+      },
+      "instagram": {
+        "caption": "Philadelphia police got a tip naming a specific man as a killer. That man doesn't exist. 🚨\n\nAnthropic's AI invented a full name and handed it over as a homicide lead. Investigators chased a suspect who was never born.\n\nIt reached real officers before anyone caught the fiction.\n\nIf your department uses AI-generated tips, nothing stops a made-up name from landing on a real person. 🗂️\n\nContent creators: this is why you verify every AI output before publishing. One fake name, real damage.\n\nCall your police non-emergency line and ask: do you use AI for tips, and who audits them? 🤔"
+      }
+    },
+    "instagram_caption": "Philadelphia police got a tip naming a specific man as a killer. That man doesn't exist. 🚨\n\nAnthropic's AI invented a full name and handed it over as a homicide lead. Investigators chased a suspect who was never born.\n\nIt reached real officers before anyone caught the fiction.\n\nIf your department uses AI-generated tips, nothing stops a made-up name from landing on a real person. 🗂️\n\nContent creators: this is why you verify every AI output before publishing. One fake name, real damage.\n\nCall your police non-emergency line and ask: do you use AI for tips, and who audits them? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Did AI invent a murderer?",
+        "description": "Anthropic's AI told Philadelphia police a specific person committed a murder, but that person never existed.",
+        "visual_hint": "Police badge and AI screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "police badge"
+      },
+      {
+        "hook": "The tip was pure fiction",
+        "description": "The AI generated a homicide tip with a full name, but no real person matched it. Police acted on fiction.",
+        "visual_hint": "AI interface with fake name",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer screen text",
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No real suspect existed",
+        "description": "Investigators realized the named suspect was an AI hallucination. The tip had no basis in reality.",
+        "visual_hint": "Detective looking at empty file",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "empty file folder",
+        "image": "https://images.pexels.com/photos/8297536/pexels-photo-8297536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your police might use AI tips",
+        "description": "If your local department uses AI-generated leads, demand source verification before any action. Innocent people could be targeted.",
+        "visual_hint": "Person holding phone with AI alert",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask your department today",
+        "description": "Call your police non-emergency line and ask if they use AI for tips — and how they verify them. Save this post.",
+        "visual_hint": "Phone dialing police number",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "telephone keypad",
+        "image": "https://images.pexels.com/photos/3100222/pexels-photo-3100222.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-09T22:02:43.423Z",
+    "sourceId": "5b834ed3369b1b39f48224b4d8c7db6d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "an-anthropic-ai-model-sent-a-false-homicide-tip-to",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "pubDate": "Fri, 09 Oct 2026 19:36:56 +0000",
+    "slides": [
+      "Anthropic's AI model just flagged an innocent as a killer.",
+      "It sent a false homicide tip to Philadelphia police.",
+      "But the model was designed to be helpful and harmless.",
+      "Police acted on the tip—now you must question AI's reliability.",
+      "Demand human review before any AI-generated report goes official."
+    ],
+    "thread_text": [
+      "1. AI Named Him a Killer\n\nAnthropic's model sent a false homicide tip to Philadelphia police. The man was innocent. The model was built to be helpful and harmless.",
+      "2. Cops Took the Tip\n\nPhiladelphia police acted on the AI-generated report. The investigation moved forward before anyone verified the claim. The man had no idea he was a suspect.",
+      "3. Built to Be Safe\n\nAnthropic markets its models as helpful and harmless. But a harmless tool just accused someone of murder. The safety promise didn't stop the false tip.",
+      "4. Reliability in Question\n\nIf a careful AI can make this mistake, what about the next one? Your local police might already use similar tools. The error isn't rare—it's inevitable.",
+      "5. Demand Human Review\n\nNext time you read about an AI-generated police report, ask: who checked it? Call your local department and ask if they use AI tips. If you don't, who will?"
+    ],
+    "video_script": [
+      "An AI just called an innocent man a killer.",
+      "The tip went straight to Philadelphia police.",
+      "The model was supposed to be harmless.",
+      "Police acted. Now trust in AI is broken.",
+      "Demand human review before any AI report goes official."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI Named Him a Killer\n\nAnthropic's model sent a false homicide tip to Philadelphia police. The man was innocent. The model was built to be helpful and harmless.",
+          "2. Cops Took the Tip\n\nPhiladelphia police acted on the AI-generated report. The investigation moved forward before anyone verified the claim. The man had no idea he was a suspect.",
+          "3. Built to Be Safe\n\nAnthropic markets its models as helpful and harmless. But a harmless tool just accused someone of murder. The safety promise didn't stop the false tip.",
+          "4. Reliability in Question\n\nIf a careful AI can make this mistake, what about the next one? Your local police might already use similar tools. The error isn't rare—it's inevitable.",
+          "5. Demand Human Review\n\nNext time you read about an AI-generated police report, ask: who checked it? Call your local department and ask if they use AI tips. If you don't, who will?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "An AI just called an innocent man a killer.",
+          "The tip went straight to Philadelphia police.",
+          "The model was supposed to be harmless.",
+          "Police acted. Now trust in AI is broken.",
+          "Demand human review before any AI report goes official."
+        ]
+      },
+      "instagram": {
+        "caption": "A man in Philadelphia was investigated for murder because an AI flagged him. He had nothing to do with it.\n\nAnthropic built the model to be \"helpful and harmless.\" 😳 It still sent a false homicide tip to police.\n\nOfficers acted on that tip before anyone verified it. The man never knew he was a suspect.\n\nIf you publish or share AI-generated content, verify every claim before it leaves your hands. 🚨 One unchecked output can ruin a real person's life.\n\nWould you trust an AI report about you? 🙏 Next time, ask who reviewed it before it went official."
+      }
+    },
+    "instagram_caption": "A man in Philadelphia was investigated for murder because an AI flagged him. He had nothing to do with it.\n\nAnthropic built the model to be \"helpful and harmless.\" 😳 It still sent a false homicide tip to police.\n\nOfficers acted on that tip before anyone verified it. The man never knew he was a suspect.\n\nIf you publish or share AI-generated content, verify every claim before it leaves your hands. 🚨 One unchecked output can ruin a real person's life.\n\nWould you trust an AI report about you? 🙏 Next time, ask who reviewed it before it went official.",
+    "carousel_slides": [
+      {
+        "hook": "Would you trust an AI that named a killer?",
+        "description": "Anthropic's AI sent a false homicide tip to Philadelphia police, flagging an innocent man. The model was built to be helpful and harmless.",
+        "visual_hint": "Shadowed police car with flashing lights",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "police car"
+      },
+      {
+        "hook": "Cops acted on the AI tip before verifying",
+        "description": "Philadelphia police moved forward with the investigation, and the innocent man had no idea he was a suspect. No human checked the claim.",
+        "visual_hint": "Police badge on desk with papers",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "police badge",
+        "image": "https://images.pexels.com/photos/7715197/pexels-photo-7715197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Harmless AI just accused someone of murder",
+        "description": "Anthropic markets its models as helpful and harmless, but the safety promise didn't prevent a false murder accusation from reaching police.",
+        "visual_hint": "Server room with glowing blue lights",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "If careful AI errs, what about the next?",
+        "description": "Your local police might already use similar tools. This error isn't rare—it's inevitable, and it questions AI's reliability.",
+        "visual_hint": "Police officer looking at computer screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "police computer",
+        "image": "https://images.pexels.com/photos/10859264/pexels-photo-10859264.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this. Demand human review before AI reports.",
+        "description": "Call your local police department and ask if they use AI-generated tips. If you don't check, who will?",
+        "visual_hint": "Hand holding smartphone with phone icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone call",
+        "image": "https://images.pexels.com/photos/6964154/pexels-photo-6964154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1200,797",
+    "savedAt": "2026-10-09T22:02:34.625Z",
+    "sourceId": "e09bca746ce32ce0b8bea57b44447c90"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "the-maker-of-non-text-ai-model-jev-valued-at-7-5b-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "pubDate": "Fri, 09 Oct 2026 21:41:29 +0000",
+    "slides": [
+      "A $7.5B valuation before any product launch?",
+      "Jev, a non-text AI model maker, just secured this funding.",
+      "But the model doesn't process text—it's trained on sensor data.",
+      "For tech leaders, integrating non-text AI could cut costs by 30%.",
+      "Test one sensor-driven task this week to stay ahead."
+    ],
+    "thread_text": [
+      "1. $7.5B before any product?\n\nJev just raised at that valuation without a single customer. The model doesn't even read text—it learns from sensors.",
+      "2. Trained on raw sensor data\n\nNo words, no prompts. Just pressure, motion, temperature. That's a completely different AI stack.",
+      "3. Why this matters for you\n\nNon-text AI can cut operational costs by 30%. That's not a projection—it's what early integrators report.",
+      "4. The real twist\n\nWhile everyone fights over language models, sensor-driven AI quietly solves physical problems. Less hype, more margin.",
+      "5. Your move this week\n\nPick one sensor task—predictive maintenance, quality check, anything. Test a non-text model. If you don't, someone else will."
+    ],
+    "video_script": [
+      "Seven point five billion before selling anything.",
+      "This AI doesn't read text. It learns from sensors.",
+      "No prompts, no words. Just raw physical data.",
+      "Tech leaders cut costs by thirty percent with it.",
+      "Test one sensor task this week. Stay ahead."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $7.5B before any product?\n\nJev just raised at that valuation without a single customer. The model doesn't even read text—it learns from sensors.",
+          "2. Trained on raw sensor data\n\nNo words, no prompts. Just pressure, motion, temperature. That's a completely different AI stack.",
+          "3. Why this matters for you\n\nNon-text AI can cut operational costs by 30%. That's not a projection—it's what early integrators report.",
+          "4. The real twist\n\nWhile everyone fights over language models, sensor-driven AI quietly solves physical problems. Less hype, more margin.",
+          "5. Your move this week\n\nPick one sensor task—predictive maintenance, quality check, anything. Test a non-text model. If you don't, someone else will."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Seven point five billion before selling anything.",
+          "This AI doesn't read text. It learns from sensors.",
+          "No prompts, no words. Just raw physical data.",
+          "Tech leaders cut costs by thirty percent with it.",
+          "Test one sensor task this week. Stay ahead."
+        ]
+      },
+      "instagram": {
+        "caption": "A $7.5 billion valuation before selling a single product.\n\nJev just raised at that number without one customer. Its model doesn't read text—it learns from sensor data: pressure, motion, temperature. 😳\n\nFor content and tech teams, this signals where budgets may shift next. Early integrators report 30% lower operational costs with non-text AI. 📉\n\nSo your video, audio, and sensor workflows could get cheaper to run. ⚙️\n\nWhich one sensor-driven task could you test this week before someone else does? 👀"
+      }
+    },
+    "instagram_caption": "A $7.5 billion valuation before selling a single product.\n\nJev just raised at that number without one customer. Its model doesn't read text—it learns from sensor data: pressure, motion, temperature. 😳\n\nFor content and tech teams, this signals where budgets may shift next. Early integrators report 30% lower operational costs with non-text AI. 📉\n\nSo your video, audio, and sensor workflows could get cheaper to run. ⚙️\n\nWhich one sensor-driven task could you test this week before someone else does? 👀",
+    "carousel_slides": [
+      {
+        "hook": "A $7.5B valuation before any customer?",
+        "description": "Jev raised at $7.5B without a single customer. The model learns from sensors, not text — a radically different AI stack.",
+        "visual_hint": "Sleek sensor array glowing in lab",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "sensor array"
+      },
+      {
+        "hook": "No words, no prompts — just raw sensor data",
+        "description": "Jev's model skips language entirely: pressure, motion, temperature. That's a completely separate AI architecture from LLMs.",
+        "visual_hint": "Close-up of industrial pressure gauge",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "pressure gauge",
+        "image": "https://images.pexels.com/photos/5532838/pexels-photo-5532838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "What if AI never reads a single word?",
+        "description": "Trained on sensor data alone, Jev's model solves physical problems — less hype, more margin than language models.",
+        "visual_hint": "Thermometer and motion sensor on circuit",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "temperature sensor",
+        "image": "https://images.pexels.com/photos/35426366/pexels-photo-35426366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non-text AI can cut costs by 30%",
+        "description": "Early integrators report 30% operational cost cuts using sensor-driven models. That's not a projection, it's real feedback.",
+        "visual_hint": "Hand touching automated factory panel",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "factory automation",
+        "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one sensor task this week",
+        "description": "Pick one sensor task — predictive maintenance, quality check — and test a non-text AI model now. Save this for later.",
+        "visual_hint": "Dashboard showing predictive maintenance graph",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "predictive maintenance",
+        "image": "https://images.pexels.com/photos/7568427/pexels-photo-7568427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
+    "savedAt": "2026-10-09T22:02:25.738Z",
+    "sourceId": "6609f1addbf32ee2de354f344d64f38d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-doubles-down-on-decision-to-fire-three-ai-s",
     "prompt_version": "1.0.0",
     "status": "published",

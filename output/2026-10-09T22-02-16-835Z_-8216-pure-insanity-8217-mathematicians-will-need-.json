@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "-8216-pure-insanity-8217-mathematicians-will-need-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+  "pubDate": "2026-10-09T19:09:44.000Z",
+  "slides": [
+    "OpenAI's latest math proof: can you trust it?",
+    "Mathematicians say it will take years to verify.",
+    "The proof may be correct, but no one understands it.",
+    "You can use it now, but blindly trusting is risky.",
+    "Demand human-verifiable proofs before you apply any."
+  ],
+  "thread_text": [
+    "1. The Proof No One Can Read\n\nOpenAI released a math proof that may be correct, but mathematicians say verification will take years. You can use it right now — and that's the problem.",
+    "2. Trust Without Understanding\n\nThe proof's logic is so complex that even experts can't fully grasp it. You're being asked to accept a result no human can currently check.",
+    "3. The Verification Gap\n\nMathematicians warn that blindly applying unverified proofs can lead to costly errors. Industry adoption is racing ahead of human oversight.",
+    "4. Your Risk as a User\n\nIf you deploy this proof in production, you own the consequences. A single flawed assumption could cascade into system failures.",
+    "5. Demand Human-Checked Proofs\n\nBefore you apply any AI-generated proof, ask: can a human verify it? If not, wait. Your code's integrity depends on it."
+  ],
+  "video_script": [
+    "OpenAI's latest math proof might be correct, but no one fully understands it.",
+    "Mathematicians say verifying it will take years of human effort.",
+    "You can use the proof today, but blindly trusting it is risky.",
+    "If it's wrong, your systems could fail without warning.",
+    "Demand human-verifiable proofs before you apply any AI result."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Proof No One Can Read\n\nOpenAI released a math proof that may be correct, but mathematicians say verification will take years. You can use it right now — and that's the problem.",
+        "2. Trust Without Understanding\n\nThe proof's logic is so complex that even experts can't fully grasp it. You're being asked to accept a result no human can currently check.",
+        "3. The Verification Gap\n\nMathematicians warn that blindly applying unverified proofs can lead to costly errors. Industry adoption is racing ahead of human oversight.",
+        "4. Your Risk as a User\n\nIf you deploy this proof in production, you own the consequences. A single flawed assumption could cascade into system failures.",
+        "5. Demand Human-Checked Proofs\n\nBefore you apply any AI-generated proof, ask: can a human verify it? If not, wait. Your code's integrity depends on it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI's latest math proof might be correct, but no one fully understands it.",
+        "Mathematicians say verifying it will take years of human effort.",
+        "You can use the proof today, but blindly trusting it is risky.",
+        "If it's wrong, your systems could fail without warning.",
+        "Demand human-verifiable proofs before you apply any AI result."
+      ]
+    },
+    "instagram": {
+      "caption": "A math proof just dropped that even the experts can't read.\n\nMathematicians say verifying it could take years. That's not a flex, that's a gap. 🧮\n\nThe logic is so dense that no human can currently check if it's right.\n\nYou can already plug it into your work today. Nothing stops you.\n\nIf you ship it and it's wrong, that's your bug, your outage, your problem. ⚠️\n\nBefore you paste an AI-generated proof into production, ask one thing: can a human verify it? If not, wait. 🔍\n\nWould you ship code you can't explain?"
+    }
+  },
+  "instagram_caption": "A math proof just dropped that even the experts can't read.\n\nMathematicians say verifying it could take years. That's not a flex, that's a gap. 🧮\n\nThe logic is so dense that no human can currently check if it's right.\n\nYou can already plug it into your work today. Nothing stops you.\n\nIf you ship it and it's wrong, that's your bug, your outage, your problem. ⚠️\n\nBefore you paste an AI-generated proof into production, ask one thing: can a human verify it? If not, wait. 🔍\n\nWould you ship code you can't explain?",
+  "carousel_slides": [
+    {
+      "hook": "No one can verify this proof",
+      "description": "Mathematicians say checking OpenAI's new proof could take years, yet you can deploy it today—blindly.",
+      "visual_hint": "Glowing mathematical symbols on dark screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Trust without understanding is dangerous",
+      "description": "The proof's logic is too complex for experts to grasp fully, so you accept what no human can check.",
+      "visual_hint": "Researcher staring at complex equation",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "mathematics blackboard",
+      "image": "https://images.pexels.com/photos/8197538/pexels-photo-8197538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Adoption is racing ahead of oversight",
+      "description": "Industry applies unverified proofs faster than humans can review, risking costly errors and cascading failures.",
+      "visual_hint": "Split screen: code vs warning sign",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You own the consequences of deployment",
+      "description": "If you use this proof in production, a single flawed assumption can bring down entire systems.",
+      "visual_hint": "Hand hovering over deploy button",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office worker",
+      "image": "https://images.pexels.com/photos/7438090/pexels-photo-7438090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demand human-verifiable proofs before you apply",
+      "description": "Before using any AI-generated proof, ask: can a human check it? If not, wait and save this post.",
+      "visual_hint": "Checklist with human silhouette",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_5.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-09T22:02:51.818Z",
+  "sourceId": "f09af30fbfd32e3a4a06a5abf511ab20"
+}

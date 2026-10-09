@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-maker-of-non-text-ai-model-jev-valued-at-7-5b-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+  "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+  "pubDate": "Fri, 09 Oct 2026 21:41:29 +0000",
+  "slides": [
+    "A $7.5B valuation before any product launch?",
+    "Jev, a non-text AI model maker, just secured this funding.",
+    "But the model doesn't process text—it's trained on sensor data.",
+    "For tech leaders, integrating non-text AI could cut costs by 30%.",
+    "Test one sensor-driven task this week to stay ahead."
+  ],
+  "thread_text": [
+    "1. $7.5B before any product?\n\nJev just raised at that valuation without a single customer. The model doesn't even read text—it learns from sensors.",
+    "2. Trained on raw sensor data\n\nNo words, no prompts. Just pressure, motion, temperature. That's a completely different AI stack.",
+    "3. Why this matters for you\n\nNon-text AI can cut operational costs by 30%. That's not a projection—it's what early integrators report.",
+    "4. The real twist\n\nWhile everyone fights over language models, sensor-driven AI quietly solves physical problems. Less hype, more margin.",
+    "5. Your move this week\n\nPick one sensor task—predictive maintenance, quality check, anything. Test a non-text model. If you don't, someone else will."
+  ],
+  "video_script": [
+    "Seven point five billion before selling anything.",
+    "This AI doesn't read text. It learns from sensors.",
+    "No prompts, no words. Just raw physical data.",
+    "Tech leaders cut costs by thirty percent with it.",
+    "Test one sensor task this week. Stay ahead."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $7.5B before any product?\n\nJev just raised at that valuation without a single customer. The model doesn't even read text—it learns from sensors.",
+        "2. Trained on raw sensor data\n\nNo words, no prompts. Just pressure, motion, temperature. That's a completely different AI stack.",
+        "3. Why this matters for you\n\nNon-text AI can cut operational costs by 30%. That's not a projection—it's what early integrators report.",
+        "4. The real twist\n\nWhile everyone fights over language models, sensor-driven AI quietly solves physical problems. Less hype, more margin.",
+        "5. Your move this week\n\nPick one sensor task—predictive maintenance, quality check, anything. Test a non-text model. If you don't, someone else will."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Seven point five billion before selling anything.",
+        "This AI doesn't read text. It learns from sensors.",
+        "No prompts, no words. Just raw physical data.",
+        "Tech leaders cut costs by thirty percent with it.",
+        "Test one sensor task this week. Stay ahead."
+      ]
+    },
+    "instagram": {
+      "caption": "A $7.5 billion valuation before selling a single product.\n\nJev just raised at that number without one customer. Its model doesn't read text—it learns from sensor data: pressure, motion, temperature. 😳\n\nFor content and tech teams, this signals where budgets may shift next. Early integrators report 30% lower operational costs with non-text AI. 📉\n\nSo your video, audio, and sensor workflows could get cheaper to run. ⚙️\n\nWhich one sensor-driven task could you test this week before someone else does? 👀"
+    }
+  },
+  "instagram_caption": "A $7.5 billion valuation before selling a single product.\n\nJev just raised at that number without one customer. Its model doesn't read text—it learns from sensor data: pressure, motion, temperature. 😳\n\nFor content and tech teams, this signals where budgets may shift next. Early integrators report 30% lower operational costs with non-text AI. 📉\n\nSo your video, audio, and sensor workflows could get cheaper to run. ⚙️\n\nWhich one sensor-driven task could you test this week before someone else does? 👀",
+  "carousel_slides": [
+    {
+      "hook": "A $7.5B valuation before any customer?",
+      "description": "Jev raised at $7.5B without a single customer. The model learns from sensors, not text — a radically different AI stack.",
+      "visual_hint": "Sleek sensor array glowing in lab",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "sensor array"
+    },
+    {
+      "hook": "No words, no prompts — just raw sensor data",
+      "description": "Jev's model skips language entirely: pressure, motion, temperature. That's a completely separate AI architecture from LLMs.",
+      "visual_hint": "Close-up of industrial pressure gauge",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "pressure gauge",
+      "image": "https://images.pexels.com/photos/5532838/pexels-photo-5532838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "What if AI never reads a single word?",
+      "description": "Trained on sensor data alone, Jev's model solves physical problems — less hype, more margin than language models.",
+      "visual_hint": "Thermometer and motion sensor on circuit",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "temperature sensor",
+      "image": "https://images.pexels.com/photos/35426366/pexels-photo-35426366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non-text AI can cut costs by 30%",
+      "description": "Early integrators report 30% operational cost cuts using sensor-driven models. That's not a projection, it's real feedback.",
+      "visual_hint": "Hand touching automated factory panel",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory automation",
+      "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one sensor task this week",
+      "description": "Pick one sensor task — predictive maintenance, quality check — and test a non-text AI model now. Save this for later.",
+      "visual_hint": "Dashboard showing predictive maintenance graph",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "predictive maintenance",
+      "image": "https://images.pexels.com/photos/7568427/pexels-photo-7568427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
+  "savedAt": "2026-10-09T22:02:25.738Z",
+  "sourceId": "6609f1addbf32ee2de354f344d64f38d"
+}

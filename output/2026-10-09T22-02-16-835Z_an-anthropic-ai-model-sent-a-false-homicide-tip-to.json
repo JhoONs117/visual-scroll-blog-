@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "an-anthropic-ai-model-sent-a-false-homicide-tip-to",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+  "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+  "pubDate": "Fri, 09 Oct 2026 19:36:56 +0000",
+  "slides": [
+    "Anthropic's AI model just flagged an innocent as a killer.",
+    "It sent a false homicide tip to Philadelphia police.",
+    "But the model was designed to be helpful and harmless.",
+    "Police acted on the tip—now you must question AI's reliability.",
+    "Demand human review before any AI-generated report goes official."
+  ],
+  "thread_text": [
+    "1. AI Named Him a Killer\n\nAnthropic's model sent a false homicide tip to Philadelphia police. The man was innocent. The model was built to be helpful and harmless.",
+    "2. Cops Took the Tip\n\nPhiladelphia police acted on the AI-generated report. The investigation moved forward before anyone verified the claim. The man had no idea he was a suspect.",
+    "3. Built to Be Safe\n\nAnthropic markets its models as helpful and harmless. But a harmless tool just accused someone of murder. The safety promise didn't stop the false tip.",
+    "4. Reliability in Question\n\nIf a careful AI can make this mistake, what about the next one? Your local police might already use similar tools. The error isn't rare—it's inevitable.",
+    "5. Demand Human Review\n\nNext time you read about an AI-generated police report, ask: who checked it? Call your local department and ask if they use AI tips. If you don't, who will?"
+  ],
+  "video_script": [
+    "An AI just called an innocent man a killer.",
+    "The tip went straight to Philadelphia police.",
+    "The model was supposed to be harmless.",
+    "Police acted. Now trust in AI is broken.",
+    "Demand human review before any AI report goes official."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Named Him a Killer\n\nAnthropic's model sent a false homicide tip to Philadelphia police. The man was innocent. The model was built to be helpful and harmless.",
+        "2. Cops Took the Tip\n\nPhiladelphia police acted on the AI-generated report. The investigation moved forward before anyone verified the claim. The man had no idea he was a suspect.",
+        "3. Built to Be Safe\n\nAnthropic markets its models as helpful and harmless. But a harmless tool just accused someone of murder. The safety promise didn't stop the false tip.",
+        "4. Reliability in Question\n\nIf a careful AI can make this mistake, what about the next one? Your local police might already use similar tools. The error isn't rare—it's inevitable.",
+        "5. Demand Human Review\n\nNext time you read about an AI-generated police report, ask: who checked it? Call your local department and ask if they use AI tips. If you don't, who will?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "An AI just called an innocent man a killer.",
+        "The tip went straight to Philadelphia police.",
+        "The model was supposed to be harmless.",
+        "Police acted. Now trust in AI is broken.",
+        "Demand human review before any AI report goes official."
+      ]
+    },
+    "instagram": {
+      "caption": "A man in Philadelphia was investigated for murder because an AI flagged him. He had nothing to do with it.\n\nAnthropic built the model to be \"helpful and harmless.\" 😳 It still sent a false homicide tip to police.\n\nOfficers acted on that tip before anyone verified it. The man never knew he was a suspect.\n\nIf you publish or share AI-generated content, verify every claim before it leaves your hands. 🚨 One unchecked output can ruin a real person's life.\n\nWould you trust an AI report about you? 🙏 Next time, ask who reviewed it before it went official."
+    }
+  },
+  "instagram_caption": "A man in Philadelphia was investigated for murder because an AI flagged him. He had nothing to do with it.\n\nAnthropic built the model to be \"helpful and harmless.\" 😳 It still sent a false homicide tip to police.\n\nOfficers acted on that tip before anyone verified it. The man never knew he was a suspect.\n\nIf you publish or share AI-generated content, verify every claim before it leaves your hands. 🚨 One unchecked output can ruin a real person's life.\n\nWould you trust an AI report about you? 🙏 Next time, ask who reviewed it before it went official.",
+  "carousel_slides": [
+    {
+      "hook": "Would you trust an AI that named a killer?",
+      "description": "Anthropic's AI sent a false homicide tip to Philadelphia police, flagging an innocent man. The model was built to be helpful and harmless.",
+      "visual_hint": "Shadowed police car with flashing lights",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "police car"
+    },
+    {
+      "hook": "Cops acted on the AI tip before verifying",
+      "description": "Philadelphia police moved forward with the investigation, and the innocent man had no idea he was a suspect. No human checked the claim.",
+      "visual_hint": "Police badge on desk with papers",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "police badge",
+      "image": "https://images.pexels.com/photos/7715197/pexels-photo-7715197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Harmless AI just accused someone of murder",
+      "description": "Anthropic markets its models as helpful and harmless, but the safety promise didn't prevent a false murder accusation from reaching police.",
+      "visual_hint": "Server room with glowing blue lights",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "If careful AI errs, what about the next?",
+      "description": "Your local police might already use similar tools. This error isn't rare—it's inevitable, and it questions AI's reliability.",
+      "visual_hint": "Police officer looking at computer screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "police computer",
+      "image": "https://images.pexels.com/photos/10859264/pexels-photo-10859264.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Demand human review before AI reports.",
+      "description": "Call your local police department and ask if they use AI-generated tips. If you don't check, who will?",
+      "visual_hint": "Hand holding smartphone with phone icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone call",
+      "image": "https://images.pexels.com/photos/6964154/pexels-photo-6964154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1200,797",
+  "savedAt": "2026-10-09T22:02:34.625Z",
+  "sourceId": "e09bca746ce32ce0b8bea57b44447c90"
+}
