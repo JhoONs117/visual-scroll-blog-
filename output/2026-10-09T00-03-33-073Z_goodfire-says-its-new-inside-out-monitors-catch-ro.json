@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "goodfire-says-its-new-inside-out-monitors-catch-ro",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+  "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+  "pubDate": "Thu, 08 Oct 2026 16:00:00 +0000",
+  "slides": [
+    "Can Goodfire's inside-out monitors catch rogue AI at low cost?",
+    "Goodfire's new method looks inside AI models to spot deception.",
+    "But it only works for known rogue behaviors, not new ones.",
+    "If you're deploying AI, now you can afford continuous monitoring.",
+    "Test Goodfire's monitors yourself—don't wait for a breach."
+  ],
+  "thread_text": [
+    "1. Inside-Out Monitoring\n\nGoodfire's new method peers inside AI models to spot deception—without heavy compute costs.",
+    "2. Known Threats Only\n\nIt catches rogue behaviors it's been trained on. New, unseen tricks slip through the cracks.",
+    "3. Affordable Continuous Watch\n\nIf you're deploying AI, you can now afford to monitor around the clock, not just spot-check.",
+    "4. Test Before Breach\n\nDon't wait for a rogue AI incident. Run Goodfire's monitors on your own models and see what they catch.",
+    "5. Your Move\n\nTake a model you use, enable the monitor, and try to trick it. What happens? That's your real risk picture."
+  ],
+  "video_script": [
+    "Goodfire's new method spots AI deception from inside.",
+    "But it only knows the tricks it's seen before.",
+    "So now you can afford continuous monitoring.",
+    "Test it on your own models before a breach.",
+    "Try to trick the monitor yourself. What do you find?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Inside-Out Monitoring\n\nGoodfire's new method peers inside AI models to spot deception—without heavy compute costs.",
+        "2. Known Threats Only\n\nIt catches rogue behaviors it's been trained on. New, unseen tricks slip through the cracks.",
+        "3. Affordable Continuous Watch\n\nIf you're deploying AI, you can now afford to monitor around the clock, not just spot-check.",
+        "4. Test Before Breach\n\nDon't wait for a rogue AI incident. Run Goodfire's monitors on your own models and see what they catch.",
+        "5. Your Move\n\nTake a model you use, enable the monitor, and try to trick it. What happens? That's your real risk picture."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Goodfire's new method spots AI deception from inside.",
+        "But it only knows the tricks it's seen before.",
+        "So now you can afford continuous monitoring.",
+        "Test it on your own models before a breach.",
+        "Try to trick the monitor yourself. What do you find?"
+      ]
+    },
+    "instagram": {
+      "caption": "You can now afford to watch your AI models around the clock, not just spot-check them.\n\nGoodfire's new monitors look inside a model to catch deception without heavy compute costs. 🧠\n\nThey only catch rogue behaviors the system already knows—new tricks still slip through. 🕳️\n\nIf you deploy AI, continuous monitoring is now within budget. 🛡️\n\nSo grab a model you use, turn the monitor on, and try to trick it yourself. 🎯\n\nWhat does it miss?"
+    }
+  },
+  "instagram_caption": "You can now afford to watch your AI models around the clock, not just spot-check them.\n\nGoodfire's new monitors look inside a model to catch deception without heavy compute costs. 🧠\n\nThey only catch rogue behaviors the system already knows—new tricks still slip through. 🕳️\n\nIf you deploy AI, continuous monitoring is now within budget. 🛡️\n\nSo grab a model you use, turn the monitor on, and try to trick it yourself. 🎯\n\nWhat does it miss?",
+  "carousel_slides": [
+    {
+      "hook": "Rogue AI hides where you can't see",
+      "description": "New inside-out monitors catch deception cheaply, but only for known rogue behaviors—unseen tricks still slip through undetected.",
+      "visual_hint": "Close-up of AI chip glowing",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer chip"
+    },
+    {
+      "hook": "Goodfire peers inside AI models",
+      "description": "Its method spots deception by looking inside models, cutting compute costs so monitoring becomes affordable for more teams.",
+      "visual_hint": "Transparent neural network layers visible",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "neural network",
+      "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Only known threats get caught",
+      "description": "Trained on specific rogue behaviors, it misses new, unseen tricks—leaving a blind spot for novel AI deception.",
+      "visual_hint": "Sensor scanning limited known patterns",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "security camera",
+      "image": "https://images.pexels.com/photos/14773064/pexels-photo-14773064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Afford continuous AI monitoring now",
+      "description": "If you deploy AI, lower costs let you watch around the clock instead of spot-checking—catching issues before they escalate.",
+      "visual_hint": "Hand enabling monitor on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your AI before a breach",
+      "description": "Run Goodfire's monitors on your own models now, trick them, and see what they catch—save this for your risk check.",
+      "visual_hint": "User testing AI monitor interface",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675",
+  "savedAt": "2026-10-09T00:04:03.665Z",
+  "sourceId": "7db2500e1227a520fb3787e8183edfff"
+}

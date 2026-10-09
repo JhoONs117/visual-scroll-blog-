@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "anthropic-launches-free-ai-security-scans-for-open",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "pubDate": "2026-10-08T21:53:51.000Z",
+      "slides": [
+        "Anthropic wants to scan your open-source code for free.",
+        "They're offering free AI security scans to any project.",
+        "But the scanner can't catch everything human reviewers do.",
+        "You can sign up and scan your repo tomorrow.",
+        "One repo scan this week: see what it misses."
+      ],
+      "thread_text": [
+        "1. Free Code Scans\n\nAnthropic just opened free AI security scans to any open-source project. But their own scanner admits it can't catch what human reviewers do.",
+        "2. What It Misses\n\nThe tool flags common vulnerabilities, but skips logic flaws and subtle backdoors. Those still need a human eye.",
+        "3. Sign Up Tomorrow\n\nYou can enroll your repo starting tomorrow. No cost, no catch — just a limited view of your code's weak spots.",
+        "4. One Repo Test\n\nThis week, run one scan on a repo you maintain. Compare its findings to what your team already knows.",
+        "5. Your Turn\n\nDoes a free scan save you time if you still need to verify every alert? Try it on a side project and see."
+      ],
+      "video_script": [
+        "Anthropic now offers free AI security scans for open-source code.",
+        "But their scanner misses logic flaws that human reviewers catch.",
+        "You can sign up and scan your repo starting tomorrow.",
+        "This week, test one scan on a project you know well.",
+        "Ask yourself: does it save time or create more work?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Free Code Scans\n\nAnthropic just opened free AI security scans to any open-source project. But their own scanner admits it can't catch what human reviewers do.",
+            "2. What It Misses\n\nThe tool flags common vulnerabilities, but skips logic flaws and subtle backdoors. Those still need a human eye.",
+            "3. Sign Up Tomorrow\n\nYou can enroll your repo starting tomorrow. No cost, no catch — just a limited view of your code's weak spots.",
+            "4. One Repo Test\n\nThis week, run one scan on a repo you maintain. Compare its findings to what your team already knows.",
+            "5. Your Turn\n\nDoes a free scan save you time if you still need to verify every alert? Try it on a side project and see."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Anthropic now offers free AI security scans for open-source code.",
+            "But their scanner misses logic flaws that human reviewers catch.",
+            "You can sign up and scan your repo starting tomorrow.",
+            "This week, test one scan on a project you know well.",
+            "Ask yourself: does it save time or create more work?"
+          ]
+        },
+        "instagram": {
+          "caption": "Free security scans sound great until you read the fine print. 👀\n\nAnthropic just opened free AI security scans to any open-source project.\n\nThe tool catches common vulnerabilities, but skips logic flaws and subtle backdoors — the stuff only a human reviewer spots.\n\nEnrollment opens tomorrow, no cost attached.\n\nIf you maintain a repo, your code can get scanned this week while you still verify every alert yourself. 🔍\n\nWould a free scan actually save you time if you can't trust it to catch everything? 🛠️"
+        }
+      },
+      "instagram_caption": "Free security scans sound great until you read the fine print. 👀\n\nAnthropic just opened free AI security scans to any open-source project.\n\nThe tool catches common vulnerabilities, but skips logic flaws and subtle backdoors — the stuff only a human reviewer spots.\n\nEnrollment opens tomorrow, no cost attached.\n\nIf you maintain a repo, your code can get scanned this week while you still verify every alert yourself. 🔍\n\nWould a free scan actually save you time if you can't trust it to catch everything? 🛠️",
+      "carousel_slides": [
+        {
+          "hook": "Free scans still miss what humans catch",
+          "description": "Anthropic offers free AI security scans to open-source projects, but the scanner admits it cannot catch logic flaws or subtle backdoors.",
+          "visual_hint": "Glowing code on dark screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer code screen"
+        },
+        {
+          "hook": "Any open-source repo can enroll free",
+          "description": "Starting tomorrow, any project can sign up for a no-cost scan to flag common vulnerabilities and reveal weak spots in the codebase.",
+          "visual_hint": "Open-source repository dashboard interface",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "software dashboard interface",
+          "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI skips logic flaws and backdoors",
+          "description": "The tool catches common vulnerabilities but misses logic flaws and subtle backdoors, which still require a human reviewer's trained eye.",
+          "visual_hint": "Magnifying glass over code lines",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass code",
+          "image": "https://images.pexels.com/photos/17543457/pexels-photo-17543457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Run one scan on your repo",
+          "description": "This week, test one scan on a repo you maintain and compare its findings against what your team already knows about weak spots.",
+          "visual_hint": "Hands typing on laptop keyboard",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hands typing laptop",
+          "image": "https://images.pexels.com/photos/30612694/pexels-photo-30612694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your next scan",
+          "description": "Try a free scan on a side project and see if it saves time when you still must verify every alert manually.",
+          "visual_hint": "Bookmark icon with code background",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "bookmark laptop screen",
+          "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-09T00:04:16.112Z",
+      "sourceId": "6b44d5cdfd6f4fb3794f8588a00c2250"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "goodfire-says-its-new-inside-out-monitors-catch-ro",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "pubDate": "Thu, 08 Oct 2026 16:00:00 +0000",
+      "slides": [
+        "Can Goodfire's inside-out monitors catch rogue AI at low cost?",
+        "Goodfire's new method looks inside AI models to spot deception.",
+        "But it only works for known rogue behaviors, not new ones.",
+        "If you're deploying AI, now you can afford continuous monitoring.",
+        "Test Goodfire's monitors yourself—don't wait for a breach."
+      ],
+      "thread_text": [
+        "1. Inside-Out Monitoring\n\nGoodfire's new method peers inside AI models to spot deception—without heavy compute costs.",
+        "2. Known Threats Only\n\nIt catches rogue behaviors it's been trained on. New, unseen tricks slip through the cracks.",
+        "3. Affordable Continuous Watch\n\nIf you're deploying AI, you can now afford to monitor around the clock, not just spot-check.",
+        "4. Test Before Breach\n\nDon't wait for a rogue AI incident. Run Goodfire's monitors on your own models and see what they catch.",
+        "5. Your Move\n\nTake a model you use, enable the monitor, and try to trick it. What happens? That's your real risk picture."
+      ],
+      "video_script": [
+        "Goodfire's new method spots AI deception from inside.",
+        "But it only knows the tricks it's seen before.",
+        "So now you can afford continuous monitoring.",
+        "Test it on your own models before a breach.",
+        "Try to trick the monitor yourself. What do you find?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Inside-Out Monitoring\n\nGoodfire's new method peers inside AI models to spot deception—without heavy compute costs.",
+            "2. Known Threats Only\n\nIt catches rogue behaviors it's been trained on. New, unseen tricks slip through the cracks.",
+            "3. Affordable Continuous Watch\n\nIf you're deploying AI, you can now afford to monitor around the clock, not just spot-check.",
+            "4. Test Before Breach\n\nDon't wait for a rogue AI incident. Run Goodfire's monitors on your own models and see what they catch.",
+            "5. Your Move\n\nTake a model you use, enable the monitor, and try to trick it. What happens? That's your real risk picture."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Goodfire's new method spots AI deception from inside.",
+            "But it only knows the tricks it's seen before.",
+            "So now you can afford continuous monitoring.",
+            "Test it on your own models before a breach.",
+            "Try to trick the monitor yourself. What do you find?"
+          ]
+        },
+        "instagram": {
+          "caption": "You can now afford to watch your AI models around the clock, not just spot-check them.\n\nGoodfire's new monitors look inside a model to catch deception without heavy compute costs. 🧠\n\nThey only catch rogue behaviors the system already knows—new tricks still slip through. 🕳️\n\nIf you deploy AI, continuous monitoring is now within budget. 🛡️\n\nSo grab a model you use, turn the monitor on, and try to trick it yourself. 🎯\n\nWhat does it miss?"
+        }
+      },
+      "instagram_caption": "You can now afford to watch your AI models around the clock, not just spot-check them.\n\nGoodfire's new monitors look inside a model to catch deception without heavy compute costs. 🧠\n\nThey only catch rogue behaviors the system already knows—new tricks still slip through. 🕳️\n\nIf you deploy AI, continuous monitoring is now within budget. 🛡️\n\nSo grab a model you use, turn the monitor on, and try to trick it yourself. 🎯\n\nWhat does it miss?",
+      "carousel_slides": [
+        {
+          "hook": "Rogue AI hides where you can't see",
+          "description": "New inside-out monitors catch deception cheaply, but only for known rogue behaviors—unseen tricks still slip through undetected.",
+          "visual_hint": "Close-up of AI chip glowing",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer chip"
+        },
+        {
+          "hook": "Goodfire peers inside AI models",
+          "description": "Its method spots deception by looking inside models, cutting compute costs so monitoring becomes affordable for more teams.",
+          "visual_hint": "Transparent neural network layers visible",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "neural network",
+          "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Only known threats get caught",
+          "description": "Trained on specific rogue behaviors, it misses new, unseen tricks—leaving a blind spot for novel AI deception.",
+          "visual_hint": "Sensor scanning limited known patterns",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "security camera",
+          "image": "https://images.pexels.com/photos/14773064/pexels-photo-14773064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Afford continuous AI monitoring now",
+          "description": "If you deploy AI, lower costs let you watch around the clock instead of spot-checking—catching issues before they escalate.",
+          "visual_hint": "Hand enabling monitor on screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your AI before a breach",
+          "description": "Run Goodfire's monitors on your own models now, trick them, and see what they catch—save this for your risk check.",
+          "visual_hint": "User testing AI monitor interface",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675",
+      "savedAt": "2026-10-09T00:04:03.665Z",
+      "sourceId": "7db2500e1227a520fb3787e8183edfff"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "anthropic-changes-usage-policy-to-ban-model-abuse-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "pubDate": "Thu, 08 Oct 2026 18:16:24 +0000",
+      "slides": [
+        "Anthropic bans election interference—what's the loophole?",
+        "New policy targets model abuse and deceptive political tactics.",
+        "Critics say vague language could chill research.",
+        "Users must now report suspicious prompts or risk account suspension.",
+        "Audit your own AI use before someone else does."
+      ],
+      "thread_text": [
+        "1. The Loophole Anthropic Missed\n\nAnthropic banned election interference, but experts say the policy doesn't cover coordinated bot networks spreading false voter info through private DMs. That gap could let bad actors operate unchecked.",
+        "2. What the Policy Actually Targets\n\nThe new rules focus on model abuse and deceptive political tactics like impersonating candidates. Enforcement relies on user reports, not proactive detection.",
+        "3. Vague Language Sparks Backlash\n\nCritics warn that undefined terms like 'deceptive political tactics' could chill legitimate research on misinformation. Academics fear their studies might be flagged as violations.",
+        "4. Report or Get Suspended\n\nUsers now must report any suspicious prompts they encounter. Failure to do so can lead to account suspension, turning every user into an unpaid moderator.",
+        "5. Audit Your AI Use Now\n\nReview your own prompts and outputs for anything that could be flagged. Start with your last 10 conversations—if you wouldn't want them audited, change how you prompt today."
+      ],
+      "video_script": [
+        "Anthropic bans election interference.",
+        "But there's a loophole.",
+        "Vague rules chill research.",
+        "Users must report prompts.",
+        "Audit your AI use now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Loophole Anthropic Missed\n\nAnthropic banned election interference, but experts say the policy doesn't cover coordinated bot networks spreading false voter info through private DMs. That gap could let bad actors operate unchecked.",
+            "2. What the Policy Actually Targets\n\nThe new rules focus on model abuse and deceptive political tactics like impersonating candidates. Enforcement relies on user reports, not proactive detection.",
+            "3. Vague Language Sparks Backlash\n\nCritics warn that undefined terms like 'deceptive political tactics' could chill legitimate research on misinformation. Academics fear their studies might be flagged as violations.",
+            "4. Report or Get Suspended\n\nUsers now must report any suspicious prompts they encounter. Failure to do so can lead to account suspension, turning every user into an unpaid moderator.",
+            "5. Audit Your AI Use Now\n\nReview your own prompts and outputs for anything that could be flagged. Start with your last 10 conversations—if you wouldn't want them audited, change how you prompt today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Anthropic bans election interference.",
+            "But there's a loophole.",
+            "Vague rules chill research.",
+            "Users must report prompts.",
+            "Audit your AI use now."
+          ]
+        },
+        "instagram": {
+          "caption": "Starting now, if you spot a suspicious prompt and don't report it, your account can get suspended.\n\nAnthropic updated its usage policy to ban election interference, model abuse, and deceptive political tactics like impersonating candidates. Enforcement runs on user reports, not proactive detection. ⚠️\n\nCritics warn vague terms could flag legitimate misinformation research. 📉\n\nYou're now an unpaid moderator on top of your actual work. 🧑‍💻\n\nWould your last 10 prompts survive that review? 🔍"
+        }
+      },
+      "instagram_caption": "Starting now, if you spot a suspicious prompt and don't report it, your account can get suspended.\n\nAnthropic updated its usage policy to ban election interference, model abuse, and deceptive political tactics like impersonating candidates. Enforcement runs on user reports, not proactive detection. ⚠️\n\nCritics warn vague terms could flag legitimate misinformation research. 📉\n\nYou're now an unpaid moderator on top of your actual work. 🧑‍💻\n\nWould your last 10 prompts survive that review? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Is vague policy chilling legitimate research?",
+          "description": "Undefined terms like 'deceptive political tactics' could flag academic misinformation studies, risking research paralysis and self-censorship.",
+          "visual_hint": "Researcher reviewing AI policy documents",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "office desk documents"
+        },
+        {
+          "hook": "What Anthropic's new rules actually target",
+          "description": "Policy bans model abuse and candidate impersonation, but enforcement relies only on user reports, not proactive detection.",
+          "visual_hint": "AI robot with warning overlay",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "robot hand technology",
+          "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The loophole experts warn about",
+          "description": "Coordinated bot networks spreading false voter info through private DMs remain uncovered, letting bad actors operate unchecked.",
+          "visual_hint": "Network of anonymous messaging icons",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room network",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Report suspicious prompts or get suspended",
+          "description": "Users must now report any suspicious prompts they encounter; failure to do so can lead to account suspension, turning users into unpaid moderators.",
+          "visual_hint": "User hand reporting on screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person using laptop",
+          "image": "https://images.pexels.com/photos/12902986/pexels-photo-12902986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your AI use before someone else does",
+          "description": "Review your last 10 conversations now. If you wouldn't want them audited, change how you prompt today.",
+          "visual_hint": "Checklist with AI chat logs",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard desk",
+          "image": "https://images.pexels.com/photos/6928997/pexels-photo-6928997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798",
+      "savedAt": "2026-10-09T00:03:54.751Z",
+      "sourceId": "80297d65bd412af6692e4245608a9796"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "fired-openai-safety-researchers-dispute-misconduct",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "pubDate": "Thu, 08 Oct 2026 20:04:26 +0000",
+      "slides": [
+        "OpenAI fired safety researchers—what are they hiding?",
+        "They claim the misconduct accusations are false and retaliatory.",
+        "Yet their warnings about safety culture chill are spreading.",
+        "This affects how AI companies handle internal dissent.",
+        "Will you trust AI labs to self-regulate? Speak up."
+      ],
+      "thread_text": [
+        "1. OpenAI Fired Safety Researchers\n\nTwo researchers were let go after raising internal concerns. The company calls the accusations false and retaliatory.",
+        "2. The Retaliation Claim\n\nThey say the misconduct allegations against them are payback for speaking up. That's a direct challenge to OpenAI's account.",
+        "3. Chill Spreads\n\nOther AI labs are watching. If warnings get people fired, who reports the next problem?",
+        "4. Dissent Gets Harder\n\nInternal teams now weigh careers against safety flags. That math shapes what actually ships.",
+        "5. Will You Trust Them?\n\nAsk yourself: would you bet your data on a lab that punishes internal warnings? Tell us in the replies."
+      ],
+      "video_script": [
+        "OpenAI fired two safety researchers. They say it was retaliation.",
+        "The company claims the misconduct accusations are false and retaliatory.",
+        "But their warning about a chilling safety culture is spreading.",
+        "This changes how AI companies treat internal dissent.",
+        "Will you trust AI labs to regulate themselves? Speak up."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. OpenAI Fired Safety Researchers\n\nTwo researchers were let go after raising internal concerns. The company calls the accusations false and retaliatory.",
+            "2. The Retaliation Claim\n\nThey say the misconduct allegations against them are payback for speaking up. That's a direct challenge to OpenAI's account.",
+            "3. Chill Spreads\n\nOther AI labs are watching. If warnings get people fired, who reports the next problem?",
+            "4. Dissent Gets Harder\n\nInternal teams now weigh careers against safety flags. That math shapes what actually ships.",
+            "5. Will You Trust Them?\n\nAsk yourself: would you bet your data on a lab that punishes internal warnings? Tell us in the replies."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI fired two safety researchers. They say it was retaliation.",
+            "The company claims the misconduct accusations are false and retaliatory.",
+            "But their warning about a chilling safety culture is spreading.",
+            "This changes how AI companies treat internal dissent.",
+            "Will you trust AI labs to regulate themselves? Speak up."
+          ]
+        },
+        "instagram": {
+          "caption": "Two safety researchers were fired after raising concerns inside OpenAI, and now they're pushing back on the misconduct claims against them.\n\nThey say those accusations are false and came as retaliation for speaking up. OpenAI stands by its account. ⚠️\n\nOther labs are watching this closely. When warnings get people fired, the next problem goes unreported. 🔍\n\nFor anyone building or publishing with AI tools, the dissenting voices on safety just got quieter — and that shapes what actually ships. 🛠️\n\nIf a lab punishes internal warnings, would you still trust it with your data? 👇"
+        }
+      },
+      "instagram_caption": "Two safety researchers were fired after raising concerns inside OpenAI, and now they're pushing back on the misconduct claims against them.\n\nThey say those accusations are false and came as retaliation for speaking up. OpenAI stands by its account. ⚠️\n\nOther labs are watching this closely. When warnings get people fired, the next problem goes unreported. 🔍\n\nFor anyone building or publishing with AI tools, the dissenting voices on safety just got quieter — and that shapes what actually ships. 🛠️\n\nIf a lab punishes internal warnings, would you still trust it with your data? 👇",
+      "carousel_slides": [
+        {
+          "hook": "Fired for warning about AI dangers?",
+          "description": "OpenAI fired two safety researchers who raised internal concerns. The company calls their misconduct claims false and retaliatory.",
+          "visual_hint": "Empty office chair in dim light",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "empty office"
+        },
+        {
+          "hook": "They call it retaliation, not misconduct.",
+          "description": "The researchers say the misconduct accusations are payback for speaking up, directly challenging OpenAI's official account.",
+          "visual_hint": "Hands passing a resignation letter",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "resignation letter",
+          "image": "https://images.pexels.com/photos/4226220/pexels-photo-4226220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Silence spreads through every AI lab.",
+          "description": "Other AI labs are watching. If warnings get people fired, who reports the next safety problem?",
+          "visual_hint": "Ripple effect on dark water surface",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "ripple water",
+          "image": "https://images.pexels.com/photos/12627383/pexels-photo-12627383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Careers versus safety: the impossible math.",
+          "description": "Internal teams now weigh careers against safety flags. That calculation shapes what actually ships to millions.",
+          "visual_hint": "Hand hovering over emergency stop button",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "emergency stop button",
+          "image": "https://images.pexels.com/photos/5532840/pexels-photo-5532840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this. Would you trust them?",
+          "description": "Ask yourself: would you bet your data on a lab that punishes internal warnings? Comment your answer below.",
+          "visual_hint": "Finger pressing save icon on phone",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone save button",
+          "image": "https://images.pexels.com/photos/3850580/pexels-photo-3850580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "savedAt": "2026-10-09T00:03:45.332Z",
+      "sourceId": "a682e0b0de91bdf12ee0b18c4a36e1e9"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-s-math-solutions-aren-t-meeting-the-field-s",
       "prompt_version": "1.0.0",
       "status": "published",

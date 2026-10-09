@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "fired-openai-safety-researchers-dispute-misconduct",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+  "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+  "pubDate": "Thu, 08 Oct 2026 20:04:26 +0000",
+  "slides": [
+    "OpenAI fired safety researchers—what are they hiding?",
+    "They claim the misconduct accusations are false and retaliatory.",
+    "Yet their warnings about safety culture chill are spreading.",
+    "This affects how AI companies handle internal dissent.",
+    "Will you trust AI labs to self-regulate? Speak up."
+  ],
+  "thread_text": [
+    "1. OpenAI Fired Safety Researchers\n\nTwo researchers were let go after raising internal concerns. The company calls the accusations false and retaliatory.",
+    "2. The Retaliation Claim\n\nThey say the misconduct allegations against them are payback for speaking up. That's a direct challenge to OpenAI's account.",
+    "3. Chill Spreads\n\nOther AI labs are watching. If warnings get people fired, who reports the next problem?",
+    "4. Dissent Gets Harder\n\nInternal teams now weigh careers against safety flags. That math shapes what actually ships.",
+    "5. Will You Trust Them?\n\nAsk yourself: would you bet your data on a lab that punishes internal warnings? Tell us in the replies."
+  ],
+  "video_script": [
+    "OpenAI fired two safety researchers. They say it was retaliation.",
+    "The company claims the misconduct accusations are false and retaliatory.",
+    "But their warning about a chilling safety culture is spreading.",
+    "This changes how AI companies treat internal dissent.",
+    "Will you trust AI labs to regulate themselves? Speak up."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI Fired Safety Researchers\n\nTwo researchers were let go after raising internal concerns. The company calls the accusations false and retaliatory.",
+        "2. The Retaliation Claim\n\nThey say the misconduct allegations against them are payback for speaking up. That's a direct challenge to OpenAI's account.",
+        "3. Chill Spreads\n\nOther AI labs are watching. If warnings get people fired, who reports the next problem?",
+        "4. Dissent Gets Harder\n\nInternal teams now weigh careers against safety flags. That math shapes what actually ships.",
+        "5. Will You Trust Them?\n\nAsk yourself: would you bet your data on a lab that punishes internal warnings? Tell us in the replies."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI fired two safety researchers. They say it was retaliation.",
+        "The company claims the misconduct accusations are false and retaliatory.",
+        "But their warning about a chilling safety culture is spreading.",
+        "This changes how AI companies treat internal dissent.",
+        "Will you trust AI labs to regulate themselves? Speak up."
+      ]
+    },
+    "instagram": {
+      "caption": "Two safety researchers were fired after raising concerns inside OpenAI, and now they're pushing back on the misconduct claims against them.\n\nThey say those accusations are false and came as retaliation for speaking up. OpenAI stands by its account. ⚠️\n\nOther labs are watching this closely. When warnings get people fired, the next problem goes unreported. 🔍\n\nFor anyone building or publishing with AI tools, the dissenting voices on safety just got quieter — and that shapes what actually ships. 🛠️\n\nIf a lab punishes internal warnings, would you still trust it with your data? 👇"
+    }
+  },
+  "instagram_caption": "Two safety researchers were fired after raising concerns inside OpenAI, and now they're pushing back on the misconduct claims against them.\n\nThey say those accusations are false and came as retaliation for speaking up. OpenAI stands by its account. ⚠️\n\nOther labs are watching this closely. When warnings get people fired, the next problem goes unreported. 🔍\n\nFor anyone building or publishing with AI tools, the dissenting voices on safety just got quieter — and that shapes what actually ships. 🛠️\n\nIf a lab punishes internal warnings, would you still trust it with your data? 👇",
+  "carousel_slides": [
+    {
+      "hook": "Fired for warning about AI dangers?",
+      "description": "OpenAI fired two safety researchers who raised internal concerns. The company calls their misconduct claims false and retaliatory.",
+      "visual_hint": "Empty office chair in dim light",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "empty office"
+    },
+    {
+      "hook": "They call it retaliation, not misconduct.",
+      "description": "The researchers say the misconduct accusations are payback for speaking up, directly challenging OpenAI's official account.",
+      "visual_hint": "Hands passing a resignation letter",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "resignation letter",
+      "image": "https://images.pexels.com/photos/4226220/pexels-photo-4226220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Silence spreads through every AI lab.",
+      "description": "Other AI labs are watching. If warnings get people fired, who reports the next safety problem?",
+      "visual_hint": "Ripple effect on dark water surface",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "ripple water",
+      "image": "https://images.pexels.com/photos/12627383/pexels-photo-12627383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Careers versus safety: the impossible math.",
+      "description": "Internal teams now weigh careers against safety flags. That calculation shapes what actually ships to millions.",
+      "visual_hint": "Hand hovering over emergency stop button",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "emergency stop button",
+      "image": "https://images.pexels.com/photos/5532840/pexels-photo-5532840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Would you trust them?",
+      "description": "Ask yourself: would you bet your data on a lab that punishes internal warnings? Comment your answer below.",
+      "visual_hint": "Finger pressing save icon on phone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone save button",
+      "image": "https://images.pexels.com/photos/3850580/pexels-photo-3850580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+  "savedAt": "2026-10-09T00:03:45.332Z",
+  "sourceId": "a682e0b0de91bdf12ee0b18c4a36e1e9"
+}

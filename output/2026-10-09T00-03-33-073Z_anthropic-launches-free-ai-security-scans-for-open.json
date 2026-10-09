@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-launches-free-ai-security-scans-for-open",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic launches free AI security scans for open-source projects",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+  "pubDate": "2026-10-08T21:53:51.000Z",
+  "slides": [
+    "Anthropic wants to scan your open-source code for free.",
+    "They're offering free AI security scans to any project.",
+    "But the scanner can't catch everything human reviewers do.",
+    "You can sign up and scan your repo tomorrow.",
+    "One repo scan this week: see what it misses."
+  ],
+  "thread_text": [
+    "1. Free Code Scans\n\nAnthropic just opened free AI security scans to any open-source project. But their own scanner admits it can't catch what human reviewers do.",
+    "2. What It Misses\n\nThe tool flags common vulnerabilities, but skips logic flaws and subtle backdoors. Those still need a human eye.",
+    "3. Sign Up Tomorrow\n\nYou can enroll your repo starting tomorrow. No cost, no catch — just a limited view of your code's weak spots.",
+    "4. One Repo Test\n\nThis week, run one scan on a repo you maintain. Compare its findings to what your team already knows.",
+    "5. Your Turn\n\nDoes a free scan save you time if you still need to verify every alert? Try it on a side project and see."
+  ],
+  "video_script": [
+    "Anthropic now offers free AI security scans for open-source code.",
+    "But their scanner misses logic flaws that human reviewers catch.",
+    "You can sign up and scan your repo starting tomorrow.",
+    "This week, test one scan on a project you know well.",
+    "Ask yourself: does it save time or create more work?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Free Code Scans\n\nAnthropic just opened free AI security scans to any open-source project. But their own scanner admits it can't catch what human reviewers do.",
+        "2. What It Misses\n\nThe tool flags common vulnerabilities, but skips logic flaws and subtle backdoors. Those still need a human eye.",
+        "3. Sign Up Tomorrow\n\nYou can enroll your repo starting tomorrow. No cost, no catch — just a limited view of your code's weak spots.",
+        "4. One Repo Test\n\nThis week, run one scan on a repo you maintain. Compare its findings to what your team already knows.",
+        "5. Your Turn\n\nDoes a free scan save you time if you still need to verify every alert? Try it on a side project and see."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic now offers free AI security scans for open-source code.",
+        "But their scanner misses logic flaws that human reviewers catch.",
+        "You can sign up and scan your repo starting tomorrow.",
+        "This week, test one scan on a project you know well.",
+        "Ask yourself: does it save time or create more work?"
+      ]
+    },
+    "instagram": {
+      "caption": "Free security scans sound great until you read the fine print. 👀\n\nAnthropic just opened free AI security scans to any open-source project.\n\nThe tool catches common vulnerabilities, but skips logic flaws and subtle backdoors — the stuff only a human reviewer spots.\n\nEnrollment opens tomorrow, no cost attached.\n\nIf you maintain a repo, your code can get scanned this week while you still verify every alert yourself. 🔍\n\nWould a free scan actually save you time if you can't trust it to catch everything? 🛠️"
+    }
+  },
+  "instagram_caption": "Free security scans sound great until you read the fine print. 👀\n\nAnthropic just opened free AI security scans to any open-source project.\n\nThe tool catches common vulnerabilities, but skips logic flaws and subtle backdoors — the stuff only a human reviewer spots.\n\nEnrollment opens tomorrow, no cost attached.\n\nIf you maintain a repo, your code can get scanned this week while you still verify every alert yourself. 🔍\n\nWould a free scan actually save you time if you can't trust it to catch everything? 🛠️",
+  "carousel_slides": [
+    {
+      "hook": "Free scans still miss what humans catch",
+      "description": "Anthropic offers free AI security scans to open-source projects, but the scanner admits it cannot catch logic flaws or subtle backdoors.",
+      "visual_hint": "Glowing code on dark screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer code screen"
+    },
+    {
+      "hook": "Any open-source repo can enroll free",
+      "description": "Starting tomorrow, any project can sign up for a no-cost scan to flag common vulnerabilities and reveal weak spots in the codebase.",
+      "visual_hint": "Open-source repository dashboard interface",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "software dashboard interface",
+      "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI skips logic flaws and backdoors",
+      "description": "The tool catches common vulnerabilities but misses logic flaws and subtle backdoors, which still require a human reviewer's trained eye.",
+      "visual_hint": "Magnifying glass over code lines",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass code",
+      "image": "https://images.pexels.com/photos/17543457/pexels-photo-17543457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Run one scan on your repo",
+      "description": "This week, test one scan on a repo you maintain and compare its findings against what your team already knows about weak spots.",
+      "visual_hint": "Hands typing on laptop keyboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands typing laptop",
+      "image": "https://images.pexels.com/photos/30612694/pexels-photo-30612694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next scan",
+      "description": "Try a free scan on a side project and see if it saves time when you still must verify every alert manually.",
+      "visual_hint": "Bookmark icon with code background",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "bookmark laptop screen",
+      "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-09T00:04:16.112Z",
+  "sourceId": "6b44d5cdfd6f4fb3794f8588a00c2250"
+}

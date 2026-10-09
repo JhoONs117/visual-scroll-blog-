@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-changes-usage-policy-to-ban-model-abuse-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic changes usage policy to ban model abuse and election interference",
+  "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+  "pubDate": "Thu, 08 Oct 2026 18:16:24 +0000",
+  "slides": [
+    "Anthropic bans election interference—what's the loophole?",
+    "New policy targets model abuse and deceptive political tactics.",
+    "Critics say vague language could chill research.",
+    "Users must now report suspicious prompts or risk account suspension.",
+    "Audit your own AI use before someone else does."
+  ],
+  "thread_text": [
+    "1. The Loophole Anthropic Missed\n\nAnthropic banned election interference, but experts say the policy doesn't cover coordinated bot networks spreading false voter info through private DMs. That gap could let bad actors operate unchecked.",
+    "2. What the Policy Actually Targets\n\nThe new rules focus on model abuse and deceptive political tactics like impersonating candidates. Enforcement relies on user reports, not proactive detection.",
+    "3. Vague Language Sparks Backlash\n\nCritics warn that undefined terms like 'deceptive political tactics' could chill legitimate research on misinformation. Academics fear their studies might be flagged as violations.",
+    "4. Report or Get Suspended\n\nUsers now must report any suspicious prompts they encounter. Failure to do so can lead to account suspension, turning every user into an unpaid moderator.",
+    "5. Audit Your AI Use Now\n\nReview your own prompts and outputs for anything that could be flagged. Start with your last 10 conversations—if you wouldn't want them audited, change how you prompt today."
+  ],
+  "video_script": [
+    "Anthropic bans election interference.",
+    "But there's a loophole.",
+    "Vague rules chill research.",
+    "Users must report prompts.",
+    "Audit your AI use now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Loophole Anthropic Missed\n\nAnthropic banned election interference, but experts say the policy doesn't cover coordinated bot networks spreading false voter info through private DMs. That gap could let bad actors operate unchecked.",
+        "2. What the Policy Actually Targets\n\nThe new rules focus on model abuse and deceptive political tactics like impersonating candidates. Enforcement relies on user reports, not proactive detection.",
+        "3. Vague Language Sparks Backlash\n\nCritics warn that undefined terms like 'deceptive political tactics' could chill legitimate research on misinformation. Academics fear their studies might be flagged as violations.",
+        "4. Report or Get Suspended\n\nUsers now must report any suspicious prompts they encounter. Failure to do so can lead to account suspension, turning every user into an unpaid moderator.",
+        "5. Audit Your AI Use Now\n\nReview your own prompts and outputs for anything that could be flagged. Start with your last 10 conversations—if you wouldn't want them audited, change how you prompt today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic bans election interference.",
+        "But there's a loophole.",
+        "Vague rules chill research.",
+        "Users must report prompts.",
+        "Audit your AI use now."
+      ]
+    },
+    "instagram": {
+      "caption": "Starting now, if you spot a suspicious prompt and don't report it, your account can get suspended.\n\nAnthropic updated its usage policy to ban election interference, model abuse, and deceptive political tactics like impersonating candidates. Enforcement runs on user reports, not proactive detection. ⚠️\n\nCritics warn vague terms could flag legitimate misinformation research. 📉\n\nYou're now an unpaid moderator on top of your actual work. 🧑‍💻\n\nWould your last 10 prompts survive that review? 🔍"
+    }
+  },
+  "instagram_caption": "Starting now, if you spot a suspicious prompt and don't report it, your account can get suspended.\n\nAnthropic updated its usage policy to ban election interference, model abuse, and deceptive political tactics like impersonating candidates. Enforcement runs on user reports, not proactive detection. ⚠️\n\nCritics warn vague terms could flag legitimate misinformation research. 📉\n\nYou're now an unpaid moderator on top of your actual work. 🧑‍💻\n\nWould your last 10 prompts survive that review? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Is vague policy chilling legitimate research?",
+      "description": "Undefined terms like 'deceptive political tactics' could flag academic misinformation studies, risking research paralysis and self-censorship.",
+      "visual_hint": "Researcher reviewing AI policy documents",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "office desk documents"
+    },
+    {
+      "hook": "What Anthropic's new rules actually target",
+      "description": "Policy bans model abuse and candidate impersonation, but enforcement relies only on user reports, not proactive detection.",
+      "visual_hint": "AI robot with warning overlay",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot hand technology",
+      "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The loophole experts warn about",
+      "description": "Coordinated bot networks spreading false voter info through private DMs remain uncovered, letting bad actors operate unchecked.",
+      "visual_hint": "Network of anonymous messaging icons",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room network",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Report suspicious prompts or get suspended",
+      "description": "Users must now report any suspicious prompts they encounter; failure to do so can lead to account suspension, turning users into unpaid moderators.",
+      "visual_hint": "User hand reporting on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person using laptop",
+      "image": "https://images.pexels.com/photos/12902986/pexels-photo-12902986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your AI use before someone else does",
+      "description": "Review your last 10 conversations now. If you wouldn't want them audited, change how you prompt today.",
+      "visual_hint": "Checklist with AI chat logs",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard desk",
+      "image": "https://images.pexels.com/photos/6928997/pexels-photo-6928997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798",
+  "savedAt": "2026-10-09T00:03:54.751Z",
+  "sourceId": "80297d65bd412af6692e4245608a9796"
+}
