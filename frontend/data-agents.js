@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "google-s-ai-note-taking-app-transcribes-your-meeti",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+      "link": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+      "pubDate": "2026-10-08T15:27:30.000Z",
+      "slides": [
+        "Google's offline note app: does it really ignore cloud?",
+        "It transcribes meetings on your device without internet.",
+        "But how accurate is offline transcription vs cloud?",
+        "You can now record sensitive meetings without data leaving.",
+        "Test it on a confidential call; check the transcript quality."
+      ],
+      "thread_text": [
+        "1. Offline Transcription Is Here\n\nGoogle's new note app transcribes meetings on-device without internet. No cloud upload at all.",
+        "2. How Accurate Is It?\n\nOffline transcription may drop words or mishear accents compared to cloud. Accuracy trade-off is real.",
+        "3. Sensitive Meetings Safe\n\nYou can record confidential calls without data leaving your phone. This changes what's possible for privacy.",
+        "4. Test on a Real Call\n\nPick a non-critical confidential call and compare the transcript to what was said. Check for errors.",
+        "5. Your Turn to Compare\n\nTake a 5-minute call and run it through the app. Does the quality justify ditching the cloud?"
+      ],
+      "video_script": [
+        "Google's offline note app transcribes meetings without internet.",
+        "But how does its accuracy compare to cloud transcription?",
+        "You can record sensitive meetings without data leaving your device.",
+        "Test it on a confidential call and check the transcript.",
+        "Does the quality justify going offline? Try it yourself."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Offline Transcription Is Here\n\nGoogle's new note app transcribes meetings on-device without internet. No cloud upload at all.",
+            "2. How Accurate Is It?\n\nOffline transcription may drop words or mishear accents compared to cloud. Accuracy trade-off is real.",
+            "3. Sensitive Meetings Safe\n\nYou can record confidential calls without data leaving your phone. This changes what's possible for privacy.",
+            "4. Test on a Real Call\n\nPick a non-critical confidential call and compare the transcript to what was said. Check for errors.",
+            "5. Your Turn to Compare\n\nTake a 5-minute call and run it through the app. Does the quality justify ditching the cloud?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google's offline note app transcribes meetings without internet.",
+            "But how does its accuracy compare to cloud transcription?",
+            "You can record sensitive meetings without data leaving your device.",
+            "Test it on a confidential call and check the transcript.",
+            "Does the quality justify going offline? Try it yourself."
+          ]
+        },
+        "instagram": {
+          "caption": "Google’s new note app transcribes your meetings entirely on your device, no internet needed. 🔒\n\nNothing gets uploaded to the cloud, so the audio never leaves your phone.\n\nThat matters for anyone recording confidential calls or client conversations. 🎙️\n\nThe trade-off: offline transcription may drop words or mishear accents compared to cloud tools.\n\nIf you publish content from interviews or calls, this changes what you can safely record. 📱\n\nPick a 5-minute call, run it through the app, and compare the transcript to what was actually said. ⚖️\n\nWould you ditch the cloud for that quality?"
+        }
+      },
+      "instagram_caption": "Google’s new note app transcribes your meetings entirely on your device, no internet needed. 🔒\n\nNothing gets uploaded to the cloud, so the audio never leaves your phone.\n\nThat matters for anyone recording confidential calls or client conversations. 🎙️\n\nThe trade-off: offline transcription may drop words or mishear accents compared to cloud tools.\n\nIf you publish content from interviews or calls, this changes what you can safely record. 📱\n\nPick a 5-minute call, run it through the app, and compare the transcript to what was actually said. ⚖️\n\nWould you ditch the cloud for that quality?",
+      "carousel_slides": [
+        {
+          "hook": "Your meetings can stay truly offline",
+          "description": "Google's new note app transcribes meetings entirely on-device, with no cloud upload, so sensitive conversations never leave your phone.",
+          "visual_hint": "Smartphone screen showing offline recording icon",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone recording"
+        },
+        {
+          "hook": "No internet? Still get transcripts",
+          "description": "On-device processing means you can transcribe meetings even without connectivity, but you trade some accuracy for privacy.",
+          "visual_hint": "Phone with airplane mode and text appearing",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "airplane mode phone",
+          "image": "https://images.pexels.com/photos/13025073/pexels-photo-13025073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Offline accuracy vs cloud: what's lost?",
+          "description": "Offline transcription may drop words or mishear accents compared to cloud, so the convenience comes with a real trade-off.",
+          "visual_hint": "Split screen comparing text accuracy",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "text comparison screen",
+          "image": "https://images.pexels.com/photos/5206088/pexels-photo-5206088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Record sensitive calls without data leaving",
+          "description": "You can now capture confidential conversations without any data leaving your device, changing what's possible for privacy.",
+          "visual_hint": "Hand holding phone near mouth",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding phone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it on your next call",
+          "description": "Pick a non-critical confidential call, run it through the app, and compare the transcript to what was actually said.",
+          "visual_hint": "Person reviewing transcript on phone",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "reviewing transcript phone",
+          "image": "https://images.pexels.com/photos/7172820/pexels-photo-7172820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-09T08:12:51.916Z",
+      "sourceId": "8dcd29588af2a77a260be0efc8d5d2a9"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "spacexai-backs-omarchy-the-controversial-linux-dis",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+      "link": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
+      "pubDate": "2026-10-08T17:57:01.000Z",
+      "slides": [
+        "SpaceXAI just made a controversial bet.",
+        "It's investing $1.5 million in compute to back Omarchy, a Linux distro.",
+        "Omarchy's founder is known for offensive remarks—yet gets funded.",
+        "You might see more AI tools built on this distro soon.",
+        "Will your favorite open-source project compromise for cash?"
+      ],
+      "thread_text": [
+        "1. The $1.5M Linux Bet\n\nSpaceXAI is funding a Linux distribution with $1.5 million in compute credits. The distro is Omarchy, and its founder has a history of offensive remarks.",
+        "2. Who Is Omarchy's Founder?\n\nHe's known for inflammatory comments that have gotten him banned from conferences. Yet SpaceXAI decided the project was worth backing anyway.",
+        "3. Compute, Not Cash\n\nThe investment comes as compute credits, not direct cash. That means Omarchy gets access to SpaceXAI's infrastructure, tying the distro closer to the company's ecosystem.",
+        "4. AI Tools Coming Soon\n\nWith that compute, expect AI-powered tools built directly into Omarchy. Other open-source projects may follow the same playbook to survive.",
+        "5. Would Your Project Sell Out?\n\nIf your favorite open-source tool got a $1.5M compute offer from a controversial company, would it take the deal? Ask yourself where the line is."
+      ],
+      "video_script": [
+        "SpaceXAI just bet 1.5 million on a Linux distro.",
+        "The founder is known for offensive remarks.",
+        "They gave compute credits, not cash.",
+        "Expect AI tools built on this distro soon.",
+        "Would your open-source project take that deal?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The $1.5M Linux Bet\n\nSpaceXAI is funding a Linux distribution with $1.5 million in compute credits. The distro is Omarchy, and its founder has a history of offensive remarks.",
+            "2. Who Is Omarchy's Founder?\n\nHe's known for inflammatory comments that have gotten him banned from conferences. Yet SpaceXAI decided the project was worth backing anyway.",
+            "3. Compute, Not Cash\n\nThe investment comes as compute credits, not direct cash. That means Omarchy gets access to SpaceXAI's infrastructure, tying the distro closer to the company's ecosystem.",
+            "4. AI Tools Coming Soon\n\nWith that compute, expect AI-powered tools built directly into Omarchy. Other open-source projects may follow the same playbook to survive.",
+            "5. Would Your Project Sell Out?\n\nIf your favorite open-source tool got a $1.5M compute offer from a controversial company, would it take the deal? Ask yourself where the line is."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "SpaceXAI just bet 1.5 million on a Linux distro.",
+            "The founder is known for offensive remarks.",
+            "They gave compute credits, not cash.",
+            "Expect AI tools built on this distro soon.",
+            "Would your open-source project take that deal?"
+          ]
+        },
+        "instagram": {
+          "caption": "$1.5 million in compute credits just went to Omarchy, a Linux distro whose founder got banned from conferences for offensive remarks. 🖥️\n\nSpaceXAI is funding it in infrastructure access, not cash. That ties the distro directly into their ecosystem.\n\nSoon you may see AI tools built into Omarchy itself. Other open-source projects might copy this playbook to survive.\n\nIf you build or publish on open source, this is your supply chain shifting under you. 🔧\n\nWould your favorite project take the same deal? 💰"
+        }
+      },
+      "instagram_caption": "$1.5 million in compute credits just went to Omarchy, a Linux distro whose founder got banned from conferences for offensive remarks. 🖥️\n\nSpaceXAI is funding it in infrastructure access, not cash. That ties the distro directly into their ecosystem.\n\nSoon you may see AI tools built into Omarchy itself. Other open-source projects might copy this playbook to survive.\n\nIf you build or publish on open source, this is your supply chain shifting under you. 🔧\n\nWould your favorite project take the same deal? 💰",
+      "carousel_slides": [
+        {
+          "hook": "Offensive founder, funded anyway. Why?",
+          "description": "SpaceXAI invested $1.5 million in Omarchy, a Linux distro founded by someone known for offensive remarks—sparking ethical debate.",
+          "visual_hint": "Linux terminal code on screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Linux terminal screen"
+        },
+        {
+          "hook": "The $1.5M bet nobody saw coming",
+          "description": "SpaceXAI is backing Omarchy with compute credits, not cash—integrating the distro into its AI infrastructure ecosystem.",
+          "visual_hint": "Server room with glowing racks",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room racks",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Banned from conferences, still got funded",
+          "description": "Omarchy's founder made inflammatory comments that got him banned from events, yet SpaceXAI deemed the project worthy.",
+          "visual_hint": "Person standing alone at tech conference",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "tech conference crowd",
+          "image": "https://images.pexels.com/photos/28993112/pexels-photo-28993112.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI tools might land on this distro",
+          "description": "With SpaceXAI's compute, Omarchy could get integrated AI tools, setting a precedent for other open-source projects.",
+          "visual_hint": "Hands typing on laptop with AI interface",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hands typing laptop",
+          "image": "https://images.pexels.com/photos/30612694/pexels-photo-30612694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Would your favorite project take the deal?",
+          "description": "If offered $1.5M in compute from a controversial company, would your open-source project accept? Comment your thoughts.",
+          "visual_hint": "Question mark drawing on notepad",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "question mark notepad",
+          "image": "https://images.pexels.com/photos/5428824/pexels-photo-5428824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK262_GROK_A.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-09T08:12:42.694Z",
+      "sourceId": "dd63e1acf981a5e730d420bfd232bb30"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "usa-today-becomes-the-latest-publisher-to-sue-open",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "USA Today becomes the latest publisher to sue OpenAI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "pubDate": "2026-10-08T17:58:33.000Z",
+      "slides": [
+        "Why is USA Today suing OpenAI now?",
+        "The publisher alleges unauthorized use of its content.",
+        "But OpenAI claims fair use for training AI models.",
+        "If you use AI-generated news, legal risks may increase.",
+        "Check your content sourcing before publishing AI stories."
+      ],
+      "thread_text": [
+        "1. The lawsuit nobody saw coming\n\nUSA Today just sued OpenAI and Microsoft. The publisher claims its news articles were scraped without permission to train AI models.",
+        "2. OpenAI's defense? Fair use\n\nOpenAI argues that training on publicly available content is fair use. If courts agree, publishers lose control over how their work feeds AI.",
+        "3. This isn't just about news\n\nIf USA Today wins, every AI model trained on copyrighted text could face legal challenges. That includes the tools you use daily.",
+        "4. Your AI news stories are at risk\n\nIf you publish AI-generated news, you might be using content that's part of a lawsuit. The legal exposure doesn't stay with OpenAI.",
+        "5. Before you hit publish\n\nCheck where your AI gets its sources. Run one story through a plagiarism checker this week. If you can't trace it, don't post it."
+      ],
+      "video_script": [
+        "USA Today is suing OpenAI for using its news without permission.",
+        "OpenAI says training on public content is fair use.",
+        "If the publisher wins, AI tools could face huge legal problems.",
+        "Your AI-generated news might use content from this lawsuit.",
+        "Before publishing, check your sources and run a plagiarism scan."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The lawsuit nobody saw coming\n\nUSA Today just sued OpenAI and Microsoft. The publisher claims its news articles were scraped without permission to train AI models.",
+            "2. OpenAI's defense? Fair use\n\nOpenAI argues that training on publicly available content is fair use. If courts agree, publishers lose control over how their work feeds AI.",
+            "3. This isn't just about news\n\nIf USA Today wins, every AI model trained on copyrighted text could face legal challenges. That includes the tools you use daily.",
+            "4. Your AI news stories are at risk\n\nIf you publish AI-generated news, you might be using content that's part of a lawsuit. The legal exposure doesn't stay with OpenAI.",
+            "5. Before you hit publish\n\nCheck where your AI gets its sources. Run one story through a plagiarism checker this week. If you can't trace it, don't post it."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "USA Today is suing OpenAI for using its news without permission.",
+            "OpenAI says training on public content is fair use.",
+            "If the publisher wins, AI tools could face huge legal problems.",
+            "Your AI-generated news might use content from this lawsuit.",
+            "Before publishing, check your sources and run a plagiarism scan."
+          ]
+        },
+        "instagram": {
+          "caption": "A major publisher is suing OpenAI and Microsoft for scraping its articles to train AI models. 📰\n\nUSA Today says its content was used without permission.\n\nOpenAI argues training on publicly available text counts as fair use.\n\nIf courts side with publishers, every AI model built on copyrighted text faces challenges. ⚖️\n\nThat includes the tools you may use to write or publish content.\n\nIf your AI-generated news draws on contested sources, the legal exposure doesn't stay with OpenAI. 🤖\n\nCheck where your AI pulls its sources before you hit publish. Can you trace every claim back to a source you're allowed to use? 🔍"
+        }
+      },
+      "instagram_caption": "A major publisher is suing OpenAI and Microsoft for scraping its articles to train AI models. 📰\n\nUSA Today says its content was used without permission.\n\nOpenAI argues training on publicly available text counts as fair use.\n\nIf courts side with publishers, every AI model built on copyrighted text faces challenges. ⚖️\n\nThat includes the tools you may use to write or publish content.\n\nIf your AI-generated news draws on contested sources, the legal exposure doesn't stay with OpenAI. 🤖\n\nCheck where your AI pulls its sources before you hit publish. Can you trace every claim back to a source you're allowed to use? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Is your AI news story legally safe?",
+          "description": "USA Today sues OpenAI over unauthorized content scraping, arguing fair use doesn't apply to news articles.",
+          "visual_hint": "Gavel on desk with legal papers",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "courtroom gavel"
+        },
+        {
+          "hook": "Publisher says its content was stolen",
+          "description": "USA Today alleges OpenAI scraped its articles without permission, threatening publisher control over work feeding AI.",
+          "visual_hint": "Newspaper stack next to laptop",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "newspaper stack",
+          "image": "https://images.pexels.com/photos/14604033/pexels-photo-14604033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "OpenAI fights back with fair use",
+          "description": "OpenAI claims training on publicly available content is fair use, but if courts agree, publishers lose control.",
+          "visual_hint": "Server room with glowing data cables",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI tools could be next",
+          "description": "If USA Today wins, every AI model trained on copyrighted text faces legal challenges, including daily tools you use.",
+          "visual_hint": "Hand holding smartphone with news feed",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone news feed",
+          "image": "https://images.pexels.com/photos/15226552/pexels-photo-15226552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before you publish AI news",
+          "description": "Run one story through a plagiarism checker this week. If you can't trace the source, don't post it.",
+          "visual_hint": "Plagiarism check tool on laptop screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "plagiarism checker",
+          "image": "https://images.pexels.com/photos/7968080/pexels-photo-7968080.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-09T08:12:32.850Z",
+      "sourceId": "c24725d4c0d472104f5d0c5fd37e61af"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "natura-s-99-smart-ring-puts-ai-agents-on-your-fing",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "pubDate": "Thu, 08 Oct 2026 16:00:00 +0000",
+      "slides": [
+        "What if $99 put an AI agent on your finger?",
+        "Natura's smart ring goes beyond tracking.",
+        "AI agents negotiate and act on your behalf.",
+        "You'll soon delegate routine interactions to a ring.",
+        "Test one real negotiation with it this week."
+      ],
+      "thread_text": [
+        "1. $99 AI Agent on Your Finger?\n\nNatura's smart ring now does more than track sleep. It negotiates and acts on your behalf.",
+        "2. Beyond Tracking\n\nThis ring uses AI agents to handle routine interactions. You can delegate tasks like scheduling and booking.",
+        "3. AI Agents That Negotiate\n\nThey don't just suggest—they act. For example, they can haggle over prices or reschedule appointments autonomously.",
+        "4. Delegating Routine Interactions\n\nSoon you'll offload daily back-and-forth to your ring. It frees you to focus on high-value work.",
+        "5. Test It This Week\n\nTake one real negotiation—like a bill dispute—and simulate it with an AI agent. If you haven't, start there."
+      ],
+      "video_script": [
+        "What if a ninety-nine dollar ring could act for you?",
+        "This smart ring goes beyond tracking—it negotiates.",
+        "AI agents inside handle routine talks on your behalf.",
+        "Soon you'll delegate daily interactions to your finger.",
+        "Test one real negotiation with an AI agent this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $99 AI Agent on Your Finger?\n\nNatura's smart ring now does more than track sleep. It negotiates and acts on your behalf.",
+            "2. Beyond Tracking\n\nThis ring uses AI agents to handle routine interactions. You can delegate tasks like scheduling and booking.",
+            "3. AI Agents That Negotiate\n\nThey don't just suggest—they act. For example, they can haggle over prices or reschedule appointments autonomously.",
+            "4. Delegating Routine Interactions\n\nSoon you'll offload daily back-and-forth to your ring. It frees you to focus on high-value work.",
+            "5. Test It This Week\n\nTake one real negotiation—like a bill dispute—and simulate it with an AI agent. If you haven't, start there."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "What if a ninety-nine dollar ring could act for you?",
+            "This smart ring goes beyond tracking—it negotiates.",
+            "AI agents inside handle routine talks on your behalf.",
+            "Soon you'll delegate daily interactions to your finger.",
+            "Test one real negotiation with an AI agent this week."
+          ]
+        },
+        "instagram": {
+          "caption": "For $99, you can slip a ring on your finger that doesn't just track your sleep — it negotiates for you.\n\nNatura's smart ring runs AI agents that act on your behalf, not just suggest. 🤖\n\nThey can haggle over prices or reschedule appointments on their own.\n\nIf you run content or a small business, this means offloading routine back-and-forth to your finger. 💍\n\nThat frees you for high-value work instead of emails.\n\nPick one real negotiation this week — like a bill dispute — and test whether an AI agent handles it. 👇\n\nWould you actually let a ring talk to people for you? 🤔"
+        }
+      },
+      "instagram_caption": "For $99, you can slip a ring on your finger that doesn't just track your sleep — it negotiates for you.\n\nNatura's smart ring runs AI agents that act on your behalf, not just suggest. 🤖\n\nThey can haggle over prices or reschedule appointments on their own.\n\nIf you run content or a small business, this means offloading routine back-and-forth to your finger. 💍\n\nThat frees you for high-value work instead of emails.\n\nPick one real negotiation this week — like a bill dispute — and test whether an AI agent handles it. 👇\n\nWould you actually let a ring talk to people for you? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Why pay more for an AI agent?",
+          "description": "Natura's $99 smart ring now negotiates and acts on your behalf, not just tracks sleep. This changes everything about wearable tech.",
+          "visual_hint": "Smart ring on fingertip, glowing",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smart ring"
+        },
+        {
+          "hook": "This ring does more than track",
+          "description": "It leverages AI agents to handle routine interactions like scheduling and booking, moving far beyond simple fitness metrics.",
+          "visual_hint": "Close-up of ring's smart sensors",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "fitness tracker",
+          "image": "https://images.pexels.com/photos/5081914/pexels-photo-5081914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "They don't suggest—they act",
+          "description": "AI agents inside the ring can haggle over prices or reschedule appointments autonomously, without you lifting a finger.",
+          "visual_hint": "Digital handshake over a contract",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "contract signing",
+          "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Delegate daily back-and-forth to your ring",
+          "description": "Soon you'll offload routine negotiations, freeing your time for high-value work while the ring handles the rest.",
+          "visual_hint": "Hand relaxed, ring active",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "busy office worker",
+          "image": "https://images.pexels.com/photos/9068366/pexels-photo-9068366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this for your first AI negotiation",
+          "description": "Take one real negotiation like a bill dispute and simulate it with an AI agent this week. Start now.",
+          "visual_hint": "Phone screen with chat interface",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone chat",
+          "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?resize=1200,491",
+      "savedAt": "2026-10-09T08:12:22.722Z",
+      "sourceId": "02f01addd62e86c2ed4b13ae6b5601cc"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "anthropic-launches-free-ai-security-scans-for-open",
       "prompt_version": "1.0.0",
       "status": "published",

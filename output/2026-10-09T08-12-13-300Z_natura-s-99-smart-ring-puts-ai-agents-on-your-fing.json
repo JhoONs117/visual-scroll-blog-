@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "natura-s-99-smart-ring-puts-ai-agents-on-your-fing",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Natura’s $99 smart ring puts AI agents on your finger",
+  "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+  "pubDate": "Thu, 08 Oct 2026 16:00:00 +0000",
+  "slides": [
+    "What if $99 put an AI agent on your finger?",
+    "Natura's smart ring goes beyond tracking.",
+    "AI agents negotiate and act on your behalf.",
+    "You'll soon delegate routine interactions to a ring.",
+    "Test one real negotiation with it this week."
+  ],
+  "thread_text": [
+    "1. $99 AI Agent on Your Finger?\n\nNatura's smart ring now does more than track sleep. It negotiates and acts on your behalf.",
+    "2. Beyond Tracking\n\nThis ring uses AI agents to handle routine interactions. You can delegate tasks like scheduling and booking.",
+    "3. AI Agents That Negotiate\n\nThey don't just suggest—they act. For example, they can haggle over prices or reschedule appointments autonomously.",
+    "4. Delegating Routine Interactions\n\nSoon you'll offload daily back-and-forth to your ring. It frees you to focus on high-value work.",
+    "5. Test It This Week\n\nTake one real negotiation—like a bill dispute—and simulate it with an AI agent. If you haven't, start there."
+  ],
+  "video_script": [
+    "What if a ninety-nine dollar ring could act for you?",
+    "This smart ring goes beyond tracking—it negotiates.",
+    "AI agents inside handle routine talks on your behalf.",
+    "Soon you'll delegate daily interactions to your finger.",
+    "Test one real negotiation with an AI agent this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $99 AI Agent on Your Finger?\n\nNatura's smart ring now does more than track sleep. It negotiates and acts on your behalf.",
+        "2. Beyond Tracking\n\nThis ring uses AI agents to handle routine interactions. You can delegate tasks like scheduling and booking.",
+        "3. AI Agents That Negotiate\n\nThey don't just suggest—they act. For example, they can haggle over prices or reschedule appointments autonomously.",
+        "4. Delegating Routine Interactions\n\nSoon you'll offload daily back-and-forth to your ring. It frees you to focus on high-value work.",
+        "5. Test It This Week\n\nTake one real negotiation—like a bill dispute—and simulate it with an AI agent. If you haven't, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "What if a ninety-nine dollar ring could act for you?",
+        "This smart ring goes beyond tracking—it negotiates.",
+        "AI agents inside handle routine talks on your behalf.",
+        "Soon you'll delegate daily interactions to your finger.",
+        "Test one real negotiation with an AI agent this week."
+      ]
+    },
+    "instagram": {
+      "caption": "For $99, you can slip a ring on your finger that doesn't just track your sleep — it negotiates for you.\n\nNatura's smart ring runs AI agents that act on your behalf, not just suggest. 🤖\n\nThey can haggle over prices or reschedule appointments on their own.\n\nIf you run content or a small business, this means offloading routine back-and-forth to your finger. 💍\n\nThat frees you for high-value work instead of emails.\n\nPick one real negotiation this week — like a bill dispute — and test whether an AI agent handles it. 👇\n\nWould you actually let a ring talk to people for you? 🤔"
+    }
+  },
+  "instagram_caption": "For $99, you can slip a ring on your finger that doesn't just track your sleep — it negotiates for you.\n\nNatura's smart ring runs AI agents that act on your behalf, not just suggest. 🤖\n\nThey can haggle over prices or reschedule appointments on their own.\n\nIf you run content or a small business, this means offloading routine back-and-forth to your finger. 💍\n\nThat frees you for high-value work instead of emails.\n\nPick one real negotiation this week — like a bill dispute — and test whether an AI agent handles it. 👇\n\nWould you actually let a ring talk to people for you? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Why pay more for an AI agent?",
+      "description": "Natura's $99 smart ring now negotiates and acts on your behalf, not just tracks sleep. This changes everything about wearable tech.",
+      "visual_hint": "Smart ring on fingertip, glowing",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smart ring"
+    },
+    {
+      "hook": "This ring does more than track",
+      "description": "It leverages AI agents to handle routine interactions like scheduling and booking, moving far beyond simple fitness metrics.",
+      "visual_hint": "Close-up of ring's smart sensors",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "fitness tracker",
+      "image": "https://images.pexels.com/photos/5081914/pexels-photo-5081914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "They don't suggest—they act",
+      "description": "AI agents inside the ring can haggle over prices or reschedule appointments autonomously, without you lifting a finger.",
+      "visual_hint": "Digital handshake over a contract",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "contract signing",
+      "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Delegate daily back-and-forth to your ring",
+      "description": "Soon you'll offload routine negotiations, freeing your time for high-value work while the ring handles the rest.",
+      "visual_hint": "Hand relaxed, ring active",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "busy office worker",
+      "image": "https://images.pexels.com/photos/9068366/pexels-photo-9068366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your first AI negotiation",
+      "description": "Take one real negotiation like a bill dispute and simulate it with an AI agent this week. Start now.",
+      "visual_hint": "Phone screen with chat interface",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone chat",
+      "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?resize=1200,491",
+  "savedAt": "2026-10-09T08:12:22.722Z",
+  "sourceId": "02f01addd62e86c2ed4b13ae6b5601cc"
+}

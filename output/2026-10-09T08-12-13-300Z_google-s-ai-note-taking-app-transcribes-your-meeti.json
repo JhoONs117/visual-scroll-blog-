@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-s-ai-note-taking-app-transcribes-your-meeti",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+  "link": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+  "pubDate": "2026-10-08T15:27:30.000Z",
+  "slides": [
+    "Google's offline note app: does it really ignore cloud?",
+    "It transcribes meetings on your device without internet.",
+    "But how accurate is offline transcription vs cloud?",
+    "You can now record sensitive meetings without data leaving.",
+    "Test it on a confidential call; check the transcript quality."
+  ],
+  "thread_text": [
+    "1. Offline Transcription Is Here\n\nGoogle's new note app transcribes meetings on-device without internet. No cloud upload at all.",
+    "2. How Accurate Is It?\n\nOffline transcription may drop words or mishear accents compared to cloud. Accuracy trade-off is real.",
+    "3. Sensitive Meetings Safe\n\nYou can record confidential calls without data leaving your phone. This changes what's possible for privacy.",
+    "4. Test on a Real Call\n\nPick a non-critical confidential call and compare the transcript to what was said. Check for errors.",
+    "5. Your Turn to Compare\n\nTake a 5-minute call and run it through the app. Does the quality justify ditching the cloud?"
+  ],
+  "video_script": [
+    "Google's offline note app transcribes meetings without internet.",
+    "But how does its accuracy compare to cloud transcription?",
+    "You can record sensitive meetings without data leaving your device.",
+    "Test it on a confidential call and check the transcript.",
+    "Does the quality justify going offline? Try it yourself."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Offline Transcription Is Here\n\nGoogle's new note app transcribes meetings on-device without internet. No cloud upload at all.",
+        "2. How Accurate Is It?\n\nOffline transcription may drop words or mishear accents compared to cloud. Accuracy trade-off is real.",
+        "3. Sensitive Meetings Safe\n\nYou can record confidential calls without data leaving your phone. This changes what's possible for privacy.",
+        "4. Test on a Real Call\n\nPick a non-critical confidential call and compare the transcript to what was said. Check for errors.",
+        "5. Your Turn to Compare\n\nTake a 5-minute call and run it through the app. Does the quality justify ditching the cloud?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google's offline note app transcribes meetings without internet.",
+        "But how does its accuracy compare to cloud transcription?",
+        "You can record sensitive meetings without data leaving your device.",
+        "Test it on a confidential call and check the transcript.",
+        "Does the quality justify going offline? Try it yourself."
+      ]
+    },
+    "instagram": {
+      "caption": "Google’s new note app transcribes your meetings entirely on your device, no internet needed. 🔒\n\nNothing gets uploaded to the cloud, so the audio never leaves your phone.\n\nThat matters for anyone recording confidential calls or client conversations. 🎙️\n\nThe trade-off: offline transcription may drop words or mishear accents compared to cloud tools.\n\nIf you publish content from interviews or calls, this changes what you can safely record. 📱\n\nPick a 5-minute call, run it through the app, and compare the transcript to what was actually said. ⚖️\n\nWould you ditch the cloud for that quality?"
+    }
+  },
+  "instagram_caption": "Google’s new note app transcribes your meetings entirely on your device, no internet needed. 🔒\n\nNothing gets uploaded to the cloud, so the audio never leaves your phone.\n\nThat matters for anyone recording confidential calls or client conversations. 🎙️\n\nThe trade-off: offline transcription may drop words or mishear accents compared to cloud tools.\n\nIf you publish content from interviews or calls, this changes what you can safely record. 📱\n\nPick a 5-minute call, run it through the app, and compare the transcript to what was actually said. ⚖️\n\nWould you ditch the cloud for that quality?",
+  "carousel_slides": [
+    {
+      "hook": "Your meetings can stay truly offline",
+      "description": "Google's new note app transcribes meetings entirely on-device, with no cloud upload, so sensitive conversations never leave your phone.",
+      "visual_hint": "Smartphone screen showing offline recording icon",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone recording"
+    },
+    {
+      "hook": "No internet? Still get transcripts",
+      "description": "On-device processing means you can transcribe meetings even without connectivity, but you trade some accuracy for privacy.",
+      "visual_hint": "Phone with airplane mode and text appearing",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "airplane mode phone",
+      "image": "https://images.pexels.com/photos/13025073/pexels-photo-13025073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Offline accuracy vs cloud: what's lost?",
+      "description": "Offline transcription may drop words or mishear accents compared to cloud, so the convenience comes with a real trade-off.",
+      "visual_hint": "Split screen comparing text accuracy",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "text comparison screen",
+      "image": "https://images.pexels.com/photos/5206088/pexels-photo-5206088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Record sensitive calls without data leaving",
+      "description": "You can now capture confidential conversations without any data leaving your device, changing what's possible for privacy.",
+      "visual_hint": "Hand holding phone near mouth",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding phone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it on your next call",
+      "description": "Pick a non-critical confidential call, run it through the app, and compare the transcript to what was actually said.",
+      "visual_hint": "Person reviewing transcript on phone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "reviewing transcript phone",
+      "image": "https://images.pexels.com/photos/7172820/pexels-photo-7172820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-09T08:12:51.916Z",
+  "sourceId": "8dcd29588af2a77a260be0efc8d5d2a9"
+}

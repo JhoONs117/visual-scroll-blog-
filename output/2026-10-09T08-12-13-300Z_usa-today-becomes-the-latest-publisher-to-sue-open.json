@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "usa-today-becomes-the-latest-publisher-to-sue-open",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "USA Today becomes the latest publisher to sue OpenAI",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+  "pubDate": "2026-10-08T17:58:33.000Z",
+  "slides": [
+    "Why is USA Today suing OpenAI now?",
+    "The publisher alleges unauthorized use of its content.",
+    "But OpenAI claims fair use for training AI models.",
+    "If you use AI-generated news, legal risks may increase.",
+    "Check your content sourcing before publishing AI stories."
+  ],
+  "thread_text": [
+    "1. The lawsuit nobody saw coming\n\nUSA Today just sued OpenAI and Microsoft. The publisher claims its news articles were scraped without permission to train AI models.",
+    "2. OpenAI's defense? Fair use\n\nOpenAI argues that training on publicly available content is fair use. If courts agree, publishers lose control over how their work feeds AI.",
+    "3. This isn't just about news\n\nIf USA Today wins, every AI model trained on copyrighted text could face legal challenges. That includes the tools you use daily.",
+    "4. Your AI news stories are at risk\n\nIf you publish AI-generated news, you might be using content that's part of a lawsuit. The legal exposure doesn't stay with OpenAI.",
+    "5. Before you hit publish\n\nCheck where your AI gets its sources. Run one story through a plagiarism checker this week. If you can't trace it, don't post it."
+  ],
+  "video_script": [
+    "USA Today is suing OpenAI for using its news without permission.",
+    "OpenAI says training on public content is fair use.",
+    "If the publisher wins, AI tools could face huge legal problems.",
+    "Your AI-generated news might use content from this lawsuit.",
+    "Before publishing, check your sources and run a plagiarism scan."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The lawsuit nobody saw coming\n\nUSA Today just sued OpenAI and Microsoft. The publisher claims its news articles were scraped without permission to train AI models.",
+        "2. OpenAI's defense? Fair use\n\nOpenAI argues that training on publicly available content is fair use. If courts agree, publishers lose control over how their work feeds AI.",
+        "3. This isn't just about news\n\nIf USA Today wins, every AI model trained on copyrighted text could face legal challenges. That includes the tools you use daily.",
+        "4. Your AI news stories are at risk\n\nIf you publish AI-generated news, you might be using content that's part of a lawsuit. The legal exposure doesn't stay with OpenAI.",
+        "5. Before you hit publish\n\nCheck where your AI gets its sources. Run one story through a plagiarism checker this week. If you can't trace it, don't post it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "USA Today is suing OpenAI for using its news without permission.",
+        "OpenAI says training on public content is fair use.",
+        "If the publisher wins, AI tools could face huge legal problems.",
+        "Your AI-generated news might use content from this lawsuit.",
+        "Before publishing, check your sources and run a plagiarism scan."
+      ]
+    },
+    "instagram": {
+      "caption": "A major publisher is suing OpenAI and Microsoft for scraping its articles to train AI models. 📰\n\nUSA Today says its content was used without permission.\n\nOpenAI argues training on publicly available text counts as fair use.\n\nIf courts side with publishers, every AI model built on copyrighted text faces challenges. ⚖️\n\nThat includes the tools you may use to write or publish content.\n\nIf your AI-generated news draws on contested sources, the legal exposure doesn't stay with OpenAI. 🤖\n\nCheck where your AI pulls its sources before you hit publish. Can you trace every claim back to a source you're allowed to use? 🔍"
+    }
+  },
+  "instagram_caption": "A major publisher is suing OpenAI and Microsoft for scraping its articles to train AI models. 📰\n\nUSA Today says its content was used without permission.\n\nOpenAI argues training on publicly available text counts as fair use.\n\nIf courts side with publishers, every AI model built on copyrighted text faces challenges. ⚖️\n\nThat includes the tools you may use to write or publish content.\n\nIf your AI-generated news draws on contested sources, the legal exposure doesn't stay with OpenAI. 🤖\n\nCheck where your AI pulls its sources before you hit publish. Can you trace every claim back to a source you're allowed to use? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Is your AI news story legally safe?",
+      "description": "USA Today sues OpenAI over unauthorized content scraping, arguing fair use doesn't apply to news articles.",
+      "visual_hint": "Gavel on desk with legal papers",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "courtroom gavel"
+    },
+    {
+      "hook": "Publisher says its content was stolen",
+      "description": "USA Today alleges OpenAI scraped its articles without permission, threatening publisher control over work feeding AI.",
+      "visual_hint": "Newspaper stack next to laptop",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "newspaper stack",
+      "image": "https://images.pexels.com/photos/14604033/pexels-photo-14604033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "OpenAI fights back with fair use",
+      "description": "OpenAI claims training on publicly available content is fair use, but if courts agree, publishers lose control.",
+      "visual_hint": "Server room with glowing data cables",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI tools could be next",
+      "description": "If USA Today wins, every AI model trained on copyrighted text faces legal challenges, including daily tools you use.",
+      "visual_hint": "Hand holding smartphone with news feed",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone news feed",
+      "image": "https://images.pexels.com/photos/15226552/pexels-photo-15226552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you publish AI news",
+      "description": "Run one story through a plagiarism checker this week. If you can't trace the source, don't post it.",
+      "visual_hint": "Plagiarism check tool on laptop screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "plagiarism checker",
+      "image": "https://images.pexels.com/photos/7968080/pexels-photo-7968080.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-09T08:12:32.850Z",
+  "sourceId": "c24725d4c0d472104f5d0c5fd37e61af"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "spacexai-backs-omarchy-the-controversial-linux-dis",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+  "link": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
+  "pubDate": "2026-10-08T17:57:01.000Z",
+  "slides": [
+    "SpaceXAI just made a controversial bet.",
+    "It's investing $1.5 million in compute to back Omarchy, a Linux distro.",
+    "Omarchy's founder is known for offensive remarks—yet gets funded.",
+    "You might see more AI tools built on this distro soon.",
+    "Will your favorite open-source project compromise for cash?"
+  ],
+  "thread_text": [
+    "1. The $1.5M Linux Bet\n\nSpaceXAI is funding a Linux distribution with $1.5 million in compute credits. The distro is Omarchy, and its founder has a history of offensive remarks.",
+    "2. Who Is Omarchy's Founder?\n\nHe's known for inflammatory comments that have gotten him banned from conferences. Yet SpaceXAI decided the project was worth backing anyway.",
+    "3. Compute, Not Cash\n\nThe investment comes as compute credits, not direct cash. That means Omarchy gets access to SpaceXAI's infrastructure, tying the distro closer to the company's ecosystem.",
+    "4. AI Tools Coming Soon\n\nWith that compute, expect AI-powered tools built directly into Omarchy. Other open-source projects may follow the same playbook to survive.",
+    "5. Would Your Project Sell Out?\n\nIf your favorite open-source tool got a $1.5M compute offer from a controversial company, would it take the deal? Ask yourself where the line is."
+  ],
+  "video_script": [
+    "SpaceXAI just bet 1.5 million on a Linux distro.",
+    "The founder is known for offensive remarks.",
+    "They gave compute credits, not cash.",
+    "Expect AI tools built on this distro soon.",
+    "Would your open-source project take that deal?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $1.5M Linux Bet\n\nSpaceXAI is funding a Linux distribution with $1.5 million in compute credits. The distro is Omarchy, and its founder has a history of offensive remarks.",
+        "2. Who Is Omarchy's Founder?\n\nHe's known for inflammatory comments that have gotten him banned from conferences. Yet SpaceXAI decided the project was worth backing anyway.",
+        "3. Compute, Not Cash\n\nThe investment comes as compute credits, not direct cash. That means Omarchy gets access to SpaceXAI's infrastructure, tying the distro closer to the company's ecosystem.",
+        "4. AI Tools Coming Soon\n\nWith that compute, expect AI-powered tools built directly into Omarchy. Other open-source projects may follow the same playbook to survive.",
+        "5. Would Your Project Sell Out?\n\nIf your favorite open-source tool got a $1.5M compute offer from a controversial company, would it take the deal? Ask yourself where the line is."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "SpaceXAI just bet 1.5 million on a Linux distro.",
+        "The founder is known for offensive remarks.",
+        "They gave compute credits, not cash.",
+        "Expect AI tools built on this distro soon.",
+        "Would your open-source project take that deal?"
+      ]
+    },
+    "instagram": {
+      "caption": "$1.5 million in compute credits just went to Omarchy, a Linux distro whose founder got banned from conferences for offensive remarks. 🖥️\n\nSpaceXAI is funding it in infrastructure access, not cash. That ties the distro directly into their ecosystem.\n\nSoon you may see AI tools built into Omarchy itself. Other open-source projects might copy this playbook to survive.\n\nIf you build or publish on open source, this is your supply chain shifting under you. 🔧\n\nWould your favorite project take the same deal? 💰"
+    }
+  },
+  "instagram_caption": "$1.5 million in compute credits just went to Omarchy, a Linux distro whose founder got banned from conferences for offensive remarks. 🖥️\n\nSpaceXAI is funding it in infrastructure access, not cash. That ties the distro directly into their ecosystem.\n\nSoon you may see AI tools built into Omarchy itself. Other open-source projects might copy this playbook to survive.\n\nIf you build or publish on open source, this is your supply chain shifting under you. 🔧\n\nWould your favorite project take the same deal? 💰",
+  "carousel_slides": [
+    {
+      "hook": "Offensive founder, funded anyway. Why?",
+      "description": "SpaceXAI invested $1.5 million in Omarchy, a Linux distro founded by someone known for offensive remarks—sparking ethical debate.",
+      "visual_hint": "Linux terminal code on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Linux terminal screen"
+    },
+    {
+      "hook": "The $1.5M bet nobody saw coming",
+      "description": "SpaceXAI is backing Omarchy with compute credits, not cash—integrating the distro into its AI infrastructure ecosystem.",
+      "visual_hint": "Server room with glowing racks",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room racks",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Banned from conferences, still got funded",
+      "description": "Omarchy's founder made inflammatory comments that got him banned from events, yet SpaceXAI deemed the project worthy.",
+      "visual_hint": "Person standing alone at tech conference",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "tech conference crowd",
+      "image": "https://images.pexels.com/photos/28993112/pexels-photo-28993112.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI tools might land on this distro",
+      "description": "With SpaceXAI's compute, Omarchy could get integrated AI tools, setting a precedent for other open-source projects.",
+      "visual_hint": "Hands typing on laptop with AI interface",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands typing laptop",
+      "image": "https://images.pexels.com/photos/30612694/pexels-photo-30612694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Would your favorite project take the deal?",
+      "description": "If offered $1.5M in compute from a controversial company, would your open-source project accept? Comment your thoughts.",
+      "visual_hint": "Question mark drawing on notepad",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "question mark notepad",
+      "image": "https://images.pexels.com/photos/5428824/pexels-photo-5428824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK262_GROK_A.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-09T08:12:42.694Z",
+  "sourceId": "dd63e1acf981a5e730d420bfd232bb30"
+}
