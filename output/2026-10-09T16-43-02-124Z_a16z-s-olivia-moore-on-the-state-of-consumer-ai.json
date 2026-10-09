@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "a16z-s-olivia-moore-on-the-state-of-consumer-ai",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "a16z’s Olivia Moore on the state of consumer AI",
+  "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+  "pubDate": "Fri, 09 Oct 2026 15:43:33 +0000",
+  "slides": [
+    "Is consumer AI the next big platform shift?",
+    "a16z's Olivia Moore analyzes the landscape",
+    "Most growth comes from unexpected non-tech sectors",
+    "Your daily tools will soon have AI baked in",
+    "Start testing one consumer AI app today"
+  ],
+  "thread_text": [
+    "1. The Shift Nobody Saw Coming\n\nConsumer AI is quietly becoming the next platform shift. Olivia Moore from a16z just mapped where the real growth is, and it's not where you'd expect.",
+    "2. A16z's Olivia Moore Digs In\n\nShe analyzed the landscape and found most traction isn't coming from tech hubs. It's from sectors that have nothing to do with Silicon Valley.",
+    "3. Non-Tech Sectors Are Leading\n\nFarmers, teachers, and small retailers are adopting AI tools faster than software engineers. The unexpected users are driving the numbers.",
+    "4. Your Daily Tools Are Next\n\nEvery app you open tomorrow—email, calendar, notes—will have AI baked in. Not as a feature, but as the default interface. The question is who controls it.",
+    "5. Test One App This Week\n\nDownload a consumer AI app you've never tried. Spend 10 minutes on a real task. Does it save you time, or just add another step? Tell me what you find."
+  ],
+  "video_script": [
+    "Consumer AI might be the next big platform shift.",
+    "Olivia Moore from a16z analyzed the landscape.",
+    "Most growth comes from unexpected non-tech sectors.",
+    "Your daily tools will soon have AI baked in.",
+    "Start testing one consumer AI app today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Shift Nobody Saw Coming\n\nConsumer AI is quietly becoming the next platform shift. Olivia Moore from a16z just mapped where the real growth is, and it's not where you'd expect.",
+        "2. A16z's Olivia Moore Digs In\n\nShe analyzed the landscape and found most traction isn't coming from tech hubs. It's from sectors that have nothing to do with Silicon Valley.",
+        "3. Non-Tech Sectors Are Leading\n\nFarmers, teachers, and small retailers are adopting AI tools faster than software engineers. The unexpected users are driving the numbers.",
+        "4. Your Daily Tools Are Next\n\nEvery app you open tomorrow—email, calendar, notes—will have AI baked in. Not as a feature, but as the default interface. The question is who controls it.",
+        "5. Test One App This Week\n\nDownload a consumer AI app you've never tried. Spend 10 minutes on a real task. Does it save you time, or just add another step? Tell me what you find."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Consumer AI might be the next big platform shift.",
+        "Olivia Moore from a16z analyzed the landscape.",
+        "Most growth comes from unexpected non-tech sectors.",
+        "Your daily tools will soon have AI baked in.",
+        "Start testing one consumer AI app today."
+      ]
+    },
+    "instagram": {
+      "caption": "Farmers and teachers are picking up AI faster than software engineers.\n\nThat's not a guess. It's what Olivia Moore from a16z found when she mapped where consumer AI is actually growing. Most traction comes from non-tech sectors, not Silicon Valley. 🚜\n\nSoon your email, calendar and notes won't have AI as a feature. It'll be the default interface. 🧠\n\nThat shift decides which tools you'll open every day for work.\n\nWhich app did you try this week that actually saved you time? 👇"
+    }
+  },
+  "instagram_caption": "Farmers and teachers are picking up AI faster than software engineers.\n\nThat's not a guess. It's what Olivia Moore from a16z found when she mapped where consumer AI is actually growing. Most traction comes from non-tech sectors, not Silicon Valley. 🚜\n\nSoon your email, calendar and notes won't have AI as a feature. It'll be the default interface. 🧠\n\nThat shift decides which tools you'll open every day for work.\n\nWhich app did you try this week that actually saved you time? 👇",
+  "carousel_slides": [
+    {
+      "hook": "Who's really driving consumer AI growth?",
+      "description": "Farmers, teachers, and small retailers adopt AI faster than engineers, shifting the entire platform landscape.",
+      "visual_hint": "Farmer using tablet in field",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "farmer tablet field"
+    },
+    {
+      "hook": "a16z's Olivia Moore maps the shift",
+      "description": "Her analysis shows traction isn't from Silicon Valley, but from unexpected non-tech sectors embracing AI tools.",
+      "visual_hint": "Analyst reviewing growth charts",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non-tech sectors are leading adoption",
+      "description": "Teachers, farmers, and retailers use AI daily, outpacing software engineers and reshaping who benefits from this technology.",
+      "visual_hint": "Teacher with AI classroom tool",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "classroom students tablet",
+      "image": "https://images.pexels.com/photos/5306457/pexels-photo-5306457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your daily apps will have AI baked in",
+      "description": "Email, calendar, and notes will soon default to AI interfaces, not optional features. Who controls them matters.",
+      "visual_hint": "Hand holding phone with AI interface",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone email app",
+      "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one AI app this week",
+      "description": "Download a consumer AI app, spend 10 minutes on a real task, then comment if it saved time or added steps.",
+      "visual_hint": "Phone with app download screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "mobile app screen",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Olivia-Moore-Headshot-2026.jpg?w=896",
+  "savedAt": "2026-10-09T16:43:18.420Z",
+  "sourceId": "80b34c260cbbb646a153d65fcf871a5e"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-doubles-down-on-decision-to-fire-three-ai-s",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+  "pubDate": "2026-10-09T09:48:26.000Z",
+  "slides": [
+    "Why did OpenAI fire three safety researchers?",
+    "The team had flagged risks in internal models",
+    "But OpenAI claims they leaked confidential information",
+    "Your AI tools may lose safety guardrails soon",
+    "Ask your vendor what safety team remains"
+  ],
+  "thread_text": [
+    "1. OpenAI fires safety team\n\nThree researchers who flagged internal model risks were let go. OpenAI says they leaked confidential information. The timing raises questions.",
+    "2. What they warned about\n\nThe team had raised alarms about risks in unreleased AI models. Their concerns included potential misuse and lack of safeguards.",
+    "3. The leak accusation\n\nOpenAI claims the researchers shared confidential info. The fired employees deny wrongdoing. The dispute is now public.",
+    "4. Your tools at risk\n\nIf safety teams shrink, guardrails on AI products may weaken. That could affect everything from chatbots to coding assistants.",
+    "5. Ask your vendor now\n\nCheck if your AI provider still has a dedicated safety team. If not, demand transparency. Your data and users depend on it."
+  ],
+  "video_script": [
+    "OpenAI fired three safety researchers.",
+    "They had warned about risks in internal models.",
+    "OpenAI says they leaked confidential information.",
+    "Your AI tools may lose safety guardrails soon.",
+    "Ask your vendor what safety team remains."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI fires safety team\n\nThree researchers who flagged internal model risks were let go. OpenAI says they leaked confidential information. The timing raises questions.",
+        "2. What they warned about\n\nThe team had raised alarms about risks in unreleased AI models. Their concerns included potential misuse and lack of safeguards.",
+        "3. The leak accusation\n\nOpenAI claims the researchers shared confidential info. The fired employees deny wrongdoing. The dispute is now public.",
+        "4. Your tools at risk\n\nIf safety teams shrink, guardrails on AI products may weaken. That could affect everything from chatbots to coding assistants.",
+        "5. Ask your vendor now\n\nCheck if your AI provider still has a dedicated safety team. If not, demand transparency. Your data and users depend on it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI fired three safety researchers.",
+        "They had warned about risks in internal models.",
+        "OpenAI says they leaked confidential information.",
+        "Your AI tools may lose safety guardrails soon.",
+        "Ask your vendor what safety team remains."
+      ]
+    },
+    "instagram": {
+      "caption": "Three researchers raised alarms about risks in unreleased models and were fired.\n\nOpenAI says they leaked confidential info. The researchers deny it 🔒\n\nCompany says it stands by the decision.\n\nIf safety teams shrink, guardrails on chatbots and coding tools can weaken fast ⚠️\n\nSo ask your AI vendor one thing: who's still on the safety team? 🧐\n\nIf they can't answer, that silence tells you plenty 👀"
+    }
+  },
+  "instagram_caption": "Three researchers raised alarms about risks in unreleased models and were fired.\n\nOpenAI says they leaked confidential info. The researchers deny it 🔒\n\nCompany says it stands by the decision.\n\nIf safety teams shrink, guardrails on chatbots and coding tools can weaken fast ⚠️\n\nSo ask your AI vendor one thing: who's still on the safety team? 🧐\n\nIf they can't answer, that silence tells you plenty 👀",
+  "carousel_slides": [
+    {
+      "hook": "Is your AI still safe?",
+      "description": "OpenAI fired three researchers who flagged risks in unreleased models. The company says they leaked confidential information.",
+      "visual_hint": "Dimly lit server room with glowing red lights",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "They warned about model misuse",
+      "description": "The safety team raised alarms about potential misuse and missing safeguards in unreleased AI models before being let go.",
+      "visual_hint": "Laptop screen showing warning alert symbols",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "warning sign",
+      "image": "https://images.pexels.com/photos/33194321/pexels-photo-33194321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Leak accusation or cover-up?",
+      "description": "OpenAI claims the researchers shared confidential info. The fired employees deny wrongdoing, and the dispute is now public.",
+      "visual_hint": "Close-up of classified documents on desk",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "classified documents",
+      "image": "https://images.pexels.com/photos/8371713/pexels-photo-8371713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI guardrails could vanish",
+      "description": "If safety teams shrink, guardrails on AI products may weaken, affecting everything from chatbots to coding assistants you rely on.",
+      "visual_hint": "Hand touching weakened digital safety barrier",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "coding assistant",
+      "image": "https://images.pexels.com/photos/16416872/pexels-photo-16416872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your AI vendor today",
+      "description": "Check if your AI provider still has a dedicated safety team. If not, demand transparency. Save this and share it now.",
+      "visual_hint": "Person pointing at contact form on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-09T16:43:34.720Z",
+  "sourceId": "f54a601ae623877ae183b5520feb4cdd"
+}

@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "torta-5-minuti-alla-marmellata",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Torta 5 minuti alla marmellata",
+    "link": "https://ricette.giallozafferano.it/Torta-5-minuti-alla-marmellata.html",
+    "pubDate": "Fri, 09 Oct 2026 16:09:00 +0200",
+    "content": "Torta 5 minuti alla marmellata: ricetta soffice e senza burro Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Dolci Torte Torta 5 minuti alla marmellata /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 5 min Cottura: 50 min Dosi per: 8 persone Costo: Basso Ascolta la ricetta Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti Ascolta su Spreaker. PRESENTAZIONE La torta 5 minuti alla marmellata è un dolce soffice, goloso e facilissimo da preparare per la colazione o la merenda di tutta la famiglia. Il suo nome deriva proprio dalla rapidità della preparazione, poiché bastano pochi minuti per mescolare gli ingredienti e ottenere un impasto morbido, pronto da infornare. La particolarità di questa torta alla marmellata è la superficie arricchita con cucchiaiate di confettura di lamponi , che durante la cottura si amalgamano all'impasto regalando una piacevole nota fruttata e leggermente acidula. Preparata con yogurt e olio di semi, senza burro , è ottima per accompagnare una tazza di latte o di tè. Potete personalizzare la torta 5 minuti alla marmellata scegliendo la confettura che preferite per creare ogni volta una variante diversa, oppure aggiungendo della scorza di arancia o limone per un profumo ancora più intenso. Scoprite come prepararla e sperimentate anche queste deliziose varianti di torta 5 minuti : Torta 5 minuti al limone Torta 5 minuti allo yogurt greco Torta 5 minuti alla ricotta Torta 5 minuti allo yogurt e cacao Torta 5 minuti cocco e mirtilli Torta 5 minuti alle fragole 5-Minute Jam Cake INGREDIENTI Per uno stampo da 24 cm Farina 00 280 g Confettura di lamponi 200 g Zucchero 150 g Olio di semi di girasole 120 g Yogurt bianco naturale 100 g Uova 3 Lievito in polvere per dolci 16 g Vaniglia in polvere q.b. Sale fino q.b. Per guarnire Zucchero a velo q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta 5 minuti alla marmellata Per preparare la torta 5 minuti alla marmellata, versate in una ciotola lo zucchero semolato e le uova 1 , poi aggiungete un pizzico di sale 2 e la polvere di vaniglia 3 . Azionate le fruste elettriche per amalgamare gli ingredienti 4 . Quando avrete ottenuto un composto gonfio e spumoso, unite lo yogurt bianco 5 e l'olio di semi a filo, tenendo sempre le fruste in azione 6 . Setacciate anche la farina e il lievito 7 e incorporate le polveri con le fruste 8 . Trasferite l'impasto ottenuto in una tortiera da 24 cm di diametro foderata con carta forno 9 . Livellate la superficie 10 , poi aggiungete la confettura di lamponi a cucchiaiate, distribuendole uniformemente 11 . Cuocete in forno statico preriscaldato a 170° per circa 50 minuti, posizionando lo stampo sul ripiano medio 12 . Una volta sfornata, verificate la cottura con uno stecchino: se dovesse risultare umido, infornate per altri 5 minuti 13 . Una volta raffreddata, cospargete la superficie con lo zucchero a velo 14 . La vostra torta 5 minuti alla marmellata è pronta per essere servita 15 ! Conservazione La torta 5 minuti alla marmellata si può conservare a temperatura ambiente, meglio se sotto una campana di vetro, per 2-3 giorni al massimo. È possibile congelare la torta una volta cotta. Consiglio Se non avete la polvere di vaniglia potete utilizzare l'estratto di vaniglia o i semi del baccello. In alternativa, aromatizzate l'impasto con un mix di scorza di agrumi. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchero Yogurt greco Yogurt Uovo Scopri tutto sugli ingredienti Presente in: Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Torta 5 minuti alla marmellata 5.0 Panino al salame con crema di provolone e melanzane 5.0 Pizza in teglia con il cucchiaio 5.0 SCOPRI Torta cinque minuti Torta morbida alla marmellata Torta di mele e marmellata Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Torta soffice alla marmellata senza burro",
+      "Farina, zucchero, uova, olio, yogurt, confettura",
+      "Mescola tutto con fruste elettriche",
+      "Inforna a 170° per 50 minuti",
+      "Prova stecchino, spolvera zucchero a velo"
+    ],
+    "instagram_caption": "La torta che salva ogni merenda, pronta in 5 minuti di orologio 🍰\nNiente burro, solo ingredienti semplici: farina, zucchero, uova, olio, yogurt e tanta marmellata golosa.\nMescoli tutto con le fruste, versi nella teglia e il forno fa il resto: 170° per 50 minuti e la magia è servita ✨\nProfumo di casa, soffice da far svenire, con una spolverata di zucchero a velo che la rende elegante 🍓\nSegna la ricetta e provala questo weekend! 💛",
+    "formats": {
+      "instagram": {
+        "caption": "La torta che salva ogni merenda, pronta in 5 minuti di orologio 🍰\nNiente burro, solo ingredienti semplici: farina, zucchero, uova, olio, yogurt e tanta marmellata golosa.\nMescoli tutto con le fruste, versi nella teglia e il forno fa il resto: 170° per 50 minuti e la magia è servita ✨\nProfumo di casa, soffice da far svenire, con una spolverata di zucchero a velo che la rende elegante 🍓\nSegna la ricetta e provala questo weekend! 💛"
+      },
+      "tiktok": {
+        "script": [
+          "Oggi torta 5 minuti alla marmellata, senza burro!",
+          "Prendo farina, zucchero, uova, olio, yogurt e confettura.",
+          "Mescolo tutto con le fruste elettriche, che velocità!",
+          "Verso in teglia e inforno a 170 gradi per 50 minuti.",
+          "Provo con lo stecchino, spolvero zucchero a velo. Buona!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "Torta 5 minuti alla marmellata: soffice, senza burro, con quello che hai già in cucina. La fai mentre il forno si scalda. 🍰",
+          "Ingredienti: farina, zucchero, uova, olio, yogurt e confettura. Niente burro, niente attese. Solo cose semplici che hai già lì.",
+          "Butta tutto nella ciotola e mescola con le fruste elettriche. 2 minuti e l'impasto è pronto, liscio e profumato.",
+          "Inforna a 170° per 50 minuti. Prova lo stecchino: se esce asciutto, è fatta. Sforna e lascia intiepidire.",
+          "Spolvera zucchero a velo e servi. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Oggi torta 5 minuti alla marmellata, senza burro!",
+      "Prendo farina, zucchero, uova, olio, yogurt e confettura.",
+      "Mescolo tutto con le fruste elettriche, che velocità!",
+      "Verso in teglia e inforno a 170 gradi per 50 minuti.",
+      "Provo con lo stecchino, spolvero zucchero a velo. Buona!"
+    ],
+    "thread_text": [
+      "Torta 5 minuti alla marmellata: soffice, senza burro, con quello che hai già in cucina. La fai mentre il forno si scalda. 🍰",
+      "Ingredienti: farina, zucchero, uova, olio, yogurt e confettura. Niente burro, niente attese. Solo cose semplici che hai già lì.",
+      "Butta tutto nella ciotola e mescola con le fruste elettriche. 2 minuti e l'impasto è pronto, liscio e profumato.",
+      "Inforna a 170° per 50 minuti. Prova lo stecchino: se esce asciutto, è fatta. Sforna e lascia intiepidire.",
+      "Spolvera zucchero a velo e servi. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Torta 5 minuti alla marmellata",
+        "description": "Soffice, senza burro, pronta in 5 minuti di preparazione: la merenda italiana che conquista tutti.",
+        "visual_hint": "torta dorata spolverata zucchero",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "jam cake"
+      },
+      {
+        "hook": "Solo 6 ingredienti semplici",
+        "description": "Farina, zucchero, uova, olio, yogurt e confettura: niente burro, solo bontà genuina da dispensa.",
+        "visual_hint": "ingredienti su piano legno",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "baking ingredients flatlay",
+        "image": "https://images.pexels.com/photos/6507013/pexels-photo-6507013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Mescola tutto con le fruste",
+        "description": "Un unico impasto veloce con le fruste elettriche: l'impasto diventa liscio e cremoso in pochi secondi.",
+        "visual_hint": "fruste elettriche nell'impasto",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "cake batter mixing",
+        "image": "https://images.pexels.com/photos/33775628/pexels-photo-33775628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Inforna a 170° per 50 minuti",
+        "description": "Nel forno statico la torta cresce dorata e profumata, riempiendo la cucina di aroma di marmellata.",
+        "visual_hint": "torta in forno dorata",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "cake baking oven",
+        "image": "https://images.pexels.com/photos/15780778/pexels-photo-15780778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova stecchino e spolvera",
+        "description": "Stecchino asciutto, zucchero a velo in superficie e la tua torta 5 minuti è pronta da servire.",
+        "visual_hint": "zucchero a velo sulla torta",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "powdered sugar cake",
+        "image": "https://images.pexels.com/photos/5662081/pexels-photo-5662081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "dessert",
+    "signature_ingredients": [
+      "farina",
+      "yogurt",
+      "confettura"
+    ],
+    "image": "https://www.giallozafferano.it/images/366-36694/Torta-5-minuti-alla-marmellata_1200x800_wm.jpg",
+    "savedAt": "2026-10-09T16:48:34.556Z",
+    "sourceId": "96f2127c9c28d63407e6662b65c35ec2"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "risotto-alla-puttanesca-con-pomodori-arrosto",
     "prompt_version": "1.0.0",
     "status": "published",

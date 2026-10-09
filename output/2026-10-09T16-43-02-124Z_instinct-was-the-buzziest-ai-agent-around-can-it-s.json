@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "instinct-was-the-buzziest-ai-agent-around-can-it-s",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+  "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+  "pubDate": "2026-10-09T14:00:00.000Z",
+  "slides": [
+    "Instinct was the buzziest AI agent—can it survive Muse?",
+    "Muse just launched with a massive user base.",
+    "It's free and integrates with all major platforms.",
+    "Switch to Muse? Test its API compatibility first.",
+    "Bet on ecosystems, not just agents."
+  ],
+  "thread_text": [
+    "1. Instinct's buzz meets Muse\n\nMuse launched with a massive user base already in place. That's the reality Instinct wakes up to today.",
+    "2. Muse's free advantage\n\nIt's free and integrates with all major platforms. That removes the two biggest adoption barriers overnight.",
+    "3. Compatibility is the real test\n\nBefore switching, test Muse's API compatibility. A migration that breaks your stack costs more than it saves.",
+    "4. Don't bet on agents\n\nBet on ecosystems, not just agents. The winner won't be the smartest tool—it'll be the one everything else plugs into.",
+    "5. Try one real task\n\nTake a prompt you'd normally give Instinct and run it through Muse today. Does it hold up, or do you reach for the old tool?"
+  ],
+  "video_script": [
+    "Instinct was the buzziest agent, then Muse launched.",
+    "Muse is free and works across all major platforms.",
+    "Test the API compatibility before you switch anything.",
+    "Bet on ecosystems, not just the agent itself.",
+    "Run one real prompt through Muse and compare."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Instinct's buzz meets Muse\n\nMuse launched with a massive user base already in place. That's the reality Instinct wakes up to today.",
+        "2. Muse's free advantage\n\nIt's free and integrates with all major platforms. That removes the two biggest adoption barriers overnight.",
+        "3. Compatibility is the real test\n\nBefore switching, test Muse's API compatibility. A migration that breaks your stack costs more than it saves.",
+        "4. Don't bet on agents\n\nBet on ecosystems, not just agents. The winner won't be the smartest tool—it'll be the one everything else plugs into.",
+        "5. Try one real task\n\nTake a prompt you'd normally give Instinct and run it through Muse today. Does it hold up, or do you reach for the old tool?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Instinct was the buzziest agent, then Muse launched.",
+        "Muse is free and works across all major platforms.",
+        "Test the API compatibility before you switch anything.",
+        "Bet on ecosystems, not just the agent itself.",
+        "Run one real prompt through Muse and compare."
+      ]
+    },
+    "instagram": {
+      "caption": "Muse launched with a big user base already in place — and it's free. 🤖\n\nInstinct was the buzziest AI agent around. Now it has to survive a rival that costs nothing.\n\nMuse also integrates with all major platforms, wiping out the two biggest barriers to switching. 🔌\n\nIf you build or publish with Instinct, the real test is API compatibility. A migration that breaks your stack costs more than it saves. ⚙️\n\nSo don't bet on the smartest agent — bet on the ecosystem everything plugs into.\n\nWould you run one real task through Muse today, or stick with the old tool? 👀"
+    }
+  },
+  "instagram_caption": "Muse launched with a big user base already in place — and it's free. 🤖\n\nInstinct was the buzziest AI agent around. Now it has to survive a rival that costs nothing.\n\nMuse also integrates with all major platforms, wiping out the two biggest barriers to switching. 🔌\n\nIf you build or publish with Instinct, the real test is API compatibility. A migration that breaks your stack costs more than it saves. ⚙️\n\nSo don't bet on the smartest agent — bet on the ecosystem everything plugs into.\n\nWould you run one real task through Muse today, or stick with the old tool? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Is the smartest agent actually the biggest trap?",
+      "description": "Instinct was the buzziest AI agent. Muse launched free, integrating every major platform — killing adoption barriers overnight.",
+      "visual_hint": "Split screen: Instinct logo vs Muse logo",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Free and everywhere changes everything",
+      "description": "Muse launched with a massive user base already in place. Instinct wakes up to a competitor that removed both adoption barriers.",
+      "visual_hint": "Growing user base chart with platform icons",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "crowd market",
+      "image": "https://images.pexels.com/photos/36527979/pexels-photo-36527979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "API compatibility: the silent dealbreaker",
+      "description": "Before switching to Muse, test its API compatibility. A migration that breaks your stack costs more than it saves.",
+      "visual_hint": "Developer checking API endpoint connectivity",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Bet on ecosystems, not just agents",
+      "description": "The winner won't be the smartest tool — it'll be the one everything else plugs into. Ecosystems beat standalone agents.",
+      "visual_hint": "Network hub connecting multiple tool icons",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "power plant",
+      "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Run one real task through Muse today",
+      "description": "Take a prompt you'd give Instinct and run it through Muse. Does it hold up, or do you reach for the old tool? Save this.",
+      "visual_hint": "Two screens: AI prompt input, results comparison",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
+  "savedAt": "2026-10-09T16:43:26.551Z",
+  "sourceId": "d3a475a54b31bfe7b39a7b4e81325235"
+}

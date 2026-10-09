@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-doubles-down-on-decision-to-fire-three-ai-s",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+    "pubDate": "2026-10-09T09:48:26.000Z",
+    "slides": [
+      "Why did OpenAI fire three safety researchers?",
+      "The team had flagged risks in internal models",
+      "But OpenAI claims they leaked confidential information",
+      "Your AI tools may lose safety guardrails soon",
+      "Ask your vendor what safety team remains"
+    ],
+    "thread_text": [
+      "1. OpenAI fires safety team\n\nThree researchers who flagged internal model risks were let go. OpenAI says they leaked confidential information. The timing raises questions.",
+      "2. What they warned about\n\nThe team had raised alarms about risks in unreleased AI models. Their concerns included potential misuse and lack of safeguards.",
+      "3. The leak accusation\n\nOpenAI claims the researchers shared confidential info. The fired employees deny wrongdoing. The dispute is now public.",
+      "4. Your tools at risk\n\nIf safety teams shrink, guardrails on AI products may weaken. That could affect everything from chatbots to coding assistants.",
+      "5. Ask your vendor now\n\nCheck if your AI provider still has a dedicated safety team. If not, demand transparency. Your data and users depend on it."
+    ],
+    "video_script": [
+      "OpenAI fired three safety researchers.",
+      "They had warned about risks in internal models.",
+      "OpenAI says they leaked confidential information.",
+      "Your AI tools may lose safety guardrails soon.",
+      "Ask your vendor what safety team remains."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. OpenAI fires safety team\n\nThree researchers who flagged internal model risks were let go. OpenAI says they leaked confidential information. The timing raises questions.",
+          "2. What they warned about\n\nThe team had raised alarms about risks in unreleased AI models. Their concerns included potential misuse and lack of safeguards.",
+          "3. The leak accusation\n\nOpenAI claims the researchers shared confidential info. The fired employees deny wrongdoing. The dispute is now public.",
+          "4. Your tools at risk\n\nIf safety teams shrink, guardrails on AI products may weaken. That could affect everything from chatbots to coding assistants.",
+          "5. Ask your vendor now\n\nCheck if your AI provider still has a dedicated safety team. If not, demand transparency. Your data and users depend on it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI fired three safety researchers.",
+          "They had warned about risks in internal models.",
+          "OpenAI says they leaked confidential information.",
+          "Your AI tools may lose safety guardrails soon.",
+          "Ask your vendor what safety team remains."
+        ]
+      },
+      "instagram": {
+        "caption": "Three researchers raised alarms about risks in unreleased models and were fired.\n\nOpenAI says they leaked confidential info. The researchers deny it 🔒\n\nCompany says it stands by the decision.\n\nIf safety teams shrink, guardrails on chatbots and coding tools can weaken fast ⚠️\n\nSo ask your AI vendor one thing: who's still on the safety team? 🧐\n\nIf they can't answer, that silence tells you plenty 👀"
+      }
+    },
+    "instagram_caption": "Three researchers raised alarms about risks in unreleased models and were fired.\n\nOpenAI says they leaked confidential info. The researchers deny it 🔒\n\nCompany says it stands by the decision.\n\nIf safety teams shrink, guardrails on chatbots and coding tools can weaken fast ⚠️\n\nSo ask your AI vendor one thing: who's still on the safety team? 🧐\n\nIf they can't answer, that silence tells you plenty 👀",
+    "carousel_slides": [
+      {
+        "hook": "Is your AI still safe?",
+        "description": "OpenAI fired three researchers who flagged risks in unreleased models. The company says they leaked confidential information.",
+        "visual_hint": "Dimly lit server room with glowing red lights",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "They warned about model misuse",
+        "description": "The safety team raised alarms about potential misuse and missing safeguards in unreleased AI models before being let go.",
+        "visual_hint": "Laptop screen showing warning alert symbols",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "warning sign",
+        "image": "https://images.pexels.com/photos/33194321/pexels-photo-33194321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Leak accusation or cover-up?",
+        "description": "OpenAI claims the researchers shared confidential info. The fired employees deny wrongdoing, and the dispute is now public.",
+        "visual_hint": "Close-up of classified documents on desk",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "classified documents",
+        "image": "https://images.pexels.com/photos/8371713/pexels-photo-8371713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your AI guardrails could vanish",
+        "description": "If safety teams shrink, guardrails on AI products may weaken, affecting everything from chatbots to coding assistants you rely on.",
+        "visual_hint": "Hand touching weakened digital safety barrier",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "coding assistant",
+        "image": "https://images.pexels.com/photos/16416872/pexels-photo-16416872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask your AI vendor today",
+        "description": "Check if your AI provider still has a dedicated safety team. If not, demand transparency. Save this and share it now.",
+        "visual_hint": "Person pointing at contact form on screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-09T16:43:34.720Z",
+    "sourceId": "f54a601ae623877ae183b5520feb4cdd"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "instinct-was-the-buzziest-ai-agent-around-can-it-s",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+    "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+    "pubDate": "2026-10-09T14:00:00.000Z",
+    "slides": [
+      "Instinct was the buzziest AI agent—can it survive Muse?",
+      "Muse just launched with a massive user base.",
+      "It's free and integrates with all major platforms.",
+      "Switch to Muse? Test its API compatibility first.",
+      "Bet on ecosystems, not just agents."
+    ],
+    "thread_text": [
+      "1. Instinct's buzz meets Muse\n\nMuse launched with a massive user base already in place. That's the reality Instinct wakes up to today.",
+      "2. Muse's free advantage\n\nIt's free and integrates with all major platforms. That removes the two biggest adoption barriers overnight.",
+      "3. Compatibility is the real test\n\nBefore switching, test Muse's API compatibility. A migration that breaks your stack costs more than it saves.",
+      "4. Don't bet on agents\n\nBet on ecosystems, not just agents. The winner won't be the smartest tool—it'll be the one everything else plugs into.",
+      "5. Try one real task\n\nTake a prompt you'd normally give Instinct and run it through Muse today. Does it hold up, or do you reach for the old tool?"
+    ],
+    "video_script": [
+      "Instinct was the buzziest agent, then Muse launched.",
+      "Muse is free and works across all major platforms.",
+      "Test the API compatibility before you switch anything.",
+      "Bet on ecosystems, not just the agent itself.",
+      "Run one real prompt through Muse and compare."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Instinct's buzz meets Muse\n\nMuse launched with a massive user base already in place. That's the reality Instinct wakes up to today.",
+          "2. Muse's free advantage\n\nIt's free and integrates with all major platforms. That removes the two biggest adoption barriers overnight.",
+          "3. Compatibility is the real test\n\nBefore switching, test Muse's API compatibility. A migration that breaks your stack costs more than it saves.",
+          "4. Don't bet on agents\n\nBet on ecosystems, not just agents. The winner won't be the smartest tool—it'll be the one everything else plugs into.",
+          "5. Try one real task\n\nTake a prompt you'd normally give Instinct and run it through Muse today. Does it hold up, or do you reach for the old tool?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Instinct was the buzziest agent, then Muse launched.",
+          "Muse is free and works across all major platforms.",
+          "Test the API compatibility before you switch anything.",
+          "Bet on ecosystems, not just the agent itself.",
+          "Run one real prompt through Muse and compare."
+        ]
+      },
+      "instagram": {
+        "caption": "Muse launched with a big user base already in place — and it's free. 🤖\n\nInstinct was the buzziest AI agent around. Now it has to survive a rival that costs nothing.\n\nMuse also integrates with all major platforms, wiping out the two biggest barriers to switching. 🔌\n\nIf you build or publish with Instinct, the real test is API compatibility. A migration that breaks your stack costs more than it saves. ⚙️\n\nSo don't bet on the smartest agent — bet on the ecosystem everything plugs into.\n\nWould you run one real task through Muse today, or stick with the old tool? 👀"
+      }
+    },
+    "instagram_caption": "Muse launched with a big user base already in place — and it's free. 🤖\n\nInstinct was the buzziest AI agent around. Now it has to survive a rival that costs nothing.\n\nMuse also integrates with all major platforms, wiping out the two biggest barriers to switching. 🔌\n\nIf you build or publish with Instinct, the real test is API compatibility. A migration that breaks your stack costs more than it saves. ⚙️\n\nSo don't bet on the smartest agent — bet on the ecosystem everything plugs into.\n\nWould you run one real task through Muse today, or stick with the old tool? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Is the smartest agent actually the biggest trap?",
+        "description": "Instinct was the buzziest AI agent. Muse launched free, integrating every major platform — killing adoption barriers overnight.",
+        "visual_hint": "Split screen: Instinct logo vs Muse logo",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Free and everywhere changes everything",
+        "description": "Muse launched with a massive user base already in place. Instinct wakes up to a competitor that removed both adoption barriers.",
+        "visual_hint": "Growing user base chart with platform icons",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "crowd market",
+        "image": "https://images.pexels.com/photos/36527979/pexels-photo-36527979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "API compatibility: the silent dealbreaker",
+        "description": "Before switching to Muse, test its API compatibility. A migration that breaks your stack costs more than it saves.",
+        "visual_hint": "Developer checking API endpoint connectivity",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "circuit board",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Bet on ecosystems, not just agents",
+        "description": "The winner won't be the smartest tool — it'll be the one everything else plugs into. Ecosystems beat standalone agents.",
+        "visual_hint": "Network hub connecting multiple tool icons",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "power plant",
+        "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Run one real task through Muse today",
+        "description": "Take a prompt you'd give Instinct and run it through Muse. Does it hold up, or do you reach for the old tool? Save this.",
+        "visual_hint": "Two screens: AI prompt input, results comparison",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
+    "savedAt": "2026-10-09T16:43:26.551Z",
+    "sourceId": "d3a475a54b31bfe7b39a7b4e81325235"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "a16z-s-olivia-moore-on-the-state-of-consumer-ai",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "a16z’s Olivia Moore on the state of consumer AI",
+    "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+    "pubDate": "Fri, 09 Oct 2026 15:43:33 +0000",
+    "slides": [
+      "Is consumer AI the next big platform shift?",
+      "a16z's Olivia Moore analyzes the landscape",
+      "Most growth comes from unexpected non-tech sectors",
+      "Your daily tools will soon have AI baked in",
+      "Start testing one consumer AI app today"
+    ],
+    "thread_text": [
+      "1. The Shift Nobody Saw Coming\n\nConsumer AI is quietly becoming the next platform shift. Olivia Moore from a16z just mapped where the real growth is, and it's not where you'd expect.",
+      "2. A16z's Olivia Moore Digs In\n\nShe analyzed the landscape and found most traction isn't coming from tech hubs. It's from sectors that have nothing to do with Silicon Valley.",
+      "3. Non-Tech Sectors Are Leading\n\nFarmers, teachers, and small retailers are adopting AI tools faster than software engineers. The unexpected users are driving the numbers.",
+      "4. Your Daily Tools Are Next\n\nEvery app you open tomorrow—email, calendar, notes—will have AI baked in. Not as a feature, but as the default interface. The question is who controls it.",
+      "5. Test One App This Week\n\nDownload a consumer AI app you've never tried. Spend 10 minutes on a real task. Does it save you time, or just add another step? Tell me what you find."
+    ],
+    "video_script": [
+      "Consumer AI might be the next big platform shift.",
+      "Olivia Moore from a16z analyzed the landscape.",
+      "Most growth comes from unexpected non-tech sectors.",
+      "Your daily tools will soon have AI baked in.",
+      "Start testing one consumer AI app today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Shift Nobody Saw Coming\n\nConsumer AI is quietly becoming the next platform shift. Olivia Moore from a16z just mapped where the real growth is, and it's not where you'd expect.",
+          "2. A16z's Olivia Moore Digs In\n\nShe analyzed the landscape and found most traction isn't coming from tech hubs. It's from sectors that have nothing to do with Silicon Valley.",
+          "3. Non-Tech Sectors Are Leading\n\nFarmers, teachers, and small retailers are adopting AI tools faster than software engineers. The unexpected users are driving the numbers.",
+          "4. Your Daily Tools Are Next\n\nEvery app you open tomorrow—email, calendar, notes—will have AI baked in. Not as a feature, but as the default interface. The question is who controls it.",
+          "5. Test One App This Week\n\nDownload a consumer AI app you've never tried. Spend 10 minutes on a real task. Does it save you time, or just add another step? Tell me what you find."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Consumer AI might be the next big platform shift.",
+          "Olivia Moore from a16z analyzed the landscape.",
+          "Most growth comes from unexpected non-tech sectors.",
+          "Your daily tools will soon have AI baked in.",
+          "Start testing one consumer AI app today."
+        ]
+      },
+      "instagram": {
+        "caption": "Farmers and teachers are picking up AI faster than software engineers.\n\nThat's not a guess. It's what Olivia Moore from a16z found when she mapped where consumer AI is actually growing. Most traction comes from non-tech sectors, not Silicon Valley. 🚜\n\nSoon your email, calendar and notes won't have AI as a feature. It'll be the default interface. 🧠\n\nThat shift decides which tools you'll open every day for work.\n\nWhich app did you try this week that actually saved you time? 👇"
+      }
+    },
+    "instagram_caption": "Farmers and teachers are picking up AI faster than software engineers.\n\nThat's not a guess. It's what Olivia Moore from a16z found when she mapped where consumer AI is actually growing. Most traction comes from non-tech sectors, not Silicon Valley. 🚜\n\nSoon your email, calendar and notes won't have AI as a feature. It'll be the default interface. 🧠\n\nThat shift decides which tools you'll open every day for work.\n\nWhich app did you try this week that actually saved you time? 👇",
+    "carousel_slides": [
+      {
+        "hook": "Who's really driving consumer AI growth?",
+        "description": "Farmers, teachers, and small retailers adopt AI faster than engineers, shifting the entire platform landscape.",
+        "visual_hint": "Farmer using tablet in field",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "farmer tablet field"
+      },
+      {
+        "hook": "a16z's Olivia Moore maps the shift",
+        "description": "Her analysis shows traction isn't from Silicon Valley, but from unexpected non-tech sectors embracing AI tools.",
+        "visual_hint": "Analyst reviewing growth charts",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non-tech sectors are leading adoption",
+        "description": "Teachers, farmers, and retailers use AI daily, outpacing software engineers and reshaping who benefits from this technology.",
+        "visual_hint": "Teacher with AI classroom tool",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "classroom students tablet",
+        "image": "https://images.pexels.com/photos/5306457/pexels-photo-5306457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your daily apps will have AI baked in",
+        "description": "Email, calendar, and notes will soon default to AI interfaces, not optional features. Who controls them matters.",
+        "visual_hint": "Hand holding phone with AI interface",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "smartphone email app",
+        "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one AI app this week",
+        "description": "Download a consumer AI app, spend 10 minutes on a real task, then comment if it saved time or added steps.",
+        "visual_hint": "Phone with app download screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "mobile app screen",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Olivia-Moore-Headshot-2026.jpg?w=896",
+    "savedAt": "2026-10-09T16:43:18.420Z",
+    "sourceId": "80b34c260cbbb646a153d65fcf871a5e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "we-can-t-help-treating-ai-like-it-s-human-but-shou",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "We can’t help treating AI like it’s human. But should we?",
+    "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+    "pubDate": "Fri, 09 Oct 2026 16:40:14 +0000",
+    "slides": [
+      "Why do we treat AI like a person?",
+      "We blame it when things go wrong",
+      "But it has no intentions or feelings",
+      "Stop saying 'it wants' — describe outputs",
+      "Next time, ask: what does AI actually do?"
+    ],
+    "thread_text": [
+      "1. We Blame AI for Everything\n\nA chatbot gives a wrong answer, and we say it lied. A self-driving car hesitates, and we call it indecisive. The blame lands on the machine, not the people who built it.",
+      "2. The Intent Trap\n\nWe assume AI has goals because we describe it with verbs of desire. Saying 'it wants to help' makes us expect a helper, then feel betrayed when it fails. That expectation is the real problem.",
+      "3. No Brain, No Feelings\n\nAI has no intentions or emotions. It predicts patterns from data. When it apologizes, that's just a likely sequence of words, not remorse. We're talking to a mirror, not a mind.",
+      "4. Watch Your Language\n\nPhrases like 'it wants' or 'it tries' hide how AI actually works. Instead, say 'the model outputs' or 'the system generates.' This small shift keeps you focused on observable behavior, not imagined thoughts.",
+      "5. Rewrite Your Next Prompt\n\nNext time you use AI, ask: what does it actually do? Does it retrieve, calculate, or just predict the next word? Try this on one task today. Does knowing the mechanism change how you use it?"
+    ],
+    "video_script": [
+      "We blame AI when things go wrong.",
+      "But it has no intentions or feelings.",
+      "Stop saying 'it wants' — describe outputs.",
+      "Next time, ask: what does AI actually do?",
+      "Change your words, change how you use it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. We Blame AI for Everything\n\nA chatbot gives a wrong answer, and we say it lied. A self-driving car hesitates, and we call it indecisive. The blame lands on the machine, not the people who built it.",
+          "2. The Intent Trap\n\nWe assume AI has goals because we describe it with verbs of desire. Saying 'it wants to help' makes us expect a helper, then feel betrayed when it fails. That expectation is the real problem.",
+          "3. No Brain, No Feelings\n\nAI has no intentions or emotions. It predicts patterns from data. When it apologizes, that's just a likely sequence of words, not remorse. We're talking to a mirror, not a mind.",
+          "4. Watch Your Language\n\nPhrases like 'it wants' or 'it tries' hide how AI actually works. Instead, say 'the model outputs' or 'the system generates.' This small shift keeps you focused on observable behavior, not imagined thoughts.",
+          "5. Rewrite Your Next Prompt\n\nNext time you use AI, ask: what does it actually do? Does it retrieve, calculate, or just predict the next word? Try this on one task today. Does knowing the mechanism change how you use it?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "We blame AI when things go wrong.",
+          "But it has no intentions or feelings.",
+          "Stop saying 'it wants' — describe outputs.",
+          "Next time, ask: what does AI actually do?",
+          "Change your words, change how you use it."
+        ]
+      },
+      "instagram": {
+        "caption": "A chatbot gives a wrong answer and you say it lied. It didn't lie — it predicted words. 🤖\n\nWe blame AI when it fails, as if it had intentions. That's the trap: saying \"it wants to help\" makes you expect a helper, then feel betrayed.\n\nAI has no feelings or goals. It predicts patterns from data.\n\nYour content changes: stop writing \"the AI wants,\" start writing \"the model outputs.\" Describe what it does, not what you imagine it thinks.\n\nNext time you prompt, ask yourself: does it retrieve, calculate, or just predict the next word? Try it on one task today. 💬"
+      }
+    },
+    "instagram_caption": "A chatbot gives a wrong answer and you say it lied. It didn't lie — it predicted words. 🤖\n\nWe blame AI when it fails, as if it had intentions. That's the trap: saying \"it wants to help\" makes you expect a helper, then feel betrayed.\n\nAI has no feelings or goals. It predicts patterns from data.\n\nYour content changes: stop writing \"the AI wants,\" start writing \"the model outputs.\" Describe what it does, not what you imagine it thinks.\n\nNext time you prompt, ask yourself: does it retrieve, calculate, or just predict the next word? Try it on one task today. 💬",
+    "carousel_slides": [
+      {
+        "hook": "Does AI really have feelings?",
+        "description": "We say a chatbot lied, but it just predicted words. Blaming it misses the real problem: the system, not the machine.",
+        "visual_hint": "Human hand pointing at robot face",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot face"
+      },
+      {
+        "hook": "We blame AI when it fails",
+        "description": "A self-driving car hesitates and we call it indecisive. But blame belongs to the builders, not the code.",
+        "visual_hint": "Self-driving car on busy street",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "self-driving car",
+        "image": "https://images.pexels.com/photos/17219660/pexels-photo-17219660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI has no brain, no feelings",
+        "description": "It predicts patterns from data. When it apologizes, that's just a likely sequence of words, not remorse.",
+        "visual_hint": "Abstract data patterns on screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "neural network",
+        "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stop saying 'it wants' to help",
+        "description": "Phrases like 'it tries' hide how AI works. Instead say 'the model outputs' or 'the system generates' observable behavior.",
+        "visual_hint": "Speech bubble with crossed out words",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "speech bubble",
+        "image": "https://images.pexels.com/photos/8015666/pexels-photo-8015666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for your next prompt",
+        "description": "Before you type, ask: does it retrieve, calculate, or predict? Try it on one task today and see what changes.",
+        "visual_hint": "Hand typing on laptop keyboard",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop keyboard",
+        "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675",
+    "savedAt": "2026-10-09T16:43:10.279Z",
+    "sourceId": "3b30e472897bc4e0f58aabe52260dad4"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "google-s-ai-note-taking-app-transcribes-your-meeti",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-doubles-down-on-decision-to-fire-three-ai-s",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "pubDate": "2026-10-09T09:48:26.000Z",
+      "slides": [
+        "Why did OpenAI fire three safety researchers?",
+        "The team had flagged risks in internal models",
+        "But OpenAI claims they leaked confidential information",
+        "Your AI tools may lose safety guardrails soon",
+        "Ask your vendor what safety team remains"
+      ],
+      "thread_text": [
+        "1. OpenAI fires safety team\n\nThree researchers who flagged internal model risks were let go. OpenAI says they leaked confidential information. The timing raises questions.",
+        "2. What they warned about\n\nThe team had raised alarms about risks in unreleased AI models. Their concerns included potential misuse and lack of safeguards.",
+        "3. The leak accusation\n\nOpenAI claims the researchers shared confidential info. The fired employees deny wrongdoing. The dispute is now public.",
+        "4. Your tools at risk\n\nIf safety teams shrink, guardrails on AI products may weaken. That could affect everything from chatbots to coding assistants.",
+        "5. Ask your vendor now\n\nCheck if your AI provider still has a dedicated safety team. If not, demand transparency. Your data and users depend on it."
+      ],
+      "video_script": [
+        "OpenAI fired three safety researchers.",
+        "They had warned about risks in internal models.",
+        "OpenAI says they leaked confidential information.",
+        "Your AI tools may lose safety guardrails soon.",
+        "Ask your vendor what safety team remains."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. OpenAI fires safety team\n\nThree researchers who flagged internal model risks were let go. OpenAI says they leaked confidential information. The timing raises questions.",
+            "2. What they warned about\n\nThe team had raised alarms about risks in unreleased AI models. Their concerns included potential misuse and lack of safeguards.",
+            "3. The leak accusation\n\nOpenAI claims the researchers shared confidential info. The fired employees deny wrongdoing. The dispute is now public.",
+            "4. Your tools at risk\n\nIf safety teams shrink, guardrails on AI products may weaken. That could affect everything from chatbots to coding assistants.",
+            "5. Ask your vendor now\n\nCheck if your AI provider still has a dedicated safety team. If not, demand transparency. Your data and users depend on it."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI fired three safety researchers.",
+            "They had warned about risks in internal models.",
+            "OpenAI says they leaked confidential information.",
+            "Your AI tools may lose safety guardrails soon.",
+            "Ask your vendor what safety team remains."
+          ]
+        },
+        "instagram": {
+          "caption": "Three researchers raised alarms about risks in unreleased models and were fired.\n\nOpenAI says they leaked confidential info. The researchers deny it 🔒\n\nCompany says it stands by the decision.\n\nIf safety teams shrink, guardrails on chatbots and coding tools can weaken fast ⚠️\n\nSo ask your AI vendor one thing: who's still on the safety team? 🧐\n\nIf they can't answer, that silence tells you plenty 👀"
+        }
+      },
+      "instagram_caption": "Three researchers raised alarms about risks in unreleased models and were fired.\n\nOpenAI says they leaked confidential info. The researchers deny it 🔒\n\nCompany says it stands by the decision.\n\nIf safety teams shrink, guardrails on chatbots and coding tools can weaken fast ⚠️\n\nSo ask your AI vendor one thing: who's still on the safety team? 🧐\n\nIf they can't answer, that silence tells you plenty 👀",
+      "carousel_slides": [
+        {
+          "hook": "Is your AI still safe?",
+          "description": "OpenAI fired three researchers who flagged risks in unreleased models. The company says they leaked confidential information.",
+          "visual_hint": "Dimly lit server room with glowing red lights",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "They warned about model misuse",
+          "description": "The safety team raised alarms about potential misuse and missing safeguards in unreleased AI models before being let go.",
+          "visual_hint": "Laptop screen showing warning alert symbols",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "warning sign",
+          "image": "https://images.pexels.com/photos/33194321/pexels-photo-33194321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Leak accusation or cover-up?",
+          "description": "OpenAI claims the researchers shared confidential info. The fired employees deny wrongdoing, and the dispute is now public.",
+          "visual_hint": "Close-up of classified documents on desk",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "classified documents",
+          "image": "https://images.pexels.com/photos/8371713/pexels-photo-8371713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI guardrails could vanish",
+          "description": "If safety teams shrink, guardrails on AI products may weaken, affecting everything from chatbots to coding assistants you rely on.",
+          "visual_hint": "Hand touching weakened digital safety barrier",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "coding assistant",
+          "image": "https://images.pexels.com/photos/16416872/pexels-photo-16416872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask your AI vendor today",
+          "description": "Check if your AI provider still has a dedicated safety team. If not, demand transparency. Save this and share it now.",
+          "visual_hint": "Person pointing at contact form on screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-09T16:43:34.720Z",
+      "sourceId": "f54a601ae623877ae183b5520feb4cdd"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "instinct-was-the-buzziest-ai-agent-around-can-it-s",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+      "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "pubDate": "2026-10-09T14:00:00.000Z",
+      "slides": [
+        "Instinct was the buzziest AI agent—can it survive Muse?",
+        "Muse just launched with a massive user base.",
+        "It's free and integrates with all major platforms.",
+        "Switch to Muse? Test its API compatibility first.",
+        "Bet on ecosystems, not just agents."
+      ],
+      "thread_text": [
+        "1. Instinct's buzz meets Muse\n\nMuse launched with a massive user base already in place. That's the reality Instinct wakes up to today.",
+        "2. Muse's free advantage\n\nIt's free and integrates with all major platforms. That removes the two biggest adoption barriers overnight.",
+        "3. Compatibility is the real test\n\nBefore switching, test Muse's API compatibility. A migration that breaks your stack costs more than it saves.",
+        "4. Don't bet on agents\n\nBet on ecosystems, not just agents. The winner won't be the smartest tool—it'll be the one everything else plugs into.",
+        "5. Try one real task\n\nTake a prompt you'd normally give Instinct and run it through Muse today. Does it hold up, or do you reach for the old tool?"
+      ],
+      "video_script": [
+        "Instinct was the buzziest agent, then Muse launched.",
+        "Muse is free and works across all major platforms.",
+        "Test the API compatibility before you switch anything.",
+        "Bet on ecosystems, not just the agent itself.",
+        "Run one real prompt through Muse and compare."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Instinct's buzz meets Muse\n\nMuse launched with a massive user base already in place. That's the reality Instinct wakes up to today.",
+            "2. Muse's free advantage\n\nIt's free and integrates with all major platforms. That removes the two biggest adoption barriers overnight.",
+            "3. Compatibility is the real test\n\nBefore switching, test Muse's API compatibility. A migration that breaks your stack costs more than it saves.",
+            "4. Don't bet on agents\n\nBet on ecosystems, not just agents. The winner won't be the smartest tool—it'll be the one everything else plugs into.",
+            "5. Try one real task\n\nTake a prompt you'd normally give Instinct and run it through Muse today. Does it hold up, or do you reach for the old tool?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Instinct was the buzziest agent, then Muse launched.",
+            "Muse is free and works across all major platforms.",
+            "Test the API compatibility before you switch anything.",
+            "Bet on ecosystems, not just the agent itself.",
+            "Run one real prompt through Muse and compare."
+          ]
+        },
+        "instagram": {
+          "caption": "Muse launched with a big user base already in place — and it's free. 🤖\n\nInstinct was the buzziest AI agent around. Now it has to survive a rival that costs nothing.\n\nMuse also integrates with all major platforms, wiping out the two biggest barriers to switching. 🔌\n\nIf you build or publish with Instinct, the real test is API compatibility. A migration that breaks your stack costs more than it saves. ⚙️\n\nSo don't bet on the smartest agent — bet on the ecosystem everything plugs into.\n\nWould you run one real task through Muse today, or stick with the old tool? 👀"
+        }
+      },
+      "instagram_caption": "Muse launched with a big user base already in place — and it's free. 🤖\n\nInstinct was the buzziest AI agent around. Now it has to survive a rival that costs nothing.\n\nMuse also integrates with all major platforms, wiping out the two biggest barriers to switching. 🔌\n\nIf you build or publish with Instinct, the real test is API compatibility. A migration that breaks your stack costs more than it saves. ⚙️\n\nSo don't bet on the smartest agent — bet on the ecosystem everything plugs into.\n\nWould you run one real task through Muse today, or stick with the old tool? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Is the smartest agent actually the biggest trap?",
+          "description": "Instinct was the buzziest AI agent. Muse launched free, integrating every major platform — killing adoption barriers overnight.",
+          "visual_hint": "Split screen: Instinct logo vs Muse logo",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Free and everywhere changes everything",
+          "description": "Muse launched with a massive user base already in place. Instinct wakes up to a competitor that removed both adoption barriers.",
+          "visual_hint": "Growing user base chart with platform icons",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "crowd market",
+          "image": "https://images.pexels.com/photos/36527979/pexels-photo-36527979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "API compatibility: the silent dealbreaker",
+          "description": "Before switching to Muse, test its API compatibility. A migration that breaks your stack costs more than it saves.",
+          "visual_hint": "Developer checking API endpoint connectivity",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "circuit board",
+          "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Bet on ecosystems, not just agents",
+          "description": "The winner won't be the smartest tool — it'll be the one everything else plugs into. Ecosystems beat standalone agents.",
+          "visual_hint": "Network hub connecting multiple tool icons",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "power plant",
+          "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Run one real task through Muse today",
+          "description": "Take a prompt you'd give Instinct and run it through Muse. Does it hold up, or do you reach for the old tool? Save this.",
+          "visual_hint": "Two screens: AI prompt input, results comparison",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
+      "savedAt": "2026-10-09T16:43:26.551Z",
+      "sourceId": "d3a475a54b31bfe7b39a7b4e81325235"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "a16z-s-olivia-moore-on-the-state-of-consumer-ai",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "a16z’s Olivia Moore on the state of consumer AI",
+      "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+      "pubDate": "Fri, 09 Oct 2026 15:43:33 +0000",
+      "slides": [
+        "Is consumer AI the next big platform shift?",
+        "a16z's Olivia Moore analyzes the landscape",
+        "Most growth comes from unexpected non-tech sectors",
+        "Your daily tools will soon have AI baked in",
+        "Start testing one consumer AI app today"
+      ],
+      "thread_text": [
+        "1. The Shift Nobody Saw Coming\n\nConsumer AI is quietly becoming the next platform shift. Olivia Moore from a16z just mapped where the real growth is, and it's not where you'd expect.",
+        "2. A16z's Olivia Moore Digs In\n\nShe analyzed the landscape and found most traction isn't coming from tech hubs. It's from sectors that have nothing to do with Silicon Valley.",
+        "3. Non-Tech Sectors Are Leading\n\nFarmers, teachers, and small retailers are adopting AI tools faster than software engineers. The unexpected users are driving the numbers.",
+        "4. Your Daily Tools Are Next\n\nEvery app you open tomorrow—email, calendar, notes—will have AI baked in. Not as a feature, but as the default interface. The question is who controls it.",
+        "5. Test One App This Week\n\nDownload a consumer AI app you've never tried. Spend 10 minutes on a real task. Does it save you time, or just add another step? Tell me what you find."
+      ],
+      "video_script": [
+        "Consumer AI might be the next big platform shift.",
+        "Olivia Moore from a16z analyzed the landscape.",
+        "Most growth comes from unexpected non-tech sectors.",
+        "Your daily tools will soon have AI baked in.",
+        "Start testing one consumer AI app today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Shift Nobody Saw Coming\n\nConsumer AI is quietly becoming the next platform shift. Olivia Moore from a16z just mapped where the real growth is, and it's not where you'd expect.",
+            "2. A16z's Olivia Moore Digs In\n\nShe analyzed the landscape and found most traction isn't coming from tech hubs. It's from sectors that have nothing to do with Silicon Valley.",
+            "3. Non-Tech Sectors Are Leading\n\nFarmers, teachers, and small retailers are adopting AI tools faster than software engineers. The unexpected users are driving the numbers.",
+            "4. Your Daily Tools Are Next\n\nEvery app you open tomorrow—email, calendar, notes—will have AI baked in. Not as a feature, but as the default interface. The question is who controls it.",
+            "5. Test One App This Week\n\nDownload a consumer AI app you've never tried. Spend 10 minutes on a real task. Does it save you time, or just add another step? Tell me what you find."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Consumer AI might be the next big platform shift.",
+            "Olivia Moore from a16z analyzed the landscape.",
+            "Most growth comes from unexpected non-tech sectors.",
+            "Your daily tools will soon have AI baked in.",
+            "Start testing one consumer AI app today."
+          ]
+        },
+        "instagram": {
+          "caption": "Farmers and teachers are picking up AI faster than software engineers.\n\nThat's not a guess. It's what Olivia Moore from a16z found when she mapped where consumer AI is actually growing. Most traction comes from non-tech sectors, not Silicon Valley. 🚜\n\nSoon your email, calendar and notes won't have AI as a feature. It'll be the default interface. 🧠\n\nThat shift decides which tools you'll open every day for work.\n\nWhich app did you try this week that actually saved you time? 👇"
+        }
+      },
+      "instagram_caption": "Farmers and teachers are picking up AI faster than software engineers.\n\nThat's not a guess. It's what Olivia Moore from a16z found when she mapped where consumer AI is actually growing. Most traction comes from non-tech sectors, not Silicon Valley. 🚜\n\nSoon your email, calendar and notes won't have AI as a feature. It'll be the default interface. 🧠\n\nThat shift decides which tools you'll open every day for work.\n\nWhich app did you try this week that actually saved you time? 👇",
+      "carousel_slides": [
+        {
+          "hook": "Who's really driving consumer AI growth?",
+          "description": "Farmers, teachers, and small retailers adopt AI faster than engineers, shifting the entire platform landscape.",
+          "visual_hint": "Farmer using tablet in field",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "farmer tablet field"
+        },
+        {
+          "hook": "a16z's Olivia Moore maps the shift",
+          "description": "Her analysis shows traction isn't from Silicon Valley, but from unexpected non-tech sectors embracing AI tools.",
+          "visual_hint": "Analyst reviewing growth charts",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non-tech sectors are leading adoption",
+          "description": "Teachers, farmers, and retailers use AI daily, outpacing software engineers and reshaping who benefits from this technology.",
+          "visual_hint": "Teacher with AI classroom tool",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "classroom students tablet",
+          "image": "https://images.pexels.com/photos/5306457/pexels-photo-5306457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your daily apps will have AI baked in",
+          "description": "Email, calendar, and notes will soon default to AI interfaces, not optional features. Who controls them matters.",
+          "visual_hint": "Hand holding phone with AI interface",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone email app",
+          "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one AI app this week",
+          "description": "Download a consumer AI app, spend 10 minutes on a real task, then comment if it saved time or added steps.",
+          "visual_hint": "Phone with app download screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "mobile app screen",
+          "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Olivia-Moore-Headshot-2026.jpg?w=896",
+      "savedAt": "2026-10-09T16:43:18.420Z",
+      "sourceId": "80b34c260cbbb646a153d65fcf871a5e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "we-can-t-help-treating-ai-like-it-s-human-but-shou",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "We can’t help treating AI like it’s human. But should we?",
+      "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "pubDate": "Fri, 09 Oct 2026 16:40:14 +0000",
+      "slides": [
+        "Why do we treat AI like a person?",
+        "We blame it when things go wrong",
+        "But it has no intentions or feelings",
+        "Stop saying 'it wants' — describe outputs",
+        "Next time, ask: what does AI actually do?"
+      ],
+      "thread_text": [
+        "1. We Blame AI for Everything\n\nA chatbot gives a wrong answer, and we say it lied. A self-driving car hesitates, and we call it indecisive. The blame lands on the machine, not the people who built it.",
+        "2. The Intent Trap\n\nWe assume AI has goals because we describe it with verbs of desire. Saying 'it wants to help' makes us expect a helper, then feel betrayed when it fails. That expectation is the real problem.",
+        "3. No Brain, No Feelings\n\nAI has no intentions or emotions. It predicts patterns from data. When it apologizes, that's just a likely sequence of words, not remorse. We're talking to a mirror, not a mind.",
+        "4. Watch Your Language\n\nPhrases like 'it wants' or 'it tries' hide how AI actually works. Instead, say 'the model outputs' or 'the system generates.' This small shift keeps you focused on observable behavior, not imagined thoughts.",
+        "5. Rewrite Your Next Prompt\n\nNext time you use AI, ask: what does it actually do? Does it retrieve, calculate, or just predict the next word? Try this on one task today. Does knowing the mechanism change how you use it?"
+      ],
+      "video_script": [
+        "We blame AI when things go wrong.",
+        "But it has no intentions or feelings.",
+        "Stop saying 'it wants' — describe outputs.",
+        "Next time, ask: what does AI actually do?",
+        "Change your words, change how you use it."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. We Blame AI for Everything\n\nA chatbot gives a wrong answer, and we say it lied. A self-driving car hesitates, and we call it indecisive. The blame lands on the machine, not the people who built it.",
+            "2. The Intent Trap\n\nWe assume AI has goals because we describe it with verbs of desire. Saying 'it wants to help' makes us expect a helper, then feel betrayed when it fails. That expectation is the real problem.",
+            "3. No Brain, No Feelings\n\nAI has no intentions or emotions. It predicts patterns from data. When it apologizes, that's just a likely sequence of words, not remorse. We're talking to a mirror, not a mind.",
+            "4. Watch Your Language\n\nPhrases like 'it wants' or 'it tries' hide how AI actually works. Instead, say 'the model outputs' or 'the system generates.' This small shift keeps you focused on observable behavior, not imagined thoughts.",
+            "5. Rewrite Your Next Prompt\n\nNext time you use AI, ask: what does it actually do? Does it retrieve, calculate, or just predict the next word? Try this on one task today. Does knowing the mechanism change how you use it?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "We blame AI when things go wrong.",
+            "But it has no intentions or feelings.",
+            "Stop saying 'it wants' — describe outputs.",
+            "Next time, ask: what does AI actually do?",
+            "Change your words, change how you use it."
+          ]
+        },
+        "instagram": {
+          "caption": "A chatbot gives a wrong answer and you say it lied. It didn't lie — it predicted words. 🤖\n\nWe blame AI when it fails, as if it had intentions. That's the trap: saying \"it wants to help\" makes you expect a helper, then feel betrayed.\n\nAI has no feelings or goals. It predicts patterns from data.\n\nYour content changes: stop writing \"the AI wants,\" start writing \"the model outputs.\" Describe what it does, not what you imagine it thinks.\n\nNext time you prompt, ask yourself: does it retrieve, calculate, or just predict the next word? Try it on one task today. 💬"
+        }
+      },
+      "instagram_caption": "A chatbot gives a wrong answer and you say it lied. It didn't lie — it predicted words. 🤖\n\nWe blame AI when it fails, as if it had intentions. That's the trap: saying \"it wants to help\" makes you expect a helper, then feel betrayed.\n\nAI has no feelings or goals. It predicts patterns from data.\n\nYour content changes: stop writing \"the AI wants,\" start writing \"the model outputs.\" Describe what it does, not what you imagine it thinks.\n\nNext time you prompt, ask yourself: does it retrieve, calculate, or just predict the next word? Try it on one task today. 💬",
+      "carousel_slides": [
+        {
+          "hook": "Does AI really have feelings?",
+          "description": "We say a chatbot lied, but it just predicted words. Blaming it misses the real problem: the system, not the machine.",
+          "visual_hint": "Human hand pointing at robot face",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robot face"
+        },
+        {
+          "hook": "We blame AI when it fails",
+          "description": "A self-driving car hesitates and we call it indecisive. But blame belongs to the builders, not the code.",
+          "visual_hint": "Self-driving car on busy street",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "self-driving car",
+          "image": "https://images.pexels.com/photos/17219660/pexels-photo-17219660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI has no brain, no feelings",
+          "description": "It predicts patterns from data. When it apologizes, that's just a likely sequence of words, not remorse.",
+          "visual_hint": "Abstract data patterns on screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "neural network",
+          "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Stop saying 'it wants' to help",
+          "description": "Phrases like 'it tries' hide how AI works. Instead say 'the model outputs' or 'the system generates' observable behavior.",
+          "visual_hint": "Speech bubble with crossed out words",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "speech bubble",
+          "image": "https://images.pexels.com/photos/8015666/pexels-photo-8015666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this for your next prompt",
+          "description": "Before you type, ask: does it retrieve, calculate, or predict? Try it on one task today and see what changes.",
+          "visual_hint": "Hand typing on laptop keyboard",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop keyboard",
+          "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675",
+      "savedAt": "2026-10-09T16:43:10.279Z",
+      "sourceId": "3b30e472897bc4e0f58aabe52260dad4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "google-s-ai-note-taking-app-transcribes-your-meeti",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -182114,6 +182530,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "torta-5-minuti-alla-marmellata",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Torta 5 minuti alla marmellata",
+      "link": "https://ricette.giallozafferano.it/Torta-5-minuti-alla-marmellata.html",
+      "pubDate": "Fri, 09 Oct 2026 16:09:00 +0200",
+      "content": "Torta 5 minuti alla marmellata: ricetta soffice e senza burro Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Dolci Torte Torta 5 minuti alla marmellata /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 5 min Cottura: 50 min Dosi per: 8 persone Costo: Basso Ascolta la ricetta Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti Ascolta su Spreaker. PRESENTAZIONE La torta 5 minuti alla marmellata è un dolce soffice, goloso e facilissimo da preparare per la colazione o la merenda di tutta la famiglia. Il suo nome deriva proprio dalla rapidità della preparazione, poiché bastano pochi minuti per mescolare gli ingredienti e ottenere un impasto morbido, pronto da infornare. La particolarità di questa torta alla marmellata è la superficie arricchita con cucchiaiate di confettura di lamponi , che durante la cottura si amalgamano all'impasto regalando una piacevole nota fruttata e leggermente acidula. Preparata con yogurt e olio di semi, senza burro , è ottima per accompagnare una tazza di latte o di tè. Potete personalizzare la torta 5 minuti alla marmellata scegliendo la confettura che preferite per creare ogni volta una variante diversa, oppure aggiungendo della scorza di arancia o limone per un profumo ancora più intenso. Scoprite come prepararla e sperimentate anche queste deliziose varianti di torta 5 minuti : Torta 5 minuti al limone Torta 5 minuti allo yogurt greco Torta 5 minuti alla ricotta Torta 5 minuti allo yogurt e cacao Torta 5 minuti cocco e mirtilli Torta 5 minuti alle fragole 5-Minute Jam Cake INGREDIENTI Per uno stampo da 24 cm Farina 00 280 g Confettura di lamponi 200 g Zucchero 150 g Olio di semi di girasole 120 g Yogurt bianco naturale 100 g Uova 3 Lievito in polvere per dolci 16 g Vaniglia in polvere q.b. Sale fino q.b. Per guarnire Zucchero a velo q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta 5 minuti alla marmellata Per preparare la torta 5 minuti alla marmellata, versate in una ciotola lo zucchero semolato e le uova 1 , poi aggiungete un pizzico di sale 2 e la polvere di vaniglia 3 . Azionate le fruste elettriche per amalgamare gli ingredienti 4 . Quando avrete ottenuto un composto gonfio e spumoso, unite lo yogurt bianco 5 e l'olio di semi a filo, tenendo sempre le fruste in azione 6 . Setacciate anche la farina e il lievito 7 e incorporate le polveri con le fruste 8 . Trasferite l'impasto ottenuto in una tortiera da 24 cm di diametro foderata con carta forno 9 . Livellate la superficie 10 , poi aggiungete la confettura di lamponi a cucchiaiate, distribuendole uniformemente 11 . Cuocete in forno statico preriscaldato a 170° per circa 50 minuti, posizionando lo stampo sul ripiano medio 12 . Una volta sfornata, verificate la cottura con uno stecchino: se dovesse risultare umido, infornate per altri 5 minuti 13 . Una volta raffreddata, cospargete la superficie con lo zucchero a velo 14 . La vostra torta 5 minuti alla marmellata è pronta per essere servita 15 ! Conservazione La torta 5 minuti alla marmellata si può conservare a temperatura ambiente, meglio se sotto una campana di vetro, per 2-3 giorni al massimo. È possibile congelare la torta una volta cotta. Consiglio Se non avete la polvere di vaniglia potete utilizzare l'estratto di vaniglia o i semi del baccello. In alternativa, aromatizzate l'impasto con un mix di scorza di agrumi. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchero Yogurt greco Yogurt Uovo Scopri tutto sugli ingredienti Presente in: Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Torta 5 minuti alla marmellata 5.0 Panino al salame con crema di provolone e melanzane 5.0 Pizza in teglia con il cucchiaio 5.0 SCOPRI Torta cinque minuti Torta morbida alla marmellata Torta di mele e marmellata Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Torta soffice alla marmellata senza burro",
+        "Farina, zucchero, uova, olio, yogurt, confettura",
+        "Mescola tutto con fruste elettriche",
+        "Inforna a 170° per 50 minuti",
+        "Prova stecchino, spolvera zucchero a velo"
+      ],
+      "instagram_caption": "La torta che salva ogni merenda, pronta in 5 minuti di orologio 🍰\nNiente burro, solo ingredienti semplici: farina, zucchero, uova, olio, yogurt e tanta marmellata golosa.\nMescoli tutto con le fruste, versi nella teglia e il forno fa il resto: 170° per 50 minuti e la magia è servita ✨\nProfumo di casa, soffice da far svenire, con una spolverata di zucchero a velo che la rende elegante 🍓\nSegna la ricetta e provala questo weekend! 💛",
+      "formats": {
+        "instagram": {
+          "caption": "La torta che salva ogni merenda, pronta in 5 minuti di orologio 🍰\nNiente burro, solo ingredienti semplici: farina, zucchero, uova, olio, yogurt e tanta marmellata golosa.\nMescoli tutto con le fruste, versi nella teglia e il forno fa il resto: 170° per 50 minuti e la magia è servita ✨\nProfumo di casa, soffice da far svenire, con una spolverata di zucchero a velo che la rende elegante 🍓\nSegna la ricetta e provala questo weekend! 💛"
+        },
+        "tiktok": {
+          "script": [
+            "Oggi torta 5 minuti alla marmellata, senza burro!",
+            "Prendo farina, zucchero, uova, olio, yogurt e confettura.",
+            "Mescolo tutto con le fruste elettriche, che velocità!",
+            "Verso in teglia e inforno a 170 gradi per 50 minuti.",
+            "Provo con lo stecchino, spolvero zucchero a velo. Buona!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Torta 5 minuti alla marmellata: soffice, senza burro, con quello che hai già in cucina. La fai mentre il forno si scalda. 🍰",
+            "Ingredienti: farina, zucchero, uova, olio, yogurt e confettura. Niente burro, niente attese. Solo cose semplici che hai già lì.",
+            "Butta tutto nella ciotola e mescola con le fruste elettriche. 2 minuti e l'impasto è pronto, liscio e profumato.",
+            "Inforna a 170° per 50 minuti. Prova lo stecchino: se esce asciutto, è fatta. Sforna e lascia intiepidire.",
+            "Spolvera zucchero a velo e servi. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Oggi torta 5 minuti alla marmellata, senza burro!",
+        "Prendo farina, zucchero, uova, olio, yogurt e confettura.",
+        "Mescolo tutto con le fruste elettriche, che velocità!",
+        "Verso in teglia e inforno a 170 gradi per 50 minuti.",
+        "Provo con lo stecchino, spolvero zucchero a velo. Buona!"
+      ],
+      "thread_text": [
+        "Torta 5 minuti alla marmellata: soffice, senza burro, con quello che hai già in cucina. La fai mentre il forno si scalda. 🍰",
+        "Ingredienti: farina, zucchero, uova, olio, yogurt e confettura. Niente burro, niente attese. Solo cose semplici che hai già lì.",
+        "Butta tutto nella ciotola e mescola con le fruste elettriche. 2 minuti e l'impasto è pronto, liscio e profumato.",
+        "Inforna a 170° per 50 minuti. Prova lo stecchino: se esce asciutto, è fatta. Sforna e lascia intiepidire.",
+        "Spolvera zucchero a velo e servi. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Torta 5 minuti alla marmellata",
+          "description": "Soffice, senza burro, pronta in 5 minuti di preparazione: la merenda italiana che conquista tutti.",
+          "visual_hint": "torta dorata spolverata zucchero",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "jam cake"
+        },
+        {
+          "hook": "Solo 6 ingredienti semplici",
+          "description": "Farina, zucchero, uova, olio, yogurt e confettura: niente burro, solo bontà genuina da dispensa.",
+          "visual_hint": "ingredienti su piano legno",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "baking ingredients flatlay",
+          "image": "https://images.pexels.com/photos/6507013/pexels-photo-6507013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Mescola tutto con le fruste",
+          "description": "Un unico impasto veloce con le fruste elettriche: l'impasto diventa liscio e cremoso in pochi secondi.",
+          "visual_hint": "fruste elettriche nell'impasto",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "cake batter mixing",
+          "image": "https://images.pexels.com/photos/33775628/pexels-photo-33775628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Inforna a 170° per 50 minuti",
+          "description": "Nel forno statico la torta cresce dorata e profumata, riempiendo la cucina di aroma di marmellata.",
+          "visual_hint": "torta in forno dorata",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "cake baking oven",
+          "image": "https://images.pexels.com/photos/15780778/pexels-photo-15780778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova stecchino e spolvera",
+          "description": "Stecchino asciutto, zucchero a velo in superficie e la tua torta 5 minuti è pronta da servire.",
+          "visual_hint": "zucchero a velo sulla torta",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "powdered sugar cake",
+          "image": "https://images.pexels.com/photos/5662081/pexels-photo-5662081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "dessert",
+      "signature_ingredients": [
+        "farina",
+        "yogurt",
+        "confettura"
+      ],
+      "image": "https://www.giallozafferano.it/images/366-36694/Torta-5-minuti-alla-marmellata_1200x800_wm.jpg",
+      "savedAt": "2026-10-09T16:48:34.556Z",
+      "sourceId": "96f2127c9c28d63407e6662b65c35ec2"
+    },
     {
       "schema_version": 2,
       "agent": "food",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "we-can-t-help-treating-ai-like-it-s-human-but-shou",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "We can’t help treating AI like it’s human. But should we?",
+  "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+  "pubDate": "Fri, 09 Oct 2026 16:40:14 +0000",
+  "slides": [
+    "Why do we treat AI like a person?",
+    "We blame it when things go wrong",
+    "But it has no intentions or feelings",
+    "Stop saying 'it wants' — describe outputs",
+    "Next time, ask: what does AI actually do?"
+  ],
+  "thread_text": [
+    "1. We Blame AI for Everything\n\nA chatbot gives a wrong answer, and we say it lied. A self-driving car hesitates, and we call it indecisive. The blame lands on the machine, not the people who built it.",
+    "2. The Intent Trap\n\nWe assume AI has goals because we describe it with verbs of desire. Saying 'it wants to help' makes us expect a helper, then feel betrayed when it fails. That expectation is the real problem.",
+    "3. No Brain, No Feelings\n\nAI has no intentions or emotions. It predicts patterns from data. When it apologizes, that's just a likely sequence of words, not remorse. We're talking to a mirror, not a mind.",
+    "4. Watch Your Language\n\nPhrases like 'it wants' or 'it tries' hide how AI actually works. Instead, say 'the model outputs' or 'the system generates.' This small shift keeps you focused on observable behavior, not imagined thoughts.",
+    "5. Rewrite Your Next Prompt\n\nNext time you use AI, ask: what does it actually do? Does it retrieve, calculate, or just predict the next word? Try this on one task today. Does knowing the mechanism change how you use it?"
+  ],
+  "video_script": [
+    "We blame AI when things go wrong.",
+    "But it has no intentions or feelings.",
+    "Stop saying 'it wants' — describe outputs.",
+    "Next time, ask: what does AI actually do?",
+    "Change your words, change how you use it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. We Blame AI for Everything\n\nA chatbot gives a wrong answer, and we say it lied. A self-driving car hesitates, and we call it indecisive. The blame lands on the machine, not the people who built it.",
+        "2. The Intent Trap\n\nWe assume AI has goals because we describe it with verbs of desire. Saying 'it wants to help' makes us expect a helper, then feel betrayed when it fails. That expectation is the real problem.",
+        "3. No Brain, No Feelings\n\nAI has no intentions or emotions. It predicts patterns from data. When it apologizes, that's just a likely sequence of words, not remorse. We're talking to a mirror, not a mind.",
+        "4. Watch Your Language\n\nPhrases like 'it wants' or 'it tries' hide how AI actually works. Instead, say 'the model outputs' or 'the system generates.' This small shift keeps you focused on observable behavior, not imagined thoughts.",
+        "5. Rewrite Your Next Prompt\n\nNext time you use AI, ask: what does it actually do? Does it retrieve, calculate, or just predict the next word? Try this on one task today. Does knowing the mechanism change how you use it?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "We blame AI when things go wrong.",
+        "But it has no intentions or feelings.",
+        "Stop saying 'it wants' — describe outputs.",
+        "Next time, ask: what does AI actually do?",
+        "Change your words, change how you use it."
+      ]
+    },
+    "instagram": {
+      "caption": "A chatbot gives a wrong answer and you say it lied. It didn't lie — it predicted words. 🤖\n\nWe blame AI when it fails, as if it had intentions. That's the trap: saying \"it wants to help\" makes you expect a helper, then feel betrayed.\n\nAI has no feelings or goals. It predicts patterns from data.\n\nYour content changes: stop writing \"the AI wants,\" start writing \"the model outputs.\" Describe what it does, not what you imagine it thinks.\n\nNext time you prompt, ask yourself: does it retrieve, calculate, or just predict the next word? Try it on one task today. 💬"
+    }
+  },
+  "instagram_caption": "A chatbot gives a wrong answer and you say it lied. It didn't lie — it predicted words. 🤖\n\nWe blame AI when it fails, as if it had intentions. That's the trap: saying \"it wants to help\" makes you expect a helper, then feel betrayed.\n\nAI has no feelings or goals. It predicts patterns from data.\n\nYour content changes: stop writing \"the AI wants,\" start writing \"the model outputs.\" Describe what it does, not what you imagine it thinks.\n\nNext time you prompt, ask yourself: does it retrieve, calculate, or just predict the next word? Try it on one task today. 💬",
+  "carousel_slides": [
+    {
+      "hook": "Does AI really have feelings?",
+      "description": "We say a chatbot lied, but it just predicted words. Blaming it misses the real problem: the system, not the machine.",
+      "visual_hint": "Human hand pointing at robot face",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot face"
+    },
+    {
+      "hook": "We blame AI when it fails",
+      "description": "A self-driving car hesitates and we call it indecisive. But blame belongs to the builders, not the code.",
+      "visual_hint": "Self-driving car on busy street",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "self-driving car",
+      "image": "https://images.pexels.com/photos/17219660/pexels-photo-17219660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI has no brain, no feelings",
+      "description": "It predicts patterns from data. When it apologizes, that's just a likely sequence of words, not remorse.",
+      "visual_hint": "Abstract data patterns on screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "neural network",
+      "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop saying 'it wants' to help",
+      "description": "Phrases like 'it tries' hide how AI works. Instead say 'the model outputs' or 'the system generates' observable behavior.",
+      "visual_hint": "Speech bubble with crossed out words",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "speech bubble",
+      "image": "https://images.pexels.com/photos/8015666/pexels-photo-8015666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your next prompt",
+      "description": "Before you type, ask: does it retrieve, calculate, or predict? Try it on one task today and see what changes.",
+      "visual_hint": "Hand typing on laptop keyboard",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop keyboard",
+      "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675",
+  "savedAt": "2026-10-09T16:43:10.279Z",
+  "sourceId": "3b30e472897bc4e0f58aabe52260dad4"
+}
