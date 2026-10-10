@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "3-days-to-techcrunch-disrupt-2026-meet-the-startup",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+  "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+  "pubDate": "Sat, 10 Oct 2026 15:00:00 +0000",
+  "slides": [
+    "TechCrunch Disrupt 2026: 3 days away, who's ready?",
+    "Thousands of startups, but only a few will matter",
+    "The breakout ones won't be the loudest booths",
+    "You can still grab early access before valuations spike",
+    "Pick one startup today, track it for six months"
+  ],
+  "thread_text": [
+    "3 Days Out. Who's Ready?\n\nTechCrunch Disrupt 2026 opens in 72 hours. Thousands of startups will pitch, but only a handful will still be relevant in six months.",
+    "The Loudest Booth Loses\n\nThe startups that break out rarely have the biggest signs. They're the ones with a product people actually use after the demo.",
+    "Early Access Is Closing\n\nValuations spike once the conference floor opens. The window to get in before the hype cycle reprices everything is measured in hours, not weeks.",
+    "The Six-Month Test\n\nPick one startup today and track it for six months. Most will pivot, fade, or get acquired. The ones that don't are the ones worth your attention.",
+    "Pick One Today\n\nOpen the Disrupt 2026 startup list, choose one company, and set a calendar reminder for six months. If you haven't done it, start there."
+  ],
+  "video_script": [
+    "Three days until Disrupt 2026. Thousands of startups, few will matter.",
+    "The breakout ones won't be the loudest booths.",
+    "Early access is still open, but valuations spike soon.",
+    "Pick one startup today. Track it for six months.",
+    "Open the list, choose one, set a reminder."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "3 Days Out. Who's Ready?\n\nTechCrunch Disrupt 2026 opens in 72 hours. Thousands of startups will pitch, but only a handful will still be relevant in six months.",
+        "The Loudest Booth Loses\n\nThe startups that break out rarely have the biggest signs. They're the ones with a product people actually use after the demo.",
+        "Early Access Is Closing\n\nValuations spike once the conference floor opens. The window to get in before the hype cycle reprices everything is measured in hours, not weeks.",
+        "The Six-Month Test\n\nPick one startup today and track it for six months. Most will pivot, fade, or get acquired. The ones that don't are the ones worth your attention.",
+        "Pick One Today\n\nOpen the Disrupt 2026 startup list, choose one company, and set a calendar reminder for six months. If you haven't done it, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Three days until Disrupt 2026. Thousands of startups, few will matter.",
+        "The breakout ones won't be the loudest booths.",
+        "Early access is still open, but valuations spike soon.",
+        "Pick one startup today. Track it for six months.",
+        "Open the list, choose one, set a reminder."
+      ]
+    },
+    "instagram": {
+      "caption": "TechCrunch Disrupt 2026 opens in 72 hours, and thousands of startups will pitch.\n\nOnly a handful will still matter in six months. 👀\n\nThe ones that break out usually aren't the loudest booths. They're the ones with a product people keep using after the demo.\n\nOnce the floor opens, valuations spike fast.🥇 The early window is measured in hours.\n\nSo if you publish or invest in tech, this is the moment to pick one startup yourself, before the hype reprices everything.\n\nOpen the Disrupt 2026 list and choose one company. Which one will you track for six months? 🤔"
+    }
+  },
+  "instagram_caption": "TechCrunch Disrupt 2026 opens in 72 hours, and thousands of startups will pitch.\n\nOnly a handful will still matter in six months. 👀\n\nThe ones that break out usually aren't the loudest booths. They're the ones with a product people keep using after the demo.\n\nOnce the floor opens, valuations spike fast.🥇 The early window is measured in hours.\n\nSo if you publish or invest in tech, this is the moment to pick one startup yourself, before the hype reprices everything.\n\nOpen the Disrupt 2026 list and choose one company. Which one will you track for six months? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Will your startup pick survive six months?",
+      "description": "TechCrunch Disrupt 2026 opens in 72 hours. Thousands pitch, but only a handful still matter in six months.",
+      "visual_hint": "Countdown clock over conference hall",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "conference hall"
+    },
+    {
+      "hook": "The loudest booth never wins",
+      "description": "Breakout startups rarely have the biggest signs. They have products people still use after the demo ends.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Quiet booth with small sign",
+      "image_query": "trade show booth",
+      "image": "https://images.pexels.com/photos/19012064/pexels-photo-19012064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Early access closes in hours, not weeks",
+      "description": "Valuations spike once the conference floor opens. The window before hype reprices everything is measured in hours.",
+      "visual_hint": "Closing countdown on valuation chart",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pick one startup, track for six months",
+      "description": "Most will pivot, fade, or get acquired. The ones that don't are the ones worth your attention.",
+      "visual_hint": "Calendar reminder on phone screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone calendar",
+      "image": "https://images.pexels.com/photos/13709181/pexels-photo-13709181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Pick your startup today.",
+      "description": "Open Disrupt 2026 startup list, choose one company, set a six-month calendar reminder. Start now.",
+      "visual_hint": "Hand tapping save button on phone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "startup list website",
+      "image": "https://images.pexels.com/photos/7621352/pexels-photo-7621352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/06/Startup-Battlefield-2023-2.jpg?resize=1200,800",
+  "savedAt": "2026-10-10T20:55:17.944Z",
+  "sourceId": "1a1dace668279b62bb716401d1dc4d6f"
+}
