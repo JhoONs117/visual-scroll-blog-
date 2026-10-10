@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "cloudflare-acquires-deno-to-improve-its-workers-pr",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Cloudflare acquires Deno to improve its Workers programming model",
+  "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+  "pubDate": "Sat, 10 Oct 2026 16:25:42 +0000",
+  "slides": [
+    "Cloudflare just bought Deno — what's really at stake?",
+    "Deno's runtime was built by Node's original creator",
+    "The surprise: Cloudflare acquires the competitor it once shadowed",
+    "Your Workers code may soon run Deno APIs natively",
+    "Try migrating one edge function to feel the shift"
+  ],
+  "thread_text": [
+    "1. The real Cloudflare–Deno shock\n\nCloudflare acquired Deno — the runtime originally led by Node's creator — turning a former competitor into part of its edge platform.",
+    "2. Workers may soon speak Deno\n\nEdge functions could gain native access to Deno APIs, which changes how existing server-side code can be moved to the edge.",
+    "3. From shadowing to buying\n\nCloudflare once watched Deno grow from the sidelines. Now it owns the project that many saw as an alternative to its own Workers model.",
+    "4. What this means for your stack\n\nIf Deno APIs run natively on Workers, teams may need less rewriting and fewer compatibility layers when migrating current services.",
+    "5. Test one edge function\n\nTake a simple edge function and try moving it to Workers with Deno-style APIs. If it works, your migration plan just got easier."
+  ],
+  "video_script": [
+    "Cloudflare just bought Deno, the runtime built by Node's creator.",
+    "Deno was once seen as a rival to Cloudflare's own edge platform.",
+    "Workers code may soon run Deno APIs natively, without extra glue.",
+    "That could mean less rewriting when you move functions to the edge.",
+    "Try migrating one edge function this week and see what breaks."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The real Cloudflare–Deno shock\n\nCloudflare acquired Deno — the runtime originally led by Node's creator — turning a former competitor into part of its edge platform.",
+        "2. Workers may soon speak Deno\n\nEdge functions could gain native access to Deno APIs, which changes how existing server-side code can be moved to the edge.",
+        "3. From shadowing to buying\n\nCloudflare once watched Deno grow from the sidelines. Now it owns the project that many saw as an alternative to its own Workers model.",
+        "4. What this means for your stack\n\nIf Deno APIs run natively on Workers, teams may need less rewriting and fewer compatibility layers when migrating current services.",
+        "5. Test one edge function\n\nTake a simple edge function and try moving it to Workers with Deno-style APIs. If it works, your migration plan just got easier."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Cloudflare just bought Deno, the runtime built by Node's creator.",
+        "Deno was once seen as a rival to Cloudflare's own edge platform.",
+        "Workers code may soon run Deno APIs natively, without extra glue.",
+        "That could mean less rewriting when you move functions to the edge.",
+        "Try migrating one edge function this week and see what breaks."
+      ]
+    },
+    "instagram": {
+      "caption": "Your Workers code could soon run Deno APIs natively. 🛠️\n\nCloudflare acquired Deno, the runtime built by Node's original creator — a project once seen as a competitor.\n\nThe surprise: Cloudflare watched Deno grow from the sidelines, now it owns it.\n\nFewer compatibility layers and less rewriting when moving services to the edge.\n\nSo here's the test: take one simple edge function and try migrating it to Workers with Deno-style APIs. If it runs, your migration just got easier. 👀\n\nWhat's stopping you from trying that one function this week? 🚀"
+    }
+  },
+  "instagram_caption": "Your Workers code could soon run Deno APIs natively. 🛠️\n\nCloudflare acquired Deno, the runtime built by Node's original creator — a project once seen as a competitor.\n\nThe surprise: Cloudflare watched Deno grow from the sidelines, now it owns it.\n\nFewer compatibility layers and less rewriting when moving services to the edge.\n\nSo here's the test: take one simple edge function and try migrating it to Workers with Deno-style APIs. If it runs, your migration just got easier. 👀\n\nWhat's stopping you from trying that one function this week? 🚀",
+  "carousel_slides": [
+    {
+      "hook": "Cloudflare just bought its own rival?",
+      "description": "Cloudflare acquired Deno, the runtime built by Node's creator, turning a former competitor into part of its edge platform.",
+      "visual_hint": "Two glowing server racks merging",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Who actually built Deno?",
+      "description": "Deno's runtime was created by Node's original creator, giving it deep credibility among server-side JavaScript developers.",
+      "visual_hint": "Terminal window with code lines",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer terminal",
+      "image": "https://images.pexels.com/photos/37148215/pexels-photo-37148215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "From watching to owning the rival",
+      "description": "Cloudflare once shadowed Deno from the sidelines. Now it owns the project many saw as an alternative to Workers.",
+      "visual_hint": "Network nodes connecting across globe",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "fiber optic cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your Workers code may speak Deno",
+      "description": "Edge functions could gain native access to Deno APIs, meaning less rewriting and fewer compatibility layers for migrating teams.",
+      "visual_hint": "Developer hands typing on laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "laptop keyboard",
+      "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one edge function today",
+      "description": "Take a simple edge function and try moving it to Workers with Deno-style APIs. If it works, save this post.",
+      "visual_hint": "Arrow pointing to save button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1186369127.jpeg?resize=1200,800",
+  "savedAt": "2026-10-10T16:38:53.596Z",
+  "sourceId": "f9e8c0b9db2f5f58270b6093cdc726b6"
+}

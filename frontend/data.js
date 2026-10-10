@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "ai-agent-makers-are-promising-privacy-will-they-de",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI agent makers are promising privacy — will they deliver?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+    "pubDate": "2026-10-10T13:00:00.000Z",
+    "slides": [
+      "AI agents promise privacy, but can you trust them?",
+      "Agents access your calendar, email, and files",
+      "Most run on remote servers, seeing everything",
+      "Your private data trains their next models",
+      "Ask vendors: where exactly does my data go?"
+    ],
+    "thread_text": [
+      "1. Your AI assistant reads your email\n\nBut do you know where that data actually goes? Most agents run on remote servers, not your device.",
+      "2. It's not just email\n\nAgents tap into your calendar, files, and contacts. They need this access to be useful — and that's the problem.",
+      "3. The servers see everything\n\nYour private conversations, schedules, and documents pass through third-party machines. You have no control over what happens next.",
+      "4. Your data trains their models\n\nEvery interaction you have can be used to improve their AI. Your personal life becomes their product.",
+      "5. Ask this one question\n\nWhere exactly does my data go? If the vendor can't answer clearly, you already have your answer."
+    ],
+    "video_script": [
+      "AI agents promise privacy, but can you trust them?",
+      "They access your calendar, email, and files.",
+      "Most run on remote servers, seeing everything.",
+      "Your private data trains their next models.",
+      "Ask vendors: where exactly does my data go?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your AI assistant reads your email\n\nBut do you know where that data actually goes? Most agents run on remote servers, not your device.",
+          "2. It's not just email\n\nAgents tap into your calendar, files, and contacts. They need this access to be useful — and that's the problem.",
+          "3. The servers see everything\n\nYour private conversations, schedules, and documents pass through third-party machines. You have no control over what happens next.",
+          "4. Your data trains their models\n\nEvery interaction you have can be used to improve their AI. Your personal life becomes their product.",
+          "5. Ask this one question\n\nWhere exactly does my data go? If the vendor can't answer clearly, you already have your answer."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI agents promise privacy, but can you trust them?",
+          "They access your calendar, email, and files.",
+          "Most run on remote servers, seeing everything.",
+          "Your private data trains their next models.",
+          "Ask vendors: where exactly does my data go?"
+        ]
+      },
+      "instagram": {
+        "caption": "Your AI assistant is reading your email right now.\n\nIt also taps your calendar, files, and contacts. That access is what makes it useful.\n\nMost agents run on remote servers, not your device. Your private conversations and documents pass through machines you don't control. 🔍\n\nEvery interaction can train their next model. Your personal life becomes their product. 📩\n\nIf you publish or create, this means client emails and unpublished drafts could sit on someone else's server without you knowing.\n\nAsk the vendor one thing: where exactly does my data go? 📁 If they can't answer clearly, you already have your answer."
+      }
+    },
+    "instagram_caption": "Your AI assistant is reading your email right now.\n\nIt also taps your calendar, files, and contacts. That access is what makes it useful.\n\nMost agents run on remote servers, not your device. Your private conversations and documents pass through machines you don't control. 🔍\n\nEvery interaction can train their next model. Your personal life becomes their product. 📩\n\nIf you publish or create, this means client emails and unpublished drafts could sit on someone else's server without you knowing.\n\nAsk the vendor one thing: where exactly does my data go? 📁 If they can't answer clearly, you already have your answer.",
+    "carousel_slides": [
+      {
+        "hook": "Who really sees your private data?",
+        "description": "Most AI agents run on remote servers, not your device. Your data passes through third-party machines.",
+        "visual_hint": "Rows of glowing server racks",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Your calendar, email, and files exposed",
+        "description": "Agents need access to your calendar, files, and contacts to work — and that's exactly the risk.",
+        "visual_hint": "Calendar and email app icons",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "calendar email",
+        "image": "https://images.pexels.com/photos/5386750/pexels-photo-5386750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Remote servers see everything you do",
+        "description": "Private conversations, schedules, and documents flow through servers you don't control. No oversight, no guarantees.",
+        "visual_hint": "Data streams into distant servers",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your data becomes their product",
+        "description": "Every interaction can train their next AI model. Your personal life quietly becomes their business asset.",
+        "visual_hint": "Hands typing on a laptop",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person typing laptop",
+        "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: ask this one question",
+        "description": "Ask your vendor: where exactly does my data go? If they can't answer clearly, you have your answer.",
+        "visual_hint": "Question mark over data flow",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "privacy question",
+        "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+    "savedAt": "2026-10-10T16:39:01.228Z",
+    "sourceId": "65008a0b40dae79867b2a708941c3d81"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "cloudflare-acquires-deno-to-improve-its-workers-pr",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Cloudflare acquires Deno to improve its Workers programming model",
+    "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+    "pubDate": "Sat, 10 Oct 2026 16:25:42 +0000",
+    "slides": [
+      "Cloudflare just bought Deno — what's really at stake?",
+      "Deno's runtime was built by Node's original creator",
+      "The surprise: Cloudflare acquires the competitor it once shadowed",
+      "Your Workers code may soon run Deno APIs natively",
+      "Try migrating one edge function to feel the shift"
+    ],
+    "thread_text": [
+      "1. The real Cloudflare–Deno shock\n\nCloudflare acquired Deno — the runtime originally led by Node's creator — turning a former competitor into part of its edge platform.",
+      "2. Workers may soon speak Deno\n\nEdge functions could gain native access to Deno APIs, which changes how existing server-side code can be moved to the edge.",
+      "3. From shadowing to buying\n\nCloudflare once watched Deno grow from the sidelines. Now it owns the project that many saw as an alternative to its own Workers model.",
+      "4. What this means for your stack\n\nIf Deno APIs run natively on Workers, teams may need less rewriting and fewer compatibility layers when migrating current services.",
+      "5. Test one edge function\n\nTake a simple edge function and try moving it to Workers with Deno-style APIs. If it works, your migration plan just got easier."
+    ],
+    "video_script": [
+      "Cloudflare just bought Deno, the runtime built by Node's creator.",
+      "Deno was once seen as a rival to Cloudflare's own edge platform.",
+      "Workers code may soon run Deno APIs natively, without extra glue.",
+      "That could mean less rewriting when you move functions to the edge.",
+      "Try migrating one edge function this week and see what breaks."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The real Cloudflare–Deno shock\n\nCloudflare acquired Deno — the runtime originally led by Node's creator — turning a former competitor into part of its edge platform.",
+          "2. Workers may soon speak Deno\n\nEdge functions could gain native access to Deno APIs, which changes how existing server-side code can be moved to the edge.",
+          "3. From shadowing to buying\n\nCloudflare once watched Deno grow from the sidelines. Now it owns the project that many saw as an alternative to its own Workers model.",
+          "4. What this means for your stack\n\nIf Deno APIs run natively on Workers, teams may need less rewriting and fewer compatibility layers when migrating current services.",
+          "5. Test one edge function\n\nTake a simple edge function and try moving it to Workers with Deno-style APIs. If it works, your migration plan just got easier."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Cloudflare just bought Deno, the runtime built by Node's creator.",
+          "Deno was once seen as a rival to Cloudflare's own edge platform.",
+          "Workers code may soon run Deno APIs natively, without extra glue.",
+          "That could mean less rewriting when you move functions to the edge.",
+          "Try migrating one edge function this week and see what breaks."
+        ]
+      },
+      "instagram": {
+        "caption": "Your Workers code could soon run Deno APIs natively. 🛠️\n\nCloudflare acquired Deno, the runtime built by Node's original creator — a project once seen as a competitor.\n\nThe surprise: Cloudflare watched Deno grow from the sidelines, now it owns it.\n\nFewer compatibility layers and less rewriting when moving services to the edge.\n\nSo here's the test: take one simple edge function and try migrating it to Workers with Deno-style APIs. If it runs, your migration just got easier. 👀\n\nWhat's stopping you from trying that one function this week? 🚀"
+      }
+    },
+    "instagram_caption": "Your Workers code could soon run Deno APIs natively. 🛠️\n\nCloudflare acquired Deno, the runtime built by Node's original creator — a project once seen as a competitor.\n\nThe surprise: Cloudflare watched Deno grow from the sidelines, now it owns it.\n\nFewer compatibility layers and less rewriting when moving services to the edge.\n\nSo here's the test: take one simple edge function and try migrating it to Workers with Deno-style APIs. If it runs, your migration just got easier. 👀\n\nWhat's stopping you from trying that one function this week? 🚀",
+    "carousel_slides": [
+      {
+        "hook": "Cloudflare just bought its own rival?",
+        "description": "Cloudflare acquired Deno, the runtime built by Node's creator, turning a former competitor into part of its edge platform.",
+        "visual_hint": "Two glowing server racks merging",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Who actually built Deno?",
+        "description": "Deno's runtime was created by Node's original creator, giving it deep credibility among server-side JavaScript developers.",
+        "visual_hint": "Terminal window with code lines",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer terminal",
+        "image": "https://images.pexels.com/photos/37148215/pexels-photo-37148215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "From watching to owning the rival",
+        "description": "Cloudflare once shadowed Deno from the sidelines. Now it owns the project many saw as an alternative to Workers.",
+        "visual_hint": "Network nodes connecting across globe",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "fiber optic cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your Workers code may speak Deno",
+        "description": "Edge functions could gain native access to Deno APIs, meaning less rewriting and fewer compatibility layers for migrating teams.",
+        "visual_hint": "Developer hands typing on laptop",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "laptop keyboard",
+        "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one edge function today",
+        "description": "Take a simple edge function and try moving it to Workers with Deno-style APIs. If it works, save this post.",
+        "visual_hint": "Arrow pointing to save button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1186369127.jpeg?resize=1200,800",
+    "savedAt": "2026-10-10T16:38:53.596Z",
+    "sourceId": "f9e8c0b9db2f5f58270b6093cdc726b6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "nikon-microscopic-video-competition-winner-disqual",
     "prompt_version": "1.0.0",
     "status": "published",

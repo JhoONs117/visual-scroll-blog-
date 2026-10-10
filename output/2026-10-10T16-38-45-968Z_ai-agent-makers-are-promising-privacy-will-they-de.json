@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-agent-makers-are-promising-privacy-will-they-de",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI agent makers are promising privacy — will they deliver?",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+  "pubDate": "2026-10-10T13:00:00.000Z",
+  "slides": [
+    "AI agents promise privacy, but can you trust them?",
+    "Agents access your calendar, email, and files",
+    "Most run on remote servers, seeing everything",
+    "Your private data trains their next models",
+    "Ask vendors: where exactly does my data go?"
+  ],
+  "thread_text": [
+    "1. Your AI assistant reads your email\n\nBut do you know where that data actually goes? Most agents run on remote servers, not your device.",
+    "2. It's not just email\n\nAgents tap into your calendar, files, and contacts. They need this access to be useful — and that's the problem.",
+    "3. The servers see everything\n\nYour private conversations, schedules, and documents pass through third-party machines. You have no control over what happens next.",
+    "4. Your data trains their models\n\nEvery interaction you have can be used to improve their AI. Your personal life becomes their product.",
+    "5. Ask this one question\n\nWhere exactly does my data go? If the vendor can't answer clearly, you already have your answer."
+  ],
+  "video_script": [
+    "AI agents promise privacy, but can you trust them?",
+    "They access your calendar, email, and files.",
+    "Most run on remote servers, seeing everything.",
+    "Your private data trains their next models.",
+    "Ask vendors: where exactly does my data go?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your AI assistant reads your email\n\nBut do you know where that data actually goes? Most agents run on remote servers, not your device.",
+        "2. It's not just email\n\nAgents tap into your calendar, files, and contacts. They need this access to be useful — and that's the problem.",
+        "3. The servers see everything\n\nYour private conversations, schedules, and documents pass through third-party machines. You have no control over what happens next.",
+        "4. Your data trains their models\n\nEvery interaction you have can be used to improve their AI. Your personal life becomes their product.",
+        "5. Ask this one question\n\nWhere exactly does my data go? If the vendor can't answer clearly, you already have your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI agents promise privacy, but can you trust them?",
+        "They access your calendar, email, and files.",
+        "Most run on remote servers, seeing everything.",
+        "Your private data trains their next models.",
+        "Ask vendors: where exactly does my data go?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your AI assistant is reading your email right now.\n\nIt also taps your calendar, files, and contacts. That access is what makes it useful.\n\nMost agents run on remote servers, not your device. Your private conversations and documents pass through machines you don't control. 🔍\n\nEvery interaction can train their next model. Your personal life becomes their product. 📩\n\nIf you publish or create, this means client emails and unpublished drafts could sit on someone else's server without you knowing.\n\nAsk the vendor one thing: where exactly does my data go? 📁 If they can't answer clearly, you already have your answer."
+    }
+  },
+  "instagram_caption": "Your AI assistant is reading your email right now.\n\nIt also taps your calendar, files, and contacts. That access is what makes it useful.\n\nMost agents run on remote servers, not your device. Your private conversations and documents pass through machines you don't control. 🔍\n\nEvery interaction can train their next model. Your personal life becomes their product. 📩\n\nIf you publish or create, this means client emails and unpublished drafts could sit on someone else's server without you knowing.\n\nAsk the vendor one thing: where exactly does my data go? 📁 If they can't answer clearly, you already have your answer.",
+  "carousel_slides": [
+    {
+      "hook": "Who really sees your private data?",
+      "description": "Most AI agents run on remote servers, not your device. Your data passes through third-party machines.",
+      "visual_hint": "Rows of glowing server racks",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Your calendar, email, and files exposed",
+      "description": "Agents need access to your calendar, files, and contacts to work — and that's exactly the risk.",
+      "visual_hint": "Calendar and email app icons",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "calendar email",
+      "image": "https://images.pexels.com/photos/5386750/pexels-photo-5386750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Remote servers see everything you do",
+      "description": "Private conversations, schedules, and documents flow through servers you don't control. No oversight, no guarantees.",
+      "visual_hint": "Data streams into distant servers",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your data becomes their product",
+      "description": "Every interaction can train their next AI model. Your personal life quietly becomes their business asset.",
+      "visual_hint": "Hands typing on a laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person typing laptop",
+      "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: ask this one question",
+      "description": "Ask your vendor: where exactly does my data go? If they can't answer clearly, you have your answer.",
+      "visual_hint": "Question mark over data flow",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "privacy question",
+      "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+  "savedAt": "2026-10-10T16:39:01.228Z",
+  "sourceId": "65008a0b40dae79867b2a708941c3d81"
+}
