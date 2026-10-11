@@ -1,0 +1,105 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "trump-s-attempt-to-rename-ai-is-looking-awfully-ar",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Trump’s attempt to rename AI is looking awfully artificial",
+  "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+  "pubDate": "2026-10-09T14:25:43.000Z",
+  "slides": [
+    "Why is Trump renaming AI?",
+    "The new name leans ideological, not technical",
+    "Even his allies hesitate to repeat it",
+    "Global labs won't adopt Washington's label",
+    "Watch what Washington funds, not what it calls it"
+  ],
+  "thread_text": [
+    "1. Trump's AI rebrand\n\nThe White House pushed a name change for AI that has nothing to do with technology — and everything to do with politics. It's already dividing the industry.",
+    "2. Ideology, not engineering\n\nThe new label signals a worldview, not a capability. That's why it doesn't appear in any technical standard or research paper.",
+    "3. Allies won't say it\n\nEven close political partners are avoiding the phrase in public. Behind closed doors, they worry it ties them to a narrative they can't control.",
+    "4. The world ignores it\n\nLabs in Europe and Asia won't adopt Washington's branding. They'll keep using 'AI' — and competing on results, not rhetoric.",
+    "5. Follow the money, not the name\n\nCheck where US AI research grants actually go next quarter. If you want to know what Washington really thinks, read the budget, not the speech."
+  ],
+  "video_script": [
+    "Trump wants to rename AI.",
+    "But the new name is pure politics.",
+    "Even his allies won't repeat it.",
+    "Global labs will ignore the label.",
+    "Watch what Washington funds, not says."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Trump's AI rebrand\n\nThe White House pushed a name change for AI that has nothing to do with technology — and everything to do with politics. It's already dividing the industry.",
+        "2. Ideology, not engineering\n\nThe new label signals a worldview, not a capability. That's why it doesn't appear in any technical standard or research paper.",
+        "3. Allies won't say it\n\nEven close political partners are avoiding the phrase in public. Behind closed doors, they worry it ties them to a narrative they can't control.",
+        "4. The world ignores it\n\nLabs in Europe and Asia won't adopt Washington's branding. They'll keep using 'AI' — and competing on results, not rhetoric.",
+        "5. Follow the money, not the name\n\nCheck where US AI research grants actually go next quarter. If you want to know what Washington really thinks, read the budget, not the speech."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Trump wants to rename AI.",
+        "But the new name is pure politics.",
+        "Even his allies won't repeat it.",
+        "Global labs will ignore the label.",
+        "Watch what Washington funds, not says."
+      ]
+    },
+    "instagram": {
+      "caption": "Washington wants to rebrand AI with a political label — and even Trump's own allies won't repeat it in public. 🤔\n\nThe new name signals ideology, not capability, so it appears in no technical standard or research paper.\n\nLabs in Europe and Asia keep calling it AI, competing on results instead of rhetoric.\n\nIf you use AI tools daily, nothing changes yet — same models, same APIs. What shifts is how Washington funds research, and that budget lands next quarter. 📊\n\nCheck where US AI grants go in the next three months: does the naming affect funding, or just the speeches? 👀"
+    }
+  },
+  "instagram_caption": "Washington wants to rebrand AI with a political label — and even Trump's own allies won't repeat it in public. 🤔\n\nThe new name signals ideology, not capability, so it appears in no technical standard or research paper.\n\nLabs in Europe and Asia keep calling it AI, competing on results instead of rhetoric.\n\nIf you use AI tools daily, nothing changes yet — same models, same APIs. What shifts is how Washington funds research, and that budget lands next quarter. 📊\n\nCheck where US AI grants go in the next three months: does the naming affect funding, or just the speeches? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Even His Allies Won't Say It",
+      "description": "Close political partners avoid the new AI label in public, worried it ties them to a narrative they can't control.",
+      "visual_hint": "Empty podium with microphones, no speaker",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "empty podium microphones"
+    },
+    {
+      "hook": "A Name Built On Ideology",
+      "description": "The rebrand signals a worldview, not a capability—so it appears in no technical standard or research paper.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "description_note": "",
+      "visual_hint": "Stack of research papers with no new label",
+      "image_query": "research papers stack",
+      "image": "https://images.pexels.com/photos/17869840/pexels-photo-17869840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Why Rebrand A Technology?",
+      "description": "The White House pushed an AI name change that's political—not technical—and it's already dividing the industry.",
+      "visual_hint": "White House facade with flag",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "White House facade",
+      "image": "https://images.pexels.com/photos/18682447/pexels-photo-18682447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The World Won't Adopt It",
+      "description": "Labs in Europe and Asia keep using 'AI', competing on results rather than Washington's branding.",
+      "visual_hint": "Global server room, multiple flags",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "server room datacenter",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save This Before Next Quarter",
+      "description": "Follow where US AI research grants actually go—read the budget, not the speech. Save and share.",
+      "visual_hint": "Budget document with highlighted numbers",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "budget document chart",
+      "image": "https://images.pexels.com/photos/7947637/pexels-photo-7947637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.728009376723%2C100%2C78.543981246555&amp;w=1200",
+  "savedAt": "2026-10-11T21:17:13.628Z",
+  "sourceId": "f4d9eec7f132858c39c524b96193a38e"
+}

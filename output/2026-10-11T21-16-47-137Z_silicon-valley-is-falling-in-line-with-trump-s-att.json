@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "silicon-valley-is-falling-in-line-with-trump-s-att",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+  "pubDate": "2026-10-11T18:33:56.000Z",
+  "slides": [
+    "Tech giants quietly accept Trump's AI rebranding. Why?",
+    "The rename reshapes how Washington funds research priorities.",
+    "Some engineers call it propaganda, yet comply to keep contracts.",
+    "Your AI tools may carry new political labels soon.",
+    "Ask vendors what the name change means for you."
+  ],
+  "thread_text": [
+    "1. The Quiet Rebrand\n\nTech giants are quietly accepting Trump's AI rebranding. The rename directly reshapes how Washington funds research priorities.",
+    "2. Money Talks\n\nFederal AI grants now follow the new branding. Labs that resist risk losing billions in contracts.",
+    "3. Silent Engineers\n\nSome engineers call it propaganda but comply to keep contracts. Internal pushback stays behind closed doors.",
+    "4. Your Tools Changed\n\nAI tools you use daily may soon carry political labels. The branding shift reaches consumer products.",
+    "5. Ask Before You Buy\n\nAsk vendors what the name change means for you. If they can't explain it, question the tool."
+  ],
+  "video_script": [
+    "Tech giants quietly accept Trump's AI rebranding.",
+    "The rename reshapes how Washington funds research priorities.",
+    "Some engineers call it propaganda but comply to keep contracts.",
+    "Your AI tools may carry new political labels soon.",
+    "Ask vendors what the name change means for you."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Quiet Rebrand\n\nTech giants are quietly accepting Trump's AI rebranding. The rename directly reshapes how Washington funds research priorities.",
+        "2. Money Talks\n\nFederal AI grants now follow the new branding. Labs that resist risk losing billions in contracts.",
+        "3. Silent Engineers\n\nSome engineers call it propaganda but comply to keep contracts. Internal pushback stays behind closed doors.",
+        "4. Your Tools Changed\n\nAI tools you use daily may soon carry political labels. The branding shift reaches consumer products.",
+        "5. Ask Before You Buy\n\nAsk vendors what the name change means for you. If they can't explain it, question the tool."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Tech giants quietly accept Trump's AI rebranding.",
+        "The rename reshapes how Washington funds research priorities.",
+        "Some engineers call it propaganda but comply to keep contracts.",
+        "Your AI tools may carry new political labels soon.",
+        "Ask vendors what the name change means for you."
+      ]
+    },
+    "instagram": {
+      "caption": "Federal AI research grants are now tied to a rebranded name for the technology, and labs that resist risk losing billions in contracts. 💰\n\nTech giants are quietly accepting the change, reshaping how Washington funds research priorities.\n\nEngineers who call it propaganda still comply, because contracts pay their salaries. 🤐\n\nThe label can reach the everyday tools you use to write, design, and publish.\n\nAsk your vendor what the new name means for your work. If they can't explain it, question the tool. 🤔"
+    }
+  },
+  "instagram_caption": "Federal AI research grants are now tied to a rebranded name for the technology, and labs that resist risk losing billions in contracts. 💰\n\nTech giants are quietly accepting the change, reshaping how Washington funds research priorities.\n\nEngineers who call it propaganda still comply, because contracts pay their salaries. 🤐\n\nThe label can reach the everyday tools you use to write, design, and publish.\n\nAsk your vendor what the new name means for your work. If they can't explain it, question the tool. 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Engineers call it propaganda, still comply",
+      "description": "Some engineers resist the new AI branding but stay silent to protect federal contracts worth billions. Pushback stays behind closed doors.",
+      "visual_hint": "Silent engineer at computer screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer server room"
+    },
+    {
+      "hook": "Washington funding follows the new name",
+      "description": "Federal AI grants now track the rebranded terminology. Labs that refuse to adopt it risk losing critical research funding.",
+      "visual_hint": "Government building with grant documents",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "government building washington",
+      "image": "https://images.pexels.com/photos/33705055/pexels-photo-33705055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Money silences the internal pushback",
+      "description": "Contract-dependent labs comply quietly as billions in federal AI contracts hinge on adopting the new political labels.",
+      "visual_hint": "Signed contract on desk",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "business contract signing",
+      "image": "https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your daily AI tools will change labels",
+      "description": "The rebranding reaches consumer products. AI tools you use daily may soon carry political labels you never chose.",
+      "visual_hint": "Smartphone with AI app icons",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone app screen",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask vendors what the rename means",
+      "description": "Before you buy, ask vendors to explain the name change. If they can't, question the tool and save this post.",
+      "visual_hint": "Hand holding phone asking vendor",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "customer service call",
+      "image": "https://images.pexels.com/photos/8101355/pexels-photo-8101355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.752607989199%2C100%2C78.494784021602&amp;w=1200",
+  "savedAt": "2026-10-11T21:17:05.073Z",
+  "sourceId": "5e9f78f70319a3a9aba563942aaa76cd"
+}

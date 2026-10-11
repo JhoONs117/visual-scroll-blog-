@@ -3,6 +3,319 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "trump-s-attempt-to-rename-ai-is-looking-awfully-ar",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Trump’s attempt to rename AI is looking awfully artificial",
+      "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "pubDate": "2026-10-09T14:25:43.000Z",
+      "slides": [
+        "Why is Trump renaming AI?",
+        "The new name leans ideological, not technical",
+        "Even his allies hesitate to repeat it",
+        "Global labs won't adopt Washington's label",
+        "Watch what Washington funds, not what it calls it"
+      ],
+      "thread_text": [
+        "1. Trump's AI rebrand\n\nThe White House pushed a name change for AI that has nothing to do with technology — and everything to do with politics. It's already dividing the industry.",
+        "2. Ideology, not engineering\n\nThe new label signals a worldview, not a capability. That's why it doesn't appear in any technical standard or research paper.",
+        "3. Allies won't say it\n\nEven close political partners are avoiding the phrase in public. Behind closed doors, they worry it ties them to a narrative they can't control.",
+        "4. The world ignores it\n\nLabs in Europe and Asia won't adopt Washington's branding. They'll keep using 'AI' — and competing on results, not rhetoric.",
+        "5. Follow the money, not the name\n\nCheck where US AI research grants actually go next quarter. If you want to know what Washington really thinks, read the budget, not the speech."
+      ],
+      "video_script": [
+        "Trump wants to rename AI.",
+        "But the new name is pure politics.",
+        "Even his allies won't repeat it.",
+        "Global labs will ignore the label.",
+        "Watch what Washington funds, not says."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Trump's AI rebrand\n\nThe White House pushed a name change for AI that has nothing to do with technology — and everything to do with politics. It's already dividing the industry.",
+            "2. Ideology, not engineering\n\nThe new label signals a worldview, not a capability. That's why it doesn't appear in any technical standard or research paper.",
+            "3. Allies won't say it\n\nEven close political partners are avoiding the phrase in public. Behind closed doors, they worry it ties them to a narrative they can't control.",
+            "4. The world ignores it\n\nLabs in Europe and Asia won't adopt Washington's branding. They'll keep using 'AI' — and competing on results, not rhetoric.",
+            "5. Follow the money, not the name\n\nCheck where US AI research grants actually go next quarter. If you want to know what Washington really thinks, read the budget, not the speech."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Trump wants to rename AI.",
+            "But the new name is pure politics.",
+            "Even his allies won't repeat it.",
+            "Global labs will ignore the label.",
+            "Watch what Washington funds, not says."
+          ]
+        },
+        "instagram": {
+          "caption": "Washington wants to rebrand AI with a political label — and even Trump's own allies won't repeat it in public. 🤔\n\nThe new name signals ideology, not capability, so it appears in no technical standard or research paper.\n\nLabs in Europe and Asia keep calling it AI, competing on results instead of rhetoric.\n\nIf you use AI tools daily, nothing changes yet — same models, same APIs. What shifts is how Washington funds research, and that budget lands next quarter. 📊\n\nCheck where US AI grants go in the next three months: does the naming affect funding, or just the speeches? 👀"
+        }
+      },
+      "instagram_caption": "Washington wants to rebrand AI with a political label — and even Trump's own allies won't repeat it in public. 🤔\n\nThe new name signals ideology, not capability, so it appears in no technical standard or research paper.\n\nLabs in Europe and Asia keep calling it AI, competing on results instead of rhetoric.\n\nIf you use AI tools daily, nothing changes yet — same models, same APIs. What shifts is how Washington funds research, and that budget lands next quarter. 📊\n\nCheck where US AI grants go in the next three months: does the naming affect funding, or just the speeches? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Even His Allies Won't Say It",
+          "description": "Close political partners avoid the new AI label in public, worried it ties them to a narrative they can't control.",
+          "visual_hint": "Empty podium with microphones, no speaker",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "empty podium microphones"
+        },
+        {
+          "hook": "A Name Built On Ideology",
+          "description": "The rebrand signals a worldview, not a capability—so it appears in no technical standard or research paper.",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "description_note": "",
+          "visual_hint": "Stack of research papers with no new label",
+          "image_query": "research papers stack",
+          "image": "https://images.pexels.com/photos/17869840/pexels-photo-17869840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Why Rebrand A Technology?",
+          "description": "The White House pushed an AI name change that's political—not technical—and it's already dividing the industry.",
+          "visual_hint": "White House facade with flag",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "White House facade",
+          "image": "https://images.pexels.com/photos/18682447/pexels-photo-18682447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The World Won't Adopt It",
+          "description": "Labs in Europe and Asia keep using 'AI', competing on results rather than Washington's branding.",
+          "visual_hint": "Global server room, multiple flags",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "server room datacenter",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save This Before Next Quarter",
+          "description": "Follow where US AI research grants actually go—read the budget, not the speech. Save and share.",
+          "visual_hint": "Budget document with highlighted numbers",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "budget document chart",
+          "image": "https://images.pexels.com/photos/7947637/pexels-photo-7947637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.728009376723%2C100%2C78.543981246555&amp;w=1200",
+      "savedAt": "2026-10-11T21:17:13.628Z",
+      "sourceId": "f4d9eec7f132858c39c524b96193a38e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "silicon-valley-is-falling-in-line-with-trump-s-att",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "pubDate": "2026-10-11T18:33:56.000Z",
+      "slides": [
+        "Tech giants quietly accept Trump's AI rebranding. Why?",
+        "The rename reshapes how Washington funds research priorities.",
+        "Some engineers call it propaganda, yet comply to keep contracts.",
+        "Your AI tools may carry new political labels soon.",
+        "Ask vendors what the name change means for you."
+      ],
+      "thread_text": [
+        "1. The Quiet Rebrand\n\nTech giants are quietly accepting Trump's AI rebranding. The rename directly reshapes how Washington funds research priorities.",
+        "2. Money Talks\n\nFederal AI grants now follow the new branding. Labs that resist risk losing billions in contracts.",
+        "3. Silent Engineers\n\nSome engineers call it propaganda but comply to keep contracts. Internal pushback stays behind closed doors.",
+        "4. Your Tools Changed\n\nAI tools you use daily may soon carry political labels. The branding shift reaches consumer products.",
+        "5. Ask Before You Buy\n\nAsk vendors what the name change means for you. If they can't explain it, question the tool."
+      ],
+      "video_script": [
+        "Tech giants quietly accept Trump's AI rebranding.",
+        "The rename reshapes how Washington funds research priorities.",
+        "Some engineers call it propaganda but comply to keep contracts.",
+        "Your AI tools may carry new political labels soon.",
+        "Ask vendors what the name change means for you."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Quiet Rebrand\n\nTech giants are quietly accepting Trump's AI rebranding. The rename directly reshapes how Washington funds research priorities.",
+            "2. Money Talks\n\nFederal AI grants now follow the new branding. Labs that resist risk losing billions in contracts.",
+            "3. Silent Engineers\n\nSome engineers call it propaganda but comply to keep contracts. Internal pushback stays behind closed doors.",
+            "4. Your Tools Changed\n\nAI tools you use daily may soon carry political labels. The branding shift reaches consumer products.",
+            "5. Ask Before You Buy\n\nAsk vendors what the name change means for you. If they can't explain it, question the tool."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Tech giants quietly accept Trump's AI rebranding.",
+            "The rename reshapes how Washington funds research priorities.",
+            "Some engineers call it propaganda but comply to keep contracts.",
+            "Your AI tools may carry new political labels soon.",
+            "Ask vendors what the name change means for you."
+          ]
+        },
+        "instagram": {
+          "caption": "Federal AI research grants are now tied to a rebranded name for the technology, and labs that resist risk losing billions in contracts. 💰\n\nTech giants are quietly accepting the change, reshaping how Washington funds research priorities.\n\nEngineers who call it propaganda still comply, because contracts pay their salaries. 🤐\n\nThe label can reach the everyday tools you use to write, design, and publish.\n\nAsk your vendor what the new name means for your work. If they can't explain it, question the tool. 🤔"
+        }
+      },
+      "instagram_caption": "Federal AI research grants are now tied to a rebranded name for the technology, and labs that resist risk losing billions in contracts. 💰\n\nTech giants are quietly accepting the change, reshaping how Washington funds research priorities.\n\nEngineers who call it propaganda still comply, because contracts pay their salaries. 🤐\n\nThe label can reach the everyday tools you use to write, design, and publish.\n\nAsk your vendor what the new name means for your work. If they can't explain it, question the tool. 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Engineers call it propaganda, still comply",
+          "description": "Some engineers resist the new AI branding but stay silent to protect federal contracts worth billions. Pushback stays behind closed doors.",
+          "visual_hint": "Silent engineer at computer screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer server room"
+        },
+        {
+          "hook": "Washington funding follows the new name",
+          "description": "Federal AI grants now track the rebranded terminology. Labs that refuse to adopt it risk losing critical research funding.",
+          "visual_hint": "Government building with grant documents",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "government building washington",
+          "image": "https://images.pexels.com/photos/33705055/pexels-photo-33705055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Money silences the internal pushback",
+          "description": "Contract-dependent labs comply quietly as billions in federal AI contracts hinge on adopting the new political labels.",
+          "visual_hint": "Signed contract on desk",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "business contract signing",
+          "image": "https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your daily AI tools will change labels",
+          "description": "The rebranding reaches consumer products. AI tools you use daily may soon carry political labels you never chose.",
+          "visual_hint": "Smartphone with AI app icons",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone app screen",
+          "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask vendors what the rename means",
+          "description": "Before you buy, ask vendors to explain the name change. If they can't, question the tool and save this post.",
+          "visual_hint": "Hand holding phone asking vendor",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "customer service call",
+          "image": "https://images.pexels.com/photos/8101355/pexels-photo-8101355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.752607989199%2C100%2C78.494784021602&amp;w=1200",
+      "savedAt": "2026-10-11T21:17:05.073Z",
+      "sourceId": "5e9f78f70319a3a9aba563942aaa76cd"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "can-the-ai-industry-persuade-data-center-opponents",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "pubDate": "Sun, 11 Oct 2026 16:52:33 +0000",
+      "slides": [
+        "Can data centers win trust by dropping NDAs?",
+        "Communities fear hidden water and power costs.",
+        "But some operators now publish full environmental data.",
+        "You can demand those numbers before any approval vote.",
+        "Ask your local operator: will you sign a transparency pledge?"
+      ],
+      "thread_text": [
+        "1. The NDA era is ending\n\nData centers have long hidden their water and power usage behind non-disclosure agreements. Now some operators are voluntarily publishing full environmental data.",
+        "2. What they didn't want you to see\n\nCommunities near these facilities have been hit with skyrocketing utility bills and drained aquifers. They had no way to prove it until now.",
+        "3. A new transparency playbook\n\nA handful of operators are releasing real-time water consumption and energy source data. It's a direct challenge to the industry's default secrecy.",
+        "4. Your leverage before the vote\n\nLocal approval boards often greenlight projects without hard numbers. You can demand environmental disclosures as a condition before any vote.",
+        "5. Ask them this one question\n\n\"Will you sign a transparency pledge?\" If they hesitate, you have your answer. Ask at the next town hall."
+      ],
+      "video_script": [
+        "Data centers used to hide their water and power use.",
+        "Communities got stuck with the bills and no proof.",
+        "Now some operators publish full environmental data openly.",
+        "Before any approval vote, demand those numbers yourself.",
+        "Ask your local operator: will you sign a transparency pledge?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The NDA era is ending\n\nData centers have long hidden their water and power usage behind non-disclosure agreements. Now some operators are voluntarily publishing full environmental data.",
+            "2. What they didn't want you to see\n\nCommunities near these facilities have been hit with skyrocketing utility bills and drained aquifers. They had no way to prove it until now.",
+            "3. A new transparency playbook\n\nA handful of operators are releasing real-time water consumption and energy source data. It's a direct challenge to the industry's default secrecy.",
+            "4. Your leverage before the vote\n\nLocal approval boards often greenlight projects without hard numbers. You can demand environmental disclosures as a condition before any vote.",
+            "5. Ask them this one question\n\n\"Will you sign a transparency pledge?\" If they hesitate, you have your answer. Ask at the next town hall."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Data centers used to hide their water and power use.",
+            "Communities got stuck with the bills and no proof.",
+            "Now some operators publish full environmental data openly.",
+            "Before any approval vote, demand those numbers yourself.",
+            "Ask your local operator: will you sign a transparency pledge?"
+          ]
+        },
+        "instagram": {
+          "caption": "Some data center operators are now publishing their water and power numbers instead of hiding them behind non-disclosure agreements. 💧\n\nCommunities near these facilities watched utility bills climb and aquifers drain, with no way to prove where it came from.\n\nNDAs kept the real costs invisible until approval votes were already done.\n\nNow a few operators release real-time water use and energy source data — a direct challenge to the industry's default secrecy.\n\nIf you cover local infrastructure, you can demand those numbers before any vote, not after.\n\nAsk your local operator: will you sign a transparency pledge? ⚡"
+        }
+      },
+      "instagram_caption": "Some data center operators are now publishing their water and power numbers instead of hiding them behind non-disclosure agreements. 💧\n\nCommunities near these facilities watched utility bills climb and aquifers drain, with no way to prove where it came from.\n\nNDAs kept the real costs invisible until approval votes were already done.\n\nNow a few operators release real-time water use and energy source data — a direct challenge to the industry's default secrecy.\n\nIf you cover local infrastructure, you can demand those numbers before any vote, not after.\n\nAsk your local operator: will you sign a transparency pledge? ⚡",
+      "carousel_slides": [
+        {
+          "hook": "Will they sign a transparency pledge?",
+          "description": "Some operators now publish full environmental data voluntarily, but most still hide water and power use behind NDAs.",
+          "visual_hint": "Data center exterior with visible cooling towers",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "data center"
+        },
+        {
+          "hook": "Hidden water and power costs hit communities",
+          "description": "Nearby residents face skyrocketing utility bills and drained aquifers, with no way to prove the cause.",
+          "visual_hint": "Split image of dry cracked earth and electricity meter",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "dry cracked earth",
+          "image": "https://images.pexels.com/photos/23331430/pexels-photo-23331430.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "A new transparency playbook is emerging",
+          "description": "A handful of operators release real-time water consumption and energy source data, challenging the industry's default secrecy.",
+          "visual_hint": "Dashboard showing real-time water and energy metrics",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "dashboard screen",
+          "image": "https://images.pexels.com/photos/35297914/pexels-photo-35297914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Demand hard numbers before any approval vote",
+          "description": "Local approval boards often greenlight projects without environmental disclosures. You can demand them as a condition.",
+          "visual_hint": "Person holding a document with charts at a meeting",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "town hall meeting",
+          "image": "https://images.pexels.com/photos/17404692/pexels-photo-17404692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this and ask your local operator",
+          "description": "At the next town hall, ask: 'Will you sign a transparency pledge?' If they hesitate, you have your answer.",
+          "visual_hint": "Megaphone with a question mark icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "megaphone",
+          "image": "https://images.pexels.com/photos/8898861/pexels-photo-8898861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/9-DSCF1649.jpg?resize=800,1200",
+      "savedAt": "2026-10-11T21:16:54.913Z",
+      "sourceId": "0cb44539674b2ac88e1709e4d4fcdb6e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "learning-to-use-local-ai-is-exciting-overwhelming-",
       "prompt_version": "1.0.0",
       "status": "published",
