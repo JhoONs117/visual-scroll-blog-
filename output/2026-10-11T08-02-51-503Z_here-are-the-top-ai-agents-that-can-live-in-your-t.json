@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "here-are-the-top-ai-agents-that-can-live-in-your-t",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Here are the top AI agents that can live in your text messages ",
+  "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+  "pubDate": "Sat, 10 Oct 2026 14:00:00 +0000",
+  "slides": [
+    "Can an AI agent live in your texts?",
+    "Dozens of startups now embed agents inside SMS threads",
+    "They read every message—even your private ones",
+    "You can book, order, and schedule without apps",
+    "Which one deserves your phone number?"
+  ],
+  "thread_text": [
+    "1. AI Now Reads Your Texts\n\nDozens of startups are embedding AI agents directly inside SMS threads. They see every message, including private ones.",
+    "2. The Agent in Your Pocket\n\nThese agents don't need an app—they live in your messages. They can book, order, and schedule for you.",
+    "3. Privacy at What Cost?\n\nTo work, they read everything. That means bank alerts, medical info, personal chats. Are you comfortable with that?",
+    "4. Which One Gets Your Number?\n\nWith so many options, picking an agent is like choosing a new friend. But this friend has access to your entire digital life.",
+    "5. Test It Yourself\n\nDownload one of these agents and try a simple task. Does the convenience outweigh the privacy risk? Only you can decide."
+  ],
+  "video_script": [
+    "Imagine an AI living in your text messages.",
+    "It reads everything, even your private chats.",
+    "Book, order, schedule without any apps.",
+    "Dozens of startups want your phone number.",
+    "Which one will you trust with your texts?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Now Reads Your Texts\n\nDozens of startups are embedding AI agents directly inside SMS threads. They see every message, including private ones.",
+        "2. The Agent in Your Pocket\n\nThese agents don't need an app—they live in your messages. They can book, order, and schedule for you.",
+        "3. Privacy at What Cost?\n\nTo work, they read everything. That means bank alerts, medical info, personal chats. Are you comfortable with that?",
+        "4. Which One Gets Your Number?\n\nWith so many options, picking an agent is like choosing a new friend. But this friend has access to your entire digital life.",
+        "5. Test It Yourself\n\nDownload one of these agents and try a simple task. Does the convenience outweigh the privacy risk? Only you can decide."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Imagine an AI living in your text messages.",
+        "It reads everything, even your private chats.",
+        "Book, order, schedule without any apps.",
+        "Dozens of startups want your phone number.",
+        "Which one will you trust with your texts?"
+      ]
+    },
+    "instagram": {
+      "caption": "Dozens of startups now put an AI agent inside your SMS thread—it reads every message, including private ones.\n\nNo app to install. You just text it and it books, orders, and schedules for you. 💬\n\nBut to do that, it sees your bank alerts, medical info, and personal chats. 📱\n\nIf you write or publish for a living, your work conversations may now pass through an agent you never chose. ⚠️\n\nWould you hand your number to something that reads everything you send?"
+    }
+  },
+  "instagram_caption": "Dozens of startups now put an AI agent inside your SMS thread—it reads every message, including private ones.\n\nNo app to install. You just text it and it books, orders, and schedules for you. 💬\n\nBut to do that, it sees your bank alerts, medical info, and personal chats. 📱\n\nIf you write or publish for a living, your work conversations may now pass through an agent you never chose. ⚠️\n\nWould you hand your number to something that reads everything you send?",
+  "carousel_slides": [
+    {
+      "hook": "AI agents are reading your private texts",
+      "description": "Dozens of startups embed AI agents inside SMS threads, scanning every message including bank alerts and medical info.",
+      "visual_hint": "Smartphone screen with glowing message bubbles",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "smartphone text messages"
+    },
+    {
+      "hook": "No app needed—just text",
+      "description": "These agents live inside your messages and can book, order, and schedule tasks without any separate application.",
+      "visual_hint": "Chat interface with booking confirmation",
+      "layout_type": "right-focus",
+      "icon": "check",
+      "image_query": "chat interface screen",
+      "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "They read everything, even your secrets",
+      "description": "To function, agents scan all your texts: bank alerts, medical records, personal chats. Privacy becomes the hidden cost.",
+      "visual_hint": "Eye icon over a stream of text",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "security camera closeup",
+      "image": "https://images.pexels.com/photos/14773064/pexels-photo-14773064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Which agent deserves your number?",
+      "description": "Choosing an agent feels like picking a friend, but this friend gets access to your entire digital life.",
+      "visual_hint": "Hand holding phone with multiple chat options",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try one—then decide",
+      "description": "Download an agent, test a simple task, and ask: does convenience outweigh the privacy risk? Save this for later.",
+      "visual_hint": "Phone with download button and question mark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "app download screen",
+      "image": "https://images.pexels.com/photos/6473732/pexels-photo-6473732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+  "savedAt": "2026-10-11T08:02:59.333Z",
+  "sourceId": "d8d2c1c3d579359d3cb70c09dc3e39e0"
+}
