@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "satya-nadella-says-we-should-assume-all-ai-models-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "pubDate": "2026-10-10T22:10:17.000Z",
+      "slides": [
+        "What if your AI is already compromised?",
+        "Microsoft CEO warns: assume all AI models are compromised.",
+        "Security experts debate what 'compromised' really means.",
+        "Audit your AI tools for hidden backdoors now.",
+        "Trust no model without verification."
+      ],
+      "thread_text": [
+        "1. Your AI might be compromised\n\nMicrosoft's CEO says you should assume every AI model you use has already been tampered with. Not a possibility — a baseline.",
+        "2. The assumption we ignore\n\nMost teams treat model poisoning as a rare edge case. The warning flips that: treat every deployed model as potentially hostile until proven otherwise.",
+        "3. What 'compromised' actually means\n\nSecurity researchers can't agree. It could be training data injection, weight manipulation, or a hidden trigger — each demands a different defense.",
+        "4. The backdoor you can't see\n\nA compromised model behaves normally 99% of the time. That 1% is what attackers wait for — and standard testing won't catch it.",
+        "5. Audit before you trust\n\nRun a red-team prompt on your main AI tool this week. If it fails, you've found your first real priority."
+      ],
+      "video_script": [
+        "Your AI might already be compromised.",
+        "Microsoft's CEO says assume all models are.",
+        "Experts can't agree what compromised really means.",
+        "Audit your AI tools for hidden backdoors now.",
+        "Trust no model without verification."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your AI might be compromised\n\nMicrosoft's CEO says you should assume every AI model you use has already been tampered with. Not a possibility — a baseline.",
+            "2. The assumption we ignore\n\nMost teams treat model poisoning as a rare edge case. The warning flips that: treat every deployed model as potentially hostile until proven otherwise.",
+            "3. What 'compromised' actually means\n\nSecurity researchers can't agree. It could be training data injection, weight manipulation, or a hidden trigger — each demands a different defense.",
+            "4. The backdoor you can't see\n\nA compromised model behaves normally 99% of the time. That 1% is what attackers wait for — and standard testing won't catch it.",
+            "5. Audit before you trust\n\nRun a red-team prompt on your main AI tool this week. If it fails, you've found your first real priority."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your AI might already be compromised.",
+            "Microsoft's CEO says assume all models are.",
+            "Experts can't agree what compromised really means.",
+            "Audit your AI tools for hidden backdoors now.",
+            "Trust no model without verification."
+          ]
+        },
+        "instagram": {
+          "caption": "Assume every AI model you use has already been tampered with. That's Microsoft CEO Satya Nadella's baseline, not a worst-case scenario. 🚨\n\nPoisoning could hide in training data, in the model's weights, or in a trigger that sleeps until the right prompt.\n\nA compromised model acts normal 99% of the time — and standard testing won't catch that 1%. 🔍\n\nIf you publish or build with AI, audit your main tool now. Run a red-team prompt on it this week.\n\nIf it fails, what's your next move? 🛠️"
+        }
+      },
+      "instagram_caption": "Assume every AI model you use has already been tampered with. That's Microsoft CEO Satya Nadella's baseline, not a worst-case scenario. 🚨\n\nPoisoning could hide in training data, in the model's weights, or in a trigger that sleeps until the right prompt.\n\nA compromised model acts normal 99% of the time — and standard testing won't catch that 1%. 🔍\n\nIf you publish or build with AI, audit your main tool now. Run a red-team prompt on it this week.\n\nIf it fails, what's your next move? 🛠️",
+      "carousel_slides": [
+        {
+          "hook": "Is your AI already compromised?",
+          "description": "Microsoft's CEO says assume every AI model is hostile until proven otherwise — not a possibility, a baseline.",
+          "visual_hint": "Glitching AI interface with warning overlay",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Most teams ignore this warning",
+          "description": "Model poisoning is dismissed as rare, but the warning flips it: treat every deployed model as potentially hostile.",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "visual_hint": "Blindfolded analyst overlooking alert screen",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "What does 'compromised' even mean?",
+          "description": "Researchers can't agree: training data injection, weight manipulation, or hidden trigger — each demands different defenses.",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "visual_hint": "Zoomed code layers revealing anomalies",
+          "image_query": "circuit board",
+          "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The backdoor you cannot see",
+          "description": "A poisoned model behaves normally 99% of the time; that silent 1% is exactly what attackers wait for.",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "visual_hint": "Invisible trigger button under hand",
+          "image_query": "hacker keyboard",
+          "image": "https://images.pexels.com/photos/5935786/pexels-photo-5935786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your AI before you trust it",
+          "description": "Run a red-team prompt on your main AI tool this week. If it fails, that's your first real priority.",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "visual_hint": "Checklist with AI audit checkmarks",
+          "image_query": "security audit",
+          "image": "https://images.pexels.com/photos/5561909/pexels-photo-5561909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+      "savedAt": "2026-10-11T00:35:48.909Z",
+      "sourceId": "05298e9bf6406faff98aba5c4949d7e5"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "microsoft-s-satya-nadella-says-ai-models-need-an-e",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "pubDate": "Sat, 10 Oct 2026 21:47:51 +0000",
+      "slides": [
+        "Microsoft's Nadella just proposed an AI emergency brake. Why now?",
+        "Once AI models are deployed, they can be hard to control.",
+        "But an emergency brake might not work for all models.",
+        "You'll need to demand emergency stops in AI systems you use.",
+        "Check if your AI tools have a kill switch. Ask your vendor."
+      ],
+      "thread_text": [
+        "1. AI's Missing Brake\n\nMicrosoft's CEO just called for an emergency stop button for AI. But once these models are out, they don't come with a recall switch.",
+        "2. Deployment Lock-In\n\nAfter an AI is live, its behavior can drift or be gamed. Retraining or shutting it down often means rebuilding the whole pipeline.",
+        "3. Not All Models Brake\n\nSome AI systems run on edge devices or are open-source. A centralized kill switch can't reach them once they're copied.",
+        "4. Your Vendor's Switch\n\nIf you use AI tools, you're responsible for knowing if they can be stopped. Ask for documentation on emergency shutdown.",
+        "5. Test Your Tools\n\nPick one AI tool you use today. Ask the vendor: 'How do I kill it instantly?' If they can't answer, switch."
+      ],
+      "video_script": [
+        "Microsoft's CEO just proposed an emergency brake for AI.",
+        "But once AI is deployed, it's hard to control or stop.",
+        "A kill switch might not work for all models.",
+        "You need to demand emergency stops in your AI tools.",
+        "Check if your AI tools have a kill switch."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI's Missing Brake\n\nMicrosoft's CEO just called for an emergency stop button for AI. But once these models are out, they don't come with a recall switch.",
+            "2. Deployment Lock-In\n\nAfter an AI is live, its behavior can drift or be gamed. Retraining or shutting it down often means rebuilding the whole pipeline.",
+            "3. Not All Models Brake\n\nSome AI systems run on edge devices or are open-source. A centralized kill switch can't reach them once they're copied.",
+            "4. Your Vendor's Switch\n\nIf you use AI tools, you're responsible for knowing if they can be stopped. Ask for documentation on emergency shutdown.",
+            "5. Test Your Tools\n\nPick one AI tool you use today. Ask the vendor: 'How do I kill it instantly?' If they can't answer, switch."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Microsoft's CEO just proposed an emergency brake for AI.",
+            "But once AI is deployed, it's hard to control or stop.",
+            "A kill switch might not work for all models.",
+            "You need to demand emergency stops in your AI tools.",
+            "Check if your AI tools have a kill switch."
+          ]
+        },
+        "instagram": {
+          "caption": "Microsoft's CEO now says AI models need an emergency brake. ⚠️\n\nOnce an AI is live, its behavior can drift or be gamed, and shutting it down often means rebuilding the whole system.\n\nSome models run on personal devices or are open-source, so one central kill switch can't reach them once they're copied. 🔌\n\nIf you use AI tools, you're responsible for knowing whether yours can actually be stopped.\n\nSo pick one tool you use today and ask your vendor: how do I kill this instantly? 🛑\n\nIf they can't answer, what's your next move? 🤔"
+        }
+      },
+      "instagram_caption": "Microsoft's CEO now says AI models need an emergency brake. ⚠️\n\nOnce an AI is live, its behavior can drift or be gamed, and shutting it down often means rebuilding the whole system.\n\nSome models run on personal devices or are open-source, so one central kill switch can't reach them once they're copied. 🔌\n\nIf you use AI tools, you're responsible for knowing whether yours can actually be stopped.\n\nSo pick one tool you use today and ask your vendor: how do I kill this instantly? 🛑\n\nIf they can't answer, what's your next move? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "AI needs an emergency brake?",
+          "description": "Microsoft's CEO calls for a kill switch, but deployed models have no recall. Once live, stopping them is nearly impossible.",
+          "visual_hint": "Glowing red stop button on circuit board",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "emergency stop button"
+        },
+        {
+          "hook": "Once deployed, you lose control",
+          "description": "AI behavior can drift or be gamed after launch. Retraining or shutting down means rebuilding the entire pipeline from scratch.",
+          "visual_hint": "Complex tangled server room cables",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room cables",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Not all models can brake",
+          "description": "Edge and open-source AI get copied beyond reach. A centralized kill switch can't stop what's already distributed worldwide.",
+          "visual_hint": "World map with glowing network nodes",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "global network map",
+          "image": "https://images.pexels.com/photos/8542360/pexels-photo-8542360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your vendor's kill switch matters",
+          "description": "If you use AI tools, you must know if they can be stopped. Demand emergency shutdown documentation before something goes wrong.",
+          "visual_hint": "Hand holding smartphone with alert icon",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your AI breaks",
+          "description": "Pick one AI tool you use today and ask your vendor: how do I kill it instantly? If they can't answer, switch.",
+          "visual_hint": "Checklist with kill switch question",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard pen",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
+      "savedAt": "2026-10-11T00:35:40.382Z",
+      "sourceId": "a132e85074c45aecfcc83ae9bb522194"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "3-days-to-techcrunch-disrupt-2026-meet-the-startup",
       "prompt_version": "1.0.0",
       "status": "published",
