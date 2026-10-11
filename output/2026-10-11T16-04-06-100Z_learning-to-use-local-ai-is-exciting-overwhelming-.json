@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "learning-to-use-local-ai-is-exciting-overwhelming-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+  "pubDate": "2026-10-11T11:00:00.000Z",
+  "slides": [
+    "Local AI promises freedom, but why does it feel so hard?",
+    "Setup takes hours before you write a single prompt",
+    "The hardest part isn't code—it's unlearning cloud habits",
+    "You can run models offline with just a laptop",
+    "Pick one tool today and break it deliberately"
+  ],
+  "thread_text": [
+    "1. The Setup Trap\n\nA 20-minute task became a 6-hour odyssey. Local AI promises freedom, but you pay in time before you ever type a prompt.",
+    "2. Cloud vs Local\n\nThe hardest part isn't code. It's unlearning the habit of someone else's server handling your data. Offline means you own the weight.",
+    "3. Laptop Freedom\n\nNo internet, no subscription, no surveillance. Just a laptop and a model running in your room. This is the promise finally delivered.",
+    "4. Break One Tool\n\nDon't optimize. Pick a single local model today and deliberately break it. The fastest way to learn limits is to exceed them.",
+    "5. Test Your Patience\n\nIf setup takes hours, does the freedom justify the cost? Try one offline prompt this week. If you haven't, you haven't felt the trade-off."
+  ],
+  "video_script": [
+    "Local AI feels hard, but why?",
+    "It takes hours before one prompt.",
+    "You must unlearn cloud habits fast.",
+    "A laptop runs models fully offline.",
+    "Break one tool today. Learn limits."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Setup Trap\n\nA 20-minute task became a 6-hour odyssey. Local AI promises freedom, but you pay in time before you ever type a prompt.",
+        "2. Cloud vs Local\n\nThe hardest part isn't code. It's unlearning the habit of someone else's server handling your data. Offline means you own the weight.",
+        "3. Laptop Freedom\n\nNo internet, no subscription, no surveillance. Just a laptop and a model running in your room. This is the promise finally delivered.",
+        "4. Break One Tool\n\nDon't optimize. Pick a single local model today and deliberately break it. The fastest way to learn limits is to exceed them.",
+        "5. Test Your Patience\n\nIf setup takes hours, does the freedom justify the cost? Try one offline prompt this week. If you haven't, you haven't felt the trade-off."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Local AI feels hard, but why?",
+        "It takes hours before one prompt.",
+        "You must unlearn cloud habits fast.",
+        "A laptop runs models fully offline.",
+        "Break one tool today. Learn limits."
+      ]
+    },
+    "instagram": {
+      "caption": "A 20-minute task turned into a 6-hour setup before you write a single prompt. 🧩\n\nRunning AI locally promises freedom, but you pay in hours first. Offline means you own the weight your cloud habits hid.\n\nThe hard part isn't code—it's unlearning someone else's server handling your data. A laptop and one model can run it all. 💻\n\nYour daily work gets slower before it gets independent—no subscription, no internet, no surveillance. If setup eats hours, does the freedom justify it? 🔧\n\nPick one local model today and deliberately break it. What's stopping you from trying one offline prompt this week? 🤔"
+    }
+  },
+  "instagram_caption": "A 20-minute task turned into a 6-hour setup before you write a single prompt. 🧩\n\nRunning AI locally promises freedom, but you pay in hours first. Offline means you own the weight your cloud habits hid.\n\nThe hard part isn't code—it's unlearning someone else's server handling your data. A laptop and one model can run it all. 💻\n\nYour daily work gets slower before it gets independent—no subscription, no internet, no surveillance. If setup eats hours, does the freedom justify it? 🔧\n\nPick one local model today and deliberately break it. What's stopping you from trying one offline prompt this week? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Why does local AI feel so hard?",
+      "description": "You trade hours of setup before writing a prompt, making freedom feel like a heavy upfront cost.",
+      "visual_hint": "Person tangled in cables",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "cable tangle"
+    },
+    {
+      "hook": "Setup eats your time before prompts",
+      "description": "A 20-minute task can become a 6-hour odyssey, delaying any actual AI interaction until installation is complete.",
+      "visual_hint": "Laptop showing progress bar",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "laptop terminal",
+      "image": "https://images.pexels.com/photos/8296947/pexels-photo-8296947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Unlearning cloud habits is hardest",
+      "description": "The real challenge isn't code but abandoning reliance on remote servers, forcing you to own all data responsibility.",
+      "visual_hint": "Cloud versus local server",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Run models offline on your laptop",
+      "description": "With no internet or subscriptions, a single laptop can run a model locally, finally delivering on the offline promise.",
+      "visual_hint": "Laptop running AI model",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "laptop home office",
+      "image": "https://images.pexels.com/photos/19935029/pexels-photo-19935029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: break one tool today",
+      "description": "Pick a single local model, deliberately break it, and learn its limits by exceeding them this week.",
+      "visual_hint": "Person breaking a tool",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "broken keyboard",
+      "image": "https://images.pexels.com/photos/37005816/pexels-photo-37005816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-11T16:04:34.096Z",
+  "sourceId": "90bfa0449fc870c1d120c4ddcf13f08e"
+}

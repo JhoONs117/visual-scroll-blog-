@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "learning-to-use-local-ai-is-exciting-overwhelming-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "pubDate": "2026-10-11T11:00:00.000Z",
+      "slides": [
+        "Local AI promises freedom, but why does it feel so hard?",
+        "Setup takes hours before you write a single prompt",
+        "The hardest part isn't code—it's unlearning cloud habits",
+        "You can run models offline with just a laptop",
+        "Pick one tool today and break it deliberately"
+      ],
+      "thread_text": [
+        "1. The Setup Trap\n\nA 20-minute task became a 6-hour odyssey. Local AI promises freedom, but you pay in time before you ever type a prompt.",
+        "2. Cloud vs Local\n\nThe hardest part isn't code. It's unlearning the habit of someone else's server handling your data. Offline means you own the weight.",
+        "3. Laptop Freedom\n\nNo internet, no subscription, no surveillance. Just a laptop and a model running in your room. This is the promise finally delivered.",
+        "4. Break One Tool\n\nDon't optimize. Pick a single local model today and deliberately break it. The fastest way to learn limits is to exceed them.",
+        "5. Test Your Patience\n\nIf setup takes hours, does the freedom justify the cost? Try one offline prompt this week. If you haven't, you haven't felt the trade-off."
+      ],
+      "video_script": [
+        "Local AI feels hard, but why?",
+        "It takes hours before one prompt.",
+        "You must unlearn cloud habits fast.",
+        "A laptop runs models fully offline.",
+        "Break one tool today. Learn limits."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Setup Trap\n\nA 20-minute task became a 6-hour odyssey. Local AI promises freedom, but you pay in time before you ever type a prompt.",
+            "2. Cloud vs Local\n\nThe hardest part isn't code. It's unlearning the habit of someone else's server handling your data. Offline means you own the weight.",
+            "3. Laptop Freedom\n\nNo internet, no subscription, no surveillance. Just a laptop and a model running in your room. This is the promise finally delivered.",
+            "4. Break One Tool\n\nDon't optimize. Pick a single local model today and deliberately break it. The fastest way to learn limits is to exceed them.",
+            "5. Test Your Patience\n\nIf setup takes hours, does the freedom justify the cost? Try one offline prompt this week. If you haven't, you haven't felt the trade-off."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Local AI feels hard, but why?",
+            "It takes hours before one prompt.",
+            "You must unlearn cloud habits fast.",
+            "A laptop runs models fully offline.",
+            "Break one tool today. Learn limits."
+          ]
+        },
+        "instagram": {
+          "caption": "A 20-minute task turned into a 6-hour setup before you write a single prompt. 🧩\n\nRunning AI locally promises freedom, but you pay in hours first. Offline means you own the weight your cloud habits hid.\n\nThe hard part isn't code—it's unlearning someone else's server handling your data. A laptop and one model can run it all. 💻\n\nYour daily work gets slower before it gets independent—no subscription, no internet, no surveillance. If setup eats hours, does the freedom justify it? 🔧\n\nPick one local model today and deliberately break it. What's stopping you from trying one offline prompt this week? 🤔"
+        }
+      },
+      "instagram_caption": "A 20-minute task turned into a 6-hour setup before you write a single prompt. 🧩\n\nRunning AI locally promises freedom, but you pay in hours first. Offline means you own the weight your cloud habits hid.\n\nThe hard part isn't code—it's unlearning someone else's server handling your data. A laptop and one model can run it all. 💻\n\nYour daily work gets slower before it gets independent—no subscription, no internet, no surveillance. If setup eats hours, does the freedom justify it? 🔧\n\nPick one local model today and deliberately break it. What's stopping you from trying one offline prompt this week? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Why does local AI feel so hard?",
+          "description": "You trade hours of setup before writing a prompt, making freedom feel like a heavy upfront cost.",
+          "visual_hint": "Person tangled in cables",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "cable tangle"
+        },
+        {
+          "hook": "Setup eats your time before prompts",
+          "description": "A 20-minute task can become a 6-hour odyssey, delaying any actual AI interaction until installation is complete.",
+          "visual_hint": "Laptop showing progress bar",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "laptop terminal",
+          "image": "https://images.pexels.com/photos/8296947/pexels-photo-8296947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Unlearning cloud habits is hardest",
+          "description": "The real challenge isn't code but abandoning reliance on remote servers, forcing you to own all data responsibility.",
+          "visual_hint": "Cloud versus local server",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Run models offline on your laptop",
+          "description": "With no internet or subscriptions, a single laptop can run a model locally, finally delivering on the offline promise.",
+          "visual_hint": "Laptop running AI model",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "laptop home office",
+          "image": "https://images.pexels.com/photos/19935029/pexels-photo-19935029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: break one tool today",
+          "description": "Pick a single local model, deliberately break it, and learn its limits by exceeding them this week.",
+          "visual_hint": "Person breaking a tool",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "broken keyboard",
+          "image": "https://images.pexels.com/photos/37005816/pexels-photo-37005816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-11T16:04:34.096Z",
+      "sourceId": "90bfa0449fc870c1d120c4ddcf13f08e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "these-execs-think-voice-ai-hasn-t-reached-its-chat",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "pubDate": "Sun, 11 Oct 2026 14:00:00 +0000",
+      "slides": [
+        "Voice AI still waits for its ChatGPT moment?",
+        "Execs say current systems lack conversational depth.",
+        "But users expect human-like nuance and memory.",
+        "Your customer service may need hybrid AI soon.",
+        "Test one voice AI tool this week."
+      ],
+      "thread_text": [
+        "1. The Missing Voice Breakthrough\n\nExecutives admit today’s voice AI lacks conversational depth. Users still expect human‑like nuance and memory. That gap is the next big opportunity.",
+        "2. Why Depth Matters Now\n\nWithout memory, every call starts from zero. That friction kills trust and makes customers hang up.",
+        "3. Your Customers Notice\n\nThey compare voice bots to human agents. A single awkward pause feels like a failure. Hybrid AI can bridge that gap.",
+        "4. The Hybrid Shift Is Coming\n\nCompanies will blend scripted bots with live agents. Early adopters will set the standard for service.",
+        "5. Try It This Week\n\nPick one voice AI tool and test a real customer scenario. Does it remember context? If not, you know where to focus."
+      ],
+      "video_script": [
+        "Voice AI still waits for its ChatGPT moment.",
+        "Execs say current systems lack conversational depth.",
+        "But users expect human-like nuance and memory.",
+        "Your customer service may need hybrid AI soon.",
+        "Test one voice AI tool this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Missing Voice Breakthrough\n\nExecutives admit today’s voice AI lacks conversational depth. Users still expect human‑like nuance and memory. That gap is the next big opportunity.",
+            "2. Why Depth Matters Now\n\nWithout memory, every call starts from zero. That friction kills trust and makes customers hang up.",
+            "3. Your Customers Notice\n\nThey compare voice bots to human agents. A single awkward pause feels like a failure. Hybrid AI can bridge that gap.",
+            "4. The Hybrid Shift Is Coming\n\nCompanies will blend scripted bots with live agents. Early adopters will set the standard for service.",
+            "5. Try It This Week\n\nPick one voice AI tool and test a real customer scenario. Does it remember context? If not, you know where to focus."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Voice AI still waits for its ChatGPT moment.",
+            "Execs say current systems lack conversational depth.",
+            "But users expect human-like nuance and memory.",
+            "Your customer service may need hybrid AI soon.",
+            "Test one voice AI tool this week."
+          ]
+        },
+        "instagram": {
+          "caption": "Customers hang up when your voice bot forgets what they said 30 seconds ago. 🎯\n\nExecs say voice AI still hasn't had its ChatGPT moment — the conversational depth just isn't there.\n\nEvery call starts from zero without memory, and that friction kills trust fast.\n\nPeople compare bots to human agents, so one awkward pause feels like a failure. 🤔\n\nIf you run support or content, this means hybrid setups — scripted bots plus live agents — are coming sooner than you think.\n\nTest one voice AI tool this week on a real scenario. Does it hold context? 🎧\n\nIf it drops the thread, is that really on the bot — or on how you set it up?"
+        }
+      },
+      "instagram_caption": "Customers hang up when your voice bot forgets what they said 30 seconds ago. 🎯\n\nExecs say voice AI still hasn't had its ChatGPT moment — the conversational depth just isn't there.\n\nEvery call starts from zero without memory, and that friction kills trust fast.\n\nPeople compare bots to human agents, so one awkward pause feels like a failure. 🤔\n\nIf you run support or content, this means hybrid setups — scripted bots plus live agents — are coming sooner than you think.\n\nTest one voice AI tool this week on a real scenario. Does it hold context? 🎧\n\nIf it drops the thread, is that really on the bot — or on how you set it up?",
+      "carousel_slides": [
+        {
+          "hook": "Voice AI's ChatGPT moment is missing",
+          "description": "Executives admit today's voice AI lacks conversational depth, while users expect human-like nuance and memory.",
+          "visual_hint": "Close-up of microphone with sound waves",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "microphone sound waves"
+        },
+        {
+          "hook": "Customers compare bots to human agents",
+          "description": "They expect memory and nuance; without it, every call starts from zero and trust quickly fades.",
+          "visual_hint": "Person looking frustrated at smartphone",
+          "layout_type": "right-focus",
+          "icon": "heart",
+          "image_query": "frustrated person smartphone",
+          "image": "https://images.pexels.com/photos/36993631/pexels-photo-36993631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Why does conversational depth matter now?",
+          "description": "Without memory, each interaction resets, causing friction that makes customers hang up and lose trust.",
+          "visual_hint": "Abstract neural network with glowing nodes",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "neural network abstract",
+          "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Hybrid AI is the next big shift",
+          "description": "Companies will blend scripted bots with live agents; early adopters will set the standard for customer service.",
+          "visual_hint": "Robot hand shaking human hand",
+          "layout_type": "human-hand",
+          "icon": "check",
+          "image_query": "robot handshake human",
+          "image": "https://images.pexels.com/photos/6153346/pexels-photo-6153346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: test voice AI now",
+          "description": "Pick one voice AI tool this week and test a real customer scenario. Does it remember context?",
+          "visual_hint": "Person testing voice AI on laptop",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop voice assistant",
+          "image": "https://images.pexels.com/photos/30530402/pexels-photo-30530402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-at-2.42.28-PM.jpg?resize=1200,624",
+      "savedAt": "2026-10-11T16:04:25.271Z",
+      "sourceId": "1b97ced39af63380b4f5d37a797b9f37"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "dawn-myers-is-making-it-easier-to-style-detangle-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
+      "link": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
+      "pubDate": "Sun, 11 Oct 2026 16:00:00 +0000",
+      "slides": [
+        "Dawn Myers built a tool for curly hair—but will it work?",
+        "The problem: traditional brushes rip through coils and kinks",
+        "Most styling tools still assume straight hair physics",
+        "You can detangle in the shower without losing curl pattern",
+        "Test one section before trusting it on your whole head"
+      ],
+      "thread_text": [
+        "1. The Brush That Breaks Curls\n\nDawn Myers, a Black founder, built a detangling tool specifically for textured hair. Most brushes on the market still fail at the first stroke.",
+        "2. Straight-Hair Physics\n\nTraditional bristles are designed for hair that falls straight. On coils and kinks, they snag, rip, and destroy the curl pattern instead of separating strands.",
+        "3. Shower Detangling Without Damage\n\nHer tool lets you detangle in the shower while preserving curl definition. No more choosing between knot-free hair and intact curls.",
+        "4. Don't Test on Your Whole Head\n\nEven promising tools can fail on your specific texture. Myers recommends testing one small section first before committing to a full wash-day routine.",
+        "5. Would You Try It?\n\nIf a tool promised to cut detangling time without ruining your curls, would you test it on one section? Try it on a small patch this week and see."
+      ],
+      "video_script": [
+        "Most brushes rip through curls and kinks.",
+        "They are built for straight hair physics.",
+        "This new tool lets you detangle in the shower.",
+        "Test one section before your whole head.",
+        "Would you try it on your hair?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Brush That Breaks Curls\n\nDawn Myers, a Black founder, built a detangling tool specifically for textured hair. Most brushes on the market still fail at the first stroke.",
+            "2. Straight-Hair Physics\n\nTraditional bristles are designed for hair that falls straight. On coils and kinks, they snag, rip, and destroy the curl pattern instead of separating strands.",
+            "3. Shower Detangling Without Damage\n\nHer tool lets you detangle in the shower while preserving curl definition. No more choosing between knot-free hair and intact curls.",
+            "4. Don't Test on Your Whole Head\n\nEven promising tools can fail on your specific texture. Myers recommends testing one small section first before committing to a full wash-day routine.",
+            "5. Would You Try It?\n\nIf a tool promised to cut detangling time without ruining your curls, would you test it on one section? Try it on a small patch this week and see."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Most brushes rip through curls and kinks.",
+            "They are built for straight hair physics.",
+            "This new tool lets you detangle in the shower.",
+            "Test one section before your whole head.",
+            "Would you try it on your hair?"
+          ]
+        },
+        "instagram": {
+          "caption": "Traditional brushes rip through coils and kinks because their bristles are built for straight hair physics.\n\nDawn Myers, a Black founder, built a detangling tool specifically for textured hair. 🌀\n\nIt works in the shower, separating strands without destroying your curl pattern.\n\nEven so, she advises testing one small section before trusting it on your whole head. ✂️\n\nIf you have curls, you no longer have to choose between knot-free hair and intact definition. 💧\n\nWhat's stopping you from trying it on one patch this wash day? 🛁"
+        }
+      },
+      "instagram_caption": "Traditional brushes rip through coils and kinks because their bristles are built for straight hair physics.\n\nDawn Myers, a Black founder, built a detangling tool specifically for textured hair. 🌀\n\nIt works in the shower, separating strands without destroying your curl pattern.\n\nEven so, she advises testing one small section before trusting it on your whole head. ✂️\n\nIf you have curls, you no longer have to choose between knot-free hair and intact definition. 💧\n\nWhat's stopping you from trying it on one patch this wash day? 🛁",
+      "carousel_slides": [
+        {
+          "hook": "Most brushes still fail on textured hair",
+          "description": "Traditional styling tools assume straight-hair physics, so they snag and rip coils instead of separating strands cleanly.",
+          "visual_hint": "Close-up of tangled curly hair brush",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "hair brush"
+        },
+        {
+          "hook": "Coils need different physics, not force",
+          "description": "Bristles built for straight hair destroy curl pattern on kinks, leaving breakage and frizz after every detangling session.",
+          "visual_hint": "Split screen straight vs curly texture",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "curly hair texture",
+          "image": "https://images.pexels.com/photos/20729710/pexels-photo-20729710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Detangle in the shower without losing curls",
+          "description": "Myers' tool preserves curl definition during shower detangling, so you no longer choose between knots and intact curls.",
+          "visual_hint": "Water running through defined curls",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "shower water droplets",
+          "image": "https://images.pexels.com/photos/4194865/pexels-photo-4194865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Never test a new tool on your whole head",
+          "description": "Even promising detangling tools can fail on your specific texture, so Myers recommends testing one small section first.",
+          "visual_hint": "Hand sectioning a small curl patch",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding hair",
+          "image": "https://images.pexels.com/photos/8182285/pexels-photo-8182285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your next wash day",
+          "description": "Try the one-section test this week, then comment whether it preserved your curl pattern or not.",
+          "visual_hint": "Phone screen showing saved post icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone screen",
+          "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Dawn-Myers.jpeg?resize=1200,800",
+      "savedAt": "2026-10-11T16:04:15.683Z",
+      "sourceId": "21968e54d5a42ca1424f677fa978e66f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "here-are-the-top-ai-agents-that-can-live-in-your-t",
       "prompt_version": "1.0.0",
       "status": "published",

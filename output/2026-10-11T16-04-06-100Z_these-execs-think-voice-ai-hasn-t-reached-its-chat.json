@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "these-execs-think-voice-ai-hasn-t-reached-its-chat",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+  "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+  "pubDate": "Sun, 11 Oct 2026 14:00:00 +0000",
+  "slides": [
+    "Voice AI still waits for its ChatGPT moment?",
+    "Execs say current systems lack conversational depth.",
+    "But users expect human-like nuance and memory.",
+    "Your customer service may need hybrid AI soon.",
+    "Test one voice AI tool this week."
+  ],
+  "thread_text": [
+    "1. The Missing Voice Breakthrough\n\nExecutives admit today’s voice AI lacks conversational depth. Users still expect human‑like nuance and memory. That gap is the next big opportunity.",
+    "2. Why Depth Matters Now\n\nWithout memory, every call starts from zero. That friction kills trust and makes customers hang up.",
+    "3. Your Customers Notice\n\nThey compare voice bots to human agents. A single awkward pause feels like a failure. Hybrid AI can bridge that gap.",
+    "4. The Hybrid Shift Is Coming\n\nCompanies will blend scripted bots with live agents. Early adopters will set the standard for service.",
+    "5. Try It This Week\n\nPick one voice AI tool and test a real customer scenario. Does it remember context? If not, you know where to focus."
+  ],
+  "video_script": [
+    "Voice AI still waits for its ChatGPT moment.",
+    "Execs say current systems lack conversational depth.",
+    "But users expect human-like nuance and memory.",
+    "Your customer service may need hybrid AI soon.",
+    "Test one voice AI tool this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Missing Voice Breakthrough\n\nExecutives admit today’s voice AI lacks conversational depth. Users still expect human‑like nuance and memory. That gap is the next big opportunity.",
+        "2. Why Depth Matters Now\n\nWithout memory, every call starts from zero. That friction kills trust and makes customers hang up.",
+        "3. Your Customers Notice\n\nThey compare voice bots to human agents. A single awkward pause feels like a failure. Hybrid AI can bridge that gap.",
+        "4. The Hybrid Shift Is Coming\n\nCompanies will blend scripted bots with live agents. Early adopters will set the standard for service.",
+        "5. Try It This Week\n\nPick one voice AI tool and test a real customer scenario. Does it remember context? If not, you know where to focus."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Voice AI still waits for its ChatGPT moment.",
+        "Execs say current systems lack conversational depth.",
+        "But users expect human-like nuance and memory.",
+        "Your customer service may need hybrid AI soon.",
+        "Test one voice AI tool this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Customers hang up when your voice bot forgets what they said 30 seconds ago. 🎯\n\nExecs say voice AI still hasn't had its ChatGPT moment — the conversational depth just isn't there.\n\nEvery call starts from zero without memory, and that friction kills trust fast.\n\nPeople compare bots to human agents, so one awkward pause feels like a failure. 🤔\n\nIf you run support or content, this means hybrid setups — scripted bots plus live agents — are coming sooner than you think.\n\nTest one voice AI tool this week on a real scenario. Does it hold context? 🎧\n\nIf it drops the thread, is that really on the bot — or on how you set it up?"
+    }
+  },
+  "instagram_caption": "Customers hang up when your voice bot forgets what they said 30 seconds ago. 🎯\n\nExecs say voice AI still hasn't had its ChatGPT moment — the conversational depth just isn't there.\n\nEvery call starts from zero without memory, and that friction kills trust fast.\n\nPeople compare bots to human agents, so one awkward pause feels like a failure. 🤔\n\nIf you run support or content, this means hybrid setups — scripted bots plus live agents — are coming sooner than you think.\n\nTest one voice AI tool this week on a real scenario. Does it hold context? 🎧\n\nIf it drops the thread, is that really on the bot — or on how you set it up?",
+  "carousel_slides": [
+    {
+      "hook": "Voice AI's ChatGPT moment is missing",
+      "description": "Executives admit today's voice AI lacks conversational depth, while users expect human-like nuance and memory.",
+      "visual_hint": "Close-up of microphone with sound waves",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "microphone sound waves"
+    },
+    {
+      "hook": "Customers compare bots to human agents",
+      "description": "They expect memory and nuance; without it, every call starts from zero and trust quickly fades.",
+      "visual_hint": "Person looking frustrated at smartphone",
+      "layout_type": "right-focus",
+      "icon": "heart",
+      "image_query": "frustrated person smartphone",
+      "image": "https://images.pexels.com/photos/36993631/pexels-photo-36993631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Why does conversational depth matter now?",
+      "description": "Without memory, each interaction resets, causing friction that makes customers hang up and lose trust.",
+      "visual_hint": "Abstract neural network with glowing nodes",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "neural network abstract",
+      "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Hybrid AI is the next big shift",
+      "description": "Companies will blend scripted bots with live agents; early adopters will set the standard for customer service.",
+      "visual_hint": "Robot hand shaking human hand",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "robot handshake human",
+      "image": "https://images.pexels.com/photos/6153346/pexels-photo-6153346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: test voice AI now",
+      "description": "Pick one voice AI tool this week and test a real customer scenario. Does it remember context?",
+      "visual_hint": "Person testing voice AI on laptop",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop voice assistant",
+      "image": "https://images.pexels.com/photos/30530402/pexels-photo-30530402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-at-2.42.28-PM.jpg?resize=1200,624",
+  "savedAt": "2026-10-11T16:04:25.271Z",
+  "sourceId": "1b97ced39af63380b4f5d37a797b9f37"
+}

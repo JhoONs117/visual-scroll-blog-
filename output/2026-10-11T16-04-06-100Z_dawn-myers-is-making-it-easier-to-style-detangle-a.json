@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "dawn-myers-is-making-it-easier-to-style-detangle-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
+  "link": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
+  "pubDate": "Sun, 11 Oct 2026 16:00:00 +0000",
+  "slides": [
+    "Dawn Myers built a tool for curly hair—but will it work?",
+    "The problem: traditional brushes rip through coils and kinks",
+    "Most styling tools still assume straight hair physics",
+    "You can detangle in the shower without losing curl pattern",
+    "Test one section before trusting it on your whole head"
+  ],
+  "thread_text": [
+    "1. The Brush That Breaks Curls\n\nDawn Myers, a Black founder, built a detangling tool specifically for textured hair. Most brushes on the market still fail at the first stroke.",
+    "2. Straight-Hair Physics\n\nTraditional bristles are designed for hair that falls straight. On coils and kinks, they snag, rip, and destroy the curl pattern instead of separating strands.",
+    "3. Shower Detangling Without Damage\n\nHer tool lets you detangle in the shower while preserving curl definition. No more choosing between knot-free hair and intact curls.",
+    "4. Don't Test on Your Whole Head\n\nEven promising tools can fail on your specific texture. Myers recommends testing one small section first before committing to a full wash-day routine.",
+    "5. Would You Try It?\n\nIf a tool promised to cut detangling time without ruining your curls, would you test it on one section? Try it on a small patch this week and see."
+  ],
+  "video_script": [
+    "Most brushes rip through curls and kinks.",
+    "They are built for straight hair physics.",
+    "This new tool lets you detangle in the shower.",
+    "Test one section before your whole head.",
+    "Would you try it on your hair?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Brush That Breaks Curls\n\nDawn Myers, a Black founder, built a detangling tool specifically for textured hair. Most brushes on the market still fail at the first stroke.",
+        "2. Straight-Hair Physics\n\nTraditional bristles are designed for hair that falls straight. On coils and kinks, they snag, rip, and destroy the curl pattern instead of separating strands.",
+        "3. Shower Detangling Without Damage\n\nHer tool lets you detangle in the shower while preserving curl definition. No more choosing between knot-free hair and intact curls.",
+        "4. Don't Test on Your Whole Head\n\nEven promising tools can fail on your specific texture. Myers recommends testing one small section first before committing to a full wash-day routine.",
+        "5. Would You Try It?\n\nIf a tool promised to cut detangling time without ruining your curls, would you test it on one section? Try it on a small patch this week and see."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Most brushes rip through curls and kinks.",
+        "They are built for straight hair physics.",
+        "This new tool lets you detangle in the shower.",
+        "Test one section before your whole head.",
+        "Would you try it on your hair?"
+      ]
+    },
+    "instagram": {
+      "caption": "Traditional brushes rip through coils and kinks because their bristles are built for straight hair physics.\n\nDawn Myers, a Black founder, built a detangling tool specifically for textured hair. 🌀\n\nIt works in the shower, separating strands without destroying your curl pattern.\n\nEven so, she advises testing one small section before trusting it on your whole head. ✂️\n\nIf you have curls, you no longer have to choose between knot-free hair and intact definition. 💧\n\nWhat's stopping you from trying it on one patch this wash day? 🛁"
+    }
+  },
+  "instagram_caption": "Traditional brushes rip through coils and kinks because their bristles are built for straight hair physics.\n\nDawn Myers, a Black founder, built a detangling tool specifically for textured hair. 🌀\n\nIt works in the shower, separating strands without destroying your curl pattern.\n\nEven so, she advises testing one small section before trusting it on your whole head. ✂️\n\nIf you have curls, you no longer have to choose between knot-free hair and intact definition. 💧\n\nWhat's stopping you from trying it on one patch this wash day? 🛁",
+  "carousel_slides": [
+    {
+      "hook": "Most brushes still fail on textured hair",
+      "description": "Traditional styling tools assume straight-hair physics, so they snag and rip coils instead of separating strands cleanly.",
+      "visual_hint": "Close-up of tangled curly hair brush",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "hair brush"
+    },
+    {
+      "hook": "Coils need different physics, not force",
+      "description": "Bristles built for straight hair destroy curl pattern on kinks, leaving breakage and frizz after every detangling session.",
+      "visual_hint": "Split screen straight vs curly texture",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "curly hair texture",
+      "image": "https://images.pexels.com/photos/20729710/pexels-photo-20729710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Detangle in the shower without losing curls",
+      "description": "Myers' tool preserves curl definition during shower detangling, so you no longer choose between knots and intact curls.",
+      "visual_hint": "Water running through defined curls",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "shower water droplets",
+      "image": "https://images.pexels.com/photos/4194865/pexels-photo-4194865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Never test a new tool on your whole head",
+      "description": "Even promising detangling tools can fail on your specific texture, so Myers recommends testing one small section first.",
+      "visual_hint": "Hand sectioning a small curl patch",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding hair",
+      "image": "https://images.pexels.com/photos/8182285/pexels-photo-8182285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next wash day",
+      "description": "Try the one-section test this week, then comment whether it preserved your curl pattern or not.",
+      "visual_hint": "Phone screen showing saved post icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Dawn-Myers.jpeg?resize=1200,800",
+  "savedAt": "2026-10-11T16:04:15.683Z",
+  "sourceId": "21968e54d5a42ca1424f677fa978e66f"
+}
