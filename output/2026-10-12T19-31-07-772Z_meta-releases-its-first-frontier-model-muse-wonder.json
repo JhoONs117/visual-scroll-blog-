@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-releases-its-first-frontier-model-muse-wonder",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta releases its first frontier model, Muse Wonder",
+  "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+  "pubDate": "Mon, 12 Oct 2026 17:56:56 +0000",
+  "slides": [
+    "Meta just released its first frontier model. Why now?",
+    "Muse Wonder targets reasoning, not just conversation.",
+    "But it's closed-source, unlike Meta's usual openness.",
+    "Your AI stack may need rebuilding for it.",
+    "Test Muse Wonder on your hardest task this week."
+  ],
+  "thread_text": [
+    "1. Meta's First Frontier Model\n\nMeta just released Muse Wonder, its first frontier model. It targets reasoning, not just conversation.",
+    "2. Reasoning, Not Chat\n\nMuse Wonder focuses on complex reasoning tasks. It's built to solve problems, not just talk.",
+    "3. Closed-Source Surprise\n\nUnlike Meta's usual open releases, Muse Wonder is closed-source. That's a big shift for the company.",
+    "4. Your Stack May Break\n\nMuse Wonder's API works differently. You might need to rebuild your AI stack to use it.",
+    "5. Test It This Week\n\nTake your hardest task and try Muse Wonder on it. If you haven't, start there."
+  ],
+  "video_script": [
+    "Meta just dropped its first frontier model, Muse Wonder.",
+    "It's built for reasoning, not just chatting.",
+    "But it's closed-source, a big change for Meta.",
+    "Your AI stack might need rebuilding to use it.",
+    "Test Muse Wonder on your hardest task this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta's First Frontier Model\n\nMeta just released Muse Wonder, its first frontier model. It targets reasoning, not just conversation.",
+        "2. Reasoning, Not Chat\n\nMuse Wonder focuses on complex reasoning tasks. It's built to solve problems, not just talk.",
+        "3. Closed-Source Surprise\n\nUnlike Meta's usual open releases, Muse Wonder is closed-source. That's a big shift for the company.",
+        "4. Your Stack May Break\n\nMuse Wonder's API works differently. You might need to rebuild your AI stack to use it.",
+        "5. Test It This Week\n\nTake your hardest task and try Muse Wonder on it. If you haven't, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta just dropped its first frontier model, Muse Wonder.",
+        "It's built for reasoning, not just chatting.",
+        "But it's closed-source, a big change for Meta.",
+        "Your AI stack might need rebuilding to use it.",
+        "Test Muse Wonder on your hardest task this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Meta just shipped its first frontier model, Muse Wonder.\n\nIt's built for reasoning, not just conversation — complex problems, not small talk.\n\nBut it's closed-source, a real shift from Meta's usual open releases.\n\nIts API works differently, so your existing AI stack may need rebuilding to use it.\n\nIf you build or publish with AI, that's a migration you can't ignore. 🛠️\n\nTake your hardest task this week and test it there. 🧠\n\nWhat breaks first in your current setup if you switch? 🔍"
+    }
+  },
+  "instagram_caption": "Meta just shipped its first frontier model, Muse Wonder.\n\nIt's built for reasoning, not just conversation — complex problems, not small talk.\n\nBut it's closed-source, a real shift from Meta's usual open releases.\n\nIts API works differently, so your existing AI stack may need rebuilding to use it.\n\nIf you build or publish with AI, that's a migration you can't ignore. 🛠️\n\nTake your hardest task this week and test it there. 🧠\n\nWhat breaks first in your current setup if you switch? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Meta goes closed-source. Why now?",
+      "description": "Meta released Muse Wonder, its first frontier model, but it's closed-source, a major shift from its usual open releases.",
+      "visual_hint": "Dark server racks with glowing lights",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Reasoning, not just conversation",
+      "description": "Muse Wonder targets complex reasoning tasks, built to solve problems rather than just chat like other models.",
+      "visual_hint": "Chessboard with glowing digital pieces",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "chess board",
+      "image": "https://images.pexels.com/photos/6114955/pexels-photo-6114955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Closed doors at Meta?",
+      "description": "Unlike Meta's typical open-source AI releases, Muse Wonder is closed-source, signaling a strategic shift in their approach.",
+      "visual_hint": "Locked door with digital keypad",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "locked door",
+      "image": "https://images.pexels.com/photos/14893194/pexels-photo-14893194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI stack may break",
+      "description": "Muse Wonder's API works differently from previous models, so you might need to rebuild your AI stack to integrate it.",
+      "visual_hint": "Hands assembling circuit board",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it on your hardest task",
+      "description": "Take your toughest problem and try Muse Wonder this week. Save this post and share your results in the comments.",
+      "visual_hint": "Person pointing at glowing screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "computer screen",
+      "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-1.09.43-PM.jpg?resize=1200,676",
+  "savedAt": "2026-10-12T19:31:16.758Z",
+  "sourceId": "15f0749a6da14105ba17b50493d53df3"
+}

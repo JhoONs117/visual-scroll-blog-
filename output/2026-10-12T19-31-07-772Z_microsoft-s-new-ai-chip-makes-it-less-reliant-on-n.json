@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "microsoft-s-new-ai-chip-makes-it-less-reliant-on-n",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+  "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+  "pubDate": "2026-10-12T13:00:00.000Z",
+  "slides": [
+    "Microsoft built its own AI chip. Will Nvidia lose its grip?",
+    "Maia 100 powers Azure AI workloads, not rivals",
+    "Yet it still rents Nvidia GPUs for top models",
+    "Your cloud bill may drop where Maia fits",
+    "Ask your vendor which chips run your AI today"
+  ],
+  "thread_text": [
+    "1. Microsoft's silicon gamble\n\nMicrosoft just built its own AI chip, Maia 100, to power Azure workloads instead of buying every GPU from Nvidia. The cloud giant is quietly hedging its bets.",
+    "2. Maia stays in-house\n\nMaia 100 runs Microsoft's own AI services, not sold to rivals. It's a vertical play: optimize cost and supply for Azure, not compete in the merchant chip market.",
+    "3. Nvidia still on speed dial\n\nFor cutting-edge models, Microsoft still rents Nvidia GPUs. Maia handles scale, but top-tier training and inference remain Nvidia's turf for now.",
+    "4. Your bill could shrink\n\nWhere Maia fits, Azure can pass savings on compute. If your AI workloads match its sweet spot, expect lower cloud costs without switching providers.",
+    "5. Ask your vendor\n\nWhich chips run your AI today? Ask your cloud provider or AI vendor. If they can't name the silicon, you don't know your cost or supply risk."
+  ],
+  "video_script": [
+    "Microsoft built its own AI chip called Maia.",
+    "It powers Azure, not sold to rivals.",
+    "But Microsoft still rents Nvidia for top models.",
+    "Your cloud bill may drop where Maia fits.",
+    "Ask your vendor which chips run your AI."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Microsoft's silicon gamble\n\nMicrosoft just built its own AI chip, Maia 100, to power Azure workloads instead of buying every GPU from Nvidia. The cloud giant is quietly hedging its bets.",
+        "2. Maia stays in-house\n\nMaia 100 runs Microsoft's own AI services, not sold to rivals. It's a vertical play: optimize cost and supply for Azure, not compete in the merchant chip market.",
+        "3. Nvidia still on speed dial\n\nFor cutting-edge models, Microsoft still rents Nvidia GPUs. Maia handles scale, but top-tier training and inference remain Nvidia's turf for now.",
+        "4. Your bill could shrink\n\nWhere Maia fits, Azure can pass savings on compute. If your AI workloads match its sweet spot, expect lower cloud costs without switching providers.",
+        "5. Ask your vendor\n\nWhich chips run your AI today? Ask your cloud provider or AI vendor. If they can't name the silicon, you don't know your cost or supply risk."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Microsoft built its own AI chip called Maia.",
+        "It powers Azure, not sold to rivals.",
+        "But Microsoft still rents Nvidia for top models.",
+        "Your cloud bill may drop where Maia fits.",
+        "Ask your vendor which chips run your AI."
+      ]
+    },
+    "instagram": {
+      "caption": "Your Azure bill for certain AI workloads could get cheaper because Microsoft now runs some of them on its own chip instead of renting every GPU from Nvidia.\n\nThat chip is Maia 100. It only powers Microsoft's own Azure services, not sold to anyone else. 🔒\n\nFor top-tier models, Microsoft still rents Nvidia GPUs. So Nvidia's grip isn't broken, just loosened. ⚙️\n\nIf your AI runs in Maia's sweet spot, compute costs can drop without switching providers. 💸\n\nWhich chips run your AI right now? Ask your vendor. If they can't name the silicon, you don't know your real cost or supply risk. 🤔"
+    }
+  },
+  "instagram_caption": "Your Azure bill for certain AI workloads could get cheaper because Microsoft now runs some of them on its own chip instead of renting every GPU from Nvidia.\n\nThat chip is Maia 100. It only powers Microsoft's own Azure services, not sold to anyone else. 🔒\n\nFor top-tier models, Microsoft still rents Nvidia GPUs. So Nvidia's grip isn't broken, just loosened. ⚙️\n\nIf your AI runs in Maia's sweet spot, compute costs can drop without switching providers. 💸\n\nWhich chips run your AI right now? Ask your vendor. If they can't name the silicon, you don't know your real cost or supply risk. 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can Microsoft's own chip break Nvidia's grip?",
+      "description": "Maia 100 powers Azure AI workloads, built in-house to cut costs and supply risk instead of buying every Nvidia GPU.",
+      "visual_hint": "Server rack with glowing chip",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Maia stays in-house, not for rivals",
+      "description": "Microsoft's chip runs only its own AI services, not sold to competitors. It optimizes Azure costs and supply, not merchant chip market.",
+      "visual_hint": "Internal data center aisle",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Nvidia still on speed dial for top models",
+      "description": "For cutting-edge training and inference, Microsoft still rents Nvidia GPUs. Maia handles scale, but top-tier workloads remain Nvidia's turf.",
+      "visual_hint": "GPU cluster with cables",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "graphics processing unit",
+      "image": "https://images.pexels.com/photos/35569903/pexels-photo-35569903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your cloud bill may drop where Maia fits",
+      "description": "If your AI workloads match Maia's sweet spot, Azure can pass compute savings on. Expect lower costs without switching providers.",
+      "visual_hint": "Hand holding cloud bill",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "cloud computing",
+      "image": "https://images.pexels.com/photos/12899121/pexels-photo-12899121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your vendor which chips run your AI",
+      "description": "If they can't name the silicon, you don't know your cost or supply risk. Comment 'CHIPS' for a vendor checklist.",
+      "visual_hint": "Checklist with chip icons",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "question mark",
+      "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-12T19:31:44.178Z",
+  "sourceId": "d4b50bc6b2e0a17a9a0cc86228f83e0e"
+}

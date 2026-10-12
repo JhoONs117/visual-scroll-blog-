@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "microsoft-s-new-ai-chip-makes-it-less-reliant-on-n",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+    "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+    "pubDate": "2026-10-12T13:00:00.000Z",
+    "slides": [
+      "Microsoft built its own AI chip. Will Nvidia lose its grip?",
+      "Maia 100 powers Azure AI workloads, not rivals",
+      "Yet it still rents Nvidia GPUs for top models",
+      "Your cloud bill may drop where Maia fits",
+      "Ask your vendor which chips run your AI today"
+    ],
+    "thread_text": [
+      "1. Microsoft's silicon gamble\n\nMicrosoft just built its own AI chip, Maia 100, to power Azure workloads instead of buying every GPU from Nvidia. The cloud giant is quietly hedging its bets.",
+      "2. Maia stays in-house\n\nMaia 100 runs Microsoft's own AI services, not sold to rivals. It's a vertical play: optimize cost and supply for Azure, not compete in the merchant chip market.",
+      "3. Nvidia still on speed dial\n\nFor cutting-edge models, Microsoft still rents Nvidia GPUs. Maia handles scale, but top-tier training and inference remain Nvidia's turf for now.",
+      "4. Your bill could shrink\n\nWhere Maia fits, Azure can pass savings on compute. If your AI workloads match its sweet spot, expect lower cloud costs without switching providers.",
+      "5. Ask your vendor\n\nWhich chips run your AI today? Ask your cloud provider or AI vendor. If they can't name the silicon, you don't know your cost or supply risk."
+    ],
+    "video_script": [
+      "Microsoft built its own AI chip called Maia.",
+      "It powers Azure, not sold to rivals.",
+      "But Microsoft still rents Nvidia for top models.",
+      "Your cloud bill may drop where Maia fits.",
+      "Ask your vendor which chips run your AI."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Microsoft's silicon gamble\n\nMicrosoft just built its own AI chip, Maia 100, to power Azure workloads instead of buying every GPU from Nvidia. The cloud giant is quietly hedging its bets.",
+          "2. Maia stays in-house\n\nMaia 100 runs Microsoft's own AI services, not sold to rivals. It's a vertical play: optimize cost and supply for Azure, not compete in the merchant chip market.",
+          "3. Nvidia still on speed dial\n\nFor cutting-edge models, Microsoft still rents Nvidia GPUs. Maia handles scale, but top-tier training and inference remain Nvidia's turf for now.",
+          "4. Your bill could shrink\n\nWhere Maia fits, Azure can pass savings on compute. If your AI workloads match its sweet spot, expect lower cloud costs without switching providers.",
+          "5. Ask your vendor\n\nWhich chips run your AI today? Ask your cloud provider or AI vendor. If they can't name the silicon, you don't know your cost or supply risk."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Microsoft built its own AI chip called Maia.",
+          "It powers Azure, not sold to rivals.",
+          "But Microsoft still rents Nvidia for top models.",
+          "Your cloud bill may drop where Maia fits.",
+          "Ask your vendor which chips run your AI."
+        ]
+      },
+      "instagram": {
+        "caption": "Your Azure bill for certain AI workloads could get cheaper because Microsoft now runs some of them on its own chip instead of renting every GPU from Nvidia.\n\nThat chip is Maia 100. It only powers Microsoft's own Azure services, not sold to anyone else. 🔒\n\nFor top-tier models, Microsoft still rents Nvidia GPUs. So Nvidia's grip isn't broken, just loosened. ⚙️\n\nIf your AI runs in Maia's sweet spot, compute costs can drop without switching providers. 💸\n\nWhich chips run your AI right now? Ask your vendor. If they can't name the silicon, you don't know your real cost or supply risk. 🤔"
+      }
+    },
+    "instagram_caption": "Your Azure bill for certain AI workloads could get cheaper because Microsoft now runs some of them on its own chip instead of renting every GPU from Nvidia.\n\nThat chip is Maia 100. It only powers Microsoft's own Azure services, not sold to anyone else. 🔒\n\nFor top-tier models, Microsoft still rents Nvidia GPUs. So Nvidia's grip isn't broken, just loosened. ⚙️\n\nIf your AI runs in Maia's sweet spot, compute costs can drop without switching providers. 💸\n\nWhich chips run your AI right now? Ask your vendor. If they can't name the silicon, you don't know your real cost or supply risk. 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Can Microsoft's own chip break Nvidia's grip?",
+        "description": "Maia 100 powers Azure AI workloads, built in-house to cut costs and supply risk instead of buying every Nvidia GPU.",
+        "visual_hint": "Server rack with glowing chip",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Maia stays in-house, not for rivals",
+        "description": "Microsoft's chip runs only its own AI services, not sold to competitors. It optimizes Azure costs and supply, not merchant chip market.",
+        "visual_hint": "Internal data center aisle",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Nvidia still on speed dial for top models",
+        "description": "For cutting-edge training and inference, Microsoft still rents Nvidia GPUs. Maia handles scale, but top-tier workloads remain Nvidia's turf.",
+        "visual_hint": "GPU cluster with cables",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "graphics processing unit",
+        "image": "https://images.pexels.com/photos/35569903/pexels-photo-35569903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your cloud bill may drop where Maia fits",
+        "description": "If your AI workloads match Maia's sweet spot, Azure can pass compute savings on. Expect lower costs without switching providers.",
+        "visual_hint": "Hand holding cloud bill",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "cloud computing",
+        "image": "https://images.pexels.com/photos/12899121/pexels-photo-12899121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask your vendor which chips run your AI",
+        "description": "If they can't name the silicon, you don't know your cost or supply risk. Comment 'CHIPS' for a vendor checklist.",
+        "visual_hint": "Checklist with chip icons",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "question mark",
+        "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-12T19:31:44.178Z",
+    "sourceId": "d4b50bc6b2e0a17a9a0cc86228f83e0e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "microsoft-president-says-uk-is-best-placed-to-driv",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "pubDate": "Mon, 12 Oct 2026 15:31:19 +0000",
+    "slides": [
+      "Can Microsoft's president hand UK the AI crown?",
+      "He says Britain is best placed to lead rules",
+      "But the US giant may lose influence itself",
+      "Watch for UK rules shaping your AI compliance",
+      "Ask: who writes the rules you must follow?"
+    ],
+    "thread_text": [
+      "1. The AI crown is up for grabs\\n\\nMicrosoft's president says the UK is the best place on earth to write the rules for artificial intelligence. That's not a compliment. It's a strategy.",
+      "2. Britain's rulebook advantage\\n\\nHe argues the UK can move faster than the EU and still be taken seriously. One country, one set of rules, global influence.",
+      "3. The catch nobody mentions\\n\\nIf the UK writes the rules, Microsoft helps shape them. But the US giant risks losing its own grip on AI policy back home.",
+      "4. Your compliance starts in London\\n\\nUK AI rules won't stay in the UK. Any company selling into Britain will have to follow them, no matter where you're based.",
+      "5. Who actually writes your rules?\\n\\nOpen your AI policy document. Find the section on compliance. Ask yourself: was this written by your team, or by a company that sold you the tool?"
+    ],
+    "video_script": [
+      "Microsoft says Britain should lead AI rules.",
+      "The UK can move faster than Europe.",
+      "But Microsoft might lose influence itself.",
+      "UK rules will shape your compliance worldwide.",
+      "Who really writes the rules you follow?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The AI crown is up for grabs\\n\\nMicrosoft's president says the UK is the best place on earth to write the rules for artificial intelligence. That's not a compliment. It's a strategy.",
+          "2. Britain's rulebook advantage\\n\\nHe argues the UK can move faster than the EU and still be taken seriously. One country, one set of rules, global influence.",
+          "3. The catch nobody mentions\\n\\nIf the UK writes the rules, Microsoft helps shape them. But the US giant risks losing its own grip on AI policy back home.",
+          "4. Your compliance starts in London\\n\\nUK AI rules won't stay in the UK. Any company selling into Britain will have to follow them, no matter where you're based.",
+          "5. Who actually writes your rules?\\n\\nOpen your AI policy document. Find the section on compliance. Ask yourself: was this written by your team, or by a company that sold you the tool?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Microsoft says Britain should lead AI rules.",
+          "The UK can move faster than Europe.",
+          "But Microsoft might lose influence itself.",
+          "UK rules will shape your compliance worldwide.",
+          "Who really writes the rules you follow?"
+        ]
+      },
+      "instagram": {
+        "caption": "The UK could end up writing the AI rules you'll have to follow, wherever you're based. 🇬🇧\n\nMicrosoft's president says Britain is best placed to lead on AI regulation.\n\nFaster than the EU, he argues, but still taken seriously.\n\nThe catch: if the UK writes the rules, Microsoft helps shape them, while the US giant risks losing its own grip on AI policy at home.\n\nIf you sell into Britain, those rules apply to you. 📋\n\nCheck your AI policy document. Who actually wrote the compliance section: your team, or the company that sold you the tool? 🤔"
+      }
+    },
+    "instagram_caption": "The UK could end up writing the AI rules you'll have to follow, wherever you're based. 🇬🇧\n\nMicrosoft's president says Britain is best placed to lead on AI regulation.\n\nFaster than the EU, he argues, but still taken seriously.\n\nThe catch: if the UK writes the rules, Microsoft helps shape them, while the US giant risks losing its own grip on AI policy at home.\n\nIf you sell into Britain, those rules apply to you. 📋\n\nCheck your AI policy document. Who actually wrote the compliance section: your team, or the company that sold you the tool? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Who really writes your AI rules?",
+        "description": "Microsoft's president says the UK is best placed to regulate AI, but the US giant may lose influence itself.",
+        "visual_hint": "Close-up of a hand holding a gavel over a laptop",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "gavel laptop"
+      },
+      {
+        "hook": "UK can move faster than EU",
+        "description": "One country, one rulebook: Britain can set global AI standards while Brussels lags behind.",
+        "visual_hint": "Split screen of UK flag and EU flag with digital lines",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "uk flag",
+        "image": "https://images.pexels.com/photos/29589319/pexels-photo-29589319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The catch: Microsoft's grip slips",
+        "description": "If the UK writes the rules, Microsoft helps shape them, but risks losing its own US policy influence.",
+        "visual_hint": "Balancing scale with Microsoft logo on one side",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "microsoft logo",
+        "image": "https://images.pexels.com/photos/9683980/pexels-photo-9683980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your compliance starts in London",
+        "description": "UK AI rules won't stay in the UK: any company selling into Britain must follow them, wherever you're based.",
+        "visual_hint": "Map of world with arrow pointing to London",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "london map",
+        "image": "https://images.pexels.com/photos/5137785/pexels-photo-5137785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your next AI audit",
+        "description": "Open your AI policy document and check if the compliance section was written by your team or the vendor.",
+        "visual_hint": "Checklist with pen and AI policy document",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist document",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-1039496404.jpg?w=1024",
+    "savedAt": "2026-10-12T19:31:25.751Z",
+    "sourceId": "e9c9ac8e21acdd9037b0c111bfd0b787"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-releases-its-first-frontier-model-muse-wonder",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "pubDate": "Mon, 12 Oct 2026 17:56:56 +0000",
+    "slides": [
+      "Meta just released its first frontier model. Why now?",
+      "Muse Wonder targets reasoning, not just conversation.",
+      "But it's closed-source, unlike Meta's usual openness.",
+      "Your AI stack may need rebuilding for it.",
+      "Test Muse Wonder on your hardest task this week."
+    ],
+    "thread_text": [
+      "1. Meta's First Frontier Model\n\nMeta just released Muse Wonder, its first frontier model. It targets reasoning, not just conversation.",
+      "2. Reasoning, Not Chat\n\nMuse Wonder focuses on complex reasoning tasks. It's built to solve problems, not just talk.",
+      "3. Closed-Source Surprise\n\nUnlike Meta's usual open releases, Muse Wonder is closed-source. That's a big shift for the company.",
+      "4. Your Stack May Break\n\nMuse Wonder's API works differently. You might need to rebuild your AI stack to use it.",
+      "5. Test It This Week\n\nTake your hardest task and try Muse Wonder on it. If you haven't, start there."
+    ],
+    "video_script": [
+      "Meta just dropped its first frontier model, Muse Wonder.",
+      "It's built for reasoning, not just chatting.",
+      "But it's closed-source, a big change for Meta.",
+      "Your AI stack might need rebuilding to use it.",
+      "Test Muse Wonder on your hardest task this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Meta's First Frontier Model\n\nMeta just released Muse Wonder, its first frontier model. It targets reasoning, not just conversation.",
+          "2. Reasoning, Not Chat\n\nMuse Wonder focuses on complex reasoning tasks. It's built to solve problems, not just talk.",
+          "3. Closed-Source Surprise\n\nUnlike Meta's usual open releases, Muse Wonder is closed-source. That's a big shift for the company.",
+          "4. Your Stack May Break\n\nMuse Wonder's API works differently. You might need to rebuild your AI stack to use it.",
+          "5. Test It This Week\n\nTake your hardest task and try Muse Wonder on it. If you haven't, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta just dropped its first frontier model, Muse Wonder.",
+          "It's built for reasoning, not just chatting.",
+          "But it's closed-source, a big change for Meta.",
+          "Your AI stack might need rebuilding to use it.",
+          "Test Muse Wonder on your hardest task this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Meta just shipped its first frontier model, Muse Wonder.\n\nIt's built for reasoning, not just conversation — complex problems, not small talk.\n\nBut it's closed-source, a real shift from Meta's usual open releases.\n\nIts API works differently, so your existing AI stack may need rebuilding to use it.\n\nIf you build or publish with AI, that's a migration you can't ignore. 🛠️\n\nTake your hardest task this week and test it there. 🧠\n\nWhat breaks first in your current setup if you switch? 🔍"
+      }
+    },
+    "instagram_caption": "Meta just shipped its first frontier model, Muse Wonder.\n\nIt's built for reasoning, not just conversation — complex problems, not small talk.\n\nBut it's closed-source, a real shift from Meta's usual open releases.\n\nIts API works differently, so your existing AI stack may need rebuilding to use it.\n\nIf you build or publish with AI, that's a migration you can't ignore. 🛠️\n\nTake your hardest task this week and test it there. 🧠\n\nWhat breaks first in your current setup if you switch? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Meta goes closed-source. Why now?",
+        "description": "Meta released Muse Wonder, its first frontier model, but it's closed-source, a major shift from its usual open releases.",
+        "visual_hint": "Dark server racks with glowing lights",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Reasoning, not just conversation",
+        "description": "Muse Wonder targets complex reasoning tasks, built to solve problems rather than just chat like other models.",
+        "visual_hint": "Chessboard with glowing digital pieces",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "chess board",
+        "image": "https://images.pexels.com/photos/6114955/pexels-photo-6114955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Closed doors at Meta?",
+        "description": "Unlike Meta's typical open-source AI releases, Muse Wonder is closed-source, signaling a strategic shift in their approach.",
+        "visual_hint": "Locked door with digital keypad",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "locked door",
+        "image": "https://images.pexels.com/photos/14893194/pexels-photo-14893194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your AI stack may break",
+        "description": "Muse Wonder's API works differently from previous models, so you might need to rebuild your AI stack to integrate it.",
+        "visual_hint": "Hands assembling circuit board",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "circuit board",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it on your hardest task",
+        "description": "Take your toughest problem and try Muse Wonder this week. Save this post and share your results in the comments.",
+        "visual_hint": "Person pointing at glowing screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "computer screen",
+        "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-1.09.43-PM.jpg?resize=1200,676",
+    "savedAt": "2026-10-12T19:31:16.758Z",
+    "sourceId": "15f0749a6da14105ba17b50493d53df3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "trump-s-attempt-to-rename-ai-is-looking-awfully-ar",
     "prompt_version": "1.0.0",
     "status": "published",
