@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "fbi-arrests-openai-employee-accused-of-planting-hi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+  "link": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+  "pubDate": "Tue, 13 Oct 2026 20:59:11 +0000",
+  "slides": [
+    "FBI arrests OpenAI employee: what did they hear?",
+    "Devices found hidden in conference room walls.",
+    "But employee had access to top-secret AI projects.",
+    "Your meetings may be compromised. Secure your spaces now.",
+    "Trust but verify—especially in AI's closed doors."
+  ],
+  "thread_text": [
+    "1. What the FBI Heard\n\nAn OpenAI employee was arrested after agents discovered listening devices hidden inside conference room walls. The devices had been active for months.",
+    "2. Hidden in Plain Sight\n\nThe bugs were embedded in wall panels during a routine office renovation. No one noticed until a security sweep flagged unusual wiring.",
+    "3. Top-Secret Access\n\nThat same employee had clearance for unreleased AI models and internal safety research. Investigators are now reviewing every meeting he attended.",
+    "4. Your Meetings Are Next\n\nIf a top AI lab can be compromised, your startup's boardroom is an open book. Most offices never sweep for listening devices.",
+    "5. Test Your Own Space\n\nWalk into your main meeting room and check for unexplained outlets or ceiling tiles. If you can't explain it, call a security firm this week."
+  ],
+  "video_script": [
+    "FBI arrested an OpenAI employee after finding hidden microphones.",
+    "The devices were tucked inside conference room walls for months.",
+    "He had access to top-secret AI projects and safety research.",
+    "Your meetings could be compromised too. Most offices never check.",
+    "Check your meeting room today for anything you cannot explain."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What the FBI Heard\n\nAn OpenAI employee was arrested after agents discovered listening devices hidden inside conference room walls. The devices had been active for months.",
+        "2. Hidden in Plain Sight\n\nThe bugs were embedded in wall panels during a routine office renovation. No one noticed until a security sweep flagged unusual wiring.",
+        "3. Top-Secret Access\n\nThat same employee had clearance for unreleased AI models and internal safety research. Investigators are now reviewing every meeting he attended.",
+        "4. Your Meetings Are Next\n\nIf a top AI lab can be compromised, your startup's boardroom is an open book. Most offices never sweep for listening devices.",
+        "5. Test Your Own Space\n\nWalk into your main meeting room and check for unexplained outlets or ceiling tiles. If you can't explain it, call a security firm this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "FBI arrested an OpenAI employee after finding hidden microphones.",
+        "The devices were tucked inside conference room walls for months.",
+        "He had access to top-secret AI projects and safety research.",
+        "Your meetings could be compromised too. Most offices never check.",
+        "Check your meeting room today for anything you cannot explain."
+      ]
+    },
+    "instagram": {
+      "caption": "Listening devices were found hidden inside conference room walls at OpenAI.\n\nThe employee who planted them had clearance for unreleased AI models and internal safety research.\n\nThe bugs went unnoticed for months until a security sweep flagged unusual wiring.\n\nIf a top AI lab gets compromised, your office meeting room probably isn't any safer.\n\nMost companies never sweep for listening devices. Ever.\n\nWalk into your main meeting room today and check for outlets or ceiling tiles you can't explain 🔍\n\nIf something looks off, would you actually know who to call? 🎙️"
+    }
+  },
+  "instagram_caption": "Listening devices were found hidden inside conference room walls at OpenAI.\n\nThe employee who planted them had clearance for unreleased AI models and internal safety research.\n\nThe bugs went unnoticed for months until a security sweep flagged unusual wiring.\n\nIf a top AI lab gets compromised, your office meeting room probably isn't any safer.\n\nMost companies never sweep for listening devices. Ever.\n\nWalk into your main meeting room today and check for outlets or ceiling tiles you can't explain 🔍\n\nIf something looks off, would you actually know who to call? 🎙️",
+  "carousel_slides": [
+    {
+      "hook": "What did the FBI hear?",
+      "description": "An OpenAI employee with top-secret clearance was arrested after hidden recording devices were found in conference room walls.",
+      "visual_hint": "FBI agents entering office building",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "FBI building"
+    },
+    {
+      "hook": "Bugs hidden in plain sight",
+      "description": "Listening devices were embedded in wall panels during renovation. Months passed before a security sweep flagged unusual wiring.",
+      "visual_hint": "Wall panel with hidden device",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "wall panel",
+      "image": "https://images.pexels.com/photos/14975208/pexels-photo-14975208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "He had access to everything",
+      "description": "That employee could see unreleased AI models and safety research. Investigators now review every meeting he attended.",
+      "visual_hint": "Server room behind locked door",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your boardroom is next",
+      "description": "If a top AI lab gets compromised, your office is an open book. Most startups never sweep for listening devices.",
+      "visual_hint": "Empty meeting room with table",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "conference room",
+      "image": "https://images.pexels.com/photos/7648468/pexels-photo-7648468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next meeting",
+      "description": "Walk into your main meeting room and check for unexplained outlets or ceiling tiles. Call a security firm this week.",
+      "visual_hint": "Person inspecting ceiling tile",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "ceiling tiles",
+      "image": "https://images.pexels.com/photos/30652137/pexels-photo-30652137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/openai-employee-product-recording.jpg?w=1145",
+  "savedAt": "2026-10-13T22:06:49.986Z",
+  "sourceId": "790b86b7670160c107d977f89906b2a8"
+}

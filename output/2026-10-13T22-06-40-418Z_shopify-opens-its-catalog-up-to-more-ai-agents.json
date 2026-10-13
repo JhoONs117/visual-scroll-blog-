@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "shopify-opens-its-catalog-up-to-more-ai-agents",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Shopify opens its catalog up to more AI agents",
+  "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+  "pubDate": "2026-10-13T19:42:42.000Z",
+  "slides": [
+    "Shopify just opened its catalog — who benefits most?",
+    "AI agents can now access millions of product listings",
+    "But only approved partners get full data access",
+    "Sellers gain new sales channels beyond Google and Amazon",
+    "Test one product feed with an AI agent today"
+  ],
+  "thread_text": [
+    "1. Shopify's Quiet Power Move\n\nMillions of product listings are now accessible to AI agents — but only approved partners get the full data. The rest get scraps.",
+    "2. Who Really Wins Here?\n\nSellers suddenly have a new sales channel that bypasses Google and Amazon entirely. That's not a feature — that's leverage.",
+    "3. The Gatekeeper Problem\n\nApproved partners control the pipe. If you're not on the list, your products might as well not exist to these agents.",
+    "4. Beyond the Duopoly\n\nFor the first time, merchants can reach buyers without feeding the Google or Amazon ad machine. The question is whether they'll actually do it.",
+    "5. Your Move Today\n\nPick one product, test a feed with an AI agent, and see if it converts. If you haven't tried it yet, that's your starting point."
+  ],
+  "video_script": [
+    "Shopify just opened its catalog to AI agents.",
+    "Only approved partners get the full data access.",
+    "Sellers gain a new channel beyond Google and Amazon.",
+    "But if you're not approved, you're invisible.",
+    "Test one product feed with an AI agent today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Shopify's Quiet Power Move\n\nMillions of product listings are now accessible to AI agents — but only approved partners get the full data. The rest get scraps.",
+        "2. Who Really Wins Here?\n\nSellers suddenly have a new sales channel that bypasses Google and Amazon entirely. That's not a feature — that's leverage.",
+        "3. The Gatekeeper Problem\n\nApproved partners control the pipe. If you're not on the list, your products might as well not exist to these agents.",
+        "4. Beyond the Duopoly\n\nFor the first time, merchants can reach buyers without feeding the Google or Amazon ad machine. The question is whether they'll actually do it.",
+        "5. Your Move Today\n\nPick one product, test a feed with an AI agent, and see if it converts. If you haven't tried it yet, that's your starting point."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Shopify just opened its catalog to AI agents.",
+        "Only approved partners get the full data access.",
+        "Sellers gain a new channel beyond Google and Amazon.",
+        "But if you're not approved, you're invisible.",
+        "Test one product feed with an AI agent today."
+      ]
+    },
+    "instagram": {
+      "caption": "Millions of product listings just became readable by AI agents — but only for approved partners.\n\nShopify opened its catalog so AI agents can pull product data and surface items to buyers. 🛒\n\nEveryone else gets limited access, which means the gatekeeper decides whose products get seen.\n\nSellers get a potential sales channel that skips Google and Amazon ads entirely. ⚡\n\nIf you sell online, one of your feeds could now be tested with an AI agent instead of an ad budget. 🎯\n\nWhich single product would you test first? 🤔"
+    }
+  },
+  "instagram_caption": "Millions of product listings just became readable by AI agents — but only for approved partners.\n\nShopify opened its catalog so AI agents can pull product data and surface items to buyers. 🛒\n\nEveryone else gets limited access, which means the gatekeeper decides whose products get seen.\n\nSellers get a potential sales channel that skips Google and Amazon ads entirely. ⚡\n\nIf you sell online, one of your feeds could now be tested with an AI agent instead of an ad budget. 🎯\n\nWhich single product would you test first? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Is Shopify handing AI agents the keys?",
+      "description": "Only approved partners get full data access; everyone else gets scraps. Control decides who sells.",
+      "visual_hint": "Locked vault door with glowing digital key",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Millions of product listings go machine-readable.",
+      "description": "AI agents can now browse Shopify's catalog directly, turning every storefront into a potential automated sales channel.",
+      "visual_hint": "Robot hand scanning product shelves",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "warehouse shelves",
+      "image": "https://images.pexels.com/photos/30341205/pexels-photo-30341205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Approved partners control the only pipe.",
+      "description": "If you're not on the list, your products may as well not exist to these agents. Gatekeeping decides visibility.",
+      "visual_hint": "Narrow tunnel with data streams flowing",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "fiber optic cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Sellers finally bypass Google and Amazon.",
+      "description": "A new sales channel means merchants can reach buyers without feeding the ad duopoly. Leverage, not just a feature.",
+      "visual_hint": "Hand pushing away monopoly board pieces",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Test one AI product feed today.",
+      "description": "Pick one product, connect it to an AI agent, and check if it converts. That's your starting point.",
+      "visual_hint": "Person tapping laptop with product card",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.729057198914%2C100%2C78.541885602173&amp;w=1200",
+  "savedAt": "2026-10-13T22:07:20.248Z",
+  "sourceId": "7d53aa171cd33136900268e6ce2e9223"
+}

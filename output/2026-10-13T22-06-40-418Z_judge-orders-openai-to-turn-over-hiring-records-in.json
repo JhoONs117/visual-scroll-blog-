@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "judge-orders-openai-to-turn-over-hiring-records-in",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+  "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+  "pubDate": "Tue, 13 Oct 2026 20:36:44 +0000",
+  "slides": [
+    "Why is OpenAI's hiring under a judge's microscope?",
+    "Apple trade secrets case now targets OpenAI's recruitment records",
+    "The judge ordered OpenAI to hand over hiring data",
+    "You may need to review your own hiring vetting process",
+    "One action: audit your recruitment for trade secret leaks"
+  ],
+  "thread_text": [
+    "1. OpenAI's hiring under a judge's microscope\n\nA judge just ordered OpenAI to hand over its recruitment records. Apple's trade secrets case is now targeting who OpenAI hired — and how.",
+    "2. The case that started it all\n\nApple sued a former employee who jumped to OpenAI, alleging stolen trade secrets. That case has now expanded into a broader investigation of OpenAI's hiring practices.",
+    "3. What the judge actually wants\n\nThe court order demands detailed hiring data: who OpenAI interviewed, what they were asked, and how they were vetted. It's a deep dive into recruitment records.",
+    "4. Your hiring process could be next\n\nIf OpenAI's vetting is under scrutiny, your company's may not be far behind. Trade secret leaks often start with a single unvetted hire.",
+    "5. Audit your recruitment for leaks\n\nTake one job description and trace every candidate's access to sensitive data. If you haven't done that yet, start there."
+  ],
+  "video_script": [
+    "A judge ordered OpenAI to hand over its hiring records.",
+    "Apple's trade secrets case is now targeting OpenAI's recruitment.",
+    "The court wants details on interviews, vetting, and who was hired.",
+    "If OpenAI's process is scrutinized, yours might be next.",
+    "Audit your recruitment: trace who sees sensitive data."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI's hiring under a judge's microscope\n\nA judge just ordered OpenAI to hand over its recruitment records. Apple's trade secrets case is now targeting who OpenAI hired — and how.",
+        "2. The case that started it all\n\nApple sued a former employee who jumped to OpenAI, alleging stolen trade secrets. That case has now expanded into a broader investigation of OpenAI's hiring practices.",
+        "3. What the judge actually wants\n\nThe court order demands detailed hiring data: who OpenAI interviewed, what they were asked, and how they were vetted. It's a deep dive into recruitment records.",
+        "4. Your hiring process could be next\n\nIf OpenAI's vetting is under scrutiny, your company's may not be far behind. Trade secret leaks often start with a single unvetted hire.",
+        "5. Audit your recruitment for leaks\n\nTake one job description and trace every candidate's access to sensitive data. If you haven't done that yet, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A judge ordered OpenAI to hand over its hiring records.",
+        "Apple's trade secrets case is now targeting OpenAI's recruitment.",
+        "The court wants details on interviews, vetting, and who was hired.",
+        "If OpenAI's process is scrutinized, yours might be next.",
+        "Audit your recruitment: trace who sees sensitive data."
+      ]
+    },
+    "instagram": {
+      "caption": "A judge just ordered OpenAI to hand over its hiring records in Apple's trade secrets case.\n\nApple sued a former employee who moved to OpenAI, alleging stolen secrets. That case now reaches into how OpenAI recruits.\n\nThe court wants interview data, questions asked, and vetting details. 📋\n\nIf that vetting is under scrutiny, yours might be next.\n\nPull one job description today and trace every candidate's access to sensitive data. 🔍\n\nHow many of your last hires touched confidential files before anyone checked? 🧐"
+    }
+  },
+  "instagram_caption": "A judge just ordered OpenAI to hand over its hiring records in Apple's trade secrets case.\n\nApple sued a former employee who moved to OpenAI, alleging stolen secrets. That case now reaches into how OpenAI recruits.\n\nThe court wants interview data, questions asked, and vetting details. 📋\n\nIf that vetting is under scrutiny, yours might be next.\n\nPull one job description today and trace every candidate's access to sensitive data. 🔍\n\nHow many of your last hires touched confidential files before anyone checked? 🧐",
+  "carousel_slides": [
+    {
+      "hook": "Is Your Hiring Process Leaking Secrets?",
+      "description": "A judge ordered OpenAI to hand over detailed hiring records, revealing how recruitment can become a trade secret battleground.",
+      "visual_hint": "Gavel striking in courtroom",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "courtroom gavel"
+    },
+    {
+      "hook": "Apple vs OpenAI: Hiring Records Targeted",
+      "description": "Apple's trade secrets case now focuses on OpenAI's recruitment data, including who was interviewed and how they were vetted.",
+      "visual_hint": "Legal documents and scales",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "legal documents",
+      "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "What Exactly Did The Judge Order?",
+      "description": "OpenAI must provide interview questions and vetting details, exposing recruitment practices to intense legal scrutiny.",
+      "visual_hint": "Magnifying glass on contract",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass contract",
+      "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your Own Hiring Could Be Next",
+      "description": "If OpenAI's vetting is scrutinized, your company's may soon follow. One unvetted hire can leak trade secrets.",
+      "visual_hint": "Office desk with resume",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office desk resume",
+      "image": "https://images.pexels.com/photos/37967223/pexels-photo-37967223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save This: Audit Your Hiring Now",
+      "description": "Take one job description and trace each candidate's access to sensitive data. Start your audit today.",
+      "visual_hint": "Checklist on clipboard",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-10-13T22:07:00.399Z",
+  "sourceId": "025ffa23c0156c268e053866fd6598fa"
+}

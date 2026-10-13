@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "shopify-opens-its-catalog-up-to-more-ai-agents",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Shopify opens its catalog up to more AI agents",
+    "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+    "pubDate": "2026-10-13T19:42:42.000Z",
+    "slides": [
+      "Shopify just opened its catalog — who benefits most?",
+      "AI agents can now access millions of product listings",
+      "But only approved partners get full data access",
+      "Sellers gain new sales channels beyond Google and Amazon",
+      "Test one product feed with an AI agent today"
+    ],
+    "thread_text": [
+      "1. Shopify's Quiet Power Move\n\nMillions of product listings are now accessible to AI agents — but only approved partners get the full data. The rest get scraps.",
+      "2. Who Really Wins Here?\n\nSellers suddenly have a new sales channel that bypasses Google and Amazon entirely. That's not a feature — that's leverage.",
+      "3. The Gatekeeper Problem\n\nApproved partners control the pipe. If you're not on the list, your products might as well not exist to these agents.",
+      "4. Beyond the Duopoly\n\nFor the first time, merchants can reach buyers without feeding the Google or Amazon ad machine. The question is whether they'll actually do it.",
+      "5. Your Move Today\n\nPick one product, test a feed with an AI agent, and see if it converts. If you haven't tried it yet, that's your starting point."
+    ],
+    "video_script": [
+      "Shopify just opened its catalog to AI agents.",
+      "Only approved partners get the full data access.",
+      "Sellers gain a new channel beyond Google and Amazon.",
+      "But if you're not approved, you're invisible.",
+      "Test one product feed with an AI agent today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Shopify's Quiet Power Move\n\nMillions of product listings are now accessible to AI agents — but only approved partners get the full data. The rest get scraps.",
+          "2. Who Really Wins Here?\n\nSellers suddenly have a new sales channel that bypasses Google and Amazon entirely. That's not a feature — that's leverage.",
+          "3. The Gatekeeper Problem\n\nApproved partners control the pipe. If you're not on the list, your products might as well not exist to these agents.",
+          "4. Beyond the Duopoly\n\nFor the first time, merchants can reach buyers without feeding the Google or Amazon ad machine. The question is whether they'll actually do it.",
+          "5. Your Move Today\n\nPick one product, test a feed with an AI agent, and see if it converts. If you haven't tried it yet, that's your starting point."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Shopify just opened its catalog to AI agents.",
+          "Only approved partners get the full data access.",
+          "Sellers gain a new channel beyond Google and Amazon.",
+          "But if you're not approved, you're invisible.",
+          "Test one product feed with an AI agent today."
+        ]
+      },
+      "instagram": {
+        "caption": "Millions of product listings just became readable by AI agents — but only for approved partners.\n\nShopify opened its catalog so AI agents can pull product data and surface items to buyers. 🛒\n\nEveryone else gets limited access, which means the gatekeeper decides whose products get seen.\n\nSellers get a potential sales channel that skips Google and Amazon ads entirely. ⚡\n\nIf you sell online, one of your feeds could now be tested with an AI agent instead of an ad budget. 🎯\n\nWhich single product would you test first? 🤔"
+      }
+    },
+    "instagram_caption": "Millions of product listings just became readable by AI agents — but only for approved partners.\n\nShopify opened its catalog so AI agents can pull product data and surface items to buyers. 🛒\n\nEveryone else gets limited access, which means the gatekeeper decides whose products get seen.\n\nSellers get a potential sales channel that skips Google and Amazon ads entirely. ⚡\n\nIf you sell online, one of your feeds could now be tested with an AI agent instead of an ad budget. 🎯\n\nWhich single product would you test first? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Is Shopify handing AI agents the keys?",
+        "description": "Only approved partners get full data access; everyone else gets scraps. Control decides who sells.",
+        "visual_hint": "Locked vault door with glowing digital key",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Millions of product listings go machine-readable.",
+        "description": "AI agents can now browse Shopify's catalog directly, turning every storefront into a potential automated sales channel.",
+        "visual_hint": "Robot hand scanning product shelves",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "warehouse shelves",
+        "image": "https://images.pexels.com/photos/30341205/pexels-photo-30341205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Approved partners control the only pipe.",
+        "description": "If you're not on the list, your products may as well not exist to these agents. Gatekeeping decides visibility.",
+        "visual_hint": "Narrow tunnel with data streams flowing",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "fiber optic cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sellers finally bypass Google and Amazon.",
+        "description": "A new sales channel means merchants can reach buyers without feeding the ad duopoly. Leverage, not just a feature.",
+        "visual_hint": "Hand pushing away monopoly board pieces",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this. Test one AI product feed today.",
+        "description": "Pick one product, connect it to an AI agent, and check if it converts. That's your starting point.",
+        "visual_hint": "Person tapping laptop with product card",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.729057198914%2C100%2C78.541885602173&amp;w=1200",
+    "savedAt": "2026-10-13T22:07:20.248Z",
+    "sourceId": "7d53aa171cd33136900268e6ce2e9223"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "pluto-security-raises-42m-as-ai-gives-enterprise-s",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+    "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+    "pubDate": "Tue, 13 Oct 2026 17:18:25 +0000",
+    "slides": [
+      "Pluto Security just raised $42M — but why now?",
+      "AI tools are creating unforeseen security gaps in enterprises.",
+      "The threat isn't hackers — it's your own AI agents.",
+      "Audit every AI tool your team uses this week.",
+      "Your security stack wasn't built for this. What will you change?"
+    ],
+    "thread_text": [
+      "1. $42M for AI Security\n\nPluto Security just raised that. Investors don't write checks that size unless enterprises are already bleeding. The breach isn't coming — it's happening inside your own tools.",
+      "2. AI Tools Open Backdoors\n\nEvery plugin, agent and integration your team adopted this year expanded the attack surface. Nobody audited them. That's the gap.",
+      "3. Your Agents Are the Threat\n\nThe danger isn't an external hacker. It's the AI agent your team gave permissions to. It can leak, delete, or act without anyone noticing.",
+      "4. Audit This Week\n\nList every AI tool your team touches. Check what data it can access, who approved it, and what it can do without asking. Most teams fail step one.",
+      "5. Your Stack Wasn't Built\n\nFor agents that act on their own. So what will you change first — permissions, tools, or the people clicking approve?"
+    ],
+    "video_script": [
+      "Pluto Security just raised forty-two million dollars.",
+      "Every AI tool your team uses creates a hidden gap.",
+      "The real threat is your own AI agents acting alone.",
+      "This week, list every AI tool your team touches.",
+      "Your security stack wasn't built for this. What changes?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $42M for AI Security\n\nPluto Security just raised that. Investors don't write checks that size unless enterprises are already bleeding. The breach isn't coming — it's happening inside your own tools.",
+          "2. AI Tools Open Backdoors\n\nEvery plugin, agent and integration your team adopted this year expanded the attack surface. Nobody audited them. That's the gap.",
+          "3. Your Agents Are the Threat\n\nThe danger isn't an external hacker. It's the AI agent your team gave permissions to. It can leak, delete, or act without anyone noticing.",
+          "4. Audit This Week\n\nList every AI tool your team touches. Check what data it can access, who approved it, and what it can do without asking. Most teams fail step one.",
+          "5. Your Stack Wasn't Built\n\nFor agents that act on their own. So what will you change first — permissions, tools, or the people clicking approve?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Pluto Security just raised forty-two million dollars.",
+          "Every AI tool your team uses creates a hidden gap.",
+          "The real threat is your own AI agents acting alone.",
+          "This week, list every AI tool your team touches.",
+          "Your security stack wasn't built for this. What changes?"
+        ]
+      },
+      "instagram": {
+        "caption": "$42 million just went to a company fixing a problem most teams haven't noticed yet.\n\nPluto Security raised that round because AI agents inside your tools can leak, delete, or act without anyone approving it. 🔓\n\nThe threat isn't an outside hacker. It's the agent your team already gave permissions to.\n\nThis week, list every AI tool your team uses. Check what data it can reach and who approved it. Most teams can't answer step one. 👀\n\nYour security stack wasn't built for tools that act on their own. What do you fix first — permissions, tools, or who clicks approve? ⚠️"
+      }
+    },
+    "instagram_caption": "$42 million just went to a company fixing a problem most teams haven't noticed yet.\n\nPluto Security raised that round because AI agents inside your tools can leak, delete, or act without anyone approving it. 🔓\n\nThe threat isn't an outside hacker. It's the agent your team already gave permissions to.\n\nThis week, list every AI tool your team uses. Check what data it can reach and who approved it. Most teams can't answer step one. 👀\n\nYour security stack wasn't built for tools that act on their own. What do you fix first — permissions, tools, or who clicks approve? ⚠️",
+    "carousel_slides": [
+      {
+        "hook": "Your AI Agents Are the Threat",
+        "description": "Pluto Security raised $42M because the breach isn't coming — it's already happening inside your own AI tools.",
+        "visual_hint": "Dark server room, glowing red warning light",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Every AI Tool Opens a Backdoor",
+        "description": "Every plugin, agent, and integration your team adopted expanded the attack surface — and nobody audited them. That's the gap.",
+        "visual_hint": "Abstract digital backdoor, open lock icon",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "open door",
+        "image": "https://images.pexels.com/photos/9955027/pexels-photo-9955027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The Danger Isn't External Hackers",
+        "description": "The real threat is the AI agent given permissions that can leak, delete, or act without anyone noticing.",
+        "visual_hint": "Glowing AI brain, data streams leaking",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "artificial intelligence",
+        "image": "https://images.pexels.com/photos/7688592/pexels-photo-7688592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit Every AI Tool This Week",
+        "description": "List every AI tool your team touches. Check data access, who approved it, and what it can do without asking.",
+        "visual_hint": "Human hand holding checklist, digital overlay",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "checklist",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your Security Stack Wasn't Built for This",
+        "description": "What will you change first — permissions, tools, or the people clicking approve? Save and share your plan.",
+        "visual_hint": "Broken shield, cracked security padlock",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "broken shield",
+        "image": "https://images.pexels.com/photos/6289038/pexels-photo-6289038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot_20261013_211032.png?resize=1200,815",
+    "savedAt": "2026-10-13T22:07:10.389Z",
+    "sourceId": "4d1328cfb2ae5c213b9502692d71b023"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "judge-orders-openai-to-turn-over-hiring-records-in",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+    "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+    "pubDate": "Tue, 13 Oct 2026 20:36:44 +0000",
+    "slides": [
+      "Why is OpenAI's hiring under a judge's microscope?",
+      "Apple trade secrets case now targets OpenAI's recruitment records",
+      "The judge ordered OpenAI to hand over hiring data",
+      "You may need to review your own hiring vetting process",
+      "One action: audit your recruitment for trade secret leaks"
+    ],
+    "thread_text": [
+      "1. OpenAI's hiring under a judge's microscope\n\nA judge just ordered OpenAI to hand over its recruitment records. Apple's trade secrets case is now targeting who OpenAI hired — and how.",
+      "2. The case that started it all\n\nApple sued a former employee who jumped to OpenAI, alleging stolen trade secrets. That case has now expanded into a broader investigation of OpenAI's hiring practices.",
+      "3. What the judge actually wants\n\nThe court order demands detailed hiring data: who OpenAI interviewed, what they were asked, and how they were vetted. It's a deep dive into recruitment records.",
+      "4. Your hiring process could be next\n\nIf OpenAI's vetting is under scrutiny, your company's may not be far behind. Trade secret leaks often start with a single unvetted hire.",
+      "5. Audit your recruitment for leaks\n\nTake one job description and trace every candidate's access to sensitive data. If you haven't done that yet, start there."
+    ],
+    "video_script": [
+      "A judge ordered OpenAI to hand over its hiring records.",
+      "Apple's trade secrets case is now targeting OpenAI's recruitment.",
+      "The court wants details on interviews, vetting, and who was hired.",
+      "If OpenAI's process is scrutinized, yours might be next.",
+      "Audit your recruitment: trace who sees sensitive data."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. OpenAI's hiring under a judge's microscope\n\nA judge just ordered OpenAI to hand over its recruitment records. Apple's trade secrets case is now targeting who OpenAI hired — and how.",
+          "2. The case that started it all\n\nApple sued a former employee who jumped to OpenAI, alleging stolen trade secrets. That case has now expanded into a broader investigation of OpenAI's hiring practices.",
+          "3. What the judge actually wants\n\nThe court order demands detailed hiring data: who OpenAI interviewed, what they were asked, and how they were vetted. It's a deep dive into recruitment records.",
+          "4. Your hiring process could be next\n\nIf OpenAI's vetting is under scrutiny, your company's may not be far behind. Trade secret leaks often start with a single unvetted hire.",
+          "5. Audit your recruitment for leaks\n\nTake one job description and trace every candidate's access to sensitive data. If you haven't done that yet, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A judge ordered OpenAI to hand over its hiring records.",
+          "Apple's trade secrets case is now targeting OpenAI's recruitment.",
+          "The court wants details on interviews, vetting, and who was hired.",
+          "If OpenAI's process is scrutinized, yours might be next.",
+          "Audit your recruitment: trace who sees sensitive data."
+        ]
+      },
+      "instagram": {
+        "caption": "A judge just ordered OpenAI to hand over its hiring records in Apple's trade secrets case.\n\nApple sued a former employee who moved to OpenAI, alleging stolen secrets. That case now reaches into how OpenAI recruits.\n\nThe court wants interview data, questions asked, and vetting details. 📋\n\nIf that vetting is under scrutiny, yours might be next.\n\nPull one job description today and trace every candidate's access to sensitive data. 🔍\n\nHow many of your last hires touched confidential files before anyone checked? 🧐"
+      }
+    },
+    "instagram_caption": "A judge just ordered OpenAI to hand over its hiring records in Apple's trade secrets case.\n\nApple sued a former employee who moved to OpenAI, alleging stolen secrets. That case now reaches into how OpenAI recruits.\n\nThe court wants interview data, questions asked, and vetting details. 📋\n\nIf that vetting is under scrutiny, yours might be next.\n\nPull one job description today and trace every candidate's access to sensitive data. 🔍\n\nHow many of your last hires touched confidential files before anyone checked? 🧐",
+    "carousel_slides": [
+      {
+        "hook": "Is Your Hiring Process Leaking Secrets?",
+        "description": "A judge ordered OpenAI to hand over detailed hiring records, revealing how recruitment can become a trade secret battleground.",
+        "visual_hint": "Gavel striking in courtroom",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "courtroom gavel"
+      },
+      {
+        "hook": "Apple vs OpenAI: Hiring Records Targeted",
+        "description": "Apple's trade secrets case now focuses on OpenAI's recruitment data, including who was interviewed and how they were vetted.",
+        "visual_hint": "Legal documents and scales",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "legal documents",
+        "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "What Exactly Did The Judge Order?",
+        "description": "OpenAI must provide interview questions and vetting details, exposing recruitment practices to intense legal scrutiny.",
+        "visual_hint": "Magnifying glass on contract",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass contract",
+        "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your Own Hiring Could Be Next",
+        "description": "If OpenAI's vetting is scrutinized, your company's may soon follow. One unvetted hire can leak trade secrets.",
+        "visual_hint": "Office desk with resume",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office desk resume",
+        "image": "https://images.pexels.com/photos/37967223/pexels-photo-37967223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save This: Audit Your Hiring Now",
+        "description": "Take one job description and trace each candidate's access to sensitive data. Start your audit today.",
+        "visual_hint": "Checklist on clipboard",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-10-13T22:07:00.399Z",
+    "sourceId": "025ffa23c0156c268e053866fd6598fa"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "fbi-arrests-openai-employee-accused-of-planting-hi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+    "link": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+    "pubDate": "Tue, 13 Oct 2026 20:59:11 +0000",
+    "slides": [
+      "FBI arrests OpenAI employee: what did they hear?",
+      "Devices found hidden in conference room walls.",
+      "But employee had access to top-secret AI projects.",
+      "Your meetings may be compromised. Secure your spaces now.",
+      "Trust but verify—especially in AI's closed doors."
+    ],
+    "thread_text": [
+      "1. What the FBI Heard\n\nAn OpenAI employee was arrested after agents discovered listening devices hidden inside conference room walls. The devices had been active for months.",
+      "2. Hidden in Plain Sight\n\nThe bugs were embedded in wall panels during a routine office renovation. No one noticed until a security sweep flagged unusual wiring.",
+      "3. Top-Secret Access\n\nThat same employee had clearance for unreleased AI models and internal safety research. Investigators are now reviewing every meeting he attended.",
+      "4. Your Meetings Are Next\n\nIf a top AI lab can be compromised, your startup's boardroom is an open book. Most offices never sweep for listening devices.",
+      "5. Test Your Own Space\n\nWalk into your main meeting room and check for unexplained outlets or ceiling tiles. If you can't explain it, call a security firm this week."
+    ],
+    "video_script": [
+      "FBI arrested an OpenAI employee after finding hidden microphones.",
+      "The devices were tucked inside conference room walls for months.",
+      "He had access to top-secret AI projects and safety research.",
+      "Your meetings could be compromised too. Most offices never check.",
+      "Check your meeting room today for anything you cannot explain."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What the FBI Heard\n\nAn OpenAI employee was arrested after agents discovered listening devices hidden inside conference room walls. The devices had been active for months.",
+          "2. Hidden in Plain Sight\n\nThe bugs were embedded in wall panels during a routine office renovation. No one noticed until a security sweep flagged unusual wiring.",
+          "3. Top-Secret Access\n\nThat same employee had clearance for unreleased AI models and internal safety research. Investigators are now reviewing every meeting he attended.",
+          "4. Your Meetings Are Next\n\nIf a top AI lab can be compromised, your startup's boardroom is an open book. Most offices never sweep for listening devices.",
+          "5. Test Your Own Space\n\nWalk into your main meeting room and check for unexplained outlets or ceiling tiles. If you can't explain it, call a security firm this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "FBI arrested an OpenAI employee after finding hidden microphones.",
+          "The devices were tucked inside conference room walls for months.",
+          "He had access to top-secret AI projects and safety research.",
+          "Your meetings could be compromised too. Most offices never check.",
+          "Check your meeting room today for anything you cannot explain."
+        ]
+      },
+      "instagram": {
+        "caption": "Listening devices were found hidden inside conference room walls at OpenAI.\n\nThe employee who planted them had clearance for unreleased AI models and internal safety research.\n\nThe bugs went unnoticed for months until a security sweep flagged unusual wiring.\n\nIf a top AI lab gets compromised, your office meeting room probably isn't any safer.\n\nMost companies never sweep for listening devices. Ever.\n\nWalk into your main meeting room today and check for outlets or ceiling tiles you can't explain 🔍\n\nIf something looks off, would you actually know who to call? 🎙️"
+      }
+    },
+    "instagram_caption": "Listening devices were found hidden inside conference room walls at OpenAI.\n\nThe employee who planted them had clearance for unreleased AI models and internal safety research.\n\nThe bugs went unnoticed for months until a security sweep flagged unusual wiring.\n\nIf a top AI lab gets compromised, your office meeting room probably isn't any safer.\n\nMost companies never sweep for listening devices. Ever.\n\nWalk into your main meeting room today and check for outlets or ceiling tiles you can't explain 🔍\n\nIf something looks off, would you actually know who to call? 🎙️",
+    "carousel_slides": [
+      {
+        "hook": "What did the FBI hear?",
+        "description": "An OpenAI employee with top-secret clearance was arrested after hidden recording devices were found in conference room walls.",
+        "visual_hint": "FBI agents entering office building",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "FBI building"
+      },
+      {
+        "hook": "Bugs hidden in plain sight",
+        "description": "Listening devices were embedded in wall panels during renovation. Months passed before a security sweep flagged unusual wiring.",
+        "visual_hint": "Wall panel with hidden device",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "wall panel",
+        "image": "https://images.pexels.com/photos/14975208/pexels-photo-14975208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "He had access to everything",
+        "description": "That employee could see unreleased AI models and safety research. Investigators now review every meeting he attended.",
+        "visual_hint": "Server room behind locked door",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your boardroom is next",
+        "description": "If a top AI lab gets compromised, your office is an open book. Most startups never sweep for listening devices.",
+        "visual_hint": "Empty meeting room with table",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "conference room",
+        "image": "https://images.pexels.com/photos/7648468/pexels-photo-7648468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your next meeting",
+        "description": "Walk into your main meeting room and check for unexplained outlets or ceiling tiles. Call a security firm this week.",
+        "visual_hint": "Person inspecting ceiling tile",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "ceiling tiles",
+        "image": "https://images.pexels.com/photos/30652137/pexels-photo-30652137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/openai-employee-product-recording.jpg?w=1145",
+    "savedAt": "2026-10-13T22:06:49.986Z",
+    "sourceId": "790b86b7670160c107d977f89906b2a8"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "just-5-years-in-interactive-chatbot-platform-chara",
     "prompt_version": "1.0.0",
     "status": "published",

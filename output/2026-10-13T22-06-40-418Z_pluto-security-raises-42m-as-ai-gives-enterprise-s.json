@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "pluto-security-raises-42m-as-ai-gives-enterprise-s",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+  "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+  "pubDate": "Tue, 13 Oct 2026 17:18:25 +0000",
+  "slides": [
+    "Pluto Security just raised $42M — but why now?",
+    "AI tools are creating unforeseen security gaps in enterprises.",
+    "The threat isn't hackers — it's your own AI agents.",
+    "Audit every AI tool your team uses this week.",
+    "Your security stack wasn't built for this. What will you change?"
+  ],
+  "thread_text": [
+    "1. $42M for AI Security\n\nPluto Security just raised that. Investors don't write checks that size unless enterprises are already bleeding. The breach isn't coming — it's happening inside your own tools.",
+    "2. AI Tools Open Backdoors\n\nEvery plugin, agent and integration your team adopted this year expanded the attack surface. Nobody audited them. That's the gap.",
+    "3. Your Agents Are the Threat\n\nThe danger isn't an external hacker. It's the AI agent your team gave permissions to. It can leak, delete, or act without anyone noticing.",
+    "4. Audit This Week\n\nList every AI tool your team touches. Check what data it can access, who approved it, and what it can do without asking. Most teams fail step one.",
+    "5. Your Stack Wasn't Built\n\nFor agents that act on their own. So what will you change first — permissions, tools, or the people clicking approve?"
+  ],
+  "video_script": [
+    "Pluto Security just raised forty-two million dollars.",
+    "Every AI tool your team uses creates a hidden gap.",
+    "The real threat is your own AI agents acting alone.",
+    "This week, list every AI tool your team touches.",
+    "Your security stack wasn't built for this. What changes?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $42M for AI Security\n\nPluto Security just raised that. Investors don't write checks that size unless enterprises are already bleeding. The breach isn't coming — it's happening inside your own tools.",
+        "2. AI Tools Open Backdoors\n\nEvery plugin, agent and integration your team adopted this year expanded the attack surface. Nobody audited them. That's the gap.",
+        "3. Your Agents Are the Threat\n\nThe danger isn't an external hacker. It's the AI agent your team gave permissions to. It can leak, delete, or act without anyone noticing.",
+        "4. Audit This Week\n\nList every AI tool your team touches. Check what data it can access, who approved it, and what it can do without asking. Most teams fail step one.",
+        "5. Your Stack Wasn't Built\n\nFor agents that act on their own. So what will you change first — permissions, tools, or the people clicking approve?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Pluto Security just raised forty-two million dollars.",
+        "Every AI tool your team uses creates a hidden gap.",
+        "The real threat is your own AI agents acting alone.",
+        "This week, list every AI tool your team touches.",
+        "Your security stack wasn't built for this. What changes?"
+      ]
+    },
+    "instagram": {
+      "caption": "$42 million just went to a company fixing a problem most teams haven't noticed yet.\n\nPluto Security raised that round because AI agents inside your tools can leak, delete, or act without anyone approving it. 🔓\n\nThe threat isn't an outside hacker. It's the agent your team already gave permissions to.\n\nThis week, list every AI tool your team uses. Check what data it can reach and who approved it. Most teams can't answer step one. 👀\n\nYour security stack wasn't built for tools that act on their own. What do you fix first — permissions, tools, or who clicks approve? ⚠️"
+    }
+  },
+  "instagram_caption": "$42 million just went to a company fixing a problem most teams haven't noticed yet.\n\nPluto Security raised that round because AI agents inside your tools can leak, delete, or act without anyone approving it. 🔓\n\nThe threat isn't an outside hacker. It's the agent your team already gave permissions to.\n\nThis week, list every AI tool your team uses. Check what data it can reach and who approved it. Most teams can't answer step one. 👀\n\nYour security stack wasn't built for tools that act on their own. What do you fix first — permissions, tools, or who clicks approve? ⚠️",
+  "carousel_slides": [
+    {
+      "hook": "Your AI Agents Are the Threat",
+      "description": "Pluto Security raised $42M because the breach isn't coming — it's already happening inside your own AI tools.",
+      "visual_hint": "Dark server room, glowing red warning light",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Every AI Tool Opens a Backdoor",
+      "description": "Every plugin, agent, and integration your team adopted expanded the attack surface — and nobody audited them. That's the gap.",
+      "visual_hint": "Abstract digital backdoor, open lock icon",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "open door",
+      "image": "https://images.pexels.com/photos/9955027/pexels-photo-9955027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The Danger Isn't External Hackers",
+      "description": "The real threat is the AI agent given permissions that can leak, delete, or act without anyone noticing.",
+      "visual_hint": "Glowing AI brain, data streams leaking",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "artificial intelligence",
+      "image": "https://images.pexels.com/photos/7688592/pexels-photo-7688592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit Every AI Tool This Week",
+      "description": "List every AI tool your team touches. Check data access, who approved it, and what it can do without asking.",
+      "visual_hint": "Human hand holding checklist, digital overlay",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "checklist",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your Security Stack Wasn't Built for This",
+      "description": "What will you change first — permissions, tools, or the people clicking approve? Save and share your plan.",
+      "visual_hint": "Broken shield, cracked security padlock",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "broken shield",
+      "image": "https://images.pexels.com/photos/6289038/pexels-photo-6289038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot_20261013_211032.png?resize=1200,815",
+  "savedAt": "2026-10-13T22:07:10.389Z",
+  "sourceId": "4d1328cfb2ae5c213b9502692d71b023"
+}
