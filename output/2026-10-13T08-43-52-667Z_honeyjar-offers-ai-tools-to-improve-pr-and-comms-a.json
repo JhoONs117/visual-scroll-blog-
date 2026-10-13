@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "honeyjar-offers-ai-tools-to-improve-pr-and-comms-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+  "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+  "pubDate": "Mon, 12 Oct 2026 15:45:00 +0000",
+  "slides": [
+    "Can AI fix your PR agency's biggest headache?",
+    "Honeyjar launches AI tools for PR and comms.",
+    "It targets mundane tasks, not big strategy.",
+    "Your team could reclaim hours each week.",
+    "But can AI truly handle nuanced pitches?"
+  ],
+  "thread_text": [
+    "1. AI Won't Steal Your Job — But This Might\n\nHoneyjar just launched AI tools for public relations and communications teams. They target the boring stuff, not the big strategy.",
+    "2. The Real Problem Isn't Strategy\n\nMost PR teams don't struggle with the big pitch. They drown in media lists, follow-ups, and repetitive admin work that eats hours every single week.",
+    "3. Where the Hours Actually Go\n\nHoneyjar's AI handles the mundane tasks so your team can focus on relationships and creative angles. That's potentially hours back per person, per week.",
+    "4. But Here's the Catch\n\nCan AI really handle a nuanced pitch to a skeptical journalist? That's the question no tool has answered yet — and it's the one that matters most.",
+    "5. Test It Before You Trust It\n\nTake one real pitch you're working on and run it through an AI tool this week. If you still have to rewrite it twice, you have your answer."
+  ],
+  "video_script": [
+    "Your PR team is drowning in busywork.",
+    "Honeyjar just launched AI tools for communications.",
+    "It targets mundane tasks, not big strategy.",
+    "Your team could reclaim hours every week.",
+    "But can AI handle a nuanced pitch?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Won't Steal Your Job — But This Might\n\nHoneyjar just launched AI tools for public relations and communications teams. They target the boring stuff, not the big strategy.",
+        "2. The Real Problem Isn't Strategy\n\nMost PR teams don't struggle with the big pitch. They drown in media lists, follow-ups, and repetitive admin work that eats hours every single week.",
+        "3. Where the Hours Actually Go\n\nHoneyjar's AI handles the mundane tasks so your team can focus on relationships and creative angles. That's potentially hours back per person, per week.",
+        "4. But Here's the Catch\n\nCan AI really handle a nuanced pitch to a skeptical journalist? That's the question no tool has answered yet — and it's the one that matters most.",
+        "5. Test It Before You Trust It\n\nTake one real pitch you're working on and run it through an AI tool this week. If you still have to rewrite it twice, you have your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your PR team is drowning in busywork.",
+        "Honeyjar just launched AI tools for communications.",
+        "It targets mundane tasks, not big strategy.",
+        "Your team could reclaim hours every week.",
+        "But can AI handle a nuanced pitch?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your team is probably spending hours a week on media lists and follow-ups instead of actual pitching. 🕐\n\nHoneyjar just launched AI tools built for PR and communications teams.\n\nThey target the repetitive admin work, not the big strategy or creative angles.\n\nThat could mean hours back per person, per week. ⚡\n\nBut here's the real test: can AI handle a nuanced pitch to a skeptical journalist? 🤔\n\nIf your team creates or pitches content, try running one real pitch through an AI tool this week. If you still rewrite it twice, you have your answer.\n\nWould you trust AI with your next pitch? 👇"
+    }
+  },
+  "instagram_caption": "Your team is probably spending hours a week on media lists and follow-ups instead of actual pitching. 🕐\n\nHoneyjar just launched AI tools built for PR and communications teams.\n\nThey target the repetitive admin work, not the big strategy or creative angles.\n\nThat could mean hours back per person, per week. ⚡\n\nBut here's the real test: can AI handle a nuanced pitch to a skeptical journalist? 🤔\n\nIf your team creates or pitches content, try running one real pitch through an AI tool this week. If you still rewrite it twice, you have your answer.\n\nWould you trust AI with your next pitch? 👇",
+  "carousel_slides": [
+    {
+      "hook": "Can AI fix PR's biggest headache?",
+      "description": "Honeyjar launched AI tools for PR and comms teams, targeting boring and repetitive tasks, not the big-picture strategy work.",
+      "visual_hint": "Minimalist honey jar amid abstract honeycomb pattern",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "honey jar"
+    },
+    {
+      "hook": "AI tools built just for PR",
+      "description": "Honeyjar launches AI tools to streamline media lists, follow-ups, and repetitive admin work, aiming to ease the daily grind.",
+      "visual_hint": "Laptop screen displaying media list interface",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "laptop screen",
+      "image": "https://images.pexels.com/photos/17115912/pexels-photo-17115912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI targets admin, not strategy",
+      "description": "Most PR teams drown in media lists and follow-ups, not big pitches. Honeyjar automates mundane tasks to reclaim hours weekly.",
+      "visual_hint": "Cluttered desk with stacked papers and clipboard",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "desk clutter",
+      "image": "https://images.pexels.com/photos/8386571/pexels-photo-8386571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Reclaim hours, focus on relationships",
+      "description": "By handling repetitive admin, Honeyjar frees your team to focus on relationships and creative angles, potentially saving hours per person weekly.",
+      "visual_hint": "Hands typing on laptop, clock in background",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands typing",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "But can AI handle nuanced pitches?",
+      "description": "Take one real pitch you're working on and run it through an AI tool this week. If you rewrite it twice, you have your answer.",
+      "visual_hint": "Person reviewing printed document with red pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "printed document",
+      "image": "https://images.pexels.com/photos/7821581/pexels-photo-7821581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/honeyjar-founders.jpg?resize=960,1200",
+  "savedAt": "2026-10-13T08:44:02.388Z",
+  "sourceId": "3167f1c8b10b3352397656236df41608"
+}

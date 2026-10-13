@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "former-plaud-exec-raises-26m-for-ai-app-that-liste",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+    "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+    "pubDate": "Mon, 12 Oct 2026 12:47:59 +0000",
+    "slides": [
+      "A former Plaud exec raised $26M for an AI that listens.",
+      "The app runs in the background, always recording.",
+      "But its real trick is knowing when to ignore you.",
+      "You'll get automatic notes without lifting a finger.",
+      "Ask: would you wear a mic all day for that?"
+    ],
+    "thread_text": [
+      "1. The $26M Always-On Mic\n\nA former Plaud exec just raised $26M for an AI that listens in the background all day. It records everything by default.",
+      "2. Recording Is Not the Feature\n\nAnyone can hit record. This app's real trick is knowing when to ignore you — filtering out the noise and only keeping what matters.",
+      "3. Notes Without Lifting a Finger\n\nYou get automatic summaries and action items without touching your phone. No start, no stop, no editing.",
+      "4. Would You Wear It?\n\nThe catch: you'd need to wear a mic all day. Always on, always listening. That's a big ask for most people.",
+      "5. Test the Trade-Off This Week\n\nTry recording one meeting on your phone and writing notes manually. Compare the time. Does the AI really save you, or just shift the work?"
+    ],
+    "video_script": [
+      "A former Plaud exec raised 26 million for an AI that listens.",
+      "The app runs in the background, always recording.",
+      "Its real trick is knowing when to ignore you.",
+      "You get automatic notes without lifting a finger.",
+      "Would you wear a mic all day for that?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $26M Always-On Mic\n\nA former Plaud exec just raised $26M for an AI that listens in the background all day. It records everything by default.",
+          "2. Recording Is Not the Feature\n\nAnyone can hit record. This app's real trick is knowing when to ignore you — filtering out the noise and only keeping what matters.",
+          "3. Notes Without Lifting a Finger\n\nYou get automatic summaries and action items without touching your phone. No start, no stop, no editing.",
+          "4. Would You Wear It?\n\nThe catch: you'd need to wear a mic all day. Always on, always listening. That's a big ask for most people.",
+          "5. Test the Trade-Off This Week\n\nTry recording one meeting on your phone and writing notes manually. Compare the time. Does the AI really save you, or just shift the work?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A former Plaud exec raised 26 million for an AI that listens.",
+          "The app runs in the background, always recording.",
+          "Its real trick is knowing when to ignore you.",
+          "You get automatic notes without lifting a finger.",
+          "Would you wear a mic all day for that?"
+        ]
+      },
+      "instagram": {
+        "caption": "Someone just raised $26M for an AI mic that records you all day. 💰\n\nIt runs in the background and captures everything by default.\n\nThe real trick isn't recording — it's knowing when to ignore you, filtering noise and keeping only what matters.\n\nYou get summaries and action items without touching your phone. No start, no stop, no editing. 🎙️\n\nIf you make content or run meetings, this could replace your note-taking entirely — if you're willing to wear a mic all day. 🧠\n\nWould you actually wear an always-on mic for automatic notes? 🤔"
+      }
+    },
+    "instagram_caption": "Someone just raised $26M for an AI mic that records you all day. 💰\n\nIt runs in the background and captures everything by default.\n\nThe real trick isn't recording — it's knowing when to ignore you, filtering noise and keeping only what matters.\n\nYou get summaries and action items without touching your phone. No start, no stop, no editing. 🎙️\n\nIf you make content or run meetings, this could replace your note-taking entirely — if you're willing to wear a mic all day. 🧠\n\nWould you actually wear an always-on mic for automatic notes? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "AI that listens — and ignores you",
+        "description": "A former Plaud exec raised $26M for an app that records everything by default, but only keeps what matters.",
+        "visual_hint": "Glowing microphone icon on dark background",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "studio microphone"
+      },
+      {
+        "hook": "Always on, always recording in background",
+        "description": "The app runs silently in the background all day. Recording is not the feature — smart filtering is.",
+        "visual_hint": "Smartphone screen showing recording waveform",
+        "layout_type": "right-focus",
+        "icon": "vibration",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Its real trick? Knowing when to ignore",
+        "description": "It filters out noise and only keeps what matters, so you never sift through useless audio.",
+        "visual_hint": "Audio waveform with noise being filtered",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "audio waveform",
+        "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Notes without lifting a finger",
+        "description": "Automatic summaries and action items appear without touching your phone. No start, no stop, no editing.",
+        "visual_hint": "Hands-free notepad with AI summary",
+        "layout_type": "human-hand",
+        "icon": "check",
+        "image_query": "digital notepad",
+        "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Would you wear a mic all day?",
+        "description": "Try recording one meeting manually, then compare time. Save this post and test the trade-off yourself.",
+        "visual_hint": "Lavalier microphone clipped to shirt",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "lavalier microphone",
+        "image": "https://images.pexels.com/photos/34709171/pexels-photo-34709171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ambi-by-Mistlabs.jpeg?resize=1200,800",
+    "savedAt": "2026-10-13T08:44:12.537Z",
+    "sourceId": "f1588e6ffbfd9c4253434ce0974c21b6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "honeyjar-offers-ai-tools-to-improve-pr-and-comms-a",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "pubDate": "Mon, 12 Oct 2026 15:45:00 +0000",
+    "slides": [
+      "Can AI fix your PR agency's biggest headache?",
+      "Honeyjar launches AI tools for PR and comms.",
+      "It targets mundane tasks, not big strategy.",
+      "Your team could reclaim hours each week.",
+      "But can AI truly handle nuanced pitches?"
+    ],
+    "thread_text": [
+      "1. AI Won't Steal Your Job — But This Might\n\nHoneyjar just launched AI tools for public relations and communications teams. They target the boring stuff, not the big strategy.",
+      "2. The Real Problem Isn't Strategy\n\nMost PR teams don't struggle with the big pitch. They drown in media lists, follow-ups, and repetitive admin work that eats hours every single week.",
+      "3. Where the Hours Actually Go\n\nHoneyjar's AI handles the mundane tasks so your team can focus on relationships and creative angles. That's potentially hours back per person, per week.",
+      "4. But Here's the Catch\n\nCan AI really handle a nuanced pitch to a skeptical journalist? That's the question no tool has answered yet — and it's the one that matters most.",
+      "5. Test It Before You Trust It\n\nTake one real pitch you're working on and run it through an AI tool this week. If you still have to rewrite it twice, you have your answer."
+    ],
+    "video_script": [
+      "Your PR team is drowning in busywork.",
+      "Honeyjar just launched AI tools for communications.",
+      "It targets mundane tasks, not big strategy.",
+      "Your team could reclaim hours every week.",
+      "But can AI handle a nuanced pitch?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI Won't Steal Your Job — But This Might\n\nHoneyjar just launched AI tools for public relations and communications teams. They target the boring stuff, not the big strategy.",
+          "2. The Real Problem Isn't Strategy\n\nMost PR teams don't struggle with the big pitch. They drown in media lists, follow-ups, and repetitive admin work that eats hours every single week.",
+          "3. Where the Hours Actually Go\n\nHoneyjar's AI handles the mundane tasks so your team can focus on relationships and creative angles. That's potentially hours back per person, per week.",
+          "4. But Here's the Catch\n\nCan AI really handle a nuanced pitch to a skeptical journalist? That's the question no tool has answered yet — and it's the one that matters most.",
+          "5. Test It Before You Trust It\n\nTake one real pitch you're working on and run it through an AI tool this week. If you still have to rewrite it twice, you have your answer."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your PR team is drowning in busywork.",
+          "Honeyjar just launched AI tools for communications.",
+          "It targets mundane tasks, not big strategy.",
+          "Your team could reclaim hours every week.",
+          "But can AI handle a nuanced pitch?"
+        ]
+      },
+      "instagram": {
+        "caption": "Your team is probably spending hours a week on media lists and follow-ups instead of actual pitching. 🕐\n\nHoneyjar just launched AI tools built for PR and communications teams.\n\nThey target the repetitive admin work, not the big strategy or creative angles.\n\nThat could mean hours back per person, per week. ⚡\n\nBut here's the real test: can AI handle a nuanced pitch to a skeptical journalist? 🤔\n\nIf your team creates or pitches content, try running one real pitch through an AI tool this week. If you still rewrite it twice, you have your answer.\n\nWould you trust AI with your next pitch? 👇"
+      }
+    },
+    "instagram_caption": "Your team is probably spending hours a week on media lists and follow-ups instead of actual pitching. 🕐\n\nHoneyjar just launched AI tools built for PR and communications teams.\n\nThey target the repetitive admin work, not the big strategy or creative angles.\n\nThat could mean hours back per person, per week. ⚡\n\nBut here's the real test: can AI handle a nuanced pitch to a skeptical journalist? 🤔\n\nIf your team creates or pitches content, try running one real pitch through an AI tool this week. If you still rewrite it twice, you have your answer.\n\nWould you trust AI with your next pitch? 👇",
+    "carousel_slides": [
+      {
+        "hook": "Can AI fix PR's biggest headache?",
+        "description": "Honeyjar launched AI tools for PR and comms teams, targeting boring and repetitive tasks, not the big-picture strategy work.",
+        "visual_hint": "Minimalist honey jar amid abstract honeycomb pattern",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "honey jar"
+      },
+      {
+        "hook": "AI tools built just for PR",
+        "description": "Honeyjar launches AI tools to streamline media lists, follow-ups, and repetitive admin work, aiming to ease the daily grind.",
+        "visual_hint": "Laptop screen displaying media list interface",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "laptop screen",
+        "image": "https://images.pexels.com/photos/17115912/pexels-photo-17115912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI targets admin, not strategy",
+        "description": "Most PR teams drown in media lists and follow-ups, not big pitches. Honeyjar automates mundane tasks to reclaim hours weekly.",
+        "visual_hint": "Cluttered desk with stacked papers and clipboard",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "desk clutter",
+        "image": "https://images.pexels.com/photos/8386571/pexels-photo-8386571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Reclaim hours, focus on relationships",
+        "description": "By handling repetitive admin, Honeyjar frees your team to focus on relationships and creative angles, potentially saving hours per person weekly.",
+        "visual_hint": "Hands typing on laptop, clock in background",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands typing",
+        "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "But can AI handle nuanced pitches?",
+        "description": "Take one real pitch you're working on and run it through an AI tool this week. If you rewrite it twice, you have your answer.",
+        "visual_hint": "Person reviewing printed document with red pen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "printed document",
+        "image": "https://images.pexels.com/photos/7821581/pexels-photo-7821581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/honeyjar-founders.jpg?resize=960,1200",
+    "savedAt": "2026-10-13T08:44:02.388Z",
+    "sourceId": "3167f1c8b10b3352397656236df41608"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "this-ai-startup-says-it-can-generate-permit-ready-",
     "prompt_version": "1.0.0",
     "status": "published",
