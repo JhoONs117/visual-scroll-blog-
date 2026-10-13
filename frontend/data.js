@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "this-ai-startup-says-it-can-generate-permit-ready-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "pubDate": "Mon, 12 Oct 2026 15:27:59 +0000",
+    "slides": [
+      "Meet the AI startup claiming permit-ready blueprints in minutes. Can it deliver?",
+      "It uses deep learning to interpret building codes automatically.",
+      "But its output may fail on complex sites, experts warn.",
+      "Contractors can now beta-test it, but accuracy claims remain unverified.",
+      "Try one real project: verify every line before you trust it."
+    ],
+    "thread_text": [
+      "1. Permit-Ready in Minutes?\n\nAn AI startup claims its deep learning tool can turn building codes into permit-ready blueprints. Contractors can now beta-test it, but accuracy remains unverified.",
+      "2. Building Codes, Decoded\n\nThe system interprets complex building regulations automatically, aiming to slash the weeks-long permitting process to just minutes.",
+      "3. Complex Sites, Big Risks\n\nExperts warn the AI's output may fail on intricate sites, where subtle code nuances and site-specific constraints trip up even experienced human reviewers.",
+      "4. Beta Test, But Beware\n\nContractors jumping into the beta must manually verify every line. One error could mean rejected permits, costly rework, or worse—unsafe structures.",
+      "5. Verify Every Line\n\nTry it on one real project and check every single line before you trust it. If the tool saves hours but costs accuracy, is it worth the risk?"
+    ],
+    "video_script": [
+      "AI startup claims permit-ready blueprints in minutes.",
+      "It uses deep learning to read building codes automatically.",
+      "But experts warn output may fail on complex sites.",
+      "Contractors can beta-test, but accuracy claims are unverified.",
+      "Try one real project and verify every line before trusting it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Permit-Ready in Minutes?\n\nAn AI startup claims its deep learning tool can turn building codes into permit-ready blueprints. Contractors can now beta-test it, but accuracy remains unverified.",
+          "2. Building Codes, Decoded\n\nThe system interprets complex building regulations automatically, aiming to slash the weeks-long permitting process to just minutes.",
+          "3. Complex Sites, Big Risks\n\nExperts warn the AI's output may fail on intricate sites, where subtle code nuances and site-specific constraints trip up even experienced human reviewers.",
+          "4. Beta Test, But Beware\n\nContractors jumping into the beta must manually verify every line. One error could mean rejected permits, costly rework, or worse—unsafe structures.",
+          "5. Verify Every Line\n\nTry it on one real project and check every single line before you trust it. If the tool saves hours but costs accuracy, is it worth the risk?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI startup claims permit-ready blueprints in minutes.",
+          "It uses deep learning to read building codes automatically.",
+          "But experts warn output may fail on complex sites.",
+          "Contractors can beta-test, but accuracy claims are unverified.",
+          "Try one real project and verify every line before trusting it."
+        ]
+      },
+      "instagram": {
+        "caption": "Weeks of permitting could shrink to minutes, according to one startup.\n\nIts deep learning tool reads building codes automatically and drafts blueprints. 📐\n\nExperts warn it may fail on complex sites, where code nuances trip up even human reviewers.\n\nContractors can beta-test now, but accuracy is unverified. One error means rejected permits or unsafe structures. ⚠️\n\nSo before you trust any output, verify every line on one real project. 🛠️\n\nIf it saves hours but costs accuracy, would you run it on your next job? 🤔"
+      }
+    },
+    "instagram_caption": "Weeks of permitting could shrink to minutes, according to one startup.\n\nIts deep learning tool reads building codes automatically and drafts blueprints. 📐\n\nExperts warn it may fail on complex sites, where code nuances trip up even human reviewers.\n\nContractors can beta-test now, but accuracy is unverified. One error means rejected permits or unsafe structures. ⚠️\n\nSo before you trust any output, verify every line on one real project. 🛠️\n\nIf it saves hours but costs accuracy, would you run it on your next job? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Permit-Ready Blueprints in Minutes? Really?",
+        "description": "AI startup claims deep learning tool turns building codes into permit-ready blueprints fast, but accuracy remains unverified.",
+        "visual_hint": "Architectural blueprints on desk with laptop",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "blueprint desk"
+      },
+      {
+        "hook": "Building Codes Decoded by Deep Learning",
+        "description": "System interprets complex regulations automatically, aiming to slash weeks-long permitting to minutes, but nuances may be missed.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "visual_hint": "AI code analysis on screen",
+        "image_query": "code screen",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Complex Sites Trip Up Even Experts",
+        "description": "Experts warn AI output may fail on intricate sites, where subtle code nuances and constraints challenge human reviewers too.",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "visual_hint": "Complex construction site with cranes",
+        "image_query": "construction site",
+        "image": "https://images.pexels.com/photos/17297091/pexels-photo-17297091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Beta Test: Verify Every Line Manually",
+        "description": "Contractors in beta must manually check every line; one error could mean rejected permits, costly rework, or unsafe structures.",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "visual_hint": "Hand reviewing blueprint with red pen",
+        "image_query": "hand blueprint",
+        "image": "https://images.pexels.com/photos/6282077/pexels-photo-6282077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save This Before You Trust AI Blueprints",
+        "description": "Try the tool on one real project and verify every line before trusting it. Comment your experience below.",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "visual_hint": "Checklist with pen and laptop",
+        "image_query": "checklist pen",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blueprints-AI-Founder1.jpg?resize=1200,799",
+    "savedAt": "2026-10-13T01:44:33.276Z",
+    "sourceId": "b32e4e4429644b2abdde9cb968fade66"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "windborne-wins-a-hefty-us-air-force-contract-for-i",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "pubDate": "Mon, 12 Oct 2026 17:19:14 +0000",
+    "slides": [
+      "Why would the Air Force bet on balloons?",
+      "WindBorne's balloons gather weather data from the stratosphere",
+      "But the contract's real value isn't the money",
+      "Defense weather gaps are closing without satellites",
+      "Check if your forecasts depend on this shift"
+    ],
+    "thread_text": [
+      "1. Why would the Air Force bet on balloons?\n\nThe Air Force just awarded WindBorne a contract to gather weather data from the stratosphere — not with satellites, but with balloons.",
+      "2. WindBorne's balloons gather weather data from the stratosphere\n\nThese balloons float above commercial airspace, collecting atmospheric readings that traditional systems miss. No rocket launches required.",
+      "3. But the contract's real value isn't the money\n\nIt's the validation. Defense weather gaps are closing without satellites — cheaper, faster, harder to shoot down.",
+      "4. Defense weather gaps are closing without satellites\n\nIf the military can fill coverage holes with balloons, so can airlines, agriculture, and emergency response. The satellite monopoly on stratospheric data just cracked.",
+      "5. Check if your forecasts depend on this shift\n\nPull up your weather app. Does it mention stratospheric data? If not, ask your provider when they'll integrate balloon networks."
+    ],
+    "video_script": [
+      "The Air Force just paid for balloon weather data.",
+      "WindBorne's balloons float in the stratosphere, not space.",
+      "The real win isn't the contract money.",
+      "Defense weather gaps are closing without satellites.",
+      "Check if your forecast uses this shift."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why would the Air Force bet on balloons?\n\nThe Air Force just awarded WindBorne a contract to gather weather data from the stratosphere — not with satellites, but with balloons.",
+          "2. WindBorne's balloons gather weather data from the stratosphere\n\nThese balloons float above commercial airspace, collecting atmospheric readings that traditional systems miss. No rocket launches required.",
+          "3. But the contract's real value isn't the money\n\nIt's the validation. Defense weather gaps are closing without satellites — cheaper, faster, harder to shoot down.",
+          "4. Defense weather gaps are closing without satellites\n\nIf the military can fill coverage holes with balloons, so can airlines, agriculture, and emergency response. The satellite monopoly on stratospheric data just cracked.",
+          "5. Check if your forecasts depend on this shift\n\nPull up your weather app. Does it mention stratospheric data? If not, ask your provider when they'll integrate balloon networks."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "The Air Force just paid for balloon weather data.",
+          "WindBorne's balloons float in the stratosphere, not space.",
+          "The real win isn't the contract money.",
+          "Defense weather gaps are closing without satellites.",
+          "Check if your forecast uses this shift."
+        ]
+      },
+      "instagram": {
+        "caption": "The US Air Force just started buying weather data from balloons floating in the stratosphere.\n\nWindBorne's balloons sit above commercial airspace, collecting atmospheric readings that satellites and traditional systems miss. No rocket launches needed. 🎈\n\nThe contract's real value isn't the money. It's the validation: defense weather gaps are closing without satellites — cheaper, faster, harder to shoot down.\n\nThat matters beyond the military. If balloons can fill coverage holes for defense, airlines, agriculture, and emergency response can use them too. The satellite monopoly on stratospheric data just cracked. 🛰️\n\nPull up your weather app. Does it mention stratospheric data? If not, ask your provider when they'll integrate balloon networks. 🌦️"
+      }
+    },
+    "instagram_caption": "The US Air Force just started buying weather data from balloons floating in the stratosphere.\n\nWindBorne's balloons sit above commercial airspace, collecting atmospheric readings that satellites and traditional systems miss. No rocket launches needed. 🎈\n\nThe contract's real value isn't the money. It's the validation: defense weather gaps are closing without satellites — cheaper, faster, harder to shoot down.\n\nThat matters beyond the military. If balloons can fill coverage holes for defense, airlines, agriculture, and emergency response can use them too. The satellite monopoly on stratospheric data just cracked. 🛰️\n\nPull up your weather app. Does it mention stratospheric data? If not, ask your provider when they'll integrate balloon networks. 🌦️",
+    "carousel_slides": [
+      {
+        "hook": "The real win isn't the money",
+        "description": "The Air Force contract validates balloon-based stratospheric data, proving defense weather gaps can close without satellites—cheaper, faster, harder to shoot down.",
+        "visual_hint": "Weather balloon rising above clouds",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "weather balloon"
+      },
+      {
+        "hook": "Balloons float where satellites can't",
+        "description": "WindBorne's balloons gather atmospheric readings above commercial airspace, capturing data traditional systems miss—no rocket launches required.",
+        "visual_hint": "Stratospheric balloon with sensor payload",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stratosphere balloon",
+        "image": "https://images.pexels.com/photos/32894135/pexels-photo-32894135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Why would the Air Force bet on balloons?",
+        "description": "The Air Force awarded WindBorne a contract for stratospheric weather data, choosing balloons over satellites for defense-grade coverage.",
+        "visual_hint": "Military contract signing table",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "military contract",
+        "image": "https://images.pexels.com/photos/8297657/pexels-photo-8297657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Satellites no longer monopolize stratospheric data",
+        "description": "If the military fills coverage holes with balloons, so can airlines, agriculture, and emergency response—the satellite monopoly just cracked.",
+        "visual_hint": "Hand holding weather data screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "weather forecast screen",
+        "image": "https://images.pexels.com/photos/39469194/pexels-photo-39469194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check if your forecasts depend on this shift",
+        "description": "Pull up your weather app. If it doesn't mention stratospheric data, ask your provider when they'll integrate balloon networks.",
+        "visual_hint": "Phone showing weather app",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "weather app phone",
+        "image": "https://images.pexels.com/photos/17249214/pexels-photo-17249214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
+    "savedAt": "2026-10-13T01:44:20.776Z",
+    "sourceId": "7b6bf13f385b34a20faaba3973a545c7"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "microsoft-s-new-ai-chip-makes-it-less-reliant-on-n",
     "prompt_version": "1.0.0",
     "status": "published",
