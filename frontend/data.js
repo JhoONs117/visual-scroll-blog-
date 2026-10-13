@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "just-5-years-in-interactive-chatbot-platform-chara",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+    "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+    "pubDate": "Tue, 13 Oct 2026 12:23:42 +0000",
+    "slides": [
+      "Character.AI files for bankruptcy after just 5 years.",
+      "It once hit 28 million monthly users, valued at billions.",
+      "But most users were teens and paying almost nothing.",
+      "If you build on Character.AI, your bots may die too.",
+      "Diversify your AI stack before it favors you."
+    ],
+    "thread_text": [
+      "1. 28 Million Users, Zero Dollars\n\nCharacter.AI filed for bankruptcy after five years, despite hitting 28 million monthly users and a multi-billion valuation. Paying customers were almost nonexistent.",
+      "2. The Teenager Trap\n\nMost of those millions were teens who couldn't or wouldn't pay. A massive user base means nothing if the revenue per user rounds to zero.",
+      "3. Your Bots Are Hostages\n\nIf you built on Character.AI, your characters die with the platform. No migration path, no warning—just gone.",
+      "4. The Stack Is Fragile\n\nEvery AI tool you rely on is one bankruptcy away from disappearing. The companies look stable until they don't.",
+      "5. Audit Your AI Dependencies Today\n\nList every AI platform you use, then ask: what happens if it shuts down tomorrow? If you don't have a backup, start there."
+    ],
+    "video_script": [
+      "Character.AI just filed for bankruptcy after five years.",
+      "It had 28 million monthly users but almost no revenue.",
+      "Most users were teens who paid nothing.",
+      "If you built bots there, they're already dead.",
+      "Audit your AI stack or risk the same fate."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. 28 Million Users, Zero Dollars\n\nCharacter.AI filed for bankruptcy after five years, despite hitting 28 million monthly users and a multi-billion valuation. Paying customers were almost nonexistent.",
+          "2. The Teenager Trap\n\nMost of those millions were teens who couldn't or wouldn't pay. A massive user base means nothing if the revenue per user rounds to zero.",
+          "3. Your Bots Are Hostages\n\nIf you built on Character.AI, your characters die with the platform. No migration path, no warning—just gone.",
+          "4. The Stack Is Fragile\n\nEvery AI tool you rely on is one bankruptcy away from disappearing. The companies look stable until they don't.",
+          "5. Audit Your AI Dependencies Today\n\nList every AI platform you use, then ask: what happens if it shuts down tomorrow? If you don't have a backup, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Character.AI just filed for bankruptcy after five years.",
+          "It had 28 million monthly users but almost no revenue.",
+          "Most users were teens who paid nothing.",
+          "If you built bots there, they're already dead.",
+          "Audit your AI stack or risk the same fate."
+        ]
+      },
+      "instagram": {
+        "caption": "28 million people used it every month and it still went bankrupt.\n\nCharacter.AI just filed after five years, valued at billions, with almost no paying customers. Most users were teens who paid nothing.\n\nIf you built bots there, they die with the platform. No migration, no warning.\n\nEvery AI tool you depend on sits one bankruptcy away from vanishing.\n\nList the AI platforms you use today. What happens to your work if one shuts down tomorrow? 💀\n\nBack up your bots before the next one folds 🚨"
+      }
+    },
+    "instagram_caption": "28 million people used it every month and it still went bankrupt.\n\nCharacter.AI just filed after five years, valued at billions, with almost no paying customers. Most users were teens who paid nothing.\n\nIf you built bots there, they die with the platform. No migration, no warning.\n\nEvery AI tool you depend on sits one bankruptcy away from vanishing.\n\nList the AI platforms you use today. What happens to your work if one shuts down tomorrow? 💀\n\nBack up your bots before the next one folds 🚨",
+    "carousel_slides": [
+      {
+        "hook": "Your AI bots are hostages",
+        "description": "If you built on Character.AI, your characters vanish with the platform. No migration path, no warning, just gone.",
+        "visual_hint": "Digital characters dissolving into pixels",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "abandoned factory"
+      },
+      {
+        "hook": "28 million users, zero revenue",
+        "description": "Character.AI hit 28 million monthly users and a multi-billion valuation, yet paying customers were almost nonexistent.",
+        "visual_hint": "Crowd empty pockets screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "crowd market",
+        "image": "https://images.pexels.com/photos/36527979/pexels-photo-36527979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "A massive teenage userbase pays nothing",
+        "description": "Most users were teens who couldn't or wouldn't pay. Huge audience means nothing when revenue per user rounds to zero.",
+        "visual_hint": "Teen scrolling phone screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "teenager smartphone",
+        "image": "https://images.pexels.com/photos/6255966/pexels-photo-6255966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Every AI tool is one bankruptcy away",
+        "description": "The platforms you rely on look stable until they don't. One filing wipes out your entire bot inventory overnight.",
+        "visual_hint": "Collapsing stack of digital blocks",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your AI dependencies today",
+        "description": "List every AI platform you use, then ask: what happens if it shuts down tomorrow? Save this post and start there.",
+        "visual_hint": "Checklist with platform names",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-1.24.23PM.png?resize=1200,672",
+    "savedAt": "2026-10-13T17:16:11.847Z",
+    "sourceId": "8e71e68ebc805ea8f6dfd533333d5ec1"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "amex-introduces-a-framework-to-prevent-ai-agents-f",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+    "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+    "pubDate": "Tue, 13 Oct 2026 13:00:00 +0000",
+    "slides": [
+      "Can an AI agent empty your Amex?",
+      "Amex built a framework for agent payments.",
+      "But it doesn't verify the agent's identity.",
+      "Check if your card will be affected.",
+      "Ask your card issuer about agent policies."
+    ],
+    "thread_text": [
+      "1. Your Amex, Empty?\n\nAmerican Express built a payment framework for AI agents. But it doesn't verify who the agent really is.",
+      "2. The Framework Gap\n\nAmex's system lets agents initiate transactions, but no identity verification. That means any agent could potentially drain your card.",
+      "3. Who's Liable?\n\nIf an unverified agent empties your account, who covers the loss? Your card issuer's policy on agent transactions is the only backstop.",
+      "4. Check Your Card\n\nNot all cards have the same agent policies. Some issuers block agent payments entirely, others allow them with no safeguards.",
+      "5. Call Your Issuer\n\nAsk your card issuer: what is your policy on AI agent transactions? Do it today before an agent tests it for you."
+    ],
+    "video_script": [
+      "American Express built a payment system for AI agents.",
+      "But it doesn't verify the agent's identity.",
+      "So any agent could potentially drain your card.",
+      "Check if your card issuer has a policy.",
+      "Call them today. Ask about agent transactions."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your Amex, Empty?\n\nAmerican Express built a payment framework for AI agents. But it doesn't verify who the agent really is.",
+          "2. The Framework Gap\n\nAmex's system lets agents initiate transactions, but no identity verification. That means any agent could potentially drain your card.",
+          "3. Who's Liable?\n\nIf an unverified agent empties your account, who covers the loss? Your card issuer's policy on agent transactions is the only backstop.",
+          "4. Check Your Card\n\nNot all cards have the same agent policies. Some issuers block agent payments entirely, others allow them with no safeguards.",
+          "5. Call Your Issuer\n\nAsk your card issuer: what is your policy on AI agent transactions? Do it today before an agent tests it for you."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "American Express built a payment system for AI agents.",
+          "But it doesn't verify the agent's identity.",
+          "So any agent could potentially drain your card.",
+          "Check if your card issuer has a policy.",
+          "Call them today. Ask about agent transactions."
+        ]
+      },
+      "instagram": {
+        "caption": "Your card could be emptied by an AI agent you never authorized.\n\nAmerican Express built a payment framework so AI agents can start transactions on your account. 😳\n\nBut it doesn't verify who the agent actually is — no identity check at all.\n\nIf an unverified agent drains your balance, your issuer's policy is the only backstop.\n\nIf you publish or build with AI tools, this hits your payment stack directly. ⚠️\n\nNot every card handles agent payments the same way. Some block them, some allow them with zero safeguards.\n\nCall your issuer today: what's your policy on AI agent transactions? 📞\n\nBefore an agent tests it for you."
+      }
+    },
+    "instagram_caption": "Your card could be emptied by an AI agent you never authorized.\n\nAmerican Express built a payment framework so AI agents can start transactions on your account. 😳\n\nBut it doesn't verify who the agent actually is — no identity check at all.\n\nIf an unverified agent drains your balance, your issuer's policy is the only backstop.\n\nIf you publish or build with AI tools, this hits your payment stack directly. ⚠️\n\nNot every card handles agent payments the same way. Some block them, some allow them with zero safeguards.\n\nCall your issuer today: what's your policy on AI agent transactions? 📞\n\nBefore an agent tests it for you.",
+    "carousel_slides": [
+      {
+        "hook": "Can an AI agent empty your Amex?",
+        "description": "American Express built a payment framework for AI agents that doesn't verify the agent's real identity before transactions.",
+        "visual_hint": "Credit card with robotic hand",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "credit card"
+      },
+      {
+        "hook": "Amex built a framework for agent payments",
+        "description": "The system lets AI agents initiate transactions and spend your money, but has no built-in identity verification layer.",
+        "visual_hint": "Network diagram of connected agents",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No identity check on your agent",
+        "description": "Without verification, any AI agent could potentially drain your card. The issuer's policy is your only real backstop.",
+        "visual_hint": "Magnifying glass over payment terminal",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "payment terminal",
+        "image": "https://images.pexels.com/photos/5239804/pexels-photo-5239804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Is your card affected by this?",
+        "description": "Agent policies vary wildly: some issuers block AI agent payments entirely, others allow them with zero safeguards.",
+        "visual_hint": "Hand holding card at terminal",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before an agent tests it",
+        "description": "Call your card issuer today and ask: what is your policy on AI agent transactions? Leave a comment with their answer.",
+        "visual_hint": "Phone call to bank hotline",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "call center",
+        "image": "https://images.pexels.com/photos/8867246/pexels-photo-8867246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800",
+    "savedAt": "2026-10-13T17:16:01.112Z",
+    "sourceId": "65a5bbabecb616196a6cf39c514f8c2f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "apple-launches-a-new-apple-tv-4k-with-siri-ai-and-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
+    "link": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
+    "pubDate": "Tue, 13 Oct 2026 13:16:11 +0000",
+    "slides": [
+      "Apple's new TV 4K: what if you never need a remote?",
+      "It adds Siri AI for natural voice commands.",
+      "But voice control fails in noisy rooms.",
+      "If you hate remotes, wait for reviews on accuracy.",
+      "Test voice commands in your living room before buying."
+    ],
+    "thread_text": [
+      "1. No Remote Needed?\n\nApple's new TV 4K adds Siri AI for natural voice commands. But voice control fails in noisy rooms.",
+      "2. Siri Takes Over\n\nThe remote is optional. Just speak to navigate. But background noise breaks the magic.",
+      "3. Noise Kills Voice\n\nIn a loud living room, Siri can't hear you. Accuracy drops fast.",
+      "4. Wait for Reviews\n\nIf you hate remotes, don't buy yet. Real-world accuracy tests are coming.",
+      "5. Test Before Buying\n\nTry voice commands in your own living room first. Does it work when kids are yelling?"
+    ],
+    "video_script": [
+      "Apple TV 4K: no remote needed?",
+      "Siri AI listens for natural voice commands.",
+      "But noisy rooms make voice control fail.",
+      "Wait for reviews on accuracy before buying.",
+      "Test voice commands in your living room today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. No Remote Needed?\n\nApple's new TV 4K adds Siri AI for natural voice commands. But voice control fails in noisy rooms.",
+          "2. Siri Takes Over\n\nThe remote is optional. Just speak to navigate. But background noise breaks the magic.",
+          "3. Noise Kills Voice\n\nIn a loud living room, Siri can't hear you. Accuracy drops fast.",
+          "4. Wait for Reviews\n\nIf you hate remotes, don't buy yet. Real-world accuracy tests are coming.",
+          "5. Test Before Buying\n\nTry voice commands in your own living room first. Does it work when kids are yelling?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple TV 4K: no remote needed?",
+          "Siri AI listens for natural voice commands.",
+          "But noisy rooms make voice control fail.",
+          "Wait for reviews on accuracy before buying.",
+          "Test voice commands in your living room today."
+        ]
+      },
+      "instagram": {
+        "caption": "You can now change the channel by just saying it out loud. 🎙️\n\nApple's new TV 4K adds Siri AI for natural voice commands, and the remote becomes optional.\n\nBut voice control fails in noisy rooms — background noise drops accuracy fast.\n\nIf you create or publish content, your living room setup matters more than the spec sheet.\n\nTest voice commands at home before buying — does it work when kids are yelling? 🛋️🗣️"
+      }
+    },
+    "instagram_caption": "You can now change the channel by just saying it out loud. 🎙️\n\nApple's new TV 4K adds Siri AI for natural voice commands, and the remote becomes optional.\n\nBut voice control fails in noisy rooms — background noise drops accuracy fast.\n\nIf you create or publish content, your living room setup matters more than the spec sheet.\n\nTest voice commands at home before buying — does it work when kids are yelling? 🛋️🗣️",
+    "carousel_slides": [
+      {
+        "hook": "Voice control fails in noisy rooms?",
+        "description": "Apple's new TV 4K adds Siri AI for natural voice commands, but background noise breaks the magic.",
+        "visual_hint": "Apple TV 4K in modern living room",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Apple TV 4K"
+      },
+      {
+        "hook": "Siri AI takes over your TV",
+        "description": "The new Apple TV 4K lets you navigate with natural voice commands, making the remote optional.",
+        "visual_hint": "Siri waveform on TV screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "Siri voice assistant",
+        "image": "https://images.pexels.com/photos/5083215/pexels-photo-5083215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "But noise kills voice accuracy",
+        "description": "In a loud living room, Siri can't hear you and accuracy drops fast, breaking the experience.",
+        "visual_hint": "Sound waves hitting TV microphone",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "noisy living room",
+        "image": "https://images.pexels.com/photos/11565826/pexels-photo-11565826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "If you hate remotes, wait",
+        "description": "Don't buy yet: real-world accuracy tests are coming, so hold off until reviews confirm it works.",
+        "visual_hint": "Hand holding remote control",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "TV remote control",
+        "image": "https://images.pexels.com/photos/14770620/pexels-photo-14770620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test voice commands before buying",
+        "description": "Try voice commands in your own living room first. Save this post and check the link in bio for more.",
+        "visual_hint": "Person speaking to TV in living room",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person talking living room",
+        "image": "https://images.pexels.com/photos/6184494/pexels-photo-6184494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-TV-4K-261013_big.jpg.large_2x.jpg?resize=1200,675",
+    "savedAt": "2026-10-13T17:15:52.552Z",
+    "sourceId": "79e53724895a51f0fbd58673cb9e923f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "satlyt-founded-by-a-former-google-and-spacex-produ",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "pubDate": "Tue, 13 Oct 2026 16:30:00 +0000",
+    "slides": [
+      "Satlyt raises $8M, but can it make satellites think?",
+      "Founded by a former Google and SpaceX product manager.",
+      "The AI runs on satellites, not in distant data centers.",
+      "Data processed in orbit, cutting delays and bandwidth costs.",
+      "Test one satellite image yourself; see what changes."
+    ],
+    "thread_text": [
+      "1. $8M for satellite AI\n\nSatlyt just raised $8M to put AI directly on satellites. The goal: process images in orbit instead of sending them to Earth.",
+      "2. From Google to orbit\n\nFounded by a former Google and SpaceX product manager. That mix of big tech and rocket science is rare.",
+      "3. No data center needed\n\nThe AI runs on the satellite itself. No distant servers, no waiting for data to travel.",
+      "4. Faster and cheaper\n\nProcessing in orbit cuts delays and bandwidth costs. That changes what satellites can do in real time.",
+      "5. Test it yourself\n\nFind a satellite image and imagine AI analyzing it instantly. Would that change how you use the data?"
+    ],
+    "video_script": [
+      "Satlyt raised eight million to put AI on satellites.",
+      "A former Google and SpaceX manager founded it.",
+      "The AI runs in orbit, not in data centers.",
+      "That cuts delays and bandwidth costs.",
+      "Try testing a satellite image yourself today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $8M for satellite AI\n\nSatlyt just raised $8M to put AI directly on satellites. The goal: process images in orbit instead of sending them to Earth.",
+          "2. From Google to orbit\n\nFounded by a former Google and SpaceX product manager. That mix of big tech and rocket science is rare.",
+          "3. No data center needed\n\nThe AI runs on the satellite itself. No distant servers, no waiting for data to travel.",
+          "4. Faster and cheaper\n\nProcessing in orbit cuts delays and bandwidth costs. That changes what satellites can do in real time.",
+          "5. Test it yourself\n\nFind a satellite image and imagine AI analyzing it instantly. Would that change how you use the data?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Satlyt raised eight million to put AI on satellites.",
+          "A former Google and SpaceX manager founded it.",
+          "The AI runs in orbit, not in data centers.",
+          "That cuts delays and bandwidth costs.",
+          "Try testing a satellite image yourself today."
+        ]
+      },
+      "instagram": {
+        "caption": "Eight million dollars just went to making satellites process their own images, instead of shipping every pixel down to Earth.\n\nSatlyt, founded by a former Google and SpaceX product manager, is putting AI directly on satellites.\n\nThat means images get analyzed in orbit, cutting delays and bandwidth costs.\n\nIf you work with satellite imagery, your data could arrive already interpreted, not raw.\n\n🛰️ Faster than waiting on a downlink 📡\n\nWhat would you do differently if the analysis came back in seconds?"
+      }
+    },
+    "instagram_caption": "Eight million dollars just went to making satellites process their own images, instead of shipping every pixel down to Earth.\n\nSatlyt, founded by a former Google and SpaceX product manager, is putting AI directly on satellites.\n\nThat means images get analyzed in orbit, cutting delays and bandwidth costs.\n\nIf you work with satellite imagery, your data could arrive already interpreted, not raw.\n\n🛰️ Faster than waiting on a downlink 📡\n\nWhat would you do differently if the analysis came back in seconds?",
+    "carousel_slides": [
+      {
+        "hook": "Can satellites actually think for themselves?",
+        "description": "Satlyt raised $8M to run AI directly on satellites, processing images in orbit instead of sending them to Earth.",
+        "visual_hint": "Satellite orbiting Earth with glowing circuit lines",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "satellite orbit earth"
+      },
+      {
+        "hook": "From Google and SpaceX to orbit",
+        "description": "Founded by a former Google and SpaceX product manager, combining big tech and rocket science expertise.",
+        "visual_hint": "Rocket launch with tech interface overlay",
+        "layout_type": "right-focus",
+        "icon": "vibration",
+        "image_query": "rocket launch pad",
+        "image": "https://images.pexels.com/photos/38847781/pexels-photo-38847781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No distant data centers needed",
+        "description": "The AI runs on the satellite itself, eliminating the wait for data to travel to Earth.",
+        "visual_hint": "Satellite hardware with embedded AI chip",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "circuit board closeup",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Faster decisions, lower bandwidth costs",
+        "description": "Processing in orbit cuts delays and bandwidth costs, changing what satellites can do in real time.",
+        "visual_hint": "Hand holding satellite image with analysis overlay",
+        "layout_type": "human-hand",
+        "icon": "check",
+        "image_query": "satellite image map",
+        "image": "https://images.pexels.com/photos/1656174/pexels-photo-1656174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Imagine AI analyzing satellite images instantly",
+        "description": "Find a satellite image and imagine AI analyzing it instantly. Would that change how you use the data? Save this post.",
+        "visual_hint": "Phone screen with satellite view and AI scan",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "satellite view city",
+        "image": "https://images.pexels.com/photos/1656174/pexels-photo-1656174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Satlyt_Team_Group-Portrait_Steps.jpg?resize=1200,800",
+    "savedAt": "2026-10-13T17:15:43.753Z",
+    "sourceId": "4520f7ad22fb7d9896983cabc8d8ae5d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "former-plaud-exec-raises-26m-for-ai-app-that-liste",
     "prompt_version": "1.0.0",
     "status": "published",

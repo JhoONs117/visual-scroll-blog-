@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "satlyt-founded-by-a-former-google-and-spacex-produ",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+  "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+  "pubDate": "Tue, 13 Oct 2026 16:30:00 +0000",
+  "slides": [
+    "Satlyt raises $8M, but can it make satellites think?",
+    "Founded by a former Google and SpaceX product manager.",
+    "The AI runs on satellites, not in distant data centers.",
+    "Data processed in orbit, cutting delays and bandwidth costs.",
+    "Test one satellite image yourself; see what changes."
+  ],
+  "thread_text": [
+    "1. $8M for satellite AI\n\nSatlyt just raised $8M to put AI directly on satellites. The goal: process images in orbit instead of sending them to Earth.",
+    "2. From Google to orbit\n\nFounded by a former Google and SpaceX product manager. That mix of big tech and rocket science is rare.",
+    "3. No data center needed\n\nThe AI runs on the satellite itself. No distant servers, no waiting for data to travel.",
+    "4. Faster and cheaper\n\nProcessing in orbit cuts delays and bandwidth costs. That changes what satellites can do in real time.",
+    "5. Test it yourself\n\nFind a satellite image and imagine AI analyzing it instantly. Would that change how you use the data?"
+  ],
+  "video_script": [
+    "Satlyt raised eight million to put AI on satellites.",
+    "A former Google and SpaceX manager founded it.",
+    "The AI runs in orbit, not in data centers.",
+    "That cuts delays and bandwidth costs.",
+    "Try testing a satellite image yourself today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $8M for satellite AI\n\nSatlyt just raised $8M to put AI directly on satellites. The goal: process images in orbit instead of sending them to Earth.",
+        "2. From Google to orbit\n\nFounded by a former Google and SpaceX product manager. That mix of big tech and rocket science is rare.",
+        "3. No data center needed\n\nThe AI runs on the satellite itself. No distant servers, no waiting for data to travel.",
+        "4. Faster and cheaper\n\nProcessing in orbit cuts delays and bandwidth costs. That changes what satellites can do in real time.",
+        "5. Test it yourself\n\nFind a satellite image and imagine AI analyzing it instantly. Would that change how you use the data?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Satlyt raised eight million to put AI on satellites.",
+        "A former Google and SpaceX manager founded it.",
+        "The AI runs in orbit, not in data centers.",
+        "That cuts delays and bandwidth costs.",
+        "Try testing a satellite image yourself today."
+      ]
+    },
+    "instagram": {
+      "caption": "Eight million dollars just went to making satellites process their own images, instead of shipping every pixel down to Earth.\n\nSatlyt, founded by a former Google and SpaceX product manager, is putting AI directly on satellites.\n\nThat means images get analyzed in orbit, cutting delays and bandwidth costs.\n\nIf you work with satellite imagery, your data could arrive already interpreted, not raw.\n\n🛰️ Faster than waiting on a downlink 📡\n\nWhat would you do differently if the analysis came back in seconds?"
+    }
+  },
+  "instagram_caption": "Eight million dollars just went to making satellites process their own images, instead of shipping every pixel down to Earth.\n\nSatlyt, founded by a former Google and SpaceX product manager, is putting AI directly on satellites.\n\nThat means images get analyzed in orbit, cutting delays and bandwidth costs.\n\nIf you work with satellite imagery, your data could arrive already interpreted, not raw.\n\n🛰️ Faster than waiting on a downlink 📡\n\nWhat would you do differently if the analysis came back in seconds?",
+  "carousel_slides": [
+    {
+      "hook": "Can satellites actually think for themselves?",
+      "description": "Satlyt raised $8M to run AI directly on satellites, processing images in orbit instead of sending them to Earth.",
+      "visual_hint": "Satellite orbiting Earth with glowing circuit lines",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "satellite orbit earth"
+    },
+    {
+      "hook": "From Google and SpaceX to orbit",
+      "description": "Founded by a former Google and SpaceX product manager, combining big tech and rocket science expertise.",
+      "visual_hint": "Rocket launch with tech interface overlay",
+      "layout_type": "right-focus",
+      "icon": "vibration",
+      "image_query": "rocket launch pad",
+      "image": "https://images.pexels.com/photos/38847781/pexels-photo-38847781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No distant data centers needed",
+      "description": "The AI runs on the satellite itself, eliminating the wait for data to travel to Earth.",
+      "visual_hint": "Satellite hardware with embedded AI chip",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "circuit board closeup",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Faster decisions, lower bandwidth costs",
+      "description": "Processing in orbit cuts delays and bandwidth costs, changing what satellites can do in real time.",
+      "visual_hint": "Hand holding satellite image with analysis overlay",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "satellite image map",
+      "image": "https://images.pexels.com/photos/1656174/pexels-photo-1656174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Imagine AI analyzing satellite images instantly",
+      "description": "Find a satellite image and imagine AI analyzing it instantly. Would that change how you use the data? Save this post.",
+      "visual_hint": "Phone screen with satellite view and AI scan",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "satellite view city",
+      "image": "https://images.pexels.com/photos/1656174/pexels-photo-1656174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Satlyt_Team_Group-Portrait_Steps.jpg?resize=1200,800",
+  "savedAt": "2026-10-13T17:15:43.753Z",
+  "sourceId": "4520f7ad22fb7d9896983cabc8d8ae5d"
+}

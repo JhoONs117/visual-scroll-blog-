@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "amex-introduces-a-framework-to-prevent-ai-agents-f",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+  "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+  "pubDate": "Tue, 13 Oct 2026 13:00:00 +0000",
+  "slides": [
+    "Can an AI agent empty your Amex?",
+    "Amex built a framework for agent payments.",
+    "But it doesn't verify the agent's identity.",
+    "Check if your card will be affected.",
+    "Ask your card issuer about agent policies."
+  ],
+  "thread_text": [
+    "1. Your Amex, Empty?\n\nAmerican Express built a payment framework for AI agents. But it doesn't verify who the agent really is.",
+    "2. The Framework Gap\n\nAmex's system lets agents initiate transactions, but no identity verification. That means any agent could potentially drain your card.",
+    "3. Who's Liable?\n\nIf an unverified agent empties your account, who covers the loss? Your card issuer's policy on agent transactions is the only backstop.",
+    "4. Check Your Card\n\nNot all cards have the same agent policies. Some issuers block agent payments entirely, others allow them with no safeguards.",
+    "5. Call Your Issuer\n\nAsk your card issuer: what is your policy on AI agent transactions? Do it today before an agent tests it for you."
+  ],
+  "video_script": [
+    "American Express built a payment system for AI agents.",
+    "But it doesn't verify the agent's identity.",
+    "So any agent could potentially drain your card.",
+    "Check if your card issuer has a policy.",
+    "Call them today. Ask about agent transactions."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your Amex, Empty?\n\nAmerican Express built a payment framework for AI agents. But it doesn't verify who the agent really is.",
+        "2. The Framework Gap\n\nAmex's system lets agents initiate transactions, but no identity verification. That means any agent could potentially drain your card.",
+        "3. Who's Liable?\n\nIf an unverified agent empties your account, who covers the loss? Your card issuer's policy on agent transactions is the only backstop.",
+        "4. Check Your Card\n\nNot all cards have the same agent policies. Some issuers block agent payments entirely, others allow them with no safeguards.",
+        "5. Call Your Issuer\n\nAsk your card issuer: what is your policy on AI agent transactions? Do it today before an agent tests it for you."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "American Express built a payment system for AI agents.",
+        "But it doesn't verify the agent's identity.",
+        "So any agent could potentially drain your card.",
+        "Check if your card issuer has a policy.",
+        "Call them today. Ask about agent transactions."
+      ]
+    },
+    "instagram": {
+      "caption": "Your card could be emptied by an AI agent you never authorized.\n\nAmerican Express built a payment framework so AI agents can start transactions on your account. 😳\n\nBut it doesn't verify who the agent actually is — no identity check at all.\n\nIf an unverified agent drains your balance, your issuer's policy is the only backstop.\n\nIf you publish or build with AI tools, this hits your payment stack directly. ⚠️\n\nNot every card handles agent payments the same way. Some block them, some allow them with zero safeguards.\n\nCall your issuer today: what's your policy on AI agent transactions? 📞\n\nBefore an agent tests it for you."
+    }
+  },
+  "instagram_caption": "Your card could be emptied by an AI agent you never authorized.\n\nAmerican Express built a payment framework so AI agents can start transactions on your account. 😳\n\nBut it doesn't verify who the agent actually is — no identity check at all.\n\nIf an unverified agent drains your balance, your issuer's policy is the only backstop.\n\nIf you publish or build with AI tools, this hits your payment stack directly. ⚠️\n\nNot every card handles agent payments the same way. Some block them, some allow them with zero safeguards.\n\nCall your issuer today: what's your policy on AI agent transactions? 📞\n\nBefore an agent tests it for you.",
+  "carousel_slides": [
+    {
+      "hook": "Can an AI agent empty your Amex?",
+      "description": "American Express built a payment framework for AI agents that doesn't verify the agent's real identity before transactions.",
+      "visual_hint": "Credit card with robotic hand",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "credit card"
+    },
+    {
+      "hook": "Amex built a framework for agent payments",
+      "description": "The system lets AI agents initiate transactions and spend your money, but has no built-in identity verification layer.",
+      "visual_hint": "Network diagram of connected agents",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No identity check on your agent",
+      "description": "Without verification, any AI agent could potentially drain your card. The issuer's policy is your only real backstop.",
+      "visual_hint": "Magnifying glass over payment terminal",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "payment terminal",
+      "image": "https://images.pexels.com/photos/5239804/pexels-photo-5239804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is your card affected by this?",
+      "description": "Agent policies vary wildly: some issuers block AI agent payments entirely, others allow them with zero safeguards.",
+      "visual_hint": "Hand holding card at terminal",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before an agent tests it",
+      "description": "Call your card issuer today and ask: what is your policy on AI agent transactions? Leave a comment with their answer.",
+      "visual_hint": "Phone call to bank hotline",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "call center",
+      "image": "https://images.pexels.com/photos/8867246/pexels-photo-8867246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800",
+  "savedAt": "2026-10-13T17:16:01.112Z",
+  "sourceId": "65a5bbabecb616196a6cf39c514f8c2f"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "just-5-years-in-interactive-chatbot-platform-chara",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+  "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+  "pubDate": "Tue, 13 Oct 2026 12:23:42 +0000",
+  "slides": [
+    "Character.AI files for bankruptcy after just 5 years.",
+    "It once hit 28 million monthly users, valued at billions.",
+    "But most users were teens and paying almost nothing.",
+    "If you build on Character.AI, your bots may die too.",
+    "Diversify your AI stack before it favors you."
+  ],
+  "thread_text": [
+    "1. 28 Million Users, Zero Dollars\n\nCharacter.AI filed for bankruptcy after five years, despite hitting 28 million monthly users and a multi-billion valuation. Paying customers were almost nonexistent.",
+    "2. The Teenager Trap\n\nMost of those millions were teens who couldn't or wouldn't pay. A massive user base means nothing if the revenue per user rounds to zero.",
+    "3. Your Bots Are Hostages\n\nIf you built on Character.AI, your characters die with the platform. No migration path, no warning—just gone.",
+    "4. The Stack Is Fragile\n\nEvery AI tool you rely on is one bankruptcy away from disappearing. The companies look stable until they don't.",
+    "5. Audit Your AI Dependencies Today\n\nList every AI platform you use, then ask: what happens if it shuts down tomorrow? If you don't have a backup, start there."
+  ],
+  "video_script": [
+    "Character.AI just filed for bankruptcy after five years.",
+    "It had 28 million monthly users but almost no revenue.",
+    "Most users were teens who paid nothing.",
+    "If you built bots there, they're already dead.",
+    "Audit your AI stack or risk the same fate."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. 28 Million Users, Zero Dollars\n\nCharacter.AI filed for bankruptcy after five years, despite hitting 28 million monthly users and a multi-billion valuation. Paying customers were almost nonexistent.",
+        "2. The Teenager Trap\n\nMost of those millions were teens who couldn't or wouldn't pay. A massive user base means nothing if the revenue per user rounds to zero.",
+        "3. Your Bots Are Hostages\n\nIf you built on Character.AI, your characters die with the platform. No migration path, no warning—just gone.",
+        "4. The Stack Is Fragile\n\nEvery AI tool you rely on is one bankruptcy away from disappearing. The companies look stable until they don't.",
+        "5. Audit Your AI Dependencies Today\n\nList every AI platform you use, then ask: what happens if it shuts down tomorrow? If you don't have a backup, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Character.AI just filed for bankruptcy after five years.",
+        "It had 28 million monthly users but almost no revenue.",
+        "Most users were teens who paid nothing.",
+        "If you built bots there, they're already dead.",
+        "Audit your AI stack or risk the same fate."
+      ]
+    },
+    "instagram": {
+      "caption": "28 million people used it every month and it still went bankrupt.\n\nCharacter.AI just filed after five years, valued at billions, with almost no paying customers. Most users were teens who paid nothing.\n\nIf you built bots there, they die with the platform. No migration, no warning.\n\nEvery AI tool you depend on sits one bankruptcy away from vanishing.\n\nList the AI platforms you use today. What happens to your work if one shuts down tomorrow? 💀\n\nBack up your bots before the next one folds 🚨"
+    }
+  },
+  "instagram_caption": "28 million people used it every month and it still went bankrupt.\n\nCharacter.AI just filed after five years, valued at billions, with almost no paying customers. Most users were teens who paid nothing.\n\nIf you built bots there, they die with the platform. No migration, no warning.\n\nEvery AI tool you depend on sits one bankruptcy away from vanishing.\n\nList the AI platforms you use today. What happens to your work if one shuts down tomorrow? 💀\n\nBack up your bots before the next one folds 🚨",
+  "carousel_slides": [
+    {
+      "hook": "Your AI bots are hostages",
+      "description": "If you built on Character.AI, your characters vanish with the platform. No migration path, no warning, just gone.",
+      "visual_hint": "Digital characters dissolving into pixels",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "abandoned factory"
+    },
+    {
+      "hook": "28 million users, zero revenue",
+      "description": "Character.AI hit 28 million monthly users and a multi-billion valuation, yet paying customers were almost nonexistent.",
+      "visual_hint": "Crowd empty pockets screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "crowd market",
+      "image": "https://images.pexels.com/photos/36527979/pexels-photo-36527979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "A massive teenage userbase pays nothing",
+      "description": "Most users were teens who couldn't or wouldn't pay. Huge audience means nothing when revenue per user rounds to zero.",
+      "visual_hint": "Teen scrolling phone screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "teenager smartphone",
+      "image": "https://images.pexels.com/photos/6255966/pexels-photo-6255966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Every AI tool is one bankruptcy away",
+      "description": "The platforms you rely on look stable until they don't. One filing wipes out your entire bot inventory overnight.",
+      "visual_hint": "Collapsing stack of digital blocks",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your AI dependencies today",
+      "description": "List every AI platform you use, then ask: what happens if it shuts down tomorrow? Save this post and start there.",
+      "visual_hint": "Checklist with platform names",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-1.24.23PM.png?resize=1200,672",
+  "savedAt": "2026-10-13T17:16:11.847Z",
+  "sourceId": "8e71e68ebc805ea8f6dfd533333d5ec1"
+}
