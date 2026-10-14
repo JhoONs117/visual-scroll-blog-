@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "cerebras-ceo-pushes-back-on-ai-doomsday-warnings",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Cerebras CEO pushes back on AI doomsday warnings",
+    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+    "pubDate": "Tue, 13 Oct 2026 22:36:59 +0000",
+    "slides": [
+      "Cerebras CEO calls AI doomsday warnings a dangerous distraction?",
+      "The company builds the world's largest computer chip for AI.",
+      "Doomsday narratives often come from competitors with something to lose.",
+      "Ignore the hype and judge AI by real-world results.",
+      "Ask: who benefits from keeping you afraid?"
+    ],
+    "thread_text": [
+      "1. The CEO Who Built the Biggest Chip\n\nCerebras Systems created the world's largest AI processor — a wafer-scale engine. Its CEO now says doomsday warnings are a dangerous distraction.",
+      "2. Doomsday Warnings Come From Competitors\n\nWhen someone warns AI will kill us all, check who funds the warning. Often it's rivals who have a lot to lose if this technology wins.",
+      "3. Ignore the Hype, Judge Results\n\nReal-world benchmarks and deployed systems matter more than apocalyptic predictions. Look at what AI actually does, not what it might do.",
+      "4. Ask Who Benefits From Fear\n\nFear sells headlines and stokes regulation. If your competitor is afraid, maybe your product works. Follow the incentives.",
+      "5. Test It Yourself\n\nPick one AI tool you already use. Run a real task and measure the outcome. Then tell me: did it save time or just add noise?"
+    ],
+    "video_script": [
+      "Cerebras built the world's largest AI chip.",
+      "Their CEO says doomsday warnings are a distraction.",
+      "Competitors often spread fear because they have much to lose.",
+      "Ignore the hype and judge AI by real results.",
+      "Ask yourself: who benefits from keeping you afraid?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The CEO Who Built the Biggest Chip\n\nCerebras Systems created the world's largest AI processor — a wafer-scale engine. Its CEO now says doomsday warnings are a dangerous distraction.",
+          "2. Doomsday Warnings Come From Competitors\n\nWhen someone warns AI will kill us all, check who funds the warning. Often it's rivals who have a lot to lose if this technology wins.",
+          "3. Ignore the Hype, Judge Results\n\nReal-world benchmarks and deployed systems matter more than apocalyptic predictions. Look at what AI actually does, not what it might do.",
+          "4. Ask Who Benefits From Fear\n\nFear sells headlines and stokes regulation. If your competitor is afraid, maybe your product works. Follow the incentives.",
+          "5. Test It Yourself\n\nPick one AI tool you already use. Run a real task and measure the outcome. Then tell me: did it save time or just add noise?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Cerebras built the world's largest AI chip.",
+          "Their CEO says doomsday warnings are a distraction.",
+          "Competitors often spread fear because they have much to lose.",
+          "Ignore the hype and judge AI by real results.",
+          "Ask yourself: who benefits from keeping you afraid?"
+        ]
+      },
+      "instagram": {
+        "caption": "The world's largest AI chip isn't made by Nvidia. It's made by Cerebras, and its CEO says doomsday warnings are a dangerous distraction. 🧠\n\nHe points out that apocalyptic AI talk often comes from competitors with something to lose if the technology wins.\n\nIgnore the hype. Judge AI by real benchmarks and deployed systems, not predictions.\n\nIf you publish or create content, fear-driven headlines are being sold to you as news. Check who funds the warning before you share it. ⚠️\n\nPick one AI tool you already use, run a real task, measure the result. Did it save you time, or just add noise? 🔍\n\nWho benefits from keeping you afraid? 🤔"
+      }
+    },
+    "instagram_caption": "The world's largest AI chip isn't made by Nvidia. It's made by Cerebras, and its CEO says doomsday warnings are a dangerous distraction. 🧠\n\nHe points out that apocalyptic AI talk often comes from competitors with something to lose if the technology wins.\n\nIgnore the hype. Judge AI by real benchmarks and deployed systems, not predictions.\n\nIf you publish or create content, fear-driven headlines are being sold to you as news. Check who funds the warning before you share it. ⚠️\n\nPick one AI tool you already use, run a real task, measure the result. Did it save you time, or just add noise? 🔍\n\nWho benefits from keeping you afraid? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Who Profits From Your AI Fear?",
+        "description": "Cerebras CEO says doomsday warnings distract from real progress. Ask who benefits when you stay afraid of AI.",
+        "visual_hint": "Close-up of advanced computer chip",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer chip"
+      },
+      {
+        "hook": "The World's Largest AI Chip",
+        "description": "Cerebras built a wafer-scale processor for AI. Its CEO pushes back on doomsday warnings from competitors.",
+        "visual_hint": "Wafer-scale engine on display",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "semiconductor wafer",
+        "image": "https://images.pexels.com/photos/4432037/pexels-photo-4432037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Doomsday Warnings Come From Competitors",
+        "description": "When someone warns AI will kill us, check who funds the warning. Often rivals with a lot to lose.",
+        "visual_hint": "Corporate rivalry visual metaphor",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "business meeting",
+        "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Judge AI By Real Results",
+        "description": "Ignore apocalyptic hype. Real benchmarks and deployed systems matter more than predictions about what might happen.",
+        "visual_hint": "Hands testing AI tool",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "software testing",
+        "image": "https://images.pexels.com/photos/7858297/pexels-photo-7858297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save This: Test One AI Tool",
+        "description": "Pick an AI tool you use. Run a real task, measure the outcome. Did it save time or add noise?",
+        "visual_hint": "Person measuring task outcome",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stopwatch timer",
+        "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588036288_a416e1cb00_k.jpg?resize=1200,800",
+    "savedAt": "2026-10-14T19:52:13.134Z",
+    "sourceId": "ef5219e107b241737e36410758b94eff"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "deezer-will-soon-let-you-filter-out-ai-generated-m",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Deezer will soon let you filter out AI-generated music",
+    "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+    "pubDate": "Wed, 14 Oct 2026 15:16:04 +0000",
+    "slides": [
+      "Can Deezer tell human music from AI?",
+      "It will filter AI-generated tracks from recommendations",
+      "But detection tools still fail on hybrid songs",
+      "Your playlists may change without warning",
+      "Check your Release Radar next week"
+    ],
+    "thread_text": [
+      "1. Your playlist just changed\n\nDeezer is now filtering AI-generated tracks from recommendations. No warning, no label — the song simply disappears from your queue.",
+      "2. The hybrid problem\n\nDetection tools still fail on songs that mix human and AI parts. A track can pass as fully human while half of it was generated.",
+      "3. How they spot AI\n\nDeezer analyzes audio patterns and metadata, but the system learns from what it catches. New AI models slip through every week.",
+      "4. Silent removals\n\nYour Release Radar may lose tracks next week without explanation. Artists affected won't be notified — only you notice the gap.",
+      "5. Check your Radar\n\nOpen your Release Radar next week. If a song you expected is missing, ask why. That silence is the new detection signal."
+    ],
+    "video_script": [
+      "Deezer is about to change your music playlists.",
+      "It claims to filter out AI-generated tracks.",
+      "But hybrid songs still slip through detection.",
+      "Your Release Radar may lose songs without warning.",
+      "Check your radar next week and ask why."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your playlist just changed\n\nDeezer is now filtering AI-generated tracks from recommendations. No warning, no label — the song simply disappears from your queue.",
+          "2. The hybrid problem\n\nDetection tools still fail on songs that mix human and AI parts. A track can pass as fully human while half of it was generated.",
+          "3. How they spot AI\n\nDeezer analyzes audio patterns and metadata, but the system learns from what it catches. New AI models slip through every week.",
+          "4. Silent removals\n\nYour Release Radar may lose tracks next week without explanation. Artists affected won't be notified — only you notice the gap.",
+          "5. Check your Radar\n\nOpen your Release Radar next week. If a song you expected is missing, ask why. That silence is the new detection signal."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Deezer is about to change your music playlists.",
+          "It claims to filter out AI-generated tracks.",
+          "But hybrid songs still slip through detection.",
+          "Your Release Radar may lose songs without warning.",
+          "Check your radar next week and ask why."
+        ]
+      },
+      "instagram": {
+        "caption": "Your Release Radar might lose songs next week without any warning or explanation.\n\nDeezer is starting to filter AI-generated tracks out of its recommendations. If a song gets flagged, it just disappears from your queue. No label, no notification. 🎧\n\nThe system scans audio patterns and metadata, but it still fails on hybrid tracks — songs that mix human and AI parts can pass as fully human. 🤖\n\nIf you're an artist, part of your catalog could vanish from playlists with no notice. 🔍\n\nOpen your Release Radar next week. If something you expected is missing, that silence is the signal. What would you do if your own track got filtered? 🎵"
+      }
+    },
+    "instagram_caption": "Your Release Radar might lose songs next week without any warning or explanation.\n\nDeezer is starting to filter AI-generated tracks out of its recommendations. If a song gets flagged, it just disappears from your queue. No label, no notification. 🎧\n\nThe system scans audio patterns and metadata, but it still fails on hybrid tracks — songs that mix human and AI parts can pass as fully human. 🤖\n\nIf you're an artist, part of your catalog could vanish from playlists with no notice. 🔍\n\nOpen your Release Radar next week. If something you expected is missing, that silence is the signal. What would you do if your own track got filtered? 🎵",
+    "carousel_slides": [
+      {
+        "hook": "Half your song might be AI",
+        "description": "Deezer filters AI tracks from recommendations, but detection fails on songs mixing human and AI parts.",
+        "visual_hint": "Split soundwave showing human vs AI",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "sound wave"
+      },
+      {
+        "hook": "Deezer is quietly deleting songs",
+        "description": "AI-generated tracks vanish from recommendations without warning or labels. The song simply disappears from your queue.",
+        "visual_hint": "Empty playlist slot on screen",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "music streaming app",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "New AI models slip through weekly",
+        "description": "Deezer analyzes audio patterns and metadata, but learns only from caught tracks. Fresh AI models bypass it constantly.",
+        "visual_hint": "Algorithm scanning audio waveform closely",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "audio waveform",
+        "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your Release Radar changed silently",
+        "description": "Tracks may vanish next week without explanation. Affected artists are not notified — only you notice the gap.",
+        "visual_hint": "Hand scrolling phone music app",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your Radar, save this post",
+        "description": "Open your Release Radar next week. If an expected song is missing, screenshot it and comment below.",
+        "visual_hint": "Missing song highlighted on screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "music playlist",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Deezer-AI-detection-feat.jpg?w=1067",
+    "savedAt": "2026-10-14T19:52:01.730Z",
+    "sourceId": "eee648a48220cdb34871723dd6a71251"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "apate-sends-ai-agents-undercover-to-get-scammed-so",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+    "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+    "pubDate": "Wed, 14 Oct 2026 18:00:00 +0000",
+    "slides": [
+      "Apate sends AI agents to get scammed. What's the catch?",
+      "Agents pretend to be vulnerable to attract fraudsters.",
+      "Unlike honey pots, they extract actionable intelligence in real time.",
+      "You can now block scams before they reach your customers.",
+      "Test one scam scenario with your team this week."
+    ],
+    "thread_text": [
+      "1. The Trap That Bites Back\n\nApate uses AI agents that pose as easy targets. Fraudsters engage, but every move is logged and analyzed.",
+      "2. Bait That Thinks\n\nThese agents don't just wait—they actively lure scammers by mimicking vulnerable users. Real-time extraction turns the tables.",
+      "3. Beyond the Honeypot\n\nTraditional traps only observe. Apate's agents extract actionable intelligence instantly, turning each scam attempt into a data point.",
+      "4. Block Before They Reach You\n\nWith live threat intelligence, you can stop scams before they ever hit your customers' inboxes.",
+      "5. Test Your Defenses Now\n\nPick one scam scenario and run a simulation with your team this week. If you haven't, start there."
+    ],
+    "video_script": [
+      "Apate sends AI agents to get scammed.",
+      "They pretend to be vulnerable to attract fraudsters.",
+      "Unlike honey pots, they extract intelligence in real time.",
+      "Now you can block scams before they reach customers.",
+      "Test one scam scenario with your team this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Trap That Bites Back\n\nApate uses AI agents that pose as easy targets. Fraudsters engage, but every move is logged and analyzed.",
+          "2. Bait That Thinks\n\nThese agents don't just wait—they actively lure scammers by mimicking vulnerable users. Real-time extraction turns the tables.",
+          "3. Beyond the Honeypot\n\nTraditional traps only observe. Apate's agents extract actionable intelligence instantly, turning each scam attempt into a data point.",
+          "4. Block Before They Reach You\n\nWith live threat intelligence, you can stop scams before they ever hit your customers' inboxes.",
+          "5. Test Your Defenses Now\n\nPick one scam scenario and run a simulation with your team this week. If you haven't, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apate sends AI agents to get scammed.",
+          "They pretend to be vulnerable to attract fraudsters.",
+          "Unlike honey pots, they extract intelligence in real time.",
+          "Now you can block scams before they reach customers.",
+          "Test one scam scenario with your team this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Fraudsters can now be tricked into scamming an AI agent that logs every move.\n\nApate sends undercover agents posing as vulnerable users, pulling scammers into conversations they think are easy wins.\n\nUnlike old honeypots that just watch, these agents extract usable fraud intelligence in real time. 🕵️\n\nThat means you can block a scam before it reaches your customers' inboxes. 🛡️\n\nIf you run content or a community, scam attempts hitting your audience can be flagged and stopped earlier. ⚡\n\nPick one scam scenario and run it with your team this week — have you tested yours yet? 🤖"
+      }
+    },
+    "instagram_caption": "Fraudsters can now be tricked into scamming an AI agent that logs every move.\n\nApate sends undercover agents posing as vulnerable users, pulling scammers into conversations they think are easy wins.\n\nUnlike old honeypots that just watch, these agents extract usable fraud intelligence in real time. 🕵️\n\nThat means you can block a scam before it reaches your customers' inboxes. 🛡️\n\nIf you run content or a community, scam attempts hitting your audience can be flagged and stopped earlier. ⚡\n\nPick one scam scenario and run it with your team this week — have you tested yours yet? 🤖",
+    "carousel_slides": [
+      {
+        "hook": "What if AI could scam the scammers?",
+        "description": "Apate deploys undercover AI agents that pose as vulnerable targets, logging every fraudster move for real-time intelligence.",
+        "visual_hint": "AI robot face hidden in shadows",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot face"
+      },
+      {
+        "hook": "They pretend to be easy prey",
+        "description": "Agents mimic vulnerable users to actively lure scammers, turning each engagement into a live data extraction opportunity.",
+        "visual_hint": "Fake profile on smartphone screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Not just watching — extracting intelligence",
+        "description": "Unlike traditional honeypots that only observe, Apate's agents capture actionable fraud intelligence in real time, transforming every scam attempt into usable data.",
+        "visual_hint": "Data streams flowing into server",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Block scams before they reach customers",
+        "description": "Live threat intelligence from undercover agents lets you stop fraud before it ever hits your customers' inboxes.",
+        "visual_hint": "Shield blocking email icon",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "email inbox",
+        "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one scam scenario this week",
+        "description": "Pick a scam scenario and run a simulation with your team. Start now — save this post for later.",
+        "visual_hint": "Team meeting around laptop",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/6811e05224449e9b499b4916_apate_team-p-1600.webp?resize=1200,797",
+    "savedAt": "2026-10-14T19:51:49.729Z",
+    "sourceId": "ea05e081087d0ccf190ceed0282c01a9"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "youtube-music-launches-new-labels-as-ai-generated-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+    "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+    "pubDate": "Wed, 14 Oct 2026 18:23:46 +0000",
+    "slides": [
+      "Can YouTube Music’s new labels stop AI music?",
+      "Labels will flag AI-generated tracks on the platform.",
+      "But the system relies on artists to self-disclose.",
+      "You’ll see badges—but hidden AI still thrives.",
+      "Check for labels, but don’t trust them blindly."
+    ],
+    "thread_text": [
+      "1. AI Music Gets Labels\n\nYouTube Music now flags AI-generated tracks, but artists must self-disclose. That leaves a loophole wide open.",
+      "2. Self-Reporting Problem\n\nThe system depends on creators admitting their songs are AI-made. No disclosure, no label.",
+      "3. Badges But No Barrier\n\nViewers see badges on disclosed tracks. Hidden AI tracks still slip through without any warning.",
+      "4. False Security Risk\n\nSeeing a badge might make you trust the platform. But absence of a badge doesn't mean human-made.",
+      "5. Check, Then Question\n\nNext time you stream, look for the label. Then ask yourself: can you really trust it? Test one track today."
+    ],
+    "video_script": [
+      "YouTube Music now labels AI-generated tracks.",
+      "But artists must admit their songs are AI.",
+      "Viewers see badges only on disclosed tracks.",
+      "Hidden AI music still thrives without labels.",
+      "Check for labels, but don't trust blindly."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI Music Gets Labels\n\nYouTube Music now flags AI-generated tracks, but artists must self-disclose. That leaves a loophole wide open.",
+          "2. Self-Reporting Problem\n\nThe system depends on creators admitting their songs are AI-made. No disclosure, no label.",
+          "3. Badges But No Barrier\n\nViewers see badges on disclosed tracks. Hidden AI tracks still slip through without any warning.",
+          "4. False Security Risk\n\nSeeing a badge might make you trust the platform. But absence of a badge doesn't mean human-made.",
+          "5. Check, Then Question\n\nNext time you stream, look for the label. Then ask yourself: can you really trust it? Test one track today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "YouTube Music now labels AI-generated tracks.",
+          "But artists must admit their songs are AI.",
+          "Viewers see badges only on disclosed tracks.",
+          "Hidden AI music still thrives without labels.",
+          "Check for labels, but don't trust blindly."
+        ]
+      },
+      "instagram": {
+        "caption": "Artists have to volunteer that their music was made by AI — nobody checks for them.\n\nYouTube Music just added labels for AI-generated tracks. The system only works if the artist admits it. No confession, no label.\n\nSo a track can be fully AI-made and show zero badges, while you assume it's human.\n\nIf you publish music, your AI track stays unlabeled unless you flag it yourself. If you're a listener, that badge means less than it looks.\n\nOpen a song you trust right now. Is the label there — or just your assumption?"
+      }
+    },
+    "instagram_caption": "Artists have to volunteer that their music was made by AI — nobody checks for them.\n\nYouTube Music just added labels for AI-generated tracks. The system only works if the artist admits it. No confession, no label.\n\nSo a track can be fully AI-made and show zero badges, while you assume it's human.\n\nIf you publish music, your AI track stays unlabeled unless you flag it yourself. If you're a listener, that badge means less than it looks.\n\nOpen a song you trust right now. Is the label there — or just your assumption?",
+    "carousel_slides": [
+      {
+        "hook": "Can YouTube Music stop AI music?",
+        "description": "New labels flag AI-generated tracks, but artists must self-disclose. No disclosure means no label, leaving a loophole.",
+        "visual_hint": "Smartphone screen showing AI music label",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone music app"
+      },
+      {
+        "hook": "Labels flag AI, but self-reporting fails",
+        "description": "The system relies on creators admitting their songs are AI-made. Without honesty, no label appears.",
+        "visual_hint": "Creator uploading music on laptop",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "laptop music studio",
+        "image": "https://images.pexels.com/photos/7097859/pexels-photo-7097859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Badges show AI, but hidden tracks slip",
+        "description": "Viewers see badges on disclosed tracks. Hidden AI tracks still thrive without any warning.",
+        "visual_hint": "Streaming interface with warning badge",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "streaming service interface",
+        "image": "https://images.pexels.com/photos/24206770/pexels-photo-24206770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "False security: no badge isn't safe",
+        "description": "Seeing a badge might make you trust the platform. But absence of a badge doesn't mean human-made.",
+        "visual_hint": "User scrolling music playlist phone",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person scrolling smartphone",
+        "image": "https://images.pexels.com/photos/17789086/pexels-photo-17789086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check labels, then question them",
+        "description": "Next time you stream, look for the label. Then ask yourself: can you really trust it?",
+        "visual_hint": "Hand pointing at AI badge",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "hand pointing screen",
+        "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080",
+    "savedAt": "2026-10-14T19:51:40.865Z",
+    "sourceId": "5a63753fd6b2e27b938cc244c8805dd6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "xbox-is-officially-embracing-the-chaos-of-ai-power",
     "prompt_version": "1.0.0",
     "status": "published",

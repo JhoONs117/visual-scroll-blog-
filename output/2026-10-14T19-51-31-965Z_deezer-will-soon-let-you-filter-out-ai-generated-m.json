@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "deezer-will-soon-let-you-filter-out-ai-generated-m",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Deezer will soon let you filter out AI-generated music",
+  "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+  "pubDate": "Wed, 14 Oct 2026 15:16:04 +0000",
+  "slides": [
+    "Can Deezer tell human music from AI?",
+    "It will filter AI-generated tracks from recommendations",
+    "But detection tools still fail on hybrid songs",
+    "Your playlists may change without warning",
+    "Check your Release Radar next week"
+  ],
+  "thread_text": [
+    "1. Your playlist just changed\n\nDeezer is now filtering AI-generated tracks from recommendations. No warning, no label — the song simply disappears from your queue.",
+    "2. The hybrid problem\n\nDetection tools still fail on songs that mix human and AI parts. A track can pass as fully human while half of it was generated.",
+    "3. How they spot AI\n\nDeezer analyzes audio patterns and metadata, but the system learns from what it catches. New AI models slip through every week.",
+    "4. Silent removals\n\nYour Release Radar may lose tracks next week without explanation. Artists affected won't be notified — only you notice the gap.",
+    "5. Check your Radar\n\nOpen your Release Radar next week. If a song you expected is missing, ask why. That silence is the new detection signal."
+  ],
+  "video_script": [
+    "Deezer is about to change your music playlists.",
+    "It claims to filter out AI-generated tracks.",
+    "But hybrid songs still slip through detection.",
+    "Your Release Radar may lose songs without warning.",
+    "Check your radar next week and ask why."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your playlist just changed\n\nDeezer is now filtering AI-generated tracks from recommendations. No warning, no label — the song simply disappears from your queue.",
+        "2. The hybrid problem\n\nDetection tools still fail on songs that mix human and AI parts. A track can pass as fully human while half of it was generated.",
+        "3. How they spot AI\n\nDeezer analyzes audio patterns and metadata, but the system learns from what it catches. New AI models slip through every week.",
+        "4. Silent removals\n\nYour Release Radar may lose tracks next week without explanation. Artists affected won't be notified — only you notice the gap.",
+        "5. Check your Radar\n\nOpen your Release Radar next week. If a song you expected is missing, ask why. That silence is the new detection signal."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Deezer is about to change your music playlists.",
+        "It claims to filter out AI-generated tracks.",
+        "But hybrid songs still slip through detection.",
+        "Your Release Radar may lose songs without warning.",
+        "Check your radar next week and ask why."
+      ]
+    },
+    "instagram": {
+      "caption": "Your Release Radar might lose songs next week without any warning or explanation.\n\nDeezer is starting to filter AI-generated tracks out of its recommendations. If a song gets flagged, it just disappears from your queue. No label, no notification. 🎧\n\nThe system scans audio patterns and metadata, but it still fails on hybrid tracks — songs that mix human and AI parts can pass as fully human. 🤖\n\nIf you're an artist, part of your catalog could vanish from playlists with no notice. 🔍\n\nOpen your Release Radar next week. If something you expected is missing, that silence is the signal. What would you do if your own track got filtered? 🎵"
+    }
+  },
+  "instagram_caption": "Your Release Radar might lose songs next week without any warning or explanation.\n\nDeezer is starting to filter AI-generated tracks out of its recommendations. If a song gets flagged, it just disappears from your queue. No label, no notification. 🎧\n\nThe system scans audio patterns and metadata, but it still fails on hybrid tracks — songs that mix human and AI parts can pass as fully human. 🤖\n\nIf you're an artist, part of your catalog could vanish from playlists with no notice. 🔍\n\nOpen your Release Radar next week. If something you expected is missing, that silence is the signal. What would you do if your own track got filtered? 🎵",
+  "carousel_slides": [
+    {
+      "hook": "Half your song might be AI",
+      "description": "Deezer filters AI tracks from recommendations, but detection fails on songs mixing human and AI parts.",
+      "visual_hint": "Split soundwave showing human vs AI",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "sound wave"
+    },
+    {
+      "hook": "Deezer is quietly deleting songs",
+      "description": "AI-generated tracks vanish from recommendations without warning or labels. The song simply disappears from your queue.",
+      "visual_hint": "Empty playlist slot on screen",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "music streaming app",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "New AI models slip through weekly",
+      "description": "Deezer analyzes audio patterns and metadata, but learns only from caught tracks. Fresh AI models bypass it constantly.",
+      "visual_hint": "Algorithm scanning audio waveform closely",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "audio waveform",
+      "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your Release Radar changed silently",
+      "description": "Tracks may vanish next week without explanation. Affected artists are not notified — only you notice the gap.",
+      "visual_hint": "Hand scrolling phone music app",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your Radar, save this post",
+      "description": "Open your Release Radar next week. If an expected song is missing, screenshot it and comment below.",
+      "visual_hint": "Missing song highlighted on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "music playlist",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Deezer-AI-detection-feat.jpg?w=1067",
+  "savedAt": "2026-10-14T19:52:01.730Z",
+  "sourceId": "eee648a48220cdb34871723dd6a71251"
+}

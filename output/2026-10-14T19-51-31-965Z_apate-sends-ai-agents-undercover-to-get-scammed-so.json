@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apate-sends-ai-agents-undercover-to-get-scammed-so",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+  "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+  "pubDate": "Wed, 14 Oct 2026 18:00:00 +0000",
+  "slides": [
+    "Apate sends AI agents to get scammed. What's the catch?",
+    "Agents pretend to be vulnerable to attract fraudsters.",
+    "Unlike honey pots, they extract actionable intelligence in real time.",
+    "You can now block scams before they reach your customers.",
+    "Test one scam scenario with your team this week."
+  ],
+  "thread_text": [
+    "1. The Trap That Bites Back\n\nApate uses AI agents that pose as easy targets. Fraudsters engage, but every move is logged and analyzed.",
+    "2. Bait That Thinks\n\nThese agents don't just wait—they actively lure scammers by mimicking vulnerable users. Real-time extraction turns the tables.",
+    "3. Beyond the Honeypot\n\nTraditional traps only observe. Apate's agents extract actionable intelligence instantly, turning each scam attempt into a data point.",
+    "4. Block Before They Reach You\n\nWith live threat intelligence, you can stop scams before they ever hit your customers' inboxes.",
+    "5. Test Your Defenses Now\n\nPick one scam scenario and run a simulation with your team this week. If you haven't, start there."
+  ],
+  "video_script": [
+    "Apate sends AI agents to get scammed.",
+    "They pretend to be vulnerable to attract fraudsters.",
+    "Unlike honey pots, they extract intelligence in real time.",
+    "Now you can block scams before they reach customers.",
+    "Test one scam scenario with your team this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Trap That Bites Back\n\nApate uses AI agents that pose as easy targets. Fraudsters engage, but every move is logged and analyzed.",
+        "2. Bait That Thinks\n\nThese agents don't just wait—they actively lure scammers by mimicking vulnerable users. Real-time extraction turns the tables.",
+        "3. Beyond the Honeypot\n\nTraditional traps only observe. Apate's agents extract actionable intelligence instantly, turning each scam attempt into a data point.",
+        "4. Block Before They Reach You\n\nWith live threat intelligence, you can stop scams before they ever hit your customers' inboxes.",
+        "5. Test Your Defenses Now\n\nPick one scam scenario and run a simulation with your team this week. If you haven't, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apate sends AI agents to get scammed.",
+        "They pretend to be vulnerable to attract fraudsters.",
+        "Unlike honey pots, they extract intelligence in real time.",
+        "Now you can block scams before they reach customers.",
+        "Test one scam scenario with your team this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Fraudsters can now be tricked into scamming an AI agent that logs every move.\n\nApate sends undercover agents posing as vulnerable users, pulling scammers into conversations they think are easy wins.\n\nUnlike old honeypots that just watch, these agents extract usable fraud intelligence in real time. 🕵️\n\nThat means you can block a scam before it reaches your customers' inboxes. 🛡️\n\nIf you run content or a community, scam attempts hitting your audience can be flagged and stopped earlier. ⚡\n\nPick one scam scenario and run it with your team this week — have you tested yours yet? 🤖"
+    }
+  },
+  "instagram_caption": "Fraudsters can now be tricked into scamming an AI agent that logs every move.\n\nApate sends undercover agents posing as vulnerable users, pulling scammers into conversations they think are easy wins.\n\nUnlike old honeypots that just watch, these agents extract usable fraud intelligence in real time. 🕵️\n\nThat means you can block a scam before it reaches your customers' inboxes. 🛡️\n\nIf you run content or a community, scam attempts hitting your audience can be flagged and stopped earlier. ⚡\n\nPick one scam scenario and run it with your team this week — have you tested yours yet? 🤖",
+  "carousel_slides": [
+    {
+      "hook": "What if AI could scam the scammers?",
+      "description": "Apate deploys undercover AI agents that pose as vulnerable targets, logging every fraudster move for real-time intelligence.",
+      "visual_hint": "AI robot face hidden in shadows",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot face"
+    },
+    {
+      "hook": "They pretend to be easy prey",
+      "description": "Agents mimic vulnerable users to actively lure scammers, turning each engagement into a live data extraction opportunity.",
+      "visual_hint": "Fake profile on smartphone screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Not just watching — extracting intelligence",
+      "description": "Unlike traditional honeypots that only observe, Apate's agents capture actionable fraud intelligence in real time, transforming every scam attempt into usable data.",
+      "visual_hint": "Data streams flowing into server",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Block scams before they reach customers",
+      "description": "Live threat intelligence from undercover agents lets you stop fraud before it ever hits your customers' inboxes.",
+      "visual_hint": "Shield blocking email icon",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "email inbox",
+      "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one scam scenario this week",
+      "description": "Pick a scam scenario and run a simulation with your team. Start now — save this post for later.",
+      "visual_hint": "Team meeting around laptop",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/6811e05224449e9b499b4916_apate_team-p-1600.webp?resize=1200,797",
+  "savedAt": "2026-10-14T19:51:49.729Z",
+  "sourceId": "ea05e081087d0ccf190ceed0282c01a9"
+}

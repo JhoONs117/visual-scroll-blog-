@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "cerebras-ceo-pushes-back-on-ai-doomsday-warnings",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Cerebras CEO pushes back on AI doomsday warnings",
+  "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+  "pubDate": "Tue, 13 Oct 2026 22:36:59 +0000",
+  "slides": [
+    "Cerebras CEO calls AI doomsday warnings a dangerous distraction?",
+    "The company builds the world's largest computer chip for AI.",
+    "Doomsday narratives often come from competitors with something to lose.",
+    "Ignore the hype and judge AI by real-world results.",
+    "Ask: who benefits from keeping you afraid?"
+  ],
+  "thread_text": [
+    "1. The CEO Who Built the Biggest Chip\n\nCerebras Systems created the world's largest AI processor — a wafer-scale engine. Its CEO now says doomsday warnings are a dangerous distraction.",
+    "2. Doomsday Warnings Come From Competitors\n\nWhen someone warns AI will kill us all, check who funds the warning. Often it's rivals who have a lot to lose if this technology wins.",
+    "3. Ignore the Hype, Judge Results\n\nReal-world benchmarks and deployed systems matter more than apocalyptic predictions. Look at what AI actually does, not what it might do.",
+    "4. Ask Who Benefits From Fear\n\nFear sells headlines and stokes regulation. If your competitor is afraid, maybe your product works. Follow the incentives.",
+    "5. Test It Yourself\n\nPick one AI tool you already use. Run a real task and measure the outcome. Then tell me: did it save time or just add noise?"
+  ],
+  "video_script": [
+    "Cerebras built the world's largest AI chip.",
+    "Their CEO says doomsday warnings are a distraction.",
+    "Competitors often spread fear because they have much to lose.",
+    "Ignore the hype and judge AI by real results.",
+    "Ask yourself: who benefits from keeping you afraid?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The CEO Who Built the Biggest Chip\n\nCerebras Systems created the world's largest AI processor — a wafer-scale engine. Its CEO now says doomsday warnings are a dangerous distraction.",
+        "2. Doomsday Warnings Come From Competitors\n\nWhen someone warns AI will kill us all, check who funds the warning. Often it's rivals who have a lot to lose if this technology wins.",
+        "3. Ignore the Hype, Judge Results\n\nReal-world benchmarks and deployed systems matter more than apocalyptic predictions. Look at what AI actually does, not what it might do.",
+        "4. Ask Who Benefits From Fear\n\nFear sells headlines and stokes regulation. If your competitor is afraid, maybe your product works. Follow the incentives.",
+        "5. Test It Yourself\n\nPick one AI tool you already use. Run a real task and measure the outcome. Then tell me: did it save time or just add noise?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Cerebras built the world's largest AI chip.",
+        "Their CEO says doomsday warnings are a distraction.",
+        "Competitors often spread fear because they have much to lose.",
+        "Ignore the hype and judge AI by real results.",
+        "Ask yourself: who benefits from keeping you afraid?"
+      ]
+    },
+    "instagram": {
+      "caption": "The world's largest AI chip isn't made by Nvidia. It's made by Cerebras, and its CEO says doomsday warnings are a dangerous distraction. 🧠\n\nHe points out that apocalyptic AI talk often comes from competitors with something to lose if the technology wins.\n\nIgnore the hype. Judge AI by real benchmarks and deployed systems, not predictions.\n\nIf you publish or create content, fear-driven headlines are being sold to you as news. Check who funds the warning before you share it. ⚠️\n\nPick one AI tool you already use, run a real task, measure the result. Did it save you time, or just add noise? 🔍\n\nWho benefits from keeping you afraid? 🤔"
+    }
+  },
+  "instagram_caption": "The world's largest AI chip isn't made by Nvidia. It's made by Cerebras, and its CEO says doomsday warnings are a dangerous distraction. 🧠\n\nHe points out that apocalyptic AI talk often comes from competitors with something to lose if the technology wins.\n\nIgnore the hype. Judge AI by real benchmarks and deployed systems, not predictions.\n\nIf you publish or create content, fear-driven headlines are being sold to you as news. Check who funds the warning before you share it. ⚠️\n\nPick one AI tool you already use, run a real task, measure the result. Did it save you time, or just add noise? 🔍\n\nWho benefits from keeping you afraid? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Who Profits From Your AI Fear?",
+      "description": "Cerebras CEO says doomsday warnings distract from real progress. Ask who benefits when you stay afraid of AI.",
+      "visual_hint": "Close-up of advanced computer chip",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer chip"
+    },
+    {
+      "hook": "The World's Largest AI Chip",
+      "description": "Cerebras built a wafer-scale processor for AI. Its CEO pushes back on doomsday warnings from competitors.",
+      "visual_hint": "Wafer-scale engine on display",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "semiconductor wafer",
+      "image": "https://images.pexels.com/photos/4432037/pexels-photo-4432037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Doomsday Warnings Come From Competitors",
+      "description": "When someone warns AI will kill us, check who funds the warning. Often rivals with a lot to lose.",
+      "visual_hint": "Corporate rivalry visual metaphor",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "business meeting",
+      "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Judge AI By Real Results",
+      "description": "Ignore apocalyptic hype. Real benchmarks and deployed systems matter more than predictions about what might happen.",
+      "visual_hint": "Hands testing AI tool",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "software testing",
+      "image": "https://images.pexels.com/photos/7858297/pexels-photo-7858297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save This: Test One AI Tool",
+      "description": "Pick an AI tool you use. Run a real task, measure the outcome. Did it save time or add noise?",
+      "visual_hint": "Person measuring task outcome",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stopwatch timer",
+      "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588036288_a416e1cb00_k.jpg?resize=1200,800",
+  "savedAt": "2026-10-14T19:52:13.134Z",
+  "sourceId": "ef5219e107b241737e36410758b94eff"
+}

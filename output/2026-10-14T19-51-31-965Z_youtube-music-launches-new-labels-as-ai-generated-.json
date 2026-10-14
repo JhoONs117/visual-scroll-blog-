@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "youtube-music-launches-new-labels-as-ai-generated-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+  "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+  "pubDate": "Wed, 14 Oct 2026 18:23:46 +0000",
+  "slides": [
+    "Can YouTube Music’s new labels stop AI music?",
+    "Labels will flag AI-generated tracks on the platform.",
+    "But the system relies on artists to self-disclose.",
+    "You’ll see badges—but hidden AI still thrives.",
+    "Check for labels, but don’t trust them blindly."
+  ],
+  "thread_text": [
+    "1. AI Music Gets Labels\n\nYouTube Music now flags AI-generated tracks, but artists must self-disclose. That leaves a loophole wide open.",
+    "2. Self-Reporting Problem\n\nThe system depends on creators admitting their songs are AI-made. No disclosure, no label.",
+    "3. Badges But No Barrier\n\nViewers see badges on disclosed tracks. Hidden AI tracks still slip through without any warning.",
+    "4. False Security Risk\n\nSeeing a badge might make you trust the platform. But absence of a badge doesn't mean human-made.",
+    "5. Check, Then Question\n\nNext time you stream, look for the label. Then ask yourself: can you really trust it? Test one track today."
+  ],
+  "video_script": [
+    "YouTube Music now labels AI-generated tracks.",
+    "But artists must admit their songs are AI.",
+    "Viewers see badges only on disclosed tracks.",
+    "Hidden AI music still thrives without labels.",
+    "Check for labels, but don't trust blindly."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Music Gets Labels\n\nYouTube Music now flags AI-generated tracks, but artists must self-disclose. That leaves a loophole wide open.",
+        "2. Self-Reporting Problem\n\nThe system depends on creators admitting their songs are AI-made. No disclosure, no label.",
+        "3. Badges But No Barrier\n\nViewers see badges on disclosed tracks. Hidden AI tracks still slip through without any warning.",
+        "4. False Security Risk\n\nSeeing a badge might make you trust the platform. But absence of a badge doesn't mean human-made.",
+        "5. Check, Then Question\n\nNext time you stream, look for the label. Then ask yourself: can you really trust it? Test one track today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "YouTube Music now labels AI-generated tracks.",
+        "But artists must admit their songs are AI.",
+        "Viewers see badges only on disclosed tracks.",
+        "Hidden AI music still thrives without labels.",
+        "Check for labels, but don't trust blindly."
+      ]
+    },
+    "instagram": {
+      "caption": "Artists have to volunteer that their music was made by AI — nobody checks for them.\n\nYouTube Music just added labels for AI-generated tracks. The system only works if the artist admits it. No confession, no label.\n\nSo a track can be fully AI-made and show zero badges, while you assume it's human.\n\nIf you publish music, your AI track stays unlabeled unless you flag it yourself. If you're a listener, that badge means less than it looks.\n\nOpen a song you trust right now. Is the label there — or just your assumption?"
+    }
+  },
+  "instagram_caption": "Artists have to volunteer that their music was made by AI — nobody checks for them.\n\nYouTube Music just added labels for AI-generated tracks. The system only works if the artist admits it. No confession, no label.\n\nSo a track can be fully AI-made and show zero badges, while you assume it's human.\n\nIf you publish music, your AI track stays unlabeled unless you flag it yourself. If you're a listener, that badge means less than it looks.\n\nOpen a song you trust right now. Is the label there — or just your assumption?",
+  "carousel_slides": [
+    {
+      "hook": "Can YouTube Music stop AI music?",
+      "description": "New labels flag AI-generated tracks, but artists must self-disclose. No disclosure means no label, leaving a loophole.",
+      "visual_hint": "Smartphone screen showing AI music label",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone music app"
+    },
+    {
+      "hook": "Labels flag AI, but self-reporting fails",
+      "description": "The system relies on creators admitting their songs are AI-made. Without honesty, no label appears.",
+      "visual_hint": "Creator uploading music on laptop",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "laptop music studio",
+      "image": "https://images.pexels.com/photos/7097859/pexels-photo-7097859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Badges show AI, but hidden tracks slip",
+      "description": "Viewers see badges on disclosed tracks. Hidden AI tracks still thrive without any warning.",
+      "visual_hint": "Streaming interface with warning badge",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "streaming service interface",
+      "image": "https://images.pexels.com/photos/24206770/pexels-photo-24206770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "False security: no badge isn't safe",
+      "description": "Seeing a badge might make you trust the platform. But absence of a badge doesn't mean human-made.",
+      "visual_hint": "User scrolling music playlist phone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person scrolling smartphone",
+      "image": "https://images.pexels.com/photos/17789086/pexels-photo-17789086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check labels, then question them",
+      "description": "Next time you stream, look for the label. Then ask yourself: can you really trust it?",
+      "visual_hint": "Hand pointing at AI badge",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hand pointing screen",
+      "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080",
+  "savedAt": "2026-10-14T19:51:40.865Z",
+  "sourceId": "5a63753fd6b2e27b938cc244c8805dd6"
+}
