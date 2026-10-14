@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "flox-intelligence-is-building-ai-to-keep-wildlife-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+  "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+  "pubDate": "Tue, 13 Oct 2026 18:30:00 +0000",
+  "slides": [
+    "Can Flox Intelligence stop wildlife killing trains?",
+    "Rail strikes kill thousands of animals yearly worldwide.",
+    "The AI predicts animal movement before it happens.",
+    "Airports and roads can deploy the same system now.",
+    "Ask your local transit agency if they use it."
+  ],
+  "thread_text": [
+    "1. AI vs. Wildlife\n\nThousands of animals are struck by trains every year, but a new AI called Flox Intelligence might predict their movements before they step onto the tracks.",
+    "2. Why It Matters\n\nRail strikes are a leading cause of wildlife mortality worldwide, often going unnoticed by the public and transit agencies alike.",
+    "3. How It Works\n\nFlox Intelligence uses machine learning to forecast animal paths in real time, giving trains a chance to slow down or stop in advance.",
+    "4. Beyond Railways\n\nAirports and highways face the same problem, and the same predictive system can be deployed there with minimal changes.",
+    "5. Your Move\n\nAsk your local transit agency if they're using Flox Intelligence or similar technology. If not, why not?"
+  ],
+  "video_script": [
+    "Trains kill thousands of animals every year.",
+    "Flox Intelligence predicts animal movement before it happens.",
+    "The same system can protect airports and roads.",
+    "Ask your transit agency if they use it.",
+    "Share this to spread the word."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI vs. Wildlife\n\nThousands of animals are struck by trains every year, but a new AI called Flox Intelligence might predict their movements before they step onto the tracks.",
+        "2. Why It Matters\n\nRail strikes are a leading cause of wildlife mortality worldwide, often going unnoticed by the public and transit agencies alike.",
+        "3. How It Works\n\nFlox Intelligence uses machine learning to forecast animal paths in real time, giving trains a chance to slow down or stop in advance.",
+        "4. Beyond Railways\n\nAirports and highways face the same problem, and the same predictive system can be deployed there with minimal changes.",
+        "5. Your Move\n\nAsk your local transit agency if they're using Flox Intelligence or similar technology. If not, why not?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Trains kill thousands of animals every year.",
+        "Flox Intelligence predicts animal movement before it happens.",
+        "The same system can protect airports and roads.",
+        "Ask your transit agency if they use it.",
+        "Share this to spread the word."
+      ]
+    },
+    "instagram": {
+      "caption": "Thousands of animals die on train tracks every year, and most transit agencies don't even track the number.\n\nFlox Intelligence built AI that predicts where wildlife will move before they reach the rails, giving trains time to slow down or stop. 🚆\n\nThe same system works at airports and on highways, no major changes needed.\n\nIf you make content about transport, environment, or tech, this is a concrete story you can localize: check whether your region's rail or road operator has tested anything like it. 🛤️\n\nAirports near you might already be using something similar without saying so. 🛫\n\nWould you ask your local transit agency if they use it — and would you publish their answer?"
+    }
+  },
+  "instagram_caption": "Thousands of animals die on train tracks every year, and most transit agencies don't even track the number.\n\nFlox Intelligence built AI that predicts where wildlife will move before they reach the rails, giving trains time to slow down or stop. 🚆\n\nThe same system works at airports and on highways, no major changes needed.\n\nIf you make content about transport, environment, or tech, this is a concrete story you can localize: check whether your region's rail or road operator has tested anything like it. 🛤️\n\nAirports near you might already be using something similar without saying so. 🛫\n\nWould you ask your local transit agency if they use it — and would you publish their answer?",
+  "carousel_slides": [
+    {
+      "hook": "AI predicts animal movement before it happens",
+      "description": "Flox Intelligence uses machine learning to forecast animal paths in real time, giving trains a chance to slow down or stop in advance.",
+      "visual_hint": "AI interface with animal tracks",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "AI wildlife"
+    },
+    {
+      "hook": "Rail strikes kill thousands of animals yearly",
+      "description": "Rail strikes are a leading cause of wildlife mortality worldwide, often going unnoticed by the public and transit agencies alike.",
+      "visual_hint": "Train tracks with warning sign",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "train tracks",
+      "image": "https://images.pexels.com/photos/40190584/pexels-photo-40190584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Can AI stop wildlife killing trains?",
+      "description": "Flox Intelligence's AI predicts animal movement, potentially preventing thousands of collisions on railways globally.",
+      "visual_hint": "Digital map with moving animal icons",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "animal crossing",
+      "image": "https://images.pexels.com/photos/8552697/pexels-photo-8552697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Airports and roads can deploy same system",
+      "description": "The same predictive AI can be adapted for airports and highways with minimal changes, enhancing safety in multiple sectors.",
+      "visual_hint": "Airport runway with wildlife fence",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "airport runway",
+      "image": "https://images.pexels.com/photos/17836434/pexels-photo-17836434.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your local transit agency if they use it",
+      "description": "Contact your local transit agency and ask if they're using Flox Intelligence or similar technology to prevent wildlife collisions.",
+      "visual_hint": "Person holding smartphone with transit app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "transit agency phone",
+      "image": "https://images.pexels.com/photos/12911887/pexels-photo-12911887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/founders-sara-tomas-full.jpg?w=828",
+  "savedAt": "2026-10-14T14:48:52.427Z",
+  "sourceId": "96dd09641f4c14e8f5c780c9c13ae73a"
+}

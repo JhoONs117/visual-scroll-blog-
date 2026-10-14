@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "scimplify-raises-25m-to-challenge-china-s-grip-on-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+  "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+  "pubDate": "Wed, 14 Oct 2026 11:00:00 +0000",
+  "slides": [
+    "Can Scimplify break China's grip on critical materials?",
+    "It just raised $25M to try the impossible.",
+    "AI isn't just for software—it's redesigning chemical plants.",
+    "If it works, supply chains for batteries shift overnight.",
+    "Watch who Scimplify hires next—that's the real signal."
+  ],
+  "thread_text": [
+    "1. The $25M Bet\n\nScimplify just raised $25M to break China's grip on critical materials, starting with rare earths. If it works, battery supply chains shift overnight.",
+    "2. AI's Next Frontier\n\nAI isn't just for software anymore. It's redesigning chemical plants—the physical infrastructure behind every battery and chip.",
+    "3. The Hiring Signal\n\nWatch who Scimplify hires next. Engineers from top chemical firms? That's the real proof they're serious, not just raising hype.",
+    "4. The Overnight Shift\n\nIf Scimplify's AI-designed plants work, battery supply chains could flip from China to the West in months, not decades. That's the twist.",
+    "5. Your Move\n\nCheck Scimplify's LinkedIn hires this week. If they're pulling from Dow or BASF, the game is already changing. What does that mean for your supply chain?"
+  ],
+  "video_script": [
+    "Scimplify raised 25 million to break China's rare earth grip.",
+    "AI is now redesigning chemical plants, not just software.",
+    "If it works, battery supply chains shift overnight.",
+    "Watch who they hire next—that's the real signal.",
+    "Check their hires this week. Does it affect your supply chain?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $25M Bet\n\nScimplify just raised $25M to break China's grip on critical materials, starting with rare earths. If it works, battery supply chains shift overnight.",
+        "2. AI's Next Frontier\n\nAI isn't just for software anymore. It's redesigning chemical plants—the physical infrastructure behind every battery and chip.",
+        "3. The Hiring Signal\n\nWatch who Scimplify hires next. Engineers from top chemical firms? That's the real proof they're serious, not just raising hype.",
+        "4. The Overnight Shift\n\nIf Scimplify's AI-designed plants work, battery supply chains could flip from China to the West in months, not decades. That's the twist.",
+        "5. Your Move\n\nCheck Scimplify's LinkedIn hires this week. If they're pulling from Dow or BASF, the game is already changing. What does that mean for your supply chain?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Scimplify raised 25 million to break China's rare earth grip.",
+        "AI is now redesigning chemical plants, not just software.",
+        "If it works, battery supply chains shift overnight.",
+        "Watch who they hire next—that's the real signal.",
+        "Check their hires this week. Does it affect your supply chain?"
+      ]
+    },
+    "instagram": {
+      "caption": "Rare earths for batteries and chips mostly come from China today. 😮\n\nScimplify just raised $25M to change that with AI that redesigns chemical plants. 🏭\n\nIt's not software—it's physical infrastructure, the stuff behind every battery. ⚡\n\nIf the plants work, supply chains shift in months, not decades.\n\nWatch who they hire next from Dow or BASF—that's the real proof.\n\nWhich part of your supply chain depends on materials you can't source locally? 🤔"
+    }
+  },
+  "instagram_caption": "Rare earths for batteries and chips mostly come from China today. 😮\n\nScimplify just raised $25M to change that with AI that redesigns chemical plants. 🏭\n\nIt's not software—it's physical infrastructure, the stuff behind every battery. ⚡\n\nIf the plants work, supply chains shift in months, not decades.\n\nWatch who they hire next from Dow or BASF—that's the real proof.\n\nWhich part of your supply chain depends on materials you can't source locally? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can AI break China's materials monopoly?",
+      "description": "Scimplify raised $25M to challenge China's grip on rare earths, starting with battery supply chains.",
+      "visual_hint": "AI brain over factory skyline",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "rare earth minerals"
+    },
+    {
+      "hook": "AI is redesigning chemical plants now",
+      "description": "AI isn't just software—it's rebuilding physical plants behind every battery and chip.",
+      "visual_hint": "Futuristic chemical plant interior",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "chemical plant",
+      "image": "https://images.pexels.com/photos/10490664/pexels-photo-10490664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Supply chains could flip overnight",
+      "description": "If Scimplify's AI-designed plants work, battery supply chains shift from China to the West in months.",
+      "visual_hint": "Global supply chain map shifting",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "supply chain map",
+      "image": "https://images.pexels.com/photos/31067412/pexels-photo-31067412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Watch who Scimplify hires next",
+      "description": "Engineers from Dow or BASF? That's the real signal they're serious, not just raising hype.",
+      "visual_hint": "LinkedIn profile with chemical engineer",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "engineer working factory",
+      "image": "https://images.pexels.com/photos/29988954/pexels-photo-29988954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: your supply chain is next",
+      "description": "Check Scimplify's LinkedIn hires this week. If they're from Dow or BASF, the game is changing.",
+      "visual_hint": "LinkedIn page with new hires",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "LinkedIn profile screen",
+      "image": "https://images.pexels.com/photos/15226555/pexels-photo-15226555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/scimplify-co-founder-sachin-santhosh.jpg?resize=1200,800",
+  "savedAt": "2026-10-14T14:48:32.776Z",
+  "sourceId": "7f10a36369ecef3768e0f58455e2ec44"
+}

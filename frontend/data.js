@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "xbox-is-officially-embracing-the-chaos-of-ai-power",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+    "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+    "pubDate": "2026-10-13T19:00:48.000Z",
+    "slides": [
+      "Xbox is officially embracing AI-powered game ports — why now?",
+      "Microsoft calls it 'AI-assisted' development for cross-platform titles",
+      "But this could mean games no one actually optimizes",
+      "Your favorite older titles may never get a proper manual port",
+      "Demand real quality, not just AI speed"
+    ],
+    "thread_text": [
+      "1. AI Ports Are Here\n\nMicrosoft is now using AI to bring Xbox games to other platforms. The first titles are already in testing.",
+      "2. AI-Assisted Development\n\nMicrosoft calls it 'AI-assisted' porting. The company says it speeds up cross-platform releases without manual rewrites.",
+      "3. No One Optimizes\n\nIf AI handles the port, who fixes the bugs? Developers may skip manual tuning, leaving games poorly optimized.",
+      "4. Older Games Left Behind\n\nClassic titles may never get a proper manual port. AI won't bother with games that need careful rework.",
+      "5. Demand Real Quality\n\nNext time you see an AI port, check the reviews. If it's broken, don't buy it. That's how you force real effort."
+    ],
+    "video_script": [
+      "Xbox is now using AI to port games.",
+      "Microsoft calls it AI-assisted development.",
+      "But that means no one might optimize them.",
+      "Your favorite old games may never get a real port.",
+      "Demand quality, not just speed. Check reviews first."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI Ports Are Here\n\nMicrosoft is now using AI to bring Xbox games to other platforms. The first titles are already in testing.",
+          "2. AI-Assisted Development\n\nMicrosoft calls it 'AI-assisted' porting. The company says it speeds up cross-platform releases without manual rewrites.",
+          "3. No One Optimizes\n\nIf AI handles the port, who fixes the bugs? Developers may skip manual tuning, leaving games poorly optimized.",
+          "4. Older Games Left Behind\n\nClassic titles may never get a proper manual port. AI won't bother with games that need careful rework.",
+          "5. Demand Real Quality\n\nNext time you see an AI port, check the reviews. If it's broken, don't buy it. That's how you force real effort."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Xbox is now using AI to port games.",
+          "Microsoft calls it AI-assisted development.",
+          "But that means no one might optimize them.",
+          "Your favorite old games may never get a real port.",
+          "Demand quality, not just speed. Check reviews first."
+        ]
+      },
+      "instagram": {
+        "caption": "Microsoft is already testing AI-made ports of Xbox games for other platforms.\n\nThe company calls it \"AI-assisted\" development, meaning no manual rewrites needed.\n\nThat speed could mean no one actually optimizes the final game.\n\nOlder titles that need careful rework may never get a proper manual port.\n\nIf you publish or mod games, expect rougher builds and more bugs to catch yourself.\n\nSo next time an AI port drops, check the reviews before buying. Would you skip it if it's broken? 🎮"
+      }
+    },
+    "instagram_caption": "Microsoft is already testing AI-made ports of Xbox games for other platforms.\n\nThe company calls it \"AI-assisted\" development, meaning no manual rewrites needed.\n\nThat speed could mean no one actually optimizes the final game.\n\nOlder titles that need careful rework may never get a proper manual port.\n\nIf you publish or mod games, expect rougher builds and more bugs to catch yourself.\n\nSo next time an AI port drops, check the reviews before buying. Would you skip it if it's broken? 🎮",
+    "carousel_slides": [
+      {
+        "hook": "AI ports are here. Should you worry?",
+        "description": "Microsoft is using AI to port Xbox games to other platforms. First titles are already in testing, raising quality concerns.",
+        "visual_hint": "Xbox console with AI circuit overlay",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Xbox console"
+      },
+      {
+        "hook": "Microsoft calls it 'AI-assisted' development",
+        "description": "The company claims AI speeds up cross-platform releases without manual rewrites, but skeptics question the results.",
+        "visual_hint": "Microsoft logo next to AI chip",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "Microsoft logo",
+        "image": "https://images.pexels.com/photos/9683980/pexels-photo-9683980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who fixes the bugs if AI ports?",
+        "description": "If AI handles the port, developers may skip manual tuning, leaving games poorly optimized and buggy.",
+        "visual_hint": "Glitchy game screen with error symbols",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer bug",
+        "image": "https://images.pexels.com/photos/27967453/pexels-photo-27967453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your favorite classics left behind?",
+        "description": "Older titles may never get a proper manual port because AI won't bother with games that need careful rework.",
+        "visual_hint": "Old game cartridge covered in dust",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "retro game cartridge",
+        "image": "https://images.pexels.com/photos/36790720/pexels-photo-36790720.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Demand real quality, not AI speed",
+        "description": "Next time you see an AI port, check reviews. If it's broken, don't buy it. Force real effort.",
+        "visual_hint": "Hand clicking one-star review button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "online review",
+        "image": "https://images.pexels.com/photos/12419502/pexels-photo-12419502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/XBOX-LABS-1.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "savedAt": "2026-10-14T14:49:02.235Z",
+    "sourceId": "8d2f4b6c365d89589dec0c91c20dacdd"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "flox-intelligence-is-building-ai-to-keep-wildlife-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+    "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+    "pubDate": "Tue, 13 Oct 2026 18:30:00 +0000",
+    "slides": [
+      "Can Flox Intelligence stop wildlife killing trains?",
+      "Rail strikes kill thousands of animals yearly worldwide.",
+      "The AI predicts animal movement before it happens.",
+      "Airports and roads can deploy the same system now.",
+      "Ask your local transit agency if they use it."
+    ],
+    "thread_text": [
+      "1. AI vs. Wildlife\n\nThousands of animals are struck by trains every year, but a new AI called Flox Intelligence might predict their movements before they step onto the tracks.",
+      "2. Why It Matters\n\nRail strikes are a leading cause of wildlife mortality worldwide, often going unnoticed by the public and transit agencies alike.",
+      "3. How It Works\n\nFlox Intelligence uses machine learning to forecast animal paths in real time, giving trains a chance to slow down or stop in advance.",
+      "4. Beyond Railways\n\nAirports and highways face the same problem, and the same predictive system can be deployed there with minimal changes.",
+      "5. Your Move\n\nAsk your local transit agency if they're using Flox Intelligence or similar technology. If not, why not?"
+    ],
+    "video_script": [
+      "Trains kill thousands of animals every year.",
+      "Flox Intelligence predicts animal movement before it happens.",
+      "The same system can protect airports and roads.",
+      "Ask your transit agency if they use it.",
+      "Share this to spread the word."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI vs. Wildlife\n\nThousands of animals are struck by trains every year, but a new AI called Flox Intelligence might predict their movements before they step onto the tracks.",
+          "2. Why It Matters\n\nRail strikes are a leading cause of wildlife mortality worldwide, often going unnoticed by the public and transit agencies alike.",
+          "3. How It Works\n\nFlox Intelligence uses machine learning to forecast animal paths in real time, giving trains a chance to slow down or stop in advance.",
+          "4. Beyond Railways\n\nAirports and highways face the same problem, and the same predictive system can be deployed there with minimal changes.",
+          "5. Your Move\n\nAsk your local transit agency if they're using Flox Intelligence or similar technology. If not, why not?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Trains kill thousands of animals every year.",
+          "Flox Intelligence predicts animal movement before it happens.",
+          "The same system can protect airports and roads.",
+          "Ask your transit agency if they use it.",
+          "Share this to spread the word."
+        ]
+      },
+      "instagram": {
+        "caption": "Thousands of animals die on train tracks every year, and most transit agencies don't even track the number.\n\nFlox Intelligence built AI that predicts where wildlife will move before they reach the rails, giving trains time to slow down or stop. 🚆\n\nThe same system works at airports and on highways, no major changes needed.\n\nIf you make content about transport, environment, or tech, this is a concrete story you can localize: check whether your region's rail or road operator has tested anything like it. 🛤️\n\nAirports near you might already be using something similar without saying so. 🛫\n\nWould you ask your local transit agency if they use it — and would you publish their answer?"
+      }
+    },
+    "instagram_caption": "Thousands of animals die on train tracks every year, and most transit agencies don't even track the number.\n\nFlox Intelligence built AI that predicts where wildlife will move before they reach the rails, giving trains time to slow down or stop. 🚆\n\nThe same system works at airports and on highways, no major changes needed.\n\nIf you make content about transport, environment, or tech, this is a concrete story you can localize: check whether your region's rail or road operator has tested anything like it. 🛤️\n\nAirports near you might already be using something similar without saying so. 🛫\n\nWould you ask your local transit agency if they use it — and would you publish their answer?",
+    "carousel_slides": [
+      {
+        "hook": "AI predicts animal movement before it happens",
+        "description": "Flox Intelligence uses machine learning to forecast animal paths in real time, giving trains a chance to slow down or stop in advance.",
+        "visual_hint": "AI interface with animal tracks",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "AI wildlife"
+      },
+      {
+        "hook": "Rail strikes kill thousands of animals yearly",
+        "description": "Rail strikes are a leading cause of wildlife mortality worldwide, often going unnoticed by the public and transit agencies alike.",
+        "visual_hint": "Train tracks with warning sign",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "train tracks",
+        "image": "https://images.pexels.com/photos/40190584/pexels-photo-40190584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Can AI stop wildlife killing trains?",
+        "description": "Flox Intelligence's AI predicts animal movement, potentially preventing thousands of collisions on railways globally.",
+        "visual_hint": "Digital map with moving animal icons",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "animal crossing",
+        "image": "https://images.pexels.com/photos/8552697/pexels-photo-8552697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Airports and roads can deploy same system",
+        "description": "The same predictive AI can be adapted for airports and highways with minimal changes, enhancing safety in multiple sectors.",
+        "visual_hint": "Airport runway with wildlife fence",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "airport runway",
+        "image": "https://images.pexels.com/photos/17836434/pexels-photo-17836434.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask your local transit agency if they use it",
+        "description": "Contact your local transit agency and ask if they're using Flox Intelligence or similar technology to prevent wildlife collisions.",
+        "visual_hint": "Person holding smartphone with transit app",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "transit agency phone",
+        "image": "https://images.pexels.com/photos/12911887/pexels-photo-12911887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/founders-sara-tomas-full.jpg?w=828",
+    "savedAt": "2026-10-14T14:48:52.427Z",
+    "sourceId": "96dd09641f4c14e8f5c780c9c13ae73a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "cerebras-ceo-says-we-re-nearing-a-future-where-eve",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+    "pubDate": "Tue, 13 Oct 2026 23:05:34 +0000",
+    "slides": [
+      "Cerebras CEO: Your personal AI assistant is closer than you think.",
+      "The key is ultra-fast chips that process data in memory.",
+      "But don't expect privacy—your assistant may need to share data.",
+      "Your next home device could learn your habits without cloud delays.",
+      "Start planning for on-device AI; it will change daily routines."
+    ],
+    "thread_text": [
+      "1. Your AI, No Cloud\n\nCerebras CEO says your personal AI assistant is closer than you think, powered by chips that process data in memory.",
+      "2. Ultra-Fast Chips\n\nThe secret is on-chip memory that eliminates cloud delays, so your assistant responds instantly.",
+      "3. Privacy Trade-Off\n\nBut don't expect privacy—your assistant may need to share your data to learn and improve.",
+      "4. Home Devices Learn\n\nYour next home device could pick up your habits without sending everything to the cloud.",
+      "5. Get Ready Now\n\nStart planning for on-device AI today. How will you adapt your daily routine when it arrives?"
+    ],
+    "video_script": [
+      "Your personal AI assistant is closer than you think.",
+      "Ultra-fast chips process data in memory, no cloud delays.",
+      "But privacy? Your assistant may need to share data.",
+      "Your next home device could learn your habits locally.",
+      "Start planning for on-device AI in daily routines."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your AI, No Cloud\n\nCerebras CEO says your personal AI assistant is closer than you think, powered by chips that process data in memory.",
+          "2. Ultra-Fast Chips\n\nThe secret is on-chip memory that eliminates cloud delays, so your assistant responds instantly.",
+          "3. Privacy Trade-Off\n\nBut don't expect privacy—your assistant may need to share your data to learn and improve.",
+          "4. Home Devices Learn\n\nYour next home device could pick up your habits without sending everything to the cloud.",
+          "5. Get Ready Now\n\nStart planning for on-device AI today. How will you adapt your daily routine when it arrives?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your personal AI assistant is closer than you think.",
+          "Ultra-fast chips process data in memory, no cloud delays.",
+          "But privacy? Your assistant may need to share data.",
+          "Your next home device could learn your habits locally.",
+          "Start planning for on-device AI in daily routines."
+        ]
+      },
+      "instagram": {
+        "caption": "Your next home device might learn your habits without ever hitting the cloud.\n\nCerebras' CEO says a personal AI assistant at home is closer than you think. It runs on chips that process data in memory, so there's no cloud delay.\n\nThe catch: your assistant may need to share your data to learn and improve, so privacy isn't guaranteed. 🤖\n\nIf you write or publish, this shifts how you'll draft, edit, and schedule—on-device tools reacting in real time. ⚡\n\nWhat's the first daily routine you'd hand off to a home assistant? 🏠"
+      }
+    },
+    "instagram_caption": "Your next home device might learn your habits without ever hitting the cloud.\n\nCerebras' CEO says a personal AI assistant at home is closer than you think. It runs on chips that process data in memory, so there's no cloud delay.\n\nThe catch: your assistant may need to share your data to learn and improve, so privacy isn't guaranteed. 🤖\n\nIf you write or publish, this shifts how you'll draft, edit, and schedule—on-device tools reacting in real time. ⚡\n\nWhat's the first daily routine you'd hand off to a home assistant? 🏠",
+    "carousel_slides": [
+      {
+        "hook": "Is Your AI Assistant Spying On You?",
+        "description": "Cerebras CEO says personal AI assistants are near, but privacy may be sacrificed as they learn from shared data.",
+        "visual_hint": "Glowing chip with data streams",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer chip"
+      },
+      {
+        "hook": "Ultra-Fast Chips Kill Cloud Delays",
+        "description": "On-chip memory processes data instantly, eliminating cloud latency for seamless AI assistant responses.",
+        "visual_hint": "Close-up of microchip circuits",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "microchip processor",
+        "image": "https://images.pexels.com/photos/2582935/pexels-photo-2582935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Privacy Is The Price You Pay",
+        "description": "Your assistant may need to share your data to improve, so expect less privacy in exchange for convenience.",
+        "visual_hint": "Lock with data streams leaking",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data privacy",
+        "image": "https://images.pexels.com/photos/5474301/pexels-photo-5474301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your Home Device Learns Without Cloud",
+        "description": "Next-gen home devices pick up your habits locally, avoiding cloud uploads and delays.",
+        "visual_hint": "Smart speaker on table",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "smart speaker",
+        "image": "https://images.pexels.com/photos/1279107/pexels-photo-1279107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save This: On-Device AI Is Coming",
+        "description": "Start planning now for on-device AI. How will you adapt your daily routine when it arrives?",
+        "visual_hint": "Person using AI assistant",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person using tablet",
+        "image": "https://images.pexels.com/photos/5592759/pexels-photo-5592759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588036568_e00e978a62_k.jpg?resize=1200,800",
+    "savedAt": "2026-10-14T14:48:42.448Z",
+    "sourceId": "b982fab38e0cdceb68d9ffe382618acd"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "scimplify-raises-25m-to-challenge-china-s-grip-on-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+    "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+    "pubDate": "Wed, 14 Oct 2026 11:00:00 +0000",
+    "slides": [
+      "Can Scimplify break China's grip on critical materials?",
+      "It just raised $25M to try the impossible.",
+      "AI isn't just for software—it's redesigning chemical plants.",
+      "If it works, supply chains for batteries shift overnight.",
+      "Watch who Scimplify hires next—that's the real signal."
+    ],
+    "thread_text": [
+      "1. The $25M Bet\n\nScimplify just raised $25M to break China's grip on critical materials, starting with rare earths. If it works, battery supply chains shift overnight.",
+      "2. AI's Next Frontier\n\nAI isn't just for software anymore. It's redesigning chemical plants—the physical infrastructure behind every battery and chip.",
+      "3. The Hiring Signal\n\nWatch who Scimplify hires next. Engineers from top chemical firms? That's the real proof they're serious, not just raising hype.",
+      "4. The Overnight Shift\n\nIf Scimplify's AI-designed plants work, battery supply chains could flip from China to the West in months, not decades. That's the twist.",
+      "5. Your Move\n\nCheck Scimplify's LinkedIn hires this week. If they're pulling from Dow or BASF, the game is already changing. What does that mean for your supply chain?"
+    ],
+    "video_script": [
+      "Scimplify raised 25 million to break China's rare earth grip.",
+      "AI is now redesigning chemical plants, not just software.",
+      "If it works, battery supply chains shift overnight.",
+      "Watch who they hire next—that's the real signal.",
+      "Check their hires this week. Does it affect your supply chain?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $25M Bet\n\nScimplify just raised $25M to break China's grip on critical materials, starting with rare earths. If it works, battery supply chains shift overnight.",
+          "2. AI's Next Frontier\n\nAI isn't just for software anymore. It's redesigning chemical plants—the physical infrastructure behind every battery and chip.",
+          "3. The Hiring Signal\n\nWatch who Scimplify hires next. Engineers from top chemical firms? That's the real proof they're serious, not just raising hype.",
+          "4. The Overnight Shift\n\nIf Scimplify's AI-designed plants work, battery supply chains could flip from China to the West in months, not decades. That's the twist.",
+          "5. Your Move\n\nCheck Scimplify's LinkedIn hires this week. If they're pulling from Dow or BASF, the game is already changing. What does that mean for your supply chain?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Scimplify raised 25 million to break China's rare earth grip.",
+          "AI is now redesigning chemical plants, not just software.",
+          "If it works, battery supply chains shift overnight.",
+          "Watch who they hire next—that's the real signal.",
+          "Check their hires this week. Does it affect your supply chain?"
+        ]
+      },
+      "instagram": {
+        "caption": "Rare earths for batteries and chips mostly come from China today. 😮\n\nScimplify just raised $25M to change that with AI that redesigns chemical plants. 🏭\n\nIt's not software—it's physical infrastructure, the stuff behind every battery. ⚡\n\nIf the plants work, supply chains shift in months, not decades.\n\nWatch who they hire next from Dow or BASF—that's the real proof.\n\nWhich part of your supply chain depends on materials you can't source locally? 🤔"
+      }
+    },
+    "instagram_caption": "Rare earths for batteries and chips mostly come from China today. 😮\n\nScimplify just raised $25M to change that with AI that redesigns chemical plants. 🏭\n\nIt's not software—it's physical infrastructure, the stuff behind every battery. ⚡\n\nIf the plants work, supply chains shift in months, not decades.\n\nWatch who they hire next from Dow or BASF—that's the real proof.\n\nWhich part of your supply chain depends on materials you can't source locally? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Can AI break China's materials monopoly?",
+        "description": "Scimplify raised $25M to challenge China's grip on rare earths, starting with battery supply chains.",
+        "visual_hint": "AI brain over factory skyline",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "rare earth minerals"
+      },
+      {
+        "hook": "AI is redesigning chemical plants now",
+        "description": "AI isn't just software—it's rebuilding physical plants behind every battery and chip.",
+        "visual_hint": "Futuristic chemical plant interior",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "chemical plant",
+        "image": "https://images.pexels.com/photos/10490664/pexels-photo-10490664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Supply chains could flip overnight",
+        "description": "If Scimplify's AI-designed plants work, battery supply chains shift from China to the West in months.",
+        "visual_hint": "Global supply chain map shifting",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "supply chain map",
+        "image": "https://images.pexels.com/photos/31067412/pexels-photo-31067412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Watch who Scimplify hires next",
+        "description": "Engineers from Dow or BASF? That's the real signal they're serious, not just raising hype.",
+        "visual_hint": "LinkedIn profile with chemical engineer",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "engineer working factory",
+        "image": "https://images.pexels.com/photos/29988954/pexels-photo-29988954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: your supply chain is next",
+        "description": "Check Scimplify's LinkedIn hires this week. If they're from Dow or BASF, the game is changing.",
+        "visual_hint": "LinkedIn page with new hires",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "LinkedIn profile screen",
+        "image": "https://images.pexels.com/photos/15226555/pexels-photo-15226555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/scimplify-co-founder-sachin-santhosh.jpg?resize=1200,800",
+    "savedAt": "2026-10-14T14:48:32.776Z",
+    "sourceId": "7f10a36369ecef3768e0f58455e2ec44"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "shopify-opens-its-catalog-up-to-more-ai-agents",
     "prompt_version": "1.0.0",
     "status": "published",

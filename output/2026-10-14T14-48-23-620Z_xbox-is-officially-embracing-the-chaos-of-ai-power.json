@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "xbox-is-officially-embracing-the-chaos-of-ai-power",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+  "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+  "pubDate": "2026-10-13T19:00:48.000Z",
+  "slides": [
+    "Xbox is officially embracing AI-powered game ports — why now?",
+    "Microsoft calls it 'AI-assisted' development for cross-platform titles",
+    "But this could mean games no one actually optimizes",
+    "Your favorite older titles may never get a proper manual port",
+    "Demand real quality, not just AI speed"
+  ],
+  "thread_text": [
+    "1. AI Ports Are Here\n\nMicrosoft is now using AI to bring Xbox games to other platforms. The first titles are already in testing.",
+    "2. AI-Assisted Development\n\nMicrosoft calls it 'AI-assisted' porting. The company says it speeds up cross-platform releases without manual rewrites.",
+    "3. No One Optimizes\n\nIf AI handles the port, who fixes the bugs? Developers may skip manual tuning, leaving games poorly optimized.",
+    "4. Older Games Left Behind\n\nClassic titles may never get a proper manual port. AI won't bother with games that need careful rework.",
+    "5. Demand Real Quality\n\nNext time you see an AI port, check the reviews. If it's broken, don't buy it. That's how you force real effort."
+  ],
+  "video_script": [
+    "Xbox is now using AI to port games.",
+    "Microsoft calls it AI-assisted development.",
+    "But that means no one might optimize them.",
+    "Your favorite old games may never get a real port.",
+    "Demand quality, not just speed. Check reviews first."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Ports Are Here\n\nMicrosoft is now using AI to bring Xbox games to other platforms. The first titles are already in testing.",
+        "2. AI-Assisted Development\n\nMicrosoft calls it 'AI-assisted' porting. The company says it speeds up cross-platform releases without manual rewrites.",
+        "3. No One Optimizes\n\nIf AI handles the port, who fixes the bugs? Developers may skip manual tuning, leaving games poorly optimized.",
+        "4. Older Games Left Behind\n\nClassic titles may never get a proper manual port. AI won't bother with games that need careful rework.",
+        "5. Demand Real Quality\n\nNext time you see an AI port, check the reviews. If it's broken, don't buy it. That's how you force real effort."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Xbox is now using AI to port games.",
+        "Microsoft calls it AI-assisted development.",
+        "But that means no one might optimize them.",
+        "Your favorite old games may never get a real port.",
+        "Demand quality, not just speed. Check reviews first."
+      ]
+    },
+    "instagram": {
+      "caption": "Microsoft is already testing AI-made ports of Xbox games for other platforms.\n\nThe company calls it \"AI-assisted\" development, meaning no manual rewrites needed.\n\nThat speed could mean no one actually optimizes the final game.\n\nOlder titles that need careful rework may never get a proper manual port.\n\nIf you publish or mod games, expect rougher builds and more bugs to catch yourself.\n\nSo next time an AI port drops, check the reviews before buying. Would you skip it if it's broken? 🎮"
+    }
+  },
+  "instagram_caption": "Microsoft is already testing AI-made ports of Xbox games for other platforms.\n\nThe company calls it \"AI-assisted\" development, meaning no manual rewrites needed.\n\nThat speed could mean no one actually optimizes the final game.\n\nOlder titles that need careful rework may never get a proper manual port.\n\nIf you publish or mod games, expect rougher builds and more bugs to catch yourself.\n\nSo next time an AI port drops, check the reviews before buying. Would you skip it if it's broken? 🎮",
+  "carousel_slides": [
+    {
+      "hook": "AI ports are here. Should you worry?",
+      "description": "Microsoft is using AI to port Xbox games to other platforms. First titles are already in testing, raising quality concerns.",
+      "visual_hint": "Xbox console with AI circuit overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Xbox console"
+    },
+    {
+      "hook": "Microsoft calls it 'AI-assisted' development",
+      "description": "The company claims AI speeds up cross-platform releases without manual rewrites, but skeptics question the results.",
+      "visual_hint": "Microsoft logo next to AI chip",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "Microsoft logo",
+      "image": "https://images.pexels.com/photos/9683980/pexels-photo-9683980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who fixes the bugs if AI ports?",
+      "description": "If AI handles the port, developers may skip manual tuning, leaving games poorly optimized and buggy.",
+      "visual_hint": "Glitchy game screen with error symbols",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer bug",
+      "image": "https://images.pexels.com/photos/27967453/pexels-photo-27967453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your favorite classics left behind?",
+      "description": "Older titles may never get a proper manual port because AI won't bother with games that need careful rework.",
+      "visual_hint": "Old game cartridge covered in dust",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "retro game cartridge",
+      "image": "https://images.pexels.com/photos/36790720/pexels-photo-36790720.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demand real quality, not AI speed",
+      "description": "Next time you see an AI port, check reviews. If it's broken, don't buy it. Force real effort.",
+      "visual_hint": "Hand clicking one-star review button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "online review",
+      "image": "https://images.pexels.com/photos/12419502/pexels-photo-12419502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/XBOX-LABS-1.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+  "savedAt": "2026-10-14T14:49:02.235Z",
+  "sourceId": "8d2f4b6c365d89589dec0c91c20dacdd"
+}

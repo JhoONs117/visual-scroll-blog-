@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "cerebras-ceo-says-we-re-nearing-a-future-where-eve",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+  "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+  "pubDate": "Tue, 13 Oct 2026 23:05:34 +0000",
+  "slides": [
+    "Cerebras CEO: Your personal AI assistant is closer than you think.",
+    "The key is ultra-fast chips that process data in memory.",
+    "But don't expect privacy—your assistant may need to share data.",
+    "Your next home device could learn your habits without cloud delays.",
+    "Start planning for on-device AI; it will change daily routines."
+  ],
+  "thread_text": [
+    "1. Your AI, No Cloud\n\nCerebras CEO says your personal AI assistant is closer than you think, powered by chips that process data in memory.",
+    "2. Ultra-Fast Chips\n\nThe secret is on-chip memory that eliminates cloud delays, so your assistant responds instantly.",
+    "3. Privacy Trade-Off\n\nBut don't expect privacy—your assistant may need to share your data to learn and improve.",
+    "4. Home Devices Learn\n\nYour next home device could pick up your habits without sending everything to the cloud.",
+    "5. Get Ready Now\n\nStart planning for on-device AI today. How will you adapt your daily routine when it arrives?"
+  ],
+  "video_script": [
+    "Your personal AI assistant is closer than you think.",
+    "Ultra-fast chips process data in memory, no cloud delays.",
+    "But privacy? Your assistant may need to share data.",
+    "Your next home device could learn your habits locally.",
+    "Start planning for on-device AI in daily routines."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your AI, No Cloud\n\nCerebras CEO says your personal AI assistant is closer than you think, powered by chips that process data in memory.",
+        "2. Ultra-Fast Chips\n\nThe secret is on-chip memory that eliminates cloud delays, so your assistant responds instantly.",
+        "3. Privacy Trade-Off\n\nBut don't expect privacy—your assistant may need to share your data to learn and improve.",
+        "4. Home Devices Learn\n\nYour next home device could pick up your habits without sending everything to the cloud.",
+        "5. Get Ready Now\n\nStart planning for on-device AI today. How will you adapt your daily routine when it arrives?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your personal AI assistant is closer than you think.",
+        "Ultra-fast chips process data in memory, no cloud delays.",
+        "But privacy? Your assistant may need to share data.",
+        "Your next home device could learn your habits locally.",
+        "Start planning for on-device AI in daily routines."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next home device might learn your habits without ever hitting the cloud.\n\nCerebras' CEO says a personal AI assistant at home is closer than you think. It runs on chips that process data in memory, so there's no cloud delay.\n\nThe catch: your assistant may need to share your data to learn and improve, so privacy isn't guaranteed. 🤖\n\nIf you write or publish, this shifts how you'll draft, edit, and schedule—on-device tools reacting in real time. ⚡\n\nWhat's the first daily routine you'd hand off to a home assistant? 🏠"
+    }
+  },
+  "instagram_caption": "Your next home device might learn your habits without ever hitting the cloud.\n\nCerebras' CEO says a personal AI assistant at home is closer than you think. It runs on chips that process data in memory, so there's no cloud delay.\n\nThe catch: your assistant may need to share your data to learn and improve, so privacy isn't guaranteed. 🤖\n\nIf you write or publish, this shifts how you'll draft, edit, and schedule—on-device tools reacting in real time. ⚡\n\nWhat's the first daily routine you'd hand off to a home assistant? 🏠",
+  "carousel_slides": [
+    {
+      "hook": "Is Your AI Assistant Spying On You?",
+      "description": "Cerebras CEO says personal AI assistants are near, but privacy may be sacrificed as they learn from shared data.",
+      "visual_hint": "Glowing chip with data streams",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer chip"
+    },
+    {
+      "hook": "Ultra-Fast Chips Kill Cloud Delays",
+      "description": "On-chip memory processes data instantly, eliminating cloud latency for seamless AI assistant responses.",
+      "visual_hint": "Close-up of microchip circuits",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "microchip processor",
+      "image": "https://images.pexels.com/photos/2582935/pexels-photo-2582935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Privacy Is The Price You Pay",
+      "description": "Your assistant may need to share your data to improve, so expect less privacy in exchange for convenience.",
+      "visual_hint": "Lock with data streams leaking",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data privacy",
+      "image": "https://images.pexels.com/photos/5474301/pexels-photo-5474301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your Home Device Learns Without Cloud",
+      "description": "Next-gen home devices pick up your habits locally, avoiding cloud uploads and delays.",
+      "visual_hint": "Smart speaker on table",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smart speaker",
+      "image": "https://images.pexels.com/photos/1279107/pexels-photo-1279107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save This: On-Device AI Is Coming",
+      "description": "Start planning now for on-device AI. How will you adapt your daily routine when it arrives?",
+      "visual_hint": "Person using AI assistant",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person using tablet",
+      "image": "https://images.pexels.com/photos/5592759/pexels-photo-5592759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588036568_e00e978a62_k.jpg?resize=1200,800",
+  "savedAt": "2026-10-14T14:48:42.448Z",
+  "sourceId": "b982fab38e0cdceb68d9ffe382618acd"
+}
