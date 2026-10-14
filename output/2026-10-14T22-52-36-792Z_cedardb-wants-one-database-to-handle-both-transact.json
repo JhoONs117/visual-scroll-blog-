@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "cedardb-wants-one-database-to-handle-both-transact",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+  "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+  "pubDate": "Wed, 14 Oct 2026 22:00:00 +0000",
+  "slides": [
+    "CedarDB handles transactions and analytics together. But can it survive AI agents?",
+    "AI agents query databases differently, mixing reads and writes unpredictably.",
+    "CedarDB's secret is a unified engine that treats both workloads equally.",
+    "You can run analytics on live transactional data without copying it.",
+    "Test your next analytics query directly on production — carefully."
+  ],
+  "thread_text": [
+    "1. AI Agents vs. CedarDB\n\nCedarDB claims to handle transactions and analytics in one engine. But AI agents don't query like humans — they mix reads and writes unpredictably. Can it keep up?",
+    "2. The Real Problem\n\nAI agents don't follow the usual read-then-write pattern. They jump between selecting and inserting without warning, breaking the assumptions databases were built on.",
+    "3. One Engine, Two Workloads\n\nCedarDB's unified engine treats transactional and analytical queries the same. No separate systems, no copying data between them. That's how it survives the chaos.",
+    "4. Live Data, No Copies\n\nYou can run analytics directly on live transactional data. No ETL, no stale snapshots. Agents get real-time answers without moving a byte.",
+    "5. Try It, Carefully\n\nTake your next analytics query and run it on production — just watch the load. Does your database handle mixed workloads without falling over? Test it this week."
+  ],
+  "video_script": [
+    "CedarDB handles transactions and analytics in one engine.",
+    "AI agents mix reads and writes unpredictably.",
+    "A unified engine treats both workloads equally.",
+    "Run analytics on live data without copying it.",
+    "Test your next query on production carefully."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Agents vs. CedarDB\n\nCedarDB claims to handle transactions and analytics in one engine. But AI agents don't query like humans — they mix reads and writes unpredictably. Can it keep up?",
+        "2. The Real Problem\n\nAI agents don't follow the usual read-then-write pattern. They jump between selecting and inserting without warning, breaking the assumptions databases were built on.",
+        "3. One Engine, Two Workloads\n\nCedarDB's unified engine treats transactional and analytical queries the same. No separate systems, no copying data between them. That's how it survives the chaos.",
+        "4. Live Data, No Copies\n\nYou can run analytics directly on live transactional data. No ETL, no stale snapshots. Agents get real-time answers without moving a byte.",
+        "5. Try It, Carefully\n\nTake your next analytics query and run it on production — just watch the load. Does your database handle mixed workloads without falling over? Test it this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "CedarDB handles transactions and analytics in one engine.",
+        "AI agents mix reads and writes unpredictably.",
+        "A unified engine treats both workloads equally.",
+        "Run analytics on live data without copying it.",
+        "Test your next query on production carefully."
+      ]
+    },
+    "instagram": {
+      "caption": "AI agents don't read then write. They jump between selecting and inserting with no warning, breaking how databases were built.\n\nCedarDB runs transactions and analytics in one engine instead of two separate systems. No copying data, no ETL, no stale snapshots. 🧠\n\nThat means analytics can run directly on live transactional data, even while agents query the same tables. ⚡\n\nIf your pipeline still moves data between systems before analyzing it, this architecture is worth a look before your agents get heavier. 🛠️\n\nWould you dare run your next analytics query on production — or does your database fall over first? 👀"
+    }
+  },
+  "instagram_caption": "AI agents don't read then write. They jump between selecting and inserting with no warning, breaking how databases were built.\n\nCedarDB runs transactions and analytics in one engine instead of two separate systems. No copying data, no ETL, no stale snapshots. 🧠\n\nThat means analytics can run directly on live transactional data, even while agents query the same tables. ⚡\n\nIf your pipeline still moves data between systems before analyzing it, this architecture is worth a look before your agents get heavier. 🛠️\n\nWould you dare run your next analytics query on production — or does your database fall over first? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Can one database survive AI agents?",
+      "description": "CedarDB merges transactions and analytics in one engine, but AI agents mix reads and writes unpredictably. Can it keep up?",
+      "visual_hint": "AI agent interacting with database interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "AI agents break old database rules",
+      "description": "They jump between selecting and inserting without warning, shattering the read-then-write assumptions databases were built on.",
+      "visual_hint": "Chaotic data flow between nodes",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One engine treats both workloads equally",
+      "description": "CedarDB's unified engine handles transactional and analytical queries the same—no separate systems, no data copying between them.",
+      "visual_hint": "Unified engine processing dual workloads",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "engine machine",
+      "image": "https://images.pexels.com/photos/7565159/pexels-photo-7565159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Run analytics on live data, no copies",
+      "description": "Query live transactional data directly for real-time insights—no ETL, no stale snapshots, no moving a single byte.",
+      "visual_hint": "Live data streams into analytics dashboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands typing keyboard",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test mixed workloads on production now",
+      "description": "Take your next analytics query and run it on production—watch the load. Save this post and try it this week.",
+      "visual_hint": "Production server with load monitor",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "server rack",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/CedarDB-Founders-Moritz-Sichert-Lukas-Vogel-Philipp-Fent-Dominik-Durner-and-Christian-Winter.png?resize=1200,933",
+  "savedAt": "2026-10-14T22:52:46.415Z",
+  "sourceId": "8fcf6c6c5f5eb0e2ac312f3ce11a23f0"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "eight-states-sue-openai-saying-chatgpt-isn-8217-t-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+  "pubDate": "2026-10-14T21:11:28.000Z",
+  "slides": [
+    "What if ChatGPT's child safety promises are a lie?",
+    "Eight states have now filed lawsuits against OpenAI.",
+    "Internal documents show it disabled a safety filter, allegedly.",
+    "If you're building with ChatGPT, legal risk just spiked.",
+    "Audit your AI features for underage users before regulators do."
+  ],
+  "thread_text": [
+    "1. The Safety Filter They Killed\n\nInternal documents allegedly show OpenAI disabled a child safety filter right before ChatGPT exploded. Eight states are now suing over it.",
+    "2. The Whistleblower Files\n\nThe documents surfaced through discovery, not leaks. They suggest the company knew the risk and shipped anyway.",
+    "3. Eight States, One Target\n\nAttorneys general from eight states coordinated their filings. That's not a complaint — that's a pattern.",
+    "4. If You Build On It\n\nYour product inherits the liability. Developers integrating ChatGPT now face exposure they didn't sign up for.",
+    "5. Check Your Underage Users\n\nRun an audit on your AI features today. If minors can access them, you have a problem before regulators find it."
+  ],
+  "video_script": [
+    "What if ChatGPT's child safety promises are a lie?",
+    "Eight states just sued OpenAI over internal safety documents.",
+    "Those documents allegedly show a safety filter was disabled.",
+    "If you build with ChatGPT, your legal risk just spiked.",
+    "Audit your AI features for underage users before regulators do."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Safety Filter They Killed\n\nInternal documents allegedly show OpenAI disabled a child safety filter right before ChatGPT exploded. Eight states are now suing over it.",
+        "2. The Whistleblower Files\n\nThe documents surfaced through discovery, not leaks. They suggest the company knew the risk and shipped anyway.",
+        "3. Eight States, One Target\n\nAttorneys general from eight states coordinated their filings. That's not a complaint — that's a pattern.",
+        "4. If You Build On It\n\nYour product inherits the liability. Developers integrating ChatGPT now face exposure they didn't sign up for.",
+        "5. Check Your Underage Users\n\nRun an audit on your AI features today. If minors can access them, you have a problem before regulators find it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "What if ChatGPT's child safety promises are a lie?",
+        "Eight states just sued OpenAI over internal safety documents.",
+        "Those documents allegedly show a safety filter was disabled.",
+        "If you build with ChatGPT, your legal risk just spiked.",
+        "Audit your AI features for underage users before regulators do."
+      ]
+    },
+    "instagram": {
+      "caption": "Attorneys general from eight states are suing OpenAI over ChatGPT's safety for minors.\n\nInternal documents allegedly show the company disabled a child safety filter right before launch. The filings came through discovery, not leaks — suggesting the risk was known. 😳\n\nIf you build with ChatGPT, your product inherits that liability. ⚠️\n\nRun an audit on your AI features now. 🛠️\n\nIf minors can access your tool, are you ready for regulators to check? 🔍"
+    }
+  },
+  "instagram_caption": "Attorneys general from eight states are suing OpenAI over ChatGPT's safety for minors.\n\nInternal documents allegedly show the company disabled a child safety filter right before launch. The filings came through discovery, not leaks — suggesting the risk was known. 😳\n\nIf you build with ChatGPT, your product inherits that liability. ⚠️\n\nRun an audit on your AI features now. 🛠️\n\nIf minors can access your tool, are you ready for regulators to check? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Did OpenAI kill a child safety filter?",
+      "description": "Internal documents allegedly show OpenAI disabled a child safety filter before ChatGPT's explosive growth. Eight states are now suing.",
+      "visual_hint": "Glowing server rack with warning overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Eight states, one coordinated target",
+      "description": "Attorneys general from eight states filed lawsuits against OpenAI, signaling a pattern of regulatory action, not isolated complaints.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Map of US with eight highlighted states",
+      "image_query": "united states map",
+      "image": "https://images.pexels.com/photos/4640883/pexels-photo-4640883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Whistleblower files surfaced through discovery",
+      "description": "Documents obtained via legal discovery suggest OpenAI knew the child safety risk and shipped ChatGPT anyway.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Legal documents stacked on desk",
+      "image_query": "legal documents",
+      "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your product inherits OpenAI's liability",
+      "description": "Developers integrating ChatGPT face legal exposure they didn't sign up for, as child safety lawsuits expand.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hand typing on laptop keyboard",
+      "image_query": "laptop keyboard",
+      "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your AI for underage users now",
+      "description": "Run an audit on your AI features today. If minors can access them, fix it before regulators find out. Save this post.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Checklist with AI audit items",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-14T22:53:08.807Z",
+  "sourceId": "b72f25cbab4b4e5b46ce75c54eee772a"
+}

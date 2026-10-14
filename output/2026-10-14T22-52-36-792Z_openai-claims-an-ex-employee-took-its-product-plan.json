@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-claims-an-ex-employee-took-its-product-plan",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+  "pubDate": "2026-10-14T16:43:24.000Z",
+  "slides": [
+    "OpenAI says an ex-employee walked out with product plans",
+    "Those plans reportedly went straight to Apple",
+    "The employee went to Apple before resigning?",
+    "Your vendor roadmaps may already be visible",
+    "Check who owns strategy docs Monday morning"
+  ],
+  "thread_text": [
+    "1. The silent exit\n\nAn OpenAI employee allegedly walked out with product plans — and handed them to Apple. No lawsuit, no public statement. Just a quiet transfer of strategy.",
+    "2. The timing doesn't add up\n\nReports suggest the employee was already in talks with Apple before resigning. That changes this from a leak to a planned handoff.",
+    "3. Your roadmap isn't private\n\nVendor strategy docs are often accessible to anyone with the right permissions. If one person can copy them, so can others.",
+    "4. The real risk isn't theft\n\nIt's that you won't know until a competitor ships the feature you were planning for next quarter.",
+    "5. Check your access logs\n\nOpen your document history today. See who viewed your strategy deck in the last 30 days. If you can't, that's your answer."
+  ],
+  "video_script": [
+    "An OpenAI employee allegedly took product plans to Apple.",
+    "The employee reportedly talked to Apple before resigning.",
+    "That means it wasn't a leak — it was a handoff.",
+    "Your vendor roadmaps might already be visible to others.",
+    "Check who owns your strategy docs this Monday morning."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The silent exit\n\nAn OpenAI employee allegedly walked out with product plans — and handed them to Apple. No lawsuit, no public statement. Just a quiet transfer of strategy.",
+        "2. The timing doesn't add up\n\nReports suggest the employee was already in talks with Apple before resigning. That changes this from a leak to a planned handoff.",
+        "3. Your roadmap isn't private\n\nVendor strategy docs are often accessible to anyone with the right permissions. If one person can copy them, so can others.",
+        "4. The real risk isn't theft\n\nIt's that you won't know until a competitor ships the feature you were planning for next quarter.",
+        "5. Check your access logs\n\nOpen your document history today. See who viewed your strategy deck in the last 30 days. If you can't, that's your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "An OpenAI employee allegedly took product plans to Apple.",
+        "The employee reportedly talked to Apple before resigning.",
+        "That means it wasn't a leak — it was a handoff.",
+        "Your vendor roadmaps might already be visible to others.",
+        "Check who owns your strategy docs this Monday morning."
+      ]
+    },
+    "instagram": {
+      "caption": "An OpenAI employee allegedly walked out with product plans and handed them to Apple. 🚨\n\nThe employee was reportedly already talking to Apple before resigning.\n\nThat's not a leak. That's a planned handoff.\n\nYour vendor roadmap isn't private either. If one person can copy your strategy docs, so can anyone with the right permissions.\n\nYou won't find out until a competitor ships the feature you had planned for next quarter. 📉\n\nOpen your document history today. 🔍\n\nWho viewed your strategy deck in the last 30 days? 👀\n\nIf you can't see that, you already have your answer."
+    }
+  },
+  "instagram_caption": "An OpenAI employee allegedly walked out with product plans and handed them to Apple. 🚨\n\nThe employee was reportedly already talking to Apple before resigning.\n\nThat's not a leak. That's a planned handoff.\n\nYour vendor roadmap isn't private either. If one person can copy your strategy docs, so can anyone with the right permissions.\n\nYou won't find out until a competitor ships the feature you had planned for next quarter. 📉\n\nOpen your document history today. 🔍\n\nWho viewed your strategy deck in the last 30 days? 👀\n\nIf you can't see that, you already have your answer.",
+  "carousel_slides": [
+    {
+      "hook": "Was Apple in talks before resignation?",
+      "description": "Reports suggest the OpenAI employee negotiated with Apple before quitting, turning an alleged leak into a planned handoff.",
+      "visual_hint": "Handshake across blurred office desks",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "office handshake meeting"
+    },
+    {
+      "hook": "Your roadmap is not private",
+      "description": "Vendor strategy docs stay accessible to anyone with permissions, so a single copy can expose next quarter's plans.",
+      "visual_hint": "Glowing laptop showing confidential folder",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "laptop screen documents",
+      "image": "https://images.pexels.com/photos/8036339/pexels-photo-8036339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The quietest risk is delayed discovery",
+      "description": "You may not learn about the exposure until a competitor ships the exact feature you planned for next quarter.",
+      "visual_hint": "Timeline with crossing competitor flags",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One copy is all it takes",
+      "description": "If a single person can copy your strategy docs, anyone with similar access can do the same without warning.",
+      "visual_hint": "USB drive beside printed strategy pages",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "usb flash drive",
+      "image": "https://images.pexels.com/photos/4792751/pexels-photo-4792751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your access logs Monday morning",
+      "description": "Open your document history now and see who viewed your strategy deck in the last 30 days.",
+      "visual_hint": "Calendar and audit log screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "server room access",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-14T22:53:17.754Z",
+  "sourceId": "bbf21dc9263f95170b3c1f312aaae0a3"
+}

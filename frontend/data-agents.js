@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-claims-an-ex-employee-took-its-product-plan",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+      "pubDate": "2026-10-14T16:43:24.000Z",
+      "slides": [
+        "OpenAI says an ex-employee walked out with product plans",
+        "Those plans reportedly went straight to Apple",
+        "The employee went to Apple before resigning?",
+        "Your vendor roadmaps may already be visible",
+        "Check who owns strategy docs Monday morning"
+      ],
+      "thread_text": [
+        "1. The silent exit\n\nAn OpenAI employee allegedly walked out with product plans — and handed them to Apple. No lawsuit, no public statement. Just a quiet transfer of strategy.",
+        "2. The timing doesn't add up\n\nReports suggest the employee was already in talks with Apple before resigning. That changes this from a leak to a planned handoff.",
+        "3. Your roadmap isn't private\n\nVendor strategy docs are often accessible to anyone with the right permissions. If one person can copy them, so can others.",
+        "4. The real risk isn't theft\n\nIt's that you won't know until a competitor ships the feature you were planning for next quarter.",
+        "5. Check your access logs\n\nOpen your document history today. See who viewed your strategy deck in the last 30 days. If you can't, that's your answer."
+      ],
+      "video_script": [
+        "An OpenAI employee allegedly took product plans to Apple.",
+        "The employee reportedly talked to Apple before resigning.",
+        "That means it wasn't a leak — it was a handoff.",
+        "Your vendor roadmaps might already be visible to others.",
+        "Check who owns your strategy docs this Monday morning."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The silent exit\n\nAn OpenAI employee allegedly walked out with product plans — and handed them to Apple. No lawsuit, no public statement. Just a quiet transfer of strategy.",
+            "2. The timing doesn't add up\n\nReports suggest the employee was already in talks with Apple before resigning. That changes this from a leak to a planned handoff.",
+            "3. Your roadmap isn't private\n\nVendor strategy docs are often accessible to anyone with the right permissions. If one person can copy them, so can others.",
+            "4. The real risk isn't theft\n\nIt's that you won't know until a competitor ships the feature you were planning for next quarter.",
+            "5. Check your access logs\n\nOpen your document history today. See who viewed your strategy deck in the last 30 days. If you can't, that's your answer."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "An OpenAI employee allegedly took product plans to Apple.",
+            "The employee reportedly talked to Apple before resigning.",
+            "That means it wasn't a leak — it was a handoff.",
+            "Your vendor roadmaps might already be visible to others.",
+            "Check who owns your strategy docs this Monday morning."
+          ]
+        },
+        "instagram": {
+          "caption": "An OpenAI employee allegedly walked out with product plans and handed them to Apple. 🚨\n\nThe employee was reportedly already talking to Apple before resigning.\n\nThat's not a leak. That's a planned handoff.\n\nYour vendor roadmap isn't private either. If one person can copy your strategy docs, so can anyone with the right permissions.\n\nYou won't find out until a competitor ships the feature you had planned for next quarter. 📉\n\nOpen your document history today. 🔍\n\nWho viewed your strategy deck in the last 30 days? 👀\n\nIf you can't see that, you already have your answer."
+        }
+      },
+      "instagram_caption": "An OpenAI employee allegedly walked out with product plans and handed them to Apple. 🚨\n\nThe employee was reportedly already talking to Apple before resigning.\n\nThat's not a leak. That's a planned handoff.\n\nYour vendor roadmap isn't private either. If one person can copy your strategy docs, so can anyone with the right permissions.\n\nYou won't find out until a competitor ships the feature you had planned for next quarter. 📉\n\nOpen your document history today. 🔍\n\nWho viewed your strategy deck in the last 30 days? 👀\n\nIf you can't see that, you already have your answer.",
+      "carousel_slides": [
+        {
+          "hook": "Was Apple in talks before resignation?",
+          "description": "Reports suggest the OpenAI employee negotiated with Apple before quitting, turning an alleged leak into a planned handoff.",
+          "visual_hint": "Handshake across blurred office desks",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "office handshake meeting"
+        },
+        {
+          "hook": "Your roadmap is not private",
+          "description": "Vendor strategy docs stay accessible to anyone with permissions, so a single copy can expose next quarter's plans.",
+          "visual_hint": "Glowing laptop showing confidential folder",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "laptop screen documents",
+          "image": "https://images.pexels.com/photos/8036339/pexels-photo-8036339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The quietest risk is delayed discovery",
+          "description": "You may not learn about the exposure until a competitor ships the exact feature you planned for next quarter.",
+          "visual_hint": "Timeline with crossing competitor flags",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One copy is all it takes",
+          "description": "If a single person can copy your strategy docs, anyone with similar access can do the same without warning.",
+          "visual_hint": "USB drive beside printed strategy pages",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "usb flash drive",
+          "image": "https://images.pexels.com/photos/4792751/pexels-photo-4792751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your access logs Monday morning",
+          "description": "Open your document history now and see who viewed your strategy deck in the last 30 days.",
+          "visual_hint": "Calendar and audit log screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "server room access",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-14T22:53:17.754Z",
+      "sourceId": "bbf21dc9263f95170b3c1f312aaae0a3"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "eight-states-sue-openai-saying-chatgpt-isn-8217-t-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "pubDate": "2026-10-14T21:11:28.000Z",
+      "slides": [
+        "What if ChatGPT's child safety promises are a lie?",
+        "Eight states have now filed lawsuits against OpenAI.",
+        "Internal documents show it disabled a safety filter, allegedly.",
+        "If you're building with ChatGPT, legal risk just spiked.",
+        "Audit your AI features for underage users before regulators do."
+      ],
+      "thread_text": [
+        "1. The Safety Filter They Killed\n\nInternal documents allegedly show OpenAI disabled a child safety filter right before ChatGPT exploded. Eight states are now suing over it.",
+        "2. The Whistleblower Files\n\nThe documents surfaced through discovery, not leaks. They suggest the company knew the risk and shipped anyway.",
+        "3. Eight States, One Target\n\nAttorneys general from eight states coordinated their filings. That's not a complaint — that's a pattern.",
+        "4. If You Build On It\n\nYour product inherits the liability. Developers integrating ChatGPT now face exposure they didn't sign up for.",
+        "5. Check Your Underage Users\n\nRun an audit on your AI features today. If minors can access them, you have a problem before regulators find it."
+      ],
+      "video_script": [
+        "What if ChatGPT's child safety promises are a lie?",
+        "Eight states just sued OpenAI over internal safety documents.",
+        "Those documents allegedly show a safety filter was disabled.",
+        "If you build with ChatGPT, your legal risk just spiked.",
+        "Audit your AI features for underage users before regulators do."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Safety Filter They Killed\n\nInternal documents allegedly show OpenAI disabled a child safety filter right before ChatGPT exploded. Eight states are now suing over it.",
+            "2. The Whistleblower Files\n\nThe documents surfaced through discovery, not leaks. They suggest the company knew the risk and shipped anyway.",
+            "3. Eight States, One Target\n\nAttorneys general from eight states coordinated their filings. That's not a complaint — that's a pattern.",
+            "4. If You Build On It\n\nYour product inherits the liability. Developers integrating ChatGPT now face exposure they didn't sign up for.",
+            "5. Check Your Underage Users\n\nRun an audit on your AI features today. If minors can access them, you have a problem before regulators find it."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "What if ChatGPT's child safety promises are a lie?",
+            "Eight states just sued OpenAI over internal safety documents.",
+            "Those documents allegedly show a safety filter was disabled.",
+            "If you build with ChatGPT, your legal risk just spiked.",
+            "Audit your AI features for underage users before regulators do."
+          ]
+        },
+        "instagram": {
+          "caption": "Attorneys general from eight states are suing OpenAI over ChatGPT's safety for minors.\n\nInternal documents allegedly show the company disabled a child safety filter right before launch. The filings came through discovery, not leaks — suggesting the risk was known. 😳\n\nIf you build with ChatGPT, your product inherits that liability. ⚠️\n\nRun an audit on your AI features now. 🛠️\n\nIf minors can access your tool, are you ready for regulators to check? 🔍"
+        }
+      },
+      "instagram_caption": "Attorneys general from eight states are suing OpenAI over ChatGPT's safety for minors.\n\nInternal documents allegedly show the company disabled a child safety filter right before launch. The filings came through discovery, not leaks — suggesting the risk was known. 😳\n\nIf you build with ChatGPT, your product inherits that liability. ⚠️\n\nRun an audit on your AI features now. 🛠️\n\nIf minors can access your tool, are you ready for regulators to check? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Did OpenAI kill a child safety filter?",
+          "description": "Internal documents allegedly show OpenAI disabled a child safety filter before ChatGPT's explosive growth. Eight states are now suing.",
+          "visual_hint": "Glowing server rack with warning overlay",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Eight states, one coordinated target",
+          "description": "Attorneys general from eight states filed lawsuits against OpenAI, signaling a pattern of regulatory action, not isolated complaints.",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "visual_hint": "Map of US with eight highlighted states",
+          "image_query": "united states map",
+          "image": "https://images.pexels.com/photos/4640883/pexels-photo-4640883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Whistleblower files surfaced through discovery",
+          "description": "Documents obtained via legal discovery suggest OpenAI knew the child safety risk and shipped ChatGPT anyway.",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "visual_hint": "Legal documents stacked on desk",
+          "image_query": "legal documents",
+          "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your product inherits OpenAI's liability",
+          "description": "Developers integrating ChatGPT face legal exposure they didn't sign up for, as child safety lawsuits expand.",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "visual_hint": "Hand typing on laptop keyboard",
+          "image_query": "laptop keyboard",
+          "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your AI for underage users now",
+          "description": "Run an audit on your AI features today. If minors can access them, fix it before regulators find out. Save this post.",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "visual_hint": "Checklist with AI audit items",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-14T22:53:08.807Z",
+      "sourceId": "b72f25cbab4b4e5b46ce75c54eee772a"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "floqer-s-ai-agents-research-sales-prospects-so-tea",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "pubDate": "Wed, 14 Oct 2026 15:00:00 +0000",
+      "slides": [
+        "Floqer’s AI agents research sales prospects for you—but what’s the catch?",
+        "They automate the tedious data gathering that sales teams hate.",
+        "Yet they uncover hidden buying signals humans might miss.",
+        "Your team can focus on closing deals, not digging for info.",
+        "Try Floqer’s agents on your next prospect list today."
+      ],
+      "thread_text": [
+        "1. The hidden catch\n\nFloqer's agents scrape data and flag buying signals automatically. That sounds like a win—until you see what they miss.",
+        "2. Data drones\n\nEach agent researches one prospect at a time. It replaces hours of manual tabs but can't judge context or intent.",
+        "3. Signals you'd miss\n\nThey surface triggers like funding news or job posts. But you still need a human to decide if the timing is real.",
+        "4. Closing vs. digging\n\nFree your team from info hunting. Yet if the agent's data is wrong, you're pitching to ghosts.",
+        "5. Test on one list\n\nRun Floqer on five prospects today. If it doesn't save you editing time, skip it."
+      ],
+      "video_script": [
+        "Floqer's agents automate sales prospect research fast.",
+        "They find buying signals humans often miss entirely.",
+        "But agent-gathered data can be wrong or stale.",
+        "Your team closes deals while agents dig for info.",
+        "Try it on one list and check the output."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The hidden catch\n\nFloqer's agents scrape data and flag buying signals automatically. That sounds like a win—until you see what they miss.",
+            "2. Data drones\n\nEach agent researches one prospect at a time. It replaces hours of manual tabs but can't judge context or intent.",
+            "3. Signals you'd miss\n\nThey surface triggers like funding news or job posts. But you still need a human to decide if the timing is real.",
+            "4. Closing vs. digging\n\nFree your team from info hunting. Yet if the agent's data is wrong, you're pitching to ghosts.",
+            "5. Test on one list\n\nRun Floqer on five prospects today. If it doesn't save you editing time, skip it."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Floqer's agents automate sales prospect research fast.",
+            "They find buying signals humans often miss entirely.",
+            "But agent-gathered data can be wrong or stale.",
+            "Your team closes deals while agents dig for info.",
+            "Try it on one list and check the output."
+          ]
+        },
+        "instagram": {
+          "caption": "Sales teams spend hours digging through job posts and funding news just to figure out who's worth calling. Floqer's AI agents now do that research for them, one prospect at a time.\n\nThey scrape the data and flag buying signals like new hires or fresh funding. 🔍 But they can't judge intent or context.\n\nIf the data is wrong, you're pitching to ghosts. 👻 Your team still has to verify before closing.\n\nSo you get hours back from manual tab-hopping. ⏱️ But someone on your team still owns the judgment call.\n\nWould you trust an agent's signal enough to skip your own research on a five-prospect test list? 🤔"
+        }
+      },
+      "instagram_caption": "Sales teams spend hours digging through job posts and funding news just to figure out who's worth calling. Floqer's AI agents now do that research for them, one prospect at a time.\n\nThey scrape the data and flag buying signals like new hires or fresh funding. 🔍 But they can't judge intent or context.\n\nIf the data is wrong, you're pitching to ghosts. 👻 Your team still has to verify before closing.\n\nSo you get hours back from manual tab-hopping. ⏱️ But someone on your team still owns the judgment call.\n\nWould you trust an agent's signal enough to skip your own research on a five-prospect test list? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "AI agents might miss the real signals",
+          "description": "Floqer's agents flag buying signals, but only humans can judge context and intent.",
+          "visual_hint": "Floating digital signals over blurred office",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "digital data screen"
+        },
+        {
+          "hook": "Data drones automate the boring research",
+          "description": "Each agent researches one prospect at a time, replacing hours of manual tab switching.",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "visual_hint": "Robot arm sorting documents on desk",
+          "image_query": "office desk computer",
+          "image": "https://images.pexels.com/photos/22711217/pexels-photo-22711217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Human judgment still beats AI timing",
+          "description": "They surface funding news and job posts, but you need a human to decide if timing is real.",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "visual_hint": "Magnifying glass over stock chart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Wrong data means pitching to ghosts",
+          "description": "Your team can stop digging for info, but if the agent's data is wrong, deals vanish.",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "visual_hint": "Business handshake with fading ghost effect",
+          "image_query": "business handshake",
+          "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test on five prospects. Save or skip.",
+          "description": "Run Floqer on five prospects today. If it doesn't save editing time, skip it.",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "visual_hint": "Checklist with five prospect names checked",
+          "image_query": "checklist paper",
+          "image": "https://images.pexels.com/photos/6928997/pexels-photo-6928997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
+      "savedAt": "2026-10-14T22:52:56.104Z",
+      "sourceId": "25b16452fb4e1cda14d51811cbcb89c7"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "cedardb-wants-one-database-to-handle-both-transact",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+      "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+      "pubDate": "Wed, 14 Oct 2026 22:00:00 +0000",
+      "slides": [
+        "CedarDB handles transactions and analytics together. But can it survive AI agents?",
+        "AI agents query databases differently, mixing reads and writes unpredictably.",
+        "CedarDB's secret is a unified engine that treats both workloads equally.",
+        "You can run analytics on live transactional data without copying it.",
+        "Test your next analytics query directly on production — carefully."
+      ],
+      "thread_text": [
+        "1. AI Agents vs. CedarDB\n\nCedarDB claims to handle transactions and analytics in one engine. But AI agents don't query like humans — they mix reads and writes unpredictably. Can it keep up?",
+        "2. The Real Problem\n\nAI agents don't follow the usual read-then-write pattern. They jump between selecting and inserting without warning, breaking the assumptions databases were built on.",
+        "3. One Engine, Two Workloads\n\nCedarDB's unified engine treats transactional and analytical queries the same. No separate systems, no copying data between them. That's how it survives the chaos.",
+        "4. Live Data, No Copies\n\nYou can run analytics directly on live transactional data. No ETL, no stale snapshots. Agents get real-time answers without moving a byte.",
+        "5. Try It, Carefully\n\nTake your next analytics query and run it on production — just watch the load. Does your database handle mixed workloads without falling over? Test it this week."
+      ],
+      "video_script": [
+        "CedarDB handles transactions and analytics in one engine.",
+        "AI agents mix reads and writes unpredictably.",
+        "A unified engine treats both workloads equally.",
+        "Run analytics on live data without copying it.",
+        "Test your next query on production carefully."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI Agents vs. CedarDB\n\nCedarDB claims to handle transactions and analytics in one engine. But AI agents don't query like humans — they mix reads and writes unpredictably. Can it keep up?",
+            "2. The Real Problem\n\nAI agents don't follow the usual read-then-write pattern. They jump between selecting and inserting without warning, breaking the assumptions databases were built on.",
+            "3. One Engine, Two Workloads\n\nCedarDB's unified engine treats transactional and analytical queries the same. No separate systems, no copying data between them. That's how it survives the chaos.",
+            "4. Live Data, No Copies\n\nYou can run analytics directly on live transactional data. No ETL, no stale snapshots. Agents get real-time answers without moving a byte.",
+            "5. Try It, Carefully\n\nTake your next analytics query and run it on production — just watch the load. Does your database handle mixed workloads without falling over? Test it this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "CedarDB handles transactions and analytics in one engine.",
+            "AI agents mix reads and writes unpredictably.",
+            "A unified engine treats both workloads equally.",
+            "Run analytics on live data without copying it.",
+            "Test your next query on production carefully."
+          ]
+        },
+        "instagram": {
+          "caption": "AI agents don't read then write. They jump between selecting and inserting with no warning, breaking how databases were built.\n\nCedarDB runs transactions and analytics in one engine instead of two separate systems. No copying data, no ETL, no stale snapshots. 🧠\n\nThat means analytics can run directly on live transactional data, even while agents query the same tables. ⚡\n\nIf your pipeline still moves data between systems before analyzing it, this architecture is worth a look before your agents get heavier. 🛠️\n\nWould you dare run your next analytics query on production — or does your database fall over first? 👀"
+        }
+      },
+      "instagram_caption": "AI agents don't read then write. They jump between selecting and inserting with no warning, breaking how databases were built.\n\nCedarDB runs transactions and analytics in one engine instead of two separate systems. No copying data, no ETL, no stale snapshots. 🧠\n\nThat means analytics can run directly on live transactional data, even while agents query the same tables. ⚡\n\nIf your pipeline still moves data between systems before analyzing it, this architecture is worth a look before your agents get heavier. 🛠️\n\nWould you dare run your next analytics query on production — or does your database fall over first? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Can one database survive AI agents?",
+          "description": "CedarDB merges transactions and analytics in one engine, but AI agents mix reads and writes unpredictably. Can it keep up?",
+          "visual_hint": "AI agent interacting with database interface",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "AI agents break old database rules",
+          "description": "They jump between selecting and inserting without warning, shattering the read-then-write assumptions databases were built on.",
+          "visual_hint": "Chaotic data flow between nodes",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One engine treats both workloads equally",
+          "description": "CedarDB's unified engine handles transactional and analytical queries the same—no separate systems, no data copying between them.",
+          "visual_hint": "Unified engine processing dual workloads",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "engine machine",
+          "image": "https://images.pexels.com/photos/7565159/pexels-photo-7565159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Run analytics on live data, no copies",
+          "description": "Query live transactional data directly for real-time insights—no ETL, no stale snapshots, no moving a single byte.",
+          "visual_hint": "Live data streams into analytics dashboard",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hands typing keyboard",
+          "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test mixed workloads on production now",
+          "description": "Take your next analytics query and run it on production—watch the load. Save this post and try it this week.",
+          "visual_hint": "Production server with load monitor",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "server rack",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/CedarDB-Founders-Moritz-Sichert-Lukas-Vogel-Philipp-Fent-Dominik-Durner-and-Christian-Winter.png?resize=1200,933",
+      "savedAt": "2026-10-14T22:52:46.415Z",
+      "sourceId": "8fcf6c6c5f5eb0e2ac312f3ce11a23f0"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "cerebras-ceo-pushes-back-on-ai-doomsday-warnings",
       "prompt_version": "1.0.0",
       "status": "published",
