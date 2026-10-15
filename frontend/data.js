@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "ambani-s-jio-seeks-to-raise-3-2b-in-what-could-be-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+    "link": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+    "pubDate": "Wed, 14 Oct 2026 21:48:20 +0000",
+    "slides": [
+      "Ambani's Jio wants $3.2B in India's biggest IPO—will it succeed?",
+      "India's largest telecom operator by subscribers, with over 450 million users.",
+      "But the IPO comes amid fierce competition and regulatory scrutiny.",
+      "Retail investors can apply next month; minimum lot size may be announced.",
+      "Watch for pricing and subscription dates to decide your move."
+    ],
+    "thread_text": [
+      "1. Jio's $3.2B IPO: Will It Succeed?\n\nIndia's largest telecom operator by subscribers, with over 450 million users, is going public. But the road ahead is far from smooth.",
+      "2. 450 Million Users, One Big Question\n\nThat subscriber base makes Jio the undisputed leader in India. Yet the IPO arrives amid fierce competition and regulatory scrutiny.",
+      "3. The Competition Is Brutal\n\nRivals are slashing prices and innovating fast. Jio must prove it can keep growing while fending off challengers.",
+      "4. Regulatory Scrutiny Looms\n\nAuthorities are watching Jio's market power closely. Any misstep could delay or derail the offering.",
+      "5. Your Move: Watch the Dates\n\nRetail investors can apply next month, but the minimum lot size isn't announced yet. Track pricing and subscription dates—then decide if it's worth your money."
+    ],
+    "video_script": [
+      "Jio, India's biggest telecom with 450 million users, wants 3.2 billion dollars.",
+      "But competition is fierce and regulators are watching closely.",
+      "The IPO opens to retail investors next month.",
+      "Minimum lot size? Not announced yet.",
+      "Watch pricing and subscription dates to decide your move."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Jio's $3.2B IPO: Will It Succeed?\n\nIndia's largest telecom operator by subscribers, with over 450 million users, is going public. But the road ahead is far from smooth.",
+          "2. 450 Million Users, One Big Question\n\nThat subscriber base makes Jio the undisputed leader in India. Yet the IPO arrives amid fierce competition and regulatory scrutiny.",
+          "3. The Competition Is Brutal\n\nRivals are slashing prices and innovating fast. Jio must prove it can keep growing while fending off challengers.",
+          "4. Regulatory Scrutiny Looms\n\nAuthorities are watching Jio's market power closely. Any misstep could delay or derail the offering.",
+          "5. Your Move: Watch the Dates\n\nRetail investors can apply next month, but the minimum lot size isn't announced yet. Track pricing and subscription dates—then decide if it's worth your money."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Jio, India's biggest telecom with 450 million users, wants 3.2 billion dollars.",
+          "But competition is fierce and regulators are watching closely.",
+          "The IPO opens to retail investors next month.",
+          "Minimum lot size? Not announced yet.",
+          "Watch pricing and subscription dates to decide your move."
+        ]
+      },
+      "instagram": {
+        "caption": "450 million people already use this network, and now it wants your money.\n\nJio, India's biggest telecom operator, is raising $3.2B in what could be the country's largest-ever IPO.\n\nThe catch: competition is brutal and regulators are watching its market power closely. 📡\n\nRetail investors can apply next month, but the minimum lot size hasn't been announced yet, so you can't budget your entry.\n\nIf you invest or follow markets, watch the pricing and subscription dates before committing a single rupee.\n\nWould you put money into an IPO this size, or wait for the listing dust to settle? 🤔"
+      }
+    },
+    "instagram_caption": "450 million people already use this network, and now it wants your money.\n\nJio, India's biggest telecom operator, is raising $3.2B in what could be the country's largest-ever IPO.\n\nThe catch: competition is brutal and regulators are watching its market power closely. 📡\n\nRetail investors can apply next month, but the minimum lot size hasn't been announced yet, so you can't budget your entry.\n\nIf you invest or follow markets, watch the pricing and subscription dates before committing a single rupee.\n\nWould you put money into an IPO this size, or wait for the listing dust to settle? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Will Jio's $3.2B IPO deliver or disappoint?",
+        "description": "Retail investors can apply next month, but fierce competition and regulatory scrutiny could derail India's biggest IPO.",
+        "visual_hint": "Stock exchange building with digital ticker",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "450 million users: India's undisputed telecom leader",
+        "description": "Jio dominates with over 450 million subscribers, but going public means proving growth amid brutal price wars.",
+        "visual_hint": "Crowd using smartphones in India",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone crowd",
+        "image": "https://images.pexels.com/photos/35068932/pexels-photo-35068932.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Competition is slashing prices—can Jio keep up?",
+        "description": "Rivals are cutting prices and innovating fast, forcing Jio to defend its market share while preparing for the IPO.",
+        "visual_hint": "Price war graph with falling lines",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "telecom tower",
+        "image": "https://images.pexels.com/photos/35097894/pexels-photo-35097894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Regulators are watching Jio's every move",
+        "description": "Authorities scrutinize Jio's market power; any misstep could delay or derail the offering, affecting retail applicants.",
+        "visual_hint": "Gavel and legal documents on desk",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "courtroom gavel",
+        "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: track pricing and subscription dates",
+        "description": "Minimum lot size isn't announced yet. Follow official updates and decide if Jio's IPO fits your portfolio.",
+        "visual_hint": "Calendar with IPO dates marked",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calendar deadline",
+        "image": "https://images.pexels.com/photos/8962466/pexels-photo-8962466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1227124564.jpg?resize=1200,800",
+    "savedAt": "2026-10-15T19:34:44.282Z",
+    "sourceId": "9761d628e721a27fbaee160cb11e38a0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "sk-hynix-bargains-for-chip-equipment-exports-to-it",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
+    "link": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
+    "pubDate": "Thu, 15 Oct 2026 16:45:37 +0000",
+    "slides": [
+      "SK Hynix's China chip plant faces an export deadline. Can it survive?",
+      "The US restricts chipmaking equipment to China facilities.",
+      "But Trump may allow exports if SK Hynix builds a US factory.",
+      "This trade-off could reshape global semiconductor supply chains.",
+      "Watch for policy shifts affecting tech manufacturing costs."
+    ],
+    "thread_text": [
+      "1. Chip Plant Deadline\n\nSK Hynix's China facility faces a US export cutoff. The clock is ticking for the memory giant.",
+      "2. US Equipment Ban\n\nNew restrictions block chipmaking tools from reaching Chinese factories. This hits production hard.",
+      "3. Trump's Factory Deal\n\nThe former president may allow exports if SK Hynix builds a US plant. A political trade-off with huge stakes.",
+      "4. Supply Chain Shakeup\n\nThis could redraw global semiconductor maps. Costs and timelines for tech manufacturing may never be the same.",
+      "5. Watch Policy Shifts\n\nTrack upcoming decisions on export rules. Ask: how will this affect the price of your next device?"
+    ],
+    "video_script": [
+      "SK Hynix's China plant faces a US export deadline.",
+      "America blocks chipmaking equipment to Chinese factories.",
+      "Trump might allow exports if SK Hynix builds in the US.",
+      "This trade-off could reshape global semiconductor supply chains.",
+      "Watch for policy shifts affecting tech manufacturing costs."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Chip Plant Deadline\n\nSK Hynix's China facility faces a US export cutoff. The clock is ticking for the memory giant.",
+          "2. US Equipment Ban\n\nNew restrictions block chipmaking tools from reaching Chinese factories. This hits production hard.",
+          "3. Trump's Factory Deal\n\nThe former president may allow exports if SK Hynix builds a US plant. A political trade-off with huge stakes.",
+          "4. Supply Chain Shakeup\n\nThis could redraw global semiconductor maps. Costs and timelines for tech manufacturing may never be the same.",
+          "5. Watch Policy Shifts\n\nTrack upcoming decisions on export rules. Ask: how will this affect the price of your next device?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "SK Hynix's China plant faces a US export deadline.",
+          "America blocks chipmaking equipment to Chinese factories.",
+          "Trump might allow exports if SK Hynix builds in the US.",
+          "This trade-off could reshape global semiconductor supply chains.",
+          "Watch for policy shifts affecting tech manufacturing costs."
+        ]
+      },
+      "instagram": {
+        "caption": "A memory chip plant in China is running against a US export cutoff.\n\nWashington now blocks chipmaking equipment from reaching Chinese factories, which slows production fast.\n\nSK Hynix may keep those exports flowing if it builds a factory on US soil instead.\n\nSo the same company is negotiating where its next plant goes, and your device prices ride on the answer.\n\nIf you buy laptops, phones, or SSDs, this decision touches your wallet more than any launch event. 📉\n\nShould we track these export rules like we track phone releases? 🔍"
+      }
+    },
+    "instagram_caption": "A memory chip plant in China is running against a US export cutoff.\n\nWashington now blocks chipmaking equipment from reaching Chinese factories, which slows production fast.\n\nSK Hynix may keep those exports flowing if it builds a factory on US soil instead.\n\nSo the same company is negotiating where its next plant goes, and your device prices ride on the answer.\n\nIf you buy laptops, phones, or SSDs, this decision touches your wallet more than any launch event. 📉\n\nShould we track these export rules like we track phone releases? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Will a US factory save SK Hynix?",
+        "description": "SK Hynix's China chip plant faces a US export deadline, risking production; a US factory might be the only way out.",
+        "visual_hint": "Deadline clock over chip plant",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "semiconductor factory"
+      },
+      {
+        "hook": "US bans chipmaking tools to China.",
+        "description": "New restrictions block equipment shipments to Chinese facilities, hitting SK Hynix's production capacity and global output.",
+        "visual_hint": "Restricted equipment behind barrier",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "chip manufacturing equipment",
+        "image": "https://images.pexels.com/photos/12951623/pexels-photo-12951623.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Trump may trade exports for US factory.",
+        "description": "The former president could allow equipment exports if SK Hynix builds a US plant, a high-stakes political trade-off.",
+        "visual_hint": "Factory blueprint with US flag",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory construction site",
+        "image": "https://images.pexels.com/photos/15866139/pexels-photo-15866139.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Supply chains could be redrawn forever.",
+        "description": "This deal might reshape global semiconductor maps; costs and timelines for tech manufacturing may never be the same.",
+        "visual_hint": "World map with chip routes",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "global supply chain",
+        "image": "https://images.pexels.com/photos/30115457/pexels-photo-30115457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: policy shifts affect device prices.",
+        "description": "Watch upcoming export rule decisions. Ask how they'll affect the price of your next device.",
+        "visual_hint": "Person holding smartphone thoughtfully",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone in hand",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2021/12/gettyimages-1157261963-594x594-1.jpg?w=594",
+    "savedAt": "2026-10-15T19:34:34.322Z",
+    "sourceId": "05146e6b834826a2a157dfc2a63cbf4f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "now-that-character-ai-is-going-bankrupt-what-happe",
     "prompt_version": "1.0.0",
     "status": "published",
