@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "android-is-using-ai-to-suss-out-scammers-in-google",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Android is using AI to suss out scammers in Google Messages",
+    "link": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
+    "pubDate": "2026-10-14T16:00:00.000Z",
+    "slides": [
+      "Can Android spot a scam before you tap?",
+      "Google Messages now scans texts for fraud patterns locally",
+      "AI flags risks without sending your messages to servers",
+      "Texts from strangers get a quiet scam warning overlay",
+      "Next time a suspicious text lands, trust the warning"
+    ],
+    "thread_text": [
+      "1. Your phone might know before you do\n\nGoogle Messages is testing an AI that scans texts for scam patterns right on your device.\n\nNo servers involved.",
+      "2. The AI stays local\n\nYour messages aren't sent to Google for analysis. The scam-detection model runs directly on the phone, so privacy stays intact while fraud gets flagged.",
+      "3. Quiet warnings for strangers\n\nWhen a text comes from an unknown number and looks like a scam, a subtle overlay appears on the message. It doesn't block, it just warns.",
+      "4. Trust the overlay\n\nNext time you see that warning, pause. It means the pattern matched known fraud tricks, and the risk is real enough to stop and check.",
+      "5. Would you tap anyway?\n\nIf your phone warned you about a scam text right now, would you listen? Test the feature on your next unknown message and see."
+    ],
+    "video_script": [
+      "Can your Android spot a scam before you tap?",
+      "Google Messages now scans texts for fraud patterns locally.",
+      "Your messages never leave the phone for this.",
+      "A quiet warning appears on texts from strangers.",
+      "Next time a suspicious text lands, trust the warning."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your phone might know before you do\n\nGoogle Messages is testing an AI that scans texts for scam patterns right on your device.\n\nNo servers involved.",
+          "2. The AI stays local\n\nYour messages aren't sent to Google for analysis. The scam-detection model runs directly on the phone, so privacy stays intact while fraud gets flagged.",
+          "3. Quiet warnings for strangers\n\nWhen a text comes from an unknown number and looks like a scam, a subtle overlay appears on the message. It doesn't block, it just warns.",
+          "4. Trust the overlay\n\nNext time you see that warning, pause. It means the pattern matched known fraud tricks, and the risk is real enough to stop and check.",
+          "5. Would you tap anyway?\n\nIf your phone warned you about a scam text right now, would you listen? Test the feature on your next unknown message and see."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can your Android spot a scam before you tap?",
+          "Google Messages now scans texts for fraud patterns locally.",
+          "Your messages never leave the phone for this.",
+          "A quiet warning appears on texts from strangers.",
+          "Next time a suspicious text lands, trust the warning."
+        ]
+      },
+      "instagram": {
+        "caption": "Your phone might flag a scam text before you even open it.\n\nGoogle Messages is testing AI that scans messages for fraud patterns right on your device. Nothing gets sent to a server — the detection runs locally. 🔒\n\nWhen a text comes from an unknown number and looks sketchy, a quiet warning overlay appears. It doesn't block the message, just nudges you to pause. ⚠️\n\nIf you get pitch texts from strangers, this could be your first real filter.\n\nWould you stop and check, or tap anyway? 📱"
+      }
+    },
+    "instagram_caption": "Your phone might flag a scam text before you even open it.\n\nGoogle Messages is testing AI that scans messages for fraud patterns right on your device. Nothing gets sent to a server — the detection runs locally. 🔒\n\nWhen a text comes from an unknown number and looks sketchy, a quiet warning overlay appears. It doesn't block the message, just nudges you to pause. ⚠️\n\nIf you get pitch texts from strangers, this could be your first real filter.\n\nWould you stop and check, or tap anyway? 📱",
+    "carousel_slides": [
+      {
+        "hook": "Can AI catch a scam before you tap?",
+        "description": "Google Messages tests on-device AI that scans texts for fraud patterns locally, so suspicious messages get flagged without leaving your phone.",
+        "visual_hint": "Glowing phone screen with AI overlay",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone screen closeup"
+      },
+      {
+        "hook": "Your messages never leave the phone",
+        "description": "The scam-detection model runs entirely on your device, so Google never sees your texts while fraud still gets flagged instantly.",
+        "visual_hint": "Phone chip with lock icon",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone processor chip",
+        "image": "https://images.pexels.com/photos/37113176/pexels-photo-37113176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Local AI means privacy stays intact",
+        "description": "Because analysis happens on-device, your private conversations are never uploaded to servers, yet scam patterns are still spotted in real time.",
+        "visual_hint": "Abstract data streams inside phone",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "circuit board macro",
+        "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "A quiet warning for unknown numbers",
+        "description": "When a text from a stranger looks like a scam, a subtle overlay appears on the message. It warns without blocking you.",
+        "visual_hint": "Phone screen showing subtle warning overlay",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "See the warning? Save this and pause.",
+        "description": "Next time a suspicious text lands, trust the overlay, stop, and double-check before you tap any link.",
+        "visual_hint": "Phone with warning tap prompt",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone warning notification",
+        "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Android-scam-detection-google-messages.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-15T08:43:06.801Z",
+    "sourceId": "dddc82c41680e0dd424e50a6700603df"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "square-s-new-kiosk-lets-you-talk-to-ai-for-help-wi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Square’s new kiosk lets you talk to AI for help with your order",
+    "link": "https://www.theverge.com/tech/1009086/square-kiosk",
+    "pubDate": "2026-10-14T16:00:00.000Z",
+    "slides": [
+      "Square's new kiosk: talk to AI for order help?",
+      "The AI actually understands your spoken request.",
+      "But it guides you to buy more items.",
+      "Customers can order faster, but may spend more.",
+      "Next time you see one, try asking for a combo."
+    ],
+    "thread_text": [
+      "1. AI Orders Talk Back\n\nSquare's new kiosk lets you speak your order, but the AI may nudge you to add extra items.",
+      "2. It Hears You Right\n\nThe system understands spoken requests, so there's no typing or tapping required.",
+      "3. The Upsell Trap\n\nAfter taking your order, the AI suggests more items, which can inflate your total.",
+      "4. Speed vs. Spending\n\nYou'll order faster, but the extra suggestions might make you spend more than planned.",
+      "5. Try It Yourself\n\nNext time you see one, ask for a combo and see if you get upsold."
+    ],
+    "video_script": [
+      "Square's new kiosk: you talk, AI listens.",
+      "It actually understands your spoken order.",
+      "But then it suggests extras you didn't ask for.",
+      "Faster ordering, but your bill might grow.",
+      "Next time, try asking for a combo."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI Orders Talk Back\n\nSquare's new kiosk lets you speak your order, but the AI may nudge you to add extra items.",
+          "2. It Hears You Right\n\nThe system understands spoken requests, so there's no typing or tapping required.",
+          "3. The Upsell Trap\n\nAfter taking your order, the AI suggests more items, which can inflate your total.",
+          "4. Speed vs. Spending\n\nYou'll order faster, but the extra suggestions might make you spend more than planned.",
+          "5. Try It Yourself\n\nNext time you see one, ask for a combo and see if you get upsold."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Square's new kiosk: you talk, AI listens.",
+          "It actually understands your spoken order.",
+          "But then it suggests extras you didn't ask for.",
+          "Faster ordering, but your bill might grow.",
+          "Next time, try asking for a combo."
+        ]
+      },
+      "instagram": {
+        "caption": "You can now speak your order at a Square kiosk instead of tapping a screen.\n\nThe AI understands what you say out loud, no typing needed.\n\nThen it suggests extra items, which can quietly raise your total.\n\nFaster ordering, but your final bill might be bigger than planned.\n\n🎙️ The next time you spot one, ask for a combo and watch if it pushes you to add more.\n\nWould you trust a machine to take your order without upselling you? 🤔"
+      }
+    },
+    "instagram_caption": "You can now speak your order at a Square kiosk instead of tapping a screen.\n\nThe AI understands what you say out loud, no typing needed.\n\nThen it suggests extra items, which can quietly raise your total.\n\nFaster ordering, but your final bill might be bigger than planned.\n\n🎙️ The next time you spot one, ask for a combo and watch if it pushes you to add more.\n\nWould you trust a machine to take your order without upselling you? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "AI kiosk upsells you silently",
+        "description": "Square's new kiosk lets you order by voice, but the AI suggests extra items, potentially increasing your total.",
+        "visual_hint": "Person speaking to kiosk screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "self-service kiosk"
+      },
+      {
+        "hook": "It understands your spoken request",
+        "description": "The system accurately interprets spoken orders, eliminating the need for typing or tapping on the screen.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "visual_hint": "Microphone icon with sound waves",
+        "image_query": "voice recognition",
+        "image": "https://images.pexels.com/photos/4790267/pexels-photo-4790267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI nudges you to buy more",
+        "description": "After taking your order, the AI suggests additional items, which can inflate your final bill.",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "visual_hint": "AI suggestion popup on screen",
+        "image_query": "upsell prompt",
+        "image": "https://images.pexels.com/photos/7563650/pexels-photo-7563650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Faster ordering, but higher spending",
+        "description": "Customers order more quickly, but the extra suggestions might make them spend more than planned.",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "visual_hint": "Hand holding wallet with receipt",
+        "image_query": "fast food receipt",
+        "image": "https://images.pexels.com/photos/13443787/pexels-photo-13443787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try asking for a combo next time",
+        "description": "Next time you see a Square kiosk, ask for a combo and see if the AI upsells you.",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "visual_hint": "Person interacting with kiosk",
+        "image_query": "combo meal kiosk",
+        "image": "https://images.pexels.com/photos/20313069/pexels-photo-20313069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Square-Kiosk-Payment.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "savedAt": "2026-10-15T08:42:54.132Z",
+    "sourceId": "4a6f042ad36ad03b4f74aea7e7d38989"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "the-ai-race-is-back-on",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The AI race is back on",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+    "pubDate": "2026-10-14T19:06:03.000Z",
+    "slides": [
+      "Which AI giant just shocked the industry?",
+      "OpenAI unveiled its next-generation model, codenamed 'Orion'.",
+      "It can now plan and execute multi-step tasks autonomously.",
+      "Developers must redesign workflows to integrate these agents.",
+      "Test one agent-based task today to stay competitive."
+    ],
+    "thread_text": [
+      "1. The AI giant just blinked\n\nOpenAI's next-gen model, codenamed 'Orion', can plan and execute multi-step tasks without human input, per a recent announcement.",
+      "2. What Orion actually does\n\nUnlike previous models that respond to single prompts, Orion autonomously chains actions to complete complex workflows from start to finish.",
+      "3. Workflows must change now\n\nDevelopers can no longer design for turn-by-turn interactions—they must build systems that supervise and intervene in agent-driven processes.",
+      "4. The quiet disruption\n\nThis shift means many white-collar tasks previously considered safe from automation now fall within Orion's reach, from research to project management.",
+      "5. Test it this week\n\nPick one repetitive multi-step task you do daily and try automating it with an agent-based tool. If you haven't, start there."
+    ],
+    "video_script": [
+      "OpenAI just shocked the industry with Orion.",
+      "It plans and executes multi-step tasks autonomously.",
+      "Developers must redesign workflows to integrate these agents.",
+      "Test one agent-based task today to stay competitive.",
+      "Don't get left behind—adapt your workflow now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The AI giant just blinked\n\nOpenAI's next-gen model, codenamed 'Orion', can plan and execute multi-step tasks without human input, per a recent announcement.",
+          "2. What Orion actually does\n\nUnlike previous models that respond to single prompts, Orion autonomously chains actions to complete complex workflows from start to finish.",
+          "3. Workflows must change now\n\nDevelopers can no longer design for turn-by-turn interactions—they must build systems that supervise and intervene in agent-driven processes.",
+          "4. The quiet disruption\n\nThis shift means many white-collar tasks previously considered safe from automation now fall within Orion's reach, from research to project management.",
+          "5. Test it this week\n\nPick one repetitive multi-step task you do daily and try automating it with an agent-based tool. If you haven't, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI just shocked the industry with Orion.",
+          "It plans and executes multi-step tasks autonomously.",
+          "Developers must redesign workflows to integrate these agents.",
+          "Test one agent-based task today to stay competitive.",
+          "Don't get left behind—adapt your workflow now."
+        ]
+      },
+      "instagram": {
+        "caption": "A model called Orion can now complete a multi-step task from start to finish with no human input. 🤖\n\nOpenAI unveiled it this week, and it changes how you build things.\n\nYou can't design for one prompt, one reply anymore.\n\nInstead of turn-by-turn, you build systems that supervise an agent doing the work itself.\n\nIf you publish or run workflows, part of your process may already be automatable. ⚙️\n\nPick one repetitive multi-step task you do daily and try an agent-based tool on it this week. 🛠️\n\nWhat's the first task you'd hand off? 💬"
+      }
+    },
+    "instagram_caption": "A model called Orion can now complete a multi-step task from start to finish with no human input. 🤖\n\nOpenAI unveiled it this week, and it changes how you build things.\n\nYou can't design for one prompt, one reply anymore.\n\nInstead of turn-by-turn, you build systems that supervise an agent doing the work itself.\n\nIf you publish or run workflows, part of your process may already be automatable. ⚙️\n\nPick one repetitive multi-step task you do daily and try an agent-based tool on it this week. 🛠️\n\nWhat's the first task you'd hand off? 💬",
+    "carousel_slides": [
+      {
+        "hook": "Is your workflow safe from autonomous AI?",
+        "description": "OpenAI's 'Orion' can now plan and execute multi-step tasks without human input, making many white-collar jobs vulnerable to automation.",
+        "visual_hint": "Futuristic AI interface with glowing circuits",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Meet Orion: the silent productivity disruptor",
+        "description": "Unlike single-prompt models, Orion autonomously chains actions to complete complex workflows from start to finish, drastically reducing human involvement.",
+        "visual_hint": "Abstract network of connected nodes",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "artificial intelligence",
+        "image": "https://images.pexels.com/photos/7688592/pexels-photo-7688592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Turn-by-turn design is officially dead",
+        "description": "Developers must now build systems that supervise and intervene in agent-driven processes, not just respond to prompts.",
+        "visual_hint": "Developer hands adjusting code on screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer code",
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your research tasks are now in AI's reach",
+        "description": "Orion automates complex workflows from research to project management, tasks previously considered safe from automation.",
+        "visual_hint": "Automated dashboard with robotic arms",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: test one agent task today",
+        "description": "Pick one repetitive multi-step task you do daily and try automating it with an agent-based tool. Start now.",
+        "visual_hint": "Person typing on laptop with AI assistant",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2296206566.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.669135487166%2C100%2C78.661729025667&amp;w=1200",
+    "savedAt": "2026-10-15T08:42:43.503Z",
+    "sourceId": "bcd6e2061a07472430579f07bfa139fa"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ricursive-intelligence-is-betting-on-ai-designed-c",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+    "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+    "pubDate": "Thu, 15 Oct 2026 01:01:32 +0000",
+    "slides": [
+      "Can AI design the chips it runs on?",
+      "Ricursive Intelligence says yes—but the compute crisis demands it.",
+      "AI-designed chips cut design time from years to weeks.",
+      "This means startups can now compete with giants on custom silicon.",
+      "Test one AI-designed chip idea this quarter."
+    ],
+    "thread_text": [
+      "1. AI designs its own chips?\n\nRicursive Intelligence claims yes. The compute crisis means we might not have a choice.",
+      "2. Years to weeks\n\nAI-designed chips slash development timelines. That changes who can afford to build custom silicon.",
+      "3. Startups vs. giants\n\nThe barrier to custom chip design just collapsed. Small teams can now compete with billion-dollar hardware divisions.",
+      "4. The real bottleneck\n\nIt's not design speed—it's fabrication access. Even with AI, you still need a foundry.",
+      "5. Try it this quarter\n\nPick one chip idea and simulate it with an AI design tool. If you haven't done it, start there."
+    ],
+    "video_script": [
+      "Can AI design the chips it runs on?",
+      "Ricursive says yes, and compute crisis demands it.",
+      "Design time drops from years to weeks.",
+      "Startups can now compete on custom silicon.",
+      "Test one AI-designed chip idea this quarter."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI designs its own chips?\n\nRicursive Intelligence claims yes. The compute crisis means we might not have a choice.",
+          "2. Years to weeks\n\nAI-designed chips slash development timelines. That changes who can afford to build custom silicon.",
+          "3. Startups vs. giants\n\nThe barrier to custom chip design just collapsed. Small teams can now compete with billion-dollar hardware divisions.",
+          "4. The real bottleneck\n\nIt's not design speed—it's fabrication access. Even with AI, you still need a foundry.",
+          "5. Try it this quarter\n\nPick one chip idea and simulate it with an AI design tool. If you haven't done it, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can AI design the chips it runs on?",
+          "Ricursive says yes, and compute crisis demands it.",
+          "Design time drops from years to weeks.",
+          "Startups can now compete on custom silicon.",
+          "Test one AI-designed chip idea this quarter."
+        ]
+      },
+      "instagram": {
+        "caption": "Chip design just went from multi-year timelines to a few weeks. 🔧\n\nRicursive Intelligence is betting AI can design the very chips it runs on.\n\nThe compute crisis is the pressure forcing this shift.\n\nThat collapse in design time opens custom silicon to small teams, not just billion-dollar hardware divisions.\n\nSo if you build or publish in hardware, your road to a custom chip is shorter and cheaper than last year. ⚡\n\nBut here's the catch: design speed is solved, fabrication access isn't. You still need a foundry. 🏭\n\nWhich single chip idea would you simulate this quarter if it only took weeks? 🧠"
+      }
+    },
+    "instagram_caption": "Chip design just went from multi-year timelines to a few weeks. 🔧\n\nRicursive Intelligence is betting AI can design the very chips it runs on.\n\nThe compute crisis is the pressure forcing this shift.\n\nThat collapse in design time opens custom silicon to small teams, not just billion-dollar hardware divisions.\n\nSo if you build or publish in hardware, your road to a custom chip is shorter and cheaper than last year. ⚡\n\nBut here's the catch: design speed is solved, fabrication access isn't. You still need a foundry. 🏭\n\nWhich single chip idea would you simulate this quarter if it only took weeks? 🧠",
+    "carousel_slides": [
+      {
+        "hook": "AI-designed chips: years to weeks?",
+        "description": "Ricursive Intelligence bets AI-designed chips cut development from years to weeks, helping solve the compute crisis.",
+        "visual_hint": "Futuristic chip with glowing circuits",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer chip"
+      },
+      {
+        "hook": "The compute crisis demands a solution.",
+        "description": "Ricursive Intelligence says AI-designed chips are necessary as the compute crisis escalates.",
+        "visual_hint": "Data center with overheating servers",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Custom silicon is no longer just for giants.",
+        "description": "AI slashes design time, letting startups compete with billion-dollar hardware divisions on custom silicon.",
+        "visual_hint": "Startup team collaborating on chip design",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "startup office",
+        "image": "https://images.pexels.com/photos/5324900/pexels-photo-5324900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Fabrication access remains the real bottleneck.",
+        "description": "Even with AI design, you still need a foundry to fabricate chips; design speed alone isn't enough.",
+        "visual_hint": "Silicon wafer in foundry machine",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "semiconductor foundry",
+        "image": "https://images.pexels.com/photos/7451197/pexels-photo-7451197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: test one chip idea this quarter.",
+        "description": "Pick one chip idea and simulate it with an AI design tool. If you haven't, start now.",
+        "visual_hint": "Laptop with chip design software",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "computer simulation",
+        "image": "https://images.pexels.com/photos/5207238/pexels-photo-5207238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800",
+    "savedAt": "2026-10-15T08:42:32.788Z",
+    "sourceId": "7624c31011dc0b4fc595b228b8774ee4"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-claims-an-ex-employee-took-its-product-plan",
     "prompt_version": "1.0.0",
     "status": "published",

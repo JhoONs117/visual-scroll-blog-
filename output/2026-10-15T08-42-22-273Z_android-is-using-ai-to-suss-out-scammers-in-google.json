@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "android-is-using-ai-to-suss-out-scammers-in-google",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Android is using AI to suss out scammers in Google Messages",
+  "link": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
+  "pubDate": "2026-10-14T16:00:00.000Z",
+  "slides": [
+    "Can Android spot a scam before you tap?",
+    "Google Messages now scans texts for fraud patterns locally",
+    "AI flags risks without sending your messages to servers",
+    "Texts from strangers get a quiet scam warning overlay",
+    "Next time a suspicious text lands, trust the warning"
+  ],
+  "thread_text": [
+    "1. Your phone might know before you do\n\nGoogle Messages is testing an AI that scans texts for scam patterns right on your device.\n\nNo servers involved.",
+    "2. The AI stays local\n\nYour messages aren't sent to Google for analysis. The scam-detection model runs directly on the phone, so privacy stays intact while fraud gets flagged.",
+    "3. Quiet warnings for strangers\n\nWhen a text comes from an unknown number and looks like a scam, a subtle overlay appears on the message. It doesn't block, it just warns.",
+    "4. Trust the overlay\n\nNext time you see that warning, pause. It means the pattern matched known fraud tricks, and the risk is real enough to stop and check.",
+    "5. Would you tap anyway?\n\nIf your phone warned you about a scam text right now, would you listen? Test the feature on your next unknown message and see."
+  ],
+  "video_script": [
+    "Can your Android spot a scam before you tap?",
+    "Google Messages now scans texts for fraud patterns locally.",
+    "Your messages never leave the phone for this.",
+    "A quiet warning appears on texts from strangers.",
+    "Next time a suspicious text lands, trust the warning."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your phone might know before you do\n\nGoogle Messages is testing an AI that scans texts for scam patterns right on your device.\n\nNo servers involved.",
+        "2. The AI stays local\n\nYour messages aren't sent to Google for analysis. The scam-detection model runs directly on the phone, so privacy stays intact while fraud gets flagged.",
+        "3. Quiet warnings for strangers\n\nWhen a text comes from an unknown number and looks like a scam, a subtle overlay appears on the message. It doesn't block, it just warns.",
+        "4. Trust the overlay\n\nNext time you see that warning, pause. It means the pattern matched known fraud tricks, and the risk is real enough to stop and check.",
+        "5. Would you tap anyway?\n\nIf your phone warned you about a scam text right now, would you listen? Test the feature on your next unknown message and see."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can your Android spot a scam before you tap?",
+        "Google Messages now scans texts for fraud patterns locally.",
+        "Your messages never leave the phone for this.",
+        "A quiet warning appears on texts from strangers.",
+        "Next time a suspicious text lands, trust the warning."
+      ]
+    },
+    "instagram": {
+      "caption": "Your phone might flag a scam text before you even open it.\n\nGoogle Messages is testing AI that scans messages for fraud patterns right on your device. Nothing gets sent to a server — the detection runs locally. 🔒\n\nWhen a text comes from an unknown number and looks sketchy, a quiet warning overlay appears. It doesn't block the message, just nudges you to pause. ⚠️\n\nIf you get pitch texts from strangers, this could be your first real filter.\n\nWould you stop and check, or tap anyway? 📱"
+    }
+  },
+  "instagram_caption": "Your phone might flag a scam text before you even open it.\n\nGoogle Messages is testing AI that scans messages for fraud patterns right on your device. Nothing gets sent to a server — the detection runs locally. 🔒\n\nWhen a text comes from an unknown number and looks sketchy, a quiet warning overlay appears. It doesn't block the message, just nudges you to pause. ⚠️\n\nIf you get pitch texts from strangers, this could be your first real filter.\n\nWould you stop and check, or tap anyway? 📱",
+  "carousel_slides": [
+    {
+      "hook": "Can AI catch a scam before you tap?",
+      "description": "Google Messages tests on-device AI that scans texts for fraud patterns locally, so suspicious messages get flagged without leaving your phone.",
+      "visual_hint": "Glowing phone screen with AI overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone screen closeup"
+    },
+    {
+      "hook": "Your messages never leave the phone",
+      "description": "The scam-detection model runs entirely on your device, so Google never sees your texts while fraud still gets flagged instantly.",
+      "visual_hint": "Phone chip with lock icon",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone processor chip",
+      "image": "https://images.pexels.com/photos/37113176/pexels-photo-37113176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Local AI means privacy stays intact",
+      "description": "Because analysis happens on-device, your private conversations are never uploaded to servers, yet scam patterns are still spotted in real time.",
+      "visual_hint": "Abstract data streams inside phone",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "circuit board macro",
+      "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "A quiet warning for unknown numbers",
+      "description": "When a text from a stranger looks like a scam, a subtle overlay appears on the message. It warns without blocking you.",
+      "visual_hint": "Phone screen showing subtle warning overlay",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "See the warning? Save this and pause.",
+      "description": "Next time a suspicious text lands, trust the overlay, stop, and double-check before you tap any link.",
+      "visual_hint": "Phone with warning tap prompt",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone warning notification",
+      "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Android-scam-detection-google-messages.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-15T08:43:06.801Z",
+  "sourceId": "dddc82c41680e0dd424e50a6700603df"
+}

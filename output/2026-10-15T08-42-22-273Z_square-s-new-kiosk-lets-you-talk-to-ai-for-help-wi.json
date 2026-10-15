@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "square-s-new-kiosk-lets-you-talk-to-ai-for-help-wi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Square’s new kiosk lets you talk to AI for help with your order",
+  "link": "https://www.theverge.com/tech/1009086/square-kiosk",
+  "pubDate": "2026-10-14T16:00:00.000Z",
+  "slides": [
+    "Square's new kiosk: talk to AI for order help?",
+    "The AI actually understands your spoken request.",
+    "But it guides you to buy more items.",
+    "Customers can order faster, but may spend more.",
+    "Next time you see one, try asking for a combo."
+  ],
+  "thread_text": [
+    "1. AI Orders Talk Back\n\nSquare's new kiosk lets you speak your order, but the AI may nudge you to add extra items.",
+    "2. It Hears You Right\n\nThe system understands spoken requests, so there's no typing or tapping required.",
+    "3. The Upsell Trap\n\nAfter taking your order, the AI suggests more items, which can inflate your total.",
+    "4. Speed vs. Spending\n\nYou'll order faster, but the extra suggestions might make you spend more than planned.",
+    "5. Try It Yourself\n\nNext time you see one, ask for a combo and see if you get upsold."
+  ],
+  "video_script": [
+    "Square's new kiosk: you talk, AI listens.",
+    "It actually understands your spoken order.",
+    "But then it suggests extras you didn't ask for.",
+    "Faster ordering, but your bill might grow.",
+    "Next time, try asking for a combo."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Orders Talk Back\n\nSquare's new kiosk lets you speak your order, but the AI may nudge you to add extra items.",
+        "2. It Hears You Right\n\nThe system understands spoken requests, so there's no typing or tapping required.",
+        "3. The Upsell Trap\n\nAfter taking your order, the AI suggests more items, which can inflate your total.",
+        "4. Speed vs. Spending\n\nYou'll order faster, but the extra suggestions might make you spend more than planned.",
+        "5. Try It Yourself\n\nNext time you see one, ask for a combo and see if you get upsold."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Square's new kiosk: you talk, AI listens.",
+        "It actually understands your spoken order.",
+        "But then it suggests extras you didn't ask for.",
+        "Faster ordering, but your bill might grow.",
+        "Next time, try asking for a combo."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now speak your order at a Square kiosk instead of tapping a screen.\n\nThe AI understands what you say out loud, no typing needed.\n\nThen it suggests extra items, which can quietly raise your total.\n\nFaster ordering, but your final bill might be bigger than planned.\n\n🎙️ The next time you spot one, ask for a combo and watch if it pushes you to add more.\n\nWould you trust a machine to take your order without upselling you? 🤔"
+    }
+  },
+  "instagram_caption": "You can now speak your order at a Square kiosk instead of tapping a screen.\n\nThe AI understands what you say out loud, no typing needed.\n\nThen it suggests extra items, which can quietly raise your total.\n\nFaster ordering, but your final bill might be bigger than planned.\n\n🎙️ The next time you spot one, ask for a combo and watch if it pushes you to add more.\n\nWould you trust a machine to take your order without upselling you? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "AI kiosk upsells you silently",
+      "description": "Square's new kiosk lets you order by voice, but the AI suggests extra items, potentially increasing your total.",
+      "visual_hint": "Person speaking to kiosk screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "self-service kiosk"
+    },
+    {
+      "hook": "It understands your spoken request",
+      "description": "The system accurately interprets spoken orders, eliminating the need for typing or tapping on the screen.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Microphone icon with sound waves",
+      "image_query": "voice recognition",
+      "image": "https://images.pexels.com/photos/4790267/pexels-photo-4790267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI nudges you to buy more",
+      "description": "After taking your order, the AI suggests additional items, which can inflate your final bill.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "AI suggestion popup on screen",
+      "image_query": "upsell prompt",
+      "image": "https://images.pexels.com/photos/7563650/pexels-photo-7563650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Faster ordering, but higher spending",
+      "description": "Customers order more quickly, but the extra suggestions might make them spend more than planned.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hand holding wallet with receipt",
+      "image_query": "fast food receipt",
+      "image": "https://images.pexels.com/photos/13443787/pexels-photo-13443787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try asking for a combo next time",
+      "description": "Next time you see a Square kiosk, ask for a combo and see if the AI upsells you.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Person interacting with kiosk",
+      "image_query": "combo meal kiosk",
+      "image": "https://images.pexels.com/photos/20313069/pexels-photo-20313069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Square-Kiosk-Payment.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+  "savedAt": "2026-10-15T08:42:54.132Z",
+  "sourceId": "4a6f042ad36ad03b4f74aea7e7d38989"
+}

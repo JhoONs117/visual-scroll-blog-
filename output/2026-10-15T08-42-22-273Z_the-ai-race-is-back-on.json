@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-ai-race-is-back-on",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The AI race is back on",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+  "pubDate": "2026-10-14T19:06:03.000Z",
+  "slides": [
+    "Which AI giant just shocked the industry?",
+    "OpenAI unveiled its next-generation model, codenamed 'Orion'.",
+    "It can now plan and execute multi-step tasks autonomously.",
+    "Developers must redesign workflows to integrate these agents.",
+    "Test one agent-based task today to stay competitive."
+  ],
+  "thread_text": [
+    "1. The AI giant just blinked\n\nOpenAI's next-gen model, codenamed 'Orion', can plan and execute multi-step tasks without human input, per a recent announcement.",
+    "2. What Orion actually does\n\nUnlike previous models that respond to single prompts, Orion autonomously chains actions to complete complex workflows from start to finish.",
+    "3. Workflows must change now\n\nDevelopers can no longer design for turn-by-turn interactions—they must build systems that supervise and intervene in agent-driven processes.",
+    "4. The quiet disruption\n\nThis shift means many white-collar tasks previously considered safe from automation now fall within Orion's reach, from research to project management.",
+    "5. Test it this week\n\nPick one repetitive multi-step task you do daily and try automating it with an agent-based tool. If you haven't, start there."
+  ],
+  "video_script": [
+    "OpenAI just shocked the industry with Orion.",
+    "It plans and executes multi-step tasks autonomously.",
+    "Developers must redesign workflows to integrate these agents.",
+    "Test one agent-based task today to stay competitive.",
+    "Don't get left behind—adapt your workflow now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The AI giant just blinked\n\nOpenAI's next-gen model, codenamed 'Orion', can plan and execute multi-step tasks without human input, per a recent announcement.",
+        "2. What Orion actually does\n\nUnlike previous models that respond to single prompts, Orion autonomously chains actions to complete complex workflows from start to finish.",
+        "3. Workflows must change now\n\nDevelopers can no longer design for turn-by-turn interactions—they must build systems that supervise and intervene in agent-driven processes.",
+        "4. The quiet disruption\n\nThis shift means many white-collar tasks previously considered safe from automation now fall within Orion's reach, from research to project management.",
+        "5. Test it this week\n\nPick one repetitive multi-step task you do daily and try automating it with an agent-based tool. If you haven't, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI just shocked the industry with Orion.",
+        "It plans and executes multi-step tasks autonomously.",
+        "Developers must redesign workflows to integrate these agents.",
+        "Test one agent-based task today to stay competitive.",
+        "Don't get left behind—adapt your workflow now."
+      ]
+    },
+    "instagram": {
+      "caption": "A model called Orion can now complete a multi-step task from start to finish with no human input. 🤖\n\nOpenAI unveiled it this week, and it changes how you build things.\n\nYou can't design for one prompt, one reply anymore.\n\nInstead of turn-by-turn, you build systems that supervise an agent doing the work itself.\n\nIf you publish or run workflows, part of your process may already be automatable. ⚙️\n\nPick one repetitive multi-step task you do daily and try an agent-based tool on it this week. 🛠️\n\nWhat's the first task you'd hand off? 💬"
+    }
+  },
+  "instagram_caption": "A model called Orion can now complete a multi-step task from start to finish with no human input. 🤖\n\nOpenAI unveiled it this week, and it changes how you build things.\n\nYou can't design for one prompt, one reply anymore.\n\nInstead of turn-by-turn, you build systems that supervise an agent doing the work itself.\n\nIf you publish or run workflows, part of your process may already be automatable. ⚙️\n\nPick one repetitive multi-step task you do daily and try an agent-based tool on it this week. 🛠️\n\nWhat's the first task you'd hand off? 💬",
+  "carousel_slides": [
+    {
+      "hook": "Is your workflow safe from autonomous AI?",
+      "description": "OpenAI's 'Orion' can now plan and execute multi-step tasks without human input, making many white-collar jobs vulnerable to automation.",
+      "visual_hint": "Futuristic AI interface with glowing circuits",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Meet Orion: the silent productivity disruptor",
+      "description": "Unlike single-prompt models, Orion autonomously chains actions to complete complex workflows from start to finish, drastically reducing human involvement.",
+      "visual_hint": "Abstract network of connected nodes",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "artificial intelligence",
+      "image": "https://images.pexels.com/photos/7688592/pexels-photo-7688592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Turn-by-turn design is officially dead",
+      "description": "Developers must now build systems that supervise and intervene in agent-driven processes, not just respond to prompts.",
+      "visual_hint": "Developer hands adjusting code on screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer code",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your research tasks are now in AI's reach",
+      "description": "Orion automates complex workflows from research to project management, tasks previously considered safe from automation.",
+      "visual_hint": "Automated dashboard with robotic arms",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: test one agent task today",
+      "description": "Pick one repetitive multi-step task you do daily and try automating it with an agent-based tool. Start now.",
+      "visual_hint": "Person typing on laptop with AI assistant",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2296206566.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.669135487166%2C100%2C78.661729025667&amp;w=1200",
+  "savedAt": "2026-10-15T08:42:43.503Z",
+  "sourceId": "bcd6e2061a07472430579f07bfa139fa"
+}
