@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "meta-and-apple-team-up-to-make-muse-ai-models-run-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+    "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+    "pubDate": "2026-10-15T18:15:36.000Z",
+    "slides": [
+      "Meta and Apple just partnered—who really wins?",
+      "Muse AI models will run natively on Macs",
+      "But Apple gets a cut from Meta's models",
+      "Your Mac apps could get free AI upgrades soon",
+      "Check if your favorite app supports Muse next week"
+    ],
+    "thread_text": [
+      "1. Meta vs Apple: Who Wins?\n\nMeta's Muse AI models will run natively on Macs, but Apple takes a cut from every use.",
+      "2. Apple's Cut Changes Game\n\nMeta pays Apple a commission on Muse model usage, shifting the economics of free AI.",
+      "3. Free AI for Mac Apps\n\nYour favorite Mac apps could get free AI upgrades soon, thanks to this partnership.",
+      "4. Check App Support Next Week\n\nSee if your go-to app supports Muse—if not, ask the developer when it will.",
+      "5. Test It Yourself\n\nDownload a Muse-powered app and see if the free upgrade saves you time or adds hassle."
+    ],
+    "video_script": [
+      "Meta and Apple just partnered, but who really wins?",
+      "Muse AI models will run natively on Macs.",
+      "Apple gets a cut from Meta's models.",
+      "Your Mac apps could get free AI upgrades soon.",
+      "Check if your favorite app supports Muse next week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Meta vs Apple: Who Wins?\n\nMeta's Muse AI models will run natively on Macs, but Apple takes a cut from every use.",
+          "2. Apple's Cut Changes Game\n\nMeta pays Apple a commission on Muse model usage, shifting the economics of free AI.",
+          "3. Free AI for Mac Apps\n\nYour favorite Mac apps could get free AI upgrades soon, thanks to this partnership.",
+          "4. Check App Support Next Week\n\nSee if your go-to app supports Muse—if not, ask the developer when it will.",
+          "5. Test It Yourself\n\nDownload a Muse-powered app and see if the free upgrade saves you time or adds hassle."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta and Apple just partnered, but who really wins?",
+          "Muse AI models will run natively on Macs.",
+          "Apple gets a cut from Meta's models.",
+          "Your Mac apps could get free AI upgrades soon.",
+          "Check if your favorite app supports Muse next week."
+        ]
+      },
+      "instagram": {
+        "caption": "Meta's Muse AI models will run natively on Macs, but Apple takes a cut every time they're used.\n\nThat means Meta pays Apple a commission on Muse usage—so \"free\" AI on your Mac isn't actually free for Meta. 🍎\n\nThe upside: your favorite Mac apps could get AI upgrades without you paying extra. 🤖\n\nIf you build or publish with Mac tools, watch for Muse support landing in your apps next week. ✍️\n\nCheck if your go-to app is on the list. If it's not, will you ask the developer when it's coming? 👀"
+      }
+    },
+    "instagram_caption": "Meta's Muse AI models will run natively on Macs, but Apple takes a cut every time they're used.\n\nThat means Meta pays Apple a commission on Muse usage—so \"free\" AI on your Mac isn't actually free for Meta. 🍎\n\nThe upside: your favorite Mac apps could get AI upgrades without you paying extra. 🤖\n\nIf you build or publish with Mac tools, watch for Muse support landing in your apps next week. ✍️\n\nCheck if your go-to app is on the list. If it's not, will you ask the developer when it's coming? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Meta pays Apple for every Muse use?",
+        "description": "Meta's Muse AI models run natively on Macs, but Apple takes a cut from every single use.",
+        "visual_hint": "Two tech logos merging on screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "handshake office"
+      },
+      {
+        "hook": "Muse AI goes native on Macs",
+        "description": "Muse AI models will run natively on Macs, enabling faster performance and tighter system integration.",
+        "visual_hint": "MacBook screen with AI code",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "MacBook laptop",
+        "image": "https://images.pexels.com/photos/10655906/pexels-photo-10655906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Apple's cut changes free AI economics",
+        "description": "Meta pays Apple a commission on Muse model usage, shifting the economics of what was once free AI.",
+        "visual_hint": "Commission fee percentage graphic",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your Mac apps might get free AI",
+        "description": "Your favorite Mac apps could get free AI upgrades soon, thanks to this partnership between Meta and Apple.",
+        "visual_hint": "App icons upgrading with AI badge",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "app store screen",
+        "image": "https://images.pexels.com/photos/15378959/pexels-photo-15378959.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: check app support next week",
+        "description": "See if your go-to app supports Muse next week—if not, ask the developer when it will.",
+        "visual_hint": "Calendar marked with checkmark",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calendar reminder",
+        "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268742_Mac_Studio_AKrales_0025.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-15T22:48:16.000Z",
+    "sourceId": "fc7be023ada52fcc8ad5cafdc23ff5cf"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ai-agents-are-coming-to-rivian-s-cars",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI agents are coming to Rivian’s cars",
+    "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+    "pubDate": "Thu, 15 Oct 2026 15:02:36 +0000",
+    "slides": [
+      "Rivian's cars gain AI agents—will they put drivers on autopilot?",
+      "The new software layer aims to understand natural language commands.",
+      "But it will predict your needs before you even ask.",
+      "Your next Rivian could plan routes and charge stops autonomously.",
+      "So, when your car thinks ahead, who's really in control?"
+    ],
+    "thread_text": [
+      "1. Who's driving your Rivian?\n\nRivian's new AI agents can interpret natural language and predict your needs before you ask. The car is starting to think for itself.",
+      "2. The car that listens\n\nA new software layer aims to understand commands like \"find a charger\" without you touching a screen. It's not just voice control—it's comprehension.",
+      "3. Anticipating your every move\n\nThis system doesn't just respond—it predicts. It might suggest a charge stop before you realize you need one, based on your route and driving history.",
+      "4. From assist to autopilot\n\nYour next Rivian could plan routes and charge stops autonomously. That's a shift from driver assistance to full trip management.",
+      "5. Are you ready to let go?\n\nWhen your car thinks ahead, who's really in control? Test it yourself: next time you drive, notice how many decisions you'd hand over."
+    ],
+    "video_script": [
+      "Rivian's new AI agents understand natural language commands.",
+      "The software predicts your needs before you even ask.",
+      "It could plan routes and charging stops autonomously.",
+      "Your car starts making decisions you used to make.",
+      "When it thinks ahead, who's really in control?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who's driving your Rivian?\n\nRivian's new AI agents can interpret natural language and predict your needs before you ask. The car is starting to think for itself.",
+          "2. The car that listens\n\nA new software layer aims to understand commands like \"find a charger\" without you touching a screen. It's not just voice control—it's comprehension.",
+          "3. Anticipating your every move\n\nThis system doesn't just respond—it predicts. It might suggest a charge stop before you realize you need one, based on your route and driving history.",
+          "4. From assist to autopilot\n\nYour next Rivian could plan routes and charge stops autonomously. That's a shift from driver assistance to full trip management.",
+          "5. Are you ready to let go?\n\nWhen your car thinks ahead, who's really in control? Test it yourself: next time you drive, notice how many decisions you'd hand over."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Rivian's new AI agents understand natural language commands.",
+          "The software predicts your needs before you even ask.",
+          "It could plan routes and charging stops autonomously.",
+          "Your car starts making decisions you used to make.",
+          "When it thinks ahead, who's really in control?"
+        ]
+      },
+      "instagram": {
+        "caption": "Your Rivian might soon suggest a charging stop before you even notice you need one.\n\nRivian is adding AI agents that understand natural language commands, like \"find a charger,\" without touching a screen.\n\nThe system doesn't just respond—it predicts your needs based on route and driving history.\n\nYour next car could plan routes and charge stops on its own, shifting from driver assistance to full trip management.\n\nIf you make content about cars or tech, this is a new angle worth covering now. 🚗\n\nWhen your car thinks ahead, who's really in control? 🤔"
+      }
+    },
+    "instagram_caption": "Your Rivian might soon suggest a charging stop before you even notice you need one.\n\nRivian is adding AI agents that understand natural language commands, like \"find a charger,\" without touching a screen.\n\nThe system doesn't just respond—it predicts your needs based on route and driving history.\n\nYour next car could plan routes and charge stops on its own, shifting from driver assistance to full trip management.\n\nIf you make content about cars or tech, this is a new angle worth covering now. 🚗\n\nWhen your car thinks ahead, who's really in control? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Who's Really Driving Your Next Rivian?",
+        "description": "New AI agents predict your needs and plan routes autonomously, shifting control from driver to software.",
+        "visual_hint": "Dashboard with glowing AI interface",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "car dashboard"
+      },
+      {
+        "hook": "Your Car Now Understands You",
+        "description": "A new software layer interprets natural language commands like 'find a charger' without touching a screen.",
+        "visual_hint": "Voice wave on car screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "voice recognition",
+        "image": "https://images.pexels.com/photos/4790267/pexels-photo-4790267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It Predicts Before You Ask",
+        "description": "The system anticipates charge stops based on route and driving history, suggesting them before you realize you need one.",
+        "visual_hint": "Map with predictive charging icons",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "electric car charging",
+        "image": "https://images.pexels.com/photos/33508511/pexels-photo-33508511.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "From Assist To Full Autopilot",
+        "description": "Your next Rivian could plan routes and charge stops autonomously, marking a shift to full trip management.",
+        "visual_hint": "Hands-off steering wheel with route",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "autonomous car",
+        "image": "https://images.pexels.com/photos/39434843/pexels-photo-39434843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who's In Control? Save This.",
+        "description": "Next time you drive, notice how many decisions you'd hand over. Comment your thoughts below.",
+        "visual_hint": "Driver pondering over steering wheel",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "thoughtful driver",
+        "image": "https://images.pexels.com/photos/5835591/pexels-photo-5835591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55587802359_b756c3c3bd_k.jpg?resize=1200,800",
+    "savedAt": "2026-10-15T22:47:47.766Z",
+    "sourceId": "534bc46e6ba20de3715d203adc920190"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-launches-an-open-weight-ai-model-that-runs-on",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta launches an open-weight AI model that runs on Macs",
+    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "pubDate": "Thu, 15 Oct 2026 20:04:53 +0000",
+    "slides": [
+      "Meta launches an open-weight AI model that runs on Macs. Why?",
+      "You can now run advanced AI locally on your laptop.",
+      "This model matches proprietary giants on many tasks.",
+      "Test it with your own sensitive data, no cloud needed.",
+      "Download and run a local AI model today."
+    ],
+    "thread_text": [
+      "1. Meta's Quiet Power Move\n\nMeta just released an open-weight AI model that runs directly on Macs — no cloud, no subscription, no data leaving your laptop.",
+      "2. The Local AI Leap\n\nYou no longer need a server farm. This model runs on everyday hardware, putting advanced AI in your backpack.",
+      "3. David vs. Goliath\n\nOn many benchmarks, it goes head-to-head with closed models like GPT-4. But you own the weights, not a license.",
+      "4. Your Data, Your Rules\n\nRun it on private documents, medical records, or legal contracts. Nothing gets sent to a third party. Ever.",
+      "5. Try It This Week\n\nDownload the model from Meta's repo, load it on your Mac, and ask it one question about a sensitive file. Does that change how you work?"
+    ],
+    "video_script": [
+      "Meta dropped an AI model that runs on your Mac.",
+      "No cloud. No subscription. Advanced AI locally on your laptop.",
+      "It matches proprietary giants on many tasks.",
+      "Test it with your own sensitive data. Nothing leaves your machine.",
+      "Download it today and try one prompt on a private file."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Meta's Quiet Power Move\n\nMeta just released an open-weight AI model that runs directly on Macs — no cloud, no subscription, no data leaving your laptop.",
+          "2. The Local AI Leap\n\nYou no longer need a server farm. This model runs on everyday hardware, putting advanced AI in your backpack.",
+          "3. David vs. Goliath\n\nOn many benchmarks, it goes head-to-head with closed models like GPT-4. But you own the weights, not a license.",
+          "4. Your Data, Your Rules\n\nRun it on private documents, medical records, or legal contracts. Nothing gets sent to a third party. Ever.",
+          "5. Try It This Week\n\nDownload the model from Meta's repo, load it on your Mac, and ask it one question about a sensitive file. Does that change how you work?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta dropped an AI model that runs on your Mac.",
+          "No cloud. No subscription. Advanced AI locally on your laptop.",
+          "It matches proprietary giants on many tasks.",
+          "Test it with your own sensitive data. Nothing leaves your machine.",
+          "Download it today and try one prompt on a private file."
+        ]
+      },
+      "instagram": {
+        "caption": "Advanced AI now runs directly on your Mac, no cloud required. 🖥️\n\nMeta released an open-weight model that runs locally on everyday laptops.\n\nOn many tests, it matches closed giants like GPT-4.\n\nYou download the weights, you own them — no license, no subscription.\n\nFor anyone handling sensitive files, this means you can query private documents, contracts or medical records without sending a byte to a third party. 🔒\n\nSo the real question: what's the first confidential file you'd test it on this week? 💾"
+      }
+    },
+    "instagram_caption": "Advanced AI now runs directly on your Mac, no cloud required. 🖥️\n\nMeta released an open-weight model that runs locally on everyday laptops.\n\nOn many tests, it matches closed giants like GPT-4.\n\nYou download the weights, you own them — no license, no subscription.\n\nFor anyone handling sensitive files, this means you can query private documents, contracts or medical records without sending a byte to a third party. 🔒\n\nSo the real question: what's the first confidential file you'd test it on this week? 💾",
+    "carousel_slides": [
+      {
+        "hook": "Your AI, your laptop, no cloud.",
+        "description": "Meta's open-weight model runs locally on Macs, matching GPT-4 on many benchmarks. You own the weights, not a license.",
+        "visual_hint": "MacBook on desk, AI code on screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "MacBook laptop"
+      },
+      {
+        "hook": "Advanced AI now lives on your laptop.",
+        "description": "You no longer need a server farm. This model runs on everyday hardware, putting powerful AI in your backpack.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "laptop computer",
+        "visual_hint": "person carrying backpack with laptop",
+        "image": "https://images.pexels.com/photos/6968164/pexels-photo-6968164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Open weights beat closed giants?",
+        "description": "On many benchmarks, it goes head-to-head with closed models like GPT-4, but you own the weights entirely.",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "visual_hint": "split screen: open vs closed AI",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Run AI on private data, no cloud.",
+        "description": "Test it on medical records, legal contracts, or private documents. Nothing gets sent to a third party. Ever.",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "medical records",
+        "visual_hint": "hand holding document with lock icon",
+        "image": "https://images.pexels.com/photos/4989149/pexels-photo-4989149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ready to try local AI? Save this.",
+        "description": "Download the model from Meta's repo, load it on your Mac, and ask one question about a sensitive file.",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "software download",
+        "visual_hint": "download button and Mac laptop",
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
+    "savedAt": "2026-10-15T22:47:38.300Z",
+    "sourceId": "b79cf62ab2acf241a335b8038d46b945"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "amazon-devices-chief-panos-panay-on-the-importance",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it ",
+    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+    "pubDate": "Thu, 15 Oct 2026 20:38:13 +0000",
+    "slides": [
+      "Amazon's Panay says failure is essential — but why?",
+      "He credits his toughest defeats as biggest lessons",
+      "Yet most companies punish failure, not reward it",
+      "Your next project needs a safe failure budget",
+      "Track one failure this week; learn from it"
+    ],
+    "thread_text": [
+      "1. Failure is essential\n\nAmazon's Panay says failure is essential — but why? He credits his toughest defeats as biggest lessons.",
+      "2. Defeats become lessons\n\nHe credits his toughest defeats as biggest lessons. That's not just talk — it's how Amazon innovates.",
+      "3. Most companies punish failure\n\nYet most companies punish failure, not reward it. Employees learn to play it safe, killing innovation.",
+      "4. Your safe failure budget\n\nYour next project needs a safe failure budget. Set aside resources for experiments that might fail.",
+      "5. Track one failure this week\n\nTrack one failure this week; learn from it. What will you try that might not work?"
+    ],
+    "video_script": [
+      "Amazon's Panay says failure is essential.",
+      "He credits toughest defeats as biggest lessons.",
+      "Yet most companies punish failure, not reward it.",
+      "Your next project needs a safe failure budget.",
+      "Track one failure this week; learn from it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Failure is essential\n\nAmazon's Panay says failure is essential — but why? He credits his toughest defeats as biggest lessons.",
+          "2. Defeats become lessons\n\nHe credits his toughest defeats as biggest lessons. That's not just talk — it's how Amazon innovates.",
+          "3. Most companies punish failure\n\nYet most companies punish failure, not reward it. Employees learn to play it safe, killing innovation.",
+          "4. Your safe failure budget\n\nYour next project needs a safe failure budget. Set aside resources for experiments that might fail.",
+          "5. Track one failure this week\n\nTrack one failure this week; learn from it. What will you try that might not work?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Amazon's Panay says failure is essential.",
+          "He credits toughest defeats as biggest lessons.",
+          "Yet most companies punish failure, not reward it.",
+          "Your next project needs a safe failure budget.",
+          "Track one failure this week; learn from it."
+        ]
+      },
+      "instagram": {
+        "caption": "Getting fired is the fastest way to learn, says Amazon's devices chief Panos Panay.\n\nHe credits his toughest defeats as his biggest lessons — not just talk, but how Amazon keeps innovating.\n\nMost companies do the opposite: punish failure, so employees play it safe and innovation dies.\n\nIf you make or publish anything, give your next project a safe failure budget — resources for experiments allowed to flop.\n\nTrack one failure this week. What will you try that might not work? 💡"
+      }
+    },
+    "instagram_caption": "Getting fired is the fastest way to learn, says Amazon's devices chief Panos Panay.\n\nHe credits his toughest defeats as his biggest lessons — not just talk, but how Amazon keeps innovating.\n\nMost companies do the opposite: punish failure, so employees play it safe and innovation dies.\n\nIf you make or publish anything, give your next project a safe failure budget — resources for experiments allowed to flop.\n\nTrack one failure this week. What will you try that might not work? 💡",
+    "carousel_slides": [
+      {
+        "hook": "Why do most companies punish failure?",
+        "description": "Amazon's Panay says failure is essential. Yet most companies punish it, so employees play safe and innovation dies.",
+        "visual_hint": "Broken lightbulb on desk",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "broken lightbulb"
+      },
+      {
+        "hook": "Defeats become your biggest lessons",
+        "description": "Panay credits his toughest defeats as his biggest lessons. Amazon uses that mindset to drive innovation.",
+        "visual_hint": "Person climbing steep stairs",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stairs climb",
+        "image": "https://images.pexels.com/photos/28576047/pexels-photo-28576047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Fear of failure kills innovation",
+        "description": "When failure is punished, employees avoid risk. That safety kills the experimentation innovation needs.",
+        "visual_hint": "Frozen gears in machine",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "frozen gears",
+        "image": "https://images.pexels.com/photos/35859699/pexels-photo-35859699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Give your project a failure budget",
+        "description": "Set aside resources for experiments that might fail. A safe failure budget turns losses into learning.",
+        "visual_hint": "Budget notebook with coins",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "budget notebook",
+        "image": "https://images.pexels.com/photos/8970297/pexels-photo-8970297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: track one failure this week",
+        "description": "Write down one failure you experience this week. Then extract the lesson and share it in comments.",
+        "visual_hint": "Hand writing in journal",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "writing journal",
+        "image": "https://images.pexels.com/photos/33868083/pexels-photo-33868083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591538446_52b352f16c_o.jpg?resize=1200,800",
+    "savedAt": "2026-10-15T22:47:29.120Z",
+    "sourceId": "8cbf2529f477496226b2b2255816c40b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "ambani-s-jio-seeks-to-raise-3-2b-in-what-could-be-",
     "prompt_version": "1.0.0",
     "status": "published",

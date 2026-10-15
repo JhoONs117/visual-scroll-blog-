@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-and-apple-team-up-to-make-muse-ai-models-run-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+  "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+  "pubDate": "2026-10-15T18:15:36.000Z",
+  "slides": [
+    "Meta and Apple just partnered—who really wins?",
+    "Muse AI models will run natively on Macs",
+    "But Apple gets a cut from Meta's models",
+    "Your Mac apps could get free AI upgrades soon",
+    "Check if your favorite app supports Muse next week"
+  ],
+  "thread_text": [
+    "1. Meta vs Apple: Who Wins?\n\nMeta's Muse AI models will run natively on Macs, but Apple takes a cut from every use.",
+    "2. Apple's Cut Changes Game\n\nMeta pays Apple a commission on Muse model usage, shifting the economics of free AI.",
+    "3. Free AI for Mac Apps\n\nYour favorite Mac apps could get free AI upgrades soon, thanks to this partnership.",
+    "4. Check App Support Next Week\n\nSee if your go-to app supports Muse—if not, ask the developer when it will.",
+    "5. Test It Yourself\n\nDownload a Muse-powered app and see if the free upgrade saves you time or adds hassle."
+  ],
+  "video_script": [
+    "Meta and Apple just partnered, but who really wins?",
+    "Muse AI models will run natively on Macs.",
+    "Apple gets a cut from Meta's models.",
+    "Your Mac apps could get free AI upgrades soon.",
+    "Check if your favorite app supports Muse next week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta vs Apple: Who Wins?\n\nMeta's Muse AI models will run natively on Macs, but Apple takes a cut from every use.",
+        "2. Apple's Cut Changes Game\n\nMeta pays Apple a commission on Muse model usage, shifting the economics of free AI.",
+        "3. Free AI for Mac Apps\n\nYour favorite Mac apps could get free AI upgrades soon, thanks to this partnership.",
+        "4. Check App Support Next Week\n\nSee if your go-to app supports Muse—if not, ask the developer when it will.",
+        "5. Test It Yourself\n\nDownload a Muse-powered app and see if the free upgrade saves you time or adds hassle."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta and Apple just partnered, but who really wins?",
+        "Muse AI models will run natively on Macs.",
+        "Apple gets a cut from Meta's models.",
+        "Your Mac apps could get free AI upgrades soon.",
+        "Check if your favorite app supports Muse next week."
+      ]
+    },
+    "instagram": {
+      "caption": "Meta's Muse AI models will run natively on Macs, but Apple takes a cut every time they're used.\n\nThat means Meta pays Apple a commission on Muse usage—so \"free\" AI on your Mac isn't actually free for Meta. 🍎\n\nThe upside: your favorite Mac apps could get AI upgrades without you paying extra. 🤖\n\nIf you build or publish with Mac tools, watch for Muse support landing in your apps next week. ✍️\n\nCheck if your go-to app is on the list. If it's not, will you ask the developer when it's coming? 👀"
+    }
+  },
+  "instagram_caption": "Meta's Muse AI models will run natively on Macs, but Apple takes a cut every time they're used.\n\nThat means Meta pays Apple a commission on Muse usage—so \"free\" AI on your Mac isn't actually free for Meta. 🍎\n\nThe upside: your favorite Mac apps could get AI upgrades without you paying extra. 🤖\n\nIf you build or publish with Mac tools, watch for Muse support landing in your apps next week. ✍️\n\nCheck if your go-to app is on the list. If it's not, will you ask the developer when it's coming? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Meta pays Apple for every Muse use?",
+      "description": "Meta's Muse AI models run natively on Macs, but Apple takes a cut from every single use.",
+      "visual_hint": "Two tech logos merging on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "handshake office"
+    },
+    {
+      "hook": "Muse AI goes native on Macs",
+      "description": "Muse AI models will run natively on Macs, enabling faster performance and tighter system integration.",
+      "visual_hint": "MacBook screen with AI code",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "MacBook laptop",
+      "image": "https://images.pexels.com/photos/10655906/pexels-photo-10655906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Apple's cut changes free AI economics",
+      "description": "Meta pays Apple a commission on Muse model usage, shifting the economics of what was once free AI.",
+      "visual_hint": "Commission fee percentage graphic",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your Mac apps might get free AI",
+      "description": "Your favorite Mac apps could get free AI upgrades soon, thanks to this partnership between Meta and Apple.",
+      "visual_hint": "App icons upgrading with AI badge",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "app store screen",
+      "image": "https://images.pexels.com/photos/15378959/pexels-photo-15378959.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: check app support next week",
+      "description": "See if your go-to app supports Muse next week—if not, ask the developer when it will.",
+      "visual_hint": "Calendar marked with checkmark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar reminder",
+      "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268742_Mac_Studio_AKrales_0025.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-15T22:48:16.000Z",
+  "sourceId": "fc7be023ada52fcc8ad5cafdc23ff5cf"
+}

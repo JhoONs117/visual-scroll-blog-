@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-agents-are-coming-to-rivian-s-cars",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI agents are coming to Rivian’s cars",
+  "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+  "pubDate": "Thu, 15 Oct 2026 15:02:36 +0000",
+  "slides": [
+    "Rivian's cars gain AI agents—will they put drivers on autopilot?",
+    "The new software layer aims to understand natural language commands.",
+    "But it will predict your needs before you even ask.",
+    "Your next Rivian could plan routes and charge stops autonomously.",
+    "So, when your car thinks ahead, who's really in control?"
+  ],
+  "thread_text": [
+    "1. Who's driving your Rivian?\n\nRivian's new AI agents can interpret natural language and predict your needs before you ask. The car is starting to think for itself.",
+    "2. The car that listens\n\nA new software layer aims to understand commands like \"find a charger\" without you touching a screen. It's not just voice control—it's comprehension.",
+    "3. Anticipating your every move\n\nThis system doesn't just respond—it predicts. It might suggest a charge stop before you realize you need one, based on your route and driving history.",
+    "4. From assist to autopilot\n\nYour next Rivian could plan routes and charge stops autonomously. That's a shift from driver assistance to full trip management.",
+    "5. Are you ready to let go?\n\nWhen your car thinks ahead, who's really in control? Test it yourself: next time you drive, notice how many decisions you'd hand over."
+  ],
+  "video_script": [
+    "Rivian's new AI agents understand natural language commands.",
+    "The software predicts your needs before you even ask.",
+    "It could plan routes and charging stops autonomously.",
+    "Your car starts making decisions you used to make.",
+    "When it thinks ahead, who's really in control?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who's driving your Rivian?\n\nRivian's new AI agents can interpret natural language and predict your needs before you ask. The car is starting to think for itself.",
+        "2. The car that listens\n\nA new software layer aims to understand commands like \"find a charger\" without you touching a screen. It's not just voice control—it's comprehension.",
+        "3. Anticipating your every move\n\nThis system doesn't just respond—it predicts. It might suggest a charge stop before you realize you need one, based on your route and driving history.",
+        "4. From assist to autopilot\n\nYour next Rivian could plan routes and charge stops autonomously. That's a shift from driver assistance to full trip management.",
+        "5. Are you ready to let go?\n\nWhen your car thinks ahead, who's really in control? Test it yourself: next time you drive, notice how many decisions you'd hand over."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Rivian's new AI agents understand natural language commands.",
+        "The software predicts your needs before you even ask.",
+        "It could plan routes and charging stops autonomously.",
+        "Your car starts making decisions you used to make.",
+        "When it thinks ahead, who's really in control?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your Rivian might soon suggest a charging stop before you even notice you need one.\n\nRivian is adding AI agents that understand natural language commands, like \"find a charger,\" without touching a screen.\n\nThe system doesn't just respond—it predicts your needs based on route and driving history.\n\nYour next car could plan routes and charge stops on its own, shifting from driver assistance to full trip management.\n\nIf you make content about cars or tech, this is a new angle worth covering now. 🚗\n\nWhen your car thinks ahead, who's really in control? 🤔"
+    }
+  },
+  "instagram_caption": "Your Rivian might soon suggest a charging stop before you even notice you need one.\n\nRivian is adding AI agents that understand natural language commands, like \"find a charger,\" without touching a screen.\n\nThe system doesn't just respond—it predicts your needs based on route and driving history.\n\nYour next car could plan routes and charge stops on its own, shifting from driver assistance to full trip management.\n\nIf you make content about cars or tech, this is a new angle worth covering now. 🚗\n\nWhen your car thinks ahead, who's really in control? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Who's Really Driving Your Next Rivian?",
+      "description": "New AI agents predict your needs and plan routes autonomously, shifting control from driver to software.",
+      "visual_hint": "Dashboard with glowing AI interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "car dashboard"
+    },
+    {
+      "hook": "Your Car Now Understands You",
+      "description": "A new software layer interprets natural language commands like 'find a charger' without touching a screen.",
+      "visual_hint": "Voice wave on car screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "voice recognition",
+      "image": "https://images.pexels.com/photos/4790267/pexels-photo-4790267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It Predicts Before You Ask",
+      "description": "The system anticipates charge stops based on route and driving history, suggesting them before you realize you need one.",
+      "visual_hint": "Map with predictive charging icons",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "electric car charging",
+      "image": "https://images.pexels.com/photos/33508511/pexels-photo-33508511.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "From Assist To Full Autopilot",
+      "description": "Your next Rivian could plan routes and charge stops autonomously, marking a shift to full trip management.",
+      "visual_hint": "Hands-off steering wheel with route",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "autonomous car",
+      "image": "https://images.pexels.com/photos/39434843/pexels-photo-39434843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who's In Control? Save This.",
+      "description": "Next time you drive, notice how many decisions you'd hand over. Comment your thoughts below.",
+      "visual_hint": "Driver pondering over steering wheel",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "thoughtful driver",
+      "image": "https://images.pexels.com/photos/5835591/pexels-photo-5835591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/55587802359_b756c3c3bd_k.jpg?resize=1200,800",
+  "savedAt": "2026-10-15T22:47:47.766Z",
+  "sourceId": "534bc46e6ba20de3715d203adc920190"
+}

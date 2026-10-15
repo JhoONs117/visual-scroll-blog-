@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-launches-an-open-weight-ai-model-that-runs-on",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta launches an open-weight AI model that runs on Macs",
+  "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+  "pubDate": "Thu, 15 Oct 2026 20:04:53 +0000",
+  "slides": [
+    "Meta launches an open-weight AI model that runs on Macs. Why?",
+    "You can now run advanced AI locally on your laptop.",
+    "This model matches proprietary giants on many tasks.",
+    "Test it with your own sensitive data, no cloud needed.",
+    "Download and run a local AI model today."
+  ],
+  "thread_text": [
+    "1. Meta's Quiet Power Move\n\nMeta just released an open-weight AI model that runs directly on Macs — no cloud, no subscription, no data leaving your laptop.",
+    "2. The Local AI Leap\n\nYou no longer need a server farm. This model runs on everyday hardware, putting advanced AI in your backpack.",
+    "3. David vs. Goliath\n\nOn many benchmarks, it goes head-to-head with closed models like GPT-4. But you own the weights, not a license.",
+    "4. Your Data, Your Rules\n\nRun it on private documents, medical records, or legal contracts. Nothing gets sent to a third party. Ever.",
+    "5. Try It This Week\n\nDownload the model from Meta's repo, load it on your Mac, and ask it one question about a sensitive file. Does that change how you work?"
+  ],
+  "video_script": [
+    "Meta dropped an AI model that runs on your Mac.",
+    "No cloud. No subscription. Advanced AI locally on your laptop.",
+    "It matches proprietary giants on many tasks.",
+    "Test it with your own sensitive data. Nothing leaves your machine.",
+    "Download it today and try one prompt on a private file."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta's Quiet Power Move\n\nMeta just released an open-weight AI model that runs directly on Macs — no cloud, no subscription, no data leaving your laptop.",
+        "2. The Local AI Leap\n\nYou no longer need a server farm. This model runs on everyday hardware, putting advanced AI in your backpack.",
+        "3. David vs. Goliath\n\nOn many benchmarks, it goes head-to-head with closed models like GPT-4. But you own the weights, not a license.",
+        "4. Your Data, Your Rules\n\nRun it on private documents, medical records, or legal contracts. Nothing gets sent to a third party. Ever.",
+        "5. Try It This Week\n\nDownload the model from Meta's repo, load it on your Mac, and ask it one question about a sensitive file. Does that change how you work?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta dropped an AI model that runs on your Mac.",
+        "No cloud. No subscription. Advanced AI locally on your laptop.",
+        "It matches proprietary giants on many tasks.",
+        "Test it with your own sensitive data. Nothing leaves your machine.",
+        "Download it today and try one prompt on a private file."
+      ]
+    },
+    "instagram": {
+      "caption": "Advanced AI now runs directly on your Mac, no cloud required. 🖥️\n\nMeta released an open-weight model that runs locally on everyday laptops.\n\nOn many tests, it matches closed giants like GPT-4.\n\nYou download the weights, you own them — no license, no subscription.\n\nFor anyone handling sensitive files, this means you can query private documents, contracts or medical records without sending a byte to a third party. 🔒\n\nSo the real question: what's the first confidential file you'd test it on this week? 💾"
+    }
+  },
+  "instagram_caption": "Advanced AI now runs directly on your Mac, no cloud required. 🖥️\n\nMeta released an open-weight model that runs locally on everyday laptops.\n\nOn many tests, it matches closed giants like GPT-4.\n\nYou download the weights, you own them — no license, no subscription.\n\nFor anyone handling sensitive files, this means you can query private documents, contracts or medical records without sending a byte to a third party. 🔒\n\nSo the real question: what's the first confidential file you'd test it on this week? 💾",
+  "carousel_slides": [
+    {
+      "hook": "Your AI, your laptop, no cloud.",
+      "description": "Meta's open-weight model runs locally on Macs, matching GPT-4 on many benchmarks. You own the weights, not a license.",
+      "visual_hint": "MacBook on desk, AI code on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "MacBook laptop"
+    },
+    {
+      "hook": "Advanced AI now lives on your laptop.",
+      "description": "You no longer need a server farm. This model runs on everyday hardware, putting powerful AI in your backpack.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "laptop computer",
+      "visual_hint": "person carrying backpack with laptop",
+      "image": "https://images.pexels.com/photos/6968164/pexels-photo-6968164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Open weights beat closed giants?",
+      "description": "On many benchmarks, it goes head-to-head with closed models like GPT-4, but you own the weights entirely.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "visual_hint": "split screen: open vs closed AI",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Run AI on private data, no cloud.",
+      "description": "Test it on medical records, legal contracts, or private documents. Nothing gets sent to a third party. Ever.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "medical records",
+      "visual_hint": "hand holding document with lock icon",
+      "image": "https://images.pexels.com/photos/4989149/pexels-photo-4989149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ready to try local AI? Save this.",
+      "description": "Download the model from Meta's repo, load it on your Mac, and ask one question about a sensitive file.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "software download",
+      "visual_hint": "download button and Mac laptop",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
+  "savedAt": "2026-10-15T22:47:38.300Z",
+  "sourceId": "b79cf62ab2acf241a335b8038d46b945"
+}

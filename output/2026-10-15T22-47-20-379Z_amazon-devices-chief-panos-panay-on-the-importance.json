@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "amazon-devices-chief-panos-panay-on-the-importance",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it ",
+  "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+  "pubDate": "Thu, 15 Oct 2026 20:38:13 +0000",
+  "slides": [
+    "Amazon's Panay says failure is essential — but why?",
+    "He credits his toughest defeats as biggest lessons",
+    "Yet most companies punish failure, not reward it",
+    "Your next project needs a safe failure budget",
+    "Track one failure this week; learn from it"
+  ],
+  "thread_text": [
+    "1. Failure is essential\n\nAmazon's Panay says failure is essential — but why? He credits his toughest defeats as biggest lessons.",
+    "2. Defeats become lessons\n\nHe credits his toughest defeats as biggest lessons. That's not just talk — it's how Amazon innovates.",
+    "3. Most companies punish failure\n\nYet most companies punish failure, not reward it. Employees learn to play it safe, killing innovation.",
+    "4. Your safe failure budget\n\nYour next project needs a safe failure budget. Set aside resources for experiments that might fail.",
+    "5. Track one failure this week\n\nTrack one failure this week; learn from it. What will you try that might not work?"
+  ],
+  "video_script": [
+    "Amazon's Panay says failure is essential.",
+    "He credits toughest defeats as biggest lessons.",
+    "Yet most companies punish failure, not reward it.",
+    "Your next project needs a safe failure budget.",
+    "Track one failure this week; learn from it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Failure is essential\n\nAmazon's Panay says failure is essential — but why? He credits his toughest defeats as biggest lessons.",
+        "2. Defeats become lessons\n\nHe credits his toughest defeats as biggest lessons. That's not just talk — it's how Amazon innovates.",
+        "3. Most companies punish failure\n\nYet most companies punish failure, not reward it. Employees learn to play it safe, killing innovation.",
+        "4. Your safe failure budget\n\nYour next project needs a safe failure budget. Set aside resources for experiments that might fail.",
+        "5. Track one failure this week\n\nTrack one failure this week; learn from it. What will you try that might not work?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Amazon's Panay says failure is essential.",
+        "He credits toughest defeats as biggest lessons.",
+        "Yet most companies punish failure, not reward it.",
+        "Your next project needs a safe failure budget.",
+        "Track one failure this week; learn from it."
+      ]
+    },
+    "instagram": {
+      "caption": "Getting fired is the fastest way to learn, says Amazon's devices chief Panos Panay.\n\nHe credits his toughest defeats as his biggest lessons — not just talk, but how Amazon keeps innovating.\n\nMost companies do the opposite: punish failure, so employees play it safe and innovation dies.\n\nIf you make or publish anything, give your next project a safe failure budget — resources for experiments allowed to flop.\n\nTrack one failure this week. What will you try that might not work? 💡"
+    }
+  },
+  "instagram_caption": "Getting fired is the fastest way to learn, says Amazon's devices chief Panos Panay.\n\nHe credits his toughest defeats as his biggest lessons — not just talk, but how Amazon keeps innovating.\n\nMost companies do the opposite: punish failure, so employees play it safe and innovation dies.\n\nIf you make or publish anything, give your next project a safe failure budget — resources for experiments allowed to flop.\n\nTrack one failure this week. What will you try that might not work? 💡",
+  "carousel_slides": [
+    {
+      "hook": "Why do most companies punish failure?",
+      "description": "Amazon's Panay says failure is essential. Yet most companies punish it, so employees play safe and innovation dies.",
+      "visual_hint": "Broken lightbulb on desk",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "broken lightbulb"
+    },
+    {
+      "hook": "Defeats become your biggest lessons",
+      "description": "Panay credits his toughest defeats as his biggest lessons. Amazon uses that mindset to drive innovation.",
+      "visual_hint": "Person climbing steep stairs",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stairs climb",
+      "image": "https://images.pexels.com/photos/28576047/pexels-photo-28576047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fear of failure kills innovation",
+      "description": "When failure is punished, employees avoid risk. That safety kills the experimentation innovation needs.",
+      "visual_hint": "Frozen gears in machine",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "frozen gears",
+      "image": "https://images.pexels.com/photos/35859699/pexels-photo-35859699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Give your project a failure budget",
+      "description": "Set aside resources for experiments that might fail. A safe failure budget turns losses into learning.",
+      "visual_hint": "Budget notebook with coins",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "budget notebook",
+      "image": "https://images.pexels.com/photos/8970297/pexels-photo-8970297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: track one failure this week",
+      "description": "Write down one failure you experience this week. Then extract the lesson and share it in comments.",
+      "visual_hint": "Hand writing in journal",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "writing journal",
+      "image": "https://images.pexels.com/photos/33868083/pexels-photo-33868083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591538446_52b352f16c_o.jpg?resize=1200,800",
+  "savedAt": "2026-10-15T22:47:29.120Z",
+  "sourceId": "8cbf2529f477496226b2b2255816c40b"
+}
