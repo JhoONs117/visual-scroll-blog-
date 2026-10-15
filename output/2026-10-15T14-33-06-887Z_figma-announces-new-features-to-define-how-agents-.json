@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "figma-announces-new-features-to-define-how-agents-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Figma announces new features to define how agents work on its platform",
+  "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+  "pubDate": "Thu, 15 Oct 2026 04:30:00 +0000",
+  "slides": [
+    "Can Figma control how AI agents design?",
+    "New features aim to define agent behavior on the platform",
+    "Agents might soon edit files without human approval",
+    "Designers must learn to set boundaries for agent actions",
+    "Start defining your agent rules before they act"
+  ],
+  "thread_text": [
+    "1. Agents Don't Ask Permission\n\nFigma is rolling out features that let AI design agents edit files autonomously—no human approval required. That's a real shift in how work gets done on the platform.",
+    "2. New Rules for Agent Behavior\n\nFigma is adding controls so teams can define what agents can and can't do. You'll be able to set guardrails before an agent touches a single layer.",
+    "3. One Click, Zero Oversight\n\nIf an agent can edit without approval, a small mistake can cascade across dozens of files. The speed gain is real—so is the risk of silent changes.",
+    "4. Designers as Boundary Setters\n\nThe skill isn't just designing anymore. It's deciding which actions agents can take alone and which need a human check. That's a new part of the job.",
+    "5. Set Rules Before Agents Act\n\nOpen Figma today and draft a simple permission list: what can an agent edit, move, or delete without asking? Share it with your team this week. Does your current workflow already assume agents will ask first?"
+  ],
+  "video_script": [
+    "Figma is building features for AI agents that design.",
+    "These agents could edit files without human approval.",
+    "New controls will let teams define agent behavior.",
+    "Designers now need to set boundaries for agent actions.",
+    "Start defining your agent rules before they act."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Agents Don't Ask Permission\n\nFigma is rolling out features that let AI design agents edit files autonomously—no human approval required. That's a real shift in how work gets done on the platform.",
+        "2. New Rules for Agent Behavior\n\nFigma is adding controls so teams can define what agents can and can't do. You'll be able to set guardrails before an agent touches a single layer.",
+        "3. One Click, Zero Oversight\n\nIf an agent can edit without approval, a small mistake can cascade across dozens of files. The speed gain is real—so is the risk of silent changes.",
+        "4. Designers as Boundary Setters\n\nThe skill isn't just designing anymore. It's deciding which actions agents can take alone and which need a human check. That's a new part of the job.",
+        "5. Set Rules Before Agents Act\n\nOpen Figma today and draft a simple permission list: what can an agent edit, move, or delete without asking? Share it with your team this week. Does your current workflow already assume agents will ask first?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Figma is building features for AI agents that design.",
+        "These agents could edit files without human approval.",
+        "New controls will let teams define agent behavior.",
+        "Designers now need to set boundaries for agent actions.",
+        "Start defining your agent rules before they act."
+      ]
+    },
+    "instagram": {
+      "caption": "AI design agents on Figma may soon edit your files without asking you first.\n\nFigma is adding features so teams can define what agents can and can't do on the platform.\n\nGuardrails get set before an agent touches a single layer.\n\nBut editing without approval means one small mistake can ripple across dozens of files. ⚠️\n\nIf you design or publish, your role now includes deciding which actions agents take alone and which need a human check.\n\nThat's no longer just design work—it's boundary setting. 🧭\n\nOpen Figma today and draft a permission list: what can an agent edit, move, or delete without asking? ✍️\n\nDoes your current workflow already assume agents will ask first? 🤔"
+    }
+  },
+  "instagram_caption": "AI design agents on Figma may soon edit your files without asking you first.\n\nFigma is adding features so teams can define what agents can and can't do on the platform.\n\nGuardrails get set before an agent touches a single layer.\n\nBut editing without approval means one small mistake can ripple across dozens of files. ⚠️\n\nIf you design or publish, your role now includes deciding which actions agents take alone and which need a human check.\n\nThat's no longer just design work—it's boundary setting. 🧭\n\nOpen Figma today and draft a permission list: what can an agent edit, move, or delete without asking? ✍️\n\nDoes your current workflow already assume agents will ask first? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can AI agents edit Figma without permission?",
+      "description": "Figma introduces features letting AI design agents edit files autonomously, with no human approval required. The way work gets done is shifting fast.",
+      "visual_hint": "Split screen showing autonomous agent toggle",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot arm"
+    },
+    {
+      "hook": "Figma is defining agent behavior now",
+      "description": "New controls let teams set guardrails before an agent touches a single layer or file, defining what actions are allowed.",
+      "visual_hint": "Settings panel with permission toggles",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "control panel",
+      "image": "https://images.pexels.com/photos/39255983/pexels-photo-39255983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One click, zero oversight, huge risk",
+      "description": "If an agent edits without approval, a small mistake can cascade across dozens of files. Speed gain is real, so is silent change risk.",
+      "visual_hint": "Cascading file icons multiplying rapidly",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "domino effect",
+      "image": "https://images.pexels.com/photos/9760552/pexels-photo-9760552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Designers must now set agent boundaries",
+      "description": "The skill isn't just designing anymore. Deciding which agent actions need a human check is becoming a core part of the job.",
+      "visual_hint": "Hand drawing a boundary line on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "boundary line",
+      "image": "https://images.pexels.com/photos/28271642/pexels-photo-28271642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Set your agent rules before they act",
+      "description": "Open Figma today and draft a simple permission list: what can an agent edit, move, or delete without asking? Save this and share with your team.",
+      "visual_hint": "Checklist with checkboxes and pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Specs_agent.jpeg?resize=1200,675",
+  "savedAt": "2026-10-15T14:33:30.602Z",
+  "sourceId": "74a5b05214cca33fe9da65359719cf8c"
+}

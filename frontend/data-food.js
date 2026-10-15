@@ -2,6 +2,339 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "pasta-con-porcini-e-zafferano",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Pasta con porcini e zafferano",
+    "link": "https://ricette.giallozafferano.it/Pasta-con-porcini-e-zafferano.html",
+    "pubDate": "Thu, 15 Oct 2026 12:30:00 +0200",
+    "content": "Pasta cremosa con porcini e zafferano Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X SPECIALE Zafferano in collaborazione con Primi piatti Pasta Contenuto Sponsorizzato Pasta con porcini e zafferano /5 CONDIVIDI INVIA FOTO COMMENTA de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 20 min Cottura: 15 min Dosi per: 4 persone Ascolta la ricetta Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti Ascolta su Spreaker. PRESENTAZIONE Portate in tavola i sapori dell’autunno in una veste raffinata con la ricetta della pasta con porcini e zafferano ! Un primo piatto cremoso e aromatico, in cui il gusto intenso dei funghi freschi incontra il profumo inconfondibile dello zafferano, dando vita a un condimento vellutato che avvolge le linguine alla perfezione. La cottura dei funghi porcini trifolati è facile e veloce, mentre la mantecatura finale della pasta con il formaggio grattugiato garantisce la giusta cremosità. L’aggiunta dello zafferano direttamente nella padella, inoltre, ne esalta il gusto mantenendone intatte le proprietà. Realizzata con pochi ingredienti di qualità, la pasta con porcini e zafferano è la ricetta ideale per far sentire speciali i propri ospiti. Provate anche queste varianti di pasta con i porcini : Pappardelle con speck e funghi porcini Pasta con crema di Parmigiano e funghi porcini Fettuccine ai funghi e burrata Tagliatelle con porcini e guanciale INGREDIENTI Linguine 320 g Funghi porcini (da pulire) 300 g Parmigiano Reggiano DOP 50 g Aglio 1 spicchio Zafferano (2 bustine da 0,15 g) 0,3 g Prezzemolo q.b. Timo q.b. Olio extravergine d'oliva q.b. Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta con porcini e zafferano Per preparare la pasta con porcini, per prima cosa pulite i funghi : eliminate la parte terrosa 1 , poi raschiate la base del gambo con la lama di un coltellino 2 . Strofinate delicatamente il resto del gambo e la calotta con una spazzolina o un tovagliolo inumidito per rimuovere i residui di sporco 3 . Tagliate i porcini per il lungo a fette dello spessore di circa mezzo centimetro 4 . In una padella capiente fate insaporire l’olio con l’aglio 5 , il timo e i gambi del prezzemolo 6 . Aggiungete i funghi 7 , salate 8 e pepate. Saltate i funghi a fuoco medio-alto per circa 5 minuti. Nel frattempo cuocete le linguine in acqua bollente salata 9 . Trascorsi 5 minuti, rimuovete dalla padella l’aglio e le erbe aromatiche 10 . Scolate la pasta al dente e finite la cottura nella padella 11 , bagnando con un mestolo dell’acqua di cottura 12 . Intanto versate un altro mestolino dell’acqua di cottura in una ciotolina 13 e lasciate intiepidire leggermente, poi aggiungete lo zafferano 14 e mescolate bene per scioglierlo 15 . Unite lo zafferano disciolto nella padella 16 , amalgamate bene e spegnete il fuoco. In ultimo, mantecate con il Parmigiano Reggiano grattugiato 17 e mescolate ancora 18 . Impiattate 19 e guarnite con qualche fogliolina di prezzemolo 20 e una macinata di pepe. Servite subito la vostra pasta con porcini e zafferano 21 ! Conservazione Si consiglia di consumare la pasta con porcini e zafferano appena pronta. Consiglio Potete omettere il formaggio grattugiato o sostituirlo con il pecorino. SCELTO IN ESCLUSIVA DA GIALLOZAFFERANO Zafferano 3 Cuochi è scelto in esclusiva da GialloZafferano proprio perché grazie alla sua altissima qualità, facilità di utilizzo e versatilità è un alleato prezioso nelle cucine degli italiani sin dal 1935 ed è apprezzato anche dagli chef per la sua raffinatezza. Un prodotto puro, naturale e attentamente selezionato, che viene preparato con tecnologie esclusive di lavorazione per garantire un aroma , un profumo e un colore inconfondibili. Prova subito le ricette 3 Cuochi, scarica gratis il ricettario cliccando qui Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Timo Aglio Pasta Zafferano Olio di oliva Prezzemolo Parmigiano Reggiano Scopri tutto sugli ingredienti Presente in: Primi piatti sfiziosi , Ricette sfiziose STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Linguine cremose con porcini e zafferano",
+      "Linguine, porcini, Parmigiano, zafferano, aglio",
+      "Trifola i funghi con olio, aglio e timo",
+      "Scola al dente, salta con zafferano e Parmigiano",
+      "Guarnisci con prezzemolo e pepe nero"
+    ],
+    "instagram_caption": "La domenica ha il profumo del bosco e il colore dell'oro ✨\nLinguine cremose che nascono da un soffritto di aglio e timo, dove i porcini trifolati sprigionano tutto il loro carattere. Lo zafferano entra in scena alla fine, avvolgendo ogni filo in una carezza dorata insieme al Parmigiano.\nUn finale di prezzemolo fresco e pepe nero per dare brio a un piatto che sa di coccola autunnale 🍂🍄\nSalva il post e provala questo weekend 🌿",
+    "formats": {
+      "instagram": {
+        "caption": "La domenica ha il profumo del bosco e il colore dell'oro ✨\nLinguine cremose che nascono da un soffritto di aglio e timo, dove i porcini trifolati sprigionano tutto il loro carattere. Lo zafferano entra in scena alla fine, avvolgendo ogni filo in una carezza dorata insieme al Parmigiano.\nUn finale di prezzemolo fresco e pepe nero per dare brio a un piatto che sa di coccola autunnale 🍂🍄\nSalva il post e provala questo weekend 🌿"
+      },
+      "tiktok": {
+        "script": [
+          "Linguine cremose con porcini e zafferano, andiamo!",
+          "Prendo linguine, porcini, Parmigiano, zafferano e aglio.",
+          "Trifolo i funghi con olio, aglio e timo.",
+          "Scolo al dente e salto con zafferano e Parmigiano.",
+          "Guarnisco con prezzemolo e pepe nero. Che profumo!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "La pasta che ti fa chiudere gli occhi al primo boccone. Porcini e zafferano: cremosità assurda, profumo che riempie la cucina. Ecco come la faccio in 5 passi. 🍝",
+          "Ti servono: linguine, porcini freschi, Parmigiano, zafferano, aglio, timo, prezzemolo. Niente panna. La cremosità la costruiamo dopo, sul fuoco.",
+          "Trifola i porcini a fette con olio, aglio in camicia e timo. Fuoco alto, pochi minuti. Devono dorarsi, non lessare. Sfuma con un po' di acqua di cottura.",
+          "Scola le linguine al dente. In padella: zafferano sciolto in un mestolo di acqua di cottura, poi pasta e una pioggia di Parmigiano. Manteca e salta finché non diventa seta.",
+          "Fuori dal fuoco: prezzemolo fresco e pepe nero macinato. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Linguine cremose con porcini e zafferano, andiamo!",
+      "Prendo linguine, porcini, Parmigiano, zafferano e aglio.",
+      "Trifolo i funghi con olio, aglio e timo.",
+      "Scolo al dente e salto con zafferano e Parmigiano.",
+      "Guarnisco con prezzemolo e pepe nero. Che profumo!"
+    ],
+    "thread_text": [
+      "La pasta che ti fa chiudere gli occhi al primo boccone. Porcini e zafferano: cremosità assurda, profumo che riempie la cucina. Ecco come la faccio in 5 passi. 🍝",
+      "Ti servono: linguine, porcini freschi, Parmigiano, zafferano, aglio, timo, prezzemolo. Niente panna. La cremosità la costruiamo dopo, sul fuoco.",
+      "Trifola i porcini a fette con olio, aglio in camicia e timo. Fuoco alto, pochi minuti. Devono dorarsi, non lessare. Sfuma con un po' di acqua di cottura.",
+      "Scola le linguine al dente. In padella: zafferano sciolto in un mestolo di acqua di cottura, poi pasta e una pioggia di Parmigiano. Manteca e salta finché non diventa seta.",
+      "Fuori dal fuoco: prezzemolo fresco e pepe nero macinato. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Linguine cremose ai porcini e zafferano",
+        "description": "Una pasta elegante e avvolgente, pronta a conquistare col suo profumo dorato di bosco.",
+        "visual_hint": "linguine cremose con funghi",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory porcini pasta"
+      },
+      {
+        "hook": "Quattro ingredienti, un capolavoro",
+        "description": "Porcini, zafferano, Parmigiano e aglio: la semplicità che diventa pura armonia di sapore.",
+        "visual_hint": "ingredienti porcini zafferano parmigiano",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory porcini mushrooms",
+        "image": "https://images.pexels.com/photos/36183179/pexels-photo-36183179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Trifola i funghi con aglio e timo",
+        "description": "Il gesto che sprigiona l'aroma: funghi dorati in padella con olio, aglio e timo fresco.",
+        "visual_hint": "funghi trifolati in padella",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory sauteed mushrooms",
+        "image": "https://images.pexels.com/photos/33023618/pexels-photo-33023618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Scola al dente e salta in padella",
+        "description": "Zafferano e Parmigiano si sciolgono nella pasta calda, creando una crema vellutata senza panna.",
+        "visual_hint": "pasta mantecata in padella",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory creamy linguine",
+        "image": "https://images.pexels.com/photos/29935439/pexels-photo-29935439.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prezzemolo e pepe: il tocco finale",
+        "description": "Guarnisci con prezzemolo fresco e pepe nero macinato: servila subito, ben calda e profumata.",
+        "visual_hint": "pasta guarnita prezzemolo pepe",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory garnished pasta",
+        "image": "https://images.pexels.com/photos/31235407/pexels-photo-31235407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "porcini",
+      "zafferano",
+      "Parmigiano"
+    ],
+    "image": "https://www.giallozafferano.it/images/367-36715/Pasta-con-porcini-e-zafferano_1200x800_wm.jpg",
+    "savedAt": "2026-10-15T14:42:34.430Z",
+    "sourceId": "9e0393970eb17775f4de80d125b64596"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
+    "slug": "pasta-con-crema-di-patate-fagioli-e-zafferano",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Pasta con crema di patate, fagioli e zafferano",
+    "link": "https://ricette.giallozafferano.it/Pasta-con-crema-di-patate-fagioli-e-zafferano.html",
+    "pubDate": "Thu, 15 Oct 2026 12:30:00 +0200",
+    "content": "Pasta cremosa con patate, fagioli e zafferano Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X SPECIALE Zafferano in collaborazione con Primi piatti Pasta Contenuto Sponsorizzato Pasta con crema di patate, fagioli e zafferano /5 CONDIVIDI INVIA FOTO COMMENTA de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 10 min Cottura: 40 min Dosi per: 4 persone PRESENTAZIONE La pasta con crema di patate, fagioli e zafferano è un primo piatto ricco di sapore, cremoso e avvolgente, che rivisita la tradizionale pasta e patate in un modo sfizioso e originale. Una ricetta che parte da ingredienti semplici e genuini, trasformandoli in una portata perfetta anche per le occasioni più speciali. Il segreto di questa preparazione sta nella risottatura della pasta insieme alle patate e ai cannellini, che permette di ottenere una consistenza naturalmente cremosa, senza bisogno di aggiungere panna. Lo zafferano dona un colore dorato e un aroma intenso, mentre la mantecatura con Parmigiano Reggiano rende il condimento ancora più vellutato. Le foglioline di salvia fritta, infine, aggiungono una piacevole nota croccante e profumata. Perfetta per portare in tavola tutto il calore della tradizione con un tocco di creatività, la pasta con crema di patate, fagioli e zafferano è un comfort food dall’anima rustica e dal carattere raffinato. Ecco altre varianti di pasta e patate da provare: Spaghettoni con patate, crema di baccalà e zafferano Pasta e patate di mare Pasta e patate con provola e pancetta INGREDIENTI Pasta Mista 320 g Patate 400 g Fagioli cannellini precotti (peso sgocciolato) 350 g Brodo vegetale 1 l Zafferano (2 bustine da 0,15 g) 0,3 g Salvia q.b. Olio extravergine d'oliva 30 g Sale fino q.b. Pepe nero q.b. Per mantecare Parmigiano Reggiano DOP 60 g Olio extravergine d'oliva 10 g AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta con crema di patate, fagioli e zafferano Per preparare la pasta mista con crema di patate, fagioli e zafferano, per prima cosa sbucciate le patate e tagliatele a cubetti di circa 1 cm 1 . Tenete da parte. Scaldate l’olio in una casseruola e friggete le foglie di salvia per circa 5 minuti 2 , poi trasferitele su carta assorbente 3 . Nello stesso tegame aggiungete le patate a cubetti 4 e cuocete a fuoco medio per 5 minuti, poi bagnate con un mestolo di brodo caldo 6 . Unite anche i fagioli cannellini 7 e proseguite la cottura per altri 5 minuti 8 , aiutandovi sempre con del brodo caldo. A questo punto aggiungete la pasta mista 9 . Cuocete la pasta per 20-25 minuti, bagnando con il brodo al bisogno 10 . Nel frattempo versate lo zafferano in una ciotolina 11 con poco brodo tiepido e mescolate per scioglierlo 12 . A fine cottura regolate di sale e di pepe 13 , poi unite lo zafferano disciolto 14 e mescolate accuratamente 15 . Spegnete il fuoco e mantecate con il Parmigiano Reggiano grattugiato 16 e l’olio 17 , mescolando bene il tutto 18 . Impiattate 19 e guarnite con le foglioline di salvia fritta 20 . La vostra pasta con crema di patate, fagioli e zafferano è pronta per essere servita 21 ! Conservazione Si consiglia di consumare subito la pasta con crema di patate, fagioli e zafferano. Consiglio Potete utilizzare altri formati di pasta corta, come tubetti, conchiglie o mezze maniche. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Fagioli Salvia Patate Pasta Zafferano Olio di oliva Parmigiano Reggiano Scopri tutto sugli ingredienti Presente in: Primi piatti sfiziosi , Ricette sfiziose STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Pasta cremosa con patate, fagioli e zafferano",
+      "Patate, cannellini, zafferano, Parmigiano, salvia",
+      "Risotta la pasta con patate e cannellini",
+      "Manteca con Parmigiano e zafferano",
+      "Guarnisci con salvia fritta croccante"
+    ],
+    "instagram_caption": "La pasta che sa di coccola, ma con quel tocco che non ti aspetti ✨\nHo trasformato patate e cannellini in una crema vellutata, poi ho risottato la pasta direttamente lì dentro: ogni chicco assorbe tutto il sapore.\nZafferano e Parmigiano fanno il resto, mantecando fino a renderla lucida e avvolgente.\nE sopra? Salvia fritta croccante, perché il contrasto tra morbido e croccante è la mia ossessione.\nSalva il post e provala questo weekend 🌿🧀🥔",
+    "formats": {
+      "instagram": {
+        "caption": "La pasta che sa di coccola, ma con quel tocco che non ti aspetti ✨\nHo trasformato patate e cannellini in una crema vellutata, poi ho risottato la pasta direttamente lì dentro: ogni chicco assorbe tutto il sapore.\nZafferano e Parmigiano fanno il resto, mantecando fino a renderla lucida e avvolgente.\nE sopra? Salvia fritta croccante, perché il contrasto tra morbido e croccante è la mia ossessione.\nSalva il post e provala questo weekend 🌿🧀🥔"
+      },
+      "tiktok": {
+        "script": [
+          "Pasta cremosa con patate, fagioli e zafferano!",
+          "Prendo patate, cannellini, zafferano, Parmigiano e salvia.",
+          "Risotto la pasta con patate e cannellini.",
+          "Manteco con Parmigiano e zafferano, che cremosità!",
+          "Guarnisco con salvia fritta croccante. Che profumo!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "La pasta con crema di patate, fagioli e zafferano è il piatto che non ti aspetti: cremosa, avvolgente, con un profumo che riempie la cucina. Ecco come farla in 5 passi. 🍝",
+          "Parti da patate e cannellini: lessali, poi frullali con un po' di brodo per una crema vellutata. Aggiungi zafferano, Parmigiano e salvia. Profumo e colore da urlo.",
+          "Cuoci la pasta e risottala direttamente nella crema di patate e cannellini: assorbe tutto, diventa setosa. Il segreto è mantecare a fuoco spento.",
+          "Manteca con Parmigiano abbondante e una bustina di zafferano sciolta in poca acqua calda. La crema diventa dorata e profumata. Assaggia: è pura seta.",
+          "Guarnisci con salvia fritta croccante: il contrasto con la cremosità è pazzesco. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Pasta cremosa con patate, fagioli e zafferano!",
+      "Prendo patate, cannellini, zafferano, Parmigiano e salvia.",
+      "Risotto la pasta con patate e cannellini.",
+      "Manteco con Parmigiano e zafferano, che cremosità!",
+      "Guarnisco con salvia fritta croccante. Che profumo!"
+    ],
+    "thread_text": [
+      "La pasta con crema di patate, fagioli e zafferano è il piatto che non ti aspetti: cremosa, avvolgente, con un profumo che riempie la cucina. Ecco come farla in 5 passi. 🍝",
+      "Parti da patate e cannellini: lessali, poi frullali con un po' di brodo per una crema vellutata. Aggiungi zafferano, Parmigiano e salvia. Profumo e colore da urlo.",
+      "Cuoci la pasta e risottala direttamente nella crema di patate e cannellini: assorbe tutto, diventa setosa. Il segreto è mantecare a fuoco spento.",
+      "Manteca con Parmigiano abbondante e una bustina di zafferano sciolta in poca acqua calda. La crema diventa dorata e profumata. Assaggia: è pura seta.",
+      "Guarnisci con salvia fritta croccante: il contrasto con la cremosità è pazzesco. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta cremosa con patate e zafferano",
+        "description": "Un piatto avvolgente dove la cremosità delle patate incontra il profumo dello zafferano: comfort food italiano.",
+        "visual_hint": "pasta cremosa zafferano",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory creamy pasta"
+      },
+      {
+        "hook": "Patate, cannellini e zafferano",
+        "description": "Tre ingredienti semplici che creano una crema vellutata e nutriente, con Parmigiano e salvia a esaltare ogni morso.",
+        "visual_hint": "ingredienti patate fagioli",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory potato beans",
+        "image": "https://images.pexels.com/photos/33706258/pexels-photo-33706258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Risotta la pasta con patate",
+        "description": "Il segreto è risottare: la pasta assorbe il brodo e diventa cremosa, come un risotto ma con i cannellini.",
+        "visual_hint": "pasta che assorbe brodo",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory pasta risotto",
+        "image": "https://images.pexels.com/photos/21821603/pexels-photo-21821603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Manteca con Parmigiano e zafferano",
+        "description": "Fuori dal fuoco, manteca con Parmigiano e zafferano: la crema si lega e il profumo si sprigiona.",
+        "visual_hint": "mantecatura cremosa",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory creamy pasta",
+        "image": "https://images.pexels.com/photos/3820638/pexels-photo-3820638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Guarnisci con salvia fritta croccante",
+        "description": "Servi con salvia fritta croccante: un tocco di eleganza e contrasto per un piatto da chef a casa tua.",
+        "visual_hint": "salvia fritta croccante",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory pasta sage",
+        "image": "https://images.pexels.com/photos/34326272/pexels-photo-34326272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "patate",
+      "fagioli cannellini",
+      "zafferano"
+    ],
+    "image": "https://www.giallozafferano.it/images/367-36711/Pasta-con-crema-di-patate-fagioli-e-zafferano_1200x800_wm.jpg",
+    "savedAt": "2026-10-15T14:42:19.479Z",
+    "sourceId": "d94719b65eb6b3ebcee4b538629b203c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
+    "slug": "torta-cremino",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Torta cremino",
+    "link": "https://ricette.giallozafferano.it/Torta-cremino.html",
+    "pubDate": "Thu, 15 Oct 2026 12:55:00 +0200",
+    "content": "Torta cremino senza cottura: ricetta cremosa a tre strati Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X Dolci Torte Torta cremino /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Segui GialloZafferano su Google Seguici Difficoltà: Media Preparazione: 45 min Cottura: 5 min Dosi per: 8 persone Costo: Medio Nota + i tempi di rassodamento in frigo (almeno 6 h tot.) Ascolta la ricetta Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti Ascolta su Spreaker. PRESENTAZIONE La torta cremino è un dolce senza cottura che si ispira agli omonimi cioccolatini , famosi per il loro gusto intenso e la consistenza scioglievole. Un dessert elegante e scenografico, perfetto per chi ama il cioccolato e le nocciole. La particolarità di questa torta fredda sta nei suoi tre strati cremosi, preparati con mascarpone, panna, cioccolato fondente e crema di nocciole. Due strati dal gusto più intenso racchiudono un cuore più chiaro e delicato, creando un piacevole contrasto di colori e consistenze che rende ogni boccone irresistibile. Preparare la torta cremino è più semplice di quanto possiate immaginare: non servono particolari abilità di pasticceria, ma solo un po' di tempo e pazienza per permettere a ciascuno strato di rassodarsi in frigorifero. Otterrete così un dolce senza forno di grande effetto, che conquisterà i vostri ospiti fin dal primo sguardo! Scoprite altri altri golosi dolci al cioccolato senza cottura : Cheesecake al triplo cioccolato Cubotti cocco e cioccolato Dolcetti al cioccolato e tahina Torta 2 ingredienti INGREDIENTI Per il primo strato (per uno stampo da 20x20 cm) Mascarpone 220 g Panna fresca liquida 80 g Pasta di nocciole (100% frutta secca) 50 g Cioccolato fondente 40 g Zucchero a velo 20 g Gelatina in fogli 3 g Per il secondo strato Mascarpone 130 g Panna fresca liquida 160 g Pasta di nocciole (100% frutta secca) 90 g Cioccolato fondente 15 g Zucchero a velo 20 g Gelatina in fogli 4 g Per il terzo strato Mascarpone 220 g Panna fresca liquida 80 g Pasta di nocciole (100% frutta secca) 50 g Cioccolato fondente 40 g Zucchero a velo 20 g Gelatina in fogli 3 g AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta cremino Per preparare la torta cremino, iniziate dal primo strato: per prima cosa mettete in ammollo la gelatina in acqua fredda 1 , poi tritate il cioccolato fondente 2 e fatelo sciogliere a bagnomaria o in microonde. Intanto, scaldate la panna in un pentolino 3 . In una ciotola a parte, unite il mascarpone, lo zucchero a velo 4 e la crema di nocciole 5 . Amalgamate bene con una frusta 6 e tenete da parte. Quando la panna sarà calda, aggiungete la gelatina ben strizzata 7 e mescolate accuratamente per scioglierla in modo uniforme 8 . Versate la panna nella ciotola con il cioccolato fuso 9 . Mescolate bene 10 , poi versate il composto di cioccolato e panna nella ciotola con il mascarpone 11 . Amalgamate il tutto 12 fino ad ottenere una consistenza omogenea. Ora ricoprite con carta forno i bordi di un anello quadrato di 20x20 cm, alto 5 cm, e posizionatelo sul piatto da portata. Versate all’interno il composto ottenuto 13 , livellate la superficie 14 e lasciate rassodare in frigorifero per circa 2 ore 15 . Trascorso il tempo di rassodamento, dedicatevi al secondo strato: mettete in ammollo la gelatina, poi tritate il cioccolato e fatelo sciogliere. Intanto, scaldate la panna nel pentolino. In una ciotola unite il mascarpone con lo zucchero a velo 16 e la crema di nocciole 17 . Amalgamate bene 18 e tenete da parte. Aggiungete la gelatina strizzata alla panna calda 19 e mescolate per scioglierla completamente 20 , poi versatela sul cioccolato fuso 21 . Amalgamate il composto 22 e versatelo nella ciotola con il mascarpone 23 . Mescolate fino ad ottenere un composto liscio e omogeneo 24 . Riprendete lo stampo dal frigorifero e versate il composto sopra al primo strato, che sarà ormai rassodato 25 . Livellate la superficie e riponete nuovamente in frigorifero per altre 2 ore 26 . Trascorso questo tempo, preparate il terzo strato seguendo lo stesso procedimento del primo. Versate il composto ottenuto nello stampo, livellate la superficie e lasciate rassodare in frigorifero per altre 2 ore 27 . Una volta che la torta sarà ben fredda e compatta, rimuovete lo stampo e guarnite i bordi con cioccolato grattugiato 28 e granella di nocciole 29 . La vostra torta cremino è pronta per essere servita 30 ! Conservazione La torta cremino si può conservare in frigorifero per 2 giorni. Non si può congelare. Consiglio Per questa ricetta utilizzate una crema di nocciole realizzata con il 100% di nocciole tostate, senza zuccheri aggiunti. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchero Cioccolato Mascarpone Scopri tutto sugli ingredienti Presente in: Dolci al cioccolato , Dolci freddi , Ricette sfiziose , Piatti freddi , Torte fredde STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Torta cremino Pasta con crema di patate, fagioli e zafferano Pasta con porcini e zafferano SCOPRI Crema di caffè Crema al caffè fredda Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Torta cremino: tre strati cremosi senza cottura",
+      "Mascarpone, panna, cioccolato fondente, pasta di nocciole",
+      "Alterna strati e lascia rassodare in frigo",
+      "Versa ogni strato dopo 2 ore di frigo",
+      "Guarnisci con cioccolato grattugiato e granella di nocciole"
+    ],
+    "instagram_caption": "Tre strati di pura cremosità, senza forno e senza stress: la Torta Cremino è qui per conquistarti. 🍫\nMascarpone e panna si incontrano con cioccolato fondente e pasta di nocciole, creando un equilibrio perfetto tra dolcezza e intensità.\nBasta alternare gli strati con pazienza e lasciare che il frigo faccia la sua magia, due ore alla volta.\nIl finale? Cioccolato grattugiato e granella di nocciole per una croccantezza irresistibile. ✨\nSalva la ricetta e provala questo weekend! 🌰",
+    "formats": {
+      "instagram": {
+        "caption": "Tre strati di pura cremosità, senza forno e senza stress: la Torta Cremino è qui per conquistarti. 🍫\nMascarpone e panna si incontrano con cioccolato fondente e pasta di nocciole, creando un equilibrio perfetto tra dolcezza e intensità.\nBasta alternare gli strati con pazienza e lasciare che il frigo faccia la sua magia, due ore alla volta.\nIl finale? Cioccolato grattugiato e granella di nocciole per una croccantezza irresistibile. ✨\nSalva la ricetta e provala questo weekend! 🌰"
+      },
+      "tiktok": {
+        "script": [
+          "Oggi prepariamo la torta cremino senza cottura!",
+          "Prendo mascarpone, panna, cioccolato fondente e pasta di nocciole.",
+          "Alterno gli strati e lascio rassodare in frigo.",
+          "Verso ogni strato dopo due ore di frigo.",
+          "Guarnisco con cioccolato grattugiato e granella di nocciole."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Tre strati cremosi che si sciolgono in bocca. Senza forno. La torta cremino è il dessert che ti fa fare bella figura senza accendere il forno. Ecco come si fa.",
+          "Ingredienti: mascarpone, panna montata, cioccolato fondente fuso e pasta di nocciole. Mescola con delicatezza per non smontare la panna. Ogni strato deve restare soffice.",
+          "Alterna gli strati nello stampo: prima crema al cioccolato, poi nocciole, poi mascarpone. Lascia rassodare in frigo per 2 ore prima di versare lo strato successivo.",
+          "Dopo 2 ore di frigo, versa il secondo strato. Poi ancora 2 ore, e l'ultimo. La pazienza è l'ingrediente segreto: ogni attesa dà struttura al dolce.",
+          "Guarnisci con cioccolato grattugiato e granella di nocciole. Taglia a fette fredde di frigo. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Oggi prepariamo la torta cremino senza cottura!",
+      "Prendo mascarpone, panna, cioccolato fondente e pasta di nocciole.",
+      "Alterno gli strati e lascio rassodare in frigo.",
+      "Verso ogni strato dopo due ore di frigo.",
+      "Guarnisco con cioccolato grattugiato e granella di nocciole."
+    ],
+    "thread_text": [
+      "Tre strati cremosi che si sciolgono in bocca. Senza forno. La torta cremino è il dessert che ti fa fare bella figura senza accendere il forno. Ecco come si fa.",
+      "Ingredienti: mascarpone, panna montata, cioccolato fondente fuso e pasta di nocciole. Mescola con delicatezza per non smontare la panna. Ogni strato deve restare soffice.",
+      "Alterna gli strati nello stampo: prima crema al cioccolato, poi nocciole, poi mascarpone. Lascia rassodare in frigo per 2 ore prima di versare lo strato successivo.",
+      "Dopo 2 ore di frigo, versa il secondo strato. Poi ancora 2 ore, e l'ultimo. La pazienza è l'ingrediente segreto: ogni attesa dà struttura al dolce.",
+      "Guarnisci con cioccolato grattugiato e granella di nocciole. Taglia a fette fredde di frigo. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Torta cremino: tre strati, zero cottura",
+        "description": "Un dessert al cucchiaio cremoso e goloso che si prepara senza accendere il forno.",
+        "visual_hint": "fetta torta strati cremosi",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "cremino cake slice"
+      },
+      {
+        "hook": "Mascarpone, panna, cioccolato, nocciole",
+        "description": "Quattro ingredienti semplici per creare tre strati dal gusto intenso e avvolgente.",
+        "visual_hint": "ingredienti sul piano lavoro",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "mascarpone chocolate ingredients",
+        "image": "https://images.pexels.com/photos/15455310/pexels-photo-15455310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Alterna gli strati con delicatezza",
+        "description": "Versa e livella ogni strato con cura per ottenere un effetto cremino perfetto.",
+        "visual_hint": "strati cremosi in teglia",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "layered cream dessert",
+        "image": "https://images.pexels.com/photos/28250931/pexels-photo-28250931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Due ore in frigo tra uno strato e l'altro",
+        "description": "La pazienza è l'ingrediente segreto: ogni strato deve rassodare prima del successivo.",
+        "visual_hint": "frigo con torta",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "cremino cake chilling",
+        "image": "https://images.pexels.com/photos/39658440/pexels-photo-39658440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Guarnisci con cioccolato e granella",
+        "description": "Completa con cioccolato grattugiato e granella di nocciole per una croccantezza irresistibile.",
+        "visual_hint": "decorazione finale torta",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "chocolate hazelnut cake",
+        "image": "https://images.pexels.com/photos/34073604/pexels-photo-34073604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "dessert",
+    "signature_ingredients": [
+      "mascarpone",
+      "cioccolato fondente",
+      "pasta di nocciole"
+    ],
+    "image": "https://www.giallozafferano.it/images/367-36719/Torta-cremino_1200x800_wm.jpg",
+    "savedAt": "2026-10-15T14:42:06.168Z",
+    "sourceId": "1a0b26e653d70201546aa808dd70d44c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "torta-autunno",
     "prompt_version": "1.0.0",
     "status": "published",

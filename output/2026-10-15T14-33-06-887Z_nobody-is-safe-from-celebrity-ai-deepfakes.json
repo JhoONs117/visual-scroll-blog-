@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "nobody-is-safe-from-celebrity-ai-deepfakes",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Nobody is safe from celebrity AI deepfakes",
+  "link": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+  "pubDate": "2026-10-15T14:03:42.000Z",
+  "slides": [
+    "Scarlett Johansson's AI voice clone: who's next?",
+    "Deepfake tools now cost under ten dollars monthly",
+    "Celebrities aren't the only targets anymore",
+    "Your face could be cloned from three photos",
+    "Audit your public photos before someone else does"
+  ],
+  "thread_text": [
+    "1. Who's Next After Scarlett?\n\nOpenAI took down a voice assistant that sounded eerily like her. If it happened to an A-lister, it can happen to a small business owner.",
+    "2. Deepfakes Cost $10 a Month\n\nClone tools that once required a studio now run on subscription apps. The price collapsed, so the barrier to abuse did too.",
+    "3. Not Just Celebrities Anymore\n\nReal estate agents, teachers, and local politicians are target lists now. The people with the least protection face the loudest fakes.",
+    "4. Three Photos Is Enough\n\nA face can be rebuilt from a handful of social media headshots. No hacking required — just what you already posted publicly.",
+    "5. Audit Your Photos Today\n\nSearch your name in Google Images and remove old headshots your accounts no longer show. If you don't do it, a cloner will."
+  ],
+  "video_script": [
+    "Scarlett Johansson's voice got cloned without her permission.",
+    "Realistic deepfake apps now cost under ten dollars a month.",
+    "Celebrities aren't the only targets — teachers and realtors are too.",
+    "Three public photos are enough to rebuild your face.",
+    "Google your own images and delete old headshots today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who's Next After Scarlett?\n\nOpenAI took down a voice assistant that sounded eerily like her. If it happened to an A-lister, it can happen to a small business owner.",
+        "2. Deepfakes Cost $10 a Month\n\nClone tools that once required a studio now run on subscription apps. The price collapsed, so the barrier to abuse did too.",
+        "3. Not Just Celebrities Anymore\n\nReal estate agents, teachers, and local politicians are target lists now. The people with the least protection face the loudest fakes.",
+        "4. Three Photos Is Enough\n\nA face can be rebuilt from a handful of social media headshots. No hacking required — just what you already posted publicly.",
+        "5. Audit Your Photos Today\n\nSearch your name in Google Images and remove old headshots your accounts no longer show. If you don't do it, a cloner will."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Scarlett Johansson's voice got cloned without her permission.",
+        "Realistic deepfake apps now cost under ten dollars a month.",
+        "Celebrities aren't the only targets — teachers and realtors are too.",
+        "Three public photos are enough to rebuild your face.",
+        "Google your own images and delete old headshots today."
+      ]
+    },
+    "instagram": {
+      "caption": "A voice that sounded like Scarlett Johansson got pulled offline by OpenAI.\n\nClone tools that once needed a studio now cost under $10 a month. 🎙️\n\nAnd the targets aren't just A-listers anymore — teachers, real estate agents, local politicians.\n\nYour face can be rebuilt from three public photos. No hacking needed. 📸\n\nIf you post content, that's your problem too: anything you've uploaded can become someone else's puppet.\n\nSearch your name in Google Images today and delete old headshots your accounts no longer show. 🧹\n\nWhen a cloner finds you, do you know which photo they'll use?"
+    }
+  },
+  "instagram_caption": "A voice that sounded like Scarlett Johansson got pulled offline by OpenAI.\n\nClone tools that once needed a studio now cost under $10 a month. 🎙️\n\nAnd the targets aren't just A-listers anymore — teachers, real estate agents, local politicians.\n\nYour face can be rebuilt from three public photos. No hacking needed. 📸\n\nIf you post content, that's your problem too: anything you've uploaded can become someone else's puppet.\n\nSearch your name in Google Images today and delete old headshots your accounts no longer show. 🧹\n\nWhen a cloner finds you, do you know which photo they'll use?",
+  "carousel_slides": [
+    {
+      "hook": "Your face is someone's next deepfake",
+      "description": "Celebrities like Scarlett Johansson get protection, but teachers and local politicians face louder fakes with less defense.",
+      "visual_hint": "Split face morphing screens",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "surveillance camera"
+    },
+    {
+      "hook": "Deepfake tools now cost $10 monthly",
+      "description": "Cloning once required a studio; now subscription apps collapse cost and barriers, making abuse cheap and easy.",
+      "visual_hint": "Smartphone with subscription app",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who's really safe from AI cloning?",
+      "description": "Real estate agents, teachers, and local officials are targeted. The least protected face the loudest fakes.",
+      "visual_hint": "Crowd of blurred faces",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "crowd street",
+      "image": "https://images.pexels.com/photos/31725290/pexels-photo-31725290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Three photos rebuild your entire face",
+      "description": "A face can be cloned from a few public headshots. No hacking needed—just what you already posted.",
+      "visual_hint": "Three photos on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "photo album",
+      "image": "https://images.pexels.com/photos/10302057/pexels-photo-10302057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your photos before a cloner does",
+      "description": "Search your name in Google Images and delete old headshots. If you don't, someone else will.",
+      "visual_hint": "Person searching on laptop",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop search",
+      "image": "https://images.pexels.com/photos/39740510/pexels-photo-39740510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-15T14:33:43.252Z",
+  "sourceId": "8431ec80e60810be27251dc8da6168e6"
+}

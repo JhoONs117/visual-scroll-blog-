@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "amazon-s-bee-launches-two-new-personal-ai-devices-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+  "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+  "pubDate": "Thu, 15 Oct 2026 12:00:00 +0000",
+  "slides": [
+    "Amazon's Bee just launched two AI devices, but do you need them?",
+    "They start at $75, far cheaper than expected.",
+    "These aren't Echo speakers—their unique twist changes everything.",
+    "You can preorder now, but should you?",
+    "Test one task this week to see if it fits."
+  ],
+  "thread_text": [
+    "1. Amazon's $75 AI surprise\n\nAmazon just dropped two new AI gadgets, and they start at just $75—way below what anyone expected. But they're not Echo speakers.",
+    "2. The twist that changes everything\n\nThese devices have a unique feature that sets them apart from anything Amazon has made before. It's not just another smart speaker.",
+    "3. Preorder now, but should you?\n\nYou can order them right away. The real question is whether they'll actually fit into your daily routine or end up in a drawer.",
+    "4. Test before you commit\n\nPick one task you do often—like setting timers or checking weather—and see if a voice assistant actually helps. That's the only way to know.",
+    "5. Your move this week\n\nTry simulating one task with your phone's assistant. If it saves you time, these might be worth it. If not, skip."
+  ],
+  "video_script": [
+    "Amazon just launched two new AI devices starting at $75.",
+    "They're not Echo speakers—they have a unique twist.",
+    "You can preorder now, but should you?",
+    "Test one task this week to see if it fits.",
+    "Try it on your phone first before buying."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Amazon's $75 AI surprise\n\nAmazon just dropped two new AI gadgets, and they start at just $75—way below what anyone expected. But they're not Echo speakers.",
+        "2. The twist that changes everything\n\nThese devices have a unique feature that sets them apart from anything Amazon has made before. It's not just another smart speaker.",
+        "3. Preorder now, but should you?\n\nYou can order them right away. The real question is whether they'll actually fit into your daily routine or end up in a drawer.",
+        "4. Test before you commit\n\nPick one task you do often—like setting timers or checking weather—and see if a voice assistant actually helps. That's the only way to know.",
+        "5. Your move this week\n\nTry simulating one task with your phone's assistant. If it saves you time, these might be worth it. If not, skip."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Amazon just launched two new AI devices starting at $75.",
+        "They're not Echo speakers—they have a unique twist.",
+        "You can preorder now, but should you?",
+        "Test one task this week to see if it fits.",
+        "Try it on your phone first before buying."
+      ]
+    },
+    "instagram": {
+      "caption": "Two new AI gadgets just landed at $75 each.\n\nAmazon's Bee devices aren't Echo speakers, and that twist makes them different from anything the company has shipped before. 🤖\n\nYou can preorder right now, but they might just end up in a drawer if they don't fit your routine.\n\nIf you make content, one more device means one more thing to test before recommending it to anyone.\n\nBefore buying, pick one task you do daily—timers, weather checks—and try it with your phone's assistant first. ⏱️\n\nDid it actually save you time, or just add a step? 🤔"
+    }
+  },
+  "instagram_caption": "Two new AI gadgets just landed at $75 each.\n\nAmazon's Bee devices aren't Echo speakers, and that twist makes them different from anything the company has shipped before. 🤖\n\nYou can preorder right now, but they might just end up in a drawer if they don't fit your routine.\n\nIf you make content, one more device means one more thing to test before recommending it to anyone.\n\nBefore buying, pick one task you do daily—timers, weather checks—and try it with your phone's assistant first. ⏱️\n\nDid it actually save you time, or just add a step? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Do you really need Amazon's new AI?",
+      "description": "Amazon's Bee launched two AI devices starting at $75, but they're not Echo speakers—so they might replace nothing you own.",
+      "visual_hint": "Amazon Bee device on table",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smart speaker"
+    },
+    {
+      "hook": "$75 is surprisingly cheap for AI",
+      "description": "At $75, these devices cost far less than expected, making advanced AI more accessible—but low price doesn't guarantee daily use.",
+      "visual_hint": "Price tag next to small gadget",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "price tag",
+      "image": "https://images.pexels.com/photos/7986977/pexels-photo-7986977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "This twist changes everything",
+      "description": "Unlike Echo speakers, Bee devices have a unique feature that sets them apart—so they may fit entirely different routines than you think.",
+      "visual_hint": "Close-up of unusual sensor array",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "sensor array",
+      "image": "https://images.pexels.com/photos/38143085/pexels-photo-38143085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Preorder now, but should you?",
+      "description": "You can order them immediately, but the real question is whether they'll earn a spot in your day or end up forgotten in a drawer.",
+      "visual_hint": "Hand hovering over preorder button",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "online shopping",
+      "image": "https://images.pexels.com/photos/7661069/pexels-photo-7661069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you buy",
+      "description": "Test one daily task with your phone's assistant this week. If it saves time, these $75 devices might be worth it—if not, skip.",
+      "visual_hint": "Phone assistant timer test",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "voice assistant",
+      "image": "https://images.pexels.com/photos/4790267/pexels-photo-4790267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-638007236.jpg?resize=1200,798",
+  "savedAt": "2026-10-15T14:33:17.663Z",
+  "sourceId": "2d7de8707312b3f0dc2ae07b9155427d"
+}

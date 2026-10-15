@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "now-that-character-ai-is-going-bankrupt-what-happe",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+  "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+  "pubDate": "2026-10-14T18:47:54.000Z",
+  "slides": [
+    "Character.AI is going bankrupt — where does your data go?",
+    "Its servers hold millions of intimate user conversations",
+    "Bankruptcy courts may sell that data to the highest bidder",
+    "You can request deletion now, but it may be too late",
+    "Check the privacy policy before your next confession"
+  ],
+  "thread_text": [
+    "1. Your deepest secrets for sale\n\nCharacter.AI is bankrupt. Courts may auction millions of intimate chats to pay off creditors. Your data is the asset.",
+    "2. What exactly is on those servers\n\nMillions of private conversations, emotional confessions, and personal details. None of it was written for an audience.",
+    "3. The fine print you missed\n\nMost users never read the privacy policy. It likely allows data transfer in bankruptcy. You agreed to this.",
+    "4. You can delete — but is it too late?\n\nRequests work only if the servers haven't already been frozen by the court. Timing matters more than you think.",
+    "5. Before your next confession\n\nCheck the privacy policy first. Ask: what happens to my data if this company goes under? Then decide what you share."
+  ],
+  "video_script": [
+    "Character.AI is bankrupt. Your private chats might be sold.",
+    "Millions of intimate conversations are sitting on their servers.",
+    "Bankruptcy courts can auction your data to the highest bidder.",
+    "You can request deletion, but it might already be too late.",
+    "Check the privacy policy before your next confession."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your deepest secrets for sale\n\nCharacter.AI is bankrupt. Courts may auction millions of intimate chats to pay off creditors. Your data is the asset.",
+        "2. What exactly is on those servers\n\nMillions of private conversations, emotional confessions, and personal details. None of it was written for an audience.",
+        "3. The fine print you missed\n\nMost users never read the privacy policy. It likely allows data transfer in bankruptcy. You agreed to this.",
+        "4. You can delete — but is it too late?\n\nRequests work only if the servers haven't already been frozen by the court. Timing matters more than you think.",
+        "5. Before your next confession\n\nCheck the privacy policy first. Ask: what happens to my data if this company goes under? Then decide what you share."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Character.AI is bankrupt. Your private chats might be sold.",
+        "Millions of intimate conversations are sitting on their servers.",
+        "Bankruptcy courts can auction your data to the highest bidder.",
+        "You can request deletion, but it might already be too late.",
+        "Check the privacy policy before your next confession."
+      ]
+    },
+    "instagram": {
+      "caption": "Millions of private chats you thought were just between you and a bot could soon be auctioned off to pay creditors. 💾\n\nCharacter.AI is going bankrupt, and its servers hold intimate conversations users never wrote for an audience.\n\nBankruptcy courts can sell that data to the highest bidder.\n\nYou can request deletion now, but if the servers are already frozen by the court, it may be too late. ⏳\n\nIf you've ever typed something personal into an AI companion, that text is now a company asset.\n\nAsk yourself: what would you share differently if you knew it could end up on an auction block? 🤔"
+    }
+  },
+  "instagram_caption": "Millions of private chats you thought were just between you and a bot could soon be auctioned off to pay creditors. 💾\n\nCharacter.AI is going bankrupt, and its servers hold intimate conversations users never wrote for an audience.\n\nBankruptcy courts can sell that data to the highest bidder.\n\nYou can request deletion now, but if the servers are already frozen by the court, it may be too late. ⏳\n\nIf you've ever typed something personal into an AI companion, that text is now a company asset.\n\nAsk yourself: what would you share differently if you knew it could end up on an auction block? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Bankruptcy auction: your secrets for sale",
+      "description": "Character.AI's bankruptcy could let courts auction millions of intimate chats to pay creditors. Your most private data is now a sellable asset.",
+      "visual_hint": "Gavel hitting auction block, glowing data streams",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "auction gavel"
+    },
+    {
+      "hook": "Millions of confessions sit on their servers",
+      "description": "The servers store millions of private conversations, emotional confessions, and personal details. None of it was ever meant for an audience.",
+      "visual_hint": "Dark server room with glowing blue lights",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "That privacy policy you never read?",
+      "description": "Most users never read it. It likely allows data transfer in bankruptcy, meaning you already agreed to this risk when you signed up.",
+      "visual_hint": "Magnifying glass over dense legal text",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "legal document",
+      "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Deletion requests may already be too late",
+      "description": "You can request deletion now, but it only works if servers haven't been frozen by the court. Timing matters more than you think.",
+      "visual_hint": "Finger tapping delete button on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "delete button",
+      "image": "https://images.pexels.com/photos/21562942/pexels-photo-21562942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check before your next confession",
+      "description": "Before sharing anything, check the privacy policy: what happens to your data if the company goes bankrupt? Save this post and stay informed.",
+      "visual_hint": "Person reading privacy policy on phone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone privacy",
+      "image": "https://images.pexels.com/photos/9787926/pexels-photo-9787926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_7_AI_CVIRGINIA_A.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-15T14:33:54.010Z",
+  "sourceId": "9bdb5eeae001970bfeb8fe7aa4bb2239"
+}

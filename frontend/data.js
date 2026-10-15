@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "now-that-character-ai-is-going-bankrupt-what-happe",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+    "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+    "pubDate": "2026-10-14T18:47:54.000Z",
+    "slides": [
+      "Character.AI is going bankrupt — where does your data go?",
+      "Its servers hold millions of intimate user conversations",
+      "Bankruptcy courts may sell that data to the highest bidder",
+      "You can request deletion now, but it may be too late",
+      "Check the privacy policy before your next confession"
+    ],
+    "thread_text": [
+      "1. Your deepest secrets for sale\n\nCharacter.AI is bankrupt. Courts may auction millions of intimate chats to pay off creditors. Your data is the asset.",
+      "2. What exactly is on those servers\n\nMillions of private conversations, emotional confessions, and personal details. None of it was written for an audience.",
+      "3. The fine print you missed\n\nMost users never read the privacy policy. It likely allows data transfer in bankruptcy. You agreed to this.",
+      "4. You can delete — but is it too late?\n\nRequests work only if the servers haven't already been frozen by the court. Timing matters more than you think.",
+      "5. Before your next confession\n\nCheck the privacy policy first. Ask: what happens to my data if this company goes under? Then decide what you share."
+    ],
+    "video_script": [
+      "Character.AI is bankrupt. Your private chats might be sold.",
+      "Millions of intimate conversations are sitting on their servers.",
+      "Bankruptcy courts can auction your data to the highest bidder.",
+      "You can request deletion, but it might already be too late.",
+      "Check the privacy policy before your next confession."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your deepest secrets for sale\n\nCharacter.AI is bankrupt. Courts may auction millions of intimate chats to pay off creditors. Your data is the asset.",
+          "2. What exactly is on those servers\n\nMillions of private conversations, emotional confessions, and personal details. None of it was written for an audience.",
+          "3. The fine print you missed\n\nMost users never read the privacy policy. It likely allows data transfer in bankruptcy. You agreed to this.",
+          "4. You can delete — but is it too late?\n\nRequests work only if the servers haven't already been frozen by the court. Timing matters more than you think.",
+          "5. Before your next confession\n\nCheck the privacy policy first. Ask: what happens to my data if this company goes under? Then decide what you share."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Character.AI is bankrupt. Your private chats might be sold.",
+          "Millions of intimate conversations are sitting on their servers.",
+          "Bankruptcy courts can auction your data to the highest bidder.",
+          "You can request deletion, but it might already be too late.",
+          "Check the privacy policy before your next confession."
+        ]
+      },
+      "instagram": {
+        "caption": "Millions of private chats you thought were just between you and a bot could soon be auctioned off to pay creditors. 💾\n\nCharacter.AI is going bankrupt, and its servers hold intimate conversations users never wrote for an audience.\n\nBankruptcy courts can sell that data to the highest bidder.\n\nYou can request deletion now, but if the servers are already frozen by the court, it may be too late. ⏳\n\nIf you've ever typed something personal into an AI companion, that text is now a company asset.\n\nAsk yourself: what would you share differently if you knew it could end up on an auction block? 🤔"
+      }
+    },
+    "instagram_caption": "Millions of private chats you thought were just between you and a bot could soon be auctioned off to pay creditors. 💾\n\nCharacter.AI is going bankrupt, and its servers hold intimate conversations users never wrote for an audience.\n\nBankruptcy courts can sell that data to the highest bidder.\n\nYou can request deletion now, but if the servers are already frozen by the court, it may be too late. ⏳\n\nIf you've ever typed something personal into an AI companion, that text is now a company asset.\n\nAsk yourself: what would you share differently if you knew it could end up on an auction block? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Bankruptcy auction: your secrets for sale",
+        "description": "Character.AI's bankruptcy could let courts auction millions of intimate chats to pay creditors. Your most private data is now a sellable asset.",
+        "visual_hint": "Gavel hitting auction block, glowing data streams",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "auction gavel"
+      },
+      {
+        "hook": "Millions of confessions sit on their servers",
+        "description": "The servers store millions of private conversations, emotional confessions, and personal details. None of it was ever meant for an audience.",
+        "visual_hint": "Dark server room with glowing blue lights",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "That privacy policy you never read?",
+        "description": "Most users never read it. It likely allows data transfer in bankruptcy, meaning you already agreed to this risk when you signed up.",
+        "visual_hint": "Magnifying glass over dense legal text",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "legal document",
+        "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Deletion requests may already be too late",
+        "description": "You can request deletion now, but it only works if servers haven't been frozen by the court. Timing matters more than you think.",
+        "visual_hint": "Finger tapping delete button on screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "delete button",
+        "image": "https://images.pexels.com/photos/21562942/pexels-photo-21562942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check before your next confession",
+        "description": "Before sharing anything, check the privacy policy: what happens to your data if the company goes bankrupt? Save this post and stay informed.",
+        "visual_hint": "Person reading privacy policy on phone",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone privacy",
+        "image": "https://images.pexels.com/photos/9787926/pexels-photo-9787926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_7_AI_CVIRGINIA_A.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-15T14:33:54.010Z",
+    "sourceId": "9bdb5eeae001970bfeb8fe7aa4bb2239"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "nobody-is-safe-from-celebrity-ai-deepfakes",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Nobody is safe from celebrity AI deepfakes",
+    "link": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+    "pubDate": "2026-10-15T14:03:42.000Z",
+    "slides": [
+      "Scarlett Johansson's AI voice clone: who's next?",
+      "Deepfake tools now cost under ten dollars monthly",
+      "Celebrities aren't the only targets anymore",
+      "Your face could be cloned from three photos",
+      "Audit your public photos before someone else does"
+    ],
+    "thread_text": [
+      "1. Who's Next After Scarlett?\n\nOpenAI took down a voice assistant that sounded eerily like her. If it happened to an A-lister, it can happen to a small business owner.",
+      "2. Deepfakes Cost $10 a Month\n\nClone tools that once required a studio now run on subscription apps. The price collapsed, so the barrier to abuse did too.",
+      "3. Not Just Celebrities Anymore\n\nReal estate agents, teachers, and local politicians are target lists now. The people with the least protection face the loudest fakes.",
+      "4. Three Photos Is Enough\n\nA face can be rebuilt from a handful of social media headshots. No hacking required — just what you already posted publicly.",
+      "5. Audit Your Photos Today\n\nSearch your name in Google Images and remove old headshots your accounts no longer show. If you don't do it, a cloner will."
+    ],
+    "video_script": [
+      "Scarlett Johansson's voice got cloned without her permission.",
+      "Realistic deepfake apps now cost under ten dollars a month.",
+      "Celebrities aren't the only targets — teachers and realtors are too.",
+      "Three public photos are enough to rebuild your face.",
+      "Google your own images and delete old headshots today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who's Next After Scarlett?\n\nOpenAI took down a voice assistant that sounded eerily like her. If it happened to an A-lister, it can happen to a small business owner.",
+          "2. Deepfakes Cost $10 a Month\n\nClone tools that once required a studio now run on subscription apps. The price collapsed, so the barrier to abuse did too.",
+          "3. Not Just Celebrities Anymore\n\nReal estate agents, teachers, and local politicians are target lists now. The people with the least protection face the loudest fakes.",
+          "4. Three Photos Is Enough\n\nA face can be rebuilt from a handful of social media headshots. No hacking required — just what you already posted publicly.",
+          "5. Audit Your Photos Today\n\nSearch your name in Google Images and remove old headshots your accounts no longer show. If you don't do it, a cloner will."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Scarlett Johansson's voice got cloned without her permission.",
+          "Realistic deepfake apps now cost under ten dollars a month.",
+          "Celebrities aren't the only targets — teachers and realtors are too.",
+          "Three public photos are enough to rebuild your face.",
+          "Google your own images and delete old headshots today."
+        ]
+      },
+      "instagram": {
+        "caption": "A voice that sounded like Scarlett Johansson got pulled offline by OpenAI.\n\nClone tools that once needed a studio now cost under $10 a month. 🎙️\n\nAnd the targets aren't just A-listers anymore — teachers, real estate agents, local politicians.\n\nYour face can be rebuilt from three public photos. No hacking needed. 📸\n\nIf you post content, that's your problem too: anything you've uploaded can become someone else's puppet.\n\nSearch your name in Google Images today and delete old headshots your accounts no longer show. 🧹\n\nWhen a cloner finds you, do you know which photo they'll use?"
+      }
+    },
+    "instagram_caption": "A voice that sounded like Scarlett Johansson got pulled offline by OpenAI.\n\nClone tools that once needed a studio now cost under $10 a month. 🎙️\n\nAnd the targets aren't just A-listers anymore — teachers, real estate agents, local politicians.\n\nYour face can be rebuilt from three public photos. No hacking needed. 📸\n\nIf you post content, that's your problem too: anything you've uploaded can become someone else's puppet.\n\nSearch your name in Google Images today and delete old headshots your accounts no longer show. 🧹\n\nWhen a cloner finds you, do you know which photo they'll use?",
+    "carousel_slides": [
+      {
+        "hook": "Your face is someone's next deepfake",
+        "description": "Celebrities like Scarlett Johansson get protection, but teachers and local politicians face louder fakes with less defense.",
+        "visual_hint": "Split face morphing screens",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "surveillance camera"
+      },
+      {
+        "hook": "Deepfake tools now cost $10 monthly",
+        "description": "Cloning once required a studio; now subscription apps collapse cost and barriers, making abuse cheap and easy.",
+        "visual_hint": "Smartphone with subscription app",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who's really safe from AI cloning?",
+        "description": "Real estate agents, teachers, and local officials are targeted. The least protected face the loudest fakes.",
+        "visual_hint": "Crowd of blurred faces",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "crowd street",
+        "image": "https://images.pexels.com/photos/31725290/pexels-photo-31725290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Three photos rebuild your entire face",
+        "description": "A face can be cloned from a few public headshots. No hacking needed—just what you already posted.",
+        "visual_hint": "Three photos on screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "photo album",
+        "image": "https://images.pexels.com/photos/10302057/pexels-photo-10302057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your photos before a cloner does",
+        "description": "Search your name in Google Images and delete old headshots. If you don't, someone else will.",
+        "visual_hint": "Person searching on laptop",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop search",
+        "image": "https://images.pexels.com/photos/39740510/pexels-photo-39740510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-15T14:33:43.252Z",
+    "sourceId": "8431ec80e60810be27251dc8da6168e6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "figma-announces-new-features-to-define-how-agents-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Figma announces new features to define how agents work on its platform",
+    "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+    "pubDate": "Thu, 15 Oct 2026 04:30:00 +0000",
+    "slides": [
+      "Can Figma control how AI agents design?",
+      "New features aim to define agent behavior on the platform",
+      "Agents might soon edit files without human approval",
+      "Designers must learn to set boundaries for agent actions",
+      "Start defining your agent rules before they act"
+    ],
+    "thread_text": [
+      "1. Agents Don't Ask Permission\n\nFigma is rolling out features that let AI design agents edit files autonomously—no human approval required. That's a real shift in how work gets done on the platform.",
+      "2. New Rules for Agent Behavior\n\nFigma is adding controls so teams can define what agents can and can't do. You'll be able to set guardrails before an agent touches a single layer.",
+      "3. One Click, Zero Oversight\n\nIf an agent can edit without approval, a small mistake can cascade across dozens of files. The speed gain is real—so is the risk of silent changes.",
+      "4. Designers as Boundary Setters\n\nThe skill isn't just designing anymore. It's deciding which actions agents can take alone and which need a human check. That's a new part of the job.",
+      "5. Set Rules Before Agents Act\n\nOpen Figma today and draft a simple permission list: what can an agent edit, move, or delete without asking? Share it with your team this week. Does your current workflow already assume agents will ask first?"
+    ],
+    "video_script": [
+      "Figma is building features for AI agents that design.",
+      "These agents could edit files without human approval.",
+      "New controls will let teams define agent behavior.",
+      "Designers now need to set boundaries for agent actions.",
+      "Start defining your agent rules before they act."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Agents Don't Ask Permission\n\nFigma is rolling out features that let AI design agents edit files autonomously—no human approval required. That's a real shift in how work gets done on the platform.",
+          "2. New Rules for Agent Behavior\n\nFigma is adding controls so teams can define what agents can and can't do. You'll be able to set guardrails before an agent touches a single layer.",
+          "3. One Click, Zero Oversight\n\nIf an agent can edit without approval, a small mistake can cascade across dozens of files. The speed gain is real—so is the risk of silent changes.",
+          "4. Designers as Boundary Setters\n\nThe skill isn't just designing anymore. It's deciding which actions agents can take alone and which need a human check. That's a new part of the job.",
+          "5. Set Rules Before Agents Act\n\nOpen Figma today and draft a simple permission list: what can an agent edit, move, or delete without asking? Share it with your team this week. Does your current workflow already assume agents will ask first?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Figma is building features for AI agents that design.",
+          "These agents could edit files without human approval.",
+          "New controls will let teams define agent behavior.",
+          "Designers now need to set boundaries for agent actions.",
+          "Start defining your agent rules before they act."
+        ]
+      },
+      "instagram": {
+        "caption": "AI design agents on Figma may soon edit your files without asking you first.\n\nFigma is adding features so teams can define what agents can and can't do on the platform.\n\nGuardrails get set before an agent touches a single layer.\n\nBut editing without approval means one small mistake can ripple across dozens of files. ⚠️\n\nIf you design or publish, your role now includes deciding which actions agents take alone and which need a human check.\n\nThat's no longer just design work—it's boundary setting. 🧭\n\nOpen Figma today and draft a permission list: what can an agent edit, move, or delete without asking? ✍️\n\nDoes your current workflow already assume agents will ask first? 🤔"
+      }
+    },
+    "instagram_caption": "AI design agents on Figma may soon edit your files without asking you first.\n\nFigma is adding features so teams can define what agents can and can't do on the platform.\n\nGuardrails get set before an agent touches a single layer.\n\nBut editing without approval means one small mistake can ripple across dozens of files. ⚠️\n\nIf you design or publish, your role now includes deciding which actions agents take alone and which need a human check.\n\nThat's no longer just design work—it's boundary setting. 🧭\n\nOpen Figma today and draft a permission list: what can an agent edit, move, or delete without asking? ✍️\n\nDoes your current workflow already assume agents will ask first? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Can AI agents edit Figma without permission?",
+        "description": "Figma introduces features letting AI design agents edit files autonomously, with no human approval required. The way work gets done is shifting fast.",
+        "visual_hint": "Split screen showing autonomous agent toggle",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot arm"
+      },
+      {
+        "hook": "Figma is defining agent behavior now",
+        "description": "New controls let teams set guardrails before an agent touches a single layer or file, defining what actions are allowed.",
+        "visual_hint": "Settings panel with permission toggles",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "control panel",
+        "image": "https://images.pexels.com/photos/39255983/pexels-photo-39255983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One click, zero oversight, huge risk",
+        "description": "If an agent edits without approval, a small mistake can cascade across dozens of files. Speed gain is real, so is silent change risk.",
+        "visual_hint": "Cascading file icons multiplying rapidly",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "domino effect",
+        "image": "https://images.pexels.com/photos/9760552/pexels-photo-9760552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Designers must now set agent boundaries",
+        "description": "The skill isn't just designing anymore. Deciding which agent actions need a human check is becoming a core part of the job.",
+        "visual_hint": "Hand drawing a boundary line on screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "boundary line",
+        "image": "https://images.pexels.com/photos/28271642/pexels-photo-28271642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Set your agent rules before they act",
+        "description": "Open Figma today and draft a simple permission list: what can an agent edit, move, or delete without asking? Save this and share with your team.",
+        "visual_hint": "Checklist with checkboxes and pen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Specs_agent.jpeg?resize=1200,675",
+    "savedAt": "2026-10-15T14:33:30.602Z",
+    "sourceId": "74a5b05214cca33fe9da65359719cf8c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "amazon-s-bee-launches-two-new-personal-ai-devices-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+    "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+    "pubDate": "Thu, 15 Oct 2026 12:00:00 +0000",
+    "slides": [
+      "Amazon's Bee just launched two AI devices, but do you need them?",
+      "They start at $75, far cheaper than expected.",
+      "These aren't Echo speakers—their unique twist changes everything.",
+      "You can preorder now, but should you?",
+      "Test one task this week to see if it fits."
+    ],
+    "thread_text": [
+      "1. Amazon's $75 AI surprise\n\nAmazon just dropped two new AI gadgets, and they start at just $75—way below what anyone expected. But they're not Echo speakers.",
+      "2. The twist that changes everything\n\nThese devices have a unique feature that sets them apart from anything Amazon has made before. It's not just another smart speaker.",
+      "3. Preorder now, but should you?\n\nYou can order them right away. The real question is whether they'll actually fit into your daily routine or end up in a drawer.",
+      "4. Test before you commit\n\nPick one task you do often—like setting timers or checking weather—and see if a voice assistant actually helps. That's the only way to know.",
+      "5. Your move this week\n\nTry simulating one task with your phone's assistant. If it saves you time, these might be worth it. If not, skip."
+    ],
+    "video_script": [
+      "Amazon just launched two new AI devices starting at $75.",
+      "They're not Echo speakers—they have a unique twist.",
+      "You can preorder now, but should you?",
+      "Test one task this week to see if it fits.",
+      "Try it on your phone first before buying."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Amazon's $75 AI surprise\n\nAmazon just dropped two new AI gadgets, and they start at just $75—way below what anyone expected. But they're not Echo speakers.",
+          "2. The twist that changes everything\n\nThese devices have a unique feature that sets them apart from anything Amazon has made before. It's not just another smart speaker.",
+          "3. Preorder now, but should you?\n\nYou can order them right away. The real question is whether they'll actually fit into your daily routine or end up in a drawer.",
+          "4. Test before you commit\n\nPick one task you do often—like setting timers or checking weather—and see if a voice assistant actually helps. That's the only way to know.",
+          "5. Your move this week\n\nTry simulating one task with your phone's assistant. If it saves you time, these might be worth it. If not, skip."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Amazon just launched two new AI devices starting at $75.",
+          "They're not Echo speakers—they have a unique twist.",
+          "You can preorder now, but should you?",
+          "Test one task this week to see if it fits.",
+          "Try it on your phone first before buying."
+        ]
+      },
+      "instagram": {
+        "caption": "Two new AI gadgets just landed at $75 each.\n\nAmazon's Bee devices aren't Echo speakers, and that twist makes them different from anything the company has shipped before. 🤖\n\nYou can preorder right now, but they might just end up in a drawer if they don't fit your routine.\n\nIf you make content, one more device means one more thing to test before recommending it to anyone.\n\nBefore buying, pick one task you do daily—timers, weather checks—and try it with your phone's assistant first. ⏱️\n\nDid it actually save you time, or just add a step? 🤔"
+      }
+    },
+    "instagram_caption": "Two new AI gadgets just landed at $75 each.\n\nAmazon's Bee devices aren't Echo speakers, and that twist makes them different from anything the company has shipped before. 🤖\n\nYou can preorder right now, but they might just end up in a drawer if they don't fit your routine.\n\nIf you make content, one more device means one more thing to test before recommending it to anyone.\n\nBefore buying, pick one task you do daily—timers, weather checks—and try it with your phone's assistant first. ⏱️\n\nDid it actually save you time, or just add a step? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Do you really need Amazon's new AI?",
+        "description": "Amazon's Bee launched two AI devices starting at $75, but they're not Echo speakers—so they might replace nothing you own.",
+        "visual_hint": "Amazon Bee device on table",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smart speaker"
+      },
+      {
+        "hook": "$75 is surprisingly cheap for AI",
+        "description": "At $75, these devices cost far less than expected, making advanced AI more accessible—but low price doesn't guarantee daily use.",
+        "visual_hint": "Price tag next to small gadget",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "price tag",
+        "image": "https://images.pexels.com/photos/7986977/pexels-photo-7986977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "This twist changes everything",
+        "description": "Unlike Echo speakers, Bee devices have a unique feature that sets them apart—so they may fit entirely different routines than you think.",
+        "visual_hint": "Close-up of unusual sensor array",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "sensor array",
+        "image": "https://images.pexels.com/photos/38143085/pexels-photo-38143085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Preorder now, but should you?",
+        "description": "You can order them immediately, but the real question is whether they'll earn a spot in your day or end up forgotten in a drawer.",
+        "visual_hint": "Hand hovering over preorder button",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "online shopping",
+        "image": "https://images.pexels.com/photos/7661069/pexels-photo-7661069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before you buy",
+        "description": "Test one daily task with your phone's assistant this week. If it saves time, these $75 devices might be worth it—if not, skip.",
+        "visual_hint": "Phone assistant timer test",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "voice assistant",
+        "image": "https://images.pexels.com/photos/4790267/pexels-photo-4790267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-638007236.jpg?resize=1200,798",
+    "savedAt": "2026-10-15T14:33:17.663Z",
+    "sourceId": "2d7de8707312b3f0dc2ae07b9155427d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "android-is-using-ai-to-suss-out-scammers-in-google",
     "prompt_version": "1.0.0",
     "status": "published",
