@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-s-new-terms-may-allow-it-to-train-ai-on-news-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta’s new terms may allow it to train AI on news sites for free",
+  "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+  "pubDate": "2026-10-16T14:02:40.000Z",
+  "slides": [
+    "Meta wants your news without paying for it?",
+    "New terms let Meta train AI on news sites",
+    "But publishers may not realize they opted in",
+    "News sites can still opt out before deadline",
+    "Check your site's settings today, or lose leverage"
+  ],
+  "thread_text": [
+    "1. Meta's Quiet Power Grab\n\nNew terms let Meta train AI on news sites — and many publishers don't realize they've already opted in.",
+    "2. Opted In By Default\n\nMeta added this clause deep in updated policies. Silence equals consent, and most newsrooms missed it entirely.",
+    "3. Publishers Left in the Dark\n\nEditors are now scrambling to check their settings after the deadline quietly locked in their content for AI training.",
+    "4. The Leverage You Lose\n\nOnce your content trains Meta's models, you've handed over your archive for free. No royalties, no credit, no control.",
+    "5. Check Your Settings Now\n\nGo to your site's Meta business settings and opt out before the deadline. What happens if you don't?"
+  ],
+  "video_script": [
+    "Meta just changed the rules for news publishers.",
+    "New terms let them train AI on your content.",
+    "But many publishers never realized they opted in.",
+    "You can still opt out before the deadline.",
+    "Check your settings today or lose all leverage."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta's Quiet Power Grab\n\nNew terms let Meta train AI on news sites — and many publishers don't realize they've already opted in.",
+        "2. Opted In By Default\n\nMeta added this clause deep in updated policies. Silence equals consent, and most newsrooms missed it entirely.",
+        "3. Publishers Left in the Dark\n\nEditors are now scrambling to check their settings after the deadline quietly locked in their content for AI training.",
+        "4. The Leverage You Lose\n\nOnce your content trains Meta's models, you've handed over your archive for free. No royalties, no credit, no control.",
+        "5. Check Your Settings Now\n\nGo to your site's Meta business settings and opt out before the deadline. What happens if you don't?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta just changed the rules for news publishers.",
+        "New terms let them train AI on your content.",
+        "But many publishers never realized they opted in.",
+        "You can still opt out before the deadline.",
+        "Check your settings today or lose all leverage."
+      ]
+    },
+    "instagram": {
+      "caption": "If you run a news site, your archive may already be training Meta's AI — for free.\n\nMeta slipped a clause into its updated terms: silence counts as consent, so publishers who never replied got opted in by default.\n\nNo royalties, no credit, no control over how your articles feed the models.\n\nThere's still time to opt out in your Meta business settings before the deadline.\n\nMiss it, and you lose all leverage over content you paid to produce. 📰\n\nCheck your settings today, before the window closes. ⏳\n\nHave you looked at yours yet — or did you, like most newsrooms, miss it entirely? 👀"
+    }
+  },
+  "instagram_caption": "If you run a news site, your archive may already be training Meta's AI — for free.\n\nMeta slipped a clause into its updated terms: silence counts as consent, so publishers who never replied got opted in by default.\n\nNo royalties, no credit, no control over how your articles feed the models.\n\nThere's still time to opt out in your Meta business settings before the deadline.\n\nMiss it, and you lose all leverage over content you paid to produce. 📰\n\nCheck your settings today, before the window closes. ⏳\n\nHave you looked at yours yet — or did you, like most newsrooms, miss it entirely? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Did you accidentally train Meta's AI?",
+      "description": "Meta's new terms let it train AI on news sites, and many publishers don't realize they already opted in.",
+      "visual_hint": "Glowing AI network over newspaper stack",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "newspaper stack"
+    },
+    {
+      "hook": "Silence equals consent in Meta's terms",
+      "description": "Meta added the clause deep in updated policies, and most newsrooms missed it entirely.",
+      "visual_hint": "Fine print highlighted on contract page",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "contract document",
+      "image": "https://images.pexels.com/photos/4968561/pexels-photo-4968561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Publishers left in the dark scramble",
+      "description": "Editors are scrambling to check settings after the deadline quietly locked their content for AI training.",
+      "visual_hint": "Editor staring at laptop screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You handed over your archive free",
+      "description": "Once your content trains Meta's models, you've given up royalties, credit, and control.",
+      "visual_hint": "Locked archive shelves fading away",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "archive shelves",
+      "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your deadline!",
+      "description": "Go to your site's Meta business settings and opt out before the deadline. Comment if you need help.",
+      "visual_hint": "Urgent settings toggle with deadline clock",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "settings toggle",
+      "image": "https://images.pexels.com/photos/18649173/pexels-photo-18649173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-16T19:10:03.815Z",
+  "sourceId": "a1282aae0bec814679dfba8ce37d058a"
+}

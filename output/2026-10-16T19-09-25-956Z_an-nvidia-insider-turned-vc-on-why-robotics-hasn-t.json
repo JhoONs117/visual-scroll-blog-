@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "an-nvidia-insider-turned-vc-on-why-robotics-hasn-t",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+  "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+  "pubDate": "Fri, 16 Oct 2026 16:30:00 +0000",
+  "slides": [
+    "Why hasn't robotics had its ChatGPT moment?",
+    "A former Nvidia insider turned VC explains the gap.",
+    "Unlike language, robots struggle with messy physical data.",
+    "Investors now back startups solving real-world tasks.",
+    "Pick one repetitive task and measure robot ROI."
+  ],
+  "thread_text": [
+    "1. Why No Robot ChatGPT?\n\nA former Nvidia insider turned VC says the gap isn't software—it's that robots can't learn from text alone. They need to touch, fail, and retry in the real world.",
+    "2. The Physical Data Problem\n\nUnlike language models that train on billions of clean sentences, robots face messy, unpredictable physical data. Every grasp is different. That's the bottleneck.",
+    "3. Investors Bet On Tasks\n\nVCs are now funding startups that solve one real-world job—like bin picking or floor scrubbing—instead of chasing a general-purpose humanoid.",
+    "4. One Task, One ROI\n\nPick a single repetitive task in your warehouse or lab. Measure how long a robot takes versus a human. The math often surprises people.",
+    "5. Test It Yourself\n\nTake one boring task you do weekly. Estimate the cost of a robot that does it 80% as well. Does the ROI still hold? Run the numbers this week."
+  ],
+  "video_script": [
+    "Why hasn't robotics had its ChatGPT moment?",
+    "A former Nvidia insider turned VC explains the gap.",
+    "Robots struggle with messy physical data, unlike language.",
+    "Investors now back startups solving real-world tasks.",
+    "Pick one repetitive task and measure robot ROI."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why No Robot ChatGPT?\n\nA former Nvidia insider turned VC says the gap isn't software—it's that robots can't learn from text alone. They need to touch, fail, and retry in the real world.",
+        "2. The Physical Data Problem\n\nUnlike language models that train on billions of clean sentences, robots face messy, unpredictable physical data. Every grasp is different. That's the bottleneck.",
+        "3. Investors Bet On Tasks\n\nVCs are now funding startups that solve one real-world job—like bin picking or floor scrubbing—instead of chasing a general-purpose humanoid.",
+        "4. One Task, One ROI\n\nPick a single repetitive task in your warehouse or lab. Measure how long a robot takes versus a human. The math often surprises people.",
+        "5. Test It Yourself\n\nTake one boring task you do weekly. Estimate the cost of a robot that does it 80% as well. Does the ROI still hold? Run the numbers this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Why hasn't robotics had its ChatGPT moment?",
+        "A former Nvidia insider turned VC explains the gap.",
+        "Robots struggle with messy physical data, unlike language.",
+        "Investors now back startups solving real-world tasks.",
+        "Pick one repetitive task and measure robot ROI."
+      ]
+    },
+    "instagram": {
+      "caption": "Robots can't learn to load a dishwasher by reading about it.\n\nA former Nvidia insider turned investor says that's the real gap: language models train on clean text, robots face messy physical data. Every grasp is different 🦾\n\nSo investors stopped funding general-purpose humanoids and started backing startups that solve one task. Bin picking. Floor scrubbing.\n\nIf you run a warehouse or lab, pick one repetitive task and run the math: robot time versus human time.\n\nWhich task in your week would you hand to a robot first? 🤖"
+    }
+  },
+  "instagram_caption": "Robots can't learn to load a dishwasher by reading about it.\n\nA former Nvidia insider turned investor says that's the real gap: language models train on clean text, robots face messy physical data. Every grasp is different 🦾\n\nSo investors stopped funding general-purpose humanoids and started backing startups that solve one task. Bin picking. Floor scrubbing.\n\nIf you run a warehouse or lab, pick one repetitive task and run the math: robot time versus human time.\n\nWhich task in your week would you hand to a robot first? 🤖",
+  "carousel_slides": [
+    {
+      "hook": "Robots can't learn from text alone",
+      "description": "A former Nvidia insider turned VC says robots need to touch and fail in the real world, not just read sentences.",
+      "visual_hint": "Robot arm reaching toward object",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "factory robot"
+    },
+    {
+      "hook": "Why no robot ChatGPT moment?",
+      "description": "Language models train on billions of clean sentences. Robots face messy physical data where every grasp is different — that's the gap.",
+      "visual_hint": "Split screen text vs messy objects",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Investors bet on single tasks",
+      "description": "VCs now fund startups solving one real-world job like bin picking or floor scrubbing, not general-purpose humanoids.",
+      "visual_hint": "Warehouse robot picking bins",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "warehouse shelves",
+      "image": "https://images.pexels.com/photos/30341205/pexels-photo-30341205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One task, one clear ROI",
+      "description": "Pick a repetitive task in your warehouse or lab. Measure robot time versus human time — the math often surprises people.",
+      "visual_hint": "Stopwatch comparing human and robot",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stopwatch timer",
+      "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Run the numbers this week",
+      "description": "Take one boring weekly task. Estimate a robot doing it 80% as well. Does the ROI still hold? Test it now.",
+      "visual_hint": "Person calculating robot cost savings",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office desk calculator",
+      "image": "https://images.pexels.com/photos/8296969/pexels-photo-8296969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+  "savedAt": "2026-10-16T19:09:44.485Z",
+  "sourceId": "0ee63cc50f718ae07d26ad998bc094c3"
+}

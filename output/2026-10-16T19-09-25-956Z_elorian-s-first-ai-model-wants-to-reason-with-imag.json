@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "elorian-s-first-ai-model-wants-to-reason-with-imag",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Elorian’s first AI model wants to reason with images, not just about them",
+  "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+  "pubDate": "Fri, 16 Oct 2026 16:01:37 +0000",
+  "slides": [
+    "Elorian's first AI model: can it reason with images?",
+    "It processes images as step-by-step logical sequences.",
+    "Unlike others, it claims to understand causal relationships in visuals.",
+    "You can now build AI that explains image changes, not just labels.",
+    "Test it on one image: ask what would happen next."
+  ],
+  "thread_text": [
+    "1. AI That Sees Cause, Not Just Cats\n\nElorian's first model processes images as step-by-step logical sequences — so it can trace what led to what, not just name objects.",
+    "2. From Labels to Logic Chains\n\nMost vision models output a single guess. This one walks through visual evidence in order, like a detective narrating a case.",
+    "3. The Causal Claim\n\nIt claims to understand why an image changed, not just that it did. That's a leap from pattern matching to something closer to reasoning.",
+    "4. You Can Build This Now\n\nInstead of classifiers, you can ship tools that explain image changes — for editing, safety, or storytelling — using the same causal pipeline.",
+    "5. Test It on One Image\n\nPick any photo and ask: what would happen next? If the answer feels like a guess, you've found the gap this model is trying to close."
+  ],
+  "video_script": [
+    "Elorian's first model processes images as step-by-step sequences.",
+    "It walks through visual evidence instead of just labeling objects.",
+    "The claim: it understands why images change, not just that they did.",
+    "You can build tools that explain changes, not just classify.",
+    "Take one image and ask: what happens next?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI That Sees Cause, Not Just Cats\n\nElorian's first model processes images as step-by-step logical sequences — so it can trace what led to what, not just name objects.",
+        "2. From Labels to Logic Chains\n\nMost vision models output a single guess. This one walks through visual evidence in order, like a detective narrating a case.",
+        "3. The Causal Claim\n\nIt claims to understand why an image changed, not just that it did. That's a leap from pattern matching to something closer to reasoning.",
+        "4. You Can Build This Now\n\nInstead of classifiers, you can ship tools that explain image changes — for editing, safety, or storytelling — using the same causal pipeline.",
+        "5. Test It on One Image\n\nPick any photo and ask: what would happen next? If the answer feels like a guess, you've found the gap this model is trying to close."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Elorian's first model processes images as step-by-step sequences.",
+        "It walks through visual evidence instead of just labeling objects.",
+        "The claim: it understands why images change, not just that they did.",
+        "You can build tools that explain changes, not just classify.",
+        "Take one image and ask: what happens next?"
+      ]
+    },
+    "instagram": {
+      "caption": "You can now trace why an image changed, not just label what's in it.\n\nElorian's first model reads pictures as step-by-step logical sequences. 🔍\n\nMost vision tools give one guess; this one walks through the visual evidence in order.\n\nIt claims to grasp causal links between what happened and what followed.\n\nFor editors, safety teams, or storytellers, that means shipping tools that explain image changes instead of just classifying them.\n\nPick one photo and ask what happens next — does the answer feel like a guess? 🧠"
+    }
+  },
+  "instagram_caption": "You can now trace why an image changed, not just label what's in it.\n\nElorian's first model reads pictures as step-by-step logical sequences. 🔍\n\nMost vision tools give one guess; this one walks through the visual evidence in order.\n\nIt claims to grasp causal links between what happened and what followed.\n\nFor editors, safety teams, or storytellers, that means shipping tools that explain image changes instead of just classifying them.\n\nPick one photo and ask what happens next — does the answer feel like a guess? 🧠",
+  "carousel_slides": [
+    {
+      "hook": "Reasoning with images, not just about them",
+      "description": "Elorian's first model processes visuals as step-by-step logical sequences, tracing what led to what instead of naming objects.",
+      "visual_hint": "AI brain scanning a photograph",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Most models guess once; this one narrates",
+      "description": "While typical vision models output a single guess, Elorian walks through visual evidence in order, like a detective narrating a case.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Sequential image frames connected by arrows",
+      "image_query": "detective board",
+      "image": "https://images.pexels.com/photos/8369210/pexels-photo-8369210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "From pattern matching to causal reasoning",
+      "description": "It claims to understand why an image changed, not just that it did—a leap from pattern matching to something closer to reasoning.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Magnified causal chain in image",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Build tools that explain image changes",
+      "description": "Instead of classifiers, ship tools that explain image changes for editing, safety, or storytelling using the same causal pipeline.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hand building AI pipeline on screen",
+      "image_query": "software developer",
+      "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it on one image now",
+      "description": "Pick any photo and ask: what would happen next? If the answer feels like a guess, you've found the gap this model closes.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Photo with question mark overlay",
+      "image_query": "photo album",
+      "image": "https://images.pexels.com/photos/10302057/pexels-photo-10302057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/image-1.png?resize=1200,675",
+  "savedAt": "2026-10-16T19:09:54.049Z",
+  "sourceId": "33eae345cea5336eb8716fae19906ff0"
+}
