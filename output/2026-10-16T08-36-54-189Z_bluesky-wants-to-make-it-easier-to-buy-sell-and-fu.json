@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "bluesky-wants-to-make-it-easier-to-buy-sell-and-fu",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
+  "link": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
+  "pubDate": "Thu, 15 Oct 2026 19:29:05 +0000",
+  "slides": [
+    "Can Bluesky turn posts into profit?",
+    "New tools let creators sell directly on the network",
+    "But payments work differently than you expect",
+    "You can now fundraise without leaving your feed",
+    "Test one paid post this week"
+  ],
+  "thread_text": [
+    "1. Bluesky's paid post bet\n\nBluesky now lets creators sell directly on the network. But payments don't work like you think.",
+    "2. No middleman needed\n\nYou can fundraise right from your feed. No external links, no third-party checkout.",
+    "3. The twist: split payments\n\nMoney doesn't go straight to your bank. It routes through a different system than you expect.",
+    "4. One post, one payout\n\nTest a single paid post this week. See how the payment flow actually feels.",
+    "5. Your turn to test\n\nTake one real post and try the paid feature. Does it make sense for your audience?"
+  ],
+  "video_script": [
+    "Bluesky now lets you sell posts directly.",
+    "You can fundraise without leaving your feed.",
+    "But payments don't work like you expect.",
+    "One paid post this week will show you.",
+    "Try it and see if it fits."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Bluesky's paid post bet\n\nBluesky now lets creators sell directly on the network. But payments don't work like you think.",
+        "2. No middleman needed\n\nYou can fundraise right from your feed. No external links, no third-party checkout.",
+        "3. The twist: split payments\n\nMoney doesn't go straight to your bank. It routes through a different system than you expect.",
+        "4. One post, one payout\n\nTest a single paid post this week. See how the payment flow actually feels.",
+        "5. Your turn to test\n\nTake one real post and try the paid feature. Does it make sense for your audience?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Bluesky now lets you sell posts directly.",
+        "You can fundraise without leaving your feed.",
+        "But payments don't work like you expect.",
+        "One paid post this week will show you.",
+        "Try it and see if it fits."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now sell a post directly on Bluesky without linking out to another checkout 🧵\n\nBluesky is building tools to buy, sell, and fundraise right inside the network. No external links needed.\n\nThe catch: payments don't go straight to your bank. They route through a different system than you'd expect 💸\n\nFundraising also works straight from your feed, so followers can pay without leaving the app.\n\nIf you publish content, this means one more place to earn — but you'll need to learn how the payout flow actually works first.\n\nWould you try charging for a single post this week? 👀"
+    }
+  },
+  "instagram_caption": "You can now sell a post directly on Bluesky without linking out to another checkout 🧵\n\nBluesky is building tools to buy, sell, and fundraise right inside the network. No external links needed.\n\nThe catch: payments don't go straight to your bank. They route through a different system than you'd expect 💸\n\nFundraising also works straight from your feed, so followers can pay without leaving the app.\n\nIf you publish content, this means one more place to earn — but you'll need to learn how the payout flow actually works first.\n\nWould you try charging for a single post this week? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Bluesky wants your posts to make money",
+      "description": "New tools let creators sell and fundraise directly on the network, turning your feed into a storefront without external links.",
+      "visual_hint": "Smartphone showing a paid post notification",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone payment screen"
+    },
+    {
+      "hook": "Sell straight from your feed",
+      "description": "Creators can now sell directly on Bluesky, but payments don't route straight to your bank like you'd expect.",
+      "visual_hint": "Finger tapping a buy button on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "mobile payment app",
+      "image": "https://images.pexels.com/photos/6214367/pexels-photo-6214367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The payment twist nobody mentions",
+      "description": "Money routes through a split system instead of going directly to you, so payouts work differently than most platforms.",
+      "visual_hint": "Split arrows showing money routing paths",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "financial transfer diagram",
+      "image": "https://images.pexels.com/photos/6289173/pexels-photo-6289173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fundraise without leaving your feed",
+      "description": "You can now run a fundraiser directly inside Bluesky, no third-party checkout or external links required at all.",
+      "visual_hint": "Hand holding phone showing fundraising goal",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one paid post this week",
+      "description": "Try the paid feature on a single real post and see if it fits your audience. Save this for later.",
+      "visual_hint": "Phone with a post and dollar sign icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "content creator workspace",
+      "image": "https://images.pexels.com/photos/28772545/pexels-photo-28772545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590552302_145d89d28f_o.jpg?resize=1200,800",
+  "savedAt": "2026-10-16T08:37:18.425Z",
+  "sourceId": "d81db36328024f7f5cd5b1bba761a37a"
+}

@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "ramp-reaches-60b-valuation-as-it-pushes-deeper-int",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+    "link": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+    "pubDate": "Thu, 15 Oct 2026 14:47:09 +0000",
+    "slides": [
+      "Ramp hits $60B—what does it mean for spend management?",
+      "Its AI now audits expenses autonomously",
+      "But it also replaces human finance teams",
+      "Your CFO must decide: integrate or resist?",
+      "Test Ramp's AI on one expense report today"
+    ],
+    "thread_text": [
+      "1. $60B wake-up call\n\nA company just hit a $60B valuation by letting AI approve expense reports. The same machine that replaces your approval workflow now decides what gets reimbursed.",
+      "2. Autopilot for expenses\n\nRamp's AI audits receipts and flags anomalies without a human. It learns patterns, catches duplicates, and auto-approves low-risk claims in seconds.",
+      "3. CFOs face a choice\n\nIntegrating AI means fewer finance hires, faster closes, and less manual review. Resisting means staying competitive but slower—and your team knows it.",
+      "4. The human cost\n\nOne finance team replaced three full-time reviewers with a single AI config. The CFO now approves exceptions only—not every line item. That shift is permanent.",
+      "5. Test it today\n\nTake one real expense report and ask ChatGPT to audit it for duplicates or missing receipts. If it catches even one error, your CFO needs to see that this week."
+    ],
+    "video_script": [
+      "Ramp just hit sixty billion dollars.",
+      "Its AI now audits expenses without humans.",
+      "That means finance teams are shrinking.",
+      "Your CFO must pick: integrate or resist.",
+      "Run one expense report through AI today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $60B wake-up call\n\nA company just hit a $60B valuation by letting AI approve expense reports. The same machine that replaces your approval workflow now decides what gets reimbursed.",
+          "2. Autopilot for expenses\n\nRamp's AI audits receipts and flags anomalies without a human. It learns patterns, catches duplicates, and auto-approves low-risk claims in seconds.",
+          "3. CFOs face a choice\n\nIntegrating AI means fewer finance hires, faster closes, and less manual review. Resisting means staying competitive but slower—and your team knows it.",
+          "4. The human cost\n\nOne finance team replaced three full-time reviewers with a single AI config. The CFO now approves exceptions only—not every line item. That shift is permanent.",
+          "5. Test it today\n\nTake one real expense report and ask ChatGPT to audit it for duplicates or missing receipts. If it catches even one error, your CFO needs to see that this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Ramp just hit sixty billion dollars.",
+          "Its AI now audits expenses without humans.",
+          "That means finance teams are shrinking.",
+          "Your CFO must pick: integrate or resist.",
+          "Run one expense report through AI today."
+        ]
+      },
+      "instagram": {
+        "caption": "A $60B valuation just went to a company whose AI approves your expense reports on its own. 💸\n\nRamp's AI reads receipts, flags duplicates and auto-approves low-risk claims without a human touching them.\n\nThat means one finance team swapped three reviewers for a single AI setup. The CFO now only approves exceptions.\n\nIf you run a team, reconcile receipts or sign off on expenses, part of that work is already automatable this quarter.\n\nGrab one real expense report and ask ChatGPT to hunt for duplicates or missing receipts. If it catches one error, who on your team needs to see it? 👀"
+      }
+    },
+    "instagram_caption": "A $60B valuation just went to a company whose AI approves your expense reports on its own. 💸\n\nRamp's AI reads receipts, flags duplicates and auto-approves low-risk claims without a human touching them.\n\nThat means one finance team swapped three reviewers for a single AI setup. The CFO now only approves exceptions.\n\nIf you run a team, reconcile receipts or sign off on expenses, part of that work is already automatable this quarter.\n\nGrab one real expense report and ask ChatGPT to hunt for duplicates or missing receipts. If it catches one error, who on your team needs to see it? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Is AI replacing your finance team?",
+        "description": "Ramp's $60B valuation shows AI can audit expenses autonomously. Your CFO must choose: integrate AI or resist and stay slower.",
+        "visual_hint": "Split screen: human vs AI reviewer",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "AI audits expenses without humans",
+        "description": "Ramp's AI flags anomalies, catches duplicates, and auto-approves low-risk claims in seconds, learning patterns autonomously.",
+        "visual_hint": "AI scanning receipts with checkmarks",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "receipt scanner",
+        "image": "https://images.pexels.com/photos/5900135/pexels-photo-5900135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One AI replaced three finance reviewers",
+        "description": "A finance team swapped three full-time reviewers for one AI config. CFOs now approve exceptions only—not every line item.",
+        "visual_hint": "Empty office chairs, AI dashboard",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "empty office",
+        "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your CFO must decide: integrate or resist?",
+        "description": "Integrating AI means fewer hires, faster closes, less manual review. Resisting keeps you slower while competitors automate spend management.",
+        "visual_hint": "CFO looking at two paths",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "business decision",
+        "image": "https://images.pexels.com/photos/6326394/pexels-photo-6326394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Ramp's AI on one expense report today",
+        "description": "Take one real expense report and ask ChatGPT to audit it for duplicates or missing receipts. If it catches one error, show your CFO.",
+        "visual_hint": "Person testing AI with expense report",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "expense report",
+        "image": "https://images.pexels.com/photos/6801680/pexels-photo-6801680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/eric-glyman.jpg?resize=1200,801",
+    "savedAt": "2026-10-16T08:37:50.740Z",
+    "sourceId": "0839ec4f1c189ce93b01dc28d89d5241"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "bluesky-expands-its-ai-powered-attie-app-to-let-an",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+    "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+    "pubDate": "Thu, 15 Oct 2026 18:56:46 +0000",
+    "slides": [
+      "What if anyone could build apps without coding?",
+      "Bluesky's Attie now lets users create websites and games",
+      "But the AI decides what you can actually build",
+      "Your next side project might skip developers entirely",
+      "Try Attie today: what will you create first?"
+    ],
+    "thread_text": [
+      "1. No Code Needed\n\nBluesky's Attie lets users create websites and games just by describing them. The AI handles the building part — but not the deciding part.",
+      "2. AI Picks Your Limits\n\nAttie decides what you can actually build. You bring the idea; the AI determines what's possible. That's a quiet shift in who holds creative control.",
+      "3. Skip the Developer\n\nYour next side project might not need a coder at all. Instead, you write a prompt and iterate with an AI that chooses the boundaries for you.",
+      "4. Who's Really Building?\n\nIf the AI selects the features, are you the creator or just the requester? The line between tool and author gets blurry fast.",
+      "5. Try It Yourself\n\nGo to Attie and describe one small app you've always wanted. See what the AI lets you make — and what it quietly blocks."
+    ],
+    "video_script": [
+      "Imagine building apps without writing any code.",
+      "Bluesky's Attie turns your words into websites and games.",
+      "But the AI decides what you can actually build.",
+      "Your next side project might skip developers entirely.",
+      "Try Attie today. What will you create first?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. No Code Needed\n\nBluesky's Attie lets users create websites and games just by describing them. The AI handles the building part — but not the deciding part.",
+          "2. AI Picks Your Limits\n\nAttie decides what you can actually build. You bring the idea; the AI determines what's possible. That's a quiet shift in who holds creative control.",
+          "3. Skip the Developer\n\nYour next side project might not need a coder at all. Instead, you write a prompt and iterate with an AI that chooses the boundaries for you.",
+          "4. Who's Really Building?\n\nIf the AI selects the features, are you the creator or just the requester? The line between tool and author gets blurry fast.",
+          "5. Try It Yourself\n\nGo to Attie and describe one small app you've always wanted. See what the AI lets you make — and what it quietly blocks."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Imagine building apps without writing any code.",
+          "Bluesky's Attie turns your words into websites and games.",
+          "But the AI decides what you can actually build.",
+          "Your next side project might skip developers entirely.",
+          "Try Attie today. What will you create first?"
+        ]
+      },
+      "instagram": {
+        "caption": "You can now describe a website or a game and watch it get built without writing a single line of code. 🛠️\n\nBluesky's Attie opens up to anyone who wants to create.\n\nThe catch: the AI itself decides what you're actually allowed to build. So you bring the idea, but it sets the limits.\n\nIf the tool picks the boundaries, you're less an author and more a requester. 🤔\n\nNext time you need a small app for work, you might not call a developer at all.\n\nGo try Attie and describe one thing you've always wanted. What will it let you make? 👀"
+      }
+    },
+    "instagram_caption": "You can now describe a website or a game and watch it get built without writing a single line of code. 🛠️\n\nBluesky's Attie opens up to anyone who wants to create.\n\nThe catch: the AI itself decides what you're actually allowed to build. So you bring the idea, but it sets the limits.\n\nIf the tool picks the boundaries, you're less an author and more a requester. 🤔\n\nNext time you need a small app for work, you might not call a developer at all.\n\nGo try Attie and describe one thing you've always wanted. What will it let you make? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Who controls what you can build?",
+        "description": "Bluesky's Attie lets anyone create websites and games by description, but the AI decides what's actually possible for you.",
+        "visual_hint": "Split screen: human hand vs robotic arm",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot hand"
+      },
+      {
+        "hook": "Describe it, and Attie builds it",
+        "description": "No coding needed: users simply describe websites or games and the AI handles the entire building process automatically.",
+        "visual_hint": "Person typing prompt, website materializing",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "person typing laptop",
+        "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The AI quietly sets your limits",
+        "description": "Attie determines which features you can actually create, shifting creative control from the user to the algorithm itself.",
+        "visual_hint": "Algorithm choosing between feature cards",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer algorithm code",
+        "image": "https://images.pexels.com/photos/3861976/pexels-photo-3861976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your next project skips developers entirely",
+        "description": "Side projects may no longer need coders: you write a prompt and iterate with AI that chooses the boundaries.",
+        "visual_hint": "Empty developer desk, laptop with prompt",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "empty office desk",
+        "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try Attie now — what will you create?",
+        "description": "Visit Attie and describe one small app you've always wanted. Then see what the AI lets you make, and what it blocks.",
+        "visual_hint": "App interface with creative prompt field",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone app interface",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591989690_9a07db512f_k.jpg?resize=1200,800",
+    "savedAt": "2026-10-16T08:37:36.174Z",
+    "sourceId": "aa35977b34b4521c44ebecb8f31cb3a1"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "bluesky-wants-to-make-it-easier-to-buy-sell-and-fu",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
+    "link": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
+    "pubDate": "Thu, 15 Oct 2026 19:29:05 +0000",
+    "slides": [
+      "Can Bluesky turn posts into profit?",
+      "New tools let creators sell directly on the network",
+      "But payments work differently than you expect",
+      "You can now fundraise without leaving your feed",
+      "Test one paid post this week"
+    ],
+    "thread_text": [
+      "1. Bluesky's paid post bet\n\nBluesky now lets creators sell directly on the network. But payments don't work like you think.",
+      "2. No middleman needed\n\nYou can fundraise right from your feed. No external links, no third-party checkout.",
+      "3. The twist: split payments\n\nMoney doesn't go straight to your bank. It routes through a different system than you expect.",
+      "4. One post, one payout\n\nTest a single paid post this week. See how the payment flow actually feels.",
+      "5. Your turn to test\n\nTake one real post and try the paid feature. Does it make sense for your audience?"
+    ],
+    "video_script": [
+      "Bluesky now lets you sell posts directly.",
+      "You can fundraise without leaving your feed.",
+      "But payments don't work like you expect.",
+      "One paid post this week will show you.",
+      "Try it and see if it fits."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Bluesky's paid post bet\n\nBluesky now lets creators sell directly on the network. But payments don't work like you think.",
+          "2. No middleman needed\n\nYou can fundraise right from your feed. No external links, no third-party checkout.",
+          "3. The twist: split payments\n\nMoney doesn't go straight to your bank. It routes through a different system than you expect.",
+          "4. One post, one payout\n\nTest a single paid post this week. See how the payment flow actually feels.",
+          "5. Your turn to test\n\nTake one real post and try the paid feature. Does it make sense for your audience?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Bluesky now lets you sell posts directly.",
+          "You can fundraise without leaving your feed.",
+          "But payments don't work like you expect.",
+          "One paid post this week will show you.",
+          "Try it and see if it fits."
+        ]
+      },
+      "instagram": {
+        "caption": "You can now sell a post directly on Bluesky without linking out to another checkout 🧵\n\nBluesky is building tools to buy, sell, and fundraise right inside the network. No external links needed.\n\nThe catch: payments don't go straight to your bank. They route through a different system than you'd expect 💸\n\nFundraising also works straight from your feed, so followers can pay without leaving the app.\n\nIf you publish content, this means one more place to earn — but you'll need to learn how the payout flow actually works first.\n\nWould you try charging for a single post this week? 👀"
+      }
+    },
+    "instagram_caption": "You can now sell a post directly on Bluesky without linking out to another checkout 🧵\n\nBluesky is building tools to buy, sell, and fundraise right inside the network. No external links needed.\n\nThe catch: payments don't go straight to your bank. They route through a different system than you'd expect 💸\n\nFundraising also works straight from your feed, so followers can pay without leaving the app.\n\nIf you publish content, this means one more place to earn — but you'll need to learn how the payout flow actually works first.\n\nWould you try charging for a single post this week? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Bluesky wants your posts to make money",
+        "description": "New tools let creators sell and fundraise directly on the network, turning your feed into a storefront without external links.",
+        "visual_hint": "Smartphone showing a paid post notification",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone payment screen"
+      },
+      {
+        "hook": "Sell straight from your feed",
+        "description": "Creators can now sell directly on Bluesky, but payments don't route straight to your bank like you'd expect.",
+        "visual_hint": "Finger tapping a buy button on screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "mobile payment app",
+        "image": "https://images.pexels.com/photos/6214367/pexels-photo-6214367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The payment twist nobody mentions",
+        "description": "Money routes through a split system instead of going directly to you, so payouts work differently than most platforms.",
+        "visual_hint": "Split arrows showing money routing paths",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "financial transfer diagram",
+        "image": "https://images.pexels.com/photos/6289173/pexels-photo-6289173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Fundraise without leaving your feed",
+        "description": "You can now run a fundraiser directly inside Bluesky, no third-party checkout or external links required at all.",
+        "visual_hint": "Hand holding phone showing fundraising goal",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one paid post this week",
+        "description": "Try the paid feature on a single real post and see if it fits your audience. Save this for later.",
+        "visual_hint": "Phone with a post and dollar sign icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "content creator workspace",
+        "image": "https://images.pexels.com/photos/28772545/pexels-photo-28772545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590552302_145d89d28f_o.jpg?resize=1200,800",
+    "savedAt": "2026-10-16T08:37:18.425Z",
+    "sourceId": "d81db36328024f7f5cd5b1bba761a37a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "even-benchmark-thinks-ai-is-eroding-the-venture-pa",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+    "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+    "pubDate": "Fri, 16 Oct 2026 05:16:46 +0000",
+    "slides": [
+      "Benchmark's partner used to call founder backing sacred. What changed?",
+      "The firm just backed a company while still on a rival's board.",
+      "But this wasn't a quiet exception—it was a deliberate structural shift.",
+      "Now founders must ask: who else has your VC's capital?",
+      "Read your term sheet today. The loyalty clause is gone."
+    ],
+    "thread_text": [
+      "1. The Loyalty Clause Is Dead\n\nBenchmark's partner used to call founder backing sacred. Now the firm backed a company while still on a rival's board — and it wasn't a quiet exception.",
+      "2. Not a Quiet Exception\n\nThis was a deliberate structural shift. The old rule that kept investors from funding competitors is gone, and nobody announced it.",
+      "3. Who Else Has Your VC's Capital?\n\nIf your investor sits on a rival's board, your term sheet might not protect you. Founders now have to ask that question before signing.",
+      "4. The New Board Game\n\nVCs are playing both sides. The sacred rule is dead, and the only warning you'll get is in the fine print.",
+      "5. Check Your Term Sheet Today\n\nRead the loyalty clause — or what's left of it. Does your contract still stop your investor from backing your competitor? If not, you're exposed."
+    ],
+    "video_script": [
+      "Benchmark used to call founder backing sacred. Not anymore.",
+      "The firm backed a company while still on a rival's board.",
+      "This wasn't a quiet exception — it was a deliberate structural shift.",
+      "Now founders must ask: who else has your investor's money?",
+      "Read your term sheet today. The loyalty clause is gone."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Loyalty Clause Is Dead\n\nBenchmark's partner used to call founder backing sacred. Now the firm backed a company while still on a rival's board — and it wasn't a quiet exception.",
+          "2. Not a Quiet Exception\n\nThis was a deliberate structural shift. The old rule that kept investors from funding competitors is gone, and nobody announced it.",
+          "3. Who Else Has Your VC's Capital?\n\nIf your investor sits on a rival's board, your term sheet might not protect you. Founders now have to ask that question before signing.",
+          "4. The New Board Game\n\nVCs are playing both sides. The sacred rule is dead, and the only warning you'll get is in the fine print.",
+          "5. Check Your Term Sheet Today\n\nRead the loyalty clause — or what's left of it. Does your contract still stop your investor from backing your competitor? If not, you're exposed."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Benchmark used to call founder backing sacred. Not anymore.",
+          "The firm backed a company while still on a rival's board.",
+          "This wasn't a quiet exception — it was a deliberate structural shift.",
+          "Now founders must ask: who else has your investor's money?",
+          "Read your term sheet today. The loyalty clause is gone."
+        ]
+      },
+      "instagram": {
+        "caption": "Your VC can sit on your competitor's board and fund them at the same time. That used to be forbidden.\n\nBenchmark's own partner once called backing founders sacred. Then the firm invested in a company while still holding a seat on a rival's board. No announcement, no apology—just a quiet rewrite of the rules.\n\nIf your investor has a seat at a competitor's table, your term sheet may not stop them from writing the next check to your rival.\n\nRead your contract today. Find the loyalty clause. Is it still there, or was it already removed? 👀\n\nWhat does your term sheet actually say about your investor backing a competitor? 📄🔍"
+      }
+    },
+    "instagram_caption": "Your VC can sit on your competitor's board and fund them at the same time. That used to be forbidden.\n\nBenchmark's own partner once called backing founders sacred. Then the firm invested in a company while still holding a seat on a rival's board. No announcement, no apology—just a quiet rewrite of the rules.\n\nIf your investor has a seat at a competitor's table, your term sheet may not stop them from writing the next check to your rival.\n\nRead your contract today. Find the loyalty clause. Is it still there, or was it already removed? 👀\n\nWhat does your term sheet actually say about your investor backing a competitor? 📄🔍",
+    "carousel_slides": [
+      {
+        "hook": "Is VC loyalty finally dead?",
+        "description": "Benchmark's partner once called founder backing sacred, but the firm just backed a company while still on a rival's board. The old rule is gone.",
+        "visual_hint": "Broken handshake over contract",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "handshake contract"
+      },
+      {
+        "hook": "Not a quiet exception—a structural shift.",
+        "description": "This wasn't a one-off. It was a deliberate structural change, and nobody announced it. The venture pact against backing rivals is eroding.",
+        "visual_hint": "Cracked boardroom table",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "boardroom table",
+        "image": "https://images.pexels.com/photos/8574469/pexels-photo-8574469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who else has your VC's capital?",
+        "description": "If your investor sits on a rival's board, your term sheet might not protect you. Founders must ask before signing.",
+        "visual_hint": "Overlapping company logos",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "corporate logos",
+        "image": "https://images.pexels.com/photos/36398873/pexels-photo-36398873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "VCs are playing both sides.",
+        "description": "The sacred rule is dead, and the only warning is in the fine print. Your investor may now back your competitor.",
+        "visual_hint": "Chessboard with two kings",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "chessboard kings",
+        "image": "https://images.pexels.com/photos/37295237/pexels-photo-37295237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Read your term sheet today.",
+        "description": "Check the loyalty clause—or what's left. Does your contract still stop your investor from backing a competitor? If not, you're exposed.",
+        "visual_hint": "Contract with magnifying glass",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "contract magnifying glass",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Benchmark.jpg?resize=1200,800",
+    "savedAt": "2026-10-16T08:37:07.194Z",
+    "sourceId": "97d7dc6dd61620cc10ac07e2efba89c2"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "meta-and-apple-team-up-to-make-muse-ai-models-run-",
     "prompt_version": "1.0.0",
     "status": "published",

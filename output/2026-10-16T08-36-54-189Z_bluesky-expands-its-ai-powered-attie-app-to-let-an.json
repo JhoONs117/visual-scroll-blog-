@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "bluesky-expands-its-ai-powered-attie-app-to-let-an",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+  "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+  "pubDate": "Thu, 15 Oct 2026 18:56:46 +0000",
+  "slides": [
+    "What if anyone could build apps without coding?",
+    "Bluesky's Attie now lets users create websites and games",
+    "But the AI decides what you can actually build",
+    "Your next side project might skip developers entirely",
+    "Try Attie today: what will you create first?"
+  ],
+  "thread_text": [
+    "1. No Code Needed\n\nBluesky's Attie lets users create websites and games just by describing them. The AI handles the building part — but not the deciding part.",
+    "2. AI Picks Your Limits\n\nAttie decides what you can actually build. You bring the idea; the AI determines what's possible. That's a quiet shift in who holds creative control.",
+    "3. Skip the Developer\n\nYour next side project might not need a coder at all. Instead, you write a prompt and iterate with an AI that chooses the boundaries for you.",
+    "4. Who's Really Building?\n\nIf the AI selects the features, are you the creator or just the requester? The line between tool and author gets blurry fast.",
+    "5. Try It Yourself\n\nGo to Attie and describe one small app you've always wanted. See what the AI lets you make — and what it quietly blocks."
+  ],
+  "video_script": [
+    "Imagine building apps without writing any code.",
+    "Bluesky's Attie turns your words into websites and games.",
+    "But the AI decides what you can actually build.",
+    "Your next side project might skip developers entirely.",
+    "Try Attie today. What will you create first?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. No Code Needed\n\nBluesky's Attie lets users create websites and games just by describing them. The AI handles the building part — but not the deciding part.",
+        "2. AI Picks Your Limits\n\nAttie decides what you can actually build. You bring the idea; the AI determines what's possible. That's a quiet shift in who holds creative control.",
+        "3. Skip the Developer\n\nYour next side project might not need a coder at all. Instead, you write a prompt and iterate with an AI that chooses the boundaries for you.",
+        "4. Who's Really Building?\n\nIf the AI selects the features, are you the creator or just the requester? The line between tool and author gets blurry fast.",
+        "5. Try It Yourself\n\nGo to Attie and describe one small app you've always wanted. See what the AI lets you make — and what it quietly blocks."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Imagine building apps without writing any code.",
+        "Bluesky's Attie turns your words into websites and games.",
+        "But the AI decides what you can actually build.",
+        "Your next side project might skip developers entirely.",
+        "Try Attie today. What will you create first?"
+      ]
+    },
+    "instagram": {
+      "caption": "You can now describe a website or a game and watch it get built without writing a single line of code. 🛠️\n\nBluesky's Attie opens up to anyone who wants to create.\n\nThe catch: the AI itself decides what you're actually allowed to build. So you bring the idea, but it sets the limits.\n\nIf the tool picks the boundaries, you're less an author and more a requester. 🤔\n\nNext time you need a small app for work, you might not call a developer at all.\n\nGo try Attie and describe one thing you've always wanted. What will it let you make? 👀"
+    }
+  },
+  "instagram_caption": "You can now describe a website or a game and watch it get built without writing a single line of code. 🛠️\n\nBluesky's Attie opens up to anyone who wants to create.\n\nThe catch: the AI itself decides what you're actually allowed to build. So you bring the idea, but it sets the limits.\n\nIf the tool picks the boundaries, you're less an author and more a requester. 🤔\n\nNext time you need a small app for work, you might not call a developer at all.\n\nGo try Attie and describe one thing you've always wanted. What will it let you make? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Who controls what you can build?",
+      "description": "Bluesky's Attie lets anyone create websites and games by description, but the AI decides what's actually possible for you.",
+      "visual_hint": "Split screen: human hand vs robotic arm",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot hand"
+    },
+    {
+      "hook": "Describe it, and Attie builds it",
+      "description": "No coding needed: users simply describe websites or games and the AI handles the entire building process automatically.",
+      "visual_hint": "Person typing prompt, website materializing",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "person typing laptop",
+      "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The AI quietly sets your limits",
+      "description": "Attie determines which features you can actually create, shifting creative control from the user to the algorithm itself.",
+      "visual_hint": "Algorithm choosing between feature cards",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer algorithm code",
+      "image": "https://images.pexels.com/photos/3861976/pexels-photo-3861976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your next project skips developers entirely",
+      "description": "Side projects may no longer need coders: you write a prompt and iterate with AI that chooses the boundaries.",
+      "visual_hint": "Empty developer desk, laptop with prompt",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "empty office desk",
+      "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try Attie now — what will you create?",
+      "description": "Visit Attie and describe one small app you've always wanted. Then see what the AI lets you make, and what it blocks.",
+      "visual_hint": "App interface with creative prompt field",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone app interface",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591989690_9a07db512f_k.jpg?resize=1200,800",
+  "savedAt": "2026-10-16T08:37:36.174Z",
+  "sourceId": "aa35977b34b4521c44ebecb8f31cb3a1"
+}

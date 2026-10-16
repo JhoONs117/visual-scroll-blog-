@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ramp-reaches-60b-valuation-as-it-pushes-deeper-int",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+  "link": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+  "pubDate": "Thu, 15 Oct 2026 14:47:09 +0000",
+  "slides": [
+    "Ramp hits $60B—what does it mean for spend management?",
+    "Its AI now audits expenses autonomously",
+    "But it also replaces human finance teams",
+    "Your CFO must decide: integrate or resist?",
+    "Test Ramp's AI on one expense report today"
+  ],
+  "thread_text": [
+    "1. $60B wake-up call\n\nA company just hit a $60B valuation by letting AI approve expense reports. The same machine that replaces your approval workflow now decides what gets reimbursed.",
+    "2. Autopilot for expenses\n\nRamp's AI audits receipts and flags anomalies without a human. It learns patterns, catches duplicates, and auto-approves low-risk claims in seconds.",
+    "3. CFOs face a choice\n\nIntegrating AI means fewer finance hires, faster closes, and less manual review. Resisting means staying competitive but slower—and your team knows it.",
+    "4. The human cost\n\nOne finance team replaced three full-time reviewers with a single AI config. The CFO now approves exceptions only—not every line item. That shift is permanent.",
+    "5. Test it today\n\nTake one real expense report and ask ChatGPT to audit it for duplicates or missing receipts. If it catches even one error, your CFO needs to see that this week."
+  ],
+  "video_script": [
+    "Ramp just hit sixty billion dollars.",
+    "Its AI now audits expenses without humans.",
+    "That means finance teams are shrinking.",
+    "Your CFO must pick: integrate or resist.",
+    "Run one expense report through AI today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $60B wake-up call\n\nA company just hit a $60B valuation by letting AI approve expense reports. The same machine that replaces your approval workflow now decides what gets reimbursed.",
+        "2. Autopilot for expenses\n\nRamp's AI audits receipts and flags anomalies without a human. It learns patterns, catches duplicates, and auto-approves low-risk claims in seconds.",
+        "3. CFOs face a choice\n\nIntegrating AI means fewer finance hires, faster closes, and less manual review. Resisting means staying competitive but slower—and your team knows it.",
+        "4. The human cost\n\nOne finance team replaced three full-time reviewers with a single AI config. The CFO now approves exceptions only—not every line item. That shift is permanent.",
+        "5. Test it today\n\nTake one real expense report and ask ChatGPT to audit it for duplicates or missing receipts. If it catches even one error, your CFO needs to see that this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Ramp just hit sixty billion dollars.",
+        "Its AI now audits expenses without humans.",
+        "That means finance teams are shrinking.",
+        "Your CFO must pick: integrate or resist.",
+        "Run one expense report through AI today."
+      ]
+    },
+    "instagram": {
+      "caption": "A $60B valuation just went to a company whose AI approves your expense reports on its own. 💸\n\nRamp's AI reads receipts, flags duplicates and auto-approves low-risk claims without a human touching them.\n\nThat means one finance team swapped three reviewers for a single AI setup. The CFO now only approves exceptions.\n\nIf you run a team, reconcile receipts or sign off on expenses, part of that work is already automatable this quarter.\n\nGrab one real expense report and ask ChatGPT to hunt for duplicates or missing receipts. If it catches one error, who on your team needs to see it? 👀"
+    }
+  },
+  "instagram_caption": "A $60B valuation just went to a company whose AI approves your expense reports on its own. 💸\n\nRamp's AI reads receipts, flags duplicates and auto-approves low-risk claims without a human touching them.\n\nThat means one finance team swapped three reviewers for a single AI setup. The CFO now only approves exceptions.\n\nIf you run a team, reconcile receipts or sign off on expenses, part of that work is already automatable this quarter.\n\nGrab one real expense report and ask ChatGPT to hunt for duplicates or missing receipts. If it catches one error, who on your team needs to see it? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Is AI replacing your finance team?",
+      "description": "Ramp's $60B valuation shows AI can audit expenses autonomously. Your CFO must choose: integrate AI or resist and stay slower.",
+      "visual_hint": "Split screen: human vs AI reviewer",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "AI audits expenses without humans",
+      "description": "Ramp's AI flags anomalies, catches duplicates, and auto-approves low-risk claims in seconds, learning patterns autonomously.",
+      "visual_hint": "AI scanning receipts with checkmarks",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "receipt scanner",
+      "image": "https://images.pexels.com/photos/5900135/pexels-photo-5900135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One AI replaced three finance reviewers",
+      "description": "A finance team swapped three full-time reviewers for one AI config. CFOs now approve exceptions only—not every line item.",
+      "visual_hint": "Empty office chairs, AI dashboard",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "empty office",
+      "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your CFO must decide: integrate or resist?",
+      "description": "Integrating AI means fewer hires, faster closes, less manual review. Resisting keeps you slower while competitors automate spend management.",
+      "visual_hint": "CFO looking at two paths",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "business decision",
+      "image": "https://images.pexels.com/photos/6326394/pexels-photo-6326394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Ramp's AI on one expense report today",
+      "description": "Take one real expense report and ask ChatGPT to audit it for duplicates or missing receipts. If it catches one error, show your CFO.",
+      "visual_hint": "Person testing AI with expense report",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "expense report",
+      "image": "https://images.pexels.com/photos/6801680/pexels-photo-6801680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/eric-glyman.jpg?resize=1200,801",
+  "savedAt": "2026-10-16T08:37:50.740Z",
+  "sourceId": "0839ec4f1c189ce93b01dc28d89d5241"
+}

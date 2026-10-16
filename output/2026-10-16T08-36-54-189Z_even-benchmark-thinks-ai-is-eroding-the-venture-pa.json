@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "even-benchmark-thinks-ai-is-eroding-the-venture-pa",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+  "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+  "pubDate": "Fri, 16 Oct 2026 05:16:46 +0000",
+  "slides": [
+    "Benchmark's partner used to call founder backing sacred. What changed?",
+    "The firm just backed a company while still on a rival's board.",
+    "But this wasn't a quiet exception—it was a deliberate structural shift.",
+    "Now founders must ask: who else has your VC's capital?",
+    "Read your term sheet today. The loyalty clause is gone."
+  ],
+  "thread_text": [
+    "1. The Loyalty Clause Is Dead\n\nBenchmark's partner used to call founder backing sacred. Now the firm backed a company while still on a rival's board — and it wasn't a quiet exception.",
+    "2. Not a Quiet Exception\n\nThis was a deliberate structural shift. The old rule that kept investors from funding competitors is gone, and nobody announced it.",
+    "3. Who Else Has Your VC's Capital?\n\nIf your investor sits on a rival's board, your term sheet might not protect you. Founders now have to ask that question before signing.",
+    "4. The New Board Game\n\nVCs are playing both sides. The sacred rule is dead, and the only warning you'll get is in the fine print.",
+    "5. Check Your Term Sheet Today\n\nRead the loyalty clause — or what's left of it. Does your contract still stop your investor from backing your competitor? If not, you're exposed."
+  ],
+  "video_script": [
+    "Benchmark used to call founder backing sacred. Not anymore.",
+    "The firm backed a company while still on a rival's board.",
+    "This wasn't a quiet exception — it was a deliberate structural shift.",
+    "Now founders must ask: who else has your investor's money?",
+    "Read your term sheet today. The loyalty clause is gone."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Loyalty Clause Is Dead\n\nBenchmark's partner used to call founder backing sacred. Now the firm backed a company while still on a rival's board — and it wasn't a quiet exception.",
+        "2. Not a Quiet Exception\n\nThis was a deliberate structural shift. The old rule that kept investors from funding competitors is gone, and nobody announced it.",
+        "3. Who Else Has Your VC's Capital?\n\nIf your investor sits on a rival's board, your term sheet might not protect you. Founders now have to ask that question before signing.",
+        "4. The New Board Game\n\nVCs are playing both sides. The sacred rule is dead, and the only warning you'll get is in the fine print.",
+        "5. Check Your Term Sheet Today\n\nRead the loyalty clause — or what's left of it. Does your contract still stop your investor from backing your competitor? If not, you're exposed."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Benchmark used to call founder backing sacred. Not anymore.",
+        "The firm backed a company while still on a rival's board.",
+        "This wasn't a quiet exception — it was a deliberate structural shift.",
+        "Now founders must ask: who else has your investor's money?",
+        "Read your term sheet today. The loyalty clause is gone."
+      ]
+    },
+    "instagram": {
+      "caption": "Your VC can sit on your competitor's board and fund them at the same time. That used to be forbidden.\n\nBenchmark's own partner once called backing founders sacred. Then the firm invested in a company while still holding a seat on a rival's board. No announcement, no apology—just a quiet rewrite of the rules.\n\nIf your investor has a seat at a competitor's table, your term sheet may not stop them from writing the next check to your rival.\n\nRead your contract today. Find the loyalty clause. Is it still there, or was it already removed? 👀\n\nWhat does your term sheet actually say about your investor backing a competitor? 📄🔍"
+    }
+  },
+  "instagram_caption": "Your VC can sit on your competitor's board and fund them at the same time. That used to be forbidden.\n\nBenchmark's own partner once called backing founders sacred. Then the firm invested in a company while still holding a seat on a rival's board. No announcement, no apology—just a quiet rewrite of the rules.\n\nIf your investor has a seat at a competitor's table, your term sheet may not stop them from writing the next check to your rival.\n\nRead your contract today. Find the loyalty clause. Is it still there, or was it already removed? 👀\n\nWhat does your term sheet actually say about your investor backing a competitor? 📄🔍",
+  "carousel_slides": [
+    {
+      "hook": "Is VC loyalty finally dead?",
+      "description": "Benchmark's partner once called founder backing sacred, but the firm just backed a company while still on a rival's board. The old rule is gone.",
+      "visual_hint": "Broken handshake over contract",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "handshake contract"
+    },
+    {
+      "hook": "Not a quiet exception—a structural shift.",
+      "description": "This wasn't a one-off. It was a deliberate structural change, and nobody announced it. The venture pact against backing rivals is eroding.",
+      "visual_hint": "Cracked boardroom table",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "boardroom table",
+      "image": "https://images.pexels.com/photos/8574469/pexels-photo-8574469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who else has your VC's capital?",
+      "description": "If your investor sits on a rival's board, your term sheet might not protect you. Founders must ask before signing.",
+      "visual_hint": "Overlapping company logos",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "corporate logos",
+      "image": "https://images.pexels.com/photos/36398873/pexels-photo-36398873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "VCs are playing both sides.",
+      "description": "The sacred rule is dead, and the only warning is in the fine print. Your investor may now back your competitor.",
+      "visual_hint": "Chessboard with two kings",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "chessboard kings",
+      "image": "https://images.pexels.com/photos/37295237/pexels-photo-37295237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Read your term sheet today.",
+      "description": "Check the loyalty clause—or what's left. Does your contract still stop your investor from backing a competitor? If not, you're exposed.",
+      "visual_hint": "Contract with magnifying glass",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "contract magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Benchmark.jpg?resize=1200,800",
+  "savedAt": "2026-10-16T08:37:07.194Z",
+  "sourceId": "97d7dc6dd61620cc10ac07e2efba89c2"
+}
