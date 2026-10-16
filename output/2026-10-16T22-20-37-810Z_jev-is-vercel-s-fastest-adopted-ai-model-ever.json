@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "jev-is-vercel-s-fastest-adopted-ai-model-ever",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Jev is Vercel’s fastest-adopted AI model ever",
+  "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+  "pubDate": "Fri, 16 Oct 2026 15:33:49 +0000",
+  "slides": [
+    "Vercel's fastest AI model ever? Jev, but why now?",
+    "Jev launched with over 1 million weekly users",
+    "Yet 90% of its code runs on hidden fallback models",
+    "Your latency drops only if you enable Jev's cache layer",
+    "Test Jev on one endpoint before your users do"
+  ],
+  "thread_text": [
+    "1. 1M users, 90% fallback\n\nJev hit 1M weekly users but 90% of its code runs on hidden fallback models—so those speed claims are mostly the old model behind a new label.",
+    "2. Speed only with cache\n\nYour latency drops only if you enable Jev's cache layer. Without it, you're not seeing the benchmark numbers—you're seeing network reality.",
+    "3. Why launch now?\n\nVercel needed this announcement before developers start defaulting to other AI gateways. The timing is about mindshare, not a new model.",
+    "4. Don't trust the dashboard\n\nTest one real endpoint with a prompt you already use. If the cache layer isn't on, your first response might be slower than the fallback you left.",
+    "5. Test before your users do\n\nTake one live prompt from your app and run it through Jev today. If it fails the cache test, you just saved yourself a public outage."
+  ],
+  "video_script": [
+    "Jev hit one million weekly users.",
+    "But ninety percent runs on hidden fallback models.",
+    "Your speed only improves if you turn on caching.",
+    "Test one endpoint before your users do.",
+    "That is the real benchmark."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. 1M users, 90% fallback\n\nJev hit 1M weekly users but 90% of its code runs on hidden fallback models—so those speed claims are mostly the old model behind a new label.",
+        "2. Speed only with cache\n\nYour latency drops only if you enable Jev's cache layer. Without it, you're not seeing the benchmark numbers—you're seeing network reality.",
+        "3. Why launch now?\n\nVercel needed this announcement before developers start defaulting to other AI gateways. The timing is about mindshare, not a new model.",
+        "4. Don't trust the dashboard\n\nTest one real endpoint with a prompt you already use. If the cache layer isn't on, your first response might be slower than the fallback you left.",
+        "5. Test before your users do\n\nTake one live prompt from your app and run it through Jev today. If it fails the cache test, you just saved yourself a public outage."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Jev hit one million weekly users.",
+        "But ninety percent runs on hidden fallback models.",
+        "Your speed only improves if you turn on caching.",
+        "Test one endpoint before your users do.",
+        "That is the real benchmark."
+      ]
+    },
+    "instagram": {
+      "caption": "Jev hit 1 million weekly users, but 90% of its code runs on hidden fallback models. So that speed you're seeing? Mostly the old model behind a new name. ⚠️\n\nVercel launched Jev to grab mindshare before developers default to other AI gateways.\n\nYour latency only drops if you turn on Jev's cache layer. Without it, you're just seeing network reality.\n\nIf you publish anything on Vercel, your response times might be worse than before — and you won't know until users complain.\n\nRun one prompt from your live app through Jev today. 🧪 If it fails the cache test, you just avoided a public outage.\n\nWould you ship it before testing it yourself? 👀"
+    }
+  },
+  "instagram_caption": "Jev hit 1 million weekly users, but 90% of its code runs on hidden fallback models. So that speed you're seeing? Mostly the old model behind a new name. ⚠️\n\nVercel launched Jev to grab mindshare before developers default to other AI gateways.\n\nYour latency only drops if you turn on Jev's cache layer. Without it, you're just seeing network reality.\n\nIf you publish anything on Vercel, your response times might be worse than before — and you won't know until users complain.\n\nRun one prompt from your live app through Jev today. 🧪 If it fails the cache test, you just avoided a public outage.\n\nWould you ship it before testing it yourself? 👀",
+  "carousel_slides": [
+    {
+      "hook": "90% of Jev runs on fallbacks",
+      "description": "Vercel's fastest-adopted AI model hit 1M weekly users, yet most code runs on hidden fallback models, not real Jev.",
+      "visual_hint": "Glowing server rack with warning overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "1 million weekly users, really?",
+      "description": "Jev launched with over 1 million weekly users, but that scale may mask reliance on older models behind the scenes.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Crowd of app icons flowing into cloud",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your latency drops only with cache",
+      "description": "Enable Jev's cache layer or you won't see benchmark latency; without it, you're just seeing network reality.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Close-up of latency graph spiking downward",
+      "image_query": "network cable",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Don't trust the dashboard numbers",
+      "description": "Test one real endpoint with a prompt you already use; if cache isn't on, first response may be slower than fallback.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hand tapping laptop with terminal open",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Jev before your users do",
+      "description": "Run one live prompt from your app through Jev today; if it fails the cache test, you just avoided a public outage.",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "visual_hint": "Developer testing endpoint on screen",
+      "image_query": "software developer",
+      "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/04/vercel-2249343327-smaller.jpg?resize=1200,800",
+  "savedAt": "2026-10-16T22:20:47.856Z",
+  "sourceId": "805c6efc7dd4cb7fc1e43d83c8de4692"
+}

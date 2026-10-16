@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "chatgpt-can-peek-at-your-chrome-tabs-now",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "ChatGPT can peek at your Chrome tabs now",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+  "pubDate": "2026-10-15T22:43:23.000Z",
+  "slides": [
+    "ChatGPT can now read your open Chrome tabs. Should it?",
+    "The feature connects directly to your browser session",
+    "It also remembers what you were working on earlier",
+    "You must manually approve each tab it reads",
+    "Disable tab access when you finish a task"
+  ],
+  "thread_text": [
+    "1. Your browser is now a plugin\n\nChatGPT can read every open Chrome tab. The feature connects directly to your session, so it sees what you see — no copy-paste required.",
+    "2. It remembers your mess\n\nBeyond live tabs, it also recalls what you were working on earlier. That context persists across sessions, turning casual browsing into a searchable memory.",
+    "3. You control the gate\n\nEvery tab must be manually approved before ChatGPT reads it. No auto-scan. But approval fatigue is real — you might click yes without thinking.",
+    "4. The privacy trade-off\n\nApproving a tab means sharing cookies, logins, and sensitive data. One wrong click and your banking session enters the chat.",
+    "5. Lock it down today\n\nAfter finishing a task, disable tab access in ChatGPT settings. Does your workflow really need permanent browser memory? Test it on one project this week."
+  ],
+  "video_script": [
+    "ChatGPT can now read your open Chrome tabs.",
+    "It connects directly to your browser session.",
+    "It also remembers what you worked on earlier.",
+    "You must manually approve each tab it reads.",
+    "Disable tab access when you finish a task."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your browser is now a plugin\n\nChatGPT can read every open Chrome tab. The feature connects directly to your session, so it sees what you see — no copy-paste required.",
+        "2. It remembers your mess\n\nBeyond live tabs, it also recalls what you were working on earlier. That context persists across sessions, turning casual browsing into a searchable memory.",
+        "3. You control the gate\n\nEvery tab must be manually approved before ChatGPT reads it. No auto-scan. But approval fatigue is real — you might click yes without thinking.",
+        "4. The privacy trade-off\n\nApproving a tab means sharing cookies, logins, and sensitive data. One wrong click and your banking session enters the chat.",
+        "5. Lock it down today\n\nAfter finishing a task, disable tab access in ChatGPT settings. Does your workflow really need permanent browser memory? Test it on one project this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "ChatGPT can now read your open Chrome tabs.",
+        "It connects directly to your browser session.",
+        "It also remembers what you worked on earlier.",
+        "You must manually approve each tab it reads.",
+        "Disable tab access when you finish a task."
+      ]
+    },
+    "instagram": {
+      "caption": "ChatGPT can now read the Chrome tabs you have open, straight from your browser session.\n\nYou approve each tab manually, so no silent scanning. But approving shares cookies and logins with it.\n\nIt also remembers what you were working on earlier, turning casual browsing into persistent memory.\n\nIf you write or publish for a living, every research tab you approve during a task stays in that context.\n\nTry it on one project this week, then check your ChatGPT settings: do you still want that tab access on? 🔒👀"
+    }
+  },
+  "instagram_caption": "ChatGPT can now read the Chrome tabs you have open, straight from your browser session.\n\nYou approve each tab manually, so no silent scanning. But approving shares cookies and logins with it.\n\nIt also remembers what you were working on earlier, turning casual browsing into persistent memory.\n\nIf you write or publish for a living, every research tab you approve during a task stays in that context.\n\nTry it on one project this week, then check your ChatGPT settings: do you still want that tab access on? 🔒👀",
+  "carousel_slides": [
+    {
+      "hook": "ChatGPT is reading your open tabs",
+      "description": "The feature connects directly to your Chrome session, seeing every open tab without any copy-paste needed.",
+      "visual_hint": "Browser window glowing blue",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "web browser"
+    },
+    {
+      "hook": "It also remembers your earlier work",
+      "description": "Beyond live tabs, ChatGPT recalls past sessions, turning casual browsing into a persistent searchable memory of your activity.",
+      "visual_hint": "Timeline of remembered browser sessions",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data storage",
+      "image": "https://images.pexels.com/photos/18734876/pexels-photo-18734876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Every tab needs your approval first",
+      "description": "No auto-scan allowed, but approval fatigue may cause you to click yes without thinking twice.",
+      "visual_hint": "Finger tapping approval button",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "touch screen",
+      "image": "https://images.pexels.com/photos/8554383/pexels-photo-8554383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Approving a tab shares sensitive data",
+      "description": "Each approval grants cookies, logins, and banking sessions. One wrong click can expose everything entering the chat.",
+      "visual_hint": "Locked padlock on browser tab",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "padlock security",
+      "image": "https://images.pexels.com/photos/10509289/pexels-photo-10509289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and revoke access today",
+      "description": "Disable tab access in ChatGPT settings after each task. Test it on one project this week.",
+      "visual_hint": "Settings toggle switch being turned",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "settings menu",
+      "image": "https://images.pexels.com/photos/18617719/pexels-photo-18617719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C93.077370564282&amp;w=1200",
+  "savedAt": "2026-10-16T22:21:13.798Z",
+  "sourceId": "953a262ff105c232f209c3f7f6849e23"
+}

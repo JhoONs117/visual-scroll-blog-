@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "when-it-came-to-cal-ai-s-viral-success-a-small-arm",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+  "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+  "pubDate": "Thu, 15 Oct 2026 23:44:56 +0000",
+  "slides": [
+    "Cal AI went viral, but how?",
+    "Paid a small army of influencers to promote it.",
+    "The app didn't even work at first.",
+    "But influencers kept pushing it anyway.",
+    "If you're launching, test influencer marketing."
+  ],
+  "thread_text": [
+    "1. The AI App That Lied\n\nCal AI hit #1 on the App Store while its core feature didn't function. Influencers still posted tutorials praising it.",
+    "2. Army of Influencers\n\nThey paid hundreds of micro-creators to post before launch. Each video showed fake calorie scans that looked effortless.",
+    "3. Product Was Broken\n\nThe AI couldn't recognize food in early builds. Testers got error messages, yet sponsored posts rolled out on schedule.",
+    "4. Growth Before Truth\n\nDownloads exploded because trust was borrowed from creators. By the time bugs were fixed, the hype had already done its job.",
+    "5. Test This Yourself\n\nPick one influencer and track if their promo matches reality. If they never show the app failing, ask why."
+  ],
+  "video_script": [
+    "Cal AI went viral before it even worked.",
+    "They paid hundreds of small influencers to promote it.",
+    "The core feature failed, but creators kept posting.",
+    "Downloads exploded on borrowed trust, not product quality.",
+    "Before you launch, test one influencer honestly."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The AI App That Lied\n\nCal AI hit #1 on the App Store while its core feature didn't function. Influencers still posted tutorials praising it.",
+        "2. Army of Influencers\n\nThey paid hundreds of micro-creators to post before launch. Each video showed fake calorie scans that looked effortless.",
+        "3. Product Was Broken\n\nThe AI couldn't recognize food in early builds. Testers got error messages, yet sponsored posts rolled out on schedule.",
+        "4. Growth Before Truth\n\nDownloads exploded because trust was borrowed from creators. By the time bugs were fixed, the hype had already done its job.",
+        "5. Test This Yourself\n\nPick one influencer and track if their promo matches reality. If they never show the app failing, ask why."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Cal AI went viral before it even worked.",
+        "They paid hundreds of small influencers to promote it.",
+        "The core feature failed, but creators kept posting.",
+        "Downloads exploded on borrowed trust, not product quality.",
+        "Before you launch, test one influencer honestly."
+      ]
+    },
+    "instagram": {
+      "caption": "Cal AI hit #1 on the App Store while its calorie scanner literally didn't work.\n\nThe founders paid hundreds of micro-influencers to post before launch. 😅\n\nEach video showed flawless food scans. Early testers got error messages instead.\n\nThe AI couldn't recognize food yet, but sponsored posts rolled out on schedule. Downloads exploded on borrowed trust. 🔥\n\nIf you're launching a product, test one influencer before scaling: track whether their promo ever shows the app failing. 🤔\n\nWould you notice if the creators you trust never show a glitch? 👀"
+    }
+  },
+  "instagram_caption": "Cal AI hit #1 on the App Store while its calorie scanner literally didn't work.\n\nThe founders paid hundreds of micro-influencers to post before launch. 😅\n\nEach video showed flawless food scans. Early testers got error messages instead.\n\nThe AI couldn't recognize food yet, but sponsored posts rolled out on schedule. Downloads exploded on borrowed trust. 🔥\n\nIf you're launching a product, test one influencer before scaling: track whether their promo ever shows the app failing. 🤔\n\nWould you notice if the creators you trust never show a glitch? 👀",
+  "carousel_slides": [
+    {
+      "hook": "The #1 app that didn't work?",
+      "description": "Cal AI topped the App Store while its core feature failed. Influencers still posted glowing tutorials anyway.",
+      "visual_hint": "Phone showing error message overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone screen error"
+    },
+    {
+      "hook": "They paid hundreds of micro-creators.",
+      "description": "Before launch, Cal AI funded a small army of influencers. Each video showed effortless fake calorie scans.",
+      "visual_hint": "Crowd of influencers holding phones",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "influencer filming smartphone",
+      "image": "https://images.pexels.com/photos/9413651/pexels-photo-9413651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The AI couldn't recognize food.",
+      "description": "Early builds gave testers error messages, yet sponsored posts rolled out on schedule without showing failures.",
+      "visual_hint": "Error screen on test device",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer error message",
+      "image": "https://images.pexels.com/photos/9121365/pexels-photo-9121365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Downloads exploded on borrowed trust.",
+      "description": "Growth came before truth. By the time bugs were fixed, influencer hype had already done its job.",
+      "visual_hint": "Rising download graph on phone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one influencer's promo today.",
+      "description": "Pick one creator and track if their promo matches reality. If they never show failure, ask why. Save this post.",
+      "visual_hint": "Hand holding phone with checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person holding smartphone",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900",
+  "savedAt": "2026-10-16T22:21:00.633Z",
+  "sourceId": "3f579372e804f00928cce70aac63e3f3"
+}

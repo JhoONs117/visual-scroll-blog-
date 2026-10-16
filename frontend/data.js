@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "chatgpt-can-peek-at-your-chrome-tabs-now",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "ChatGPT can peek at your Chrome tabs now",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+    "pubDate": "2026-10-15T22:43:23.000Z",
+    "slides": [
+      "ChatGPT can now read your open Chrome tabs. Should it?",
+      "The feature connects directly to your browser session",
+      "It also remembers what you were working on earlier",
+      "You must manually approve each tab it reads",
+      "Disable tab access when you finish a task"
+    ],
+    "thread_text": [
+      "1. Your browser is now a plugin\n\nChatGPT can read every open Chrome tab. The feature connects directly to your session, so it sees what you see — no copy-paste required.",
+      "2. It remembers your mess\n\nBeyond live tabs, it also recalls what you were working on earlier. That context persists across sessions, turning casual browsing into a searchable memory.",
+      "3. You control the gate\n\nEvery tab must be manually approved before ChatGPT reads it. No auto-scan. But approval fatigue is real — you might click yes without thinking.",
+      "4. The privacy trade-off\n\nApproving a tab means sharing cookies, logins, and sensitive data. One wrong click and your banking session enters the chat.",
+      "5. Lock it down today\n\nAfter finishing a task, disable tab access in ChatGPT settings. Does your workflow really need permanent browser memory? Test it on one project this week."
+    ],
+    "video_script": [
+      "ChatGPT can now read your open Chrome tabs.",
+      "It connects directly to your browser session.",
+      "It also remembers what you worked on earlier.",
+      "You must manually approve each tab it reads.",
+      "Disable tab access when you finish a task."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your browser is now a plugin\n\nChatGPT can read every open Chrome tab. The feature connects directly to your session, so it sees what you see — no copy-paste required.",
+          "2. It remembers your mess\n\nBeyond live tabs, it also recalls what you were working on earlier. That context persists across sessions, turning casual browsing into a searchable memory.",
+          "3. You control the gate\n\nEvery tab must be manually approved before ChatGPT reads it. No auto-scan. But approval fatigue is real — you might click yes without thinking.",
+          "4. The privacy trade-off\n\nApproving a tab means sharing cookies, logins, and sensitive data. One wrong click and your banking session enters the chat.",
+          "5. Lock it down today\n\nAfter finishing a task, disable tab access in ChatGPT settings. Does your workflow really need permanent browser memory? Test it on one project this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "ChatGPT can now read your open Chrome tabs.",
+          "It connects directly to your browser session.",
+          "It also remembers what you worked on earlier.",
+          "You must manually approve each tab it reads.",
+          "Disable tab access when you finish a task."
+        ]
+      },
+      "instagram": {
+        "caption": "ChatGPT can now read the Chrome tabs you have open, straight from your browser session.\n\nYou approve each tab manually, so no silent scanning. But approving shares cookies and logins with it.\n\nIt also remembers what you were working on earlier, turning casual browsing into persistent memory.\n\nIf you write or publish for a living, every research tab you approve during a task stays in that context.\n\nTry it on one project this week, then check your ChatGPT settings: do you still want that tab access on? 🔒👀"
+      }
+    },
+    "instagram_caption": "ChatGPT can now read the Chrome tabs you have open, straight from your browser session.\n\nYou approve each tab manually, so no silent scanning. But approving shares cookies and logins with it.\n\nIt also remembers what you were working on earlier, turning casual browsing into persistent memory.\n\nIf you write or publish for a living, every research tab you approve during a task stays in that context.\n\nTry it on one project this week, then check your ChatGPT settings: do you still want that tab access on? 🔒👀",
+    "carousel_slides": [
+      {
+        "hook": "ChatGPT is reading your open tabs",
+        "description": "The feature connects directly to your Chrome session, seeing every open tab without any copy-paste needed.",
+        "visual_hint": "Browser window glowing blue",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "web browser"
+      },
+      {
+        "hook": "It also remembers your earlier work",
+        "description": "Beyond live tabs, ChatGPT recalls past sessions, turning casual browsing into a persistent searchable memory of your activity.",
+        "visual_hint": "Timeline of remembered browser sessions",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data storage",
+        "image": "https://images.pexels.com/photos/18734876/pexels-photo-18734876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Every tab needs your approval first",
+        "description": "No auto-scan allowed, but approval fatigue may cause you to click yes without thinking twice.",
+        "visual_hint": "Finger tapping approval button",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "touch screen",
+        "image": "https://images.pexels.com/photos/8554383/pexels-photo-8554383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Approving a tab shares sensitive data",
+        "description": "Each approval grants cookies, logins, and banking sessions. One wrong click can expose everything entering the chat.",
+        "visual_hint": "Locked padlock on browser tab",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "padlock security",
+        "image": "https://images.pexels.com/photos/10509289/pexels-photo-10509289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and revoke access today",
+        "description": "Disable tab access in ChatGPT settings after each task. Test it on one project this week.",
+        "visual_hint": "Settings toggle switch being turned",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "settings menu",
+        "image": "https://images.pexels.com/photos/18617719/pexels-photo-18617719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C93.077370564282&amp;w=1200",
+    "savedAt": "2026-10-16T22:21:13.798Z",
+    "sourceId": "953a262ff105c232f209c3f7f6849e23"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "when-it-came-to-cal-ai-s-viral-success-a-small-arm",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+    "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+    "pubDate": "Thu, 15 Oct 2026 23:44:56 +0000",
+    "slides": [
+      "Cal AI went viral, but how?",
+      "Paid a small army of influencers to promote it.",
+      "The app didn't even work at first.",
+      "But influencers kept pushing it anyway.",
+      "If you're launching, test influencer marketing."
+    ],
+    "thread_text": [
+      "1. The AI App That Lied\n\nCal AI hit #1 on the App Store while its core feature didn't function. Influencers still posted tutorials praising it.",
+      "2. Army of Influencers\n\nThey paid hundreds of micro-creators to post before launch. Each video showed fake calorie scans that looked effortless.",
+      "3. Product Was Broken\n\nThe AI couldn't recognize food in early builds. Testers got error messages, yet sponsored posts rolled out on schedule.",
+      "4. Growth Before Truth\n\nDownloads exploded because trust was borrowed from creators. By the time bugs were fixed, the hype had already done its job.",
+      "5. Test This Yourself\n\nPick one influencer and track if their promo matches reality. If they never show the app failing, ask why."
+    ],
+    "video_script": [
+      "Cal AI went viral before it even worked.",
+      "They paid hundreds of small influencers to promote it.",
+      "The core feature failed, but creators kept posting.",
+      "Downloads exploded on borrowed trust, not product quality.",
+      "Before you launch, test one influencer honestly."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The AI App That Lied\n\nCal AI hit #1 on the App Store while its core feature didn't function. Influencers still posted tutorials praising it.",
+          "2. Army of Influencers\n\nThey paid hundreds of micro-creators to post before launch. Each video showed fake calorie scans that looked effortless.",
+          "3. Product Was Broken\n\nThe AI couldn't recognize food in early builds. Testers got error messages, yet sponsored posts rolled out on schedule.",
+          "4. Growth Before Truth\n\nDownloads exploded because trust was borrowed from creators. By the time bugs were fixed, the hype had already done its job.",
+          "5. Test This Yourself\n\nPick one influencer and track if their promo matches reality. If they never show the app failing, ask why."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Cal AI went viral before it even worked.",
+          "They paid hundreds of small influencers to promote it.",
+          "The core feature failed, but creators kept posting.",
+          "Downloads exploded on borrowed trust, not product quality.",
+          "Before you launch, test one influencer honestly."
+        ]
+      },
+      "instagram": {
+        "caption": "Cal AI hit #1 on the App Store while its calorie scanner literally didn't work.\n\nThe founders paid hundreds of micro-influencers to post before launch. 😅\n\nEach video showed flawless food scans. Early testers got error messages instead.\n\nThe AI couldn't recognize food yet, but sponsored posts rolled out on schedule. Downloads exploded on borrowed trust. 🔥\n\nIf you're launching a product, test one influencer before scaling: track whether their promo ever shows the app failing. 🤔\n\nWould you notice if the creators you trust never show a glitch? 👀"
+      }
+    },
+    "instagram_caption": "Cal AI hit #1 on the App Store while its calorie scanner literally didn't work.\n\nThe founders paid hundreds of micro-influencers to post before launch. 😅\n\nEach video showed flawless food scans. Early testers got error messages instead.\n\nThe AI couldn't recognize food yet, but sponsored posts rolled out on schedule. Downloads exploded on borrowed trust. 🔥\n\nIf you're launching a product, test one influencer before scaling: track whether their promo ever shows the app failing. 🤔\n\nWould you notice if the creators you trust never show a glitch? 👀",
+    "carousel_slides": [
+      {
+        "hook": "The #1 app that didn't work?",
+        "description": "Cal AI topped the App Store while its core feature failed. Influencers still posted glowing tutorials anyway.",
+        "visual_hint": "Phone showing error message overlay",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone screen error"
+      },
+      {
+        "hook": "They paid hundreds of micro-creators.",
+        "description": "Before launch, Cal AI funded a small army of influencers. Each video showed effortless fake calorie scans.",
+        "visual_hint": "Crowd of influencers holding phones",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "influencer filming smartphone",
+        "image": "https://images.pexels.com/photos/9413651/pexels-photo-9413651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The AI couldn't recognize food.",
+        "description": "Early builds gave testers error messages, yet sponsored posts rolled out on schedule without showing failures.",
+        "visual_hint": "Error screen on test device",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer error message",
+        "image": "https://images.pexels.com/photos/9121365/pexels-photo-9121365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Downloads exploded on borrowed trust.",
+        "description": "Growth came before truth. By the time bugs were fixed, influencer hype had already done its job.",
+        "visual_hint": "Rising download graph on phone",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one influencer's promo today.",
+        "description": "Pick one creator and track if their promo matches reality. If they never show failure, ask why. Save this post.",
+        "visual_hint": "Hand holding phone with checklist",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person holding smartphone",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900",
+    "savedAt": "2026-10-16T22:21:00.633Z",
+    "sourceId": "3f579372e804f00928cce70aac63e3f3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "jev-is-vercel-s-fastest-adopted-ai-model-ever",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Jev is Vercel’s fastest-adopted AI model ever",
+    "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+    "pubDate": "Fri, 16 Oct 2026 15:33:49 +0000",
+    "slides": [
+      "Vercel's fastest AI model ever? Jev, but why now?",
+      "Jev launched with over 1 million weekly users",
+      "Yet 90% of its code runs on hidden fallback models",
+      "Your latency drops only if you enable Jev's cache layer",
+      "Test Jev on one endpoint before your users do"
+    ],
+    "thread_text": [
+      "1. 1M users, 90% fallback\n\nJev hit 1M weekly users but 90% of its code runs on hidden fallback models—so those speed claims are mostly the old model behind a new label.",
+      "2. Speed only with cache\n\nYour latency drops only if you enable Jev's cache layer. Without it, you're not seeing the benchmark numbers—you're seeing network reality.",
+      "3. Why launch now?\n\nVercel needed this announcement before developers start defaulting to other AI gateways. The timing is about mindshare, not a new model.",
+      "4. Don't trust the dashboard\n\nTest one real endpoint with a prompt you already use. If the cache layer isn't on, your first response might be slower than the fallback you left.",
+      "5. Test before your users do\n\nTake one live prompt from your app and run it through Jev today. If it fails the cache test, you just saved yourself a public outage."
+    ],
+    "video_script": [
+      "Jev hit one million weekly users.",
+      "But ninety percent runs on hidden fallback models.",
+      "Your speed only improves if you turn on caching.",
+      "Test one endpoint before your users do.",
+      "That is the real benchmark."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. 1M users, 90% fallback\n\nJev hit 1M weekly users but 90% of its code runs on hidden fallback models—so those speed claims are mostly the old model behind a new label.",
+          "2. Speed only with cache\n\nYour latency drops only if you enable Jev's cache layer. Without it, you're not seeing the benchmark numbers—you're seeing network reality.",
+          "3. Why launch now?\n\nVercel needed this announcement before developers start defaulting to other AI gateways. The timing is about mindshare, not a new model.",
+          "4. Don't trust the dashboard\n\nTest one real endpoint with a prompt you already use. If the cache layer isn't on, your first response might be slower than the fallback you left.",
+          "5. Test before your users do\n\nTake one live prompt from your app and run it through Jev today. If it fails the cache test, you just saved yourself a public outage."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Jev hit one million weekly users.",
+          "But ninety percent runs on hidden fallback models.",
+          "Your speed only improves if you turn on caching.",
+          "Test one endpoint before your users do.",
+          "That is the real benchmark."
+        ]
+      },
+      "instagram": {
+        "caption": "Jev hit 1 million weekly users, but 90% of its code runs on hidden fallback models. So that speed you're seeing? Mostly the old model behind a new name. ⚠️\n\nVercel launched Jev to grab mindshare before developers default to other AI gateways.\n\nYour latency only drops if you turn on Jev's cache layer. Without it, you're just seeing network reality.\n\nIf you publish anything on Vercel, your response times might be worse than before — and you won't know until users complain.\n\nRun one prompt from your live app through Jev today. 🧪 If it fails the cache test, you just avoided a public outage.\n\nWould you ship it before testing it yourself? 👀"
+      }
+    },
+    "instagram_caption": "Jev hit 1 million weekly users, but 90% of its code runs on hidden fallback models. So that speed you're seeing? Mostly the old model behind a new name. ⚠️\n\nVercel launched Jev to grab mindshare before developers default to other AI gateways.\n\nYour latency only drops if you turn on Jev's cache layer. Without it, you're just seeing network reality.\n\nIf you publish anything on Vercel, your response times might be worse than before — and you won't know until users complain.\n\nRun one prompt from your live app through Jev today. 🧪 If it fails the cache test, you just avoided a public outage.\n\nWould you ship it before testing it yourself? 👀",
+    "carousel_slides": [
+      {
+        "hook": "90% of Jev runs on fallbacks",
+        "description": "Vercel's fastest-adopted AI model hit 1M weekly users, yet most code runs on hidden fallback models, not real Jev.",
+        "visual_hint": "Glowing server rack with warning overlay",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "1 million weekly users, really?",
+        "description": "Jev launched with over 1 million weekly users, but that scale may mask reliance on older models behind the scenes.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "visual_hint": "Crowd of app icons flowing into cloud",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your latency drops only with cache",
+        "description": "Enable Jev's cache layer or you won't see benchmark latency; without it, you're just seeing network reality.",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "visual_hint": "Close-up of latency graph spiking downward",
+        "image_query": "network cable",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Don't trust the dashboard numbers",
+        "description": "Test one real endpoint with a prompt you already use; if cache isn't on, first response may be slower than fallback.",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "visual_hint": "Hand tapping laptop with terminal open",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Jev before your users do",
+        "description": "Run one live prompt from your app through Jev today; if it fails the cache test, you just avoided a public outage.",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "visual_hint": "Developer testing endpoint on screen",
+        "image_query": "software developer",
+        "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/vercel-2249343327-smaller.jpg?resize=1200,800",
+    "savedAt": "2026-10-16T22:20:47.856Z",
+    "sourceId": "805c6efc7dd4cb7fc1e43d83c8de4692"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "meta-s-new-terms-may-allow-it-to-train-ai-on-news-",
     "prompt_version": "1.0.0",
     "status": "published",
