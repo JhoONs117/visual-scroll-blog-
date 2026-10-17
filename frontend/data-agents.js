@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "trump-posts-ai-edited-photo-to-brag-about-white-ho",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Trump posts AI-edited photo to brag about White House restoration work",
+      "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+      "pubDate": "2026-10-15T21:09:33.000Z",
+      "slides": [
+        "Why is Trump posting AI-edited White House photos?",
+        "The image was altered before it reached the public",
+        "It shows restoration work that doesn't fully match reality",
+        "Every viral political image now needs a second look",
+        "Check the source before sharing any political image"
+      ],
+      "thread_text": [
+        "1. The White House Photo That Isn't Real\n\nTrump shared an AI-edited image of the Oval Office. The alteration happened before the public ever saw it.",
+        "2. Altered Before You Saw It\n\nThe edit wasn't a filter—it was a deliberate change to the scene. By the time it hit your feed, the damage was done.",
+        "3. Restoration Work vs. Reality\n\nThe image shows renovation work that doesn't match the actual state of the room. What's the gap between the picture and the truth?",
+        "4. Every Political Image Needs Doubt\n\nViral images now spread faster than fact-checks. Assume every share-worthy photo has been tweaked until proven otherwise.",
+        "5. Check the Source First\n\nBefore you share any political image, open the original post and verify the account. Does it hold up? If not, don't hit share."
+      ],
+      "video_script": [
+        "Trump posted an AI-edited photo of the White House.",
+        "The image was changed before it reached the public.",
+        "It shows work that doesn't match reality.",
+        "Every viral political image now needs a second look.",
+        "Check the source before you share anything."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The White House Photo That Isn't Real\n\nTrump shared an AI-edited image of the Oval Office. The alteration happened before the public ever saw it.",
+            "2. Altered Before You Saw It\n\nThe edit wasn't a filter—it was a deliberate change to the scene. By the time it hit your feed, the damage was done.",
+            "3. Restoration Work vs. Reality\n\nThe image shows renovation work that doesn't match the actual state of the room. What's the gap between the picture and the truth?",
+            "4. Every Political Image Needs Doubt\n\nViral images now spread faster than fact-checks. Assume every share-worthy photo has been tweaked until proven otherwise.",
+            "5. Check the Source First\n\nBefore you share any political image, open the original post and verify the account. Does it hold up? If not, don't hit share."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Trump posted an AI-edited photo of the White House.",
+            "The image was changed before it reached the public.",
+            "It shows work that doesn't match reality.",
+            "Every viral political image now needs a second look.",
+            "Check the source before you share anything."
+          ]
+        },
+        "instagram": {
+          "caption": "Trump shared a photo of the Oval Office renovation that had been edited before anyone saw it. 🏛️\n\nThe image was altered to show restoration work that doesn't fully match the actual state of the room.\n\nIt spread through feeds faster than any fact-check could catch it.\n\nIf you post or publish political content, every viral photo now needs a second look before you share it. 🔍\n\nOpen the original post and check the account first. If it doesn't hold up, don't hit share. ✅\n\nWould you have noticed the edit if nobody told you? 👀"
+        }
+      },
+      "instagram_caption": "Trump shared a photo of the Oval Office renovation that had been edited before anyone saw it. 🏛️\n\nThe image was altered to show restoration work that doesn't fully match the actual state of the room.\n\nIt spread through feeds faster than any fact-check could catch it.\n\nIf you post or publish political content, every viral photo now needs a second look before you share it. 🔍\n\nOpen the original post and check the account first. If it doesn't hold up, don't hit share. ✅\n\nWould you have noticed the edit if nobody told you? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Is that White House photo even real?",
+          "description": "Trump shared an AI-edited image of the Oval Office, and the alteration happened before the public ever saw it.",
+          "visual_hint": "Split image: real vs AI-altered Oval Office",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Oval Office interior"
+        },
+        {
+          "hook": "The edit landed before you noticed.",
+          "description": "The alteration wasn't a filter but a deliberate change to the scene, already done by the time it reached your feed.",
+          "visual_hint": "Before-and-after slider of the same room",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "photo editing software",
+          "image": "https://images.pexels.com/photos/9281786/pexels-photo-9281786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Restoration work that doesn't match reality",
+          "description": "The image shows renovation work that doesn't fully match the actual state of the room, widening the gap between picture and truth.",
+          "visual_hint": "Zoomed comparison of renovation details",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "White House renovation",
+          "image": "https://images.pexels.com/photos/6474451/pexels-photo-6474451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Every viral political image needs doubt.",
+          "description": "Viral images now spread faster than fact-checks, so assume every share-worthy photo has been tweaked until proven otherwise.",
+          "visual_hint": "Hand scrolling a phone with a viral post",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone social media",
+          "image": "https://images.pexels.com/photos/3850266/pexels-photo-3850266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before you share again.",
+          "description": "Before sharing any political image, open the original post and verify the account—if it doesn't hold up, don't hit share.",
+          "visual_hint": "Checklist icon with source verification steps",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "fact checking website",
+          "image": "https://images.pexels.com/photos/17706648/pexels-photo-17706648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.71715720101%2C100%2C78.565685597979&amp;w=1200",
+      "savedAt": "2026-10-17T19:54:10.158Z",
+      "sourceId": "287b7f7f97fe92d1d8c835525aaa04f0"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "bluesky-8217-s-ai-tool-now-lets-you-make-games-and",
       "prompt_version": "1.0.0",
       "status": "published",
