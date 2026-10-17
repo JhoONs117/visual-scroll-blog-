@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "bluesky-8217-s-ai-tool-now-lets-you-make-games-and",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
+    "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+    "pubDate": "2026-10-15T19:57:16.000Z",
+    "slides": [
+      "Why is Bluesky letting anyone build apps now?",
+      "Its new AI tool turns prompts into mini games",
+      "But the apps run inside posts, not as standalone stores",
+      "You can build and share one without any code today",
+      "Try one small game idea before your competitors do"
+    ],
+    "thread_text": [
+      "1. Bluesky opens apps to all\n\nAnyone can now build apps that run inside posts, no code needed. The new AI tool turns prompts into playable mini games.",
+      "2. Prompt to game in seconds\n\nDescribe a game idea in plain text, and the AI generates a working mini game. It's embedded directly in a Bluesky post.",
+      "3. No app store, no install\n\nThese games live inside posts, not as standalone apps. You play them right in your feed without downloading anything.",
+      "4. Build and share today\n\nYou don't need coding skills to create one. The tool is live now, so you can publish your game immediately.",
+      "5. Try a tiny game idea now\n\nTake one simple game concept and build it with the AI tool this week. If you don't, a competitor might."
+    ],
+    "video_script": [
+      "Bluesky now lets anyone build apps inside posts.",
+      "Its AI tool turns your text prompt into a mini game.",
+      "These games run in your feed, not in an app store.",
+      "You can build and share one without any code today.",
+      "Try one small game idea before your competitors do."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Bluesky opens apps to all\n\nAnyone can now build apps that run inside posts, no code needed. The new AI tool turns prompts into playable mini games.",
+          "2. Prompt to game in seconds\n\nDescribe a game idea in plain text, and the AI generates a working mini game. It's embedded directly in a Bluesky post.",
+          "3. No app store, no install\n\nThese games live inside posts, not as standalone apps. You play them right in your feed without downloading anything.",
+          "4. Build and share today\n\nYou don't need coding skills to create one. The tool is live now, so you can publish your game immediately.",
+          "5. Try a tiny game idea now\n\nTake one simple game concept and build it with the AI tool this week. If you don't, a competitor might."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Bluesky now lets anyone build apps inside posts.",
+          "Its AI tool turns your text prompt into a mini game.",
+          "These games run in your feed, not in an app store.",
+          "You can build and share one without any code today.",
+          "Try one small game idea before your competitors do."
+        ]
+      },
+      "instagram": {
+        "caption": "You can now build a playable mini game by typing a prompt, and it runs inside a Bluesky post.\n\nThe AI tool is open to everyone, no code needed 🎮\n\nThese games live in your feed, not in an app store, so nobody downloads anything.\n\nThat means anyone who posts can ship a small game today and share it in the same place people already read.\n\nIf a simple game idea is sitting in your notes, this is the week to build it 🛠️\n\nWhat's the one tiny game you'd make first? 👇"
+      }
+    },
+    "instagram_caption": "You can now build a playable mini game by typing a prompt, and it runs inside a Bluesky post.\n\nThe AI tool is open to everyone, no code needed 🎮\n\nThese games live in your feed, not in an app store, so nobody downloads anything.\n\nThat means anyone who posts can ship a small game today and share it in the same place people already read.\n\nIf a simple game idea is sitting in your notes, this is the week to build it 🛠️\n\nWhat's the one tiny game you'd make first? 👇",
+    "carousel_slides": [
+      {
+        "hook": "Why build apps inside posts?",
+        "description": "Bluesky now lets anyone create apps that run inside posts, no code needed. The new AI tool turns prompts into playable mini games.",
+        "visual_hint": "Smartphone with game inside post",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone game"
+      },
+      {
+        "hook": "Prompt to game in seconds",
+        "description": "Describe a game idea in plain text, and the AI generates a working mini game embedded directly in a Bluesky post.",
+        "visual_hint": "Text prompt transforming into game",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "text prompt screen",
+        "image": "https://images.pexels.com/photos/8490076/pexels-photo-8490076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No app store, no install",
+        "description": "These games live inside posts, not as standalone apps. You play them right in your feed without downloading anything.",
+        "visual_hint": "Feed with playable game preview",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "social media feed",
+        "image": "https://images.pexels.com/photos/15226552/pexels-photo-15226552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Build and share today",
+        "description": "You don't need coding skills to create one. The tool is live now, so you can publish your game immediately.",
+        "visual_hint": "Hand tapping create button",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand smartphone create",
+        "image": "https://images.pexels.com/photos/34430156/pexels-photo-34430156.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your competitors do",
+        "description": "Take one simple game concept and build it with the AI tool this week. If you don't, a competitor might.",
+        "visual_hint": "Lightbulb with game controller icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "lightbulb game controller",
+        "image": "https://images.pexels.com/photos/30302447/pexels-photo-30302447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&amp;strip=all&amp;crop=0%2C10.814080979907%2C100%2C78.371838040185&amp;w=1200",
+    "savedAt": "2026-10-17T13:22:22.816Z",
+    "sourceId": "7046ca9567b30f00939b9f0ab633e7f5"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "websites-are-closing-their-doors-to-ai-agents",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Websites are closing their doors to AI agents",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "pubDate": "2026-10-17T13:00:00.000Z",
+    "slides": [
+      "Who loses when websites slam doors on AI agents?",
+      "Publishers now detect and block automated scraping in real time",
+      "But blocking agents also breaks accessibility tools and search",
+      "Your integrations may silently fail without warning",
+      "Test one blocked page today and log the failure"
+    ],
+    "thread_text": [
+      "1. Your AI tools might be silently blocked\n\nPublishers are now detecting and blocking automated scraping in real time, often without warning. Your integrations could stop working overnight.",
+      "2. Blocking agents breaks accessibility too\n\nScreen readers and search engines often rely on the same automated requests that publishers are blocking. Real users get caught in the crossfire.",
+      "3. Silent failures are the worst kind\n\nYour AI agent might return empty results or partial data, and you won't know until someone reports a problem. No error, no alert.",
+      "4. The web is fragmenting fast\n\nAs more sites block AI agents, the open web becomes less open. Integrations that worked yesterday may fail tomorrow, and you won't see it coming.",
+      "5. Test one blocked page today\n\nPick a page your AI relies on, try to fetch it, and log the failure. If you haven't done it, start there before your users notice."
+    ],
+    "video_script": [
+      "Publishers now block AI scraping in real time.",
+      "This also breaks accessibility tools and search.",
+      "Your AI integrations may fail silently, no warnings.",
+      "The web is fragmenting, and you won't see it.",
+      "Test one blocked page today and log it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your AI tools might be silently blocked\n\nPublishers are now detecting and blocking automated scraping in real time, often without warning. Your integrations could stop working overnight.",
+          "2. Blocking agents breaks accessibility too\n\nScreen readers and search engines often rely on the same automated requests that publishers are blocking. Real users get caught in the crossfire.",
+          "3. Silent failures are the worst kind\n\nYour AI agent might return empty results or partial data, and you won't know until someone reports a problem. No error, no alert.",
+          "4. The web is fragmenting fast\n\nAs more sites block AI agents, the open web becomes less open. Integrations that worked yesterday may fail tomorrow, and you won't see it coming.",
+          "5. Test one blocked page today\n\nPick a page your AI relies on, try to fetch it, and log the failure. If you haven't done it, start there before your users notice."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Publishers now block AI scraping in real time.",
+          "This also breaks accessibility tools and search.",
+          "Your AI integrations may fail silently, no warnings.",
+          "The web is fragmenting, and you won't see it.",
+          "Test one blocked page today and log it."
+        ]
+      },
+      "instagram": {
+        "caption": "Your AI tools can get blocked from a website with zero warning.\n\nPublishers now detect and block automated scraping in real time, and they don't tell you when it happens.\n\nWorse, the same requests power screen readers and search engines, so real users get caught too.\n\nYour integrations may quietly return empty or partial results, and you won't know until someone complains.\n\nPick one page your AI depends on, fetch it today, and log whether it fails. 🧪\n\nIf you haven't tested it yet, how will you know it's already broken? 🔍"
+      }
+    },
+    "instagram_caption": "Your AI tools can get blocked from a website with zero warning.\n\nPublishers now detect and block automated scraping in real time, and they don't tell you when it happens.\n\nWorse, the same requests power screen readers and search engines, so real users get caught too.\n\nYour integrations may quietly return empty or partial results, and you won't know until someone complains.\n\nPick one page your AI depends on, fetch it today, and log whether it fails. 🧪\n\nIf you haven't tested it yet, how will you know it's already broken? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Blocking AI agents breaks real users",
+        "description": "Publishers block automated scraping, but screen readers and search engines rely on the same requests, leaving real users caught in the crossfire.",
+        "visual_hint": "Split screen: robot vs human with screen reader",
+        "layout_type": "hero",
+        "icon": "heart",
+        "image_query": "screen reader user"
+      },
+      {
+        "hook": "Your AI tools might be silently blocked",
+        "description": "Publishers detect and block automated scraping in real time, so your integrations could stop working overnight without any warning.",
+        "visual_hint": "Robot hand hitting a red stop sign",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "robot hand stop sign",
+        "image": "https://images.pexels.com/photos/5614108/pexels-photo-5614108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Silent failures are the worst kind",
+        "description": "Your AI agent returns empty results or partial data, and you won't know until someone reports a problem. No error, no alert.",
+        "visual_hint": "Empty data dashboard with warning icon",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "empty dashboard screen",
+        "image": "https://images.pexels.com/photos/35297914/pexels-photo-35297914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The web is fragmenting fast",
+        "description": "As more sites block AI agents, integrations that worked yesterday may fail tomorrow, and you won't see it coming.",
+        "visual_hint": "Cracked globe with digital connections breaking",
+        "layout_type": "human-hand",
+        "icon": "tag",
+        "image_query": "cracked globe network",
+        "image": "https://images.pexels.com/photos/36870216/pexels-photo-36870216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one blocked page today",
+        "description": "Pick a page your AI relies on, try to fetch it, and log the failure. Start before your users notice.",
+        "visual_hint": "Hand clicking test button on screen",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "hand clicking test button",
+        "image": "https://images.pexels.com/photos/21562940/pexels-photo-21562940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-17T13:22:13.345Z",
+    "sourceId": "657279cf248cf6ba701b967e7f9c2185"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "tressfecta-wants-to-make-hair-braiding-a-less-ardu",
     "prompt_version": "1.0.0",
     "status": "published",

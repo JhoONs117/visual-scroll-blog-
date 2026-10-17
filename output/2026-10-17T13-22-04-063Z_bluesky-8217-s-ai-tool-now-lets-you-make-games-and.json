@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "bluesky-8217-s-ai-tool-now-lets-you-make-games-and",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
+  "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+  "pubDate": "2026-10-15T19:57:16.000Z",
+  "slides": [
+    "Why is Bluesky letting anyone build apps now?",
+    "Its new AI tool turns prompts into mini games",
+    "But the apps run inside posts, not as standalone stores",
+    "You can build and share one without any code today",
+    "Try one small game idea before your competitors do"
+  ],
+  "thread_text": [
+    "1. Bluesky opens apps to all\n\nAnyone can now build apps that run inside posts, no code needed. The new AI tool turns prompts into playable mini games.",
+    "2. Prompt to game in seconds\n\nDescribe a game idea in plain text, and the AI generates a working mini game. It's embedded directly in a Bluesky post.",
+    "3. No app store, no install\n\nThese games live inside posts, not as standalone apps. You play them right in your feed without downloading anything.",
+    "4. Build and share today\n\nYou don't need coding skills to create one. The tool is live now, so you can publish your game immediately.",
+    "5. Try a tiny game idea now\n\nTake one simple game concept and build it with the AI tool this week. If you don't, a competitor might."
+  ],
+  "video_script": [
+    "Bluesky now lets anyone build apps inside posts.",
+    "Its AI tool turns your text prompt into a mini game.",
+    "These games run in your feed, not in an app store.",
+    "You can build and share one without any code today.",
+    "Try one small game idea before your competitors do."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Bluesky opens apps to all\n\nAnyone can now build apps that run inside posts, no code needed. The new AI tool turns prompts into playable mini games.",
+        "2. Prompt to game in seconds\n\nDescribe a game idea in plain text, and the AI generates a working mini game. It's embedded directly in a Bluesky post.",
+        "3. No app store, no install\n\nThese games live inside posts, not as standalone apps. You play them right in your feed without downloading anything.",
+        "4. Build and share today\n\nYou don't need coding skills to create one. The tool is live now, so you can publish your game immediately.",
+        "5. Try a tiny game idea now\n\nTake one simple game concept and build it with the AI tool this week. If you don't, a competitor might."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Bluesky now lets anyone build apps inside posts.",
+        "Its AI tool turns your text prompt into a mini game.",
+        "These games run in your feed, not in an app store.",
+        "You can build and share one without any code today.",
+        "Try one small game idea before your competitors do."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now build a playable mini game by typing a prompt, and it runs inside a Bluesky post.\n\nThe AI tool is open to everyone, no code needed 🎮\n\nThese games live in your feed, not in an app store, so nobody downloads anything.\n\nThat means anyone who posts can ship a small game today and share it in the same place people already read.\n\nIf a simple game idea is sitting in your notes, this is the week to build it 🛠️\n\nWhat's the one tiny game you'd make first? 👇"
+    }
+  },
+  "instagram_caption": "You can now build a playable mini game by typing a prompt, and it runs inside a Bluesky post.\n\nThe AI tool is open to everyone, no code needed 🎮\n\nThese games live in your feed, not in an app store, so nobody downloads anything.\n\nThat means anyone who posts can ship a small game today and share it in the same place people already read.\n\nIf a simple game idea is sitting in your notes, this is the week to build it 🛠️\n\nWhat's the one tiny game you'd make first? 👇",
+  "carousel_slides": [
+    {
+      "hook": "Why build apps inside posts?",
+      "description": "Bluesky now lets anyone create apps that run inside posts, no code needed. The new AI tool turns prompts into playable mini games.",
+      "visual_hint": "Smartphone with game inside post",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone game"
+    },
+    {
+      "hook": "Prompt to game in seconds",
+      "description": "Describe a game idea in plain text, and the AI generates a working mini game embedded directly in a Bluesky post.",
+      "visual_hint": "Text prompt transforming into game",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "text prompt screen",
+      "image": "https://images.pexels.com/photos/8490076/pexels-photo-8490076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No app store, no install",
+      "description": "These games live inside posts, not as standalone apps. You play them right in your feed without downloading anything.",
+      "visual_hint": "Feed with playable game preview",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "social media feed",
+      "image": "https://images.pexels.com/photos/15226552/pexels-photo-15226552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Build and share today",
+      "description": "You don't need coding skills to create one. The tool is live now, so you can publish your game immediately.",
+      "visual_hint": "Hand tapping create button",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand smartphone create",
+      "image": "https://images.pexels.com/photos/34430156/pexels-photo-34430156.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your competitors do",
+      "description": "Take one simple game concept and build it with the AI tool this week. If you don't, a competitor might.",
+      "visual_hint": "Lightbulb with game controller icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "lightbulb game controller",
+      "image": "https://images.pexels.com/photos/30302447/pexels-photo-30302447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&amp;strip=all&amp;crop=0%2C10.814080979907%2C100%2C78.371838040185&amp;w=1200",
+  "savedAt": "2026-10-17T13:22:22.816Z",
+  "sourceId": "7046ca9567b30f00939b9f0ab633e7f5"
+}

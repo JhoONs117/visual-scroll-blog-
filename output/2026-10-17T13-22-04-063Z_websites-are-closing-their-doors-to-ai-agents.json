@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "websites-are-closing-their-doors-to-ai-agents",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Websites are closing their doors to AI agents",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+  "pubDate": "2026-10-17T13:00:00.000Z",
+  "slides": [
+    "Who loses when websites slam doors on AI agents?",
+    "Publishers now detect and block automated scraping in real time",
+    "But blocking agents also breaks accessibility tools and search",
+    "Your integrations may silently fail without warning",
+    "Test one blocked page today and log the failure"
+  ],
+  "thread_text": [
+    "1. Your AI tools might be silently blocked\n\nPublishers are now detecting and blocking automated scraping in real time, often without warning. Your integrations could stop working overnight.",
+    "2. Blocking agents breaks accessibility too\n\nScreen readers and search engines often rely on the same automated requests that publishers are blocking. Real users get caught in the crossfire.",
+    "3. Silent failures are the worst kind\n\nYour AI agent might return empty results or partial data, and you won't know until someone reports a problem. No error, no alert.",
+    "4. The web is fragmenting fast\n\nAs more sites block AI agents, the open web becomes less open. Integrations that worked yesterday may fail tomorrow, and you won't see it coming.",
+    "5. Test one blocked page today\n\nPick a page your AI relies on, try to fetch it, and log the failure. If you haven't done it, start there before your users notice."
+  ],
+  "video_script": [
+    "Publishers now block AI scraping in real time.",
+    "This also breaks accessibility tools and search.",
+    "Your AI integrations may fail silently, no warnings.",
+    "The web is fragmenting, and you won't see it.",
+    "Test one blocked page today and log it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your AI tools might be silently blocked\n\nPublishers are now detecting and blocking automated scraping in real time, often without warning. Your integrations could stop working overnight.",
+        "2. Blocking agents breaks accessibility too\n\nScreen readers and search engines often rely on the same automated requests that publishers are blocking. Real users get caught in the crossfire.",
+        "3. Silent failures are the worst kind\n\nYour AI agent might return empty results or partial data, and you won't know until someone reports a problem. No error, no alert.",
+        "4. The web is fragmenting fast\n\nAs more sites block AI agents, the open web becomes less open. Integrations that worked yesterday may fail tomorrow, and you won't see it coming.",
+        "5. Test one blocked page today\n\nPick a page your AI relies on, try to fetch it, and log the failure. If you haven't done it, start there before your users notice."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Publishers now block AI scraping in real time.",
+        "This also breaks accessibility tools and search.",
+        "Your AI integrations may fail silently, no warnings.",
+        "The web is fragmenting, and you won't see it.",
+        "Test one blocked page today and log it."
+      ]
+    },
+    "instagram": {
+      "caption": "Your AI tools can get blocked from a website with zero warning.\n\nPublishers now detect and block automated scraping in real time, and they don't tell you when it happens.\n\nWorse, the same requests power screen readers and search engines, so real users get caught too.\n\nYour integrations may quietly return empty or partial results, and you won't know until someone complains.\n\nPick one page your AI depends on, fetch it today, and log whether it fails. 🧪\n\nIf you haven't tested it yet, how will you know it's already broken? 🔍"
+    }
+  },
+  "instagram_caption": "Your AI tools can get blocked from a website with zero warning.\n\nPublishers now detect and block automated scraping in real time, and they don't tell you when it happens.\n\nWorse, the same requests power screen readers and search engines, so real users get caught too.\n\nYour integrations may quietly return empty or partial results, and you won't know until someone complains.\n\nPick one page your AI depends on, fetch it today, and log whether it fails. 🧪\n\nIf you haven't tested it yet, how will you know it's already broken? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Blocking AI agents breaks real users",
+      "description": "Publishers block automated scraping, but screen readers and search engines rely on the same requests, leaving real users caught in the crossfire.",
+      "visual_hint": "Split screen: robot vs human with screen reader",
+      "layout_type": "hero",
+      "icon": "heart",
+      "image_query": "screen reader user"
+    },
+    {
+      "hook": "Your AI tools might be silently blocked",
+      "description": "Publishers detect and block automated scraping in real time, so your integrations could stop working overnight without any warning.",
+      "visual_hint": "Robot hand hitting a red stop sign",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot hand stop sign",
+      "image": "https://images.pexels.com/photos/5614108/pexels-photo-5614108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Silent failures are the worst kind",
+      "description": "Your AI agent returns empty results or partial data, and you won't know until someone reports a problem. No error, no alert.",
+      "visual_hint": "Empty data dashboard with warning icon",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "empty dashboard screen",
+      "image": "https://images.pexels.com/photos/35297914/pexels-photo-35297914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The web is fragmenting fast",
+      "description": "As more sites block AI agents, integrations that worked yesterday may fail tomorrow, and you won't see it coming.",
+      "visual_hint": "Cracked globe with digital connections breaking",
+      "layout_type": "human-hand",
+      "icon": "tag",
+      "image_query": "cracked globe network",
+      "image": "https://images.pexels.com/photos/36870216/pexels-photo-36870216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one blocked page today",
+      "description": "Pick a page your AI relies on, try to fetch it, and log the failure. Start before your users notice.",
+      "visual_hint": "Hand clicking test button on screen",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "hand clicking test button",
+      "image": "https://images.pexels.com/photos/21562940/pexels-photo-21562940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-17T13:22:13.345Z",
+  "sourceId": "657279cf248cf6ba701b967e7f9c2185"
+}
