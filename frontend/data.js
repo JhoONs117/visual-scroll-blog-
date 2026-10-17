@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "friends-don-8217-t-let-friends-feed-their-data-to-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Friends don&#8217;t let friends feed their data to AI agents",
+    "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+    "pubDate": "2026-10-15T16:21:45.000Z",
+    "slides": [
+      "Why do friends warn you about AI agents?",
+      "They remember everything you say, forever",
+      "But the real leak is what they write down",
+      "Audit what your agent can read and store",
+      "Delete the memory before sharing your next chat"
+    ],
+    "thread_text": [
+      "1. Why Friends Warn You\n\nThey've seen agents accidentally store passwords and personal details from chats, then expose them later.",
+      "2. They Never Forget\n\nAI agents log every word you say to improve service, creating a permanent record you can't control.",
+      "3. The Real Leak\n\nAgents often write down sensitive info like addresses or keys in logs that are poorly secured and easily accessed.",
+      "4. Audit Their Access\n\nRegularly check what data your agent can read and store, and limit permissions to only what's necessary.",
+      "5. Delete Before Sharing\n\nClear your agent's memory before starting a new chat to prevent accidental leaks—do it now to protect your privacy."
+    ],
+    "video_script": [
+      "Your friends warn you about AI agents for a reason.",
+      "They remember everything you say, forever.",
+      "But the real leak is what they write down.",
+      "Audit what your agent can read and store.",
+      "Delete the memory before sharing your next chat."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why Friends Warn You\n\nThey've seen agents accidentally store passwords and personal details from chats, then expose them later.",
+          "2. They Never Forget\n\nAI agents log every word you say to improve service, creating a permanent record you can't control.",
+          "3. The Real Leak\n\nAgents often write down sensitive info like addresses or keys in logs that are poorly secured and easily accessed.",
+          "4. Audit Their Access\n\nRegularly check what data your agent can read and store, and limit permissions to only what's necessary.",
+          "5. Delete Before Sharing\n\nClear your agent's memory before starting a new chat to prevent accidental leaks—do it now to protect your privacy."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your friends warn you about AI agents for a reason.",
+          "They remember everything you say, forever.",
+          "But the real leak is what they write down.",
+          "Audit what your agent can read and store.",
+          "Delete the memory before sharing your next chat."
+        ]
+      },
+      "instagram": {
+        "caption": "Your AI agent remembers every word you type, forever—including the things you forgot you said.\n\nIt logs passwords and addresses in poorly secured files, then exposes them later.\n\nThe real leak isn't the chat itself. It's what the agent quietly writes down. 🚨\n\nSo audit what your agent can read and store, and limit permissions to the minimum.\n\nThen wipe its memory before your next chat. 🧹\n\nWhat's sitting in your agent's logs right now that you'd never say out loud? 👀"
+      }
+    },
+    "instagram_caption": "Your AI agent remembers every word you type, forever—including the things you forgot you said.\n\nIt logs passwords and addresses in poorly secured files, then exposes them later.\n\nThe real leak isn't the chat itself. It's what the agent quietly writes down. 🚨\n\nSo audit what your agent can read and store, and limit permissions to the minimum.\n\nThen wipe its memory before your next chat. 🧹\n\nWhat's sitting in your agent's logs right now that you'd never say out loud? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Your AI agent never forgets secrets",
+        "description": "AI agents log every word, creating a permanent record you can't control or easily erase.",
+        "visual_hint": "Glowing server rack with data streams",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Is your agent storing passwords?",
+        "description": "Agents accidentally store passwords and personal details from chats, then expose them later to anyone.",
+        "visual_hint": "Lock icon on a digital log file",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The real leak is written down",
+        "description": "Sensitive info like addresses or keys gets logged in poorly secured files, easily accessed by attackers.",
+        "visual_hint": "Open notebook with glowing code lines",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "hard drive",
+        "image": "https://images.pexels.com/photos/28461160/pexels-photo-28461160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit what your agent can read",
+        "description": "Regularly check what data your agent can read and store, and limit permissions to only what's necessary.",
+        "visual_hint": "Hand holding magnifying glass over code",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "computer keyboard",
+        "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Delete the memory before sharing",
+        "description": "Clear your agent's memory before starting a new chat to prevent accidental leaks—do it now to protect your privacy.",
+        "visual_hint": "Trash bin icon with erased data trail",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "delete button",
+        "image": "https://images.pexels.com/photos/21562942/pexels-photo-21562942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268808_None_of_Your_Friends_Consented_To_an_AI_Agent_CVirginia2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-17T02:16:31.967Z",
+    "sourceId": "253eb4f225982c81218429f8f9ad1e9e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "mark-wahlberg-on-using-ai-in-film-the-right-way-an",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+    "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+    "pubDate": "Fri, 16 Oct 2026 14:26:51 +0000",
+    "slides": [
+      "What if Mark Wahlberg's legacy outlives him as an AI clone?",
+      "He says AI in film must be used 'the right way'",
+      "He's open to a digital clone continuing his work",
+      "Actors could license their likeness instead of losing it",
+      "Ask: who controls your face after you stop?"
+    ],
+    "thread_text": [
+      "1. Legacy or likeness?\n\nMark Wahlberg says he's open to a digital clone continuing his work after he's gone. That's not a sci-fi pitch — it's a contract question.",
+      "2. The right way\n\nWahlberg insists AI in film must be used 'the right way.' The problem: nobody has defined what that means, and studios are already drafting the terms.",
+      "3. License, don't lose\n\nActors could license their likeness instead of signing it away. That flips the power dynamic — but only if the contract gives them veto power over new roles.",
+      "4. Who controls your face?\n\nAfter you stop, your digital clone could still be auditioning. Wahlberg's idea raises a question every actor will face: who owns your face when you're not there to say no?",
+      "5. Check your contract\n\nOpen your last release form and search for 'likeness' and 'AI.' If those words aren't there, you've already given away more than you think."
+    ],
+    "video_script": [
+      "Mark Wahlberg is open to an AI clone outliving him.",
+      "He says AI in film must be used the right way.",
+      "Actors could license their likeness instead of losing it.",
+      "Who controls your face after you stop?",
+      "Check your contract for the word likeness today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Legacy or likeness?\n\nMark Wahlberg says he's open to a digital clone continuing his work after he's gone. That's not a sci-fi pitch — it's a contract question.",
+          "2. The right way\n\nWahlberg insists AI in film must be used 'the right way.' The problem: nobody has defined what that means, and studios are already drafting the terms.",
+          "3. License, don't lose\n\nActors could license their likeness instead of signing it away. That flips the power dynamic — but only if the contract gives them veto power over new roles.",
+          "4. Who controls your face?\n\nAfter you stop, your digital clone could still be auditioning. Wahlberg's idea raises a question every actor will face: who owns your face when you're not there to say no?",
+          "5. Check your contract\n\nOpen your last release form and search for 'likeness' and 'AI.' If those words aren't there, you've already given away more than you think."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Mark Wahlberg is open to an AI clone outliving him.",
+          "He says AI in film must be used the right way.",
+          "Actors could license their likeness instead of losing it.",
+          "Who controls your face after you stop?",
+          "Check your contract for the word likeness today."
+        ]
+      },
+      "instagram": {
+        "caption": "Mark Wahlberg is open to a digital clone of himself continuing his film work after he's gone. He says AI in movies just has to be used \"the right way.\"\n\nWhat \"the right way\" means is still undefined, and studios are already writing the terms. Actors could license their likeness instead of losing it. 🎬\n\nThat flips the deal, but only if the contract gives them a veto over new roles. Your likeness can now outlast you on screen. 👀\n\nOpen your last release form and search \"likeness\" and \"AI.\" If those words aren't there, you may have already signed away more than you think. 📄\n\nWho controls your face once you're not there to say no? 🤔"
+      }
+    },
+    "instagram_caption": "Mark Wahlberg is open to a digital clone of himself continuing his film work after he's gone. He says AI in movies just has to be used \"the right way.\"\n\nWhat \"the right way\" means is still undefined, and studios are already writing the terms. Actors could license their likeness instead of losing it. 🎬\n\nThat flips the deal, but only if the contract gives them a veto over new roles. Your likeness can now outlast you on screen. 👀\n\nOpen your last release form and search \"likeness\" and \"AI.\" If those words aren't there, you may have already signed away more than you think. 📄\n\nWho controls your face once you're not there to say no? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Who controls your face after you die?",
+        "description": "Mark Wahlberg is open to a digital clone continuing his work—raising a contract question every actor will face.",
+        "visual_hint": "Close-up of a face scan interface",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "facial recognition"
+      },
+      {
+        "hook": "AI in film: what's 'the right way'?",
+        "description": "Wahlberg insists AI must be used 'the right way,' but no one has defined it—and studios are already drafting terms.",
+        "visual_hint": "Film clapperboard with digital overlay",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "film set",
+        "image": "https://images.pexels.com/photos/8089248/pexels-photo-8089248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "License your likeness, don't lose it",
+        "description": "Actors could license their likeness instead of signing it away—if contracts give them veto power over new roles.",
+        "visual_hint": "Contract with a digital signature",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "legal contract",
+        "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your digital clone could still audition",
+        "description": "After you stop, your AI clone might keep working. Wahlberg's idea asks: who owns your face when you can't say no?",
+        "visual_hint": "Actor silhouette in front of green screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "green screen",
+        "image": "https://images.pexels.com/photos/9488420/pexels-photo-9488420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your contract for 'likeness' and 'AI'",
+        "description": "Open your last release form and search for these words—if missing, you've already given away more than you think.",
+        "visual_hint": "Magnifying glass over document text",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "magnifying glass",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?resize=1200,800",
+    "savedAt": "2026-10-17T02:16:16.150Z",
+    "sourceId": "460fbf9a3796d84a1f8f082297185d71"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "chatgpt-can-peek-at-your-chrome-tabs-now",
     "prompt_version": "1.0.0",
     "status": "published",

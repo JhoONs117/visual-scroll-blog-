@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "friends-don-8217-t-let-friends-feed-their-data-to-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Friends don&#8217;t let friends feed their data to AI agents",
+  "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+  "pubDate": "2026-10-15T16:21:45.000Z",
+  "slides": [
+    "Why do friends warn you about AI agents?",
+    "They remember everything you say, forever",
+    "But the real leak is what they write down",
+    "Audit what your agent can read and store",
+    "Delete the memory before sharing your next chat"
+  ],
+  "thread_text": [
+    "1. Why Friends Warn You\n\nThey've seen agents accidentally store passwords and personal details from chats, then expose them later.",
+    "2. They Never Forget\n\nAI agents log every word you say to improve service, creating a permanent record you can't control.",
+    "3. The Real Leak\n\nAgents often write down sensitive info like addresses or keys in logs that are poorly secured and easily accessed.",
+    "4. Audit Their Access\n\nRegularly check what data your agent can read and store, and limit permissions to only what's necessary.",
+    "5. Delete Before Sharing\n\nClear your agent's memory before starting a new chat to prevent accidental leaks—do it now to protect your privacy."
+  ],
+  "video_script": [
+    "Your friends warn you about AI agents for a reason.",
+    "They remember everything you say, forever.",
+    "But the real leak is what they write down.",
+    "Audit what your agent can read and store.",
+    "Delete the memory before sharing your next chat."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why Friends Warn You\n\nThey've seen agents accidentally store passwords and personal details from chats, then expose them later.",
+        "2. They Never Forget\n\nAI agents log every word you say to improve service, creating a permanent record you can't control.",
+        "3. The Real Leak\n\nAgents often write down sensitive info like addresses or keys in logs that are poorly secured and easily accessed.",
+        "4. Audit Their Access\n\nRegularly check what data your agent can read and store, and limit permissions to only what's necessary.",
+        "5. Delete Before Sharing\n\nClear your agent's memory before starting a new chat to prevent accidental leaks—do it now to protect your privacy."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your friends warn you about AI agents for a reason.",
+        "They remember everything you say, forever.",
+        "But the real leak is what they write down.",
+        "Audit what your agent can read and store.",
+        "Delete the memory before sharing your next chat."
+      ]
+    },
+    "instagram": {
+      "caption": "Your AI agent remembers every word you type, forever—including the things you forgot you said.\n\nIt logs passwords and addresses in poorly secured files, then exposes them later.\n\nThe real leak isn't the chat itself. It's what the agent quietly writes down. 🚨\n\nSo audit what your agent can read and store, and limit permissions to the minimum.\n\nThen wipe its memory before your next chat. 🧹\n\nWhat's sitting in your agent's logs right now that you'd never say out loud? 👀"
+    }
+  },
+  "instagram_caption": "Your AI agent remembers every word you type, forever—including the things you forgot you said.\n\nIt logs passwords and addresses in poorly secured files, then exposes them later.\n\nThe real leak isn't the chat itself. It's what the agent quietly writes down. 🚨\n\nSo audit what your agent can read and store, and limit permissions to the minimum.\n\nThen wipe its memory before your next chat. 🧹\n\nWhat's sitting in your agent's logs right now that you'd never say out loud? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Your AI agent never forgets secrets",
+      "description": "AI agents log every word, creating a permanent record you can't control or easily erase.",
+      "visual_hint": "Glowing server rack with data streams",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Is your agent storing passwords?",
+      "description": "Agents accidentally store passwords and personal details from chats, then expose them later to anyone.",
+      "visual_hint": "Lock icon on a digital log file",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The real leak is written down",
+      "description": "Sensitive info like addresses or keys gets logged in poorly secured files, easily accessed by attackers.",
+      "visual_hint": "Open notebook with glowing code lines",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "hard drive",
+      "image": "https://images.pexels.com/photos/28461160/pexels-photo-28461160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit what your agent can read",
+      "description": "Regularly check what data your agent can read and store, and limit permissions to only what's necessary.",
+      "visual_hint": "Hand holding magnifying glass over code",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "computer keyboard",
+      "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Delete the memory before sharing",
+      "description": "Clear your agent's memory before starting a new chat to prevent accidental leaks—do it now to protect your privacy.",
+      "visual_hint": "Trash bin icon with erased data trail",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "delete button",
+      "image": "https://images.pexels.com/photos/21562942/pexels-photo-21562942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268808_None_of_Your_Friends_Consented_To_an_AI_Agent_CVirginia2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-17T02:16:31.967Z",
+  "sourceId": "253eb4f225982c81218429f8f9ad1e9e"
+}
