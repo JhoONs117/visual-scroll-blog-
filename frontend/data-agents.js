@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "meta-removes-language-that-raised-scraping-and-ai-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "pubDate": "Sat, 17 Oct 2026 21:31:32 +0000",
+      "slides": [
+        "Why did Meta quietly delete that language?",
+        "Its AI terms warned users about scraping and training",
+        "But the removed clause is about something narrower",
+        "Your public posts may train future Meta models",
+        "Audit your privacy settings before the next update"
+      ],
+      "thread_text": [
+        "1. Meta quietly deleted a clause\n\nIts AI terms had warned users about scraping and training. That warning is now gone, and the reason isn't obvious.",
+        "2. The removed clause was narrower\n\nIt didn't cover all scraping or all training. It targeted a specific case Meta no longer wants to mention.",
+        "3. Your public posts train future models\n\nAnything you've posted publicly can end up in training data. Meta's own terms say so — for now.",
+        "4. The deletion changes the deal\n\nIf the clause is gone, the rules you agreed to may no longer apply. The silence is the signal.",
+        "5. Audit your privacy settings now\n\nOpen your settings and check what's public before the next update. What would you change if you knew it was training data?"
+      ],
+      "video_script": [
+        "Meta quietly deleted a clause from its AI terms.",
+        "The old terms warned about scraping and training.",
+        "But the removed part was narrower than that.",
+        "Your public posts may still train future Meta models.",
+        "Check your privacy settings before the next update."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Meta quietly deleted a clause\n\nIts AI terms had warned users about scraping and training. That warning is now gone, and the reason isn't obvious.",
+            "2. The removed clause was narrower\n\nIt didn't cover all scraping or all training. It targeted a specific case Meta no longer wants to mention.",
+            "3. Your public posts train future models\n\nAnything you've posted publicly can end up in training data. Meta's own terms say so — for now.",
+            "4. The deletion changes the deal\n\nIf the clause is gone, the rules you agreed to may no longer apply. The silence is the signal.",
+            "5. Audit your privacy settings now\n\nOpen your settings and check what's public before the next update. What would you change if you knew it was training data?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta quietly deleted a clause from its AI terms.",
+            "The old terms warned about scraping and training.",
+            "But the removed part was narrower than that.",
+            "Your public posts may still train future Meta models.",
+            "Check your privacy settings before the next update."
+          ]
+        },
+        "instagram": {
+          "caption": "Meta removed a clause from its AI terms that specifically warned users about scraping and data training.\n\nThe warning covered a narrower case than it seemed — but now it's gone, and Meta hasn't explained why. 👀\n\nWhat remains is this: your public posts can still end up in training data for future models.\n\nIf you publish anything publicly, the terms you originally agreed to may no longer say what they said. 📄\n\nOpen your privacy settings now and check what's public before the next update. 🔍 Would you change anything if you knew it was training data?"
+        }
+      },
+      "instagram_caption": "Meta removed a clause from its AI terms that specifically warned users about scraping and data training.\n\nThe warning covered a narrower case than it seemed — but now it's gone, and Meta hasn't explained why. 👀\n\nWhat remains is this: your public posts can still end up in training data for future models.\n\nIf you publish anything publicly, the terms you originally agreed to may no longer say what they said. 📄\n\nOpen your privacy settings now and check what's public before the next update. 🔍 Would you change anything if you knew it was training data?",
+      "carousel_slides": [
+        {
+          "hook": "Meta quietly deleted a key clause",
+          "description": "Its AI terms warned about scraping and training; that warning is now gone, leaving users uncertain.",
+          "visual_hint": "Close-up of a deleted digital text line",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "AI terms warned about scraping",
+          "description": "The removed language addressed scraping and training, but not all of it—only a specific case.",
+          "visual_hint": "Contract with a highlighted but removed paragraph",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The clause was narrower than you think",
+          "description": "It targeted a specific scenario Meta no longer wants to mention, not general scraping or training.",
+          "visual_hint": "Magnifying glass over a tiny clause",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass document",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your public posts train future models",
+          "description": "Anything posted publicly can become training data, as Meta's current terms still state.",
+          "visual_hint": "Social media posts flowing into a server",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "social media icons",
+          "image": "https://images.pexels.com/photos/3850266/pexels-photo-3850266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: audit your privacy settings",
+          "description": "Open your settings now and check what's public before the next update changes the rules.",
+          "visual_hint": "Hand tapping privacy settings on a phone",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "privacy settings phone",
+          "image": "https://images.pexels.com/photos/6943446/pexels-photo-6943446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+      "savedAt": "2026-10-17T21:53:59.312Z",
+      "sourceId": "24a6bb2519a404ce2c6135aaef66c2a3"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "trump-posts-ai-edited-photo-to-brag-about-white-ho",
       "prompt_version": "1.0.0",
       "status": "published",
