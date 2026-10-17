@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "replit-makes-openai-its-default-over-anthropic-ceo",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+  "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+  "pubDate": "Sat, 17 Oct 2026 18:48:08 +0000",
+  "slides": [
+    "Why did Replit just drop OpenAI's rival?",
+    "Replit made OpenAI its default AI provider",
+    "The CEO says Anthropic's models fell behind",
+    "Your coding tools may shift to OpenAI overnight",
+    "Check which model powers your workflow today"
+  ],
+  "thread_text": [
+    "1. OpenAI Is Now Default\n\nReplit just made OpenAI its default AI provider, sidelining Anthropic. The switch affects every user on the platform.",
+    "2. The CEO's Verdict\n\nReplit's CEO said Anthropic's models fell behind. That's a direct critique from someone who once relied on them.",
+    "3. Your Workflow Could Flip\n\nIf you use Replit, your coding tools may shift to OpenAI overnight. No opt-in, no warning.",
+    "4. Check Your Model Today\n\nFind out which model powers your workflow right now. The default may have already changed.",
+    "5. Test Before You Trust\n\nRun a prompt you know well on the new default. If the output feels off, you have your answer."
+  ],
+  "video_script": [
+    "Replit just dropped OpenAI's rival as its default.",
+    "The CEO says Anthropic's models fell behind.",
+    "Your coding tools could switch to OpenAI overnight.",
+    "Check which model powers your workflow today.",
+    "Test a known prompt before you trust the new default."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI Is Now Default\n\nReplit just made OpenAI its default AI provider, sidelining Anthropic. The switch affects every user on the platform.",
+        "2. The CEO's Verdict\n\nReplit's CEO said Anthropic's models fell behind. That's a direct critique from someone who once relied on them.",
+        "3. Your Workflow Could Flip\n\nIf you use Replit, your coding tools may shift to OpenAI overnight. No opt-in, no warning.",
+        "4. Check Your Model Today\n\nFind out which model powers your workflow right now. The default may have already changed.",
+        "5. Test Before You Trust\n\nRun a prompt you know well on the new default. If the output feels off, you have your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Replit just dropped OpenAI's rival as its default.",
+        "The CEO says Anthropic's models fell behind.",
+        "Your coding tools could switch to OpenAI overnight.",
+        "Check which model powers your workflow today.",
+        "Test a known prompt before you trust the new default."
+      ]
+    },
+    "instagram": {
+      "caption": "If you code on Replit, your default model just changed without you touching a setting.\n\nReplit made OpenAI its default AI provider, dropping Anthropic. 🚀\n\nThe CEO said Anthropic's models fell behind — a direct critique from someone who once relied on them.\n\nNo opt-in, no warning: your tools may now run on a different model overnight.\n\nSo run a prompt you know well on the new default before you trust it. 🤔\n\nWhich model is powering your workflow right now — do you actually know? 👀"
+    }
+  },
+  "instagram_caption": "If you code on Replit, your default model just changed without you touching a setting.\n\nReplit made OpenAI its default AI provider, dropping Anthropic. 🚀\n\nThe CEO said Anthropic's models fell behind — a direct critique from someone who once relied on them.\n\nNo opt-in, no warning: your tools may now run on a different model overnight.\n\nSo run a prompt you know well on the new default before you trust it. 🤔\n\nWhich model is powering your workflow right now — do you actually know? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Did Anthropic just lose Replit?",
+      "description": "Replit made OpenAI its default AI provider, sidelining Anthropic and affecting every user on the platform.",
+      "visual_hint": "Split screen with two AI logos",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "server room"
+    },
+    {
+      "hook": "OpenAI takes the default spot",
+      "description": "Replit switched its default AI provider to OpenAI, meaning all users now get OpenAI models by default.",
+      "visual_hint": "Default settings icon on screen",
+      "layout_type": "right-focus",
+      "icon": "check",
+      "image_query": "computer keyboard",
+      "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "CEO says Anthropic fell behind",
+      "description": "Replit's CEO directly criticized Anthropic's models as falling behind, a sharp verdict from a former user.",
+      "visual_hint": "CEO speaking at conference",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "business meeting",
+      "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your coding tools may flip overnight",
+      "description": "If you use Replit, your coding tools could shift to OpenAI without opt-in or warning, changing your workflow.",
+      "visual_hint": "Hand using laptop with code",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "laptop screen code",
+      "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: check your model now",
+      "description": "Find out which model powers your workflow right now. Test a known prompt on the new default to verify output.",
+      "visual_hint": "Prompt input field on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "computer screen prompt",
+      "image": "https://images.pexels.com/photos/17115912/pexels-photo-17115912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
+  "savedAt": "2026-10-17T23:39:25.375Z",
+  "sourceId": "5329074f895835a3effbd8ccf80a023e"
+}
