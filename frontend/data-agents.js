@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "disney-agrees-to-hire-the-majority-of-character-ai",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "pubDate": "Sun, 18 Oct 2026 16:30:00 +0000",
+      "slides": [
+        "Why is Disney hiring Character.AI's entire team?",
+        "Character.AI built chatbots users talk to for hours",
+        "Disney wants that engagement inside its own IP",
+        "Your next Disney character may remember past chats",
+        "Watch which characters get memory first"
+      ],
+      "thread_text": [
+        "1. Disney's AI talent grab\n\nDisney hired the entire Character.AI team. That's not an acquisition—it's a direct signal that the House of Mouse wants conversational AI under its roof.",
+        "2. Users talk for hours\n\nCharacter.AI's chatbots keep people engaged for hours. That level of stickiness is exactly what Disney wants for its own characters.",
+        "3. Engagement meets IP\n\nDisney plans to fold that engagement into its own intellectual property. Imagine talking to a Disney character that feels as responsive as a Character.AI bot.",
+        "4. Memory changes everything\n\nYour next Disney character may remember past chats. That means continuity across visits—and a much deeper emotional connection.",
+        "5. Which characters first?\n\nTake a guess: which Disney character would you want to have memory? Reply with your pick—and watch which ones get it first."
+      ],
+      "video_script": [
+        "Disney just hired the whole Character.AI team.",
+        "Why? Because people talk to those bots for hours.",
+        "Disney wants that same engagement with its own characters.",
+        "Soon your favorite Disney character might remember your last chat.",
+        "Which character should get memory first? Tell us."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Disney's AI talent grab\n\nDisney hired the entire Character.AI team. That's not an acquisition—it's a direct signal that the House of Mouse wants conversational AI under its roof.",
+            "2. Users talk for hours\n\nCharacter.AI's chatbots keep people engaged for hours. That level of stickiness is exactly what Disney wants for its own characters.",
+            "3. Engagement meets IP\n\nDisney plans to fold that engagement into its own intellectual property. Imagine talking to a Disney character that feels as responsive as a Character.AI bot.",
+            "4. Memory changes everything\n\nYour next Disney character may remember past chats. That means continuity across visits—and a much deeper emotional connection.",
+            "5. Which characters first?\n\nTake a guess: which Disney character would you want to have memory? Reply with your pick—and watch which ones get it first."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Disney just hired the whole Character.AI team.",
+            "Why? Because people talk to those bots for hours.",
+            "Disney wants that same engagement with its own characters.",
+            "Soon your favorite Disney character might remember your last chat.",
+            "Which character should get memory first? Tell us."
+          ]
+        },
+        "instagram": {
+          "caption": "Your next Disney character might remember your last conversation. Disney agreed to hire the majority of Character.AI's workforce — not buy the company, just take the team.\n\nCharacter.AI built chatbots people talk to for hours, and that stickiness is what Disney wants inside its own characters.\n\nFolding that engagement into Disney's intellectual property means continuity across visits, not fresh small talk every time.\n\nIf you write or build with characters, memory becomes the feature to watch — a character that recalls past chats changes how stories get written.\n\nWhich Disney character would you want to have memory first? 👀🕰️💬"
+        }
+      },
+      "instagram_caption": "Your next Disney character might remember your last conversation. Disney agreed to hire the majority of Character.AI's workforce — not buy the company, just take the team.\n\nCharacter.AI built chatbots people talk to for hours, and that stickiness is what Disney wants inside its own characters.\n\nFolding that engagement into Disney's intellectual property means continuity across visits, not fresh small talk every time.\n\nIf you write or build with characters, memory becomes the feature to watch — a character that recalls past chats changes how stories get written.\n\nWhich Disney character would you want to have memory first? 👀🕰️💬",
+      "carousel_slides": [
+        {
+          "hook": "Disney just hired an entire AI team",
+          "description": "Disney hired the majority of Character.AI's workforce, signaling a direct push into conversational AI for its characters.",
+          "visual_hint": "Disney castle with AI circuit overlay",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Disney castle"
+        },
+        {
+          "hook": "Users talk to chatbots for hours",
+          "description": "Character.AI's chatbots keep users engaged for hours, and that stickiness is exactly what Disney wants.",
+          "visual_hint": "Person chatting on phone with chatbot",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartphone chat",
+          "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Disney wants that engagement for its IP",
+          "description": "Disney plans to fold Character.AI's engagement into its own intellectual property, making characters more responsive.",
+          "visual_hint": "Disney character with speech bubble",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "Mickey Mouse",
+          "image": "https://images.pexels.com/photos/23849242/pexels-photo-23849242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your next Disney character may remember chats",
+          "description": "Disney characters could soon remember past conversations, creating continuity and deeper emotional connections across visits.",
+          "visual_hint": "Character with memory bubbles",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "memory bubbles",
+          "image": "https://images.pexels.com/photos/13893106/pexels-photo-13893106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Which character should get memory first?",
+          "description": "Comment your pick and save this post to see which Disney characters get memory first.",
+          "visual_hint": "Disney characters with question marks",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "Disney characters",
+          "image": "https://images.pexels.com/photos/37942986/pexels-photo-37942986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1200,675",
+      "savedAt": "2026-10-18T17:01:11.994Z",
+      "sourceId": "2f6c16309da40a526a9cc81f94c21bc4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "replit-makes-openai-its-default-over-anthropic-ceo",
       "prompt_version": "1.0.0",
       "status": "published",
