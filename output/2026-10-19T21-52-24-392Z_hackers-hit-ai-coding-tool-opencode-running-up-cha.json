@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "hackers-hit-ai-coding-tool-opencode-running-up-cha",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+  "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+  "pubDate": "Mon, 19 Oct 2026 19:28:34 +0000",
+  "slides": [
+    "Who pays when OpenCode gets hacked?",
+    "Attackers abused exposed credentials to run paid AI queries",
+    "Users faced unexpected charges on accounts they trusted",
+    "Check your OpenCode keys and billing history today",
+    "Rotate credentials before the next silent charge hits"
+  ],
+  "thread_text": [
+    "1. Who foots the bill for exposed keys?\n\nAttackers used leaked OpenCode credentials to run paid AI queries on other people's accounts. The victims only found out when charges appeared.",
+    "2. Silent charges from someone else's usage\n\nExposed API keys let attackers rack up AI queries without triggering alerts. Users saw unexpected charges on accounts they trusted.",
+    "3. Trusted accounts, unexpected bills\n\nOpenCode billed users for queries they never ran. The breach wasn't in the model, it was in the keys left exposed.",
+    "4. Check your keys and billing now\n\nLook for unfamiliar activity in OpenCode billing history. If you see queries you didn't make, your credentials may already be compromised.",
+    "5. Rotate credentials before the next charge\n\nChange your OpenCode keys today. Don't wait for another silent charge to confirm what's already exposed."
+  ],
+  "video_script": [
+    "Attackers got hold of exposed OpenCode credentials.",
+    "They ran paid AI queries on other people's accounts.",
+    "Users found unexpected charges on accounts they trusted.",
+    "Check your OpenCode keys and billing history today.",
+    "Rotate your credentials before the next silent charge hits."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who foots the bill for exposed keys?\n\nAttackers used leaked OpenCode credentials to run paid AI queries on other people's accounts. The victims only found out when charges appeared.",
+        "2. Silent charges from someone else's usage\n\nExposed API keys let attackers rack up AI queries without triggering alerts. Users saw unexpected charges on accounts they trusted.",
+        "3. Trusted accounts, unexpected bills\n\nOpenCode billed users for queries they never ran. The breach wasn't in the model, it was in the keys left exposed.",
+        "4. Check your keys and billing now\n\nLook for unfamiliar activity in OpenCode billing history. If you see queries you didn't make, your credentials may already be compromised.",
+        "5. Rotate credentials before the next charge\n\nChange your OpenCode keys today. Don't wait for another silent charge to confirm what's already exposed."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Attackers got hold of exposed OpenCode credentials.",
+        "They ran paid AI queries on other people's accounts.",
+        "Users found unexpected charges on accounts they trusted.",
+        "Check your OpenCode keys and billing history today.",
+        "Rotate your credentials before the next silent charge hits."
+      ]
+    },
+    "instagram": {
+      "caption": "Someone ran paid AI queries on OpenCode accounts that weren't theirs — and the bill landed on the real users.\n\nAttackers got hold of exposed OpenCode credentials 🔑 and used them to fire off queries that cost money.\n\nNo alerts went off. Charges just showed up on accounts people trusted.\n\nIf you build with OpenCode, your keys may already be exposed 😬\n\nCheck your billing history for queries you never made, then rotate every key today.\n\nWould you notice a charge before your next invoice?"
+    }
+  },
+  "instagram_caption": "Someone ran paid AI queries on OpenCode accounts that weren't theirs — and the bill landed on the real users.\n\nAttackers got hold of exposed OpenCode credentials 🔑 and used them to fire off queries that cost money.\n\nNo alerts went off. Charges just showed up on accounts people trusted.\n\nIf you build with OpenCode, your keys may already be exposed 😬\n\nCheck your billing history for queries you never made, then rotate every key today.\n\nWould you notice a charge before your next invoice?",
+  "carousel_slides": [
+    {
+      "hook": "Who pays when attackers use your keys?",
+      "description": "Hackers exploited exposed OpenCode credentials to run paid AI queries, leaving victims with unexpected charges on trusted accounts.",
+      "visual_hint": "A glowing laptop with a warning icon",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "laptop warning screen"
+    },
+    {
+      "hook": "Silent charges from stolen credentials",
+      "description": "Exposed API keys let attackers rack up AI queries without alerts, and users only discovered the breach when bills arrived.",
+      "visual_hint": "A key sticking out of a server",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trusted accounts, unexpected bills",
+      "description": "OpenCode billed users for queries they never ran; the breach wasn't in the model but in the keys left exposed.",
+      "visual_hint": "A bill with unfamiliar line items",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "billing statement",
+      "image": "https://images.pexels.com/photos/7926706/pexels-photo-7926706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your keys and billing now",
+      "description": "Look for unfamiliar activity in OpenCode billing history. If you see queries you didn't make, your credentials may already be compromised.",
+      "visual_hint": "A hand scrolling through billing history",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding phone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rotate credentials before the next charge",
+      "description": "Change your OpenCode keys today. Don't wait for another silent charge to confirm what's already exposed.",
+      "visual_hint": "A key being changed in a lock",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "key lock",
+      "image": "https://images.pexels.com/photos/792032/pexels-photo-792032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/cyberatttack.jpg?w=612",
+  "savedAt": "2026-10-19T21:52:32.535Z",
+  "sourceId": "23a6adb9ef6f7fa194b86f800cd6e00b"
+}

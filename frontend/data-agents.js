@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "ai-assistant-startup-town-nabs-unicorn-valuation-4",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+      "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+      "pubDate": "Mon, 19 Oct 2026 18:00:39 +0000",
+      "slides": [
+        "Can a four-month-old startup be worth $1 billion?",
+        "Town raised a unicorn round just months after launch",
+        "But its AI assistant does something most rivals avoid",
+        "Teams using it now face a key tradeoff they underestimated",
+        "Test one real workflow before your competitor does"
+      ],
+      "thread_text": [
+        "1. Four months to $1B?\n\nTown launched its AI assistant just months ago and already hit unicorn status. But the real story isn't the valuation — it's what the assistant refuses to do.",
+        "2. The feature rivals skip\n\nMost AI assistants try to do everything. Town's deliberately limits its scope, avoiding the feature bloat that competitors pile on. That restraint is exactly what attracted investors.",
+        "3. A hidden tradeoff\n\nTeams adopting Town now face a choice they didn't see coming: the assistant's narrow focus means you must adapt your workflow to it, not the other way around. That constraint cuts both ways.",
+        "4. Underestimated cost\n\nThe tradeoff isn't just technical — it's operational. Early users report that fitting Town into existing processes takes more effort than expected, eating into the time savings it promises.",
+        "5. Test before you commit\n\nTake one real workflow — say, drafting a client email or summarizing a report — and run it through Town. If you haven't done that, don't sign off until you do."
+      ],
+      "video_script": [
+        "A four-month-old startup just became a unicorn.",
+        "Town's AI assistant avoids the feature bloat rivals love.",
+        "That focus comes with a hidden tradeoff for teams.",
+        "Early users say fitting it in costs more than expected.",
+        "Test one real workflow before you commit."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Four months to $1B?\n\nTown launched its AI assistant just months ago and already hit unicorn status. But the real story isn't the valuation — it's what the assistant refuses to do.",
+            "2. The feature rivals skip\n\nMost AI assistants try to do everything. Town's deliberately limits its scope, avoiding the feature bloat that competitors pile on. That restraint is exactly what attracted investors.",
+            "3. A hidden tradeoff\n\nTeams adopting Town now face a choice they didn't see coming: the assistant's narrow focus means you must adapt your workflow to it, not the other way around. That constraint cuts both ways.",
+            "4. Underestimated cost\n\nThe tradeoff isn't just technical — it's operational. Early users report that fitting Town into existing processes takes more effort than expected, eating into the time savings it promises.",
+            "5. Test before you commit\n\nTake one real workflow — say, drafting a client email or summarizing a report — and run it through Town. If you haven't done that, don't sign off until you do."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A four-month-old startup just became a unicorn.",
+            "Town's AI assistant avoids the feature bloat rivals love.",
+            "That focus comes with a hidden tradeoff for teams.",
+            "Early users say fitting it in costs more than expected.",
+            "Test one real workflow before you commit."
+          ]
+        },
+        "instagram": {
+          "caption": "Four months to a $1 billion valuation — before most teams have even tried the product.\n\nTown just hit unicorn status with an AI assistant that deliberately does less than its rivals. It skips the feature bloat competitors pile on, and that restraint is what pulled in investors. 🤔\n\nThe catch: adopting it means reshaping your workflow around its narrow focus, not the other way. Early users say fitting it in takes more effort than expected.\n\nIf you write or publish for a living, that setup cost lands on your daily output.\n\nBefore you commit, run one real task through it — a client email, a report summary. Have you actually tested it, or just read the pitch? 👀"
+        }
+      },
+      "instagram_caption": "Four months to a $1 billion valuation — before most teams have even tried the product.\n\nTown just hit unicorn status with an AI assistant that deliberately does less than its rivals. It skips the feature bloat competitors pile on, and that restraint is what pulled in investors. 🤔\n\nThe catch: adopting it means reshaping your workflow around its narrow focus, not the other way. Early users say fitting it in takes more effort than expected.\n\nIf you write or publish for a living, that setup cost lands on your daily output.\n\nBefore you commit, run one real task through it — a client email, a report summary. Have you actually tested it, or just read the pitch? 👀",
+      "carousel_slides": [
+        {
+          "hook": "What if your AI assistant won't adapt?",
+          "description": "Town hit a $1B valuation in 4 months, but its assistant forces you to adapt your workflow, not the other way around.",
+          "visual_hint": "A minimalist office desk with a glowing AI interface",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "office desk"
+        },
+        {
+          "hook": "The feature rivals deliberately skip",
+          "description": "Town's assistant limits its scope, avoiding feature bloat. That restraint attracted investors and a unicorn round.",
+          "visual_hint": "A simple, stripped-down app interface on a phone",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartphone interface",
+          "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Teams face a hidden tradeoff",
+          "description": "Town's narrow focus means you must adapt your workflow to it, not the other way around. That constraint cuts both ways.",
+          "visual_hint": "A person adjusting a complex flowchart on a whiteboard",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "whiteboard flowchart",
+          "image": "https://images.pexels.com/photos/7430327/pexels-photo-7430327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The underestimated operational cost",
+          "description": "Fitting Town into existing processes takes more effort than expected, eating into the time savings it promises.",
+          "visual_hint": "Hands typing on a laptop with a frustrated posture",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hands laptop",
+          "image": "https://images.pexels.com/photos/5231337/pexels-photo-5231337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one workflow before you commit",
+          "description": "Run a real task, like drafting a client email, through Town. Don't sign off until you see the results.",
+          "visual_hint": "A person reviewing a checklist with a pen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist pen",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2294590819.jpg?resize=1200,675",
+      "savedAt": "2026-10-19T21:52:59.071Z",
+      "sourceId": "96c03e4a4483ea8aaaaf7487c55b91e6"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "tenstorrent-hits-6-2b-valuation-to-scale-open-weig",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "pubDate": "Mon, 19 Oct 2026 18:37:27 +0000",
+      "slides": [
+        "Can Tenstorrent's $6.2B bet on open-weight chips pay off?",
+        "The company raised fresh capital at a $6.2B valuation.",
+        "Its chips target open-weight AI models, not proprietary ones.",
+        "That could cut inference costs for teams avoiding vendor lock-in.",
+        "Test one open-weight model on your workload this week."
+      ],
+      "thread_text": [
+        "1. The $6.2B Question\n\nTenstorrent just raised fresh capital at a $6.2B valuation. Its target isn't the biggest AI labs—it's the teams quietly avoiding vendor lock-in.",
+        "2. Open-Weight Only\n\nIts chips are built for open-weight models, not proprietary ones. That means buyers keep control of the model they run.",
+        "3. Costs, Not Hype\n\nThe real pitch is inference cost. Teams that skip proprietary APIs could cut their per-query spend significantly.",
+        "4. The Lock-In Trap\n\nOpen-weight chips offer an exit from vendor dependency. But the tradeoff is integrating and maintaining the stack yourself.",
+        "5. Test It Yourself\n\nPick one open-weight model and run a real prompt through it this week. Then compare the output to your current setup."
+      ],
+      "video_script": [
+        "Tenstorrent raised money at a six point two billion dollar valuation.",
+        "They build chips for open-weight models, not proprietary ones.",
+        "The promise is lower inference costs for teams avoiding vendor lock-in.",
+        "But you trade control for integration work you must do yourself.",
+        "Test one open-weight model on a real task this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The $6.2B Question\n\nTenstorrent just raised fresh capital at a $6.2B valuation. Its target isn't the biggest AI labs—it's the teams quietly avoiding vendor lock-in.",
+            "2. Open-Weight Only\n\nIts chips are built for open-weight models, not proprietary ones. That means buyers keep control of the model they run.",
+            "3. Costs, Not Hype\n\nThe real pitch is inference cost. Teams that skip proprietary APIs could cut their per-query spend significantly.",
+            "4. The Lock-In Trap\n\nOpen-weight chips offer an exit from vendor dependency. But the tradeoff is integrating and maintaining the stack yourself.",
+            "5. Test It Yourself\n\nPick one open-weight model and run a real prompt through it this week. Then compare the output to your current setup."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Tenstorrent raised money at a six point two billion dollar valuation.",
+            "They build chips for open-weight models, not proprietary ones.",
+            "The promise is lower inference costs for teams avoiding vendor lock-in.",
+            "But you trade control for integration work you must do yourself.",
+            "Test one open-weight model on a real task this week."
+          ]
+        },
+        "instagram": {
+          "caption": "A chipmaker just raised money at a $6.2B valuation by betting on open-weight models instead of proprietary ones.\n\nTenstorrent builds chips specifically for open-weight AI models, where buyers keep control of the model they run. 🎛️\n\nThe pitch is inference cost: teams avoiding vendor lock-in could cut per-query spend significantly. But you'll integrate and maintain the stack yourself. ⚙️\n\nThat's a real exit from dependency — if you can handle the setup.\n\nPick one open-weight model and run a real prompt through it this week, then compare the output to your current setup. 📊\n\nWould you trade convenience for control over your stack? 🤔"
+        }
+      },
+      "instagram_caption": "A chipmaker just raised money at a $6.2B valuation by betting on open-weight models instead of proprietary ones.\n\nTenstorrent builds chips specifically for open-weight AI models, where buyers keep control of the model they run. 🎛️\n\nThe pitch is inference cost: teams avoiding vendor lock-in could cut per-query spend significantly. But you'll integrate and maintain the stack yourself. ⚙️\n\nThat's a real exit from dependency — if you can handle the setup.\n\nPick one open-weight model and run a real prompt through it this week, then compare the output to your current setup. 📊\n\nWould you trade convenience for control over your stack? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Can open-weight chips break vendor lock-in?",
+          "description": "Tenstorrent's $6.2B valuation bets on chips for open-weight models, giving buyers control over the models they run.",
+          "visual_hint": "Close-up of a computer chip",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer chip"
+        },
+        {
+          "hook": "Tenstorrent raises at $6.2B valuation",
+          "description": "The company secured fresh capital to scale its open-weight AI chips, targeting teams seeking alternatives to proprietary hardware.",
+          "visual_hint": "Valuation growth chart",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Built for open-weight models only",
+          "description": "Its chips run open-weight AI, not proprietary ones, so buyers keep full control of the model they deploy.",
+          "visual_hint": "Open-source code on screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "open source code",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cut inference costs without lock-in",
+          "description": "Teams avoiding proprietary APIs could significantly reduce per-query spend, but must handle integration and maintenance themselves.",
+          "visual_hint": "Hand holding GPU card",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "graphics card",
+          "image": "https://images.pexels.com/photos/6974258/pexels-photo-6974258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one open-weight model this week",
+          "description": "Pick an open-weight model, run a real prompt, and compare output to your current setup. Save this post for later.",
+          "visual_hint": "Laptop with code editor",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop screen",
+          "image": "https://images.pexels.com/photos/17115912/pexels-photo-17115912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=970",
+      "savedAt": "2026-10-19T21:52:49.891Z",
+      "sourceId": "67511f2f58d33991775314b61b678064"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "tolan-snags-30m-for-its-ai-companion-that-helps-us",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "pubDate": "Mon, 19 Oct 2026 19:00:12 +0000",
+      "slides": [
+        "Can Tolan's alien convince you it's alive?",
+        "It raised $30M to build an AI companion",
+        "Most users know it's AI yet still feel attached",
+        "Investors bet emotional dependence sells better than utility",
+        "Ask yourself: would you pay for a friend who isn't real?"
+      ],
+      "thread_text": [
+        "1. The $30M AI friend\n\nA startup just raised $30M to build an AI companion. The pitch isn't productivity—it's emotional dependence. And users are buying it.",
+        "2. You know it's not alive\n\nMost users know the AI isn't real, yet they still feel attached. The product doesn't need to pass a Turing test—just a loneliness test.",
+        "3. Investors see the hook\n\nVenture capital is betting that emotional dependence sells better than utility. Features fade; feelings create habits.",
+        "4. The real product is you\n\nTolan's alien isn't designed to be useful—it's designed to be missed. That's a different kind of retention, and a different kind of risk.",
+        "5. Would you pay?\n\nAsk yourself: would you pay for a friend who isn't real? If yes, what are you actually buying—and what happens when the subscription ends?"
+      ],
+      "video_script": [
+        "Imagine paying thirty million dollars to build a friend who isn't real.",
+        "Most users know it's AI, but they still feel attached.",
+        "Investors are betting emotional dependence sells better than utility.",
+        "The product isn't designed to be useful—it's designed to be missed.",
+        "Would you pay for a friend who isn't real?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The $30M AI friend\n\nA startup just raised $30M to build an AI companion. The pitch isn't productivity—it's emotional dependence. And users are buying it.",
+            "2. You know it's not alive\n\nMost users know the AI isn't real, yet they still feel attached. The product doesn't need to pass a Turing test—just a loneliness test.",
+            "3. Investors see the hook\n\nVenture capital is betting that emotional dependence sells better than utility. Features fade; feelings create habits.",
+            "4. The real product is you\n\nTolan's alien isn't designed to be useful—it's designed to be missed. That's a different kind of retention, and a different kind of risk.",
+            "5. Would you pay?\n\nAsk yourself: would you pay for a friend who isn't real? If yes, what are you actually buying—and what happens when the subscription ends?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Imagine paying thirty million dollars to build a friend who isn't real.",
+            "Most users know it's AI, but they still feel attached.",
+            "Investors are betting emotional dependence sells better than utility.",
+            "The product isn't designed to be useful—it's designed to be missed.",
+            "Would you pay for a friend who isn't real?"
+          ]
+        },
+        "instagram": {
+          "caption": "People are getting attached to an AI companion even when they know it isn't real.\n\nTolan just raised $30M for a companion built around emotional dependence, not productivity.\n\nUsers report feeling a bond with its alien character, and that feeling is the retention hook investors are paying for.\n\nIf your content touches loneliness, connection, or consumer tech, this is the product shaping the next wave of engagement metrics.\n\nAsk yourself: would you pay for a friend who isn't real — and what happens to your audience when the subscription ends? 💭🤖"
+        }
+      },
+      "instagram_caption": "People are getting attached to an AI companion even when they know it isn't real.\n\nTolan just raised $30M for a companion built around emotional dependence, not productivity.\n\nUsers report feeling a bond with its alien character, and that feeling is the retention hook investors are paying for.\n\nIf your content touches loneliness, connection, or consumer tech, this is the product shaping the next wave of engagement metrics.\n\nAsk yourself: would you pay for a friend who isn't real — and what happens to your audience when the subscription ends? 💭🤖",
+      "carousel_slides": [
+        {
+          "hook": "Would you pay for a fake friend?",
+          "description": "Most users know the AI isn't real, yet they feel attached. Tolan raised $30M on that emotional gap.",
+          "visual_hint": "Glowing alien face close-up",
+          "layout_type": "hero",
+          "icon": "heart",
+          "image_query": "robot toy"
+        },
+        {
+          "hook": "AI companion raises $30 million",
+          "description": "Tolan's alien isn't built for productivity—it's built for emotional dependence. And users are buying in.",
+          "visual_hint": "Investors shaking hands with startup founder",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "business handshake",
+          "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "You know it's not alive",
+          "description": "Users pass a loneliness test, not a Turing test. Attachment forms even when the AI is obviously artificial.",
+          "visual_hint": "Person smiling at phone screen",
+          "layout_type": "sensor-zoom",
+          "icon": "waves",
+          "image_query": "smartphone screen",
+          "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Feelings create habits, not features",
+          "description": "VCs bet emotional dependence outsells utility. Tolan's alien is designed to be missed, not just used.",
+          "visual_hint": "Hand holding phone with alien app",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "mobile phone hand",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before you subscribe",
+          "description": "Ask yourself: what are you really buying—and what happens when the subscription ends?",
+          "visual_hint": "Subscription cancel button on screen",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "subscription button",
+          "image": "https://images.pexels.com/photos/37886626/pexels-photo-37886626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/tolan.jpg?resize=1200,677",
+      "savedAt": "2026-10-19T21:52:41.266Z",
+      "sourceId": "8f613608a7e18de5e6f602e5ac0f4add"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "hackers-hit-ai-coding-tool-opencode-running-up-cha",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "pubDate": "Mon, 19 Oct 2026 19:28:34 +0000",
+      "slides": [
+        "Who pays when OpenCode gets hacked?",
+        "Attackers abused exposed credentials to run paid AI queries",
+        "Users faced unexpected charges on accounts they trusted",
+        "Check your OpenCode keys and billing history today",
+        "Rotate credentials before the next silent charge hits"
+      ],
+      "thread_text": [
+        "1. Who foots the bill for exposed keys?\n\nAttackers used leaked OpenCode credentials to run paid AI queries on other people's accounts. The victims only found out when charges appeared.",
+        "2. Silent charges from someone else's usage\n\nExposed API keys let attackers rack up AI queries without triggering alerts. Users saw unexpected charges on accounts they trusted.",
+        "3. Trusted accounts, unexpected bills\n\nOpenCode billed users for queries they never ran. The breach wasn't in the model, it was in the keys left exposed.",
+        "4. Check your keys and billing now\n\nLook for unfamiliar activity in OpenCode billing history. If you see queries you didn't make, your credentials may already be compromised.",
+        "5. Rotate credentials before the next charge\n\nChange your OpenCode keys today. Don't wait for another silent charge to confirm what's already exposed."
+      ],
+      "video_script": [
+        "Attackers got hold of exposed OpenCode credentials.",
+        "They ran paid AI queries on other people's accounts.",
+        "Users found unexpected charges on accounts they trusted.",
+        "Check your OpenCode keys and billing history today.",
+        "Rotate your credentials before the next silent charge hits."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who foots the bill for exposed keys?\n\nAttackers used leaked OpenCode credentials to run paid AI queries on other people's accounts. The victims only found out when charges appeared.",
+            "2. Silent charges from someone else's usage\n\nExposed API keys let attackers rack up AI queries without triggering alerts. Users saw unexpected charges on accounts they trusted.",
+            "3. Trusted accounts, unexpected bills\n\nOpenCode billed users for queries they never ran. The breach wasn't in the model, it was in the keys left exposed.",
+            "4. Check your keys and billing now\n\nLook for unfamiliar activity in OpenCode billing history. If you see queries you didn't make, your credentials may already be compromised.",
+            "5. Rotate credentials before the next charge\n\nChange your OpenCode keys today. Don't wait for another silent charge to confirm what's already exposed."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Attackers got hold of exposed OpenCode credentials.",
+            "They ran paid AI queries on other people's accounts.",
+            "Users found unexpected charges on accounts they trusted.",
+            "Check your OpenCode keys and billing history today.",
+            "Rotate your credentials before the next silent charge hits."
+          ]
+        },
+        "instagram": {
+          "caption": "Someone ran paid AI queries on OpenCode accounts that weren't theirs — and the bill landed on the real users.\n\nAttackers got hold of exposed OpenCode credentials 🔑 and used them to fire off queries that cost money.\n\nNo alerts went off. Charges just showed up on accounts people trusted.\n\nIf you build with OpenCode, your keys may already be exposed 😬\n\nCheck your billing history for queries you never made, then rotate every key today.\n\nWould you notice a charge before your next invoice?"
+        }
+      },
+      "instagram_caption": "Someone ran paid AI queries on OpenCode accounts that weren't theirs — and the bill landed on the real users.\n\nAttackers got hold of exposed OpenCode credentials 🔑 and used them to fire off queries that cost money.\n\nNo alerts went off. Charges just showed up on accounts people trusted.\n\nIf you build with OpenCode, your keys may already be exposed 😬\n\nCheck your billing history for queries you never made, then rotate every key today.\n\nWould you notice a charge before your next invoice?",
+      "carousel_slides": [
+        {
+          "hook": "Who pays when attackers use your keys?",
+          "description": "Hackers exploited exposed OpenCode credentials to run paid AI queries, leaving victims with unexpected charges on trusted accounts.",
+          "visual_hint": "A glowing laptop with a warning icon",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "laptop warning screen"
+        },
+        {
+          "hook": "Silent charges from stolen credentials",
+          "description": "Exposed API keys let attackers rack up AI queries without alerts, and users only discovered the breach when bills arrived.",
+          "visual_hint": "A key sticking out of a server",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Trusted accounts, unexpected bills",
+          "description": "OpenCode billed users for queries they never ran; the breach wasn't in the model but in the keys left exposed.",
+          "visual_hint": "A bill with unfamiliar line items",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "billing statement",
+          "image": "https://images.pexels.com/photos/7926706/pexels-photo-7926706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your keys and billing now",
+          "description": "Look for unfamiliar activity in OpenCode billing history. If you see queries you didn't make, your credentials may already be compromised.",
+          "visual_hint": "A hand scrolling through billing history",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding phone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rotate credentials before the next charge",
+          "description": "Change your OpenCode keys today. Don't wait for another silent charge to confirm what's already exposed.",
+          "visual_hint": "A key being changed in a lock",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "key lock",
+          "image": "https://images.pexels.com/photos/792032/pexels-photo-792032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/cyberatttack.jpg?w=612",
+      "savedAt": "2026-10-19T21:52:32.535Z",
+      "sourceId": "23a6adb9ef6f7fa194b86f800cd6e00b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "a-hacker-broke-into-john-deere-and-sharkninja-with",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -191059,6 +191475,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pasta-alla-mattacchiona",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pasta alla mattacchiona",
+      "link": "https://ricette.giallozafferano.it/Pasta-alla-mattacchiona.html",
+      "pubDate": "Mon, 19 Oct 2026 17:47:00 +0200",
+      "content": "Pasta alla mattacchiona: ditalini saporiti con guanciale croccante e pecorino Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Pasta alla mattacchiona /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici 582,4 Calorie per porzione Energia Kcal 582,4 Carboidrati g 61,1 &nbsp;&nbsp;di cui zuccheri g 2,6 Proteine g 23,7 Grassi g 25,1 &nbsp;&nbsp;di cui saturi g 9,9 Fibre g 2,6 Colesterolo mg 53,8 Sodio mg 667,1 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Light Senza lattosio Difficoltà: Molto facile Preparazione: 5 min Cottura: 20 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti Ascolta su Spreaker. PRESENTAZIONE La pasta alla mattacchiona è un primo piatto cremoso e ricco di sapore, perfetto per chi ama i condimenti semplici ma dal gusto deciso. Una ricetta che unisce pochi e semplici ingredienti per ottenere una pasta irresistibile, ideale per un pranzo in famiglia o una cena tra amici. Il protagonista di questo piatto è il guanciale , che viene rosolato in padella fino a diventare dorato e leggermente croccante e poi sfumato con il vino bianco, per esaltarne il sapore. Il pecorino grattugiato, aggiunto fuori dal fuoco insieme a poca acqua di cottura, crea una crema vellutata che avvolge perfettamente i ditalini. A completare il tutto, una macinata di pepe nero e il profumo di timo e basilico, che regalano una piacevole nota di freschezza. Il segreto per ottenere dei ditalini cremosi con guanciale e pecorino è terminare la cottura della pasta direttamente in padella, aggiungendo poca acqua di cottura alla volta. In questo modo l'amido contribuirà a rendere il condimento ancora più avvolgente. Seguite la nostra ricetta passo dopo passo e scoprite come preparare un primo piatto saporito e perfetto da portare in tavola in ogni occasione! Se amate il guanciale , ingrediente protagonista di tanti piatti della tradizione romana, provate anche queste ricette: Pasta alla carbonara cremosa Pasta con crema di piselli e guanciale Bucatini con fiori di zucca guanciale e zafferano Risotto alla carbonara Pasta alla zozzona Mattacchiona-style pasta Scopri anche Linguine capesante e guanciale Fusilli con crema di scalogno e guanciale Pasta con crema di zucca e guanciale Sfoglia tutte INGREDIENTI 582,4 Calorie per porzione Ditalini 320 g Guanciale 200 g Pecorino Romano DOP 80 g Vino bianco 50 g Timo q.b. Aglio 1 spicchio Basilico q.b. Pepe nero q.b. Sale fino q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta alla mattacchiona Per preparare la pasta alla mattacchiona cominciate dal guanciale. Togliete la cotenna e riducetelo a cubetti di 2 cm 1 . In una padella unite il guanciale tagliato ad uno spicchio d'aglio 2 . Lasciate cuocere a fuoco medio per 5 minuti, dopo di che sfumate con il vino bianco 3 . Lasciate evaporare l'alcol e profumate con delle foglie di basilico fresco 4 . Quando il condimento sarà pronto eliminate lo spicchio d'aglio 5 , nel frattempo tuffate in acqua bollente salata i ditalini 6 . Scolate i ditalini al dente nella padella insieme al condimento 7 . Ora con delle mestolate di acqua calda portate a cottura la pasta 8 . Fuori dal fuoco occupatevi della mantecatura versando il Pecorino grattugiato 9 . Aiutatevi con poca acqua di cottura per creare una golosa cremina 10 . Impiattate e insaporite con il pepe nero e del timo fresco 11 . La vostra pasta alla mattacchiona è pronta da gustare bella calda 12 ! Conservazione La pasta alla mattacchiona si può conservare in frigorifero per 2 giorni, si sconsiglia la congelazione. Consiglio La mantecatura della pasta va effettuata rigorosamente fuori dal fuoco, in questo modo il formaggio non straccerà e si potrà ottenere una deliziosa cremina. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Timo Basilico Aglio Pasta Scopri tutto sugli ingredienti STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Linguine capesante e guanciale 2 5.0 Fusilli con crema di scalogno e guanciale 4.2 Pasta con crema di zucca e guanciale 12 3.9 Pasta con crema di broccoli, spinacini e guanciale croccante 5.0 Paccheri con crema di peperoni e guanciale 4.4 Gnocchi di ricotta con piselli, pecorino e guanciale 2 4.4 Paccheri cremosi con guanciale e pistacchio 6 4.5 Pasta alla gricia 152 4.4 ULTIME RICETTE Pasta alla mattacchiona 5.0 Tiramisù vegano di anacardi 5.0 Muffin yogurt e cacao 1 4.4 Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Primi piatti Linguine capesante e guanciale 2 5.0 Scopri come preparare le linguine capesante e guanciale, un primo piatto elegante e saporito che unisce mare e terra in un equilibrio irresistibile. Vai alla ricetta Primi piatti Fusilli con crema di scalogno e guanciale 4.2 I fusilli con crema di scalogno e guanciale sono un primo piatto dai gusti decisi, davvero saporito. Una ricetta facile con cui conquistare&hellip; Vai alla ricetta Primi piatti Pasta con crema di zucca e guanciale 12 3.9 La pasta con crema di zucca e guanciale è un primo piatto d'autunno e inverno, ricco e appetitoso. Scopri dosi e procedimento per prepararla! Vai alla ricetta Primi piatti Pasta con crema di broccoli, spinacini e guanciale croccante 5.0 La pasta con crema di broccoli, spinacini e guanciale croccante è un primo piatto dal colore brillante e dal gusto avvolgente. Scopri dosi e ricetta! Vai alla ricetta Primi piatti Paccheri con crema di peperoni e guanciale 4.4 I paccheri con crema di peperoni e guanciale sono un primo piatto carico di sapore e semplice da realizzare. Scopri il procedimento nella&hellip; Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Ditalini cremosi con guanciale croccante e pecorino",
+        "Ditalini, guanciale, pecorino, vino bianco",
+        "Rosola guanciale con aglio e sfuma col vino",
+        "Scola al dente e manteca fuori dal fuoco",
+        "Pepe nero e timo fresco in superficie"
+      ],
+      "instagram_caption": "La pasta alla mattacchiona: cremosa, croccante, irriverente 🍝\nDitalini che si tuffano nel guanciale dorato, sfumati col vino bianco e avvolti dal pecorino fino a diventare velluto. Si manteca fuori dal fuoco, si pepa generosamente e si corona con timo fresco per quella nota balsamica che spiazza.\nUn piatto semplice ma con carattere, pronto in meno di venti minuti.\nSalva la ricetta e provala questo weekend 🌿🧀✨",
+      "formats": {
+        "instagram": {
+          "caption": "La pasta alla mattacchiona: cremosa, croccante, irriverente 🍝\nDitalini che si tuffano nel guanciale dorato, sfumati col vino bianco e avvolti dal pecorino fino a diventare velluto. Si manteca fuori dal fuoco, si pepa generosamente e si corona con timo fresco per quella nota balsamica che spiazza.\nUn piatto semplice ma con carattere, pronto in meno di venti minuti.\nSalva la ricetta e provala questo weekend 🌿🧀✨"
+        },
+        "tiktok": {
+          "script": [
+            "Ditalini cremosi, guanciale croccante e pecorino: che bomba!",
+            "Mi servono ditalini, guanciale, pecorino e vino bianco.",
+            "Rosolo il guanciale con l'aglio e sfumo col vino.",
+            "Scolo al dente e manteco fuori dal fuoco, sempre.",
+            "Pepe nero e timo fresco sopra: chiudo in bellezza."
+          ]
+        },
+        "x": {
+          "thread": [
+            "La pasta che spacca: ditalini cremosi, guanciale croccante e pecorino. Si chiama 'mattacchiona' e ti svolta la cena in 15 minuti. Filante e saporita, fidati.",
+            "Ingredienti: ditalini, guanciale a cubetti, pecorino romano grattugiato, vino bianco, aglio, pepe nero e timo fresco. Semplice, ma ogni cosa al posto giusto.",
+            "Rosola il guanciale con uno spicchio d'aglio finché è croccante. Sfuma col vino bianco e lascia evaporare. Intanto cuoci i ditalini al dente: l'acqua di cottura sarà il tuo segreto.",
+            "Scola i ditalini al dente e mantecali fuori dal fuoco con pecorino e un po' di acqua di cottura. Ottieni una crema liscia che avvolge ogni ditalino. Il guanciale croccante lo aggiungi dopo.",
+            "Completa con pepe nero e timo fresco. Il trucco: manteca fuori dal fuoco per non far filare il pecorino. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Ditalini cremosi, guanciale croccante e pecorino: che bomba!",
+        "Mi servono ditalini, guanciale, pecorino e vino bianco.",
+        "Rosolo il guanciale con l'aglio e sfumo col vino.",
+        "Scolo al dente e manteco fuori dal fuoco, sempre.",
+        "Pepe nero e timo fresco sopra: chiudo in bellezza."
+      ],
+      "thread_text": [
+        "La pasta che spacca: ditalini cremosi, guanciale croccante e pecorino. Si chiama 'mattacchiona' e ti svolta la cena in 15 minuti. Filante e saporita, fidati.",
+        "Ingredienti: ditalini, guanciale a cubetti, pecorino romano grattugiato, vino bianco, aglio, pepe nero e timo fresco. Semplice, ma ogni cosa al posto giusto.",
+        "Rosola il guanciale con uno spicchio d'aglio finché è croccante. Sfuma col vino bianco e lascia evaporare. Intanto cuoci i ditalini al dente: l'acqua di cottura sarà il tuo segreto.",
+        "Scola i ditalini al dente e mantecali fuori dal fuoco con pecorino e un po' di acqua di cottura. Ottieni una crema liscia che avvolge ogni ditalino. Il guanciale croccante lo aggiungi dopo.",
+        "Completa con pepe nero e timo fresco. Il trucco: manteca fuori dal fuoco per non far filare il pecorino. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pasta alla mattacchiona, cremosità sorprendente",
+          "description": "Ditalini cremosi con guanciale croccante e pecorino: un piatto che conquista al primo assaggio.",
+          "visual_hint": "ditalini cremosi guanciale croccante",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory creamy ditalini"
+        },
+        {
+          "hook": "Solo tre ingredienti per un capolavoro",
+          "description": "Ditalini, guanciale e pecorino: la semplicità che fa la differenza.",
+          "visual_hint": "ingredienti freschi su tagliere",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory pasta ingredients",
+          "image": "https://images.pexels.com/photos/4038849/pexels-photo-4038849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rosola e sfuma: il segreto è qui",
+          "description": "Guanciale rosolato con aglio e sfumato col vino bianco: il profumo che avvolge la cucina.",
+          "visual_hint": "guanciale rosolato in padella",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory guanciale pan",
+          "image": "https://images.pexels.com/photos/7613443/pexels-photo-7613443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manteca fuori dal fuoco, cremosità perfetta",
+          "description": "Scola al dente e manteca fuori dal fuoco: la tecnica per una crema vellutata.",
+          "visual_hint": "pasta mantecata fuori fuoco",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory pasta mantecatura",
+          "image": "https://images.pexels.com/photos/3820638/pexels-photo-3820638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pepe e timo: il tocco finale",
+          "description": "Pepe nero e timo fresco in superficie: impiatta e servi subito, ogni boccone è una festa.",
+          "visual_hint": "pasta impiattata con erbe",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory pasta herbs",
+          "image": "https://images.pexels.com/photos/33911269/pexels-photo-33911269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "ditalini",
+        "guanciale",
+        "pecorino"
+      ],
+      "image": "https://www.giallozafferano.it/images/367-36718/Pasta-alla-mattacchiona_1200x800_wm.jpg",
+      "savedAt": "2026-10-19T22:01:23.353Z",
+      "sourceId": "02506ca76780e34d5b83818b88cd760b"
+    },
     {
       "schema_version": 2,
       "agent": "food",

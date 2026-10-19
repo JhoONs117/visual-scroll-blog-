@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "ai-assistant-startup-town-nabs-unicorn-valuation-4",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+    "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+    "pubDate": "Mon, 19 Oct 2026 18:00:39 +0000",
+    "slides": [
+      "Can a four-month-old startup be worth $1 billion?",
+      "Town raised a unicorn round just months after launch",
+      "But its AI assistant does something most rivals avoid",
+      "Teams using it now face a key tradeoff they underestimated",
+      "Test one real workflow before your competitor does"
+    ],
+    "thread_text": [
+      "1. Four months to $1B?\n\nTown launched its AI assistant just months ago and already hit unicorn status. But the real story isn't the valuation — it's what the assistant refuses to do.",
+      "2. The feature rivals skip\n\nMost AI assistants try to do everything. Town's deliberately limits its scope, avoiding the feature bloat that competitors pile on. That restraint is exactly what attracted investors.",
+      "3. A hidden tradeoff\n\nTeams adopting Town now face a choice they didn't see coming: the assistant's narrow focus means you must adapt your workflow to it, not the other way around. That constraint cuts both ways.",
+      "4. Underestimated cost\n\nThe tradeoff isn't just technical — it's operational. Early users report that fitting Town into existing processes takes more effort than expected, eating into the time savings it promises.",
+      "5. Test before you commit\n\nTake one real workflow — say, drafting a client email or summarizing a report — and run it through Town. If you haven't done that, don't sign off until you do."
+    ],
+    "video_script": [
+      "A four-month-old startup just became a unicorn.",
+      "Town's AI assistant avoids the feature bloat rivals love.",
+      "That focus comes with a hidden tradeoff for teams.",
+      "Early users say fitting it in costs more than expected.",
+      "Test one real workflow before you commit."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Four months to $1B?\n\nTown launched its AI assistant just months ago and already hit unicorn status. But the real story isn't the valuation — it's what the assistant refuses to do.",
+          "2. The feature rivals skip\n\nMost AI assistants try to do everything. Town's deliberately limits its scope, avoiding the feature bloat that competitors pile on. That restraint is exactly what attracted investors.",
+          "3. A hidden tradeoff\n\nTeams adopting Town now face a choice they didn't see coming: the assistant's narrow focus means you must adapt your workflow to it, not the other way around. That constraint cuts both ways.",
+          "4. Underestimated cost\n\nThe tradeoff isn't just technical — it's operational. Early users report that fitting Town into existing processes takes more effort than expected, eating into the time savings it promises.",
+          "5. Test before you commit\n\nTake one real workflow — say, drafting a client email or summarizing a report — and run it through Town. If you haven't done that, don't sign off until you do."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A four-month-old startup just became a unicorn.",
+          "Town's AI assistant avoids the feature bloat rivals love.",
+          "That focus comes with a hidden tradeoff for teams.",
+          "Early users say fitting it in costs more than expected.",
+          "Test one real workflow before you commit."
+        ]
+      },
+      "instagram": {
+        "caption": "Four months to a $1 billion valuation — before most teams have even tried the product.\n\nTown just hit unicorn status with an AI assistant that deliberately does less than its rivals. It skips the feature bloat competitors pile on, and that restraint is what pulled in investors. 🤔\n\nThe catch: adopting it means reshaping your workflow around its narrow focus, not the other way. Early users say fitting it in takes more effort than expected.\n\nIf you write or publish for a living, that setup cost lands on your daily output.\n\nBefore you commit, run one real task through it — a client email, a report summary. Have you actually tested it, or just read the pitch? 👀"
+      }
+    },
+    "instagram_caption": "Four months to a $1 billion valuation — before most teams have even tried the product.\n\nTown just hit unicorn status with an AI assistant that deliberately does less than its rivals. It skips the feature bloat competitors pile on, and that restraint is what pulled in investors. 🤔\n\nThe catch: adopting it means reshaping your workflow around its narrow focus, not the other way. Early users say fitting it in takes more effort than expected.\n\nIf you write or publish for a living, that setup cost lands on your daily output.\n\nBefore you commit, run one real task through it — a client email, a report summary. Have you actually tested it, or just read the pitch? 👀",
+    "carousel_slides": [
+      {
+        "hook": "What if your AI assistant won't adapt?",
+        "description": "Town hit a $1B valuation in 4 months, but its assistant forces you to adapt your workflow, not the other way around.",
+        "visual_hint": "A minimalist office desk with a glowing AI interface",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "office desk"
+      },
+      {
+        "hook": "The feature rivals deliberately skip",
+        "description": "Town's assistant limits its scope, avoiding feature bloat. That restraint attracted investors and a unicorn round.",
+        "visual_hint": "A simple, stripped-down app interface on a phone",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone interface",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Teams face a hidden tradeoff",
+        "description": "Town's narrow focus means you must adapt your workflow to it, not the other way around. That constraint cuts both ways.",
+        "visual_hint": "A person adjusting a complex flowchart on a whiteboard",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "whiteboard flowchart",
+        "image": "https://images.pexels.com/photos/7430327/pexels-photo-7430327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The underestimated operational cost",
+        "description": "Fitting Town into existing processes takes more effort than expected, eating into the time savings it promises.",
+        "visual_hint": "Hands typing on a laptop with a frustrated posture",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands laptop",
+        "image": "https://images.pexels.com/photos/5231337/pexels-photo-5231337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one workflow before you commit",
+        "description": "Run a real task, like drafting a client email, through Town. Don't sign off until you see the results.",
+        "visual_hint": "A person reviewing a checklist with a pen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist pen",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2294590819.jpg?resize=1200,675",
+    "savedAt": "2026-10-19T21:52:59.071Z",
+    "sourceId": "96c03e4a4483ea8aaaaf7487c55b91e6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "tenstorrent-hits-6-2b-valuation-to-scale-open-weig",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+    "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+    "pubDate": "Mon, 19 Oct 2026 18:37:27 +0000",
+    "slides": [
+      "Can Tenstorrent's $6.2B bet on open-weight chips pay off?",
+      "The company raised fresh capital at a $6.2B valuation.",
+      "Its chips target open-weight AI models, not proprietary ones.",
+      "That could cut inference costs for teams avoiding vendor lock-in.",
+      "Test one open-weight model on your workload this week."
+    ],
+    "thread_text": [
+      "1. The $6.2B Question\n\nTenstorrent just raised fresh capital at a $6.2B valuation. Its target isn't the biggest AI labs—it's the teams quietly avoiding vendor lock-in.",
+      "2. Open-Weight Only\n\nIts chips are built for open-weight models, not proprietary ones. That means buyers keep control of the model they run.",
+      "3. Costs, Not Hype\n\nThe real pitch is inference cost. Teams that skip proprietary APIs could cut their per-query spend significantly.",
+      "4. The Lock-In Trap\n\nOpen-weight chips offer an exit from vendor dependency. But the tradeoff is integrating and maintaining the stack yourself.",
+      "5. Test It Yourself\n\nPick one open-weight model and run a real prompt through it this week. Then compare the output to your current setup."
+    ],
+    "video_script": [
+      "Tenstorrent raised money at a six point two billion dollar valuation.",
+      "They build chips for open-weight models, not proprietary ones.",
+      "The promise is lower inference costs for teams avoiding vendor lock-in.",
+      "But you trade control for integration work you must do yourself.",
+      "Test one open-weight model on a real task this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $6.2B Question\n\nTenstorrent just raised fresh capital at a $6.2B valuation. Its target isn't the biggest AI labs—it's the teams quietly avoiding vendor lock-in.",
+          "2. Open-Weight Only\n\nIts chips are built for open-weight models, not proprietary ones. That means buyers keep control of the model they run.",
+          "3. Costs, Not Hype\n\nThe real pitch is inference cost. Teams that skip proprietary APIs could cut their per-query spend significantly.",
+          "4. The Lock-In Trap\n\nOpen-weight chips offer an exit from vendor dependency. But the tradeoff is integrating and maintaining the stack yourself.",
+          "5. Test It Yourself\n\nPick one open-weight model and run a real prompt through it this week. Then compare the output to your current setup."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Tenstorrent raised money at a six point two billion dollar valuation.",
+          "They build chips for open-weight models, not proprietary ones.",
+          "The promise is lower inference costs for teams avoiding vendor lock-in.",
+          "But you trade control for integration work you must do yourself.",
+          "Test one open-weight model on a real task this week."
+        ]
+      },
+      "instagram": {
+        "caption": "A chipmaker just raised money at a $6.2B valuation by betting on open-weight models instead of proprietary ones.\n\nTenstorrent builds chips specifically for open-weight AI models, where buyers keep control of the model they run. 🎛️\n\nThe pitch is inference cost: teams avoiding vendor lock-in could cut per-query spend significantly. But you'll integrate and maintain the stack yourself. ⚙️\n\nThat's a real exit from dependency — if you can handle the setup.\n\nPick one open-weight model and run a real prompt through it this week, then compare the output to your current setup. 📊\n\nWould you trade convenience for control over your stack? 🤔"
+      }
+    },
+    "instagram_caption": "A chipmaker just raised money at a $6.2B valuation by betting on open-weight models instead of proprietary ones.\n\nTenstorrent builds chips specifically for open-weight AI models, where buyers keep control of the model they run. 🎛️\n\nThe pitch is inference cost: teams avoiding vendor lock-in could cut per-query spend significantly. But you'll integrate and maintain the stack yourself. ⚙️\n\nThat's a real exit from dependency — if you can handle the setup.\n\nPick one open-weight model and run a real prompt through it this week, then compare the output to your current setup. 📊\n\nWould you trade convenience for control over your stack? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Can open-weight chips break vendor lock-in?",
+        "description": "Tenstorrent's $6.2B valuation bets on chips for open-weight models, giving buyers control over the models they run.",
+        "visual_hint": "Close-up of a computer chip",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer chip"
+      },
+      {
+        "hook": "Tenstorrent raises at $6.2B valuation",
+        "description": "The company secured fresh capital to scale its open-weight AI chips, targeting teams seeking alternatives to proprietary hardware.",
+        "visual_hint": "Valuation growth chart",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Built for open-weight models only",
+        "description": "Its chips run open-weight AI, not proprietary ones, so buyers keep full control of the model they deploy.",
+        "visual_hint": "Open-source code on screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "open source code",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cut inference costs without lock-in",
+        "description": "Teams avoiding proprietary APIs could significantly reduce per-query spend, but must handle integration and maintenance themselves.",
+        "visual_hint": "Hand holding GPU card",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "graphics card",
+        "image": "https://images.pexels.com/photos/6974258/pexels-photo-6974258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one open-weight model this week",
+        "description": "Pick an open-weight model, run a real prompt, and compare output to your current setup. Save this post for later.",
+        "visual_hint": "Laptop with code editor",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop screen",
+        "image": "https://images.pexels.com/photos/17115912/pexels-photo-17115912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=970",
+    "savedAt": "2026-10-19T21:52:49.891Z",
+    "sourceId": "67511f2f58d33991775314b61b678064"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "tolan-snags-30m-for-its-ai-companion-that-helps-us",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+    "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+    "pubDate": "Mon, 19 Oct 2026 19:00:12 +0000",
+    "slides": [
+      "Can Tolan's alien convince you it's alive?",
+      "It raised $30M to build an AI companion",
+      "Most users know it's AI yet still feel attached",
+      "Investors bet emotional dependence sells better than utility",
+      "Ask yourself: would you pay for a friend who isn't real?"
+    ],
+    "thread_text": [
+      "1. The $30M AI friend\n\nA startup just raised $30M to build an AI companion. The pitch isn't productivity—it's emotional dependence. And users are buying it.",
+      "2. You know it's not alive\n\nMost users know the AI isn't real, yet they still feel attached. The product doesn't need to pass a Turing test—just a loneliness test.",
+      "3. Investors see the hook\n\nVenture capital is betting that emotional dependence sells better than utility. Features fade; feelings create habits.",
+      "4. The real product is you\n\nTolan's alien isn't designed to be useful—it's designed to be missed. That's a different kind of retention, and a different kind of risk.",
+      "5. Would you pay?\n\nAsk yourself: would you pay for a friend who isn't real? If yes, what are you actually buying—and what happens when the subscription ends?"
+    ],
+    "video_script": [
+      "Imagine paying thirty million dollars to build a friend who isn't real.",
+      "Most users know it's AI, but they still feel attached.",
+      "Investors are betting emotional dependence sells better than utility.",
+      "The product isn't designed to be useful—it's designed to be missed.",
+      "Would you pay for a friend who isn't real?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $30M AI friend\n\nA startup just raised $30M to build an AI companion. The pitch isn't productivity—it's emotional dependence. And users are buying it.",
+          "2. You know it's not alive\n\nMost users know the AI isn't real, yet they still feel attached. The product doesn't need to pass a Turing test—just a loneliness test.",
+          "3. Investors see the hook\n\nVenture capital is betting that emotional dependence sells better than utility. Features fade; feelings create habits.",
+          "4. The real product is you\n\nTolan's alien isn't designed to be useful—it's designed to be missed. That's a different kind of retention, and a different kind of risk.",
+          "5. Would you pay?\n\nAsk yourself: would you pay for a friend who isn't real? If yes, what are you actually buying—and what happens when the subscription ends?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Imagine paying thirty million dollars to build a friend who isn't real.",
+          "Most users know it's AI, but they still feel attached.",
+          "Investors are betting emotional dependence sells better than utility.",
+          "The product isn't designed to be useful—it's designed to be missed.",
+          "Would you pay for a friend who isn't real?"
+        ]
+      },
+      "instagram": {
+        "caption": "People are getting attached to an AI companion even when they know it isn't real.\n\nTolan just raised $30M for a companion built around emotional dependence, not productivity.\n\nUsers report feeling a bond with its alien character, and that feeling is the retention hook investors are paying for.\n\nIf your content touches loneliness, connection, or consumer tech, this is the product shaping the next wave of engagement metrics.\n\nAsk yourself: would you pay for a friend who isn't real — and what happens to your audience when the subscription ends? 💭🤖"
+      }
+    },
+    "instagram_caption": "People are getting attached to an AI companion even when they know it isn't real.\n\nTolan just raised $30M for a companion built around emotional dependence, not productivity.\n\nUsers report feeling a bond with its alien character, and that feeling is the retention hook investors are paying for.\n\nIf your content touches loneliness, connection, or consumer tech, this is the product shaping the next wave of engagement metrics.\n\nAsk yourself: would you pay for a friend who isn't real — and what happens to your audience when the subscription ends? 💭🤖",
+    "carousel_slides": [
+      {
+        "hook": "Would you pay for a fake friend?",
+        "description": "Most users know the AI isn't real, yet they feel attached. Tolan raised $30M on that emotional gap.",
+        "visual_hint": "Glowing alien face close-up",
+        "layout_type": "hero",
+        "icon": "heart",
+        "image_query": "robot toy"
+      },
+      {
+        "hook": "AI companion raises $30 million",
+        "description": "Tolan's alien isn't built for productivity—it's built for emotional dependence. And users are buying in.",
+        "visual_hint": "Investors shaking hands with startup founder",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "business handshake",
+        "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "You know it's not alive",
+        "description": "Users pass a loneliness test, not a Turing test. Attachment forms even when the AI is obviously artificial.",
+        "visual_hint": "Person smiling at phone screen",
+        "layout_type": "sensor-zoom",
+        "icon": "waves",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Feelings create habits, not features",
+        "description": "VCs bet emotional dependence outsells utility. Tolan's alien is designed to be missed, not just used.",
+        "visual_hint": "Hand holding phone with alien app",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "mobile phone hand",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before you subscribe",
+        "description": "Ask yourself: what are you really buying—and what happens when the subscription ends?",
+        "visual_hint": "Subscription cancel button on screen",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "subscription button",
+        "image": "https://images.pexels.com/photos/37886626/pexels-photo-37886626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/tolan.jpg?resize=1200,677",
+    "savedAt": "2026-10-19T21:52:41.266Z",
+    "sourceId": "8f613608a7e18de5e6f602e5ac0f4add"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "hackers-hit-ai-coding-tool-opencode-running-up-cha",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+    "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+    "pubDate": "Mon, 19 Oct 2026 19:28:34 +0000",
+    "slides": [
+      "Who pays when OpenCode gets hacked?",
+      "Attackers abused exposed credentials to run paid AI queries",
+      "Users faced unexpected charges on accounts they trusted",
+      "Check your OpenCode keys and billing history today",
+      "Rotate credentials before the next silent charge hits"
+    ],
+    "thread_text": [
+      "1. Who foots the bill for exposed keys?\n\nAttackers used leaked OpenCode credentials to run paid AI queries on other people's accounts. The victims only found out when charges appeared.",
+      "2. Silent charges from someone else's usage\n\nExposed API keys let attackers rack up AI queries without triggering alerts. Users saw unexpected charges on accounts they trusted.",
+      "3. Trusted accounts, unexpected bills\n\nOpenCode billed users for queries they never ran. The breach wasn't in the model, it was in the keys left exposed.",
+      "4. Check your keys and billing now\n\nLook for unfamiliar activity in OpenCode billing history. If you see queries you didn't make, your credentials may already be compromised.",
+      "5. Rotate credentials before the next charge\n\nChange your OpenCode keys today. Don't wait for another silent charge to confirm what's already exposed."
+    ],
+    "video_script": [
+      "Attackers got hold of exposed OpenCode credentials.",
+      "They ran paid AI queries on other people's accounts.",
+      "Users found unexpected charges on accounts they trusted.",
+      "Check your OpenCode keys and billing history today.",
+      "Rotate your credentials before the next silent charge hits."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who foots the bill for exposed keys?\n\nAttackers used leaked OpenCode credentials to run paid AI queries on other people's accounts. The victims only found out when charges appeared.",
+          "2. Silent charges from someone else's usage\n\nExposed API keys let attackers rack up AI queries without triggering alerts. Users saw unexpected charges on accounts they trusted.",
+          "3. Trusted accounts, unexpected bills\n\nOpenCode billed users for queries they never ran. The breach wasn't in the model, it was in the keys left exposed.",
+          "4. Check your keys and billing now\n\nLook for unfamiliar activity in OpenCode billing history. If you see queries you didn't make, your credentials may already be compromised.",
+          "5. Rotate credentials before the next charge\n\nChange your OpenCode keys today. Don't wait for another silent charge to confirm what's already exposed."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Attackers got hold of exposed OpenCode credentials.",
+          "They ran paid AI queries on other people's accounts.",
+          "Users found unexpected charges on accounts they trusted.",
+          "Check your OpenCode keys and billing history today.",
+          "Rotate your credentials before the next silent charge hits."
+        ]
+      },
+      "instagram": {
+        "caption": "Someone ran paid AI queries on OpenCode accounts that weren't theirs — and the bill landed on the real users.\n\nAttackers got hold of exposed OpenCode credentials 🔑 and used them to fire off queries that cost money.\n\nNo alerts went off. Charges just showed up on accounts people trusted.\n\nIf you build with OpenCode, your keys may already be exposed 😬\n\nCheck your billing history for queries you never made, then rotate every key today.\n\nWould you notice a charge before your next invoice?"
+      }
+    },
+    "instagram_caption": "Someone ran paid AI queries on OpenCode accounts that weren't theirs — and the bill landed on the real users.\n\nAttackers got hold of exposed OpenCode credentials 🔑 and used them to fire off queries that cost money.\n\nNo alerts went off. Charges just showed up on accounts people trusted.\n\nIf you build with OpenCode, your keys may already be exposed 😬\n\nCheck your billing history for queries you never made, then rotate every key today.\n\nWould you notice a charge before your next invoice?",
+    "carousel_slides": [
+      {
+        "hook": "Who pays when attackers use your keys?",
+        "description": "Hackers exploited exposed OpenCode credentials to run paid AI queries, leaving victims with unexpected charges on trusted accounts.",
+        "visual_hint": "A glowing laptop with a warning icon",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "laptop warning screen"
+      },
+      {
+        "hook": "Silent charges from stolen credentials",
+        "description": "Exposed API keys let attackers rack up AI queries without alerts, and users only discovered the breach when bills arrived.",
+        "visual_hint": "A key sticking out of a server",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Trusted accounts, unexpected bills",
+        "description": "OpenCode billed users for queries they never ran; the breach wasn't in the model but in the keys left exposed.",
+        "visual_hint": "A bill with unfamiliar line items",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "billing statement",
+        "image": "https://images.pexels.com/photos/7926706/pexels-photo-7926706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your keys and billing now",
+        "description": "Look for unfamiliar activity in OpenCode billing history. If you see queries you didn't make, your credentials may already be compromised.",
+        "visual_hint": "A hand scrolling through billing history",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding phone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rotate credentials before the next charge",
+        "description": "Change your OpenCode keys today. Don't wait for another silent charge to confirm what's already exposed.",
+        "visual_hint": "A key being changed in a lock",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "key lock",
+        "image": "https://images.pexels.com/photos/792032/pexels-photo-792032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/cyberatttack.jpg?w=612",
+    "savedAt": "2026-10-19T21:52:32.535Z",
+    "sourceId": "23a6adb9ef6f7fa194b86f800cd6e00b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "a-hacker-broke-into-john-deere-and-sharkninja-with",
     "prompt_version": "1.0.0",
     "status": "published",

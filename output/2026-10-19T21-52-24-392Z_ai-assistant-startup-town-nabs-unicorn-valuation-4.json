@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-assistant-startup-town-nabs-unicorn-valuation-4",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+  "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+  "pubDate": "Mon, 19 Oct 2026 18:00:39 +0000",
+  "slides": [
+    "Can a four-month-old startup be worth $1 billion?",
+    "Town raised a unicorn round just months after launch",
+    "But its AI assistant does something most rivals avoid",
+    "Teams using it now face a key tradeoff they underestimated",
+    "Test one real workflow before your competitor does"
+  ],
+  "thread_text": [
+    "1. Four months to $1B?\n\nTown launched its AI assistant just months ago and already hit unicorn status. But the real story isn't the valuation — it's what the assistant refuses to do.",
+    "2. The feature rivals skip\n\nMost AI assistants try to do everything. Town's deliberately limits its scope, avoiding the feature bloat that competitors pile on. That restraint is exactly what attracted investors.",
+    "3. A hidden tradeoff\n\nTeams adopting Town now face a choice they didn't see coming: the assistant's narrow focus means you must adapt your workflow to it, not the other way around. That constraint cuts both ways.",
+    "4. Underestimated cost\n\nThe tradeoff isn't just technical — it's operational. Early users report that fitting Town into existing processes takes more effort than expected, eating into the time savings it promises.",
+    "5. Test before you commit\n\nTake one real workflow — say, drafting a client email or summarizing a report — and run it through Town. If you haven't done that, don't sign off until you do."
+  ],
+  "video_script": [
+    "A four-month-old startup just became a unicorn.",
+    "Town's AI assistant avoids the feature bloat rivals love.",
+    "That focus comes with a hidden tradeoff for teams.",
+    "Early users say fitting it in costs more than expected.",
+    "Test one real workflow before you commit."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Four months to $1B?\n\nTown launched its AI assistant just months ago and already hit unicorn status. But the real story isn't the valuation — it's what the assistant refuses to do.",
+        "2. The feature rivals skip\n\nMost AI assistants try to do everything. Town's deliberately limits its scope, avoiding the feature bloat that competitors pile on. That restraint is exactly what attracted investors.",
+        "3. A hidden tradeoff\n\nTeams adopting Town now face a choice they didn't see coming: the assistant's narrow focus means you must adapt your workflow to it, not the other way around. That constraint cuts both ways.",
+        "4. Underestimated cost\n\nThe tradeoff isn't just technical — it's operational. Early users report that fitting Town into existing processes takes more effort than expected, eating into the time savings it promises.",
+        "5. Test before you commit\n\nTake one real workflow — say, drafting a client email or summarizing a report — and run it through Town. If you haven't done that, don't sign off until you do."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A four-month-old startup just became a unicorn.",
+        "Town's AI assistant avoids the feature bloat rivals love.",
+        "That focus comes with a hidden tradeoff for teams.",
+        "Early users say fitting it in costs more than expected.",
+        "Test one real workflow before you commit."
+      ]
+    },
+    "instagram": {
+      "caption": "Four months to a $1 billion valuation — before most teams have even tried the product.\n\nTown just hit unicorn status with an AI assistant that deliberately does less than its rivals. It skips the feature bloat competitors pile on, and that restraint is what pulled in investors. 🤔\n\nThe catch: adopting it means reshaping your workflow around its narrow focus, not the other way. Early users say fitting it in takes more effort than expected.\n\nIf you write or publish for a living, that setup cost lands on your daily output.\n\nBefore you commit, run one real task through it — a client email, a report summary. Have you actually tested it, or just read the pitch? 👀"
+    }
+  },
+  "instagram_caption": "Four months to a $1 billion valuation — before most teams have even tried the product.\n\nTown just hit unicorn status with an AI assistant that deliberately does less than its rivals. It skips the feature bloat competitors pile on, and that restraint is what pulled in investors. 🤔\n\nThe catch: adopting it means reshaping your workflow around its narrow focus, not the other way. Early users say fitting it in takes more effort than expected.\n\nIf you write or publish for a living, that setup cost lands on your daily output.\n\nBefore you commit, run one real task through it — a client email, a report summary. Have you actually tested it, or just read the pitch? 👀",
+  "carousel_slides": [
+    {
+      "hook": "What if your AI assistant won't adapt?",
+      "description": "Town hit a $1B valuation in 4 months, but its assistant forces you to adapt your workflow, not the other way around.",
+      "visual_hint": "A minimalist office desk with a glowing AI interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "office desk"
+    },
+    {
+      "hook": "The feature rivals deliberately skip",
+      "description": "Town's assistant limits its scope, avoiding feature bloat. That restraint attracted investors and a unicorn round.",
+      "visual_hint": "A simple, stripped-down app interface on a phone",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone interface",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Teams face a hidden tradeoff",
+      "description": "Town's narrow focus means you must adapt your workflow to it, not the other way around. That constraint cuts both ways.",
+      "visual_hint": "A person adjusting a complex flowchart on a whiteboard",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "whiteboard flowchart",
+      "image": "https://images.pexels.com/photos/7430327/pexels-photo-7430327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The underestimated operational cost",
+      "description": "Fitting Town into existing processes takes more effort than expected, eating into the time savings it promises.",
+      "visual_hint": "Hands typing on a laptop with a frustrated posture",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands laptop",
+      "image": "https://images.pexels.com/photos/5231337/pexels-photo-5231337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one workflow before you commit",
+      "description": "Run a real task, like drafting a client email, through Town. Don't sign off until you see the results.",
+      "visual_hint": "A person reviewing a checklist with a pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist pen",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2294590819.jpg?resize=1200,675",
+  "savedAt": "2026-10-19T21:52:59.071Z",
+  "sourceId": "96c03e4a4483ea8aaaaf7487c55b91e6"
+}

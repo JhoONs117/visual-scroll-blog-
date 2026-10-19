@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "tolan-snags-30m-for-its-ai-companion-that-helps-us",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+  "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+  "pubDate": "Mon, 19 Oct 2026 19:00:12 +0000",
+  "slides": [
+    "Can Tolan's alien convince you it's alive?",
+    "It raised $30M to build an AI companion",
+    "Most users know it's AI yet still feel attached",
+    "Investors bet emotional dependence sells better than utility",
+    "Ask yourself: would you pay for a friend who isn't real?"
+  ],
+  "thread_text": [
+    "1. The $30M AI friend\n\nA startup just raised $30M to build an AI companion. The pitch isn't productivity—it's emotional dependence. And users are buying it.",
+    "2. You know it's not alive\n\nMost users know the AI isn't real, yet they still feel attached. The product doesn't need to pass a Turing test—just a loneliness test.",
+    "3. Investors see the hook\n\nVenture capital is betting that emotional dependence sells better than utility. Features fade; feelings create habits.",
+    "4. The real product is you\n\nTolan's alien isn't designed to be useful—it's designed to be missed. That's a different kind of retention, and a different kind of risk.",
+    "5. Would you pay?\n\nAsk yourself: would you pay for a friend who isn't real? If yes, what are you actually buying—and what happens when the subscription ends?"
+  ],
+  "video_script": [
+    "Imagine paying thirty million dollars to build a friend who isn't real.",
+    "Most users know it's AI, but they still feel attached.",
+    "Investors are betting emotional dependence sells better than utility.",
+    "The product isn't designed to be useful—it's designed to be missed.",
+    "Would you pay for a friend who isn't real?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $30M AI friend\n\nA startup just raised $30M to build an AI companion. The pitch isn't productivity—it's emotional dependence. And users are buying it.",
+        "2. You know it's not alive\n\nMost users know the AI isn't real, yet they still feel attached. The product doesn't need to pass a Turing test—just a loneliness test.",
+        "3. Investors see the hook\n\nVenture capital is betting that emotional dependence sells better than utility. Features fade; feelings create habits.",
+        "4. The real product is you\n\nTolan's alien isn't designed to be useful—it's designed to be missed. That's a different kind of retention, and a different kind of risk.",
+        "5. Would you pay?\n\nAsk yourself: would you pay for a friend who isn't real? If yes, what are you actually buying—and what happens when the subscription ends?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Imagine paying thirty million dollars to build a friend who isn't real.",
+        "Most users know it's AI, but they still feel attached.",
+        "Investors are betting emotional dependence sells better than utility.",
+        "The product isn't designed to be useful—it's designed to be missed.",
+        "Would you pay for a friend who isn't real?"
+      ]
+    },
+    "instagram": {
+      "caption": "People are getting attached to an AI companion even when they know it isn't real.\n\nTolan just raised $30M for a companion built around emotional dependence, not productivity.\n\nUsers report feeling a bond with its alien character, and that feeling is the retention hook investors are paying for.\n\nIf your content touches loneliness, connection, or consumer tech, this is the product shaping the next wave of engagement metrics.\n\nAsk yourself: would you pay for a friend who isn't real — and what happens to your audience when the subscription ends? 💭🤖"
+    }
+  },
+  "instagram_caption": "People are getting attached to an AI companion even when they know it isn't real.\n\nTolan just raised $30M for a companion built around emotional dependence, not productivity.\n\nUsers report feeling a bond with its alien character, and that feeling is the retention hook investors are paying for.\n\nIf your content touches loneliness, connection, or consumer tech, this is the product shaping the next wave of engagement metrics.\n\nAsk yourself: would you pay for a friend who isn't real — and what happens to your audience when the subscription ends? 💭🤖",
+  "carousel_slides": [
+    {
+      "hook": "Would you pay for a fake friend?",
+      "description": "Most users know the AI isn't real, yet they feel attached. Tolan raised $30M on that emotional gap.",
+      "visual_hint": "Glowing alien face close-up",
+      "layout_type": "hero",
+      "icon": "heart",
+      "image_query": "robot toy"
+    },
+    {
+      "hook": "AI companion raises $30 million",
+      "description": "Tolan's alien isn't built for productivity—it's built for emotional dependence. And users are buying in.",
+      "visual_hint": "Investors shaking hands with startup founder",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "business handshake",
+      "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You know it's not alive",
+      "description": "Users pass a loneliness test, not a Turing test. Attachment forms even when the AI is obviously artificial.",
+      "visual_hint": "Person smiling at phone screen",
+      "layout_type": "sensor-zoom",
+      "icon": "waves",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Feelings create habits, not features",
+      "description": "VCs bet emotional dependence outsells utility. Tolan's alien is designed to be missed, not just used.",
+      "visual_hint": "Hand holding phone with alien app",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "mobile phone hand",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you subscribe",
+      "description": "Ask yourself: what are you really buying—and what happens when the subscription ends?",
+      "visual_hint": "Subscription cancel button on screen",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "subscription button",
+      "image": "https://images.pexels.com/photos/37886626/pexels-photo-37886626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/tolan.jpg?resize=1200,677",
+  "savedAt": "2026-10-19T21:52:41.266Z",
+  "sourceId": "8f613608a7e18de5e6f602e5ac0f4add"
+}
