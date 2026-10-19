@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "a-hacker-broke-into-john-deere-and-sharkninja-with",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+    "pubDate": "2026-10-19T13:58:41.000Z",
+    "slides": [
+      "A hacker breached John Deere using AI agents — why them?",
+      "The same tactic hit SharkNinja in a separate campaign",
+      "The agents chained exploits without a human in the loop",
+      "Your perimeter may already be scanned by autonomous bots",
+      "Check one exposed endpoint today — before an agent finds it"
+    ],
+    "thread_text": [
+      "1. AI agents hacked John Deere\n\nA hacker used autonomous AI agents to breach the agriculture giant. The same tactic later hit SharkNinja in a separate campaign. Welcome to the new attack surface.",
+      "2. Why John Deere first?\n\nBecause a manufacturer with legacy systems and a huge digital footprint is a perfect target for automated scanning. The agents didn't need a human to chain exploits.",
+      "3. No human in the loop\n\nThe AI agents chained multiple exploits together without any human intervention. That means the attack happened faster than your security team could even detect it.",
+      "4. Your perimeter is already scanned\n\nAutonomous bots are already probing exposed endpoints across the internet. If you haven't checked your own attack surface, someone else's agent already has.",
+      "5. Check one exposed endpoint today\n\nPick a public-facing service and verify it's patched and monitored. If an AI agent can find it, it will. Do it now, before the next campaign starts."
+    ],
+    "video_script": [
+      "AI agents breached John Deere with no human help.",
+      "The same tactic hit SharkNinja in a separate campaign.",
+      "The agents chained exploits automatically, faster than any team.",
+      "Your perimeter is already being scanned by autonomous bots.",
+      "Check one exposed endpoint today, before an agent finds it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI agents hacked John Deere\n\nA hacker used autonomous AI agents to breach the agriculture giant. The same tactic later hit SharkNinja in a separate campaign. Welcome to the new attack surface.",
+          "2. Why John Deere first?\n\nBecause a manufacturer with legacy systems and a huge digital footprint is a perfect target for automated scanning. The agents didn't need a human to chain exploits.",
+          "3. No human in the loop\n\nThe AI agents chained multiple exploits together without any human intervention. That means the attack happened faster than your security team could even detect it.",
+          "4. Your perimeter is already scanned\n\nAutonomous bots are already probing exposed endpoints across the internet. If you haven't checked your own attack surface, someone else's agent already has.",
+          "5. Check one exposed endpoint today\n\nPick a public-facing service and verify it's patched and monitored. If an AI agent can find it, it will. Do it now, before the next campaign starts."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI agents breached John Deere with no human help.",
+          "The same tactic hit SharkNinja in a separate campaign.",
+          "The agents chained exploits automatically, faster than any team.",
+          "Your perimeter is already being scanned by autonomous bots.",
+          "Check one exposed endpoint today, before an agent finds it."
+        ]
+      },
+      "instagram": {
+        "caption": "A hacker used an army of autonomous AI agents to breach John Deere, then hit SharkNinja the same way in a separate campaign. 🤖\n\nThe agents chained multiple exploits together without a human in the loop, so the attacks moved faster than defenders could react.\n\nA manufacturer with legacy systems and a huge digital footprint made a perfect target for automated scanning.\n\nIf you run any public-facing service, your perimeter is likely already being probed by bots like these.\n\nWhen did you last check one exposed endpoint to confirm it's patched and monitored? 🔍"
+      }
+    },
+    "instagram_caption": "A hacker used an army of autonomous AI agents to breach John Deere, then hit SharkNinja the same way in a separate campaign. 🤖\n\nThe agents chained multiple exploits together without a human in the loop, so the attacks moved faster than defenders could react.\n\nA manufacturer with legacy systems and a huge digital footprint made a perfect target for automated scanning.\n\nIf you run any public-facing service, your perimeter is likely already being probed by bots like these.\n\nWhen did you last check one exposed endpoint to confirm it's patched and monitored? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "AI agents broke in without a human",
+        "description": "Autonomous AI agents chained exploits to breach John Deere and SharkNinja, no human in the loop. Attacks now outpace detection.",
+        "visual_hint": "Robot arm in server room",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Why John Deere was the perfect target",
+        "description": "Legacy systems and a massive digital footprint made the manufacturer ideal for automated scanning and rapid exploitation.",
+        "visual_hint": "Factory floor with robots",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Exploits chained faster than you can detect",
+        "description": "The AI agents linked multiple exploits without intervention, completing the attack before security teams could even respond.",
+        "visual_hint": "Network diagram with nodes",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "network cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your perimeter is already being scanned",
+        "description": "Autonomous bots are probing exposed endpoints across the internet right now. If you haven't checked, someone else's agent has.",
+        "visual_hint": "Glowing digital world map",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "world map",
+        "image": "https://images.pexels.com/photos/5137785/pexels-photo-5137785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and check one endpoint now",
+        "description": "Pick a public-facing service and verify it's patched and monitored. Do it before an AI agent finds it first.",
+        "visual_hint": "Hand on laptop keyboard",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop keyboard",
+        "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+    "savedAt": "2026-10-19T16:43:06.100Z",
+    "sourceId": "50e8daf7735ed4b11c6b035839fc73f4"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "nvidia-launches-new-open-models-to-run-agents-in-t",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs ",
+    "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+    "pubDate": "Mon, 19 Oct 2026 15:37:09 +0000",
+    "slides": [
+      "Can Nvidia's open models run agents on your PC?",
+      "The chips giant now ships software that executes tasks locally",
+      "But the small models trade raw power for privacy",
+      "Your team could deploy agents without cloud data leaving",
+      "Test one local agent before your competitor does"
+    ],
+    "thread_text": [
+      "1. Local AI agents are here\n\nNvidia just released open-source software that can run AI agents entirely on your own PC—no cloud required. The catch? The models are tiny compared to ChatGPT.",
+      "2. Small models, big trade-off\n\nThese compact models sacrifice raw power for privacy. You get local execution and data that never leaves your machine, but expect slower responses and simpler reasoning.",
+      "3. Your data stays put\n\nFor teams handling sensitive info, this means deploying agents without sending a single byte to external servers. Compliance and security teams can finally breathe easier.",
+      "4. No cloud, no vendor lock-in\n\nRunning agents locally also cuts dependency on cloud providers. You control updates, costs, and downtime—but you'll need to manage hardware and maintenance yourself.",
+      "5. Try it before the hype\n\nDownload Nvidia's open models and test one simple agent on your own machine this week. Does the privacy gain justify the performance hit for your workflow?"
+    ],
+    "video_script": [
+      "Nvidia now lets you run AI agents locally.",
+      "Small models trade power for privacy.",
+      "Your data never leaves your computer.",
+      "No cloud means more control and less lock-in.",
+      "Test one local agent today before competitors do."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Local AI agents are here\n\nNvidia just released open-source software that can run AI agents entirely on your own PC—no cloud required. The catch? The models are tiny compared to ChatGPT.",
+          "2. Small models, big trade-off\n\nThese compact models sacrifice raw power for privacy. You get local execution and data that never leaves your machine, but expect slower responses and simpler reasoning.",
+          "3. Your data stays put\n\nFor teams handling sensitive info, this means deploying agents without sending a single byte to external servers. Compliance and security teams can finally breathe easier.",
+          "4. No cloud, no vendor lock-in\n\nRunning agents locally also cuts dependency on cloud providers. You control updates, costs, and downtime—but you'll need to manage hardware and maintenance yourself.",
+          "5. Try it before the hype\n\nDownload Nvidia's open models and test one simple agent on your own machine this week. Does the privacy gain justify the performance hit for your workflow?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nvidia now lets you run AI agents locally.",
+          "Small models trade power for privacy.",
+          "Your data never leaves your computer.",
+          "No cloud means more control and less lock-in.",
+          "Test one local agent today before competitors do."
+        ]
+      },
+      "instagram": {
+        "caption": "You can now run an AI agent on your own PC, no cloud involved. 🖥️\n\nNvidia released open models that execute tasks locally, keeping your data on your machine.\n\nThe trade-off is real: these small models are slower and reason less deeply than cloud giants like ChatGPT.\n\nBut for teams handling sensitive information, nothing ever leaves your device. 🔒\n\nIf you publish or build with client data, this changes your compliance math.\n\nWould the privacy gain be worth the performance hit in your daily workflow? 🤔"
+      }
+    },
+    "instagram_caption": "You can now run an AI agent on your own PC, no cloud involved. 🖥️\n\nNvidia released open models that execute tasks locally, keeping your data on your machine.\n\nThe trade-off is real: these small models are slower and reason less deeply than cloud giants like ChatGPT.\n\nBut for teams handling sensitive information, nothing ever leaves your device. 🔒\n\nIf you publish or build with client data, this changes your compliance math.\n\nWould the privacy gain be worth the performance hit in your daily workflow? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Can Nvidia run agents on your PC?",
+        "description": "Nvidia ships open-source software for local AI agents, no cloud needed. But tiny models trade raw power for privacy.",
+        "visual_hint": "Small computer chip glowing on desk",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer chip"
+      },
+      {
+        "hook": "Small models, big privacy trade-off",
+        "description": "Compact models sacrifice raw power for privacy. Expect slower responses and simpler reasoning, but data never leaves your machine.",
+        "visual_hint": "Lock icon over laptop screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "laptop lock",
+        "image": "https://images.pexels.com/photos/35237307/pexels-photo-35237307.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your data stays put, finally",
+        "description": "For sensitive info, deploy agents without sending bytes to external servers. Compliance and security teams can breathe easier.",
+        "visual_hint": "Shield protecting server rack",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server rack",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No cloud, no vendor lock-in",
+        "description": "Running agents locally cuts cloud dependency. You control updates, costs, downtime, but manage hardware and maintenance yourself.",
+        "visual_hint": "Hands typing on keyboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands keyboard",
+        "image": "https://images.pexels.com/photos/37005816/pexels-photo-37005816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one local agent this week",
+        "description": "Download Nvidia's open models and run a simple agent on your machine. Does privacy gain justify performance hit?",
+        "visual_hint": "Download button on screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "download screen",
+        "image": "https://images.pexels.com/photos/7887801/pexels-photo-7887801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800",
+    "savedAt": "2026-10-19T16:42:57.476Z",
+    "sourceId": "938df27abbada437acf9db04cd26290a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "people-are-using-ai-to-make-their-smart-tvs-dumb-a",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "People are using AI to make their smart TVs dumb again",
+    "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+    "pubDate": "Mon, 19 Oct 2026 16:13:22 +0000",
+    "slides": [
+      "Why are people paying to make smart TVs dumb?",
+      "It's called 'dumbing down' — stripping internet features from TVs",
+      "The unexpected part: these are tech workers, not luddites",
+      "Your TV may be reporting viewing habits you never agreed to share",
+      "Check your TV's privacy settings tonight — disable ad tracking"
+    ],
+    "thread_text": [
+      "1. Tech Workers Dumb Down TVs\n\nThey're stripping internet features from smart TVs — and they're not luddites, they're tech workers who know exactly what those features do.",
+      "2. What Dumbing Down Means\n\nIt's a deliberate process: disabling Wi-Fi, removing apps, blocking data collection. The result is a TV that just shows pictures — nothing more.",
+      "3. Not Who You'd Expect\n\nThese aren't anti-tech activists. They're engineers and developers who understand the data pipeline — and chose to cut it off.",
+      "4. Your TV Is Watching\n\nSmart TVs report viewing habits, sometimes without clear consent. That data can be sold or used for targeted ads you never agreed to.",
+      "5. Check Your Settings Tonight\n\nOpen your TV's privacy menu and disable ad tracking. It takes two minutes — and it's the least you can do for your own data."
+    ],
+    "video_script": [
+      "People are paying to make smart TVs dumb.",
+      "They strip out internet features on purpose.",
+      "Surprisingly, these are tech workers, not luddites.",
+      "Your TV reports viewing habits you never agreed to share.",
+      "Check your TV's privacy settings and disable ad tracking tonight."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Tech Workers Dumb Down TVs\n\nThey're stripping internet features from smart TVs — and they're not luddites, they're tech workers who know exactly what those features do.",
+          "2. What Dumbing Down Means\n\nIt's a deliberate process: disabling Wi-Fi, removing apps, blocking data collection. The result is a TV that just shows pictures — nothing more.",
+          "3. Not Who You'd Expect\n\nThese aren't anti-tech activists. They're engineers and developers who understand the data pipeline — and chose to cut it off.",
+          "4. Your TV Is Watching\n\nSmart TVs report viewing habits, sometimes without clear consent. That data can be sold or used for targeted ads you never agreed to.",
+          "5. Check Your Settings Tonight\n\nOpen your TV's privacy menu and disable ad tracking. It takes two minutes — and it's the least you can do for your own data."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "People are paying to make smart TVs dumb.",
+          "They strip out internet features on purpose.",
+          "Surprisingly, these are tech workers, not luddites.",
+          "Your TV reports viewing habits you never agreed to share.",
+          "Check your TV's privacy settings and disable ad tracking tonight."
+        ]
+      },
+      "instagram": {
+        "caption": "Engineers are buying TVs and then paying extra to strip the internet out of them.\n\nIt's called \"dumbing down\" — disabling Wi-Fi, removing apps, blocking data collection until the screen just shows pictures.\n\nTech workers are leading this, not luddites. They know the pipeline: your TV logs viewing habits and can share them with advertisers 🔌\n\nCheck your privacy menu tonight and turn off ad tracking — two minutes, and it's the least your data deserves.\n\nWould you still buy a TV that can't connect to anything? 📺"
+      }
+    },
+    "instagram_caption": "Engineers are buying TVs and then paying extra to strip the internet out of them.\n\nIt's called \"dumbing down\" — disabling Wi-Fi, removing apps, blocking data collection until the screen just shows pictures.\n\nTech workers are leading this, not luddites. They know the pipeline: your TV logs viewing habits and can share them with advertisers 🔌\n\nCheck your privacy menu tonight and turn off ad tracking — two minutes, and it's the least your data deserves.\n\nWould you still buy a TV that can't connect to anything? 📺",
+    "carousel_slides": [
+      {
+        "hook": "Tech workers are making their TVs dumb",
+        "description": "They strip internet features from smart TVs — not out of fear, but because they know what those features do.",
+        "visual_hint": "Smart TV with ethernet cable unplugged, dark room",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smart TV dark"
+      },
+      {
+        "hook": "What does dumbing down mean?",
+        "description": "It's deliberate: disable Wi-Fi, remove apps, block data collection. Result: a TV that only shows pictures.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "visual_hint": "Hands disconnecting Wi-Fi module from TV circuit board",
+        "image_query": "circuit board closeup",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "These aren't luddites — they're engineers",
+        "description": "Tech workers who understand the data pipeline chose to cut it off. They know exactly what smart TVs send.",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "visual_hint": "Engineer scrutinizing code on multiple monitors",
+        "image_query": "computer code screen",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your TV may be reporting your viewing habits",
+        "description": "Smart TVs track what you watch, often without clear consent. That data can be sold for targeted ads.",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "visual_hint": "Person watching TV with data streams overlay",
+        "image_query": "television living room",
+        "image": "https://images.pexels.com/photos/29353203/pexels-photo-29353203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and check your TV settings tonight",
+        "description": "Open your TV's privacy menu and disable ad tracking. It takes two minutes and protects your data.",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "visual_hint": "Remote control pointing at privacy settings menu",
+        "image_query": "TV remote control",
+        "image": "https://images.pexels.com/photos/14770620/pexels-photo-14770620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200",
+    "savedAt": "2026-10-19T16:42:48.109Z",
+    "sourceId": "10e42c60f68db9f7b2b51ff02428b0fe"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "disney-agrees-to-hire-the-majority-of-character-ai",
     "prompt_version": "1.0.0",
     "status": "published",

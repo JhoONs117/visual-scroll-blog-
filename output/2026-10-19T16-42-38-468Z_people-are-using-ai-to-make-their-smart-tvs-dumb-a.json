@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "people-are-using-ai-to-make-their-smart-tvs-dumb-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "People are using AI to make their smart TVs dumb again",
+  "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+  "pubDate": "Mon, 19 Oct 2026 16:13:22 +0000",
+  "slides": [
+    "Why are people paying to make smart TVs dumb?",
+    "It's called 'dumbing down' — stripping internet features from TVs",
+    "The unexpected part: these are tech workers, not luddites",
+    "Your TV may be reporting viewing habits you never agreed to share",
+    "Check your TV's privacy settings tonight — disable ad tracking"
+  ],
+  "thread_text": [
+    "1. Tech Workers Dumb Down TVs\n\nThey're stripping internet features from smart TVs — and they're not luddites, they're tech workers who know exactly what those features do.",
+    "2. What Dumbing Down Means\n\nIt's a deliberate process: disabling Wi-Fi, removing apps, blocking data collection. The result is a TV that just shows pictures — nothing more.",
+    "3. Not Who You'd Expect\n\nThese aren't anti-tech activists. They're engineers and developers who understand the data pipeline — and chose to cut it off.",
+    "4. Your TV Is Watching\n\nSmart TVs report viewing habits, sometimes without clear consent. That data can be sold or used for targeted ads you never agreed to.",
+    "5. Check Your Settings Tonight\n\nOpen your TV's privacy menu and disable ad tracking. It takes two minutes — and it's the least you can do for your own data."
+  ],
+  "video_script": [
+    "People are paying to make smart TVs dumb.",
+    "They strip out internet features on purpose.",
+    "Surprisingly, these are tech workers, not luddites.",
+    "Your TV reports viewing habits you never agreed to share.",
+    "Check your TV's privacy settings and disable ad tracking tonight."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Tech Workers Dumb Down TVs\n\nThey're stripping internet features from smart TVs — and they're not luddites, they're tech workers who know exactly what those features do.",
+        "2. What Dumbing Down Means\n\nIt's a deliberate process: disabling Wi-Fi, removing apps, blocking data collection. The result is a TV that just shows pictures — nothing more.",
+        "3. Not Who You'd Expect\n\nThese aren't anti-tech activists. They're engineers and developers who understand the data pipeline — and chose to cut it off.",
+        "4. Your TV Is Watching\n\nSmart TVs report viewing habits, sometimes without clear consent. That data can be sold or used for targeted ads you never agreed to.",
+        "5. Check Your Settings Tonight\n\nOpen your TV's privacy menu and disable ad tracking. It takes two minutes — and it's the least you can do for your own data."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "People are paying to make smart TVs dumb.",
+        "They strip out internet features on purpose.",
+        "Surprisingly, these are tech workers, not luddites.",
+        "Your TV reports viewing habits you never agreed to share.",
+        "Check your TV's privacy settings and disable ad tracking tonight."
+      ]
+    },
+    "instagram": {
+      "caption": "Engineers are buying TVs and then paying extra to strip the internet out of them.\n\nIt's called \"dumbing down\" — disabling Wi-Fi, removing apps, blocking data collection until the screen just shows pictures.\n\nTech workers are leading this, not luddites. They know the pipeline: your TV logs viewing habits and can share them with advertisers 🔌\n\nCheck your privacy menu tonight and turn off ad tracking — two minutes, and it's the least your data deserves.\n\nWould you still buy a TV that can't connect to anything? 📺"
+    }
+  },
+  "instagram_caption": "Engineers are buying TVs and then paying extra to strip the internet out of them.\n\nIt's called \"dumbing down\" — disabling Wi-Fi, removing apps, blocking data collection until the screen just shows pictures.\n\nTech workers are leading this, not luddites. They know the pipeline: your TV logs viewing habits and can share them with advertisers 🔌\n\nCheck your privacy menu tonight and turn off ad tracking — two minutes, and it's the least your data deserves.\n\nWould you still buy a TV that can't connect to anything? 📺",
+  "carousel_slides": [
+    {
+      "hook": "Tech workers are making their TVs dumb",
+      "description": "They strip internet features from smart TVs — not out of fear, but because they know what those features do.",
+      "visual_hint": "Smart TV with ethernet cable unplugged, dark room",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smart TV dark"
+    },
+    {
+      "hook": "What does dumbing down mean?",
+      "description": "It's deliberate: disable Wi-Fi, remove apps, block data collection. Result: a TV that only shows pictures.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Hands disconnecting Wi-Fi module from TV circuit board",
+      "image_query": "circuit board closeup",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "These aren't luddites — they're engineers",
+      "description": "Tech workers who understand the data pipeline chose to cut it off. They know exactly what smart TVs send.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Engineer scrutinizing code on multiple monitors",
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your TV may be reporting your viewing habits",
+      "description": "Smart TVs track what you watch, often without clear consent. That data can be sold for targeted ads.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Person watching TV with data streams overlay",
+      "image_query": "television living room",
+      "image": "https://images.pexels.com/photos/29353203/pexels-photo-29353203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and check your TV settings tonight",
+      "description": "Open your TV's privacy menu and disable ad tracking. It takes two minutes and protects your data.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Remote control pointing at privacy settings menu",
+      "image_query": "TV remote control",
+      "image": "https://images.pexels.com/photos/14770620/pexels-photo-14770620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200",
+  "savedAt": "2026-10-19T16:42:48.109Z",
+  "sourceId": "10e42c60f68db9f7b2b51ff02428b0fe"
+}

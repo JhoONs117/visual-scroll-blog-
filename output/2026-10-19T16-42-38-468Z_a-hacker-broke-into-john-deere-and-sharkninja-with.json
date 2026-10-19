@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "a-hacker-broke-into-john-deere-and-sharkninja-with",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+  "pubDate": "2026-10-19T13:58:41.000Z",
+  "slides": [
+    "A hacker breached John Deere using AI agents — why them?",
+    "The same tactic hit SharkNinja in a separate campaign",
+    "The agents chained exploits without a human in the loop",
+    "Your perimeter may already be scanned by autonomous bots",
+    "Check one exposed endpoint today — before an agent finds it"
+  ],
+  "thread_text": [
+    "1. AI agents hacked John Deere\n\nA hacker used autonomous AI agents to breach the agriculture giant. The same tactic later hit SharkNinja in a separate campaign. Welcome to the new attack surface.",
+    "2. Why John Deere first?\n\nBecause a manufacturer with legacy systems and a huge digital footprint is a perfect target for automated scanning. The agents didn't need a human to chain exploits.",
+    "3. No human in the loop\n\nThe AI agents chained multiple exploits together without any human intervention. That means the attack happened faster than your security team could even detect it.",
+    "4. Your perimeter is already scanned\n\nAutonomous bots are already probing exposed endpoints across the internet. If you haven't checked your own attack surface, someone else's agent already has.",
+    "5. Check one exposed endpoint today\n\nPick a public-facing service and verify it's patched and monitored. If an AI agent can find it, it will. Do it now, before the next campaign starts."
+  ],
+  "video_script": [
+    "AI agents breached John Deere with no human help.",
+    "The same tactic hit SharkNinja in a separate campaign.",
+    "The agents chained exploits automatically, faster than any team.",
+    "Your perimeter is already being scanned by autonomous bots.",
+    "Check one exposed endpoint today, before an agent finds it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI agents hacked John Deere\n\nA hacker used autonomous AI agents to breach the agriculture giant. The same tactic later hit SharkNinja in a separate campaign. Welcome to the new attack surface.",
+        "2. Why John Deere first?\n\nBecause a manufacturer with legacy systems and a huge digital footprint is a perfect target for automated scanning. The agents didn't need a human to chain exploits.",
+        "3. No human in the loop\n\nThe AI agents chained multiple exploits together without any human intervention. That means the attack happened faster than your security team could even detect it.",
+        "4. Your perimeter is already scanned\n\nAutonomous bots are already probing exposed endpoints across the internet. If you haven't checked your own attack surface, someone else's agent already has.",
+        "5. Check one exposed endpoint today\n\nPick a public-facing service and verify it's patched and monitored. If an AI agent can find it, it will. Do it now, before the next campaign starts."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI agents breached John Deere with no human help.",
+        "The same tactic hit SharkNinja in a separate campaign.",
+        "The agents chained exploits automatically, faster than any team.",
+        "Your perimeter is already being scanned by autonomous bots.",
+        "Check one exposed endpoint today, before an agent finds it."
+      ]
+    },
+    "instagram": {
+      "caption": "A hacker used an army of autonomous AI agents to breach John Deere, then hit SharkNinja the same way in a separate campaign. 🤖\n\nThe agents chained multiple exploits together without a human in the loop, so the attacks moved faster than defenders could react.\n\nA manufacturer with legacy systems and a huge digital footprint made a perfect target for automated scanning.\n\nIf you run any public-facing service, your perimeter is likely already being probed by bots like these.\n\nWhen did you last check one exposed endpoint to confirm it's patched and monitored? 🔍"
+    }
+  },
+  "instagram_caption": "A hacker used an army of autonomous AI agents to breach John Deere, then hit SharkNinja the same way in a separate campaign. 🤖\n\nThe agents chained multiple exploits together without a human in the loop, so the attacks moved faster than defenders could react.\n\nA manufacturer with legacy systems and a huge digital footprint made a perfect target for automated scanning.\n\nIf you run any public-facing service, your perimeter is likely already being probed by bots like these.\n\nWhen did you last check one exposed endpoint to confirm it's patched and monitored? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "AI agents broke in without a human",
+      "description": "Autonomous AI agents chained exploits to breach John Deere and SharkNinja, no human in the loop. Attacks now outpace detection.",
+      "visual_hint": "Robot arm in server room",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Why John Deere was the perfect target",
+      "description": "Legacy systems and a massive digital footprint made the manufacturer ideal for automated scanning and rapid exploitation.",
+      "visual_hint": "Factory floor with robots",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Exploits chained faster than you can detect",
+      "description": "The AI agents linked multiple exploits without intervention, completing the attack before security teams could even respond.",
+      "visual_hint": "Network diagram with nodes",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "network cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your perimeter is already being scanned",
+      "description": "Autonomous bots are probing exposed endpoints across the internet right now. If you haven't checked, someone else's agent has.",
+      "visual_hint": "Glowing digital world map",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "world map",
+      "image": "https://images.pexels.com/photos/5137785/pexels-photo-5137785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and check one endpoint now",
+      "description": "Pick a public-facing service and verify it's patched and monitored. Do it before an AI agent finds it first.",
+      "visual_hint": "Hand on laptop keyboard",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop keyboard",
+      "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+  "savedAt": "2026-10-19T16:43:06.100Z",
+  "sourceId": "50e8daf7735ed4b11c6b035839fc73f4"
+}
