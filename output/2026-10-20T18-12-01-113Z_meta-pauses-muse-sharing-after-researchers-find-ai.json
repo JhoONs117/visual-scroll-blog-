@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-pauses-muse-sharing-after-researchers-find-ai",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+  "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+  "pubDate": "2026-10-20T18:07:34.000Z",
+  "slides": [
+    "Meta's AI chats surfaced on the open web. What leaked?",
+    "Muse conversations were meant to stay private",
+    "But public URLs exposed chats to anyone searching",
+    "Check your AI chat links before you share them",
+    "Ask: who can find your prompts tomorrow?"
+  ],
+  "thread_text": [
+    "1. Your AI chats went public\n\nMeta's AI conversations, including Muse, were indexed by search engines. Private chats became search results for anyone.",
+    "2. Muse was supposed to be private\n\nThe whole point of a private conversation is that it stays private. These weren't meant to leave the chat window.",
+    "3. Public links, no lock\n\nEach chat had a shareable URL. No password, no login wall. Anyone with the link could read the whole thing.",
+    "4. Search engines don't forget\n\nOnce indexed, the chat could show up in results for anyone searching relevant keywords. Deleting the link may not be enough.",
+    "5. Who can find your prompts?\n\nCheck every AI chat link you have shared. Ask yourself: if this showed up in a search tomorrow, would you be okay with that?"
+  ],
+  "video_script": [
+    "Meta's AI chats showed up on the open web.",
+    "Muse conversations were meant to stay private.",
+    "But public links let anyone read them.",
+    "Search engines indexed the chats automatically.",
+    "Check your AI chat links before sharing."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your AI chats went public\n\nMeta's AI conversations, including Muse, were indexed by search engines. Private chats became search results for anyone.",
+        "2. Muse was supposed to be private\n\nThe whole point of a private conversation is that it stays private. These weren't meant to leave the chat window.",
+        "3. Public links, no lock\n\nEach chat had a shareable URL. No password, no login wall. Anyone with the link could read the whole thing.",
+        "4. Search engines don't forget\n\nOnce indexed, the chat could show up in results for anyone searching relevant keywords. Deleting the link may not be enough.",
+        "5. Who can find your prompts?\n\nCheck every AI chat link you have shared. Ask yourself: if this showed up in a search tomorrow, would you be okay with that?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta's AI chats showed up on the open web.",
+        "Muse conversations were meant to stay private.",
+        "But public links let anyone read them.",
+        "Search engines indexed the chats automatically.",
+        "Check your AI chat links before sharing."
+      ]
+    },
+    "instagram": {
+      "caption": "Your private conversation with Meta's AI may have been readable by anyone with the link.\n\nMuse chats were meant to stay between you and the bot, but each one had a shareable URL with no password or login wall. Search engines indexed them.\n\nThat means a prompt you thought was private could surface in results for anyone searching the right words—and deleting the link may not be enough once it's cached.\n\nIf you write or publish anything, assume your past AI chats could be found tomorrow. 🔍\n\nGo through every AI chat link you've shared and ask yourself: would you be okay if this showed up in a search? 💬"
+    }
+  },
+  "instagram_caption": "Your private conversation with Meta's AI may have been readable by anyone with the link.\n\nMuse chats were meant to stay between you and the bot, but each one had a shareable URL with no password or login wall. Search engines indexed them.\n\nThat means a prompt you thought was private could surface in results for anyone searching the right words—and deleting the link may not be enough once it's cached.\n\nIf you write or publish anything, assume your past AI chats could be found tomorrow. 🔍\n\nGo through every AI chat link you've shared and ask yourself: would you be okay if this showed up in a search? 💬",
+  "carousel_slides": [
+    {
+      "hook": "Your private AI chats are searchable",
+      "description": "Meta's Muse conversations were indexed by search engines, turning private prompts into public search results.",
+      "visual_hint": "Search engine results showing private chat snippets",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "search engine screen"
+    },
+    {
+      "hook": "Muse chats were never meant to leave",
+      "description": "The entire premise of a private conversation is confidentiality, yet these chats escaped the chat window.",
+      "visual_hint": "Closed chat window with escaping dialogue bubbles",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "chat bubbles screen",
+      "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Public URLs, no lock, no login",
+      "description": "Each shared chat had a direct link, accessible to anyone without a password or login wall.",
+      "visual_hint": "Unlocked padlock icon over a URL bar",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "padlock chain link",
+      "image": "https://images.pexels.com/photos/10509162/pexels-photo-10509162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Search engines don't forget your links",
+      "description": "Once indexed, chats appear in keyword searches; deleting the link may not remove them.",
+      "visual_hint": "Search bar with persistent keyword cloud",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "search bar magnifying glass",
+      "image": "https://images.pexels.com/photos/6614797/pexels-photo-6614797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your AI chat links now",
+      "description": "Review every shared chat link: if it surfaced in a search tomorrow, would you be comfortable?",
+      "visual_hint": "Person reviewing links on a phone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person holding smartphone",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+  "savedAt": "2026-10-20T18:12:28.637Z",
+  "sourceId": "8d536d0f896d1eb4d235d112d9dcad39"
+}

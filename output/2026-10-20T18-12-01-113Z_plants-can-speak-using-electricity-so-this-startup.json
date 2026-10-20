@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "plants-can-speak-using-electricity-so-this-startup",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+  "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+  "pubDate": "Tue, 20 Oct 2026 16:00:00 +0000",
+  "slides": [
+    "Plants 'speak' via electrical signals—but what are they saying?",
+    "A startup built an AI to decode these plant signals.",
+    "The AI predicts stress from voltage patterns, not chemicals.",
+    "Farmers could get early warnings for crop stress.",
+    "Test this: ask if your farm's plants are sending distress signals."
+  ],
+  "thread_text": [
+    "1. Your crops are screaming\n\nA startup's AI reads voltage spikes in plant tissue to predict stress hours before visible damage. The signals are electrical, not chemical.",
+    "2. Voltage, not chemistry\n\nMost plant diagnostics look for hormones or metabolites. This model skips the molecules and goes straight to the electrical patterns—faster and cheaper to capture.",
+    "3. Early warning, no lab\n\nFarmers could get alerts from a field sensor before leaves wilt. That gap between signal and symptom is where interventions still work.",
+    "4. The language problem\n\nWe can detect distress, but we can't yet read specific causes. Is it drought, pests, or disease? The AI flags stress without naming it.",
+    "5. Test it on your farm\n\nAsk your agronomist if any local pilot is collecting electrical plant data. If not, request a trial—and see what your fields are saying."
+  ],
+  "video_script": [
+    "Plants send electrical signals when stressed.",
+    "A startup built AI to decode those voltage patterns.",
+    "It predicts stress before visible damage appears.",
+    "Farmers could get early warnings from field sensors.",
+    "Ask if your farm is testing this yet."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your crops are screaming\n\nA startup's AI reads voltage spikes in plant tissue to predict stress hours before visible damage. The signals are electrical, not chemical.",
+        "2. Voltage, not chemistry\n\nMost plant diagnostics look for hormones or metabolites. This model skips the molecules and goes straight to the electrical patterns—faster and cheaper to capture.",
+        "3. Early warning, no lab\n\nFarmers could get alerts from a field sensor before leaves wilt. That gap between signal and symptom is where interventions still work.",
+        "4. The language problem\n\nWe can detect distress, but we can't yet read specific causes. Is it drought, pests, or disease? The AI flags stress without naming it.",
+        "5. Test it on your farm\n\nAsk your agronomist if any local pilot is collecting electrical plant data. If not, request a trial—and see what your fields are saying."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Plants send electrical signals when stressed.",
+        "A startup built AI to decode those voltage patterns.",
+        "It predicts stress before visible damage appears.",
+        "Farmers could get early warnings from field sensors.",
+        "Ask if your farm is testing this yet."
+      ]
+    },
+    "instagram": {
+      "caption": "Your crops send electrical voltage spikes when they're stressed — hours before you can see any damage.\n\nA startup built an AI that reads those voltage patterns instead of hormones or metabolites. Faster and cheaper to capture, no lab needed.\n\nA field sensor could alert farmers before leaves wilt — the gap where intervention still works.\n\nOne catch: the AI flags stress but can't say if it's drought, pests, or disease. ⚡\n\nIf you farm or write about agtech, ask your agronomist whether any local pilot collects electrical plant data. If not, request a trial. 🌱\n\nWhat would you do with a warning that arrives before the symptom? 🔍"
+    }
+  },
+  "instagram_caption": "Your crops send electrical voltage spikes when they're stressed — hours before you can see any damage.\n\nA startup built an AI that reads those voltage patterns instead of hormones or metabolites. Faster and cheaper to capture, no lab needed.\n\nA field sensor could alert farmers before leaves wilt — the gap where intervention still works.\n\nOne catch: the AI flags stress but can't say if it's drought, pests, or disease. ⚡\n\nIf you farm or write about agtech, ask your agronomist whether any local pilot collects electrical plant data. If not, request a trial. 🌱\n\nWhat would you do with a warning that arrives before the symptom? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Your crops are screaming. Can you hear them?",
+      "description": "A startup's AI reads voltage spikes in plant tissue to predict stress hours before visible damage. The signals are electrical, not chemical.",
+      "visual_hint": "A close-up of a leaf with faint electrical sparks around it",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "crop field"
+    },
+    {
+      "hook": "AI decodes plant electrical signals",
+      "description": "Most diagnostics look for hormones; this model skips molecules and goes straight to electrical patterns—faster and cheaper to capture.",
+      "visual_hint": "A diagram showing a plant connected to a sensor and an AI chip",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Voltage patterns predict stress, not chemicals",
+      "description": "The AI predicts stress from voltage patterns, not chemicals. This enables early warnings for crop stress before leaves wilt.",
+      "visual_hint": "A graph showing voltage spikes correlating with plant stress",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "electrocardiogram",
+      "image": "https://images.pexels.com/photos/32237047/pexels-photo-32237047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Farmers get early warnings for crop stress",
+      "description": "Farmers could get alerts from a field sensor before leaves wilt. That gap between signal and symptom is where interventions still work.",
+      "visual_hint": "A farmer looking at a tablet in a field with sensors",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "farmer field",
+      "image": "https://images.pexels.com/photos/34033925/pexels-photo-34033925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test this: ask if your farm's plants are sending distress signals",
+      "description": "Ask your agronomist if any local pilot is collecting electrical plant data. If not, request a trial—and see what your fields are saying.",
+      "visual_hint": "A hand holding a smartphone with a plant sensor app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone app",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/electric-plant-bud-sensor.jpeg?resize=1200,800",
+  "savedAt": "2026-10-20T18:12:10.460Z",
+  "sourceId": "494d9d2a63c169aea1bfe76e9c7727d9"
+}

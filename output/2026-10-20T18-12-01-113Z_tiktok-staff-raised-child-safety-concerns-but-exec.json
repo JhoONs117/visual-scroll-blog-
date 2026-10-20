@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "tiktok-staff-raised-child-safety-concerns-but-exec",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
+  "link": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
+  "pubDate": "Tue, 20 Oct 2026 15:03:41 +0000",
+  "slides": [
+    "TikTok staff raised alarms on child safety. What did executives do?",
+    "Internal concerns reportedly went unanswered.",
+    "Executives allegedly failed to act on staff warnings.",
+    "If true, your feed may expose kids to more risk.",
+    "Demand transparency: ask platforms about child safety reports."
+  ],
+  "thread_text": [
+    "1. TikTok Staff Raised Alarms\n\nInside TikTok, employees flagged child safety risks. Executives reportedly did nothing. Now the question is: what did they know?",
+    "2. Concerns Went Unanswered\n\nInternal warnings about kids on the app were allegedly ignored. Staff sounded the alarm — and heard silence back.",
+    "3. Executives Failed to Act\n\nIf the reports are true, leadership chose inaction over protecting children. That's not a mistake. That's a decision.",
+    "4. Your Feed, More Risk\n\nIf executives ignored warnings, your child's feed may be serving up more danger than you think. The algorithm doesn't care about safety.",
+    "5. Demand Transparency Now\n\nAsk platforms: what child safety reports have you received? What did you do? Post the question publicly. Make them answer."
+  ],
+  "video_script": [
+    "TikTok staff warned executives about child safety risks.",
+    "Those internal concerns reportedly went unanswered.",
+    "Executives allegedly failed to act on staff warnings.",
+    "If true, your child's feed may be more dangerous.",
+    "Demand transparency: ask platforms about child safety reports."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. TikTok Staff Raised Alarms\n\nInside TikTok, employees flagged child safety risks. Executives reportedly did nothing. Now the question is: what did they know?",
+        "2. Concerns Went Unanswered\n\nInternal warnings about kids on the app were allegedly ignored. Staff sounded the alarm — and heard silence back.",
+        "3. Executives Failed to Act\n\nIf the reports are true, leadership chose inaction over protecting children. That's not a mistake. That's a decision.",
+        "4. Your Feed, More Risk\n\nIf executives ignored warnings, your child's feed may be serving up more danger than you think. The algorithm doesn't care about safety.",
+        "5. Demand Transparency Now\n\nAsk platforms: what child safety reports have you received? What did you do? Post the question publicly. Make them answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "TikTok staff warned executives about child safety risks.",
+        "Those internal concerns reportedly went unanswered.",
+        "Executives allegedly failed to act on staff warnings.",
+        "If true, your child's feed may be more dangerous.",
+        "Demand transparency: ask platforms about child safety reports."
+      ]
+    },
+    "instagram": {
+      "caption": "TikTok employees reportedly flagged child safety risks internally — and executives allegedly did nothing with those warnings. 🚨\n\nStaff raised the alarm. The concerns went unanswered.\n\nIf the reports are true, leadership chose inaction over protecting kids on the app. That's not an oversight — it's a decision.\n\nFor parents and creators, that means the feed your kid scrolls may carry more risk than you were ever told about. 📱\n\nAsk platforms directly: what child safety reports have you received, and what did you do about them? Post the question publicly. Make them answer. 👇\n\nWhat would you want to know before letting a child back on the app? 🤔"
+    }
+  },
+  "instagram_caption": "TikTok employees reportedly flagged child safety risks internally — and executives allegedly did nothing with those warnings. 🚨\n\nStaff raised the alarm. The concerns went unanswered.\n\nIf the reports are true, leadership chose inaction over protecting kids on the app. That's not an oversight — it's a decision.\n\nFor parents and creators, that means the feed your kid scrolls may carry more risk than you were ever told about. 📱\n\nAsk platforms directly: what child safety reports have you received, and what did you do about them? Post the question publicly. Make them answer. 👇\n\nWhat would you want to know before letting a child back on the app? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "TikTok executives ignored child safety warnings?",
+      "description": "Staff flagged risks, but leadership reportedly did nothing. What did they know?",
+      "visual_hint": "Close-up of a warning sign on a screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "warning sign"
+    },
+    {
+      "hook": "Internal alarms met with silence",
+      "description": "Concerns about kids on the app allegedly went unanswered. Staff sounded the alarm—and heard nothing back.",
+      "visual_hint": "Empty office with unanswered phone",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "empty office",
+      "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Inaction is a decision",
+      "description": "If reports are true, leadership chose not to protect children. That's not a mistake—it's a choice.",
+      "visual_hint": "Executive hand pushing ignore button",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "hand button",
+      "image": "https://images.pexels.com/photos/4487675/pexels-photo-4487675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your child's feed may be riskier",
+      "description": "If warnings were ignored, the algorithm may serve more danger. Safety wasn't prioritized.",
+      "visual_hint": "Child's face illuminated by phone screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "child smartphone",
+      "image": "https://images.pexels.com/photos/6837481/pexels-photo-6837481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and demand answers",
+      "description": "Ask platforms: what child safety reports have you received? Post the question publicly. Make them answer.",
+      "visual_hint": "Text 'Demand Transparency' over platform logos",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "social media logos",
+      "image": "https://images.pexels.com/photos/3850266/pexels-photo-3850266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-header.jpg?resize=1200,800",
+  "savedAt": "2026-10-20T18:12:19.343Z",
+  "sourceId": "798b1735fd446c4dbe667237589f517e"
+}

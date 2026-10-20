@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "spotify-pulled-50-million-ai-slop-and-spam-tracks-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+      "link": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+      "pubDate": "2026-10-20T14:18:37.000Z",
+      "slides": [
+        "Why did Spotify purge 50 million tracks now?",
+        "The platform acted to clean its recommendation algorithm",
+        "Most spam tracks came from AI-generated music factories",
+        "Your Discover Weekly may sound different this week",
+        "Check your playlist: fewer tracks, better signal"
+      ],
+      "thread_text": [
+        "1. Spotify's silent purge\n\n50 million tracks just vanished overnight. The company says it's about cleaning up recommendations, not saving storage.",
+        "2. The algorithm's diet\n\nSpotify's recommendation engine was drowning in noise. The platform cut the junk to make your Discover Weekly sharper.",
+        "3. AI music factories exposed\n\nMost of the deleted tracks came from automated music farms. They were gaming the system with thousands of fake artists.",
+        "4. Your playlist is changing\n\nFewer tracks means less variety in some genres. But the signal-to-noise ratio should improve for your daily mixes.",
+        "5. Check your Discover Weekly\n\nOpen the app and see if your recommendations feel different. Then ask: did this purge actually help your listening?"
+      ],
+      "video_script": [
+        "Spotify just deleted 50 million tracks.",
+        "The reason? Cleaning up the recommendation algorithm.",
+        "Most spam came from AI music factories.",
+        "Your Discover Weekly might sound different now.",
+        "Check your playlist and see if it improved."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Spotify's silent purge\n\n50 million tracks just vanished overnight. The company says it's about cleaning up recommendations, not saving storage.",
+            "2. The algorithm's diet\n\nSpotify's recommendation engine was drowning in noise. The platform cut the junk to make your Discover Weekly sharper.",
+            "3. AI music factories exposed\n\nMost of the deleted tracks came from automated music farms. They were gaming the system with thousands of fake artists.",
+            "4. Your playlist is changing\n\nFewer tracks means less variety in some genres. But the signal-to-noise ratio should improve for your daily mixes.",
+            "5. Check your Discover Weekly\n\nOpen the app and see if your recommendations feel different. Then ask: did this purge actually help your listening?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Spotify just deleted 50 million tracks.",
+            "The reason? Cleaning up the recommendation algorithm.",
+            "Most spam came from AI music factories.",
+            "Your Discover Weekly might sound different now.",
+            "Check your playlist and see if it improved."
+          ]
+        },
+        "instagram": {
+          "caption": "50 million tracks just disappeared from Spotify's recommendations — almost all of them AI-generated music from automated factories churning out fake artists 🎧\n\nThe platform pulled them to clean its recommendation algorithm, which was drowning in noise. Less junk in the system means your Discover Weekly and daily mixes should get sharper.\n\nIf you make music, this raises the bar: mass-produced tracks gaming the algorithm are now being cut, so real signal matters more than volume.\n\nOpen your Discover Weekly this week — does it sound different to you? 👀"
+        }
+      },
+      "instagram_caption": "50 million tracks just disappeared from Spotify's recommendations — almost all of them AI-generated music from automated factories churning out fake artists 🎧\n\nThe platform pulled them to clean its recommendation algorithm, which was drowning in noise. Less junk in the system means your Discover Weekly and daily mixes should get sharper.\n\nIf you make music, this raises the bar: mass-produced tracks gaming the algorithm are now being cut, so real signal matters more than volume.\n\nOpen your Discover Weekly this week — does it sound different to you? 👀",
+      "carousel_slides": [
+        {
+          "hook": "50 million tracks gone overnight?",
+          "description": "Spotify purged 50 million tracks to clean its recommendation algorithm, not to save storage.",
+          "visual_hint": "Glowing server racks with data streams",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Algorithm drowning in noise?",
+          "description": "Spotify cut junk tracks to sharpen Discover Weekly and improve your daily mixes.",
+          "visual_hint": "Abstract waves representing sound data",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "sound wave",
+          "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI music factories exposed",
+          "description": "Most deleted tracks came from automated music farms using thousands of fake artists to game the system.",
+          "visual_hint": "Robotic arms producing vinyl records",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your playlist is changing",
+          "description": "Fewer tracks means less variety in some genres, but a better signal-to-noise ratio for your mixes.",
+          "visual_hint": "Hand holding smartphone with music app",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your Discover Weekly now",
+          "description": "Open Spotify and see if your recommendations feel different. Then ask: did this purge help your listening?",
+          "visual_hint": "Smartphone screen with playlist icons",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone playlist",
+          "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-20T18:12:37.351Z",
+      "sourceId": "b04f2928d457577e5639f4dcf8379040"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "meta-pauses-muse-sharing-after-researchers-find-ai",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+      "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+      "pubDate": "2026-10-20T18:07:34.000Z",
+      "slides": [
+        "Meta's AI chats surfaced on the open web. What leaked?",
+        "Muse conversations were meant to stay private",
+        "But public URLs exposed chats to anyone searching",
+        "Check your AI chat links before you share them",
+        "Ask: who can find your prompts tomorrow?"
+      ],
+      "thread_text": [
+        "1. Your AI chats went public\n\nMeta's AI conversations, including Muse, were indexed by search engines. Private chats became search results for anyone.",
+        "2. Muse was supposed to be private\n\nThe whole point of a private conversation is that it stays private. These weren't meant to leave the chat window.",
+        "3. Public links, no lock\n\nEach chat had a shareable URL. No password, no login wall. Anyone with the link could read the whole thing.",
+        "4. Search engines don't forget\n\nOnce indexed, the chat could show up in results for anyone searching relevant keywords. Deleting the link may not be enough.",
+        "5. Who can find your prompts?\n\nCheck every AI chat link you have shared. Ask yourself: if this showed up in a search tomorrow, would you be okay with that?"
+      ],
+      "video_script": [
+        "Meta's AI chats showed up on the open web.",
+        "Muse conversations were meant to stay private.",
+        "But public links let anyone read them.",
+        "Search engines indexed the chats automatically.",
+        "Check your AI chat links before sharing."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your AI chats went public\n\nMeta's AI conversations, including Muse, were indexed by search engines. Private chats became search results for anyone.",
+            "2. Muse was supposed to be private\n\nThe whole point of a private conversation is that it stays private. These weren't meant to leave the chat window.",
+            "3. Public links, no lock\n\nEach chat had a shareable URL. No password, no login wall. Anyone with the link could read the whole thing.",
+            "4. Search engines don't forget\n\nOnce indexed, the chat could show up in results for anyone searching relevant keywords. Deleting the link may not be enough.",
+            "5. Who can find your prompts?\n\nCheck every AI chat link you have shared. Ask yourself: if this showed up in a search tomorrow, would you be okay with that?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta's AI chats showed up on the open web.",
+            "Muse conversations were meant to stay private.",
+            "But public links let anyone read them.",
+            "Search engines indexed the chats automatically.",
+            "Check your AI chat links before sharing."
+          ]
+        },
+        "instagram": {
+          "caption": "Your private conversation with Meta's AI may have been readable by anyone with the link.\n\nMuse chats were meant to stay between you and the bot, but each one had a shareable URL with no password or login wall. Search engines indexed them.\n\nThat means a prompt you thought was private could surface in results for anyone searching the right words—and deleting the link may not be enough once it's cached.\n\nIf you write or publish anything, assume your past AI chats could be found tomorrow. 🔍\n\nGo through every AI chat link you've shared and ask yourself: would you be okay if this showed up in a search? 💬"
+        }
+      },
+      "instagram_caption": "Your private conversation with Meta's AI may have been readable by anyone with the link.\n\nMuse chats were meant to stay between you and the bot, but each one had a shareable URL with no password or login wall. Search engines indexed them.\n\nThat means a prompt you thought was private could surface in results for anyone searching the right words—and deleting the link may not be enough once it's cached.\n\nIf you write or publish anything, assume your past AI chats could be found tomorrow. 🔍\n\nGo through every AI chat link you've shared and ask yourself: would you be okay if this showed up in a search? 💬",
+      "carousel_slides": [
+        {
+          "hook": "Your private AI chats are searchable",
+          "description": "Meta's Muse conversations were indexed by search engines, turning private prompts into public search results.",
+          "visual_hint": "Search engine results showing private chat snippets",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "search engine screen"
+        },
+        {
+          "hook": "Muse chats were never meant to leave",
+          "description": "The entire premise of a private conversation is confidentiality, yet these chats escaped the chat window.",
+          "visual_hint": "Closed chat window with escaping dialogue bubbles",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "chat bubbles screen",
+          "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Public URLs, no lock, no login",
+          "description": "Each shared chat had a direct link, accessible to anyone without a password or login wall.",
+          "visual_hint": "Unlocked padlock icon over a URL bar",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "padlock chain link",
+          "image": "https://images.pexels.com/photos/10509162/pexels-photo-10509162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Search engines don't forget your links",
+          "description": "Once indexed, chats appear in keyword searches; deleting the link may not remove them.",
+          "visual_hint": "Search bar with persistent keyword cloud",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "search bar magnifying glass",
+          "image": "https://images.pexels.com/photos/6614797/pexels-photo-6614797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your AI chat links now",
+          "description": "Review every shared chat link: if it surfaced in a search tomorrow, would you be comfortable?",
+          "visual_hint": "Person reviewing links on a phone",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "person holding smartphone",
+          "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+      "savedAt": "2026-10-20T18:12:28.637Z",
+      "sourceId": "8d536d0f896d1eb4d235d112d9dcad39"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "tiktok-staff-raised-child-safety-concerns-but-exec",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
+      "link": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
+      "pubDate": "Tue, 20 Oct 2026 15:03:41 +0000",
+      "slides": [
+        "TikTok staff raised alarms on child safety. What did executives do?",
+        "Internal concerns reportedly went unanswered.",
+        "Executives allegedly failed to act on staff warnings.",
+        "If true, your feed may expose kids to more risk.",
+        "Demand transparency: ask platforms about child safety reports."
+      ],
+      "thread_text": [
+        "1. TikTok Staff Raised Alarms\n\nInside TikTok, employees flagged child safety risks. Executives reportedly did nothing. Now the question is: what did they know?",
+        "2. Concerns Went Unanswered\n\nInternal warnings about kids on the app were allegedly ignored. Staff sounded the alarm — and heard silence back.",
+        "3. Executives Failed to Act\n\nIf the reports are true, leadership chose inaction over protecting children. That's not a mistake. That's a decision.",
+        "4. Your Feed, More Risk\n\nIf executives ignored warnings, your child's feed may be serving up more danger than you think. The algorithm doesn't care about safety.",
+        "5. Demand Transparency Now\n\nAsk platforms: what child safety reports have you received? What did you do? Post the question publicly. Make them answer."
+      ],
+      "video_script": [
+        "TikTok staff warned executives about child safety risks.",
+        "Those internal concerns reportedly went unanswered.",
+        "Executives allegedly failed to act on staff warnings.",
+        "If true, your child's feed may be more dangerous.",
+        "Demand transparency: ask platforms about child safety reports."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. TikTok Staff Raised Alarms\n\nInside TikTok, employees flagged child safety risks. Executives reportedly did nothing. Now the question is: what did they know?",
+            "2. Concerns Went Unanswered\n\nInternal warnings about kids on the app were allegedly ignored. Staff sounded the alarm — and heard silence back.",
+            "3. Executives Failed to Act\n\nIf the reports are true, leadership chose inaction over protecting children. That's not a mistake. That's a decision.",
+            "4. Your Feed, More Risk\n\nIf executives ignored warnings, your child's feed may be serving up more danger than you think. The algorithm doesn't care about safety.",
+            "5. Demand Transparency Now\n\nAsk platforms: what child safety reports have you received? What did you do? Post the question publicly. Make them answer."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "TikTok staff warned executives about child safety risks.",
+            "Those internal concerns reportedly went unanswered.",
+            "Executives allegedly failed to act on staff warnings.",
+            "If true, your child's feed may be more dangerous.",
+            "Demand transparency: ask platforms about child safety reports."
+          ]
+        },
+        "instagram": {
+          "caption": "TikTok employees reportedly flagged child safety risks internally — and executives allegedly did nothing with those warnings. 🚨\n\nStaff raised the alarm. The concerns went unanswered.\n\nIf the reports are true, leadership chose inaction over protecting kids on the app. That's not an oversight — it's a decision.\n\nFor parents and creators, that means the feed your kid scrolls may carry more risk than you were ever told about. 📱\n\nAsk platforms directly: what child safety reports have you received, and what did you do about them? Post the question publicly. Make them answer. 👇\n\nWhat would you want to know before letting a child back on the app? 🤔"
+        }
+      },
+      "instagram_caption": "TikTok employees reportedly flagged child safety risks internally — and executives allegedly did nothing with those warnings. 🚨\n\nStaff raised the alarm. The concerns went unanswered.\n\nIf the reports are true, leadership chose inaction over protecting kids on the app. That's not an oversight — it's a decision.\n\nFor parents and creators, that means the feed your kid scrolls may carry more risk than you were ever told about. 📱\n\nAsk platforms directly: what child safety reports have you received, and what did you do about them? Post the question publicly. Make them answer. 👇\n\nWhat would you want to know before letting a child back on the app? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "TikTok executives ignored child safety warnings?",
+          "description": "Staff flagged risks, but leadership reportedly did nothing. What did they know?",
+          "visual_hint": "Close-up of a warning sign on a screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "warning sign"
+        },
+        {
+          "hook": "Internal alarms met with silence",
+          "description": "Concerns about kids on the app allegedly went unanswered. Staff sounded the alarm—and heard nothing back.",
+          "visual_hint": "Empty office with unanswered phone",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "empty office",
+          "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Inaction is a decision",
+          "description": "If reports are true, leadership chose not to protect children. That's not a mistake—it's a choice.",
+          "visual_hint": "Executive hand pushing ignore button",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "hand button",
+          "image": "https://images.pexels.com/photos/4487675/pexels-photo-4487675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your child's feed may be riskier",
+          "description": "If warnings were ignored, the algorithm may serve more danger. Safety wasn't prioritized.",
+          "visual_hint": "Child's face illuminated by phone screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "child smartphone",
+          "image": "https://images.pexels.com/photos/6837481/pexels-photo-6837481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this and demand answers",
+          "description": "Ask platforms: what child safety reports have you received? Post the question publicly. Make them answer.",
+          "visual_hint": "Text 'Demand Transparency' over platform logos",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "social media logos",
+          "image": "https://images.pexels.com/photos/3850266/pexels-photo-3850266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-header.jpg?resize=1200,800",
+      "savedAt": "2026-10-20T18:12:19.343Z",
+      "sourceId": "798b1735fd446c4dbe667237589f517e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "plants-can-speak-using-electricity-so-this-startup",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+      "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "pubDate": "Tue, 20 Oct 2026 16:00:00 +0000",
+      "slides": [
+        "Plants 'speak' via electrical signals—but what are they saying?",
+        "A startup built an AI to decode these plant signals.",
+        "The AI predicts stress from voltage patterns, not chemicals.",
+        "Farmers could get early warnings for crop stress.",
+        "Test this: ask if your farm's plants are sending distress signals."
+      ],
+      "thread_text": [
+        "1. Your crops are screaming\n\nA startup's AI reads voltage spikes in plant tissue to predict stress hours before visible damage. The signals are electrical, not chemical.",
+        "2. Voltage, not chemistry\n\nMost plant diagnostics look for hormones or metabolites. This model skips the molecules and goes straight to the electrical patterns—faster and cheaper to capture.",
+        "3. Early warning, no lab\n\nFarmers could get alerts from a field sensor before leaves wilt. That gap between signal and symptom is where interventions still work.",
+        "4. The language problem\n\nWe can detect distress, but we can't yet read specific causes. Is it drought, pests, or disease? The AI flags stress without naming it.",
+        "5. Test it on your farm\n\nAsk your agronomist if any local pilot is collecting electrical plant data. If not, request a trial—and see what your fields are saying."
+      ],
+      "video_script": [
+        "Plants send electrical signals when stressed.",
+        "A startup built AI to decode those voltage patterns.",
+        "It predicts stress before visible damage appears.",
+        "Farmers could get early warnings from field sensors.",
+        "Ask if your farm is testing this yet."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your crops are screaming\n\nA startup's AI reads voltage spikes in plant tissue to predict stress hours before visible damage. The signals are electrical, not chemical.",
+            "2. Voltage, not chemistry\n\nMost plant diagnostics look for hormones or metabolites. This model skips the molecules and goes straight to the electrical patterns—faster and cheaper to capture.",
+            "3. Early warning, no lab\n\nFarmers could get alerts from a field sensor before leaves wilt. That gap between signal and symptom is where interventions still work.",
+            "4. The language problem\n\nWe can detect distress, but we can't yet read specific causes. Is it drought, pests, or disease? The AI flags stress without naming it.",
+            "5. Test it on your farm\n\nAsk your agronomist if any local pilot is collecting electrical plant data. If not, request a trial—and see what your fields are saying."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Plants send electrical signals when stressed.",
+            "A startup built AI to decode those voltage patterns.",
+            "It predicts stress before visible damage appears.",
+            "Farmers could get early warnings from field sensors.",
+            "Ask if your farm is testing this yet."
+          ]
+        },
+        "instagram": {
+          "caption": "Your crops send electrical voltage spikes when they're stressed — hours before you can see any damage.\n\nA startup built an AI that reads those voltage patterns instead of hormones or metabolites. Faster and cheaper to capture, no lab needed.\n\nA field sensor could alert farmers before leaves wilt — the gap where intervention still works.\n\nOne catch: the AI flags stress but can't say if it's drought, pests, or disease. ⚡\n\nIf you farm or write about agtech, ask your agronomist whether any local pilot collects electrical plant data. If not, request a trial. 🌱\n\nWhat would you do with a warning that arrives before the symptom? 🔍"
+        }
+      },
+      "instagram_caption": "Your crops send electrical voltage spikes when they're stressed — hours before you can see any damage.\n\nA startup built an AI that reads those voltage patterns instead of hormones or metabolites. Faster and cheaper to capture, no lab needed.\n\nA field sensor could alert farmers before leaves wilt — the gap where intervention still works.\n\nOne catch: the AI flags stress but can't say if it's drought, pests, or disease. ⚡\n\nIf you farm or write about agtech, ask your agronomist whether any local pilot collects electrical plant data. If not, request a trial. 🌱\n\nWhat would you do with a warning that arrives before the symptom? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Your crops are screaming. Can you hear them?",
+          "description": "A startup's AI reads voltage spikes in plant tissue to predict stress hours before visible damage. The signals are electrical, not chemical.",
+          "visual_hint": "A close-up of a leaf with faint electrical sparks around it",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "crop field"
+        },
+        {
+          "hook": "AI decodes plant electrical signals",
+          "description": "Most diagnostics look for hormones; this model skips molecules and goes straight to electrical patterns—faster and cheaper to capture.",
+          "visual_hint": "A diagram showing a plant connected to a sensor and an AI chip",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "circuit board",
+          "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Voltage patterns predict stress, not chemicals",
+          "description": "The AI predicts stress from voltage patterns, not chemicals. This enables early warnings for crop stress before leaves wilt.",
+          "visual_hint": "A graph showing voltage spikes correlating with plant stress",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "electrocardiogram",
+          "image": "https://images.pexels.com/photos/32237047/pexels-photo-32237047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Farmers get early warnings for crop stress",
+          "description": "Farmers could get alerts from a field sensor before leaves wilt. That gap between signal and symptom is where interventions still work.",
+          "visual_hint": "A farmer looking at a tablet in a field with sensors",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "farmer field",
+          "image": "https://images.pexels.com/photos/34033925/pexels-photo-34033925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test this: ask if your farm's plants are sending distress signals",
+          "description": "Ask your agronomist if any local pilot is collecting electrical plant data. If not, request a trial—and see what your fields are saying.",
+          "visual_hint": "A hand holding a smartphone with a plant sensor app",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone app",
+          "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/electric-plant-bud-sensor.jpeg?resize=1200,800",
+      "savedAt": "2026-10-20T18:12:10.460Z",
+      "sourceId": "494d9d2a63c169aea1bfe76e9c7727d9"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "embedded-ai-evaluators-won-t-be-an-easy-solution-h",
       "prompt_version": "1.0.0",
       "status": "published",

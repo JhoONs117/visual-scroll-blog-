@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "spotify-pulled-50-million-ai-slop-and-spam-tracks-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+  "link": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+  "pubDate": "2026-10-20T14:18:37.000Z",
+  "slides": [
+    "Why did Spotify purge 50 million tracks now?",
+    "The platform acted to clean its recommendation algorithm",
+    "Most spam tracks came from AI-generated music factories",
+    "Your Discover Weekly may sound different this week",
+    "Check your playlist: fewer tracks, better signal"
+  ],
+  "thread_text": [
+    "1. Spotify's silent purge\n\n50 million tracks just vanished overnight. The company says it's about cleaning up recommendations, not saving storage.",
+    "2. The algorithm's diet\n\nSpotify's recommendation engine was drowning in noise. The platform cut the junk to make your Discover Weekly sharper.",
+    "3. AI music factories exposed\n\nMost of the deleted tracks came from automated music farms. They were gaming the system with thousands of fake artists.",
+    "4. Your playlist is changing\n\nFewer tracks means less variety in some genres. But the signal-to-noise ratio should improve for your daily mixes.",
+    "5. Check your Discover Weekly\n\nOpen the app and see if your recommendations feel different. Then ask: did this purge actually help your listening?"
+  ],
+  "video_script": [
+    "Spotify just deleted 50 million tracks.",
+    "The reason? Cleaning up the recommendation algorithm.",
+    "Most spam came from AI music factories.",
+    "Your Discover Weekly might sound different now.",
+    "Check your playlist and see if it improved."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Spotify's silent purge\n\n50 million tracks just vanished overnight. The company says it's about cleaning up recommendations, not saving storage.",
+        "2. The algorithm's diet\n\nSpotify's recommendation engine was drowning in noise. The platform cut the junk to make your Discover Weekly sharper.",
+        "3. AI music factories exposed\n\nMost of the deleted tracks came from automated music farms. They were gaming the system with thousands of fake artists.",
+        "4. Your playlist is changing\n\nFewer tracks means less variety in some genres. But the signal-to-noise ratio should improve for your daily mixes.",
+        "5. Check your Discover Weekly\n\nOpen the app and see if your recommendations feel different. Then ask: did this purge actually help your listening?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Spotify just deleted 50 million tracks.",
+        "The reason? Cleaning up the recommendation algorithm.",
+        "Most spam came from AI music factories.",
+        "Your Discover Weekly might sound different now.",
+        "Check your playlist and see if it improved."
+      ]
+    },
+    "instagram": {
+      "caption": "50 million tracks just disappeared from Spotify's recommendations — almost all of them AI-generated music from automated factories churning out fake artists 🎧\n\nThe platform pulled them to clean its recommendation algorithm, which was drowning in noise. Less junk in the system means your Discover Weekly and daily mixes should get sharper.\n\nIf you make music, this raises the bar: mass-produced tracks gaming the algorithm are now being cut, so real signal matters more than volume.\n\nOpen your Discover Weekly this week — does it sound different to you? 👀"
+    }
+  },
+  "instagram_caption": "50 million tracks just disappeared from Spotify's recommendations — almost all of them AI-generated music from automated factories churning out fake artists 🎧\n\nThe platform pulled them to clean its recommendation algorithm, which was drowning in noise. Less junk in the system means your Discover Weekly and daily mixes should get sharper.\n\nIf you make music, this raises the bar: mass-produced tracks gaming the algorithm are now being cut, so real signal matters more than volume.\n\nOpen your Discover Weekly this week — does it sound different to you? 👀",
+  "carousel_slides": [
+    {
+      "hook": "50 million tracks gone overnight?",
+      "description": "Spotify purged 50 million tracks to clean its recommendation algorithm, not to save storage.",
+      "visual_hint": "Glowing server racks with data streams",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Algorithm drowning in noise?",
+      "description": "Spotify cut junk tracks to sharpen Discover Weekly and improve your daily mixes.",
+      "visual_hint": "Abstract waves representing sound data",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "sound wave",
+      "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI music factories exposed",
+      "description": "Most deleted tracks came from automated music farms using thousands of fake artists to game the system.",
+      "visual_hint": "Robotic arms producing vinyl records",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your playlist is changing",
+      "description": "Fewer tracks means less variety in some genres, but a better signal-to-noise ratio for your mixes.",
+      "visual_hint": "Hand holding smartphone with music app",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your Discover Weekly now",
+      "description": "Open Spotify and see if your recommendations feel different. Then ask: did this purge help your listening?",
+      "visual_hint": "Smartphone screen with playlist icons",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone playlist",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-20T18:12:37.351Z",
+  "sourceId": "b04f2928d457577e5639f4dcf8379040"
+}
