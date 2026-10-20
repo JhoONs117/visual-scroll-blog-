@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "spacex-s-ai-business-is-beating-expectations",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "SpaceX’s AI business is beating expectations",
+  "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+  "pubDate": "Tue, 20 Oct 2026 20:40:41 +0000",
+  "slides": [
+    "Why is SpaceX's AI business outperforming predictions?",
+    "Starlink's data pipelines now feed orbital AI models.",
+    "The real customer isn't NASA — it's defense contractors.",
+    "Teams using space-based AI see faster imagery analysis.",
+    "Ask: what data advantage does orbit truly give?"
+  ],
+  "thread_text": [
+    "1. The real customer isn't NASA\n\nDefense contractors are quietly becoming the primary buyers of orbital AI, and their demand is reshaping the entire business model.",
+    "2. Starlink's data pipelines\n\nOrbital AI models now feed directly on Starlink's continuous data streams, creating a feedback loop that ground-based systems can't match.",
+    "3. Why SpaceX's AI is outperforming\n\nIts edge isn't algorithms — it's the infrastructure advantage of owning both the satellites and the data pipelines that feed them.",
+    "4. Faster imagery analysis\n\nTeams using space-based AI report significantly faster analysis, turning raw orbital data into actionable intelligence in minutes instead of hours.",
+    "5. What data advantage does orbit give?\n\nThink about the last time you waited on satellite imagery. If you haven't tested an orbital AI tool, start by comparing its latency to your current pipeline."
+  ],
+  "video_script": [
+    "SpaceX's AI business is beating predictions, and the reason isn't obvious.",
+    "Starlink's data pipelines now feed orbital AI models directly.",
+    "The real customer isn't NASA — it's defense contractors.",
+    "Teams using space-based AI see much faster imagery analysis.",
+    "So what data advantage does orbit truly give? Ask yourself."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The real customer isn't NASA\n\nDefense contractors are quietly becoming the primary buyers of orbital AI, and their demand is reshaping the entire business model.",
+        "2. Starlink's data pipelines\n\nOrbital AI models now feed directly on Starlink's continuous data streams, creating a feedback loop that ground-based systems can't match.",
+        "3. Why SpaceX's AI is outperforming\n\nIts edge isn't algorithms — it's the infrastructure advantage of owning both the satellites and the data pipelines that feed them.",
+        "4. Faster imagery analysis\n\nTeams using space-based AI report significantly faster analysis, turning raw orbital data into actionable intelligence in minutes instead of hours.",
+        "5. What data advantage does orbit give?\n\nThink about the last time you waited on satellite imagery. If you haven't tested an orbital AI tool, start by comparing its latency to your current pipeline."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "SpaceX's AI business is beating predictions, and the reason isn't obvious.",
+        "Starlink's data pipelines now feed orbital AI models directly.",
+        "The real customer isn't NASA — it's defense contractors.",
+        "Teams using space-based AI see much faster imagery analysis.",
+        "So what data advantage does orbit truly give? Ask yourself."
+      ]
+    },
+    "instagram": {
+      "caption": "Defense contractors are becoming the main buyers of orbital AI, not NASA.\n\nSpaceX's AI business is outperforming forecasts because it owns both the satellites and the data pipelines feeding them. Starlink's continuous streams create a feedback loop ground-based systems can't match. Teams using it turn raw orbital data into analysis in minutes instead of hours. 🛰️\n\nThat means faster imagery analysis is now a competitive edge, and the infrastructure behind it sits with one company. ⚡\n\nIf you rely on satellite imagery, have you compared its latency to your current pipeline yet? 🔍"
+    }
+  },
+  "instagram_caption": "Defense contractors are becoming the main buyers of orbital AI, not NASA.\n\nSpaceX's AI business is outperforming forecasts because it owns both the satellites and the data pipelines feeding them. Starlink's continuous streams create a feedback loop ground-based systems can't match. Teams using it turn raw orbital data into analysis in minutes instead of hours. 🛰️\n\nThat means faster imagery analysis is now a competitive edge, and the infrastructure behind it sits with one company. ⚡\n\nIf you rely on satellite imagery, have you compared its latency to your current pipeline yet? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Who's the real orbital AI customer?",
+      "description": "Defense contractors are quietly becoming the primary buyers of orbital AI, reshaping SpaceX's entire business model.",
+      "visual_hint": "Satellite dish array at dusk",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "satellite dish"
+    },
+    {
+      "hook": "Starlink's data pipelines feed AI",
+      "description": "Orbital AI models now consume Starlink's continuous data streams, creating a feedback loop ground-based systems can't match.",
+      "visual_hint": "Data streams flowing from satellite",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center servers",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Infrastructure beats algorithms",
+      "description": "SpaceX's edge isn't its algorithms — it's owning both the satellites and the data pipelines that feed them.",
+      "visual_hint": "Satellite in orbit above Earth",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "satellite orbit earth",
+      "image": "https://images.pexels.com/photos/30896714/pexels-photo-30896714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Imagery analysis in minutes",
+      "description": "Teams using space-based AI report significantly faster analysis, turning raw orbital data into actionable intelligence in minutes instead of hours.",
+      "visual_hint": "Analyst reviewing satellite imagery",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "satellite imagery map",
+      "image": "https://images.pexels.com/photos/34031014/pexels-photo-34031014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your AI strategy",
+      "description": "Start by comparing your current pipeline's latency to an orbital AI tool — the gap may surprise you.",
+      "visual_hint": "Latency comparison chart on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "latency chart",
+      "image": "https://images.pexels.com/photos/7887856/pexels-photo-7887856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM.png?resize=1130,1200",
+  "savedAt": "2026-10-20T22:50:23.960Z",
+  "sourceId": "d0ed25b4adb5b94a923995b67b4c1619"
+}

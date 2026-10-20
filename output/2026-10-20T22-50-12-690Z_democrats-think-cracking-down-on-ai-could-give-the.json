@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "democrats-think-cracking-down-on-ai-could-give-the",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Democrats think cracking down on AI could give them an edge",
+  "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+  "pubDate": "2026-10-19T12:00:00.000Z",
+  "slides": [
+    "Can Democrats turn AI scrutiny into votes?",
+    "Party pushes crackdown on AI companies",
+    "But tech donors fund key campaigns quietly",
+    "Voters may reward candidates who name AI risks",
+    "Pick one AI policy question, ask your candidate"
+  ],
+  "thread_text": [
+    "1. AI Scrutiny as Election Strategy\n\nDemocrats are betting that cracking down on AI companies will win votes, but their campaigns are quietly funded by tech donors who oppose regulation.",
+    "2. The Fundraising Paradox\n\nKey Democratic campaigns receive substantial contributions from tech executives and investors, creating a conflict between public scrutiny and private money.",
+    "3. Voters Reward Risk-Takers\n\nPolls show that candidates who explicitly call out AI risks—job loss, misinformation—gain trust with voters, even if they don't offer detailed policies.",
+    "4. The Silent Money Problem\n\nTech donors often give quietly through PACs and bundlers, avoiding public scrutiny while their money shapes campaign priorities.",
+    "5. Ask One AI Question\n\nWhen a candidate knocks on your door or holds a town hall, ask: 'What's your plan to regulate AI companies?' Their answer will tell you who they really work for."
+  ],
+  "video_script": [
+    "Democrats want to crack down on AI companies.",
+    "But tech donors quietly fund their campaigns.",
+    "Voters may reward candidates who name AI risks.",
+    "The money complicates the message.",
+    "Ask your candidate one AI policy question."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Scrutiny as Election Strategy\n\nDemocrats are betting that cracking down on AI companies will win votes, but their campaigns are quietly funded by tech donors who oppose regulation.",
+        "2. The Fundraising Paradox\n\nKey Democratic campaigns receive substantial contributions from tech executives and investors, creating a conflict between public scrutiny and private money.",
+        "3. Voters Reward Risk-Takers\n\nPolls show that candidates who explicitly call out AI risks—job loss, misinformation—gain trust with voters, even if they don't offer detailed policies.",
+        "4. The Silent Money Problem\n\nTech donors often give quietly through PACs and bundlers, avoiding public scrutiny while their money shapes campaign priorities.",
+        "5. Ask One AI Question\n\nWhen a candidate knocks on your door or holds a town hall, ask: 'What's your plan to regulate AI companies?' Their answer will tell you who they really work for."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Democrats want to crack down on AI companies.",
+        "But tech donors quietly fund their campaigns.",
+        "Voters may reward candidates who name AI risks.",
+        "The money complicates the message.",
+        "Ask your candidate one AI policy question."
+      ]
+    },
+    "instagram": {
+      "caption": "Democratic campaigns are taking money from tech executives while promising to crack down on AI companies. 💰\n\nThe same donors funding key races quietly oppose the regulation candidates are campaigning on.\n\nPolls show voters trust candidates who name AI risks like job loss and misinformation—even without detailed plans.\n\nIf you create or publish content, the rules shaping AI tools may be written by whoever funds the campaign, not whoever warns about it.\n\nNext town hall, ask one question: \"What's your plan to regulate AI companies?\" 🎤 The answer tells you who they work for."
+    }
+  },
+  "instagram_caption": "Democratic campaigns are taking money from tech executives while promising to crack down on AI companies. 💰\n\nThe same donors funding key races quietly oppose the regulation candidates are campaigning on.\n\nPolls show voters trust candidates who name AI risks like job loss and misinformation—even without detailed plans.\n\nIf you create or publish content, the rules shaping AI tools may be written by whoever funds the campaign, not whoever warns about it.\n\nNext town hall, ask one question: \"What's your plan to regulate AI companies?\" 🎤 The answer tells you who they work for.",
+  "carousel_slides": [
+    {
+      "hook": "Tech donors secretly fund AI crackdown?",
+      "description": "Democrats push AI scrutiny while tech executives quietly fund key campaigns, creating a conflict between public stance and private money.",
+      "visual_hint": "Split image: handshake and dollar bills",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "money handshake"
+    },
+    {
+      "hook": "Party pushes AI crackdown for votes",
+      "description": "Democrats bet that cracking down on AI companies will win votes, but tech donors who oppose regulation fund their campaigns.",
+      "visual_hint": "Political rally with AI robot backdrop",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "political rally",
+      "image": "https://images.pexels.com/photos/18937534/pexels-photo-18937534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Voters reward candidates who name AI risks",
+      "description": "Polls show candidates who call out AI risks like job loss gain trust, even without detailed policies.",
+      "visual_hint": "Polling chart with upward trend",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "polling chart",
+      "image": "https://images.pexels.com/photos/7103159/pexels-photo-7103159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Silent money shapes campaign priorities",
+      "description": "Tech donors give quietly through PACs and bundlers, avoiding scrutiny while their money influences campaign agendas.",
+      "visual_hint": "Shadowy figure passing envelope",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "dark money politics",
+      "image": "https://images.pexels.com/photos/4386344/pexels-photo-4386344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your candidate one AI question",
+      "description": "When a candidate knocks or holds a town hall, ask: 'What's your plan to regulate AI companies?' Their answer reveals who they work for.",
+      "visual_hint": "Person asking question at town hall",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "town hall meeting",
+      "image": "https://images.pexels.com/photos/18460910/pexels-photo-18460910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+  "savedAt": "2026-10-20T22:50:43.489Z",
+  "sourceId": "1d7aa9cfab7ec3cc26d69d56b1237b35"
+}

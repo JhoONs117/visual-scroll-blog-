@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "democrats-think-cracking-down-on-ai-could-give-the",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Democrats think cracking down on AI could give them an edge",
+    "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+    "pubDate": "2026-10-19T12:00:00.000Z",
+    "slides": [
+      "Can Democrats turn AI scrutiny into votes?",
+      "Party pushes crackdown on AI companies",
+      "But tech donors fund key campaigns quietly",
+      "Voters may reward candidates who name AI risks",
+      "Pick one AI policy question, ask your candidate"
+    ],
+    "thread_text": [
+      "1. AI Scrutiny as Election Strategy\n\nDemocrats are betting that cracking down on AI companies will win votes, but their campaigns are quietly funded by tech donors who oppose regulation.",
+      "2. The Fundraising Paradox\n\nKey Democratic campaigns receive substantial contributions from tech executives and investors, creating a conflict between public scrutiny and private money.",
+      "3. Voters Reward Risk-Takers\n\nPolls show that candidates who explicitly call out AI risks—job loss, misinformation—gain trust with voters, even if they don't offer detailed policies.",
+      "4. The Silent Money Problem\n\nTech donors often give quietly through PACs and bundlers, avoiding public scrutiny while their money shapes campaign priorities.",
+      "5. Ask One AI Question\n\nWhen a candidate knocks on your door or holds a town hall, ask: 'What's your plan to regulate AI companies?' Their answer will tell you who they really work for."
+    ],
+    "video_script": [
+      "Democrats want to crack down on AI companies.",
+      "But tech donors quietly fund their campaigns.",
+      "Voters may reward candidates who name AI risks.",
+      "The money complicates the message.",
+      "Ask your candidate one AI policy question."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI Scrutiny as Election Strategy\n\nDemocrats are betting that cracking down on AI companies will win votes, but their campaigns are quietly funded by tech donors who oppose regulation.",
+          "2. The Fundraising Paradox\n\nKey Democratic campaigns receive substantial contributions from tech executives and investors, creating a conflict between public scrutiny and private money.",
+          "3. Voters Reward Risk-Takers\n\nPolls show that candidates who explicitly call out AI risks—job loss, misinformation—gain trust with voters, even if they don't offer detailed policies.",
+          "4. The Silent Money Problem\n\nTech donors often give quietly through PACs and bundlers, avoiding public scrutiny while their money shapes campaign priorities.",
+          "5. Ask One AI Question\n\nWhen a candidate knocks on your door or holds a town hall, ask: 'What's your plan to regulate AI companies?' Their answer will tell you who they really work for."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Democrats want to crack down on AI companies.",
+          "But tech donors quietly fund their campaigns.",
+          "Voters may reward candidates who name AI risks.",
+          "The money complicates the message.",
+          "Ask your candidate one AI policy question."
+        ]
+      },
+      "instagram": {
+        "caption": "Democratic campaigns are taking money from tech executives while promising to crack down on AI companies. 💰\n\nThe same donors funding key races quietly oppose the regulation candidates are campaigning on.\n\nPolls show voters trust candidates who name AI risks like job loss and misinformation—even without detailed plans.\n\nIf you create or publish content, the rules shaping AI tools may be written by whoever funds the campaign, not whoever warns about it.\n\nNext town hall, ask one question: \"What's your plan to regulate AI companies?\" 🎤 The answer tells you who they work for."
+      }
+    },
+    "instagram_caption": "Democratic campaigns are taking money from tech executives while promising to crack down on AI companies. 💰\n\nThe same donors funding key races quietly oppose the regulation candidates are campaigning on.\n\nPolls show voters trust candidates who name AI risks like job loss and misinformation—even without detailed plans.\n\nIf you create or publish content, the rules shaping AI tools may be written by whoever funds the campaign, not whoever warns about it.\n\nNext town hall, ask one question: \"What's your plan to regulate AI companies?\" 🎤 The answer tells you who they work for.",
+    "carousel_slides": [
+      {
+        "hook": "Tech donors secretly fund AI crackdown?",
+        "description": "Democrats push AI scrutiny while tech executives quietly fund key campaigns, creating a conflict between public stance and private money.",
+        "visual_hint": "Split image: handshake and dollar bills",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "money handshake"
+      },
+      {
+        "hook": "Party pushes AI crackdown for votes",
+        "description": "Democrats bet that cracking down on AI companies will win votes, but tech donors who oppose regulation fund their campaigns.",
+        "visual_hint": "Political rally with AI robot backdrop",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "political rally",
+        "image": "https://images.pexels.com/photos/18937534/pexels-photo-18937534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Voters reward candidates who name AI risks",
+        "description": "Polls show candidates who call out AI risks like job loss gain trust, even without detailed policies.",
+        "visual_hint": "Polling chart with upward trend",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "polling chart",
+        "image": "https://images.pexels.com/photos/7103159/pexels-photo-7103159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Silent money shapes campaign priorities",
+        "description": "Tech donors give quietly through PACs and bundlers, avoiding scrutiny while their money influences campaign agendas.",
+        "visual_hint": "Shadowy figure passing envelope",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "dark money politics",
+        "image": "https://images.pexels.com/photos/4386344/pexels-photo-4386344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask your candidate one AI question",
+        "description": "When a candidate knocks or holds a town hall, ask: 'What's your plan to regulate AI companies?' Their answer reveals who they work for.",
+        "visual_hint": "Person asking question at town hall",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "town hall meeting",
+        "image": "https://images.pexels.com/photos/18460910/pexels-photo-18460910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+    "savedAt": "2026-10-20T22:50:43.489Z",
+    "sourceId": "1d7aa9cfab7ec3cc26d69d56b1237b35"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-has-joined-amazon-in-attacking-nvidia-s-str",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+    "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+    "pubDate": "Tue, 20 Oct 2026 18:38:24 +0000",
+    "slides": [
+      "Why is Nvidia's moat suddenly cracking?",
+      "Google now targets AI app developers with custom chips",
+      "Its TPUs undercut Nvidia on price for training",
+      "Your cloud bill could shift if you test alternatives",
+      "Pick one workload and benchmark it this week"
+    ],
+    "thread_text": [
+      "1. Nvidia's Moat Is Cracking\n\nGoogle's custom TPUs are now priced below Nvidia for AI training. That's a direct threat to the default assumption that Nvidia is the only game in town.",
+      "2. Custom Chips Target Developers\n\nGoogle is pitching its TPUs specifically at AI app developers, not just its own internal teams. That opens a second supply lane for startups building on tight budgets.",
+      "3. Cheaper Training, Real Numbers\n\nGoogle's TPUs undercut Nvidia on price for training workloads. The savings aren't theoretical—they hit cloud bills for anyone willing to switch.",
+      "4. Your Cloud Bill Could Shift\n\nTesting an alternative doesn't mean a full migration. A single benchmark on one workload can reveal whether the price gap is real for your stack.",
+      "5. Benchmark One Workload Now\n\nPick one training job you run today and price it on a TPU instance this week. If you haven't compared, you don't know what you're overpaying."
+    ],
+    "video_script": [
+      "Nvidia's dominance is being challenged by Google's new chips.",
+      "Google's TPUs are now cheaper for training AI models.",
+      "They're targeting app developers directly, not just internal teams.",
+      "Your cloud bill could drop if you test alternatives.",
+      "Pick one workload and benchmark it this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Nvidia's Moat Is Cracking\n\nGoogle's custom TPUs are now priced below Nvidia for AI training. That's a direct threat to the default assumption that Nvidia is the only game in town.",
+          "2. Custom Chips Target Developers\n\nGoogle is pitching its TPUs specifically at AI app developers, not just its own internal teams. That opens a second supply lane for startups building on tight budgets.",
+          "3. Cheaper Training, Real Numbers\n\nGoogle's TPUs undercut Nvidia on price for training workloads. The savings aren't theoretical—they hit cloud bills for anyone willing to switch.",
+          "4. Your Cloud Bill Could Shift\n\nTesting an alternative doesn't mean a full migration. A single benchmark on one workload can reveal whether the price gap is real for your stack.",
+          "5. Benchmark One Workload Now\n\nPick one training job you run today and price it on a TPU instance this week. If you haven't compared, you don't know what you're overpaying."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nvidia's dominance is being challenged by Google's new chips.",
+          "Google's TPUs are now cheaper for training AI models.",
+          "They're targeting app developers directly, not just internal teams.",
+          "Your cloud bill could drop if you test alternatives.",
+          "Pick one workload and benchmark it this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Training your AI model on Google's chips may now cost less than on Nvidia's. 💸\n\nGoogle opened its custom TPUs to outside AI app developers, not just internal teams.\n\nIts pricing undercuts Nvidia specifically on training workloads, so the \"Nvidia only\" default is no longer automatic.\n\nFor anyone building or publishing AI tools, that means a second supply lane — and potentially a smaller cloud bill.\n\nPick one training job you run today and price it on a TPU instance this week. ⚖️\n\nIf you haven't compared, how do you know what you're overpaying? 🤔"
+      }
+    },
+    "instagram_caption": "Training your AI model on Google's chips may now cost less than on Nvidia's. 💸\n\nGoogle opened its custom TPUs to outside AI app developers, not just internal teams.\n\nIts pricing undercuts Nvidia specifically on training workloads, so the \"Nvidia only\" default is no longer automatic.\n\nFor anyone building or publishing AI tools, that means a second supply lane — and potentially a smaller cloud bill.\n\nPick one training job you run today and price it on a TPU instance this week. ⚖️\n\nIf you haven't compared, how do you know what you're overpaying? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Google Just Underpriced Nvidia's Moat",
+        "description": "Google's custom TPUs now cost less than Nvidia for AI training, threatening Nvidia's default dominance in the AI app developer market.",
+        "visual_hint": "Cracked concrete wall with Google logo",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "cracked concrete wall"
+      },
+      {
+        "hook": "Custom Chips Are Targeting You",
+        "description": "Google is pitching its TPUs directly at AI app developers, opening a second supply lane for startups with tight budgets.",
+        "visual_hint": "Microchip close-up with developer coding",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "microchip close up",
+        "image": "https://images.pexels.com/photos/38373015/pexels-photo-38373015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Training Costs: The Price Gap Is Real",
+        "description": "Google's TPUs undercut Nvidia on price for training workloads, delivering savings that directly hit cloud bills for switchers.",
+        "visual_hint": "Cloud pricing chart with downward trend",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "cloud pricing chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your Cloud Bill Could Shift",
+        "description": "Testing an alternative doesn't require full migration; a single benchmark on one workload reveals if the price gap is real for you.",
+        "visual_hint": "Hand holding cloud bill with calculator",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "calculator and bill",
+        "image": "https://images.pexels.com/photos/7111614/pexels-photo-7111614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Benchmark One Workload This Week",
+        "description": "Pick one training job you run today and price it on a TPU instance this week to see what you're overpaying.",
+        "visual_hint": "Stopwatch over server rack",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stopwatch server rack",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
+    "savedAt": "2026-10-20T22:50:34.387Z",
+    "sourceId": "4d8868e651d146e3e8a1b6d49aaf8696"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "spacex-s-ai-business-is-beating-expectations",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "SpaceX’s AI business is beating expectations",
+    "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+    "pubDate": "Tue, 20 Oct 2026 20:40:41 +0000",
+    "slides": [
+      "Why is SpaceX's AI business outperforming predictions?",
+      "Starlink's data pipelines now feed orbital AI models.",
+      "The real customer isn't NASA — it's defense contractors.",
+      "Teams using space-based AI see faster imagery analysis.",
+      "Ask: what data advantage does orbit truly give?"
+    ],
+    "thread_text": [
+      "1. The real customer isn't NASA\n\nDefense contractors are quietly becoming the primary buyers of orbital AI, and their demand is reshaping the entire business model.",
+      "2. Starlink's data pipelines\n\nOrbital AI models now feed directly on Starlink's continuous data streams, creating a feedback loop that ground-based systems can't match.",
+      "3. Why SpaceX's AI is outperforming\n\nIts edge isn't algorithms — it's the infrastructure advantage of owning both the satellites and the data pipelines that feed them.",
+      "4. Faster imagery analysis\n\nTeams using space-based AI report significantly faster analysis, turning raw orbital data into actionable intelligence in minutes instead of hours.",
+      "5. What data advantage does orbit give?\n\nThink about the last time you waited on satellite imagery. If you haven't tested an orbital AI tool, start by comparing its latency to your current pipeline."
+    ],
+    "video_script": [
+      "SpaceX's AI business is beating predictions, and the reason isn't obvious.",
+      "Starlink's data pipelines now feed orbital AI models directly.",
+      "The real customer isn't NASA — it's defense contractors.",
+      "Teams using space-based AI see much faster imagery analysis.",
+      "So what data advantage does orbit truly give? Ask yourself."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The real customer isn't NASA\n\nDefense contractors are quietly becoming the primary buyers of orbital AI, and their demand is reshaping the entire business model.",
+          "2. Starlink's data pipelines\n\nOrbital AI models now feed directly on Starlink's continuous data streams, creating a feedback loop that ground-based systems can't match.",
+          "3. Why SpaceX's AI is outperforming\n\nIts edge isn't algorithms — it's the infrastructure advantage of owning both the satellites and the data pipelines that feed them.",
+          "4. Faster imagery analysis\n\nTeams using space-based AI report significantly faster analysis, turning raw orbital data into actionable intelligence in minutes instead of hours.",
+          "5. What data advantage does orbit give?\n\nThink about the last time you waited on satellite imagery. If you haven't tested an orbital AI tool, start by comparing its latency to your current pipeline."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "SpaceX's AI business is beating predictions, and the reason isn't obvious.",
+          "Starlink's data pipelines now feed orbital AI models directly.",
+          "The real customer isn't NASA — it's defense contractors.",
+          "Teams using space-based AI see much faster imagery analysis.",
+          "So what data advantage does orbit truly give? Ask yourself."
+        ]
+      },
+      "instagram": {
+        "caption": "Defense contractors are becoming the main buyers of orbital AI, not NASA.\n\nSpaceX's AI business is outperforming forecasts because it owns both the satellites and the data pipelines feeding them. Starlink's continuous streams create a feedback loop ground-based systems can't match. Teams using it turn raw orbital data into analysis in minutes instead of hours. 🛰️\n\nThat means faster imagery analysis is now a competitive edge, and the infrastructure behind it sits with one company. ⚡\n\nIf you rely on satellite imagery, have you compared its latency to your current pipeline yet? 🔍"
+      }
+    },
+    "instagram_caption": "Defense contractors are becoming the main buyers of orbital AI, not NASA.\n\nSpaceX's AI business is outperforming forecasts because it owns both the satellites and the data pipelines feeding them. Starlink's continuous streams create a feedback loop ground-based systems can't match. Teams using it turn raw orbital data into analysis in minutes instead of hours. 🛰️\n\nThat means faster imagery analysis is now a competitive edge, and the infrastructure behind it sits with one company. ⚡\n\nIf you rely on satellite imagery, have you compared its latency to your current pipeline yet? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Who's the real orbital AI customer?",
+        "description": "Defense contractors are quietly becoming the primary buyers of orbital AI, reshaping SpaceX's entire business model.",
+        "visual_hint": "Satellite dish array at dusk",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "satellite dish"
+      },
+      {
+        "hook": "Starlink's data pipelines feed AI",
+        "description": "Orbital AI models now consume Starlink's continuous data streams, creating a feedback loop ground-based systems can't match.",
+        "visual_hint": "Data streams flowing from satellite",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center servers",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Infrastructure beats algorithms",
+        "description": "SpaceX's edge isn't its algorithms — it's owning both the satellites and the data pipelines that feed them.",
+        "visual_hint": "Satellite in orbit above Earth",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "satellite orbit earth",
+        "image": "https://images.pexels.com/photos/30896714/pexels-photo-30896714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Imagery analysis in minutes",
+        "description": "Teams using space-based AI report significantly faster analysis, turning raw orbital data into actionable intelligence in minutes instead of hours.",
+        "visual_hint": "Analyst reviewing satellite imagery",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "satellite imagery map",
+        "image": "https://images.pexels.com/photos/34031014/pexels-photo-34031014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for your AI strategy",
+        "description": "Start by comparing your current pipeline's latency to an orbital AI tool — the gap may surprise you.",
+        "visual_hint": "Latency comparison chart on screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "latency chart",
+        "image": "https://images.pexels.com/photos/7887856/pexels-photo-7887856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM.png?resize=1130,1200",
+    "savedAt": "2026-10-20T22:50:23.960Z",
+    "sourceId": "d0ed25b4adb5b94a923995b67b4c1619"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "spotify-pulled-50-million-ai-slop-and-spam-tracks-",
     "prompt_version": "1.0.0",
     "status": "published",
