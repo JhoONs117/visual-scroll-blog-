@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "us-orders-federal-agencies-to-remove-china-s-deeps",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+  "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+  "pubDate": "Tue, 20 Oct 2026 13:07:24 +0000",
+  "slides": [
+    "Why is the US removing DeepSeek from federal systems?",
+    "The order cites national security risks from the AI.",
+    "Yet DeepSeek's models are open-source and widely used.",
+    "Agencies must audit and purge DeepSeek software immediately.",
+    "Check if your organization relies on DeepSeek—review now."
+  ],
+  "thread_text": [
+    "1. DeepSeek booted from US systems\n\nThe order cites national security risks from the AI. But DeepSeek's models are open-source and widely used—making the ban a puzzle.",
+    "2. Open-source, closed doors?\n\nDeepSeek's code is public, so anyone can inspect it. Yet the US says the risks are too great for federal use.",
+    "3. Audit and purge now\n\nAgencies must immediately audit and purge DeepSeek software. The clock is ticking for compliance.",
+    "4. Your org might be next\n\nIf you rely on DeepSeek, the purge could hit you. Review your dependencies before it's too late.",
+    "5. Review your DeepSeek use today\n\nCheck if your organization relies on DeepSeek. If it does, start planning an alternative now."
+  ],
+  "video_script": [
+    "The US is removing DeepSeek from federal systems.",
+    "The order cites national security risks from the AI.",
+    "But DeepSeek's models are open-source and widely used.",
+    "Agencies must audit and purge DeepSeek software immediately.",
+    "Check if your organization relies on DeepSeek and review now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. DeepSeek booted from US systems\n\nThe order cites national security risks from the AI. But DeepSeek's models are open-source and widely used—making the ban a puzzle.",
+        "2. Open-source, closed doors?\n\nDeepSeek's code is public, so anyone can inspect it. Yet the US says the risks are too great for federal use.",
+        "3. Audit and purge now\n\nAgencies must immediately audit and purge DeepSeek software. The clock is ticking for compliance.",
+        "4. Your org might be next\n\nIf you rely on DeepSeek, the purge could hit you. Review your dependencies before it's too late.",
+        "5. Review your DeepSeek use today\n\nCheck if your organization relies on DeepSeek. If it does, start planning an alternative now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "The US is removing DeepSeek from federal systems.",
+        "The order cites national security risks from the AI.",
+        "But DeepSeek's models are open-source and widely used.",
+        "Agencies must audit and purge DeepSeek software immediately.",
+        "Check if your organization relies on DeepSeek and review now."
+      ]
+    },
+    "instagram": {
+      "caption": "Federal agencies just got ordered to rip DeepSeek out of their systems—immediately.\n\nThe order cites national security risks from the AI. Yet DeepSeek's models are open-source, meaning anyone can inspect the code. 🔍\n\nThat contradiction is the whole story: public code, closed doors.\n\nIf your team builds or publishes with DeepSeek under the hood, an audit and purge could land on your desk next.\n\nCheck your dependencies today—do you actually know what's running in your stack? ⚠️"
+    }
+  },
+  "instagram_caption": "Federal agencies just got ordered to rip DeepSeek out of their systems—immediately.\n\nThe order cites national security risks from the AI. Yet DeepSeek's models are open-source, meaning anyone can inspect the code. 🔍\n\nThat contradiction is the whole story: public code, closed doors.\n\nIf your team builds or publishes with DeepSeek under the hood, an audit and purge could land on your desk next.\n\nCheck your dependencies today—do you actually know what's running in your stack? ⚠️",
+  "carousel_slides": [
+    {
+      "hook": "Why ban open-source AI?",
+      "description": "US orders federal agencies to remove DeepSeek, citing national security risks. Yet its models are open-source and widely used.",
+      "visual_hint": "Government building with AI overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "government building"
+    },
+    {
+      "hook": "Security risks or overreach?",
+      "description": "The order cites national security risks from DeepSeek AI. But open-source code is public and inspectable by anyone.",
+      "visual_hint": "Code on screen with warning sign",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Open-source, closed doors?",
+      "description": "DeepSeek's models are open-source and widely used. Yet the US says risks are too great for federal use.",
+      "visual_hint": "Open source code lock icon",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "open source code",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit and purge immediately",
+      "description": "Agencies must audit and purge DeepSeek software now. The clock is ticking for compliance.",
+      "visual_hint": "Hand deleting files on computer",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand deleting files",
+      "image": "https://images.pexels.com/photos/6538582/pexels-photo-6538582.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: review your AI use",
+      "description": "Check if your organization relies on DeepSeek. If it does, start planning an alternative now.",
+      "visual_hint": "Checklist with AI software icons",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2195703830.jpg?w=1024",
+  "savedAt": "2026-10-20T13:09:36.468Z",
+  "sourceId": "baab9c27d2ea33a28c489ba6f963012e"
+}

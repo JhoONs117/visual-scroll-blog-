@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "embedded-ai-evaluators-won-t-be-an-easy-solution-h",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+  "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+  "pubDate": "Mon, 19 Oct 2026 22:49:27 +0000",
+  "slides": [
+    "Why won't embedded AI evaluators solve everything?",
+    "Hugging Face's policy chief raises concerns.",
+    "Built-in evaluators may share the same blind spots.",
+    "You can't outsource judgment to the model itself.",
+    "Audit your evaluator's assumptions before trusting it."
+  ],
+  "thread_text": [
+    "1. Who evaluates the evaluators?\n\nHugging Face's policy chief just raised a flag: built-in AI evaluators may share the same blind spots as the models they check. That's not a bug—it's a structural risk.",
+    "2. Same model, same blind spots\n\nWhen the evaluator is embedded in the same system, it inherits the same training data and biases. It's like asking a student to grade their own exam—and expecting objectivity.",
+    "3. Judgment can't be outsourced\n\nThe core issue: you can't delegate critical judgment to the model itself. Evaluation requires external standards, not just pattern matching from the same source.",
+    "4. Audit before you trust\n\nBefore relying on any evaluator, map its assumptions. What does it optimize for? What does it ignore? The answers reveal exactly where it will fail you.",
+    "5. Test your evaluator this week\n\nPick one evaluator you use and list three assumptions it makes. Then check: do those match your actual priorities? If not, you've found your first gap to fix."
+  ],
+  "video_script": [
+    "Who evaluates the evaluators? Hugging Face just raised concerns.",
+    "Built-in evaluators may share the same blind spots as the models.",
+    "You can't outsource judgment to the model itself.",
+    "Audit your evaluator's assumptions before trusting it.",
+    "Test one evaluator this week. List its assumptions. Find the gaps."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who evaluates the evaluators?\n\nHugging Face's policy chief just raised a flag: built-in AI evaluators may share the same blind spots as the models they check. That's not a bug—it's a structural risk.",
+        "2. Same model, same blind spots\n\nWhen the evaluator is embedded in the same system, it inherits the same training data and biases. It's like asking a student to grade their own exam—and expecting objectivity.",
+        "3. Judgment can't be outsourced\n\nThe core issue: you can't delegate critical judgment to the model itself. Evaluation requires external standards, not just pattern matching from the same source.",
+        "4. Audit before you trust\n\nBefore relying on any evaluator, map its assumptions. What does it optimize for? What does it ignore? The answers reveal exactly where it will fail you.",
+        "5. Test your evaluator this week\n\nPick one evaluator you use and list three assumptions it makes. Then check: do those match your actual priorities? If not, you've found your first gap to fix."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Who evaluates the evaluators? Hugging Face just raised concerns.",
+        "Built-in evaluators may share the same blind spots as the models.",
+        "You can't outsource judgment to the model itself.",
+        "Audit your evaluator's assumptions before trusting it.",
+        "Test one evaluator this week. List its assumptions. Find the gaps."
+      ]
+    },
+    "instagram": {
+      "caption": "Hugging Face's policy chief says embedded AI evaluators may share the same blind spots as the models they check.\n\nBuilt-in evaluators inherit the same training data and biases, so they can't catch what the model itself misses. ⚠️\n\nThat means judgment can't be outsourced to the model—evaluation needs external standards, not pattern matching from the same source.\n\nIf you publish or build with AI, the checker you trust might be blind in exactly the same places. 🧠\n\nBefore you rely on any evaluator, map its assumptions: what does it optimize for, and what does it ignore? 🔍\n\nPick one evaluator you use this week and list three assumptions it makes. Do they match your priorities? 👀"
+    }
+  },
+  "instagram_caption": "Hugging Face's policy chief says embedded AI evaluators may share the same blind spots as the models they check.\n\nBuilt-in evaluators inherit the same training data and biases, so they can't catch what the model itself misses. ⚠️\n\nThat means judgment can't be outsourced to the model—evaluation needs external standards, not pattern matching from the same source.\n\nIf you publish or build with AI, the checker you trust might be blind in exactly the same places. 🧠\n\nBefore you rely on any evaluator, map its assumptions: what does it optimize for, and what does it ignore? 🔍\n\nPick one evaluator you use this week and list three assumptions it makes. Do they match your priorities? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Can AI grade its own homework?",
+      "description": "Hugging Face's policy chief warns embedded evaluators share the same blind spots as the models they check — a structural risk, not a bug.",
+      "visual_hint": "Split screen: robot writing and grading",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot classroom"
+    },
+    {
+      "hook": "Same model, same blind spots",
+      "description": "Embedded evaluators inherit the model's training data and biases, like a student grading their own exam while expecting objectivity.",
+      "visual_hint": "Mirrored robot faces with identical data streams",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "mirror reflection",
+      "image": "https://images.pexels.com/photos/20277789/pexels-photo-20277789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You can't outsource judgment",
+      "description": "Critical evaluation requires external standards, not pattern matching from the same source — delegating judgment to the model itself fails.",
+      "visual_hint": "Hand passing a gavel to a robot",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "gavel hand",
+      "image": "https://images.pexels.com/photos/7876148/pexels-photo-7876148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your evaluator's assumptions",
+      "description": "Map what your evaluator optimizes for and what it ignores — those answers reveal exactly where it will fail you.",
+      "visual_hint": "Magnifying glass over code checklist",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "magnifying glass code",
+      "image": "https://images.pexels.com/photos/17543457/pexels-photo-17543457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your evaluator this week — save this",
+      "description": "Pick one evaluator you use, list three assumptions it makes, and check if they match your actual priorities.",
+      "visual_hint": "Notebook with three checkboxes and pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "notebook checklist",
+      "image": "https://images.pexels.com/photos/8450476/pexels-photo-8450476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4993.jpeg?resize=1200,900",
+  "savedAt": "2026-10-20T13:10:03.061Z",
+  "sourceId": "f94da7fb555a035ad8201c07b4f8fd4e"
+}

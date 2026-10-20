@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "eka-is-worth-1-45b-thanks-to-a-physical-ai-model-t",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+  "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+  "pubDate": "Tue, 20 Oct 2026 13:00:00 +0000",
+  "slides": [
+    "Why does Eka's $1.45B valuation surprise AI experts?",
+    "Its physical AI model simulates real-world physics directly",
+    "Unlike LLMs, it predicts matter behavior without training data",
+    "Engineers can now test materials virtually before building",
+    "Ask your R&D team which simulation they trust today"
+  ],
+  "thread_text": [
+    "1. The $1.45B question\n\nInvestors just valued an AI company at nearly a billion and a half before most engineers could name its product. The gap between hype and proof is where the real story lives.",
+    "2. Physics, not words\n\nEka's model predicts how matter behaves by simulating real-world physics directly — no training corpus, no next-token guessing. It starts from equations, not examples.",
+    "3. Data is the weak point\n\nLLMs fail on physical prediction because they memorize patterns, not laws. Eka claims its engine works on problems it has never seen, which is where simulation actually matters.",
+    "4. Virtual before physical\n\nEngineers can now run material tests inside a model instead of a lab — compressing months of prototyping into hours. That changes who gets to build what, and how fast.",
+    "5. Trust the model?\n\nAsk your R&D team: which simulation do they actually trust today, and what would it take to trust a new one? That answer tells you more than any valuation."
+  ],
+  "video_script": [
+    "A billion and a half dollars for a company you've never heard of.",
+    "Its AI simulates physics directly, not language patterns.",
+    "No training data needed — it predicts matter from the laws.",
+    "Engineers test materials virtually now, before building anything.",
+    "So: what simulation does your R&D team actually trust today?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $1.45B question\n\nInvestors just valued an AI company at nearly a billion and a half before most engineers could name its product. The gap between hype and proof is where the real story lives.",
+        "2. Physics, not words\n\nEka's model predicts how matter behaves by simulating real-world physics directly — no training corpus, no next-token guessing. It starts from equations, not examples.",
+        "3. Data is the weak point\n\nLLMs fail on physical prediction because they memorize patterns, not laws. Eka claims its engine works on problems it has never seen, which is where simulation actually matters.",
+        "4. Virtual before physical\n\nEngineers can now run material tests inside a model instead of a lab — compressing months of prototyping into hours. That changes who gets to build what, and how fast.",
+        "5. Trust the model?\n\nAsk your R&D team: which simulation do they actually trust today, and what would it take to trust a new one? That answer tells you more than any valuation."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A billion and a half dollars for a company you've never heard of.",
+        "Its AI simulates physics directly, not language patterns.",
+        "No training data needed — it predicts matter from the laws.",
+        "Engineers test materials virtually now, before building anything.",
+        "So: what simulation does your R&D team actually trust today?"
+      ]
+    },
+    "instagram": {
+      "caption": "A simulation that runs material tests in hours instead of months just got valued at $1.45 billion.\n\nEka says its model predicts how matter behaves by working from physics equations directly, not by memorizing examples like language models do.\n\nThat means engineers could test materials virtually before ever building a prototype. 🔬\n\nIf this holds up, prototyping timelines compress and smaller teams can compete on hardware without big lab budgets.\n\nAsk your R&D team which simulation they trust today, and what it would take to trust a new one. 🛠️"
+    }
+  },
+  "instagram_caption": "A simulation that runs material tests in hours instead of months just got valued at $1.45 billion.\n\nEka says its model predicts how matter behaves by working from physics equations directly, not by memorizing examples like language models do.\n\nThat means engineers could test materials virtually before ever building a prototype. 🔬\n\nIf this holds up, prototyping timelines compress and smaller teams can compete on hardware without big lab budgets.\n\nAsk your R&D team which simulation they trust today, and what it would take to trust a new one. 🛠️",
+  "carousel_slides": [
+    {
+      "hook": "Can AI predict matter without training data?",
+      "description": "Eka's physical model starts from equations, not examples, claiming to solve problems it has never seen.",
+      "visual_hint": "Abstract physics equations on screen",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "physics equations"
+    },
+    {
+      "hook": "$1.45B valuation stuns AI experts",
+      "description": "Investors valued Eka at nearly $1.5B before most engineers could name its product, highlighting hype vs. proof.",
+      "visual_hint": "Stock market chart rising sharply",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "LLMs fail at physical prediction",
+      "description": "LLMs memorize patterns, not laws, so they fail on physical prediction; Eka claims its engine works on unseen problems.",
+      "visual_hint": "Neural network vs. physics simulation",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "neural network diagram",
+      "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test materials virtually before building",
+      "description": "Engineers can run material tests inside a model instead of a lab, compressing months of prototyping into hours.",
+      "visual_hint": "Engineer using simulation software",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "engineer computer simulation",
+      "image": "https://images.pexels.com/photos/3862149/pexels-photo-3862149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Which simulation does your R&D trust?",
+      "description": "Ask your R&D team which simulation they trust today and what it would take to trust a new one.",
+      "visual_hint": "R&D team discussing over charts",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "research team meeting",
+      "image": "https://images.pexels.com/photos/7988663/pexels-photo-7988663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-1.21.23-PM.png?resize=1200,974",
+  "savedAt": "2026-10-20T13:09:45.569Z",
+  "sourceId": "185426ba2ac3ad8c78f07a3bec966676"
+}

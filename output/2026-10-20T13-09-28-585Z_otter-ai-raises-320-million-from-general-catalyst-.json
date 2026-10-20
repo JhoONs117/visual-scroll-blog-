@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "otter-ai-raises-320-million-from-general-catalyst-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+  "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+  "pubDate": "Tue, 20 Oct 2026 11:00:00 +0000",
+  "slides": [
+    "Why does a meeting tool need $320 million?",
+    "General Catalyst's growth fund led the round.",
+    "Otter now sells AI agents that attend meetings for you.",
+    "Teams may soon skip live calls entirely.",
+    "Check what Otter's agents record before adopting them."
+  ],
+  "thread_text": [
+    "1. $320M for a meeting tool?\n\nOtter just raised that much to build AI agents that join calls in your place. The company bets you will pay to skip live meetings entirely.",
+    "2. Growth fund leads the round\n\nGeneral Catalyst's growth fund led the investment, signaling that major backers see AI meeting agents as a real business, not a feature.",
+    "3. Agents attend so you don't\n\nOtter now sells AI agents that join your meetings, take notes, and report back. The pitch: send the agent, skip the call, and get a summary instead.",
+    "4. The end of live calls?\n\nIf agents can represent you well enough, teams may stop scheduling live calls altogether. That changes how work gets done, not just how meetings are recorded.",
+    "5. Check what they record first\n\nBefore you adopt Otter's agents, ask what they capture and who can access it. Take one real meeting this week and test the agent's output before trusting it."
+  ],
+  "video_script": [
+    "Why did Otter just raise three hundred twenty million dollars?",
+    "General Catalyst's growth fund led this massive round.",
+    "Otter now sells AI agents that attend meetings for you.",
+    "If agents can represent you, teams might skip live calls.",
+    "Check what Otter's agents record before you adopt them."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $320M for a meeting tool?\n\nOtter just raised that much to build AI agents that join calls in your place. The company bets you will pay to skip live meetings entirely.",
+        "2. Growth fund leads the round\n\nGeneral Catalyst's growth fund led the investment, signaling that major backers see AI meeting agents as a real business, not a feature.",
+        "3. Agents attend so you don't\n\nOtter now sells AI agents that join your meetings, take notes, and report back. The pitch: send the agent, skip the call, and get a summary instead.",
+        "4. The end of live calls?\n\nIf agents can represent you well enough, teams may stop scheduling live calls altogether. That changes how work gets done, not just how meetings are recorded.",
+        "5. Check what they record first\n\nBefore you adopt Otter's agents, ask what they capture and who can access it. Take one real meeting this week and test the agent's output before trusting it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Why did Otter just raise three hundred twenty million dollars?",
+        "General Catalyst's growth fund led this massive round.",
+        "Otter now sells AI agents that attend meetings for you.",
+        "If agents can represent you, teams might skip live calls.",
+        "Check what Otter's agents record before you adopt them."
+      ]
+    },
+    "instagram": {
+      "caption": "Someone just raised $320 million so AI can sit in meetings instead of you. 🎥\n\nOtter.ai's agents join your calls, take notes, and report back. General Catalyst's growth fund led the round, betting this is a real business, not a feature.\n\nThe pitch: send the agent, skip the call, get a summary. If it works, teams may stop scheduling live meetings at all.\n\nFor anyone who runs meetings or publishes content from them, that shifts the work from showing up to checking output.\n\nOne catch before you try it: ask what the agent records and who can access it. 📋\n\nWould you let an AI attend a client call in your place? 🤔"
+    }
+  },
+  "instagram_caption": "Someone just raised $320 million so AI can sit in meetings instead of you. 🎥\n\nOtter.ai's agents join your calls, take notes, and report back. General Catalyst's growth fund led the round, betting this is a real business, not a feature.\n\nThe pitch: send the agent, skip the call, get a summary. If it works, teams may stop scheduling live meetings at all.\n\nFor anyone who runs meetings or publishes content from them, that shifts the work from showing up to checking output.\n\nOne catch before you try it: ask what the agent records and who can access it. 📋\n\nWould you let an AI attend a client call in your place? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Would you pay to skip meetings?",
+      "description": "Otter raised $320M to build AI agents that join calls for you, betting teams will pay to skip live meetings.",
+      "visual_hint": "Abstract digital meeting interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "video conference screen"
+    },
+    {
+      "hook": "Growth fund leads the round",
+      "description": "General Catalyst's growth fund led the investment, signaling major backers see AI meeting agents as a real business.",
+      "visual_hint": "Handshake in modern office",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "business handshake",
+      "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Agents attend so you don't",
+      "description": "Otter now sells AI agents that join meetings, take notes, and report back, so you can skip the call.",
+      "visual_hint": "AI agent joining video call",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robot assistant",
+      "image": "https://images.pexels.com/photos/9534649/pexels-photo-9534649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The end of live calls?",
+      "description": "If agents can represent you well enough, teams may stop scheduling live calls altogether, changing how work gets done.",
+      "visual_hint": "Empty office meeting room",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "empty conference room",
+      "image": "https://images.pexels.com/photos/6949365/pexels-photo-6949365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check what they record first",
+      "description": "Before adopting Otter's agents, ask what they capture and who can access it. Test one real meeting this week.",
+      "visual_hint": "Person reviewing on tablet",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "privacy settings screen",
+      "image": "https://images.pexels.com/photos/6943446/pexels-photo-6943446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/04/Otter-feat.jpg?resize=1200,675",
+  "savedAt": "2026-10-20T13:09:54.329Z",
+  "sourceId": "85e233d0b16647512f4ea23aa103e647"
+}

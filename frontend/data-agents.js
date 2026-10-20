@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "embedded-ai-evaluators-won-t-be-an-easy-solution-h",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "pubDate": "Mon, 19 Oct 2026 22:49:27 +0000",
+      "slides": [
+        "Why won't embedded AI evaluators solve everything?",
+        "Hugging Face's policy chief raises concerns.",
+        "Built-in evaluators may share the same blind spots.",
+        "You can't outsource judgment to the model itself.",
+        "Audit your evaluator's assumptions before trusting it."
+      ],
+      "thread_text": [
+        "1. Who evaluates the evaluators?\n\nHugging Face's policy chief just raised a flag: built-in AI evaluators may share the same blind spots as the models they check. That's not a bug—it's a structural risk.",
+        "2. Same model, same blind spots\n\nWhen the evaluator is embedded in the same system, it inherits the same training data and biases. It's like asking a student to grade their own exam—and expecting objectivity.",
+        "3. Judgment can't be outsourced\n\nThe core issue: you can't delegate critical judgment to the model itself. Evaluation requires external standards, not just pattern matching from the same source.",
+        "4. Audit before you trust\n\nBefore relying on any evaluator, map its assumptions. What does it optimize for? What does it ignore? The answers reveal exactly where it will fail you.",
+        "5. Test your evaluator this week\n\nPick one evaluator you use and list three assumptions it makes. Then check: do those match your actual priorities? If not, you've found your first gap to fix."
+      ],
+      "video_script": [
+        "Who evaluates the evaluators? Hugging Face just raised concerns.",
+        "Built-in evaluators may share the same blind spots as the models.",
+        "You can't outsource judgment to the model itself.",
+        "Audit your evaluator's assumptions before trusting it.",
+        "Test one evaluator this week. List its assumptions. Find the gaps."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who evaluates the evaluators?\n\nHugging Face's policy chief just raised a flag: built-in AI evaluators may share the same blind spots as the models they check. That's not a bug—it's a structural risk.",
+            "2. Same model, same blind spots\n\nWhen the evaluator is embedded in the same system, it inherits the same training data and biases. It's like asking a student to grade their own exam—and expecting objectivity.",
+            "3. Judgment can't be outsourced\n\nThe core issue: you can't delegate critical judgment to the model itself. Evaluation requires external standards, not just pattern matching from the same source.",
+            "4. Audit before you trust\n\nBefore relying on any evaluator, map its assumptions. What does it optimize for? What does it ignore? The answers reveal exactly where it will fail you.",
+            "5. Test your evaluator this week\n\nPick one evaluator you use and list three assumptions it makes. Then check: do those match your actual priorities? If not, you've found your first gap to fix."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Who evaluates the evaluators? Hugging Face just raised concerns.",
+            "Built-in evaluators may share the same blind spots as the models.",
+            "You can't outsource judgment to the model itself.",
+            "Audit your evaluator's assumptions before trusting it.",
+            "Test one evaluator this week. List its assumptions. Find the gaps."
+          ]
+        },
+        "instagram": {
+          "caption": "Hugging Face's policy chief says embedded AI evaluators may share the same blind spots as the models they check.\n\nBuilt-in evaluators inherit the same training data and biases, so they can't catch what the model itself misses. ⚠️\n\nThat means judgment can't be outsourced to the model—evaluation needs external standards, not pattern matching from the same source.\n\nIf you publish or build with AI, the checker you trust might be blind in exactly the same places. 🧠\n\nBefore you rely on any evaluator, map its assumptions: what does it optimize for, and what does it ignore? 🔍\n\nPick one evaluator you use this week and list three assumptions it makes. Do they match your priorities? 👀"
+        }
+      },
+      "instagram_caption": "Hugging Face's policy chief says embedded AI evaluators may share the same blind spots as the models they check.\n\nBuilt-in evaluators inherit the same training data and biases, so they can't catch what the model itself misses. ⚠️\n\nThat means judgment can't be outsourced to the model—evaluation needs external standards, not pattern matching from the same source.\n\nIf you publish or build with AI, the checker you trust might be blind in exactly the same places. 🧠\n\nBefore you rely on any evaluator, map its assumptions: what does it optimize for, and what does it ignore? 🔍\n\nPick one evaluator you use this week and list three assumptions it makes. Do they match your priorities? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Can AI grade its own homework?",
+          "description": "Hugging Face's policy chief warns embedded evaluators share the same blind spots as the models they check — a structural risk, not a bug.",
+          "visual_hint": "Split screen: robot writing and grading",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robot classroom"
+        },
+        {
+          "hook": "Same model, same blind spots",
+          "description": "Embedded evaluators inherit the model's training data and biases, like a student grading their own exam while expecting objectivity.",
+          "visual_hint": "Mirrored robot faces with identical data streams",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "mirror reflection",
+          "image": "https://images.pexels.com/photos/20277789/pexels-photo-20277789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "You can't outsource judgment",
+          "description": "Critical evaluation requires external standards, not pattern matching from the same source — delegating judgment to the model itself fails.",
+          "visual_hint": "Hand passing a gavel to a robot",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "gavel hand",
+          "image": "https://images.pexels.com/photos/7876148/pexels-photo-7876148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your evaluator's assumptions",
+          "description": "Map what your evaluator optimizes for and what it ignores — those answers reveal exactly where it will fail you.",
+          "visual_hint": "Magnifying glass over code checklist",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "magnifying glass code",
+          "image": "https://images.pexels.com/photos/17543457/pexels-photo-17543457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your evaluator this week — save this",
+          "description": "Pick one evaluator you use, list three assumptions it makes, and check if they match your actual priorities.",
+          "visual_hint": "Notebook with three checkboxes and pen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "notebook checklist",
+          "image": "https://images.pexels.com/photos/8450476/pexels-photo-8450476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4993.jpeg?resize=1200,900",
+      "savedAt": "2026-10-20T13:10:03.061Z",
+      "sourceId": "f94da7fb555a035ad8201c07b4f8fd4e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "otter-ai-raises-320-million-from-general-catalyst-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "pubDate": "Tue, 20 Oct 2026 11:00:00 +0000",
+      "slides": [
+        "Why does a meeting tool need $320 million?",
+        "General Catalyst's growth fund led the round.",
+        "Otter now sells AI agents that attend meetings for you.",
+        "Teams may soon skip live calls entirely.",
+        "Check what Otter's agents record before adopting them."
+      ],
+      "thread_text": [
+        "1. $320M for a meeting tool?\n\nOtter just raised that much to build AI agents that join calls in your place. The company bets you will pay to skip live meetings entirely.",
+        "2. Growth fund leads the round\n\nGeneral Catalyst's growth fund led the investment, signaling that major backers see AI meeting agents as a real business, not a feature.",
+        "3. Agents attend so you don't\n\nOtter now sells AI agents that join your meetings, take notes, and report back. The pitch: send the agent, skip the call, and get a summary instead.",
+        "4. The end of live calls?\n\nIf agents can represent you well enough, teams may stop scheduling live calls altogether. That changes how work gets done, not just how meetings are recorded.",
+        "5. Check what they record first\n\nBefore you adopt Otter's agents, ask what they capture and who can access it. Take one real meeting this week and test the agent's output before trusting it."
+      ],
+      "video_script": [
+        "Why did Otter just raise three hundred twenty million dollars?",
+        "General Catalyst's growth fund led this massive round.",
+        "Otter now sells AI agents that attend meetings for you.",
+        "If agents can represent you, teams might skip live calls.",
+        "Check what Otter's agents record before you adopt them."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $320M for a meeting tool?\n\nOtter just raised that much to build AI agents that join calls in your place. The company bets you will pay to skip live meetings entirely.",
+            "2. Growth fund leads the round\n\nGeneral Catalyst's growth fund led the investment, signaling that major backers see AI meeting agents as a real business, not a feature.",
+            "3. Agents attend so you don't\n\nOtter now sells AI agents that join your meetings, take notes, and report back. The pitch: send the agent, skip the call, and get a summary instead.",
+            "4. The end of live calls?\n\nIf agents can represent you well enough, teams may stop scheduling live calls altogether. That changes how work gets done, not just how meetings are recorded.",
+            "5. Check what they record first\n\nBefore you adopt Otter's agents, ask what they capture and who can access it. Take one real meeting this week and test the agent's output before trusting it."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Why did Otter just raise three hundred twenty million dollars?",
+            "General Catalyst's growth fund led this massive round.",
+            "Otter now sells AI agents that attend meetings for you.",
+            "If agents can represent you, teams might skip live calls.",
+            "Check what Otter's agents record before you adopt them."
+          ]
+        },
+        "instagram": {
+          "caption": "Someone just raised $320 million so AI can sit in meetings instead of you. 🎥\n\nOtter.ai's agents join your calls, take notes, and report back. General Catalyst's growth fund led the round, betting this is a real business, not a feature.\n\nThe pitch: send the agent, skip the call, get a summary. If it works, teams may stop scheduling live meetings at all.\n\nFor anyone who runs meetings or publishes content from them, that shifts the work from showing up to checking output.\n\nOne catch before you try it: ask what the agent records and who can access it. 📋\n\nWould you let an AI attend a client call in your place? 🤔"
+        }
+      },
+      "instagram_caption": "Someone just raised $320 million so AI can sit in meetings instead of you. 🎥\n\nOtter.ai's agents join your calls, take notes, and report back. General Catalyst's growth fund led the round, betting this is a real business, not a feature.\n\nThe pitch: send the agent, skip the call, get a summary. If it works, teams may stop scheduling live meetings at all.\n\nFor anyone who runs meetings or publishes content from them, that shifts the work from showing up to checking output.\n\nOne catch before you try it: ask what the agent records and who can access it. 📋\n\nWould you let an AI attend a client call in your place? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Would you pay to skip meetings?",
+          "description": "Otter raised $320M to build AI agents that join calls for you, betting teams will pay to skip live meetings.",
+          "visual_hint": "Abstract digital meeting interface",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "video conference screen"
+        },
+        {
+          "hook": "Growth fund leads the round",
+          "description": "General Catalyst's growth fund led the investment, signaling major backers see AI meeting agents as a real business.",
+          "visual_hint": "Handshake in modern office",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "business handshake",
+          "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Agents attend so you don't",
+          "description": "Otter now sells AI agents that join meetings, take notes, and report back, so you can skip the call.",
+          "visual_hint": "AI agent joining video call",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "robot assistant",
+          "image": "https://images.pexels.com/photos/9534649/pexels-photo-9534649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The end of live calls?",
+          "description": "If agents can represent you well enough, teams may stop scheduling live calls altogether, changing how work gets done.",
+          "visual_hint": "Empty office meeting room",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "empty conference room",
+          "image": "https://images.pexels.com/photos/6949365/pexels-photo-6949365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check what they record first",
+          "description": "Before adopting Otter's agents, ask what they capture and who can access it. Test one real meeting this week.",
+          "visual_hint": "Person reviewing on tablet",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "privacy settings screen",
+          "image": "https://images.pexels.com/photos/6943446/pexels-photo-6943446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Otter-feat.jpg?resize=1200,675",
+      "savedAt": "2026-10-20T13:09:54.329Z",
+      "sourceId": "85e233d0b16647512f4ea23aa103e647"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "eka-is-worth-1-45b-thanks-to-a-physical-ai-model-t",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "pubDate": "Tue, 20 Oct 2026 13:00:00 +0000",
+      "slides": [
+        "Why does Eka's $1.45B valuation surprise AI experts?",
+        "Its physical AI model simulates real-world physics directly",
+        "Unlike LLMs, it predicts matter behavior without training data",
+        "Engineers can now test materials virtually before building",
+        "Ask your R&D team which simulation they trust today"
+      ],
+      "thread_text": [
+        "1. The $1.45B question\n\nInvestors just valued an AI company at nearly a billion and a half before most engineers could name its product. The gap between hype and proof is where the real story lives.",
+        "2. Physics, not words\n\nEka's model predicts how matter behaves by simulating real-world physics directly — no training corpus, no next-token guessing. It starts from equations, not examples.",
+        "3. Data is the weak point\n\nLLMs fail on physical prediction because they memorize patterns, not laws. Eka claims its engine works on problems it has never seen, which is where simulation actually matters.",
+        "4. Virtual before physical\n\nEngineers can now run material tests inside a model instead of a lab — compressing months of prototyping into hours. That changes who gets to build what, and how fast.",
+        "5. Trust the model?\n\nAsk your R&D team: which simulation do they actually trust today, and what would it take to trust a new one? That answer tells you more than any valuation."
+      ],
+      "video_script": [
+        "A billion and a half dollars for a company you've never heard of.",
+        "Its AI simulates physics directly, not language patterns.",
+        "No training data needed — it predicts matter from the laws.",
+        "Engineers test materials virtually now, before building anything.",
+        "So: what simulation does your R&D team actually trust today?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The $1.45B question\n\nInvestors just valued an AI company at nearly a billion and a half before most engineers could name its product. The gap between hype and proof is where the real story lives.",
+            "2. Physics, not words\n\nEka's model predicts how matter behaves by simulating real-world physics directly — no training corpus, no next-token guessing. It starts from equations, not examples.",
+            "3. Data is the weak point\n\nLLMs fail on physical prediction because they memorize patterns, not laws. Eka claims its engine works on problems it has never seen, which is where simulation actually matters.",
+            "4. Virtual before physical\n\nEngineers can now run material tests inside a model instead of a lab — compressing months of prototyping into hours. That changes who gets to build what, and how fast.",
+            "5. Trust the model?\n\nAsk your R&D team: which simulation do they actually trust today, and what would it take to trust a new one? That answer tells you more than any valuation."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A billion and a half dollars for a company you've never heard of.",
+            "Its AI simulates physics directly, not language patterns.",
+            "No training data needed — it predicts matter from the laws.",
+            "Engineers test materials virtually now, before building anything.",
+            "So: what simulation does your R&D team actually trust today?"
+          ]
+        },
+        "instagram": {
+          "caption": "A simulation that runs material tests in hours instead of months just got valued at $1.45 billion.\n\nEka says its model predicts how matter behaves by working from physics equations directly, not by memorizing examples like language models do.\n\nThat means engineers could test materials virtually before ever building a prototype. 🔬\n\nIf this holds up, prototyping timelines compress and smaller teams can compete on hardware without big lab budgets.\n\nAsk your R&D team which simulation they trust today, and what it would take to trust a new one. 🛠️"
+        }
+      },
+      "instagram_caption": "A simulation that runs material tests in hours instead of months just got valued at $1.45 billion.\n\nEka says its model predicts how matter behaves by working from physics equations directly, not by memorizing examples like language models do.\n\nThat means engineers could test materials virtually before ever building a prototype. 🔬\n\nIf this holds up, prototyping timelines compress and smaller teams can compete on hardware without big lab budgets.\n\nAsk your R&D team which simulation they trust today, and what it would take to trust a new one. 🛠️",
+      "carousel_slides": [
+        {
+          "hook": "Can AI predict matter without training data?",
+          "description": "Eka's physical model starts from equations, not examples, claiming to solve problems it has never seen.",
+          "visual_hint": "Abstract physics equations on screen",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "physics equations"
+        },
+        {
+          "hook": "$1.45B valuation stuns AI experts",
+          "description": "Investors valued Eka at nearly $1.5B before most engineers could name its product, highlighting hype vs. proof.",
+          "visual_hint": "Stock market chart rising sharply",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "LLMs fail at physical prediction",
+          "description": "LLMs memorize patterns, not laws, so they fail on physical prediction; Eka claims its engine works on unseen problems.",
+          "visual_hint": "Neural network vs. physics simulation",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "neural network diagram",
+          "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test materials virtually before building",
+          "description": "Engineers can run material tests inside a model instead of a lab, compressing months of prototyping into hours.",
+          "visual_hint": "Engineer using simulation software",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "engineer computer simulation",
+          "image": "https://images.pexels.com/photos/3862149/pexels-photo-3862149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Which simulation does your R&D trust?",
+          "description": "Ask your R&D team which simulation they trust today and what it would take to trust a new one.",
+          "visual_hint": "R&D team discussing over charts",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "research team meeting",
+          "image": "https://images.pexels.com/photos/7988663/pexels-photo-7988663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-1.21.23-PM.png?resize=1200,974",
+      "savedAt": "2026-10-20T13:09:45.569Z",
+      "sourceId": "185426ba2ac3ad8c78f07a3bec966676"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "us-orders-federal-agencies-to-remove-china-s-deeps",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "pubDate": "Tue, 20 Oct 2026 13:07:24 +0000",
+      "slides": [
+        "Why is the US removing DeepSeek from federal systems?",
+        "The order cites national security risks from the AI.",
+        "Yet DeepSeek's models are open-source and widely used.",
+        "Agencies must audit and purge DeepSeek software immediately.",
+        "Check if your organization relies on DeepSeek—review now."
+      ],
+      "thread_text": [
+        "1. DeepSeek booted from US systems\n\nThe order cites national security risks from the AI. But DeepSeek's models are open-source and widely used—making the ban a puzzle.",
+        "2. Open-source, closed doors?\n\nDeepSeek's code is public, so anyone can inspect it. Yet the US says the risks are too great for federal use.",
+        "3. Audit and purge now\n\nAgencies must immediately audit and purge DeepSeek software. The clock is ticking for compliance.",
+        "4. Your org might be next\n\nIf you rely on DeepSeek, the purge could hit you. Review your dependencies before it's too late.",
+        "5. Review your DeepSeek use today\n\nCheck if your organization relies on DeepSeek. If it does, start planning an alternative now."
+      ],
+      "video_script": [
+        "The US is removing DeepSeek from federal systems.",
+        "The order cites national security risks from the AI.",
+        "But DeepSeek's models are open-source and widely used.",
+        "Agencies must audit and purge DeepSeek software immediately.",
+        "Check if your organization relies on DeepSeek and review now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. DeepSeek booted from US systems\n\nThe order cites national security risks from the AI. But DeepSeek's models are open-source and widely used—making the ban a puzzle.",
+            "2. Open-source, closed doors?\n\nDeepSeek's code is public, so anyone can inspect it. Yet the US says the risks are too great for federal use.",
+            "3. Audit and purge now\n\nAgencies must immediately audit and purge DeepSeek software. The clock is ticking for compliance.",
+            "4. Your org might be next\n\nIf you rely on DeepSeek, the purge could hit you. Review your dependencies before it's too late.",
+            "5. Review your DeepSeek use today\n\nCheck if your organization relies on DeepSeek. If it does, start planning an alternative now."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "The US is removing DeepSeek from federal systems.",
+            "The order cites national security risks from the AI.",
+            "But DeepSeek's models are open-source and widely used.",
+            "Agencies must audit and purge DeepSeek software immediately.",
+            "Check if your organization relies on DeepSeek and review now."
+          ]
+        },
+        "instagram": {
+          "caption": "Federal agencies just got ordered to rip DeepSeek out of their systems—immediately.\n\nThe order cites national security risks from the AI. Yet DeepSeek's models are open-source, meaning anyone can inspect the code. 🔍\n\nThat contradiction is the whole story: public code, closed doors.\n\nIf your team builds or publishes with DeepSeek under the hood, an audit and purge could land on your desk next.\n\nCheck your dependencies today—do you actually know what's running in your stack? ⚠️"
+        }
+      },
+      "instagram_caption": "Federal agencies just got ordered to rip DeepSeek out of their systems—immediately.\n\nThe order cites national security risks from the AI. Yet DeepSeek's models are open-source, meaning anyone can inspect the code. 🔍\n\nThat contradiction is the whole story: public code, closed doors.\n\nIf your team builds or publishes with DeepSeek under the hood, an audit and purge could land on your desk next.\n\nCheck your dependencies today—do you actually know what's running in your stack? ⚠️",
+      "carousel_slides": [
+        {
+          "hook": "Why ban open-source AI?",
+          "description": "US orders federal agencies to remove DeepSeek, citing national security risks. Yet its models are open-source and widely used.",
+          "visual_hint": "Government building with AI overlay",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "government building"
+        },
+        {
+          "hook": "Security risks or overreach?",
+          "description": "The order cites national security risks from DeepSeek AI. But open-source code is public and inspectable by anyone.",
+          "visual_hint": "Code on screen with warning sign",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer code screen",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Open-source, closed doors?",
+          "description": "DeepSeek's models are open-source and widely used. Yet the US says risks are too great for federal use.",
+          "visual_hint": "Open source code lock icon",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "open source code",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit and purge immediately",
+          "description": "Agencies must audit and purge DeepSeek software now. The clock is ticking for compliance.",
+          "visual_hint": "Hand deleting files on computer",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand deleting files",
+          "image": "https://images.pexels.com/photos/6538582/pexels-photo-6538582.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: review your AI use",
+          "description": "Check if your organization relies on DeepSeek. If it does, start planning an alternative now.",
+          "visual_hint": "Checklist with AI software icons",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2195703830.jpg?w=1024",
+      "savedAt": "2026-10-20T13:09:36.468Z",
+      "sourceId": "baab9c27d2ea33a28c489ba6f963012e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "coreweave-8217-s-debt-is-becoming-the-whole-ai-ind",
       "prompt_version": "1.0.0",
       "status": "published",
