@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "coreweave-8217-s-debt-is-becoming-the-whole-ai-ind",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+  "pubDate": "2026-10-19T21:28:20.000Z",
+  "slides": [
+    "Can CoreWeave's debt sink the entire AI boom?",
+    "It borrows billions against GPUs that lose value fast.",
+    "But its contracts are with Microsoft and OpenAI, not startups.",
+    "If one tenant defaults, contagion hits every AI landlord.",
+    "Check who holds the risk before renting compute."
+  ],
+  "thread_text": [
+    "1. The GPU Debt Bomb\n\nCoreWeave borrowed billions using GPUs as collateral. Those chips lose value fast, but the loans are long-term.",
+    "2. Collateral That Melts\n\nA GPU's resale value drops every quarter. Lenders are betting on hardware that depreciates faster than the loans mature.",
+    "3. Big Tech Safety Net\n\nCoreWeave's contracts are with Microsoft and OpenAI, not risky startups. That's supposed to make the debt safer.",
+    "4. One Default, All Fall\n\nIf a single major tenant misses a payment, the contagion spreads to every AI landlord holding similar debt.",
+    "5. Check the Risk Holder\n\nBefore you rent compute or invest in AI infrastructure, ask who actually holds the default risk. Does it match your timeline?"
+  ],
+  "video_script": [
+    "CoreWeave borrowed billions against GPUs that lose value fast.",
+    "Those chips depreciate every quarter, but the loans are long-term.",
+    "Its contracts are with Microsoft and OpenAI, not startups.",
+    "If one tenant defaults, contagion hits every AI landlord.",
+    "Check who holds the risk before renting compute."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The GPU Debt Bomb\n\nCoreWeave borrowed billions using GPUs as collateral. Those chips lose value fast, but the loans are long-term.",
+        "2. Collateral That Melts\n\nA GPU's resale value drops every quarter. Lenders are betting on hardware that depreciates faster than the loans mature.",
+        "3. Big Tech Safety Net\n\nCoreWeave's contracts are with Microsoft and OpenAI, not risky startups. That's supposed to make the debt safer.",
+        "4. One Default, All Fall\n\nIf a single major tenant misses a payment, the contagion spreads to every AI landlord holding similar debt.",
+        "5. Check the Risk Holder\n\nBefore you rent compute or invest in AI infrastructure, ask who actually holds the default risk. Does it match your timeline?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "CoreWeave borrowed billions against GPUs that lose value fast.",
+        "Those chips depreciate every quarter, but the loans are long-term.",
+        "Its contracts are with Microsoft and OpenAI, not startups.",
+        "If one tenant defaults, contagion hits every AI landlord.",
+        "Check who holds the risk before renting compute."
+      ]
+    },
+    "instagram": {
+      "caption": "Billions in loans are backed by GPUs that lose resale value every quarter.\n\nCoreWeave borrowed against chips that depreciate faster than the debt matures. 😬\n\nIts contracts sit with Microsoft and OpenAI, not shaky startups — that's meant to make the debt safer.\n\nBut if one major tenant misses a payment, the contagion spreads to every AI landlord holding similar paper.\n\nIf you rent compute or build on top of these providers, your costs and uptime ride on debt you never signed. ⚠️\n\nBefore you commit, ask who actually holds the default risk — and whether it matches your timeline. 🔍\n\nDo you know who's really on the hook for the compute you depend on? 🤔"
+    }
+  },
+  "instagram_caption": "Billions in loans are backed by GPUs that lose resale value every quarter.\n\nCoreWeave borrowed against chips that depreciate faster than the debt matures. 😬\n\nIts contracts sit with Microsoft and OpenAI, not shaky startups — that's meant to make the debt safer.\n\nBut if one major tenant misses a payment, the contagion spreads to every AI landlord holding similar paper.\n\nIf you rent compute or build on top of these providers, your costs and uptime ride on debt you never signed. ⚠️\n\nBefore you commit, ask who actually holds the default risk — and whether it matches your timeline. 🔍\n\nDo you know who's really on the hook for the compute you depend on? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can CoreWeave's debt sink the AI boom?",
+      "description": "CoreWeave borrowed billions using GPUs as collateral, but those chips depreciate faster than the loans mature.",
+      "visual_hint": "Stack of debt documents with GPU graphic",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Collateral that melts: GPU loans risk",
+      "description": "Lenders bet on hardware losing value quarterly, while loans stretch long-term—a dangerous mismatch.",
+      "visual_hint": "Melting GPU with dollar signs",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Big Tech contracts: safety net or illusion?",
+      "description": "CoreWeave's deals with Microsoft and OpenAI seem safe, but they're not immune to a major default.",
+      "visual_hint": "Contract between tech logos",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "handshake",
+      "image": "https://images.pexels.com/photos/2822647/pexels-photo-2822647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One default, all fall: contagion risk",
+      "description": "If a single tenant defaults, the shockwave hits every AI landlord holding similar GPU debt.",
+      "visual_hint": "Domino effect of falling servers",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "falling dominoes",
+      "image": "https://images.pexels.com/photos/9760552/pexels-photo-9760552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: know who holds the risk",
+      "description": "Before renting compute or investing, ask who bears the default risk—and match it to your timeline.",
+      "visual_hint": "Person analyzing risk chart",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_Illo_AI_Bubble.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-20T06:54:04.503Z",
+  "sourceId": "d5284706e5723232dbaad73640309bd1"
+}
