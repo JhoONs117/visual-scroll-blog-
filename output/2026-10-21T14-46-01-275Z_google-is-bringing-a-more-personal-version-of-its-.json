@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-is-bringing-a-more-personal-version-of-its-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+  "link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+  "pubDate": "Tue, 20 Oct 2026 20:00:00 +0000",
+  "slides": [
+    "Will your car soon know you better than your phone?",
+    "Google is extending Gemini's personalization into vehicles",
+    "It pulls context from your calendar and past conversations",
+    "Drivers get proactive suggestions before they ask",
+    "Test one routine trip to feel the difference"
+  ],
+  "thread_text": [
+    "1. Your car is watching\n\nGoogle is pushing Gemini's personalization into vehicles, pulling context from your calendar and past conversations. Your dashboard is about to know your schedule better than you do.",
+    "2. The proactive passenger\n\nGemini doesn't wait for you to ask — it anticipates. It surfaces suggestions before you even think to request them, turning your commute into a guided routine.",
+    "3. Context is the new fuel\n\nYour car will remember where you're going and why, linking past conversations to current trips. That means fewer taps, but also a passenger that listens more than you realize.",
+    "4. Convenience vs. privacy\n\nThe more helpful the car becomes, the more it knows about your life. The trade-off is real: smoother mornings or a vehicle that tracks every plan you make?",
+    "5. Test it on one trip\n\nTake a routine drive and see if the suggestions actually save you time. If you haven't tried it, start with a single errand and judge for yourself."
+  ],
+  "video_script": [
+    "What if your car knew your day before you did?",
+    "Google is putting Gemini's memory into your vehicle.",
+    "It reads your calendar and remembers past conversations.",
+    "Your car starts suggesting things before you ask.",
+    "Try one routine trip and see if it helps."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your car is watching\n\nGoogle is pushing Gemini's personalization into vehicles, pulling context from your calendar and past conversations. Your dashboard is about to know your schedule better than you do.",
+        "2. The proactive passenger\n\nGemini doesn't wait for you to ask — it anticipates. It surfaces suggestions before you even think to request them, turning your commute into a guided routine.",
+        "3. Context is the new fuel\n\nYour car will remember where you're going and why, linking past conversations to current trips. That means fewer taps, but also a passenger that listens more than you realize.",
+        "4. Convenience vs. privacy\n\nThe more helpful the car becomes, the more it knows about your life. The trade-off is real: smoother mornings or a vehicle that tracks every plan you make?",
+        "5. Test it on one trip\n\nTake a routine drive and see if the suggestions actually save you time. If you haven't tried it, start with a single errand and judge for yourself."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "What if your car knew your day before you did?",
+        "Google is putting Gemini's memory into your vehicle.",
+        "It reads your calendar and remembers past conversations.",
+        "Your car starts suggesting things before you ask.",
+        "Try one routine trip and see if it helps."
+      ]
+    },
+    "instagram": {
+      "caption": "Your car is about to pull up your calendar before you even ask.\n\nGoogle is bringing Gemini's personalization into vehicles, so your dashboard reads context from past conversations and scheduled plans. 🚗\n\nIt surfaces suggestions before you request them, turning a routine commute into a guided trip.\n\nIt means fewer taps behind the wheel, but also a passenger that listens more than you realize.\n\nFor anyone who works on the go, smoother mornings come with a quiet trade-off: a car that knows every plan you make. 🤔\n\nWould you hand your calendar to your dashboard if it saved you ten minutes a day?"
+    }
+  },
+  "instagram_caption": "Your car is about to pull up your calendar before you even ask.\n\nGoogle is bringing Gemini's personalization into vehicles, so your dashboard reads context from past conversations and scheduled plans. 🚗\n\nIt surfaces suggestions before you request them, turning a routine commute into a guided trip.\n\nIt means fewer taps behind the wheel, but also a passenger that listens more than you realize.\n\nFor anyone who works on the go, smoother mornings come with a quiet trade-off: a car that knows every plan you make. 🤔\n\nWould you hand your calendar to your dashboard if it saved you ten minutes a day?",
+  "carousel_slides": [
+    {
+      "hook": "Will your car soon know you better?",
+      "description": "Google is extending Gemini's personalization into vehicles, pulling context from your calendar and past conversations. Your dashboard may soon anticipate your needs.",
+      "visual_hint": "Futuristic car dashboard with AI interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "car dashboard"
+    },
+    {
+      "hook": "Gemini brings personalization to your vehicle",
+      "description": "Google is pushing Gemini's personalization into cars, using your calendar and past conversations to tailor suggestions. Expect a more intuitive driving experience.",
+      "visual_hint": "Driver interacting with car touchscreen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "car touchscreen",
+      "image": "https://images.pexels.com/photos/35641865/pexels-photo-35641865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It reads your calendar and conversations",
+      "description": "Gemini pulls context from your calendar and past conversations, linking destinations to your plans. This means fewer taps and a car that listens more than you realize.",
+      "visual_hint": "Smartphone calendar syncing with car",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smartphone calendar",
+      "image": "https://images.pexels.com/photos/13709181/pexels-photo-13709181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Proactive suggestions before you ask",
+      "description": "Gemini anticipates your needs, surfacing suggestions before you think to request them. Your commute becomes a guided routine with fewer distractions.",
+      "visual_hint": "Driver receiving navigation suggestion",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "car navigation",
+      "image": "https://images.pexels.com/photos/4824427/pexels-photo-4824427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it on one routine trip",
+      "description": "Take a routine drive and see if the suggestions save you time. Judge the difference for yourself on a single errand.",
+      "visual_hint": "Driver on a typical commute",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person driving car",
+      "image": "https://images.pexels.com/photos/3892894/pexels-photo-3892894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/04/Gemini-google-vehicles.jpeg?w=1200",
+  "savedAt": "2026-10-21T14:46:21.643Z",
+  "sourceId": "b6df1373e720f02c1fec59bfaea084cc"
+}

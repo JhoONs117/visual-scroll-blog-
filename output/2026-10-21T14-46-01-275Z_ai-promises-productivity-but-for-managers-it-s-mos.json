@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-promises-productivity-but-for-managers-it-s-mos",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+  "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+  "pubDate": "Wed, 21 Oct 2026 14:00:00 +0000",
+  "slides": [
+    "AI promised managers productivity—why the headache?",
+    "Most tools still demand more oversight, not less",
+    "The real bottleneck: managers can't verify AI's output",
+    "Start with one auditable task you already measure",
+    "Demand tools that show their work, or skip them"
+  ],
+  "thread_text": [
+    "1. The AI productivity illusion\n\nManagers were promised less work, but most tools add oversight—every output needs a second look. The headache is real.",
+    "2. Oversight is the new workload\n\nInstead of saving time, AI often creates a review queue. You're not managing less; you're managing differently.",
+    "3. The verification bottleneck\n\nManagers can't easily check AI's work, so trust erodes. Without transparency, every output becomes a mini-audit.",
+    "4. Start with one auditable task\n\nPick a task you already measure—like report generation—and test AI there. Measurable results beat vague promises.",
+    "5. Demand tools that show their work\n\nIf a tool can't explain its output, skip it. Try one task this week and see if the oversight outweighs the gain."
+  ],
+  "video_script": [
+    "AI promised productivity, but managers got headaches instead.",
+    "Most tools demand more oversight, not less.",
+    "The real bottleneck: verifying AI's output is hard.",
+    "Start with one auditable task you already measure.",
+    "Demand tools that show their work, or skip them."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The AI productivity illusion\n\nManagers were promised less work, but most tools add oversight—every output needs a second look. The headache is real.",
+        "2. Oversight is the new workload\n\nInstead of saving time, AI often creates a review queue. You're not managing less; you're managing differently.",
+        "3. The verification bottleneck\n\nManagers can't easily check AI's work, so trust erodes. Without transparency, every output becomes a mini-audit.",
+        "4. Start with one auditable task\n\nPick a task you already measure—like report generation—and test AI there. Measurable results beat vague promises.",
+        "5. Demand tools that show their work\n\nIf a tool can't explain its output, skip it. Try one task this week and see if the oversight outweighs the gain."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI promised productivity, but managers got headaches instead.",
+        "Most tools demand more oversight, not less.",
+        "The real bottleneck: verifying AI's output is hard.",
+        "Start with one auditable task you already measure.",
+        "Demand tools that show their work, or skip them."
+      ]
+    },
+    "instagram": {
+      "caption": "Managers were promised less work from AI, but most tools add a review queue instead.\n\nEvery output needs a second look, so oversight becomes the new workload. 😅 The real bottleneck isn't speed—it's that managers can't easily verify what the AI produced.\n\nPick one task you already measure, like report generation, and test AI there first. 📊 Measurable results beat vague promises.\n\nIf a tool can't explain its output, skip it. 🔍 Try one task this week—does the oversight outweigh the gain? 🤔"
+    }
+  },
+  "instagram_caption": "Managers were promised less work from AI, but most tools add a review queue instead.\n\nEvery output needs a second look, so oversight becomes the new workload. 😅 The real bottleneck isn't speed—it's that managers can't easily verify what the AI produced.\n\nPick one task you already measure, like report generation, and test AI there first. 📊 Measurable results beat vague promises.\n\nIf a tool can't explain its output, skip it. 🔍 Try one task this week—does the oversight outweigh the gain? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can you really trust AI's output?",
+      "description": "Managers can't easily verify AI's work, so trust erodes. Without transparency, every output becomes a mini-audit.",
+      "visual_hint": "Frustrated manager reviewing AI reports",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "office worker computer"
+    },
+    {
+      "hook": "Oversight is the new workload",
+      "description": "AI often creates a review queue instead of saving time. You're not managing less; you're managing differently.",
+      "visual_hint": "Manager buried in paperwork",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "paper stack desk",
+      "image": "https://images.pexels.com/photos/8872520/pexels-photo-8872520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The verification bottleneck erodes trust",
+      "description": "Most AI tools demand more oversight, not less. Every output needs a second look, adding to the headache.",
+      "visual_hint": "Magnifying glass over AI output",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass document",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Start with one auditable task",
+      "description": "Pick a task you already measure—like report generation—and test AI there. Measurable results beat vague promises.",
+      "visual_hint": "Manager testing AI with checklist",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "checklist clipboard hand",
+      "image": "https://images.pexels.com/photos/8470801/pexels-photo-8470801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: demand tools that show work",
+      "description": "If a tool can't explain its output, skip it. Try one task this week and see if the oversight outweighs the gain.",
+      "visual_hint": "Manager evaluating AI tool with checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist evaluation",
+      "image": "https://images.pexels.com/photos/7937679/pexels-photo-7937679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-157163369.jpg?resize=1200,900",
+  "savedAt": "2026-10-21T14:46:11.059Z",
+  "sourceId": "1d707ef9b9de000ab304ffd606094198"
+}
