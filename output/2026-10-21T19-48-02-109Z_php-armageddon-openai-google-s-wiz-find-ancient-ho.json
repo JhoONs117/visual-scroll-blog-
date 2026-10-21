@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "php-armageddon-openai-google-s-wiz-find-ancient-ho",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+  "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+  "pubDate": "Wed, 21 Oct 2026 17:59:12 +0000",
+  "slides": [
+    "Can one PHP bug break the entire internet?",
+    "OpenAI and Wiz found holes in PHP itself",
+    "The flaws date back years, unnoticed by everyone",
+    "Any server running unpatched PHP is exposed now",
+    "Check your PHP version before you sleep tonight"
+  ],
+  "thread_text": [
+    "1. The bug that slept for years\n\nSecurity researchers at OpenAI and Wiz found critical flaws in PHP itself — not in a plugin, not in a theme. The code running most of the web.",
+    "2. Years of silence, broken\n\nThese vulnerabilities remained undetected for years while countless servers ran them. The discovery window was wide open the entire time.",
+    "3. Every unpatched server is live bait\n\nIf your PHP installation hasn't been updated, you are exposed right now. No exploit kit needed — the door is already open.",
+    "4. Attackers don't wait for you\n\nPublic disclosure means scanners are already sweeping for vulnerable versions. The clock started the moment the research went live.",
+    "5. Check your version tonight\n\nOpen your terminal and run php -v. If it's not the latest patch, update it before you sleep. Then ask: when did you last check?"
+  ],
+  "video_script": [
+    "Security researchers just found critical bugs inside PHP itself.",
+    "These flaws sat unnoticed in production code for years.",
+    "If your server runs unpatched PHP, you are exposed right now.",
+    "Attackers are already scanning for vulnerable versions today.",
+    "Check your version and update before you sleep tonight."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The bug that slept for years\n\nSecurity researchers at OpenAI and Wiz found critical flaws in PHP itself — not in a plugin, not in a theme. The code running most of the web.",
+        "2. Years of silence, broken\n\nThese vulnerabilities remained undetected for years while countless servers ran them. The discovery window was wide open the entire time.",
+        "3. Every unpatched server is live bait\n\nIf your PHP installation hasn't been updated, you are exposed right now. No exploit kit needed — the door is already open.",
+        "4. Attackers don't wait for you\n\nPublic disclosure means scanners are already sweeping for vulnerable versions. The clock started the moment the research went live.",
+        "5. Check your version tonight\n\nOpen your terminal and run php -v. If it's not the latest patch, update it before you sleep. Then ask: when did you last check?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Security researchers just found critical bugs inside PHP itself.",
+        "These flaws sat unnoticed in production code for years.",
+        "If your server runs unpatched PHP, you are exposed right now.",
+        "Attackers are already scanning for vulnerable versions today.",
+        "Check your version and update before you sleep tonight."
+      ]
+    },
+    "instagram": {
+      "caption": "A bug in PHP itself — not a plugin, not a theme — sat undetected for years. OpenAI and Wiz found it. 🔓\n\nPHP runs most of the web, so any server on an unpatched version is exposed right now, no exploit kit required.\n\nPublic disclosure means scanners are already sweeping for vulnerable versions.\n\nIf you run a site or a tool built on PHP, check your version before you sleep. 🛠️\n\nOpen your terminal and run php -v. Is it the latest patch? ⏰\n\nWhen did you last check yours?"
+    }
+  },
+  "instagram_caption": "A bug in PHP itself — not a plugin, not a theme — sat undetected for years. OpenAI and Wiz found it. 🔓\n\nPHP runs most of the web, so any server on an unpatched version is exposed right now, no exploit kit required.\n\nPublic disclosure means scanners are already sweeping for vulnerable versions.\n\nIf you run a site or a tool built on PHP, check your version before you sleep. 🛠️\n\nOpen your terminal and run php -v. Is it the latest patch? ⏰\n\nWhen did you last check yours?",
+  "carousel_slides": [
+    {
+      "hook": "PHP bug slept for years?",
+      "description": "Security researchers at OpenAI and Wiz found critical flaws in PHP itself, the code running most of the web. Years undetected.",
+      "visual_hint": "Abstract code with hidden cracks",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Years of silence broken",
+      "description": "These vulnerabilities remained undetected for years while countless servers ran them. The discovery window was wide open.",
+      "visual_hint": "Faint glowing lines in dark server rack",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server rack",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Every unpatched server is exposed",
+      "description": "If your PHP installation hasn't been updated, you are exposed right now. No exploit kit needed—the door is open.",
+      "visual_hint": "Server door slightly ajar with light",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer code",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Attackers don't wait for you",
+      "description": "Public disclosure means scanners are already sweeping for vulnerable versions. The clock started the moment research went live.",
+      "visual_hint": "Glowing scan lines over server room",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hacker hoodie",
+      "image": "https://images.pexels.com/photos/6963933/pexels-photo-6963933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your PHP version tonight",
+      "description": "Open your terminal and run php -v. If it's not the latest patch, update it before you sleep. Then ask: when did you last check?",
+      "visual_hint": "Person typing on laptop command line",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "terminal screen",
+      "image": "https://images.pexels.com/photos/3943949/pexels-photo-3943949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-460689215.jpg?resize=1200,801",
+  "savedAt": "2026-10-21T19:48:29.340Z",
+  "sourceId": "c344635e541c5f19aab9064386a9d9d4"
+}

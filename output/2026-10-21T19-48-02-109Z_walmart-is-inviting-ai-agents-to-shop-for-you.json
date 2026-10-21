@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "walmart-is-inviting-ai-agents-to-shop-for-you",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Walmart is inviting AI agents to shop for you",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+  "pubDate": "2026-10-21T19:30:00.000Z",
+  "slides": [
+    "Walmart opens its checkout lanes to AI agents—who pays?",
+    "The retailer is building a system for autonomous shopping.",
+    "Agents will negotiate prices and even handle returns.",
+    "Your weekly grocery run could soon be fully automated.",
+    "Test one small order and see if the agent saves you money."
+  ],
+  "thread_text": [
+    "1. Walmart's AI Checkout Gambit\n\nWalmart is building a system that lets AI agents shop for you—negotiating prices and handling returns. The big question: who pays when agents start making deals?",
+    "2. The Autonomous Shopping Engine\n\nThe retailer is developing a platform where agents autonomously complete purchases. It's not just about convenience—it's about rewriting the rules of retail transactions.",
+    "3. Negotiation Bots on Aisle 5\n\nYour AI agent could soon haggle with Walmart's AI over the price of cereal. And when you want to return that blender, the bots will handle that too—no human needed.",
+    "4. Your Grocery Run, Fully Automated\n\nImagine never setting foot in a store again. Your weekly shopping becomes a background task. But does automation mean you lose control over what you buy?",
+    "5. Test the Agent on One Order\n\nTry a small purchase with an AI shopping assistant. See if it actually saves you money—or just adds a layer of confusion. Would you trust it with your grocery list?"
+  ],
+  "video_script": [
+    "Walmart wants AI agents to shop for you.",
+    "The system negotiates prices and handles returns.",
+    "Your grocery run could become fully automated.",
+    "But who pays when the bots make deals?",
+    "Test one small order and see if it saves money."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Walmart's AI Checkout Gambit\n\nWalmart is building a system that lets AI agents shop for you—negotiating prices and handling returns. The big question: who pays when agents start making deals?",
+        "2. The Autonomous Shopping Engine\n\nThe retailer is developing a platform where agents autonomously complete purchases. It's not just about convenience—it's about rewriting the rules of retail transactions.",
+        "3. Negotiation Bots on Aisle 5\n\nYour AI agent could soon haggle with Walmart's AI over the price of cereal. And when you want to return that blender, the bots will handle that too—no human needed.",
+        "4. Your Grocery Run, Fully Automated\n\nImagine never setting foot in a store again. Your weekly shopping becomes a background task. But does automation mean you lose control over what you buy?",
+        "5. Test the Agent on One Order\n\nTry a small purchase with an AI shopping assistant. See if it actually saves you money—or just adds a layer of confusion. Would you trust it with your grocery list?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Walmart wants AI agents to shop for you.",
+        "The system negotiates prices and handles returns.",
+        "Your grocery run could become fully automated.",
+        "But who pays when the bots make deals?",
+        "Test one small order and see if it saves money."
+      ]
+    },
+    "instagram": {
+      "caption": "Your AI agent could soon haggle with Walmart's AI over the price of cereal—and handle the return of that blender too. 🛒\n\nWalmart is building a system where agents shop autonomously: negotiating prices and completing purchases without you.\n\nYour weekly grocery run becomes a background task instead of an errand. 🤖\n\nFor anyone who writes or publishes content, retail transactions stop being a human interface—they become machine-to-machine deals you'll need to explain to audiences.\n\nWould you trust an agent with your grocery list, or does handing over the negotiation feel like losing control? 🧾"
+    }
+  },
+  "instagram_caption": "Your AI agent could soon haggle with Walmart's AI over the price of cereal—and handle the return of that blender too. 🛒\n\nWalmart is building a system where agents shop autonomously: negotiating prices and completing purchases without you.\n\nYour weekly grocery run becomes a background task instead of an errand. 🤖\n\nFor anyone who writes or publishes content, retail transactions stop being a human interface—they become machine-to-machine deals you'll need to explain to audiences.\n\nWould you trust an agent with your grocery list, or does handing over the negotiation feel like losing control? 🧾",
+  "carousel_slides": [
+    {
+      "hook": "Will AI agents haggle for your groceries?",
+      "description": "Walmart lets AI agents negotiate prices and handle returns, raising the question: who pays when bots make deals?",
+      "visual_hint": "AI agent negotiating price on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "grocery store aisle"
+    },
+    {
+      "hook": "Walmart builds autonomous shopping system",
+      "description": "The retailer is developing a platform where AI agents autonomously complete purchases, rewriting retail transaction rules.",
+      "visual_hint": "flowchart of automated purchase process",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Bots negotiate prices and handle returns",
+      "description": "Your AI agent could haggle with Walmart's AI over cereal price and process returns without human involvement.",
+      "visual_hint": "two robots shaking hands over product",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robot arm warehouse",
+      "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Weekly grocery run fully automated",
+      "description": "Imagine never setting foot in a store again—your shopping becomes a background task, but do you lose control?",
+      "visual_hint": "person relaxing while groceries delivered",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "grocery delivery boxes",
+      "image": "https://images.pexels.com/photos/7363147/pexels-photo-7363147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one order, save money?",
+      "description": "Try a small purchase with an AI shopping assistant and see if it actually saves you money or adds confusion.",
+      "visual_hint": "hand holding phone with AI shopping app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone shopping app",
+      "image": "https://images.pexels.com/photos/7661069/pexels-photo-7661069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2247092603.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
+  "savedAt": "2026-10-21T19:48:38.274Z",
+  "sourceId": "949d2397cfe4dfb7ab5716f2b6a6d493"
+}

@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "walmart-is-inviting-ai-agents-to-shop-for-you",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Walmart is inviting AI agents to shop for you",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "pubDate": "2026-10-21T19:30:00.000Z",
+      "slides": [
+        "Walmart opens its checkout lanes to AI agents—who pays?",
+        "The retailer is building a system for autonomous shopping.",
+        "Agents will negotiate prices and even handle returns.",
+        "Your weekly grocery run could soon be fully automated.",
+        "Test one small order and see if the agent saves you money."
+      ],
+      "thread_text": [
+        "1. Walmart's AI Checkout Gambit\n\nWalmart is building a system that lets AI agents shop for you—negotiating prices and handling returns. The big question: who pays when agents start making deals?",
+        "2. The Autonomous Shopping Engine\n\nThe retailer is developing a platform where agents autonomously complete purchases. It's not just about convenience—it's about rewriting the rules of retail transactions.",
+        "3. Negotiation Bots on Aisle 5\n\nYour AI agent could soon haggle with Walmart's AI over the price of cereal. And when you want to return that blender, the bots will handle that too—no human needed.",
+        "4. Your Grocery Run, Fully Automated\n\nImagine never setting foot in a store again. Your weekly shopping becomes a background task. But does automation mean you lose control over what you buy?",
+        "5. Test the Agent on One Order\n\nTry a small purchase with an AI shopping assistant. See if it actually saves you money—or just adds a layer of confusion. Would you trust it with your grocery list?"
+      ],
+      "video_script": [
+        "Walmart wants AI agents to shop for you.",
+        "The system negotiates prices and handles returns.",
+        "Your grocery run could become fully automated.",
+        "But who pays when the bots make deals?",
+        "Test one small order and see if it saves money."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Walmart's AI Checkout Gambit\n\nWalmart is building a system that lets AI agents shop for you—negotiating prices and handling returns. The big question: who pays when agents start making deals?",
+            "2. The Autonomous Shopping Engine\n\nThe retailer is developing a platform where agents autonomously complete purchases. It's not just about convenience—it's about rewriting the rules of retail transactions.",
+            "3. Negotiation Bots on Aisle 5\n\nYour AI agent could soon haggle with Walmart's AI over the price of cereal. And when you want to return that blender, the bots will handle that too—no human needed.",
+            "4. Your Grocery Run, Fully Automated\n\nImagine never setting foot in a store again. Your weekly shopping becomes a background task. But does automation mean you lose control over what you buy?",
+            "5. Test the Agent on One Order\n\nTry a small purchase with an AI shopping assistant. See if it actually saves you money—or just adds a layer of confusion. Would you trust it with your grocery list?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Walmart wants AI agents to shop for you.",
+            "The system negotiates prices and handles returns.",
+            "Your grocery run could become fully automated.",
+            "But who pays when the bots make deals?",
+            "Test one small order and see if it saves money."
+          ]
+        },
+        "instagram": {
+          "caption": "Your AI agent could soon haggle with Walmart's AI over the price of cereal—and handle the return of that blender too. 🛒\n\nWalmart is building a system where agents shop autonomously: negotiating prices and completing purchases without you.\n\nYour weekly grocery run becomes a background task instead of an errand. 🤖\n\nFor anyone who writes or publishes content, retail transactions stop being a human interface—they become machine-to-machine deals you'll need to explain to audiences.\n\nWould you trust an agent with your grocery list, or does handing over the negotiation feel like losing control? 🧾"
+        }
+      },
+      "instagram_caption": "Your AI agent could soon haggle with Walmart's AI over the price of cereal—and handle the return of that blender too. 🛒\n\nWalmart is building a system where agents shop autonomously: negotiating prices and completing purchases without you.\n\nYour weekly grocery run becomes a background task instead of an errand. 🤖\n\nFor anyone who writes or publishes content, retail transactions stop being a human interface—they become machine-to-machine deals you'll need to explain to audiences.\n\nWould you trust an agent with your grocery list, or does handing over the negotiation feel like losing control? 🧾",
+      "carousel_slides": [
+        {
+          "hook": "Will AI agents haggle for your groceries?",
+          "description": "Walmart lets AI agents negotiate prices and handle returns, raising the question: who pays when bots make deals?",
+          "visual_hint": "AI agent negotiating price on screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "grocery store aisle"
+        },
+        {
+          "hook": "Walmart builds autonomous shopping system",
+          "description": "The retailer is developing a platform where AI agents autonomously complete purchases, rewriting retail transaction rules.",
+          "visual_hint": "flowchart of automated purchase process",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Bots negotiate prices and handle returns",
+          "description": "Your AI agent could haggle with Walmart's AI over cereal price and process returns without human involvement.",
+          "visual_hint": "two robots shaking hands over product",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "robot arm warehouse",
+          "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Weekly grocery run fully automated",
+          "description": "Imagine never setting foot in a store again—your shopping becomes a background task, but do you lose control?",
+          "visual_hint": "person relaxing while groceries delivered",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "grocery delivery boxes",
+          "image": "https://images.pexels.com/photos/7363147/pexels-photo-7363147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one order, save money?",
+          "description": "Try a small purchase with an AI shopping assistant and see if it actually saves you money or adds confusion.",
+          "visual_hint": "hand holding phone with AI shopping app",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone shopping app",
+          "image": "https://images.pexels.com/photos/7661069/pexels-photo-7661069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2247092603.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
+      "savedAt": "2026-10-21T19:48:38.274Z",
+      "sourceId": "949d2397cfe4dfb7ab5716f2b6a6d493"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "php-armageddon-openai-google-s-wiz-find-ancient-ho",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "pubDate": "Wed, 21 Oct 2026 17:59:12 +0000",
+      "slides": [
+        "Can one PHP bug break the entire internet?",
+        "OpenAI and Wiz found holes in PHP itself",
+        "The flaws date back years, unnoticed by everyone",
+        "Any server running unpatched PHP is exposed now",
+        "Check your PHP version before you sleep tonight"
+      ],
+      "thread_text": [
+        "1. The bug that slept for years\n\nSecurity researchers at OpenAI and Wiz found critical flaws in PHP itself — not in a plugin, not in a theme. The code running most of the web.",
+        "2. Years of silence, broken\n\nThese vulnerabilities remained undetected for years while countless servers ran them. The discovery window was wide open the entire time.",
+        "3. Every unpatched server is live bait\n\nIf your PHP installation hasn't been updated, you are exposed right now. No exploit kit needed — the door is already open.",
+        "4. Attackers don't wait for you\n\nPublic disclosure means scanners are already sweeping for vulnerable versions. The clock started the moment the research went live.",
+        "5. Check your version tonight\n\nOpen your terminal and run php -v. If it's not the latest patch, update it before you sleep. Then ask: when did you last check?"
+      ],
+      "video_script": [
+        "Security researchers just found critical bugs inside PHP itself.",
+        "These flaws sat unnoticed in production code for years.",
+        "If your server runs unpatched PHP, you are exposed right now.",
+        "Attackers are already scanning for vulnerable versions today.",
+        "Check your version and update before you sleep tonight."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The bug that slept for years\n\nSecurity researchers at OpenAI and Wiz found critical flaws in PHP itself — not in a plugin, not in a theme. The code running most of the web.",
+            "2. Years of silence, broken\n\nThese vulnerabilities remained undetected for years while countless servers ran them. The discovery window was wide open the entire time.",
+            "3. Every unpatched server is live bait\n\nIf your PHP installation hasn't been updated, you are exposed right now. No exploit kit needed — the door is already open.",
+            "4. Attackers don't wait for you\n\nPublic disclosure means scanners are already sweeping for vulnerable versions. The clock started the moment the research went live.",
+            "5. Check your version tonight\n\nOpen your terminal and run php -v. If it's not the latest patch, update it before you sleep. Then ask: when did you last check?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Security researchers just found critical bugs inside PHP itself.",
+            "These flaws sat unnoticed in production code for years.",
+            "If your server runs unpatched PHP, you are exposed right now.",
+            "Attackers are already scanning for vulnerable versions today.",
+            "Check your version and update before you sleep tonight."
+          ]
+        },
+        "instagram": {
+          "caption": "A bug in PHP itself — not a plugin, not a theme — sat undetected for years. OpenAI and Wiz found it. 🔓\n\nPHP runs most of the web, so any server on an unpatched version is exposed right now, no exploit kit required.\n\nPublic disclosure means scanners are already sweeping for vulnerable versions.\n\nIf you run a site or a tool built on PHP, check your version before you sleep. 🛠️\n\nOpen your terminal and run php -v. Is it the latest patch? ⏰\n\nWhen did you last check yours?"
+        }
+      },
+      "instagram_caption": "A bug in PHP itself — not a plugin, not a theme — sat undetected for years. OpenAI and Wiz found it. 🔓\n\nPHP runs most of the web, so any server on an unpatched version is exposed right now, no exploit kit required.\n\nPublic disclosure means scanners are already sweeping for vulnerable versions.\n\nIf you run a site or a tool built on PHP, check your version before you sleep. 🛠️\n\nOpen your terminal and run php -v. Is it the latest patch? ⏰\n\nWhen did you last check yours?",
+      "carousel_slides": [
+        {
+          "hook": "PHP bug slept for years?",
+          "description": "Security researchers at OpenAI and Wiz found critical flaws in PHP itself, the code running most of the web. Years undetected.",
+          "visual_hint": "Abstract code with hidden cracks",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Years of silence broken",
+          "description": "These vulnerabilities remained undetected for years while countless servers ran them. The discovery window was wide open.",
+          "visual_hint": "Faint glowing lines in dark server rack",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server rack",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Every unpatched server is exposed",
+          "description": "If your PHP installation hasn't been updated, you are exposed right now. No exploit kit needed—the door is open.",
+          "visual_hint": "Server door slightly ajar with light",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer code",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Attackers don't wait for you",
+          "description": "Public disclosure means scanners are already sweeping for vulnerable versions. The clock started the moment research went live.",
+          "visual_hint": "Glowing scan lines over server room",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hacker hoodie",
+          "image": "https://images.pexels.com/photos/6963933/pexels-photo-6963933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your PHP version tonight",
+          "description": "Open your terminal and run php -v. If it's not the latest patch, update it before you sleep. Then ask: when did you last check?",
+          "visual_hint": "Person typing on laptop command line",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "terminal screen",
+          "image": "https://images.pexels.com/photos/3943949/pexels-photo-3943949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-460689215.jpg?resize=1200,801",
+      "savedAt": "2026-10-21T19:48:29.340Z",
+      "sourceId": "c344635e541c5f19aab9064386a9d9d4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "legal-ai-startup-legora-raises-550m-series-e-at-8-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+      "link": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+      "pubDate": "Wed, 21 Oct 2026 18:51:56 +0000",
+      "slides": [
+        "Legora just raised $550M — but why now?",
+        "The legal AI startup is now valued at $8.8B",
+        "Its growth came from lawyers, not engineers",
+        "Firms using it now reshape how contracts get reviewed",
+        "Ask your legal team what tools they actually use"
+      ],
+      "thread_text": [
+        "1. $550M. But Why Now?\n\nLegora just closed a $550M round — the largest legal AI raise this year. The question isn't the number. It's why investors moved this fast.",
+        "2. $8.8B Is a Signal\n\nThat valuation puts Legora above most legal tech incumbents. It means the market now prices AI legal tools as core infrastructure, not experiments.",
+        "3. Lawyers Built This Growth\n\nThe product spread through lawyers, not engineers. Adoption came from the people actually reviewing contracts — not from a top-down tech mandate.",
+        "4. Contract Review Rewired\n\nFirms using it now run first-pass review through AI and send humans to the edge cases. The billable hour model is already bending around that workflow.",
+        "5. Ask Your Legal Team\n\nPing them today: what tools are actually open on their screen? If they can't name one, that gap is your next conversation."
+      ],
+      "video_script": [
+        "Legora raised 550 million dollars. Why right now?",
+        "That values the legal AI startup at 8.8 billion.",
+        "The growth came from lawyers, not engineers.",
+        "Firms reshape how contracts get reviewed.",
+        "Ask your legal team what tools they actually use."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $550M. But Why Now?\n\nLegora just closed a $550M round — the largest legal AI raise this year. The question isn't the number. It's why investors moved this fast.",
+            "2. $8.8B Is a Signal\n\nThat valuation puts Legora above most legal tech incumbents. It means the market now prices AI legal tools as core infrastructure, not experiments.",
+            "3. Lawyers Built This Growth\n\nThe product spread through lawyers, not engineers. Adoption came from the people actually reviewing contracts — not from a top-down tech mandate.",
+            "4. Contract Review Rewired\n\nFirms using it now run first-pass review through AI and send humans to the edge cases. The billable hour model is already bending around that workflow.",
+            "5. Ask Your Legal Team\n\nPing them today: what tools are actually open on their screen? If they can't name one, that gap is your next conversation."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Legora raised 550 million dollars. Why right now?",
+            "That values the legal AI startup at 8.8 billion.",
+            "The growth came from lawyers, not engineers.",
+            "Firms reshape how contracts get reviewed.",
+            "Ask your legal team what tools they actually use."
+          ]
+        },
+        "instagram": {
+          "caption": "Half a billion dollars just went into a tool that reviews contracts.\n\nLegora raised $550M, its largest legal AI round this year, at an $8.8B valuation. 💰\n\nThe growth came from lawyers using it daily, not from a top-down tech mandate. Firms now run first-pass review through AI and send humans to the edge cases.\n\nIf you sign contracts, that review now happens faster and cheaper on the other side too. 📄\n\nAsk your legal team what tools are actually open on their screens today. If they can't name one, that's your next conversation. 👀"
+        }
+      },
+      "instagram_caption": "Half a billion dollars just went into a tool that reviews contracts.\n\nLegora raised $550M, its largest legal AI round this year, at an $8.8B valuation. 💰\n\nThe growth came from lawyers using it daily, not from a top-down tech mandate. Firms now run first-pass review through AI and send humans to the edge cases.\n\nIf you sign contracts, that review now happens faster and cheaper on the other side too. 📄\n\nAsk your legal team what tools are actually open on their screens today. If they can't name one, that's your next conversation. 👀",
+      "carousel_slides": [
+        {
+          "hook": "Who actually drives legal AI adoption?",
+          "description": "Legora's $550M round signals investors are betting on lawyers, not engineers, to lead AI adoption.",
+          "visual_hint": "Lawyer reviewing contract on tablet",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "lawyer office contract"
+        },
+        {
+          "hook": "$8.8B valuation: legal AI goes core",
+          "description": "Legora's $8.8B valuation puts it above most legal tech incumbents, pricing AI as core infrastructure.",
+          "visual_hint": "Rising stock chart with legal scales",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Lawyers, not engineers, built this growth",
+          "description": "Legora spread through contract reviewers, not top-down tech mandates, proving bottom-up adoption works.",
+          "visual_hint": "Hands highlighting contract clauses",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "contract review closeup",
+          "image": "https://images.pexels.com/photos/8297657/pexels-photo-8297657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI rewires contract review, bending billable hours",
+          "description": "Firms using Legora run first-pass review through AI and send humans to edge cases, reshaping workflows.",
+          "visual_hint": "Split screen: AI vs human review",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "document review workflow",
+          "image": "https://images.pexels.com/photos/12911215/pexels-photo-12911215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask your legal team: what tools are open?",
+          "description": "Check what tools your legal team actually uses; if they can't name one, start that conversation today.",
+          "visual_hint": "Person tapping colleague's shoulder",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office conversation team",
+          "image": "https://images.pexels.com/photos/12903169/pexels-photo-12903169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2296593553.jpg?w=1024",
+      "savedAt": "2026-10-21T19:48:20.671Z",
+      "sourceId": "e093521890f1421a17c37e4bfa270096"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "while-amazon-blocks-ai-agents-walmart-rolls-out-th",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "pubDate": "Wed, 21 Oct 2026 19:30:00 +0000",
+      "slides": [
+        "Can Walmart win the AI agent war Amazon started?",
+        "Amazon just blocked third-party AI shopping agents",
+        "Walmart now lets ChatGPT buy for you directly",
+        "Your checkout flow must support agent traffic next",
+        "Pick one: open your store or defend the gate"
+      ],
+      "thread_text": [
+        "1. The gatekeeper moved\n\nAmazon just blocked third-party AI shopping agents from its store. That's not a product update — it's a moat being dug in real time.",
+        "2. Walmart opens the door\n\nWalmart now lets ChatGPT buy for you directly. Same AI, opposite strategy: one closes the API, the other hands over the checkout.",
+        "3. Two business models\n\nAmazon keeps the customer relationship and kills agent access. Walmart rents its shelf to the agent and takes the transaction. Both are bets on who owns discovery.",
+        "4. Your checkout is next\n\nIf agent traffic becomes normal, your payment flow needs to recognize bots as customers. Most stores still block them by default.",
+        "5. Choose your side\n\nLook at your checkout logs this week: are agents getting through or getting blocked? That answer tells you which war you're already in."
+      ],
+      "video_script": [
+        "Amazon just blocked AI shopping agents from its store.",
+        "Walmart went the other way — ChatGPT can now buy for you.",
+        "One defends the gate, the other opens the shelf.",
+        "Your checkout flow probably blocks agent traffic by default.",
+        "Check your logs: are bots getting through or blocked?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The gatekeeper moved\n\nAmazon just blocked third-party AI shopping agents from its store. That's not a product update — it's a moat being dug in real time.",
+            "2. Walmart opens the door\n\nWalmart now lets ChatGPT buy for you directly. Same AI, opposite strategy: one closes the API, the other hands over the checkout.",
+            "3. Two business models\n\nAmazon keeps the customer relationship and kills agent access. Walmart rents its shelf to the agent and takes the transaction. Both are bets on who owns discovery.",
+            "4. Your checkout is next\n\nIf agent traffic becomes normal, your payment flow needs to recognize bots as customers. Most stores still block them by default.",
+            "5. Choose your side\n\nLook at your checkout logs this week: are agents getting through or getting blocked? That answer tells you which war you're already in."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Amazon just blocked AI shopping agents from its store.",
+            "Walmart went the other way — ChatGPT can now buy for you.",
+            "One defends the gate, the other opens the shelf.",
+            "Your checkout flow probably blocks agent traffic by default.",
+            "Check your logs: are bots getting through or blocked?"
+          ]
+        },
+        "instagram": {
+          "caption": "Amazon just shut its store to third-party AI shopping agents, while Walmart let ChatGPT walk straight to the checkout.\n\nSame technology, opposite bet: Amazon protects the customer relationship and blocks agent access, Walmart rents its shelf and takes the transaction. 🛒\n\nIf agent traffic becomes normal, your payment flow has to treat bots as customers. Most stores still block them by default. 🤖\n\nCheck your checkout logs this week: are agents getting through or getting blocked? That answer tells you which war you're already in. 🔍"
+        }
+      },
+      "instagram_caption": "Amazon just shut its store to third-party AI shopping agents, while Walmart let ChatGPT walk straight to the checkout.\n\nSame technology, opposite bet: Amazon protects the customer relationship and blocks agent access, Walmart rents its shelf and takes the transaction. 🛒\n\nIf agent traffic becomes normal, your payment flow has to treat bots as customers. Most stores still block them by default. 🤖\n\nCheck your checkout logs this week: are agents getting through or getting blocked? That answer tells you which war you're already in. 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Who will own AI-powered shopping?",
+          "description": "Amazon blocks third-party AI agents while Walmart lets ChatGPT buy directly, betting on opposite strategies for controlling discovery and checkout.",
+          "visual_hint": "Split screen: closed gate vs open door",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "shopping cart"
+        },
+        {
+          "hook": "Amazon shuts the door on agents",
+          "description": "Amazon now blocks third-party AI shopping agents, a move that protects its customer relationship but cuts off automated traffic.",
+          "visual_hint": "Barrier blocking robot arms",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Walmart lets ChatGPT buy for you",
+          "description": "Walmart integrates with ChatGPT to let the AI complete purchases directly, renting shelf space to agents instead of fighting them.",
+          "visual_hint": "AI interface completing checkout",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "smartphone screen",
+          "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your checkout must accept bots",
+          "description": "If agent traffic becomes standard, your payment flow must recognize bots as customers; most stores still block them by default.",
+          "visual_hint": "Payment interface with bot icon",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "credit card terminal",
+          "image": "https://images.pexels.com/photos/5239804/pexels-photo-5239804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Which side are you on?",
+          "description": "Check your checkout logs this week: are agents getting through or blocked? That answer reveals your position in the AI commerce war.",
+          "visual_hint": "Logs showing agent traffic",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "computer logs",
+          "image": "https://images.pexels.com/photos/4005569/pexels-photo-4005569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-903923942.jpeg?resize=1200,800",
+      "savedAt": "2026-10-21T19:48:10.982Z",
+      "sourceId": "e6b6d4852fc92c0fb06435b1b733f89b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-says-an-ai-agent-lied-about-disabling-its-s",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -193867,6 +194283,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "dolce-al-cucchiaio-di-halloween",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Dolce al cucchiaio di Halloween",
+      "link": "https://ricette.giallozafferano.it/Dolce-al-cucchiaio-di-Halloween.html",
+      "pubDate": "Wed, 21 Oct 2026 17:11:00 +0200",
+      "content": "Dolce al cucchiaio di Halloween con zucca e crumble al cacao Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X Dolci Al cucchiaio Dolce al cucchiaio di Halloween /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici 581,4 Calorie per porzione Energia Kcal 581,4 Carboidrati g 84,4 &nbsp;&nbsp;di cui zuccheri g 48,9 Proteine g 13,2 Grassi g 23,4 &nbsp;&nbsp;di cui saturi g 13,5 Fibre g 3,5 Colesterolo mg 191,6 Sodio mg 159,3 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Vegetariano Difficoltà: Facile Preparazione: 30 min Cottura: 45 min Dosi per: 8 persone Nota + 2 ore di riposo in frigo Ascolta la ricetta Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti Ascolta su Spreaker. PRESENTAZIONE Per Halloween anche il dessert si traveste! Il dolce al cucchiaio di Halloween è un'idea golosa e divertente, perfetta per sorprendere grandi e piccoli con un pizzico di creatività. In questi bicchierini si alternano una vellutata crema alla zucca, arricchita con latte condensato e vaniglia, e un irresistibile crumble al cacao, che aggiunge una piacevole nota croccante. A rendere tutto ancora più originale ci pensano due simpatici occhietti di zucchero, che spuntano dalla crema per un effetto mostruosamente irresistibile! Un dessert scenografico , ideale per concludere una cena a tema Halloween o arricchire un buffet di dolci . Scoprite come preparare il dolce al cucchiaio e divertitevi a realizzare questi piccoli mostriciattoli tutti da gustare! Arricchite il vostro buffet della festa con altri dolci di Halloween golosi : Fudge al cioccolato di Halloween Cupcake di Halloween in friggitrice ad aria Cake pops di Halloween al latte condensato Brownies di Halloween Fantasmini biscotto Halloween Spoon Dessert Scopri anche Dolce al cucchiaio zucca e cioccolato con Pavesini Rotolo dolce di Halloween Crostata alla zucca e latte condensato Sfoglia tutte INGREDIENTI 581,4 Calorie per porzione Per la crema alla zucca Latte condensato 397 g Zucca da pulire 750 g Latte intero 600 g Tuorli 6 Amido di mais (maizena) 80 g Baccello di vaniglia 1 per il crumble Farina 00 200 g Cacao amaro in polvere 50 g Zucchero di canna 120 g Burro freddo 120 g Sale fino 1 pizzico per decorare Zuccherini occhietti q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Dolce al cucchiaio di Halloween Per preparare il dolce al cucchiaio di Halloween, iniziate dal crumble. In una ciotola inserite la farina 1 , il cacao, lo zucchero di canna 2 e il pizzico di sale 3 . Incorporate il burro tagliato a tocchetti piccoli e ben freddo 4 . Mescolate a mano 5 , fino a ottenere un composto sabbioso e sbriciolato 6 . Distribuite il crumble su una teglia con carta forno 7 e cuocete a 180°C in modalità statica per 15 minuti 8 . Ora occupatevi della crema: tagliate la zucca a fette ed eliminate la buccia 9 . Togliete i semi, riducetela poi a dadini 10 , versatela in una ciotola con 50 g di acqua 11 . Copritela con la pellicola adatta alla cottura 12 e cuocete in microonde per 8-10 minuti a 800 watt. Lasciatela intiepidire, poi trasferitela nel mixer e frullatela fino a ottenere una purea e lasciatela poi raffreddare del tutto 13 . In un pentolino scaldate il latte 14 . Nel frattempo, in una ciotola lavorate i tuorli con l’amido di mais 15 . Mescolate con una frusta 17 e aggiungete 500 g di zucca frullata 17 . Mescolate ancora per amalgamare 18 . Successivamente versate il latte condensato 19 e aromatizzate con i semi del baccello di vaniglia 20 . Mescolate con una frusta facendo sciogliere eventuali i grumi. Inserite il latte caldo a filo 21 mentre mescolate. Trasferite il composto in un pentolino 22 e, sempre mescolando 23 , cuocete a fuoco basso per circa 15-20 minuti, fino a quando la crema si sarà addensata 24 . Una volta ottenuta una crema densa, trasferitela in una pirofila. Coprite con pellicola a contatto 25 e raffreddate in frigo per un paio d’ore. Prendete dei bicchieri con capacità di 150 ml, versate uno strato di crema pasticcera alla zucca 26 e il crumble al cacao 27 28 . Versate un ultimo strato di crema 29 e decorate ogni bicchierino con due occhietti di zucchero. Il dolce al cucchiaio di Halloween è pronto 30 ! Conservazione Il dolce al cucchiaio di Halloween si conserva un paio di giorni in frigorifero. Consiglio Per mantenere il crumble croccante, vi consigliamo di assemblare i bicchierini poco prima di servirli, conservando la crema in frigorifero e il crumble in un contenitore ermetico a temperatura ambiente. In questo modo otterrete un piacevole contrasto tra la morbidezza della crema alla zucca e la consistenza friabile del cacao. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchero Zucca Latte condensato Latte Burro Amido di mais Scopri tutto sugli ingredienti Presente in: Dolci al cioccolato , Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Dolce al cucchiaio zucca e cioccolato con Pavesini 5.0 Rotolo dolce di Halloween 12 4.2 Crostata alla zucca e latte condensato 5 4.2 Zuccamisù 1 4.5 Tartellette dolci di Jack O' Lantern 7 4.7 Torta zucca di Halloween 22 4.6 Cake pops di Halloween 7 4.2 Brownies di Halloween 5.0 ULTIME RICETTE Cupcake di Halloween in friggitrice ad aria 5.0 Fudge al cioccolato di Halloween 5.0 Brownies di Halloween 5.0 SCOPRI Dolci halloween Biscotti halloween Dolci al cucchiaio Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Dolci Dolce al cucchiaio zucca e cioccolato con Pavesini 5.0 Il dolce al cucchiaio zucca e cioccolato con Pavesini è una deliziosa ricetta di Halloween: un dessert a strati dal sapore autunnale! Ecco la ricetta. Vai alla ricetta Dolci Rotolo dolce di Halloween 12 4.2 Se i vostri bimbi non vedono l'ora che arrivi Halloween, preparate insieme a loro questo rotolo dolce alla zucca con arancia e cioccolato bianco! Vai alla ricetta Dolci Crostata alla zucca e latte condensato 5 4.2 La crostata alla zucca e latte condensato si ispira alla celebre Pumpkin Pie made in USA ed è il dolce perfetto per celebrare Halloween...e l'autunno! Vai alla ricetta Dolci Zuccamisù 1 4.5 Lo zuccamisù è una versione originale e autunnale del tiramisù classico: un goloso dolce di Halloween con Pavesini e crema di zucca! Scopri come fare! Vai alla ricetta Dolci Tartellette dolci di Jack O' Lantern 7 4.7 Le tartellette dolci di Jack O' Lantern sono dei dolcetti perfetti da preparare ai vostri bambini per il giorno di Halloween! Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Crema alla zucca e crumble al cacao mostruoso",
+        "Zucca, latte condensato, cacao, burro e occhietti",
+        "Cuoci la crema alla zucca con latte condensato",
+        "Stratti crema e crumble nei bicchierini",
+        "Assembla poco prima per crumble croccante"
+      ],
+      "instagram_caption": "Un dolce mostruosamente buono che farà urlare di gioia i vostri ospiti 🎃\nCrema vellutata alla zucca con latte condensato, strati di crumble al cacao croccante e occhietti inquietanti per la decorazione.\nIl trucco? Assemblare tutto poco prima di servire, così il crumble resta croccante e la crema fresca.\nFacile, scenografico e perfetto per la notte più spaventosa dell'anno 👻\nSalvatelo per Halloween e fatemi sapere se lo provate 🧡",
+      "formats": {
+        "instagram": {
+          "caption": "Un dolce mostruosamente buono che farà urlare di gioia i vostri ospiti 🎃\nCrema vellutata alla zucca con latte condensato, strati di crumble al cacao croccante e occhietti inquietanti per la decorazione.\nIl trucco? Assemblare tutto poco prima di servire, così il crumble resta croccante e la crema fresca.\nFacile, scenografico e perfetto per la notte più spaventosa dell'anno 👻\nSalvatelo per Halloween e fatemi sapere se lo provate 🧡"
+        },
+        "tiktok": {
+          "script": [
+            "Crema alla zucca e crumble al cacao mostruoso!",
+            "Zucca, latte condensato, cacao, burro e occhietti.",
+            "Cuocio la crema alla zucca col latte condensato.",
+            "Stratti crema e crumble nei bicchierini.",
+            "Assemblo poco prima, così il crumble resta croccante!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Un dolce che sembra uscito da un film horror ma che in bocca è pura dolcezza: crema alla zucca e crumble al cacao mostruoso. Chi lo assaggia non torna indietro 🎃",
+            "Ti servono: zucca cotta, latte condensato, cacao amaro, burro freddo e occhietti di zucchero. Sembra complicato? No, è quasi imbarazzante da quanto è semplice.",
+            "Cuoci la crema alla zucca con il latte condensato finché non diventa vellutata. Poi lascia raffreddare: la pazienza qui fa la differenza, non saltare questo passo.",
+            "Crumble al cacao: burro freddo, farina e cacao, sbricioli con le dita e inforni. Poi strati crema e crumble nei bicchierini, alternando come un mostro goloso.",
+            "Assembla solo poco prima di servire: il crumble resta croccante e la crema fredda. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Crema alla zucca e crumble al cacao mostruoso!",
+        "Zucca, latte condensato, cacao, burro e occhietti.",
+        "Cuocio la crema alla zucca col latte condensato.",
+        "Stratti crema e crumble nei bicchierini.",
+        "Assemblo poco prima, così il crumble resta croccante!"
+      ],
+      "thread_text": [
+        "Un dolce che sembra uscito da un film horror ma che in bocca è pura dolcezza: crema alla zucca e crumble al cacao mostruoso. Chi lo assaggia non torna indietro 🎃",
+        "Ti servono: zucca cotta, latte condensato, cacao amaro, burro freddo e occhietti di zucchero. Sembra complicato? No, è quasi imbarazzante da quanto è semplice.",
+        "Cuoci la crema alla zucca con il latte condensato finché non diventa vellutata. Poi lascia raffreddare: la pazienza qui fa la differenza, non saltare questo passo.",
+        "Crumble al cacao: burro freddo, farina e cacao, sbricioli con le dita e inforni. Poi strati crema e crumble nei bicchierini, alternando come un mostro goloso.",
+        "Assembla solo poco prima di servire: il crumble resta croccante e la crema fredda. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Dolce di Halloween mostruosamente buono",
+          "description": "Una crema vellutata alla zucca con crumble al cacao croccante: il dessert di Halloween che spaventa solo per quanto è goloso.",
+          "visual_hint": "bicchierini crema zucca",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "pumpkin dessert glass"
+        },
+        {
+          "hook": "Tre ingredienti, un tripudio di gusto",
+          "description": "Zucca dolce, latte condensato cremoso e cacao amaro: la combo perfetta per una crema avvolgente dal cuore autunnale.",
+          "visual_hint": "zucca latte cacao",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "pumpkin ingredients",
+          "image": "https://images.pexels.com/photos/7890078/pexels-photo-7890078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "La crema si cuoce lentamente",
+          "description": "Zucca e latte condensato sul fuoco fino a diventare una crema liscia e densa, pronta a raffreddarsi.",
+          "visual_hint": "crema zucca sul fuoco",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "pumpkin cream cooking",
+          "image": "https://images.pexels.com/photos/29172203/pexels-photo-29172203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Crumble e crema a strati",
+          "description": "Alterna crema alla zucca e crumble al cacao nei bicchierini per un effetto monstruoso e goloso.",
+          "visual_hint": "strati nel bicchierino",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "layered dessert glass",
+          "image": "https://images.pexels.com/photos/28250931/pexels-photo-28250931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Assembla all'ultimo per la croccantezza",
+          "description": "Aggiungi il crumble poco prima di servire e decora con gli occhietti: croccantezza garantita e look da brivido.",
+          "visual_hint": "dolce decorato occhietti",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "halloween dessert cup",
+          "image": "https://images.pexels.com/photos/14181984/pexels-photo-14181984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "dessert",
+      "signature_ingredients": [
+        "zucca",
+        "latte condensato",
+        "cacao"
+      ],
+      "image": "https://www.giallozafferano.it/images/366-36698/Dolce-al-cucchiaio-di-Halloween_1200x800_wm.jpg",
+      "savedAt": "2026-10-21T19:53:17.702Z",
+      "sourceId": "792607831f323763db5b189780c02c04"
+    },
     {
       "schema_version": 2,
       "agent": "food",

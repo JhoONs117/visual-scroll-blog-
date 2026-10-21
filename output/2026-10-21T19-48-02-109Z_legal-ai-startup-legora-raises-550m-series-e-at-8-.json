@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "legal-ai-startup-legora-raises-550m-series-e-at-8-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+  "link": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+  "pubDate": "Wed, 21 Oct 2026 18:51:56 +0000",
+  "slides": [
+    "Legora just raised $550M — but why now?",
+    "The legal AI startup is now valued at $8.8B",
+    "Its growth came from lawyers, not engineers",
+    "Firms using it now reshape how contracts get reviewed",
+    "Ask your legal team what tools they actually use"
+  ],
+  "thread_text": [
+    "1. $550M. But Why Now?\n\nLegora just closed a $550M round — the largest legal AI raise this year. The question isn't the number. It's why investors moved this fast.",
+    "2. $8.8B Is a Signal\n\nThat valuation puts Legora above most legal tech incumbents. It means the market now prices AI legal tools as core infrastructure, not experiments.",
+    "3. Lawyers Built This Growth\n\nThe product spread through lawyers, not engineers. Adoption came from the people actually reviewing contracts — not from a top-down tech mandate.",
+    "4. Contract Review Rewired\n\nFirms using it now run first-pass review through AI and send humans to the edge cases. The billable hour model is already bending around that workflow.",
+    "5. Ask Your Legal Team\n\nPing them today: what tools are actually open on their screen? If they can't name one, that gap is your next conversation."
+  ],
+  "video_script": [
+    "Legora raised 550 million dollars. Why right now?",
+    "That values the legal AI startup at 8.8 billion.",
+    "The growth came from lawyers, not engineers.",
+    "Firms reshape how contracts get reviewed.",
+    "Ask your legal team what tools they actually use."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $550M. But Why Now?\n\nLegora just closed a $550M round — the largest legal AI raise this year. The question isn't the number. It's why investors moved this fast.",
+        "2. $8.8B Is a Signal\n\nThat valuation puts Legora above most legal tech incumbents. It means the market now prices AI legal tools as core infrastructure, not experiments.",
+        "3. Lawyers Built This Growth\n\nThe product spread through lawyers, not engineers. Adoption came from the people actually reviewing contracts — not from a top-down tech mandate.",
+        "4. Contract Review Rewired\n\nFirms using it now run first-pass review through AI and send humans to the edge cases. The billable hour model is already bending around that workflow.",
+        "5. Ask Your Legal Team\n\nPing them today: what tools are actually open on their screen? If they can't name one, that gap is your next conversation."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Legora raised 550 million dollars. Why right now?",
+        "That values the legal AI startup at 8.8 billion.",
+        "The growth came from lawyers, not engineers.",
+        "Firms reshape how contracts get reviewed.",
+        "Ask your legal team what tools they actually use."
+      ]
+    },
+    "instagram": {
+      "caption": "Half a billion dollars just went into a tool that reviews contracts.\n\nLegora raised $550M, its largest legal AI round this year, at an $8.8B valuation. 💰\n\nThe growth came from lawyers using it daily, not from a top-down tech mandate. Firms now run first-pass review through AI and send humans to the edge cases.\n\nIf you sign contracts, that review now happens faster and cheaper on the other side too. 📄\n\nAsk your legal team what tools are actually open on their screens today. If they can't name one, that's your next conversation. 👀"
+    }
+  },
+  "instagram_caption": "Half a billion dollars just went into a tool that reviews contracts.\n\nLegora raised $550M, its largest legal AI round this year, at an $8.8B valuation. 💰\n\nThe growth came from lawyers using it daily, not from a top-down tech mandate. Firms now run first-pass review through AI and send humans to the edge cases.\n\nIf you sign contracts, that review now happens faster and cheaper on the other side too. 📄\n\nAsk your legal team what tools are actually open on their screens today. If they can't name one, that's your next conversation. 👀",
+  "carousel_slides": [
+    {
+      "hook": "Who actually drives legal AI adoption?",
+      "description": "Legora's $550M round signals investors are betting on lawyers, not engineers, to lead AI adoption.",
+      "visual_hint": "Lawyer reviewing contract on tablet",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "lawyer office contract"
+    },
+    {
+      "hook": "$8.8B valuation: legal AI goes core",
+      "description": "Legora's $8.8B valuation puts it above most legal tech incumbents, pricing AI as core infrastructure.",
+      "visual_hint": "Rising stock chart with legal scales",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Lawyers, not engineers, built this growth",
+      "description": "Legora spread through contract reviewers, not top-down tech mandates, proving bottom-up adoption works.",
+      "visual_hint": "Hands highlighting contract clauses",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "contract review closeup",
+      "image": "https://images.pexels.com/photos/8297657/pexels-photo-8297657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI rewires contract review, bending billable hours",
+      "description": "Firms using Legora run first-pass review through AI and send humans to edge cases, reshaping workflows.",
+      "visual_hint": "Split screen: AI vs human review",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "document review workflow",
+      "image": "https://images.pexels.com/photos/12911215/pexels-photo-12911215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your legal team: what tools are open?",
+      "description": "Check what tools your legal team actually uses; if they can't name one, start that conversation today.",
+      "visual_hint": "Person tapping colleague's shoulder",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office conversation team",
+      "image": "https://images.pexels.com/photos/12903169/pexels-photo-12903169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2296593553.jpg?w=1024",
+  "savedAt": "2026-10-21T19:48:20.671Z",
+  "sourceId": "e093521890f1421a17c37e4bfa270096"
+}
