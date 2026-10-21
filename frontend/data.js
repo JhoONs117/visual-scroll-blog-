@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "jb-pritzker-thinks-ai-could-help-us-live-to-100-or",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+    "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+    "pubDate": "2026-10-19T14:30:00.000Z",
+    "slides": [
+      "What if AI makes us live to 100—or ends us?",
+      "Pritzker pairs longevity gains with nuclear-scale risk",
+      "He says public safety rules lag far behind the tech",
+      "States may need their own AI oversight, not just Congress",
+      "Ask your representatives where safety rules stand now"
+    ],
+    "thread_text": [
+      "1. 100 or Bust\n\nPritzker warns AI could push human lifespan to 100—or trigger nuclear-scale catastrophe. He says safety rules are decades behind the tech.",
+      "2. Safety Rules Lag\n\nPublic oversight hasn't caught up with AI's rapid advance. Pritzker argues current laws are too slow and too weak to prevent worst-case scenarios.",
+      "3. States Step In\n\nWaiting for Congress isn't enough. Pritzker suggests states may need their own AI oversight to fill the gap and act faster.",
+      "4. Your Voice Matters\n\nAsk your representatives where they stand on AI safety rules today. The gap between tech and law is widening—and silence is complicity.",
+      "5. Take Action Now\n\nCall your local representative's office and ask: what AI safety rules are you supporting? Do it today. The answer may surprise you."
+    ],
+    "video_script": [
+      "AI could make us live to 100 or end us.",
+      "Pritzker says safety rules lag far behind the tech.",
+      "States might need their own AI oversight, not just Congress.",
+      "Ask your representatives where safety rules stand now.",
+      "Your voice matters—call them today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. 100 or Bust\n\nPritzker warns AI could push human lifespan to 100—or trigger nuclear-scale catastrophe. He says safety rules are decades behind the tech.",
+          "2. Safety Rules Lag\n\nPublic oversight hasn't caught up with AI's rapid advance. Pritzker argues current laws are too slow and too weak to prevent worst-case scenarios.",
+          "3. States Step In\n\nWaiting for Congress isn't enough. Pritzker suggests states may need their own AI oversight to fill the gap and act faster.",
+          "4. Your Voice Matters\n\nAsk your representatives where they stand on AI safety rules today. The gap between tech and law is widening—and silence is complicity.",
+          "5. Take Action Now\n\nCall your local representative's office and ask: what AI safety rules are you supporting? Do it today. The answer may surprise you."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI could make us live to 100 or end us.",
+          "Pritzker says safety rules lag far behind the tech.",
+          "States might need their own AI oversight, not just Congress.",
+          "Ask your representatives where safety rules stand now.",
+          "Your voice matters—call them today."
+        ]
+      },
+      "instagram": {
+        "caption": "JB Pritzker says AI could help humans live to 100 — or pose a risk on the scale of nuclear weapons. 🧠\n\nHe argues public safety rules are decades behind the technology.\n\nWaiting for Congress may not be enough, so states could need their own AI oversight. ⚖️\n\nIf you create or publish content, the rules shaping your tools are being written now — mostly without you. 📝\n\nAsk your representatives where they stand on AI safety rules today. The gap between tech and law keeps widening. 🕒"
+      }
+    },
+    "instagram_caption": "JB Pritzker says AI could help humans live to 100 — or pose a risk on the scale of nuclear weapons. 🧠\n\nHe argues public safety rules are decades behind the technology.\n\nWaiting for Congress may not be enough, so states could need their own AI oversight. ⚖️\n\nIf you create or publish content, the rules shaping your tools are being written now — mostly without you. 📝\n\nAsk your representatives where they stand on AI safety rules today. The gap between tech and law keeps widening. 🕒",
+    "carousel_slides": [
+      {
+        "hook": "AI: Live to 100 or nuclear risk?",
+        "description": "Pritzker warns AI could extend lifespan to 100 or cause nuclear-scale catastrophe. Safety rules lag decades behind the tech.",
+        "visual_hint": "Split screen: elderly person and nuclear blast",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "nuclear explosion"
+      },
+      {
+        "hook": "Safety rules lag behind AI",
+        "description": "Public oversight hasn't caught up with AI's rapid advance. Current laws are too slow and weak to prevent worst-case scenarios.",
+        "visual_hint": "Outdated law book beside advanced robot",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "law book",
+        "image": "https://images.pexels.com/photos/8731036/pexels-photo-8731036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "States may need their own AI oversight",
+        "description": "Waiting for Congress isn't enough. Pritzker suggests states may need their own AI oversight to fill the gap and act faster.",
+        "visual_hint": "State capitol building with AI symbol",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "state capitol",
+        "image": "https://images.pexels.com/photos/31661816/pexels-photo-31661816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask your representatives where they stand",
+        "description": "The gap between tech and law is widening. Ask your representatives where they stand on AI safety rules today.",
+        "visual_hint": "Person holding phone with 'Call Representative' screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "phone call",
+        "image": "https://images.pexels.com/photos/4240533/pexels-photo-4240533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and call your rep",
+        "description": "Call your local representative's office and ask: what AI safety rules are you supporting? Do it today.",
+        "visual_hint": "Phone with dialing representative's office",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "phone call",
+        "image": "https://images.pexels.com/photos/4240533/pexels-photo-4240533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261019_Pritzker.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-21T09:00:22.955Z",
+    "sourceId": "59defc80e8590dc4bf356f846f2390af"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+    "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+    "pubDate": "Tue, 20 Oct 2026 16:20:06 +0000",
+    "slides": [
+      "Why is physical AI stuck in its LEGO era?",
+      "Ex-Nvidia VC Amulya Vishwanath sees building blocks, not robots",
+      "Today's systems still need humans to snap the pieces together",
+      "Founders who design modular hardware now will lead",
+      "Pick one physical task and test modularity today"
+    ],
+    "thread_text": [
+      "1. The LEGO era of AI\n\nPhysical AI today still needs humans to snap the pieces together — like LEGO bricks waiting for a builder, not autonomous robots.",
+      "2. Modularity is the missing piece\n\nEx-Nvidia VC Amulya Vishwanath sees building blocks, not robots: the winning approach is modular hardware that snaps together, not monolithic machines.",
+      "3. Founders who design modular hardware now will lead\n\nThose who prioritize modularity today will define the next wave — because adaptability beats specialization when the environment changes.",
+      "4. Test modularity on one task\n\nPick a single physical task and try building a modular solution. If it doesn't snap together simply, you've found your bottleneck.",
+      "5. Your move: pick a task\n\nChoose one physical task this week and prototype a modular approach. If it doesn't work, iterate — that's how you stay ahead."
+    ],
+    "video_script": [
+      "Physical AI is stuck in its LEGO era.",
+      "Amulya Vishwanath sees building blocks, not robots.",
+      "Today's systems still need humans to snap pieces together.",
+      "Founders designing modular hardware now will lead.",
+      "Pick one physical task and test modularity today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The LEGO era of AI\n\nPhysical AI today still needs humans to snap the pieces together — like LEGO bricks waiting for a builder, not autonomous robots.",
+          "2. Modularity is the missing piece\n\nEx-Nvidia VC Amulya Vishwanath sees building blocks, not robots: the winning approach is modular hardware that snaps together, not monolithic machines.",
+          "3. Founders who design modular hardware now will lead\n\nThose who prioritize modularity today will define the next wave — because adaptability beats specialization when the environment changes.",
+          "4. Test modularity on one task\n\nPick a single physical task and try building a modular solution. If it doesn't snap together simply, you've found your bottleneck.",
+          "5. Your move: pick a task\n\nChoose one physical task this week and prototype a modular approach. If it doesn't work, iterate — that's how you stay ahead."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Physical AI is stuck in its LEGO era.",
+          "Amulya Vishwanath sees building blocks, not robots.",
+          "Today's systems still need humans to snap pieces together.",
+          "Founders designing modular hardware now will lead.",
+          "Pick one physical task and test modularity today."
+        ]
+      },
+      "instagram": {
+        "caption": "Physical AI right now is LEGO bricks waiting for someone to snap them together — not robots running on their own.\n\nEx-Nvidia exec turned VC Amulya Vishwanath says today's systems still need humans to assemble the pieces. 🧱\n\nHe argues modular hardware, not monolithic machines, is what wins — because adaptability beats specialization when environments shift.\n\nSo founders building modular hardware now are the ones to watch.\n\nIf you're prototyping anything physical, pick one task this week and test whether a modular approach snaps together simply. If it doesn't, that's your bottleneck. 🔧\n\nWhat single task would you try building modularly first? 🤔"
+      }
+    },
+    "instagram_caption": "Physical AI right now is LEGO bricks waiting for someone to snap them together — not robots running on their own.\n\nEx-Nvidia exec turned VC Amulya Vishwanath says today's systems still need humans to assemble the pieces. 🧱\n\nHe argues modular hardware, not monolithic machines, is what wins — because adaptability beats specialization when environments shift.\n\nSo founders building modular hardware now are the ones to watch.\n\nIf you're prototyping anything physical, pick one task this week and test whether a modular approach snaps together simply. If it doesn't, that's your bottleneck. 🔧\n\nWhat single task would you try building modularly first? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Physical AI is still in its LEGO era",
+        "description": "Today's systems need humans to snap pieces together, not autonomous robots. This is the core limitation.",
+        "visual_hint": "LEGO bricks scattered on table",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "LEGO bricks"
+      },
+      {
+        "hook": "VC sees building blocks, not robots",
+        "description": "Ex-Nvidia VC Amulya Vishwanath argues the winning approach is modular hardware that snaps together, not monolithic machines.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "visual_hint": "modular hardware components",
+        "image_query": "modular hardware",
+        "image": "https://images.pexels.com/photos/31854239/pexels-photo-31854239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Founders who design modular hardware now will lead",
+        "description": "Adaptability beats specialization when the environment changes. Those prioritizing modularity today define the next wave.",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "visual_hint": "modular robot arm",
+        "image_query": "robot arm",
+        "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test modularity on one physical task",
+        "description": "If it doesn't snap together simply, you've found your bottleneck. That's how you stay ahead.",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "visual_hint": "hands assembling module",
+        "image_query": "hands assembling",
+        "image": "https://images.pexels.com/photos/39643403/pexels-photo-39643403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for your next build",
+        "description": "Pick one physical task this week and prototype a modular approach. Iterate if it fails.",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "visual_hint": "checklist with modular task",
+        "image_query": "checklist",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675",
+    "savedAt": "2026-10-21T09:00:13.283Z",
+    "sourceId": "de4b0bf4f3d630baf805db00cadabbc8"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-acquires-startup-orchestra-bio-to-beef-up-i",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+    "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "pubDate": "Tue, 20 Oct 2026 20:35:10 +0000",
+    "slides": [
+      "Why is OpenAI buying a biotech startup now?",
+      "Orchestra Bio specializes in heart rhythm devices",
+      "The deal gives OpenAI a licensed delivery platform",
+      "Companies can now bundle AI diagnostics with procedures",
+      "Ask: who owns the patient data in such a bundle?"
+    ],
+    "thread_text": [
+      "1. OpenAI's Healthcare Power Move\n\nOpenAI just acquired Orchestra Bio, a startup making heart rhythm devices. This is not a research lab — it is a direct entry into patient care.",
+      "2. The Cardiac Device Specialist\n\nOrchestra Bio's technology treats irregular heartbeats. Its devices will now be paired with OpenAI's AI models for real-time monitoring and diagnostics.",
+      "3. Licensed Delivery Platform\n\nThe deal gives OpenAI a turnkey way to deliver AI to patients: a licensed platform that can be embedded in clinical procedures.",
+      "4. Bundling AI with Surgery\n\nHospitals can now offer AI diagnostics as part of a procedure package. That means one bill, one consent form, and one point of data collection.",
+      "5. Who Owns Your Heart Data?\n\nWhen AI and medical devices are bundled, patient data ownership becomes murky. Does the hospital, OpenAI, or the device maker control it? Ask your provider before you sign."
+    ],
+    "video_script": [
+      "OpenAI just bought a heart device company.",
+      "Orchestra Bio makes implants that treat irregular heartbeats.",
+      "Now OpenAI has a licensed platform to deliver AI in hospitals.",
+      "Hospitals can bundle AI diagnostics with procedures.",
+      "But who owns the patient data in that bundle?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. OpenAI's Healthcare Power Move\n\nOpenAI just acquired Orchestra Bio, a startup making heart rhythm devices. This is not a research lab — it is a direct entry into patient care.",
+          "2. The Cardiac Device Specialist\n\nOrchestra Bio's technology treats irregular heartbeats. Its devices will now be paired with OpenAI's AI models for real-time monitoring and diagnostics.",
+          "3. Licensed Delivery Platform\n\nThe deal gives OpenAI a turnkey way to deliver AI to patients: a licensed platform that can be embedded in clinical procedures.",
+          "4. Bundling AI with Surgery\n\nHospitals can now offer AI diagnostics as part of a procedure package. That means one bill, one consent form, and one point of data collection.",
+          "5. Who Owns Your Heart Data?\n\nWhen AI and medical devices are bundled, patient data ownership becomes murky. Does the hospital, OpenAI, or the device maker control it? Ask your provider before you sign."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI just bought a heart device company.",
+          "Orchestra Bio makes implants that treat irregular heartbeats.",
+          "Now OpenAI has a licensed platform to deliver AI in hospitals.",
+          "Hospitals can bundle AI diagnostics with procedures.",
+          "But who owns the patient data in that bundle?"
+        ]
+      },
+      "instagram": {
+        "caption": "Hospitals could soon bill an AI heart-monitoring diagnostic as part of the same procedure package as the implant itself.\n\nOpenAI acquired Orchestra Bio, a startup that makes devices treating irregular heartbeats. 🔌\n\nThe deal hands OpenAI a licensed delivery platform, so its models can be embedded directly into clinical procedures.\n\nThat means one bill, one consent form, and one point where your heart data gets collected. 🩺\n\nFor anyone publishing health content, the line between device maker and AI provider is now a single company. 📋\n\nIf your cardiologist bundled AI diagnostics into your next procedure, would you know who actually owns the data? 🤔"
+      }
+    },
+    "instagram_caption": "Hospitals could soon bill an AI heart-monitoring diagnostic as part of the same procedure package as the implant itself.\n\nOpenAI acquired Orchestra Bio, a startup that makes devices treating irregular heartbeats. 🔌\n\nThe deal hands OpenAI a licensed delivery platform, so its models can be embedded directly into clinical procedures.\n\nThat means one bill, one consent form, and one point where your heart data gets collected. 🩺\n\nFor anyone publishing health content, the line between device maker and AI provider is now a single company. 📋\n\nIf your cardiologist bundled AI diagnostics into your next procedure, would you know who actually owns the data? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Who owns your heart data now?",
+        "description": "OpenAI acquired Orchestra Bio, a heart rhythm device startup, raising urgent questions about patient data control in AI-driven healthcare.",
+        "visual_hint": "Doctor holding tablet with heart data",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "hospital technology"
+      },
+      {
+        "hook": "OpenAI enters patient care directly",
+        "description": "Orchestra Bio specializes in heart rhythm devices, now paired with OpenAI's AI for real-time monitoring and diagnostics.",
+        "visual_hint": "Cardiac device with AI interface",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "cardiac monitor",
+        "image": "https://images.pexels.com/photos/8460123/pexels-photo-8460123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "A licensed platform for AI delivery",
+        "description": "The deal gives OpenAI a turnkey licensed platform to embed AI in clinical procedures, bypassing traditional healthcare IT hurdles.",
+        "visual_hint": "Licensed platform diagram in hospital",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "medical software interface",
+        "image": "https://images.pexels.com/photos/6627348/pexels-photo-6627348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One bill, one consent, one data point",
+        "description": "Hospitals can bundle AI diagnostics with procedures, simplifying billing and consent but centralizing data collection.",
+        "visual_hint": "Hand holding consent form with AI bundle",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hospital bill",
+        "image": "https://images.pexels.com/photos/7680337/pexels-photo-7680337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your next procedure",
+        "description": "Ask your provider who controls your heart data when AI and devices are bundled. Share this to raise awareness.",
+        "visual_hint": "Patient asking doctor about data",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "doctor patient conversation",
+        "image": "https://images.pexels.com/photos/7659876/pexels-photo-7659876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/pills-GettyImages-157287767.jpg?resize=1200,800",
+    "savedAt": "2026-10-21T09:00:03.531Z",
+    "sourceId": "b275807812b7dd17bd70bebf7eb155ba"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "chatgpt-now-lets-you-lock-your-chats",
     "prompt_version": "1.0.0",
     "status": "published",

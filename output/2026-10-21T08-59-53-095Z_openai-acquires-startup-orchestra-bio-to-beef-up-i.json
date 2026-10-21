@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-acquires-startup-orchestra-bio-to-beef-up-i",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+  "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+  "pubDate": "Tue, 20 Oct 2026 20:35:10 +0000",
+  "slides": [
+    "Why is OpenAI buying a biotech startup now?",
+    "Orchestra Bio specializes in heart rhythm devices",
+    "The deal gives OpenAI a licensed delivery platform",
+    "Companies can now bundle AI diagnostics with procedures",
+    "Ask: who owns the patient data in such a bundle?"
+  ],
+  "thread_text": [
+    "1. OpenAI's Healthcare Power Move\n\nOpenAI just acquired Orchestra Bio, a startup making heart rhythm devices. This is not a research lab — it is a direct entry into patient care.",
+    "2. The Cardiac Device Specialist\n\nOrchestra Bio's technology treats irregular heartbeats. Its devices will now be paired with OpenAI's AI models for real-time monitoring and diagnostics.",
+    "3. Licensed Delivery Platform\n\nThe deal gives OpenAI a turnkey way to deliver AI to patients: a licensed platform that can be embedded in clinical procedures.",
+    "4. Bundling AI with Surgery\n\nHospitals can now offer AI diagnostics as part of a procedure package. That means one bill, one consent form, and one point of data collection.",
+    "5. Who Owns Your Heart Data?\n\nWhen AI and medical devices are bundled, patient data ownership becomes murky. Does the hospital, OpenAI, or the device maker control it? Ask your provider before you sign."
+  ],
+  "video_script": [
+    "OpenAI just bought a heart device company.",
+    "Orchestra Bio makes implants that treat irregular heartbeats.",
+    "Now OpenAI has a licensed platform to deliver AI in hospitals.",
+    "Hospitals can bundle AI diagnostics with procedures.",
+    "But who owns the patient data in that bundle?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI's Healthcare Power Move\n\nOpenAI just acquired Orchestra Bio, a startup making heart rhythm devices. This is not a research lab — it is a direct entry into patient care.",
+        "2. The Cardiac Device Specialist\n\nOrchestra Bio's technology treats irregular heartbeats. Its devices will now be paired with OpenAI's AI models for real-time monitoring and diagnostics.",
+        "3. Licensed Delivery Platform\n\nThe deal gives OpenAI a turnkey way to deliver AI to patients: a licensed platform that can be embedded in clinical procedures.",
+        "4. Bundling AI with Surgery\n\nHospitals can now offer AI diagnostics as part of a procedure package. That means one bill, one consent form, and one point of data collection.",
+        "5. Who Owns Your Heart Data?\n\nWhen AI and medical devices are bundled, patient data ownership becomes murky. Does the hospital, OpenAI, or the device maker control it? Ask your provider before you sign."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI just bought a heart device company.",
+        "Orchestra Bio makes implants that treat irregular heartbeats.",
+        "Now OpenAI has a licensed platform to deliver AI in hospitals.",
+        "Hospitals can bundle AI diagnostics with procedures.",
+        "But who owns the patient data in that bundle?"
+      ]
+    },
+    "instagram": {
+      "caption": "Hospitals could soon bill an AI heart-monitoring diagnostic as part of the same procedure package as the implant itself.\n\nOpenAI acquired Orchestra Bio, a startup that makes devices treating irregular heartbeats. 🔌\n\nThe deal hands OpenAI a licensed delivery platform, so its models can be embedded directly into clinical procedures.\n\nThat means one bill, one consent form, and one point where your heart data gets collected. 🩺\n\nFor anyone publishing health content, the line between device maker and AI provider is now a single company. 📋\n\nIf your cardiologist bundled AI diagnostics into your next procedure, would you know who actually owns the data? 🤔"
+    }
+  },
+  "instagram_caption": "Hospitals could soon bill an AI heart-monitoring diagnostic as part of the same procedure package as the implant itself.\n\nOpenAI acquired Orchestra Bio, a startup that makes devices treating irregular heartbeats. 🔌\n\nThe deal hands OpenAI a licensed delivery platform, so its models can be embedded directly into clinical procedures.\n\nThat means one bill, one consent form, and one point where your heart data gets collected. 🩺\n\nFor anyone publishing health content, the line between device maker and AI provider is now a single company. 📋\n\nIf your cardiologist bundled AI diagnostics into your next procedure, would you know who actually owns the data? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Who owns your heart data now?",
+      "description": "OpenAI acquired Orchestra Bio, a heart rhythm device startup, raising urgent questions about patient data control in AI-driven healthcare.",
+      "visual_hint": "Doctor holding tablet with heart data",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "hospital technology"
+    },
+    {
+      "hook": "OpenAI enters patient care directly",
+      "description": "Orchestra Bio specializes in heart rhythm devices, now paired with OpenAI's AI for real-time monitoring and diagnostics.",
+      "visual_hint": "Cardiac device with AI interface",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "cardiac monitor",
+      "image": "https://images.pexels.com/photos/8460123/pexels-photo-8460123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "A licensed platform for AI delivery",
+      "description": "The deal gives OpenAI a turnkey licensed platform to embed AI in clinical procedures, bypassing traditional healthcare IT hurdles.",
+      "visual_hint": "Licensed platform diagram in hospital",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "medical software interface",
+      "image": "https://images.pexels.com/photos/6627348/pexels-photo-6627348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One bill, one consent, one data point",
+      "description": "Hospitals can bundle AI diagnostics with procedures, simplifying billing and consent but centralizing data collection.",
+      "visual_hint": "Hand holding consent form with AI bundle",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hospital bill",
+      "image": "https://images.pexels.com/photos/7680337/pexels-photo-7680337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next procedure",
+      "description": "Ask your provider who controls your heart data when AI and devices are bundled. Share this to raise awareness.",
+      "visual_hint": "Patient asking doctor about data",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "doctor patient conversation",
+      "image": "https://images.pexels.com/photos/7659876/pexels-photo-7659876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/pills-GettyImages-157287767.jpg?resize=1200,800",
+  "savedAt": "2026-10-21T09:00:03.531Z",
+  "sourceId": "b275807812b7dd17bd70bebf7eb155ba"
+}

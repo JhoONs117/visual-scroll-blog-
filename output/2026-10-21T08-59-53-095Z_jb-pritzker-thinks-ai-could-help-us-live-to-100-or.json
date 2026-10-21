@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "jb-pritzker-thinks-ai-could-help-us-live-to-100-or",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+  "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+  "pubDate": "2026-10-19T14:30:00.000Z",
+  "slides": [
+    "What if AI makes us live to 100—or ends us?",
+    "Pritzker pairs longevity gains with nuclear-scale risk",
+    "He says public safety rules lag far behind the tech",
+    "States may need their own AI oversight, not just Congress",
+    "Ask your representatives where safety rules stand now"
+  ],
+  "thread_text": [
+    "1. 100 or Bust\n\nPritzker warns AI could push human lifespan to 100—or trigger nuclear-scale catastrophe. He says safety rules are decades behind the tech.",
+    "2. Safety Rules Lag\n\nPublic oversight hasn't caught up with AI's rapid advance. Pritzker argues current laws are too slow and too weak to prevent worst-case scenarios.",
+    "3. States Step In\n\nWaiting for Congress isn't enough. Pritzker suggests states may need their own AI oversight to fill the gap and act faster.",
+    "4. Your Voice Matters\n\nAsk your representatives where they stand on AI safety rules today. The gap between tech and law is widening—and silence is complicity.",
+    "5. Take Action Now\n\nCall your local representative's office and ask: what AI safety rules are you supporting? Do it today. The answer may surprise you."
+  ],
+  "video_script": [
+    "AI could make us live to 100 or end us.",
+    "Pritzker says safety rules lag far behind the tech.",
+    "States might need their own AI oversight, not just Congress.",
+    "Ask your representatives where safety rules stand now.",
+    "Your voice matters—call them today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. 100 or Bust\n\nPritzker warns AI could push human lifespan to 100—or trigger nuclear-scale catastrophe. He says safety rules are decades behind the tech.",
+        "2. Safety Rules Lag\n\nPublic oversight hasn't caught up with AI's rapid advance. Pritzker argues current laws are too slow and too weak to prevent worst-case scenarios.",
+        "3. States Step In\n\nWaiting for Congress isn't enough. Pritzker suggests states may need their own AI oversight to fill the gap and act faster.",
+        "4. Your Voice Matters\n\nAsk your representatives where they stand on AI safety rules today. The gap between tech and law is widening—and silence is complicity.",
+        "5. Take Action Now\n\nCall your local representative's office and ask: what AI safety rules are you supporting? Do it today. The answer may surprise you."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI could make us live to 100 or end us.",
+        "Pritzker says safety rules lag far behind the tech.",
+        "States might need their own AI oversight, not just Congress.",
+        "Ask your representatives where safety rules stand now.",
+        "Your voice matters—call them today."
+      ]
+    },
+    "instagram": {
+      "caption": "JB Pritzker says AI could help humans live to 100 — or pose a risk on the scale of nuclear weapons. 🧠\n\nHe argues public safety rules are decades behind the technology.\n\nWaiting for Congress may not be enough, so states could need their own AI oversight. ⚖️\n\nIf you create or publish content, the rules shaping your tools are being written now — mostly without you. 📝\n\nAsk your representatives where they stand on AI safety rules today. The gap between tech and law keeps widening. 🕒"
+    }
+  },
+  "instagram_caption": "JB Pritzker says AI could help humans live to 100 — or pose a risk on the scale of nuclear weapons. 🧠\n\nHe argues public safety rules are decades behind the technology.\n\nWaiting for Congress may not be enough, so states could need their own AI oversight. ⚖️\n\nIf you create or publish content, the rules shaping your tools are being written now — mostly without you. 📝\n\nAsk your representatives where they stand on AI safety rules today. The gap between tech and law keeps widening. 🕒",
+  "carousel_slides": [
+    {
+      "hook": "AI: Live to 100 or nuclear risk?",
+      "description": "Pritzker warns AI could extend lifespan to 100 or cause nuclear-scale catastrophe. Safety rules lag decades behind the tech.",
+      "visual_hint": "Split screen: elderly person and nuclear blast",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "nuclear explosion"
+    },
+    {
+      "hook": "Safety rules lag behind AI",
+      "description": "Public oversight hasn't caught up with AI's rapid advance. Current laws are too slow and weak to prevent worst-case scenarios.",
+      "visual_hint": "Outdated law book beside advanced robot",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "law book",
+      "image": "https://images.pexels.com/photos/8731036/pexels-photo-8731036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "States may need their own AI oversight",
+      "description": "Waiting for Congress isn't enough. Pritzker suggests states may need their own AI oversight to fill the gap and act faster.",
+      "visual_hint": "State capitol building with AI symbol",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "state capitol",
+      "image": "https://images.pexels.com/photos/31661816/pexels-photo-31661816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your representatives where they stand",
+      "description": "The gap between tech and law is widening. Ask your representatives where they stand on AI safety rules today.",
+      "visual_hint": "Person holding phone with 'Call Representative' screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "phone call",
+      "image": "https://images.pexels.com/photos/4240533/pexels-photo-4240533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and call your rep",
+      "description": "Call your local representative's office and ask: what AI safety rules are you supporting? Do it today.",
+      "visual_hint": "Phone with dialing representative's office",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "phone call",
+      "image": "https://images.pexels.com/photos/4240533/pexels-photo-4240533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261019_Pritzker.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-21T09:00:22.955Z",
+  "sourceId": "59defc80e8590dc4bf356f846f2390af"
+}

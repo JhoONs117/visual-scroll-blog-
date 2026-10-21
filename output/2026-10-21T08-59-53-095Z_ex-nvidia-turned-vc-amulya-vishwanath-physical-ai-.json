@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+  "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+  "pubDate": "Tue, 20 Oct 2026 16:20:06 +0000",
+  "slides": [
+    "Why is physical AI stuck in its LEGO era?",
+    "Ex-Nvidia VC Amulya Vishwanath sees building blocks, not robots",
+    "Today's systems still need humans to snap the pieces together",
+    "Founders who design modular hardware now will lead",
+    "Pick one physical task and test modularity today"
+  ],
+  "thread_text": [
+    "1. The LEGO era of AI\n\nPhysical AI today still needs humans to snap the pieces together — like LEGO bricks waiting for a builder, not autonomous robots.",
+    "2. Modularity is the missing piece\n\nEx-Nvidia VC Amulya Vishwanath sees building blocks, not robots: the winning approach is modular hardware that snaps together, not monolithic machines.",
+    "3. Founders who design modular hardware now will lead\n\nThose who prioritize modularity today will define the next wave — because adaptability beats specialization when the environment changes.",
+    "4. Test modularity on one task\n\nPick a single physical task and try building a modular solution. If it doesn't snap together simply, you've found your bottleneck.",
+    "5. Your move: pick a task\n\nChoose one physical task this week and prototype a modular approach. If it doesn't work, iterate — that's how you stay ahead."
+  ],
+  "video_script": [
+    "Physical AI is stuck in its LEGO era.",
+    "Amulya Vishwanath sees building blocks, not robots.",
+    "Today's systems still need humans to snap pieces together.",
+    "Founders designing modular hardware now will lead.",
+    "Pick one physical task and test modularity today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The LEGO era of AI\n\nPhysical AI today still needs humans to snap the pieces together — like LEGO bricks waiting for a builder, not autonomous robots.",
+        "2. Modularity is the missing piece\n\nEx-Nvidia VC Amulya Vishwanath sees building blocks, not robots: the winning approach is modular hardware that snaps together, not monolithic machines.",
+        "3. Founders who design modular hardware now will lead\n\nThose who prioritize modularity today will define the next wave — because adaptability beats specialization when the environment changes.",
+        "4. Test modularity on one task\n\nPick a single physical task and try building a modular solution. If it doesn't snap together simply, you've found your bottleneck.",
+        "5. Your move: pick a task\n\nChoose one physical task this week and prototype a modular approach. If it doesn't work, iterate — that's how you stay ahead."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Physical AI is stuck in its LEGO era.",
+        "Amulya Vishwanath sees building blocks, not robots.",
+        "Today's systems still need humans to snap pieces together.",
+        "Founders designing modular hardware now will lead.",
+        "Pick one physical task and test modularity today."
+      ]
+    },
+    "instagram": {
+      "caption": "Physical AI right now is LEGO bricks waiting for someone to snap them together — not robots running on their own.\n\nEx-Nvidia exec turned VC Amulya Vishwanath says today's systems still need humans to assemble the pieces. 🧱\n\nHe argues modular hardware, not monolithic machines, is what wins — because adaptability beats specialization when environments shift.\n\nSo founders building modular hardware now are the ones to watch.\n\nIf you're prototyping anything physical, pick one task this week and test whether a modular approach snaps together simply. If it doesn't, that's your bottleneck. 🔧\n\nWhat single task would you try building modularly first? 🤔"
+    }
+  },
+  "instagram_caption": "Physical AI right now is LEGO bricks waiting for someone to snap them together — not robots running on their own.\n\nEx-Nvidia exec turned VC Amulya Vishwanath says today's systems still need humans to assemble the pieces. 🧱\n\nHe argues modular hardware, not monolithic machines, is what wins — because adaptability beats specialization when environments shift.\n\nSo founders building modular hardware now are the ones to watch.\n\nIf you're prototyping anything physical, pick one task this week and test whether a modular approach snaps together simply. If it doesn't, that's your bottleneck. 🔧\n\nWhat single task would you try building modularly first? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Physical AI is still in its LEGO era",
+      "description": "Today's systems need humans to snap pieces together, not autonomous robots. This is the core limitation.",
+      "visual_hint": "LEGO bricks scattered on table",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "LEGO bricks"
+    },
+    {
+      "hook": "VC sees building blocks, not robots",
+      "description": "Ex-Nvidia VC Amulya Vishwanath argues the winning approach is modular hardware that snaps together, not monolithic machines.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "modular hardware components",
+      "image_query": "modular hardware",
+      "image": "https://images.pexels.com/photos/31854239/pexels-photo-31854239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Founders who design modular hardware now will lead",
+      "description": "Adaptability beats specialization when the environment changes. Those prioritizing modularity today define the next wave.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "modular robot arm",
+      "image_query": "robot arm",
+      "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test modularity on one physical task",
+      "description": "If it doesn't snap together simply, you've found your bottleneck. That's how you stay ahead.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "hands assembling module",
+      "image_query": "hands assembling",
+      "image": "https://images.pexels.com/photos/39643403/pexels-photo-39643403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your next build",
+      "description": "Pick one physical task this week and prototype a modular approach. Iterate if it fails.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "checklist with modular task",
+      "image_query": "checklist",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675",
+  "savedAt": "2026-10-21T09:00:13.283Z",
+  "sourceId": "de4b0bf4f3d630baf805db00cadabbc8"
+}
