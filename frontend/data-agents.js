@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "chatgpt-now-lets-you-lock-your-chats",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "ChatGPT now lets you lock your chats",
+      "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "pubDate": "Tue, 20 Oct 2026 18:36:53 +0000",
+      "slides": [
+        "What if someone picks up your unlocked phone?",
+        "ChatGPT added a Locked Chats feature this week",
+        "But locked chats vanish from your history entirely",
+        "You must re-find them through a hidden gesture",
+        "Decide now: which conversations need that lock?"
+      ],
+      "thread_text": [
+        "1. The Locked Chats Twist\n\nChatGPT now hides locked conversations from your history entirely. You must use a hidden gesture to find them again.",
+        "2. Vanish From History\n\nLocked chats don't appear in your sidebar or search. They're completely invisible until you perform a secret swipe or tap.",
+        "3. Hidden Gesture Required\n\nTo access a locked chat, you need to remember and execute a specific gesture. Forgetting it means losing the conversation forever.",
+        "4. Decide Before You Lock\n\nNot every chat needs this level of secrecy. Locking too many makes them impossible to manage.",
+        "5. Your Locking Strategy\n\nOpen ChatGPT now and list which conversations truly need the lock. If you can't remember the gesture, don't lock it."
+      ],
+      "video_script": [
+        "Your unlocked phone could expose private AI chats.",
+        "ChatGPT just added a Locked Chats feature.",
+        "Locked chats disappear from your history completely.",
+        "You need a hidden gesture to find them again.",
+        "Decide now which conversations deserve that lock."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Locked Chats Twist\n\nChatGPT now hides locked conversations from your history entirely. You must use a hidden gesture to find them again.",
+            "2. Vanish From History\n\nLocked chats don't appear in your sidebar or search. They're completely invisible until you perform a secret swipe or tap.",
+            "3. Hidden Gesture Required\n\nTo access a locked chat, you need to remember and execute a specific gesture. Forgetting it means losing the conversation forever.",
+            "4. Decide Before You Lock\n\nNot every chat needs this level of secrecy. Locking too many makes them impossible to manage.",
+            "5. Your Locking Strategy\n\nOpen ChatGPT now and list which conversations truly need the lock. If you can't remember the gesture, don't lock it."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your unlocked phone could expose private AI chats.",
+            "ChatGPT just added a Locked Chats feature.",
+            "Locked chats disappear from your history completely.",
+            "You need a hidden gesture to find them again.",
+            "Decide now which conversations deserve that lock."
+          ]
+        },
+        "instagram": {
+          "caption": "Your locked ChatGPT conversations disappear from your history completely. 🔒\n\nThey won't show up in your sidebar or in search. When you lock a chat, it vanishes from view until you perform a hidden gesture — a secret swipe or tap — to bring it back.\n\nForget the gesture, and you can't reach that conversation again. Find the feature now: open ChatGPT, pick one chat you'd actually protect, and lock it before you forget how to get back in.\n\nWhich conversation of yours needs that lock? 🤔"
+        }
+      },
+      "instagram_caption": "Your locked ChatGPT conversations disappear from your history completely. 🔒\n\nThey won't show up in your sidebar or in search. When you lock a chat, it vanishes from view until you perform a hidden gesture — a secret swipe or tap — to bring it back.\n\nForget the gesture, and you can't reach that conversation again. Find the feature now: open ChatGPT, pick one chat you'd actually protect, and lock it before you forget how to get back in.\n\nWhich conversation of yours needs that lock? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Your locked chats just vanished",
+          "description": "ChatGPT's new Locked Chats feature hides conversations from your history entirely—no sidebar, no search, nothing.",
+          "visual_hint": "Disappearing chat bubbles on phone screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone screen"
+        },
+        {
+          "hook": "Locked chats disappear from history",
+          "description": "Locked conversations are invisible in your sidebar and search results until you perform a secret gesture.",
+          "visual_hint": "Empty sidebar with hidden chat icons",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "empty chat interface",
+          "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One forgotten gesture loses everything",
+          "description": "You must remember a specific swipe or tap to find locked chats. Forget it, and the conversation is gone forever.",
+          "visual_hint": "Finger swiping on touchscreen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "touchscreen gesture",
+          "image": "https://images.pexels.com/photos/37401978/pexels-photo-37401978.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Don't lock chats you'll forget",
+          "description": "Locking too many conversations makes them impossible to manage. Only lock what truly needs secrecy.",
+          "visual_hint": "Hand holding phone with lock icon",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before you lock anything",
+          "description": "Open ChatGPT now and list which conversations truly need the lock. If you can't remember the gesture, don't lock it.",
+          "visual_hint": "Checklist with lock icons on phone",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist phone",
+          "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "savedAt": "2026-10-21T02:38:34.736Z",
+      "sourceId": "dd509f4a2f7db9fa59812ab19a7b318f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "hugging-face-ceo-warns-that-netflix-s-openai-hack-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "pubDate": "Tue, 20 Oct 2026 22:24:02 +0000",
+      "slides": [
+        "Why does Hugging Face's CEO call Netflix's OpenAI documentary wrong?",
+        "The film dramatizes the 2023 OpenAI board crisis",
+        "Clem Delangue says key context was distorted or missing",
+        "Viewers may walk away with a skewed picture of AI governance",
+        "Check primary sources before trusting dramatized tech stories"
+      ],
+      "thread_text": [
+        "1. The Documentary Backlash\n\nHugging Face's CEO Clem Delangue says Netflix's OpenAI film distorts key context about the 2023 board crisis. He argues viewers may walk away with a skewed picture of AI governance.",
+        "2. What the Film Shows\n\nThe documentary dramatizes the November 2023 boardroom coup at OpenAI, when the board fired Sam Altman and triggered a chaotic week. Millions now get their version of events from streaming, not primary sources.",
+        "3. Missing Context Matters\n\nDelangue says critical details about the board's motivations and the governance debate were cut or simplified. When dramatic narrative replaces documented fact, public understanding of how AI labs are controlled suffers.",
+        "4. Governance Gets Distorted\n\nThe film frames the crisis as a personality clash, but the real stakes were about how much power a safety-focused board should hold over a commercial AI lab. That nuance shapes today's policy debates.",
+        "5. Check the Primary Sources\n\nBefore trusting any dramatized tech story, read the actual board memo, the employee letter, and the public statements. Ask yourself: did this film change your view of OpenAI's crisis without you checking the record?"
+      ],
+      "video_script": [
+        "Hugging Face's CEO says Netflix's OpenAI film gets it wrong.",
+        "The documentary dramatizes the 2023 board crisis that fired Altman.",
+        "Delangue says key context was distorted or left out entirely.",
+        "Viewers may walk away with a skewed picture of AI governance.",
+        "Check primary sources before trusting dramatized tech stories."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Documentary Backlash\n\nHugging Face's CEO Clem Delangue says Netflix's OpenAI film distorts key context about the 2023 board crisis. He argues viewers may walk away with a skewed picture of AI governance.",
+            "2. What the Film Shows\n\nThe documentary dramatizes the November 2023 boardroom coup at OpenAI, when the board fired Sam Altman and triggered a chaotic week. Millions now get their version of events from streaming, not primary sources.",
+            "3. Missing Context Matters\n\nDelangue says critical details about the board's motivations and the governance debate were cut or simplified. When dramatic narrative replaces documented fact, public understanding of how AI labs are controlled suffers.",
+            "4. Governance Gets Distorted\n\nThe film frames the crisis as a personality clash, but the real stakes were about how much power a safety-focused board should hold over a commercial AI lab. That nuance shapes today's policy debates.",
+            "5. Check the Primary Sources\n\nBefore trusting any dramatized tech story, read the actual board memo, the employee letter, and the public statements. Ask yourself: did this film change your view of OpenAI's crisis without you checking the record?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Hugging Face's CEO says Netflix's OpenAI film gets it wrong.",
+            "The documentary dramatizes the 2023 board crisis that fired Altman.",
+            "Delangue says key context was distorted or left out entirely.",
+            "Viewers may walk away with a skewed picture of AI governance.",
+            "Check primary sources before trusting dramatized tech stories."
+          ]
+        },
+        "instagram": {
+          "caption": "Netflix's new OpenAI documentary gets the story wrong, according to Hugging Face's CEO Clem Delangue.\n\nThe film dramatizes the November 2023 board crisis that briefly ousted Sam Altman. 🎬\n\nDelangue says key context about why the board acted and what the governance fight was really about got cut or simplified.\n\nIf you're writing or publishing about AI, this matters: dramatized versions of events can shape how your audience understands who controls AI labs.\n\nRead the actual board memo and public statements before you cite the film. 📄\n\nDid this documentary change your view of OpenAI's crisis without you checking the record? 🤔"
+        }
+      },
+      "instagram_caption": "Netflix's new OpenAI documentary gets the story wrong, according to Hugging Face's CEO Clem Delangue.\n\nThe film dramatizes the November 2023 board crisis that briefly ousted Sam Altman. 🎬\n\nDelangue says key context about why the board acted and what the governance fight was really about got cut or simplified.\n\nIf you're writing or publishing about AI, this matters: dramatized versions of events can shape how your audience understands who controls AI labs.\n\nRead the actual board memo and public statements before you cite the film. 📄\n\nDid this documentary change your view of OpenAI's crisis without you checking the record? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Did Netflix mislead you about OpenAI?",
+          "description": "Hugging Face CEO Clem Delangue says the film distorts key context of OpenAI's 2023 board crisis, skewing public understanding of AI governance.",
+          "visual_hint": "Split screen: film reel vs. document",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "film reel"
+        },
+        {
+          "hook": "The boardroom coup, dramatized",
+          "description": "The documentary recreates the November 2023 firing of Sam Altman, but millions now learn history from streaming, not primary sources.",
+          "visual_hint": "Boardroom table with empty chairs",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "boardroom table",
+          "image": "https://images.pexels.com/photos/8574469/pexels-photo-8574469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "What got cut matters",
+          "description": "Delangue notes critical details about board motivations and governance were simplified, harming public understanding of AI lab control.",
+          "visual_hint": "Scissors cutting a document",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "scissors cutting paper",
+          "image": "https://images.pexels.com/photos/4219214/pexels-photo-4219214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Governance reduced to personality clash",
+          "description": "The film frames the crisis as a feud, but real stakes were about a safety board's power over a commercial lab—nuance shaping today's policy.",
+          "visual_hint": "Two hands pulling rope",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "tug of war",
+          "image": "https://images.pexels.com/photos/40236395/pexels-photo-40236395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your next tech doc",
+          "description": "Read the actual board memo, employee letter, and public statements. Ask: did the film change your view without checking the record?",
+          "visual_hint": "Open book with magnifying glass",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "magnifying glass book",
+          "image": "https://images.pexels.com/photos/6034155/pexels-photo-6034155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/clem-delangue.png?resize=1200,789",
+      "savedAt": "2026-10-21T02:38:24.819Z",
+      "sourceId": "df88e4093e3a6cc655974620bb5e563b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "anthropic-pitches-ai-safety-bill-that-may-block-a-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "pubDate": "Tue, 20 Oct 2026 23:01:23 +0000",
+      "slides": [
+        "Should one law decide which AI models exist?",
+        "Anthropic backs a bill setting safety thresholds",
+        "It could block a model if 50+ people could die",
+        "Small labs face steep compliance costs",
+        "Ask your vendor how this bill affects you"
+      ],
+      "thread_text": [
+        "1. One law, all AIs?\n\nA single bill could soon decide which AI models are allowed to exist. Anthropic is backing it, and it sets safety thresholds that trigger government review.",
+        "2. Safety thresholds defined\n\nThe bill says a model can be blocked if it could kill 50 or more people. That's the trigger for a mandatory pre-deployment evaluation.",
+        "3. Small labs squeezed\n\nCompliance costs for safety testing and audits could run into millions. Small labs may not survive, leaving only big players at the table.",
+        "4. Vendor impact unclear\n\nIf you use AI from a vendor, the bill could change your access overnight. Ask them directly: how would this law affect your service?",
+        "5. Your move today\n\nOpen your AI vendor's policy page and search for 'safety threshold.' If nothing is there, email their support and ask. Silence is an answer too."
+      ],
+      "video_script": [
+        "One law could decide which AI models exist.",
+        "Anthropic backs a bill with safety thresholds.",
+        "A model can be blocked if 50 people could die.",
+        "Small labs face steep compliance costs.",
+        "Ask your vendor how this bill affects you."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. One law, all AIs?\n\nA single bill could soon decide which AI models are allowed to exist. Anthropic is backing it, and it sets safety thresholds that trigger government review.",
+            "2. Safety thresholds defined\n\nThe bill says a model can be blocked if it could kill 50 or more people. That's the trigger for a mandatory pre-deployment evaluation.",
+            "3. Small labs squeezed\n\nCompliance costs for safety testing and audits could run into millions. Small labs may not survive, leaving only big players at the table.",
+            "4. Vendor impact unclear\n\nIf you use AI from a vendor, the bill could change your access overnight. Ask them directly: how would this law affect your service?",
+            "5. Your move today\n\nOpen your AI vendor's policy page and search for 'safety threshold.' If nothing is there, email their support and ask. Silence is an answer too."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "One law could decide which AI models exist.",
+            "Anthropic backs a bill with safety thresholds.",
+            "A model can be blocked if 50 people could die.",
+            "Small labs face steep compliance costs.",
+            "Ask your vendor how this bill affects you."
+          ]
+        },
+        "instagram": {
+          "caption": "Fifty or more deaths — that's the threshold a new bill uses to decide whether an AI model gets blocked before release. 😳\n\nAnthropic is backing it, and it would trigger a mandatory government review before deployment.\n\nSmall labs say the safety testing and audits could cost millions, which may leave only the big players standing.\n\nIf you build with a vendor's AI, your access could change overnight. 🔍\n\nAsk your vendor directly: how would this law affect your service? Open their policy page and search for \"safety threshold\" — if it's not there, email support and ask. 📩\n\nWhat would you do if your main AI tool got pulled without warning? 🤔"
+        }
+      },
+      "instagram_caption": "Fifty or more deaths — that's the threshold a new bill uses to decide whether an AI model gets blocked before release. 😳\n\nAnthropic is backing it, and it would trigger a mandatory government review before deployment.\n\nSmall labs say the safety testing and audits could cost millions, which may leave only the big players standing.\n\nIf you build with a vendor's AI, your access could change overnight. 🔍\n\nAsk your vendor directly: how would this law affect your service? Open their policy page and search for \"safety threshold\" — if it's not there, email support and ask. 📩\n\nWhat would you do if your main AI tool got pulled without warning? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Could this bill block your AI?",
+          "description": "A model could be blocked if it might kill 50+ people. That's the trigger for mandatory government review.",
+          "visual_hint": "Gavel with digital circuit lines",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "gavel court"
+        },
+        {
+          "hook": "Safety thresholds set by law",
+          "description": "Anthropic backs a bill that sets safety thresholds, forcing pre-deployment evaluation for risky models.",
+          "visual_hint": "Shield icon with checkmark",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "security shield",
+          "image": "https://images.pexels.com/photos/24039171/pexels-photo-24039171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "50 deaths: the new red line",
+          "description": "If a model could cause 50 or more deaths, it can be blocked until it passes a safety evaluation.",
+          "visual_hint": "Warning sign with number 50",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "warning sign",
+          "image": "https://images.pexels.com/photos/36554863/pexels-photo-36554863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Small labs may not survive",
+          "description": "Compliance costs for testing and audits could hit millions, leaving only big players at the table.",
+          "visual_hint": "Small lab vs. corporate building",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "empty office",
+          "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this. Ask your vendor.",
+          "description": "Check your AI vendor's policy for 'safety threshold.' If missing, email support and ask directly.",
+          "visual_hint": "Person typing email on laptop",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "laptop email",
+          "image": "https://images.pexels.com/photos/29359827/pexels-photo-29359827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
+      "savedAt": "2026-10-21T02:38:14.490Z",
+      "sourceId": "d1819ab5c66e067aabcee821c8b00f4f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "democrats-think-cracking-down-on-ai-could-give-the",
       "prompt_version": "1.0.0",
       "status": "published",

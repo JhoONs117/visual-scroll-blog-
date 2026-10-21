@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-pitches-ai-safety-bill-that-may-block-a-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+  "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+  "pubDate": "Tue, 20 Oct 2026 23:01:23 +0000",
+  "slides": [
+    "Should one law decide which AI models exist?",
+    "Anthropic backs a bill setting safety thresholds",
+    "It could block a model if 50+ people could die",
+    "Small labs face steep compliance costs",
+    "Ask your vendor how this bill affects you"
+  ],
+  "thread_text": [
+    "1. One law, all AIs?\n\nA single bill could soon decide which AI models are allowed to exist. Anthropic is backing it, and it sets safety thresholds that trigger government review.",
+    "2. Safety thresholds defined\n\nThe bill says a model can be blocked if it could kill 50 or more people. That's the trigger for a mandatory pre-deployment evaluation.",
+    "3. Small labs squeezed\n\nCompliance costs for safety testing and audits could run into millions. Small labs may not survive, leaving only big players at the table.",
+    "4. Vendor impact unclear\n\nIf you use AI from a vendor, the bill could change your access overnight. Ask them directly: how would this law affect your service?",
+    "5. Your move today\n\nOpen your AI vendor's policy page and search for 'safety threshold.' If nothing is there, email their support and ask. Silence is an answer too."
+  ],
+  "video_script": [
+    "One law could decide which AI models exist.",
+    "Anthropic backs a bill with safety thresholds.",
+    "A model can be blocked if 50 people could die.",
+    "Small labs face steep compliance costs.",
+    "Ask your vendor how this bill affects you."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. One law, all AIs?\n\nA single bill could soon decide which AI models are allowed to exist. Anthropic is backing it, and it sets safety thresholds that trigger government review.",
+        "2. Safety thresholds defined\n\nThe bill says a model can be blocked if it could kill 50 or more people. That's the trigger for a mandatory pre-deployment evaluation.",
+        "3. Small labs squeezed\n\nCompliance costs for safety testing and audits could run into millions. Small labs may not survive, leaving only big players at the table.",
+        "4. Vendor impact unclear\n\nIf you use AI from a vendor, the bill could change your access overnight. Ask them directly: how would this law affect your service?",
+        "5. Your move today\n\nOpen your AI vendor's policy page and search for 'safety threshold.' If nothing is there, email their support and ask. Silence is an answer too."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "One law could decide which AI models exist.",
+        "Anthropic backs a bill with safety thresholds.",
+        "A model can be blocked if 50 people could die.",
+        "Small labs face steep compliance costs.",
+        "Ask your vendor how this bill affects you."
+      ]
+    },
+    "instagram": {
+      "caption": "Fifty or more deaths — that's the threshold a new bill uses to decide whether an AI model gets blocked before release. 😳\n\nAnthropic is backing it, and it would trigger a mandatory government review before deployment.\n\nSmall labs say the safety testing and audits could cost millions, which may leave only the big players standing.\n\nIf you build with a vendor's AI, your access could change overnight. 🔍\n\nAsk your vendor directly: how would this law affect your service? Open their policy page and search for \"safety threshold\" — if it's not there, email support and ask. 📩\n\nWhat would you do if your main AI tool got pulled without warning? 🤔"
+    }
+  },
+  "instagram_caption": "Fifty or more deaths — that's the threshold a new bill uses to decide whether an AI model gets blocked before release. 😳\n\nAnthropic is backing it, and it would trigger a mandatory government review before deployment.\n\nSmall labs say the safety testing and audits could cost millions, which may leave only the big players standing.\n\nIf you build with a vendor's AI, your access could change overnight. 🔍\n\nAsk your vendor directly: how would this law affect your service? Open their policy page and search for \"safety threshold\" — if it's not there, email support and ask. 📩\n\nWhat would you do if your main AI tool got pulled without warning? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Could this bill block your AI?",
+      "description": "A model could be blocked if it might kill 50+ people. That's the trigger for mandatory government review.",
+      "visual_hint": "Gavel with digital circuit lines",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "gavel court"
+    },
+    {
+      "hook": "Safety thresholds set by law",
+      "description": "Anthropic backs a bill that sets safety thresholds, forcing pre-deployment evaluation for risky models.",
+      "visual_hint": "Shield icon with checkmark",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "security shield",
+      "image": "https://images.pexels.com/photos/24039171/pexels-photo-24039171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "50 deaths: the new red line",
+      "description": "If a model could cause 50 or more deaths, it can be blocked until it passes a safety evaluation.",
+      "visual_hint": "Warning sign with number 50",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "warning sign",
+      "image": "https://images.pexels.com/photos/36554863/pexels-photo-36554863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Small labs may not survive",
+      "description": "Compliance costs for testing and audits could hit millions, leaving only big players at the table.",
+      "visual_hint": "Small lab vs. corporate building",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "empty office",
+      "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Ask your vendor.",
+      "description": "Check your AI vendor's policy for 'safety threshold.' If missing, email support and ask directly.",
+      "visual_hint": "Person typing email on laptop",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "laptop email",
+      "image": "https://images.pexels.com/photos/29359827/pexels-photo-29359827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
+  "savedAt": "2026-10-21T02:38:14.490Z",
+  "sourceId": "d1819ab5c66e067aabcee821c8b00f4f"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "hugging-face-ceo-warns-that-netflix-s-openai-hack-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+  "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+  "pubDate": "Tue, 20 Oct 2026 22:24:02 +0000",
+  "slides": [
+    "Why does Hugging Face's CEO call Netflix's OpenAI documentary wrong?",
+    "The film dramatizes the 2023 OpenAI board crisis",
+    "Clem Delangue says key context was distorted or missing",
+    "Viewers may walk away with a skewed picture of AI governance",
+    "Check primary sources before trusting dramatized tech stories"
+  ],
+  "thread_text": [
+    "1. The Documentary Backlash\n\nHugging Face's CEO Clem Delangue says Netflix's OpenAI film distorts key context about the 2023 board crisis. He argues viewers may walk away with a skewed picture of AI governance.",
+    "2. What the Film Shows\n\nThe documentary dramatizes the November 2023 boardroom coup at OpenAI, when the board fired Sam Altman and triggered a chaotic week. Millions now get their version of events from streaming, not primary sources.",
+    "3. Missing Context Matters\n\nDelangue says critical details about the board's motivations and the governance debate were cut or simplified. When dramatic narrative replaces documented fact, public understanding of how AI labs are controlled suffers.",
+    "4. Governance Gets Distorted\n\nThe film frames the crisis as a personality clash, but the real stakes were about how much power a safety-focused board should hold over a commercial AI lab. That nuance shapes today's policy debates.",
+    "5. Check the Primary Sources\n\nBefore trusting any dramatized tech story, read the actual board memo, the employee letter, and the public statements. Ask yourself: did this film change your view of OpenAI's crisis without you checking the record?"
+  ],
+  "video_script": [
+    "Hugging Face's CEO says Netflix's OpenAI film gets it wrong.",
+    "The documentary dramatizes the 2023 board crisis that fired Altman.",
+    "Delangue says key context was distorted or left out entirely.",
+    "Viewers may walk away with a skewed picture of AI governance.",
+    "Check primary sources before trusting dramatized tech stories."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Documentary Backlash\n\nHugging Face's CEO Clem Delangue says Netflix's OpenAI film distorts key context about the 2023 board crisis. He argues viewers may walk away with a skewed picture of AI governance.",
+        "2. What the Film Shows\n\nThe documentary dramatizes the November 2023 boardroom coup at OpenAI, when the board fired Sam Altman and triggered a chaotic week. Millions now get their version of events from streaming, not primary sources.",
+        "3. Missing Context Matters\n\nDelangue says critical details about the board's motivations and the governance debate were cut or simplified. When dramatic narrative replaces documented fact, public understanding of how AI labs are controlled suffers.",
+        "4. Governance Gets Distorted\n\nThe film frames the crisis as a personality clash, but the real stakes were about how much power a safety-focused board should hold over a commercial AI lab. That nuance shapes today's policy debates.",
+        "5. Check the Primary Sources\n\nBefore trusting any dramatized tech story, read the actual board memo, the employee letter, and the public statements. Ask yourself: did this film change your view of OpenAI's crisis without you checking the record?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hugging Face's CEO says Netflix's OpenAI film gets it wrong.",
+        "The documentary dramatizes the 2023 board crisis that fired Altman.",
+        "Delangue says key context was distorted or left out entirely.",
+        "Viewers may walk away with a skewed picture of AI governance.",
+        "Check primary sources before trusting dramatized tech stories."
+      ]
+    },
+    "instagram": {
+      "caption": "Netflix's new OpenAI documentary gets the story wrong, according to Hugging Face's CEO Clem Delangue.\n\nThe film dramatizes the November 2023 board crisis that briefly ousted Sam Altman. 🎬\n\nDelangue says key context about why the board acted and what the governance fight was really about got cut or simplified.\n\nIf you're writing or publishing about AI, this matters: dramatized versions of events can shape how your audience understands who controls AI labs.\n\nRead the actual board memo and public statements before you cite the film. 📄\n\nDid this documentary change your view of OpenAI's crisis without you checking the record? 🤔"
+    }
+  },
+  "instagram_caption": "Netflix's new OpenAI documentary gets the story wrong, according to Hugging Face's CEO Clem Delangue.\n\nThe film dramatizes the November 2023 board crisis that briefly ousted Sam Altman. 🎬\n\nDelangue says key context about why the board acted and what the governance fight was really about got cut or simplified.\n\nIf you're writing or publishing about AI, this matters: dramatized versions of events can shape how your audience understands who controls AI labs.\n\nRead the actual board memo and public statements before you cite the film. 📄\n\nDid this documentary change your view of OpenAI's crisis without you checking the record? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Did Netflix mislead you about OpenAI?",
+      "description": "Hugging Face CEO Clem Delangue says the film distorts key context of OpenAI's 2023 board crisis, skewing public understanding of AI governance.",
+      "visual_hint": "Split screen: film reel vs. document",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "film reel"
+    },
+    {
+      "hook": "The boardroom coup, dramatized",
+      "description": "The documentary recreates the November 2023 firing of Sam Altman, but millions now learn history from streaming, not primary sources.",
+      "visual_hint": "Boardroom table with empty chairs",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "boardroom table",
+      "image": "https://images.pexels.com/photos/8574469/pexels-photo-8574469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "What got cut matters",
+      "description": "Delangue notes critical details about board motivations and governance were simplified, harming public understanding of AI lab control.",
+      "visual_hint": "Scissors cutting a document",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "scissors cutting paper",
+      "image": "https://images.pexels.com/photos/4219214/pexels-photo-4219214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Governance reduced to personality clash",
+      "description": "The film frames the crisis as a feud, but real stakes were about a safety board's power over a commercial lab—nuance shaping today's policy.",
+      "visual_hint": "Two hands pulling rope",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "tug of war",
+      "image": "https://images.pexels.com/photos/40236395/pexels-photo-40236395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next tech doc",
+      "description": "Read the actual board memo, employee letter, and public statements. Ask: did the film change your view without checking the record?",
+      "visual_hint": "Open book with magnifying glass",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "magnifying glass book",
+      "image": "https://images.pexels.com/photos/6034155/pexels-photo-6034155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/11/clem-delangue.png?resize=1200,789",
+  "savedAt": "2026-10-21T02:38:24.819Z",
+  "sourceId": "df88e4093e3a6cc655974620bb5e563b"
+}
