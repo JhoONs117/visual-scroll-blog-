@@ -2,6 +2,423 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "anthropic-takes-on-muse-with-claude-duet-its-new-a",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+    "pubDate": "2026-10-21T19:53:20.000Z",
+    "slides": [
+      "Can Anthropic's Claude Duet outplay Muse at its own game?",
+      "A new AI agent built for hands-on creative work",
+      "But early tests show it stalls on multi-step projects",
+      "Teams can now assign it whole workflows, not prompts",
+      "Try one real project before your competitor does"
+    ],
+    "thread_text": [
+      "1. Claude Duet vs Muse\n\nAnthropic's new agent is designed for hands-on creative work. Early tests reveal it stalls on multi-step projects, raising doubts about its readiness.",
+      "2. Built for Creatives\n\nDuet lets teams assign entire workflows, not just prompts. That shift could redefine how creative work gets delegated to AI.",
+      "3. Stalls on Complexity\n\nWhen projects require multiple steps, Duet struggles. This limitation might frustrate teams expecting seamless execution.",
+      "4. Workflows, Not Prompts\n\nAssigning whole workflows means AI handles sequences, not isolated tasks. But if it stalls, the promise of end-to-end automation weakens.",
+      "5. Test Before Rivals\n\nTry one real project with Duet this week. Does it save time or create more editing? Share your experience."
+    ],
+    "video_script": [
+      "Anthropic's Claude Duet is here.",
+      "It's built for hands-on creative work.",
+      "But early tests show it stalls on multi-step projects.",
+      "Teams can assign whole workflows, not just prompts.",
+      "Try one real project before your competitor does."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Claude Duet vs Muse\n\nAnthropic's new agent is designed for hands-on creative work. Early tests reveal it stalls on multi-step projects, raising doubts about its readiness.",
+          "2. Built for Creatives\n\nDuet lets teams assign entire workflows, not just prompts. That shift could redefine how creative work gets delegated to AI.",
+          "3. Stalls on Complexity\n\nWhen projects require multiple steps, Duet struggles. This limitation might frustrate teams expecting seamless execution.",
+          "4. Workflows, Not Prompts\n\nAssigning whole workflows means AI handles sequences, not isolated tasks. But if it stalls, the promise of end-to-end automation weakens.",
+          "5. Test Before Rivals\n\nTry one real project with Duet this week. Does it save time or create more editing? Share your experience."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Anthropic's Claude Duet is here.",
+          "It's built for hands-on creative work.",
+          "But early tests show it stalls on multi-step projects.",
+          "Teams can assign whole workflows, not just prompts.",
+          "Try one real project before your competitor does."
+        ]
+      },
+      "instagram": {
+        "caption": "Anthropic's new Claude Duet is built to handle entire creative workflows, not just single prompts. 🤖\n\nThat means teams can hand it a whole sequence of tasks instead of typing each step.\n\nBut early tests show it stalls on multi-step projects, so end-to-end automation doesn't fully hold up yet.\n\nIf you're assigning real work to it, expect to step in and fix things mid-project rather than set it and forget it. 🛠️\n\nWould you trust Duet with one full project this week, or wait to see if it stalls first?"
+      }
+    },
+    "instagram_caption": "Anthropic's new Claude Duet is built to handle entire creative workflows, not just single prompts. 🤖\n\nThat means teams can hand it a whole sequence of tasks instead of typing each step.\n\nBut early tests show it stalls on multi-step projects, so end-to-end automation doesn't fully hold up yet.\n\nIf you're assigning real work to it, expect to step in and fix things mid-project rather than set it and forget it. 🛠️\n\nWould you trust Duet with one full project this week, or wait to see if it stalls first?",
+    "carousel_slides": [
+      {
+        "hook": "Can Claude Duet Outplay Muse?",
+        "description": "Anthropic's new AI agent targets hands-on creative work, but early tests reveal it stalls on multi-step projects, raising readiness doubts.",
+        "visual_hint": "Split screen AI agents facing off",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot competition"
+      },
+      {
+        "hook": "Built for Creative Teams",
+        "description": "Duet lets teams assign entire workflows, not just prompts. That shift could redefine how creative work gets delegated to AI.",
+        "visual_hint": "Team collaborating around digital workflow",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "office team collaboration",
+        "image": "https://images.pexels.com/photos/3862154/pexels-photo-3862154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stalls on Multi-Step Projects",
+        "description": "When projects require multiple steps, Duet struggles. This limitation might frustrate teams expecting seamless execution.",
+        "visual_hint": "Complex flowchart with broken link",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "broken chain",
+        "image": "https://images.pexels.com/photos/5691777/pexels-photo-5691777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Workflows, Not Just Prompts",
+        "description": "Assigning whole workflows means AI handles sequences, not isolated tasks. But if it stalls, the promise of end-to-end automation weakens.",
+        "visual_hint": "Hands assigning tasks on screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand typing keyboard",
+        "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Duet Before Your Rivals",
+        "description": "Try one real project with Duet this week. Does it save time or create more editing? Share your experience in comments.",
+        "visual_hint": "Person testing AI on laptop",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person using laptop",
+        "image": "https://images.pexels.com/photos/12902986/pexels-photo-12902986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-22T09:02:49.973Z",
+    "sourceId": "b9590634267c740600a93065d31b05a3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "gm-is-betting-compute-and-ai-will-help-it-compete-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+    "link": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+    "pubDate": "Wed, 21 Oct 2026 19:52:20 +0000",
+    "slides": [
+      "Can GM outcompute China's carmakers?",
+      "It is pouring billions into AI infrastructure",
+      "But compute is not the bottleneck Chinese rivals face",
+      "Your next GM vehicle may ship with AI features first",
+      "Test one AI feature before assuming it works"
+    ],
+    "thread_text": [
+      "1. GM's AI bet: can it outcompute China?\n\nGeneral Motors is pouring billions into AI infrastructure, but Chinese carmakers may not be playing the same game. The real bottleneck might be elsewhere.",
+      "2. Billions into AI infrastructure\n\nGM's investment is massive, but spending alone doesn't guarantee an edge. Chinese rivals are already deploying AI features at scale, often faster and cheaper.",
+      "3. Compute isn't the bottleneck\n\nFor Chinese automakers, the challenge isn't raw computing power—it's integrating AI seamlessly into vehicles and user experience. GM's billions might be aimed at the wrong target.",
+      "4. Your next GM may ship AI first\n\nGM plans to roll out AI features in upcoming vehicles, possibly ahead of competitors. But shipping early doesn't mean shipping good—especially if the AI isn't tested thoroughly.",
+      "5. Test one AI feature yourself\n\nBefore assuming GM's AI works, try a demo at a dealership or simulate a use case. Does it actually save you time, or just add complexity? Test it on a real task this week."
+    ],
+    "video_script": [
+      "Can GM outcompute China's carmakers?",
+      "They're pouring billions into AI infrastructure.",
+      "But compute isn't the bottleneck for Chinese rivals.",
+      "Your next GM vehicle may ship with AI features first.",
+      "Test one AI feature before assuming it works."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. GM's AI bet: can it outcompute China?\n\nGeneral Motors is pouring billions into AI infrastructure, but Chinese carmakers may not be playing the same game. The real bottleneck might be elsewhere.",
+          "2. Billions into AI infrastructure\n\nGM's investment is massive, but spending alone doesn't guarantee an edge. Chinese rivals are already deploying AI features at scale, often faster and cheaper.",
+          "3. Compute isn't the bottleneck\n\nFor Chinese automakers, the challenge isn't raw computing power—it's integrating AI seamlessly into vehicles and user experience. GM's billions might be aimed at the wrong target.",
+          "4. Your next GM may ship AI first\n\nGM plans to roll out AI features in upcoming vehicles, possibly ahead of competitors. But shipping early doesn't mean shipping good—especially if the AI isn't tested thoroughly.",
+          "5. Test one AI feature yourself\n\nBefore assuming GM's AI works, try a demo at a dealership or simulate a use case. Does it actually save you time, or just add complexity? Test it on a real task this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can GM outcompute China's carmakers?",
+          "They're pouring billions into AI infrastructure.",
+          "But compute isn't the bottleneck for Chinese rivals.",
+          "Your next GM vehicle may ship with AI features first.",
+          "Test one AI feature before assuming it works."
+        ]
+      },
+      "instagram": {
+        "caption": "General Motors is pouring billions into AI infrastructure to try to outcompute Chinese carmakers.\n\nThe bet is that raw computing power will decide who wins the next car market 😳\n\nBut compute may not be the real bottleneck for Chinese rivals, who are already shipping AI features at scale.\n\nGM says its next vehicles may ship with AI features first, ahead of competitors.\n\nFor anyone who publishes or reviews tech, that means early AI demos will land in showrooms before they're proven 🚗\n\nDon't trust the pitch: test one AI feature on a real task at a dealership this week 💡\n\nWould you buy a car because of its AI, or wait until it's actually useful? 🤔"
+      }
+    },
+    "instagram_caption": "General Motors is pouring billions into AI infrastructure to try to outcompute Chinese carmakers.\n\nThe bet is that raw computing power will decide who wins the next car market 😳\n\nBut compute may not be the real bottleneck for Chinese rivals, who are already shipping AI features at scale.\n\nGM says its next vehicles may ship with AI features first, ahead of competitors.\n\nFor anyone who publishes or reviews tech, that means early AI demos will land in showrooms before they're proven 🚗\n\nDon't trust the pitch: test one AI feature on a real task at a dealership this week 💡\n\nWould you buy a car because of its AI, or wait until it's actually useful? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Is compute really China's bottleneck?",
+        "description": "GM invests billions in AI, but Chinese rivals may not compete on raw compute. The real bottleneck could be elsewhere.",
+        "visual_hint": "Split screen: server room vs car factory",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "GM pours billions into AI infrastructure",
+        "description": "Massive spending doesn't guarantee an edge. Chinese automakers deploy AI features faster and cheaper at scale.",
+        "visual_hint": "Money flowing into computer servers",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Chinese rivals face a different challenge",
+        "description": "For Chinese automakers, integrating AI seamlessly into vehicles matters more than raw computing power. GM might be aiming at the wrong target.",
+        "visual_hint": "Car dashboard with AI interface",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "car dashboard",
+        "image": "https://images.pexels.com/photos/32667398/pexels-photo-32667398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your next GM may ship AI first",
+        "description": "GM plans to roll out AI features in upcoming vehicles, possibly ahead of competitors. But early shipping doesn't mean good AI.",
+        "visual_hint": "Hand touching car touchscreen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "car touchscreen",
+        "image": "https://images.pexels.com/photos/35641865/pexels-photo-35641865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and test AI yourself",
+        "description": "Before assuming GM's AI works, try a demo at a dealership or simulate a real task this week.",
+        "visual_hint": "Person using car AI demo",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "car dealership",
+        "image": "https://images.pexels.com/photos/12565887/pexels-photo-12565887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Row-of-pre-production-vehicles-at-PPO.jpg?resize=1200,801",
+    "savedAt": "2026-10-22T09:02:39.346Z",
+    "sourceId": "e35d745e8eb1b0201d91e5b5f2db7823"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "recursive-launches-flint-a-laptop-coding-model-it-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+    "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+    "pubDate": "Wed, 21 Oct 2026 20:27:41 +0000",
+    "slides": [
+      "Can a model built by AI code better?",
+      "Recursive's Flint targets laptop-scale coding",
+      "Most of its pipeline was automated, not hand-written",
+      "You can audit and run it without cloud costs",
+      "Try one repo task locally this week"
+    ],
+    "thread_text": [
+      "1. AI coding itself?\n\nRecursive's Flint is a model built largely by AI, not hand-written. It targets coding tasks on a laptop, no cloud needed.",
+      "2. Laptop-scale coding\n\nMost of Flint's pipeline was automated, meaning the model itself was assembled with minimal human coding. This raises the question: can AI-generated code outperform human-built models?",
+      "3. Audit without cloud\n\nYou can run and inspect Flint locally, avoiding cloud costs. That makes it accessible for individual developers and small teams.",
+      "4. Try it yourself\n\nPick a repo task this week and test Flint on your laptop. See if an AI-built model codes better than your usual tools.",
+      "5. Your move\n\nGrab a small repo task and run Flint locally this week. Does it save time or create extra edits? Test it on real work."
+    ],
+    "video_script": [
+      "What if AI built the model that codes?",
+      "Flint runs on your laptop, no cloud.",
+      "Most of its pipeline was automated.",
+      "You can audit and run it locally.",
+      "Try one repo task this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI coding itself?\n\nRecursive's Flint is a model built largely by AI, not hand-written. It targets coding tasks on a laptop, no cloud needed.",
+          "2. Laptop-scale coding\n\nMost of Flint's pipeline was automated, meaning the model itself was assembled with minimal human coding. This raises the question: can AI-generated code outperform human-built models?",
+          "3. Audit without cloud\n\nYou can run and inspect Flint locally, avoiding cloud costs. That makes it accessible for individual developers and small teams.",
+          "4. Try it yourself\n\nPick a repo task this week and test Flint on your laptop. See if an AI-built model codes better than your usual tools.",
+          "5. Your move\n\nGrab a small repo task and run Flint locally this week. Does it save time or create extra edits? Test it on real work."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "What if AI built the model that codes?",
+          "Flint runs on your laptop, no cloud.",
+          "Most of its pipeline was automated.",
+          "You can audit and run it locally.",
+          "Try one repo task this week."
+        ]
+      },
+      "instagram": {
+        "caption": "A coding model that was mostly built by AI, not by hand. Recursive's Flint runs on a laptop, no cloud required.\n\nMost of its pipeline was automated, so the real test is whether AI-assembled code holds up on actual repos. 🤖\n\nYou can audit and run it locally, which keeps costs at zero for solo devs and small teams. 💻\n\nThat means one less cloud bill and one more way to check the tools you rely on. 🔍\n\nPick one repo task this week and run Flint on it: does it save time or just add edits? 🛠️"
+      }
+    },
+    "instagram_caption": "A coding model that was mostly built by AI, not by hand. Recursive's Flint runs on a laptop, no cloud required.\n\nMost of its pipeline was automated, so the real test is whether AI-assembled code holds up on actual repos. 🤖\n\nYou can audit and run it locally, which keeps costs at zero for solo devs and small teams. 💻\n\nThat means one less cloud bill and one more way to check the tools you rely on. 🔍\n\nPick one repo task this week and run Flint on it: does it save time or just add edits? 🛠️",
+    "carousel_slides": [
+      {
+        "hook": "Can AI-built models code better?",
+        "description": "Recursive's Flint was largely built by AI, raising the question: can AI-generated code outperform human-built models?",
+        "visual_hint": "Laptop screen with code and AI chip",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "laptop coding"
+      },
+      {
+        "hook": "Flint targets laptop-scale coding",
+        "description": "Flint runs on a laptop, no cloud needed. This makes advanced coding accessible to individual developers and small teams.",
+        "visual_hint": "Developer working on laptop in cafe",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "developer laptop",
+        "image": "https://images.pexels.com/photos/39712880/pexels-photo-39712880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Pipeline automated, not hand-written",
+        "description": "Most of Flint's pipeline was automated, meaning the model was assembled with minimal human coding. This challenges traditional model building.",
+        "visual_hint": "Robotic arm assembling circuit board",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "robotic assembly",
+        "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit and run without cloud costs",
+        "description": "You can inspect Flint locally, avoiding cloud fees. That makes it accessible for individual developers and small teams.",
+        "visual_hint": "Hand holding laptop with code review",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "code review",
+        "image": "https://images.pexels.com/photos/12899162/pexels-photo-12899162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try Flint on a repo task now",
+        "description": "Pick a small repo task this week and test Flint on your laptop. See if it saves time or creates extra edits.",
+        "visual_hint": "Laptop with code and checklist",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "coding task",
+        "image": "https://images.pexels.com/photos/12899138/pexels-photo-12899138.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
+    "savedAt": "2026-10-22T09:02:28.372Z",
+    "sourceId": "12af459ff8f6cdb22ece577f0d8ab558"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "airbnb-limits-chores-for-guests-sparking-backlash-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+    "link": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+    "pubDate": "Wed, 21 Oct 2026 22:16:05 +0000",
+    "slides": [
+      "Airbnb just capped guest chores—why now?",
+      "Hosts are pushing back hard on the new limit",
+      "Most complaints come from a small group of hosts",
+      "Check your listing's chore list against the new cap",
+      "Ask: is your checkout list a fee in disguise?"
+    ],
+    "thread_text": [
+      "1. Airbnb capped guest chores\n\nA new limit on checkout tasks has hosts furious—but data shows most complaints come from a tiny slice of them.",
+      "2. Hosts push back hard\n\nMany say the cap ruins their cleaning routine, yet internal numbers reveal a vocal minority driving the backlash.",
+      "3. Small group, loud noise\n\nMost hosts never complained. The pushback is concentrated among a few who rely on long chore lists to cut turnover costs.",
+      "4. Check your own list\n\nCompare your checkout instructions to the new cap. If you're over, you're now an outlier—and guests notice.",
+      "5. Is your list a fee?\n\nIf chores save you a cleaning fee, guests pay twice. Open your listing and count: does each task replace paid work?"
+    ],
+    "video_script": [
+      "Airbnb just capped guest chores—hosts are furious.",
+      "But most complaints come from a small group.",
+      "Check your listing's chore list against the new cap.",
+      "Is your checkout list just a hidden fee?",
+      "Count your tasks—does each replace paid work?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Airbnb capped guest chores\n\nA new limit on checkout tasks has hosts furious—but data shows most complaints come from a tiny slice of them.",
+          "2. Hosts push back hard\n\nMany say the cap ruins their cleaning routine, yet internal numbers reveal a vocal minority driving the backlash.",
+          "3. Small group, loud noise\n\nMost hosts never complained. The pushback is concentrated among a few who rely on long chore lists to cut turnover costs.",
+          "4. Check your own list\n\nCompare your checkout instructions to the new cap. If you're over, you're now an outlier—and guests notice.",
+          "5. Is your list a fee?\n\nIf chores save you a cleaning fee, guests pay twice. Open your listing and count: does each task replace paid work?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Airbnb just capped guest chores—hosts are furious.",
+          "But most complaints come from a small group.",
+          "Check your listing's chore list against the new cap.",
+          "Is your checkout list just a hidden fee?",
+          "Count your tasks—does each replace paid work?"
+        ]
+      },
+      "instagram": {
+        "caption": "Airbnb put a cap on how many checkout chores hosts can ask guests to do—and hosts are furious.\n\nMost of the complaints come from a small group of hosts, though.\n\nThose who relied on long chore lists to cut turnover costs are the loudest.\n\nIf you rent out a place, check your checkout list against the new limit.\n\nAnything over the cap now marks you as an outlier—and guests notice. 🧹\n\nIf your chores replace paid cleaning work, guests pay twice. 💸\n\nOpen your listing and count: does each task on it save you a fee? 🤔\n\nIs your checkout list actually a hidden fee?"
+      }
+    },
+    "instagram_caption": "Airbnb put a cap on how many checkout chores hosts can ask guests to do—and hosts are furious.\n\nMost of the complaints come from a small group of hosts, though.\n\nThose who relied on long chore lists to cut turnover costs are the loudest.\n\nIf you rent out a place, check your checkout list against the new limit.\n\nAnything over the cap now marks you as an outlier—and guests notice. 🧹\n\nIf your chores replace paid cleaning work, guests pay twice. 💸\n\nOpen your listing and count: does each task on it save you a fee? 🤔\n\nIs your checkout list actually a hidden fee?",
+    "carousel_slides": [
+      {
+        "hook": "Is your checkout list a hidden fee?",
+        "description": "Airbnb capped guest chores, but most complaints come from a small group of hosts, not the majority.",
+        "visual_hint": "Split screen: clean room vs. long chore list",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "hotel room"
+      },
+      {
+        "hook": "Hosts are pushing back hard",
+        "description": "Many hosts say the cap ruins cleaning routines, yet internal data shows a vocal minority drives the backlash.",
+        "visual_hint": "Hosts arguing in a living room",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "angry people",
+        "image": "https://images.pexels.com/photos/8727473/pexels-photo-8727473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Small group, loud noise",
+        "description": "Most hosts never complained; pushback is concentrated among a few who rely on long chore lists to cut turnover costs.",
+        "description_note": "",
+        "visual_hint": "Megaphone with few people",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "megaphone",
+        "image": "https://images.pexels.com/photos/8898861/pexels-photo-8898861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your list against the cap",
+        "description": "Compare your checkout instructions to the new cap. If you're over, you're now an outlier—and guests notice.",
+        "visual_hint": "Hand holding checklist with pen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "checklist",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: is your list a fee?",
+        "description": "If chores save you a cleaning fee, guests pay twice. Open your listing and count: does each task replace paid work?",
+        "visual_hint": "Phone showing Airbnb listing",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone listing",
+        "image": "https://images.pexels.com/photos/39527150/pexels-photo-39527150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-733478305.jpg?resize=1200,713",
+    "savedAt": "2026-10-22T09:02:17.138Z",
+    "sourceId": "bc99a740a88d47ea12a3436fdc5c97c8"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "meta-to-create-a-new-class-of-shares-to-fund-ai-pu",
     "prompt_version": "1.0.0",
     "status": "published",

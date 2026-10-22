@@ -1,0 +1,105 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "airbnb-limits-chores-for-guests-sparking-backlash-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+  "link": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+  "pubDate": "Wed, 21 Oct 2026 22:16:05 +0000",
+  "slides": [
+    "Airbnb just capped guest chores—why now?",
+    "Hosts are pushing back hard on the new limit",
+    "Most complaints come from a small group of hosts",
+    "Check your listing's chore list against the new cap",
+    "Ask: is your checkout list a fee in disguise?"
+  ],
+  "thread_text": [
+    "1. Airbnb capped guest chores\n\nA new limit on checkout tasks has hosts furious—but data shows most complaints come from a tiny slice of them.",
+    "2. Hosts push back hard\n\nMany say the cap ruins their cleaning routine, yet internal numbers reveal a vocal minority driving the backlash.",
+    "3. Small group, loud noise\n\nMost hosts never complained. The pushback is concentrated among a few who rely on long chore lists to cut turnover costs.",
+    "4. Check your own list\n\nCompare your checkout instructions to the new cap. If you're over, you're now an outlier—and guests notice.",
+    "5. Is your list a fee?\n\nIf chores save you a cleaning fee, guests pay twice. Open your listing and count: does each task replace paid work?"
+  ],
+  "video_script": [
+    "Airbnb just capped guest chores—hosts are furious.",
+    "But most complaints come from a small group.",
+    "Check your listing's chore list against the new cap.",
+    "Is your checkout list just a hidden fee?",
+    "Count your tasks—does each replace paid work?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Airbnb capped guest chores\n\nA new limit on checkout tasks has hosts furious—but data shows most complaints come from a tiny slice of them.",
+        "2. Hosts push back hard\n\nMany say the cap ruins their cleaning routine, yet internal numbers reveal a vocal minority driving the backlash.",
+        "3. Small group, loud noise\n\nMost hosts never complained. The pushback is concentrated among a few who rely on long chore lists to cut turnover costs.",
+        "4. Check your own list\n\nCompare your checkout instructions to the new cap. If you're over, you're now an outlier—and guests notice.",
+        "5. Is your list a fee?\n\nIf chores save you a cleaning fee, guests pay twice. Open your listing and count: does each task replace paid work?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Airbnb just capped guest chores—hosts are furious.",
+        "But most complaints come from a small group.",
+        "Check your listing's chore list against the new cap.",
+        "Is your checkout list just a hidden fee?",
+        "Count your tasks—does each replace paid work?"
+      ]
+    },
+    "instagram": {
+      "caption": "Airbnb put a cap on how many checkout chores hosts can ask guests to do—and hosts are furious.\n\nMost of the complaints come from a small group of hosts, though.\n\nThose who relied on long chore lists to cut turnover costs are the loudest.\n\nIf you rent out a place, check your checkout list against the new limit.\n\nAnything over the cap now marks you as an outlier—and guests notice. 🧹\n\nIf your chores replace paid cleaning work, guests pay twice. 💸\n\nOpen your listing and count: does each task on it save you a fee? 🤔\n\nIs your checkout list actually a hidden fee?"
+    }
+  },
+  "instagram_caption": "Airbnb put a cap on how many checkout chores hosts can ask guests to do—and hosts are furious.\n\nMost of the complaints come from a small group of hosts, though.\n\nThose who relied on long chore lists to cut turnover costs are the loudest.\n\nIf you rent out a place, check your checkout list against the new limit.\n\nAnything over the cap now marks you as an outlier—and guests notice. 🧹\n\nIf your chores replace paid cleaning work, guests pay twice. 💸\n\nOpen your listing and count: does each task on it save you a fee? 🤔\n\nIs your checkout list actually a hidden fee?",
+  "carousel_slides": [
+    {
+      "hook": "Is your checkout list a hidden fee?",
+      "description": "Airbnb capped guest chores, but most complaints come from a small group of hosts, not the majority.",
+      "visual_hint": "Split screen: clean room vs. long chore list",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "hotel room"
+    },
+    {
+      "hook": "Hosts are pushing back hard",
+      "description": "Many hosts say the cap ruins cleaning routines, yet internal data shows a vocal minority drives the backlash.",
+      "visual_hint": "Hosts arguing in a living room",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "angry people",
+      "image": "https://images.pexels.com/photos/8727473/pexels-photo-8727473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Small group, loud noise",
+      "description": "Most hosts never complained; pushback is concentrated among a few who rely on long chore lists to cut turnover costs.",
+      "description_note": "",
+      "visual_hint": "Megaphone with few people",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "megaphone",
+      "image": "https://images.pexels.com/photos/8898861/pexels-photo-8898861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your list against the cap",
+      "description": "Compare your checkout instructions to the new cap. If you're over, you're now an outlier—and guests notice.",
+      "visual_hint": "Hand holding checklist with pen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "checklist",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: is your list a fee?",
+      "description": "If chores save you a cleaning fee, guests pay twice. Open your listing and count: does each task replace paid work?",
+      "visual_hint": "Phone showing Airbnb listing",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone listing",
+      "image": "https://images.pexels.com/photos/39527150/pexels-photo-39527150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-733478305.jpg?resize=1200,713",
+  "savedAt": "2026-10-22T09:02:17.138Z",
+  "sourceId": "bc99a740a88d47ea12a3436fdc5c97c8"
+}

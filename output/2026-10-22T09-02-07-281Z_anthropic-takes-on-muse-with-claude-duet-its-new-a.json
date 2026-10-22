@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-takes-on-muse-with-claude-duet-its-new-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+  "pubDate": "2026-10-21T19:53:20.000Z",
+  "slides": [
+    "Can Anthropic's Claude Duet outplay Muse at its own game?",
+    "A new AI agent built for hands-on creative work",
+    "But early tests show it stalls on multi-step projects",
+    "Teams can now assign it whole workflows, not prompts",
+    "Try one real project before your competitor does"
+  ],
+  "thread_text": [
+    "1. Claude Duet vs Muse\n\nAnthropic's new agent is designed for hands-on creative work. Early tests reveal it stalls on multi-step projects, raising doubts about its readiness.",
+    "2. Built for Creatives\n\nDuet lets teams assign entire workflows, not just prompts. That shift could redefine how creative work gets delegated to AI.",
+    "3. Stalls on Complexity\n\nWhen projects require multiple steps, Duet struggles. This limitation might frustrate teams expecting seamless execution.",
+    "4. Workflows, Not Prompts\n\nAssigning whole workflows means AI handles sequences, not isolated tasks. But if it stalls, the promise of end-to-end automation weakens.",
+    "5. Test Before Rivals\n\nTry one real project with Duet this week. Does it save time or create more editing? Share your experience."
+  ],
+  "video_script": [
+    "Anthropic's Claude Duet is here.",
+    "It's built for hands-on creative work.",
+    "But early tests show it stalls on multi-step projects.",
+    "Teams can assign whole workflows, not just prompts.",
+    "Try one real project before your competitor does."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Claude Duet vs Muse\n\nAnthropic's new agent is designed for hands-on creative work. Early tests reveal it stalls on multi-step projects, raising doubts about its readiness.",
+        "2. Built for Creatives\n\nDuet lets teams assign entire workflows, not just prompts. That shift could redefine how creative work gets delegated to AI.",
+        "3. Stalls on Complexity\n\nWhen projects require multiple steps, Duet struggles. This limitation might frustrate teams expecting seamless execution.",
+        "4. Workflows, Not Prompts\n\nAssigning whole workflows means AI handles sequences, not isolated tasks. But if it stalls, the promise of end-to-end automation weakens.",
+        "5. Test Before Rivals\n\nTry one real project with Duet this week. Does it save time or create more editing? Share your experience."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic's Claude Duet is here.",
+        "It's built for hands-on creative work.",
+        "But early tests show it stalls on multi-step projects.",
+        "Teams can assign whole workflows, not just prompts.",
+        "Try one real project before your competitor does."
+      ]
+    },
+    "instagram": {
+      "caption": "Anthropic's new Claude Duet is built to handle entire creative workflows, not just single prompts. 🤖\n\nThat means teams can hand it a whole sequence of tasks instead of typing each step.\n\nBut early tests show it stalls on multi-step projects, so end-to-end automation doesn't fully hold up yet.\n\nIf you're assigning real work to it, expect to step in and fix things mid-project rather than set it and forget it. 🛠️\n\nWould you trust Duet with one full project this week, or wait to see if it stalls first?"
+    }
+  },
+  "instagram_caption": "Anthropic's new Claude Duet is built to handle entire creative workflows, not just single prompts. 🤖\n\nThat means teams can hand it a whole sequence of tasks instead of typing each step.\n\nBut early tests show it stalls on multi-step projects, so end-to-end automation doesn't fully hold up yet.\n\nIf you're assigning real work to it, expect to step in and fix things mid-project rather than set it and forget it. 🛠️\n\nWould you trust Duet with one full project this week, or wait to see if it stalls first?",
+  "carousel_slides": [
+    {
+      "hook": "Can Claude Duet Outplay Muse?",
+      "description": "Anthropic's new AI agent targets hands-on creative work, but early tests reveal it stalls on multi-step projects, raising readiness doubts.",
+      "visual_hint": "Split screen AI agents facing off",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot competition"
+    },
+    {
+      "hook": "Built for Creative Teams",
+      "description": "Duet lets teams assign entire workflows, not just prompts. That shift could redefine how creative work gets delegated to AI.",
+      "visual_hint": "Team collaborating around digital workflow",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office team collaboration",
+      "image": "https://images.pexels.com/photos/3862154/pexels-photo-3862154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stalls on Multi-Step Projects",
+      "description": "When projects require multiple steps, Duet struggles. This limitation might frustrate teams expecting seamless execution.",
+      "visual_hint": "Complex flowchart with broken link",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "broken chain",
+      "image": "https://images.pexels.com/photos/5691777/pexels-photo-5691777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Workflows, Not Just Prompts",
+      "description": "Assigning whole workflows means AI handles sequences, not isolated tasks. But if it stalls, the promise of end-to-end automation weakens.",
+      "visual_hint": "Hands assigning tasks on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand typing keyboard",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Duet Before Your Rivals",
+      "description": "Try one real project with Duet this week. Does it save time or create more editing? Share your experience in comments.",
+      "visual_hint": "Person testing AI on laptop",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person using laptop",
+      "image": "https://images.pexels.com/photos/12902986/pexels-photo-12902986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-22T09:02:49.973Z",
+  "sourceId": "b9590634267c740600a93065d31b05a3"
+}

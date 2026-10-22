@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "recursive-launches-flint-a-laptop-coding-model-it-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+  "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+  "pubDate": "Wed, 21 Oct 2026 20:27:41 +0000",
+  "slides": [
+    "Can a model built by AI code better?",
+    "Recursive's Flint targets laptop-scale coding",
+    "Most of its pipeline was automated, not hand-written",
+    "You can audit and run it without cloud costs",
+    "Try one repo task locally this week"
+  ],
+  "thread_text": [
+    "1. AI coding itself?\n\nRecursive's Flint is a model built largely by AI, not hand-written. It targets coding tasks on a laptop, no cloud needed.",
+    "2. Laptop-scale coding\n\nMost of Flint's pipeline was automated, meaning the model itself was assembled with minimal human coding. This raises the question: can AI-generated code outperform human-built models?",
+    "3. Audit without cloud\n\nYou can run and inspect Flint locally, avoiding cloud costs. That makes it accessible for individual developers and small teams.",
+    "4. Try it yourself\n\nPick a repo task this week and test Flint on your laptop. See if an AI-built model codes better than your usual tools.",
+    "5. Your move\n\nGrab a small repo task and run Flint locally this week. Does it save time or create extra edits? Test it on real work."
+  ],
+  "video_script": [
+    "What if AI built the model that codes?",
+    "Flint runs on your laptop, no cloud.",
+    "Most of its pipeline was automated.",
+    "You can audit and run it locally.",
+    "Try one repo task this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI coding itself?\n\nRecursive's Flint is a model built largely by AI, not hand-written. It targets coding tasks on a laptop, no cloud needed.",
+        "2. Laptop-scale coding\n\nMost of Flint's pipeline was automated, meaning the model itself was assembled with minimal human coding. This raises the question: can AI-generated code outperform human-built models?",
+        "3. Audit without cloud\n\nYou can run and inspect Flint locally, avoiding cloud costs. That makes it accessible for individual developers and small teams.",
+        "4. Try it yourself\n\nPick a repo task this week and test Flint on your laptop. See if an AI-built model codes better than your usual tools.",
+        "5. Your move\n\nGrab a small repo task and run Flint locally this week. Does it save time or create extra edits? Test it on real work."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "What if AI built the model that codes?",
+        "Flint runs on your laptop, no cloud.",
+        "Most of its pipeline was automated.",
+        "You can audit and run it locally.",
+        "Try one repo task this week."
+      ]
+    },
+    "instagram": {
+      "caption": "A coding model that was mostly built by AI, not by hand. Recursive's Flint runs on a laptop, no cloud required.\n\nMost of its pipeline was automated, so the real test is whether AI-assembled code holds up on actual repos. 🤖\n\nYou can audit and run it locally, which keeps costs at zero for solo devs and small teams. 💻\n\nThat means one less cloud bill and one more way to check the tools you rely on. 🔍\n\nPick one repo task this week and run Flint on it: does it save time or just add edits? 🛠️"
+    }
+  },
+  "instagram_caption": "A coding model that was mostly built by AI, not by hand. Recursive's Flint runs on a laptop, no cloud required.\n\nMost of its pipeline was automated, so the real test is whether AI-assembled code holds up on actual repos. 🤖\n\nYou can audit and run it locally, which keeps costs at zero for solo devs and small teams. 💻\n\nThat means one less cloud bill and one more way to check the tools you rely on. 🔍\n\nPick one repo task this week and run Flint on it: does it save time or just add edits? 🛠️",
+  "carousel_slides": [
+    {
+      "hook": "Can AI-built models code better?",
+      "description": "Recursive's Flint was largely built by AI, raising the question: can AI-generated code outperform human-built models?",
+      "visual_hint": "Laptop screen with code and AI chip",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "laptop coding"
+    },
+    {
+      "hook": "Flint targets laptop-scale coding",
+      "description": "Flint runs on a laptop, no cloud needed. This makes advanced coding accessible to individual developers and small teams.",
+      "visual_hint": "Developer working on laptop in cafe",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "developer laptop",
+      "image": "https://images.pexels.com/photos/39712880/pexels-photo-39712880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pipeline automated, not hand-written",
+      "description": "Most of Flint's pipeline was automated, meaning the model was assembled with minimal human coding. This challenges traditional model building.",
+      "visual_hint": "Robotic arm assembling circuit board",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robotic assembly",
+      "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit and run without cloud costs",
+      "description": "You can inspect Flint locally, avoiding cloud fees. That makes it accessible for individual developers and small teams.",
+      "visual_hint": "Hand holding laptop with code review",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "code review",
+      "image": "https://images.pexels.com/photos/12899162/pexels-photo-12899162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try Flint on a repo task now",
+      "description": "Pick a small repo task this week and test Flint on your laptop. See if it saves time or creates extra edits.",
+      "visual_hint": "Laptop with code and checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "coding task",
+      "image": "https://images.pexels.com/photos/12899138/pexels-photo-12899138.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
+  "savedAt": "2026-10-22T09:02:28.372Z",
+  "sourceId": "12af459ff8f6cdb22ece577f0d8ab558"
+}

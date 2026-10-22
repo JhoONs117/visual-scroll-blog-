@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "gm-is-betting-compute-and-ai-will-help-it-compete-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+  "link": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+  "pubDate": "Wed, 21 Oct 2026 19:52:20 +0000",
+  "slides": [
+    "Can GM outcompute China's carmakers?",
+    "It is pouring billions into AI infrastructure",
+    "But compute is not the bottleneck Chinese rivals face",
+    "Your next GM vehicle may ship with AI features first",
+    "Test one AI feature before assuming it works"
+  ],
+  "thread_text": [
+    "1. GM's AI bet: can it outcompute China?\n\nGeneral Motors is pouring billions into AI infrastructure, but Chinese carmakers may not be playing the same game. The real bottleneck might be elsewhere.",
+    "2. Billions into AI infrastructure\n\nGM's investment is massive, but spending alone doesn't guarantee an edge. Chinese rivals are already deploying AI features at scale, often faster and cheaper.",
+    "3. Compute isn't the bottleneck\n\nFor Chinese automakers, the challenge isn't raw computing power—it's integrating AI seamlessly into vehicles and user experience. GM's billions might be aimed at the wrong target.",
+    "4. Your next GM may ship AI first\n\nGM plans to roll out AI features in upcoming vehicles, possibly ahead of competitors. But shipping early doesn't mean shipping good—especially if the AI isn't tested thoroughly.",
+    "5. Test one AI feature yourself\n\nBefore assuming GM's AI works, try a demo at a dealership or simulate a use case. Does it actually save you time, or just add complexity? Test it on a real task this week."
+  ],
+  "video_script": [
+    "Can GM outcompute China's carmakers?",
+    "They're pouring billions into AI infrastructure.",
+    "But compute isn't the bottleneck for Chinese rivals.",
+    "Your next GM vehicle may ship with AI features first.",
+    "Test one AI feature before assuming it works."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. GM's AI bet: can it outcompute China?\n\nGeneral Motors is pouring billions into AI infrastructure, but Chinese carmakers may not be playing the same game. The real bottleneck might be elsewhere.",
+        "2. Billions into AI infrastructure\n\nGM's investment is massive, but spending alone doesn't guarantee an edge. Chinese rivals are already deploying AI features at scale, often faster and cheaper.",
+        "3. Compute isn't the bottleneck\n\nFor Chinese automakers, the challenge isn't raw computing power—it's integrating AI seamlessly into vehicles and user experience. GM's billions might be aimed at the wrong target.",
+        "4. Your next GM may ship AI first\n\nGM plans to roll out AI features in upcoming vehicles, possibly ahead of competitors. But shipping early doesn't mean shipping good—especially if the AI isn't tested thoroughly.",
+        "5. Test one AI feature yourself\n\nBefore assuming GM's AI works, try a demo at a dealership or simulate a use case. Does it actually save you time, or just add complexity? Test it on a real task this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can GM outcompute China's carmakers?",
+        "They're pouring billions into AI infrastructure.",
+        "But compute isn't the bottleneck for Chinese rivals.",
+        "Your next GM vehicle may ship with AI features first.",
+        "Test one AI feature before assuming it works."
+      ]
+    },
+    "instagram": {
+      "caption": "General Motors is pouring billions into AI infrastructure to try to outcompute Chinese carmakers.\n\nThe bet is that raw computing power will decide who wins the next car market 😳\n\nBut compute may not be the real bottleneck for Chinese rivals, who are already shipping AI features at scale.\n\nGM says its next vehicles may ship with AI features first, ahead of competitors.\n\nFor anyone who publishes or reviews tech, that means early AI demos will land in showrooms before they're proven 🚗\n\nDon't trust the pitch: test one AI feature on a real task at a dealership this week 💡\n\nWould you buy a car because of its AI, or wait until it's actually useful? 🤔"
+    }
+  },
+  "instagram_caption": "General Motors is pouring billions into AI infrastructure to try to outcompute Chinese carmakers.\n\nThe bet is that raw computing power will decide who wins the next car market 😳\n\nBut compute may not be the real bottleneck for Chinese rivals, who are already shipping AI features at scale.\n\nGM says its next vehicles may ship with AI features first, ahead of competitors.\n\nFor anyone who publishes or reviews tech, that means early AI demos will land in showrooms before they're proven 🚗\n\nDon't trust the pitch: test one AI feature on a real task at a dealership this week 💡\n\nWould you buy a car because of its AI, or wait until it's actually useful? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Is compute really China's bottleneck?",
+      "description": "GM invests billions in AI, but Chinese rivals may not compete on raw compute. The real bottleneck could be elsewhere.",
+      "visual_hint": "Split screen: server room vs car factory",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "GM pours billions into AI infrastructure",
+      "description": "Massive spending doesn't guarantee an edge. Chinese automakers deploy AI features faster and cheaper at scale.",
+      "visual_hint": "Money flowing into computer servers",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Chinese rivals face a different challenge",
+      "description": "For Chinese automakers, integrating AI seamlessly into vehicles matters more than raw computing power. GM might be aiming at the wrong target.",
+      "visual_hint": "Car dashboard with AI interface",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "car dashboard",
+      "image": "https://images.pexels.com/photos/32667398/pexels-photo-32667398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your next GM may ship AI first",
+      "description": "GM plans to roll out AI features in upcoming vehicles, possibly ahead of competitors. But early shipping doesn't mean good AI.",
+      "visual_hint": "Hand touching car touchscreen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "car touchscreen",
+      "image": "https://images.pexels.com/photos/35641865/pexels-photo-35641865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and test AI yourself",
+      "description": "Before assuming GM's AI works, try a demo at a dealership or simulate a real task this week.",
+      "visual_hint": "Person using car AI demo",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "car dealership",
+      "image": "https://images.pexels.com/photos/12565887/pexels-photo-12565887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Row-of-pre-production-vehicles-at-PPO.jpg?resize=1200,801",
+  "savedAt": "2026-10-22T09:02:39.346Z",
+  "sourceId": "e35d745e8eb1b0201d91e5b5f2db7823"
+}
