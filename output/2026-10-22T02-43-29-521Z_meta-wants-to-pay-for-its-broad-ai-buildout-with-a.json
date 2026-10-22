@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-wants-to-pay-for-its-broad-ai-buildout-with-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+  "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+  "pubDate": "Wed, 21 Oct 2026 22:45:34 +0000",
+  "slides": [
+    "Can Meta fund its AI buildout without burning cash?",
+    "It plans a new class of stock to raise money",
+    "But the structure may dilute existing shareholders more than expected",
+    "Investors holding Meta shares need to watch the vote closely",
+    "Check the dilution terms before this structure passes"
+  ],
+  "thread_text": [
+    "1. Meta's AI gamble\n\nMeta plans a new class of stock to raise money for AI without burning cash. But the dilution may hit existing shareholders harder than expected.",
+    "2. New stock, new risks\n\nThe structure could dilute voting power and earnings per share more than investors anticipate. The details matter.",
+    "3. Vote could shift control\n\nMeta's shareholders will vote on the new stock class. If passed, it may concentrate power and reduce your influence.",
+    "4. Dilution deeper than thought\n\nAnalysts warn the terms may dilute existing shareholders more than initially projected. Check the fine print before the vote.",
+    "5. Review before you vote\n\nFind the dilution terms in Meta's proxy statement. Calculate the impact on your shares. Then decide how to vote."
+  ],
+  "video_script": [
+    "Meta wants to fund AI without burning cash.",
+    "It plans a new class of stock to raise money.",
+    "But the structure may dilute shareholders more than expected.",
+    "Investors need to watch the vote closely.",
+    "Check the dilution terms before this passes."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta's AI gamble\n\nMeta plans a new class of stock to raise money for AI without burning cash. But the dilution may hit existing shareholders harder than expected.",
+        "2. New stock, new risks\n\nThe structure could dilute voting power and earnings per share more than investors anticipate. The details matter.",
+        "3. Vote could shift control\n\nMeta's shareholders will vote on the new stock class. If passed, it may concentrate power and reduce your influence.",
+        "4. Dilution deeper than thought\n\nAnalysts warn the terms may dilute existing shareholders more than initially projected. Check the fine print before the vote.",
+        "5. Review before you vote\n\nFind the dilution terms in Meta's proxy statement. Calculate the impact on your shares. Then decide how to vote."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta wants to fund AI without burning cash.",
+        "It plans a new class of stock to raise money.",
+        "But the structure may dilute shareholders more than expected.",
+        "Investors need to watch the vote closely.",
+        "Check the dilution terms before this passes."
+      ]
+    },
+    "instagram": {
+      "caption": "Meta's shareholders could see their stake diluted more than expected, and there's a vote coming that decides it.\n\nMeta wants a new class of stock to fund its AI buildout without burning through cash.\n\nThe terms may dilute voting power and earnings per share beyond what investors anticipated.\n\nA proxy vote will decide whether this structure passes.\n\nIf you're holding Meta shares 📉, read the dilution terms before you cast that vote.\n\nDo you actually know how much your stake shrinks under this plan? 🤔"
+    }
+  },
+  "instagram_caption": "Meta's shareholders could see their stake diluted more than expected, and there's a vote coming that decides it.\n\nMeta wants a new class of stock to fund its AI buildout without burning through cash.\n\nThe terms may dilute voting power and earnings per share beyond what investors anticipated.\n\nA proxy vote will decide whether this structure passes.\n\nIf you're holding Meta shares 📉, read the dilution terms before you cast that vote.\n\nDo you actually know how much your stake shrinks under this plan? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Is Meta's AI funding plan hiding a dilution trap?",
+      "description": "Meta plans a new stock class to fund AI without cash burn, but existing shareholders may face deeper dilution than expected.",
+      "visual_hint": "Stock certificate with warning stamp",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock certificate"
+    },
+    {
+      "hook": "New stock class, new risks for investors",
+      "description": "The structure could dilute voting power and earnings per share more than anticipated. The details matter.",
+      "visual_hint": "Close-up of stock market chart",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your vote could shift control",
+      "description": "Shareholders will vote on the new stock class. If passed, it may concentrate power and reduce your influence.",
+      "visual_hint": "Ballot box with corporate logos",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "ballot box",
+      "image": "https://images.pexels.com/photos/8846310/pexels-photo-8846310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Dilution deeper than analysts projected",
+      "description": "Analysts warn the terms may dilute existing shareholders more than initially projected. Check the fine print before the vote.",
+      "visual_hint": "Magnifying glass on fine print",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "magnifying glass document",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you vote on Meta",
+      "description": "Find the dilution terms in Meta's proxy statement, calculate the impact on your shares, then decide how to vote.",
+      "visual_hint": "Hand holding proxy statement",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "proxy statement document",
+      "image": "https://images.pexels.com/photos/8962455/pexels-photo-8962455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+  "savedAt": "2026-10-22T02:43:48.147Z",
+  "sourceId": "82f29ce2fd1aee5bb1cd9607dfebee1c"
+}

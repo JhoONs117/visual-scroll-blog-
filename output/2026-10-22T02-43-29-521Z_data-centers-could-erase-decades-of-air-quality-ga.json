@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "data-centers-could-erase-decades-of-air-quality-ga",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Data centers could erase decades of air quality gains",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+  "pubDate": "2026-10-21T22:33:44.000Z",
+  "slides": [
+    "Data centers are undoing clean air gains—how bad?",
+    "Diesel generators power the AI boom's backup systems",
+    "Emissions spike in communities near these facilities",
+    "Local air quality monitors may miss this pollution",
+    "Check your region's data center plans before approving"
+  ],
+  "thread_text": [
+    "1. The Hidden Cost of AI\n\nBackup diesel generators at data centers run far more than emergency use—often hundreds of hours a year. That exhaust is drifting into nearby neighborhoods.",
+    "2. The Diesel Problem\n\nThese generators aren't just for outages. They're increasingly used for grid support and peak shaving, meaning they fire up regularly—not rarely.",
+    "3. Monitors Miss the Mark\n\nMany local air quality stations are placed away from data centers. So official readings show 'clean' even when residents are breathing diesel exhaust.",
+    "4. Health in the Crosshairs\n\nFine particulate matter from diesel is linked to asthma, heart attacks, and premature death. Communities near these facilities face elevated risks that aren't being tracked.",
+    "5. Check Before You Approve\n\nFind your region's data center proposals and ask: where are the generators, how often will they run, and who's monitoring the air? Do it before the next vote."
+  ],
+  "video_script": [
+    "Data centers are quietly undoing clean air gains.",
+    "Their backup diesel generators run way more than you think.",
+    "That exhaust spikes pollution in nearby communities.",
+    "But local air monitors often miss it entirely.",
+    "Check your region's data center plans before approving."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Hidden Cost of AI\n\nBackup diesel generators at data centers run far more than emergency use—often hundreds of hours a year. That exhaust is drifting into nearby neighborhoods.",
+        "2. The Diesel Problem\n\nThese generators aren't just for outages. They're increasingly used for grid support and peak shaving, meaning they fire up regularly—not rarely.",
+        "3. Monitors Miss the Mark\n\nMany local air quality stations are placed away from data centers. So official readings show 'clean' even when residents are breathing diesel exhaust.",
+        "4. Health in the Crosshairs\n\nFine particulate matter from diesel is linked to asthma, heart attacks, and premature death. Communities near these facilities face elevated risks that aren't being tracked.",
+        "5. Check Before You Approve\n\nFind your region's data center proposals and ask: where are the generators, how often will they run, and who's monitoring the air? Do it before the next vote."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Data centers are quietly undoing clean air gains.",
+        "Their backup diesel generators run way more than you think.",
+        "That exhaust spikes pollution in nearby communities.",
+        "But local air monitors often miss it entirely.",
+        "Check your region's data center plans before approving."
+      ]
+    },
+    "instagram": {
+      "caption": "Diesel generators at data centers run hundreds of hours a year — not just during outages.\n\nThey're increasingly used for grid support and peak shaving, so they fire up regularly near residential areas. 🔥\n\nFine particulate matter from that exhaust is linked to asthma, heart attacks, and premature death.\n\nMany local air quality monitors sit far from these facilities, so official readings show \"clean\" while residents breathe diesel fumes. 😷\n\nCheck your region's data center proposals: where are the generators, how often will they run, who monitors the air? 📍\n\nAsk before the next vote — what's your local data center plan? 🏘️"
+    }
+  },
+  "instagram_caption": "Diesel generators at data centers run hundreds of hours a year — not just during outages.\n\nThey're increasingly used for grid support and peak shaving, so they fire up regularly near residential areas. 🔥\n\nFine particulate matter from that exhaust is linked to asthma, heart attacks, and premature death.\n\nMany local air quality monitors sit far from these facilities, so official readings show \"clean\" while residents breathe diesel fumes. 😷\n\nCheck your region's data center proposals: where are the generators, how often will they run, who monitors the air? 📍\n\nAsk before the next vote — what's your local data center plan? 🏘️",
+  "carousel_slides": [
+    {
+      "hook": "Is AI Erasing Clean Air Progress?",
+      "description": "Diesel backup generators at data centers run hundreds of hours yearly, releasing exhaust into nearby neighborhoods.",
+      "visual_hint": "Data center with smokestacks emitting exhaust",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "data center"
+    },
+    {
+      "hook": "Diesel Generators: Not Just Backup",
+      "description": "These generators are increasingly used for grid support and peak shaving, firing up regularly instead of rarely.",
+      "visual_hint": "Diesel generators outside data center",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "diesel generator",
+      "image": "https://images.pexels.com/photos/35596446/pexels-photo-35596446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Air Monitors Miss Data Center Pollution",
+      "description": "Many local air quality stations are placed away from data centers, so official readings show 'clean' despite diesel exhaust.",
+      "visual_hint": "Air quality monitor far from data center",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "air quality monitor",
+      "image": "https://images.pexels.com/photos/32079706/pexels-photo-32079706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Health Risks Untracked Near Data Centers",
+      "description": "Fine particulate matter from diesel is linked to asthma, heart attacks, and premature death, but nearby communities aren't monitored.",
+      "visual_hint": "Person wearing mask near industrial area",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person mask pollution",
+      "image": "https://images.pexels.com/photos/7959345/pexels-photo-7959345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check Data Center Plans Before Approval",
+      "description": "Find your region's data center proposals and ask: where are the generators, how often will they run, and who's monitoring the air?",
+      "visual_hint": "Community meeting with data center plans",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "community meeting",
+      "image": "https://images.pexels.com/photos/32809721/pexels-photo-32809721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-22T02:43:57.709Z",
+  "sourceId": "4139c746625dd8921d71149541149e2d"
+}

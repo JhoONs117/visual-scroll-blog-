@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "blackstone-s-jas-khaira-says-fears-over-ai-buildou",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+  "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+  "pubDate": "Wed, 21 Oct 2026 22:51:22 +0000",
+  "slides": [
+    "Is Blackstone's AI debt bet safe?",
+    "Jas Khaira dismisses fears over buildout borrowing",
+    "But debt structures hide risks investors rarely see",
+    "Watch covenant terms in AI infrastructure deals",
+    "Ask what happens if AI demand stalls"
+  ],
+  "thread_text": [
+    "1. The $1 trillion question\n\nBlackstone is piling into AI infrastructure debt. Jas Khaira, the firm's global head of structured finance, insists the buildout borrowing is safe. But the real risk hides in the fine print.",
+    "2. Not all debt is equal\n\nStructured deals let borrowers stack layers of leverage behind a single asset. Each layer adds a new set of investors with different priorities — and different claims on cash flow when things go wrong.",
+    "3. Covenants are the tripwire\n\nLegal terms buried in hundreds of pages decide who gets paid first and who absorbs losses. They also dictate when lenders can force a restructuring — often before a project is even finished.",
+    "4. When demand stalls\n\nAI infrastructure is built on projections of explosive growth. If demand plateaus or delays, covenant breaches can trigger forced sales at fire-sale prices. Khaira's optimism assumes the music never stops.",
+    "5. Check your own exposure\n\nIf you own Blackstone funds or AI-linked bonds, pull the offering documents today. Ask one question: what happens if AI demand misses projections by 20%? If you can't answer it, you're flying blind."
+  ],
+  "video_script": [
+    "Blackstone's AI debt bet, with a trillion-dollar question.",
+    "Structured deals stack layers of leverage behind one asset.",
+    "Covenant terms decide who gets paid first, and when lenders can force restructuring.",
+    "If AI demand stalls, covenant breaches can trigger forced sales.",
+    "Check your own exposure, and ask what if projections miss."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $1 trillion question\n\nBlackstone is piling into AI infrastructure debt. Jas Khaira, the firm's global head of structured finance, insists the buildout borrowing is safe. But the real risk hides in the fine print.",
+        "2. Not all debt is equal\n\nStructured deals let borrowers stack layers of leverage behind a single asset. Each layer adds a new set of investors with different priorities — and different claims on cash flow when things go wrong.",
+        "3. Covenants are the tripwire\n\nLegal terms buried in hundreds of pages decide who gets paid first and who absorbs losses. They also dictate when lenders can force a restructuring — often before a project is even finished.",
+        "4. When demand stalls\n\nAI infrastructure is built on projections of explosive growth. If demand plateaus or delays, covenant breaches can trigger forced sales at fire-sale prices. Khaira's optimism assumes the music never stops.",
+        "5. Check your own exposure\n\nIf you own Blackstone funds or AI-linked bonds, pull the offering documents today. Ask one question: what happens if AI demand misses projections by 20%? If you can't answer it, you're flying blind."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Blackstone's AI debt bet, with a trillion-dollar question.",
+        "Structured deals stack layers of leverage behind one asset.",
+        "Covenant terms decide who gets paid first, and when lenders can force restructuring.",
+        "If AI demand stalls, covenant breaches can trigger forced sales.",
+        "Check your own exposure, and ask what if projections miss."
+      ]
+    },
+    "instagram": {
+      "caption": "Blackstone's global head of structured finance says the debt behind the AI buildout is safe. The fine print may disagree.\n\nStructured deals stack multiple layers of leverage behind one asset. Each layer carries different claims on cash flow when things go wrong.\n\nCovenant terms buried in hundreds of pages decide who gets paid first and who absorbs losses. They can trigger a forced restructuring before a project is even finished.\n\nIf you publish or invest in AI-linked content and funds, pull the offering documents 📄 and ask one question: what happens if AI demand misses projections by 20%? 🤔\n\nCan you answer that today, or are you flying blind? 👀"
+    }
+  },
+  "instagram_caption": "Blackstone's global head of structured finance says the debt behind the AI buildout is safe. The fine print may disagree.\n\nStructured deals stack multiple layers of leverage behind one asset. Each layer carries different claims on cash flow when things go wrong.\n\nCovenant terms buried in hundreds of pages decide who gets paid first and who absorbs losses. They can trigger a forced restructuring before a project is even finished.\n\nIf you publish or invest in AI-linked content and funds, pull the offering documents 📄 and ask one question: what happens if AI demand misses projections by 20%? 🤔\n\nCan you answer that today, or are you flying blind? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Is Blackstone's AI debt bet safe?",
+      "description": "Blackstone piles into AI infrastructure debt while Jas Khaira insists it's safe—but real risk hides in the fine print.",
+      "visual_hint": "Dark server room with glowing blue lights",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Khaira dismisses fears over buildout borrowing",
+      "description": "Blackstone's structured finance head calls AI debt safe, but layered leverage means different investors have different claims on cash flow.",
+      "visual_hint": "Stacked layers of debt documents",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "financial documents",
+      "image": "https://images.pexels.com/photos/8970301/pexels-photo-8970301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Debt structures hide risks investors rarely see",
+      "description": "Covenants buried in hundreds of pages decide who gets paid first and who absorbs losses—often before projects finish.",
+      "visual_hint": "Magnifying glass over fine print",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass contract",
+      "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Watch covenant terms in AI infrastructure deals",
+      "description": "If AI demand plateaus or delays, covenant breaches can trigger forced sales at fire-sale prices—Khaira's optimism assumes growth never stops.",
+      "visual_hint": "Hand pointing at covenant clause",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand pointing document",
+      "image": "https://images.pexels.com/photos/8439659/pexels-photo-8439659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: check your AI debt exposure",
+      "description": "Pull your Blackstone fund or AI bond offering documents today. Ask: what happens if AI demand misses by 20%?",
+      "visual_hint": "Person reviewing financial documents",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person reading contract",
+      "image": "https://images.pexels.com/photos/7875993/pexels-photo-7875993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591561486_34813d39be_c.jpg?w=799",
+  "savedAt": "2026-10-22T02:43:39.286Z",
+  "sourceId": "c6715b01bd7e0768bd2a44eb45a13e75"
+}

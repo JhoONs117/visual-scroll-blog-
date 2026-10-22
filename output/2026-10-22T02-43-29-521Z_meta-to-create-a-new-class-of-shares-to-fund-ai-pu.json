@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-to-create-a-new-class-of-shares-to-fund-ai-pu",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta to create a new class of shares to fund AI push",
+  "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+  "pubDate": "2026-10-21T21:30:02.000Z",
+  "slides": [
+    "Meta wants a new share class — but why now?",
+    "To fund its escalating AI infrastructure spending",
+    "Existing shareholders may see their voting power diluted",
+    "Watch for dilution risk in your Meta position",
+    "Ask: does AI spending justify the shareholder cost?"
+  ],
+  "thread_text": [
+    "1. Meta's share class surprise\n\nMeta is creating a new class of stock to fund AI infrastructure, but existing shareholders could lose voting power. Why now?",
+    "2. AI spending spree\n\nMeta's AI costs are soaring, and the new share class is a way to raise capital without taking on debt. But at what cost to current investors?",
+    "3. Voting power at risk\n\nExisting shareholders may see their influence diluted as Meta issues new shares. This could shift control and impact future decisions.",
+    "4. Dilution danger\n\nIf you hold Meta stock, watch for dilution risk. New shares mean your slice of the pie shrinks, and your vote counts less.",
+    "5. Does AI justify the cost?\n\nAsk yourself: is Meta's AI spending worth the hit to shareholder power? Check your portfolio and decide if the trade-off makes sense."
+  ],
+  "video_script": [
+    "Meta wants a new share class to fund AI.",
+    "Existing shareholders could see voting power diluted.",
+    "Why now? AI costs are exploding.",
+    "Watch for dilution risk in your Meta position.",
+    "Does AI spending justify the shareholder cost?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta's share class surprise\n\nMeta is creating a new class of stock to fund AI infrastructure, but existing shareholders could lose voting power. Why now?",
+        "2. AI spending spree\n\nMeta's AI costs are soaring, and the new share class is a way to raise capital without taking on debt. But at what cost to current investors?",
+        "3. Voting power at risk\n\nExisting shareholders may see their influence diluted as Meta issues new shares. This could shift control and impact future decisions.",
+        "4. Dilution danger\n\nIf you hold Meta stock, watch for dilution risk. New shares mean your slice of the pie shrinks, and your vote counts less.",
+        "5. Does AI justify the cost?\n\nAsk yourself: is Meta's AI spending worth the hit to shareholder power? Check your portfolio and decide if the trade-off makes sense."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta wants a new share class to fund AI.",
+        "Existing shareholders could see voting power diluted.",
+        "Why now? AI costs are exploding.",
+        "Watch for dilution risk in your Meta position.",
+        "Does AI spending justify the shareholder cost?"
+      ]
+    },
+    "instagram": {
+      "caption": "Meta is creating a new class of shares, and your voting power as a current shareholder may shrink because of it. 📉\n\nThe company wants fresh capital to fund its escalating AI infrastructure spending — without taking on debt.\n\nNew shares mean your slice of the pie gets smaller and your vote counts less. ⚖️\n\nIf you hold Meta stock, this dilution risk affects your position directly.\n\nAsk yourself: does Meta's AI push justify the hit to shareholder power? 🤔 Check your portfolio and weigh the trade-off. 💼"
+    }
+  },
+  "instagram_caption": "Meta is creating a new class of shares, and your voting power as a current shareholder may shrink because of it. 📉\n\nThe company wants fresh capital to fund its escalating AI infrastructure spending — without taking on debt.\n\nNew shares mean your slice of the pie gets smaller and your vote counts less. ⚖️\n\nIf you hold Meta stock, this dilution risk affects your position directly.\n\nAsk yourself: does Meta's AI push justify the hit to shareholder power? 🤔 Check your portfolio and weigh the trade-off. 💼",
+  "carousel_slides": [
+    {
+      "hook": "Meta's new share class: who really pays?",
+      "description": "Meta creates a new stock class to fund AI, but existing shareholders may lose voting power. Why now?",
+      "visual_hint": "Split screen: stock certificate and AI server",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock certificate"
+    },
+    {
+      "hook": "AI costs soaring: Meta's capital raise",
+      "description": "Meta's AI infrastructure spending is escalating, and the new share class raises capital without debt—at a cost to investors.",
+      "visual_hint": "Server racks with glowing lights",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your voting power could shrink",
+      "description": "Existing shareholders may see influence diluted as Meta issues new shares, shifting control and future decisions.",
+      "visual_hint": "Pie chart with shrinking slices",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Dilution risk: your slice shrinks",
+      "description": "If you hold Meta stock, new shares mean your ownership slice shrinks and your vote counts less.",
+      "visual_hint": "Hand holding a small puzzle piece",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "puzzle piece",
+      "image": "https://images.pexels.com/photos/8386125/pexels-photo-8386125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: is AI worth the cost?",
+      "description": "Ask if Meta's AI spending justifies the hit to shareholder power, then review your portfolio and decide.",
+      "visual_hint": "Portfolio review on tablet screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "tablet portfolio",
+      "image": "https://images.pexels.com/photos/13570165/pexels-photo-13570165.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-22T02:44:06.377Z",
+  "sourceId": "06c91270ad1ba21dd4ec18365ce92c57"
+}

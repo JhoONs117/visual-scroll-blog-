@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "meta-to-create-a-new-class-of-shares-to-fund-ai-pu",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta to create a new class of shares to fund AI push",
+    "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+    "pubDate": "2026-10-21T21:30:02.000Z",
+    "slides": [
+      "Meta wants a new share class — but why now?",
+      "To fund its escalating AI infrastructure spending",
+      "Existing shareholders may see their voting power diluted",
+      "Watch for dilution risk in your Meta position",
+      "Ask: does AI spending justify the shareholder cost?"
+    ],
+    "thread_text": [
+      "1. Meta's share class surprise\n\nMeta is creating a new class of stock to fund AI infrastructure, but existing shareholders could lose voting power. Why now?",
+      "2. AI spending spree\n\nMeta's AI costs are soaring, and the new share class is a way to raise capital without taking on debt. But at what cost to current investors?",
+      "3. Voting power at risk\n\nExisting shareholders may see their influence diluted as Meta issues new shares. This could shift control and impact future decisions.",
+      "4. Dilution danger\n\nIf you hold Meta stock, watch for dilution risk. New shares mean your slice of the pie shrinks, and your vote counts less.",
+      "5. Does AI justify the cost?\n\nAsk yourself: is Meta's AI spending worth the hit to shareholder power? Check your portfolio and decide if the trade-off makes sense."
+    ],
+    "video_script": [
+      "Meta wants a new share class to fund AI.",
+      "Existing shareholders could see voting power diluted.",
+      "Why now? AI costs are exploding.",
+      "Watch for dilution risk in your Meta position.",
+      "Does AI spending justify the shareholder cost?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Meta's share class surprise\n\nMeta is creating a new class of stock to fund AI infrastructure, but existing shareholders could lose voting power. Why now?",
+          "2. AI spending spree\n\nMeta's AI costs are soaring, and the new share class is a way to raise capital without taking on debt. But at what cost to current investors?",
+          "3. Voting power at risk\n\nExisting shareholders may see their influence diluted as Meta issues new shares. This could shift control and impact future decisions.",
+          "4. Dilution danger\n\nIf you hold Meta stock, watch for dilution risk. New shares mean your slice of the pie shrinks, and your vote counts less.",
+          "5. Does AI justify the cost?\n\nAsk yourself: is Meta's AI spending worth the hit to shareholder power? Check your portfolio and decide if the trade-off makes sense."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta wants a new share class to fund AI.",
+          "Existing shareholders could see voting power diluted.",
+          "Why now? AI costs are exploding.",
+          "Watch for dilution risk in your Meta position.",
+          "Does AI spending justify the shareholder cost?"
+        ]
+      },
+      "instagram": {
+        "caption": "Meta is creating a new class of shares, and your voting power as a current shareholder may shrink because of it. 📉\n\nThe company wants fresh capital to fund its escalating AI infrastructure spending — without taking on debt.\n\nNew shares mean your slice of the pie gets smaller and your vote counts less. ⚖️\n\nIf you hold Meta stock, this dilution risk affects your position directly.\n\nAsk yourself: does Meta's AI push justify the hit to shareholder power? 🤔 Check your portfolio and weigh the trade-off. 💼"
+      }
+    },
+    "instagram_caption": "Meta is creating a new class of shares, and your voting power as a current shareholder may shrink because of it. 📉\n\nThe company wants fresh capital to fund its escalating AI infrastructure spending — without taking on debt.\n\nNew shares mean your slice of the pie gets smaller and your vote counts less. ⚖️\n\nIf you hold Meta stock, this dilution risk affects your position directly.\n\nAsk yourself: does Meta's AI push justify the hit to shareholder power? 🤔 Check your portfolio and weigh the trade-off. 💼",
+    "carousel_slides": [
+      {
+        "hook": "Meta's new share class: who really pays?",
+        "description": "Meta creates a new stock class to fund AI, but existing shareholders may lose voting power. Why now?",
+        "visual_hint": "Split screen: stock certificate and AI server",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock certificate"
+      },
+      {
+        "hook": "AI costs soaring: Meta's capital raise",
+        "description": "Meta's AI infrastructure spending is escalating, and the new share class raises capital without debt—at a cost to investors.",
+        "visual_hint": "Server racks with glowing lights",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your voting power could shrink",
+        "description": "Existing shareholders may see influence diluted as Meta issues new shares, shifting control and future decisions.",
+        "visual_hint": "Pie chart with shrinking slices",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Dilution risk: your slice shrinks",
+        "description": "If you hold Meta stock, new shares mean your ownership slice shrinks and your vote counts less.",
+        "visual_hint": "Hand holding a small puzzle piece",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "puzzle piece",
+        "image": "https://images.pexels.com/photos/8386125/pexels-photo-8386125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: is AI worth the cost?",
+        "description": "Ask if Meta's AI spending justifies the hit to shareholder power, then review your portfolio and decide.",
+        "visual_hint": "Portfolio review on tablet screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "tablet portfolio",
+        "image": "https://images.pexels.com/photos/13570165/pexels-photo-13570165.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-22T02:44:06.377Z",
+    "sourceId": "06c91270ad1ba21dd4ec18365ce92c57"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "data-centers-could-erase-decades-of-air-quality-ga",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Data centers could erase decades of air quality gains",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+    "pubDate": "2026-10-21T22:33:44.000Z",
+    "slides": [
+      "Data centers are undoing clean air gains—how bad?",
+      "Diesel generators power the AI boom's backup systems",
+      "Emissions spike in communities near these facilities",
+      "Local air quality monitors may miss this pollution",
+      "Check your region's data center plans before approving"
+    ],
+    "thread_text": [
+      "1. The Hidden Cost of AI\n\nBackup diesel generators at data centers run far more than emergency use—often hundreds of hours a year. That exhaust is drifting into nearby neighborhoods.",
+      "2. The Diesel Problem\n\nThese generators aren't just for outages. They're increasingly used for grid support and peak shaving, meaning they fire up regularly—not rarely.",
+      "3. Monitors Miss the Mark\n\nMany local air quality stations are placed away from data centers. So official readings show 'clean' even when residents are breathing diesel exhaust.",
+      "4. Health in the Crosshairs\n\nFine particulate matter from diesel is linked to asthma, heart attacks, and premature death. Communities near these facilities face elevated risks that aren't being tracked.",
+      "5. Check Before You Approve\n\nFind your region's data center proposals and ask: where are the generators, how often will they run, and who's monitoring the air? Do it before the next vote."
+    ],
+    "video_script": [
+      "Data centers are quietly undoing clean air gains.",
+      "Their backup diesel generators run way more than you think.",
+      "That exhaust spikes pollution in nearby communities.",
+      "But local air monitors often miss it entirely.",
+      "Check your region's data center plans before approving."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Hidden Cost of AI\n\nBackup diesel generators at data centers run far more than emergency use—often hundreds of hours a year. That exhaust is drifting into nearby neighborhoods.",
+          "2. The Diesel Problem\n\nThese generators aren't just for outages. They're increasingly used for grid support and peak shaving, meaning they fire up regularly—not rarely.",
+          "3. Monitors Miss the Mark\n\nMany local air quality stations are placed away from data centers. So official readings show 'clean' even when residents are breathing diesel exhaust.",
+          "4. Health in the Crosshairs\n\nFine particulate matter from diesel is linked to asthma, heart attacks, and premature death. Communities near these facilities face elevated risks that aren't being tracked.",
+          "5. Check Before You Approve\n\nFind your region's data center proposals and ask: where are the generators, how often will they run, and who's monitoring the air? Do it before the next vote."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Data centers are quietly undoing clean air gains.",
+          "Their backup diesel generators run way more than you think.",
+          "That exhaust spikes pollution in nearby communities.",
+          "But local air monitors often miss it entirely.",
+          "Check your region's data center plans before approving."
+        ]
+      },
+      "instagram": {
+        "caption": "Diesel generators at data centers run hundreds of hours a year — not just during outages.\n\nThey're increasingly used for grid support and peak shaving, so they fire up regularly near residential areas. 🔥\n\nFine particulate matter from that exhaust is linked to asthma, heart attacks, and premature death.\n\nMany local air quality monitors sit far from these facilities, so official readings show \"clean\" while residents breathe diesel fumes. 😷\n\nCheck your region's data center proposals: where are the generators, how often will they run, who monitors the air? 📍\n\nAsk before the next vote — what's your local data center plan? 🏘️"
+      }
+    },
+    "instagram_caption": "Diesel generators at data centers run hundreds of hours a year — not just during outages.\n\nThey're increasingly used for grid support and peak shaving, so they fire up regularly near residential areas. 🔥\n\nFine particulate matter from that exhaust is linked to asthma, heart attacks, and premature death.\n\nMany local air quality monitors sit far from these facilities, so official readings show \"clean\" while residents breathe diesel fumes. 😷\n\nCheck your region's data center proposals: where are the generators, how often will they run, who monitors the air? 📍\n\nAsk before the next vote — what's your local data center plan? 🏘️",
+    "carousel_slides": [
+      {
+        "hook": "Is AI Erasing Clean Air Progress?",
+        "description": "Diesel backup generators at data centers run hundreds of hours yearly, releasing exhaust into nearby neighborhoods.",
+        "visual_hint": "Data center with smokestacks emitting exhaust",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "data center"
+      },
+      {
+        "hook": "Diesel Generators: Not Just Backup",
+        "description": "These generators are increasingly used for grid support and peak shaving, firing up regularly instead of rarely.",
+        "visual_hint": "Diesel generators outside data center",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "diesel generator",
+        "image": "https://images.pexels.com/photos/35596446/pexels-photo-35596446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Air Monitors Miss Data Center Pollution",
+        "description": "Many local air quality stations are placed away from data centers, so official readings show 'clean' despite diesel exhaust.",
+        "visual_hint": "Air quality monitor far from data center",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "air quality monitor",
+        "image": "https://images.pexels.com/photos/32079706/pexels-photo-32079706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Health Risks Untracked Near Data Centers",
+        "description": "Fine particulate matter from diesel is linked to asthma, heart attacks, and premature death, but nearby communities aren't monitored.",
+        "visual_hint": "Person wearing mask near industrial area",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person mask pollution",
+        "image": "https://images.pexels.com/photos/7959345/pexels-photo-7959345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check Data Center Plans Before Approval",
+        "description": "Find your region's data center proposals and ask: where are the generators, how often will they run, and who's monitoring the air?",
+        "visual_hint": "Community meeting with data center plans",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "community meeting",
+        "image": "https://images.pexels.com/photos/32809721/pexels-photo-32809721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-22T02:43:57.709Z",
+    "sourceId": "4139c746625dd8921d71149541149e2d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-wants-to-pay-for-its-broad-ai-buildout-with-a",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+    "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+    "pubDate": "Wed, 21 Oct 2026 22:45:34 +0000",
+    "slides": [
+      "Can Meta fund its AI buildout without burning cash?",
+      "It plans a new class of stock to raise money",
+      "But the structure may dilute existing shareholders more than expected",
+      "Investors holding Meta shares need to watch the vote closely",
+      "Check the dilution terms before this structure passes"
+    ],
+    "thread_text": [
+      "1. Meta's AI gamble\n\nMeta plans a new class of stock to raise money for AI without burning cash. But the dilution may hit existing shareholders harder than expected.",
+      "2. New stock, new risks\n\nThe structure could dilute voting power and earnings per share more than investors anticipate. The details matter.",
+      "3. Vote could shift control\n\nMeta's shareholders will vote on the new stock class. If passed, it may concentrate power and reduce your influence.",
+      "4. Dilution deeper than thought\n\nAnalysts warn the terms may dilute existing shareholders more than initially projected. Check the fine print before the vote.",
+      "5. Review before you vote\n\nFind the dilution terms in Meta's proxy statement. Calculate the impact on your shares. Then decide how to vote."
+    ],
+    "video_script": [
+      "Meta wants to fund AI without burning cash.",
+      "It plans a new class of stock to raise money.",
+      "But the structure may dilute shareholders more than expected.",
+      "Investors need to watch the vote closely.",
+      "Check the dilution terms before this passes."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Meta's AI gamble\n\nMeta plans a new class of stock to raise money for AI without burning cash. But the dilution may hit existing shareholders harder than expected.",
+          "2. New stock, new risks\n\nThe structure could dilute voting power and earnings per share more than investors anticipate. The details matter.",
+          "3. Vote could shift control\n\nMeta's shareholders will vote on the new stock class. If passed, it may concentrate power and reduce your influence.",
+          "4. Dilution deeper than thought\n\nAnalysts warn the terms may dilute existing shareholders more than initially projected. Check the fine print before the vote.",
+          "5. Review before you vote\n\nFind the dilution terms in Meta's proxy statement. Calculate the impact on your shares. Then decide how to vote."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta wants to fund AI without burning cash.",
+          "It plans a new class of stock to raise money.",
+          "But the structure may dilute shareholders more than expected.",
+          "Investors need to watch the vote closely.",
+          "Check the dilution terms before this passes."
+        ]
+      },
+      "instagram": {
+        "caption": "Meta's shareholders could see their stake diluted more than expected, and there's a vote coming that decides it.\n\nMeta wants a new class of stock to fund its AI buildout without burning through cash.\n\nThe terms may dilute voting power and earnings per share beyond what investors anticipated.\n\nA proxy vote will decide whether this structure passes.\n\nIf you're holding Meta shares 📉, read the dilution terms before you cast that vote.\n\nDo you actually know how much your stake shrinks under this plan? 🤔"
+      }
+    },
+    "instagram_caption": "Meta's shareholders could see their stake diluted more than expected, and there's a vote coming that decides it.\n\nMeta wants a new class of stock to fund its AI buildout without burning through cash.\n\nThe terms may dilute voting power and earnings per share beyond what investors anticipated.\n\nA proxy vote will decide whether this structure passes.\n\nIf you're holding Meta shares 📉, read the dilution terms before you cast that vote.\n\nDo you actually know how much your stake shrinks under this plan? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Is Meta's AI funding plan hiding a dilution trap?",
+        "description": "Meta plans a new stock class to fund AI without cash burn, but existing shareholders may face deeper dilution than expected.",
+        "visual_hint": "Stock certificate with warning stamp",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock certificate"
+      },
+      {
+        "hook": "New stock class, new risks for investors",
+        "description": "The structure could dilute voting power and earnings per share more than anticipated. The details matter.",
+        "visual_hint": "Close-up of stock market chart",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your vote could shift control",
+        "description": "Shareholders will vote on the new stock class. If passed, it may concentrate power and reduce your influence.",
+        "visual_hint": "Ballot box with corporate logos",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "ballot box",
+        "image": "https://images.pexels.com/photos/8846310/pexels-photo-8846310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Dilution deeper than analysts projected",
+        "description": "Analysts warn the terms may dilute existing shareholders more than initially projected. Check the fine print before the vote.",
+        "visual_hint": "Magnifying glass on fine print",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "magnifying glass document",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before you vote on Meta",
+        "description": "Find the dilution terms in Meta's proxy statement, calculate the impact on your shares, then decide how to vote.",
+        "visual_hint": "Hand holding proxy statement",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "proxy statement document",
+        "image": "https://images.pexels.com/photos/8962455/pexels-photo-8962455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+    "savedAt": "2026-10-22T02:43:48.147Z",
+    "sourceId": "82f29ce2fd1aee5bb1cd9607dfebee1c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "blackstone-s-jas-khaira-says-fears-over-ai-buildou",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+    "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+    "pubDate": "Wed, 21 Oct 2026 22:51:22 +0000",
+    "slides": [
+      "Is Blackstone's AI debt bet safe?",
+      "Jas Khaira dismisses fears over buildout borrowing",
+      "But debt structures hide risks investors rarely see",
+      "Watch covenant terms in AI infrastructure deals",
+      "Ask what happens if AI demand stalls"
+    ],
+    "thread_text": [
+      "1. The $1 trillion question\n\nBlackstone is piling into AI infrastructure debt. Jas Khaira, the firm's global head of structured finance, insists the buildout borrowing is safe. But the real risk hides in the fine print.",
+      "2. Not all debt is equal\n\nStructured deals let borrowers stack layers of leverage behind a single asset. Each layer adds a new set of investors with different priorities — and different claims on cash flow when things go wrong.",
+      "3. Covenants are the tripwire\n\nLegal terms buried in hundreds of pages decide who gets paid first and who absorbs losses. They also dictate when lenders can force a restructuring — often before a project is even finished.",
+      "4. When demand stalls\n\nAI infrastructure is built on projections of explosive growth. If demand plateaus or delays, covenant breaches can trigger forced sales at fire-sale prices. Khaira's optimism assumes the music never stops.",
+      "5. Check your own exposure\n\nIf you own Blackstone funds or AI-linked bonds, pull the offering documents today. Ask one question: what happens if AI demand misses projections by 20%? If you can't answer it, you're flying blind."
+    ],
+    "video_script": [
+      "Blackstone's AI debt bet, with a trillion-dollar question.",
+      "Structured deals stack layers of leverage behind one asset.",
+      "Covenant terms decide who gets paid first, and when lenders can force restructuring.",
+      "If AI demand stalls, covenant breaches can trigger forced sales.",
+      "Check your own exposure, and ask what if projections miss."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $1 trillion question\n\nBlackstone is piling into AI infrastructure debt. Jas Khaira, the firm's global head of structured finance, insists the buildout borrowing is safe. But the real risk hides in the fine print.",
+          "2. Not all debt is equal\n\nStructured deals let borrowers stack layers of leverage behind a single asset. Each layer adds a new set of investors with different priorities — and different claims on cash flow when things go wrong.",
+          "3. Covenants are the tripwire\n\nLegal terms buried in hundreds of pages decide who gets paid first and who absorbs losses. They also dictate when lenders can force a restructuring — often before a project is even finished.",
+          "4. When demand stalls\n\nAI infrastructure is built on projections of explosive growth. If demand plateaus or delays, covenant breaches can trigger forced sales at fire-sale prices. Khaira's optimism assumes the music never stops.",
+          "5. Check your own exposure\n\nIf you own Blackstone funds or AI-linked bonds, pull the offering documents today. Ask one question: what happens if AI demand misses projections by 20%? If you can't answer it, you're flying blind."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Blackstone's AI debt bet, with a trillion-dollar question.",
+          "Structured deals stack layers of leverage behind one asset.",
+          "Covenant terms decide who gets paid first, and when lenders can force restructuring.",
+          "If AI demand stalls, covenant breaches can trigger forced sales.",
+          "Check your own exposure, and ask what if projections miss."
+        ]
+      },
+      "instagram": {
+        "caption": "Blackstone's global head of structured finance says the debt behind the AI buildout is safe. The fine print may disagree.\n\nStructured deals stack multiple layers of leverage behind one asset. Each layer carries different claims on cash flow when things go wrong.\n\nCovenant terms buried in hundreds of pages decide who gets paid first and who absorbs losses. They can trigger a forced restructuring before a project is even finished.\n\nIf you publish or invest in AI-linked content and funds, pull the offering documents 📄 and ask one question: what happens if AI demand misses projections by 20%? 🤔\n\nCan you answer that today, or are you flying blind? 👀"
+      }
+    },
+    "instagram_caption": "Blackstone's global head of structured finance says the debt behind the AI buildout is safe. The fine print may disagree.\n\nStructured deals stack multiple layers of leverage behind one asset. Each layer carries different claims on cash flow when things go wrong.\n\nCovenant terms buried in hundreds of pages decide who gets paid first and who absorbs losses. They can trigger a forced restructuring before a project is even finished.\n\nIf you publish or invest in AI-linked content and funds, pull the offering documents 📄 and ask one question: what happens if AI demand misses projections by 20%? 🤔\n\nCan you answer that today, or are you flying blind? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Is Blackstone's AI debt bet safe?",
+        "description": "Blackstone piles into AI infrastructure debt while Jas Khaira insists it's safe—but real risk hides in the fine print.",
+        "visual_hint": "Dark server room with glowing blue lights",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Khaira dismisses fears over buildout borrowing",
+        "description": "Blackstone's structured finance head calls AI debt safe, but layered leverage means different investors have different claims on cash flow.",
+        "visual_hint": "Stacked layers of debt documents",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "financial documents",
+        "image": "https://images.pexels.com/photos/8970301/pexels-photo-8970301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Debt structures hide risks investors rarely see",
+        "description": "Covenants buried in hundreds of pages decide who gets paid first and who absorbs losses—often before projects finish.",
+        "visual_hint": "Magnifying glass over fine print",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass contract",
+        "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Watch covenant terms in AI infrastructure deals",
+        "description": "If AI demand plateaus or delays, covenant breaches can trigger forced sales at fire-sale prices—Khaira's optimism assumes growth never stops.",
+        "visual_hint": "Hand pointing at covenant clause",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand pointing document",
+        "image": "https://images.pexels.com/photos/8439659/pexels-photo-8439659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: check your AI debt exposure",
+        "description": "Pull your Blackstone fund or AI bond offering documents today. Ask: what happens if AI demand misses by 20%?",
+        "visual_hint": "Person reviewing financial documents",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person reading contract",
+        "image": "https://images.pexels.com/photos/7875993/pexels-photo-7875993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591561486_34813d39be_c.jpg?w=799",
+    "savedAt": "2026-10-22T02:43:39.286Z",
+    "sourceId": "c6715b01bd7e0768bd2a44eb45a13e75"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "walmart-is-inviting-ai-agents-to-shop-for-you",
     "prompt_version": "1.0.0",
     "status": "published",
