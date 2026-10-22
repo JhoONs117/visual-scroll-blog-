@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "developer-platform-railway-urges-all-users-to-revo",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
+  "link": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
+  "pubDate": "Thu, 22 Oct 2026 14:03:00 +0000",
+  "slides": [
+    "Railway users: did attackers already copy your keys?",
+    "A cyberattack hit the developer platform's internal systems",
+    "Some tokens stayed valid longer than the breach was known",
+    "Revoke and rotate every secret key tied to your projects",
+    "Check your Railway logs tonight for unfamiliar access"
+  ],
+  "thread_text": [
+    "1. Keys copied before fix?\n\nRailway's internal systems were breached. The attacker may have copied your secret keys before anyone noticed.",
+    "2. Tokens stayed valid\n\nSome API tokens remained active longer than the breach was known—meaning stolen keys could have been used silently.",
+    "3. Check logs tonight\n\nLook for unfamiliar access in your Railway logs. Unusual IPs, unexpected API calls, or new sessions are red flags.",
+    "4. Revoke and rotate now\n\nEvery secret key tied to your Railway projects must be revoked and rotated. Don't wait for confirmation of misuse.",
+    "5. Audit your exposure\n\nAsk yourself: which of your keys were live during the breach window? Rotate those first, then verify no unauthorized actions occurred."
+  ],
+  "video_script": [
+    "Railway's internal systems were breached.",
+    "Attackers may have copied your secret keys.",
+    "Some tokens stayed valid after the breach was known.",
+    "Revoke and rotate every key tied to your projects.",
+    "Check your Railway logs tonight for unfamiliar access."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Keys copied before fix?\n\nRailway's internal systems were breached. The attacker may have copied your secret keys before anyone noticed.",
+        "2. Tokens stayed valid\n\nSome API tokens remained active longer than the breach was known—meaning stolen keys could have been used silently.",
+        "3. Check logs tonight\n\nLook for unfamiliar access in your Railway logs. Unusual IPs, unexpected API calls, or new sessions are red flags.",
+        "4. Revoke and rotate now\n\nEvery secret key tied to your Railway projects must be revoked and rotated. Don't wait for confirmation of misuse.",
+        "5. Audit your exposure\n\nAsk yourself: which of your keys were live during the breach window? Rotate those first, then verify no unauthorized actions occurred."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Railway's internal systems were breached.",
+        "Attackers may have copied your secret keys.",
+        "Some tokens stayed valid after the breach was known.",
+        "Revoke and rotate every key tied to your projects.",
+        "Check your Railway logs tonight for unfamiliar access."
+      ]
+    },
+    "instagram": {
+      "caption": "If you used Railway to build or deploy anything, your secret keys may have been copied before anyone noticed.\n\nA cyberattack hit the developer platform's internal systems. Some API tokens stayed valid longer than the breach was known.\n\nThat means stolen keys could have been used silently, without warning. 🔑\n\nCheck your Railway logs tonight for unfamiliar IPs, unexpected API calls, or new sessions.\n\nThen revoke and rotate every secret key tied to your projects. Don't wait for confirmation of misuse. ⚠️\n\nAsk yourself: which of your keys were live during the breach window? 🔍 Rotate those first, then verify nothing unauthorized happened.\n\nHow many keys are you rotating tonight? 🔐"
+    }
+  },
+  "instagram_caption": "If you used Railway to build or deploy anything, your secret keys may have been copied before anyone noticed.\n\nA cyberattack hit the developer platform's internal systems. Some API tokens stayed valid longer than the breach was known.\n\nThat means stolen keys could have been used silently, without warning. 🔑\n\nCheck your Railway logs tonight for unfamiliar IPs, unexpected API calls, or new sessions.\n\nThen revoke and rotate every secret key tied to your projects. Don't wait for confirmation of misuse. ⚠️\n\nAsk yourself: which of your keys were live during the breach window? 🔍 Rotate those first, then verify nothing unauthorized happened.\n\nHow many keys are you rotating tonight? 🔐",
+  "carousel_slides": [
+    {
+      "hook": "Did attackers already copy your keys?",
+      "description": "Railway's internal systems were breached, and stolen secret keys may have been copied before anyone noticed.",
+      "visual_hint": "Dark server room with glowing red lights",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Tokens stayed valid after breach",
+      "description": "Some API tokens remained active longer than the breach was known, so stolen keys could have been used silently.",
+      "visual_hint": "Close-up of a keyhole with digital code overlay",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "keyhole security",
+      "image": "https://images.pexels.com/photos/17325288/pexels-photo-17325288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your Railway logs tonight",
+      "description": "Look for unfamiliar access in your logs—unusual IPs or unexpected API calls are red flags.",
+      "visual_hint": "Computer screen displaying log entries",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer logs",
+      "image": "https://images.pexels.com/photos/4005569/pexels-photo-4005569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Revoke and rotate every secret key",
+      "description": "Every secret key tied to your Railway projects must be revoked and rotated immediately—don't wait for misuse confirmation.",
+      "visual_hint": "Hand turning a key in a lock",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand key lock",
+      "image": "https://images.pexels.com/photos/792032/pexels-photo-792032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this checklist and audit now",
+      "description": "Identify which keys were live during the breach window, rotate those first, then verify no unauthorized actions occurred.",
+      "visual_hint": "Checklist with checkboxes and a pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist pen",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/08/getty-keys-red-background-locks.jpg?resize=1200,800",
+  "savedAt": "2026-10-22T14:46:18.313Z",
+  "sourceId": "c5784819fcbfd508440b4f3eaf6b2589"
+}

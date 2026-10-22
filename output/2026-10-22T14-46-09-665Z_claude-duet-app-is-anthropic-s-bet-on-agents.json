@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "claude-duet-app-is-anthropic-s-bet-on-agents",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Claude Duet app is Anthropic’s bet on agents",
+  "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+  "pubDate": "Thu, 22 Oct 2026 13:53:26 +0000",
+  "slides": [
+    "Is Anthropic's Claude Duet app betting on agents to replace your workflow?",
+    "The app pairs two Claude instances working in tandem on tasks",
+    "One silently critiques the other, catching errors before output",
+    "You can run both agents locally without cloud dependency",
+    "Pick one repetitive task and test Duet against your current method"
+  ],
+  "thread_text": [
+    "1. Two Claudes, one task\n\nAnthropic's Claude Duet runs two AI instances in tandem: one generates, the other silently critiques. Errors get caught before you ever see them.",
+    "2. The silent critic\n\nWhile one Claude works, the second reviews every output in real time. It's like having a copyeditor who never sleeps and never misses a typo.",
+    "3. No cloud required\n\nYou can run both agents entirely on your local machine. No data leaves your device, no API calls, no latency.",
+    "4. Workflow under threat\n\nDuet doesn't just assist—it aims to replace repetitive steps. If it works, your current process might be obsolete.",
+    "5. Test it yourself\n\nPick one repetitive task you do weekly. Run Duet against your usual method. Does it save time or just add review layers?"
+  ],
+  "video_script": [
+    "Anthropic's Claude Duet pairs two AI agents on one task.",
+    "One generates while the other silently critiques every output.",
+    "You can run both agents locally, no cloud dependency.",
+    "It's designed to replace repetitive workflow steps entirely.",
+    "Test Duet on one task against your current method today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Two Claudes, one task\n\nAnthropic's Claude Duet runs two AI instances in tandem: one generates, the other silently critiques. Errors get caught before you ever see them.",
+        "2. The silent critic\n\nWhile one Claude works, the second reviews every output in real time. It's like having a copyeditor who never sleeps and never misses a typo.",
+        "3. No cloud required\n\nYou can run both agents entirely on your local machine. No data leaves your device, no API calls, no latency.",
+        "4. Workflow under threat\n\nDuet doesn't just assist—it aims to replace repetitive steps. If it works, your current process might be obsolete.",
+        "5. Test it yourself\n\nPick one repetitive task you do weekly. Run Duet against your usual method. Does it save time or just add review layers?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic's Claude Duet pairs two AI agents on one task.",
+        "One generates while the other silently critiques every output.",
+        "You can run both agents locally, no cloud dependency.",
+        "It's designed to replace repetitive workflow steps entirely.",
+        "Test Duet on one task against your current method today."
+      ]
+    },
+    "instagram": {
+      "caption": "Two Claudes tackle the same task: one writes, the other silently critiques every output before you see it. 🔍\n\nAnthropic's Claude Duet app runs both instances in tandem, catching errors in real time.\n\nYou can run both agents locally, no cloud dependency, nothing leaves your device.\n\nIf it works, the repetitive steps in your workflow might become obsolete.\n\nPick one task you do weekly and run Duet against your usual method. Does it save time or just add review layers? 🤔"
+    }
+  },
+  "instagram_caption": "Two Claudes tackle the same task: one writes, the other silently critiques every output before you see it. 🔍\n\nAnthropic's Claude Duet app runs both instances in tandem, catching errors in real time.\n\nYou can run both agents locally, no cloud dependency, nothing leaves your device.\n\nIf it works, the repetitive steps in your workflow might become obsolete.\n\nPick one task you do weekly and run Duet against your usual method. Does it save time or just add review layers? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Two Claudes silently catch every error",
+      "description": "One AI generates while another critiques in real time, so mistakes get filtered before you ever see them.",
+      "visual_hint": "Split screen with two glowing AI cores",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "A copyeditor that never sleeps",
+      "description": "The second Claude reviews each output instantly, acting like a tireless proofreader that never misses a typo.",
+      "visual_hint": "Close-up of code review interface",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer screen code",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Run both agents locally, no cloud",
+      "description": "Duet works entirely on your machine, keeping data private and eliminating API calls and latency.",
+      "visual_hint": "Laptop with local AI dashboard",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "laptop desk",
+      "image": "https://images.pexels.com/photos/6893890/pexels-photo-6893890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is your workflow about to be replaced?",
+      "description": "Duet aims to replace repetitive steps entirely, potentially making your current process obsolete overnight.",
+      "visual_hint": "Person comparing old vs new workflow",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Duet on one repetitive task",
+      "description": "Pick a weekly task you repeat and run Duet against your usual method to see if it saves time.",
+      "visual_hint": "Hand holding phone with checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist notebook",
+      "image": "https://images.pexels.com/photos/8450476/pexels-photo-8450476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Claude-Duet.jpg?resize=1200,675",
+  "savedAt": "2026-10-22T14:46:28.505Z",
+  "sourceId": "2627a349dcf80f5ed77cf53af602db85"
+}

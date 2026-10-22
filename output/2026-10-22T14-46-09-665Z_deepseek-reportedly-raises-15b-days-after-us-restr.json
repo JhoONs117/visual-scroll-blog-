@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "deepseek-reportedly-raises-15b-days-after-us-restr",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "DeepSeek reportedly raises $15B days after US restrictions",
+  "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+  "pubDate": "Thu, 22 Oct 2026 13:11:13 +0000",
+  "slides": [
+    "DeepSeek just raised $15B — does that even add up?",
+    "The round reportedly closed days after US restrictions",
+    "The money may be funding compute it can no longer buy",
+    "Your API costs could shift as DeepSeek reroutes supply",
+    "Watch the next earnings report before trusting the hype"
+  ],
+  "thread_text": [
+    "1. $15B days after US curbs\n\nDeepSeek reportedly closed a $15B round just days after new US export restrictions hit. The timing is the story — not the number.",
+    "2. Money vs. machines\n\nThe cash may be funding compute DeepSeek can no longer actually buy. Capital raised, hardware blocked — that gap has to close somewhere.",
+    "3. Your API bill is the tell\n\nAs DeepSeek reroutes its supply chain, your API costs could shift. Watch pricing changes as the first public signal of the squeeze.",
+    "4. Earnings will expose the gap\n\nThe next earnings report is where the rerouting shows up in real numbers. Hype fades; line items don't.",
+    "5. Check your own API spend today\n\nPull your last invoice and compare it to this month's usage. If the delta surprises you, you already know where to look next."
+  ],
+  "video_script": [
+    "DeepSeek raised fifteen billion dollars days after US restrictions.",
+    "That money might be buying compute it can no longer get.",
+    "Watch your API costs as DeepSeek reroutes its supply.",
+    "The next earnings report will show what rerouting really costs.",
+    "Check your own API invoice before trusting the hype."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $15B days after US curbs\n\nDeepSeek reportedly closed a $15B round just days after new US export restrictions hit. The timing is the story — not the number.",
+        "2. Money vs. machines\n\nThe cash may be funding compute DeepSeek can no longer actually buy. Capital raised, hardware blocked — that gap has to close somewhere.",
+        "3. Your API bill is the tell\n\nAs DeepSeek reroutes its supply chain, your API costs could shift. Watch pricing changes as the first public signal of the squeeze.",
+        "4. Earnings will expose the gap\n\nThe next earnings report is where the rerouting shows up in real numbers. Hype fades; line items don't.",
+        "5. Check your own API spend today\n\nPull your last invoice and compare it to this month's usage. If the delta surprises you, you already know where to look next."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "DeepSeek raised fifteen billion dollars days after US restrictions.",
+        "That money might be buying compute it can no longer get.",
+        "Watch your API costs as DeepSeek reroutes its supply.",
+        "The next earnings report will show what rerouting really costs.",
+        "Check your own API invoice before trusting the hype."
+      ]
+    },
+    "instagram": {
+      "caption": "$15 billion raised just days after new US export restrictions hit. 💰\n\nDeepSeek reportedly closed the round anyway — the timing is the story, not the number.\n\nThe cash may be funding compute the company can no longer actually buy. Capital raised, hardware blocked — that gap has to close somewhere. 📉\n\nAs DeepSeek reroutes its supply chain, your API costs could shift. Watch pricing changes as the first public signal.\n\nIf you build or publish with their models, pull your last invoice and compare it to this month's usage.\n\nIf the delta surprises you, what's your plan B? 👀"
+    }
+  },
+  "instagram_caption": "$15 billion raised just days after new US export restrictions hit. 💰\n\nDeepSeek reportedly closed the round anyway — the timing is the story, not the number.\n\nThe cash may be funding compute the company can no longer actually buy. Capital raised, hardware blocked — that gap has to close somewhere. 📉\n\nAs DeepSeek reroutes its supply chain, your API costs could shift. Watch pricing changes as the first public signal.\n\nIf you build or publish with their models, pull your last invoice and compare it to this month's usage.\n\nIf the delta surprises you, what's your plan B? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Does $15B even add up?",
+      "description": "DeepSeek reportedly raised $15B days after US restrictions. The timing matters more than the number.",
+      "visual_hint": "Large dollar sign next to a microchip",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "dollar sign"
+    },
+    {
+      "hook": "Money can't buy machines",
+      "description": "The cash may be funding compute DeepSeek can no longer buy. Capital raised, hardware blocked.",
+      "visual_hint": "Stack of cash beside locked server rack",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your API bill is the tell",
+      "description": "As DeepSeek reroutes its supply chain, your API costs could shift. Watch pricing changes as the first signal.",
+      "visual_hint": "Close-up of API pricing dashboard chart",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Earnings will expose the gap",
+      "description": "The next earnings report is where rerouting shows up in real numbers. Hype fades, line items don't.",
+      "visual_hint": "Hand holding financial report with numbers",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "financial report",
+      "image": "https://images.pexels.com/photos/7947637/pexels-photo-7947637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your own API spend today",
+      "description": "Pull your last invoice and compare it to this month's usage. If the delta surprises you, you know where to look.",
+      "visual_hint": "Invoice and calculator on a desk",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "invoice calculator",
+      "image": "https://images.pexels.com/photos/7680692/pexels-photo-7680692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/01/deepseek-2.jpg?resize=1200,800",
+  "savedAt": "2026-10-22T14:46:37.956Z",
+  "sourceId": "c80a6608f1d2299f4ad6bc8058daff84"
+}

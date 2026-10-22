@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "1password-lets-ai-agents-use-your-passwords-withou",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "1Password lets AI agents use your passwords without seeing them",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+      "pubDate": "2026-10-22T13:00:00.000Z",
+      "slides": [
+        "What if an AI knew your passwords but never saw them?",
+        "1Password built a vault that gates secrets behind policy",
+        "Agents authenticate without ever holding plaintext credentials",
+        "Your team must define which agents get which secrets",
+        "Audit every agent action before granting vault access"
+      ],
+      "thread_text": [
+        "1. Your passwords, never seen\n\n1Password's AI agents authenticate without ever holding plaintext credentials—the vault does the work behind the scenes.",
+        "2. Policy becomes the gatekeeper\n\nA vault gates each secret behind rules your team writes. No policy match, no access—even for an agent.",
+        "3. Define who gets what\n\nYour team maps every agent to its allowed secrets. Without this map, the vault is just a locked box.",
+        "4. Audit before you grant\n\nEvery agent action is logged for review before vault access is granted. The audit trail becomes your safety net.",
+        "5. Test it on one agent\n\nTake a low-risk secret and simulate an agent request. If your policy doesn't block it, start there."
+      ],
+      "video_script": [
+        "Imagine an AI that knows your passwords but never sees them.",
+        "1Password built a vault that gates secrets behind policy.",
+        "Agents authenticate without ever holding plaintext credentials.",
+        "Your team must define which agents get which secrets.",
+        "Audit every agent action before granting vault access."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your passwords, never seen\n\n1Password's AI agents authenticate without ever holding plaintext credentials—the vault does the work behind the scenes.",
+            "2. Policy becomes the gatekeeper\n\nA vault gates each secret behind rules your team writes. No policy match, no access—even for an agent.",
+            "3. Define who gets what\n\nYour team maps every agent to its allowed secrets. Without this map, the vault is just a locked box.",
+            "4. Audit before you grant\n\nEvery agent action is logged for review before vault access is granted. The audit trail becomes your safety net.",
+            "5. Test it on one agent\n\nTake a low-risk secret and simulate an agent request. If your policy doesn't block it, start there."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Imagine an AI that knows your passwords but never sees them.",
+            "1Password built a vault that gates secrets behind policy.",
+            "Agents authenticate without ever holding plaintext credentials.",
+            "Your team must define which agents get which secrets.",
+            "Audit every agent action before granting vault access."
+          ]
+        },
+        "instagram": {
+          "caption": "Your passwords can now sit in a vault an AI agent uses without ever reading them.\n\n1Password built a vault that gates each secret behind rules your team writes—no policy match, no access 🔐\n\nThe agent authenticates and acts, but never holds plaintext credentials.\n\nEvery agent action gets logged for review before vault access is granted 📋\n\nIf you build with AI agents, your team now has to map each agent to the exact secrets it's allowed to touch.\n\nTake one low-risk secret this week and simulate an agent request—does your policy block it? 🧪"
+        }
+      },
+      "instagram_caption": "Your passwords can now sit in a vault an AI agent uses without ever reading them.\n\n1Password built a vault that gates each secret behind rules your team writes—no policy match, no access 🔐\n\nThe agent authenticates and acts, but never holds plaintext credentials.\n\nEvery agent action gets logged for review before vault access is granted 📋\n\nIf you build with AI agents, your team now has to map each agent to the exact secrets it's allowed to touch.\n\nTake one low-risk secret this week and simulate an agent request—does your policy block it? 🧪",
+      "carousel_slides": [
+        {
+          "hook": "AI knows your passwords but never sees them?",
+          "description": "1Password's AI agents authenticate without holding plaintext credentials, so secrets stay hidden behind the vault.",
+          "visual_hint": "Padlock on a server rack",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Policy becomes the gatekeeper",
+          "description": "A vault gates each secret behind team-written rules: no policy match means no access, even for an AI agent.",
+          "visual_hint": "Digital gate with policy text",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "security gate",
+          "image": "https://images.pexels.com/photos/11543858/pexels-photo-11543858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Agents authenticate without holding plaintext credentials",
+          "description": "The vault does the work behind the scenes, so agents never touch raw secrets and exposure risk drops to zero.",
+          "visual_hint": "Robot hand reaching for a key",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "robot arm",
+          "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Define which agents get which secrets",
+          "description": "Your team maps every agent to allowed secrets. Without this map, the vault is just a locked box.",
+          "visual_hint": "Flowchart mapping agents to secrets",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "network diagram",
+          "image": "https://images.pexels.com/photos/6642542/pexels-photo-6642542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit every agent action before granting access",
+          "description": "Test on one low-risk secret: simulate an agent request, and if policy doesn't block it, start there.",
+          "visual_hint": "Audit log with checkmarks",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "audit checklist",
+          "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK442_Password_Manager_A_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+      "savedAt": "2026-10-22T14:46:46.432Z",
+      "sourceId": "afb2c751d349c0484c2291c86c67ef8c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "deepseek-reportedly-raises-15b-days-after-us-restr",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "pubDate": "Thu, 22 Oct 2026 13:11:13 +0000",
+      "slides": [
+        "DeepSeek just raised $15B — does that even add up?",
+        "The round reportedly closed days after US restrictions",
+        "The money may be funding compute it can no longer buy",
+        "Your API costs could shift as DeepSeek reroutes supply",
+        "Watch the next earnings report before trusting the hype"
+      ],
+      "thread_text": [
+        "1. $15B days after US curbs\n\nDeepSeek reportedly closed a $15B round just days after new US export restrictions hit. The timing is the story — not the number.",
+        "2. Money vs. machines\n\nThe cash may be funding compute DeepSeek can no longer actually buy. Capital raised, hardware blocked — that gap has to close somewhere.",
+        "3. Your API bill is the tell\n\nAs DeepSeek reroutes its supply chain, your API costs could shift. Watch pricing changes as the first public signal of the squeeze.",
+        "4. Earnings will expose the gap\n\nThe next earnings report is where the rerouting shows up in real numbers. Hype fades; line items don't.",
+        "5. Check your own API spend today\n\nPull your last invoice and compare it to this month's usage. If the delta surprises you, you already know where to look next."
+      ],
+      "video_script": [
+        "DeepSeek raised fifteen billion dollars days after US restrictions.",
+        "That money might be buying compute it can no longer get.",
+        "Watch your API costs as DeepSeek reroutes its supply.",
+        "The next earnings report will show what rerouting really costs.",
+        "Check your own API invoice before trusting the hype."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $15B days after US curbs\n\nDeepSeek reportedly closed a $15B round just days after new US export restrictions hit. The timing is the story — not the number.",
+            "2. Money vs. machines\n\nThe cash may be funding compute DeepSeek can no longer actually buy. Capital raised, hardware blocked — that gap has to close somewhere.",
+            "3. Your API bill is the tell\n\nAs DeepSeek reroutes its supply chain, your API costs could shift. Watch pricing changes as the first public signal of the squeeze.",
+            "4. Earnings will expose the gap\n\nThe next earnings report is where the rerouting shows up in real numbers. Hype fades; line items don't.",
+            "5. Check your own API spend today\n\nPull your last invoice and compare it to this month's usage. If the delta surprises you, you already know where to look next."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "DeepSeek raised fifteen billion dollars days after US restrictions.",
+            "That money might be buying compute it can no longer get.",
+            "Watch your API costs as DeepSeek reroutes its supply.",
+            "The next earnings report will show what rerouting really costs.",
+            "Check your own API invoice before trusting the hype."
+          ]
+        },
+        "instagram": {
+          "caption": "$15 billion raised just days after new US export restrictions hit. 💰\n\nDeepSeek reportedly closed the round anyway — the timing is the story, not the number.\n\nThe cash may be funding compute the company can no longer actually buy. Capital raised, hardware blocked — that gap has to close somewhere. 📉\n\nAs DeepSeek reroutes its supply chain, your API costs could shift. Watch pricing changes as the first public signal.\n\nIf you build or publish with their models, pull your last invoice and compare it to this month's usage.\n\nIf the delta surprises you, what's your plan B? 👀"
+        }
+      },
+      "instagram_caption": "$15 billion raised just days after new US export restrictions hit. 💰\n\nDeepSeek reportedly closed the round anyway — the timing is the story, not the number.\n\nThe cash may be funding compute the company can no longer actually buy. Capital raised, hardware blocked — that gap has to close somewhere. 📉\n\nAs DeepSeek reroutes its supply chain, your API costs could shift. Watch pricing changes as the first public signal.\n\nIf you build or publish with their models, pull your last invoice and compare it to this month's usage.\n\nIf the delta surprises you, what's your plan B? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Does $15B even add up?",
+          "description": "DeepSeek reportedly raised $15B days after US restrictions. The timing matters more than the number.",
+          "visual_hint": "Large dollar sign next to a microchip",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "dollar sign"
+        },
+        {
+          "hook": "Money can't buy machines",
+          "description": "The cash may be funding compute DeepSeek can no longer buy. Capital raised, hardware blocked.",
+          "visual_hint": "Stack of cash beside locked server rack",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your API bill is the tell",
+          "description": "As DeepSeek reroutes its supply chain, your API costs could shift. Watch pricing changes as the first signal.",
+          "visual_hint": "Close-up of API pricing dashboard chart",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Earnings will expose the gap",
+          "description": "The next earnings report is where rerouting shows up in real numbers. Hype fades, line items don't.",
+          "visual_hint": "Hand holding financial report with numbers",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "financial report",
+          "image": "https://images.pexels.com/photos/7947637/pexels-photo-7947637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your own API spend today",
+          "description": "Pull your last invoice and compare it to this month's usage. If the delta surprises you, you know where to look.",
+          "visual_hint": "Invoice and calculator on a desk",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "invoice calculator",
+          "image": "https://images.pexels.com/photos/7680692/pexels-photo-7680692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/deepseek-2.jpg?resize=1200,800",
+      "savedAt": "2026-10-22T14:46:37.956Z",
+      "sourceId": "c80a6608f1d2299f4ad6bc8058daff84"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "claude-duet-app-is-anthropic-s-bet-on-agents",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "pubDate": "Thu, 22 Oct 2026 13:53:26 +0000",
+      "slides": [
+        "Is Anthropic's Claude Duet app betting on agents to replace your workflow?",
+        "The app pairs two Claude instances working in tandem on tasks",
+        "One silently critiques the other, catching errors before output",
+        "You can run both agents locally without cloud dependency",
+        "Pick one repetitive task and test Duet against your current method"
+      ],
+      "thread_text": [
+        "1. Two Claudes, one task\n\nAnthropic's Claude Duet runs two AI instances in tandem: one generates, the other silently critiques. Errors get caught before you ever see them.",
+        "2. The silent critic\n\nWhile one Claude works, the second reviews every output in real time. It's like having a copyeditor who never sleeps and never misses a typo.",
+        "3. No cloud required\n\nYou can run both agents entirely on your local machine. No data leaves your device, no API calls, no latency.",
+        "4. Workflow under threat\n\nDuet doesn't just assist—it aims to replace repetitive steps. If it works, your current process might be obsolete.",
+        "5. Test it yourself\n\nPick one repetitive task you do weekly. Run Duet against your usual method. Does it save time or just add review layers?"
+      ],
+      "video_script": [
+        "Anthropic's Claude Duet pairs two AI agents on one task.",
+        "One generates while the other silently critiques every output.",
+        "You can run both agents locally, no cloud dependency.",
+        "It's designed to replace repetitive workflow steps entirely.",
+        "Test Duet on one task against your current method today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Two Claudes, one task\n\nAnthropic's Claude Duet runs two AI instances in tandem: one generates, the other silently critiques. Errors get caught before you ever see them.",
+            "2. The silent critic\n\nWhile one Claude works, the second reviews every output in real time. It's like having a copyeditor who never sleeps and never misses a typo.",
+            "3. No cloud required\n\nYou can run both agents entirely on your local machine. No data leaves your device, no API calls, no latency.",
+            "4. Workflow under threat\n\nDuet doesn't just assist—it aims to replace repetitive steps. If it works, your current process might be obsolete.",
+            "5. Test it yourself\n\nPick one repetitive task you do weekly. Run Duet against your usual method. Does it save time or just add review layers?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Anthropic's Claude Duet pairs two AI agents on one task.",
+            "One generates while the other silently critiques every output.",
+            "You can run both agents locally, no cloud dependency.",
+            "It's designed to replace repetitive workflow steps entirely.",
+            "Test Duet on one task against your current method today."
+          ]
+        },
+        "instagram": {
+          "caption": "Two Claudes tackle the same task: one writes, the other silently critiques every output before you see it. 🔍\n\nAnthropic's Claude Duet app runs both instances in tandem, catching errors in real time.\n\nYou can run both agents locally, no cloud dependency, nothing leaves your device.\n\nIf it works, the repetitive steps in your workflow might become obsolete.\n\nPick one task you do weekly and run Duet against your usual method. Does it save time or just add review layers? 🤔"
+        }
+      },
+      "instagram_caption": "Two Claudes tackle the same task: one writes, the other silently critiques every output before you see it. 🔍\n\nAnthropic's Claude Duet app runs both instances in tandem, catching errors in real time.\n\nYou can run both agents locally, no cloud dependency, nothing leaves your device.\n\nIf it works, the repetitive steps in your workflow might become obsolete.\n\nPick one task you do weekly and run Duet against your usual method. Does it save time or just add review layers? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Two Claudes silently catch every error",
+          "description": "One AI generates while another critiques in real time, so mistakes get filtered before you ever see them.",
+          "visual_hint": "Split screen with two glowing AI cores",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "A copyeditor that never sleeps",
+          "description": "The second Claude reviews each output instantly, acting like a tireless proofreader that never misses a typo.",
+          "visual_hint": "Close-up of code review interface",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer screen code",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Run both agents locally, no cloud",
+          "description": "Duet works entirely on your machine, keeping data private and eliminating API calls and latency.",
+          "visual_hint": "Laptop with local AI dashboard",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "laptop desk",
+          "image": "https://images.pexels.com/photos/6893890/pexels-photo-6893890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Is your workflow about to be replaced?",
+          "description": "Duet aims to replace repetitive steps entirely, potentially making your current process obsolete overnight.",
+          "visual_hint": "Person comparing old vs new workflow",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test Duet on one repetitive task",
+          "description": "Pick a weekly task you repeat and run Duet against your usual method to see if it saves time.",
+          "visual_hint": "Hand holding phone with checklist",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist notebook",
+          "image": "https://images.pexels.com/photos/8450476/pexels-photo-8450476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Claude-Duet.jpg?resize=1200,675",
+      "savedAt": "2026-10-22T14:46:28.505Z",
+      "sourceId": "2627a349dcf80f5ed77cf53af602db85"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "developer-platform-railway-urges-all-users-to-revo",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
+      "link": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
+      "pubDate": "Thu, 22 Oct 2026 14:03:00 +0000",
+      "slides": [
+        "Railway users: did attackers already copy your keys?",
+        "A cyberattack hit the developer platform's internal systems",
+        "Some tokens stayed valid longer than the breach was known",
+        "Revoke and rotate every secret key tied to your projects",
+        "Check your Railway logs tonight for unfamiliar access"
+      ],
+      "thread_text": [
+        "1. Keys copied before fix?\n\nRailway's internal systems were breached. The attacker may have copied your secret keys before anyone noticed.",
+        "2. Tokens stayed valid\n\nSome API tokens remained active longer than the breach was known—meaning stolen keys could have been used silently.",
+        "3. Check logs tonight\n\nLook for unfamiliar access in your Railway logs. Unusual IPs, unexpected API calls, or new sessions are red flags.",
+        "4. Revoke and rotate now\n\nEvery secret key tied to your Railway projects must be revoked and rotated. Don't wait for confirmation of misuse.",
+        "5. Audit your exposure\n\nAsk yourself: which of your keys were live during the breach window? Rotate those first, then verify no unauthorized actions occurred."
+      ],
+      "video_script": [
+        "Railway's internal systems were breached.",
+        "Attackers may have copied your secret keys.",
+        "Some tokens stayed valid after the breach was known.",
+        "Revoke and rotate every key tied to your projects.",
+        "Check your Railway logs tonight for unfamiliar access."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Keys copied before fix?\n\nRailway's internal systems were breached. The attacker may have copied your secret keys before anyone noticed.",
+            "2. Tokens stayed valid\n\nSome API tokens remained active longer than the breach was known—meaning stolen keys could have been used silently.",
+            "3. Check logs tonight\n\nLook for unfamiliar access in your Railway logs. Unusual IPs, unexpected API calls, or new sessions are red flags.",
+            "4. Revoke and rotate now\n\nEvery secret key tied to your Railway projects must be revoked and rotated. Don't wait for confirmation of misuse.",
+            "5. Audit your exposure\n\nAsk yourself: which of your keys were live during the breach window? Rotate those first, then verify no unauthorized actions occurred."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Railway's internal systems were breached.",
+            "Attackers may have copied your secret keys.",
+            "Some tokens stayed valid after the breach was known.",
+            "Revoke and rotate every key tied to your projects.",
+            "Check your Railway logs tonight for unfamiliar access."
+          ]
+        },
+        "instagram": {
+          "caption": "If you used Railway to build or deploy anything, your secret keys may have been copied before anyone noticed.\n\nA cyberattack hit the developer platform's internal systems. Some API tokens stayed valid longer than the breach was known.\n\nThat means stolen keys could have been used silently, without warning. 🔑\n\nCheck your Railway logs tonight for unfamiliar IPs, unexpected API calls, or new sessions.\n\nThen revoke and rotate every secret key tied to your projects. Don't wait for confirmation of misuse. ⚠️\n\nAsk yourself: which of your keys were live during the breach window? 🔍 Rotate those first, then verify nothing unauthorized happened.\n\nHow many keys are you rotating tonight? 🔐"
+        }
+      },
+      "instagram_caption": "If you used Railway to build or deploy anything, your secret keys may have been copied before anyone noticed.\n\nA cyberattack hit the developer platform's internal systems. Some API tokens stayed valid longer than the breach was known.\n\nThat means stolen keys could have been used silently, without warning. 🔑\n\nCheck your Railway logs tonight for unfamiliar IPs, unexpected API calls, or new sessions.\n\nThen revoke and rotate every secret key tied to your projects. Don't wait for confirmation of misuse. ⚠️\n\nAsk yourself: which of your keys were live during the breach window? 🔍 Rotate those first, then verify nothing unauthorized happened.\n\nHow many keys are you rotating tonight? 🔐",
+      "carousel_slides": [
+        {
+          "hook": "Did attackers already copy your keys?",
+          "description": "Railway's internal systems were breached, and stolen secret keys may have been copied before anyone noticed.",
+          "visual_hint": "Dark server room with glowing red lights",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Tokens stayed valid after breach",
+          "description": "Some API tokens remained active longer than the breach was known, so stolen keys could have been used silently.",
+          "visual_hint": "Close-up of a keyhole with digital code overlay",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "keyhole security",
+          "image": "https://images.pexels.com/photos/17325288/pexels-photo-17325288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your Railway logs tonight",
+          "description": "Look for unfamiliar access in your logs—unusual IPs or unexpected API calls are red flags.",
+          "visual_hint": "Computer screen displaying log entries",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer logs",
+          "image": "https://images.pexels.com/photos/4005569/pexels-photo-4005569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Revoke and rotate every secret key",
+          "description": "Every secret key tied to your Railway projects must be revoked and rotated immediately—don't wait for misuse confirmation.",
+          "visual_hint": "Hand turning a key in a lock",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand key lock",
+          "image": "https://images.pexels.com/photos/792032/pexels-photo-792032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this checklist and audit now",
+          "description": "Identify which keys were live during the breach window, rotate those first, then verify no unauthorized actions occurred.",
+          "visual_hint": "Checklist with checkboxes and a pen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist pen",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/getty-keys-red-background-locks.jpg?resize=1200,800",
+      "savedAt": "2026-10-22T14:46:18.313Z",
+      "sourceId": "c5784819fcbfd508440b4f3eaf6b2589"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "anthropic-takes-on-muse-with-claude-duet-its-new-a",
       "prompt_version": "1.0.0",
       "status": "published",
