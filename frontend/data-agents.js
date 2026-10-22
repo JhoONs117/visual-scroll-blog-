@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-makes-its-jev-competitor-widely-available-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+      "slides": [
+        "OpenAI opens its Jev rival to everyone — why now?",
+        "The model was quietly tested with select partners for months",
+        "Its edge is structured decisions, not raw language fluency",
+        "Teams can now route real decision tasks through it",
+        "Test one decision task this week and compare outputs"
+      ],
+      "thread_text": [
+        "1. The model nobody saw coming\n\nOpenAI just dropped its Jev rival on the public — after quietly testing it with select partners for months. Why the sudden reveal now?",
+        "2. It's not about chat\n\nIts real edge is structured decisions, not raw language fluency. That means it's built for routing real business logic, not writing poems.",
+        "3. Your team can use it\n\nTeams can now push actual decision tasks through it — think triage, routing, prioritization. Not just drafting emails.",
+        "4. The quiet test phase\n\nSelect partners spent months testing it behind closed doors. That head start means early adopters already know where it breaks.",
+        "5. Test one task now\n\nPick a single decision task this week and route it through the model. Compare the output to your current process — then decide."
+      ],
+      "video_script": [
+        "OpenAI just opened its Jev rival to everyone.",
+        "It was quietly tested with select partners for months.",
+        "Its edge is structured decisions, not language fluency.",
+        "Teams can now route real decision tasks through it.",
+        "Test one decision task this week and compare outputs."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The model nobody saw coming\n\nOpenAI just dropped its Jev rival on the public — after quietly testing it with select partners for months. Why the sudden reveal now?",
+            "2. It's not about chat\n\nIts real edge is structured decisions, not raw language fluency. That means it's built for routing real business logic, not writing poems.",
+            "3. Your team can use it\n\nTeams can now push actual decision tasks through it — think triage, routing, prioritization. Not just drafting emails.",
+            "4. The quiet test phase\n\nSelect partners spent months testing it behind closed doors. That head start means early adopters already know where it breaks.",
+            "5. Test one task now\n\nPick a single decision task this week and route it through the model. Compare the output to your current process — then decide."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI just opened its Jev rival to everyone.",
+            "It was quietly tested with select partners for months.",
+            "Its edge is structured decisions, not language fluency.",
+            "Teams can now route real decision tasks through it.",
+            "Test one decision task this week and compare outputs."
+          ]
+        },
+        "instagram": {
+          "caption": "OpenAI just made its Jev rival available to everyone, not just select partners.\n\nIt spent months testing quietly with a few teams behind closed doors.\n\nThe edge isn't chat fluency — it's structured decisions: triage, routing, prioritization. 🧠\n\nIf you build or publish workflows, this is the layer that could replace your manual routing rules — not your writing.\n\nWhich single decision in your process would you actually trust a model to route this week? 👇"
+        }
+      },
+      "instagram_caption": "OpenAI just made its Jev rival available to everyone, not just select partners.\n\nIt spent months testing quietly with a few teams behind closed doors.\n\nThe edge isn't chat fluency — it's structured decisions: triage, routing, prioritization. 🧠\n\nIf you build or publish workflows, this is the layer that could replace your manual routing rules — not your writing.\n\nWhich single decision in your process would you actually trust a model to route this week? 👇",
+      "carousel_slides": [
+        {
+          "hook": "OpenAI's Jev rival goes public — why now?",
+          "description": "After months of quiet testing with select partners, OpenAI opens its decision model to everyone. The race for structured AI is heating up.",
+          "visual_hint": "Hands revealing a glowing AI chip",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer chip"
+        },
+        {
+          "hook": "It's not about chat — it's about decisions",
+          "description": "This model's edge is structured decision-making, not language fluency. Built for business logic, not poetry.",
+          "visual_hint": "Flowchart on a digital screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "flowchart diagram",
+          "image": "https://images.pexels.com/photos/7947654/pexels-photo-7947654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your team can now route real decisions",
+          "description": "Push triage, routing, and prioritization through the model. Early adopters already know where it breaks.",
+          "visual_hint": "Team analyzing data on tablets",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "office team",
+          "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The quiet test phase gave partners a head start",
+          "description": "Select partners spent months testing behind closed doors. That head start means they know the model's limits.",
+          "visual_hint": "Closed door with light seeping through",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "closed door",
+          "image": "https://images.pexels.com/photos/25745081/pexels-photo-25745081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this and test one decision task",
+          "description": "Pick a single decision task this week, route it through the model, and compare output to your current process.",
+          "visual_hint": "Person comparing two documents",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "compare documents",
+          "image": "https://images.pexels.com/photos/12899096/pexels-photo-12899096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-12.17.11-PM-1.png?resize=1200,988",
+      "savedAt": "2026-10-22T22:54:06.322Z",
+      "sourceId": "8e6cfc22204fb217ce70d702347f41e6"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "1password-launches-a-way-for-ai-agents-to-log-in-o",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "pubDate": "Thu, 22 Oct 2026 19:07:09 +0000",
+      "slides": [
+        "Can 1Password let AI agents log in without your password?",
+        "It debuts scoped credentials agents use on your behalf.",
+        "Agents never see the raw secret—only a time-limited token.",
+        "Your team can now delegate access without sharing passwords.",
+        "Audit every agent login before trust becomes default."
+      ],
+      "thread_text": [
+        "1. AI Agents Are Logging In\n\n1Password just debuted scoped credentials, letting AI agents act on your behalf without ever seeing your password.",
+        "2. Token, Not Secret\n\nAgents only receive a time-limited token. The raw password stays hidden from the agent.",
+        "3. Delegation Without Sharing\n\nYour team can now grant access to agents without handing over passwords.",
+        "4. Audit Every Login\n\nSee exactly when and how agents log in. Review before trust becomes default.",
+        "5. Take Action Today\n\nCheck your password manager for similar features. If your team uses agents, demand scoped tokens now."
+      ],
+      "video_script": [
+        "1Password now lets AI agents log in without your password.",
+        "They get time-limited tokens, not the raw secret.",
+        "Your team can delegate access without sharing passwords.",
+        "Audit every agent login before you trust them.",
+        "Check if your password manager offers this today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI Agents Are Logging In\n\n1Password just debuted scoped credentials, letting AI agents act on your behalf without ever seeing your password.",
+            "2. Token, Not Secret\n\nAgents only receive a time-limited token. The raw password stays hidden from the agent.",
+            "3. Delegation Without Sharing\n\nYour team can now grant access to agents without handing over passwords.",
+            "4. Audit Every Login\n\nSee exactly when and how agents log in. Review before trust becomes default.",
+            "5. Take Action Today\n\nCheck your password manager for similar features. If your team uses agents, demand scoped tokens now."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "1Password now lets AI agents log in without your password.",
+            "They get time-limited tokens, not the raw secret.",
+            "Your team can delegate access without sharing passwords.",
+            "Audit every agent login before you trust them.",
+            "Check if your password manager offers this today."
+          ]
+        },
+        "instagram": {
+          "caption": "Your AI agent can now log in for you without ever holding your actual password.\n\n1Password rolled out scoped credentials: agents get a time-limited token instead of the raw secret 🔑\n\nThe password stays hidden from the agent the entire time.\n\nYour team can delegate access to agents without handing over a single password.\n\nFor anyone building or publishing with AI tools, this means agent logins can be audited and reviewed before you default to trusting them.\n\nWould you let an agent log into your accounts if you could see every single login it makes? 👀"
+        }
+      },
+      "instagram_caption": "Your AI agent can now log in for you without ever holding your actual password.\n\n1Password rolled out scoped credentials: agents get a time-limited token instead of the raw secret 🔑\n\nThe password stays hidden from the agent the entire time.\n\nYour team can delegate access to agents without handing over a single password.\n\nFor anyone building or publishing with AI tools, this means agent logins can be audited and reviewed before you default to trusting them.\n\nWould you let an agent log into your accounts if you could see every single login it makes? 👀",
+      "carousel_slides": [
+        {
+          "hook": "AI logs in, never sees password",
+          "description": "1Password debuts scoped credentials so AI agents act for you without ever seeing your raw password.",
+          "visual_hint": "AI agent interacting with login screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robot hand keyboard"
+        },
+        {
+          "hook": "Agents get tokens, not secrets",
+          "description": "Agents receive only a time-limited token; the raw secret stays hidden from the agent entirely.",
+          "visual_hint": "Time-limited token displayed on screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "digital token security",
+          "image": "https://images.pexels.com/photos/5474301/pexels-photo-5474301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Delegate access without sharing passwords",
+          "description": "Your team can now grant agent access without handing over passwords, reducing credential sprawl.",
+          "visual_hint": "Team dashboard showing delegated access",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "office team computer",
+          "image": "https://images.pexels.com/photos/12899191/pexels-photo-12899191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit every agent login before trust",
+          "description": "See exactly when and how agents log in; review activity before trust becomes the default.",
+          "visual_hint": "Login audit trail with timestamps",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "security audit log",
+          "image": "https://images.pexels.com/photos/5561909/pexels-photo-5561909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Demand scoped tokens for your agents",
+          "description": "Check your password manager for similar features; if your team uses agents, ask for scoped tokens now.",
+          "visual_hint": "Call-to-action with password manager interface",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "password manager screen",
+          "image": "https://images.pexels.com/photos/11363706/pexels-photo-11363706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675",
+      "savedAt": "2026-10-22T22:53:57.370Z",
+      "sourceId": "c1230fd4012baae4263c7625929391b0"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "rivian-buys-world-model-startup-to-accelerate-self",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+      "link": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+      "pubDate": "Thu, 22 Oct 2026 21:05:05 +0000",
+      "slides": [
+        "Why does Rivian need a world model startup?",
+        "The target builds simulated driving environments",
+        "But simulation-to-reality gaps remain unsolved",
+        "Expect faster autonomy updates, shorter test cycles",
+        "Ask your AV partner what their sim gap is"
+      ],
+      "thread_text": [
+        "1. The Real Bottleneck\n\nRivian is betting on a world model startup to build simulated driving environments, aiming to close the gap between virtual testing and real-world autonomy.",
+        "2. Simulation Edge\n\nThe target startup generates realistic driving scenarios that let Rivian test edge cases at scale, far beyond what physical road testing allows.",
+        "3. The Gap That Won't Close\n\nSim-to-real transfer remains unsolved: what works perfectly in simulation often fails on actual roads, and no one has fully cracked why.",
+        "4. Faster Loops, Shorter Cycles\n\nIf the gap narrows, expect autonomy updates to ship faster and test cycles to shrink dramatically, compressing years of validation into months.",
+        "5. Ask Your AV Partner\n\nAsk your autonomous vehicle partner what their sim gap is. If they can't quantify it, you're the one absorbing the risk."
+      ],
+      "video_script": [
+        "Rivian needs a world model startup to build simulated driving environments.",
+        "The target generates realistic scenarios for testing edge cases at scale.",
+        "But simulation-to-reality gaps remain unsolved and cause real-world failures.",
+        "Expect faster autonomy updates and much shorter test cycles if it works.",
+        "Ask your AV partner what their sim gap is before you trust their timeline."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Real Bottleneck\n\nRivian is betting on a world model startup to build simulated driving environments, aiming to close the gap between virtual testing and real-world autonomy.",
+            "2. Simulation Edge\n\nThe target startup generates realistic driving scenarios that let Rivian test edge cases at scale, far beyond what physical road testing allows.",
+            "3. The Gap That Won't Close\n\nSim-to-real transfer remains unsolved: what works perfectly in simulation often fails on actual roads, and no one has fully cracked why.",
+            "4. Faster Loops, Shorter Cycles\n\nIf the gap narrows, expect autonomy updates to ship faster and test cycles to shrink dramatically, compressing years of validation into months.",
+            "5. Ask Your AV Partner\n\nAsk your autonomous vehicle partner what their sim gap is. If they can't quantify it, you're the one absorbing the risk."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Rivian needs a world model startup to build simulated driving environments.",
+            "The target generates realistic scenarios for testing edge cases at scale.",
+            "But simulation-to-reality gaps remain unsolved and cause real-world failures.",
+            "Expect faster autonomy updates and much shorter test cycles if it works.",
+            "Ask your AV partner what their sim gap is before you trust their timeline."
+          ]
+        },
+        "instagram": {
+          "caption": "Rivian just bought a startup that builds simulated driving environments.\n\nThe goal: test self-driving edge cases at scale, far beyond what physical road testing allows 🚗\n\nBut the sim-to-real gap remains unsolved. What works perfectly in simulation often fails on real roads.\n\nIf that gap narrows, autonomy updates ship faster and test cycles shrink — years of validation compressed into months ⏱️\n\nFor anyone covering or building in AV, the real question isn't who has the best sim. It's who can quantify their sim gap 📊\n\nAsk your AV partner what their sim gap is. If they can't answer, you're absorbing the risk 🔍"
+        }
+      },
+      "instagram_caption": "Rivian just bought a startup that builds simulated driving environments.\n\nThe goal: test self-driving edge cases at scale, far beyond what physical road testing allows 🚗\n\nBut the sim-to-real gap remains unsolved. What works perfectly in simulation often fails on real roads.\n\nIf that gap narrows, autonomy updates ship faster and test cycles shrink — years of validation compressed into months ⏱️\n\nFor anyone covering or building in AV, the real question isn't who has the best sim. It's who can quantify their sim gap 📊\n\nAsk your AV partner what their sim gap is. If they can't answer, you're absorbing the risk 🔍",
+      "carousel_slides": [
+        {
+          "hook": "What if your AV partner hides a sim gap?",
+          "description": "Rivian bets on a world model startup to simulate driving environments, but the sim-to-real gap remains unsolved and unquantified.",
+          "visual_hint": "Rivian electric truck on test track",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Rivian truck"
+        },
+        {
+          "hook": "Simulated worlds test edge cases at scale",
+          "description": "The startup generates realistic driving scenarios, letting Rivian test far beyond physical road limits and scale validation dramatically.",
+          "visual_hint": "Digital dashboard with 3D road map",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "driving simulator",
+          "image": "https://images.pexels.com/photos/28993110/pexels-photo-28993110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Simulation perfection fails on real roads",
+          "description": "Sim-to-real transfer stays unsolved: what works perfectly in simulation often fails on actual roads, and nobody has fully cracked why.",
+          "visual_hint": "Split screen: virtual vs real road",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "road split",
+          "image": "https://images.pexels.com/photos/39492753/pexels-photo-39492753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Shorter test cycles mean faster autonomy updates",
+          "description": "If the gap narrows, autonomy updates ship faster and test cycles shrink, compressing years of validation into months of work.",
+          "visual_hint": "Engineer monitoring test data on screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "engineer computer",
+          "image": "https://images.pexels.com/photos/12899196/pexels-photo-12899196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: ask your AV partner now",
+          "description": "Ask your autonomous vehicle partner what their sim gap is. If they can't quantify it, you're absorbing the risk. Comment below.",
+          "visual_hint": "Hand holding phone with question mark",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "phone question",
+          "image": "https://images.pexels.com/photos/12911958/pexels-photo-12911958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/Rivian-Universal-Hands-Free.jpg?resize=1200,900",
+      "savedAt": "2026-10-22T22:53:49.200Z",
+      "sourceId": "ff64b9462e2dc8822296e51baaf92548"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-working-on-new-30b-raise-at-1-25t-valuation",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "pubDate": "Thu, 22 Oct 2026 22:08:24 +0000",
+      "slides": [
+        "Why does OpenAI need $30B before going public?",
+        "Investors are valuing the company at $1.25 trillion",
+        "But the raise comes before an IPO, not after",
+        "Founders raising this late usually signal something else",
+        "Ask what the IPO timeline really hides"
+      ],
+      "thread_text": [
+        "1. $30B Before the Bell\n\nOpenAI is raising $30B in private markets before any IPO. That means the public won't get a say until the biggest checks are already written.",
+        "2. A $1.25T Price Tag\n\nInvestors are valuing the company at $1.25 trillion. That's more than most countries' GDP, set by a handful of funds, not the market.",
+        "3. Raise First, List Later\n\nThis round closes before an IPO, not after. Founders usually go public to raise this kind of cash — doing it privately flips the script.",
+        "4. Late-Stage Signal\n\nFounders raising this late usually signal something else: they need capital fast, or they don't want the scrutiny of a public filing yet.",
+        "5. What the Date Hides\n\nAsk what the IPO timeline really hides. If the company won't say when, it's telling you something about what the numbers look like today."
+      ],
+      "video_script": [
+        "OpenAI needs thirty billion before it goes public.",
+        "Investors are saying it's worth one point two five trillion.",
+        "But this raise happens before the IPO, not after.",
+        "Founders raising this late usually signal something else.",
+        "So ask what the IPO timeline really hides."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $30B Before the Bell\n\nOpenAI is raising $30B in private markets before any IPO. That means the public won't get a say until the biggest checks are already written.",
+            "2. A $1.25T Price Tag\n\nInvestors are valuing the company at $1.25 trillion. That's more than most countries' GDP, set by a handful of funds, not the market.",
+            "3. Raise First, List Later\n\nThis round closes before an IPO, not after. Founders usually go public to raise this kind of cash — doing it privately flips the script.",
+            "4. Late-Stage Signal\n\nFounders raising this late usually signal something else: they need capital fast, or they don't want the scrutiny of a public filing yet.",
+            "5. What the Date Hides\n\nAsk what the IPO timeline really hides. If the company won't say when, it's telling you something about what the numbers look like today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI needs thirty billion before it goes public.",
+            "Investors are saying it's worth one point two five trillion.",
+            "But this raise happens before the IPO, not after.",
+            "Founders raising this late usually signal something else.",
+            "So ask what the IPO timeline really hides."
+          ]
+        },
+        "instagram": {
+          "caption": "$30 billion is being raised privately before OpenAI ever lists a share.\n\nThat money comes from a handful of funds, not the public market — and they're pricing the company at $1.25 trillion 💰 before any of us get a vote.\n\nFounders usually go public to raise cash like this. Doing it privately, this late, means they either need capital fast or don't want the scrutiny of a public filing yet.\n\nSo when your tools and workflows start running on OpenAI models, the terms behind them were set by private investors — not by anyone who'll answer to you.\n\nIf the IPO date stays vague, what does that tell you about the numbers today? 👀"
+        }
+      },
+      "instagram_caption": "$30 billion is being raised privately before OpenAI ever lists a share.\n\nThat money comes from a handful of funds, not the public market — and they're pricing the company at $1.25 trillion 💰 before any of us get a vote.\n\nFounders usually go public to raise cash like this. Doing it privately, this late, means they either need capital fast or don't want the scrutiny of a public filing yet.\n\nSo when your tools and workflows start running on OpenAI models, the terms behind them were set by private investors — not by anyone who'll answer to you.\n\nIf the IPO date stays vague, what does that tell you about the numbers today? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Why raise $30B before going public?",
+          "description": "OpenAI is raising $30B privately before any IPO, so the public won't get a say until the biggest checks are already written.",
+          "visual_hint": "Large check being signed in private office",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "check signing"
+        },
+        {
+          "hook": "A $1.25 trillion price tag",
+          "description": "Investors value OpenAI at $1.25 trillion—more than most countries' GDP—set by a handful of funds, not the open market.",
+          "visual_hint": "Stack of gold bars with upward arrow",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "gold bars",
+          "image": "https://images.pexels.com/photos/29336321/pexels-photo-29336321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Raise first, list later?",
+          "description": "This round closes before an IPO, not after. Founders usually go public to raise this kind of cash—doing it privately flips the script.",
+          "visual_hint": "IPO bell with 'private' stamp overlay",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock exchange bell",
+          "image": "https://images.pexels.com/photos/40365569/pexels-photo-40365569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Late-stage raise signals something else",
+          "description": "Founders raising this late usually signal they need capital fast or don't want the scrutiny of a public filing yet.",
+          "visual_hint": "Hand holding magnifying glass over documents",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "magnifying glass documents",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: what the IPO date hides",
+          "description": "If the company won't say when, it's telling you something about today's numbers. Save this and ask what the timeline hides.",
+          "visual_hint": "Calendar with question mark over IPO date",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "calendar question mark",
+          "image": "https://images.pexels.com/photos/29996963/pexels-photo-29996963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
+      "savedAt": "2026-10-22T22:53:39.144Z",
+      "sourceId": "c4c762c6b7472ecc9c15313d2d103e36"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "1password-lets-ai-agents-use-your-passwords-withou",
       "prompt_version": "1.0.0",
       "status": "published",

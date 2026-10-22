@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-working-on-new-30b-raise-at-1-25t-valuation",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+  "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+  "pubDate": "Thu, 22 Oct 2026 22:08:24 +0000",
+  "slides": [
+    "Why does OpenAI need $30B before going public?",
+    "Investors are valuing the company at $1.25 trillion",
+    "But the raise comes before an IPO, not after",
+    "Founders raising this late usually signal something else",
+    "Ask what the IPO timeline really hides"
+  ],
+  "thread_text": [
+    "1. $30B Before the Bell\n\nOpenAI is raising $30B in private markets before any IPO. That means the public won't get a say until the biggest checks are already written.",
+    "2. A $1.25T Price Tag\n\nInvestors are valuing the company at $1.25 trillion. That's more than most countries' GDP, set by a handful of funds, not the market.",
+    "3. Raise First, List Later\n\nThis round closes before an IPO, not after. Founders usually go public to raise this kind of cash — doing it privately flips the script.",
+    "4. Late-Stage Signal\n\nFounders raising this late usually signal something else: they need capital fast, or they don't want the scrutiny of a public filing yet.",
+    "5. What the Date Hides\n\nAsk what the IPO timeline really hides. If the company won't say when, it's telling you something about what the numbers look like today."
+  ],
+  "video_script": [
+    "OpenAI needs thirty billion before it goes public.",
+    "Investors are saying it's worth one point two five trillion.",
+    "But this raise happens before the IPO, not after.",
+    "Founders raising this late usually signal something else.",
+    "So ask what the IPO timeline really hides."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $30B Before the Bell\n\nOpenAI is raising $30B in private markets before any IPO. That means the public won't get a say until the biggest checks are already written.",
+        "2. A $1.25T Price Tag\n\nInvestors are valuing the company at $1.25 trillion. That's more than most countries' GDP, set by a handful of funds, not the market.",
+        "3. Raise First, List Later\n\nThis round closes before an IPO, not after. Founders usually go public to raise this kind of cash — doing it privately flips the script.",
+        "4. Late-Stage Signal\n\nFounders raising this late usually signal something else: they need capital fast, or they don't want the scrutiny of a public filing yet.",
+        "5. What the Date Hides\n\nAsk what the IPO timeline really hides. If the company won't say when, it's telling you something about what the numbers look like today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI needs thirty billion before it goes public.",
+        "Investors are saying it's worth one point two five trillion.",
+        "But this raise happens before the IPO, not after.",
+        "Founders raising this late usually signal something else.",
+        "So ask what the IPO timeline really hides."
+      ]
+    },
+    "instagram": {
+      "caption": "$30 billion is being raised privately before OpenAI ever lists a share.\n\nThat money comes from a handful of funds, not the public market — and they're pricing the company at $1.25 trillion 💰 before any of us get a vote.\n\nFounders usually go public to raise cash like this. Doing it privately, this late, means they either need capital fast or don't want the scrutiny of a public filing yet.\n\nSo when your tools and workflows start running on OpenAI models, the terms behind them were set by private investors — not by anyone who'll answer to you.\n\nIf the IPO date stays vague, what does that tell you about the numbers today? 👀"
+    }
+  },
+  "instagram_caption": "$30 billion is being raised privately before OpenAI ever lists a share.\n\nThat money comes from a handful of funds, not the public market — and they're pricing the company at $1.25 trillion 💰 before any of us get a vote.\n\nFounders usually go public to raise cash like this. Doing it privately, this late, means they either need capital fast or don't want the scrutiny of a public filing yet.\n\nSo when your tools and workflows start running on OpenAI models, the terms behind them were set by private investors — not by anyone who'll answer to you.\n\nIf the IPO date stays vague, what does that tell you about the numbers today? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Why raise $30B before going public?",
+      "description": "OpenAI is raising $30B privately before any IPO, so the public won't get a say until the biggest checks are already written.",
+      "visual_hint": "Large check being signed in private office",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "check signing"
+    },
+    {
+      "hook": "A $1.25 trillion price tag",
+      "description": "Investors value OpenAI at $1.25 trillion—more than most countries' GDP—set by a handful of funds, not the open market.",
+      "visual_hint": "Stack of gold bars with upward arrow",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "gold bars",
+      "image": "https://images.pexels.com/photos/29336321/pexels-photo-29336321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Raise first, list later?",
+      "description": "This round closes before an IPO, not after. Founders usually go public to raise this kind of cash—doing it privately flips the script.",
+      "visual_hint": "IPO bell with 'private' stamp overlay",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock exchange bell",
+      "image": "https://images.pexels.com/photos/40365569/pexels-photo-40365569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Late-stage raise signals something else",
+      "description": "Founders raising this late usually signal they need capital fast or don't want the scrutiny of a public filing yet.",
+      "visual_hint": "Hand holding magnifying glass over documents",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "magnifying glass documents",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: what the IPO date hides",
+      "description": "If the company won't say when, it's telling you something about today's numbers. Save this and ask what the timeline hides.",
+      "visual_hint": "Calendar with question mark over IPO date",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar question mark",
+      "image": "https://images.pexels.com/photos/29996963/pexels-photo-29996963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
+  "savedAt": "2026-10-22T22:53:39.144Z",
+  "sourceId": "c4c762c6b7472ecc9c15313d2d103e36"
+}

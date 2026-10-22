@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-makes-its-jev-competitor-widely-available-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+  "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+  "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+  "slides": [
+    "OpenAI opens its Jev rival to everyone — why now?",
+    "The model was quietly tested with select partners for months",
+    "Its edge is structured decisions, not raw language fluency",
+    "Teams can now route real decision tasks through it",
+    "Test one decision task this week and compare outputs"
+  ],
+  "thread_text": [
+    "1. The model nobody saw coming\n\nOpenAI just dropped its Jev rival on the public — after quietly testing it with select partners for months. Why the sudden reveal now?",
+    "2. It's not about chat\n\nIts real edge is structured decisions, not raw language fluency. That means it's built for routing real business logic, not writing poems.",
+    "3. Your team can use it\n\nTeams can now push actual decision tasks through it — think triage, routing, prioritization. Not just drafting emails.",
+    "4. The quiet test phase\n\nSelect partners spent months testing it behind closed doors. That head start means early adopters already know where it breaks.",
+    "5. Test one task now\n\nPick a single decision task this week and route it through the model. Compare the output to your current process — then decide."
+  ],
+  "video_script": [
+    "OpenAI just opened its Jev rival to everyone.",
+    "It was quietly tested with select partners for months.",
+    "Its edge is structured decisions, not language fluency.",
+    "Teams can now route real decision tasks through it.",
+    "Test one decision task this week and compare outputs."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The model nobody saw coming\n\nOpenAI just dropped its Jev rival on the public — after quietly testing it with select partners for months. Why the sudden reveal now?",
+        "2. It's not about chat\n\nIts real edge is structured decisions, not raw language fluency. That means it's built for routing real business logic, not writing poems.",
+        "3. Your team can use it\n\nTeams can now push actual decision tasks through it — think triage, routing, prioritization. Not just drafting emails.",
+        "4. The quiet test phase\n\nSelect partners spent months testing it behind closed doors. That head start means early adopters already know where it breaks.",
+        "5. Test one task now\n\nPick a single decision task this week and route it through the model. Compare the output to your current process — then decide."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI just opened its Jev rival to everyone.",
+        "It was quietly tested with select partners for months.",
+        "Its edge is structured decisions, not language fluency.",
+        "Teams can now route real decision tasks through it.",
+        "Test one decision task this week and compare outputs."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI just made its Jev rival available to everyone, not just select partners.\n\nIt spent months testing quietly with a few teams behind closed doors.\n\nThe edge isn't chat fluency — it's structured decisions: triage, routing, prioritization. 🧠\n\nIf you build or publish workflows, this is the layer that could replace your manual routing rules — not your writing.\n\nWhich single decision in your process would you actually trust a model to route this week? 👇"
+    }
+  },
+  "instagram_caption": "OpenAI just made its Jev rival available to everyone, not just select partners.\n\nIt spent months testing quietly with a few teams behind closed doors.\n\nThe edge isn't chat fluency — it's structured decisions: triage, routing, prioritization. 🧠\n\nIf you build or publish workflows, this is the layer that could replace your manual routing rules — not your writing.\n\nWhich single decision in your process would you actually trust a model to route this week? 👇",
+  "carousel_slides": [
+    {
+      "hook": "OpenAI's Jev rival goes public — why now?",
+      "description": "After months of quiet testing with select partners, OpenAI opens its decision model to everyone. The race for structured AI is heating up.",
+      "visual_hint": "Hands revealing a glowing AI chip",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer chip"
+    },
+    {
+      "hook": "It's not about chat — it's about decisions",
+      "description": "This model's edge is structured decision-making, not language fluency. Built for business logic, not poetry.",
+      "visual_hint": "Flowchart on a digital screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "flowchart diagram",
+      "image": "https://images.pexels.com/photos/7947654/pexels-photo-7947654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your team can now route real decisions",
+      "description": "Push triage, routing, and prioritization through the model. Early adopters already know where it breaks.",
+      "visual_hint": "Team analyzing data on tablets",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "office team",
+      "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The quiet test phase gave partners a head start",
+      "description": "Select partners spent months testing behind closed doors. That head start means they know the model's limits.",
+      "visual_hint": "Closed door with light seeping through",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "closed door",
+      "image": "https://images.pexels.com/photos/25745081/pexels-photo-25745081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and test one decision task",
+      "description": "Pick a single decision task this week, route it through the model, and compare output to your current process.",
+      "visual_hint": "Person comparing two documents",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "compare documents",
+      "image": "https://images.pexels.com/photos/12899096/pexels-photo-12899096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-12.17.11-PM-1.png?resize=1200,988",
+  "savedAt": "2026-10-22T22:54:06.322Z",
+  "sourceId": "8e6cfc22204fb217ce70d702347f41e6"
+}
