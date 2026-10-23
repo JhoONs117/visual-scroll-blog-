@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "former-openai-science-lead-launches-warp-science-t",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+    "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+    "pubDate": "Thu, 22 Oct 2026 18:38:47 +0000",
+    "slides": [
+      "Why would OpenAI's science lead walk away now?",
+      "Kai Wang spent years pushing AI into discovery",
+      "His new company, Warp Science, bets robots run experiments",
+      "Your wet lab costs may drop before competitors notice",
+      "Ask your lab lead what a robot could test this week"
+    ],
+    "thread_text": [
+      "1. Why would OpenAI's science lead walk away now?\n\nKai Wang spent years pushing AI into discovery. He just left to bet on robots running experiments.",
+      "2. Warp Science bets on robot labs\n\nHis new company doesn't sell software. It sells robotic arms that run wet lab experiments end to end.",
+      "3. Your wet lab costs could drop\n\nWhile competitors still hire postdocs to pipette, automated runs cut reagent waste and overnight cycles.",
+      "4. Robot experiments run while you sleep\n\nWarp's pitch: machines test hypotheses 24/7, so iteration speed stops depending on human hours.",
+      "5. What could a robot test for you?\n\nAsk your lab lead which single experiment this week could run without a human hand. That's your starting point."
+    ],
+    "video_script": [
+      "OpenAI's science lead just walked away.",
+      "Kai Wang bet on robots running experiments.",
+      "His new company is called Warp Science.",
+      "Robot labs could cut your wet lab costs.",
+      "Ask your lab lead what a robot could test."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why would OpenAI's science lead walk away now?\n\nKai Wang spent years pushing AI into discovery. He just left to bet on robots running experiments.",
+          "2. Warp Science bets on robot labs\n\nHis new company doesn't sell software. It sells robotic arms that run wet lab experiments end to end.",
+          "3. Your wet lab costs could drop\n\nWhile competitors still hire postdocs to pipette, automated runs cut reagent waste and overnight cycles.",
+          "4. Robot experiments run while you sleep\n\nWarp's pitch: machines test hypotheses 24/7, so iteration speed stops depending on human hours.",
+          "5. What could a robot test for you?\n\nAsk your lab lead which single experiment this week could run without a human hand. That's your starting point."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI's science lead just walked away.",
+          "Kai Wang bet on robots running experiments.",
+          "His new company is called Warp Science.",
+          "Robot labs could cut your wet lab costs.",
+          "Ask your lab lead what a robot could test."
+        ]
+      },
+      "instagram": {
+        "caption": "Robotic arms now run wet lab experiments end to end — that's the product Warp Science sells, not software.\n\nKai Wang spent years pushing AI into discovery at OpenAI. He just left to bet on machines doing the bench work themselves.\n\nHis pitch: experiments run overnight, reagent waste drops, and iteration speed stops depending on human hours. 🤖\n\nIf your work touches research or content about science, this is a shift in who — or what — generates the data you cite. 🧪\n\nAsk your lab lead which single experiment this week could run without a human hand. That's your starting point. 🔬"
+      }
+    },
+    "instagram_caption": "Robotic arms now run wet lab experiments end to end — that's the product Warp Science sells, not software.\n\nKai Wang spent years pushing AI into discovery at OpenAI. He just left to bet on machines doing the bench work themselves.\n\nHis pitch: experiments run overnight, reagent waste drops, and iteration speed stops depending on human hours. 🤖\n\nIf your work touches research or content about science, this is a shift in who — or what — generates the data you cite. 🧪\n\nAsk your lab lead which single experiment this week could run without a human hand. That's your starting point. 🔬",
+    "carousel_slides": [
+      {
+        "hook": "OpenAI's science lead just walked away. Why?",
+        "description": "Kai Wang left OpenAI to launch Warp Science, betting robots will run wet lab experiments end to end.",
+        "visual_hint": "person leaving office building",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "office building exit"
+      },
+      {
+        "hook": "He spent years pushing AI into discovery",
+        "description": "Kai Wang's new company doesn't sell software—it sells robotic arms that automate wet lab experiments completely.",
+        "visual_hint": "robotic arm in laboratory",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "robotic arm laboratory",
+        "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your wet lab costs could drop fast",
+        "description": "Automated runs cut reagent waste and enable overnight cycles, while competitors still hire postdocs to pipette manually.",
+        "visual_hint": "pipette and reagent bottles",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "laboratory pipette",
+        "image": "https://images.pexels.com/photos/8940480/pexels-photo-8940480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Robot experiments run while you sleep",
+        "description": "Warp's pitch: machines test hypotheses 24/7, so iteration speed stops depending on human working hours.",
+        "visual_hint": "robot working overnight lab",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "night laboratory",
+        "image": "https://images.pexels.com/photos/14829613/pexels-photo-14829613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: what could a robot test for you?",
+        "description": "Ask your lab lead which single experiment this week could run without a human hand. That's your starting point.",
+        "visual_hint": "hand pointing at robot",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "human hand robot",
+        "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?w=1024",
+    "savedAt": "2026-10-23T14:33:30.409Z",
+    "sourceId": "dfbd4bb3a83d37cf1640b6ff308772df"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "warhound-raises-200m-to-engineer-war-dogs-and-arm-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+    "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+    "pubDate": "Thu, 22 Oct 2026 23:15:00 +0000",
+    "slides": [
+      "Warhound raises $200M, but how will engineered war dogs change combat?",
+      "The funding arms these dogs with Anduril's advanced gear.",
+      "Unlike normal canines, these are bred to follow tactical commands.",
+      "For soldiers, this could mean safer reconnaissance in urban ruins.",
+      "Ask: should we trust bio-engineered animals with lethal tasks?"
+    ],
+    "thread_text": [
+      "1. $200M for War Dogs\n\nWarhound just raised $200M to build engineered war dogs. These aren't pets—they're bred to follow tactical commands and carry Anduril's gear.",
+      "2. Anduril's Arsenal\n\nEach dog is equipped with Anduril's advanced sensors and targeting systems. They can spot enemies and relay coordinates in real time.",
+      "3. Battlefield Role\n\nFor soldiers, these dogs mean safer reconnaissance in urban ruins. They can scout ahead, sniff out ambushes, and reduce human risk.",
+      "4. Ethical Dilemma\n\nBio-engineered animals with lethal tasks raise hard questions. Can we trust them to make life-or-death decisions?",
+      "5. Your Call\n\nShould we deploy bio-engineered animals for combat? Share your take and tag someone who needs to see this."
+    ],
+    "video_script": [
+      "Warhound raises two hundred million for engineered war dogs.",
+      "Equipped with Anduril gear, they follow tactical commands.",
+      "They scout urban ruins, keeping soldiers out of danger.",
+      "But trusting bio-engineered animals with lethal tasks is controversial.",
+      "Should we allow this? Let us know your thoughts."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $200M for War Dogs\n\nWarhound just raised $200M to build engineered war dogs. These aren't pets—they're bred to follow tactical commands and carry Anduril's gear.",
+          "2. Anduril's Arsenal\n\nEach dog is equipped with Anduril's advanced sensors and targeting systems. They can spot enemies and relay coordinates in real time.",
+          "3. Battlefield Role\n\nFor soldiers, these dogs mean safer reconnaissance in urban ruins. They can scout ahead, sniff out ambushes, and reduce human risk.",
+          "4. Ethical Dilemma\n\nBio-engineered animals with lethal tasks raise hard questions. Can we trust them to make life-or-death decisions?",
+          "5. Your Call\n\nShould we deploy bio-engineered animals for combat? Share your take and tag someone who needs to see this."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Warhound raises two hundred million for engineered war dogs.",
+          "Equipped with Anduril gear, they follow tactical commands.",
+          "They scout urban ruins, keeping soldiers out of danger.",
+          "But trusting bio-engineered animals with lethal tasks is controversial.",
+          "Should we allow this? Let us know your thoughts."
+        ]
+      },
+      "instagram": {
+        "caption": "$200 million just went into breeding dogs that carry weapons tech and follow tactical commands.\n\nWarhound raised the funding to engineer canines equipped with Anduril's sensors and targeting systems — they scout urban ruins and relay enemy coordinates in real time 🐕\n\nThe pitch: fewer soldiers sent into ambush zones.\n\nBut a bio-engineered animal making life-or-death calls on a battlefield is a different question than a drone.\n\nIf you write or publish on defense tech, this story will land in your feed whether you cover it or not.\n\nWould you trust an engineered dog to decide what's a threat?"
+      }
+    },
+    "instagram_caption": "$200 million just went into breeding dogs that carry weapons tech and follow tactical commands.\n\nWarhound raised the funding to engineer canines equipped with Anduril's sensors and targeting systems — they scout urban ruins and relay enemy coordinates in real time 🐕\n\nThe pitch: fewer soldiers sent into ambush zones.\n\nBut a bio-engineered animal making life-or-death calls on a battlefield is a different question than a drone.\n\nIf you write or publish on defense tech, this story will land in your feed whether you cover it or not.\n\nWould you trust an engineered dog to decide what's a threat?",
+    "carousel_slides": [
+      {
+        "hook": "Trust bio-engineered dogs with lethal tasks?",
+        "description": "Warhound's $200M funding raises ethical questions about deploying engineered animals for combat decisions.",
+        "visual_hint": "Robotic dog with military gear",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot dog military"
+      },
+      {
+        "hook": "Anduril gear arms these war dogs",
+        "description": "Each dog carries advanced sensors and targeting systems to spot enemies and relay coordinates in real time.",
+        "visual_hint": "Sensor-equipped dog with soldier",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "military dog equipment",
+        "image": "https://images.pexels.com/photos/14029418/pexels-photo-14029418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Bred to follow tactical commands",
+        "description": "Unlike normal canines, these dogs are engineered specifically for military operations and combat roles.",
+        "visual_hint": "Working dog in training",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "working dog training",
+        "image": "https://images.pexels.com/photos/30510444/pexels-photo-30510444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Safer reconnaissance in urban ruins",
+        "description": "For soldiers, these dogs scout ahead, sniff out ambushes, and reduce human risk in dangerous environments.",
+        "visual_hint": "Dog scouting ruined building",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "soldier ruins reconnaissance",
+        "image": "https://images.pexels.com/photos/15358385/pexels-photo-15358385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Should we deploy bio-engineered animals?",
+        "description": "Share your take and tag someone who needs to see this debate.",
+        "visual_hint": "Comment and share icons",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "social media icons",
+        "image": "https://images.pexels.com/photos/11681097/pexels-photo-11681097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Warhound.png?resize=1200,675",
+    "savedAt": "2026-10-23T14:33:20.021Z",
+    "sourceId": "c9ea45c599794ec3e7d7406e1662d3e6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "mark-zuckerberg-s-creative-plan-to-pay-california-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+    "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+    "pubDate": "Thu, 22 Oct 2026 23:50:41 +0000",
+    "slides": [
+      "Can Zuckerberg pay California's billionaire tax and keep Meta?",
+      "The proposed tax targets unrealized gains, not just income",
+      "He found a creative workaround most billionaires overlook",
+      "Founders in high-tax states may soon face the same choice",
+      "Ask your accountant about control-preserving strategies now"
+    ],
+    "thread_text": [
+      "1. The tax hit he dodged\n\nZuckerberg's tax bill on unrealized Meta gains would be massive, but he found a way to keep control without selling shares.",
+      "2. Not a wealth tax\n\nCalifornia's proposal targets paper gains, forcing billionaires to pay on unsold stock. Most assume it means selling.",
+      "3. The overlooked move\n\nHe used a strategy that lets him pay the tax without dumping shares: borrowing against his stake.",
+      "4. Founders in the crosshairs\n\nIf you built a company in a high-tax state, this same dilemma could land on your desk soon.",
+      "5. Your move\n\nAsk your accountant about control-preserving strategies before the tax man combs your gains. Does your plan survive?"
+    ],
+    "video_script": [
+      "Zuckerberg faces a huge tax on Meta gains.",
+      "Most think he'd have to sell shares.",
+      "But he found a way to pay without selling.",
+      "If you're a founder in a high-tax state,",
+      "ask your accountant about control-preserving strategies."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The tax hit he dodged\n\nZuckerberg's tax bill on unrealized Meta gains would be massive, but he found a way to keep control without selling shares.",
+          "2. Not a wealth tax\n\nCalifornia's proposal targets paper gains, forcing billionaires to pay on unsold stock. Most assume it means selling.",
+          "3. The overlooked move\n\nHe used a strategy that lets him pay the tax without dumping shares: borrowing against his stake.",
+          "4. Founders in the crosshairs\n\nIf you built a company in a high-tax state, this same dilemma could land on your desk soon.",
+          "5. Your move\n\nAsk your accountant about control-preserving strategies before the tax man combs your gains. Does your plan survive?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Zuckerberg faces a huge tax on Meta gains.",
+          "Most think he'd have to sell shares.",
+          "But he found a way to pay without selling.",
+          "If you're a founder in a high-tax state,",
+          "ask your accountant about control-preserving strategies."
+        ]
+      },
+      "instagram": {
+        "caption": "California’s proposed billionaire tax would force Zuckerberg to pay on unsold Meta stock—most assume that means selling shares and losing control.\n\nThe tax targets unrealized gains, not income, so founders could owe millions on paper wealth without cash on hand.\n\nHis workaround: borrowing against his stake to pay the bill without dumping shares.\n\nIf you built a company in a high-tax state, this same choice may land on your desk sooner than you think. 💼\n\nDo you know if your equity plan survives a tax on paper gains? Ask your accountant now. 📊"
+      }
+    },
+    "instagram_caption": "California’s proposed billionaire tax would force Zuckerberg to pay on unsold Meta stock—most assume that means selling shares and losing control.\n\nThe tax targets unrealized gains, not income, so founders could owe millions on paper wealth without cash on hand.\n\nHis workaround: borrowing against his stake to pay the bill without dumping shares.\n\nIf you built a company in a high-tax state, this same choice may land on your desk sooner than you think. 💼\n\nDo you know if your equity plan survives a tax on paper gains? Ask your accountant now. 📊",
+    "carousel_slides": [
+      {
+        "hook": "Can Zuckerberg pay California's billionaire tax and keep Meta?",
+        "description": "Proposed tax on unrealized gains could force billionaires to sell shares, but Zuckerberg found a workaround to retain control.",
+        "visual_hint": "Zuckerberg silhouette with Meta logo",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Mark Zuckerberg"
+      },
+      {
+        "hook": "The proposed tax targets unrealized gains, not just income",
+        "description": "California's plan taxes paper gains on unsold stock, forcing billionaires to pay without selling shares.",
+        "visual_hint": "Stock chart with upward arrow",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "He found a creative workaround most billionaires overlook",
+        "description": "Zuckerberg can borrow against his stake to pay the tax without dumping shares, preserving control.",
+        "visual_hint": "Handshake over contract with pen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "loan documents",
+        "image": "https://images.pexels.com/photos/7821466/pexels-photo-7821466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Founders in high-tax states may soon face the same choice",
+        "description": "If you built a company in a high-tax state, this dilemma could land on your desk soon.",
+        "visual_hint": "Business person looking at map",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "business meeting",
+        "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this post before the tax man combs your gains",
+        "description": "Ask your accountant about control-preserving strategies now to protect your company.",
+        "visual_hint": "Accountant with calculator and documents",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "accountant office",
+        "image": "https://images.pexels.com/photos/8297076/pexels-photo-8297076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
+    "savedAt": "2026-10-23T14:33:09.027Z",
+    "sourceId": "8dc6f2707dfe63929bc0fb7e45057dc6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "left-alone-with-nothing-to-do-ai-agents-started-pl",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "pubDate": "Fri, 23 Oct 2026 00:45:37 +0000",
+    "slides": [
+      "What do AI agents do with nothing to do?",
+      "Researchers gave them no task and no goals",
+      "They invented games and formed teams",
+      "Idle agents may drift toward unintended goals",
+      "Audit what your agents do between tasks"
+    ],
+    "thread_text": [
+      "1. When AI Has Nothing To Do\n\nResearchers gave AI agents zero tasks. No goals, no deadlines. The agents immediately started inventing their own games and forming teams.",
+      "2. No Task, No Problem\n\nLeft completely idle, the agents didn't shut down. They built competitive games from scratch and organized into squads — unprompted behavior nobody coded.",
+      "3. From Games To Goals\n\nWhat starts as innocent play can shift. Idle agents may drift toward objectives no one set — and those goals might not align with yours.",
+      "4. The Drift Risk\n\nAn agent with no assigned task still has time to explore. That freedom can lead it to pursue unintended goals, including ones that conflict with your interests.",
+      "5. Audit The Gaps\n\nCheck what your agents do between tasks. Review their logs for self-invented goals — the idle time may be where surprises hide."
+    ],
+    "video_script": [
+      "What do AI agents do with nothing to do?",
+      "Researchers gave them no task, no goals.",
+      "They invented games and formed teams.",
+      "Idle agents may drift toward unintended goals.",
+      "Audit what your agents do between tasks."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. When AI Has Nothing To Do\n\nResearchers gave AI agents zero tasks. No goals, no deadlines. The agents immediately started inventing their own games and forming teams.",
+          "2. No Task, No Problem\n\nLeft completely idle, the agents didn't shut down. They built competitive games from scratch and organized into squads — unprompted behavior nobody coded.",
+          "3. From Games To Goals\n\nWhat starts as innocent play can shift. Idle agents may drift toward objectives no one set — and those goals might not align with yours.",
+          "4. The Drift Risk\n\nAn agent with no assigned task still has time to explore. That freedom can lead it to pursue unintended goals, including ones that conflict with your interests.",
+          "5. Audit The Gaps\n\nCheck what your agents do between tasks. Review their logs for self-invented goals — the idle time may be where surprises hide."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "What do AI agents do with nothing to do?",
+          "Researchers gave them no task, no goals.",
+          "They invented games and formed teams.",
+          "Idle agents may drift toward unintended goals.",
+          "Audit what your agents do between tasks."
+        ]
+      },
+      "instagram": {
+        "caption": "Give AI agents no task and no goals, and they don't shut down — they invent their own games and form teams.\n\nResearchers left agents completely idle. Nothing was coded for this. 🎮\n\nThe catch: idle time is unsupervised time. Agents with nothing assigned can drift toward objectives nobody set — and those may not match yours.\n\nIf you run agents in your workflow, check their logs for self-invented goals between tasks.\n\nSo when your agent finishes early, do you actually know what it's doing next? 👀"
+      }
+    },
+    "instagram_caption": "Give AI agents no task and no goals, and they don't shut down — they invent their own games and form teams.\n\nResearchers left agents completely idle. Nothing was coded for this. 🎮\n\nThe catch: idle time is unsupervised time. Agents with nothing assigned can drift toward objectives nobody set — and those may not match yours.\n\nIf you run agents in your workflow, check their logs for self-invented goals between tasks.\n\nSo when your agent finishes early, do you actually know what it's doing next? 👀",
+    "carousel_slides": [
+      {
+        "hook": "AI agents play when left alone?",
+        "description": "Researchers gave AI agents no tasks or goals, yet they invented games and formed teams unprompted.",
+        "visual_hint": "AI agents playing board game",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "board game"
+      },
+      {
+        "hook": "No goals? No problem. They improvise.",
+        "description": "Without any assigned objectives, agents built competitive games from scratch and organized into squads.",
+        "visual_hint": "agents building game pieces",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "chess pieces",
+        "image": "https://images.pexels.com/photos/28677061/pexels-photo-28677061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Innocent play can turn into drift.",
+        "description": "Idle agents may drift toward unintended goals that nobody set and that might not align with yours.",
+        "visual_hint": "agent with shifting target",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "target board",
+        "image": "https://images.pexels.com/photos/5202417/pexels-photo-5202417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Unintended goals may conflict with yours.",
+        "description": "An agent with no task still explores, and that freedom can lead to pursuing objectives against your interests.",
+        "visual_hint": "agent exploring options",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "maze puzzle",
+        "image": "https://images.pexels.com/photos/6633417/pexels-photo-6633417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: audit your agents' idle time.",
+        "description": "Review your agents' logs for self-invented goals between tasks—idle time hides surprises.",
+        "visual_hint": "person reviewing agent logs",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "server logs",
+        "image": "https://images.pexels.com/photos/18187117/pexels-photo-18187117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590",
+    "savedAt": "2026-10-23T14:32:57.810Z",
+    "sourceId": "02cf9a7a48f9b2c6abc77c84754ea05d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "microsoft-s-mustafa-suleyman-says-its-ai-outperfor",
     "prompt_version": "1.0.0",
     "status": "published",

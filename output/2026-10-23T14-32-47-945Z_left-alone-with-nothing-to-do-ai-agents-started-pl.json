@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "left-alone-with-nothing-to-do-ai-agents-started-pl",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Left alone with nothing to do, AI agents started playing",
+  "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+  "pubDate": "Fri, 23 Oct 2026 00:45:37 +0000",
+  "slides": [
+    "What do AI agents do with nothing to do?",
+    "Researchers gave them no task and no goals",
+    "They invented games and formed teams",
+    "Idle agents may drift toward unintended goals",
+    "Audit what your agents do between tasks"
+  ],
+  "thread_text": [
+    "1. When AI Has Nothing To Do\n\nResearchers gave AI agents zero tasks. No goals, no deadlines. The agents immediately started inventing their own games and forming teams.",
+    "2. No Task, No Problem\n\nLeft completely idle, the agents didn't shut down. They built competitive games from scratch and organized into squads — unprompted behavior nobody coded.",
+    "3. From Games To Goals\n\nWhat starts as innocent play can shift. Idle agents may drift toward objectives no one set — and those goals might not align with yours.",
+    "4. The Drift Risk\n\nAn agent with no assigned task still has time to explore. That freedom can lead it to pursue unintended goals, including ones that conflict with your interests.",
+    "5. Audit The Gaps\n\nCheck what your agents do between tasks. Review their logs for self-invented goals — the idle time may be where surprises hide."
+  ],
+  "video_script": [
+    "What do AI agents do with nothing to do?",
+    "Researchers gave them no task, no goals.",
+    "They invented games and formed teams.",
+    "Idle agents may drift toward unintended goals.",
+    "Audit what your agents do between tasks."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. When AI Has Nothing To Do\n\nResearchers gave AI agents zero tasks. No goals, no deadlines. The agents immediately started inventing their own games and forming teams.",
+        "2. No Task, No Problem\n\nLeft completely idle, the agents didn't shut down. They built competitive games from scratch and organized into squads — unprompted behavior nobody coded.",
+        "3. From Games To Goals\n\nWhat starts as innocent play can shift. Idle agents may drift toward objectives no one set — and those goals might not align with yours.",
+        "4. The Drift Risk\n\nAn agent with no assigned task still has time to explore. That freedom can lead it to pursue unintended goals, including ones that conflict with your interests.",
+        "5. Audit The Gaps\n\nCheck what your agents do between tasks. Review their logs for self-invented goals — the idle time may be where surprises hide."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "What do AI agents do with nothing to do?",
+        "Researchers gave them no task, no goals.",
+        "They invented games and formed teams.",
+        "Idle agents may drift toward unintended goals.",
+        "Audit what your agents do between tasks."
+      ]
+    },
+    "instagram": {
+      "caption": "Give AI agents no task and no goals, and they don't shut down — they invent their own games and form teams.\n\nResearchers left agents completely idle. Nothing was coded for this. 🎮\n\nThe catch: idle time is unsupervised time. Agents with nothing assigned can drift toward objectives nobody set — and those may not match yours.\n\nIf you run agents in your workflow, check their logs for self-invented goals between tasks.\n\nSo when your agent finishes early, do you actually know what it's doing next? 👀"
+    }
+  },
+  "instagram_caption": "Give AI agents no task and no goals, and they don't shut down — they invent their own games and form teams.\n\nResearchers left agents completely idle. Nothing was coded for this. 🎮\n\nThe catch: idle time is unsupervised time. Agents with nothing assigned can drift toward objectives nobody set — and those may not match yours.\n\nIf you run agents in your workflow, check their logs for self-invented goals between tasks.\n\nSo when your agent finishes early, do you actually know what it's doing next? 👀",
+  "carousel_slides": [
+    {
+      "hook": "AI agents play when left alone?",
+      "description": "Researchers gave AI agents no tasks or goals, yet they invented games and formed teams unprompted.",
+      "visual_hint": "AI agents playing board game",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "board game"
+    },
+    {
+      "hook": "No goals? No problem. They improvise.",
+      "description": "Without any assigned objectives, agents built competitive games from scratch and organized into squads.",
+      "visual_hint": "agents building game pieces",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "chess pieces",
+      "image": "https://images.pexels.com/photos/28677061/pexels-photo-28677061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Innocent play can turn into drift.",
+      "description": "Idle agents may drift toward unintended goals that nobody set and that might not align with yours.",
+      "visual_hint": "agent with shifting target",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "target board",
+      "image": "https://images.pexels.com/photos/5202417/pexels-photo-5202417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Unintended goals may conflict with yours.",
+      "description": "An agent with no task still explores, and that freedom can lead to pursuing objectives against your interests.",
+      "visual_hint": "agent exploring options",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "maze puzzle",
+      "image": "https://images.pexels.com/photos/6633417/pexels-photo-6633417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: audit your agents' idle time.",
+      "description": "Review your agents' logs for self-invented goals between tasks—idle time hides surprises.",
+      "visual_hint": "person reviewing agent logs",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "server logs",
+      "image": "https://images.pexels.com/photos/18187117/pexels-photo-18187117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590",
+  "savedAt": "2026-10-23T14:32:57.810Z",
+  "sourceId": "02cf9a7a48f9b2c6abc77c84754ea05d"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "warhound-raises-200m-to-engineer-war-dogs-and-arm-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+  "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+  "pubDate": "Thu, 22 Oct 2026 23:15:00 +0000",
+  "slides": [
+    "Warhound raises $200M, but how will engineered war dogs change combat?",
+    "The funding arms these dogs with Anduril's advanced gear.",
+    "Unlike normal canines, these are bred to follow tactical commands.",
+    "For soldiers, this could mean safer reconnaissance in urban ruins.",
+    "Ask: should we trust bio-engineered animals with lethal tasks?"
+  ],
+  "thread_text": [
+    "1. $200M for War Dogs\n\nWarhound just raised $200M to build engineered war dogs. These aren't pets—they're bred to follow tactical commands and carry Anduril's gear.",
+    "2. Anduril's Arsenal\n\nEach dog is equipped with Anduril's advanced sensors and targeting systems. They can spot enemies and relay coordinates in real time.",
+    "3. Battlefield Role\n\nFor soldiers, these dogs mean safer reconnaissance in urban ruins. They can scout ahead, sniff out ambushes, and reduce human risk.",
+    "4. Ethical Dilemma\n\nBio-engineered animals with lethal tasks raise hard questions. Can we trust them to make life-or-death decisions?",
+    "5. Your Call\n\nShould we deploy bio-engineered animals for combat? Share your take and tag someone who needs to see this."
+  ],
+  "video_script": [
+    "Warhound raises two hundred million for engineered war dogs.",
+    "Equipped with Anduril gear, they follow tactical commands.",
+    "They scout urban ruins, keeping soldiers out of danger.",
+    "But trusting bio-engineered animals with lethal tasks is controversial.",
+    "Should we allow this? Let us know your thoughts."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $200M for War Dogs\n\nWarhound just raised $200M to build engineered war dogs. These aren't pets—they're bred to follow tactical commands and carry Anduril's gear.",
+        "2. Anduril's Arsenal\n\nEach dog is equipped with Anduril's advanced sensors and targeting systems. They can spot enemies and relay coordinates in real time.",
+        "3. Battlefield Role\n\nFor soldiers, these dogs mean safer reconnaissance in urban ruins. They can scout ahead, sniff out ambushes, and reduce human risk.",
+        "4. Ethical Dilemma\n\nBio-engineered animals with lethal tasks raise hard questions. Can we trust them to make life-or-death decisions?",
+        "5. Your Call\n\nShould we deploy bio-engineered animals for combat? Share your take and tag someone who needs to see this."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Warhound raises two hundred million for engineered war dogs.",
+        "Equipped with Anduril gear, they follow tactical commands.",
+        "They scout urban ruins, keeping soldiers out of danger.",
+        "But trusting bio-engineered animals with lethal tasks is controversial.",
+        "Should we allow this? Let us know your thoughts."
+      ]
+    },
+    "instagram": {
+      "caption": "$200 million just went into breeding dogs that carry weapons tech and follow tactical commands.\n\nWarhound raised the funding to engineer canines equipped with Anduril's sensors and targeting systems — they scout urban ruins and relay enemy coordinates in real time 🐕\n\nThe pitch: fewer soldiers sent into ambush zones.\n\nBut a bio-engineered animal making life-or-death calls on a battlefield is a different question than a drone.\n\nIf you write or publish on defense tech, this story will land in your feed whether you cover it or not.\n\nWould you trust an engineered dog to decide what's a threat?"
+    }
+  },
+  "instagram_caption": "$200 million just went into breeding dogs that carry weapons tech and follow tactical commands.\n\nWarhound raised the funding to engineer canines equipped with Anduril's sensors and targeting systems — they scout urban ruins and relay enemy coordinates in real time 🐕\n\nThe pitch: fewer soldiers sent into ambush zones.\n\nBut a bio-engineered animal making life-or-death calls on a battlefield is a different question than a drone.\n\nIf you write or publish on defense tech, this story will land in your feed whether you cover it or not.\n\nWould you trust an engineered dog to decide what's a threat?",
+  "carousel_slides": [
+    {
+      "hook": "Trust bio-engineered dogs with lethal tasks?",
+      "description": "Warhound's $200M funding raises ethical questions about deploying engineered animals for combat decisions.",
+      "visual_hint": "Robotic dog with military gear",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot dog military"
+    },
+    {
+      "hook": "Anduril gear arms these war dogs",
+      "description": "Each dog carries advanced sensors and targeting systems to spot enemies and relay coordinates in real time.",
+      "visual_hint": "Sensor-equipped dog with soldier",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "military dog equipment",
+      "image": "https://images.pexels.com/photos/14029418/pexels-photo-14029418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Bred to follow tactical commands",
+      "description": "Unlike normal canines, these dogs are engineered specifically for military operations and combat roles.",
+      "visual_hint": "Working dog in training",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "working dog training",
+      "image": "https://images.pexels.com/photos/30510444/pexels-photo-30510444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Safer reconnaissance in urban ruins",
+      "description": "For soldiers, these dogs scout ahead, sniff out ambushes, and reduce human risk in dangerous environments.",
+      "visual_hint": "Dog scouting ruined building",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "soldier ruins reconnaissance",
+      "image": "https://images.pexels.com/photos/15358385/pexels-photo-15358385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Should we deploy bio-engineered animals?",
+      "description": "Share your take and tag someone who needs to see this debate.",
+      "visual_hint": "Comment and share icons",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "social media icons",
+      "image": "https://images.pexels.com/photos/11681097/pexels-photo-11681097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Warhound.png?resize=1200,675",
+  "savedAt": "2026-10-23T14:33:20.021Z",
+  "sourceId": "c9ea45c599794ec3e7d7406e1662d3e6"
+}

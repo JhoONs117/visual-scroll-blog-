@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "former-openai-science-lead-launches-warp-science-t",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+  "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+  "pubDate": "Thu, 22 Oct 2026 18:38:47 +0000",
+  "slides": [
+    "Why would OpenAI's science lead walk away now?",
+    "Kai Wang spent years pushing AI into discovery",
+    "His new company, Warp Science, bets robots run experiments",
+    "Your wet lab costs may drop before competitors notice",
+    "Ask your lab lead what a robot could test this week"
+  ],
+  "thread_text": [
+    "1. Why would OpenAI's science lead walk away now?\n\nKai Wang spent years pushing AI into discovery. He just left to bet on robots running experiments.",
+    "2. Warp Science bets on robot labs\n\nHis new company doesn't sell software. It sells robotic arms that run wet lab experiments end to end.",
+    "3. Your wet lab costs could drop\n\nWhile competitors still hire postdocs to pipette, automated runs cut reagent waste and overnight cycles.",
+    "4. Robot experiments run while you sleep\n\nWarp's pitch: machines test hypotheses 24/7, so iteration speed stops depending on human hours.",
+    "5. What could a robot test for you?\n\nAsk your lab lead which single experiment this week could run without a human hand. That's your starting point."
+  ],
+  "video_script": [
+    "OpenAI's science lead just walked away.",
+    "Kai Wang bet on robots running experiments.",
+    "His new company is called Warp Science.",
+    "Robot labs could cut your wet lab costs.",
+    "Ask your lab lead what a robot could test."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why would OpenAI's science lead walk away now?\n\nKai Wang spent years pushing AI into discovery. He just left to bet on robots running experiments.",
+        "2. Warp Science bets on robot labs\n\nHis new company doesn't sell software. It sells robotic arms that run wet lab experiments end to end.",
+        "3. Your wet lab costs could drop\n\nWhile competitors still hire postdocs to pipette, automated runs cut reagent waste and overnight cycles.",
+        "4. Robot experiments run while you sleep\n\nWarp's pitch: machines test hypotheses 24/7, so iteration speed stops depending on human hours.",
+        "5. What could a robot test for you?\n\nAsk your lab lead which single experiment this week could run without a human hand. That's your starting point."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI's science lead just walked away.",
+        "Kai Wang bet on robots running experiments.",
+        "His new company is called Warp Science.",
+        "Robot labs could cut your wet lab costs.",
+        "Ask your lab lead what a robot could test."
+      ]
+    },
+    "instagram": {
+      "caption": "Robotic arms now run wet lab experiments end to end — that's the product Warp Science sells, not software.\n\nKai Wang spent years pushing AI into discovery at OpenAI. He just left to bet on machines doing the bench work themselves.\n\nHis pitch: experiments run overnight, reagent waste drops, and iteration speed stops depending on human hours. 🤖\n\nIf your work touches research or content about science, this is a shift in who — or what — generates the data you cite. 🧪\n\nAsk your lab lead which single experiment this week could run without a human hand. That's your starting point. 🔬"
+    }
+  },
+  "instagram_caption": "Robotic arms now run wet lab experiments end to end — that's the product Warp Science sells, not software.\n\nKai Wang spent years pushing AI into discovery at OpenAI. He just left to bet on machines doing the bench work themselves.\n\nHis pitch: experiments run overnight, reagent waste drops, and iteration speed stops depending on human hours. 🤖\n\nIf your work touches research or content about science, this is a shift in who — or what — generates the data you cite. 🧪\n\nAsk your lab lead which single experiment this week could run without a human hand. That's your starting point. 🔬",
+  "carousel_slides": [
+    {
+      "hook": "OpenAI's science lead just walked away. Why?",
+      "description": "Kai Wang left OpenAI to launch Warp Science, betting robots will run wet lab experiments end to end.",
+      "visual_hint": "person leaving office building",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "office building exit"
+    },
+    {
+      "hook": "He spent years pushing AI into discovery",
+      "description": "Kai Wang's new company doesn't sell software—it sells robotic arms that automate wet lab experiments completely.",
+      "visual_hint": "robotic arm in laboratory",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robotic arm laboratory",
+      "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your wet lab costs could drop fast",
+      "description": "Automated runs cut reagent waste and enable overnight cycles, while competitors still hire postdocs to pipette manually.",
+      "visual_hint": "pipette and reagent bottles",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "laboratory pipette",
+      "image": "https://images.pexels.com/photos/8940480/pexels-photo-8940480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Robot experiments run while you sleep",
+      "description": "Warp's pitch: machines test hypotheses 24/7, so iteration speed stops depending on human working hours.",
+      "visual_hint": "robot working overnight lab",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "night laboratory",
+      "image": "https://images.pexels.com/photos/14829613/pexels-photo-14829613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: what could a robot test for you?",
+      "description": "Ask your lab lead which single experiment this week could run without a human hand. That's your starting point.",
+      "visual_hint": "hand pointing at robot",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "human hand robot",
+      "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?w=1024",
+  "savedAt": "2026-10-23T14:33:30.409Z",
+  "sourceId": "dfbd4bb3a83d37cf1640b6ff308772df"
+}

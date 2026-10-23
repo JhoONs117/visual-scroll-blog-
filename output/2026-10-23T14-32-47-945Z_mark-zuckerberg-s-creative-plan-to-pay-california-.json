@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "mark-zuckerberg-s-creative-plan-to-pay-california-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+  "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+  "pubDate": "Thu, 22 Oct 2026 23:50:41 +0000",
+  "slides": [
+    "Can Zuckerberg pay California's billionaire tax and keep Meta?",
+    "The proposed tax targets unrealized gains, not just income",
+    "He found a creative workaround most billionaires overlook",
+    "Founders in high-tax states may soon face the same choice",
+    "Ask your accountant about control-preserving strategies now"
+  ],
+  "thread_text": [
+    "1. The tax hit he dodged\n\nZuckerberg's tax bill on unrealized Meta gains would be massive, but he found a way to keep control without selling shares.",
+    "2. Not a wealth tax\n\nCalifornia's proposal targets paper gains, forcing billionaires to pay on unsold stock. Most assume it means selling.",
+    "3. The overlooked move\n\nHe used a strategy that lets him pay the tax without dumping shares: borrowing against his stake.",
+    "4. Founders in the crosshairs\n\nIf you built a company in a high-tax state, this same dilemma could land on your desk soon.",
+    "5. Your move\n\nAsk your accountant about control-preserving strategies before the tax man combs your gains. Does your plan survive?"
+  ],
+  "video_script": [
+    "Zuckerberg faces a huge tax on Meta gains.",
+    "Most think he'd have to sell shares.",
+    "But he found a way to pay without selling.",
+    "If you're a founder in a high-tax state,",
+    "ask your accountant about control-preserving strategies."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The tax hit he dodged\n\nZuckerberg's tax bill on unrealized Meta gains would be massive, but he found a way to keep control without selling shares.",
+        "2. Not a wealth tax\n\nCalifornia's proposal targets paper gains, forcing billionaires to pay on unsold stock. Most assume it means selling.",
+        "3. The overlooked move\n\nHe used a strategy that lets him pay the tax without dumping shares: borrowing against his stake.",
+        "4. Founders in the crosshairs\n\nIf you built a company in a high-tax state, this same dilemma could land on your desk soon.",
+        "5. Your move\n\nAsk your accountant about control-preserving strategies before the tax man combs your gains. Does your plan survive?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Zuckerberg faces a huge tax on Meta gains.",
+        "Most think he'd have to sell shares.",
+        "But he found a way to pay without selling.",
+        "If you're a founder in a high-tax state,",
+        "ask your accountant about control-preserving strategies."
+      ]
+    },
+    "instagram": {
+      "caption": "California’s proposed billionaire tax would force Zuckerberg to pay on unsold Meta stock—most assume that means selling shares and losing control.\n\nThe tax targets unrealized gains, not income, so founders could owe millions on paper wealth without cash on hand.\n\nHis workaround: borrowing against his stake to pay the bill without dumping shares.\n\nIf you built a company in a high-tax state, this same choice may land on your desk sooner than you think. 💼\n\nDo you know if your equity plan survives a tax on paper gains? Ask your accountant now. 📊"
+    }
+  },
+  "instagram_caption": "California’s proposed billionaire tax would force Zuckerberg to pay on unsold Meta stock—most assume that means selling shares and losing control.\n\nThe tax targets unrealized gains, not income, so founders could owe millions on paper wealth without cash on hand.\n\nHis workaround: borrowing against his stake to pay the bill without dumping shares.\n\nIf you built a company in a high-tax state, this same choice may land on your desk sooner than you think. 💼\n\nDo you know if your equity plan survives a tax on paper gains? Ask your accountant now. 📊",
+  "carousel_slides": [
+    {
+      "hook": "Can Zuckerberg pay California's billionaire tax and keep Meta?",
+      "description": "Proposed tax on unrealized gains could force billionaires to sell shares, but Zuckerberg found a workaround to retain control.",
+      "visual_hint": "Zuckerberg silhouette with Meta logo",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Mark Zuckerberg"
+    },
+    {
+      "hook": "The proposed tax targets unrealized gains, not just income",
+      "description": "California's plan taxes paper gains on unsold stock, forcing billionaires to pay without selling shares.",
+      "visual_hint": "Stock chart with upward arrow",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "He found a creative workaround most billionaires overlook",
+      "description": "Zuckerberg can borrow against his stake to pay the tax without dumping shares, preserving control.",
+      "visual_hint": "Handshake over contract with pen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "loan documents",
+      "image": "https://images.pexels.com/photos/7821466/pexels-photo-7821466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Founders in high-tax states may soon face the same choice",
+      "description": "If you built a company in a high-tax state, this dilemma could land on your desk soon.",
+      "visual_hint": "Business person looking at map",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "business meeting",
+      "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this post before the tax man combs your gains",
+      "description": "Ask your accountant about control-preserving strategies now to protect your company.",
+      "visual_hint": "Accountant with calculator and documents",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "accountant office",
+      "image": "https://images.pexels.com/photos/8297076/pexels-photo-8297076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
+  "savedAt": "2026-10-23T14:33:09.027Z",
+  "sourceId": "8dc6f2707dfe63929bc0fb7e45057dc6"
+}
