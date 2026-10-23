@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "microsoft-s-mustafa-suleyman-says-its-ai-outperfor",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+  "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+  "pubDate": "Thu, 22 Oct 2026 18:43:53 +0000",
+  "slides": [
+    "Can Microsoft's AI really beat doctors on hard cases?",
+    "Suleyman says it outperforms on diagnostic benchmarks",
+    "But benchmarks aren't real patients in real clinics",
+    "Hospitals must now ask what evidence actually matters",
+    "Test it on your hardest case before believing the claim"
+  ],
+  "thread_text": [
+    "1. AI vs. Doctors\n\nMicrosoft claims its AI beats doctors on diagnostic benchmarks. Suleyman says it outperforms on hard cases. But what does that mean for real patients?",
+    "2. Benchmarks Aren't Patients\n\nA benchmark tests patterns, not people. Real clinics have messy histories, missing data, and symptoms that don't fit tidy categories.",
+    "3. The Evidence Question\n\nHospitals are now asking: what evidence actually matters? A high score on a test doesn't prove the AI can handle a real emergency.",
+    "4. Test Your Hardest Case\n\nBefore trusting the hype, run the AI on your toughest diagnostic challenge. See if it truly outperforms in your context.",
+    "5. The Real Test\n\nWould you trust an AI to diagnose your hardest case? If not, why believe the benchmark? Try it on a real case today and judge for yourself."
+  ],
+  "video_script": [
+    "Microsoft says its AI beats doctors on hard cases.",
+    "But benchmarks aren't real patients in real clinics.",
+    "Hospitals must ask what evidence actually matters.",
+    "Test it on your hardest case before believing the claim.",
+    "Would you trust it with your own diagnosis?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI vs. Doctors\n\nMicrosoft claims its AI beats doctors on diagnostic benchmarks. Suleyman says it outperforms on hard cases. But what does that mean for real patients?",
+        "2. Benchmarks Aren't Patients\n\nA benchmark tests patterns, not people. Real clinics have messy histories, missing data, and symptoms that don't fit tidy categories.",
+        "3. The Evidence Question\n\nHospitals are now asking: what evidence actually matters? A high score on a test doesn't prove the AI can handle a real emergency.",
+        "4. Test Your Hardest Case\n\nBefore trusting the hype, run the AI on your toughest diagnostic challenge. See if it truly outperforms in your context.",
+        "5. The Real Test\n\nWould you trust an AI to diagnose your hardest case? If not, why believe the benchmark? Try it on a real case today and judge for yourself."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Microsoft says its AI beats doctors on hard cases.",
+        "But benchmarks aren't real patients in real clinics.",
+        "Hospitals must ask what evidence actually matters.",
+        "Test it on your hardest case before believing the claim.",
+        "Would you trust it with your own diagnosis?"
+      ]
+    },
+    "instagram": {
+      "caption": "Microsoft's AI reportedly beats doctors on diagnostic benchmarks, including hard cases, according to Mustafa Suleyman. 🩺\n\nBut a benchmark tests patterns, not people. Real clinics bring messy histories, missing data, symptoms that don't fit categories.\n\nA high score doesn't prove the AI handles a real emergency. ⚠️\n\nHospitals now have to ask what evidence actually counts before trusting the claim.\n\nIf you work in health content, this is your cue: don't repeat the headline, check the evidence behind it. 🔍\n\nWould you trust an AI with your hardest case? Try it on one real case first — then judge."
+    }
+  },
+  "instagram_caption": "Microsoft's AI reportedly beats doctors on diagnostic benchmarks, including hard cases, according to Mustafa Suleyman. 🩺\n\nBut a benchmark tests patterns, not people. Real clinics bring messy histories, missing data, symptoms that don't fit categories.\n\nA high score doesn't prove the AI handles a real emergency. ⚠️\n\nHospitals now have to ask what evidence actually counts before trusting the claim.\n\nIf you work in health content, this is your cue: don't repeat the headline, check the evidence behind it. 🔍\n\nWould you trust an AI with your hardest case? Try it on one real case first — then judge.",
+  "carousel_slides": [
+    {
+      "hook": "Can AI truly beat doctors?",
+      "description": "Microsoft claims its AI outperforms doctors on hard diagnostic cases, but benchmarks don't equal real patient care.",
+      "visual_hint": "Doctor versus AI concept",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stethoscope lab"
+    },
+    {
+      "hook": "Benchmarks aren't real patients",
+      "description": "Suleyman says AI outperforms on diagnostic benchmarks, yet real clinics have messy data and symptoms that don't fit.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Benchmark charts and code",
+      "image_query": "medical chart",
+      "image": "https://images.pexels.com/photos/8965128/pexels-photo-8965128.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "High scores, real emergencies",
+      "description": "Hospitals ask what evidence matters: a test score doesn't prove AI can handle a real emergency.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Emergency room monitor",
+      "image_query": "hospital emergency",
+      "image": "https://images.pexels.com/photos/28318746/pexels-photo-28318746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your hardest case",
+      "description": "Before trusting the hype, run the AI on your toughest diagnostic challenge to see if it truly outperforms in your context.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hand holding tablet",
+      "image_query": "tablet doctor",
+      "image": "https://images.pexels.com/photos/19963124/pexels-photo-19963124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Would you trust AI diagnosis?",
+      "description": "Try it on a real case today and judge for yourself. Save this post and share your thoughts in the comments.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "AI diagnostic screen",
+      "image_query": "diagnostic screen",
+      "image": "https://images.pexels.com/photos/8460231/pexels-photo-8460231.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?w=1024",
+  "savedAt": "2026-10-23T08:57:48.064Z",
+  "sourceId": "bc91e34a2351f2b0b2a9398d1182e038"
+}

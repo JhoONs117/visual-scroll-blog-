@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "oura-sues-rival-ultrahuman-again-threatening-its-u",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+  "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+  "pubDate": "Fri, 23 Oct 2026 04:22:57 +0000",
+  "slides": [
+    "Why is Oura suing Ultrahuman again?",
+    "Ultrahuman had planned a major U.S. comeback",
+    "But the new patent lawsuit might freeze those plans",
+    "U.S. buyers may wait longer for Ultrahuman rings",
+    "Check if your next smart ring faces delays"
+  ],
+  "thread_text": [
+    "1. Oura sues Ultrahuman again\n\nOura has filed a new patent lawsuit against Ultrahuman, just as the latter planned a major U.S. comeback.",
+    "2. Ultrahuman's U.S. comeback frozen\n\nThe legal battle could delay Ultrahuman's plans to re-enter the U.S. market, leaving buyers in limbo.",
+    "3. Patent war escalates\n\nThis is the second lawsuit from Oura, signaling a tougher stance on patent infringement.",
+    "4. U.S. buyers face longer waits\n\nUltrahuman rings may not be available in the U.S. as soon as expected due to the lawsuit.",
+    "5. Check your smart ring order\n\nIf you pre-ordered an Ultrahuman ring, contact the company for updates on potential delays."
+  ],
+  "video_script": [
+    "Oura just sued Ultrahuman again over patents.",
+    "Ultrahuman had big plans for a U.S. comeback.",
+    "Now those plans might be frozen by the lawsuit.",
+    "U.S. buyers could wait longer for their rings.",
+    "Check if your smart ring order faces delays."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Oura sues Ultrahuman again\n\nOura has filed a new patent lawsuit against Ultrahuman, just as the latter planned a major U.S. comeback.",
+        "2. Ultrahuman's U.S. comeback frozen\n\nThe legal battle could delay Ultrahuman's plans to re-enter the U.S. market, leaving buyers in limbo.",
+        "3. Patent war escalates\n\nThis is the second lawsuit from Oura, signaling a tougher stance on patent infringement.",
+        "4. U.S. buyers face longer waits\n\nUltrahuman rings may not be available in the U.S. as soon as expected due to the lawsuit.",
+        "5. Check your smart ring order\n\nIf you pre-ordered an Ultrahuman ring, contact the company for updates on potential delays."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Oura just sued Ultrahuman again over patents.",
+        "Ultrahuman had big plans for a U.S. comeback.",
+        "Now those plans might be frozen by the lawsuit.",
+        "U.S. buyers could wait longer for their rings.",
+        "Check if your smart ring order faces delays."
+      ]
+    },
+    "instagram": {
+      "caption": "Oura just filed its second patent lawsuit against Ultrahuman, right as Ultrahuman was planning a big U.S. comeback. 🥊\n\nThe legal fight could delay Ultrahuman's return to the U.S. market.\n\nThat means buyers there may wait longer than expected for their rings.\n\nIf you pre-ordered an Ultrahuman ring, it's worth contacting the company for updates on possible delays. 📦\n\nSecond lawsuit from Oura signals a tougher stance on patent infringement.\n\nSo if your next smart ring is an Ultrahuman, have you checked whether your order is affected? 🤔"
+    }
+  },
+  "instagram_caption": "Oura just filed its second patent lawsuit against Ultrahuman, right as Ultrahuman was planning a big U.S. comeback. 🥊\n\nThe legal fight could delay Ultrahuman's return to the U.S. market.\n\nThat means buyers there may wait longer than expected for their rings.\n\nIf you pre-ordered an Ultrahuman ring, it's worth contacting the company for updates on possible delays. 📦\n\nSecond lawsuit from Oura signals a tougher stance on patent infringement.\n\nSo if your next smart ring is an Ultrahuman, have you checked whether your order is affected? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Why is Oura suing Ultrahuman again?",
+      "description": "Oura files a second patent lawsuit against Ultrahuman, escalating the legal battle just as Ultrahuman plans a U.S. comeback.",
+      "visual_hint": "Smart ring with legal gavel",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smart ring"
+    },
+    {
+      "hook": "Ultrahuman's U.S. comeback frozen",
+      "description": "Ultrahuman planned a major U.S. return, but the new lawsuit could freeze those plans and leave buyers in limbo.",
+      "visual_hint": "Frozen clock on U.S. map",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "US map",
+      "image": "https://images.pexels.com/photos/20240693/pexels-photo-20240693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Patent war escalates",
+      "description": "This is Oura's second lawsuit, signaling a tougher stance on patent infringement and raising stakes for smart ring rivals.",
+      "visual_hint": "Gavel hitting patent document",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "gavel",
+      "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "U.S. buyers face longer waits",
+      "description": "Due to the lawsuit, Ultrahuman rings may not be available in the U.S. as soon as expected, delaying customer orders.",
+      "visual_hint": "Person waiting with smart ring",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "waiting person",
+      "image": "https://images.pexels.com/photos/38572643/pexels-photo-38572643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your smart ring order now",
+      "description": "If you pre-ordered an Ultrahuman ring, contact the company for updates on potential delays. Save this post for updates.",
+      "visual_hint": "Hand holding smart ring",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smart ring",
+      "image": "https://images.pexels.com/photos/39326365/pexels-photo-39326365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=1200,800",
+  "savedAt": "2026-10-23T08:57:17.400Z",
+  "sourceId": "208710b51bf19867e3b4bef2b9ec7607"
+}

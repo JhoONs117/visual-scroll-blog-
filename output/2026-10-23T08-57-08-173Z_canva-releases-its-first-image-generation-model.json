@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "canva-releases-its-first-image-generation-model",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Canva releases its first image generation model",
+  "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+  "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+  "slides": [
+    "Canva's new AI model threatens graphic designers' jobs?",
+    "It generates images directly inside the design editor",
+    "But trained on Canva's own licensed assets, not scraped art",
+    "Users can now create original visuals without stock photos",
+    "Test one image today and judge the quality yourself"
+  ],
+  "thread_text": [
+    "1. Designers, worried yet?\n\nCanva now generates images directly inside its editor, no plugins needed. Your workflow might never be the same.",
+    "2. How it was trained\n\nUnlike other AI art tools, Canva's model learned only from its own licensed assets—no scraped art. That could mean fewer copyright headaches.",
+    "3. Create without stock photos\n\nUsers can now generate original visuals on the spot, ditching generic stock images. Brands get unique content instantly.",
+    "4. The quality test\n\nCanva invites you to try one image today and judge the results yourself. The real question is whether it meets your standards.",
+    "5. Try it on your next post\n\nGenerate one image in Canva and compare it to your usual stock photo. Does it save time or create extra editing work? Test it this week."
+  ],
+  "video_script": [
+    "Canva's new AI model worries graphic designers.",
+    "It generates images right inside the design editor.",
+    "Trained on Canva's own licensed assets, not scraped art.",
+    "Users can create original visuals without stock photos.",
+    "Test one image today and judge the quality yourself."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Designers, worried yet?\n\nCanva now generates images directly inside its editor, no plugins needed. Your workflow might never be the same.",
+        "2. How it was trained\n\nUnlike other AI art tools, Canva's model learned only from its own licensed assets—no scraped art. That could mean fewer copyright headaches.",
+        "3. Create without stock photos\n\nUsers can now generate original visuals on the spot, ditching generic stock images. Brands get unique content instantly.",
+        "4. The quality test\n\nCanva invites you to try one image today and judge the results yourself. The real question is whether it meets your standards.",
+        "5. Try it on your next post\n\nGenerate one image in Canva and compare it to your usual stock photo. Does it save time or create extra editing work? Test it this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Canva's new AI model worries graphic designers.",
+        "It generates images right inside the design editor.",
+        "Trained on Canva's own licensed assets, not scraped art.",
+        "Users can create original visuals without stock photos.",
+        "Test one image today and judge the quality yourself."
+      ]
+    },
+    "instagram": {
+      "caption": "Canva now generates images inside its design editor, no plugins, no stock photo tabs.\n\nIts model was trained only on Canva's own licensed assets, not scraped art—which means fewer copyright headaches for the visuals you publish.\n\nYou can type a prompt and get an original image on the spot, ready for your next post. 🎨\n\nThat changes the workflow: fewer generic stock photos, but also a new question—will the output actually meet your standards, or create extra editing work? 🧐\n\nTry one image in Canva this week and compare it to your usual stock photo. Does it save time or cost you more? ⏱️"
+    }
+  },
+  "instagram_caption": "Canva now generates images inside its design editor, no plugins, no stock photo tabs.\n\nIts model was trained only on Canva's own licensed assets, not scraped art—which means fewer copyright headaches for the visuals you publish.\n\nYou can type a prompt and get an original image on the spot, ready for your next post. 🎨\n\nThat changes the workflow: fewer generic stock photos, but also a new question—will the output actually meet your standards, or create extra editing work? 🧐\n\nTry one image in Canva this week and compare it to your usual stock photo. Does it save time or cost you more? ⏱️",
+  "carousel_slides": [
+    {
+      "hook": "Will AI replace graphic designers?",
+      "description": "Canva now generates images directly inside its editor. The entire design workflow might never be the same.",
+      "visual_hint": "Designer looking at laptop with Canva open",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "graphic designer workspace"
+    },
+    {
+      "hook": "No plugins, no extra tools.",
+      "description": "Canva's new AI creates images right inside the design editor, eliminating the need for external plugins or stock photo sites.",
+      "visual_hint": "Split screen showing Canva editor with AI prompt",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer screen editor",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trained on licensed assets, not scraped art.",
+      "description": "Unlike other AI art tools, Canva's model learned only from its own licensed assets, reducing copyright risks for users.",
+      "visual_hint": "Shield icon over stack of licensed images",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "copyright symbol legal documents",
+      "image": "https://images.pexels.com/photos/7876151/pexels-photo-7876151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Create original visuals instantly.",
+      "description": "Users can now generate unique images on the spot, ditching generic stock photos and giving brands instant, original content.",
+      "visual_hint": "Hand holding phone with generated image on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone creative content",
+      "image": "https://images.pexels.com/photos/27915644/pexels-photo-27915644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one image today.",
+      "description": "Generate an image in Canva and compare it to your usual stock photo. Does it save time or create extra editing work? Try it this week.",
+      "visual_hint": "Before-and-after comparison of stock vs generated image",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "before after comparison",
+      "image": "https://images.pexels.com/photos/29013081/pexels-photo-29013081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675",
+  "savedAt": "2026-10-23T08:57:37.712Z",
+  "sourceId": "591876a8e3e006964f6564e69a096e09"
+}

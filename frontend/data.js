@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "microsoft-s-mustafa-suleyman-says-its-ai-outperfor",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+    "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+    "pubDate": "Thu, 22 Oct 2026 18:43:53 +0000",
+    "slides": [
+      "Can Microsoft's AI really beat doctors on hard cases?",
+      "Suleyman says it outperforms on diagnostic benchmarks",
+      "But benchmarks aren't real patients in real clinics",
+      "Hospitals must now ask what evidence actually matters",
+      "Test it on your hardest case before believing the claim"
+    ],
+    "thread_text": [
+      "1. AI vs. Doctors\n\nMicrosoft claims its AI beats doctors on diagnostic benchmarks. Suleyman says it outperforms on hard cases. But what does that mean for real patients?",
+      "2. Benchmarks Aren't Patients\n\nA benchmark tests patterns, not people. Real clinics have messy histories, missing data, and symptoms that don't fit tidy categories.",
+      "3. The Evidence Question\n\nHospitals are now asking: what evidence actually matters? A high score on a test doesn't prove the AI can handle a real emergency.",
+      "4. Test Your Hardest Case\n\nBefore trusting the hype, run the AI on your toughest diagnostic challenge. See if it truly outperforms in your context.",
+      "5. The Real Test\n\nWould you trust an AI to diagnose your hardest case? If not, why believe the benchmark? Try it on a real case today and judge for yourself."
+    ],
+    "video_script": [
+      "Microsoft says its AI beats doctors on hard cases.",
+      "But benchmarks aren't real patients in real clinics.",
+      "Hospitals must ask what evidence actually matters.",
+      "Test it on your hardest case before believing the claim.",
+      "Would you trust it with your own diagnosis?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI vs. Doctors\n\nMicrosoft claims its AI beats doctors on diagnostic benchmarks. Suleyman says it outperforms on hard cases. But what does that mean for real patients?",
+          "2. Benchmarks Aren't Patients\n\nA benchmark tests patterns, not people. Real clinics have messy histories, missing data, and symptoms that don't fit tidy categories.",
+          "3. The Evidence Question\n\nHospitals are now asking: what evidence actually matters? A high score on a test doesn't prove the AI can handle a real emergency.",
+          "4. Test Your Hardest Case\n\nBefore trusting the hype, run the AI on your toughest diagnostic challenge. See if it truly outperforms in your context.",
+          "5. The Real Test\n\nWould you trust an AI to diagnose your hardest case? If not, why believe the benchmark? Try it on a real case today and judge for yourself."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Microsoft says its AI beats doctors on hard cases.",
+          "But benchmarks aren't real patients in real clinics.",
+          "Hospitals must ask what evidence actually matters.",
+          "Test it on your hardest case before believing the claim.",
+          "Would you trust it with your own diagnosis?"
+        ]
+      },
+      "instagram": {
+        "caption": "Microsoft's AI reportedly beats doctors on diagnostic benchmarks, including hard cases, according to Mustafa Suleyman. 🩺\n\nBut a benchmark tests patterns, not people. Real clinics bring messy histories, missing data, symptoms that don't fit categories.\n\nA high score doesn't prove the AI handles a real emergency. ⚠️\n\nHospitals now have to ask what evidence actually counts before trusting the claim.\n\nIf you work in health content, this is your cue: don't repeat the headline, check the evidence behind it. 🔍\n\nWould you trust an AI with your hardest case? Try it on one real case first — then judge."
+      }
+    },
+    "instagram_caption": "Microsoft's AI reportedly beats doctors on diagnostic benchmarks, including hard cases, according to Mustafa Suleyman. 🩺\n\nBut a benchmark tests patterns, not people. Real clinics bring messy histories, missing data, symptoms that don't fit categories.\n\nA high score doesn't prove the AI handles a real emergency. ⚠️\n\nHospitals now have to ask what evidence actually counts before trusting the claim.\n\nIf you work in health content, this is your cue: don't repeat the headline, check the evidence behind it. 🔍\n\nWould you trust an AI with your hardest case? Try it on one real case first — then judge.",
+    "carousel_slides": [
+      {
+        "hook": "Can AI truly beat doctors?",
+        "description": "Microsoft claims its AI outperforms doctors on hard diagnostic cases, but benchmarks don't equal real patient care.",
+        "visual_hint": "Doctor versus AI concept",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stethoscope lab"
+      },
+      {
+        "hook": "Benchmarks aren't real patients",
+        "description": "Suleyman says AI outperforms on diagnostic benchmarks, yet real clinics have messy data and symptoms that don't fit.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "visual_hint": "Benchmark charts and code",
+        "image_query": "medical chart",
+        "image": "https://images.pexels.com/photos/8965128/pexels-photo-8965128.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "High scores, real emergencies",
+        "description": "Hospitals ask what evidence matters: a test score doesn't prove AI can handle a real emergency.",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "visual_hint": "Emergency room monitor",
+        "image_query": "hospital emergency",
+        "image": "https://images.pexels.com/photos/28318746/pexels-photo-28318746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your hardest case",
+        "description": "Before trusting the hype, run the AI on your toughest diagnostic challenge to see if it truly outperforms in your context.",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "visual_hint": "Hand holding tablet",
+        "image_query": "tablet doctor",
+        "image": "https://images.pexels.com/photos/19963124/pexels-photo-19963124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Would you trust AI diagnosis?",
+        "description": "Try it on a real case today and judge for yourself. Save this post and share your thoughts in the comments.",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "visual_hint": "AI diagnostic screen",
+        "image_query": "diagnostic screen",
+        "image": "https://images.pexels.com/photos/8460231/pexels-photo-8460231.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?w=1024",
+    "savedAt": "2026-10-23T08:57:48.064Z",
+    "sourceId": "bc91e34a2351f2b0b2a9398d1182e038"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "canva-releases-its-first-image-generation-model",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Canva releases its first image generation model",
+    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+    "slides": [
+      "Canva's new AI model threatens graphic designers' jobs?",
+      "It generates images directly inside the design editor",
+      "But trained on Canva's own licensed assets, not scraped art",
+      "Users can now create original visuals without stock photos",
+      "Test one image today and judge the quality yourself"
+    ],
+    "thread_text": [
+      "1. Designers, worried yet?\n\nCanva now generates images directly inside its editor, no plugins needed. Your workflow might never be the same.",
+      "2. How it was trained\n\nUnlike other AI art tools, Canva's model learned only from its own licensed assets—no scraped art. That could mean fewer copyright headaches.",
+      "3. Create without stock photos\n\nUsers can now generate original visuals on the spot, ditching generic stock images. Brands get unique content instantly.",
+      "4. The quality test\n\nCanva invites you to try one image today and judge the results yourself. The real question is whether it meets your standards.",
+      "5. Try it on your next post\n\nGenerate one image in Canva and compare it to your usual stock photo. Does it save time or create extra editing work? Test it this week."
+    ],
+    "video_script": [
+      "Canva's new AI model worries graphic designers.",
+      "It generates images right inside the design editor.",
+      "Trained on Canva's own licensed assets, not scraped art.",
+      "Users can create original visuals without stock photos.",
+      "Test one image today and judge the quality yourself."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Designers, worried yet?\n\nCanva now generates images directly inside its editor, no plugins needed. Your workflow might never be the same.",
+          "2. How it was trained\n\nUnlike other AI art tools, Canva's model learned only from its own licensed assets—no scraped art. That could mean fewer copyright headaches.",
+          "3. Create without stock photos\n\nUsers can now generate original visuals on the spot, ditching generic stock images. Brands get unique content instantly.",
+          "4. The quality test\n\nCanva invites you to try one image today and judge the results yourself. The real question is whether it meets your standards.",
+          "5. Try it on your next post\n\nGenerate one image in Canva and compare it to your usual stock photo. Does it save time or create extra editing work? Test it this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Canva's new AI model worries graphic designers.",
+          "It generates images right inside the design editor.",
+          "Trained on Canva's own licensed assets, not scraped art.",
+          "Users can create original visuals without stock photos.",
+          "Test one image today and judge the quality yourself."
+        ]
+      },
+      "instagram": {
+        "caption": "Canva now generates images inside its design editor, no plugins, no stock photo tabs.\n\nIts model was trained only on Canva's own licensed assets, not scraped art—which means fewer copyright headaches for the visuals you publish.\n\nYou can type a prompt and get an original image on the spot, ready for your next post. 🎨\n\nThat changes the workflow: fewer generic stock photos, but also a new question—will the output actually meet your standards, or create extra editing work? 🧐\n\nTry one image in Canva this week and compare it to your usual stock photo. Does it save time or cost you more? ⏱️"
+      }
+    },
+    "instagram_caption": "Canva now generates images inside its design editor, no plugins, no stock photo tabs.\n\nIts model was trained only on Canva's own licensed assets, not scraped art—which means fewer copyright headaches for the visuals you publish.\n\nYou can type a prompt and get an original image on the spot, ready for your next post. 🎨\n\nThat changes the workflow: fewer generic stock photos, but also a new question—will the output actually meet your standards, or create extra editing work? 🧐\n\nTry one image in Canva this week and compare it to your usual stock photo. Does it save time or cost you more? ⏱️",
+    "carousel_slides": [
+      {
+        "hook": "Will AI replace graphic designers?",
+        "description": "Canva now generates images directly inside its editor. The entire design workflow might never be the same.",
+        "visual_hint": "Designer looking at laptop with Canva open",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "graphic designer workspace"
+      },
+      {
+        "hook": "No plugins, no extra tools.",
+        "description": "Canva's new AI creates images right inside the design editor, eliminating the need for external plugins or stock photo sites.",
+        "visual_hint": "Split screen showing Canva editor with AI prompt",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer screen editor",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Trained on licensed assets, not scraped art.",
+        "description": "Unlike other AI art tools, Canva's model learned only from its own licensed assets, reducing copyright risks for users.",
+        "visual_hint": "Shield icon over stack of licensed images",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "copyright symbol legal documents",
+        "image": "https://images.pexels.com/photos/7876151/pexels-photo-7876151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Create original visuals instantly.",
+        "description": "Users can now generate unique images on the spot, ditching generic stock photos and giving brands instant, original content.",
+        "visual_hint": "Hand holding phone with generated image on screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "smartphone creative content",
+        "image": "https://images.pexels.com/photos/27915644/pexels-photo-27915644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one image today.",
+        "description": "Generate an image in Canva and compare it to your usual stock photo. Does it save time or create extra editing work? Try it this week.",
+        "visual_hint": "Before-and-after comparison of stock vs generated image",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "before after comparison",
+        "image": "https://images.pexels.com/photos/29013081/pexels-photo-29013081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675",
+    "savedAt": "2026-10-23T08:57:37.712Z",
+    "sourceId": "591876a8e3e006964f6564e69a096e09"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "uber-rival-indrive-eyes-2027-robotaxi-tests-in-cen",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "pubDate": "Fri, 23 Oct 2026 04:00:00 +0000",
+    "slides": [
+      "Can inDrive beat Uber to robotaxis in Central Asia?",
+      "It's teaming with Pony.ai and Nvidia for 2027 tests",
+      "But the plan targets gravel roads, not California highways",
+      "This could reshape transport economics in emerging markets first",
+      "Watch Central Asia carefully before Western markets move"
+    ],
+    "thread_text": [
+      "1. Robotaxi Race Goes East\n\nInDrive is testing autonomous cars with Pony.ai and Nvidia in 2027 — not in California, but on Central Asian gravel roads.",
+      "2. Silicon Valley's Blind Spot\n\nUber and Waymo chase highways, but inDrive targets unpaved roads where most of the world actually drives.",
+      "3. Cheaper Sensors, Different Game\n\nGravel doesn't need lidar perfection. InDrive's approach could slash costs by 10x — and that's the point.",
+      "4. Emerging Markets First\n\nIf robotaxis work on rough roads, they'll scale where car ownership is low — not where it's already saturated.",
+      "5. Would You Ride One?\n\nAsk yourself: would you trust a driverless car on a dirt road before a highway? Your answer predicts the market."
+    ],
+    "video_script": [
+      "InDrive is betting on robotaxis in Central Asia, not California.",
+      "They're teaming with Pony.ai and Nvidia for 2027 tests.",
+      "The plan targets gravel roads, where most of the world drives.",
+      "If it works there, transport economics could flip for emerging markets.",
+      "Watch Central Asia — it might move before Western markets do."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Robotaxi Race Goes East\n\nInDrive is testing autonomous cars with Pony.ai and Nvidia in 2027 — not in California, but on Central Asian gravel roads.",
+          "2. Silicon Valley's Blind Spot\n\nUber and Waymo chase highways, but inDrive targets unpaved roads where most of the world actually drives.",
+          "3. Cheaper Sensors, Different Game\n\nGravel doesn't need lidar perfection. InDrive's approach could slash costs by 10x — and that's the point.",
+          "4. Emerging Markets First\n\nIf robotaxis work on rough roads, they'll scale where car ownership is low — not where it's already saturated.",
+          "5. Would You Ride One?\n\nAsk yourself: would you trust a driverless car on a dirt road before a highway? Your answer predicts the market."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "InDrive is betting on robotaxis in Central Asia, not California.",
+          "They're teaming with Pony.ai and Nvidia for 2027 tests.",
+          "The plan targets gravel roads, where most of the world drives.",
+          "If it works there, transport economics could flip for emerging markets.",
+          "Watch Central Asia — it might move before Western markets do."
+        ]
+      },
+      "instagram": {
+        "caption": "Your next robotaxi ride might come with gravel under the tires, not asphalt. 🚗\n\ninDrive is partnering with Pony.ai and Nvidia to test driverless cars in Central Asia by 2027 — targeting unpaved roads, not California highways.\n\nCheaper sensors mean the economics could work where car ownership is low, not saturated.\n\nIf you write about mobility or emerging tech, this is the story shaping up before Western markets notice. 🌍\n\nWould you trust a driverless car on a dirt road before a highway?"
+      }
+    },
+    "instagram_caption": "Your next robotaxi ride might come with gravel under the tires, not asphalt. 🚗\n\ninDrive is partnering with Pony.ai and Nvidia to test driverless cars in Central Asia by 2027 — targeting unpaved roads, not California highways.\n\nCheaper sensors mean the economics could work where car ownership is low, not saturated.\n\nIf you write about mobility or emerging tech, this is the story shaping up before Western markets notice. 🌍\n\nWould you trust a driverless car on a dirt road before a highway?",
+    "carousel_slides": [
+      {
+        "hook": "Robotaxis on gravel roads?",
+        "description": "inDrive plans 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia, targeting unpaved roads where most of the world drives.",
+        "visual_hint": "Gravel road stretching to horizon",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "gravel road"
+      },
+      {
+        "hook": "Uber's blind spot?",
+        "description": "While Uber and Waymo chase highways, inDrive targets rough roads—a potential 10x cost cut by avoiding lidar perfection.",
+        "visual_hint": "Split screen: highway vs dirt road",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "highway road",
+        "image": "https://images.pexels.com/photos/11373628/pexels-photo-11373628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sensors that skip lidar?",
+        "description": "Gravel doesn't need lidar perfection. inDrive's cheaper sensor approach could slash costs by 10x and redefine robotaxi economics.",
+        "visual_hint": "Close-up of car sensors",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "car sensors",
+        "image": "https://images.pexels.com/photos/4141878/pexels-photo-4141878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Emerging markets first?",
+        "description": "If robotaxis handle rough roads, they'll scale where car ownership is low—reshaping transport in emerging markets before saturated Western ones.",
+        "visual_hint": "Hand hailing ride on dirt road",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand hailing taxi",
+        "image": "https://images.pexels.com/photos/6280699/pexels-photo-6280699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this prediction now",
+        "description": "Watch Central Asia: inDrive's robotaxi tests could disrupt global transport. Save this post and share your take in comments.",
+        "visual_hint": "Map of Central Asia with route pin",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "central asia map",
+        "image": "https://images.pexels.com/photos/5137965/pexels-photo-5137965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1200,800",
+    "savedAt": "2026-10-23T08:57:27.741Z",
+    "sourceId": "3bfe5c41c86a24ab8522d611b3d76fae"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "oura-sues-rival-ultrahuman-again-threatening-its-u",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+    "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+    "pubDate": "Fri, 23 Oct 2026 04:22:57 +0000",
+    "slides": [
+      "Why is Oura suing Ultrahuman again?",
+      "Ultrahuman had planned a major U.S. comeback",
+      "But the new patent lawsuit might freeze those plans",
+      "U.S. buyers may wait longer for Ultrahuman rings",
+      "Check if your next smart ring faces delays"
+    ],
+    "thread_text": [
+      "1. Oura sues Ultrahuman again\n\nOura has filed a new patent lawsuit against Ultrahuman, just as the latter planned a major U.S. comeback.",
+      "2. Ultrahuman's U.S. comeback frozen\n\nThe legal battle could delay Ultrahuman's plans to re-enter the U.S. market, leaving buyers in limbo.",
+      "3. Patent war escalates\n\nThis is the second lawsuit from Oura, signaling a tougher stance on patent infringement.",
+      "4. U.S. buyers face longer waits\n\nUltrahuman rings may not be available in the U.S. as soon as expected due to the lawsuit.",
+      "5. Check your smart ring order\n\nIf you pre-ordered an Ultrahuman ring, contact the company for updates on potential delays."
+    ],
+    "video_script": [
+      "Oura just sued Ultrahuman again over patents.",
+      "Ultrahuman had big plans for a U.S. comeback.",
+      "Now those plans might be frozen by the lawsuit.",
+      "U.S. buyers could wait longer for their rings.",
+      "Check if your smart ring order faces delays."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Oura sues Ultrahuman again\n\nOura has filed a new patent lawsuit against Ultrahuman, just as the latter planned a major U.S. comeback.",
+          "2. Ultrahuman's U.S. comeback frozen\n\nThe legal battle could delay Ultrahuman's plans to re-enter the U.S. market, leaving buyers in limbo.",
+          "3. Patent war escalates\n\nThis is the second lawsuit from Oura, signaling a tougher stance on patent infringement.",
+          "4. U.S. buyers face longer waits\n\nUltrahuman rings may not be available in the U.S. as soon as expected due to the lawsuit.",
+          "5. Check your smart ring order\n\nIf you pre-ordered an Ultrahuman ring, contact the company for updates on potential delays."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Oura just sued Ultrahuman again over patents.",
+          "Ultrahuman had big plans for a U.S. comeback.",
+          "Now those plans might be frozen by the lawsuit.",
+          "U.S. buyers could wait longer for their rings.",
+          "Check if your smart ring order faces delays."
+        ]
+      },
+      "instagram": {
+        "caption": "Oura just filed its second patent lawsuit against Ultrahuman, right as Ultrahuman was planning a big U.S. comeback. 🥊\n\nThe legal fight could delay Ultrahuman's return to the U.S. market.\n\nThat means buyers there may wait longer than expected for their rings.\n\nIf you pre-ordered an Ultrahuman ring, it's worth contacting the company for updates on possible delays. 📦\n\nSecond lawsuit from Oura signals a tougher stance on patent infringement.\n\nSo if your next smart ring is an Ultrahuman, have you checked whether your order is affected? 🤔"
+      }
+    },
+    "instagram_caption": "Oura just filed its second patent lawsuit against Ultrahuman, right as Ultrahuman was planning a big U.S. comeback. 🥊\n\nThe legal fight could delay Ultrahuman's return to the U.S. market.\n\nThat means buyers there may wait longer than expected for their rings.\n\nIf you pre-ordered an Ultrahuman ring, it's worth contacting the company for updates on possible delays. 📦\n\nSecond lawsuit from Oura signals a tougher stance on patent infringement.\n\nSo if your next smart ring is an Ultrahuman, have you checked whether your order is affected? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Why is Oura suing Ultrahuman again?",
+        "description": "Oura files a second patent lawsuit against Ultrahuman, escalating the legal battle just as Ultrahuman plans a U.S. comeback.",
+        "visual_hint": "Smart ring with legal gavel",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smart ring"
+      },
+      {
+        "hook": "Ultrahuman's U.S. comeback frozen",
+        "description": "Ultrahuman planned a major U.S. return, but the new lawsuit could freeze those plans and leave buyers in limbo.",
+        "visual_hint": "Frozen clock on U.S. map",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "US map",
+        "image": "https://images.pexels.com/photos/20240693/pexels-photo-20240693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Patent war escalates",
+        "description": "This is Oura's second lawsuit, signaling a tougher stance on patent infringement and raising stakes for smart ring rivals.",
+        "visual_hint": "Gavel hitting patent document",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "gavel",
+        "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "U.S. buyers face longer waits",
+        "description": "Due to the lawsuit, Ultrahuman rings may not be available in the U.S. as soon as expected, delaying customer orders.",
+        "visual_hint": "Person waiting with smart ring",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "waiting person",
+        "image": "https://images.pexels.com/photos/38572643/pexels-photo-38572643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your smart ring order now",
+        "description": "If you pre-ordered an Ultrahuman ring, contact the company for updates on potential delays. Save this post for updates.",
+        "visual_hint": "Hand holding smart ring",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smart ring",
+        "image": "https://images.pexels.com/photos/39326365/pexels-photo-39326365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=1200,800",
+    "savedAt": "2026-10-23T08:57:17.400Z",
+    "sourceId": "208710b51bf19867e3b4bef2b9ec7607"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-makes-its-jev-competitor-widely-available-a",
     "prompt_version": "1.0.0",
     "status": "published",
