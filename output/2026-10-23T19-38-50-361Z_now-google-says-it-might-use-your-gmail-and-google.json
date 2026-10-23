@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "now-google-says-it-might-use-your-gmail-and-google",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+  "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+  "pubDate": "2026-10-23T16:52:55.000Z",
+  "slides": [
+    "Google might use your Gmail to target ads — worried?",
+    "It cites a policy update covering Photos and Gmail",
+    "But ads were never actually trained on your content before",
+    "You can opt out in settings, but defaults stay on",
+    "Check your ad settings today before it expands"
+  ],
+  "thread_text": [
+    "1. Your Gmail ads worry?\n\nGoogle just updated its policy to cover Photos and Gmail, but ads were never trained on your content before. So why the change now?",
+    "2. Policy update explained\n\nThe new terms explicitly mention Photos and Gmail, but Google says it's just housekeeping. Yet the timing raises eyebrows.",
+    "3. Ads never trained on content\n\nBefore this update, Google didn't use your emails or photos to train ad algorithms. Now the door is open, even if they say it's not.",
+    "4. Opt out, defaults stay on\n\nYou can turn off ad personalization in settings, but the default is still on. Most users won't even notice the change.",
+    "5. Check your settings now\n\nOpen your Google account, go to Ad Settings, and decide if you're comfortable. Do it before the policy expands further."
+  ],
+  "video_script": [
+    "Google might use your Gmail to target ads. Worried?",
+    "They updated their policy to cover Photos and Gmail.",
+    "But ads were never trained on your content before.",
+    "You can opt out in settings, but defaults stay on.",
+    "Check your ad settings today before it expands."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your Gmail ads worry?\n\nGoogle just updated its policy to cover Photos and Gmail, but ads were never trained on your content before. So why the change now?",
+        "2. Policy update explained\n\nThe new terms explicitly mention Photos and Gmail, but Google says it's just housekeeping. Yet the timing raises eyebrows.",
+        "3. Ads never trained on content\n\nBefore this update, Google didn't use your emails or photos to train ad algorithms. Now the door is open, even if they say it's not.",
+        "4. Opt out, defaults stay on\n\nYou can turn off ad personalization in settings, but the default is still on. Most users won't even notice the change.",
+        "5. Check your settings now\n\nOpen your Google account, go to Ad Settings, and decide if you're comfortable. Do it before the policy expands further."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google might use your Gmail to target ads. Worried?",
+        "They updated their policy to cover Photos and Gmail.",
+        "But ads were never trained on your content before.",
+        "You can opt out in settings, but defaults stay on.",
+        "Check your ad settings today before it expands."
+      ]
+    },
+    "instagram": {
+      "caption": "Your emails and photos in Gmail and Google Photos now fall under a policy update that mentions ad targeting — and the default is still on. 📬\n\nGoogle says ads were never trained on your content before, so the change is raising eyebrows.\n\nYou can opt out in Ad Settings, but most people won't notice it's happening.\n\nIf you write, publish, or just live in your inbox, this is your reminder to check what's switched on. 🔍\n\nWould you know where to find your ad settings right now — or are you trusting the default? 🤔"
+    }
+  },
+  "instagram_caption": "Your emails and photos in Gmail and Google Photos now fall under a policy update that mentions ad targeting — and the default is still on. 📬\n\nGoogle says ads were never trained on your content before, so the change is raising eyebrows.\n\nYou can opt out in Ad Settings, but most people won't notice it's happening.\n\nIf you write, publish, or just live in your inbox, this is your reminder to check what's switched on. 🔍\n\nWould you know where to find your ad settings right now — or are you trusting the default? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Google might read your Gmail for ads",
+      "description": "Policy update covers Gmail and Photos, but ads were never trained on your content before. Why now?",
+      "visual_hint": "Gmail inbox on smartphone screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone email"
+    },
+    {
+      "hook": "New policy explicitly mentions Photos and Gmail",
+      "description": "Google calls it housekeeping, but the timing raises eyebrows as ad targeting expands.",
+      "visual_hint": "Policy document with Google logo",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "legal document",
+      "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ads never trained on your content before",
+      "description": "Previously, emails and photos weren't used for ad algorithms. Now the door is open.",
+      "visual_hint": "Server room with data streams",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Opt out, but defaults stay on",
+      "description": "You can disable ad personalization in settings, but most users won't notice the change.",
+      "visual_hint": "Hand tapping phone settings",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "phone settings",
+      "image": "https://images.pexels.com/photos/13702503/pexels-photo-13702503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your ad settings now",
+      "description": "Open Google Account, go to Ad Settings, and decide if you're comfortable. Do it today.",
+      "visual_hint": "Google account settings page",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop screen",
+      "image": "https://images.pexels.com/photos/17115912/pexels-photo-17115912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-23T19:39:09.370Z",
+  "sourceId": "a08e7d50b12c6e1efc370682635f8737"
+}

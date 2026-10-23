@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "meta-8217-s-ai-could-still-scrape-news-sites-legal",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "pubDate": "2026-10-22T20:32:05.000Z",
+      "slides": [
+        "Can Meta's AI still scrape your news site?",
+        "Legal experts say current rules leave a gap.",
+        "Consent isn't legally required for public content scraping.",
+        "Publishers now face a choice: block or license.",
+        "Check your robots.txt before the next crawl."
+      ],
+      "thread_text": [
+        "1. Meta's AI scraping loophole\n\nLegal experts confirm current rules don't require consent for public content scraping. Publishers are discovering this gap the hard way.",
+        "2. The robots.txt illusion\n\nBlocking a crawler feels like control, but it's not a legal shield. It's a technical request that AI companies can ignore without penalty.",
+        "3. License or lose leverage\n\nPublishers now face a binary choice: negotiate licensing deals or block entirely. There's no middle ground where you keep content public and protected.",
+        "4. Consent was never the point\n\nScraping public pages isn't theft under current law. That's why experts call it a gap, not a violation. The rules simply don't cover this case.",
+        "5. Check your robots.txt today\n\nDoes your site allow AI crawlers by default? Take five minutes to review what you're actually permitting before the next crawl happens."
+      ],
+      "video_script": [
+        "Meta can still scrape your news site legally.",
+        "Legal experts say current rules leave a gap.",
+        "Consent isn't required for public content scraping.",
+        "Publishers face a choice: block or license.",
+        "Check your robots.txt before the next crawl."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Meta's AI scraping loophole\n\nLegal experts confirm current rules don't require consent for public content scraping. Publishers are discovering this gap the hard way.",
+            "2. The robots.txt illusion\n\nBlocking a crawler feels like control, but it's not a legal shield. It's a technical request that AI companies can ignore without penalty.",
+            "3. License or lose leverage\n\nPublishers now face a binary choice: negotiate licensing deals or block entirely. There's no middle ground where you keep content public and protected.",
+            "4. Consent was never the point\n\nScraping public pages isn't theft under current law. That's why experts call it a gap, not a violation. The rules simply don't cover this case.",
+            "5. Check your robots.txt today\n\nDoes your site allow AI crawlers by default? Take five minutes to review what you're actually permitting before the next crawl happens."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta can still scrape your news site legally.",
+            "Legal experts say current rules leave a gap.",
+            "Consent isn't required for public content scraping.",
+            "Publishers face a choice: block or license.",
+            "Check your robots.txt before the next crawl."
+          ]
+        },
+        "instagram": {
+          "caption": "Legal experts say Meta's AI can keep scraping your news site without asking permission. 📰\n\nCurrent rules don't require consent for public content scraping. That's a gap, not a violation.\n\nBlocking a crawler in robots.txt feels like control, but it's just a technical request companies can ignore without penalty.\n\nPublishers now face a binary choice: license the content or block it entirely. There's no middle ground. 🤔\n\nIf you publish anything online, your pages may already be training data. Take five minutes to check what your robots.txt actually allows before the next crawl. 🔍\n\nDo you know what your site is permitting right now? ⚠️"
+        }
+      },
+      "instagram_caption": "Legal experts say Meta's AI can keep scraping your news site without asking permission. 📰\n\nCurrent rules don't require consent for public content scraping. That's a gap, not a violation.\n\nBlocking a crawler in robots.txt feels like control, but it's just a technical request companies can ignore without penalty.\n\nPublishers now face a binary choice: license the content or block it entirely. There's no middle ground. 🤔\n\nIf you publish anything online, your pages may already be training data. Take five minutes to check what your robots.txt actually allows before the next crawl. 🔍\n\nDo you know what your site is permitting right now? ⚠️",
+      "carousel_slides": [
+        {
+          "hook": "Meta's AI can still scrape your news site",
+          "description": "Legal experts confirm consent isn't required for public content scraping, leaving publishers exposed without legal recourse. This gap is not a violation, just an oversight.",
+          "visual_hint": "Meta logo on a server rack",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Legal experts say current rules leave a gap",
+          "description": "Consent was never the point: scraping public pages isn't theft under current law, so the rules simply don't cover this case. Publishers are discovering this gap the hard way.",
+          "visual_hint": "Gavel and law book on desk",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "law book",
+          "image": "https://images.pexels.com/photos/8731036/pexels-photo-8731036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Consent isn't legally required for public content scraping",
+          "description": "Blocking a crawler feels like control, but it's not a legal shield; AI companies can ignore robots.txt without penalty. That's why it's a gap, not a protection.",
+          "visual_hint": "Robots.txt file on a computer screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer screen",
+          "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Publishers now face a choice: block or license",
+          "description": "There's no middle ground where you keep content public and protected. Negotiate licensing deals or block entirely; the binary choice is yours.",
+          "visual_hint": "Contract and pen on a table",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "contract paper",
+          "image": "https://images.pexels.com/photos/7841413/pexels-photo-7841413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your robots.txt before the next crawl",
+          "description": "Take five minutes to review what you're actually permitting. Does your site allow AI crawlers by default? Save this post and check your settings now.",
+          "visual_hint": "Hand typing on laptop keyboard",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop keyboard",
+          "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-23T19:39:18.676Z",
+      "sourceId": "af7e7277bac39aa5891995ed38f43361"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "now-google-says-it-might-use-your-gmail-and-google",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "pubDate": "2026-10-23T16:52:55.000Z",
+      "slides": [
+        "Google might use your Gmail to target ads — worried?",
+        "It cites a policy update covering Photos and Gmail",
+        "But ads were never actually trained on your content before",
+        "You can opt out in settings, but defaults stay on",
+        "Check your ad settings today before it expands"
+      ],
+      "thread_text": [
+        "1. Your Gmail ads worry?\n\nGoogle just updated its policy to cover Photos and Gmail, but ads were never trained on your content before. So why the change now?",
+        "2. Policy update explained\n\nThe new terms explicitly mention Photos and Gmail, but Google says it's just housekeeping. Yet the timing raises eyebrows.",
+        "3. Ads never trained on content\n\nBefore this update, Google didn't use your emails or photos to train ad algorithms. Now the door is open, even if they say it's not.",
+        "4. Opt out, defaults stay on\n\nYou can turn off ad personalization in settings, but the default is still on. Most users won't even notice the change.",
+        "5. Check your settings now\n\nOpen your Google account, go to Ad Settings, and decide if you're comfortable. Do it before the policy expands further."
+      ],
+      "video_script": [
+        "Google might use your Gmail to target ads. Worried?",
+        "They updated their policy to cover Photos and Gmail.",
+        "But ads were never trained on your content before.",
+        "You can opt out in settings, but defaults stay on.",
+        "Check your ad settings today before it expands."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your Gmail ads worry?\n\nGoogle just updated its policy to cover Photos and Gmail, but ads were never trained on your content before. So why the change now?",
+            "2. Policy update explained\n\nThe new terms explicitly mention Photos and Gmail, but Google says it's just housekeeping. Yet the timing raises eyebrows.",
+            "3. Ads never trained on content\n\nBefore this update, Google didn't use your emails or photos to train ad algorithms. Now the door is open, even if they say it's not.",
+            "4. Opt out, defaults stay on\n\nYou can turn off ad personalization in settings, but the default is still on. Most users won't even notice the change.",
+            "5. Check your settings now\n\nOpen your Google account, go to Ad Settings, and decide if you're comfortable. Do it before the policy expands further."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google might use your Gmail to target ads. Worried?",
+            "They updated their policy to cover Photos and Gmail.",
+            "But ads were never trained on your content before.",
+            "You can opt out in settings, but defaults stay on.",
+            "Check your ad settings today before it expands."
+          ]
+        },
+        "instagram": {
+          "caption": "Your emails and photos in Gmail and Google Photos now fall under a policy update that mentions ad targeting — and the default is still on. 📬\n\nGoogle says ads were never trained on your content before, so the change is raising eyebrows.\n\nYou can opt out in Ad Settings, but most people won't notice it's happening.\n\nIf you write, publish, or just live in your inbox, this is your reminder to check what's switched on. 🔍\n\nWould you know where to find your ad settings right now — or are you trusting the default? 🤔"
+        }
+      },
+      "instagram_caption": "Your emails and photos in Gmail and Google Photos now fall under a policy update that mentions ad targeting — and the default is still on. 📬\n\nGoogle says ads were never trained on your content before, so the change is raising eyebrows.\n\nYou can opt out in Ad Settings, but most people won't notice it's happening.\n\nIf you write, publish, or just live in your inbox, this is your reminder to check what's switched on. 🔍\n\nWould you know where to find your ad settings right now — or are you trusting the default? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Google might read your Gmail for ads",
+          "description": "Policy update covers Gmail and Photos, but ads were never trained on your content before. Why now?",
+          "visual_hint": "Gmail inbox on smartphone screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone email"
+        },
+        {
+          "hook": "New policy explicitly mentions Photos and Gmail",
+          "description": "Google calls it housekeeping, but the timing raises eyebrows as ad targeting expands.",
+          "visual_hint": "Policy document with Google logo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "legal document",
+          "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ads never trained on your content before",
+          "description": "Previously, emails and photos weren't used for ad algorithms. Now the door is open.",
+          "visual_hint": "Server room with data streams",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Opt out, but defaults stay on",
+          "description": "You can disable ad personalization in settings, but most users won't notice the change.",
+          "visual_hint": "Hand tapping phone settings",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "phone settings",
+          "image": "https://images.pexels.com/photos/13702503/pexels-photo-13702503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your ad settings now",
+          "description": "Open Google Account, go to Ad Settings, and decide if you're comfortable. Do it today.",
+          "visual_hint": "Google account settings page",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop screen",
+          "image": "https://images.pexels.com/photos/17115912/pexels-photo-17115912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-23T19:39:09.370Z",
+      "sourceId": "a08e7d50b12c6e1efc370682635f8737"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "agent-cloud-startup-daytona-hits-1b-valuation-back",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+      "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+      "pubDate": "Fri, 23 Oct 2026 16:26:29 +0000",
+      "slides": [
+        "Can Daytona's $1B bet on agent cloud hold up?",
+        "FirstMark led the round with a roster of angels",
+        "Most agent startups still run on rented, fragile sandboxes",
+        "Your agent infra choice now carries real vendor risk",
+        "Test one production workload before the lock-in sets"
+      ],
+      "thread_text": [
+        "1. The $1B question nobody asks\n\nDaytona just raised a billion dollars to build cloud infrastructure for AI agents. But most agent startups today still run on rented, fragile sandboxes that break under load.",
+        "2. FirstMark's angel army\n\nFirstMark led the round with a roster of angels who've built and sold infrastructure companies. Their bet isn't on agents—it's on the layer every agent will need to survive production.",
+        "3. Your sandbox is a liability\n\nRented sandboxes weren't designed for autonomous agents that spawn subprocesses and persist state. When one fails, your agent goes dark and your users notice.",
+        "4. Lock-in hides in the stack\n\nChoosing an agent infra provider now means betting on their pricing, their uptime, and their roadmap. Switching later costs more than the compute you save today.",
+        "5. Test before you commit\n\nTake one production workload and run it on Daytona's free tier this week. If it doesn't survive real traffic, you've learned something before the contract."
+      ],
+      "video_script": [
+        "Daytona raised a billion dollars for agent cloud.",
+        "FirstMark and angels are betting on infrastructure, not agents.",
+        "Most agent startups still run on rented, fragile sandboxes.",
+        "Your infrastructure choice now carries real vendor risk.",
+        "Test one production workload before you lock in."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The $1B question nobody asks\n\nDaytona just raised a billion dollars to build cloud infrastructure for AI agents. But most agent startups today still run on rented, fragile sandboxes that break under load.",
+            "2. FirstMark's angel army\n\nFirstMark led the round with a roster of angels who've built and sold infrastructure companies. Their bet isn't on agents—it's on the layer every agent will need to survive production.",
+            "3. Your sandbox is a liability\n\nRented sandboxes weren't designed for autonomous agents that spawn subprocesses and persist state. When one fails, your agent goes dark and your users notice.",
+            "4. Lock-in hides in the stack\n\nChoosing an agent infra provider now means betting on their pricing, their uptime, and their roadmap. Switching later costs more than the compute you save today.",
+            "5. Test before you commit\n\nTake one production workload and run it on Daytona's free tier this week. If it doesn't survive real traffic, you've learned something before the contract."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Daytona raised a billion dollars for agent cloud.",
+            "FirstMark and angels are betting on infrastructure, not agents.",
+            "Most agent startups still run on rented, fragile sandboxes.",
+            "Your infrastructure choice now carries real vendor risk.",
+            "Test one production workload before you lock in."
+          ]
+        },
+        "instagram": {
+          "caption": "A billion-dollar bet says the infrastructure under your AI agent is now a real market.\n\nDaytona just hit a $1B valuation, with FirstMark leading and a roster of infrastructure angels piling in. The pitch: a cloud built for agents that spawn subprocesses and hold state.\n\nHere's the catch 🚩 most agent startups still run on rented sandboxes that weren't built for this.\n\nThat means vendor risk now sits in your stack 🔧 switching later costs more than the compute you save.\n\n👉 Pick one production workload and run it on the free tier this week. If it breaks under real traffic, you found out before signing anything."
+        }
+      },
+      "instagram_caption": "A billion-dollar bet says the infrastructure under your AI agent is now a real market.\n\nDaytona just hit a $1B valuation, with FirstMark leading and a roster of infrastructure angels piling in. The pitch: a cloud built for agents that spawn subprocesses and hold state.\n\nHere's the catch 🚩 most agent startups still run on rented sandboxes that weren't built for this.\n\nThat means vendor risk now sits in your stack 🔧 switching later costs more than the compute you save.\n\n👉 Pick one production workload and run it on the free tier this week. If it breaks under real traffic, you found out before signing anything.",
+      "carousel_slides": [
+        {
+          "hook": "Is your agent sandbox a liability?",
+          "description": "Rented sandboxes break under load, taking your agent offline and alerting users. Daytona's $1B bet targets this fragile layer.",
+          "visual_hint": "Cracked server rack under pressure",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "FirstMark bets on the agent layer",
+          "description": "FirstMark led the round with angels who built infrastructure companies, betting on the layer every agent needs to survive production.",
+          "visual_hint": "Angel investors around a table",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "office meeting",
+          "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Most agents run on rented sandboxes",
+          "description": "Most agent startups still use rented, fragile sandboxes that fail under load, causing agent downtime and user-visible outages.",
+          "visual_hint": "Fragile sandbox breaking under load",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "sandbox",
+          "image": "https://images.pexels.com/photos/16940343/pexels-photo-16940343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Lock-in risk is real, not theoretical",
+          "description": "Choosing an agent infra provider now locks you into their pricing, uptime, and roadmap. Switching later costs more than compute savings.",
+          "visual_hint": "Hand holding contract with lock symbol",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "contract signing",
+          "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: test before you commit",
+          "description": "Take one production workload and run it on Daytona's free tier this week to see if it survives real traffic before signing.",
+          "visual_hint": "Checklist with test and save icons",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/Daytona_Founders-e1698845569762.jpg?resize=1200,676",
+      "savedAt": "2026-10-23T19:39:00.378Z",
+      "sourceId": "79e04d32985395517b9fa97213c6a036"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "former-openai-science-lead-launches-warp-science-t",
       "prompt_version": "1.0.0",
       "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "agent-cloud-startup-daytona-hits-1b-valuation-back",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+  "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+  "pubDate": "Fri, 23 Oct 2026 16:26:29 +0000",
+  "slides": [
+    "Can Daytona's $1B bet on agent cloud hold up?",
+    "FirstMark led the round with a roster of angels",
+    "Most agent startups still run on rented, fragile sandboxes",
+    "Your agent infra choice now carries real vendor risk",
+    "Test one production workload before the lock-in sets"
+  ],
+  "thread_text": [
+    "1. The $1B question nobody asks\n\nDaytona just raised a billion dollars to build cloud infrastructure for AI agents. But most agent startups today still run on rented, fragile sandboxes that break under load.",
+    "2. FirstMark's angel army\n\nFirstMark led the round with a roster of angels who've built and sold infrastructure companies. Their bet isn't on agents—it's on the layer every agent will need to survive production.",
+    "3. Your sandbox is a liability\n\nRented sandboxes weren't designed for autonomous agents that spawn subprocesses and persist state. When one fails, your agent goes dark and your users notice.",
+    "4. Lock-in hides in the stack\n\nChoosing an agent infra provider now means betting on their pricing, their uptime, and their roadmap. Switching later costs more than the compute you save today.",
+    "5. Test before you commit\n\nTake one production workload and run it on Daytona's free tier this week. If it doesn't survive real traffic, you've learned something before the contract."
+  ],
+  "video_script": [
+    "Daytona raised a billion dollars for agent cloud.",
+    "FirstMark and angels are betting on infrastructure, not agents.",
+    "Most agent startups still run on rented, fragile sandboxes.",
+    "Your infrastructure choice now carries real vendor risk.",
+    "Test one production workload before you lock in."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $1B question nobody asks\n\nDaytona just raised a billion dollars to build cloud infrastructure for AI agents. But most agent startups today still run on rented, fragile sandboxes that break under load.",
+        "2. FirstMark's angel army\n\nFirstMark led the round with a roster of angels who've built and sold infrastructure companies. Their bet isn't on agents—it's on the layer every agent will need to survive production.",
+        "3. Your sandbox is a liability\n\nRented sandboxes weren't designed for autonomous agents that spawn subprocesses and persist state. When one fails, your agent goes dark and your users notice.",
+        "4. Lock-in hides in the stack\n\nChoosing an agent infra provider now means betting on their pricing, their uptime, and their roadmap. Switching later costs more than the compute you save today.",
+        "5. Test before you commit\n\nTake one production workload and run it on Daytona's free tier this week. If it doesn't survive real traffic, you've learned something before the contract."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Daytona raised a billion dollars for agent cloud.",
+        "FirstMark and angels are betting on infrastructure, not agents.",
+        "Most agent startups still run on rented, fragile sandboxes.",
+        "Your infrastructure choice now carries real vendor risk.",
+        "Test one production workload before you lock in."
+      ]
+    },
+    "instagram": {
+      "caption": "A billion-dollar bet says the infrastructure under your AI agent is now a real market.\n\nDaytona just hit a $1B valuation, with FirstMark leading and a roster of infrastructure angels piling in. The pitch: a cloud built for agents that spawn subprocesses and hold state.\n\nHere's the catch 🚩 most agent startups still run on rented sandboxes that weren't built for this.\n\nThat means vendor risk now sits in your stack 🔧 switching later costs more than the compute you save.\n\n👉 Pick one production workload and run it on the free tier this week. If it breaks under real traffic, you found out before signing anything."
+    }
+  },
+  "instagram_caption": "A billion-dollar bet says the infrastructure under your AI agent is now a real market.\n\nDaytona just hit a $1B valuation, with FirstMark leading and a roster of infrastructure angels piling in. The pitch: a cloud built for agents that spawn subprocesses and hold state.\n\nHere's the catch 🚩 most agent startups still run on rented sandboxes that weren't built for this.\n\nThat means vendor risk now sits in your stack 🔧 switching later costs more than the compute you save.\n\n👉 Pick one production workload and run it on the free tier this week. If it breaks under real traffic, you found out before signing anything.",
+  "carousel_slides": [
+    {
+      "hook": "Is your agent sandbox a liability?",
+      "description": "Rented sandboxes break under load, taking your agent offline and alerting users. Daytona's $1B bet targets this fragile layer.",
+      "visual_hint": "Cracked server rack under pressure",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "FirstMark bets on the agent layer",
+      "description": "FirstMark led the round with angels who built infrastructure companies, betting on the layer every agent needs to survive production.",
+      "visual_hint": "Angel investors around a table",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office meeting",
+      "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Most agents run on rented sandboxes",
+      "description": "Most agent startups still use rented, fragile sandboxes that fail under load, causing agent downtime and user-visible outages.",
+      "visual_hint": "Fragile sandbox breaking under load",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "sandbox",
+      "image": "https://images.pexels.com/photos/16940343/pexels-photo-16940343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Lock-in risk is real, not theoretical",
+      "description": "Choosing an agent infra provider now locks you into their pricing, uptime, and roadmap. Switching later costs more than compute savings.",
+      "visual_hint": "Hand holding contract with lock symbol",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "contract signing",
+      "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: test before you commit",
+      "description": "Take one production workload and run it on Daytona's free tier this week to see if it survives real traffic before signing.",
+      "visual_hint": "Checklist with test and save icons",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/11/Daytona_Founders-e1698845569762.jpg?resize=1200,676",
+  "savedAt": "2026-10-23T19:39:00.378Z",
+  "sourceId": "79e04d32985395517b9fa97213c6a036"
+}

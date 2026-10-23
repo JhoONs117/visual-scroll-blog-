@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-8217-s-ai-could-still-scrape-news-sites-legal",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+  "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+  "pubDate": "2026-10-22T20:32:05.000Z",
+  "slides": [
+    "Can Meta's AI still scrape your news site?",
+    "Legal experts say current rules leave a gap.",
+    "Consent isn't legally required for public content scraping.",
+    "Publishers now face a choice: block or license.",
+    "Check your robots.txt before the next crawl."
+  ],
+  "thread_text": [
+    "1. Meta's AI scraping loophole\n\nLegal experts confirm current rules don't require consent for public content scraping. Publishers are discovering this gap the hard way.",
+    "2. The robots.txt illusion\n\nBlocking a crawler feels like control, but it's not a legal shield. It's a technical request that AI companies can ignore without penalty.",
+    "3. License or lose leverage\n\nPublishers now face a binary choice: negotiate licensing deals or block entirely. There's no middle ground where you keep content public and protected.",
+    "4. Consent was never the point\n\nScraping public pages isn't theft under current law. That's why experts call it a gap, not a violation. The rules simply don't cover this case.",
+    "5. Check your robots.txt today\n\nDoes your site allow AI crawlers by default? Take five minutes to review what you're actually permitting before the next crawl happens."
+  ],
+  "video_script": [
+    "Meta can still scrape your news site legally.",
+    "Legal experts say current rules leave a gap.",
+    "Consent isn't required for public content scraping.",
+    "Publishers face a choice: block or license.",
+    "Check your robots.txt before the next crawl."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta's AI scraping loophole\n\nLegal experts confirm current rules don't require consent for public content scraping. Publishers are discovering this gap the hard way.",
+        "2. The robots.txt illusion\n\nBlocking a crawler feels like control, but it's not a legal shield. It's a technical request that AI companies can ignore without penalty.",
+        "3. License or lose leverage\n\nPublishers now face a binary choice: negotiate licensing deals or block entirely. There's no middle ground where you keep content public and protected.",
+        "4. Consent was never the point\n\nScraping public pages isn't theft under current law. That's why experts call it a gap, not a violation. The rules simply don't cover this case.",
+        "5. Check your robots.txt today\n\nDoes your site allow AI crawlers by default? Take five minutes to review what you're actually permitting before the next crawl happens."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta can still scrape your news site legally.",
+        "Legal experts say current rules leave a gap.",
+        "Consent isn't required for public content scraping.",
+        "Publishers face a choice: block or license.",
+        "Check your robots.txt before the next crawl."
+      ]
+    },
+    "instagram": {
+      "caption": "Legal experts say Meta's AI can keep scraping your news site without asking permission. 📰\n\nCurrent rules don't require consent for public content scraping. That's a gap, not a violation.\n\nBlocking a crawler in robots.txt feels like control, but it's just a technical request companies can ignore without penalty.\n\nPublishers now face a binary choice: license the content or block it entirely. There's no middle ground. 🤔\n\nIf you publish anything online, your pages may already be training data. Take five minutes to check what your robots.txt actually allows before the next crawl. 🔍\n\nDo you know what your site is permitting right now? ⚠️"
+    }
+  },
+  "instagram_caption": "Legal experts say Meta's AI can keep scraping your news site without asking permission. 📰\n\nCurrent rules don't require consent for public content scraping. That's a gap, not a violation.\n\nBlocking a crawler in robots.txt feels like control, but it's just a technical request companies can ignore without penalty.\n\nPublishers now face a binary choice: license the content or block it entirely. There's no middle ground. 🤔\n\nIf you publish anything online, your pages may already be training data. Take five minutes to check what your robots.txt actually allows before the next crawl. 🔍\n\nDo you know what your site is permitting right now? ⚠️",
+  "carousel_slides": [
+    {
+      "hook": "Meta's AI can still scrape your news site",
+      "description": "Legal experts confirm consent isn't required for public content scraping, leaving publishers exposed without legal recourse. This gap is not a violation, just an oversight.",
+      "visual_hint": "Meta logo on a server rack",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Legal experts say current rules leave a gap",
+      "description": "Consent was never the point: scraping public pages isn't theft under current law, so the rules simply don't cover this case. Publishers are discovering this gap the hard way.",
+      "visual_hint": "Gavel and law book on desk",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "law book",
+      "image": "https://images.pexels.com/photos/8731036/pexels-photo-8731036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Consent isn't legally required for public content scraping",
+      "description": "Blocking a crawler feels like control, but it's not a legal shield; AI companies can ignore robots.txt without penalty. That's why it's a gap, not a protection.",
+      "visual_hint": "Robots.txt file on a computer screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer screen",
+      "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Publishers now face a choice: block or license",
+      "description": "There's no middle ground where you keep content public and protected. Negotiate licensing deals or block entirely; the binary choice is yours.",
+      "visual_hint": "Contract and pen on a table",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "contract paper",
+      "image": "https://images.pexels.com/photos/7841413/pexels-photo-7841413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your robots.txt before the next crawl",
+      "description": "Take five minutes to review what you're actually permitting. Does your site allow AI crawlers by default? Save this post and check your settings now.",
+      "visual_hint": "Hand typing on laptop keyboard",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop keyboard",
+      "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-23T19:39:18.676Z",
+  "sourceId": "af7e7277bac39aa5891995ed38f43361"
+}
