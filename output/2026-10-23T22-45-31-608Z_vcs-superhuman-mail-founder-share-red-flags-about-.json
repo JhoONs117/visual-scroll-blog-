@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "vcs-superhuman-mail-founder-share-red-flags-about-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+  "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+  "pubDate": "Fri, 23 Oct 2026 20:57:13 +0000",
+  "slides": [
+    "Why do VCs say most startups fake product-market fit?",
+    "Superhuman Mail's founder watched real PMF almost slip away",
+    "The red flag isn't low usage—it's users who shrug at losing you",
+    "If nobody churns hard when you disappear, you have a feature",
+    "Pick one metric users would fight to keep, then protect it"
+  ],
+  "thread_text": [
+    "1. The PMF Illusion\n\nVenture capitalists say most startups fake product-market fit. They point to a specific warning sign that founders often miss.",
+    "2. The Founder's Scare\n\nSuperhuman Mail's founder watched real PMF almost slip away. The product was growing, but the team nearly lost the signal.",
+    "3. The Real Red Flag\n\nLow usage isn't the problem. The red flag is users who shrug at the thought of losing you.",
+    "4. Just a Feature\n\nIf nobody churns hard when you disappear, you have a feature. Not a product. Not a business.",
+    "5. Protect One Metric\n\nPick one metric users would fight to keep, then protect it. Which metric would your users fight for? Share your answer."
+  ],
+  "video_script": [
+    "Most startups fake product-market fit, and VCs know.",
+    "Superhuman's founder almost lost real PMF.",
+    "Low usage isn't the red flag.",
+    "Users who shrug at losing you are the red flag.",
+    "Pick one metric users would fight for."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The PMF Illusion\n\nVenture capitalists say most startups fake product-market fit. They point to a specific warning sign that founders often miss.",
+        "2. The Founder's Scare\n\nSuperhuman Mail's founder watched real PMF almost slip away. The product was growing, but the team nearly lost the signal.",
+        "3. The Real Red Flag\n\nLow usage isn't the problem. The red flag is users who shrug at the thought of losing you.",
+        "4. Just a Feature\n\nIf nobody churns hard when you disappear, you have a feature. Not a product. Not a business.",
+        "5. Protect One Metric\n\nPick one metric users would fight to keep, then protect it. Which metric would your users fight for? Share your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Most startups fake product-market fit, and VCs know.",
+        "Superhuman's founder almost lost real PMF.",
+        "Low usage isn't the red flag.",
+        "Users who shrug at losing you are the red flag.",
+        "Pick one metric users would fight for."
+      ]
+    },
+    "instagram": {
+      "caption": "Most startups claiming product-market fit are faking it, and venture capitalists can spot the tell.\n\nThe red flag isn't low usage. It's users who shrug at the thought of losing your product. 😶\n\nSuperhuman Mail's founder nearly watched real product-market fit slip away even while the product was growing.\n\nIf nobody churns hard when you disappear, you don't have a product. You have a feature. 🚩\n\nPick one metric your users would actually fight to keep, then protect it. 🛡️\n\nWhat's the one metric your users would fight for if you tried to remove it? 👇"
+    }
+  },
+  "instagram_caption": "Most startups claiming product-market fit are faking it, and venture capitalists can spot the tell.\n\nThe red flag isn't low usage. It's users who shrug at the thought of losing your product. 😶\n\nSuperhuman Mail's founder nearly watched real product-market fit slip away even while the product was growing.\n\nIf nobody churns hard when you disappear, you don't have a product. You have a feature. 🚩\n\nPick one metric your users would actually fight to keep, then protect it. 🛡️\n\nWhat's the one metric your users would fight for if you tried to remove it? 👇",
+  "carousel_slides": [
+    {
+      "hook": "Is your product-market fit actually fake?",
+      "description": "VCs warn most startups fake PMF, citing a warning sign founders often miss. Low usage is not it.",
+      "visual_hint": "close-up of a cracked mirror",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "cracked mirror"
+    },
+    {
+      "hook": "Superhuman Mail almost lost real PMF",
+      "description": "The founder watched real PMF nearly slip away despite growth. The team almost missed the signal.",
+      "visual_hint": "founder looking at analytics dashboard",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "analytics dashboard",
+      "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The red flag: users shrug at losing you",
+      "description": "If users would not care when you disappear, you have a feature, not a business. Churn is key.",
+      "visual_hint": "person shrugging with open palms",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "person shrugging",
+      "image": "https://images.pexels.com/photos/33715995/pexels-photo-33715995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "If nobody churns hard, it's just a feature",
+      "description": "When your product vanishes, no hard churn means it is not a product or a business. Just a feature.",
+      "visual_hint": "empty office desk with computer",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "empty office",
+      "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: pick one metric to protect",
+      "description": "Choose one metric users would fight to keep, then protect it. Comment which metric your users fight for.",
+      "visual_hint": "hand holding a compass",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hand holding compass",
+      "image": "https://images.pexels.com/photos/4640934/pexels-photo-4640934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/PMf-panel.jpg?resize=1200,800",
+  "savedAt": "2026-10-23T22:45:41.835Z",
+  "sourceId": "a53eb54d049c10f7b3e3dc9f258aa65f"
+}

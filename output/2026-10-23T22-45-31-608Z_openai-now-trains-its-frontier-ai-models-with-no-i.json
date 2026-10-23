@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-now-trains-its-frontier-ai-models-with-no-i",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI now trains its frontier AI models with no internet access",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+  "pubDate": "2026-10-23T21:11:07.000Z",
+  "slides": [
+    "Why is OpenAI locking its models offline?",
+    "Training without internet changes what models learn",
+    "The surprise: this restricts real-world knowledge",
+    "Teams must now design offline-safe training pipelines",
+    "Ask your ML lead: is your data strategy offline-ready?"
+  ],
+  "thread_text": [
+    "1. OpenAI's models going offline\n\nThey are being trained without internet access, which fundamentally changes what they can learn from real-world data.",
+    "2. Training without internet\n\nThis means models no longer see live web content, so they miss out on current events, cultural shifts, and real-time information.",
+    "3. The surprise restriction\n\nWithout internet, models can't access real-world knowledge, which limits their ability to answer questions about recent developments or niche topics.",
+    "4. Teams must adapt\n\nThey now need to design offline-safe training pipelines that rely on pre-collected datasets and curated knowledge bases.",
+    "5. Is your data strategy ready?\n\nAsk your ML lead: if your models went offline tomorrow, would your training data still be sufficient? Test it with a recent event your model should know."
+  ],
+  "video_script": [
+    "OpenAI is locking its models offline.",
+    "Training without internet changes what they learn.",
+    "The surprise: this restricts real-world knowledge.",
+    "Teams must design offline-safe training pipelines.",
+    "Ask your ML lead: is your data strategy offline-ready?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI's models going offline\n\nThey are being trained without internet access, which fundamentally changes what they can learn from real-world data.",
+        "2. Training without internet\n\nThis means models no longer see live web content, so they miss out on current events, cultural shifts, and real-time information.",
+        "3. The surprise restriction\n\nWithout internet, models can't access real-world knowledge, which limits their ability to answer questions about recent developments or niche topics.",
+        "4. Teams must adapt\n\nThey now need to design offline-safe training pipelines that rely on pre-collected datasets and curated knowledge bases.",
+        "5. Is your data strategy ready?\n\nAsk your ML lead: if your models went offline tomorrow, would your training data still be sufficient? Test it with a recent event your model should know."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI is locking its models offline.",
+        "Training without internet changes what they learn.",
+        "The surprise: this restricts real-world knowledge.",
+        "Teams must design offline-safe training pipelines.",
+        "Ask your ML lead: is your data strategy offline-ready?"
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI is now training its frontier models without any internet access.\n\nThat means no live web, no current events, no real-time data flowing in during training. 🧠\n\nThe models learn only from pre-collected datasets and curated knowledge bases the teams assemble in advance.\n\nSo recent developments and niche topics become blind spots by design.\n\nIf you publish or build with AI, answers about what happened last month may silently degrade. 📉\n\nAsk your ML lead: if your model went offline tomorrow, would your training data still hold up? Test it on an event from last week. 🔍"
+    }
+  },
+  "instagram_caption": "OpenAI is now training its frontier models without any internet access.\n\nThat means no live web, no current events, no real-time data flowing in during training. 🧠\n\nThe models learn only from pre-collected datasets and curated knowledge bases the teams assemble in advance.\n\nSo recent developments and niche topics become blind spots by design.\n\nIf you publish or build with AI, answers about what happened last month may silently degrade. 📉\n\nAsk your ML lead: if your model went offline tomorrow, would your training data still hold up? Test it on an event from last week. 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Offline AI? The hidden cost of no internet",
+      "description": "OpenAI trains models without web access, so they miss current events and real-time data, limiting real-world knowledge.",
+      "visual_hint": "Glowing server rack with ethernet cable unplugged",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "No internet means no live data",
+      "description": "Without internet, models can't see live web content, missing cultural shifts and breaking news that shape answers.",
+      "visual_hint": "Split screen: connected globe vs isolated server",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "world map connections",
+      "image": "https://images.pexels.com/photos/7236027/pexels-photo-7236027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The surprise: offline limits real-world knowledge",
+      "description": "Offline training restricts access to niche topics and recent developments, so models struggle with timely questions.",
+      "visual_hint": "Magnifying glass over a locked database icon",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "locked padlock",
+      "image": "https://images.pexels.com/photos/10509289/pexels-photo-10509289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Teams must build offline-safe pipelines",
+      "description": "ML teams now need pre-collected datasets and curated knowledge bases to train models without live internet access.",
+      "visual_hint": "Engineer's hands assembling a pipeline diagram",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "data center cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is your data strategy offline-ready?",
+      "description": "Ask your ML lead: if models went offline tomorrow, would your training data suffice? Test with a recent event.",
+      "visual_hint": "Checklist with question mark and save icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-23T22:45:51.522Z",
+  "sourceId": "78c968c7120787cb9def557127029fc4"
+}

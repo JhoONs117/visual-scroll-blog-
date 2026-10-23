@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-delays-new-business-terms-after-publisher-pus",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta delays new business terms after publisher pushback on AI scraping",
+  "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+  "pubDate": "2026-10-23T14:47:41.000Z",
+  "slides": [
+    "Why did Meta suddenly back down on AI scraping?",
+    "New UK business terms were meant to take effect imminently",
+    "Publishers pushed back hard — and Meta quietly paused them",
+    "If you publish content, Meta still wants your data eventually",
+    "Check your terms now — silence from Meta may be temporary"
+  ],
+  "thread_text": [
+    "1. Meta's Quiet Retreat\n\nMeta paused new UK business terms for AI scraping just before they were set to take effect. Publishers pushed back hard, and Meta backed down—for now.",
+    "2. Publishers Fight Back\n\nUK publishers mounted fierce opposition to Meta's data scraping plans, forcing the company to quietly hit pause on the new terms.",
+    "3. Terms on Hold\n\nThe new business terms were meant to take effect imminently, but Meta halted them after publisher backlash. The pause is temporary, but the message is clear.",
+    "4. Data Still Wanted\n\nMeta still plans to scrape your data eventually. The pause is a tactical retreat, not a surrender. If you publish content, expect the pressure to return.",
+    "5. Check Your Terms Now\n\nDon't wait for Meta to act. Review your current terms and prepare for the next round. Silence from Meta is temporary—your content is still in their sights."
+  ],
+  "video_script": [
+    "Meta just quietly backed down on AI scraping.",
+    "UK publishers pushed back hard, and Meta paused the new terms.",
+    "The terms were about to take effect imminently.",
+    "But Meta still wants your data eventually.",
+    "Check your terms now—silence may be temporary."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta's Quiet Retreat\n\nMeta paused new UK business terms for AI scraping just before they were set to take effect. Publishers pushed back hard, and Meta backed down—for now.",
+        "2. Publishers Fight Back\n\nUK publishers mounted fierce opposition to Meta's data scraping plans, forcing the company to quietly hit pause on the new terms.",
+        "3. Terms on Hold\n\nThe new business terms were meant to take effect imminently, but Meta halted them after publisher backlash. The pause is temporary, but the message is clear.",
+        "4. Data Still Wanted\n\nMeta still plans to scrape your data eventually. The pause is a tactical retreat, not a surrender. If you publish content, expect the pressure to return.",
+        "5. Check Your Terms Now\n\nDon't wait for Meta to act. Review your current terms and prepare for the next round. Silence from Meta is temporary—your content is still in their sights."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta just quietly backed down on AI scraping.",
+        "UK publishers pushed back hard, and Meta paused the new terms.",
+        "The terms were about to take effect imminently.",
+        "But Meta still wants your data eventually.",
+        "Check your terms now—silence may be temporary."
+      ]
+    },
+    "instagram": {
+      "caption": "Meta quietly paused its new UK business terms for AI scraping right before they were supposed to take effect. 😳\n\nPublishers pushed back hard, and Meta backed down — for now.\n\nThose terms would have let Meta scrape content from UK publishers to train its AI. The pause is temporary, not a surrender.\n\nIf you publish content, Meta still wants your data eventually — expect the pressure to return.\n\nHave you actually read the terms on your site lately? 👀"
+    }
+  },
+  "instagram_caption": "Meta quietly paused its new UK business terms for AI scraping right before they were supposed to take effect. 😳\n\nPublishers pushed back hard, and Meta backed down — for now.\n\nThose terms would have let Meta scrape content from UK publishers to train its AI. The pause is temporary, not a surrender.\n\nIf you publish content, Meta still wants your data eventually — expect the pressure to return.\n\nHave you actually read the terms on your site lately? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Meta backed down. But why now?",
+      "description": "Meta paused new UK business terms for AI scraping just before they took effect after publishers pushed back hard.",
+      "visual_hint": "Meta logo on a paused screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Meta logo"
+    },
+    {
+      "hook": "New UK terms were imminent",
+      "description": "The new business terms were set to take effect imminently, but Meta halted them after publisher backlash.",
+      "visual_hint": "Calendar with a red circle",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "calendar deadline",
+      "image": "https://images.pexels.com/photos/8962466/pexels-photo-8962466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Publishers pushed back hard",
+      "description": "UK publishers mounted fierce opposition to Meta's data scraping plans, forcing the company to quietly hit pause.",
+      "visual_hint": "Newspapers stacked with a fist",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "newspapers stack",
+      "image": "https://images.pexels.com/photos/14604033/pexels-photo-14604033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Meta still wants your data",
+      "description": "Meta still plans to scrape your data eventually. The pause is a tactical retreat, not a surrender.",
+      "visual_hint": "Server room with data streams",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: check your terms now",
+      "description": "Review your current terms and prepare for the next round. Silence from Meta is temporary.",
+      "visual_hint": "Contract with a magnifying glass",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "contract document",
+      "image": "https://images.pexels.com/photos/4968561/pexels-photo-4968561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-23T22:46:00.660Z",
+  "sourceId": "b8a6b67b5c401cbcbee5379a8efc05f6"
+}

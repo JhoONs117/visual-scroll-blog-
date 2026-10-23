@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "meta-delays-new-business-terms-after-publisher-pus",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "pubDate": "2026-10-23T14:47:41.000Z",
+      "slides": [
+        "Why did Meta suddenly back down on AI scraping?",
+        "New UK business terms were meant to take effect imminently",
+        "Publishers pushed back hard — and Meta quietly paused them",
+        "If you publish content, Meta still wants your data eventually",
+        "Check your terms now — silence from Meta may be temporary"
+      ],
+      "thread_text": [
+        "1. Meta's Quiet Retreat\n\nMeta paused new UK business terms for AI scraping just before they were set to take effect. Publishers pushed back hard, and Meta backed down—for now.",
+        "2. Publishers Fight Back\n\nUK publishers mounted fierce opposition to Meta's data scraping plans, forcing the company to quietly hit pause on the new terms.",
+        "3. Terms on Hold\n\nThe new business terms were meant to take effect imminently, but Meta halted them after publisher backlash. The pause is temporary, but the message is clear.",
+        "4. Data Still Wanted\n\nMeta still plans to scrape your data eventually. The pause is a tactical retreat, not a surrender. If you publish content, expect the pressure to return.",
+        "5. Check Your Terms Now\n\nDon't wait for Meta to act. Review your current terms and prepare for the next round. Silence from Meta is temporary—your content is still in their sights."
+      ],
+      "video_script": [
+        "Meta just quietly backed down on AI scraping.",
+        "UK publishers pushed back hard, and Meta paused the new terms.",
+        "The terms were about to take effect imminently.",
+        "But Meta still wants your data eventually.",
+        "Check your terms now—silence may be temporary."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Meta's Quiet Retreat\n\nMeta paused new UK business terms for AI scraping just before they were set to take effect. Publishers pushed back hard, and Meta backed down—for now.",
+            "2. Publishers Fight Back\n\nUK publishers mounted fierce opposition to Meta's data scraping plans, forcing the company to quietly hit pause on the new terms.",
+            "3. Terms on Hold\n\nThe new business terms were meant to take effect imminently, but Meta halted them after publisher backlash. The pause is temporary, but the message is clear.",
+            "4. Data Still Wanted\n\nMeta still plans to scrape your data eventually. The pause is a tactical retreat, not a surrender. If you publish content, expect the pressure to return.",
+            "5. Check Your Terms Now\n\nDon't wait for Meta to act. Review your current terms and prepare for the next round. Silence from Meta is temporary—your content is still in their sights."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta just quietly backed down on AI scraping.",
+            "UK publishers pushed back hard, and Meta paused the new terms.",
+            "The terms were about to take effect imminently.",
+            "But Meta still wants your data eventually.",
+            "Check your terms now—silence may be temporary."
+          ]
+        },
+        "instagram": {
+          "caption": "Meta quietly paused its new UK business terms for AI scraping right before they were supposed to take effect. 😳\n\nPublishers pushed back hard, and Meta backed down — for now.\n\nThose terms would have let Meta scrape content from UK publishers to train its AI. The pause is temporary, not a surrender.\n\nIf you publish content, Meta still wants your data eventually — expect the pressure to return.\n\nHave you actually read the terms on your site lately? 👀"
+        }
+      },
+      "instagram_caption": "Meta quietly paused its new UK business terms for AI scraping right before they were supposed to take effect. 😳\n\nPublishers pushed back hard, and Meta backed down — for now.\n\nThose terms would have let Meta scrape content from UK publishers to train its AI. The pause is temporary, not a surrender.\n\nIf you publish content, Meta still wants your data eventually — expect the pressure to return.\n\nHave you actually read the terms on your site lately? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Meta backed down. But why now?",
+          "description": "Meta paused new UK business terms for AI scraping just before they took effect after publishers pushed back hard.",
+          "visual_hint": "Meta logo on a paused screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Meta logo"
+        },
+        {
+          "hook": "New UK terms were imminent",
+          "description": "The new business terms were set to take effect imminently, but Meta halted them after publisher backlash.",
+          "visual_hint": "Calendar with a red circle",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "calendar deadline",
+          "image": "https://images.pexels.com/photos/8962466/pexels-photo-8962466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Publishers pushed back hard",
+          "description": "UK publishers mounted fierce opposition to Meta's data scraping plans, forcing the company to quietly hit pause.",
+          "visual_hint": "Newspapers stacked with a fist",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "newspapers stack",
+          "image": "https://images.pexels.com/photos/14604033/pexels-photo-14604033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Meta still wants your data",
+          "description": "Meta still plans to scrape your data eventually. The pause is a tactical retreat, not a surrender.",
+          "visual_hint": "Server room with data streams",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: check your terms now",
+          "description": "Review your current terms and prepare for the next round. Silence from Meta is temporary.",
+          "visual_hint": "Contract with a magnifying glass",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "contract document",
+          "image": "https://images.pexels.com/photos/4968561/pexels-photo-4968561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-23T22:46:00.660Z",
+      "sourceId": "b8a6b67b5c401cbcbee5379a8efc05f6"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-now-trains-its-frontier-ai-models-with-no-i",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "pubDate": "2026-10-23T21:11:07.000Z",
+      "slides": [
+        "Why is OpenAI locking its models offline?",
+        "Training without internet changes what models learn",
+        "The surprise: this restricts real-world knowledge",
+        "Teams must now design offline-safe training pipelines",
+        "Ask your ML lead: is your data strategy offline-ready?"
+      ],
+      "thread_text": [
+        "1. OpenAI's models going offline\n\nThey are being trained without internet access, which fundamentally changes what they can learn from real-world data.",
+        "2. Training without internet\n\nThis means models no longer see live web content, so they miss out on current events, cultural shifts, and real-time information.",
+        "3. The surprise restriction\n\nWithout internet, models can't access real-world knowledge, which limits their ability to answer questions about recent developments or niche topics.",
+        "4. Teams must adapt\n\nThey now need to design offline-safe training pipelines that rely on pre-collected datasets and curated knowledge bases.",
+        "5. Is your data strategy ready?\n\nAsk your ML lead: if your models went offline tomorrow, would your training data still be sufficient? Test it with a recent event your model should know."
+      ],
+      "video_script": [
+        "OpenAI is locking its models offline.",
+        "Training without internet changes what they learn.",
+        "The surprise: this restricts real-world knowledge.",
+        "Teams must design offline-safe training pipelines.",
+        "Ask your ML lead: is your data strategy offline-ready?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. OpenAI's models going offline\n\nThey are being trained without internet access, which fundamentally changes what they can learn from real-world data.",
+            "2. Training without internet\n\nThis means models no longer see live web content, so they miss out on current events, cultural shifts, and real-time information.",
+            "3. The surprise restriction\n\nWithout internet, models can't access real-world knowledge, which limits their ability to answer questions about recent developments or niche topics.",
+            "4. Teams must adapt\n\nThey now need to design offline-safe training pipelines that rely on pre-collected datasets and curated knowledge bases.",
+            "5. Is your data strategy ready?\n\nAsk your ML lead: if your models went offline tomorrow, would your training data still be sufficient? Test it with a recent event your model should know."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI is locking its models offline.",
+            "Training without internet changes what they learn.",
+            "The surprise: this restricts real-world knowledge.",
+            "Teams must design offline-safe training pipelines.",
+            "Ask your ML lead: is your data strategy offline-ready?"
+          ]
+        },
+        "instagram": {
+          "caption": "OpenAI is now training its frontier models without any internet access.\n\nThat means no live web, no current events, no real-time data flowing in during training. 🧠\n\nThe models learn only from pre-collected datasets and curated knowledge bases the teams assemble in advance.\n\nSo recent developments and niche topics become blind spots by design.\n\nIf you publish or build with AI, answers about what happened last month may silently degrade. 📉\n\nAsk your ML lead: if your model went offline tomorrow, would your training data still hold up? Test it on an event from last week. 🔍"
+        }
+      },
+      "instagram_caption": "OpenAI is now training its frontier models without any internet access.\n\nThat means no live web, no current events, no real-time data flowing in during training. 🧠\n\nThe models learn only from pre-collected datasets and curated knowledge bases the teams assemble in advance.\n\nSo recent developments and niche topics become blind spots by design.\n\nIf you publish or build with AI, answers about what happened last month may silently degrade. 📉\n\nAsk your ML lead: if your model went offline tomorrow, would your training data still hold up? Test it on an event from last week. 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Offline AI? The hidden cost of no internet",
+          "description": "OpenAI trains models without web access, so they miss current events and real-time data, limiting real-world knowledge.",
+          "visual_hint": "Glowing server rack with ethernet cable unplugged",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "No internet means no live data",
+          "description": "Without internet, models can't see live web content, missing cultural shifts and breaking news that shape answers.",
+          "visual_hint": "Split screen: connected globe vs isolated server",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "world map connections",
+          "image": "https://images.pexels.com/photos/7236027/pexels-photo-7236027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The surprise: offline limits real-world knowledge",
+          "description": "Offline training restricts access to niche topics and recent developments, so models struggle with timely questions.",
+          "visual_hint": "Magnifying glass over a locked database icon",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "locked padlock",
+          "image": "https://images.pexels.com/photos/10509289/pexels-photo-10509289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Teams must build offline-safe pipelines",
+          "description": "ML teams now need pre-collected datasets and curated knowledge bases to train models without live internet access.",
+          "visual_hint": "Engineer's hands assembling a pipeline diagram",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "data center cables",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Is your data strategy offline-ready?",
+          "description": "Ask your ML lead: if models went offline tomorrow, would your training data suffice? Test with a recent event.",
+          "visual_hint": "Checklist with question mark and save icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-23T22:45:51.522Z",
+      "sourceId": "78c968c7120787cb9def557127029fc4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "vcs-superhuman-mail-founder-share-red-flags-about-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+      "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+      "pubDate": "Fri, 23 Oct 2026 20:57:13 +0000",
+      "slides": [
+        "Why do VCs say most startups fake product-market fit?",
+        "Superhuman Mail's founder watched real PMF almost slip away",
+        "The red flag isn't low usage—it's users who shrug at losing you",
+        "If nobody churns hard when you disappear, you have a feature",
+        "Pick one metric users would fight to keep, then protect it"
+      ],
+      "thread_text": [
+        "1. The PMF Illusion\n\nVenture capitalists say most startups fake product-market fit. They point to a specific warning sign that founders often miss.",
+        "2. The Founder's Scare\n\nSuperhuman Mail's founder watched real PMF almost slip away. The product was growing, but the team nearly lost the signal.",
+        "3. The Real Red Flag\n\nLow usage isn't the problem. The red flag is users who shrug at the thought of losing you.",
+        "4. Just a Feature\n\nIf nobody churns hard when you disappear, you have a feature. Not a product. Not a business.",
+        "5. Protect One Metric\n\nPick one metric users would fight to keep, then protect it. Which metric would your users fight for? Share your answer."
+      ],
+      "video_script": [
+        "Most startups fake product-market fit, and VCs know.",
+        "Superhuman's founder almost lost real PMF.",
+        "Low usage isn't the red flag.",
+        "Users who shrug at losing you are the red flag.",
+        "Pick one metric users would fight for."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The PMF Illusion\n\nVenture capitalists say most startups fake product-market fit. They point to a specific warning sign that founders often miss.",
+            "2. The Founder's Scare\n\nSuperhuman Mail's founder watched real PMF almost slip away. The product was growing, but the team nearly lost the signal.",
+            "3. The Real Red Flag\n\nLow usage isn't the problem. The red flag is users who shrug at the thought of losing you.",
+            "4. Just a Feature\n\nIf nobody churns hard when you disappear, you have a feature. Not a product. Not a business.",
+            "5. Protect One Metric\n\nPick one metric users would fight to keep, then protect it. Which metric would your users fight for? Share your answer."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Most startups fake product-market fit, and VCs know.",
+            "Superhuman's founder almost lost real PMF.",
+            "Low usage isn't the red flag.",
+            "Users who shrug at losing you are the red flag.",
+            "Pick one metric users would fight for."
+          ]
+        },
+        "instagram": {
+          "caption": "Most startups claiming product-market fit are faking it, and venture capitalists can spot the tell.\n\nThe red flag isn't low usage. It's users who shrug at the thought of losing your product. 😶\n\nSuperhuman Mail's founder nearly watched real product-market fit slip away even while the product was growing.\n\nIf nobody churns hard when you disappear, you don't have a product. You have a feature. 🚩\n\nPick one metric your users would actually fight to keep, then protect it. 🛡️\n\nWhat's the one metric your users would fight for if you tried to remove it? 👇"
+        }
+      },
+      "instagram_caption": "Most startups claiming product-market fit are faking it, and venture capitalists can spot the tell.\n\nThe red flag isn't low usage. It's users who shrug at the thought of losing your product. 😶\n\nSuperhuman Mail's founder nearly watched real product-market fit slip away even while the product was growing.\n\nIf nobody churns hard when you disappear, you don't have a product. You have a feature. 🚩\n\nPick one metric your users would actually fight to keep, then protect it. 🛡️\n\nWhat's the one metric your users would fight for if you tried to remove it? 👇",
+      "carousel_slides": [
+        {
+          "hook": "Is your product-market fit actually fake?",
+          "description": "VCs warn most startups fake PMF, citing a warning sign founders often miss. Low usage is not it.",
+          "visual_hint": "close-up of a cracked mirror",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "cracked mirror"
+        },
+        {
+          "hook": "Superhuman Mail almost lost real PMF",
+          "description": "The founder watched real PMF nearly slip away despite growth. The team almost missed the signal.",
+          "visual_hint": "founder looking at analytics dashboard",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "analytics dashboard",
+          "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The red flag: users shrug at losing you",
+          "description": "If users would not care when you disappear, you have a feature, not a business. Churn is key.",
+          "visual_hint": "person shrugging with open palms",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "person shrugging",
+          "image": "https://images.pexels.com/photos/33715995/pexels-photo-33715995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "If nobody churns hard, it's just a feature",
+          "description": "When your product vanishes, no hard churn means it is not a product or a business. Just a feature.",
+          "visual_hint": "empty office desk with computer",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "empty office",
+          "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: pick one metric to protect",
+          "description": "Choose one metric users would fight to keep, then protect it. Comment which metric your users fight for.",
+          "visual_hint": "hand holding a compass",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "hand holding compass",
+          "image": "https://images.pexels.com/photos/4640934/pexels-photo-4640934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/PMf-panel.jpg?resize=1200,800",
+      "savedAt": "2026-10-23T22:45:41.835Z",
+      "sourceId": "a53eb54d049c10f7b3e3dc9f258aa65f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "meta-8217-s-ai-could-still-scrape-news-sites-legal",
       "prompt_version": "1.0.0",
       "status": "published",
