@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "jack-dorsey-s-block-made-an-ai-model-that-talks-to",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+  "pubDate": "2026-10-23T19:32:39.000Z",
+  "slides": [
+    "Why would Block build an AI that talks like a friend?",
+    "It's a model trained for personality, not just answers",
+    "But the awkwardness is deliberate — not a bug",
+    "Developers can now tune tone like a dial",
+    "Try it: does your AI sound human yet?"
+  ],
+  "thread_text": [
+    "1. Why friend-like AI?\n\nBlock is training a model for personality, not just answers. The goal: make conversations feel less transactional and more human.",
+    "2. Personality over answers\n\nThe model prioritizes tone and style, not just facts. Developers can now tune how it sounds, like adjusting a dial.",
+    "3. Awkward by design\n\nThe awkwardness is deliberate — it's a feature, not a bug. The team wants to study how humans react to imperfect AI.",
+    "4. Tone tuning dial\n\nDevelopers can adjust the model's tone from formal to casual, making it easy to match different use cases.",
+    "5. Does your AI sound human?\n\nTry a conversation with a personality-tuned model. Does it feel natural, or still off? Share your experience."
+  ],
+  "video_script": [
+    "Block built an AI that talks like a friend.",
+    "It's trained for personality, not just answers.",
+    "The awkwardness is intentional, not a mistake.",
+    "Developers can now tune tone like a dial.",
+    "Try it: does your AI sound human yet?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why friend-like AI?\n\nBlock is training a model for personality, not just answers. The goal: make conversations feel less transactional and more human.",
+        "2. Personality over answers\n\nThe model prioritizes tone and style, not just facts. Developers can now tune how it sounds, like adjusting a dial.",
+        "3. Awkward by design\n\nThe awkwardness is deliberate — it's a feature, not a bug. The team wants to study how humans react to imperfect AI.",
+        "4. Tone tuning dial\n\nDevelopers can adjust the model's tone from formal to casual, making it easy to match different use cases.",
+        "5. Does your AI sound human?\n\nTry a conversation with a personality-tuned model. Does it feel natural, or still off? Share your experience."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Block built an AI that talks like a friend.",
+        "It's trained for personality, not just answers.",
+        "The awkwardness is intentional, not a mistake.",
+        "Developers can now tune tone like a dial.",
+        "Try it: does your AI sound human yet?"
+      ]
+    },
+    "instagram": {
+      "caption": "Block built an AI that’s meant to sound like an awkward new friend — and the awkwardness is on purpose 🤖.\n\nThe model is trained for personality, not just answers, so it focuses on tone and style instead of only facts.\n\nDevelopers can tune that tone like a dial, from formal to casual, depending on the use case.\n\nIf you write or publish, this means the voice of a tool can now be adjusted, not just its accuracy.\n\nWould you trust an AI more if it sounded a little imperfect?"
+    }
+  },
+  "instagram_caption": "Block built an AI that’s meant to sound like an awkward new friend — and the awkwardness is on purpose 🤖.\n\nThe model is trained for personality, not just answers, so it focuses on tone and style instead of only facts.\n\nDevelopers can tune that tone like a dial, from formal to casual, depending on the use case.\n\nIf you write or publish, this means the voice of a tool can now be adjusted, not just its accuracy.\n\nWould you trust an AI more if it sounded a little imperfect?",
+  "carousel_slides": [
+    {
+      "hook": "AI that's awkward on purpose?",
+      "description": "Block trains AI for personality, not just answers. The goal: conversations feel less transactional and more human.",
+      "visual_hint": "Split screen: robotic vs. friendly chat bubble",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "chat bubble"
+    },
+    {
+      "hook": "Personality over answers",
+      "description": "The model prioritizes tone and style over facts. Developers can tune how it sounds, like adjusting a dial.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Dial labeled 'tone' from formal to casual",
+      "image_query": "control dial",
+      "image": "https://images.pexels.com/photos/38649039/pexels-photo-38649039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Awkwardness is a feature",
+      "description": "The awkwardness is deliberate—a feature, not a bug. The team studies how humans react to imperfect AI.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Close-up of glitchy text on screen",
+      "image_query": "computer screen glitch",
+      "image": "https://images.pexels.com/photos/6968874/pexels-photo-6968874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Tone tuning dial",
+      "description": "Developers can adjust tone from formal to casual, easily matching different use cases.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hand turning a physical dial on a device",
+      "image_query": "hand turning dial",
+      "image": "https://images.pexels.com/photos/7831656/pexels-photo-7831656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Does your AI sound human?",
+      "description": "Try a conversation with a personality-tuned model. Does it feel natural or still off? Share your experience.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Person chatting with AI on phone",
+      "image_query": "person using smartphone",
+      "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-24T08:30:47.383Z",
+  "sourceId": "9266223ed6f43cf18023bb45cfad813c"
+}
