@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "pennsylvania-will-require-labels-on-ai-generated-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "pubDate": "2026-10-24T18:32:21.000Z",
+      "slides": [
+        "Will Pennsylvania's AI ad labels change political persuasion?",
+        "The state now mandates disclosure on synthetic political ads.",
+        "But the rule targets only ads, not organic posts or memes.",
+        "Campaigns must audit every creative for AI-generated content.",
+        "Check your own feeds—will labels reach you before November?"
+      ],
+      "thread_text": [
+        "1. Labels only on ads?\n\nPennsylvania now requires disclosure on synthetic political ads. But organic posts and memes? Completely exempt.",
+        "2. Loophole you can drive through\n\nA campaign can post the same AI-generated message organically and skip the label entirely. The rule only covers paid ads.",
+        "3. Campaigns must audit everything\n\nEvery creative needs a check for AI-generated content before it goes live. One missed audit could mean a fine or forced takedown.",
+        "4. You won't see it coming\n\nMost political content you share isn't a paid ad. It's a post from a friend or a page you follow. Labels won't appear there.",
+        "5. Check your own feed\n\nBefore November, scroll your feed and ask: how many posts would need a label if they were ads? Test it this week."
+      ],
+      "video_script": [
+        "Pennsylvania now mandates AI labels on political ads.",
+        "But organic posts and memes are completely exempt.",
+        "Campaigns must audit every creative for AI content.",
+        "Most political content you see isn't a paid ad.",
+        "Check your feed before November—will labels reach you?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Labels only on ads?\n\nPennsylvania now requires disclosure on synthetic political ads. But organic posts and memes? Completely exempt.",
+            "2. Loophole you can drive through\n\nA campaign can post the same AI-generated message organically and skip the label entirely. The rule only covers paid ads.",
+            "3. Campaigns must audit everything\n\nEvery creative needs a check for AI-generated content before it goes live. One missed audit could mean a fine or forced takedown.",
+            "4. You won't see it coming\n\nMost political content you share isn't a paid ad. It's a post from a friend or a page you follow. Labels won't appear there.",
+            "5. Check your own feed\n\nBefore November, scroll your feed and ask: how many posts would need a label if they were ads? Test it this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Pennsylvania now mandates AI labels on political ads.",
+            "But organic posts and memes are completely exempt.",
+            "Campaigns must audit every creative for AI content.",
+            "Most political content you see isn't a paid ad.",
+            "Check your feed before November—will labels reach you?"
+          ]
+        },
+        "instagram": {
+          "caption": "If you run a political ad in Pennsylvania, the state now requires you to label it if any part was made with AI. 🗳️\n\nThe rule only covers paid ads. Organic posts and memes can spread the same synthetic message with no label at all.\n\nCampaigns also have to audit every piece of creative for AI content before it goes live—one missed check can mean a fine or a forced takedown.\n\nSo most political content you actually share—a post from a friend or a page you follow—won't carry any label. 🤔\n\nBefore November, scroll your feed and count how many posts would need a label if they were ads. 📱"
+        }
+      },
+      "instagram_caption": "If you run a political ad in Pennsylvania, the state now requires you to label it if any part was made with AI. 🗳️\n\nThe rule only covers paid ads. Organic posts and memes can spread the same synthetic message with no label at all.\n\nCampaigns also have to audit every piece of creative for AI content before it goes live—one missed check can mean a fine or a forced takedown.\n\nSo most political content you actually share—a post from a friend or a page you follow—won't carry any label. 🤔\n\nBefore November, scroll your feed and count how many posts would need a label if they were ads. 📱",
+      "carousel_slides": [
+        {
+          "hook": "AI ads need labels, but memes don't?",
+          "description": "Pennsylvania mandates disclosure on synthetic political ads, yet organic posts and memes remain completely exempt from labeling.",
+          "visual_hint": "Split screen: labeled ad vs unlabeled meme",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "political rally"
+        },
+        {
+          "hook": "The labeling loophole you can drive through",
+          "description": "A campaign can post the same AI-generated message organically and skip the label entirely—the rule only covers paid ads.",
+          "visual_hint": "Campaign volunteer posting on social media",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "social media phone",
+          "image": "https://images.pexels.com/photos/3850266/pexels-photo-3850266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Campaigns must audit every creative now",
+          "description": "Every ad creative needs an AI-content check before going live; one missed audit could mean a fine or forced takedown.",
+          "visual_hint": "Checklist with AI detection scan",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "campaign office desk",
+          "image": "https://images.pexels.com/photos/7504756/pexels-photo-7504756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "You won't see the label coming",
+          "description": "Most political content you share isn't a paid ad—it's a post from a friend or page you follow, where labels won't appear.",
+          "visual_hint": "Phone screen with friend's post",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person scrolling phone",
+          "image": "https://images.pexels.com/photos/6571959/pexels-photo-6571959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your feed before November",
+          "description": "Scroll your feed this week and ask: how many posts would need a label if they were ads? Save this and check your own feed.",
+          "visual_hint": "Feed with question mark overlay",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "news feed screen",
+          "image": "https://images.pexels.com/photos/15226552/pexels-photo-15226552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-24T22:19:39.393Z",
+      "sourceId": "0c58159611d9d12f8e6d2535d40353e0"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "will-ai-expose-the-rickety-infrastructure-of-the-i",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "pubDate": "Sat, 24 Oct 2026 20:15:33 +0000",
+      "slides": [
+        "Will AI's hunger expose the internet's crumbling foundations?",
+        "Data centers now demand power grids never built for it",
+        "The bottleneck isn't chips — it's decades-old wiring",
+        "Your cloud costs may rise as utilities scramble",
+        "Check your region's grid capacity before scaling"
+      ],
+      "thread_text": [
+        "1. The Grid Is the Real Bottleneck\n\nData centers are now demanding power grids never built for this scale. The bottleneck isn't chips — it's decades-old wiring that can't keep up.",
+        "2. Aging Infrastructure Can't Keep Up\n\nUtilities are scrambling to upgrade transmission lines while AI's hunger grows. Your cloud costs may rise as they pass those expenses on.",
+        "3. Cloud Bills Are About to Jump\n\nCompanies scaling AI without checking regional grid capacity face delays and higher power costs. Some data centers are already waiting years for connections.",
+        "4. Check Before You Scale\n\nBefore expanding AI workloads, check your region's grid capacity. Utilities publish interconnection queues and capacity maps — most teams never look.",
+        "5. Test Your Region Today\n\nLook up your local grid operator's capacity map and see if your data center region is constrained. Would you still scale there this quarter?"
+      ],
+      "video_script": [
+        "AI's hunger is exposing the internet's crumbling foundations.",
+        "Data centers now demand power grids never built for it.",
+        "The bottleneck isn't chips — it's decades-old wiring.",
+        "Your cloud costs may rise as utilities scramble to upgrade.",
+        "Check your region's grid capacity before scaling."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Grid Is the Real Bottleneck\n\nData centers are now demanding power grids never built for this scale. The bottleneck isn't chips — it's decades-old wiring that can't keep up.",
+            "2. Aging Infrastructure Can't Keep Up\n\nUtilities are scrambling to upgrade transmission lines while AI's hunger grows. Your cloud costs may rise as they pass those expenses on.",
+            "3. Cloud Bills Are About to Jump\n\nCompanies scaling AI without checking regional grid capacity face delays and higher power costs. Some data centers are already waiting years for connections.",
+            "4. Check Before You Scale\n\nBefore expanding AI workloads, check your region's grid capacity. Utilities publish interconnection queues and capacity maps — most teams never look.",
+            "5. Test Your Region Today\n\nLook up your local grid operator's capacity map and see if your data center region is constrained. Would you still scale there this quarter?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI's hunger is exposing the internet's crumbling foundations.",
+            "Data centers now demand power grids never built for it.",
+            "The bottleneck isn't chips — it's decades-old wiring.",
+            "Your cloud costs may rise as utilities scramble to upgrade.",
+            "Check your region's grid capacity before scaling."
+          ]
+        },
+        "instagram": {
+          "caption": "Your cloud bill might climb because of wiring that was laid decades ago. ⚡\n\nData centers now pull more power than the grids around them were ever built to carry.\n\nThe bottleneck isn't chips — it's aging transmission lines utilities are racing to upgrade.\n\nSome data centers are already waiting years just to get connected.\n\nIf you build or publish with AI tools, expect slower scaling and higher costs as utilities pass those expenses on. 💸\n\nBefore you expand this quarter, check your region's grid capacity map — most teams never look. 🔌\n\nWould you still scale there if you knew the grid was maxed out?"
+        }
+      },
+      "instagram_caption": "Your cloud bill might climb because of wiring that was laid decades ago. ⚡\n\nData centers now pull more power than the grids around them were ever built to carry.\n\nThe bottleneck isn't chips — it's aging transmission lines utilities are racing to upgrade.\n\nSome data centers are already waiting years just to get connected.\n\nIf you build or publish with AI tools, expect slower scaling and higher costs as utilities pass those expenses on. 💸\n\nBefore you expand this quarter, check your region's grid capacity map — most teams never look. 🔌\n\nWould you still scale there if you knew the grid was maxed out?",
+      "carousel_slides": [
+        {
+          "hook": "Is aging wiring AI's real bottleneck?",
+          "description": "Decades-old grid infrastructure can't handle AI's power demand, and chips aren't the problem.",
+          "visual_hint": "rusty power lines against sky",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "power lines"
+        },
+        {
+          "hook": "Data centers strain power grids",
+          "description": "AI data centers demand more electricity than existing grids were designed to supply, forcing upgrades.",
+          "visual_hint": "data center server racks",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Utilities scramble to upgrade transmission",
+          "description": "Utilities are racing to upgrade transmission lines as AI's hunger grows, and costs may be passed to you.",
+          "visual_hint": "transmission tower construction",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "transmission tower",
+          "image": "https://images.pexels.com/photos/35380748/pexels-photo-35380748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cloud bills set to jump",
+          "description": "Scaling AI without checking regional grid capacity can lead to delays and higher power costs.",
+          "visual_hint": "hand holding electricity bill",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "electricity bill",
+          "image": "https://images.pexels.com/photos/7926706/pexels-photo-7926706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your grid before scaling AI",
+          "description": "Look up your local grid operator's capacity map to see if your data center region is constrained.",
+          "visual_hint": "map with capacity overlay",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "power grid map",
+          "image": "https://images.pexels.com/photos/39398551/pexels-photo-39398551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1195574782.jpg?resize=1200,800",
+      "savedAt": "2026-10-24T22:19:30.867Z",
+      "sourceId": "14717cc2caa65d6b6a5dea5b545edf7b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "forced-to-pick-grok-s-ai-model-chooses-republicans",
       "prompt_version": "1.0.0",
       "status": "published",
