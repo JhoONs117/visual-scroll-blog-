@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "block-s-new-voice-model-sounds-eerily-human",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Block’s new voice model sounds eerily human",
+  "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+  "pubDate": "Sat, 24 Oct 2026 16:00:00 +0000",
+  "slides": [
+    "Can Block's voice model pass as human?",
+    "It captures pauses and mid-sentence breaths",
+    "But those imperfections are generated on purpose",
+    "Call centers could soon deploy it for support",
+    "Listen closely next call—you might not tell"
+  ],
+  "thread_text": [
+    "1. Can you tell?\n\nBlock's new voice model captures pauses and mid-sentence breaths so naturally that many listeners can't distinguish it from a human.",
+    "2. Purposeful flaws\n\nThose imperfections—the ums, the sighs—aren't glitches. They're generated on purpose to make the AI sound more human.",
+    "3. Call centers next\n\nCustomer support lines could soon deploy this voice, replacing scripted bots with AI that sounds eerily real.",
+    "4. Your next call\n\nYou might be talking to an AI and not even realize it. The technology is already here, waiting to be scaled.",
+    "5. Test yourself\n\nListen closely on your next support call. Can you spot the AI? If not, would you want to know?"
+  ],
+  "video_script": [
+    "Can Block's voice model pass as human?",
+    "It captures pauses and mid-sentence breaths.",
+    "But those imperfections are generated on purpose.",
+    "Call centers could soon deploy it for support.",
+    "Listen closely next call—you might not tell."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can you tell?\n\nBlock's new voice model captures pauses and mid-sentence breaths so naturally that many listeners can't distinguish it from a human.",
+        "2. Purposeful flaws\n\nThose imperfections—the ums, the sighs—aren't glitches. They're generated on purpose to make the AI sound more human.",
+        "3. Call centers next\n\nCustomer support lines could soon deploy this voice, replacing scripted bots with AI that sounds eerily real.",
+        "4. Your next call\n\nYou might be talking to an AI and not even realize it. The technology is already here, waiting to be scaled.",
+        "5. Test yourself\n\nListen closely on your next support call. Can you spot the AI? If not, would you want to know?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can Block's voice model pass as human?",
+        "It captures pauses and mid-sentence breaths.",
+        "But those imperfections are generated on purpose.",
+        "Call centers could soon deploy it for support.",
+        "Listen closely next call—you might not tell."
+      ]
+    },
+    "instagram": {
+      "caption": "Block's new voice model catches mid-sentence breaths and pauses so well that listeners can't tell it from a human. 😳\n\nThose imperfections—the ums, the sighs—aren't glitches. They're generated on purpose to sound real.\n\nCall centers could deploy it soon, swapping scripted bots for AI voices you can't distinguish. 📞\n\nIf you publish audio or run support lines, your voice talent and bot scripts may need a rethink. 🎙️\n\nWould you want to know if the person on the other end of your next call isn't one?"
+    }
+  },
+  "instagram_caption": "Block's new voice model catches mid-sentence breaths and pauses so well that listeners can't tell it from a human. 😳\n\nThose imperfections—the ums, the sighs—aren't glitches. They're generated on purpose to sound real.\n\nCall centers could deploy it soon, swapping scripted bots for AI voices you can't distinguish. 📞\n\nIf you publish audio or run support lines, your voice talent and bot scripts may need a rethink. 🎙️\n\nWould you want to know if the person on the other end of your next call isn't one?",
+  "carousel_slides": [
+    {
+      "hook": "Can you tell it's AI?",
+      "description": "Block's new voice model captures pauses and breaths so naturally that many listeners can't distinguish it from a human.",
+      "visual_hint": "Person listening closely to phone",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "person on phone"
+    },
+    {
+      "hook": "It breathes mid-sentence",
+      "description": "The model reproduces pauses, ums, and sighs so accurately that it blurs the line between human and machine.",
+      "visual_hint": "Close-up of mouth speaking with breath visible",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "mouth speaking closeup",
+      "image": "https://images.pexels.com/photos/8412411/pexels-photo-8412411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Flaws are intentional",
+      "description": "Those imperfections—the ums and sighs—aren't glitches; they're generated on purpose to make the AI sound more human.",
+      "visual_hint": "Digital waveform with deliberate gaps",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "audio waveform display",
+      "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Call centers could deploy it",
+      "description": "Customer support lines might soon replace scripted bots with AI voices that sound eerily real.",
+      "visual_hint": "Call center headset on desk",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "call center headset",
+      "image": "https://images.pexels.com/photos/8866819/pexels-photo-8866819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and listen closely",
+      "description": "On your next support call, pay attention: can you spot the AI? If not, would you want to know?",
+      "visual_hint": "Person on phone with questioning look",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person listening phone",
+      "image": "https://images.pexels.com/photos/6964154/pexels-photo-6964154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/07/jack-dorsey.jpg?resize=1200,822",
+  "savedAt": "2026-10-24T17:08:17.370Z",
+  "sourceId": "07faf6f38097c01b890f18a3dca77b1e"
+}

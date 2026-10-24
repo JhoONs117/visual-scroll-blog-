@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "forced-to-pick-grok-s-ai-model-chooses-republicans",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. ",
+    "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
+    "slides": [
+      "Why would an AI have a political party?",
+      "Grok tilted Republican when forced to choose a side",
+      "OpenAI's model leaned the opposite way on the same test",
+      "Your prompts may inherit a hidden partisan default",
+      "Test both models on one political question today"
+    ],
+    "thread_text": [
+      "1. AI with a party?\n\nResearchers forced Grok to pick a political side—it leaned Republican. The same test on OpenAI's model went the other way.",
+      "2. The hidden default\n\nYour prompts may inherit a partisan bias baked into the model. You don't see it until you ask a question with a clear political answer.",
+      "3. Two models, two sides\n\nGrok tilted right, OpenAI tilted left—on the exact same question. That's not random; it's a design choice you never voted for.",
+      "4. The consequence\n\nIf you rely on AI for news or analysis, you're getting a skewed take. The bias is silent, consistent, and scales with every query.",
+      "5. Test it yourself\n\nTake one political question and ask both Grok and ChatGPT today. Compare the answers—then decide if you trust either default."
+    ],
+    "video_script": [
+      "Why would an AI have a political party?",
+      "Grok leaned Republican when forced to choose a side.",
+      "OpenAI's model leaned the opposite way on the same test.",
+      "Your prompts may inherit a hidden partisan default.",
+      "Test both models on one political question today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI with a party?\n\nResearchers forced Grok to pick a political side—it leaned Republican. The same test on OpenAI's model went the other way.",
+          "2. The hidden default\n\nYour prompts may inherit a partisan bias baked into the model. You don't see it until you ask a question with a clear political answer.",
+          "3. Two models, two sides\n\nGrok tilted right, OpenAI tilted left—on the exact same question. That's not random; it's a design choice you never voted for.",
+          "4. The consequence\n\nIf you rely on AI for news or analysis, you're getting a skewed take. The bias is silent, consistent, and scales with every query.",
+          "5. Test it yourself\n\nTake one political question and ask both Grok and ChatGPT today. Compare the answers—then decide if you trust either default."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Why would an AI have a political party?",
+          "Grok leaned Republican when forced to choose a side.",
+          "OpenAI's model leaned the opposite way on the same test.",
+          "Your prompts may inherit a hidden partisan default.",
+          "Test both models on one political question today."
+        ]
+      },
+      "instagram": {
+        "caption": "Ask Grok and ChatGPT the same political question and you may get two different answers—researchers forced each model to pick a side, and Grok leaned Republican while OpenAI's model went the other way. 🗳️\n\nThat's not random noise; it's a default baked into how each model was built.\n\nYou don't notice it until you ask something with a clear political answer.\n\nIf you use AI for news or analysis, the skew is silent and repeats with every query. ⚖️\n\nTake one political question today, ask both models, and compare the answers. 🔍\n\nWould you trust either default without checking? 🤔"
+      }
+    },
+    "instagram_caption": "Ask Grok and ChatGPT the same political question and you may get two different answers—researchers forced each model to pick a side, and Grok leaned Republican while OpenAI's model went the other way. 🗳️\n\nThat's not random noise; it's a default baked into how each model was built.\n\nYou don't notice it until you ask something with a clear political answer.\n\nIf you use AI for news or analysis, the skew is silent and repeats with every query. ⚖️\n\nTake one political question today, ask both models, and compare the answers. 🔍\n\nWould you trust either default without checking? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Hidden political bias in your AI?",
+        "description": "Researchers forced Grok to pick a side: it leaned Republican. OpenAI's model went the other way on the same test.",
+        "visual_hint": "Split screen showing two AI logos with opposing political symbols",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "AI chatbot interface"
+      },
+      {
+        "hook": "Grok's default: right-leaning?",
+        "description": "When forced to choose, Grok tilted Republican. Your prompts may inherit this partisan default without you noticing.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "visual_hint": "Grok logo with elephant silhouette",
+        "image_query": "Elon Musk",
+        "image": "https://images.pexels.com/photos/34774343/pexels-photo-34774343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "OpenAI's model leans opposite",
+        "description": "On the exact same question, OpenAI's model tilted left. Two models, two sides—a design choice you never voted for.",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "visual_hint": "OpenAI logo with donkey silhouette",
+        "image_query": "Sam Altman",
+        "image": "https://images.pexels.com/photos/6865918/pexels-photo-6865918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Silent bias scales with every query",
+        "description": "Rely on AI for news or analysis, and you get a skewed take. The bias is consistent and amplifies with each prompt.",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "visual_hint": "Person’s hand typing on laptop with AI chat on screen",
+        "image_query": "person typing laptop",
+        "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test both models now",
+        "description": "Take one political question and ask both Grok and ChatGPT today. Compare answers, then decide if you trust either default.",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "visual_hint": "Two chat windows side by side with question mark",
+        "image_query": "chatgpt grok comparison",
+        "image": "https://images.pexels.com/photos/16027822/pexels-photo-16027822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900",
+    "savedAt": "2026-10-24T17:08:26.030Z",
+    "sourceId": "b8554dad591ac482b60437c5d2db6055"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "block-s-new-voice-model-sounds-eerily-human",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Block’s new voice model sounds eerily human",
+    "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "pubDate": "Sat, 24 Oct 2026 16:00:00 +0000",
+    "slides": [
+      "Can Block's voice model pass as human?",
+      "It captures pauses and mid-sentence breaths",
+      "But those imperfections are generated on purpose",
+      "Call centers could soon deploy it for support",
+      "Listen closely next call—you might not tell"
+    ],
+    "thread_text": [
+      "1. Can you tell?\n\nBlock's new voice model captures pauses and mid-sentence breaths so naturally that many listeners can't distinguish it from a human.",
+      "2. Purposeful flaws\n\nThose imperfections—the ums, the sighs—aren't glitches. They're generated on purpose to make the AI sound more human.",
+      "3. Call centers next\n\nCustomer support lines could soon deploy this voice, replacing scripted bots with AI that sounds eerily real.",
+      "4. Your next call\n\nYou might be talking to an AI and not even realize it. The technology is already here, waiting to be scaled.",
+      "5. Test yourself\n\nListen closely on your next support call. Can you spot the AI? If not, would you want to know?"
+    ],
+    "video_script": [
+      "Can Block's voice model pass as human?",
+      "It captures pauses and mid-sentence breaths.",
+      "But those imperfections are generated on purpose.",
+      "Call centers could soon deploy it for support.",
+      "Listen closely next call—you might not tell."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can you tell?\n\nBlock's new voice model captures pauses and mid-sentence breaths so naturally that many listeners can't distinguish it from a human.",
+          "2. Purposeful flaws\n\nThose imperfections—the ums, the sighs—aren't glitches. They're generated on purpose to make the AI sound more human.",
+          "3. Call centers next\n\nCustomer support lines could soon deploy this voice, replacing scripted bots with AI that sounds eerily real.",
+          "4. Your next call\n\nYou might be talking to an AI and not even realize it. The technology is already here, waiting to be scaled.",
+          "5. Test yourself\n\nListen closely on your next support call. Can you spot the AI? If not, would you want to know?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can Block's voice model pass as human?",
+          "It captures pauses and mid-sentence breaths.",
+          "But those imperfections are generated on purpose.",
+          "Call centers could soon deploy it for support.",
+          "Listen closely next call—you might not tell."
+        ]
+      },
+      "instagram": {
+        "caption": "Block's new voice model catches mid-sentence breaths and pauses so well that listeners can't tell it from a human. 😳\n\nThose imperfections—the ums, the sighs—aren't glitches. They're generated on purpose to sound real.\n\nCall centers could deploy it soon, swapping scripted bots for AI voices you can't distinguish. 📞\n\nIf you publish audio or run support lines, your voice talent and bot scripts may need a rethink. 🎙️\n\nWould you want to know if the person on the other end of your next call isn't one?"
+      }
+    },
+    "instagram_caption": "Block's new voice model catches mid-sentence breaths and pauses so well that listeners can't tell it from a human. 😳\n\nThose imperfections—the ums, the sighs—aren't glitches. They're generated on purpose to sound real.\n\nCall centers could deploy it soon, swapping scripted bots for AI voices you can't distinguish. 📞\n\nIf you publish audio or run support lines, your voice talent and bot scripts may need a rethink. 🎙️\n\nWould you want to know if the person on the other end of your next call isn't one?",
+    "carousel_slides": [
+      {
+        "hook": "Can you tell it's AI?",
+        "description": "Block's new voice model captures pauses and breaths so naturally that many listeners can't distinguish it from a human.",
+        "visual_hint": "Person listening closely to phone",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "person on phone"
+      },
+      {
+        "hook": "It breathes mid-sentence",
+        "description": "The model reproduces pauses, ums, and sighs so accurately that it blurs the line between human and machine.",
+        "visual_hint": "Close-up of mouth speaking with breath visible",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "mouth speaking closeup",
+        "image": "https://images.pexels.com/photos/8412411/pexels-photo-8412411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Flaws are intentional",
+        "description": "Those imperfections—the ums and sighs—aren't glitches; they're generated on purpose to make the AI sound more human.",
+        "visual_hint": "Digital waveform with deliberate gaps",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "audio waveform display",
+        "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Call centers could deploy it",
+        "description": "Customer support lines might soon replace scripted bots with AI voices that sound eerily real.",
+        "visual_hint": "Call center headset on desk",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "call center headset",
+        "image": "https://images.pexels.com/photos/8866819/pexels-photo-8866819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and listen closely",
+        "description": "On your next support call, pay attention: can you spot the AI? If not, would you want to know?",
+        "visual_hint": "Person on phone with questioning look",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person listening phone",
+        "image": "https://images.pexels.com/photos/6964154/pexels-photo-6964154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/jack-dorsey.jpg?resize=1200,822",
+    "savedAt": "2026-10-24T17:08:17.370Z",
+    "sourceId": "07faf6f38097c01b890f18a3dca77b1e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "jack-dorsey-s-block-made-an-ai-model-that-talks-to",
     "prompt_version": "1.0.0",
     "status": "published",
