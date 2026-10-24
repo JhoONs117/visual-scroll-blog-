@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-says-it-will-no-longer-train-its-ai-models-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+  "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+  "pubDate": "Fri, 23 Oct 2026 23:05:49 +0000",
+  "slides": [
+    "OpenAI just cut its models off from the live internet. Why now?",
+    "The change follows warnings about unverified data reaching training pipelines.",
+    "Rivals like Anthropic still scrape live web content, betting on fresh data.",
+    "Enterprises relying on real-time knowledge may see slower model updates.",
+    "Ask your vendor: is your model still learning from the open web?"
+  ],
+  "thread_text": [
+    "1. OpenAI's Quiet Cutoff\n\nOpenAI has severed its models from the live internet, and the timing is no accident. The company cites a flood of unverified data reaching its training pipelines.",
+    "2. The Warning That Triggered It\n\nInsiders had flagged that scraped web content was slipping past verification filters. OpenAI chose to freeze real-time access rather than risk poisoning its models.",
+    "3. Rivals Are Doubling Down\n\nAnthropic and others are still scraping live web content, betting that fresh data beats clean data. That's a direct philosophical split on how AI should learn.",
+    "4. Enterprises Feel It First\n\nCompanies relying on real-time knowledge will see slower model updates. Their AI may lag behind breaking events while rivals keep pulling from the open web.",
+    "5. Ask Your Vendor Today\n\nIs your model still learning from the open web? Check your contract and ask for data provenance. If they can't answer, you have your answer."
+  ],
+  "video_script": [
+    "OpenAI just cut its models off from the live internet.",
+    "Why? Unverified data was reaching the training pipelines.",
+    "Rivals like Anthropic still scrape live web content.",
+    "Enterprises relying on real-time knowledge may see slower updates.",
+    "Ask your vendor: is your model still learning from the open web?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI's Quiet Cutoff\n\nOpenAI has severed its models from the live internet, and the timing is no accident. The company cites a flood of unverified data reaching its training pipelines.",
+        "2. The Warning That Triggered It\n\nInsiders had flagged that scraped web content was slipping past verification filters. OpenAI chose to freeze real-time access rather than risk poisoning its models.",
+        "3. Rivals Are Doubling Down\n\nAnthropic and others are still scraping live web content, betting that fresh data beats clean data. That's a direct philosophical split on how AI should learn.",
+        "4. Enterprises Feel It First\n\nCompanies relying on real-time knowledge will see slower model updates. Their AI may lag behind breaking events while rivals keep pulling from the open web.",
+        "5. Ask Your Vendor Today\n\nIs your model still learning from the open web? Check your contract and ask for data provenance. If they can't answer, you have your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI just cut its models off from the live internet.",
+        "Why? Unverified data was reaching the training pipelines.",
+        "Rivals like Anthropic still scrape live web content.",
+        "Enterprises relying on real-time knowledge may see slower updates.",
+        "Ask your vendor: is your model still learning from the open web?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your model may have stopped learning from the live web without telling you.\n\nOpenAI has cut its models off from real-time internet access, citing unverified data slipping into training pipelines.\n\nRivals like Anthropic still scrape live content, betting fresh beats clean.\n\nIf you publish or rely on up-to-date information, your AI tools may lag behind breaking events.\n\n🛑 Check your contract and ask your vendor for data provenance. If they can’t answer, you have your answer. 🔍\n\nIs your model still learning from the open web? 👀"
+    }
+  },
+  "instagram_caption": "Your model may have stopped learning from the live web without telling you.\n\nOpenAI has cut its models off from real-time internet access, citing unverified data slipping into training pipelines.\n\nRivals like Anthropic still scrape live content, betting fresh beats clean.\n\nIf you publish or rely on up-to-date information, your AI tools may lag behind breaking events.\n\n🛑 Check your contract and ask your vendor for data provenance. If they can’t answer, you have your answer. 🔍\n\nIs your model still learning from the open web? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Is your AI still learning from the open web?",
+      "description": "OpenAI severed live internet access citing unverified data risks, while rivals like Anthropic still scrape fresh content.",
+      "visual_hint": "Split screen: frozen server vs live web",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Unverified data triggered OpenAI's sudden freeze",
+      "description": "Insiders warned that scraped web content was bypassing verification filters, forcing OpenAI to cut real-time access.",
+      "visual_hint": "Warning sign on data stream",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "warning sign",
+      "image": "https://images.pexels.com/photos/36554863/pexels-photo-36554863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rivals bet fresh data beats clean data",
+      "description": "Anthropic and others still scrape live web content, creating a philosophical split on how AI should learn.",
+      "visual_hint": "Two diverging data pipelines",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Enterprises face slower model updates",
+      "description": "Companies relying on real-time knowledge will see their AI lag behind breaking events while rivals pull from open web.",
+      "visual_hint": "Business person checking outdated dashboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your vendor: where does your data come from?",
+      "description": "Check your contract and request data provenance. If your vendor can't answer, you have your answer.",
+      "visual_hint": "Contract with data provenance highlight",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "contract signing",
+      "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-10-24T02:37:58.870Z",
+  "sourceId": "7384891d7abd016f1f03acd892d40c3a"
+}

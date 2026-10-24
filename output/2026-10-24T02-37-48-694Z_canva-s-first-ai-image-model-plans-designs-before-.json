@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "canva-s-first-ai-image-model-plans-designs-before-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Canva’s first AI image model plans designs before generating them",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+  "pubDate": "2026-10-22T21:51:25.000Z",
+  "slides": [
+    "Canva built an AI that plans before it draws?",
+    "It first sketches a layout, then generates images inside it",
+    "Most image models ignore design structure entirely",
+    "Your rough Canva prompts may now produce usable layouts",
+    "Test one real brief and compare output"
+  ],
+  "thread_text": [
+    "1. Most image AI ignores design\n\nCanva's new model plans the layout first, then generates images to fit. That's the opposite of how most tools work.",
+    "2. Sketch before you draw\n\nIt starts with a rough layout sketch, then fills in the visuals. This mirrors how a human designer would approach a blank page.",
+    "3. Your prompts get smarter\n\nBecause the AI handles structure, even a vague Canva prompt can now produce a usable layout—no more fighting with broken compositions.",
+    "4. Structure changes everything\n\nWithout a planned layout, generated images often clash with your text and branding. Canva's approach solves that by designing the container first.",
+    "5. Test it on a real brief\n\nTake one actual project and compare Canva's output to your usual process. Does it save time or just shift the editing work? Try it today."
+  ],
+  "video_script": [
+    "Canva's new AI plans the layout before it draws.",
+    "It sketches a structure, then generates images to fit.",
+    "Most image models ignore design structure entirely.",
+    "Even rough prompts now produce usable layouts.",
+    "Test one real brief and compare the output."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Most image AI ignores design\n\nCanva's new model plans the layout first, then generates images to fit. That's the opposite of how most tools work.",
+        "2. Sketch before you draw\n\nIt starts with a rough layout sketch, then fills in the visuals. This mirrors how a human designer would approach a blank page.",
+        "3. Your prompts get smarter\n\nBecause the AI handles structure, even a vague Canva prompt can now produce a usable layout—no more fighting with broken compositions.",
+        "4. Structure changes everything\n\nWithout a planned layout, generated images often clash with your text and branding. Canva's approach solves that by designing the container first.",
+        "5. Test it on a real brief\n\nTake one actual project and compare Canva's output to your usual process. Does it save time or just shift the editing work? Try it today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Canva's new AI plans the layout before it draws.",
+        "It sketches a structure, then generates images to fit.",
+        "Most image models ignore design structure entirely.",
+        "Even rough prompts now produce usable layouts.",
+        "Test one real brief and compare the output."
+      ]
+    },
+    "instagram": {
+      "caption": "Canva's new AI model sketches a layout before it generates a single image.\n\nMost image models ignore design structure entirely—they just fill a prompt with visuals and hope the composition holds.\n\nCanva's approach is closer to how a human designer works: rough layout first, visuals second. 🎨\n\nThat means even a vague prompt can now produce a usable layout, with images that fit your text and branding instead of clashing with them.\n\nIf you publish anything—posts, decks, flyers—this could cut the back-and-forth of fixing broken compositions. ✂️\n\nTake one real brief this week and compare Canva's output to your usual process. Does it save time, or just shift the editing work? 🤔"
+    }
+  },
+  "instagram_caption": "Canva's new AI model sketches a layout before it generates a single image.\n\nMost image models ignore design structure entirely—they just fill a prompt with visuals and hope the composition holds.\n\nCanva's approach is closer to how a human designer works: rough layout first, visuals second. 🎨\n\nThat means even a vague prompt can now produce a usable layout, with images that fit your text and branding instead of clashing with them.\n\nIf you publish anything—posts, decks, flyers—this could cut the back-and-forth of fixing broken compositions. ✂️\n\nTake one real brief this week and compare Canva's output to your usual process. Does it save time, or just shift the editing work? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "AI that plans before it draws?",
+      "description": "Most image AI ignores design structure entirely. Canva's model plans layout first, then generates images to fit.",
+      "visual_hint": "Split screen: chaotic AI vs structured Canva",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "design software interface"
+    },
+    {
+      "hook": "Sketch first, then fill visuals",
+      "description": "It starts with a rough layout sketch, then fills in images—mirroring how a human designer begins on a blank page.",
+      "visual_hint": "Wireframe sketch morphing into finished design",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "architectural blueprint",
+      "image": "https://images.pexels.com/photos/9615249/pexels-photo-9615249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Structure changes everything",
+      "description": "Without a planned layout, generated images clash with text and branding. Canva solves that by designing the container first.",
+      "visual_hint": "Broken composition vs clean branded layout",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magazine layout grid",
+      "image": "https://images.pexels.com/photos/8084481/pexels-photo-8084481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your prompts get smarter",
+      "description": "Because AI handles structure, even a vague Canva prompt can now produce a usable layout—no more fighting broken compositions.",
+      "visual_hint": "Hand typing simple prompt, clean result appears",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "typing on laptop",
+      "image": "https://images.pexels.com/photos/30612694/pexels-photo-30612694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one real brief today",
+      "description": "Take an actual project, run it through Canva, and compare output to your usual process. Save this to try it.",
+      "visual_hint": "Side-by-side comparison with CTA button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office desk comparison",
+      "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+  "savedAt": "2026-10-24T02:38:08.842Z",
+  "sourceId": "73f803029b01cb70059789139924d59b"
+}

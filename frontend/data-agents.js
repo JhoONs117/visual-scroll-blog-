@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "canva-s-first-ai-image-model-plans-designs-before-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "pubDate": "2026-10-22T21:51:25.000Z",
+      "slides": [
+        "Canva built an AI that plans before it draws?",
+        "It first sketches a layout, then generates images inside it",
+        "Most image models ignore design structure entirely",
+        "Your rough Canva prompts may now produce usable layouts",
+        "Test one real brief and compare output"
+      ],
+      "thread_text": [
+        "1. Most image AI ignores design\n\nCanva's new model plans the layout first, then generates images to fit. That's the opposite of how most tools work.",
+        "2. Sketch before you draw\n\nIt starts with a rough layout sketch, then fills in the visuals. This mirrors how a human designer would approach a blank page.",
+        "3. Your prompts get smarter\n\nBecause the AI handles structure, even a vague Canva prompt can now produce a usable layout—no more fighting with broken compositions.",
+        "4. Structure changes everything\n\nWithout a planned layout, generated images often clash with your text and branding. Canva's approach solves that by designing the container first.",
+        "5. Test it on a real brief\n\nTake one actual project and compare Canva's output to your usual process. Does it save time or just shift the editing work? Try it today."
+      ],
+      "video_script": [
+        "Canva's new AI plans the layout before it draws.",
+        "It sketches a structure, then generates images to fit.",
+        "Most image models ignore design structure entirely.",
+        "Even rough prompts now produce usable layouts.",
+        "Test one real brief and compare the output."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Most image AI ignores design\n\nCanva's new model plans the layout first, then generates images to fit. That's the opposite of how most tools work.",
+            "2. Sketch before you draw\n\nIt starts with a rough layout sketch, then fills in the visuals. This mirrors how a human designer would approach a blank page.",
+            "3. Your prompts get smarter\n\nBecause the AI handles structure, even a vague Canva prompt can now produce a usable layout—no more fighting with broken compositions.",
+            "4. Structure changes everything\n\nWithout a planned layout, generated images often clash with your text and branding. Canva's approach solves that by designing the container first.",
+            "5. Test it on a real brief\n\nTake one actual project and compare Canva's output to your usual process. Does it save time or just shift the editing work? Try it today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Canva's new AI plans the layout before it draws.",
+            "It sketches a structure, then generates images to fit.",
+            "Most image models ignore design structure entirely.",
+            "Even rough prompts now produce usable layouts.",
+            "Test one real brief and compare the output."
+          ]
+        },
+        "instagram": {
+          "caption": "Canva's new AI model sketches a layout before it generates a single image.\n\nMost image models ignore design structure entirely—they just fill a prompt with visuals and hope the composition holds.\n\nCanva's approach is closer to how a human designer works: rough layout first, visuals second. 🎨\n\nThat means even a vague prompt can now produce a usable layout, with images that fit your text and branding instead of clashing with them.\n\nIf you publish anything—posts, decks, flyers—this could cut the back-and-forth of fixing broken compositions. ✂️\n\nTake one real brief this week and compare Canva's output to your usual process. Does it save time, or just shift the editing work? 🤔"
+        }
+      },
+      "instagram_caption": "Canva's new AI model sketches a layout before it generates a single image.\n\nMost image models ignore design structure entirely—they just fill a prompt with visuals and hope the composition holds.\n\nCanva's approach is closer to how a human designer works: rough layout first, visuals second. 🎨\n\nThat means even a vague prompt can now produce a usable layout, with images that fit your text and branding instead of clashing with them.\n\nIf you publish anything—posts, decks, flyers—this could cut the back-and-forth of fixing broken compositions. ✂️\n\nTake one real brief this week and compare Canva's output to your usual process. Does it save time, or just shift the editing work? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "AI that plans before it draws?",
+          "description": "Most image AI ignores design structure entirely. Canva's model plans layout first, then generates images to fit.",
+          "visual_hint": "Split screen: chaotic AI vs structured Canva",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "design software interface"
+        },
+        {
+          "hook": "Sketch first, then fill visuals",
+          "description": "It starts with a rough layout sketch, then fills in images—mirroring how a human designer begins on a blank page.",
+          "visual_hint": "Wireframe sketch morphing into finished design",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "architectural blueprint",
+          "image": "https://images.pexels.com/photos/9615249/pexels-photo-9615249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Structure changes everything",
+          "description": "Without a planned layout, generated images clash with text and branding. Canva solves that by designing the container first.",
+          "visual_hint": "Broken composition vs clean branded layout",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magazine layout grid",
+          "image": "https://images.pexels.com/photos/8084481/pexels-photo-8084481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your prompts get smarter",
+          "description": "Because AI handles structure, even a vague Canva prompt can now produce a usable layout—no more fighting broken compositions.",
+          "visual_hint": "Hand typing simple prompt, clean result appears",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "typing on laptop",
+          "image": "https://images.pexels.com/photos/30612694/pexels-photo-30612694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one real brief today",
+          "description": "Take an actual project, run it through Canva, and compare output to your usual process. Save this to try it.",
+          "visual_hint": "Side-by-side comparison with CTA button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office desk comparison",
+          "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+      "savedAt": "2026-10-24T02:38:08.842Z",
+      "sourceId": "73f803029b01cb70059789139924d59b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-says-it-will-no-longer-train-its-ai-models-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "pubDate": "Fri, 23 Oct 2026 23:05:49 +0000",
+      "slides": [
+        "OpenAI just cut its models off from the live internet. Why now?",
+        "The change follows warnings about unverified data reaching training pipelines.",
+        "Rivals like Anthropic still scrape live web content, betting on fresh data.",
+        "Enterprises relying on real-time knowledge may see slower model updates.",
+        "Ask your vendor: is your model still learning from the open web?"
+      ],
+      "thread_text": [
+        "1. OpenAI's Quiet Cutoff\n\nOpenAI has severed its models from the live internet, and the timing is no accident. The company cites a flood of unverified data reaching its training pipelines.",
+        "2. The Warning That Triggered It\n\nInsiders had flagged that scraped web content was slipping past verification filters. OpenAI chose to freeze real-time access rather than risk poisoning its models.",
+        "3. Rivals Are Doubling Down\n\nAnthropic and others are still scraping live web content, betting that fresh data beats clean data. That's a direct philosophical split on how AI should learn.",
+        "4. Enterprises Feel It First\n\nCompanies relying on real-time knowledge will see slower model updates. Their AI may lag behind breaking events while rivals keep pulling from the open web.",
+        "5. Ask Your Vendor Today\n\nIs your model still learning from the open web? Check your contract and ask for data provenance. If they can't answer, you have your answer."
+      ],
+      "video_script": [
+        "OpenAI just cut its models off from the live internet.",
+        "Why? Unverified data was reaching the training pipelines.",
+        "Rivals like Anthropic still scrape live web content.",
+        "Enterprises relying on real-time knowledge may see slower updates.",
+        "Ask your vendor: is your model still learning from the open web?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. OpenAI's Quiet Cutoff\n\nOpenAI has severed its models from the live internet, and the timing is no accident. The company cites a flood of unverified data reaching its training pipelines.",
+            "2. The Warning That Triggered It\n\nInsiders had flagged that scraped web content was slipping past verification filters. OpenAI chose to freeze real-time access rather than risk poisoning its models.",
+            "3. Rivals Are Doubling Down\n\nAnthropic and others are still scraping live web content, betting that fresh data beats clean data. That's a direct philosophical split on how AI should learn.",
+            "4. Enterprises Feel It First\n\nCompanies relying on real-time knowledge will see slower model updates. Their AI may lag behind breaking events while rivals keep pulling from the open web.",
+            "5. Ask Your Vendor Today\n\nIs your model still learning from the open web? Check your contract and ask for data provenance. If they can't answer, you have your answer."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI just cut its models off from the live internet.",
+            "Why? Unverified data was reaching the training pipelines.",
+            "Rivals like Anthropic still scrape live web content.",
+            "Enterprises relying on real-time knowledge may see slower updates.",
+            "Ask your vendor: is your model still learning from the open web?"
+          ]
+        },
+        "instagram": {
+          "caption": "Your model may have stopped learning from the live web without telling you.\n\nOpenAI has cut its models off from real-time internet access, citing unverified data slipping into training pipelines.\n\nRivals like Anthropic still scrape live content, betting fresh beats clean.\n\nIf you publish or rely on up-to-date information, your AI tools may lag behind breaking events.\n\n🛑 Check your contract and ask your vendor for data provenance. If they can’t answer, you have your answer. 🔍\n\nIs your model still learning from the open web? 👀"
+        }
+      },
+      "instagram_caption": "Your model may have stopped learning from the live web without telling you.\n\nOpenAI has cut its models off from real-time internet access, citing unverified data slipping into training pipelines.\n\nRivals like Anthropic still scrape live content, betting fresh beats clean.\n\nIf you publish or rely on up-to-date information, your AI tools may lag behind breaking events.\n\n🛑 Check your contract and ask your vendor for data provenance. If they can’t answer, you have your answer. 🔍\n\nIs your model still learning from the open web? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Is your AI still learning from the open web?",
+          "description": "OpenAI severed live internet access citing unverified data risks, while rivals like Anthropic still scrape fresh content.",
+          "visual_hint": "Split screen: frozen server vs live web",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Unverified data triggered OpenAI's sudden freeze",
+          "description": "Insiders warned that scraped web content was bypassing verification filters, forcing OpenAI to cut real-time access.",
+          "visual_hint": "Warning sign on data stream",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "warning sign",
+          "image": "https://images.pexels.com/photos/36554863/pexels-photo-36554863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rivals bet fresh data beats clean data",
+          "description": "Anthropic and others still scrape live web content, creating a philosophical split on how AI should learn.",
+          "visual_hint": "Two diverging data pipelines",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Enterprises face slower model updates",
+          "description": "Companies relying on real-time knowledge will see their AI lag behind breaking events while rivals pull from open web.",
+          "visual_hint": "Business person checking outdated dashboard",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask your vendor: where does your data come from?",
+          "description": "Check your contract and request data provenance. If your vendor can't answer, you have your answer.",
+          "visual_hint": "Contract with data provenance highlight",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "contract signing",
+          "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-10-24T02:37:58.870Z",
+      "sourceId": "7384891d7abd016f1f03acd892d40c3a"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "meta-delays-new-business-terms-after-publisher-pus",
       "prompt_version": "1.0.0",
       "status": "published",
