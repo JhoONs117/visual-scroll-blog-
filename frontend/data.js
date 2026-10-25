@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "r-opensource-just-banned-ai-non-english-speakers-a",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "r/opensource just banned AI, non-English speakers, and more",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+    "pubDate": "2026-10-25T13:25:32.000Z",
+    "slides": [
+      "What drove r/opensource to ban AI and non-English speakers?",
+      "The subreddit announced a strict new rule set.",
+      "Moderators cited 'quality control' but many users disagree.",
+      "If you post AI content or non-English comments, you'll be removed.",
+      "Question the ban: does exclusion really protect open source?"
+    ],
+    "thread_text": [
+      "1. Open source subreddit bans AI\n\nr/opensource now removes any post containing AI-generated content or non-English comments. Moderators say it's about quality control, but the backlash is immediate.",
+      "2. The new rules are strict\n\nThe subreddit announced a strict new rule set: no AI content, no non-English comments. Violators will have their posts removed. No exceptions mentioned.",
+      "3. Users cry foul over quality\n\nModerators cited 'quality control' as the reason, but many users disagree. They argue the ban stifles discussion and excludes non-native speakers who rely on translation tools.",
+      "4. Post AI or foreign language? Removed.\n\nIf you post AI content or non-English comments, you'll be removed. The rule applies to both posts and comments, leaving some users confused about what counts as 'AI content'.",
+      "5. Does exclusion protect open source?\n\nQuestion the ban: does exclusion really protect open source? Try posting a translated comment or an AI-assisted summary in r/opensource this week and see what happens. Then ask yourself: is this the open exchange you want?"
+    ],
+    "video_script": [
+      "A popular open source subreddit just banned AI and non-English comments.",
+      "Moderators announced a strict new rule set with immediate removals.",
+      "They claim it's quality control, but many users strongly disagree.",
+      "Post AI content or foreign language comments and you're out.",
+      "Does exclusion really protect open source? Test it yourself today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Open source subreddit bans AI\n\nr/opensource now removes any post containing AI-generated content or non-English comments. Moderators say it's about quality control, but the backlash is immediate.",
+          "2. The new rules are strict\n\nThe subreddit announced a strict new rule set: no AI content, no non-English comments. Violators will have their posts removed. No exceptions mentioned.",
+          "3. Users cry foul over quality\n\nModerators cited 'quality control' as the reason, but many users disagree. They argue the ban stifles discussion and excludes non-native speakers who rely on translation tools.",
+          "4. Post AI or foreign language? Removed.\n\nIf you post AI content or non-English comments, you'll be removed. The rule applies to both posts and comments, leaving some users confused about what counts as 'AI content'.",
+          "5. Does exclusion protect open source?\n\nQuestion the ban: does exclusion really protect open source? Try posting a translated comment or an AI-assisted summary in r/opensource this week and see what happens. Then ask yourself: is this the open exchange you want?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A popular open source subreddit just banned AI and non-English comments.",
+          "Moderators announced a strict new rule set with immediate removals.",
+          "They claim it's quality control, but many users strongly disagree.",
+          "Post AI content or foreign language comments and you're out.",
+          "Does exclusion really protect open source? Test it yourself today."
+        ]
+      },
+      "instagram": {
+        "caption": "Post a translated comment in r/opensource this week and it gets removed. Same for anything AI-generated.\n\nThe subreddit announced a strict new rule set: no AI content, no non-English comments. Moderators cited \"quality control,\" but users pushed back hard. 🤔\n\nThey argue the ban stifles discussion and shuts out non-native speakers who depend on translation tools to participate at all.\n\nIf you write in another language or use AI to help draft a reply, your post disappears. No exceptions mentioned. 😬\n\nWhether it's a summary or a translated question, it's gone before anyone reads it.\n\nSo: does exclusion really protect open source? 🧐\n\nTry posting a translated comment there yourself and see what happens."
+      }
+    },
+    "instagram_caption": "Post a translated comment in r/opensource this week and it gets removed. Same for anything AI-generated.\n\nThe subreddit announced a strict new rule set: no AI content, no non-English comments. Moderators cited \"quality control,\" but users pushed back hard. 🤔\n\nThey argue the ban stifles discussion and shuts out non-native speakers who depend on translation tools to participate at all.\n\nIf you write in another language or use AI to help draft a reply, your post disappears. No exceptions mentioned. 😬\n\nWhether it's a summary or a translated question, it's gone before anyone reads it.\n\nSo: does exclusion really protect open source? 🧐\n\nTry posting a translated comment there yourself and see what happens.",
+    "carousel_slides": [
+      {
+        "hook": "Does exclusion really protect open source?",
+        "description": "r/opensource bans AI and non-English comments, citing quality control—but users say it stifles discussion and excludes non-native speakers.",
+        "visual_hint": "Gavel striking on a laptop keyboard",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "gavel laptop"
+      },
+      {
+        "hook": "New rules: no AI, no foreign languages",
+        "description": "The subreddit announced a strict rule set: any post with AI-generated content or non-English comments will be removed, no exceptions mentioned.",
+        "visual_hint": "Red banned sign over a computer screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "banned sign",
+        "image": "https://images.pexels.com/photos/5418096/pexels-photo-5418096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Moderators claim quality control—users cry foul",
+        "description": "Moderators cite 'quality control' as the reason, but many users argue the ban stifles discussion and excludes non-native speakers who rely on translation tools.",
+        "visual_hint": "Split screen: moderator stamp vs user comments",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "split screen",
+        "image": "https://images.pexels.com/photos/21391567/pexels-photo-21391567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Post AI or foreign language? You're removed",
+        "description": "The rule applies to both posts and comments, leaving some users confused about what counts as 'AI content'—violators face removal without warning.",
+        "visual_hint": "Hand pointing at 'removed' notification",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "removed notification",
+        "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: is exclusion the open source way?",
+        "description": "Try posting a translated comment or AI-assisted summary in r/opensource this week—then ask yourself if this is the open exchange you want.",
+        "visual_hint": "Open hand holding a glowing key",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "hand key",
+        "image": "https://images.pexels.com/photos/8470846/pexels-photo-8470846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-25T18:38:03.416Z",
+    "sourceId": "19250ae33b5227a0412eb135e8257d49"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ai-delivers-zero-financial-payoff-to-most-companie",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "pubDate": "Sun, 25 Oct 2026 16:57:32 +0000",
+    "slides": [
+      "Is AI delivering zero payoff for most companies?",
+      "Apollo economist Torsten Sløk claims exactly that.",
+      "Only a few firms see financial gains from AI.",
+      "If your company isn't already measuring AI returns, start now.",
+      "Define one metric before your next AI investment."
+    ],
+    "thread_text": [
+      "1. The AI payoff illusion\n\nApollo economist Torsten Sløk says most companies are seeing zero return on their AI investments. Only a handful are actually making money from it.",
+      "2. A few winners, many losers\n\nThe gap is widening: companies that measure AI returns are pulling ahead, while those that don't are burning cash with no idea if it's working.",
+      "3. The measurement blind spot\n\nMost firms never defined what success looks like before deploying AI. Without a metric, you can't tell if you're winning or just spending.",
+      "4. Start measuring now\n\nIf you haven't already set up return metrics for your AI projects, you're already behind. The first step is picking one number that matters.",
+      "5. One metric before you spend\n\nBefore your next AI investment, define a single metric you'll track. If you can't name it today, you're not ready to buy."
+    ],
+    "video_script": [
+      "Is AI delivering zero payoff for most companies?",
+      "Apollo economist Torsten Sløk claims exactly that.",
+      "Only a few firms see financial gains from AI.",
+      "If your company isn't already measuring AI returns, start now.",
+      "Define one metric before your next AI investment."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The AI payoff illusion\n\nApollo economist Torsten Sløk says most companies are seeing zero return on their AI investments. Only a handful are actually making money from it.",
+          "2. A few winners, many losers\n\nThe gap is widening: companies that measure AI returns are pulling ahead, while those that don't are burning cash with no idea if it's working.",
+          "3. The measurement blind spot\n\nMost firms never defined what success looks like before deploying AI. Without a metric, you can't tell if you're winning or just spending.",
+          "4. Start measuring now\n\nIf you haven't already set up return metrics for your AI projects, you're already behind. The first step is picking one number that matters.",
+          "5. One metric before you spend\n\nBefore your next AI investment, define a single metric you'll track. If you can't name it today, you're not ready to buy."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Is AI delivering zero payoff for most companies?",
+          "Apollo economist Torsten Sløk claims exactly that.",
+          "Only a few firms see financial gains from AI.",
+          "If your company isn't already measuring AI returns, start now.",
+          "Define one metric before your next AI investment."
+        ]
+      },
+      "instagram": {
+        "caption": "Most companies are getting zero financial return from AI. Not a small return — zero, according to Apollo economist Torsten Sløk.\n\nOnly a handful of firms are actually making money from it.\n\nThe gap comes down to measurement: companies tracking AI returns are pulling ahead, the rest are burning cash with no idea if it works.\n\nIf you create or publish content with AI tools, define one metric before your next investment — cost per piece, hours saved, conversion rate. Pick one.\n\nCan you name the number you're tracking right now? 📊"
+      }
+    },
+    "instagram_caption": "Most companies are getting zero financial return from AI. Not a small return — zero, according to Apollo economist Torsten Sløk.\n\nOnly a handful of firms are actually making money from it.\n\nThe gap comes down to measurement: companies tracking AI returns are pulling ahead, the rest are burning cash with no idea if it works.\n\nIf you create or publish content with AI tools, define one metric before your next investment — cost per piece, hours saved, conversion rate. Pick one.\n\nCan you name the number you're tracking right now? 📊",
+    "carousel_slides": [
+      {
+        "hook": "Is AI giving zero payoff?",
+        "description": "Apollo economist Torsten Sløk says most companies see no financial return from AI investments, only a few gain.",
+        "visual_hint": "A graph showing flat line with zero",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Only a few firms win with AI",
+        "description": "The gap widens: companies measuring AI returns pull ahead, while others burn cash without knowing if it works.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "visual_hint": "Split screen of winner and loser",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Most firms never defined AI success",
+        "description": "Without a metric, you can't tell if you're winning or just spending. Measurement is the blind spot.",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "visual_hint": "Magnifying glass over a blank chart",
+        "image_query": "magnifying glass",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Start measuring AI returns now",
+        "description": "If you haven't set up return metrics for AI projects, you're already behind. Pick one number that matters.",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "visual_hint": "Hand pointing at a metrics dashboard",
+        "image_query": "dashboard screen",
+        "image": "https://images.pexels.com/photos/35297914/pexels-photo-35297914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your next AI buy",
+        "description": "Define one metric to track before investing. If you can't name it today, you're not ready to buy.",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "visual_hint": "Checklist with one metric highlighted",
+        "image_query": "checklist paper",
+        "image": "https://images.pexels.com/photos/6928997/pexels-photo-6928997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
+    "savedAt": "2026-10-25T18:37:53.026Z",
+    "sourceId": "71c43854f4ff116510cbaf1cf0b73734"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "google-s-ai-search-changes-upended-online-publishi",
     "prompt_version": "1.0.0",
     "status": "published",

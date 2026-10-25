@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "r-opensource-just-banned-ai-non-english-speakers-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "r/opensource just banned AI, non-English speakers, and more",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+  "pubDate": "2026-10-25T13:25:32.000Z",
+  "slides": [
+    "What drove r/opensource to ban AI and non-English speakers?",
+    "The subreddit announced a strict new rule set.",
+    "Moderators cited 'quality control' but many users disagree.",
+    "If you post AI content or non-English comments, you'll be removed.",
+    "Question the ban: does exclusion really protect open source?"
+  ],
+  "thread_text": [
+    "1. Open source subreddit bans AI\n\nr/opensource now removes any post containing AI-generated content or non-English comments. Moderators say it's about quality control, but the backlash is immediate.",
+    "2. The new rules are strict\n\nThe subreddit announced a strict new rule set: no AI content, no non-English comments. Violators will have their posts removed. No exceptions mentioned.",
+    "3. Users cry foul over quality\n\nModerators cited 'quality control' as the reason, but many users disagree. They argue the ban stifles discussion and excludes non-native speakers who rely on translation tools.",
+    "4. Post AI or foreign language? Removed.\n\nIf you post AI content or non-English comments, you'll be removed. The rule applies to both posts and comments, leaving some users confused about what counts as 'AI content'.",
+    "5. Does exclusion protect open source?\n\nQuestion the ban: does exclusion really protect open source? Try posting a translated comment or an AI-assisted summary in r/opensource this week and see what happens. Then ask yourself: is this the open exchange you want?"
+  ],
+  "video_script": [
+    "A popular open source subreddit just banned AI and non-English comments.",
+    "Moderators announced a strict new rule set with immediate removals.",
+    "They claim it's quality control, but many users strongly disagree.",
+    "Post AI content or foreign language comments and you're out.",
+    "Does exclusion really protect open source? Test it yourself today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Open source subreddit bans AI\n\nr/opensource now removes any post containing AI-generated content or non-English comments. Moderators say it's about quality control, but the backlash is immediate.",
+        "2. The new rules are strict\n\nThe subreddit announced a strict new rule set: no AI content, no non-English comments. Violators will have their posts removed. No exceptions mentioned.",
+        "3. Users cry foul over quality\n\nModerators cited 'quality control' as the reason, but many users disagree. They argue the ban stifles discussion and excludes non-native speakers who rely on translation tools.",
+        "4. Post AI or foreign language? Removed.\n\nIf you post AI content or non-English comments, you'll be removed. The rule applies to both posts and comments, leaving some users confused about what counts as 'AI content'.",
+        "5. Does exclusion protect open source?\n\nQuestion the ban: does exclusion really protect open source? Try posting a translated comment or an AI-assisted summary in r/opensource this week and see what happens. Then ask yourself: is this the open exchange you want?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A popular open source subreddit just banned AI and non-English comments.",
+        "Moderators announced a strict new rule set with immediate removals.",
+        "They claim it's quality control, but many users strongly disagree.",
+        "Post AI content or foreign language comments and you're out.",
+        "Does exclusion really protect open source? Test it yourself today."
+      ]
+    },
+    "instagram": {
+      "caption": "Post a translated comment in r/opensource this week and it gets removed. Same for anything AI-generated.\n\nThe subreddit announced a strict new rule set: no AI content, no non-English comments. Moderators cited \"quality control,\" but users pushed back hard. 🤔\n\nThey argue the ban stifles discussion and shuts out non-native speakers who depend on translation tools to participate at all.\n\nIf you write in another language or use AI to help draft a reply, your post disappears. No exceptions mentioned. 😬\n\nWhether it's a summary or a translated question, it's gone before anyone reads it.\n\nSo: does exclusion really protect open source? 🧐\n\nTry posting a translated comment there yourself and see what happens."
+    }
+  },
+  "instagram_caption": "Post a translated comment in r/opensource this week and it gets removed. Same for anything AI-generated.\n\nThe subreddit announced a strict new rule set: no AI content, no non-English comments. Moderators cited \"quality control,\" but users pushed back hard. 🤔\n\nThey argue the ban stifles discussion and shuts out non-native speakers who depend on translation tools to participate at all.\n\nIf you write in another language or use AI to help draft a reply, your post disappears. No exceptions mentioned. 😬\n\nWhether it's a summary or a translated question, it's gone before anyone reads it.\n\nSo: does exclusion really protect open source? 🧐\n\nTry posting a translated comment there yourself and see what happens.",
+  "carousel_slides": [
+    {
+      "hook": "Does exclusion really protect open source?",
+      "description": "r/opensource bans AI and non-English comments, citing quality control—but users say it stifles discussion and excludes non-native speakers.",
+      "visual_hint": "Gavel striking on a laptop keyboard",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "gavel laptop"
+    },
+    {
+      "hook": "New rules: no AI, no foreign languages",
+      "description": "The subreddit announced a strict rule set: any post with AI-generated content or non-English comments will be removed, no exceptions mentioned.",
+      "visual_hint": "Red banned sign over a computer screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "banned sign",
+      "image": "https://images.pexels.com/photos/5418096/pexels-photo-5418096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Moderators claim quality control—users cry foul",
+      "description": "Moderators cite 'quality control' as the reason, but many users argue the ban stifles discussion and excludes non-native speakers who rely on translation tools.",
+      "visual_hint": "Split screen: moderator stamp vs user comments",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "split screen",
+      "image": "https://images.pexels.com/photos/21391567/pexels-photo-21391567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Post AI or foreign language? You're removed",
+      "description": "The rule applies to both posts and comments, leaving some users confused about what counts as 'AI content'—violators face removal without warning.",
+      "visual_hint": "Hand pointing at 'removed' notification",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "removed notification",
+      "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: is exclusion the open source way?",
+      "description": "Try posting a translated comment or AI-assisted summary in r/opensource this week—then ask yourself if this is the open exchange you want.",
+      "visual_hint": "Open hand holding a glowing key",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hand key",
+      "image": "https://images.pexels.com/photos/8470846/pexels-photo-8470846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-25T18:38:03.416Z",
+  "sourceId": "19250ae33b5227a0412eb135e8257d49"
+}

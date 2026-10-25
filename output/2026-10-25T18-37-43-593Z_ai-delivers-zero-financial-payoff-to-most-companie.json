@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-delivers-zero-financial-payoff-to-most-companie",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+  "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+  "pubDate": "Sun, 25 Oct 2026 16:57:32 +0000",
+  "slides": [
+    "Is AI delivering zero payoff for most companies?",
+    "Apollo economist Torsten Sløk claims exactly that.",
+    "Only a few firms see financial gains from AI.",
+    "If your company isn't already measuring AI returns, start now.",
+    "Define one metric before your next AI investment."
+  ],
+  "thread_text": [
+    "1. The AI payoff illusion\n\nApollo economist Torsten Sløk says most companies are seeing zero return on their AI investments. Only a handful are actually making money from it.",
+    "2. A few winners, many losers\n\nThe gap is widening: companies that measure AI returns are pulling ahead, while those that don't are burning cash with no idea if it's working.",
+    "3. The measurement blind spot\n\nMost firms never defined what success looks like before deploying AI. Without a metric, you can't tell if you're winning or just spending.",
+    "4. Start measuring now\n\nIf you haven't already set up return metrics for your AI projects, you're already behind. The first step is picking one number that matters.",
+    "5. One metric before you spend\n\nBefore your next AI investment, define a single metric you'll track. If you can't name it today, you're not ready to buy."
+  ],
+  "video_script": [
+    "Is AI delivering zero payoff for most companies?",
+    "Apollo economist Torsten Sløk claims exactly that.",
+    "Only a few firms see financial gains from AI.",
+    "If your company isn't already measuring AI returns, start now.",
+    "Define one metric before your next AI investment."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The AI payoff illusion\n\nApollo economist Torsten Sløk says most companies are seeing zero return on their AI investments. Only a handful are actually making money from it.",
+        "2. A few winners, many losers\n\nThe gap is widening: companies that measure AI returns are pulling ahead, while those that don't are burning cash with no idea if it's working.",
+        "3. The measurement blind spot\n\nMost firms never defined what success looks like before deploying AI. Without a metric, you can't tell if you're winning or just spending.",
+        "4. Start measuring now\n\nIf you haven't already set up return metrics for your AI projects, you're already behind. The first step is picking one number that matters.",
+        "5. One metric before you spend\n\nBefore your next AI investment, define a single metric you'll track. If you can't name it today, you're not ready to buy."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Is AI delivering zero payoff for most companies?",
+        "Apollo economist Torsten Sløk claims exactly that.",
+        "Only a few firms see financial gains from AI.",
+        "If your company isn't already measuring AI returns, start now.",
+        "Define one metric before your next AI investment."
+      ]
+    },
+    "instagram": {
+      "caption": "Most companies are getting zero financial return from AI. Not a small return — zero, according to Apollo economist Torsten Sløk.\n\nOnly a handful of firms are actually making money from it.\n\nThe gap comes down to measurement: companies tracking AI returns are pulling ahead, the rest are burning cash with no idea if it works.\n\nIf you create or publish content with AI tools, define one metric before your next investment — cost per piece, hours saved, conversion rate. Pick one.\n\nCan you name the number you're tracking right now? 📊"
+    }
+  },
+  "instagram_caption": "Most companies are getting zero financial return from AI. Not a small return — zero, according to Apollo economist Torsten Sløk.\n\nOnly a handful of firms are actually making money from it.\n\nThe gap comes down to measurement: companies tracking AI returns are pulling ahead, the rest are burning cash with no idea if it works.\n\nIf you create or publish content with AI tools, define one metric before your next investment — cost per piece, hours saved, conversion rate. Pick one.\n\nCan you name the number you're tracking right now? 📊",
+  "carousel_slides": [
+    {
+      "hook": "Is AI giving zero payoff?",
+      "description": "Apollo economist Torsten Sløk says most companies see no financial return from AI investments, only a few gain.",
+      "visual_hint": "A graph showing flat line with zero",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Only a few firms win with AI",
+      "description": "The gap widens: companies measuring AI returns pull ahead, while others burn cash without knowing if it works.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Split screen of winner and loser",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Most firms never defined AI success",
+      "description": "Without a metric, you can't tell if you're winning or just spending. Measurement is the blind spot.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Magnifying glass over a blank chart",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Start measuring AI returns now",
+      "description": "If you haven't set up return metrics for AI projects, you're already behind. Pick one number that matters.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hand pointing at a metrics dashboard",
+      "image_query": "dashboard screen",
+      "image": "https://images.pexels.com/photos/35297914/pexels-photo-35297914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next AI buy",
+      "description": "Define one metric to track before investing. If you can't name it today, you're not ready to buy.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Checklist with one metric highlighted",
+      "image_query": "checklist paper",
+      "image": "https://images.pexels.com/photos/6928997/pexels-photo-6928997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
+  "savedAt": "2026-10-25T18:37:53.026Z",
+  "sourceId": "71c43854f4ff116510cbaf1cf0b73734"
+}
