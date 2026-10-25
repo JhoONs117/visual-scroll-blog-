@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "retro-gaming-is-being-overrun-with-ai",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Retro gaming is being overrun with AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+    "pubDate": "2026-10-23T12:00:00.000Z",
+    "slides": [
+      "Who's actually playing all these AI retro games?",
+      "Storefronts now overflow with thousands of AI-made clones",
+      "Most are auto-generated in hours, not authentic fan works",
+      "Your favorite classics get buried under algorithmic noise",
+      "Search by hand for real gems—skip the feed"
+    ],
+    "thread_text": [
+      "1. The AI Clone Flood\n\nThousands of auto-generated retro game clones now flood storefronts, made in hours by bots—not fans. Your favorite classics are getting buried alive.",
+      "2. Fans vs. Algorithms\n\nAuthentic fan works take weeks. These AI clones take hours. The algorithm doesn't care about quality—it just feeds the volume.",
+      "3. Discovery Is Broken\n\nSearch results now surface algorithmic noise first. Real gems slip further down the page every day, invisible to casual players.",
+      "4. The Human Filter\n\nScrolling the feed won't save you—the feed is rigged. Finding real games means digging manually through pages of auto-generated junk.",
+      "5. Search by Hand\n\nNext time you browse, skip the recommended feed. Search specific titles or dev names manually. Does the algorithm ever show you something genuinely good anymore?"
+    ],
+    "video_script": [
+      "Thousands of AI retro game clones flood storefronts right now.",
+      "Most are auto-generated in hours, not by real fans.",
+      "Your favorite classics get buried under algorithmic noise.",
+      "Search results prioritize volume over quality every single day.",
+      "Skip the feed and search by hand for real gems."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The AI Clone Flood\n\nThousands of auto-generated retro game clones now flood storefronts, made in hours by bots—not fans. Your favorite classics are getting buried alive.",
+          "2. Fans vs. Algorithms\n\nAuthentic fan works take weeks. These AI clones take hours. The algorithm doesn't care about quality—it just feeds the volume.",
+          "3. Discovery Is Broken\n\nSearch results now surface algorithmic noise first. Real gems slip further down the page every day, invisible to casual players.",
+          "4. The Human Filter\n\nScrolling the feed won't save you—the feed is rigged. Finding real games means digging manually through pages of auto-generated junk.",
+          "5. Search by Hand\n\nNext time you browse, skip the recommended feed. Search specific titles or dev names manually. Does the algorithm ever show you something genuinely good anymore?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Thousands of AI retro game clones flood storefronts right now.",
+          "Most are auto-generated in hours, not by real fans.",
+          "Your favorite classics get buried under algorithmic noise.",
+          "Search results prioritize volume over quality every single day.",
+          "Skip the feed and search by hand for real gems."
+        ]
+      },
+      "instagram": {
+        "caption": "Thousands of auto-generated retro game clones are now flooding storefronts, churned out by bots in hours instead of weeks.\n\nAuthentic fan works get buried under that algorithmic noise. 🔍\n\nSearch results surface the clones first, pushing real gems further down every day.\n\nIf you make or publish games, discovery is now a manual job—the recommended feed won't find you an audience.\n\nNext time you browse, skip the feed and search specific titles or dev names by hand. 🕹️ Does the algorithm ever show you something genuinely good anymore?"
+      }
+    },
+    "instagram_caption": "Thousands of auto-generated retro game clones are now flooding storefronts, churned out by bots in hours instead of weeks.\n\nAuthentic fan works get buried under that algorithmic noise. 🔍\n\nSearch results surface the clones first, pushing real gems further down every day.\n\nIf you make or publish games, discovery is now a manual job—the recommended feed won't find you an audience.\n\nNext time you browse, skip the feed and search specific titles or dev names by hand. 🕹️ Does the algorithm ever show you something genuinely good anymore?",
+    "carousel_slides": [
+      {
+        "hook": "AI clones are burying your favorite retro games",
+        "description": "Bots generate thousands of clones in hours, not weeks like authentic fan works. Classics get lost in the flood.",
+        "visual_hint": "Retro game cartridges in a dusty pile",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "retro game cartridges"
+      },
+      {
+        "hook": "Storefronts overflow with auto-generated clones",
+        "description": "Thousands of AI-made retro game clones flood digital stores, pushing genuine titles out of sight.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "visual_hint": "Digital storefront with endless game icons",
+        "image_query": "online store interface",
+        "image": "https://images.pexels.com/photos/7679865/pexels-photo-7679865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Algorithms don't care about quality",
+        "description": "AI clones take hours to make; authentic fan games take weeks. The algorithm rewards volume, not craftsmanship.",
+        "visual_hint": "Robot arm assembling circuit boards",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot arm",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Real gems get buried under algorithmic noise",
+        "description": "Search results surface auto-generated junk first. Genuine classics slip further down, invisible to casual players.",
+        "visual_hint": "Hand scrolling through endless search results",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand scrolling smartphone",
+        "image": "https://images.pexels.com/photos/5239922/pexels-photo-5239922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: search by hand, skip the feed",
+        "description": "Next time you browse, search specific titles or dev names manually instead of relying on recommendations.",
+        "visual_hint": "Magnifying glass over retro game listing",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "magnifying glass map",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-25T08:50:26.576Z",
+    "sourceId": "c8d9d8b98c2a12b6327c86991a7d235e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "blue-planet-iii-is-keeping-the-rough-edges-in-the-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Blue Planet III is keeping the rough edges in the age of AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+    "pubDate": "2026-10-24T21:29:12.000Z",
+    "slides": [
+      "Why would a nature series keep its rough edges?",
+      "Blue Planet III airs soon on BBC One",
+      "Its AI is used only to label footage, not smooth it",
+      "Viewers get wilder, less polished sequences than ever",
+      "Ask yourself: do polished nature docs still feel real?"
+    ],
+    "thread_text": [
+      "1. Rough Edges Matter\n\nBlue Planet III uses AI only to label footage, not to smooth it. That means the wild, unpolished moments stay in the final cut.",
+      "2. AI as a Labeler\n\nInstead of cleaning up shots, the AI tags what's there. Editors then choose to keep the messy, real sequences.",
+      "3. Wilder Than Ever\n\nViewers will see sequences that feel raw and unpredictable. The polish is gone, replaced by authenticity.",
+      "4. Real or Polished?\n\nAsk yourself: do polished nature docs still feel real? This series bets you prefer the rough cut.",
+      "5. Your Turn to Judge\n\nWatch Blue Planet III on BBC One and decide: does the roughness make it more real for you? Tell us what you think."
+    ],
+    "video_script": [
+      "Blue Planet III uses AI only to label footage.",
+      "It doesn't smooth or polish the wild moments.",
+      "Viewers get rawer, less edited sequences than ever.",
+      "Do polished nature docs still feel real to you?",
+      "Watch and decide: does roughness equal authenticity?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Rough Edges Matter\n\nBlue Planet III uses AI only to label footage, not to smooth it. That means the wild, unpolished moments stay in the final cut.",
+          "2. AI as a Labeler\n\nInstead of cleaning up shots, the AI tags what's there. Editors then choose to keep the messy, real sequences.",
+          "3. Wilder Than Ever\n\nViewers will see sequences that feel raw and unpredictable. The polish is gone, replaced by authenticity.",
+          "4. Real or Polished?\n\nAsk yourself: do polished nature docs still feel real? This series bets you prefer the rough cut.",
+          "5. Your Turn to Judge\n\nWatch Blue Planet III on BBC One and decide: does the roughness make it more real for you? Tell us what you think."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Blue Planet III uses AI only to label footage.",
+          "It doesn't smooth or polish the wild moments.",
+          "Viewers get rawer, less edited sequences than ever.",
+          "Do polished nature docs still feel real to you?",
+          "Watch and decide: does roughness equal authenticity?"
+        ]
+      },
+      "instagram": {
+        "caption": "The new Blue Planet III has a rule: the AI is only allowed to label footage, never to smooth or clean it up.\n\nThat means the messy, unpredictable shots stay in the final cut instead of being polished away.\n\nRaw sequences are the point this time, not the accident. 🎥\n\nIf you create or publish anything, this is the bar your audience is quietly setting: keep the real moments, cut the varnish. 🧐\n\nWhen did a rough, unedited version of something last feel more true to you than the polished one? 🌊"
+      }
+    },
+    "instagram_caption": "The new Blue Planet III has a rule: the AI is only allowed to label footage, never to smooth or clean it up.\n\nThat means the messy, unpredictable shots stay in the final cut instead of being polished away.\n\nRaw sequences are the point this time, not the accident. 🎥\n\nIf you create or publish anything, this is the bar your audience is quietly setting: keep the real moments, cut the varnish. 🧐\n\nWhen did a rough, unedited version of something last feel more true to you than the polished one? 🌊",
+    "carousel_slides": [
+      {
+        "hook": "Does polished nature still feel real?",
+        "description": "Blue Planet III uses AI only to label footage, not smooth it. The wild, unpolished moments stay in the final cut.",
+        "visual_hint": "Split screen: polished vs raw nature footage",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "nature documentary filming"
+      },
+      {
+        "hook": "AI labels footage, doesn't clean it",
+        "description": "Instead of cleaning up shots, the AI tags what's there. Editors then choose to keep the messy, real sequences.",
+        "visual_hint": "Editor reviewing tagged footage on screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "video editing software",
+        "image": "https://images.pexels.com/photos/31718971/pexels-photo-31718971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Viewers get wilder, less polished sequences",
+        "description": "Blue Planet III airs soon on BBC One, delivering sequences that feel raw and unpredictable. The polish is gone, replaced by authenticity.",
+        "visual_hint": "Wild ocean waves crashing dramatically",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "ocean waves storm",
+        "image": "https://images.pexels.com/photos/18429600/pexels-photo-18429600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The polish is gone, authenticity remains",
+        "description": "Ask yourself: do polished nature docs still feel real? This series bets you prefer the rough cut.",
+        "visual_hint": "Human hand touching rough natural texture",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "rough tree bark",
+        "image": "https://images.pexels.com/photos/34088805/pexels-photo-34088805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Watch and decide: does roughness feel real?",
+        "description": "Watch Blue Planet III on BBC One and tell us: does the roughness make it more real for you?",
+        "visual_hint": "TV screen showing Blue Planet III logo",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "television screen nature",
+        "image": "https://images.pexels.com/photos/6968874/pexels-photo-6968874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&amp;strip=all&amp;crop=0%2C3.4695867913185%2C100%2C93.060826417363&amp;w=1200",
+    "savedAt": "2026-10-25T08:50:17.092Z",
+    "sourceId": "b1787c28a15080e7145887de5fef719a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "starlink-seems-to-be-working-normally-again-in-ukr",
     "prompt_version": "1.0.0",
     "status": "published",

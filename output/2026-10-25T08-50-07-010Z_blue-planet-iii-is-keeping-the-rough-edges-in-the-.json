@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "blue-planet-iii-is-keeping-the-rough-edges-in-the-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Blue Planet III is keeping the rough edges in the age of AI",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+  "pubDate": "2026-10-24T21:29:12.000Z",
+  "slides": [
+    "Why would a nature series keep its rough edges?",
+    "Blue Planet III airs soon on BBC One",
+    "Its AI is used only to label footage, not smooth it",
+    "Viewers get wilder, less polished sequences than ever",
+    "Ask yourself: do polished nature docs still feel real?"
+  ],
+  "thread_text": [
+    "1. Rough Edges Matter\n\nBlue Planet III uses AI only to label footage, not to smooth it. That means the wild, unpolished moments stay in the final cut.",
+    "2. AI as a Labeler\n\nInstead of cleaning up shots, the AI tags what's there. Editors then choose to keep the messy, real sequences.",
+    "3. Wilder Than Ever\n\nViewers will see sequences that feel raw and unpredictable. The polish is gone, replaced by authenticity.",
+    "4. Real or Polished?\n\nAsk yourself: do polished nature docs still feel real? This series bets you prefer the rough cut.",
+    "5. Your Turn to Judge\n\nWatch Blue Planet III on BBC One and decide: does the roughness make it more real for you? Tell us what you think."
+  ],
+  "video_script": [
+    "Blue Planet III uses AI only to label footage.",
+    "It doesn't smooth or polish the wild moments.",
+    "Viewers get rawer, less edited sequences than ever.",
+    "Do polished nature docs still feel real to you?",
+    "Watch and decide: does roughness equal authenticity?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Rough Edges Matter\n\nBlue Planet III uses AI only to label footage, not to smooth it. That means the wild, unpolished moments stay in the final cut.",
+        "2. AI as a Labeler\n\nInstead of cleaning up shots, the AI tags what's there. Editors then choose to keep the messy, real sequences.",
+        "3. Wilder Than Ever\n\nViewers will see sequences that feel raw and unpredictable. The polish is gone, replaced by authenticity.",
+        "4. Real or Polished?\n\nAsk yourself: do polished nature docs still feel real? This series bets you prefer the rough cut.",
+        "5. Your Turn to Judge\n\nWatch Blue Planet III on BBC One and decide: does the roughness make it more real for you? Tell us what you think."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Blue Planet III uses AI only to label footage.",
+        "It doesn't smooth or polish the wild moments.",
+        "Viewers get rawer, less edited sequences than ever.",
+        "Do polished nature docs still feel real to you?",
+        "Watch and decide: does roughness equal authenticity?"
+      ]
+    },
+    "instagram": {
+      "caption": "The new Blue Planet III has a rule: the AI is only allowed to label footage, never to smooth or clean it up.\n\nThat means the messy, unpredictable shots stay in the final cut instead of being polished away.\n\nRaw sequences are the point this time, not the accident. 🎥\n\nIf you create or publish anything, this is the bar your audience is quietly setting: keep the real moments, cut the varnish. 🧐\n\nWhen did a rough, unedited version of something last feel more true to you than the polished one? 🌊"
+    }
+  },
+  "instagram_caption": "The new Blue Planet III has a rule: the AI is only allowed to label footage, never to smooth or clean it up.\n\nThat means the messy, unpredictable shots stay in the final cut instead of being polished away.\n\nRaw sequences are the point this time, not the accident. 🎥\n\nIf you create or publish anything, this is the bar your audience is quietly setting: keep the real moments, cut the varnish. 🧐\n\nWhen did a rough, unedited version of something last feel more true to you than the polished one? 🌊",
+  "carousel_slides": [
+    {
+      "hook": "Does polished nature still feel real?",
+      "description": "Blue Planet III uses AI only to label footage, not smooth it. The wild, unpolished moments stay in the final cut.",
+      "visual_hint": "Split screen: polished vs raw nature footage",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "nature documentary filming"
+    },
+    {
+      "hook": "AI labels footage, doesn't clean it",
+      "description": "Instead of cleaning up shots, the AI tags what's there. Editors then choose to keep the messy, real sequences.",
+      "visual_hint": "Editor reviewing tagged footage on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "video editing software",
+      "image": "https://images.pexels.com/photos/31718971/pexels-photo-31718971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Viewers get wilder, less polished sequences",
+      "description": "Blue Planet III airs soon on BBC One, delivering sequences that feel raw and unpredictable. The polish is gone, replaced by authenticity.",
+      "visual_hint": "Wild ocean waves crashing dramatically",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "ocean waves storm",
+      "image": "https://images.pexels.com/photos/18429600/pexels-photo-18429600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The polish is gone, authenticity remains",
+      "description": "Ask yourself: do polished nature docs still feel real? This series bets you prefer the rough cut.",
+      "visual_hint": "Human hand touching rough natural texture",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "rough tree bark",
+      "image": "https://images.pexels.com/photos/34088805/pexels-photo-34088805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Watch and decide: does roughness feel real?",
+      "description": "Watch Blue Planet III on BBC One and tell us: does the roughness make it more real for you?",
+      "visual_hint": "TV screen showing Blue Planet III logo",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "television screen nature",
+      "image": "https://images.pexels.com/photos/6968874/pexels-photo-6968874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&amp;strip=all&amp;crop=0%2C3.4695867913185%2C100%2C93.060826417363&amp;w=1200",
+  "savedAt": "2026-10-25T08:50:17.092Z",
+  "sourceId": "b1787c28a15080e7145887de5fef719a"
+}
