@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "the-hottest-ai-wearables-and-gadgets-you-should-kn",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The hottest AI wearables and gadgets you should know about",
+    "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+    "pubDate": "Sun, 25 Oct 2026 14:10:00 +0000",
+    "slides": [
+      "Which AI wearable actually survives past week one?",
+      "The market is flooded with pendants, rings, and pins",
+      "Most ship without real battery or privacy fixes",
+      "Check return windows before committing to a device",
+      "Pick one gadget and test it for seven days"
+    ],
+    "thread_text": [
+      "1. Which AI wearable survives week one?\n\nMost pendants, rings, and pins ship with missing battery or privacy fixes. The real test is seven days of daily use.",
+      "2. The market is flooded\n\nEvery company wants a spot on your body, from your finger to your collar. The hardware is easy; the follow-through is rare.",
+      "3. No privacy fix in sight\n\nAlways-on sensors mean constant data capture, but few brands explain where it goes. Check the policy before you check the price.",
+      "4. Return windows are your safety net\n\nMost stores give you 14 to 30 days to back out. Read the fine print before the box arrives, not after.",
+      "5. Pick one and test it for seven days\n\nWear it through real work and real sleep. If it annoys you by day three, return it."
+    ],
+    "video_script": [
+      "Five AI wearables, one real question: do they last?",
+      "Pendants, rings, pins — the market is totally flooded.",
+      "Most ship without real battery or privacy fixes.",
+      "Check the return window before you commit to anything.",
+      "Pick one gadget and test it for seven days."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Which AI wearable survives week one?\n\nMost pendants, rings, and pins ship with missing battery or privacy fixes. The real test is seven days of daily use.",
+          "2. The market is flooded\n\nEvery company wants a spot on your body, from your finger to your collar. The hardware is easy; the follow-through is rare.",
+          "3. No privacy fix in sight\n\nAlways-on sensors mean constant data capture, but few brands explain where it goes. Check the policy before you check the price.",
+          "4. Return windows are your safety net\n\nMost stores give you 14 to 30 days to back out. Read the fine print before the box arrives, not after.",
+          "5. Pick one and test it for seven days\n\nWear it through real work and real sleep. If it annoys you by day three, return it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Five AI wearables, one real question: do they last?",
+          "Pendants, rings, pins — the market is totally flooded.",
+          "Most ship without real battery or privacy fixes.",
+          "Check the return window before you commit to anything.",
+          "Pick one gadget and test it for seven days."
+        ]
+      },
+      "instagram": {
+        "caption": "Most AI wearables ship with missing battery or privacy fixes, so the seven-day test matters more than the launch video.\n\nPendants, rings, and pins are everywhere now, and every brand wants a spot on your body.\n\nAlways-on sensors mean constant data capture, but few companies explain where it goes. 🔍\n\nReturn windows run 14 to 30 days—read the fine print before the box arrives, not after.\n\nFor creators, that means a gadget you can't trust with data or battery becomes dead weight in your daily workflow. ⌚\n\nPick one device, wear it through real work and real sleep for seven days. If it annoys you by day three, send it back. 🔁\n\nWhich one are you testing first? 🤔"
+      }
+    },
+    "instagram_caption": "Most AI wearables ship with missing battery or privacy fixes, so the seven-day test matters more than the launch video.\n\nPendants, rings, and pins are everywhere now, and every brand wants a spot on your body.\n\nAlways-on sensors mean constant data capture, but few companies explain where it goes. 🔍\n\nReturn windows run 14 to 30 days—read the fine print before the box arrives, not after.\n\nFor creators, that means a gadget you can't trust with data or battery becomes dead weight in your daily workflow. ⌚\n\nPick one device, wear it through real work and real sleep for seven days. If it annoys you by day three, send it back. 🔁\n\nWhich one are you testing first? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Which AI wearable survives week one?",
+        "description": "Most pendants, rings, and pins ship with missing battery or privacy fixes. The real test is seven days of daily use.",
+        "visual_hint": "Person wearing smart ring and pendant",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smart ring"
+      },
+      {
+        "hook": "The market is flooded with wearables",
+        "description": "Every company wants a spot on your body, from finger to collar. Hardware is easy; follow-through is rare.",
+        "visual_hint": "Display of various AI wearables",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "wearable technology",
+        "image": "https://images.pexels.com/photos/5081424/pexels-photo-5081424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No privacy fix in sight",
+        "description": "Always-on sensors mean constant data capture, but few brands explain where it goes. Check policy before price.",
+        "visual_hint": "Close-up of sensor on skin",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "fitness tracker",
+        "image": "https://images.pexels.com/photos/5081914/pexels-photo-5081914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Return windows are your safety net",
+        "description": "Most stores give you 14 to 30 days to back out. Read the fine print before the box arrives.",
+        "visual_hint": "Hand holding return receipt or package",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "return package",
+        "image": "https://images.pexels.com/photos/7564255/pexels-photo-7564255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before you buy",
+        "description": "Pick one gadget and test it for seven days. Wear it through work and sleep; if it annoys you by day three, return it.",
+        "visual_hint": "Smartwatch on wrist during daily activity",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartwatch wrist",
+        "image": "https://images.pexels.com/photos/8217438/pexels-photo-8217438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2016/09/robocash.jpg?resize=1200,849",
+    "savedAt": "2026-10-25T22:11:01.946Z",
+    "sourceId": "aab16b771856fabf3a40cf1bfab9d320"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "grok-releases-the-first-seven-minutes-of-its-ai-ge",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "pubDate": "Sun, 25 Oct 2026 21:31:16 +0000",
+    "slides": [
+      "What does Grok's Odyssey hide beyond seven minutes?",
+      "Grok released only the opening seven minutes of it",
+      "The full film was generated almost entirely by AI",
+      "Viewers can now judge AI cinema for themselves",
+      "Ask: does this seven minutes earn the other eighty?"
+    ],
+    "thread_text": [
+      "1. Seven Minutes to Judge\n\nGrok just dropped the opening seven minutes of 'Odyssey' — and it's almost entirely AI-generated. The rest? Hidden, for now.",
+      "2. The Missing Eighty-Three\n\nOnly the first seven minutes are public. The full film exists, but Grok is holding back the rest — leaving us to guess if the AI can sustain a feature.",
+      "3. AI Made Almost All of It\n\nEvery frame of those seven minutes was generated by AI, not just assisted. That's a first for a major release, and it sets a new benchmark.",
+      "4. Your Turn to Critique\n\nViewers can now watch and judge for themselves. No critics, no filters — just raw AI cinema, open for public scrutiny.",
+      "5. Does Seven Earn Eighty-Three?\n\nWatch the seven minutes today. Then ask yourself: would you pay for the other eighty-three? That's the real test."
+    ],
+    "video_script": [
+      "Grok released only seven minutes of its AI film Odyssey.",
+      "The full movie was generated almost entirely by artificial intelligence.",
+      "Viewers can now watch and judge the AI cinema for themselves.",
+      "The big question: does this seven minutes earn the other eighty?",
+      "Watch it today and decide if you'd pay for the rest."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Seven Minutes to Judge\n\nGrok just dropped the opening seven minutes of 'Odyssey' — and it's almost entirely AI-generated. The rest? Hidden, for now.",
+          "2. The Missing Eighty-Three\n\nOnly the first seven minutes are public. The full film exists, but Grok is holding back the rest — leaving us to guess if the AI can sustain a feature.",
+          "3. AI Made Almost All of It\n\nEvery frame of those seven minutes was generated by AI, not just assisted. That's a first for a major release, and it sets a new benchmark.",
+          "4. Your Turn to Critique\n\nViewers can now watch and judge for themselves. No critics, no filters — just raw AI cinema, open for public scrutiny.",
+          "5. Does Seven Earn Eighty-Three?\n\nWatch the seven minutes today. Then ask yourself: would you pay for the other eighty-three? That's the real test."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Grok released only seven minutes of its AI film Odyssey.",
+          "The full movie was generated almost entirely by artificial intelligence.",
+          "Viewers can now watch and judge the AI cinema for themselves.",
+          "The big question: does this seven minutes earn the other eighty?",
+          "Watch it today and decide if you'd pay for the rest."
+        ]
+      },
+      "instagram": {
+        "caption": "Grok released just seven minutes of an 'Odyssey' that's almost entirely AI-generated. 🎬\n\nThe full film exists, but only the opening is public for now.\n\nThat means you can judge AI cinema yourself, no critics in the way. 👀\n\nIf you make video content, this sets a new bar: entire frames generated, not just assisted.\n\nWatch those seven minutes, then ask yourself honestly — would you sit through the other eighty-three? 🤔"
+      }
+    },
+    "instagram_caption": "Grok released just seven minutes of an 'Odyssey' that's almost entirely AI-generated. 🎬\n\nThe full film exists, but only the opening is public for now.\n\nThat means you can judge AI cinema yourself, no critics in the way. 👀\n\nIf you make video content, this sets a new bar: entire frames generated, not just assisted.\n\nWatch those seven minutes, then ask yourself honestly — would you sit through the other eighty-three? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Does seven minutes prove AI cinema?",
+        "description": "Grok released only the first seven minutes of 'Odyssey', leaving the rest hidden and AI's full potential unproven.",
+        "visual_hint": "Film reel with seven frames highlighted",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "film reel"
+      },
+      {
+        "hook": "The missing eighty-three minutes",
+        "description": "The full film exists, but Grok holds back the rest, so we can't judge if AI can sustain a feature-length movie.",
+        "visual_hint": "Clock with missing time segments",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "clock face",
+        "image": "https://images.pexels.com/photos/37808313/pexels-photo-37808313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Every frame, AI-generated",
+        "description": "Those seven minutes were almost entirely AI-generated, not just assisted—a first for a major release.",
+        "visual_hint": "Abstract AI neural network visualization",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "neural network",
+        "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your turn to judge",
+        "description": "Viewers can now watch and critique the raw AI cinema for themselves, no filters or critics involved.",
+        "visual_hint": "Person holding a film clapperboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "clapperboard",
+        "image": "https://images.pexels.com/photos/29696177/pexels-photo-29696177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and decide",
+        "description": "Watch the seven minutes today, then ask: would you pay for the other eighty-three?",
+        "visual_hint": "Ticket stub with question mark",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "movie ticket",
+        "image": "https://images.pexels.com/photos/8261585/pexels-photo-8261585.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+    "savedAt": "2026-10-25T22:10:53.260Z",
+    "sourceId": "9e4fbbe069370a1fd97c40fab98753b8"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "r-opensource-just-banned-ai-non-english-speakers-a",
     "prompt_version": "1.0.0",
     "status": "published",
