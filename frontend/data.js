@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "google-s-ai-search-changes-upended-online-publishi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google’s AI search changes upended online publishing",
+    "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+    "pubDate": "2026-10-25T12:00:00.000Z",
+    "slides": [
+      "Google's AI search just reshaped publishing—who wins?",
+      "Click-through rates dropped for most content sites.",
+      "But some publishers saw traffic surge instead.",
+      "Audit your referral data before your next content cycle.",
+      "Check one page's search traffic today."
+    ],
+    "thread_text": [
+      "1. Google's AI search is reshaping publishing\n\nClick-through rates have dropped for most content sites as AI summaries replace clicks. Some publishers, however, are seeing traffic surge instead.",
+      "2. The traffic divide is growing\n\nWhile many sites lose referrals, a few are capitalizing on the shift by optimizing for AI-driven search. Their strategies reveal what works.",
+      "3. What are the winners doing?\n\nThey focus on high-quality, authoritative content that AI models prefer to cite. This approach turns AI summaries into a traffic source.",
+      "4. Audit your referral data now\n\nBefore your next content cycle, examine which pages are losing or gaining traffic. This will guide your AI optimization efforts.",
+      "5. Check one page today\n\nLook at a single page's search traffic in your analytics. If referrals are down, consider how AI summaries might be affecting it."
+    ],
+    "video_script": [
+      "Google's AI search is changing publishing.",
+      "Click-through rates dropped for most content sites.",
+      "But some publishers saw traffic surge instead.",
+      "Audit your referral data before your next content cycle.",
+      "Check one page's search traffic today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Google's AI search is reshaping publishing\n\nClick-through rates have dropped for most content sites as AI summaries replace clicks. Some publishers, however, are seeing traffic surge instead.",
+          "2. The traffic divide is growing\n\nWhile many sites lose referrals, a few are capitalizing on the shift by optimizing for AI-driven search. Their strategies reveal what works.",
+          "3. What are the winners doing?\n\nThey focus on high-quality, authoritative content that AI models prefer to cite. This approach turns AI summaries into a traffic source.",
+          "4. Audit your referral data now\n\nBefore your next content cycle, examine which pages are losing or gaining traffic. This will guide your AI optimization efforts.",
+          "5. Check one page today\n\nLook at a single page's search traffic in your analytics. If referrals are down, consider how AI summaries might be affecting it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google's AI search is changing publishing.",
+          "Click-through rates dropped for most content sites.",
+          "But some publishers saw traffic surge instead.",
+          "Audit your referral data before your next content cycle.",
+          "Check one page's search traffic today."
+        ]
+      },
+      "instagram": {
+        "caption": "Click-through rates fell for most content sites as Google's AI summaries started answering queries directly on the results page.\n\nSome publishers are seeing traffic surge instead 📈\n\nThe winners write authoritative, high-quality content that AI models prefer to cite.\n\nThat turns AI summaries into a referral source rather than a leak.\n\nIf you publish content, your referral data now tells two very different stories depending on the page 🧐\n\nBefore your next content cycle, audit which pages are losing traffic and which are gaining it.\n\nCheck one page's search traffic in your analytics today 🔍\n\nIs it down — and would you even know why?"
+      }
+    },
+    "instagram_caption": "Click-through rates fell for most content sites as Google's AI summaries started answering queries directly on the results page.\n\nSome publishers are seeing traffic surge instead 📈\n\nThe winners write authoritative, high-quality content that AI models prefer to cite.\n\nThat turns AI summaries into a referral source rather than a leak.\n\nIf you publish content, your referral data now tells two very different stories depending on the page 🧐\n\nBefore your next content cycle, audit which pages are losing traffic and which are gaining it.\n\nCheck one page's search traffic in your analytics today 🔍\n\nIs it down — and would you even know why?",
+    "carousel_slides": [
+      {
+        "hook": "Google's AI search: who really wins?",
+        "description": "AI summaries replace clicks, dropping click-through rates for most content sites—but some publishers see traffic surge.",
+        "visual_hint": "Split screen: sinking vs rising graph",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Most sites lose, a few gain",
+        "description": "The traffic divide grows as AI-driven search rewards authoritative content that models prefer to cite.",
+        "visual_hint": "Two diverging arrows, one up one down",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "traffic lights",
+        "image": "https://images.pexels.com/photos/30917745/pexels-photo-30917745.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Winners optimize for AI citations",
+        "description": "High-quality, authoritative content turns AI summaries into a traffic source instead of a threat.",
+        "visual_hint": "Magnifying glass over cited text",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit referral data before next cycle",
+        "description": "Examine which pages gain or lose traffic to guide your AI optimization efforts effectively.",
+        "visual_hint": "Hand pointing at analytics dashboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "analytics dashboard",
+        "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and check one page today",
+        "description": "Open your analytics, pick one page, and see if AI summaries are affecting its search referrals.",
+        "visual_hint": "Single page traffic graph highlighted",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "computer screen graph",
+        "image": "https://images.pexels.com/photos/8100069/pexels-photo-8100069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-25T14:01:18.756Z",
+    "sourceId": "ec4100b5e401e0ad2e50d03fcf4aaf81"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "retro-gaming-is-being-overrun-with-ai",
     "prompt_version": "1.0.0",
     "status": "published",
