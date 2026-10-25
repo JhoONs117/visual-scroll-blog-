@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "starlink-seems-to-be-working-normally-again-in-ukr",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Starlink seems to be working normally again in Ukraine",
+  "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+  "pubDate": "Sat, 24 Oct 2026 20:46:34 +0000",
+  "slides": [
+    "Why did Starlink suddenly go quiet in Ukraine?",
+    "Connectivity dropped across multiple front-line sectors",
+    "Outages tracked to specific terminal firmware versions",
+    "Users can check their dish status for version locks",
+    "Watch for silent firmware rollouts, not announcements"
+  ],
+  "thread_text": [
+    "1. The Night Starlink Went Silent\n\nIn early 2026, Ukrainian forces noticed their front-line Starlink terminals going dark simultaneously across multiple sectors. No official announcement was made.",
+    "2. Outages Hit Multiple Fronts\n\nConnectivity dropped across several front-line sectors at once, suggesting a coordinated event rather than isolated failures. Troops reported losing drone feeds and command links.",
+    "3. Firmware Versions Under Scrutiny\n\nEngineers traced the outages to specific terminal firmware versions. Devices running particular builds were locked out, while others kept working.",
+    "4. Check Your Dish Status Now\n\nUsers can verify whether their dish is affected by checking the terminal status page for version locks. A quick look reveals if your device is on the blocked list.",
+    "5. Watch for Silent Rollouts\n\nDon't wait for public announcements. Monitor your firmware version directly — silent pushes are the real signal. Check your dish today."
+  ],
+  "video_script": [
+    "One night, Starlink terminals went silent across the front lines.",
+    "Outages hit multiple sectors at once — not random failures.",
+    "Engineers traced it to specific terminal firmware versions.",
+    "Users can check their dish status for version locks.",
+    "Watch for silent firmware rollouts, not official announcements."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Night Starlink Went Silent\n\nIn early 2026, Ukrainian forces noticed their front-line Starlink terminals going dark simultaneously across multiple sectors. No official announcement was made.",
+        "2. Outages Hit Multiple Fronts\n\nConnectivity dropped across several front-line sectors at once, suggesting a coordinated event rather than isolated failures. Troops reported losing drone feeds and command links.",
+        "3. Firmware Versions Under Scrutiny\n\nEngineers traced the outages to specific terminal firmware versions. Devices running particular builds were locked out, while others kept working.",
+        "4. Check Your Dish Status Now\n\nUsers can verify whether their dish is affected by checking the terminal status page for version locks. A quick look reveals if your device is on the blocked list.",
+        "5. Watch for Silent Rollouts\n\nDon't wait for public announcements. Monitor your firmware version directly — silent pushes are the real signal. Check your dish today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "One night, Starlink terminals went silent across the front lines.",
+        "Outages hit multiple sectors at once — not random failures.",
+        "Engineers traced it to specific terminal firmware versions.",
+        "Users can check their dish status for version locks.",
+        "Watch for silent firmware rollouts, not official announcements."
+      ]
+    },
+    "instagram": {
+      "caption": "Your Starlink dish may have been quietly locked out — and it's working again now. 📡\n\nIn early 2026, terminals across multiple Ukrainian front-line sectors went dark at once. No announcement, no warning.\n\nEngineers traced the outages to specific firmware versions: some builds were blocked, others kept running. 🔍\n\nIf you depend on satellite links for field reporting or live feeds, check your dish status page for version locks before your next deployment.\n\nSilent firmware pushes are the real signal — not press releases. ⚠️\n\nIs your terminal on the blocked list, or did it survive the rollout?"
+    }
+  },
+  "instagram_caption": "Your Starlink dish may have been quietly locked out — and it's working again now. 📡\n\nIn early 2026, terminals across multiple Ukrainian front-line sectors went dark at once. No announcement, no warning.\n\nEngineers traced the outages to specific firmware versions: some builds were blocked, others kept running. 🔍\n\nIf you depend on satellite links for field reporting or live feeds, check your dish status page for version locks before your next deployment.\n\nSilent firmware pushes are the real signal — not press releases. ⚠️\n\nIs your terminal on the blocked list, or did it survive the rollout?",
+  "carousel_slides": [
+    {
+      "hook": "Why did Starlink suddenly go quiet?",
+      "description": "In early 2026, Ukrainian front-line terminals went dark simultaneously across multiple sectors, with no official announcement from SpaceX.",
+      "visual_hint": "Satellite dish silhouetted against dark sky",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "satellite dish night"
+    },
+    {
+      "hook": "Outages hit multiple fronts at once",
+      "description": "Connectivity dropped across several front-line sectors simultaneously, suggesting a coordinated event rather than isolated failures. Troops lost drone feeds and command links.",
+      "visual_hint": "Map of Ukraine with red outage zones",
+      "layout_type": "right-focus",
+      "icon": "vibration",
+      "image_query": "Ukraine map",
+      "image": "https://images.pexels.com/photos/31130338/pexels-photo-31130338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Firmware versions under scrutiny",
+      "description": "Engineers traced the outages to specific terminal firmware versions. Devices running particular builds were locked out, while others kept working normally.",
+      "visual_hint": "Close-up of firmware code on screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your dish status now",
+      "description": "Users can verify whether their dish is affected by checking the terminal status page for version locks. A quick look reveals if your device is blocked.",
+      "visual_hint": "Hand holding phone showing status page",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone status screen",
+      "image": "https://images.pexels.com/photos/17789077/pexels-photo-17789077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: watch for silent rollouts",
+      "description": "Don't wait for public announcements. Monitor your firmware version directly — silent pushes are the real signal. Check your dish today and save this post.",
+      "visual_hint": "Satellite dish with warning sign",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "satellite dish field",
+      "image": "https://images.pexels.com/photos/8346132/pexels-photo-8346132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
+  "savedAt": "2026-10-25T02:26:58.909Z",
+  "sourceId": "aae262bb6858cca158759765978aea86"
+}
