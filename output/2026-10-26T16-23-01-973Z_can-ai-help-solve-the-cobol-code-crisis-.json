@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "can-ai-help-solve-the-cobol-code-crisis-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Can AI help solve the COBOL code crisis?",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+  "pubDate": "2026-10-26T13:15:00.000Z",
+  "slides": [
+    "Banks still run on COBOL nobody understands",
+    "Aging programmers are retiring faster than replacements arrive",
+    "AI can now translate old COBOL into modern code",
+    "But translation errors carry regulatory and financial risk",
+    "Pilot one legacy module with human review first"
+  ],
+  "thread_text": [
+    "1. Banks' Secret Code\n\nMost ATM and payment systems still run on COBOL, a language few programmers alive can read. Retirements are outpacing new hires, leaving critical infrastructure in the hands of a vanishing few.",
+    "2. The Retirement Cliff\n\nExperienced COBOL developers are leaving the workforce faster than replacements arrive. Banks face a growing knowledge gap that threatens daily operations.",
+    "3. AI to the Rescue?\n\nNew AI tools can translate aging COBOL into modern languages like Java or Python. Early tests show promise, but accuracy varies widely.",
+    "4. High Stakes Translation\n\nA single error in translated code could cause regulatory fines or financial losses. Human oversight remains essential to catch subtle mistakes.",
+    "5. Start Small\n\nPilot AI translation on one legacy module with full human review. If you work in finance, ask your team: could this approach work for us?"
+  ],
+  "video_script": [
+    "Banks still rely on old COBOL code nobody understands.",
+    "Experienced programmers are retiring faster than new ones arrive.",
+    "AI can now translate COBOL into modern code.",
+    "But mistakes could cause regulatory and financial problems.",
+    "Start with one module and human review first."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Banks' Secret Code\n\nMost ATM and payment systems still run on COBOL, a language few programmers alive can read. Retirements are outpacing new hires, leaving critical infrastructure in the hands of a vanishing few.",
+        "2. The Retirement Cliff\n\nExperienced COBOL developers are leaving the workforce faster than replacements arrive. Banks face a growing knowledge gap that threatens daily operations.",
+        "3. AI to the Rescue?\n\nNew AI tools can translate aging COBOL into modern languages like Java or Python. Early tests show promise, but accuracy varies widely.",
+        "4. High Stakes Translation\n\nA single error in translated code could cause regulatory fines or financial losses. Human oversight remains essential to catch subtle mistakes.",
+        "5. Start Small\n\nPilot AI translation on one legacy module with full human review. If you work in finance, ask your team: could this approach work for us?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Banks still rely on old COBOL code nobody understands.",
+        "Experienced programmers are retiring faster than new ones arrive.",
+        "AI can now translate COBOL into modern code.",
+        "But mistakes could cause regulatory and financial problems.",
+        "Start with one module and human review first."
+      ]
+    },
+    "instagram": {
+      "caption": "Most ATM and payment systems still run on COBOL, a language few living programmers can read.\n\nExperienced developers are retiring faster than replacements arrive, leaving banks with a growing knowledge gap. 🏦\n\nNew AI tools can translate old COBOL into Java or Python, but accuracy varies widely — and one error could trigger regulatory fines or financial losses.\n\nIf you work in finance, pilot this on a single legacy module with full human review before trusting it. ⚠️\n\nWould AI translation actually pass your team's risk checks — or just move the risk somewhere quieter? 🔍"
+    }
+  },
+  "instagram_caption": "Most ATM and payment systems still run on COBOL, a language few living programmers can read.\n\nExperienced developers are retiring faster than replacements arrive, leaving banks with a growing knowledge gap. 🏦\n\nNew AI tools can translate old COBOL into Java or Python, but accuracy varies widely — and one error could trigger regulatory fines or financial losses.\n\nIf you work in finance, pilot this on a single legacy module with full human review before trusting it. ⚠️\n\nWould AI translation actually pass your team's risk checks — or just move the risk somewhere quieter? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "AI can translate COBOL. Should we trust it?",
+      "description": "New AI tools convert COBOL to Java or Python, but accuracy varies widely across early tests.",
+      "visual_hint": "Split screen old code versus new code",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer code screen"
+    },
+    {
+      "hook": "Banks' COBOL crisis is a retirement cliff.",
+      "description": "Experienced COBOL developers are retiring faster than replacements arrive, leaving daily operations at risk.",
+      "visual_hint": "Empty office chair with old computer",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office desk computer",
+      "image": "https://images.pexels.com/photos/22711217/pexels-photo-22711217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI translation promises speed, but errors cost millions.",
+      "description": "Early AI tests show promise for COBOL translation, but a single error can trigger fines or losses.",
+      "visual_hint": "Error message on a bank terminal",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "bank ATM machine",
+      "image": "https://images.pexels.com/photos/34055713/pexels-photo-34055713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Human oversight is non-negotiable in finance.",
+      "description": "Regulatory fines and financial losses loom when translated code has subtle mistakes that only humans catch.",
+      "visual_hint": "Hand reviewing code on a screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person typing keyboard",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pilot one module. Review everything. Save this.",
+      "description": "Start with a single legacy module and full human review—then ask your team if this approach works.",
+      "visual_hint": "Small pilot project checklist on desk",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard pen",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1246435991.jpg?quality=90&amp;strip=all&amp;crop=0%2C15.095986038394%2C100%2C69.808027923211&amp;w=1200",
+  "savedAt": "2026-10-26T16:23:20.127Z",
+  "sourceId": "21f9a9af9d145710b447d140ed26be21"
+}
