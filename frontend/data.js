@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "-cyberselfish-author-takes-aim-at-techno-libertari",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+    "link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+    "pubDate": "Sun, 25 Oct 2026 20:20:08 +0000",
+    "slides": [
+      "Why is a 25-year-old book back?",
+      "Paulina Borsook's 'Cyberselfish' was out of print.",
+      "A tech backlash made it newly relevant again.",
+      "You'll hear 'techno-libertarian' used more often now.",
+      "Ask who benefits when tech claims to be apolitical."
+    ],
+    "thread_text": [
+      "1. Why revive a 25-year-old book?\n\nPaulina Borsook's 'Cyberselfish' went out of print years ago. Now a tech backlash has pulled it back into the conversation.",
+      "2. The term you'll hear more\n\n'Techno-libertarian' is creeping back into everyday tech talk. It names a worldview that treats markets as the answer to almost everything.",
+      "3. The apolitical illusion\n\nWhen tech leaders say their products are neutral, ask who actually benefits from that framing. The answer is rarely neutral.",
+      "4. From niche to mainstream\n\nWhat felt fringe in 1999 now shapes how founders and investors talk. Borsook saw the pattern before most people did.",
+      "5. Who gains from 'neutral'?\n\nNext time a tool is pitched as apolitical, ask who profits from that claim. Then check if the answer holds up."
+    ],
+    "video_script": [
+      "A 25-year-old book is suddenly back in print.",
+      "Its author warned about techno-libertarian thinking decades ago.",
+      "Now a tech backlash makes her argument feel current again.",
+      "When tech claims neutrality, ask who actually benefits.",
+      "Grab a copy and test the idea on a real product."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why revive a 25-year-old book?\n\nPaulina Borsook's 'Cyberselfish' went out of print years ago. Now a tech backlash has pulled it back into the conversation.",
+          "2. The term you'll hear more\n\n'Techno-libertarian' is creeping back into everyday tech talk. It names a worldview that treats markets as the answer to almost everything.",
+          "3. The apolitical illusion\n\nWhen tech leaders say their products are neutral, ask who actually benefits from that framing. The answer is rarely neutral.",
+          "4. From niche to mainstream\n\nWhat felt fringe in 1999 now shapes how founders and investors talk. Borsook saw the pattern before most people did.",
+          "5. Who gains from 'neutral'?\n\nNext time a tool is pitched as apolitical, ask who profits from that claim. Then check if the answer holds up."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A 25-year-old book is suddenly back in print.",
+          "Its author warned about techno-libertarian thinking decades ago.",
+          "Now a tech backlash makes her argument feel current again.",
+          "When tech claims neutrality, ask who actually benefits.",
+          "Grab a copy and test the idea on a real product."
+        ]
+      },
+      "instagram": {
+        "caption": "A book that was out of print just came back because the tech world caught up to it. 📚\n\nPaulina Borsook's 'Cyberselfish' warned about techno-libertarianism 25 years ago. Now a backlash against tech has made her argument relevant again.\n\nThe term \"techno-libertarian\" is creeping back into everyday tech talk. It describes a worldview that treats markets as the answer to almost everything. 💭\n\nWhen a tool gets pitched as neutral or apolitical, that framing isn't innocent. Someone profits from it.\n\nSo next time you see \"neutral\" attached to a product, ask who benefits. 🤔 Does the answer hold up?"
+      }
+    },
+    "instagram_caption": "A book that was out of print just came back because the tech world caught up to it. 📚\n\nPaulina Borsook's 'Cyberselfish' warned about techno-libertarianism 25 years ago. Now a backlash against tech has made her argument relevant again.\n\nThe term \"techno-libertarian\" is creeping back into everyday tech talk. It describes a worldview that treats markets as the answer to almost everything. 💭\n\nWhen a tool gets pitched as neutral or apolitical, that framing isn't innocent. Someone profits from it.\n\nSo next time you see \"neutral\" attached to a product, ask who benefits. 🤔 Does the answer hold up?",
+    "carousel_slides": [
+      {
+        "hook": "Who really benefits from 'neutral' tech?",
+        "description": "Paulina Borsook's 'Cyberselfish' is back in print as a tech backlash makes its critique newly urgent.",
+        "visual_hint": "Book cover with cracked glass overlay",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "old book"
+      },
+      {
+        "hook": "A 25-year-old book returns from the dead",
+        "description": "Borsook's 'Cyberselfish' went out of print, but a growing tech backlash pulled it back into the conversation.",
+        "visual_hint": "Dusty book on a modern desk",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "library shelf",
+        "image": "https://images.pexels.com/photos/5114911/pexels-photo-5114911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Techno-libertarian: the term you'll hear more",
+        "description": "The worldview treating markets as the answer to almost everything is creeping back into everyday tech talk.",
+        "visual_hint": "Dictionary definition with circuit board",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "circuit board",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "From fringe in 1999 to mainstream today",
+        "description": "What felt niche now shapes how founders and investors talk. Borsook saw the pattern before most people did.",
+        "visual_hint": "Investor meeting with old book",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before the next 'neutral' pitch",
+        "description": "Next time a tool is pitched as apolitical, ask who profits from that claim and check if the answer holds up.",
+        "visual_hint": "Hand holding phone with question mark",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/paulina-borsook.jpeg?resize=1139,1200",
+    "savedAt": "2026-10-26T02:26:07.257Z",
+    "sourceId": "b4262eb1394dea22e5bb73223a56d48c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "the-hottest-ai-wearables-and-gadgets-you-should-kn",
     "prompt_version": "1.0.0",
     "status": "published",
