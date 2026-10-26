@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "matiks-raises-10m-to-expand-its-math-and-puzzle-ga",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
+  "link": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
+  "pubDate": "Mon, 26 Oct 2026 14:08:04 +0000",
+  "slides": [
+    "Why is a math game raising millions?",
+    "Matiks just closed a $10M funding round",
+    "But the real bet is on puzzle retention, not math",
+    "More daily puzzle content is coming to the platform",
+    "Try one puzzle today and see why investors bet"
+  ],
+  "thread_text": [
+    "1. The Math Game Bet\n\nMatiks just raised $10M for a math puzzle game. But the money isn't betting on math—it's betting on daily puzzle retention.",
+    "2. $10M Round Closed\n\nThe funding will fuel more daily puzzle content. Investors are watching if players come back every day, not just once.",
+    "3. Retention Over Math\n\nPuzzle retention is the real metric. Can a math game keep users hooked like a crossword or Wordle? That's the $10M question.",
+    "4. More Puzzles Incoming\n\nNew daily puzzle formats are on the roadmap. The goal: make solving a habit, not a one-time challenge.",
+    "5. Test It Yourself\n\nTry one puzzle today. If you come back tomorrow, you'll see why investors bet. Does it hook you?"
+  ],
+  "video_script": [
+    "Why is a math game raising millions?",
+    "Matiks just closed a ten million dollar round.",
+    "The real bet is puzzle retention, not math.",
+    "More daily puzzle content is coming soon.",
+    "Try one puzzle today and see why."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Math Game Bet\n\nMatiks just raised $10M for a math puzzle game. But the money isn't betting on math—it's betting on daily puzzle retention.",
+        "2. $10M Round Closed\n\nThe funding will fuel more daily puzzle content. Investors are watching if players come back every day, not just once.",
+        "3. Retention Over Math\n\nPuzzle retention is the real metric. Can a math game keep users hooked like a crossword or Wordle? That's the $10M question.",
+        "4. More Puzzles Incoming\n\nNew daily puzzle formats are on the roadmap. The goal: make solving a habit, not a one-time challenge.",
+        "5. Test It Yourself\n\nTry one puzzle today. If you come back tomorrow, you'll see why investors bet. Does it hook you?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Why is a math game raising millions?",
+        "Matiks just closed a ten million dollar round.",
+        "The real bet is puzzle retention, not math.",
+        "More daily puzzle content is coming soon.",
+        "Try one puzzle today and see why."
+      ]
+    },
+    "instagram": {
+      "caption": "$10M says the real bet isn't math—it's whether you come back tomorrow.\n\nMatiks just closed a $10M round for its math and puzzle gaming platform.\n\nInvestors are watching daily puzzle retention, not the math itself. Can it hook players like Wordle does? 🧩\n\nMore daily puzzle formats are on the roadmap, aiming to turn solving into a habit instead of a one-time challenge. 📈\n\nIf you make puzzle or game content, this signals where the money's flowing: retention loops over raw concepts. 🎯\n\nWould you actually return to a math puzzle two days in a row? Try one and find out. 🤔"
+    }
+  },
+  "instagram_caption": "$10M says the real bet isn't math—it's whether you come back tomorrow.\n\nMatiks just closed a $10M round for its math and puzzle gaming platform.\n\nInvestors are watching daily puzzle retention, not the math itself. Can it hook players like Wordle does? 🧩\n\nMore daily puzzle formats are on the roadmap, aiming to turn solving into a habit instead of a one-time challenge. 📈\n\nIf you make puzzle or game content, this signals where the money's flowing: retention loops over raw concepts. 🎯\n\nWould you actually return to a math puzzle two days in a row? Try one and find out. 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can a math game keep you hooked?",
+      "description": "Matiks raised $10M betting on daily puzzle retention, not math itself. The real metric is whether players return every day.",
+      "visual_hint": "Person solving puzzle on phone",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "person using smartphone"
+    },
+    {
+      "hook": "Matiks just closed a $10M funding round",
+      "description": "The fresh capital will fuel more daily puzzle content as investors watch for repeat play, not one-time downloads.",
+      "visual_hint": "Stack of cash on desk",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stack of money",
+      "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Retention beats math for investors",
+      "description": "Puzzle retention is the real $10M question: can a math game hook users like Wordle or a daily crossword?",
+      "visual_hint": "Eyes focused on screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "person looking at phone",
+      "image": "https://images.pexels.com/photos/7428581/pexels-photo-7428581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "More daily puzzles are coming",
+      "description": "New daily puzzle formats are on the roadmap, aiming to turn solving into a habit rather than a one-off challenge.",
+      "visual_hint": "Hand writing puzzle grid",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "crossword puzzle paper",
+      "image": "https://images.pexels.com/photos/13396334/pexels-photo-13396334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try one puzzle today — link in bio",
+      "description": "Solve a single puzzle now. If you come back tomorrow, you'll understand exactly why investors placed their bet.",
+      "visual_hint": "Finger tapping puzzle app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hand tapping smartphone",
+      "image": "https://images.pexels.com/photos/24263954/pexels-photo-24263954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Matiks-co-founders.jpg?resize=1200,675",
+  "savedAt": "2026-10-26T22:07:46.437Z",
+  "sourceId": "1d15cdd667da31007c7e15f5b6f56724"
+}

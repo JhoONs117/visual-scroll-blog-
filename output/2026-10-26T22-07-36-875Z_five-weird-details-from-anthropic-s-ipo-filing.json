@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "five-weird-details-from-anthropic-s-ipo-filing",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Five weird details from Anthropic’s IPO filing",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+  "pubDate": "2026-10-26T17:10:23.000Z",
+  "slides": [
+    "Anthropic filed for IPO—but why now?",
+    "The filing reveals unusual governance structure",
+    "Its safety commitments may constrain investor returns",
+    "Public markets now price AI risk explicitly",
+    "Read the filing's risk factors yourself"
+  ],
+  "thread_text": [
+    "1. Why Now?\n\nAnthropic filed for IPO just as public markets started pricing AI risk explicitly. The timing is the story.",
+    "2. Unusual Governance\n\nThe filing reveals a structure that gives safety commitments priority over shareholder control. Investors are getting a different kind of company.",
+    "3. Safety Constraints\n\nThose commitments may cap returns, because they lock in certain decisions regardless of profit. Money managers are now debating whether mission and margin can coexist.",
+    "4. AI Risk Priced\n\nPublic markets are now assigning a concrete cost to AI risk, which changes how every AI company will be valued. That pricing is a signal for the whole sector.",
+    "5. Read It Yourself\n\nOpen the filing's risk factors and scan for the safety clauses. If you can't find them, ask why."
+  ],
+  "video_script": [
+    "Anthropic just filed for IPO, and the timing is strange.",
+    "The filing shows a governance structure that prioritizes safety over shareholder control.",
+    "Those safety commitments might limit how much investors can earn.",
+    "Public markets are now pricing AI risk explicitly, changing valuations across the sector.",
+    "Go read the risk factors yourself and see what stands out."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why Now?\n\nAnthropic filed for IPO just as public markets started pricing AI risk explicitly. The timing is the story.",
+        "2. Unusual Governance\n\nThe filing reveals a structure that gives safety commitments priority over shareholder control. Investors are getting a different kind of company.",
+        "3. Safety Constraints\n\nThose commitments may cap returns, because they lock in certain decisions regardless of profit. Money managers are now debating whether mission and margin can coexist.",
+        "4. AI Risk Priced\n\nPublic markets are now assigning a concrete cost to AI risk, which changes how every AI company will be valued. That pricing is a signal for the whole sector.",
+        "5. Read It Yourself\n\nOpen the filing's risk factors and scan for the safety clauses. If you can't find them, ask why."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic just filed for IPO, and the timing is strange.",
+        "The filing shows a governance structure that prioritizes safety over shareholder control.",
+        "Those safety commitments might limit how much investors can earn.",
+        "Public markets are now pricing AI risk explicitly, changing valuations across the sector.",
+        "Go read the risk factors yourself and see what stands out."
+      ]
+    },
+    "instagram": {
+      "caption": "Anthropic just filed for an IPO, and the timing says more than the paperwork.\n\nPublic markets have started pricing AI risk explicitly, and this filing lands right in that shift. 😳\n\nThe structure gives safety commitments priority over shareholder control — unusual for a public company.\n\nThose commitments may cap returns, locking in certain decisions regardless of profit.\n\nIf you publish or build with AI tools, how investors price this risk will shape which tools survive and what they cost you.\n\nOpen the filing's risk factors and scan for the safety clauses. If you can't find them, ask why. 🔍"
+    }
+  },
+  "instagram_caption": "Anthropic just filed for an IPO, and the timing says more than the paperwork.\n\nPublic markets have started pricing AI risk explicitly, and this filing lands right in that shift. 😳\n\nThe structure gives safety commitments priority over shareholder control — unusual for a public company.\n\nThose commitments may cap returns, locking in certain decisions regardless of profit.\n\nIf you publish or build with AI tools, how investors price this risk will shape which tools survive and what they cost you.\n\nOpen the filing's risk factors and scan for the safety clauses. If you can't find them, ask why. 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Safety commitments could cap your returns?",
+      "description": "Anthropic's filing reveals safety commitments that may lock in decisions regardless of profit, forcing investors to weigh mission against margin.",
+      "visual_hint": "Abstract balance scale with safety lock icon",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "balance scale"
+    },
+    {
+      "hook": "A company built to resist shareholders?",
+      "description": "The filing shows an unusual governance structure giving safety commitments priority over shareholder control, making investors question their influence.",
+      "visual_hint": "Corporate governance diagram with shield overlay",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "corporate boardroom",
+      "image": "https://images.pexels.com/photos/6949365/pexels-photo-6949365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Why file for IPO exactly now?",
+      "description": "Anthropic filed as public markets began pricing AI risk explicitly, turning timing itself into a signal about sector-wide valuation shifts.",
+      "visual_hint": "Stock chart with risk warning symbol",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Markets now put a price on AI risk",
+      "description": "Public markets assigning concrete cost to AI risk changes how every AI company will be valued, impacting the entire sector's financial landscape.",
+      "visual_hint": "Trading screen with AI risk metrics",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "trading floor",
+      "image": "https://images.pexels.com/photos/7567231/pexels-photo-7567231.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Found the safety clauses in the filing?",
+      "description": "Open the filing's risk factors and scan for safety clauses. If you can't find them, ask why. Save this carousel for reference.",
+      "visual_hint": "Document with magnifying glass on clauses",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "legal document",
+      "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK202_DARIO_AMODEI_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-26T22:08:04.009Z",
+  "sourceId": "f243688bda14b7af69e02241cf11b754"
+}

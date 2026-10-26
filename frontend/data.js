@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "five-weird-details-from-anthropic-s-ipo-filing",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Five weird details from Anthropic’s IPO filing",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+    "pubDate": "2026-10-26T17:10:23.000Z",
+    "slides": [
+      "Anthropic filed for IPO—but why now?",
+      "The filing reveals unusual governance structure",
+      "Its safety commitments may constrain investor returns",
+      "Public markets now price AI risk explicitly",
+      "Read the filing's risk factors yourself"
+    ],
+    "thread_text": [
+      "1. Why Now?\n\nAnthropic filed for IPO just as public markets started pricing AI risk explicitly. The timing is the story.",
+      "2. Unusual Governance\n\nThe filing reveals a structure that gives safety commitments priority over shareholder control. Investors are getting a different kind of company.",
+      "3. Safety Constraints\n\nThose commitments may cap returns, because they lock in certain decisions regardless of profit. Money managers are now debating whether mission and margin can coexist.",
+      "4. AI Risk Priced\n\nPublic markets are now assigning a concrete cost to AI risk, which changes how every AI company will be valued. That pricing is a signal for the whole sector.",
+      "5. Read It Yourself\n\nOpen the filing's risk factors and scan for the safety clauses. If you can't find them, ask why."
+    ],
+    "video_script": [
+      "Anthropic just filed for IPO, and the timing is strange.",
+      "The filing shows a governance structure that prioritizes safety over shareholder control.",
+      "Those safety commitments might limit how much investors can earn.",
+      "Public markets are now pricing AI risk explicitly, changing valuations across the sector.",
+      "Go read the risk factors yourself and see what stands out."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why Now?\n\nAnthropic filed for IPO just as public markets started pricing AI risk explicitly. The timing is the story.",
+          "2. Unusual Governance\n\nThe filing reveals a structure that gives safety commitments priority over shareholder control. Investors are getting a different kind of company.",
+          "3. Safety Constraints\n\nThose commitments may cap returns, because they lock in certain decisions regardless of profit. Money managers are now debating whether mission and margin can coexist.",
+          "4. AI Risk Priced\n\nPublic markets are now assigning a concrete cost to AI risk, which changes how every AI company will be valued. That pricing is a signal for the whole sector.",
+          "5. Read It Yourself\n\nOpen the filing's risk factors and scan for the safety clauses. If you can't find them, ask why."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Anthropic just filed for IPO, and the timing is strange.",
+          "The filing shows a governance structure that prioritizes safety over shareholder control.",
+          "Those safety commitments might limit how much investors can earn.",
+          "Public markets are now pricing AI risk explicitly, changing valuations across the sector.",
+          "Go read the risk factors yourself and see what stands out."
+        ]
+      },
+      "instagram": {
+        "caption": "Anthropic just filed for an IPO, and the timing says more than the paperwork.\n\nPublic markets have started pricing AI risk explicitly, and this filing lands right in that shift. 😳\n\nThe structure gives safety commitments priority over shareholder control — unusual for a public company.\n\nThose commitments may cap returns, locking in certain decisions regardless of profit.\n\nIf you publish or build with AI tools, how investors price this risk will shape which tools survive and what they cost you.\n\nOpen the filing's risk factors and scan for the safety clauses. If you can't find them, ask why. 🔍"
+      }
+    },
+    "instagram_caption": "Anthropic just filed for an IPO, and the timing says more than the paperwork.\n\nPublic markets have started pricing AI risk explicitly, and this filing lands right in that shift. 😳\n\nThe structure gives safety commitments priority over shareholder control — unusual for a public company.\n\nThose commitments may cap returns, locking in certain decisions regardless of profit.\n\nIf you publish or build with AI tools, how investors price this risk will shape which tools survive and what they cost you.\n\nOpen the filing's risk factors and scan for the safety clauses. If you can't find them, ask why. 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Safety commitments could cap your returns?",
+        "description": "Anthropic's filing reveals safety commitments that may lock in decisions regardless of profit, forcing investors to weigh mission against margin.",
+        "visual_hint": "Abstract balance scale with safety lock icon",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "balance scale"
+      },
+      {
+        "hook": "A company built to resist shareholders?",
+        "description": "The filing shows an unusual governance structure giving safety commitments priority over shareholder control, making investors question their influence.",
+        "visual_hint": "Corporate governance diagram with shield overlay",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "corporate boardroom",
+        "image": "https://images.pexels.com/photos/6949365/pexels-photo-6949365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Why file for IPO exactly now?",
+        "description": "Anthropic filed as public markets began pricing AI risk explicitly, turning timing itself into a signal about sector-wide valuation shifts.",
+        "visual_hint": "Stock chart with risk warning symbol",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Markets now put a price on AI risk",
+        "description": "Public markets assigning concrete cost to AI risk changes how every AI company will be valued, impacting the entire sector's financial landscape.",
+        "visual_hint": "Trading screen with AI risk metrics",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "trading floor",
+        "image": "https://images.pexels.com/photos/7567231/pexels-photo-7567231.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Found the safety clauses in the filing?",
+        "description": "Open the filing's risk factors and scan for safety clauses. If you can't find them, ask why. Save this carousel for reference.",
+        "visual_hint": "Document with magnifying glass on clauses",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "legal document",
+        "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK202_DARIO_AMODEI_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-26T22:08:04.009Z",
+    "sourceId": "f243688bda14b7af69e02241cf11b754"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "anthropic-is-burning-gas-to-feed-the-ai-boom",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Anthropic is burning gas to feed the AI boom",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+    "pubDate": "2026-10-26T21:45:31.000Z",
+    "slides": [
+      "Can Anthropic power the AI boom without breaking?",
+      "It's burning gas to feed its own data centers.",
+      "The gas isn't for Anthropic's models alone.",
+      "Your energy bills may rise as AI demand grows.",
+      "Check your next power bill — AI is in it."
+    ],
+    "thread_text": [
+      "1. The AI boom's hidden fuel\n\nAnthropic is burning natural gas to power its data centers, and the gas isn't just for its own models.",
+      "2. Not just for Anthropic\n\nThe gas also supplies other AI companies, making the energy demand far larger than one firm's footprint.",
+      "3. Your bill is next\n\nAs AI demand grows, utilities are passing costs to consumers—your energy bills may rise.",
+      "4. The grid strain\n\nData centers are competing with homes and businesses for power, and the squeeze is just beginning.",
+      "5. Check your power bill\n\nLook at the supply charge on your next bill—does it mention data centers? If not, ask your utility why."
+    ],
+    "video_script": [
+      "Anthropic is burning gas to feed its data centers.",
+      "That gas also powers other AI companies, not just Anthropic.",
+      "As AI demand grows, your energy bills may rise.",
+      "The grid is straining to keep up with data centers.",
+      "Check your next power bill—AI might be on it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The AI boom's hidden fuel\n\nAnthropic is burning natural gas to power its data centers, and the gas isn't just for its own models.",
+          "2. Not just for Anthropic\n\nThe gas also supplies other AI companies, making the energy demand far larger than one firm's footprint.",
+          "3. Your bill is next\n\nAs AI demand grows, utilities are passing costs to consumers—your energy bills may rise.",
+          "4. The grid strain\n\nData centers are competing with homes and businesses for power, and the squeeze is just beginning.",
+          "5. Check your power bill\n\nLook at the supply charge on your next bill—does it mention data centers? If not, ask your utility why."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Anthropic is burning gas to feed its data centers.",
+          "That gas also powers other AI companies, not just Anthropic.",
+          "As AI demand grows, your energy bills may rise.",
+          "The grid is straining to keep up with data centers.",
+          "Check your next power bill—AI might be on it."
+        ]
+      },
+      "instagram": {
+        "caption": "Natural gas is being burned to keep AI data centers running — and not just Anthropic's own models.\n\nThe gas also supplies other AI companies, so the energy demand is bigger than one firm's footprint. 🔥\n\nAs demand grows, utilities pass costs to consumers, and data centers now compete with homes and businesses for power.\n\nIf you publish or create with AI tools, the infrastructure behind them is drawing from the same grid you pay for. ⚡\n\nCheck the supply charge on your next bill — does it mention data centers? If not, ask your utility why. 📄"
+      }
+    },
+    "instagram_caption": "Natural gas is being burned to keep AI data centers running — and not just Anthropic's own models.\n\nThe gas also supplies other AI companies, so the energy demand is bigger than one firm's footprint. 🔥\n\nAs demand grows, utilities pass costs to consumers, and data centers now compete with homes and businesses for power.\n\nIf you publish or create with AI tools, the infrastructure behind them is drawing from the same grid you pay for. ⚡\n\nCheck the supply charge on your next bill — does it mention data centers? If not, ask your utility why. 📄",
+    "carousel_slides": [
+      {
+        "hook": "AI's hidden fuel: natural gas",
+        "description": "Anthropic burns natural gas to power data centers, and that gas also supplies other AI companies—demand is far larger than one firm's footprint.",
+        "visual_hint": "Gas pipeline leading to data center",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "gas pipeline"
+      },
+      {
+        "hook": "Not just for Anthropic's models",
+        "description": "The gas isn't only for Anthropic; it also powers other AI firms, so the energy demand is much bigger than one company's footprint.",
+        "visual_hint": "Multiple data center buildings connected",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your energy bill may rise",
+        "description": "As AI demand grows, utilities pass costs to consumers—your energy bills may rise. Data centers compete with homes and businesses for power.",
+        "visual_hint": "Rising electricity bill with graph",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "electricity bill",
+        "image": "https://images.pexels.com/photos/7926706/pexels-photo-7926706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The grid strain is just beginning",
+        "description": "Data centers are competing with homes and businesses for power, and the squeeze is just beginning. Check your next bill for supply charges.",
+        "visual_hint": "Power lines stretching to horizon",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "power lines",
+        "image": "https://images.pexels.com/photos/39398551/pexels-photo-39398551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your power bill now",
+        "description": "Look at the supply charge on your next bill—does it mention data centers? If not, ask your utility why. Save this and share.",
+        "visual_hint": "Hand holding electricity bill",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "electricity bill",
+        "image": "https://images.pexels.com/photos/7926706/pexels-photo-7926706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-26T22:07:54.955Z",
+    "sourceId": "dace5288fc19ee9cdae65fe948ac1413"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "matiks-raises-10m-to-expand-its-math-and-puzzle-ga",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
+    "link": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
+    "pubDate": "Mon, 26 Oct 2026 14:08:04 +0000",
+    "slides": [
+      "Why is a math game raising millions?",
+      "Matiks just closed a $10M funding round",
+      "But the real bet is on puzzle retention, not math",
+      "More daily puzzle content is coming to the platform",
+      "Try one puzzle today and see why investors bet"
+    ],
+    "thread_text": [
+      "1. The Math Game Bet\n\nMatiks just raised $10M for a math puzzle game. But the money isn't betting on math—it's betting on daily puzzle retention.",
+      "2. $10M Round Closed\n\nThe funding will fuel more daily puzzle content. Investors are watching if players come back every day, not just once.",
+      "3. Retention Over Math\n\nPuzzle retention is the real metric. Can a math game keep users hooked like a crossword or Wordle? That's the $10M question.",
+      "4. More Puzzles Incoming\n\nNew daily puzzle formats are on the roadmap. The goal: make solving a habit, not a one-time challenge.",
+      "5. Test It Yourself\n\nTry one puzzle today. If you come back tomorrow, you'll see why investors bet. Does it hook you?"
+    ],
+    "video_script": [
+      "Why is a math game raising millions?",
+      "Matiks just closed a ten million dollar round.",
+      "The real bet is puzzle retention, not math.",
+      "More daily puzzle content is coming soon.",
+      "Try one puzzle today and see why."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Math Game Bet\n\nMatiks just raised $10M for a math puzzle game. But the money isn't betting on math—it's betting on daily puzzle retention.",
+          "2. $10M Round Closed\n\nThe funding will fuel more daily puzzle content. Investors are watching if players come back every day, not just once.",
+          "3. Retention Over Math\n\nPuzzle retention is the real metric. Can a math game keep users hooked like a crossword or Wordle? That's the $10M question.",
+          "4. More Puzzles Incoming\n\nNew daily puzzle formats are on the roadmap. The goal: make solving a habit, not a one-time challenge.",
+          "5. Test It Yourself\n\nTry one puzzle today. If you come back tomorrow, you'll see why investors bet. Does it hook you?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Why is a math game raising millions?",
+          "Matiks just closed a ten million dollar round.",
+          "The real bet is puzzle retention, not math.",
+          "More daily puzzle content is coming soon.",
+          "Try one puzzle today and see why."
+        ]
+      },
+      "instagram": {
+        "caption": "$10M says the real bet isn't math—it's whether you come back tomorrow.\n\nMatiks just closed a $10M round for its math and puzzle gaming platform.\n\nInvestors are watching daily puzzle retention, not the math itself. Can it hook players like Wordle does? 🧩\n\nMore daily puzzle formats are on the roadmap, aiming to turn solving into a habit instead of a one-time challenge. 📈\n\nIf you make puzzle or game content, this signals where the money's flowing: retention loops over raw concepts. 🎯\n\nWould you actually return to a math puzzle two days in a row? Try one and find out. 🤔"
+      }
+    },
+    "instagram_caption": "$10M says the real bet isn't math—it's whether you come back tomorrow.\n\nMatiks just closed a $10M round for its math and puzzle gaming platform.\n\nInvestors are watching daily puzzle retention, not the math itself. Can it hook players like Wordle does? 🧩\n\nMore daily puzzle formats are on the roadmap, aiming to turn solving into a habit instead of a one-time challenge. 📈\n\nIf you make puzzle or game content, this signals where the money's flowing: retention loops over raw concepts. 🎯\n\nWould you actually return to a math puzzle two days in a row? Try one and find out. 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Can a math game keep you hooked?",
+        "description": "Matiks raised $10M betting on daily puzzle retention, not math itself. The real metric is whether players return every day.",
+        "visual_hint": "Person solving puzzle on phone",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "person using smartphone"
+      },
+      {
+        "hook": "Matiks just closed a $10M funding round",
+        "description": "The fresh capital will fuel more daily puzzle content as investors watch for repeat play, not one-time downloads.",
+        "visual_hint": "Stack of cash on desk",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stack of money",
+        "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Retention beats math for investors",
+        "description": "Puzzle retention is the real $10M question: can a math game hook users like Wordle or a daily crossword?",
+        "visual_hint": "Eyes focused on screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "person looking at phone",
+        "image": "https://images.pexels.com/photos/7428581/pexels-photo-7428581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "More daily puzzles are coming",
+        "description": "New daily puzzle formats are on the roadmap, aiming to turn solving into a habit rather than a one-off challenge.",
+        "visual_hint": "Hand writing puzzle grid",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "crossword puzzle paper",
+        "image": "https://images.pexels.com/photos/13396334/pexels-photo-13396334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try one puzzle today — link in bio",
+        "description": "Solve a single puzzle now. If you come back tomorrow, you'll understand exactly why investors placed their bet.",
+        "visual_hint": "Finger tapping puzzle app",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "hand tapping smartphone",
+        "image": "https://images.pexels.com/photos/24263954/pexels-photo-24263954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Matiks-co-founders.jpg?resize=1200,675",
+    "savedAt": "2026-10-26T22:07:46.437Z",
+    "sourceId": "1d15cdd667da31007c7e15f5b6f56724"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "can-ai-help-solve-the-cobol-code-crisis-",
     "prompt_version": "1.0.0",
     "status": "published",

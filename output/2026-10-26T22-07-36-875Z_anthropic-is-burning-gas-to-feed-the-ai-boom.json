@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-is-burning-gas-to-feed-the-ai-boom",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic is burning gas to feed the AI boom",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+  "pubDate": "2026-10-26T21:45:31.000Z",
+  "slides": [
+    "Can Anthropic power the AI boom without breaking?",
+    "It's burning gas to feed its own data centers.",
+    "The gas isn't for Anthropic's models alone.",
+    "Your energy bills may rise as AI demand grows.",
+    "Check your next power bill — AI is in it."
+  ],
+  "thread_text": [
+    "1. The AI boom's hidden fuel\n\nAnthropic is burning natural gas to power its data centers, and the gas isn't just for its own models.",
+    "2. Not just for Anthropic\n\nThe gas also supplies other AI companies, making the energy demand far larger than one firm's footprint.",
+    "3. Your bill is next\n\nAs AI demand grows, utilities are passing costs to consumers—your energy bills may rise.",
+    "4. The grid strain\n\nData centers are competing with homes and businesses for power, and the squeeze is just beginning.",
+    "5. Check your power bill\n\nLook at the supply charge on your next bill—does it mention data centers? If not, ask your utility why."
+  ],
+  "video_script": [
+    "Anthropic is burning gas to feed its data centers.",
+    "That gas also powers other AI companies, not just Anthropic.",
+    "As AI demand grows, your energy bills may rise.",
+    "The grid is straining to keep up with data centers.",
+    "Check your next power bill—AI might be on it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The AI boom's hidden fuel\n\nAnthropic is burning natural gas to power its data centers, and the gas isn't just for its own models.",
+        "2. Not just for Anthropic\n\nThe gas also supplies other AI companies, making the energy demand far larger than one firm's footprint.",
+        "3. Your bill is next\n\nAs AI demand grows, utilities are passing costs to consumers—your energy bills may rise.",
+        "4. The grid strain\n\nData centers are competing with homes and businesses for power, and the squeeze is just beginning.",
+        "5. Check your power bill\n\nLook at the supply charge on your next bill—does it mention data centers? If not, ask your utility why."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic is burning gas to feed its data centers.",
+        "That gas also powers other AI companies, not just Anthropic.",
+        "As AI demand grows, your energy bills may rise.",
+        "The grid is straining to keep up with data centers.",
+        "Check your next power bill—AI might be on it."
+      ]
+    },
+    "instagram": {
+      "caption": "Natural gas is being burned to keep AI data centers running — and not just Anthropic's own models.\n\nThe gas also supplies other AI companies, so the energy demand is bigger than one firm's footprint. 🔥\n\nAs demand grows, utilities pass costs to consumers, and data centers now compete with homes and businesses for power.\n\nIf you publish or create with AI tools, the infrastructure behind them is drawing from the same grid you pay for. ⚡\n\nCheck the supply charge on your next bill — does it mention data centers? If not, ask your utility why. 📄"
+    }
+  },
+  "instagram_caption": "Natural gas is being burned to keep AI data centers running — and not just Anthropic's own models.\n\nThe gas also supplies other AI companies, so the energy demand is bigger than one firm's footprint. 🔥\n\nAs demand grows, utilities pass costs to consumers, and data centers now compete with homes and businesses for power.\n\nIf you publish or create with AI tools, the infrastructure behind them is drawing from the same grid you pay for. ⚡\n\nCheck the supply charge on your next bill — does it mention data centers? If not, ask your utility why. 📄",
+  "carousel_slides": [
+    {
+      "hook": "AI's hidden fuel: natural gas",
+      "description": "Anthropic burns natural gas to power data centers, and that gas also supplies other AI companies—demand is far larger than one firm's footprint.",
+      "visual_hint": "Gas pipeline leading to data center",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "gas pipeline"
+    },
+    {
+      "hook": "Not just for Anthropic's models",
+      "description": "The gas isn't only for Anthropic; it also powers other AI firms, so the energy demand is much bigger than one company's footprint.",
+      "visual_hint": "Multiple data center buildings connected",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your energy bill may rise",
+      "description": "As AI demand grows, utilities pass costs to consumers—your energy bills may rise. Data centers compete with homes and businesses for power.",
+      "visual_hint": "Rising electricity bill with graph",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "electricity bill",
+      "image": "https://images.pexels.com/photos/7926706/pexels-photo-7926706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The grid strain is just beginning",
+      "description": "Data centers are competing with homes and businesses for power, and the squeeze is just beginning. Check your next bill for supply charges.",
+      "visual_hint": "Power lines stretching to horizon",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "power lines",
+      "image": "https://images.pexels.com/photos/39398551/pexels-photo-39398551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your power bill now",
+      "description": "Look at the supply charge on your next bill—does it mention data centers? If not, ask your utility why. Save this and share.",
+      "visual_hint": "Hand holding electricity bill",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "electricity bill",
+      "image": "https://images.pexels.com/photos/7926706/pexels-photo-7926706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-26T22:07:54.955Z",
+  "sourceId": "dace5288fc19ee9cdae65fe948ac1413"
+}
