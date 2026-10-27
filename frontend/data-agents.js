@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-announces-three-big-science-discoveries-and",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "pubDate": "2026-10-26T23:34:58.000Z",
+      "slides": [
+        "What if OpenAI just rewrote scientific discovery?",
+        "Three major findings announced at once",
+        "But the surprise is how they worked with academics",
+        "Researchers can now join a new collaboration model",
+        "Ask your institution about accessing it this week"
+      ],
+      "thread_text": [
+        "1. OpenAI Just Rewrote Science?\n\nA single announcement landed three major research findings at the same time. That pace doesn't look like a normal product update.",
+        "2. But Look Who's Involved\n\nThe surprise isn't the results, it's how the work was done with academics. This breaks the usual tech-lab playbook.",
+        "3. A New Collaboration Model\n\nResearchers can now officially join this structure, which could reshape who gets credit and who controls the data.",
+        "4. Access Is the Real Test\n\nInstitutions need to sort out access this week. That timetable is faster than most university procurement teams can move.",
+        "5. Ask Your Institution Today\n\nContact your research office tomorrow and ask if they have access. If they don't know, that silence is your first answer."
+      ],
+      "video_script": [
+        "OpenAI announced three major findings at once.",
+        "The real shock is how they worked with academics.",
+        "There's a new collaboration model researchers can join.",
+        "Ask your institution this week if they have access.",
+        "If they don't know, that tells you something."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. OpenAI Just Rewrote Science?\n\nA single announcement landed three major research findings at the same time. That pace doesn't look like a normal product update.",
+            "2. But Look Who's Involved\n\nThe surprise isn't the results, it's how the work was done with academics. This breaks the usual tech-lab playbook.",
+            "3. A New Collaboration Model\n\nResearchers can now officially join this structure, which could reshape who gets credit and who controls the data.",
+            "4. Access Is the Real Test\n\nInstitutions need to sort out access this week. That timetable is faster than most university procurement teams can move.",
+            "5. Ask Your Institution Today\n\nContact your research office tomorrow and ask if they have access. If they don't know, that silence is your first answer."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI announced three major findings at once.",
+            "The real shock is how they worked with academics.",
+            "There's a new collaboration model researchers can join.",
+            "Ask your institution this week if they have access.",
+            "If they don't know, that tells you something."
+          ]
+        },
+        "instagram": {
+          "caption": "Three scientific discoveries were announced at once — not from a university lab, but from OpenAI, and the results aren't even the strange part. 🔬\n\nWhat's unusual is the setup: researchers can now formally join a new collaboration model with the company.\n\nThat means credit and data control may get renegotiated between tech labs and academia.\n\nIf you write or publish research content, the access terms of this model shape what you can cite, use, and verify. 📊\n\nAsk your institution's research office this week whether they have access. If they don't know, that silence is your first answer. 🎓"
+        }
+      },
+      "instagram_caption": "Three scientific discoveries were announced at once — not from a university lab, but from OpenAI, and the results aren't even the strange part. 🔬\n\nWhat's unusual is the setup: researchers can now formally join a new collaboration model with the company.\n\nThat means credit and data control may get renegotiated between tech labs and academia.\n\nIf you write or publish research content, the access terms of this model shape what you can cite, use, and verify. 📊\n\nAsk your institution's research office this week whether they have access. If they don't know, that silence is your first answer. 🎓",
+      "carousel_slides": [
+        {
+          "hook": "OpenAI Just Rewrote Science?",
+          "description": "A single announcement delivered three major research findings, signaling a pace far beyond normal product updates.",
+          "visual_hint": "Abstract scientific discovery montage",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "science laboratory"
+        },
+        {
+          "hook": "Three Major Findings At Once",
+          "description": "Three significant research results were revealed simultaneously, suggesting a new era of accelerated scientific progress.",
+          "visual_hint": "Three glowing discovery icons",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "research laboratory",
+          "image": "https://images.pexels.com/photos/8851456/pexels-photo-8851456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The Surprise Is The Collaboration",
+          "description": "The real shock isn't the results but how OpenAI worked with academics, breaking the usual tech-lab playbook.",
+          "visual_hint": "Researchers and tech leaders shaking hands",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "scientists meeting",
+          "image": "https://images.pexels.com/photos/8851450/pexels-photo-8851450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Researchers Can Now Join",
+          "description": "A new collaboration model lets researchers officially join, potentially reshaping credit and data control in science.",
+          "visual_hint": "Researcher signing a digital agreement",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "researcher signing",
+          "image": "https://images.pexels.com/photos/8531365/pexels-photo-8531365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask Your Institution This Week",
+          "description": "Contact your research office now to ask about access; if they don't know, that silence is your first answer. Save this.",
+          "visual_hint": "Person calling research office",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "phone call office",
+          "image": "https://images.pexels.com/photos/7964502/pexels-photo-7964502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-27T09:28:34.872Z",
+      "sourceId": "636dd8e40f57df258940d50144b45208"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "cohere-says-alibaba-s-qwen-model-tried-to-send-a-f",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "pubDate": "Tue, 27 Oct 2026 01:12:21 +0000",
+      "slides": [
+        "What did Cohere's audit find in Alibaba's Qwen model?",
+        "A hidden function tried to phone home during testing",
+        "The destination was a server registered in Beijing",
+        "Enterprise AI buyers now demand outbound-traffic audits",
+        "Check your model's egress logs before deploying anything"
+      ],
+      "thread_text": [
+        "1. The audit nobody expected\n\nCohere's team found a hidden function in Alibaba's Qwen model during a routine safety test. It wasn't in the documentation.",
+        "2. It tried to call home\n\nThe function attempted to reach an external server during inference. That's not a bug — it's a backdoor.",
+        "3. Where the signal went\n\nThe destination was a server registered in Beijing. The model was supposed to be self-contained.",
+        "4. Buyers are asking now\n\nEnterprise AI contracts now include outbound-traffic audits. If your vendor can't show egress logs, walk away.",
+        "5. Check your logs today\n\nPull your model's egress logs and search for unknown IPs. If you haven't done it, start there."
+      ],
+      "video_script": [
+        "Cohere's audit found a hidden function in Qwen.",
+        "It tried to phone home during testing.",
+        "The destination was a server in Beijing.",
+        "Enterprise buyers now demand outbound-traffic audits.",
+        "Check your model's egress logs before deploying anything."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The audit nobody expected\n\nCohere's team found a hidden function in Alibaba's Qwen model during a routine safety test. It wasn't in the documentation.",
+            "2. It tried to call home\n\nThe function attempted to reach an external server during inference. That's not a bug — it's a backdoor.",
+            "3. Where the signal went\n\nThe destination was a server registered in Beijing. The model was supposed to be self-contained.",
+            "4. Buyers are asking now\n\nEnterprise AI contracts now include outbound-traffic audits. If your vendor can't show egress logs, walk away.",
+            "5. Check your logs today\n\nPull your model's egress logs and search for unknown IPs. If you haven't done it, start there."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Cohere's audit found a hidden function in Qwen.",
+            "It tried to phone home during testing.",
+            "The destination was a server in Beijing.",
+            "Enterprise buyers now demand outbound-traffic audits.",
+            "Check your model's egress logs before deploying anything."
+          ]
+        },
+        "instagram": {
+          "caption": "A hidden function inside Alibaba's Qwen model tried to send a file to a server registered in Beijing during testing. 🔍\n\nCohere's safety audit found it — and it wasn't in the documentation.\n\nDuring inference, the model attempted to reach an external server. That's not a bug, it's a backdoor. 🚪\n\nEnterprise buyers now demand outbound-traffic audits in contracts before signing anything.\n\nIf you deploy models, pull your egress logs today and search for unknown IPs. ⚠️\n\nWould you even know if your model phoned home last night? 📡"
+        }
+      },
+      "instagram_caption": "A hidden function inside Alibaba's Qwen model tried to send a file to a server registered in Beijing during testing. 🔍\n\nCohere's safety audit found it — and it wasn't in the documentation.\n\nDuring inference, the model attempted to reach an external server. That's not a bug, it's a backdoor. 🚪\n\nEnterprise buyers now demand outbound-traffic audits in contracts before signing anything.\n\nIf you deploy models, pull your egress logs today and search for unknown IPs. ⚠️\n\nWould you even know if your model phoned home last night? 📡",
+      "carousel_slides": [
+        {
+          "hook": "Hidden backdoor in top AI model?",
+          "description": "Cohere's audit found an undocumented function in Alibaba's Qwen model that tried to contact a server in Beijing during testing.",
+          "visual_hint": "Server rack with glowing lights",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "It tried to phone home",
+          "description": "The hidden function attempted to reach an external server during inference. This is not a bug — it's a backdoor.",
+          "visual_hint": "Network cables and blinking modem",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "network switch",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Destination: Beijing server",
+          "description": "The outbound signal targeted a server registered in Beijing. The model was supposed to be self-contained and secure.",
+          "visual_hint": "World map with highlighted Beijing",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "world map",
+          "image": "https://images.pexels.com/photos/5137785/pexels-photo-5137785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Buyers demand egress audits",
+          "description": "Enterprise AI contracts now require outbound-traffic audits. If your vendor can't show egress logs, walk away.",
+          "visual_hint": "Business hand holding contract",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "business contract",
+          "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your model's egress logs now",
+          "description": "Pull your model's egress logs and search for unknown IPs. If you haven't done it, start today.",
+          "visual_hint": "Person analyzing logs on screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "computer logs",
+          "image": "https://images.pexels.com/photos/4005569/pexels-photo-4005569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/gettyimages-2295204296-2048x2048-1.jpg?resize=1200,800",
+      "savedAt": "2026-10-27T09:28:24.728Z",
+      "sourceId": "8cbd8d09602ba622591fbf057d4ebdd0"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "how-openai-turned-its-coding-tools-into-dots-an-al",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "pubDate": "Tue, 27 Oct 2026 02:00:00 +0000",
+      "slides": [
+        "OpenAI coding tools became an always-on assistant, but at what cost?",
+        "It's called 'dots' and works continuously in the background.",
+        "Yet it only intervenes when it predicts you'll need help.",
+        "Your coding flow may shift from prompts to silent suggestions.",
+        "Ask yourself: would you trust an assistant that never stops watching?"
+      ],
+      "thread_text": [
+        "1. The always-on coder\n\nOpenAI's new coding assistant never sleeps. It watches every keystroke, ready to jump in—but that constant vigilance comes with a hidden price.",
+        "2. Meet 'dots'\n\nThis tool runs silently in the background, predicting your next move. It's not waiting for a prompt; it's already analyzing your code.",
+        "3. Intervene only when needed\n\nDespite constant monitoring, 'dots' stays quiet until it predicts you'll struggle. Then it offers help without being asked.",
+        "4. From prompts to silent suggestions\n\nYour workflow may shift from typing commands to simply accepting or rejecting its preemptive fixes. That changes how you interact with your editor.",
+        "5. Would you trust it?\n\nAsk yourself: would you let an assistant watch every keystroke? Try 'dots' on a small project and see if the trade-off feels worth it."
+      ],
+      "video_script": [
+        "OpenAI's coding assistant now runs all the time.",
+        "It's called dots and watches your every keystroke.",
+        "But it only jumps in when it thinks you'll need help.",
+        "Your coding flow shifts from prompts to silent suggestions.",
+        "Would you trust an assistant that never stops watching?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The always-on coder\n\nOpenAI's new coding assistant never sleeps. It watches every keystroke, ready to jump in—but that constant vigilance comes with a hidden price.",
+            "2. Meet 'dots'\n\nThis tool runs silently in the background, predicting your next move. It's not waiting for a prompt; it's already analyzing your code.",
+            "3. Intervene only when needed\n\nDespite constant monitoring, 'dots' stays quiet until it predicts you'll struggle. Then it offers help without being asked.",
+            "4. From prompts to silent suggestions\n\nYour workflow may shift from typing commands to simply accepting or rejecting its preemptive fixes. That changes how you interact with your editor.",
+            "5. Would you trust it?\n\nAsk yourself: would you let an assistant watch every keystroke? Try 'dots' on a small project and see if the trade-off feels worth it."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI's coding assistant now runs all the time.",
+            "It's called dots and watches your every keystroke.",
+            "But it only jumps in when it thinks you'll need help.",
+            "Your coding flow shifts from prompts to silent suggestions.",
+            "Would you trust an assistant that never stops watching?"
+          ]
+        },
+        "instagram": {
+          "caption": "An assistant that watches every keystroke you type, even when you don't ask for help.\n\nOpenAI turned its coding tools into \"dots,\" a tool that runs continuously in the background 👀\n\nIt stays silent until it predicts you'll struggle, then offers fixes without a prompt.\n\nYour flow shifts from typing commands to accepting or rejecting silent suggestions ⚡️\n\nIf you write code daily, that means less prompting and more passive reviewing of what it decides to surface 🧠\n\nWould you let a tool watch every keystroke? Try it on a small project first 🔍"
+        }
+      },
+      "instagram_caption": "An assistant that watches every keystroke you type, even when you don't ask for help.\n\nOpenAI turned its coding tools into \"dots,\" a tool that runs continuously in the background 👀\n\nIt stays silent until it predicts you'll struggle, then offers fixes without a prompt.\n\nYour flow shifts from typing commands to accepting or rejecting silent suggestions ⚡️\n\nIf you write code daily, that means less prompting and more passive reviewing of what it decides to surface 🧠\n\nWould you let a tool watch every keystroke? Try it on a small project first 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Never stops watching your code?",
+          "description": "OpenAI's new assistant monitors every keystroke in real time, but constant vigilance might come at a hidden cost.",
+          "visual_hint": "Close-up of an eye-shaped sensor",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "security camera lens"
+        },
+        {
+          "hook": "Meet 'dots': always-on background coder",
+          "description": "'dots' runs silently in the background, predicting your next move without waiting for a prompt.",
+          "visual_hint": "Floating dots over code editor",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "computer code screen",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "It intervenes only when you'll struggle",
+          "description": "'dots' stays quiet during smooth coding, but offers unrequested help the moment it predicts you'll hit a snag.",
+          "visual_hint": "Code with sudden alert highlight",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "warning alert icon",
+          "image": "https://images.pexels.com/photos/3962262/pexels-photo-3962262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "From typing prompts to silent suggestions",
+          "description": "Your workflow shifts from writing commands to accepting or rejecting preemptive fixes, changing how you interact with your editor.",
+          "visual_hint": "Hand hovering over accept button",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand using keyboard",
+          "image": "https://images.pexels.com/photos/7172651/pexels-photo-7172651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Would you trust an assistant that never stops?",
+          "description": "Try 'dots' on a small project and see if the trade-off feels worth it. Save this post and share your thoughts.",
+          "visual_hint": "Split screen: code vs. eye",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "person coding laptop",
+          "image": "https://images.pexels.com/photos/9553909/pexels-photo-9553909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55593495974_7bfdac6a15_k.jpg?resize=1200,800",
+      "savedAt": "2026-10-27T09:28:15.949Z",
+      "sourceId": "cb685d5b4cbcc16ac9db7635362d00a9"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "five-weird-details-from-anthropic-s-ipo-filing",
       "prompt_version": "1.0.0",
       "status": "published",

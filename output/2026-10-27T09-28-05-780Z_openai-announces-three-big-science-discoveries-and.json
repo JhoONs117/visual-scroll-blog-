@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-announces-three-big-science-discoveries-and",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+  "pubDate": "2026-10-26T23:34:58.000Z",
+  "slides": [
+    "What if OpenAI just rewrote scientific discovery?",
+    "Three major findings announced at once",
+    "But the surprise is how they worked with academics",
+    "Researchers can now join a new collaboration model",
+    "Ask your institution about accessing it this week"
+  ],
+  "thread_text": [
+    "1. OpenAI Just Rewrote Science?\n\nA single announcement landed three major research findings at the same time. That pace doesn't look like a normal product update.",
+    "2. But Look Who's Involved\n\nThe surprise isn't the results, it's how the work was done with academics. This breaks the usual tech-lab playbook.",
+    "3. A New Collaboration Model\n\nResearchers can now officially join this structure, which could reshape who gets credit and who controls the data.",
+    "4. Access Is the Real Test\n\nInstitutions need to sort out access this week. That timetable is faster than most university procurement teams can move.",
+    "5. Ask Your Institution Today\n\nContact your research office tomorrow and ask if they have access. If they don't know, that silence is your first answer."
+  ],
+  "video_script": [
+    "OpenAI announced three major findings at once.",
+    "The real shock is how they worked with academics.",
+    "There's a new collaboration model researchers can join.",
+    "Ask your institution this week if they have access.",
+    "If they don't know, that tells you something."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI Just Rewrote Science?\n\nA single announcement landed three major research findings at the same time. That pace doesn't look like a normal product update.",
+        "2. But Look Who's Involved\n\nThe surprise isn't the results, it's how the work was done with academics. This breaks the usual tech-lab playbook.",
+        "3. A New Collaboration Model\n\nResearchers can now officially join this structure, which could reshape who gets credit and who controls the data.",
+        "4. Access Is the Real Test\n\nInstitutions need to sort out access this week. That timetable is faster than most university procurement teams can move.",
+        "5. Ask Your Institution Today\n\nContact your research office tomorrow and ask if they have access. If they don't know, that silence is your first answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI announced three major findings at once.",
+        "The real shock is how they worked with academics.",
+        "There's a new collaboration model researchers can join.",
+        "Ask your institution this week if they have access.",
+        "If they don't know, that tells you something."
+      ]
+    },
+    "instagram": {
+      "caption": "Three scientific discoveries were announced at once — not from a university lab, but from OpenAI, and the results aren't even the strange part. 🔬\n\nWhat's unusual is the setup: researchers can now formally join a new collaboration model with the company.\n\nThat means credit and data control may get renegotiated between tech labs and academia.\n\nIf you write or publish research content, the access terms of this model shape what you can cite, use, and verify. 📊\n\nAsk your institution's research office this week whether they have access. If they don't know, that silence is your first answer. 🎓"
+    }
+  },
+  "instagram_caption": "Three scientific discoveries were announced at once — not from a university lab, but from OpenAI, and the results aren't even the strange part. 🔬\n\nWhat's unusual is the setup: researchers can now formally join a new collaboration model with the company.\n\nThat means credit and data control may get renegotiated between tech labs and academia.\n\nIf you write or publish research content, the access terms of this model shape what you can cite, use, and verify. 📊\n\nAsk your institution's research office this week whether they have access. If they don't know, that silence is your first answer. 🎓",
+  "carousel_slides": [
+    {
+      "hook": "OpenAI Just Rewrote Science?",
+      "description": "A single announcement delivered three major research findings, signaling a pace far beyond normal product updates.",
+      "visual_hint": "Abstract scientific discovery montage",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "science laboratory"
+    },
+    {
+      "hook": "Three Major Findings At Once",
+      "description": "Three significant research results were revealed simultaneously, suggesting a new era of accelerated scientific progress.",
+      "visual_hint": "Three glowing discovery icons",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "research laboratory",
+      "image": "https://images.pexels.com/photos/8851456/pexels-photo-8851456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The Surprise Is The Collaboration",
+      "description": "The real shock isn't the results but how OpenAI worked with academics, breaking the usual tech-lab playbook.",
+      "visual_hint": "Researchers and tech leaders shaking hands",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "scientists meeting",
+      "image": "https://images.pexels.com/photos/8851450/pexels-photo-8851450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Researchers Can Now Join",
+      "description": "A new collaboration model lets researchers officially join, potentially reshaping credit and data control in science.",
+      "visual_hint": "Researcher signing a digital agreement",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "researcher signing",
+      "image": "https://images.pexels.com/photos/8531365/pexels-photo-8531365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask Your Institution This Week",
+      "description": "Contact your research office now to ask about access; if they don't know, that silence is your first answer. Save this.",
+      "visual_hint": "Person calling research office",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "phone call office",
+      "image": "https://images.pexels.com/photos/7964502/pexels-photo-7964502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-27T09:28:34.872Z",
+  "sourceId": "636dd8e40f57df258940d50144b45208"
+}

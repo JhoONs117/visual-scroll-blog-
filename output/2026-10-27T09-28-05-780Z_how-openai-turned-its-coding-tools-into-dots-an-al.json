@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "how-openai-turned-its-coding-tools-into-dots-an-al",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+  "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+  "pubDate": "Tue, 27 Oct 2026 02:00:00 +0000",
+  "slides": [
+    "OpenAI coding tools became an always-on assistant, but at what cost?",
+    "It's called 'dots' and works continuously in the background.",
+    "Yet it only intervenes when it predicts you'll need help.",
+    "Your coding flow may shift from prompts to silent suggestions.",
+    "Ask yourself: would you trust an assistant that never stops watching?"
+  ],
+  "thread_text": [
+    "1. The always-on coder\n\nOpenAI's new coding assistant never sleeps. It watches every keystroke, ready to jump in—but that constant vigilance comes with a hidden price.",
+    "2. Meet 'dots'\n\nThis tool runs silently in the background, predicting your next move. It's not waiting for a prompt; it's already analyzing your code.",
+    "3. Intervene only when needed\n\nDespite constant monitoring, 'dots' stays quiet until it predicts you'll struggle. Then it offers help without being asked.",
+    "4. From prompts to silent suggestions\n\nYour workflow may shift from typing commands to simply accepting or rejecting its preemptive fixes. That changes how you interact with your editor.",
+    "5. Would you trust it?\n\nAsk yourself: would you let an assistant watch every keystroke? Try 'dots' on a small project and see if the trade-off feels worth it."
+  ],
+  "video_script": [
+    "OpenAI's coding assistant now runs all the time.",
+    "It's called dots and watches your every keystroke.",
+    "But it only jumps in when it thinks you'll need help.",
+    "Your coding flow shifts from prompts to silent suggestions.",
+    "Would you trust an assistant that never stops watching?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The always-on coder\n\nOpenAI's new coding assistant never sleeps. It watches every keystroke, ready to jump in—but that constant vigilance comes with a hidden price.",
+        "2. Meet 'dots'\n\nThis tool runs silently in the background, predicting your next move. It's not waiting for a prompt; it's already analyzing your code.",
+        "3. Intervene only when needed\n\nDespite constant monitoring, 'dots' stays quiet until it predicts you'll struggle. Then it offers help without being asked.",
+        "4. From prompts to silent suggestions\n\nYour workflow may shift from typing commands to simply accepting or rejecting its preemptive fixes. That changes how you interact with your editor.",
+        "5. Would you trust it?\n\nAsk yourself: would you let an assistant watch every keystroke? Try 'dots' on a small project and see if the trade-off feels worth it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI's coding assistant now runs all the time.",
+        "It's called dots and watches your every keystroke.",
+        "But it only jumps in when it thinks you'll need help.",
+        "Your coding flow shifts from prompts to silent suggestions.",
+        "Would you trust an assistant that never stops watching?"
+      ]
+    },
+    "instagram": {
+      "caption": "An assistant that watches every keystroke you type, even when you don't ask for help.\n\nOpenAI turned its coding tools into \"dots,\" a tool that runs continuously in the background 👀\n\nIt stays silent until it predicts you'll struggle, then offers fixes without a prompt.\n\nYour flow shifts from typing commands to accepting or rejecting silent suggestions ⚡️\n\nIf you write code daily, that means less prompting and more passive reviewing of what it decides to surface 🧠\n\nWould you let a tool watch every keystroke? Try it on a small project first 🔍"
+    }
+  },
+  "instagram_caption": "An assistant that watches every keystroke you type, even when you don't ask for help.\n\nOpenAI turned its coding tools into \"dots,\" a tool that runs continuously in the background 👀\n\nIt stays silent until it predicts you'll struggle, then offers fixes without a prompt.\n\nYour flow shifts from typing commands to accepting or rejecting silent suggestions ⚡️\n\nIf you write code daily, that means less prompting and more passive reviewing of what it decides to surface 🧠\n\nWould you let a tool watch every keystroke? Try it on a small project first 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Never stops watching your code?",
+      "description": "OpenAI's new assistant monitors every keystroke in real time, but constant vigilance might come at a hidden cost.",
+      "visual_hint": "Close-up of an eye-shaped sensor",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "security camera lens"
+    },
+    {
+      "hook": "Meet 'dots': always-on background coder",
+      "description": "'dots' runs silently in the background, predicting your next move without waiting for a prompt.",
+      "visual_hint": "Floating dots over code editor",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It intervenes only when you'll struggle",
+      "description": "'dots' stays quiet during smooth coding, but offers unrequested help the moment it predicts you'll hit a snag.",
+      "visual_hint": "Code with sudden alert highlight",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "warning alert icon",
+      "image": "https://images.pexels.com/photos/3962262/pexels-photo-3962262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "From typing prompts to silent suggestions",
+      "description": "Your workflow shifts from writing commands to accepting or rejecting preemptive fixes, changing how you interact with your editor.",
+      "visual_hint": "Hand hovering over accept button",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand using keyboard",
+      "image": "https://images.pexels.com/photos/7172651/pexels-photo-7172651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Would you trust an assistant that never stops?",
+      "description": "Try 'dots' on a small project and see if the trade-off feels worth it. Save this post and share your thoughts.",
+      "visual_hint": "Split screen: code vs. eye",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person coding laptop",
+      "image": "https://images.pexels.com/photos/9553909/pexels-photo-9553909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/55593495974_7bfdac6a15_k.jpg?resize=1200,800",
+  "savedAt": "2026-10-27T09:28:15.949Z",
+  "sourceId": "cb685d5b4cbcc16ac9db7635362d00a9"
+}

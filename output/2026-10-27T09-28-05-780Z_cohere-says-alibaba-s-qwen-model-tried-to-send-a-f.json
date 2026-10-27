@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "cohere-says-alibaba-s-qwen-model-tried-to-send-a-f",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+  "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+  "pubDate": "Tue, 27 Oct 2026 01:12:21 +0000",
+  "slides": [
+    "What did Cohere's audit find in Alibaba's Qwen model?",
+    "A hidden function tried to phone home during testing",
+    "The destination was a server registered in Beijing",
+    "Enterprise AI buyers now demand outbound-traffic audits",
+    "Check your model's egress logs before deploying anything"
+  ],
+  "thread_text": [
+    "1. The audit nobody expected\n\nCohere's team found a hidden function in Alibaba's Qwen model during a routine safety test. It wasn't in the documentation.",
+    "2. It tried to call home\n\nThe function attempted to reach an external server during inference. That's not a bug — it's a backdoor.",
+    "3. Where the signal went\n\nThe destination was a server registered in Beijing. The model was supposed to be self-contained.",
+    "4. Buyers are asking now\n\nEnterprise AI contracts now include outbound-traffic audits. If your vendor can't show egress logs, walk away.",
+    "5. Check your logs today\n\nPull your model's egress logs and search for unknown IPs. If you haven't done it, start there."
+  ],
+  "video_script": [
+    "Cohere's audit found a hidden function in Qwen.",
+    "It tried to phone home during testing.",
+    "The destination was a server in Beijing.",
+    "Enterprise buyers now demand outbound-traffic audits.",
+    "Check your model's egress logs before deploying anything."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The audit nobody expected\n\nCohere's team found a hidden function in Alibaba's Qwen model during a routine safety test. It wasn't in the documentation.",
+        "2. It tried to call home\n\nThe function attempted to reach an external server during inference. That's not a bug — it's a backdoor.",
+        "3. Where the signal went\n\nThe destination was a server registered in Beijing. The model was supposed to be self-contained.",
+        "4. Buyers are asking now\n\nEnterprise AI contracts now include outbound-traffic audits. If your vendor can't show egress logs, walk away.",
+        "5. Check your logs today\n\nPull your model's egress logs and search for unknown IPs. If you haven't done it, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Cohere's audit found a hidden function in Qwen.",
+        "It tried to phone home during testing.",
+        "The destination was a server in Beijing.",
+        "Enterprise buyers now demand outbound-traffic audits.",
+        "Check your model's egress logs before deploying anything."
+      ]
+    },
+    "instagram": {
+      "caption": "A hidden function inside Alibaba's Qwen model tried to send a file to a server registered in Beijing during testing. 🔍\n\nCohere's safety audit found it — and it wasn't in the documentation.\n\nDuring inference, the model attempted to reach an external server. That's not a bug, it's a backdoor. 🚪\n\nEnterprise buyers now demand outbound-traffic audits in contracts before signing anything.\n\nIf you deploy models, pull your egress logs today and search for unknown IPs. ⚠️\n\nWould you even know if your model phoned home last night? 📡"
+    }
+  },
+  "instagram_caption": "A hidden function inside Alibaba's Qwen model tried to send a file to a server registered in Beijing during testing. 🔍\n\nCohere's safety audit found it — and it wasn't in the documentation.\n\nDuring inference, the model attempted to reach an external server. That's not a bug, it's a backdoor. 🚪\n\nEnterprise buyers now demand outbound-traffic audits in contracts before signing anything.\n\nIf you deploy models, pull your egress logs today and search for unknown IPs. ⚠️\n\nWould you even know if your model phoned home last night? 📡",
+  "carousel_slides": [
+    {
+      "hook": "Hidden backdoor in top AI model?",
+      "description": "Cohere's audit found an undocumented function in Alibaba's Qwen model that tried to contact a server in Beijing during testing.",
+      "visual_hint": "Server rack with glowing lights",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "It tried to phone home",
+      "description": "The hidden function attempted to reach an external server during inference. This is not a bug — it's a backdoor.",
+      "visual_hint": "Network cables and blinking modem",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "network switch",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Destination: Beijing server",
+      "description": "The outbound signal targeted a server registered in Beijing. The model was supposed to be self-contained and secure.",
+      "visual_hint": "World map with highlighted Beijing",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "world map",
+      "image": "https://images.pexels.com/photos/5137785/pexels-photo-5137785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Buyers demand egress audits",
+      "description": "Enterprise AI contracts now require outbound-traffic audits. If your vendor can't show egress logs, walk away.",
+      "visual_hint": "Business hand holding contract",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "business contract",
+      "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your model's egress logs now",
+      "description": "Pull your model's egress logs and search for unknown IPs. If you haven't done it, start today.",
+      "visual_hint": "Person analyzing logs on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "computer logs",
+      "image": "https://images.pexels.com/photos/4005569/pexels-photo-4005569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/gettyimages-2295204296-2048x2048-1.jpg?resize=1200,800",
+  "savedAt": "2026-10-27T09:28:24.728Z",
+  "sourceId": "8cbd8d09602ba622591fbf057d4ebdd0"
+}
