@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "general-compute-raises-100-million-series-a-counte",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+  "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+  "pubDate": "Tue, 27 Oct 2026 13:00:00 +0000",
+  "slides": [
+    "Can General Compute prove the neocloud skeptics wrong?",
+    "It just raised $100 million in Series A funding",
+    "But most neoclouds are burning cash and failing",
+    "Your cloud costs may drop if this model works",
+    "Test one workload: demand transparent pricing now"
+  ],
+  "thread_text": [
+    "1. Neocloud skeptics silenced?\n\nGeneral Compute just raised $100M Series A while most neoclouds burn cash and fail. Is this the model that finally works?",
+    "2. The $100 million bet\n\nInvestors are backing General Compute to prove neoclouds can be viable. But the graveyard of failed neoclouds is full of similar promises.",
+    "3. Cash burn crisis\n\nMost neoclouds are burning cash and failing. General Compute claims its model is different — but can it survive long enough to prove it?",
+    "4. Cloud costs could drop\n\nIf General Compute's model works, your cloud costs may drop. That's a big if, given the industry's track record.",
+    "5. Test one workload today\n\nTake a single workload and demand transparent pricing from your cloud provider. If they can't give it, you know who's really burning cash."
+  ],
+  "video_script": [
+    "General Compute just raised one hundred million dollars.",
+    "But most neoclouds are burning cash and failing.",
+    "Can this model finally prove the skeptics wrong?",
+    "If it works, your cloud costs may drop.",
+    "Test one workload and demand transparent pricing now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Neocloud skeptics silenced?\n\nGeneral Compute just raised $100M Series A while most neoclouds burn cash and fail. Is this the model that finally works?",
+        "2. The $100 million bet\n\nInvestors are backing General Compute to prove neoclouds can be viable. But the graveyard of failed neoclouds is full of similar promises.",
+        "3. Cash burn crisis\n\nMost neoclouds are burning cash and failing. General Compute claims its model is different — but can it survive long enough to prove it?",
+        "4. Cloud costs could drop\n\nIf General Compute's model works, your cloud costs may drop. That's a big if, given the industry's track record.",
+        "5. Test one workload today\n\nTake a single workload and demand transparent pricing from your cloud provider. If they can't give it, you know who's really burning cash."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "General Compute just raised one hundred million dollars.",
+        "But most neoclouds are burning cash and failing.",
+        "Can this model finally prove the skeptics wrong?",
+        "If it works, your cloud costs may drop.",
+        "Test one workload and demand transparent pricing now."
+      ]
+    },
+    "instagram": {
+      "caption": "A neocloud just raised $100 million while most of its competitors burn cash and fold.\n\nGeneral Compute closed a Series A round — investors betting its model can survive where others failed. 😳\n\nIf it works, cloud costs for your AI workloads could actually drop.\n\nThat's a big if, given the industry's track record of promises.\n\nYou run one workload. Ask your cloud provider for transparent pricing. If they can't give it, you know who's really burning cash. 💸\n\nWould you switch providers to save on cloud costs, or is the risk too high? 🤔"
+    }
+  },
+  "instagram_caption": "A neocloud just raised $100 million while most of its competitors burn cash and fold.\n\nGeneral Compute closed a Series A round — investors betting its model can survive where others failed. 😳\n\nIf it works, cloud costs for your AI workloads could actually drop.\n\nThat's a big if, given the industry's track record of promises.\n\nYou run one workload. Ask your cloud provider for transparent pricing. If they can't give it, you know who's really burning cash. 💸\n\nWould you switch providers to save on cloud costs, or is the risk too high? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can $100M silence cloud skeptics?",
+      "description": "General Compute raised $100M Series A while most neoclouds burn cash and fail. Is this the model that finally works?",
+      "visual_hint": "Investor signing funding documents at desk",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "business contract signing"
+    },
+    {
+      "hook": "The $100 million bet on neoclouds",
+      "description": "Investors back General Compute to prove neoclouds can be viable, but the graveyard is full of similar promises.",
+      "visual_hint": "Chart showing funding versus failure rates",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cash burn crisis: can they survive?",
+      "description": "Most neoclouds are burning cash and failing. General Compute claims its model is different, but can it last?",
+      "visual_hint": "Server room with glowing lights and cables",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your cloud costs may drop",
+      "description": "If General Compute's model works, your cloud costs may drop. That's a big if, given the industry's track record.",
+      "visual_hint": "Hand holding phone with cloud cost graph",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "cloud computing cost",
+      "image": "https://images.pexels.com/photos/7680743/pexels-photo-7680743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: demand transparent pricing",
+      "description": "Take one workload and demand transparent pricing from your cloud provider. If they can't, you know who's burning cash.",
+      "visual_hint": "Person reviewing cloud invoice with magnifier",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "invoice review",
+      "image": "https://images.pexels.com/photos/8872400/pexels-photo-8872400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Team-05.jpg?resize=800,1200",
+  "savedAt": "2026-10-27T15:37:42.409Z",
+  "sourceId": "d0d46f2666065419bce8154c9a25765d"
+}

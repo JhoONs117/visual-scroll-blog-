@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "apple-is-adding-an-ai-chatbot-to-pages-keynote-and",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+    "link": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+    "pubDate": "2026-10-27T13:50:51.000Z",
+    "slides": [
+      "Apple is adding an AI chatbot to its office apps. Why now?",
+      "Pages, Keynote, Numbers get Siri-powered writing and editing help.",
+      "Unlike rivals, Apple's assistant keeps your data on-device.",
+      "You'll draft slides and reports by chatting, not clicking.",
+      "Try one real document today: let the assistant edit it."
+    ],
+    "thread_text": [
+      "1. Apple's Quiet AI Move\n\nApple is adding an AI chatbot to Pages, Keynote, and Numbers. The company that rarely ships unfinished features is now betting on writing and editing help inside its office apps.",
+      "2. Why the Sudden Shift?\n\nMicrosoft and Google already have AI everywhere. Apple waited, and now it's entering through the apps you use to draft reports and slides, not a separate chat window.",
+      "3. Your Data Stays Put\n\nApple says Siri handles the editing on-device. Competitors send your prompts to the cloud. That privacy difference could be the reason to switch or stay.",
+      "4. Chat, Don't Click\n\nInstead of hunting for formatting buttons, you describe what you want. The assistant drafts slides and reports from conversation, which changes how you think about document creation.",
+      "5. Test It on One File\n\nOpen a real document today and ask the assistant to edit one paragraph. If the output needs heavy rewrites, the on-device trade-off may not be worth it yet."
+    ],
+    "video_script": [
+      "Apple just put an AI chatbot inside Pages, Keynote, and Numbers.",
+      "Unlike rivals, it keeps your data on-device.",
+      "You draft slides by chatting, not clicking.",
+      "But can on-device AI really match cloud models?",
+      "Try one real document today and judge the output."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Apple's Quiet AI Move\n\nApple is adding an AI chatbot to Pages, Keynote, and Numbers. The company that rarely ships unfinished features is now betting on writing and editing help inside its office apps.",
+          "2. Why the Sudden Shift?\n\nMicrosoft and Google already have AI everywhere. Apple waited, and now it's entering through the apps you use to draft reports and slides, not a separate chat window.",
+          "3. Your Data Stays Put\n\nApple says Siri handles the editing on-device. Competitors send your prompts to the cloud. That privacy difference could be the reason to switch or stay.",
+          "4. Chat, Don't Click\n\nInstead of hunting for formatting buttons, you describe what you want. The assistant drafts slides and reports from conversation, which changes how you think about document creation.",
+          "5. Test It on One File\n\nOpen a real document today and ask the assistant to edit one paragraph. If the output needs heavy rewrites, the on-device trade-off may not be worth it yet."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple just put an AI chatbot inside Pages, Keynote, and Numbers.",
+          "Unlike rivals, it keeps your data on-device.",
+          "You draft slides by chatting, not clicking.",
+          "But can on-device AI really match cloud models?",
+          "Try one real document today and judge the output."
+        ]
+      },
+      "instagram": {
+        "caption": "Pages, Keynote and Numbers are getting a built-in chatbot that writes and edits for you 🍎\n\nApple is adding Siri-powered writing and editing help directly inside its office apps.\n\nUnlike Microsoft and Google, Apple says the editing runs on-device, so your prompts stay off the cloud.\n\nYou describe what you want in chat instead of clicking through formatting menus ✍️\n\nIf you draft reports or slides for a living, this changes your daily workflow: less time hunting for buttons, more time directing the assistant.\n\nApple waited while rivals shipped AI everywhere — now it's betting on privacy as the differentiator 🔒\n\nWould you trust an on-device assistant to edit a client document, or would you double-check every line? 🤔"
+      }
+    },
+    "instagram_caption": "Pages, Keynote and Numbers are getting a built-in chatbot that writes and edits for you 🍎\n\nApple is adding Siri-powered writing and editing help directly inside its office apps.\n\nUnlike Microsoft and Google, Apple says the editing runs on-device, so your prompts stay off the cloud.\n\nYou describe what you want in chat instead of clicking through formatting menus ✍️\n\nIf you draft reports or slides for a living, this changes your daily workflow: less time hunting for buttons, more time directing the assistant.\n\nApple waited while rivals shipped AI everywhere — now it's betting on privacy as the differentiator 🔒\n\nWould you trust an on-device assistant to edit a client document, or would you double-check every line? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Is Apple's on-device AI your privacy win?",
+        "description": "Apple adds an AI chatbot to Pages, Keynote, and Numbers, keeping data on-device while rivals use the cloud.",
+        "visual_hint": "Apple logo glowing on a laptop",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Apple laptop"
+      },
+      {
+        "hook": "Siri now edits your documents for you",
+        "description": "Pages, Keynote, and Numbers get Siri-powered writing and editing help, entering through apps you already use.",
+        "visual_hint": "Siri interface on a tablet screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "tablet screen",
+        "image": "https://images.pexels.com/photos/13570165/pexels-photo-13570165.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your data never leaves your device",
+        "description": "Apple processes editing on-device, unlike competitors sending prompts to the cloud—a privacy difference that could sway users.",
+        "visual_hint": "Secure chip close-up with lock icon",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer chip",
+        "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stop clicking, start chatting to create",
+        "description": "Instead of hunting for formatting buttons, you describe what you want and the assistant drafts slides and reports.",
+        "visual_hint": "Hands typing on a keyboard with chat bubble",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands typing keyboard",
+        "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and test it today",
+        "description": "Open a real document and ask the assistant to edit one paragraph—see if on-device AI meets your needs.",
+        "visual_hint": "Document with cursor and edit marks",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "document paper",
+        "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-Creator-Studio-intelligent-assistant-in-Keynote-on-iPad-Pro-261027_big.jpg.large_2x.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.727975106345%2C100%2C78.54404978731&amp;w=1200",
+    "savedAt": "2026-10-27T15:38:12.033Z",
+    "sourceId": "bd2c3c22ddbe56d5d7920aa74fb47a7f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "nvidia-backs-indian-startup-helping-companies-run-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+    "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+    "pubDate": "Tue, 27 Oct 2026 11:00:00 +0000",
+    "slides": [
+      "Why would Nvidia back a startup that reduces GPU demand?",
+      "The Indian startup helps companies run AI models on fewer GPUs",
+      "Nvidia's investment suggests efficiency may matter more than volume",
+      "Companies can cut inference costs without sacrificing model quality",
+      "Test one workload with optimized serving before buying more hardware"
+    ],
+    "thread_text": [
+      "1. Nvidia's Unlikely Bet\n\nIt just invested in an Indian startup that helps companies run AI models on fewer GPUs. That could reduce demand for the chips Nvidia sells.",
+      "2. The Efficiency Play\n\nWith this investment, Nvidia is signaling that efficiency may matter more than raw volume for the future of AI computing.",
+      "3. Cut Costs, Keep Quality\n\nThe startup's technology lets companies reduce inference costs without degrading model outputs. That's a rare win for CFOs.",
+      "4. Test Before You Buy\n\nBefore ordering more hardware, companies can run a single workload through optimized serving to see actual savings and performance.",
+      "5. Your Turn to Test\n\nPick one AI workload and try an optimized serving stack for a week. If you haven't, start there—don't buy GPUs first."
+    ],
+    "video_script": [
+      "Nvidia just invested in a startup that cuts GPU demand.",
+      "The Indian startup helps run AI models on fewer GPUs.",
+      "This signals efficiency may matter more than volume.",
+      "Companies can cut inference costs without losing quality.",
+      "Test one workload before buying more hardware."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Nvidia's Unlikely Bet\n\nIt just invested in an Indian startup that helps companies run AI models on fewer GPUs. That could reduce demand for the chips Nvidia sells.",
+          "2. The Efficiency Play\n\nWith this investment, Nvidia is signaling that efficiency may matter more than raw volume for the future of AI computing.",
+          "3. Cut Costs, Keep Quality\n\nThe startup's technology lets companies reduce inference costs without degrading model outputs. That's a rare win for CFOs.",
+          "4. Test Before You Buy\n\nBefore ordering more hardware, companies can run a single workload through optimized serving to see actual savings and performance.",
+          "5. Your Turn to Test\n\nPick one AI workload and try an optimized serving stack for a week. If you haven't, start there—don't buy GPUs first."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nvidia just invested in a startup that cuts GPU demand.",
+          "The Indian startup helps run AI models on fewer GPUs.",
+          "This signals efficiency may matter more than volume.",
+          "Companies can cut inference costs without losing quality.",
+          "Test one workload before buying more hardware."
+        ]
+      },
+      "instagram": {
+        "caption": "Nvidia just put money into a startup whose whole pitch is helping companies need fewer of Nvidia's chips. 🤔\n\nThe Indian company optimizes how AI models run, so businesses can serve the same quality with less hardware.\n\nNvidia backing it suggests efficiency might matter more than raw volume going forward.\n\nIf you run or pay for AI workloads, this means inference costs can drop without your outputs getting worse.\n\nBefore ordering more GPUs, test one workload on an optimized serving stack for a week — the savings show up fast. ⚡\n\nWould you actually run that test, or just keep buying hardware? 💭"
+      }
+    },
+    "instagram_caption": "Nvidia just put money into a startup whose whole pitch is helping companies need fewer of Nvidia's chips. 🤔\n\nThe Indian company optimizes how AI models run, so businesses can serve the same quality with less hardware.\n\nNvidia backing it suggests efficiency might matter more than raw volume going forward.\n\nIf you run or pay for AI workloads, this means inference costs can drop without your outputs getting worse.\n\nBefore ordering more GPUs, test one workload on an optimized serving stack for a week — the savings show up fast. ⚡\n\nWould you actually run that test, or just keep buying hardware? 💭",
+    "carousel_slides": [
+      {
+        "hook": "Why would Nvidia back a GPU-reducing startup?",
+        "description": "Nvidia invested in an Indian startup that helps companies run AI models on fewer GPUs—potentially cutting demand for its own chips.",
+        "visual_hint": "Nvidia logo next to Indian flag",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Nvidia logo"
+      },
+      {
+        "hook": "The efficiency play that cuts GPU needs",
+        "description": "The startup's technology lets companies run AI models on fewer GPUs, reducing inference costs without sacrificing model quality.",
+        "visual_hint": "Server rack with fewer GPUs highlighted",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Efficiency may matter more than volume",
+        "description": "Nvidia's investment signals that efficiency could outweigh raw GPU volume in the future of AI computing.",
+        "visual_hint": "Balance scale with efficiency vs volume",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "balance scale",
+        "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cut inference costs, keep model quality",
+        "description": "Companies can reduce inference costs without degrading model outputs—a rare win for CFOs looking to optimize AI spending.",
+        "visual_hint": "Hand holding GPU with cost arrow down",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding chip",
+        "image": "https://images.pexels.com/photos/6962256/pexels-photo-6962256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one workload before buying GPUs",
+        "description": "Pick one AI workload and try an optimized serving stack for a week. Don't buy GPUs first—start there.",
+        "visual_hint": "Laptop with serving stack dashboard",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop dashboard",
+        "image": "https://images.pexels.com/photos/7681671/pexels-photo-7681671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/simplismart-founders-amritanshu-devansh.jpg?resize=1200,800",
+    "savedAt": "2026-10-27T15:38:01.066Z",
+    "sourceId": "867c05e1e13c4aa5882f656765d9e2a9"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "opera-introduces-a-new-web-standard-to-let-users-d",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+    "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+    "pubDate": "Tue, 27 Oct 2026 13:00:00 +0000",
+    "slides": [
+      "Can Opera run AI without the cloud?",
+      "Opera proposes a new web standard for local AI",
+      "It executes models directly inside the browser",
+      "Sites may soon offload AI work to your device",
+      "Check if your browser supports local inference"
+    ],
+    "thread_text": [
+      "1. Your browser could run AI\n\nOpera just proposed a new web standard that lets sites execute AI models directly inside your browser, no cloud required.",
+      "2. No cloud, no delay\n\nLocal inference means your device handles the computation, so responses can be faster and your data never leaves your machine.",
+      "3. A new web standard\n\nOpera's proposal would let any website offload AI work to your device, turning your browser into a personal AI engine.",
+      "4. Sites will offload work\n\nSoon, instead of sending every prompt to a server, websites may ask your device to run the model, cutting costs and latency.",
+      "5. Does your browser do this?\n\nOpen your browser's settings and search for 'local inference' or 'on-device AI'. If it's missing, you're not ready yet."
+    ],
+    "video_script": [
+      "Opera wants your browser to run AI without the cloud.",
+      "This new web standard executes models directly inside the browser.",
+      "Websites could soon offload AI work to your device.",
+      "That means faster responses and your data stays local.",
+      "Check if your browser supports local inference today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your browser could run AI\n\nOpera just proposed a new web standard that lets sites execute AI models directly inside your browser, no cloud required.",
+          "2. No cloud, no delay\n\nLocal inference means your device handles the computation, so responses can be faster and your data never leaves your machine.",
+          "3. A new web standard\n\nOpera's proposal would let any website offload AI work to your device, turning your browser into a personal AI engine.",
+          "4. Sites will offload work\n\nSoon, instead of sending every prompt to a server, websites may ask your device to run the model, cutting costs and latency.",
+          "5. Does your browser do this?\n\nOpen your browser's settings and search for 'local inference' or 'on-device AI'. If it's missing, you're not ready yet."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Opera wants your browser to run AI without the cloud.",
+          "This new web standard executes models directly inside the browser.",
+          "Websites could soon offload AI work to your device.",
+          "That means faster responses and your data stays local.",
+          "Check if your browser supports local inference today."
+        ]
+      },
+      "instagram": {
+        "caption": "Your browser might soon run AI models itself, without sending anything to a server.\n\nOpera proposed a new web standard that lets websites execute AI models directly on your device instead of in the cloud. It's called local inference, and it means the computation happens on your machine.\n\nThat could cut latency and keep your data from leaving your computer. Sites would offload the work to you rather than paying for servers. 🔒\n\nIf you publish content or build tools, this changes what you can ship: AI features that run on the reader's device, no API bills attached. ⚡\n\nOpen your browser settings and search \"local inference.\" If it's missing, you're not there yet. Does yours have it? 🧐"
+      }
+    },
+    "instagram_caption": "Your browser might soon run AI models itself, without sending anything to a server.\n\nOpera proposed a new web standard that lets websites execute AI models directly on your device instead of in the cloud. It's called local inference, and it means the computation happens on your machine.\n\nThat could cut latency and keep your data from leaving your computer. Sites would offload the work to you rather than paying for servers. 🔒\n\nIf you publish content or build tools, this changes what you can ship: AI features that run on the reader's device, no API bills attached. ⚡\n\nOpen your browser settings and search \"local inference.\" If it's missing, you're not there yet. Does yours have it? 🧐",
+    "carousel_slides": [
+      {
+        "hook": "Your browser can run AI locally?",
+        "description": "Opera proposes a new web standard to execute AI models directly in your browser, eliminating cloud dependency.",
+        "visual_hint": "Browser window with AI chip inside",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "web browser"
+      },
+      {
+        "hook": "New standard for local AI",
+        "description": "Opera's proposal would let any website offload AI tasks to your device, turning your browser into an AI engine.",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "visual_hint": "Document with standard seal",
+        "image_query": "standard document",
+        "image": "https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Models run inside your browser",
+        "description": "Local inference means your device handles computation, so responses are faster and data stays private.",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "visual_hint": "Close-up of processor with AI code",
+        "image_query": "computer processor",
+        "image": "https://images.pexels.com/photos/33798628/pexels-photo-33798628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sites may offload AI work",
+        "description": "Soon websites might ask your device to run models instead of servers, cutting costs and latency.",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "visual_hint": "Hand holding phone with AI interface",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check if your browser supports it!",
+        "description": "Open browser settings and search for 'local inference' or 'on-device AI'. If missing, you're not ready yet.",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "visual_hint": "Settings menu with search bar",
+        "image_query": "browser settings",
+        "image": "https://images.pexels.com/photos/18096280/pexels-photo-18096280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1200,675",
+    "savedAt": "2026-10-27T15:37:51.426Z",
+    "sourceId": "2b97ba8c9771053de852c61e18ead024"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "general-compute-raises-100-million-series-a-counte",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+    "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+    "pubDate": "Tue, 27 Oct 2026 13:00:00 +0000",
+    "slides": [
+      "Can General Compute prove the neocloud skeptics wrong?",
+      "It just raised $100 million in Series A funding",
+      "But most neoclouds are burning cash and failing",
+      "Your cloud costs may drop if this model works",
+      "Test one workload: demand transparent pricing now"
+    ],
+    "thread_text": [
+      "1. Neocloud skeptics silenced?\n\nGeneral Compute just raised $100M Series A while most neoclouds burn cash and fail. Is this the model that finally works?",
+      "2. The $100 million bet\n\nInvestors are backing General Compute to prove neoclouds can be viable. But the graveyard of failed neoclouds is full of similar promises.",
+      "3. Cash burn crisis\n\nMost neoclouds are burning cash and failing. General Compute claims its model is different — but can it survive long enough to prove it?",
+      "4. Cloud costs could drop\n\nIf General Compute's model works, your cloud costs may drop. That's a big if, given the industry's track record.",
+      "5. Test one workload today\n\nTake a single workload and demand transparent pricing from your cloud provider. If they can't give it, you know who's really burning cash."
+    ],
+    "video_script": [
+      "General Compute just raised one hundred million dollars.",
+      "But most neoclouds are burning cash and failing.",
+      "Can this model finally prove the skeptics wrong?",
+      "If it works, your cloud costs may drop.",
+      "Test one workload and demand transparent pricing now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Neocloud skeptics silenced?\n\nGeneral Compute just raised $100M Series A while most neoclouds burn cash and fail. Is this the model that finally works?",
+          "2. The $100 million bet\n\nInvestors are backing General Compute to prove neoclouds can be viable. But the graveyard of failed neoclouds is full of similar promises.",
+          "3. Cash burn crisis\n\nMost neoclouds are burning cash and failing. General Compute claims its model is different — but can it survive long enough to prove it?",
+          "4. Cloud costs could drop\n\nIf General Compute's model works, your cloud costs may drop. That's a big if, given the industry's track record.",
+          "5. Test one workload today\n\nTake a single workload and demand transparent pricing from your cloud provider. If they can't give it, you know who's really burning cash."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "General Compute just raised one hundred million dollars.",
+          "But most neoclouds are burning cash and failing.",
+          "Can this model finally prove the skeptics wrong?",
+          "If it works, your cloud costs may drop.",
+          "Test one workload and demand transparent pricing now."
+        ]
+      },
+      "instagram": {
+        "caption": "A neocloud just raised $100 million while most of its competitors burn cash and fold.\n\nGeneral Compute closed a Series A round — investors betting its model can survive where others failed. 😳\n\nIf it works, cloud costs for your AI workloads could actually drop.\n\nThat's a big if, given the industry's track record of promises.\n\nYou run one workload. Ask your cloud provider for transparent pricing. If they can't give it, you know who's really burning cash. 💸\n\nWould you switch providers to save on cloud costs, or is the risk too high? 🤔"
+      }
+    },
+    "instagram_caption": "A neocloud just raised $100 million while most of its competitors burn cash and fold.\n\nGeneral Compute closed a Series A round — investors betting its model can survive where others failed. 😳\n\nIf it works, cloud costs for your AI workloads could actually drop.\n\nThat's a big if, given the industry's track record of promises.\n\nYou run one workload. Ask your cloud provider for transparent pricing. If they can't give it, you know who's really burning cash. 💸\n\nWould you switch providers to save on cloud costs, or is the risk too high? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Can $100M silence cloud skeptics?",
+        "description": "General Compute raised $100M Series A while most neoclouds burn cash and fail. Is this the model that finally works?",
+        "visual_hint": "Investor signing funding documents at desk",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "business contract signing"
+      },
+      {
+        "hook": "The $100 million bet on neoclouds",
+        "description": "Investors back General Compute to prove neoclouds can be viable, but the graveyard is full of similar promises.",
+        "visual_hint": "Chart showing funding versus failure rates",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cash burn crisis: can they survive?",
+        "description": "Most neoclouds are burning cash and failing. General Compute claims its model is different, but can it last?",
+        "visual_hint": "Server room with glowing lights and cables",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your cloud costs may drop",
+        "description": "If General Compute's model works, your cloud costs may drop. That's a big if, given the industry's track record.",
+        "visual_hint": "Hand holding phone with cloud cost graph",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "cloud computing cost",
+        "image": "https://images.pexels.com/photos/7680743/pexels-photo-7680743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: demand transparent pricing",
+        "description": "Take one workload and demand transparent pricing from your cloud provider. If they can't, you know who's burning cash.",
+        "visual_hint": "Person reviewing cloud invoice with magnifier",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "invoice review",
+        "image": "https://images.pexels.com/photos/8872400/pexels-photo-8872400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Team-05.jpg?resize=800,1200",
+    "savedAt": "2026-10-27T15:37:42.409Z",
+    "sourceId": "d0d46f2666065419bce8154c9a25765d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-announces-three-big-science-discoveries-and",
     "prompt_version": "1.0.0",
     "status": "published",

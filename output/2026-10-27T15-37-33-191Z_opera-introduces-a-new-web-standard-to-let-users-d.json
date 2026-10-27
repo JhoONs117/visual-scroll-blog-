@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "opera-introduces-a-new-web-standard-to-let-users-d",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+  "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+  "pubDate": "Tue, 27 Oct 2026 13:00:00 +0000",
+  "slides": [
+    "Can Opera run AI without the cloud?",
+    "Opera proposes a new web standard for local AI",
+    "It executes models directly inside the browser",
+    "Sites may soon offload AI work to your device",
+    "Check if your browser supports local inference"
+  ],
+  "thread_text": [
+    "1. Your browser could run AI\n\nOpera just proposed a new web standard that lets sites execute AI models directly inside your browser, no cloud required.",
+    "2. No cloud, no delay\n\nLocal inference means your device handles the computation, so responses can be faster and your data never leaves your machine.",
+    "3. A new web standard\n\nOpera's proposal would let any website offload AI work to your device, turning your browser into a personal AI engine.",
+    "4. Sites will offload work\n\nSoon, instead of sending every prompt to a server, websites may ask your device to run the model, cutting costs and latency.",
+    "5. Does your browser do this?\n\nOpen your browser's settings and search for 'local inference' or 'on-device AI'. If it's missing, you're not ready yet."
+  ],
+  "video_script": [
+    "Opera wants your browser to run AI without the cloud.",
+    "This new web standard executes models directly inside the browser.",
+    "Websites could soon offload AI work to your device.",
+    "That means faster responses and your data stays local.",
+    "Check if your browser supports local inference today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your browser could run AI\n\nOpera just proposed a new web standard that lets sites execute AI models directly inside your browser, no cloud required.",
+        "2. No cloud, no delay\n\nLocal inference means your device handles the computation, so responses can be faster and your data never leaves your machine.",
+        "3. A new web standard\n\nOpera's proposal would let any website offload AI work to your device, turning your browser into a personal AI engine.",
+        "4. Sites will offload work\n\nSoon, instead of sending every prompt to a server, websites may ask your device to run the model, cutting costs and latency.",
+        "5. Does your browser do this?\n\nOpen your browser's settings and search for 'local inference' or 'on-device AI'. If it's missing, you're not ready yet."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Opera wants your browser to run AI without the cloud.",
+        "This new web standard executes models directly inside the browser.",
+        "Websites could soon offload AI work to your device.",
+        "That means faster responses and your data stays local.",
+        "Check if your browser supports local inference today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your browser might soon run AI models itself, without sending anything to a server.\n\nOpera proposed a new web standard that lets websites execute AI models directly on your device instead of in the cloud. It's called local inference, and it means the computation happens on your machine.\n\nThat could cut latency and keep your data from leaving your computer. Sites would offload the work to you rather than paying for servers. 🔒\n\nIf you publish content or build tools, this changes what you can ship: AI features that run on the reader's device, no API bills attached. ⚡\n\nOpen your browser settings and search \"local inference.\" If it's missing, you're not there yet. Does yours have it? 🧐"
+    }
+  },
+  "instagram_caption": "Your browser might soon run AI models itself, without sending anything to a server.\n\nOpera proposed a new web standard that lets websites execute AI models directly on your device instead of in the cloud. It's called local inference, and it means the computation happens on your machine.\n\nThat could cut latency and keep your data from leaving your computer. Sites would offload the work to you rather than paying for servers. 🔒\n\nIf you publish content or build tools, this changes what you can ship: AI features that run on the reader's device, no API bills attached. ⚡\n\nOpen your browser settings and search \"local inference.\" If it's missing, you're not there yet. Does yours have it? 🧐",
+  "carousel_slides": [
+    {
+      "hook": "Your browser can run AI locally?",
+      "description": "Opera proposes a new web standard to execute AI models directly in your browser, eliminating cloud dependency.",
+      "visual_hint": "Browser window with AI chip inside",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "web browser"
+    },
+    {
+      "hook": "New standard for local AI",
+      "description": "Opera's proposal would let any website offload AI tasks to your device, turning your browser into an AI engine.",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "visual_hint": "Document with standard seal",
+      "image_query": "standard document",
+      "image": "https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Models run inside your browser",
+      "description": "Local inference means your device handles computation, so responses are faster and data stays private.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Close-up of processor with AI code",
+      "image_query": "computer processor",
+      "image": "https://images.pexels.com/photos/33798628/pexels-photo-33798628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Sites may offload AI work",
+      "description": "Soon websites might ask your device to run models instead of servers, cutting costs and latency.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hand holding phone with AI interface",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check if your browser supports it!",
+      "description": "Open browser settings and search for 'local inference' or 'on-device AI'. If missing, you're not ready yet.",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "visual_hint": "Settings menu with search bar",
+      "image_query": "browser settings",
+      "image": "https://images.pexels.com/photos/18096280/pexels-photo-18096280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1200,675",
+  "savedAt": "2026-10-27T15:37:51.426Z",
+  "sourceId": "2b97ba8c9771053de852c61e18ead024"
+}

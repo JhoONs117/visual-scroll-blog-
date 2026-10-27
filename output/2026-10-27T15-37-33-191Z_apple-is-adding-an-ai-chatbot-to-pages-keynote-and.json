@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-is-adding-an-ai-chatbot-to-pages-keynote-and",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+  "link": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+  "pubDate": "2026-10-27T13:50:51.000Z",
+  "slides": [
+    "Apple is adding an AI chatbot to its office apps. Why now?",
+    "Pages, Keynote, Numbers get Siri-powered writing and editing help.",
+    "Unlike rivals, Apple's assistant keeps your data on-device.",
+    "You'll draft slides and reports by chatting, not clicking.",
+    "Try one real document today: let the assistant edit it."
+  ],
+  "thread_text": [
+    "1. Apple's Quiet AI Move\n\nApple is adding an AI chatbot to Pages, Keynote, and Numbers. The company that rarely ships unfinished features is now betting on writing and editing help inside its office apps.",
+    "2. Why the Sudden Shift?\n\nMicrosoft and Google already have AI everywhere. Apple waited, and now it's entering through the apps you use to draft reports and slides, not a separate chat window.",
+    "3. Your Data Stays Put\n\nApple says Siri handles the editing on-device. Competitors send your prompts to the cloud. That privacy difference could be the reason to switch or stay.",
+    "4. Chat, Don't Click\n\nInstead of hunting for formatting buttons, you describe what you want. The assistant drafts slides and reports from conversation, which changes how you think about document creation.",
+    "5. Test It on One File\n\nOpen a real document today and ask the assistant to edit one paragraph. If the output needs heavy rewrites, the on-device trade-off may not be worth it yet."
+  ],
+  "video_script": [
+    "Apple just put an AI chatbot inside Pages, Keynote, and Numbers.",
+    "Unlike rivals, it keeps your data on-device.",
+    "You draft slides by chatting, not clicking.",
+    "But can on-device AI really match cloud models?",
+    "Try one real document today and judge the output."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Apple's Quiet AI Move\n\nApple is adding an AI chatbot to Pages, Keynote, and Numbers. The company that rarely ships unfinished features is now betting on writing and editing help inside its office apps.",
+        "2. Why the Sudden Shift?\n\nMicrosoft and Google already have AI everywhere. Apple waited, and now it's entering through the apps you use to draft reports and slides, not a separate chat window.",
+        "3. Your Data Stays Put\n\nApple says Siri handles the editing on-device. Competitors send your prompts to the cloud. That privacy difference could be the reason to switch or stay.",
+        "4. Chat, Don't Click\n\nInstead of hunting for formatting buttons, you describe what you want. The assistant drafts slides and reports from conversation, which changes how you think about document creation.",
+        "5. Test It on One File\n\nOpen a real document today and ask the assistant to edit one paragraph. If the output needs heavy rewrites, the on-device trade-off may not be worth it yet."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple just put an AI chatbot inside Pages, Keynote, and Numbers.",
+        "Unlike rivals, it keeps your data on-device.",
+        "You draft slides by chatting, not clicking.",
+        "But can on-device AI really match cloud models?",
+        "Try one real document today and judge the output."
+      ]
+    },
+    "instagram": {
+      "caption": "Pages, Keynote and Numbers are getting a built-in chatbot that writes and edits for you 🍎\n\nApple is adding Siri-powered writing and editing help directly inside its office apps.\n\nUnlike Microsoft and Google, Apple says the editing runs on-device, so your prompts stay off the cloud.\n\nYou describe what you want in chat instead of clicking through formatting menus ✍️\n\nIf you draft reports or slides for a living, this changes your daily workflow: less time hunting for buttons, more time directing the assistant.\n\nApple waited while rivals shipped AI everywhere — now it's betting on privacy as the differentiator 🔒\n\nWould you trust an on-device assistant to edit a client document, or would you double-check every line? 🤔"
+    }
+  },
+  "instagram_caption": "Pages, Keynote and Numbers are getting a built-in chatbot that writes and edits for you 🍎\n\nApple is adding Siri-powered writing and editing help directly inside its office apps.\n\nUnlike Microsoft and Google, Apple says the editing runs on-device, so your prompts stay off the cloud.\n\nYou describe what you want in chat instead of clicking through formatting menus ✍️\n\nIf you draft reports or slides for a living, this changes your daily workflow: less time hunting for buttons, more time directing the assistant.\n\nApple waited while rivals shipped AI everywhere — now it's betting on privacy as the differentiator 🔒\n\nWould you trust an on-device assistant to edit a client document, or would you double-check every line? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Is Apple's on-device AI your privacy win?",
+      "description": "Apple adds an AI chatbot to Pages, Keynote, and Numbers, keeping data on-device while rivals use the cloud.",
+      "visual_hint": "Apple logo glowing on a laptop",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Apple laptop"
+    },
+    {
+      "hook": "Siri now edits your documents for you",
+      "description": "Pages, Keynote, and Numbers get Siri-powered writing and editing help, entering through apps you already use.",
+      "visual_hint": "Siri interface on a tablet screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "tablet screen",
+      "image": "https://images.pexels.com/photos/13570165/pexels-photo-13570165.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your data never leaves your device",
+      "description": "Apple processes editing on-device, unlike competitors sending prompts to the cloud—a privacy difference that could sway users.",
+      "visual_hint": "Secure chip close-up with lock icon",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer chip",
+      "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop clicking, start chatting to create",
+      "description": "Instead of hunting for formatting buttons, you describe what you want and the assistant drafts slides and reports.",
+      "visual_hint": "Hands typing on a keyboard with chat bubble",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands typing keyboard",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and test it today",
+      "description": "Open a real document and ask the assistant to edit one paragraph—see if on-device AI meets your needs.",
+      "visual_hint": "Document with cursor and edit marks",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "document paper",
+      "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-Creator-Studio-intelligent-assistant-in-Keynote-on-iPad-Pro-261027_big.jpg.large_2x.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.727975106345%2C100%2C78.54404978731&amp;w=1200",
+  "savedAt": "2026-10-27T15:38:12.033Z",
+  "sourceId": "bd2c3c22ddbe56d5d7920aa74fb47a7f"
+}
