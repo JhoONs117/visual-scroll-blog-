@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-s-genie-4-world-model-adds-audio-more-reali",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+  "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+  "pubDate": "Tue, 27 Oct 2026 16:30:57 +0000",
+  "slides": [
+    "Can Genie 4 make virtual worlds feel real?",
+    "Google's world model now generates synchronized audio.",
+    "But realism breaks down in fast-motion scenes.",
+    "Developers can already steer worlds in real time.",
+    "Test one interactive scene before assuming it scales."
+  ],
+  "thread_text": [
+    "1. The Realism Trap\n\nGenie 4 now pairs synchronized audio with generated worlds, but fast-motion scenes still fall apart. A demo gap that could shape what ships.",
+    "2. Sound Without Sync\n\nGoogle's world model finally aligns audio and visuals in real time. That's a bigger shift than visuals alone — it changes how you react to the scene.",
+    "3. Motion Breaks the Illusion\n\nWhen speed increases, visuals and audio drift. The system struggles where timing matters most.",
+    "4. Steer in Real Time\n\nDevelopers can already adjust viewpoints and parameters live. No need to wait for a finished world.",
+    "5. Test One Scene First\n\nOpen an interactive demo and push it to fast motion. If audio and visuals stay locked, you've found something real — if not, you know the limit."
+  ],
+  "video_script": [
+    "Genie 4 makes virtual worlds feel real — or does it?",
+    "Google's model now syncs audio and visuals in real time.",
+    "But in fast-motion scenes, realism breaks down.",
+    "Developers can already steer these worlds live.",
+    "Test one interactive scene before assuming it scales."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Realism Trap\n\nGenie 4 now pairs synchronized audio with generated worlds, but fast-motion scenes still fall apart. A demo gap that could shape what ships.",
+        "2. Sound Without Sync\n\nGoogle's world model finally aligns audio and visuals in real time. That's a bigger shift than visuals alone — it changes how you react to the scene.",
+        "3. Motion Breaks the Illusion\n\nWhen speed increases, visuals and audio drift. The system struggles where timing matters most.",
+        "4. Steer in Real Time\n\nDevelopers can already adjust viewpoints and parameters live. No need to wait for a finished world.",
+        "5. Test One Scene First\n\nOpen an interactive demo and push it to fast motion. If audio and visuals stay locked, you've found something real — if not, you know the limit."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Genie 4 makes virtual worlds feel real — or does it?",
+        "Google's model now syncs audio and visuals in real time.",
+        "But in fast-motion scenes, realism breaks down.",
+        "Developers can already steer these worlds live.",
+        "Test one interactive scene before assuming it scales."
+      ]
+    },
+    "instagram": {
+      "caption": "Genie 4 now generates synchronized audio alongside its virtual worlds.\n\nGoogle's world model pairs sound and visuals in real time, which changes how a scene hits you—no more silent demos guessing at timing.\n\nBut push it into fast motion and the illusion cracks: audio and visuals drift apart exactly where timing matters most.\n\nDevelopers can already steer viewpoints and parameters live, no waiting for a finished world.\n\nIf you build or publish interactive content, this is testable now: open one scene, push it to fast motion, and check whether sound stays locked to the picture.\n\nWould you ship a world where the audio starts drifting the moment things speed up? 🎧🎮🔊"
+    }
+  },
+  "instagram_caption": "Genie 4 now generates synchronized audio alongside its virtual worlds.\n\nGoogle's world model pairs sound and visuals in real time, which changes how a scene hits you—no more silent demos guessing at timing.\n\nBut push it into fast motion and the illusion cracks: audio and visuals drift apart exactly where timing matters most.\n\nDevelopers can already steer viewpoints and parameters live, no waiting for a finished world.\n\nIf you build or publish interactive content, this is testable now: open one scene, push it to fast motion, and check whether sound stays locked to the picture.\n\nWould you ship a world where the audio starts drifting the moment things speed up? 🎧🎮🔊",
+  "carousel_slides": [
+    {
+      "hook": "Does fast motion break Genie 4?",
+      "description": "Google's world model adds synchronized audio, but realism collapses in fast-motion scenes—a gap that could limit real-world use.",
+      "visual_hint": "Split-screen slow vs fast motion",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "motion blur"
+    },
+    {
+      "hook": "Sound now syncs with visuals",
+      "description": "Genie 4 aligns audio and visuals in real time, a bigger shift than visuals alone—it changes how you react to scenes.",
+      "visual_hint": "Audio waveform over 3D world",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "audio waveform",
+      "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Speed exposes the illusion",
+      "description": "When motion speeds up, visuals and audio drift apart. The system struggles exactly where timing matters most.",
+      "visual_hint": "Fast-moving scene with drift arrows",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "fast car",
+      "image": "https://images.pexels.com/photos/18517141/pexels-photo-18517141.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Steer worlds in real time",
+      "description": "Developers can adjust viewpoints and parameters live—no need to wait for a finished world before testing.",
+      "visual_hint": "Hand adjusting 3D interface live",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "virtual reality headset",
+      "image": "https://images.pexels.com/photos/19545617/pexels-photo-19545617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one scene, save this",
+      "description": "Open an interactive demo, push it to fast motion, and check if audio and visuals stay locked—then save this guide.",
+      "visual_hint": "Interactive demo screen with play button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "computer screen",
+      "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Genie-4-blog-header.png?resize=1200,675",
+  "savedAt": "2026-10-27T20:19:51.003Z",
+  "sourceId": "3ddb9b3e3bda7311007d8bb25ad7d497"
+}

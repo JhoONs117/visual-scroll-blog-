@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "frontier-ai-labs-say-their-models-refuted-the-expo",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+  "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+  "pubDate": "Tue, 27 Oct 2026 17:08:08 +0000",
+  "slides": [
+    "Can a machine refute a mathematical conjecture?",
+    "Labs claim their models disproved the Exponential Time Hypothesis.",
+    "But the proof only runs three minutes before collapsing.",
+    "Check whether any complexity theorist has verified the result.",
+    "Ask what a model's confidence actually proves."
+  ],
+  "thread_text": [
+    "1. The 3-minute disproof\n\nA team announced their AI had refuted the Exponential Time Hypothesis — a cornerstone of complexity theory. The proof held up for exactly three minutes before collapsing.",
+    "2. Why ETH matters\n\nIf ETH falls, hundreds of hardness results fall with it. That's why labs are racing to be the first to say a machine did it.",
+    "3. The collapse mechanism\n\nThe model produced a chain of reasoning that looked valid until a human checked one step. The error wasn't arithmetic — it was a subtle misreading of a definition.",
+    "4. The missing verification\n\nNo complexity theorist has confirmed the result. Until one does, the claim is a press release, not a proof.",
+    "5. Your turn to check\n\nNext time you see 'AI disproves X', ask: has a domain expert verified it? If not, treat it as a hypothesis, not a fact. Try it on the next headline you read."
+  ],
+  "video_script": [
+    "Can a machine really refute a mathematical conjecture?",
+    "Labs claim their models disproved the Exponential Time Hypothesis.",
+    "But the proof only ran three minutes before collapsing.",
+    "Check whether any complexity theorist has verified the result.",
+    "Ask what a model's confidence actually proves."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The 3-minute disproof\n\nA team announced their AI had refuted the Exponential Time Hypothesis — a cornerstone of complexity theory. The proof held up for exactly three minutes before collapsing.",
+        "2. Why ETH matters\n\nIf ETH falls, hundreds of hardness results fall with it. That's why labs are racing to be the first to say a machine did it.",
+        "3. The collapse mechanism\n\nThe model produced a chain of reasoning that looked valid until a human checked one step. The error wasn't arithmetic — it was a subtle misreading of a definition.",
+        "4. The missing verification\n\nNo complexity theorist has confirmed the result. Until one does, the claim is a press release, not a proof.",
+        "5. Your turn to check\n\nNext time you see 'AI disproves X', ask: has a domain expert verified it? If not, treat it as a hypothesis, not a fact. Try it on the next headline you read."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can a machine really refute a mathematical conjecture?",
+        "Labs claim their models disproved the Exponential Time Hypothesis.",
+        "But the proof only ran three minutes before collapsing.",
+        "Check whether any complexity theorist has verified the result.",
+        "Ask what a model's confidence actually proves."
+      ]
+    },
+    "instagram": {
+      "caption": "An AI reportedly disproved a major math conjecture — and the proof fell apart in three minutes. 🧮\n\nThe Exponential Time Hypothesis underpins hundreds of results in complexity theory. A model produced a reasoning chain that looked valid until a human spotted one misread definition. No complexity theorist has verified the claim. ⚠️\n\nSo \"AI disproves X\" is a press release, not a proof — for now.\n\nIf you write about research, check whether a domain expert confirmed it before you share. 🔍\n\nNext time you see a headline like this, will you ask who verified it? 🧠"
+    }
+  },
+  "instagram_caption": "An AI reportedly disproved a major math conjecture — and the proof fell apart in three minutes. 🧮\n\nThe Exponential Time Hypothesis underpins hundreds of results in complexity theory. A model produced a reasoning chain that looked valid until a human spotted one misread definition. No complexity theorist has verified the claim. ⚠️\n\nSo \"AI disproves X\" is a press release, not a proof — for now.\n\nIf you write about research, check whether a domain expert confirmed it before you share. 🔍\n\nNext time you see a headline like this, will you ask who verified it? 🧠",
+  "carousel_slides": [
+    {
+      "hook": "AI proof lasts three minutes?",
+      "description": "A team claimed their AI refuted the Exponential Time Hypothesis, but the proof collapsed after just three minutes of scrutiny.",
+      "visual_hint": "Digital timer counting down to zero",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "countdown timer"
+    },
+    {
+      "hook": "Why ETH is a big deal",
+      "description": "If ETH falls, hundreds of hardness results fall with it, which is why labs race to claim the first AI disproof.",
+      "visual_hint": "Dominoes falling in a chain",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "dominoes falling",
+      "image": "https://images.pexels.com/photos/9760552/pexels-photo-9760552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Error wasn't math, but definition",
+      "description": "The model's reasoning looked valid until a human checked one step, revealing a subtle misreading of a definition.",
+      "visual_hint": "Magnifying glass over code line",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass code",
+      "image": "https://images.pexels.com/photos/17543457/pexels-photo-17543457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Missing verification by experts",
+      "description": "No complexity theorist has confirmed the result, so until one does, the claim is a press release, not a proof.",
+      "visual_hint": "Empty signature line on document",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "document signature",
+      "image": "https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before next AI claim",
+      "description": "Before sharing an 'AI disproves X' headline, check if a domain expert has verified it, then treat it as hypothesis.",
+      "visual_hint": "Smartphone with save icon highlighted",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone save icon",
+      "image": "https://images.pexels.com/photos/3850481/pexels-photo-3850481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783",
+  "savedAt": "2026-10-27T20:19:41.410Z",
+  "sourceId": "636498a83af93057a8507371e24c9b81"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "disruptive-raises-10b-fund-to-make-big-bets-on-at-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+  "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+  "pubDate": "Tue, 27 Oct 2026 18:55:35 +0000",
+  "slides": [
+    "Can a $10B fund buy disruption itself?",
+    "Disruptive CEO says the model is shifting fast",
+    "It commits capital before targets even exist",
+    "Large deals may now crowd out smaller founders",
+    "Ask your investors: who sets the urgency?"
+  ],
+  "thread_text": [
+    "1. $10B to Buy Disruption\n\nA fund just committed capital before targets even exist. That's not investing — that's buying the urgency itself.",
+    "2. CEO: Model Is Shifting\n\nThe disruptive CEO says the game changed: capital now moves before strategy. Founders are left guessing who sets the pace.",
+    "3. Deals Before Targets\n\nMoney gets wired before there's a plan. That flips the usual order — and small founders feel the squeeze first.",
+    "4. Big Deals, Small Doors\n\nLarge checks crowd out smaller founders who can't compete for attention. The pipeline narrows before it even opens.",
+    "5. Ask Your Investors\n\nWho sets the urgency in your round? If you can't answer, you're not in control. Ask them this week."
+  ],
+  "video_script": [
+    "A ten billion dollar fund buys disruption before targets exist.",
+    "The CEO says the model is shifting fast toward pre-committed capital.",
+    "That means deals get done before there is even a plan.",
+    "Large checks now crowd out smaller founders trying to compete.",
+    "Ask your investors: who sets the urgency here?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $10B to Buy Disruption\n\nA fund just committed capital before targets even exist. That's not investing — that's buying the urgency itself.",
+        "2. CEO: Model Is Shifting\n\nThe disruptive CEO says the game changed: capital now moves before strategy. Founders are left guessing who sets the pace.",
+        "3. Deals Before Targets\n\nMoney gets wired before there's a plan. That flips the usual order — and small founders feel the squeeze first.",
+        "4. Big Deals, Small Doors\n\nLarge checks crowd out smaller founders who can't compete for attention. The pipeline narrows before it even opens.",
+        "5. Ask Your Investors\n\nWho sets the urgency in your round? If you can't answer, you're not in control. Ask them this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A ten billion dollar fund buys disruption before targets exist.",
+        "The CEO says the model is shifting fast toward pre-committed capital.",
+        "That means deals get done before there is even a plan.",
+        "Large checks now crowd out smaller founders trying to compete.",
+        "Ask your investors: who sets the urgency here?"
+      ]
+    },
+    "instagram": {
+      "caption": "A fund just committed $10 billion before it even knows which companies it's buying. 💰\n\nDisruptive is raising a $10B fund to bet on at least 10 companies — but it wires capital before targets exist.\n\nThe CEO says the model is shifting fast: money now moves before strategy. 🎯\n\nLarge checks like these crowd out smaller founders who can't compete for attention.\n\nIf you're building or publishing, the pipeline narrows before it even opens.\n\nAsk your investors this week: who sets the urgency in your round? If you can't answer, you're not in control. 🤔"
+    }
+  },
+  "instagram_caption": "A fund just committed $10 billion before it even knows which companies it's buying. 💰\n\nDisruptive is raising a $10B fund to bet on at least 10 companies — but it wires capital before targets exist.\n\nThe CEO says the model is shifting fast: money now moves before strategy. 🎯\n\nLarge checks like these crowd out smaller founders who can't compete for attention.\n\nIf you're building or publishing, the pipeline narrows before it even opens.\n\nAsk your investors this week: who sets the urgency in your round? If you can't answer, you're not in control. 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Who sets the urgency in your round?",
+      "description": "A $10B fund commits capital before targets exist, flipping the investing order and leaving founders guessing who controls the pace.",
+      "visual_hint": "Large check with clock overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "blank check"
+    },
+    {
+      "hook": "CEO: The model is shifting fast",
+      "description": "Disruptive's CEO says capital now moves before strategy, forcing founders to adapt to a new speed of decision-making.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "visual_hint": "Shifting gears abstract graphic",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Money wired before the plan exists",
+      "description": "Deals precede targets, reversing traditional due diligence and making smaller founders feel the squeeze first.",
+      "visual_hint": "Wire transfer confirmation screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "bank transfer",
+      "image": "https://images.pexels.com/photos/6862457/pexels-photo-6862457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Big deals crowd out small founders",
+      "description": "Large checks dominate attention, narrowing the pipeline for startups that can't compete for investor focus.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "crowded room",
+      "visual_hint": "Hand holding small plant",
+      "image": "https://images.pexels.com/photos/12802258/pexels-photo-12802258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to control your raise",
+      "description": "Ask your investors directly: who sets the urgency? Then comment your answer below.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office meeting",
+      "visual_hint": "Phone screen with comment icon",
+      "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1191380440.jpg?resize=1200,800",
+  "savedAt": "2026-10-27T20:19:32.431Z",
+  "sourceId": "fc5f9bdbfc14bb07aaa48b90d7572eb8"
+}

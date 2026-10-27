@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "apple-rolls-out-ios-27-2-with-new-siri-ai-language",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+      "link": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+      "pubDate": "Tue, 27 Oct 2026 13:54:51 +0000",
+      "slides": [
+        "What's hiding in iOS 27.2's Siri update?",
+        "New AI languages expand Siri's reach across markets",
+        "But most users won't notice the biggest change",
+        "Your device gets security patches you can't see",
+        "Update today: check which Siri languages you now have"
+      ],
+      "thread_text": [
+        "1. Siri's hidden upgrade\n\nApple's iOS 27.2 update brings new AI languages to Siri, but the real story is what you can't see: invisible security patches that protect your device silently.",
+        "2. Languages expand Siri's reach\n\nSiri now understands more languages, helping users in new markets. But this feature is just the tip of the iceberg—most changes are under the hood.",
+        "3. The change you won't notice\n\nThe biggest update in iOS 27.2 is invisible: security patches that run in the background. You won't see them, but they keep your data safe from threats.",
+        "4. Invisible patches, real protection\n\nThese silent security fixes are critical, yet most users never realize they're happening. They're automatic and essential for your privacy.",
+        "5. Check your new languages\n\nOpen Siri settings to see which languages you now have. Then, make sure automatic updates are on so you never miss a security patch. Did you find a new language?"
+      ],
+      "video_script": [
+        "iOS 27.2 hides a big Siri update.",
+        "New AI languages make Siri more global.",
+        "But the real change is invisible security patches.",
+        "These patches protect you without any notice.",
+        "Check your Siri languages and update today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Siri's hidden upgrade\n\nApple's iOS 27.2 update brings new AI languages to Siri, but the real story is what you can't see: invisible security patches that protect your device silently.",
+            "2. Languages expand Siri's reach\n\nSiri now understands more languages, helping users in new markets. But this feature is just the tip of the iceberg—most changes are under the hood.",
+            "3. The change you won't notice\n\nThe biggest update in iOS 27.2 is invisible: security patches that run in the background. You won't see them, but they keep your data safe from threats.",
+            "4. Invisible patches, real protection\n\nThese silent security fixes are critical, yet most users never realize they're happening. They're automatic and essential for your privacy.",
+            "5. Check your new languages\n\nOpen Siri settings to see which languages you now have. Then, make sure automatic updates are on so you never miss a security patch. Did you find a new language?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "iOS 27.2 hides a big Siri update.",
+            "New AI languages make Siri more global.",
+            "But the real change is invisible security patches.",
+            "These patches protect you without any notice.",
+            "Check your Siri languages and update today."
+          ]
+        },
+        "instagram": {
+          "caption": "Siri just learned new languages in iOS 27.2, but that's not the update that matters most.\n\nThe real change is invisible: silent security patches now running in the background on your device. 🔒\n\nYou won't get a notification for them, and you won't see them working. They just keep your data protected from threats automatically.\n\nIf you publish or create content on your phone, these patches are what stand between your files and a bad actor. 📱\n\nOpen your Siri settings to check which languages you now have, then turn on automatic updates so you never skip a patch. 🛡️\n\nWhich new Siri language showed up on your phone? 👀"
+        }
+      },
+      "instagram_caption": "Siri just learned new languages in iOS 27.2, but that's not the update that matters most.\n\nThe real change is invisible: silent security patches now running in the background on your device. 🔒\n\nYou won't get a notification for them, and you won't see them working. They just keep your data protected from threats automatically.\n\nIf you publish or create content on your phone, these patches are what stand between your files and a bad actor. 📱\n\nOpen your Siri settings to check which languages you now have, then turn on automatic updates so you never skip a patch. 🛡️\n\nWhich new Siri language showed up on your phone? 👀",
+      "carousel_slides": [
+        {
+          "hook": "What's hiding in iOS 27.2?",
+          "description": "Apple's update adds Siri AI languages, but the real change is invisible security patches running silently.",
+          "visual_hint": "iPhone screen with update prompt",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "iPhone update screen"
+        },
+        {
+          "hook": "Siri speaks more languages now",
+          "description": "New AI languages help users in new markets, but most changes stay under the hood.",
+          "visual_hint": "Siri waveform on phone screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "Siri voice assistant",
+          "image": "https://images.pexels.com/photos/5083215/pexels-photo-5083215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The biggest change is invisible",
+          "description": "Security patches run in the background, protecting your data without you ever noticing.",
+          "visual_hint": "Lock icon on digital background",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "security lock digital",
+          "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Silent patches, real protection",
+          "description": "These automatic fixes are critical for privacy, yet most users never realize they're happening.",
+          "visual_hint": "Hand holding phone with shield",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your new Siri languages now",
+          "description": "Open Siri settings to see new languages, and turn on auto-updates for security patches.",
+          "visual_hint": "Settings menu on smartphone",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone settings menu",
+          "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Siri-feat-iOS-27.jpg?resize=1200,648",
+      "savedAt": "2026-10-27T20:20:00.562Z",
+      "sourceId": "ca3d25d89dc64fd833f6a31eb8fe9d70"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-s-genie-4-world-model-adds-audio-more-reali",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "pubDate": "Tue, 27 Oct 2026 16:30:57 +0000",
+      "slides": [
+        "Can Genie 4 make virtual worlds feel real?",
+        "Google's world model now generates synchronized audio.",
+        "But realism breaks down in fast-motion scenes.",
+        "Developers can already steer worlds in real time.",
+        "Test one interactive scene before assuming it scales."
+      ],
+      "thread_text": [
+        "1. The Realism Trap\n\nGenie 4 now pairs synchronized audio with generated worlds, but fast-motion scenes still fall apart. A demo gap that could shape what ships.",
+        "2. Sound Without Sync\n\nGoogle's world model finally aligns audio and visuals in real time. That's a bigger shift than visuals alone — it changes how you react to the scene.",
+        "3. Motion Breaks the Illusion\n\nWhen speed increases, visuals and audio drift. The system struggles where timing matters most.",
+        "4. Steer in Real Time\n\nDevelopers can already adjust viewpoints and parameters live. No need to wait for a finished world.",
+        "5. Test One Scene First\n\nOpen an interactive demo and push it to fast motion. If audio and visuals stay locked, you've found something real — if not, you know the limit."
+      ],
+      "video_script": [
+        "Genie 4 makes virtual worlds feel real — or does it?",
+        "Google's model now syncs audio and visuals in real time.",
+        "But in fast-motion scenes, realism breaks down.",
+        "Developers can already steer these worlds live.",
+        "Test one interactive scene before assuming it scales."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Realism Trap\n\nGenie 4 now pairs synchronized audio with generated worlds, but fast-motion scenes still fall apart. A demo gap that could shape what ships.",
+            "2. Sound Without Sync\n\nGoogle's world model finally aligns audio and visuals in real time. That's a bigger shift than visuals alone — it changes how you react to the scene.",
+            "3. Motion Breaks the Illusion\n\nWhen speed increases, visuals and audio drift. The system struggles where timing matters most.",
+            "4. Steer in Real Time\n\nDevelopers can already adjust viewpoints and parameters live. No need to wait for a finished world.",
+            "5. Test One Scene First\n\nOpen an interactive demo and push it to fast motion. If audio and visuals stay locked, you've found something real — if not, you know the limit."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Genie 4 makes virtual worlds feel real — or does it?",
+            "Google's model now syncs audio and visuals in real time.",
+            "But in fast-motion scenes, realism breaks down.",
+            "Developers can already steer these worlds live.",
+            "Test one interactive scene before assuming it scales."
+          ]
+        },
+        "instagram": {
+          "caption": "Genie 4 now generates synchronized audio alongside its virtual worlds.\n\nGoogle's world model pairs sound and visuals in real time, which changes how a scene hits you—no more silent demos guessing at timing.\n\nBut push it into fast motion and the illusion cracks: audio and visuals drift apart exactly where timing matters most.\n\nDevelopers can already steer viewpoints and parameters live, no waiting for a finished world.\n\nIf you build or publish interactive content, this is testable now: open one scene, push it to fast motion, and check whether sound stays locked to the picture.\n\nWould you ship a world where the audio starts drifting the moment things speed up? 🎧🎮🔊"
+        }
+      },
+      "instagram_caption": "Genie 4 now generates synchronized audio alongside its virtual worlds.\n\nGoogle's world model pairs sound and visuals in real time, which changes how a scene hits you—no more silent demos guessing at timing.\n\nBut push it into fast motion and the illusion cracks: audio and visuals drift apart exactly where timing matters most.\n\nDevelopers can already steer viewpoints and parameters live, no waiting for a finished world.\n\nIf you build or publish interactive content, this is testable now: open one scene, push it to fast motion, and check whether sound stays locked to the picture.\n\nWould you ship a world where the audio starts drifting the moment things speed up? 🎧🎮🔊",
+      "carousel_slides": [
+        {
+          "hook": "Does fast motion break Genie 4?",
+          "description": "Google's world model adds synchronized audio, but realism collapses in fast-motion scenes—a gap that could limit real-world use.",
+          "visual_hint": "Split-screen slow vs fast motion",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "motion blur"
+        },
+        {
+          "hook": "Sound now syncs with visuals",
+          "description": "Genie 4 aligns audio and visuals in real time, a bigger shift than visuals alone—it changes how you react to scenes.",
+          "visual_hint": "Audio waveform over 3D world",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "audio waveform",
+          "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Speed exposes the illusion",
+          "description": "When motion speeds up, visuals and audio drift apart. The system struggles exactly where timing matters most.",
+          "visual_hint": "Fast-moving scene with drift arrows",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "fast car",
+          "image": "https://images.pexels.com/photos/18517141/pexels-photo-18517141.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Steer worlds in real time",
+          "description": "Developers can adjust viewpoints and parameters live—no need to wait for a finished world before testing.",
+          "visual_hint": "Hand adjusting 3D interface live",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "virtual reality headset",
+          "image": "https://images.pexels.com/photos/19545617/pexels-photo-19545617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one scene, save this",
+          "description": "Open an interactive demo, push it to fast motion, and check if audio and visuals stay locked—then save this guide.",
+          "visual_hint": "Interactive demo screen with play button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "computer screen",
+          "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Genie-4-blog-header.png?resize=1200,675",
+      "savedAt": "2026-10-27T20:19:51.003Z",
+      "sourceId": "3ddb9b3e3bda7311007d8bb25ad7d497"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "frontier-ai-labs-say-their-models-refuted-the-expo",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "pubDate": "Tue, 27 Oct 2026 17:08:08 +0000",
+      "slides": [
+        "Can a machine refute a mathematical conjecture?",
+        "Labs claim their models disproved the Exponential Time Hypothesis.",
+        "But the proof only runs three minutes before collapsing.",
+        "Check whether any complexity theorist has verified the result.",
+        "Ask what a model's confidence actually proves."
+      ],
+      "thread_text": [
+        "1. The 3-minute disproof\n\nA team announced their AI had refuted the Exponential Time Hypothesis — a cornerstone of complexity theory. The proof held up for exactly three minutes before collapsing.",
+        "2. Why ETH matters\n\nIf ETH falls, hundreds of hardness results fall with it. That's why labs are racing to be the first to say a machine did it.",
+        "3. The collapse mechanism\n\nThe model produced a chain of reasoning that looked valid until a human checked one step. The error wasn't arithmetic — it was a subtle misreading of a definition.",
+        "4. The missing verification\n\nNo complexity theorist has confirmed the result. Until one does, the claim is a press release, not a proof.",
+        "5. Your turn to check\n\nNext time you see 'AI disproves X', ask: has a domain expert verified it? If not, treat it as a hypothesis, not a fact. Try it on the next headline you read."
+      ],
+      "video_script": [
+        "Can a machine really refute a mathematical conjecture?",
+        "Labs claim their models disproved the Exponential Time Hypothesis.",
+        "But the proof only ran three minutes before collapsing.",
+        "Check whether any complexity theorist has verified the result.",
+        "Ask what a model's confidence actually proves."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The 3-minute disproof\n\nA team announced their AI had refuted the Exponential Time Hypothesis — a cornerstone of complexity theory. The proof held up for exactly three minutes before collapsing.",
+            "2. Why ETH matters\n\nIf ETH falls, hundreds of hardness results fall with it. That's why labs are racing to be the first to say a machine did it.",
+            "3. The collapse mechanism\n\nThe model produced a chain of reasoning that looked valid until a human checked one step. The error wasn't arithmetic — it was a subtle misreading of a definition.",
+            "4. The missing verification\n\nNo complexity theorist has confirmed the result. Until one does, the claim is a press release, not a proof.",
+            "5. Your turn to check\n\nNext time you see 'AI disproves X', ask: has a domain expert verified it? If not, treat it as a hypothesis, not a fact. Try it on the next headline you read."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Can a machine really refute a mathematical conjecture?",
+            "Labs claim their models disproved the Exponential Time Hypothesis.",
+            "But the proof only ran three minutes before collapsing.",
+            "Check whether any complexity theorist has verified the result.",
+            "Ask what a model's confidence actually proves."
+          ]
+        },
+        "instagram": {
+          "caption": "An AI reportedly disproved a major math conjecture — and the proof fell apart in three minutes. 🧮\n\nThe Exponential Time Hypothesis underpins hundreds of results in complexity theory. A model produced a reasoning chain that looked valid until a human spotted one misread definition. No complexity theorist has verified the claim. ⚠️\n\nSo \"AI disproves X\" is a press release, not a proof — for now.\n\nIf you write about research, check whether a domain expert confirmed it before you share. 🔍\n\nNext time you see a headline like this, will you ask who verified it? 🧠"
+        }
+      },
+      "instagram_caption": "An AI reportedly disproved a major math conjecture — and the proof fell apart in three minutes. 🧮\n\nThe Exponential Time Hypothesis underpins hundreds of results in complexity theory. A model produced a reasoning chain that looked valid until a human spotted one misread definition. No complexity theorist has verified the claim. ⚠️\n\nSo \"AI disproves X\" is a press release, not a proof — for now.\n\nIf you write about research, check whether a domain expert confirmed it before you share. 🔍\n\nNext time you see a headline like this, will you ask who verified it? 🧠",
+      "carousel_slides": [
+        {
+          "hook": "AI proof lasts three minutes?",
+          "description": "A team claimed their AI refuted the Exponential Time Hypothesis, but the proof collapsed after just three minutes of scrutiny.",
+          "visual_hint": "Digital timer counting down to zero",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "countdown timer"
+        },
+        {
+          "hook": "Why ETH is a big deal",
+          "description": "If ETH falls, hundreds of hardness results fall with it, which is why labs race to claim the first AI disproof.",
+          "visual_hint": "Dominoes falling in a chain",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "dominoes falling",
+          "image": "https://images.pexels.com/photos/9760552/pexels-photo-9760552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Error wasn't math, but definition",
+          "description": "The model's reasoning looked valid until a human checked one step, revealing a subtle misreading of a definition.",
+          "visual_hint": "Magnifying glass over code line",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass code",
+          "image": "https://images.pexels.com/photos/17543457/pexels-photo-17543457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Missing verification by experts",
+          "description": "No complexity theorist has confirmed the result, so until one does, the claim is a press release, not a proof.",
+          "visual_hint": "Empty signature line on document",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "document signature",
+          "image": "https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before next AI claim",
+          "description": "Before sharing an 'AI disproves X' headline, check if a domain expert has verified it, then treat it as hypothesis.",
+          "visual_hint": "Smartphone with save icon highlighted",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone save icon",
+          "image": "https://images.pexels.com/photos/3850481/pexels-photo-3850481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783",
+      "savedAt": "2026-10-27T20:19:41.410Z",
+      "sourceId": "636498a83af93057a8507371e24c9b81"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "disruptive-raises-10b-fund-to-make-big-bets-on-at-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "pubDate": "Tue, 27 Oct 2026 18:55:35 +0000",
+      "slides": [
+        "Can a $10B fund buy disruption itself?",
+        "Disruptive CEO says the model is shifting fast",
+        "It commits capital before targets even exist",
+        "Large deals may now crowd out smaller founders",
+        "Ask your investors: who sets the urgency?"
+      ],
+      "thread_text": [
+        "1. $10B to Buy Disruption\n\nA fund just committed capital before targets even exist. That's not investing — that's buying the urgency itself.",
+        "2. CEO: Model Is Shifting\n\nThe disruptive CEO says the game changed: capital now moves before strategy. Founders are left guessing who sets the pace.",
+        "3. Deals Before Targets\n\nMoney gets wired before there's a plan. That flips the usual order — and small founders feel the squeeze first.",
+        "4. Big Deals, Small Doors\n\nLarge checks crowd out smaller founders who can't compete for attention. The pipeline narrows before it even opens.",
+        "5. Ask Your Investors\n\nWho sets the urgency in your round? If you can't answer, you're not in control. Ask them this week."
+      ],
+      "video_script": [
+        "A ten billion dollar fund buys disruption before targets exist.",
+        "The CEO says the model is shifting fast toward pre-committed capital.",
+        "That means deals get done before there is even a plan.",
+        "Large checks now crowd out smaller founders trying to compete.",
+        "Ask your investors: who sets the urgency here?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $10B to Buy Disruption\n\nA fund just committed capital before targets even exist. That's not investing — that's buying the urgency itself.",
+            "2. CEO: Model Is Shifting\n\nThe disruptive CEO says the game changed: capital now moves before strategy. Founders are left guessing who sets the pace.",
+            "3. Deals Before Targets\n\nMoney gets wired before there's a plan. That flips the usual order — and small founders feel the squeeze first.",
+            "4. Big Deals, Small Doors\n\nLarge checks crowd out smaller founders who can't compete for attention. The pipeline narrows before it even opens.",
+            "5. Ask Your Investors\n\nWho sets the urgency in your round? If you can't answer, you're not in control. Ask them this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A ten billion dollar fund buys disruption before targets exist.",
+            "The CEO says the model is shifting fast toward pre-committed capital.",
+            "That means deals get done before there is even a plan.",
+            "Large checks now crowd out smaller founders trying to compete.",
+            "Ask your investors: who sets the urgency here?"
+          ]
+        },
+        "instagram": {
+          "caption": "A fund just committed $10 billion before it even knows which companies it's buying. 💰\n\nDisruptive is raising a $10B fund to bet on at least 10 companies — but it wires capital before targets exist.\n\nThe CEO says the model is shifting fast: money now moves before strategy. 🎯\n\nLarge checks like these crowd out smaller founders who can't compete for attention.\n\nIf you're building or publishing, the pipeline narrows before it even opens.\n\nAsk your investors this week: who sets the urgency in your round? If you can't answer, you're not in control. 🤔"
+        }
+      },
+      "instagram_caption": "A fund just committed $10 billion before it even knows which companies it's buying. 💰\n\nDisruptive is raising a $10B fund to bet on at least 10 companies — but it wires capital before targets exist.\n\nThe CEO says the model is shifting fast: money now moves before strategy. 🎯\n\nLarge checks like these crowd out smaller founders who can't compete for attention.\n\nIf you're building or publishing, the pipeline narrows before it even opens.\n\nAsk your investors this week: who sets the urgency in your round? If you can't answer, you're not in control. 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Who sets the urgency in your round?",
+          "description": "A $10B fund commits capital before targets exist, flipping the investing order and leaving founders guessing who controls the pace.",
+          "visual_hint": "Large check with clock overlay",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "blank check"
+        },
+        {
+          "hook": "CEO: The model is shifting fast",
+          "description": "Disruptive's CEO says capital now moves before strategy, forcing founders to adapt to a new speed of decision-making.",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "visual_hint": "Shifting gears abstract graphic",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Money wired before the plan exists",
+          "description": "Deals precede targets, reversing traditional due diligence and making smaller founders feel the squeeze first.",
+          "visual_hint": "Wire transfer confirmation screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "bank transfer",
+          "image": "https://images.pexels.com/photos/6862457/pexels-photo-6862457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Big deals crowd out small founders",
+          "description": "Large checks dominate attention, narrowing the pipeline for startups that can't compete for investor focus.",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "crowded room",
+          "visual_hint": "Hand holding small plant",
+          "image": "https://images.pexels.com/photos/12802258/pexels-photo-12802258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to control your raise",
+          "description": "Ask your investors directly: who sets the urgency? Then comment your answer below.",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office meeting",
+          "visual_hint": "Phone screen with comment icon",
+          "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1191380440.jpg?resize=1200,800",
+      "savedAt": "2026-10-27T20:19:32.431Z",
+      "sourceId": "fc5f9bdbfc14bb07aaa48b90d7572eb8"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "apple-is-adding-an-ai-chatbot-to-pages-keynote-and",
       "prompt_version": "1.0.0",
       "status": "published",
