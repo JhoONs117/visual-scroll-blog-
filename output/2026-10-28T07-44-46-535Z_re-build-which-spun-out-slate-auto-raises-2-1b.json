@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "re-build-which-spun-out-slate-auto-raises-2-1b",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+  "link": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+  "pubDate": "Tue, 27 Oct 2026 20:31:17 +0000",
+  "slides": [
+    "Can Re:Build turn $2.1B into a real automaker?",
+    "Spun out Slate Auto with fresh capital",
+    "But building cars takes more than money",
+    "Investors now expect a timeline, not a concept",
+    "Ask any EV founder: capital is the easy part"
+  ],
+  "thread_text": [
+    "1. Can $2.1B Buy a Car?\n\nRe:Build just spun out Slate Auto with fresh capital. The real question is whether that money can turn a concept into a production line.",
+    "2. The Capital Illusion\n\nEV founders know raising money is the easy part. Building cars at scale is where the real challenge begins.",
+    "3. Investors Want Dates\n\nNo more concepts. Investors now expect a timeline, not a vision. The pressure is on to deliver.",
+    "4. The Manufacturing Wall\n\nBuilding cars takes more than money. Factories, supply chains, and talent are the hard parts that capital alone can't solve.",
+    "5. What's Your Bet?\n\nWould you invest in a startup automaker with $2.1B but no track record? Share your take in the comments."
+  ],
+  "video_script": [
+    "Can two billion dollars turn a startup into a real automaker?",
+    "Re:Build just spun out Slate Auto with fresh capital.",
+    "But building cars takes more than money.",
+    "Investors now expect a timeline, not a concept.",
+    "Ask any EV founder: capital is the easy part."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can $2.1B Buy a Car?\n\nRe:Build just spun out Slate Auto with fresh capital. The real question is whether that money can turn a concept into a production line.",
+        "2. The Capital Illusion\n\nEV founders know raising money is the easy part. Building cars at scale is where the real challenge begins.",
+        "3. Investors Want Dates\n\nNo more concepts. Investors now expect a timeline, not a vision. The pressure is on to deliver.",
+        "4. The Manufacturing Wall\n\nBuilding cars takes more than money. Factories, supply chains, and talent are the hard parts that capital alone can't solve.",
+        "5. What's Your Bet?\n\nWould you invest in a startup automaker with $2.1B but no track record? Share your take in the comments."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can two billion dollars turn a startup into a real automaker?",
+        "Re:Build just spun out Slate Auto with fresh capital.",
+        "But building cars takes more than money.",
+        "Investors now expect a timeline, not a concept.",
+        "Ask any EV founder: capital is the easy part."
+      ]
+    },
+    "instagram": {
+      "caption": "Re:Build just raised $2.1 billion and spun out Slate Auto. That's a huge check for a company with no cars on the road yet.\n\nThe money covers design and hiring. Factories, supply chains, and production lines are the parts capital can't buy outright.\n\nInvestors now want a timeline, not a concept. The pressure shifts from pitching to delivering.\n\nIf you cover EVs, expect a wave of announcements with dates attached — and watch whether those dates hold.\n\nWould you put your own money behind a $2.1B automaker with zero track record? 🚗💸"
+    }
+  },
+  "instagram_caption": "Re:Build just raised $2.1 billion and spun out Slate Auto. That's a huge check for a company with no cars on the road yet.\n\nThe money covers design and hiring. Factories, supply chains, and production lines are the parts capital can't buy outright.\n\nInvestors now want a timeline, not a concept. The pressure shifts from pitching to delivering.\n\nIf you cover EVs, expect a wave of announcements with dates attached — and watch whether those dates hold.\n\nWould you put your own money behind a $2.1B automaker with zero track record? 🚗💸",
+  "carousel_slides": [
+    {
+      "hook": "Can $2.1B buy a car?",
+      "description": "Re:Build spun out Slate Auto with $2.1B, but turning fresh capital into a production line is the real test.",
+      "visual_hint": "Large stack of cash next to car blueprint",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stack of cash"
+    },
+    {
+      "hook": "Spinning out with fresh capital",
+      "description": "Slate Auto now has $2.1B to build cars, but capital alone doesn't create factories, supply chains, or talent.",
+      "visual_hint": "Car assembly line with robotic arms",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "car assembly line",
+      "image": "https://images.pexels.com/photos/5982900/pexels-photo-5982900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Investors want dates, not concepts",
+      "description": "The pressure shifts from vision to execution. Investors now expect a timeline, not another concept car.",
+      "visual_hint": "Calendar with deadline circled in red",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "calendar deadline",
+      "image": "https://images.pexels.com/photos/8962466/pexels-photo-8962466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Building cars takes more than money",
+      "description": "Factories, supply chains, and skilled talent are the hard parts that $2.1B alone can't solve quickly.",
+      "visual_hint": "Factory floor with workers and machinery",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory workers",
+      "image": "https://images.pexels.com/photos/29988954/pexels-photo-29988954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Would you bet on Slate Auto?",
+      "description": "Share your take in the comments: can $2.1B turn a startup into a real automaker? Save this post for later.",
+      "visual_hint": "Comments icon and save button overlay",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "social media comments",
+      "image": "https://images.pexels.com/photos/11681097/pexels-photo-11681097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/slate-auto-truck-tesla-charging.jpg?resize=1200,800",
+  "savedAt": "2026-10-28T07:44:55.704Z",
+  "sourceId": "8145fe5ddb51c71b890c0ade1438ba2f"
+}
