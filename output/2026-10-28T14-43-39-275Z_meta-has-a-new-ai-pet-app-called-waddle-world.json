@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-has-a-new-ai-pet-app-called-waddle-world",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta has a new AI pet app called Waddle World",
+  "link": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+  "pubDate": "Wed, 28 Oct 2026 13:53:31 +0000",
+  "slides": [
+    "Why would Meta build an AI pet app?",
+    "Waddle World launches as a standalone product",
+    "But it's not a game or a social network",
+    "Pet apps could reshape Meta's AI engagement metrics",
+    "Ask one question: what data do virtual pets collect?"
+  ],
+  "thread_text": [
+    "1. Meta bets on virtual pets\n\nA new standalone app called Waddle World is reportedly in development. It is not a game and not a social network.",
+    "2. From feed to companion\n\nInstead of scrolling, users would care for an AI pet. Meta wants daily habits that do not depend on friends posting.",
+    "3. Engagement without the feed\n\nA pet needs attention every day. That gives Meta a reason to send notifications and open the app even when nothing social is happening.",
+    "4. New metrics, new questions\n\nIf pet apps work, time spent and daily returns could rise. But the model only works if the pet feels personal, which means data.",
+    "5. What does your pet know?\n\nOpen your phone settings and check what an AI companion app can access. Would you trade that data for a virtual pet?"
+  ],
+  "video_script": [
+    "Meta is reportedly building an AI pet app.",
+    "It is called Waddle World, a standalone product.",
+    "Not a game, not a social network.",
+    "The goal is daily engagement without the feed.",
+    "Ask yourself: what data would a virtual pet collect?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta bets on virtual pets\n\nA new standalone app called Waddle World is reportedly in development. It is not a game and not a social network.",
+        "2. From feed to companion\n\nInstead of scrolling, users would care for an AI pet. Meta wants daily habits that do not depend on friends posting.",
+        "3. Engagement without the feed\n\nA pet needs attention every day. That gives Meta a reason to send notifications and open the app even when nothing social is happening.",
+        "4. New metrics, new questions\n\nIf pet apps work, time spent and daily returns could rise. But the model only works if the pet feels personal, which means data.",
+        "5. What does your pet know?\n\nOpen your phone settings and check what an AI companion app can access. Would you trade that data for a virtual pet?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta is reportedly building an AI pet app.",
+        "It is called Waddle World, a standalone product.",
+        "Not a game, not a social network.",
+        "The goal is daily engagement without the feed.",
+        "Ask yourself: what data would a virtual pet collect?"
+      ]
+    },
+    "instagram": {
+      "caption": "Meta is reportedly building a standalone app where you care for an AI pet instead of scrolling a feed. 🐾\n\nIt's called Waddle World, and it's not a game or a social network.\n\nThe pet needs daily attention, which gives Meta a reason to ping you even when nothing social is happening.\n\nIf it works, time spent and daily returns rise — but only if the pet feels personal, and that means your data. 🤔\n\nFor anyone creating content, this is another signal that platforms are chasing habits, not feeds.\n\nOpen your settings and check what a companion app can access. Would you trade that for a virtual pet? 🐶"
+    }
+  },
+  "instagram_caption": "Meta is reportedly building a standalone app where you care for an AI pet instead of scrolling a feed. 🐾\n\nIt's called Waddle World, and it's not a game or a social network.\n\nThe pet needs daily attention, which gives Meta a reason to ping you even when nothing social is happening.\n\nIf it works, time spent and daily returns rise — but only if the pet feels personal, and that means your data. 🤔\n\nFor anyone creating content, this is another signal that platforms are chasing habits, not feeds.\n\nOpen your settings and check what a companion app can access. Would you trade that for a virtual pet? 🐶",
+  "carousel_slides": [
+    {
+      "hook": "What data do virtual pets collect?",
+      "description": "Meta's Waddle World is not a game or social network. It's an AI pet app that could collect personal data.",
+      "visual_hint": "Smartphone with AI pet app interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone app screen"
+    },
+    {
+      "hook": "Meta builds AI pet app",
+      "description": "Waddle World launches as standalone: users care for an AI pet daily, creating habits beyond friends' posts.",
+      "visual_hint": "Meta logo on smartphone screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "Meta logo sign",
+      "image": "https://images.pexels.com/photos/36398873/pexels-photo-36398873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Not a game, not social",
+      "description": "The app avoids feeds; instead, a pet needs daily attention, giving Meta reasons to send notifications.",
+      "visual_hint": "Virtual pet on phone with notification",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "notification smartphone screen",
+      "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Engagement without the feed",
+      "description": "Pet apps could boost time spent and daily returns, but personalization requires user data.",
+      "visual_hint": "Person holding phone with pet",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person holding smartphone",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: check your app permissions",
+      "description": "Open your phone settings and review what AI companion apps can access. Would you trade data for a pet?",
+      "visual_hint": "Phone settings privacy screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "phone settings privacy",
+      "image": "https://images.pexels.com/photos/9787926/pexels-photo-9787926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
+  "savedAt": "2026-10-28T14:43:48.956Z",
+  "sourceId": "78bf8376ee0d112d3548cb5d0ad2cf0d"
+}

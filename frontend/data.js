@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "firefox-s-smart-window-adds-ai-form-filling-and-we",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+    "pubDate": "2026-10-27T16:14:18.000Z",
+    "slides": [
+      "Why is Firefox betting on an AI browser?",
+      "Smart Window launches with form filling built in",
+      "It also watches webpages in ways users may not expect",
+      "Your existing Firefox gets these features automatically",
+      "Check your settings before the next update lands"
+    ],
+    "thread_text": [
+      "1. Firefox's AI gamble\n\nMozilla is integrating AI directly into the browser, starting with automatic form filling. Your existing Firefox will get these features whether you opt in or not.",
+      "2. Smart Window's quiet debut\n\nThe new feature doesn't just fill forms—it actively watches how you browse, tracking patterns you might not realize you're revealing.",
+      "3. The update nobody asked for\n\nThere's no separate download or beta flag. The next Firefox update pushes these capabilities to every user by default.",
+      "4. Settings you need to check\n\nBefore the update lands, review your privacy controls. The AI's webpage monitoring may already be enabled in your current build.",
+      "5. Your move before the rollout\n\nOpen Firefox settings now and search for 'AI features.' Toggle off anything you didn't explicitly turn on—then decide if you trust the defaults."
+    ],
+    "video_script": [
+      "Firefox is putting AI right inside your browser.",
+      "It fills forms automatically and watches pages quietly.",
+      "Your current Firefox will get this without asking.",
+      "Check your settings before the next update arrives.",
+      "Would you trust a browser that watches you back?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Firefox's AI gamble\n\nMozilla is integrating AI directly into the browser, starting with automatic form filling. Your existing Firefox will get these features whether you opt in or not.",
+          "2. Smart Window's quiet debut\n\nThe new feature doesn't just fill forms—it actively watches how you browse, tracking patterns you might not realize you're revealing.",
+          "3. The update nobody asked for\n\nThere's no separate download or beta flag. The next Firefox update pushes these capabilities to every user by default.",
+          "4. Settings you need to check\n\nBefore the update lands, review your privacy controls. The AI's webpage monitoring may already be enabled in your current build.",
+          "5. Your move before the rollout\n\nOpen Firefox settings now and search for 'AI features.' Toggle off anything you didn't explicitly turn on—then decide if you trust the defaults."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Firefox is putting AI right inside your browser.",
+          "It fills forms automatically and watches pages quietly.",
+          "Your current Firefox will get this without asking.",
+          "Check your settings before the next update arrives.",
+          "Would you trust a browser that watches you back?"
+        ]
+      },
+      "instagram": {
+        "caption": "Your next Firefox update will turn on AI form filling and webpage monitoring by default, no separate download needed.\n\nMozilla's Smart Window watches how you browse and tracks patterns you may not realize you're revealing.\n\nEvery existing Firefox user gets these features automatically, even without opting in.\n\nIf you create or publish content, your browsing habits feed the AI with no separate flag or beta to avoid.\n\nOpen Firefox settings now, search for \"AI features,\" and toggle off anything you didn't explicitly turn on 🔍\n\nWill you check your settings before the rollout, or trust the defaults? 🤔"
+      }
+    },
+    "instagram_caption": "Your next Firefox update will turn on AI form filling and webpage monitoring by default, no separate download needed.\n\nMozilla's Smart Window watches how you browse and tracks patterns you may not realize you're revealing.\n\nEvery existing Firefox user gets these features automatically, even without opting in.\n\nIf you create or publish content, your browsing habits feed the AI with no separate flag or beta to avoid.\n\nOpen Firefox settings now, search for \"AI features,\" and toggle off anything you didn't explicitly turn on 🔍\n\nWill you check your settings before the rollout, or trust the defaults? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Firefox now watches how you browse",
+        "description": "Smart Window tracks browsing patterns you may not realize you're revealing, and existing Firefox gets this automatically.",
+        "visual_hint": "Browser window with watching eye",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "web browser interface"
+      },
+      {
+        "hook": "AI form filling built into Firefox",
+        "description": "Smart Window launches with automatic form filling, no separate download or beta flag required.",
+        "visual_hint": "Form fields auto-populating on screen",
+        "layout_type": "right-focus",
+        "icon": "check",
+        "image_query": "online form filling",
+        "image": "https://images.pexels.com/photos/7709273/pexels-photo-7709273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It monitors pages silently, no opt-in",
+        "description": "The feature actively watches webpages and tracks patterns, and your current build may already have it enabled.",
+        "visual_hint": "Code scanning webpage in background",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "computer code screen",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Update pushes features to every user",
+        "description": "No beta flag needed—the next Firefox update delivers these AI capabilities to all users by default.",
+        "visual_hint": "Software update notification on screen",
+        "layout_type": "human-hand",
+        "icon": "tag",
+        "image_query": "software update prompt",
+        "image": "https://images.pexels.com/photos/17789083/pexels-photo-17789083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your settings before it's too late",
+        "description": "Open Firefox settings now, search 'AI features,' and toggle off anything you didn't explicitly enable.",
+        "visual_hint": "Settings menu with privacy toggle",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "privacy settings menu",
+        "image": "https://images.pexels.com/photos/13570173/pexels-photo-13570173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/firefox-fill.png?quality=90&amp;strip=all&amp;crop=0%2C3.2247049925468%2C100%2C93.550590014906&amp;w=1200",
+    "savedAt": "2026-10-28T14:44:08.690Z",
+    "sourceId": "e046e2cf55c147ca97172197d4526976"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-quietly-launched-an-8216-ai-pet-journal-8217-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta quietly launched an &#8216;AI pet journal&#8217; app",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+    "pubDate": "2026-10-28T11:27:30.000Z",
+    "slides": [
+      "Why is Meta betting on your pet's diary?",
+      "It quietly launched an AI pet journal app",
+      "The app writes entries from your photos automatically",
+      "Pet owners can now track moods without typing",
+      "Try it: upload one pet photo and read the entry"
+    ],
+    "thread_text": [
+      "1. Your Pet's Secret Diary\n\nMeta quietly launched an AI app that writes journal entries from your pet's photos automatically. No typing required.",
+      "2. The Convenience Trap\n\nThe app tracks moods and daily activities without any input from you. Is this genuine pet care or just another data grab?",
+      "3. Privacy Paws\n\nMeta's history with personal data raises red flags. Your pet's daily life could become training material for future AI models.",
+      "4. Emotional Bonding or Automation?\n\nOwners risk outsourcing their emotional connection to an algorithm. Real memories get replaced by auto-generated text.",
+      "5. Test It Yourself\n\nUpload one pet photo to the app and read the entry. Does it capture your pet's true personality, or just generic fluff? Try it and judge."
+    ],
+    "video_script": [
+      "Meta quietly launched an AI pet journal app.",
+      "It writes entries from your photos automatically.",
+      "Pet owners can track moods without typing a word.",
+      "But what happens to your pet's private data?",
+      "Try it: upload one photo and read the entry."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your Pet's Secret Diary\n\nMeta quietly launched an AI app that writes journal entries from your pet's photos automatically. No typing required.",
+          "2. The Convenience Trap\n\nThe app tracks moods and daily activities without any input from you. Is this genuine pet care or just another data grab?",
+          "3. Privacy Paws\n\nMeta's history with personal data raises red flags. Your pet's daily life could become training material for future AI models.",
+          "4. Emotional Bonding or Automation?\n\nOwners risk outsourcing their emotional connection to an algorithm. Real memories get replaced by auto-generated text.",
+          "5. Test It Yourself\n\nUpload one pet photo to the app and read the entry. Does it capture your pet's true personality, or just generic fluff? Try it and judge."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta quietly launched an AI pet journal app.",
+          "It writes entries from your photos automatically.",
+          "Pet owners can track moods without typing a word.",
+          "But what happens to your pet's private data?",
+          "Try it: upload one photo and read the entry."
+        ]
+      },
+      "instagram": {
+        "caption": "Your pet's daily mood log can now write itself from a single photo 📸\n\nMeta quietly released an AI app that turns pet pictures into automatic journal entries — no typing needed.\n\nIt also tracks moods and activities with zero input from you.\n\nThe catch: Meta's data history means those entries could feed future AI training.\n\nIf you post pet content, your audience may soon expect auto-generated stories instead of real moments.\n\nWould you trust an algorithm to describe your dog's day — or does that cross a line? 🐾"
+      }
+    },
+    "instagram_caption": "Your pet's daily mood log can now write itself from a single photo 📸\n\nMeta quietly released an AI app that turns pet pictures into automatic journal entries — no typing needed.\n\nIt also tracks moods and activities with zero input from you.\n\nThe catch: Meta's data history means those entries could feed future AI training.\n\nIf you post pet content, your audience may soon expect auto-generated stories instead of real moments.\n\nWould you trust an algorithm to describe your dog's day — or does that cross a line? 🐾",
+    "carousel_slides": [
+      {
+        "hook": "Is your pet's diary a data grab?",
+        "description": "Meta quietly launched an AI app that writes journal entries from pet photos, raising concerns about data collection.",
+        "visual_hint": "Smartphone screen showing pet diary interface",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone pet app"
+      },
+      {
+        "hook": "Meta's new AI pet journal app",
+        "description": "The app tracks moods and activities automatically, but questions arise about whether it's genuine care or data mining.",
+        "visual_hint": "Pet wearing a smart collar with sensor",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "pet wearable sensor",
+        "image": "https://images.pexels.com/photos/6235662/pexels-photo-6235662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your pet's life as training data?",
+        "description": "Meta's history with personal data raises red flags: your pet's daily life could become training material for future AI models.",
+        "visual_hint": "Server room with glowing data racks",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room data",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Outsourcing emotional connection to algorithms",
+        "description": "Owners risk replacing real memories with auto-generated text, questioning if convenience outweighs genuine bonding.",
+        "visual_hint": "Person petting dog while looking at phone",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person petting dog",
+        "image": "https://images.pexels.com/photos/10113482/pexels-photo-10113482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try it: upload one pet photo now",
+        "description": "Test the app yourself: upload a photo, read the entry, and judge if it captures your pet's true personality.",
+        "visual_hint": "Hand holding phone with pet photo upload screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Waddle-World-meta-app-hero.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-28T14:43:59.548Z",
+    "sourceId": "6a00cf459c47b5db8a4ed3d57e0cb401"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-has-a-new-ai-pet-app-called-waddle-world",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta has a new AI pet app called Waddle World",
+    "link": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+    "pubDate": "Wed, 28 Oct 2026 13:53:31 +0000",
+    "slides": [
+      "Why would Meta build an AI pet app?",
+      "Waddle World launches as a standalone product",
+      "But it's not a game or a social network",
+      "Pet apps could reshape Meta's AI engagement metrics",
+      "Ask one question: what data do virtual pets collect?"
+    ],
+    "thread_text": [
+      "1. Meta bets on virtual pets\n\nA new standalone app called Waddle World is reportedly in development. It is not a game and not a social network.",
+      "2. From feed to companion\n\nInstead of scrolling, users would care for an AI pet. Meta wants daily habits that do not depend on friends posting.",
+      "3. Engagement without the feed\n\nA pet needs attention every day. That gives Meta a reason to send notifications and open the app even when nothing social is happening.",
+      "4. New metrics, new questions\n\nIf pet apps work, time spent and daily returns could rise. But the model only works if the pet feels personal, which means data.",
+      "5. What does your pet know?\n\nOpen your phone settings and check what an AI companion app can access. Would you trade that data for a virtual pet?"
+    ],
+    "video_script": [
+      "Meta is reportedly building an AI pet app.",
+      "It is called Waddle World, a standalone product.",
+      "Not a game, not a social network.",
+      "The goal is daily engagement without the feed.",
+      "Ask yourself: what data would a virtual pet collect?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Meta bets on virtual pets\n\nA new standalone app called Waddle World is reportedly in development. It is not a game and not a social network.",
+          "2. From feed to companion\n\nInstead of scrolling, users would care for an AI pet. Meta wants daily habits that do not depend on friends posting.",
+          "3. Engagement without the feed\n\nA pet needs attention every day. That gives Meta a reason to send notifications and open the app even when nothing social is happening.",
+          "4. New metrics, new questions\n\nIf pet apps work, time spent and daily returns could rise. But the model only works if the pet feels personal, which means data.",
+          "5. What does your pet know?\n\nOpen your phone settings and check what an AI companion app can access. Would you trade that data for a virtual pet?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta is reportedly building an AI pet app.",
+          "It is called Waddle World, a standalone product.",
+          "Not a game, not a social network.",
+          "The goal is daily engagement without the feed.",
+          "Ask yourself: what data would a virtual pet collect?"
+        ]
+      },
+      "instagram": {
+        "caption": "Meta is reportedly building a standalone app where you care for an AI pet instead of scrolling a feed. 🐾\n\nIt's called Waddle World, and it's not a game or a social network.\n\nThe pet needs daily attention, which gives Meta a reason to ping you even when nothing social is happening.\n\nIf it works, time spent and daily returns rise — but only if the pet feels personal, and that means your data. 🤔\n\nFor anyone creating content, this is another signal that platforms are chasing habits, not feeds.\n\nOpen your settings and check what a companion app can access. Would you trade that for a virtual pet? 🐶"
+      }
+    },
+    "instagram_caption": "Meta is reportedly building a standalone app where you care for an AI pet instead of scrolling a feed. 🐾\n\nIt's called Waddle World, and it's not a game or a social network.\n\nThe pet needs daily attention, which gives Meta a reason to ping you even when nothing social is happening.\n\nIf it works, time spent and daily returns rise — but only if the pet feels personal, and that means your data. 🤔\n\nFor anyone creating content, this is another signal that platforms are chasing habits, not feeds.\n\nOpen your settings and check what a companion app can access. Would you trade that for a virtual pet? 🐶",
+    "carousel_slides": [
+      {
+        "hook": "What data do virtual pets collect?",
+        "description": "Meta's Waddle World is not a game or social network. It's an AI pet app that could collect personal data.",
+        "visual_hint": "Smartphone with AI pet app interface",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone app screen"
+      },
+      {
+        "hook": "Meta builds AI pet app",
+        "description": "Waddle World launches as standalone: users care for an AI pet daily, creating habits beyond friends' posts.",
+        "visual_hint": "Meta logo on smartphone screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "Meta logo sign",
+        "image": "https://images.pexels.com/photos/36398873/pexels-photo-36398873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Not a game, not social",
+        "description": "The app avoids feeds; instead, a pet needs daily attention, giving Meta reasons to send notifications.",
+        "visual_hint": "Virtual pet on phone with notification",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "notification smartphone screen",
+        "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Engagement without the feed",
+        "description": "Pet apps could boost time spent and daily returns, but personalization requires user data.",
+        "visual_hint": "Person holding phone with pet",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person holding smartphone",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: check your app permissions",
+        "description": "Open your phone settings and review what AI companion apps can access. Would you trade data for a pet?",
+        "visual_hint": "Phone settings privacy screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "phone settings privacy",
+        "image": "https://images.pexels.com/photos/9787926/pexels-photo-9787926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
+    "savedAt": "2026-10-28T14:43:48.956Z",
+    "sourceId": "78bf8376ee0d112d3548cb5d0ad2cf0d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "re-build-which-spun-out-slate-auto-raises-2-1b",
     "prompt_version": "1.0.0",
     "status": "published",

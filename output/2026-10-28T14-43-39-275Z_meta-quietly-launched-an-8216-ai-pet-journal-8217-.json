@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-quietly-launched-an-8216-ai-pet-journal-8217-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta quietly launched an &#8216;AI pet journal&#8217; app",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+  "pubDate": "2026-10-28T11:27:30.000Z",
+  "slides": [
+    "Why is Meta betting on your pet's diary?",
+    "It quietly launched an AI pet journal app",
+    "The app writes entries from your photos automatically",
+    "Pet owners can now track moods without typing",
+    "Try it: upload one pet photo and read the entry"
+  ],
+  "thread_text": [
+    "1. Your Pet's Secret Diary\n\nMeta quietly launched an AI app that writes journal entries from your pet's photos automatically. No typing required.",
+    "2. The Convenience Trap\n\nThe app tracks moods and daily activities without any input from you. Is this genuine pet care or just another data grab?",
+    "3. Privacy Paws\n\nMeta's history with personal data raises red flags. Your pet's daily life could become training material for future AI models.",
+    "4. Emotional Bonding or Automation?\n\nOwners risk outsourcing their emotional connection to an algorithm. Real memories get replaced by auto-generated text.",
+    "5. Test It Yourself\n\nUpload one pet photo to the app and read the entry. Does it capture your pet's true personality, or just generic fluff? Try it and judge."
+  ],
+  "video_script": [
+    "Meta quietly launched an AI pet journal app.",
+    "It writes entries from your photos automatically.",
+    "Pet owners can track moods without typing a word.",
+    "But what happens to your pet's private data?",
+    "Try it: upload one photo and read the entry."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your Pet's Secret Diary\n\nMeta quietly launched an AI app that writes journal entries from your pet's photos automatically. No typing required.",
+        "2. The Convenience Trap\n\nThe app tracks moods and daily activities without any input from you. Is this genuine pet care or just another data grab?",
+        "3. Privacy Paws\n\nMeta's history with personal data raises red flags. Your pet's daily life could become training material for future AI models.",
+        "4. Emotional Bonding or Automation?\n\nOwners risk outsourcing their emotional connection to an algorithm. Real memories get replaced by auto-generated text.",
+        "5. Test It Yourself\n\nUpload one pet photo to the app and read the entry. Does it capture your pet's true personality, or just generic fluff? Try it and judge."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta quietly launched an AI pet journal app.",
+        "It writes entries from your photos automatically.",
+        "Pet owners can track moods without typing a word.",
+        "But what happens to your pet's private data?",
+        "Try it: upload one photo and read the entry."
+      ]
+    },
+    "instagram": {
+      "caption": "Your pet's daily mood log can now write itself from a single photo 📸\n\nMeta quietly released an AI app that turns pet pictures into automatic journal entries — no typing needed.\n\nIt also tracks moods and activities with zero input from you.\n\nThe catch: Meta's data history means those entries could feed future AI training.\n\nIf you post pet content, your audience may soon expect auto-generated stories instead of real moments.\n\nWould you trust an algorithm to describe your dog's day — or does that cross a line? 🐾"
+    }
+  },
+  "instagram_caption": "Your pet's daily mood log can now write itself from a single photo 📸\n\nMeta quietly released an AI app that turns pet pictures into automatic journal entries — no typing needed.\n\nIt also tracks moods and activities with zero input from you.\n\nThe catch: Meta's data history means those entries could feed future AI training.\n\nIf you post pet content, your audience may soon expect auto-generated stories instead of real moments.\n\nWould you trust an algorithm to describe your dog's day — or does that cross a line? 🐾",
+  "carousel_slides": [
+    {
+      "hook": "Is your pet's diary a data grab?",
+      "description": "Meta quietly launched an AI app that writes journal entries from pet photos, raising concerns about data collection.",
+      "visual_hint": "Smartphone screen showing pet diary interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone pet app"
+    },
+    {
+      "hook": "Meta's new AI pet journal app",
+      "description": "The app tracks moods and activities automatically, but questions arise about whether it's genuine care or data mining.",
+      "visual_hint": "Pet wearing a smart collar with sensor",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "pet wearable sensor",
+      "image": "https://images.pexels.com/photos/6235662/pexels-photo-6235662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your pet's life as training data?",
+      "description": "Meta's history with personal data raises red flags: your pet's daily life could become training material for future AI models.",
+      "visual_hint": "Server room with glowing data racks",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room data",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Outsourcing emotional connection to algorithms",
+      "description": "Owners risk replacing real memories with auto-generated text, questioning if convenience outweighs genuine bonding.",
+      "visual_hint": "Person petting dog while looking at phone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person petting dog",
+      "image": "https://images.pexels.com/photos/10113482/pexels-photo-10113482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it: upload one pet photo now",
+      "description": "Test the app yourself: upload a photo, read the entry, and judge if it captures your pet's true personality.",
+      "visual_hint": "Hand holding phone with pet photo upload screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Waddle-World-meta-app-hero.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-28T14:43:59.548Z",
+  "sourceId": "6a00cf459c47b5db8a4ed3d57e0cb401"
+}

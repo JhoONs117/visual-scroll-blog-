@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "firefox-s-smart-window-adds-ai-form-filling-and-we",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+  "pubDate": "2026-10-27T16:14:18.000Z",
+  "slides": [
+    "Why is Firefox betting on an AI browser?",
+    "Smart Window launches with form filling built in",
+    "It also watches webpages in ways users may not expect",
+    "Your existing Firefox gets these features automatically",
+    "Check your settings before the next update lands"
+  ],
+  "thread_text": [
+    "1. Firefox's AI gamble\n\nMozilla is integrating AI directly into the browser, starting with automatic form filling. Your existing Firefox will get these features whether you opt in or not.",
+    "2. Smart Window's quiet debut\n\nThe new feature doesn't just fill forms—it actively watches how you browse, tracking patterns you might not realize you're revealing.",
+    "3. The update nobody asked for\n\nThere's no separate download or beta flag. The next Firefox update pushes these capabilities to every user by default.",
+    "4. Settings you need to check\n\nBefore the update lands, review your privacy controls. The AI's webpage monitoring may already be enabled in your current build.",
+    "5. Your move before the rollout\n\nOpen Firefox settings now and search for 'AI features.' Toggle off anything you didn't explicitly turn on—then decide if you trust the defaults."
+  ],
+  "video_script": [
+    "Firefox is putting AI right inside your browser.",
+    "It fills forms automatically and watches pages quietly.",
+    "Your current Firefox will get this without asking.",
+    "Check your settings before the next update arrives.",
+    "Would you trust a browser that watches you back?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Firefox's AI gamble\n\nMozilla is integrating AI directly into the browser, starting with automatic form filling. Your existing Firefox will get these features whether you opt in or not.",
+        "2. Smart Window's quiet debut\n\nThe new feature doesn't just fill forms—it actively watches how you browse, tracking patterns you might not realize you're revealing.",
+        "3. The update nobody asked for\n\nThere's no separate download or beta flag. The next Firefox update pushes these capabilities to every user by default.",
+        "4. Settings you need to check\n\nBefore the update lands, review your privacy controls. The AI's webpage monitoring may already be enabled in your current build.",
+        "5. Your move before the rollout\n\nOpen Firefox settings now and search for 'AI features.' Toggle off anything you didn't explicitly turn on—then decide if you trust the defaults."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Firefox is putting AI right inside your browser.",
+        "It fills forms automatically and watches pages quietly.",
+        "Your current Firefox will get this without asking.",
+        "Check your settings before the next update arrives.",
+        "Would you trust a browser that watches you back?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your next Firefox update will turn on AI form filling and webpage monitoring by default, no separate download needed.\n\nMozilla's Smart Window watches how you browse and tracks patterns you may not realize you're revealing.\n\nEvery existing Firefox user gets these features automatically, even without opting in.\n\nIf you create or publish content, your browsing habits feed the AI with no separate flag or beta to avoid.\n\nOpen Firefox settings now, search for \"AI features,\" and toggle off anything you didn't explicitly turn on 🔍\n\nWill you check your settings before the rollout, or trust the defaults? 🤔"
+    }
+  },
+  "instagram_caption": "Your next Firefox update will turn on AI form filling and webpage monitoring by default, no separate download needed.\n\nMozilla's Smart Window watches how you browse and tracks patterns you may not realize you're revealing.\n\nEvery existing Firefox user gets these features automatically, even without opting in.\n\nIf you create or publish content, your browsing habits feed the AI with no separate flag or beta to avoid.\n\nOpen Firefox settings now, search for \"AI features,\" and toggle off anything you didn't explicitly turn on 🔍\n\nWill you check your settings before the rollout, or trust the defaults? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Firefox now watches how you browse",
+      "description": "Smart Window tracks browsing patterns you may not realize you're revealing, and existing Firefox gets this automatically.",
+      "visual_hint": "Browser window with watching eye",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "web browser interface"
+    },
+    {
+      "hook": "AI form filling built into Firefox",
+      "description": "Smart Window launches with automatic form filling, no separate download or beta flag required.",
+      "visual_hint": "Form fields auto-populating on screen",
+      "layout_type": "right-focus",
+      "icon": "check",
+      "image_query": "online form filling",
+      "image": "https://images.pexels.com/photos/7709273/pexels-photo-7709273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It monitors pages silently, no opt-in",
+      "description": "The feature actively watches webpages and tracks patterns, and your current build may already have it enabled.",
+      "visual_hint": "Code scanning webpage in background",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Update pushes features to every user",
+      "description": "No beta flag needed—the next Firefox update delivers these AI capabilities to all users by default.",
+      "visual_hint": "Software update notification on screen",
+      "layout_type": "human-hand",
+      "icon": "tag",
+      "image_query": "software update prompt",
+      "image": "https://images.pexels.com/photos/17789083/pexels-photo-17789083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your settings before it's too late",
+      "description": "Open Firefox settings now, search 'AI features,' and toggle off anything you didn't explicitly enable.",
+      "visual_hint": "Settings menu with privacy toggle",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "privacy settings menu",
+      "image": "https://images.pexels.com/photos/13570173/pexels-photo-13570173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/firefox-fill.png?quality=90&amp;strip=all&amp;crop=0%2C3.2247049925468%2C100%2C93.550590014906&amp;w=1200",
+  "savedAt": "2026-10-28T14:44:08.690Z",
+  "sourceId": "e046e2cf55c147ca97172197d4526976"
+}
