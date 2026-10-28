@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "researchers-are-getting-tired-of-openai-gatekeepin",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+  "pubDate": "2026-10-27T20:48:58.000Z",
+  "slides": [
+    "Why are researchers turning against OpenAI's secrecy?",
+    "Its breakthrough models stay closed to outside scientists",
+    "Yet leaked evals show narrow gains on some benchmarks",
+    "Independent labs now replicate frontier results at lower cost",
+    "Demand open weights before citing closed-model claims"
+  ],
+  "thread_text": [
+    "1. The fight over closed AI\n\nOpenAI's newest models remain hidden from outside scientists, and researchers are now demanding open weights before trusting benchmark claims.",
+    "2. Leaked evals, narrow wins\n\nInternal evaluation leaks show the models gain only a few points on standard tests — far less than the marketing suggests.",
+    "3. Independent labs catch up\n\nSmaller teams are now replicating frontier results at a fraction of the cost, raising questions about what the secrecy is really protecting.",
+    "4. Secrecy blocks verification\n\nWithout open weights, external researchers can't reproduce or stress-test the claims, turning peer review into a PR exercise.",
+    "5. Ask for the weights\n\nNext time you see a closed-model benchmark, ask: where are the weights? If there's no answer, treat the number as a rumor."
+  ],
+  "video_script": [
+    "Researchers are turning against OpenAI's secrecy.",
+    "Breakthrough models stay closed to outside scientists.",
+    "Leaked evals show only narrow gains.",
+    "Independent labs replicate frontier results at lower cost.",
+    "Demand open weights before citing closed-model claims."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The fight over closed AI\n\nOpenAI's newest models remain hidden from outside scientists, and researchers are now demanding open weights before trusting benchmark claims.",
+        "2. Leaked evals, narrow wins\n\nInternal evaluation leaks show the models gain only a few points on standard tests — far less than the marketing suggests.",
+        "3. Independent labs catch up\n\nSmaller teams are now replicating frontier results at a fraction of the cost, raising questions about what the secrecy is really protecting.",
+        "4. Secrecy blocks verification\n\nWithout open weights, external researchers can't reproduce or stress-test the claims, turning peer review into a PR exercise.",
+        "5. Ask for the weights\n\nNext time you see a closed-model benchmark, ask: where are the weights? If there's no answer, treat the number as a rumor."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Researchers are turning against OpenAI's secrecy.",
+        "Breakthrough models stay closed to outside scientists.",
+        "Leaked evals show only narrow gains.",
+        "Independent labs replicate frontier results at lower cost.",
+        "Demand open weights before citing closed-model claims."
+      ]
+    },
+    "instagram": {
+      "caption": "Researchers are now demanding open weights before trusting any benchmark claim from OpenAI's newest models. 🔍\n\nLeaked internal evals show the models gain only a few points on standard tests — far less than the marketing suggests.\n\nMeanwhile, smaller independent labs are replicating frontier results at a fraction of the cost. 🧪\n\nWithout access to the weights, outside scientists can't reproduce or stress-test the claims — peer review becomes a PR exercise.\n\nIf you publish or cite benchmark numbers, this affects you: you may be repeating unverified marketing as fact. 📊\n\nNext time you see a closed-model benchmark, ask: where are the weights? If there's no answer, treat the number as a rumor. 🤔"
+    }
+  },
+  "instagram_caption": "Researchers are now demanding open weights before trusting any benchmark claim from OpenAI's newest models. 🔍\n\nLeaked internal evals show the models gain only a few points on standard tests — far less than the marketing suggests.\n\nMeanwhile, smaller independent labs are replicating frontier results at a fraction of the cost. 🧪\n\nWithout access to the weights, outside scientists can't reproduce or stress-test the claims — peer review becomes a PR exercise.\n\nIf you publish or cite benchmark numbers, this affects you: you may be repeating unverified marketing as fact. 📊\n\nNext time you see a closed-model benchmark, ask: where are the weights? If there's no answer, treat the number as a rumor. 🤔",
+  "carousel_slides": [
+    {
+      "hook": "OpenAI's secrecy: what are they hiding?",
+      "description": "Internal leaks reveal only narrow benchmark gains, far less than marketing claims, raising doubts about closed-model hype.",
+      "visual_hint": "Person peering through keyhole at server rack",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Breakthroughs behind closed doors?",
+      "description": "OpenAI's newest models stay hidden from outside scientists, blocking independent verification of performance claims.",
+      "visual_hint": "Closed vault door with digital lock",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "vault door",
+      "image": "https://images.pexels.com/photos/12651886/pexels-photo-12651886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Leaked evals show tiny gains",
+      "description": "Internal evaluations leak, showing models gain just a few points on standard tests—far less than advertised.",
+      "visual_hint": "Bar chart with small upward arrow",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "bar chart",
+      "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Independent labs replicate frontier results cheaply",
+      "description": "Smaller teams now replicate frontier AI results at a fraction of the cost, questioning what secrecy protects.",
+      "visual_hint": "Small lab with computers and scientists",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "science laboratory",
+      "image": "https://images.pexels.com/photos/8940470/pexels-photo-8940470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demand open weights before citing claims",
+      "description": "Next time you see a closed-model benchmark, ask: where are the weights? No answer means treat it as rumor.",
+      "visual_hint": "Hand holding magnifying glass over code",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-28T00:50:36.239Z",
+  "sourceId": "922fe676a6fb4830f35892627ffa333e"
+}

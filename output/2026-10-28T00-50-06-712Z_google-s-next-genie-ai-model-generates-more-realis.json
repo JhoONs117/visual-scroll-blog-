@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-s-next-genie-ai-model-generates-more-realis",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google’s next Genie AI model generates more realistic experiences",
+  "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+  "pubDate": "2026-10-27T16:00:00.000Z",
+  "slides": [
+    "Can Google's Genie make game worlds feel real?",
+    "The new model generates interactive 3D environments",
+    "But realism breaks down on complex physics",
+    "Developers can now prototype scenes faster",
+    "Test one scene and judge the realism yourself"
+  ],
+  "thread_text": [
+    "1. Realism or illusion?\n\nGoogle's Genie generates interactive 3D worlds from a single image. The demo looks impressive, but early tests show physics glitches when objects collide.",
+    "2. From image to world\n\nThe model turns any picture into a playable environment. No coding needed—just upload and explore. This could change how games are prototyped.",
+    "3. The physics problem\n\nComplex interactions like stacking or fluid dynamics break down. Genie struggles with realistic motion, making some scenes feel off.",
+    "4. Prototyping gets faster\n\nDevelopers can now test scene ideas in minutes instead of days. Speed comes at the cost of accuracy, but it's a start.",
+    "5. Try it yourself\n\nGenerate a scene with Genie and see if the realism holds up. Would you trust it for your next project? Test one scene today."
+  ],
+  "video_script": [
+    "Can Google's Genie make game worlds feel real?",
+    "It generates interactive 3D environments from a single image.",
+    "But realism breaks down on complex physics.",
+    "Developers can now prototype scenes much faster.",
+    "Test one scene and judge the realism yourself."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Realism or illusion?\n\nGoogle's Genie generates interactive 3D worlds from a single image. The demo looks impressive, but early tests show physics glitches when objects collide.",
+        "2. From image to world\n\nThe model turns any picture into a playable environment. No coding needed—just upload and explore. This could change how games are prototyped.",
+        "3. The physics problem\n\nComplex interactions like stacking or fluid dynamics break down. Genie struggles with realistic motion, making some scenes feel off.",
+        "4. Prototyping gets faster\n\nDevelopers can now test scene ideas in minutes instead of days. Speed comes at the cost of accuracy, but it's a start.",
+        "5. Try it yourself\n\nGenerate a scene with Genie and see if the realism holds up. Would you trust it for your next project? Test one scene today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can Google's Genie make game worlds feel real?",
+        "It generates interactive 3D environments from a single image.",
+        "But realism breaks down on complex physics.",
+        "Developers can now prototype scenes much faster.",
+        "Test one scene and judge the realism yourself."
+      ]
+    },
+    "instagram": {
+      "caption": "One image is now enough to generate a playable 3D world, no coding required. 🎮\n\nGoogle's new Genie model turns any picture into an interactive environment you can explore.\n\nThe catch: physics breaks down on complex interactions like stacking objects or fluids. 🧩\n\nDevelopers can prototype scenes in minutes instead of days, though accuracy still lags behind speed.\n\nIf you build games or scenes, you can test a full idea before committing real resources. ⚡\n\nWould you trust a physics-glitchy prototype for your next project, or is realism non-negotiable? 🤔"
+    }
+  },
+  "instagram_caption": "One image is now enough to generate a playable 3D world, no coding required. 🎮\n\nGoogle's new Genie model turns any picture into an interactive environment you can explore.\n\nThe catch: physics breaks down on complex interactions like stacking objects or fluids. 🧩\n\nDevelopers can prototype scenes in minutes instead of days, though accuracy still lags behind speed.\n\nIf you build games or scenes, you can test a full idea before committing real resources. ⚡\n\nWould you trust a physics-glitchy prototype for your next project, or is realism non-negotiable? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can game worlds feel truly real?",
+      "description": "Google's Genie generates interactive 3D environments from a single image, but early tests show physics glitches when objects collide.",
+      "visual_hint": "Split screen: realistic game vs glitchy physics",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "video game screen"
+    },
+    {
+      "hook": "From image to playable world",
+      "description": "The model turns any picture into an explorable 3D scene without coding, potentially changing how games are prototyped.",
+      "visual_hint": "Image transforming into 3D environment",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "3d modeling software",
+      "image": "https://images.pexels.com/photos/5904083/pexels-photo-5904083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Realism breaks on complex physics",
+      "description": "Genie struggles with realistic motion in interactions like stacking or fluid dynamics, making some scenes feel off.",
+      "visual_hint": "Glitching physics simulation with objects",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "physics simulation",
+      "image": "https://images.pexels.com/photos/7562021/pexels-photo-7562021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prototyping scenes gets dramatically faster",
+      "description": "Developers can test scene ideas in minutes instead of days, though speed comes at the cost of accuracy.",
+      "visual_hint": "Developer quickly prototyping on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "game developer computer",
+      "image": "https://images.pexels.com/photos/4792733/pexels-photo-4792733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and test Genie yourself",
+      "description": "Generate a scene with Genie and judge the realism. Would you trust it for your next project? Try one scene today.",
+      "visual_hint": "Person testing Genie on laptop",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop testing",
+      "image": "https://images.pexels.com/photos/3862605/pexels-photo-3862605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-3.00.35-PM.png?quality=90&amp;strip=all&amp;crop=0%2C3.0468973306098%2C100%2C93.90620533878&amp;w=1200",
+  "savedAt": "2026-10-28T00:50:45.650Z",
+  "sourceId": "8fedc19d5b57774812cd83cb9e92713b"
+}

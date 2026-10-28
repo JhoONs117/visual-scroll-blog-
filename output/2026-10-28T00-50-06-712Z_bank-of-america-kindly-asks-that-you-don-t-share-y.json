@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "bank-of-america-kindly-asks-that-you-don-t-share-y",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+  "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+  "pubDate": "Tue, 27 Oct 2026 21:44:34 +0000",
+  "slides": [
+    "Why is Bank of America warning you about AI assistants?",
+    "They say sharing your banking password is a security risk.",
+    "But most AI assistants already have access to your data anyway.",
+    "Review your AI assistant's permissions and disable banking access now.",
+    "Your password is the one secret that should never be shared."
+  ],
+  "thread_text": [
+    "1. The AI warning nobody expected\n\nBank of America is now warning customers that sharing banking passwords with AI assistants is a security risk — even as those same assistants already have access to your data.",
+    "2. Your assistant already knows too much\n\nMost AI assistants have broad permissions that let them read messages, emails, and even financial apps. The password is just one piece of a much larger exposure.",
+    "3. The password myth\n\nYou might think your password is safe if you never type it into a chat. But assistants can access saved passwords and autofill data without you ever sharing them directly.",
+    "4. Banks can't protect you here\n\nIf an AI assistant with banking access is compromised, the bank may not cover your losses. Their warning is a signal: you're on your own to secure that connection.",
+    "5. Check your permissions today\n\nOpen your AI assistant's settings, review which apps have access, and disable banking or financial connections now. Your password should never be shared — but your permissions matter just as much."
+  ],
+  "video_script": [
+    "Bank of America just warned you about AI assistants.",
+    "They say sharing your banking password is risky.",
+    "But most assistants already have access to your data.",
+    "Check your assistant's permissions and disable banking access.",
+    "Your password is the one secret never to share."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The AI warning nobody expected\n\nBank of America is now warning customers that sharing banking passwords with AI assistants is a security risk — even as those same assistants already have access to your data.",
+        "2. Your assistant already knows too much\n\nMost AI assistants have broad permissions that let them read messages, emails, and even financial apps. The password is just one piece of a much larger exposure.",
+        "3. The password myth\n\nYou might think your password is safe if you never type it into a chat. But assistants can access saved passwords and autofill data without you ever sharing them directly.",
+        "4. Banks can't protect you here\n\nIf an AI assistant with banking access is compromised, the bank may not cover your losses. Their warning is a signal: you're on your own to secure that connection.",
+        "5. Check your permissions today\n\nOpen your AI assistant's settings, review which apps have access, and disable banking or financial connections now. Your password should never be shared — but your permissions matter just as much."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Bank of America just warned you about AI assistants.",
+        "They say sharing your banking password is risky.",
+        "But most assistants already have access to your data.",
+        "Check your assistant's permissions and disable banking access.",
+        "Your password is the one secret never to share."
+      ]
+    },
+    "instagram": {
+      "caption": "Bank of America is telling customers not to hand their banking password to an AI assistant — even though most assistants already have permission to read messages, emails, and financial apps. 🔐\n\nThe warning is simple: your password is the one thing that should never be shared.\n\nBut the real risk isn't typing it into a chat. Assistants can pull saved passwords and autofill data without you ever saying a word.\n\nIf that assistant gets compromised, the bank may not cover your losses. ⚠️\n\nSo open your assistant's settings, check which apps have access, and disable banking connections now. 📱\n\nWhen did you last review what your AI assistant can actually reach? 👀"
+    }
+  },
+  "instagram_caption": "Bank of America is telling customers not to hand their banking password to an AI assistant — even though most assistants already have permission to read messages, emails, and financial apps. 🔐\n\nThe warning is simple: your password is the one thing that should never be shared.\n\nBut the real risk isn't typing it into a chat. Assistants can pull saved passwords and autofill data without you ever saying a word.\n\nIf that assistant gets compromised, the bank may not cover your losses. ⚠️\n\nSo open your assistant's settings, check which apps have access, and disable banking connections now. 📱\n\nWhen did you last review what your AI assistant can actually reach? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Never share your password with AI",
+      "description": "Bank of America warns that sharing banking passwords with AI assistants is a security risk, even as those assistants already access your data.",
+      "visual_hint": "Bank vault door with digital lock",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "bank vault"
+    },
+    {
+      "hook": "Your assistant already knows too much",
+      "description": "Most AI assistants have broad permissions to read messages, emails, and financial apps — exposing far more than just your password.",
+      "visual_hint": "Smartphone with permission pop-up screens",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The password myth you believe",
+      "description": "Assistants can access saved passwords and autofill data without you ever typing them into a chat, so your secret isn't safe.",
+      "visual_hint": "Password field with autofill suggestion",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "password field",
+      "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Banks can't protect you here",
+      "description": "If an AI assistant with banking access is compromised, the bank may not cover your losses — their warning means you're on your own.",
+      "visual_hint": "Person reviewing bank statement with worry",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "bank statement",
+      "image": "https://images.pexels.com/photos/6862457/pexels-photo-6862457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your AI permissions today",
+      "description": "Open your AI assistant's settings, review which apps have access, and disable banking or financial connections now.",
+      "visual_hint": "Hand tapping settings menu on phone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "settings menu",
+      "image": "https://images.pexels.com/photos/18617719/pexels-photo-18617719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+  "savedAt": "2026-10-28T00:50:27.013Z",
+  "sourceId": "e36bd78a13d63ead3fa4873e50c5c7a7"
+}
