@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "us-investigated-chinese-spy-plot-aimed-at-nvidia-c",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+  "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+  "pubDate": "Thu, 29 Oct 2026 16:42:32 +0000",
+  "slides": [
+    "Why did a spy plot target Nvidia's Jensen Huang?",
+    "US officials uncovered a Chinese operation against the CEO",
+    "The alleged plot was exposed before it could unfold",
+    "Tech leaders now face heightened personal security risks",
+    "Ask your executives: who is watching them?"
+  ],
+  "thread_text": [
+    "1. The CEO Who Became a Target\n\nUS officials uncovered a Chinese operation aimed at Nvidia's Jensen Huang. The alleged spy plot was exposed before it could unfold.",
+    "2. From Chips to Hit Lists\n\nNvidia's dominance in AI made Huang a geopolitical asset. Rivals now see tech leaders as leverage points, not just business competitors.",
+    "3. The Plot No One Saw Coming\n\nDetails remain scarce, but the operation reportedly involved surveillance and coordination. It signals a new front in state-sponsored espionage.",
+    "4. Your CEO Is a Walking Target\n\nPersonal security budgets at tech firms are surging. Bodyguards, secure comms, and travel protocols are no longer optional perks.",
+    "5. Ask Your Executives Today\n\nWho is watching them? Request a security audit of your leadership's public exposure and travel patterns. If you haven't, start there."
+  ],
+  "video_script": [
+    "US officials busted a Chinese spy plot targeting Nvidia's CEO.",
+    "Jensen Huang became a target because of AI chip dominance.",
+    "The operation was exposed before it could actually unfold.",
+    "Tech leaders now face real, heightened personal security risks.",
+    "Ask your executives: who is watching them right now?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The CEO Who Became a Target\n\nUS officials uncovered a Chinese operation aimed at Nvidia's Jensen Huang. The alleged spy plot was exposed before it could unfold.",
+        "2. From Chips to Hit Lists\n\nNvidia's dominance in AI made Huang a geopolitical asset. Rivals now see tech leaders as leverage points, not just business competitors.",
+        "3. The Plot No One Saw Coming\n\nDetails remain scarce, but the operation reportedly involved surveillance and coordination. It signals a new front in state-sponsored espionage.",
+        "4. Your CEO Is a Walking Target\n\nPersonal security budgets at tech firms are surging. Bodyguards, secure comms, and travel protocols are no longer optional perks.",
+        "5. Ask Your Executives Today\n\nWho is watching them? Request a security audit of your leadership's public exposure and travel patterns. If you haven't, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "US officials busted a Chinese spy plot targeting Nvidia's CEO.",
+        "Jensen Huang became a target because of AI chip dominance.",
+        "The operation was exposed before it could actually unfold.",
+        "Tech leaders now face real, heightened personal security risks.",
+        "Ask your executives: who is watching them right now?"
+      ]
+    },
+    "instagram": {
+      "caption": "US officials uncovered a Chinese spy plot aimed at Nvidia CEO Jensen Huang — and stopped it before it could unfold. 🕵️\n\nNvidia's chips power most of the AI boom, which turned its CEO into a geopolitical target.\n\nTech leaders now face the same surveillance risks once reserved for heads of state. 🔒\n\nCompanies are quietly boosting security budgets for bodyguards, secure comms, and travel protocols.\n\nIf you publish anything about executives or company leadership, know that public exposure is now a real risk vector. 📍\n\nAsk yourself: how much of your leadership's schedule and location is already public? 👀"
+    }
+  },
+  "instagram_caption": "US officials uncovered a Chinese spy plot aimed at Nvidia CEO Jensen Huang — and stopped it before it could unfold. 🕵️\n\nNvidia's chips power most of the AI boom, which turned its CEO into a geopolitical target.\n\nTech leaders now face the same surveillance risks once reserved for heads of state. 🔒\n\nCompanies are quietly boosting security budgets for bodyguards, secure comms, and travel protocols.\n\nIf you publish anything about executives or company leadership, know that public exposure is now a real risk vector. 📍\n\nAsk yourself: how much of your leadership's schedule and location is already public? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Even CEOs aren't safe anymore.",
+      "description": "US officials exposed a Chinese spy plot targeting Nvidia's Jensen Huang before it unfolded, highlighting unprecedented personal risks.",
+      "visual_hint": "A shadowy figure near a corporate building",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "corporate building night"
+    },
+    {
+      "hook": "Who's really watching your executives?",
+      "description": "Nvidia's AI dominance turned Huang into a geopolitical target, with rivals now viewing tech leaders as leverage points.",
+      "visual_hint": "Security cameras monitoring a tech office",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "security camera office",
+      "image": "https://images.pexels.com/photos/11651938/pexels-photo-11651938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The plot no one saw coming.",
+      "description": "The alleged operation involved surveillance and coordination, signaling a new front in state-sponsored espionage against tech leaders.",
+      "visual_hint": "Brains with digital surveillance overlays",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "surveillance data screen",
+      "image": "https://images.pexels.com/photos/6291261/pexels-photo-6291261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your CEO is a walking target.",
+      "description": "Personal security budgets at tech firms are surging, with bodyguards and secure comms becoming essential, not optional.",
+      "visual_hint": "Bodyguard scanning a crowded area",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "bodyguard crowd",
+      "image": "https://images.pexels.com/photos/19797801/pexels-photo-19797801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: audit your leadership's security.",
+      "description": "Request a security audit of your executives' public exposure and travel patterns today—don't wait for a breach.",
+      "visual_hint": "Checklist and pen on a desk",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "security checklist desk",
+      "image": "https://images.pexels.com/photos/6170191/pexels-photo-6170191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2022/09/nvidia-ceo-jensen-huang-with-geforce-rtx-4090.jpg?resize=1200,800",
+  "savedAt": "2026-10-29T20:45:25.889Z",
+  "sourceId": "804bc5d490b80e765ac0d3e2e8f2b6bf"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "mistral-releases-weights-for-its-trillion-paramete",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+  "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+  "pubDate": "Thu, 29 Oct 2026 17:00:00 +0000",
+  "slides": [
+    "What if trillion-parameter AI left the cloud?",
+    "Mistral released weights for a million-token model",
+    "Weights are open, but training data stays hidden",
+    "Security teams can now audit model internals directly",
+    "Download it; test it against your own threats this week"
+  ],
+  "thread_text": [
+    "1. Trillion-Parameter AI Leaves Cloud\n\nMistral just released weights for a million-token model. That means massive AI can now run on your own hardware, no cloud required.",
+    "2. Weights Open, Data Hidden\n\nThe model weights are publicly available, but the training data remains proprietary. You get full access to the internals, but not the source material.",
+    "3. Audit Model Internals Directly\n\nSecurity teams can now inspect the model's inner workings without relying on third-party APIs. This enables direct vulnerability testing and custom threat analysis.",
+    "4. Test Against Your Own Threats\n\nDownload the model and run it against your specific security scenarios. No more generic benchmarks—real-world validation on your terms.",
+    "5. Download and Test This Week\n\nGrab the weights from Mistral's repository and start testing. What threats will you uncover first?"
+  ],
+  "video_script": [
+    "Mistral released a million-token model with open weights.",
+    "You can now run trillion-parameter AI on your own hardware.",
+    "The weights are open, but training data stays hidden.",
+    "Security teams can audit the model internals directly.",
+    "Download it and test it against your own threats this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Trillion-Parameter AI Leaves Cloud\n\nMistral just released weights for a million-token model. That means massive AI can now run on your own hardware, no cloud required.",
+        "2. Weights Open, Data Hidden\n\nThe model weights are publicly available, but the training data remains proprietary. You get full access to the internals, but not the source material.",
+        "3. Audit Model Internals Directly\n\nSecurity teams can now inspect the model's inner workings without relying on third-party APIs. This enables direct vulnerability testing and custom threat analysis.",
+        "4. Test Against Your Own Threats\n\nDownload the model and run it against your specific security scenarios. No more generic benchmarks—real-world validation on your terms.",
+        "5. Download and Test This Week\n\nGrab the weights from Mistral's repository and start testing. What threats will you uncover first?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Mistral released a million-token model with open weights.",
+        "You can now run trillion-parameter AI on your own hardware.",
+        "The weights are open, but training data stays hidden.",
+        "Security teams can audit the model internals directly.",
+        "Download it and test it against your own threats this week."
+      ]
+    },
+    "instagram": {
+      "caption": "A trillion-parameter model can now run on your own hardware — no cloud required.\n\nMistral released the weights for a million-token model, so security teams can inspect its internals directly instead of relying on third-party APIs. 🔍\n\nThe weights are open, but the training data stays hidden. You get full access to the internals, not the source material.\n\nThis means you can test it against your own threats, not generic benchmarks. 🛡️\n\nIf you build with it, you can audit vulnerabilities yourself and validate on real scenarios.\n\nWhat security scenario would you test first? ⚙️"
+    }
+  },
+  "instagram_caption": "A trillion-parameter model can now run on your own hardware — no cloud required.\n\nMistral released the weights for a million-token model, so security teams can inspect its internals directly instead of relying on third-party APIs. 🔍\n\nThe weights are open, but the training data stays hidden. You get full access to the internals, not the source material.\n\nThis means you can test it against your own threats, not generic benchmarks. 🛡️\n\nIf you build with it, you can audit vulnerabilities yourself and validate on real scenarios.\n\nWhat security scenario would you test first? ⚙️",
+  "carousel_slides": [
+    {
+      "hook": "What if trillion-parameter AI left the cloud?",
+      "description": "Mistral released weights for a million-token model, enabling massive AI to run on your own hardware without cloud dependency.",
+      "visual_hint": "Server rack glowing in dark data center",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Million-token model weights now public",
+      "description": "The model weights are publicly available, but training data remains proprietary. You get full internals access, not source material.",
+      "visual_hint": "Open padlock on circuit board close-up",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Weights open, training data hidden",
+      "description": "Security teams can now inspect the model's inner workings directly, enabling vulnerability testing and custom threat analysis without third-party APIs.",
+      "visual_hint": "Magnifying glass over code lines",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "code screen",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit model internals without APIs",
+      "description": "Download the model and run it against your specific security scenarios, achieving real-world validation on your terms instead of generic benchmarks.",
+      "visual_hint": "Hands typing on laptop with code",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "laptop keyboard",
+      "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Download and test this week",
+      "description": "Grab the weights from Mistral's repository and start testing. What threats will you uncover first?",
+      "visual_hint": "Download button on screen with arrow",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "download icon",
+      "image": "https://images.pexels.com/photos/8831812/pexels-photo-8831812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1760104305.jpg?resize=1200,798",
+  "savedAt": "2026-10-29T20:45:14.476Z",
+  "sourceId": "f4d2fa0b488ed8551e5764a6ec5c6dd6"
+}

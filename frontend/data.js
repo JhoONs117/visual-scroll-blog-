@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "ex-palantir-execs-launch-dream-with-17m-from-a16z-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+    "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+    "pubDate": "Thu, 29 Oct 2026 16:21:00 +0000",
+    "slides": [
+      "Can Dream's AI world models rebuild construction?",
+      "Ex-Palantir execs raised $17M from a16z",
+      "Dream simulates entire builds before ground is broken",
+      "Contractors must now treat AI models as planning tools",
+      "Test one project this quarter against a simulated build"
+    ],
+    "thread_text": [
+      "1. AI That Builds Before You Do\n\nDream's AI simulates entire construction projects before ground is broken, and it just raised $17M from a16z. The founders are ex-Palantir execs who think world models can rebuild the industry.",
+      "2. From Defense To Construction\n\nPalantir alumni are applying military-grade simulation to building sites. Their startup, Dream, uses AI to model every step of a project, catching errors before they become expensive.",
+      "3. Test Drive Your Build\n\nContractors are now using AI models as planning tools, not just fancy visualizations. Dream's simulation lets you test scenarios and optimize schedules without risking real-world delays.",
+      "4. The End Of Guesswork\n\nWith Dream, you can simulate an entire build and see the outcome before committing resources. That means fewer surprises, tighter budgets, and faster timelines.",
+      "5. Ready To Simulate?\n\nPick one upcoming project and run it through a simulated build this quarter. If you haven't tried AI planning yet, start with a small test case and measure the difference."
+    ],
+    "video_script": [
+      "What if you could build something twice—first in AI, then in reality?",
+      "Dream, founded by ex-Palantir execs, just raised $17 million to do exactly that.",
+      "Their AI simulates entire construction projects before ground is broken.",
+      "Contractors can now test scenarios and catch errors early, saving time and money.",
+      "Try it on one project this quarter and see the impact."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI That Builds Before You Do\n\nDream's AI simulates entire construction projects before ground is broken, and it just raised $17M from a16z. The founders are ex-Palantir execs who think world models can rebuild the industry.",
+          "2. From Defense To Construction\n\nPalantir alumni are applying military-grade simulation to building sites. Their startup, Dream, uses AI to model every step of a project, catching errors before they become expensive.",
+          "3. Test Drive Your Build\n\nContractors are now using AI models as planning tools, not just fancy visualizations. Dream's simulation lets you test scenarios and optimize schedules without risking real-world delays.",
+          "4. The End Of Guesswork\n\nWith Dream, you can simulate an entire build and see the outcome before committing resources. That means fewer surprises, tighter budgets, and faster timelines.",
+          "5. Ready To Simulate?\n\nPick one upcoming project and run it through a simulated build this quarter. If you haven't tried AI planning yet, start with a small test case and measure the difference."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "What if you could build something twice—first in AI, then in reality?",
+          "Dream, founded by ex-Palantir execs, just raised $17 million to do exactly that.",
+          "Their AI simulates entire construction projects before ground is broken.",
+          "Contractors can now test scenarios and catch errors early, saving time and money.",
+          "Try it on one project this quarter and see the impact."
+        ]
+      },
+      "instagram": {
+        "caption": "Before you break ground, you can now simulate the entire build and catch errors first.\n\nDream, founded by ex-Palantir execs, raised $17M from a16z to build AI world models for construction 🏗️\n\nThe models simulate every step of a project so mistakes surface before they cost money.\n\nContractors are starting to treat these simulations as planning tools, not just visuals.\n\nIf you run projects, test one against a simulated build this quarter 📊\n\nFewer surprises, tighter budgets ⏱️\n\nWould you trust a simulation over your own experience? 🤔"
+      }
+    },
+    "instagram_caption": "Before you break ground, you can now simulate the entire build and catch errors first.\n\nDream, founded by ex-Palantir execs, raised $17M from a16z to build AI world models for construction 🏗️\n\nThe models simulate every step of a project so mistakes surface before they cost money.\n\nContractors are starting to treat these simulations as planning tools, not just visuals.\n\nIf you run projects, test one against a simulated build this quarter 📊\n\nFewer surprises, tighter budgets ⏱️\n\nWould you trust a simulation over your own experience? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Can AI build before ground breaks?",
+        "description": "Dream simulates entire construction projects before ground is broken, catching errors early. Backed by $17M from a16z.",
+        "visual_hint": "Futuristic construction site with digital overlay",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "construction site"
+      },
+      {
+        "hook": "Ex-Palantir execs raise $17M",
+        "description": "Palantir alumni apply military-grade simulation to building sites, modeling every project step to prevent costly errors.",
+        "visual_hint": "Team of engineers reviewing holographic blueprint",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "engineers blueprint",
+        "image": "https://images.pexels.com/photos/3862377/pexels-photo-3862377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Simulate your build, avoid surprises",
+        "description": "Contractors use AI models as planning tools, testing scenarios and optimizing schedules without real-world delays.",
+        "visual_hint": "Interactive 3D model of building on screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "3D building model",
+        "image": "https://images.pexels.com/photos/40522038/pexels-photo-40522038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "End guesswork with AI planning",
+        "description": "Simulate entire builds to see outcomes before committing resources, leading to tighter budgets and faster timelines.",
+        "visual_hint": "Hand interacting with digital construction timeline",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand tablet construction",
+        "image": "https://images.pexels.com/photos/9511794/pexels-photo-9511794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one project this quarter",
+        "description": "Pick an upcoming project and run it through a simulated build. Measure the difference AI planning makes.",
+        "visual_hint": "Checklist with 'simulate build' highlighted",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/TeamPhoto_1.png?resize=1200,675",
+    "savedAt": "2026-10-29T20:45:35.928Z",
+    "sourceId": "b2c76de6c6e17d8b25a281091d4a481a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "us-investigated-chinese-spy-plot-aimed-at-nvidia-c",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+    "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+    "pubDate": "Thu, 29 Oct 2026 16:42:32 +0000",
+    "slides": [
+      "Why did a spy plot target Nvidia's Jensen Huang?",
+      "US officials uncovered a Chinese operation against the CEO",
+      "The alleged plot was exposed before it could unfold",
+      "Tech leaders now face heightened personal security risks",
+      "Ask your executives: who is watching them?"
+    ],
+    "thread_text": [
+      "1. The CEO Who Became a Target\n\nUS officials uncovered a Chinese operation aimed at Nvidia's Jensen Huang. The alleged spy plot was exposed before it could unfold.",
+      "2. From Chips to Hit Lists\n\nNvidia's dominance in AI made Huang a geopolitical asset. Rivals now see tech leaders as leverage points, not just business competitors.",
+      "3. The Plot No One Saw Coming\n\nDetails remain scarce, but the operation reportedly involved surveillance and coordination. It signals a new front in state-sponsored espionage.",
+      "4. Your CEO Is a Walking Target\n\nPersonal security budgets at tech firms are surging. Bodyguards, secure comms, and travel protocols are no longer optional perks.",
+      "5. Ask Your Executives Today\n\nWho is watching them? Request a security audit of your leadership's public exposure and travel patterns. If you haven't, start there."
+    ],
+    "video_script": [
+      "US officials busted a Chinese spy plot targeting Nvidia's CEO.",
+      "Jensen Huang became a target because of AI chip dominance.",
+      "The operation was exposed before it could actually unfold.",
+      "Tech leaders now face real, heightened personal security risks.",
+      "Ask your executives: who is watching them right now?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The CEO Who Became a Target\n\nUS officials uncovered a Chinese operation aimed at Nvidia's Jensen Huang. The alleged spy plot was exposed before it could unfold.",
+          "2. From Chips to Hit Lists\n\nNvidia's dominance in AI made Huang a geopolitical asset. Rivals now see tech leaders as leverage points, not just business competitors.",
+          "3. The Plot No One Saw Coming\n\nDetails remain scarce, but the operation reportedly involved surveillance and coordination. It signals a new front in state-sponsored espionage.",
+          "4. Your CEO Is a Walking Target\n\nPersonal security budgets at tech firms are surging. Bodyguards, secure comms, and travel protocols are no longer optional perks.",
+          "5. Ask Your Executives Today\n\nWho is watching them? Request a security audit of your leadership's public exposure and travel patterns. If you haven't, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "US officials busted a Chinese spy plot targeting Nvidia's CEO.",
+          "Jensen Huang became a target because of AI chip dominance.",
+          "The operation was exposed before it could actually unfold.",
+          "Tech leaders now face real, heightened personal security risks.",
+          "Ask your executives: who is watching them right now?"
+        ]
+      },
+      "instagram": {
+        "caption": "US officials uncovered a Chinese spy plot aimed at Nvidia CEO Jensen Huang — and stopped it before it could unfold. 🕵️\n\nNvidia's chips power most of the AI boom, which turned its CEO into a geopolitical target.\n\nTech leaders now face the same surveillance risks once reserved for heads of state. 🔒\n\nCompanies are quietly boosting security budgets for bodyguards, secure comms, and travel protocols.\n\nIf you publish anything about executives or company leadership, know that public exposure is now a real risk vector. 📍\n\nAsk yourself: how much of your leadership's schedule and location is already public? 👀"
+      }
+    },
+    "instagram_caption": "US officials uncovered a Chinese spy plot aimed at Nvidia CEO Jensen Huang — and stopped it before it could unfold. 🕵️\n\nNvidia's chips power most of the AI boom, which turned its CEO into a geopolitical target.\n\nTech leaders now face the same surveillance risks once reserved for heads of state. 🔒\n\nCompanies are quietly boosting security budgets for bodyguards, secure comms, and travel protocols.\n\nIf you publish anything about executives or company leadership, know that public exposure is now a real risk vector. 📍\n\nAsk yourself: how much of your leadership's schedule and location is already public? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Even CEOs aren't safe anymore.",
+        "description": "US officials exposed a Chinese spy plot targeting Nvidia's Jensen Huang before it unfolded, highlighting unprecedented personal risks.",
+        "visual_hint": "A shadowy figure near a corporate building",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "corporate building night"
+      },
+      {
+        "hook": "Who's really watching your executives?",
+        "description": "Nvidia's AI dominance turned Huang into a geopolitical target, with rivals now viewing tech leaders as leverage points.",
+        "visual_hint": "Security cameras monitoring a tech office",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "security camera office",
+        "image": "https://images.pexels.com/photos/11651938/pexels-photo-11651938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The plot no one saw coming.",
+        "description": "The alleged operation involved surveillance and coordination, signaling a new front in state-sponsored espionage against tech leaders.",
+        "visual_hint": "Brains with digital surveillance overlays",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "surveillance data screen",
+        "image": "https://images.pexels.com/photos/6291261/pexels-photo-6291261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your CEO is a walking target.",
+        "description": "Personal security budgets at tech firms are surging, with bodyguards and secure comms becoming essential, not optional.",
+        "visual_hint": "Bodyguard scanning a crowded area",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "bodyguard crowd",
+        "image": "https://images.pexels.com/photos/19797801/pexels-photo-19797801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: audit your leadership's security.",
+        "description": "Request a security audit of your executives' public exposure and travel patterns today—don't wait for a breach.",
+        "visual_hint": "Checklist and pen on a desk",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "security checklist desk",
+        "image": "https://images.pexels.com/photos/6170191/pexels-photo-6170191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/09/nvidia-ceo-jensen-huang-with-geforce-rtx-4090.jpg?resize=1200,800",
+    "savedAt": "2026-10-29T20:45:25.889Z",
+    "sourceId": "804bc5d490b80e765ac0d3e2e8f2b6bf"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "mistral-releases-weights-for-its-trillion-paramete",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+    "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+    "pubDate": "Thu, 29 Oct 2026 17:00:00 +0000",
+    "slides": [
+      "What if trillion-parameter AI left the cloud?",
+      "Mistral released weights for a million-token model",
+      "Weights are open, but training data stays hidden",
+      "Security teams can now audit model internals directly",
+      "Download it; test it against your own threats this week"
+    ],
+    "thread_text": [
+      "1. Trillion-Parameter AI Leaves Cloud\n\nMistral just released weights for a million-token model. That means massive AI can now run on your own hardware, no cloud required.",
+      "2. Weights Open, Data Hidden\n\nThe model weights are publicly available, but the training data remains proprietary. You get full access to the internals, but not the source material.",
+      "3. Audit Model Internals Directly\n\nSecurity teams can now inspect the model's inner workings without relying on third-party APIs. This enables direct vulnerability testing and custom threat analysis.",
+      "4. Test Against Your Own Threats\n\nDownload the model and run it against your specific security scenarios. No more generic benchmarks—real-world validation on your terms.",
+      "5. Download and Test This Week\n\nGrab the weights from Mistral's repository and start testing. What threats will you uncover first?"
+    ],
+    "video_script": [
+      "Mistral released a million-token model with open weights.",
+      "You can now run trillion-parameter AI on your own hardware.",
+      "The weights are open, but training data stays hidden.",
+      "Security teams can audit the model internals directly.",
+      "Download it and test it against your own threats this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Trillion-Parameter AI Leaves Cloud\n\nMistral just released weights for a million-token model. That means massive AI can now run on your own hardware, no cloud required.",
+          "2. Weights Open, Data Hidden\n\nThe model weights are publicly available, but the training data remains proprietary. You get full access to the internals, but not the source material.",
+          "3. Audit Model Internals Directly\n\nSecurity teams can now inspect the model's inner workings without relying on third-party APIs. This enables direct vulnerability testing and custom threat analysis.",
+          "4. Test Against Your Own Threats\n\nDownload the model and run it against your specific security scenarios. No more generic benchmarks—real-world validation on your terms.",
+          "5. Download and Test This Week\n\nGrab the weights from Mistral's repository and start testing. What threats will you uncover first?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Mistral released a million-token model with open weights.",
+          "You can now run trillion-parameter AI on your own hardware.",
+          "The weights are open, but training data stays hidden.",
+          "Security teams can audit the model internals directly.",
+          "Download it and test it against your own threats this week."
+        ]
+      },
+      "instagram": {
+        "caption": "A trillion-parameter model can now run on your own hardware — no cloud required.\n\nMistral released the weights for a million-token model, so security teams can inspect its internals directly instead of relying on third-party APIs. 🔍\n\nThe weights are open, but the training data stays hidden. You get full access to the internals, not the source material.\n\nThis means you can test it against your own threats, not generic benchmarks. 🛡️\n\nIf you build with it, you can audit vulnerabilities yourself and validate on real scenarios.\n\nWhat security scenario would you test first? ⚙️"
+      }
+    },
+    "instagram_caption": "A trillion-parameter model can now run on your own hardware — no cloud required.\n\nMistral released the weights for a million-token model, so security teams can inspect its internals directly instead of relying on third-party APIs. 🔍\n\nThe weights are open, but the training data stays hidden. You get full access to the internals, not the source material.\n\nThis means you can test it against your own threats, not generic benchmarks. 🛡️\n\nIf you build with it, you can audit vulnerabilities yourself and validate on real scenarios.\n\nWhat security scenario would you test first? ⚙️",
+    "carousel_slides": [
+      {
+        "hook": "What if trillion-parameter AI left the cloud?",
+        "description": "Mistral released weights for a million-token model, enabling massive AI to run on your own hardware without cloud dependency.",
+        "visual_hint": "Server rack glowing in dark data center",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Million-token model weights now public",
+        "description": "The model weights are publicly available, but training data remains proprietary. You get full internals access, not source material.",
+        "visual_hint": "Open padlock on circuit board close-up",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "circuit board",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Weights open, training data hidden",
+        "description": "Security teams can now inspect the model's inner workings directly, enabling vulnerability testing and custom threat analysis without third-party APIs.",
+        "visual_hint": "Magnifying glass over code lines",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "code screen",
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit model internals without APIs",
+        "description": "Download the model and run it against your specific security scenarios, achieving real-world validation on your terms instead of generic benchmarks.",
+        "visual_hint": "Hands typing on laptop with code",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "laptop keyboard",
+        "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Download and test this week",
+        "description": "Grab the weights from Mistral's repository and start testing. What threats will you uncover first?",
+        "visual_hint": "Download button on screen with arrow",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "download icon",
+        "image": "https://images.pexels.com/photos/8831812/pexels-photo-8831812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1760104305.jpg?resize=1200,798",
+    "savedAt": "2026-10-29T20:45:14.476Z",
+    "sourceId": "f4d2fa0b488ed8551e5764a6ec5c6dd6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "rivian-expands-joint-venture-with-vw-to-include-ai",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Rivian expands joint venture with VW to include AI assistant",
+    "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+    "pubDate": "Thu, 29 Oct 2026 20:05:47 +0000",
+    "slides": [
+      "Can Rivian's VW partnership survive AI's next leap?",
+      "The joint venture now stretches into AI assistants",
+      "But most drivers still distrust in-car voice systems",
+      "Your next EV may learn your driving habits fast",
+      "Ask your dealer what your car remembers about you"
+    ],
+    "thread_text": [
+      "1. The AI race nobody saw coming\n\nRivian and Volkswagen's joint venture is now expanding from software into AI assistants. That means your next EV could start learning your routines—whether you're ready or not.",
+      "2. Volkswagen's quiet power move\n\nThe partnership isn't just about batteries anymore. VW is betting that in-car AI becomes the new battleground—and Rivian's tech is the ticket in.",
+      "3. Drivers aren't buying it\n\nMost people still don't trust voice systems in their cars. But the companies are pushing ahead anyway, which raises a question: who's actually in control?",
+      "4. Your car is taking notes\n\nThese AI assistants learn your habits fast—routes, music, even how you brake. That kind of data doesn't stay in the glovebox forever.",
+      "5. Ask before you buy\n\nNext time you're at a dealership, ask what the car remembers about you. If they can't answer, that's your answer."
+    ],
+    "video_script": [
+      "Rivian and Volkswagen are teaming up on AI assistants.",
+      "Volkswagen is quietly betting big on in-car artificial intelligence.",
+      "But most drivers still don't trust voice systems in cars.",
+      "Your next EV could learn your habits faster than you think.",
+      "Ask your dealer what your car remembers about you."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The AI race nobody saw coming\n\nRivian and Volkswagen's joint venture is now expanding from software into AI assistants. That means your next EV could start learning your routines—whether you're ready or not.",
+          "2. Volkswagen's quiet power move\n\nThe partnership isn't just about batteries anymore. VW is betting that in-car AI becomes the new battleground—and Rivian's tech is the ticket in.",
+          "3. Drivers aren't buying it\n\nMost people still don't trust voice systems in their cars. But the companies are pushing ahead anyway, which raises a question: who's actually in control?",
+          "4. Your car is taking notes\n\nThese AI assistants learn your habits fast—routes, music, even how you brake. That kind of data doesn't stay in the glovebox forever.",
+          "5. Ask before you buy\n\nNext time you're at a dealership, ask what the car remembers about you. If they can't answer, that's your answer."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Rivian and Volkswagen are teaming up on AI assistants.",
+          "Volkswagen is quietly betting big on in-car artificial intelligence.",
+          "But most drivers still don't trust voice systems in cars.",
+          "Your next EV could learn your habits faster than you think.",
+          "Ask your dealer what your car remembers about you."
+        ]
+      },
+      "instagram": {
+        "caption": "Your next EV could start learning your driving habits whether you're ready or not.\n\nRivian and Volkswagen are expanding their joint venture beyond software into in-car AI assistants. 🤖\n\nVW is betting in-car AI becomes the next battleground, and Rivian's tech is the way in.\n\nMeanwhile most drivers still don't trust voice systems in their cars. 🤨\n\nIf you publish or create content, this means your daily commute, route choices and even braking habits become training data for systems you never opted into.\n\nNext time you're at a dealership, ask what the car remembers about you. 📝\n\nIf they can't answer, that's your answer. What would you want your car to forget? 🚗"
+      }
+    },
+    "instagram_caption": "Your next EV could start learning your driving habits whether you're ready or not.\n\nRivian and Volkswagen are expanding their joint venture beyond software into in-car AI assistants. 🤖\n\nVW is betting in-car AI becomes the next battleground, and Rivian's tech is the way in.\n\nMeanwhile most drivers still don't trust voice systems in their cars. 🤨\n\nIf you publish or create content, this means your daily commute, route choices and even braking habits become training data for systems you never opted into.\n\nNext time you're at a dealership, ask what the car remembers about you. 📝\n\nIf they can't answer, that's your answer. What would you want your car to forget? 🚗",
+    "carousel_slides": [
+      {
+        "hook": "Who controls your car's AI?",
+        "description": "Rivian and VW expand their joint venture into AI assistants, giving your EV the power to learn your routines.",
+        "visual_hint": "Car dashboard with glowing AI interface",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "electric car dashboard"
+      },
+      {
+        "hook": "VW bets big on in-car AI",
+        "description": "The partnership moves beyond batteries as VW bets on AI assistants to become the next battleground, using Rivian's tech.",
+        "visual_hint": "Volkswagen logo on modern car",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "Volkswagen car factory",
+        "image": "https://images.pexels.com/photos/34298678/pexels-photo-34298678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Drivers still distrust voice systems",
+        "description": "Most people don't trust in-car voice systems, yet companies push ahead, raising concerns about who is really in control.",
+        "visual_hint": "Driver looking skeptically at voice interface",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "person driving car",
+        "image": "https://images.pexels.com/photos/3892894/pexels-photo-3892894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your car learns your habits fast",
+        "description": "AI assistants track routes, music, and braking patterns, collecting data that doesn't stay in the glovebox forever.",
+        "visual_hint": "Hand touching car touchscreen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "car touchscreen interface",
+        "image": "https://images.pexels.com/photos/27727842/pexels-photo-27727842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask what your car remembers",
+        "description": "At the dealership, ask what data your car collects about you. If they can't answer, that's your answer.",
+        "visual_hint": "Person asking dealer about car data",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "car dealership showroom",
+        "image": "https://images.pexels.com/photos/12565887/pexels-photo-12565887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/rivian-assisant-event.png?resize=1200,672",
+    "savedAt": "2026-10-29T20:45:06.310Z",
+    "sourceId": "223b05929cb398d87f413bb1ea3f537e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "as-ai-agents-reshape-the-web-google-opens-gemini-a",
     "prompt_version": "1.0.0",
     "status": "published",

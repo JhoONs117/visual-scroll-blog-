@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "pasta-con-castagne-e-funghi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Pasta con castagne e funghi",
+    "link": "https://ricette.giallozafferano.it/Pasta-con-castagne-e-funghi.html",
+    "pubDate": "Thu, 29 Oct 2026 16:26:00 +0100",
+    "content": "Pasta con castagne e funghi: cremosa e autunnale Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta fresca Pasta con castagne e funghi /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Media Preparazione: 50 min Cottura: 50 min Dosi per: 4 persone Costo: Elevato Nota + il tempo di riposo della pasta e del burro acido Ascolta la ricetta Ascolta su Spreaker. Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti PRESENTAZIONE La pasta con castagne e funghi è un primo piatto che valorizza alcuni degli ingredienti più caratteristici dell'autunno, trasformandoli in una ricetta raffinata e ricca di gusto. In questa versione le tagliatelle vengono preparate in casa con un semplice impasto di farina e uova, per poi essere condite con tre varietà di funghi: chiodini, cardoncelli e finferli. La dolcezza delle castagne si abbina al sapore intenso dei funghi, mentre il burro acido, aromatizzato con cipolla, salvia e rosmarino, aggiunge una piacevole nota aromatica. La mantecatura con il Parmigiano Reggiano rende il condimento cremoso, perfetto per avvolgere la pasta fresca. Se cercate un primo piatto da proporre per il pranzo della domenica o per un'occasione speciale, la pasta con castagne e funghi è una proposta originale che richiede qualche passaggio in più, ma che vi permetterà di portare in tavola qualcosa di diverso dal solito! Ecco altri primi piatti con le castagne da non perdere: pasta con castagne e fonduta di parmigiano pasta con cavolo nero e castagne pasta con zucca, castagne e tomino pasta autunnale Chestnut and mushroom pasta Scopri anche Crespelle alle castagne ripiene di ricotta e funghi Spaghetti alla chitarra alla farina di castagne con funghi, zucca e salsiccia Strudel di castagne e funghi Sfoglia tutte INGREDIENTI per le tagliatelle fresche Farina 00 200 g Uova 2 per il condimento Funghi chiodini 150 g Funghi cardoncelli 150 g Funghi finferli (gallinacci) 150 g Castagne precotte 70 g Aglio 1 spicchio Parmigiano Reggiano DOP 40 g Salvia q.b. Rosmarino q.b. Sale fino q.b. Pepe nero q.b. Burro 5 g per il burro acido Burro 60 g Cipolle 30 g Aceto di vino bianco 3 g Vino bianco 6 g Salvia q.b. Rosmarino q.b. per guarnire Castagne precotte q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta con castagne e funghi Per preparare la pasta con castagne e funghi, iniziate dalle tagliatelle fresche. Rompete le uova in una ciotolina e sbattetele con una forchetta. Versate la farina a fontana sul piano di lavoro e formate un incavo al centro. Aggiungete le uova sbattute poco alla volta 1 . Iniziate a incorporare la farina con una forchetta 2 , poi proseguite impastando con le mani 3 . Dovrete ottenere un panetto omogeneo 4 . Avvolgetelo nella pellicola per alimenti e lasciatelo riposare in frigorifero per 30 minuti. Nel frattempo occupatevi del burro acido. Mondate la cipolla e tritatela finemente 5 . Mettete il burro in un pentolino insieme alla salvia e al rosmarino 6 e fatelo sciogliere a fuoco dolce. Aggiungete la cipolla tritata 7 e mescolate 8 . Lasciate cuocere a fuoco dolce per circa 5 minuti. Spegnete il fuoco, versate l'aceto e il vino bianco 9 . Filtrate il composto per eliminare la cipolla e gli aromi 10 , raccogliendo il burro fuso in una ciotolina 11 . Trasferite il burro acido in frigorifero e lasciatelo raffreddare fino a quando si sarà solidificato 12 . Nel frattempo, trascorso il tempo di riposo della pasta, riprendete il panetto dal frigorifero e sistematelo su un piano di lavoro leggermente infarinato. Appiattitelo con il mattarello, poi stendetelo con la macchina fino a ottenere una sfoglia molto sottile 13 , circa 1-2 mm. Ricavate delle tagliatelle lunghe circa 25-30 cm, tagliando la pasta con un coltello 14 e infarinatele leggermente 15 . Realizzate dei nidi, sistemateli su un vassoio e teneteli da parte 16 . Passate al condimento. In una padella fate sciogliere il burro insieme allo spicchio d'aglio 17 . Aggiungete le castagne già cotte e sbucciate 18 . Versate due cucchiai d'acqua 19 e lasciate cuocere per circa 7-8 minuti, aggiungendo altra acqua se necessario. Durante la cottura schiacciate leggermente le castagne con un mestolo, in modo da ottenere una crema grossolana 20 . Regolate di sale e tenete da parte. Pulite i funghi, poi tagliate a metà i cardoncelli 21 . Tagliate i gambi a cubetti 22 e la testa a spicchi. Tagliate a spicchi anche i finferli più grandi. Sbollentate i chiodini in abbondante acqua bollente per almeno 15 minuti, poi scolateli ed eliminate l'acqua di cottura. Nella stessa padella dove avete cotto le castagne aggiungete i cardoncelli 23 , i finferli e i chiodini precedentemente sbollentati 24 . Saltate i funghi a fuoco vivace per circa 10 minuti 25 , poi regolate di sale. Unite la crema di castagne al condimento 26 e mescolate per amalgamare il tutto. Nel frattempo portate a bollore una pentola di acqua salata e cuocete le tagliatelle fresche 27 . Scolate la pasta, conservando l'acqua di cottura e trasferitela direttamente nella padella con i funghi 28 , aggiungete due mestoli della sua acqua di cottura e profumate con la salvia e il rosmarino tritati 29 . Saltate il tutto per amalgamare il condimento. Spegnete il fuoco e aggiungete una macinata di pepe nero, il burro acido e il Parmigiano Reggiano grattugiato 30 . Mescolate con cura fino ad amalgamare bene gli ingredienti 31 . Distribuite la pasta nei piatti e completate con le castagne sbriciolate 32 . La vostra pasta con castagne e funghi è pronta per essere servita 33 ! Conservazione Potete conservare la pasta con castagne e funghi in frigorifero, all'interno di un contenitore ermetico, per un massimo di 2 giorni. Si sconsiglia la congelazione. Consiglio Per un burro acido dal sapore più intenso, potete far ridurre il vino bianco insieme alla cipolla tritata e agli aromi. Quando il liquido si sarà ridotto quasi completamente, incorporate il burro molto freddo, un cubetto alla volta, mescolando per ottenere un'emulsione. Lasciate raffreddare, poi tagliate il burro a cubetti e utilizzatelo per mantecare la pasta. Se volete potete omettere il burro acido e utilizzare del burro normale per mantecare la pasta. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Salvia Aglio Castagne Rosmarino Burro Uovo Cipolla Parmigiano Reggiano Scopri tutto sugli ingredienti STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Crespelle alle castagne ripiene di ricotta e funghi 6 4.3 Spaghetti alla chitarra alla farina di castagne con funghi, zucca e salsiccia 23 4.4 Strudel di castagne e funghi 7 4.5 Stufato di pollo con castagne e funghi 5 4.6 Lasagne ai funghi 15 4.6 Benessere Pasta con i funghi 1 4.9 Gnocchi gratinati ai funghi 9 4.7 Pasta con funghi e fagioli 5 4.5 ULTIME RICETTE Sformato di zucca e mozzarella in friggitrice ad aria 5.0 Pasta con castagne e funghi Uovo fritto con asparagi 5.0 SCOPRI Pasta salsiccia e funghi Pasta panna e funghi Pasta con funghi champignon Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Primi piatti Crespelle alle castagne ripiene di ricotta e funghi 6 4.3 Le crespelle alle castagne ripiene di ricotta e funghi sono un primo piatto gustoso, perfetto per chi cerca un'idea originale da portare in tavola. Vai alla ricetta Primi piatti Spaghetti alla chitarra alla farina di castagne con funghi, zucca e salsiccia 23 4.4 Gli spaghetti alla chitarra alla farina di castagne con funghi, zucca e salsiccia sono un primo piatto con un ricco condimento di verdure e carne. Vai alla ricetta Antipasti Strudel di castagne e funghi 7 4.5 Lo strudel di castagne e funghi è un gustoso rotolo in versione salata, un antipasto che si ispira al tradizionale strudel dolce. Scopri la ricetta! Vai alla ricetta Secondi piatti Stufato di pollo con castagne e funghi 5 4.6 Lo stufato di pollo con castagne e funghi è un secondo piatto di carne dai sapori autunnali, perfetto da servire con la polenta! Scopri dosi e ricetta Vai alla ricetta Primi piatti Lasagne ai funghi 15 4.6 Le lasagne ai funghi sono un gustoso primo piatto autunnale arricchito con pancetta, besciamella e una cremosa salsa al formaggio: scopri la ricetta! Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promoziona",
+    "slides": [
+      "Pasta fresca cremosa con castagne e tre funghi",
+      "Castagne, funghi, burro acido e Parmigiano",
+      "Tagliatelle fresche fatte in casa con farina e uova",
+      "Manteca a fuoco spento con burro acido e Parmigiano",
+      "Completa con castagne sbriciolate e pepe nero"
+    ],
+    "instagram_caption": "La domenica ha il sapore delle castagne e dei funghi. 🍂\nTagliatelle fresche tirate a mano, avvolte in un mantecato di burro acido e Parmigiano che profuma di bosco.\nTre funghi e castagne sbriciolate per un piatto che sa di autunno vero. 🍄\nUn filo di pepe nero e il gioco è fatto.\nSalva la ricetta e provala questo weekend 🌿",
+    "formats": {
+      "instagram": {
+        "caption": "La domenica ha il sapore delle castagne e dei funghi. 🍂\nTagliatelle fresche tirate a mano, avvolte in un mantecato di burro acido e Parmigiano che profuma di bosco.\nTre funghi e castagne sbriciolate per un piatto che sa di autunno vero. 🍄\nUn filo di pepe nero e il gioco è fatto.\nSalva la ricetta e provala questo weekend 🌿"
+      },
+      "tiktok": {
+        "script": [
+          "Prendo castagne e tre tipi di funghi",
+          "Faccio le tagliatelle con farina e uova",
+          "Butto tutto in padella col burro acido",
+          "Manteco a fuoco spento col Parmigiano",
+          "Completo con castagne sbriciolate e pepe"
+        ]
+      },
+      "x": {
+        "thread": [
+          "La pasta che sa di autunno: castagne, tre funghi e una cremosità che non ti aspetti. Se non l'hai mai provata, oggi cambia idea 👇",
+          "Parti da un trio di funghi: champignon, porcini e finferli. Castagne lessate e sbriciolate, burro acido e Parmigiano: pochi ingredienti, carattere enorme.",
+          "Tagliatelle fresche fatte in casa: farina e uova, riposo, sfoglia sottile. La pasta fresca cattura il sugo come nessun'altra.",
+          "Cuoci le tagliatelle, poi manteca a fuoco spento con burro acido e Parmigiano: è il gesto che crea la crema. Fuoco spento, sempre.",
+          "Completa con castagne sbriciolate e pepe nero macinato. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Prendo castagne e tre tipi di funghi",
+      "Faccio le tagliatelle con farina e uova",
+      "Butto tutto in padella col burro acido",
+      "Manteco a fuoco spento col Parmigiano",
+      "Completo con castagne sbriciolate e pepe"
+    ],
+    "thread_text": [
+      "La pasta che sa di autunno: castagne, tre funghi e una cremosità che non ti aspetti. Se non l'hai mai provata, oggi cambia idea 👇",
+      "Parti da un trio di funghi: champignon, porcini e finferli. Castagne lessate e sbriciolate, burro acido e Parmigiano: pochi ingredienti, carattere enorme.",
+      "Tagliatelle fresche fatte in casa: farina e uova, riposo, sfoglia sottile. La pasta fresca cattura il sugo come nessun'altra.",
+      "Cuoci le tagliatelle, poi manteca a fuoco spento con burro acido e Parmigiano: è il gesto che crea la crema. Fuoco spento, sempre.",
+      "Completa con castagne sbriciolate e pepe nero macinato. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta cremosa con castagne e tre funghi",
+        "description": "Tagliatelle fresche avvolte in una crema vellutata di castagne e funghi, un piatto autunnale che conquista al primo assaggio.",
+        "visual_hint": "pasta cremosa castagne funghi",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory chestnut pasta"
+      },
+      {
+        "hook": "Castagne, funghi, burro e Parmigiano",
+        "description": "Ingredienti semplici e genuini: castagne dolci, funghi misti, burro acido e Parmigiano per una cremosità naturale.",
+        "visual_hint": "ingredienti castagne funghi Parmigiano",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory mushroom ingredients",
+        "image": "https://images.pexels.com/photos/5950420/pexels-photo-5950420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Tagliatelle fresche fatte in casa",
+        "description": "La magia della pasta fatta a mano: farina e uova che diventano tagliatelle dorate e porose, pronte a catturare il condimento.",
+        "visual_hint": "mani impastano tagliatelle",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory fresh tagliatelle",
+        "image": "https://images.pexels.com/photos/37539838/pexels-photo-37539838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Manteca a fuoco spento",
+        "description": "Il segreto della cremosità: mantecare a fuoco spento con burro acido e Parmigiano per un legame perfetto e avvolgente.",
+        "visual_hint": "mantecatura pasta cremosa",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory pasta mantecatura",
+        "image": "https://images.pexels.com/photos/3820638/pexels-photo-3820638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Completa con castagne e pepe nero",
+        "description": "Ultimo tocco: castagne sbriciolate e una macinata di pepe nero per un piatto rustico ed elegante, pronto da servire.",
+        "visual_hint": "pasta impiattata castagne pepe",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory chestnut pasta plated",
+        "image": "https://images.pexels.com/photos/5203691/pexels-photo-5203691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "castagne",
+      "funghi",
+      "Parmigiano"
+    ],
+    "image": "https://www.giallozafferano.it/images/367-36758/Pasta-con-castagne-e-funghi_1200x800_wm.jpg",
+    "savedAt": "2026-10-29T20:49:28.181Z",
+    "sourceId": "75bc3297e362cd67d3e280f4cc265e93"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "pasta-con-crema-di-finocchi",
     "prompt_version": "1.0.0",
     "status": "published",

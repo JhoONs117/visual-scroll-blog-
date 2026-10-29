@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "rivian-expands-joint-venture-with-vw-to-include-ai",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Rivian expands joint venture with VW to include AI assistant",
+  "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+  "pubDate": "Thu, 29 Oct 2026 20:05:47 +0000",
+  "slides": [
+    "Can Rivian's VW partnership survive AI's next leap?",
+    "The joint venture now stretches into AI assistants",
+    "But most drivers still distrust in-car voice systems",
+    "Your next EV may learn your driving habits fast",
+    "Ask your dealer what your car remembers about you"
+  ],
+  "thread_text": [
+    "1. The AI race nobody saw coming\n\nRivian and Volkswagen's joint venture is now expanding from software into AI assistants. That means your next EV could start learning your routines—whether you're ready or not.",
+    "2. Volkswagen's quiet power move\n\nThe partnership isn't just about batteries anymore. VW is betting that in-car AI becomes the new battleground—and Rivian's tech is the ticket in.",
+    "3. Drivers aren't buying it\n\nMost people still don't trust voice systems in their cars. But the companies are pushing ahead anyway, which raises a question: who's actually in control?",
+    "4. Your car is taking notes\n\nThese AI assistants learn your habits fast—routes, music, even how you brake. That kind of data doesn't stay in the glovebox forever.",
+    "5. Ask before you buy\n\nNext time you're at a dealership, ask what the car remembers about you. If they can't answer, that's your answer."
+  ],
+  "video_script": [
+    "Rivian and Volkswagen are teaming up on AI assistants.",
+    "Volkswagen is quietly betting big on in-car artificial intelligence.",
+    "But most drivers still don't trust voice systems in cars.",
+    "Your next EV could learn your habits faster than you think.",
+    "Ask your dealer what your car remembers about you."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The AI race nobody saw coming\n\nRivian and Volkswagen's joint venture is now expanding from software into AI assistants. That means your next EV could start learning your routines—whether you're ready or not.",
+        "2. Volkswagen's quiet power move\n\nThe partnership isn't just about batteries anymore. VW is betting that in-car AI becomes the new battleground—and Rivian's tech is the ticket in.",
+        "3. Drivers aren't buying it\n\nMost people still don't trust voice systems in their cars. But the companies are pushing ahead anyway, which raises a question: who's actually in control?",
+        "4. Your car is taking notes\n\nThese AI assistants learn your habits fast—routes, music, even how you brake. That kind of data doesn't stay in the glovebox forever.",
+        "5. Ask before you buy\n\nNext time you're at a dealership, ask what the car remembers about you. If they can't answer, that's your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Rivian and Volkswagen are teaming up on AI assistants.",
+        "Volkswagen is quietly betting big on in-car artificial intelligence.",
+        "But most drivers still don't trust voice systems in cars.",
+        "Your next EV could learn your habits faster than you think.",
+        "Ask your dealer what your car remembers about you."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next EV could start learning your driving habits whether you're ready or not.\n\nRivian and Volkswagen are expanding their joint venture beyond software into in-car AI assistants. 🤖\n\nVW is betting in-car AI becomes the next battleground, and Rivian's tech is the way in.\n\nMeanwhile most drivers still don't trust voice systems in their cars. 🤨\n\nIf you publish or create content, this means your daily commute, route choices and even braking habits become training data for systems you never opted into.\n\nNext time you're at a dealership, ask what the car remembers about you. 📝\n\nIf they can't answer, that's your answer. What would you want your car to forget? 🚗"
+    }
+  },
+  "instagram_caption": "Your next EV could start learning your driving habits whether you're ready or not.\n\nRivian and Volkswagen are expanding their joint venture beyond software into in-car AI assistants. 🤖\n\nVW is betting in-car AI becomes the next battleground, and Rivian's tech is the way in.\n\nMeanwhile most drivers still don't trust voice systems in their cars. 🤨\n\nIf you publish or create content, this means your daily commute, route choices and even braking habits become training data for systems you never opted into.\n\nNext time you're at a dealership, ask what the car remembers about you. 📝\n\nIf they can't answer, that's your answer. What would you want your car to forget? 🚗",
+  "carousel_slides": [
+    {
+      "hook": "Who controls your car's AI?",
+      "description": "Rivian and VW expand their joint venture into AI assistants, giving your EV the power to learn your routines.",
+      "visual_hint": "Car dashboard with glowing AI interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "electric car dashboard"
+    },
+    {
+      "hook": "VW bets big on in-car AI",
+      "description": "The partnership moves beyond batteries as VW bets on AI assistants to become the next battleground, using Rivian's tech.",
+      "visual_hint": "Volkswagen logo on modern car",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "Volkswagen car factory",
+      "image": "https://images.pexels.com/photos/34298678/pexels-photo-34298678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Drivers still distrust voice systems",
+      "description": "Most people don't trust in-car voice systems, yet companies push ahead, raising concerns about who is really in control.",
+      "visual_hint": "Driver looking skeptically at voice interface",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "person driving car",
+      "image": "https://images.pexels.com/photos/3892894/pexels-photo-3892894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your car learns your habits fast",
+      "description": "AI assistants track routes, music, and braking patterns, collecting data that doesn't stay in the glovebox forever.",
+      "visual_hint": "Hand touching car touchscreen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "car touchscreen interface",
+      "image": "https://images.pexels.com/photos/27727842/pexels-photo-27727842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask what your car remembers",
+      "description": "At the dealership, ask what data your car collects about you. If they can't answer, that's your answer.",
+      "visual_hint": "Person asking dealer about car data",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "car dealership showroom",
+      "image": "https://images.pexels.com/photos/12565887/pexels-photo-12565887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/12/rivian-assisant-event.png?resize=1200,672",
+  "savedAt": "2026-10-29T20:45:06.310Z",
+  "sourceId": "223b05929cb398d87f413bb1ea3f537e"
+}

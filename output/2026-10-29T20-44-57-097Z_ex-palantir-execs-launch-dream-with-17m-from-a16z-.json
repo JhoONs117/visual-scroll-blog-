@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ex-palantir-execs-launch-dream-with-17m-from-a16z-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+  "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+  "pubDate": "Thu, 29 Oct 2026 16:21:00 +0000",
+  "slides": [
+    "Can Dream's AI world models rebuild construction?",
+    "Ex-Palantir execs raised $17M from a16z",
+    "Dream simulates entire builds before ground is broken",
+    "Contractors must now treat AI models as planning tools",
+    "Test one project this quarter against a simulated build"
+  ],
+  "thread_text": [
+    "1. AI That Builds Before You Do\n\nDream's AI simulates entire construction projects before ground is broken, and it just raised $17M from a16z. The founders are ex-Palantir execs who think world models can rebuild the industry.",
+    "2. From Defense To Construction\n\nPalantir alumni are applying military-grade simulation to building sites. Their startup, Dream, uses AI to model every step of a project, catching errors before they become expensive.",
+    "3. Test Drive Your Build\n\nContractors are now using AI models as planning tools, not just fancy visualizations. Dream's simulation lets you test scenarios and optimize schedules without risking real-world delays.",
+    "4. The End Of Guesswork\n\nWith Dream, you can simulate an entire build and see the outcome before committing resources. That means fewer surprises, tighter budgets, and faster timelines.",
+    "5. Ready To Simulate?\n\nPick one upcoming project and run it through a simulated build this quarter. If you haven't tried AI planning yet, start with a small test case and measure the difference."
+  ],
+  "video_script": [
+    "What if you could build something twice—first in AI, then in reality?",
+    "Dream, founded by ex-Palantir execs, just raised $17 million to do exactly that.",
+    "Their AI simulates entire construction projects before ground is broken.",
+    "Contractors can now test scenarios and catch errors early, saving time and money.",
+    "Try it on one project this quarter and see the impact."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI That Builds Before You Do\n\nDream's AI simulates entire construction projects before ground is broken, and it just raised $17M from a16z. The founders are ex-Palantir execs who think world models can rebuild the industry.",
+        "2. From Defense To Construction\n\nPalantir alumni are applying military-grade simulation to building sites. Their startup, Dream, uses AI to model every step of a project, catching errors before they become expensive.",
+        "3. Test Drive Your Build\n\nContractors are now using AI models as planning tools, not just fancy visualizations. Dream's simulation lets you test scenarios and optimize schedules without risking real-world delays.",
+        "4. The End Of Guesswork\n\nWith Dream, you can simulate an entire build and see the outcome before committing resources. That means fewer surprises, tighter budgets, and faster timelines.",
+        "5. Ready To Simulate?\n\nPick one upcoming project and run it through a simulated build this quarter. If you haven't tried AI planning yet, start with a small test case and measure the difference."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "What if you could build something twice—first in AI, then in reality?",
+        "Dream, founded by ex-Palantir execs, just raised $17 million to do exactly that.",
+        "Their AI simulates entire construction projects before ground is broken.",
+        "Contractors can now test scenarios and catch errors early, saving time and money.",
+        "Try it on one project this quarter and see the impact."
+      ]
+    },
+    "instagram": {
+      "caption": "Before you break ground, you can now simulate the entire build and catch errors first.\n\nDream, founded by ex-Palantir execs, raised $17M from a16z to build AI world models for construction 🏗️\n\nThe models simulate every step of a project so mistakes surface before they cost money.\n\nContractors are starting to treat these simulations as planning tools, not just visuals.\n\nIf you run projects, test one against a simulated build this quarter 📊\n\nFewer surprises, tighter budgets ⏱️\n\nWould you trust a simulation over your own experience? 🤔"
+    }
+  },
+  "instagram_caption": "Before you break ground, you can now simulate the entire build and catch errors first.\n\nDream, founded by ex-Palantir execs, raised $17M from a16z to build AI world models for construction 🏗️\n\nThe models simulate every step of a project so mistakes surface before they cost money.\n\nContractors are starting to treat these simulations as planning tools, not just visuals.\n\nIf you run projects, test one against a simulated build this quarter 📊\n\nFewer surprises, tighter budgets ⏱️\n\nWould you trust a simulation over your own experience? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can AI build before ground breaks?",
+      "description": "Dream simulates entire construction projects before ground is broken, catching errors early. Backed by $17M from a16z.",
+      "visual_hint": "Futuristic construction site with digital overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "construction site"
+    },
+    {
+      "hook": "Ex-Palantir execs raise $17M",
+      "description": "Palantir alumni apply military-grade simulation to building sites, modeling every project step to prevent costly errors.",
+      "visual_hint": "Team of engineers reviewing holographic blueprint",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "engineers blueprint",
+      "image": "https://images.pexels.com/photos/3862377/pexels-photo-3862377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Simulate your build, avoid surprises",
+      "description": "Contractors use AI models as planning tools, testing scenarios and optimizing schedules without real-world delays.",
+      "visual_hint": "Interactive 3D model of building on screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "3D building model",
+      "image": "https://images.pexels.com/photos/40522038/pexels-photo-40522038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "End guesswork with AI planning",
+      "description": "Simulate entire builds to see outcomes before committing resources, leading to tighter budgets and faster timelines.",
+      "visual_hint": "Hand interacting with digital construction timeline",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand tablet construction",
+      "image": "https://images.pexels.com/photos/9511794/pexels-photo-9511794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one project this quarter",
+      "description": "Pick an upcoming project and run it through a simulated build. Measure the difference AI planning makes.",
+      "visual_hint": "Checklist with 'simulate build' highlighted",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/TeamPhoto_1.png?resize=1200,675",
+  "savedAt": "2026-10-29T20:45:35.928Z",
+  "sourceId": "b2c76de6c6e17d8b25a281091d4a481a"
+}
