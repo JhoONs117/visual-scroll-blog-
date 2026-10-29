@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "as-ai-agents-reshape-the-web-google-opens-gemini-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "pubDate": "Wed, 28 Oct 2026 17:00:00 +0000",
+      "slides": [
+        "Can Google keep the web open as AI agents take over?",
+        "Gemini and Search now connect to more third-party apps",
+        "But agents may bypass the open web entirely",
+        "Developers must rethink how content gets discovered",
+        "Ask: who controls the agent's attention tomorrow?"
+      ],
+      "thread_text": [
+        "1. The web's gatekeeper problem\n\nGoogle's Gemini and Search now plug into third-party apps. That's convenience for users, but it means the door to the web is increasingly owned by one company.",
+        "2. Agents skip the open web\n\nAI agents can pull answers straight from apps and APIs. Why browse a website when your assistant already has the data?",
+        "3. Discovery breaks down\n\nIf agents bypass the open web, developers lose the traffic that made the web a business. SEO becomes AI optimization, or nothing.",
+        "4. Rethinking discovery\n\nDevelopers now have to design for machine readers, not just humans. Structured data and agent-friendly APIs matter more than keywords.",
+        "5. Who owns attention?\n\nAsk yourself: if an agent chooses what you see, who really controls your attention? Try simulating one task with an AI agent today and see what it skips."
+      ],
+      "video_script": [
+        "Google is wiring Gemini and Search into more apps.",
+        "But AI agents might skip the open web entirely.",
+        "Developers must rethink how content gets discovered by machines.",
+        "The old traffic model breaks when agents answer directly.",
+        "Who controls the agent's attention tomorrow? Ask yourself."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The web's gatekeeper problem\n\nGoogle's Gemini and Search now plug into third-party apps. That's convenience for users, but it means the door to the web is increasingly owned by one company.",
+            "2. Agents skip the open web\n\nAI agents can pull answers straight from apps and APIs. Why browse a website when your assistant already has the data?",
+            "3. Discovery breaks down\n\nIf agents bypass the open web, developers lose the traffic that made the web a business. SEO becomes AI optimization, or nothing.",
+            "4. Rethinking discovery\n\nDevelopers now have to design for machine readers, not just humans. Structured data and agent-friendly APIs matter more than keywords.",
+            "5. Who owns attention?\n\nAsk yourself: if an agent chooses what you see, who really controls your attention? Try simulating one task with an AI agent today and see what it skips."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google is wiring Gemini and Search into more apps.",
+            "But AI agents might skip the open web entirely.",
+            "Developers must rethink how content gets discovered by machines.",
+            "The old traffic model breaks when agents answer directly.",
+            "Who controls the agent's attention tomorrow? Ask yourself."
+          ]
+        },
+        "instagram": {
+          "caption": "Gemini and Search now pull answers directly from third-party apps — no website visit required. 🤖\n\nGoogle is wiring its assistant into outside apps, so answers can come straight from the source. That means your site might never get the click.\n\nDevelopers who relied on search traffic now have to design for machine readers, not just people. Structured data and agent-friendly APIs start to matter more than keywords.\n\nIf an agent decides what you see, who's really choosing your attention? 🧠\n\nTry one task today with an AI agent and watch what it skips. 👀"
+        }
+      },
+      "instagram_caption": "Gemini and Search now pull answers directly from third-party apps — no website visit required. 🤖\n\nGoogle is wiring its assistant into outside apps, so answers can come straight from the source. That means your site might never get the click.\n\nDevelopers who relied on search traffic now have to design for machine readers, not just people. Structured data and agent-friendly APIs start to matter more than keywords.\n\nIf an agent decides what you see, who's really choosing your attention? 🧠\n\nTry one task today with an AI agent and watch what it skips. 👀",
+      "carousel_slides": [
+        {
+          "hook": "Who controls the agent's attention tomorrow?",
+          "description": "Google's Gemini and Search now connect to third-party apps, but agents can bypass the open web for answers.",
+          "visual_hint": "Abstract digital web with glowing nodes",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "world wide web"
+        },
+        {
+          "hook": "Gemini and Search plug into more apps",
+          "description": "Convenience for users, but the door to the web is increasingly owned by one company.",
+          "visual_hint": "Smartphone with app icons connecting to a central hub",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartphone apps",
+          "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Agents skip the open web entirely",
+          "description": "AI agents pull answers straight from apps and APIs, bypassing websites entirely.",
+          "visual_hint": "Robot hand reaching directly into a data stream",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "robot hand",
+          "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Developers must rethink discovery for machines",
+          "description": "Design for machine readers with structured data and agent-friendly APIs, not just keywords.",
+          "visual_hint": "Developer coding with data flow diagrams",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "programmer coding",
+          "image": "https://images.pexels.com/photos/9553905/pexels-photo-9553905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Simulate one task with an AI agent today",
+          "description": "See what it skips. Save this post to rethink your content strategy.",
+          "visual_hint": "Person interacting with AI assistant on screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "AI assistant screen",
+          "image": "https://images.pexels.com/photos/30530402/pexels-photo-30530402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blog_ConnectedApps_1027_2.width-2200.format-webp.webp?resize=1200,675",
+      "savedAt": "2026-10-29T14:48:54.530Z",
+      "sourceId": "7fbbcf0aac9e91420152d438ff28f0bc"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "deepgram-acquires-pipecat-maker-daily-to-bolster-i",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
+      "slides": [
+        "Can Deepgram own the voice AI stack?",
+        "It just acquired Daily, the team behind Pipecat",
+        "But the real target is the open-source framework, not the infra",
+        "Developers using Pipecat face an uncertain roadmap now",
+        "Audit your voice pipeline dependencies this week"
+      ],
+      "thread_text": [
+        "1. The voice stack power play\n\nDeepgram just acquired Daily, the team behind Pipecat. That's not just an infra buy — it's a move to own the entire voice AI pipeline from model to framework.",
+        "2. Open source is the real target\n\nPipecat is the open-source framework thousands of devs use to build voice agents. Deepgram didn't pay for the infra — it paid to control the layer developers build on.",
+        "3. Developers left in the dark\n\nIf you're building on Pipecat, your roadmap just got a new owner with competing priorities. No public commitment to neutrality yet — and that silence is the problem.",
+        "4. The dependency trap\n\nEvery voice pipeline has hidden single points of failure. When one vendor owns the model, the orchestration layer, and the transport, you're not a customer — you're locked in.",
+        "5. Audit your stack this week\n\nOpen your voice pipeline config and list every dependency owned by a single company. If Pipecat is on that list, start testing an alternative this sprint."
+      ],
+      "video_script": [
+        "Deepgram just bought Daily, the team behind Pipecat.",
+        "But the real prize is the open source framework.",
+        "Developers building on Pipecat now face an uncertain roadmap.",
+        "One vendor could soon own your entire voice pipeline.",
+        "Audit your dependencies this week before it's too late."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The voice stack power play\n\nDeepgram just acquired Daily, the team behind Pipecat. That's not just an infra buy — it's a move to own the entire voice AI pipeline from model to framework.",
+            "2. Open source is the real target\n\nPipecat is the open-source framework thousands of devs use to build voice agents. Deepgram didn't pay for the infra — it paid to control the layer developers build on.",
+            "3. Developers left in the dark\n\nIf you're building on Pipecat, your roadmap just got a new owner with competing priorities. No public commitment to neutrality yet — and that silence is the problem.",
+            "4. The dependency trap\n\nEvery voice pipeline has hidden single points of failure. When one vendor owns the model, the orchestration layer, and the transport, you're not a customer — you're locked in.",
+            "5. Audit your stack this week\n\nOpen your voice pipeline config and list every dependency owned by a single company. If Pipecat is on that list, start testing an alternative this sprint."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Deepgram just bought Daily, the team behind Pipecat.",
+            "But the real prize is the open source framework.",
+            "Developers building on Pipecat now face an uncertain roadmap.",
+            "One vendor could soon own your entire voice pipeline.",
+            "Audit your dependencies this week before it's too late."
+          ]
+        },
+        "instagram": {
+          "caption": "If you're building voice agents on Pipecat, your roadmap now belongs to Deepgram — it just acquired Daily, the team behind the open-source framework. 🔧\n\nDeepgram didn't buy infrastructure. It bought control of the layer thousands of developers build on. Pipecat is what they use to wire speech models, transport, and logic together.\n\nNo public promise of neutrality has been made. 🤔 That silence is the real signal, not the acquisition itself.\n\nIf Pipecat sits in your voice pipeline, one vendor now owns your model, your orchestration, and your transport layer. 😬 That's not a customer relationship — it's lock-in.\n\nOpen your pipeline config this week and list every dependency owned by a single company. Is Pipecat on it? ⚠️"
+        }
+      },
+      "instagram_caption": "If you're building voice agents on Pipecat, your roadmap now belongs to Deepgram — it just acquired Daily, the team behind the open-source framework. 🔧\n\nDeepgram didn't buy infrastructure. It bought control of the layer thousands of developers build on. Pipecat is what they use to wire speech models, transport, and logic together.\n\nNo public promise of neutrality has been made. 🤔 That silence is the real signal, not the acquisition itself.\n\nIf Pipecat sits in your voice pipeline, one vendor now owns your model, your orchestration, and your transport layer. 😬 That's not a customer relationship — it's lock-in.\n\nOpen your pipeline config this week and list every dependency owned by a single company. Is Pipecat on it? ⚠️",
+      "carousel_slides": [
+        {
+          "hook": "Who really owns your voice AI stack?",
+          "description": "Deepgram acquired Daily, the team behind Pipecat, moving to control the entire voice AI pipeline from model to framework.",
+          "visual_hint": "Abstract network diagram with central node",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Deepgram buys Daily, but why?",
+          "description": "The acquisition isn't about infrastructure—it's about owning Pipecat, the open-source framework thousands of developers rely on.",
+          "visual_hint": "Handshake over code on screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "business handshake",
+          "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Open source is the real target",
+          "description": "Deepgram didn't pay for infrastructure; it paid to control the layer developers build on. Pipecat's roadmap now has a new owner.",
+          "visual_hint": "Open source code with lock icon",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "source code",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Developers left in the dark",
+          "description": "If you're building on Pipecat, your roadmap just got a new owner with competing priorities. No public commitment to neutrality yet.",
+          "visual_hint": "Developer staring at uncertain roadmap",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "developer working laptop",
+          "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your voice pipeline this week",
+          "description": "List every dependency owned by a single company. If Pipecat is on that list, start testing an alternative this sprint.",
+          "visual_hint": "Checklist with dependencies highlighted",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Scott-Kwin-1.jpg?resize=1200,800",
+      "savedAt": "2026-10-29T14:48:44.403Z",
+      "sourceId": "6364a0999f9b15564054fae0ee2dd297"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "anthropic-just-launched-tools-to-show-companies-wh",
       "prompt_version": "1.0.0",
       "status": "published",

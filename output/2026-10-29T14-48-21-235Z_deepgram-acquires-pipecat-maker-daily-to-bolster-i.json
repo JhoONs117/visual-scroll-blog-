@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "deepgram-acquires-pipecat-maker-daily-to-bolster-i",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+  "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+  "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
+  "slides": [
+    "Can Deepgram own the voice AI stack?",
+    "It just acquired Daily, the team behind Pipecat",
+    "But the real target is the open-source framework, not the infra",
+    "Developers using Pipecat face an uncertain roadmap now",
+    "Audit your voice pipeline dependencies this week"
+  ],
+  "thread_text": [
+    "1. The voice stack power play\n\nDeepgram just acquired Daily, the team behind Pipecat. That's not just an infra buy — it's a move to own the entire voice AI pipeline from model to framework.",
+    "2. Open source is the real target\n\nPipecat is the open-source framework thousands of devs use to build voice agents. Deepgram didn't pay for the infra — it paid to control the layer developers build on.",
+    "3. Developers left in the dark\n\nIf you're building on Pipecat, your roadmap just got a new owner with competing priorities. No public commitment to neutrality yet — and that silence is the problem.",
+    "4. The dependency trap\n\nEvery voice pipeline has hidden single points of failure. When one vendor owns the model, the orchestration layer, and the transport, you're not a customer — you're locked in.",
+    "5. Audit your stack this week\n\nOpen your voice pipeline config and list every dependency owned by a single company. If Pipecat is on that list, start testing an alternative this sprint."
+  ],
+  "video_script": [
+    "Deepgram just bought Daily, the team behind Pipecat.",
+    "But the real prize is the open source framework.",
+    "Developers building on Pipecat now face an uncertain roadmap.",
+    "One vendor could soon own your entire voice pipeline.",
+    "Audit your dependencies this week before it's too late."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The voice stack power play\n\nDeepgram just acquired Daily, the team behind Pipecat. That's not just an infra buy — it's a move to own the entire voice AI pipeline from model to framework.",
+        "2. Open source is the real target\n\nPipecat is the open-source framework thousands of devs use to build voice agents. Deepgram didn't pay for the infra — it paid to control the layer developers build on.",
+        "3. Developers left in the dark\n\nIf you're building on Pipecat, your roadmap just got a new owner with competing priorities. No public commitment to neutrality yet — and that silence is the problem.",
+        "4. The dependency trap\n\nEvery voice pipeline has hidden single points of failure. When one vendor owns the model, the orchestration layer, and the transport, you're not a customer — you're locked in.",
+        "5. Audit your stack this week\n\nOpen your voice pipeline config and list every dependency owned by a single company. If Pipecat is on that list, start testing an alternative this sprint."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Deepgram just bought Daily, the team behind Pipecat.",
+        "But the real prize is the open source framework.",
+        "Developers building on Pipecat now face an uncertain roadmap.",
+        "One vendor could soon own your entire voice pipeline.",
+        "Audit your dependencies this week before it's too late."
+      ]
+    },
+    "instagram": {
+      "caption": "If you're building voice agents on Pipecat, your roadmap now belongs to Deepgram — it just acquired Daily, the team behind the open-source framework. 🔧\n\nDeepgram didn't buy infrastructure. It bought control of the layer thousands of developers build on. Pipecat is what they use to wire speech models, transport, and logic together.\n\nNo public promise of neutrality has been made. 🤔 That silence is the real signal, not the acquisition itself.\n\nIf Pipecat sits in your voice pipeline, one vendor now owns your model, your orchestration, and your transport layer. 😬 That's not a customer relationship — it's lock-in.\n\nOpen your pipeline config this week and list every dependency owned by a single company. Is Pipecat on it? ⚠️"
+    }
+  },
+  "instagram_caption": "If you're building voice agents on Pipecat, your roadmap now belongs to Deepgram — it just acquired Daily, the team behind the open-source framework. 🔧\n\nDeepgram didn't buy infrastructure. It bought control of the layer thousands of developers build on. Pipecat is what they use to wire speech models, transport, and logic together.\n\nNo public promise of neutrality has been made. 🤔 That silence is the real signal, not the acquisition itself.\n\nIf Pipecat sits in your voice pipeline, one vendor now owns your model, your orchestration, and your transport layer. 😬 That's not a customer relationship — it's lock-in.\n\nOpen your pipeline config this week and list every dependency owned by a single company. Is Pipecat on it? ⚠️",
+  "carousel_slides": [
+    {
+      "hook": "Who really owns your voice AI stack?",
+      "description": "Deepgram acquired Daily, the team behind Pipecat, moving to control the entire voice AI pipeline from model to framework.",
+      "visual_hint": "Abstract network diagram with central node",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Deepgram buys Daily, but why?",
+      "description": "The acquisition isn't about infrastructure—it's about owning Pipecat, the open-source framework thousands of developers rely on.",
+      "visual_hint": "Handshake over code on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "business handshake",
+      "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Open source is the real target",
+      "description": "Deepgram didn't pay for infrastructure; it paid to control the layer developers build on. Pipecat's roadmap now has a new owner.",
+      "visual_hint": "Open source code with lock icon",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "source code",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Developers left in the dark",
+      "description": "If you're building on Pipecat, your roadmap just got a new owner with competing priorities. No public commitment to neutrality yet.",
+      "visual_hint": "Developer staring at uncertain roadmap",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "developer working laptop",
+      "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your voice pipeline this week",
+      "description": "List every dependency owned by a single company. If Pipecat is on that list, start testing an alternative this sprint.",
+      "visual_hint": "Checklist with dependencies highlighted",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Scott-Kwin-1.jpg?resize=1200,800",
+  "savedAt": "2026-10-29T14:48:44.403Z",
+  "sourceId": "6364a0999f9b15564054fae0ee2dd297"
+}
