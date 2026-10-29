@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "hacker-stole-personnel-data-about-thousands-of-hom",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+  "link": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+  "pubDate": "Wed, 28 Oct 2026 20:01:00 +0000",
+  "slides": [
+    "Who inside Homeland Security just got exposed?",
+    "A hacker breached personnel records of thousands of agents",
+    "The stolen data may include undercover identities",
+    "Current and former employees should watch for targeting",
+    "Ask: what's your agency's real breach response plan?"
+  ],
+  "thread_text": [
+    "5. Who got exposed?\n\nA hacker breached personnel records of thousands of Homeland Security agents. The stolen data may include undercover identities.",
+    "6. Undercover agents at risk\n\nCurrent and former employees should watch for targeting. The breach response plan is now in question.",
+    "7. Breach response plan?\n\nAgencies need to ask: what's your real breach response plan? The stolen data could put agents in danger.",
+    "8. Data includes identities\n\nThe stolen data may include undercover identities. This is a serious security breach.",
+    "9. Action needed now\n\nCurrent and former employees should watch for targeting. Ask: what's your agency's real breach response plan?"
+  ],
+  "video_script": [
+    "A hacker breached Homeland Security personnel records.",
+    "Thousands of agents' data may be stolen.",
+    "Undercover identities could be exposed.",
+    "Current and former employees should watch for targeting.",
+    "Ask: what's your agency's real breach response plan?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "5. Who got exposed?\n\nA hacker breached personnel records of thousands of Homeland Security agents. The stolen data may include undercover identities.",
+        "6. Undercover agents at risk\n\nCurrent and former employees should watch for targeting. The breach response plan is now in question.",
+        "7. Breach response plan?\n\nAgencies need to ask: what's your real breach response plan? The stolen data could put agents in danger.",
+        "8. Data includes identities\n\nThe stolen data may include undercover identities. This is a serious security breach.",
+        "9. Action needed now\n\nCurrent and former employees should watch for targeting. Ask: what's your agency's real breach response plan?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A hacker breached Homeland Security personnel records.",
+        "Thousands of agents' data may be stolen.",
+        "Undercover identities could be exposed.",
+        "Current and former employees should watch for targeting.",
+        "Ask: what's your agency's real breach response plan?"
+      ]
+    },
+    "instagram": {
+      "caption": "A hacker stole personnel records of thousands of Homeland Security agents — including people working undercover.\n\nThe breach hits current and former employees at agencies like Customs and Border Protection and Immigration and Customs Enforcement. 🚨\n\nSome stolen files may expose undercover identities, putting agents and their operations at risk.\n\nIf you write about security or government, verify the facts before amplifying names or details that could endanger someone. ⚠️\n\nWhat would your organization actually do in the first 24 hours after a breach like this? 🔍"
+    }
+  },
+  "instagram_caption": "A hacker stole personnel records of thousands of Homeland Security agents — including people working undercover.\n\nThe breach hits current and former employees at agencies like Customs and Border Protection and Immigration and Customs Enforcement. 🚨\n\nSome stolen files may expose undercover identities, putting agents and their operations at risk.\n\nIf you write about security or government, verify the facts before amplifying names or details that could endanger someone. ⚠️\n\nWhat would your organization actually do in the first 24 hours after a breach like this? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Undercover agents' identities may be exposed",
+      "description": "A hacker breached Homeland Security personnel records, potentially revealing undercover identities of thousands of agents.",
+      "visual_hint": "Hooded figure at computer screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "hooded hacker"
+    },
+    {
+      "hook": "Thousands of agents' records compromised",
+      "description": "Personnel files of CBP and ICE agents were stolen, raising fears of targeted attacks on current and former employees.",
+      "visual_hint": "Server room with blinking lights",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stolen data could endanger undercover agents",
+      "description": "The breach may include undercover identities, putting agents' safety at risk and prompting urgent security reviews.",
+      "visual_hint": "Close-up of a fingerprint scanner",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "fingerprint scanner",
+      "image": "https://images.pexels.com/photos/7479535/pexels-photo-7479535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Current and former employees targeted",
+      "description": "Agents should watch for suspicious activity as the breach response plan is questioned and identities may be exploited.",
+      "visual_hint": "Person looking at phone suspiciously",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person phone alert",
+      "image": "https://images.pexels.com/photos/6034771/pexels-photo-6034771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Does your agency have a breach plan?",
+      "description": "Ask your agency about its real breach response plan. Save this post and share to demand accountability.",
+      "visual_hint": "Padlock on a laptop keyboard",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "padlock laptop",
+      "image": "https://images.pexels.com/photos/13805850/pexels-photo-13805850.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/dhs-2255143488.jpg?resize=1200,800",
+  "savedAt": "2026-10-29T07:51:05.255Z",
+  "sourceId": "fb104c013e478dd6e7932809c1273676"
+}

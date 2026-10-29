@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-expands-ai-search-ads-globally-as-core-ad-g",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google expands AI Search ads globally as core ad growth slows",
+  "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+  "pubDate": "Wed, 28 Oct 2026 21:48:37 +0000",
+  "slides": [
+    "Can Google's AI ads win back slowing growth?",
+    "AI Search ads now roll out worldwide",
+    "But users may scroll past sponsored answers",
+    "Advertisers must rethink keyword-heavy campaigns now",
+    "Test one AI ad format before your competitors do"
+  ],
+  "thread_text": [
+    "1. Google's AI ad gamble\n\nAI-powered Search ads just went global, betting growth can come from sponsored answers inside AI Overviews.",
+    "2. The scroll problem\n\nEarly data shows users often skip sponsored answers entirely, treating them like traditional banner blindness.",
+    "3. Keyword era ending\n\nGoogle's AI matches intent, not strings, so campaigns built on exact-match lists may waste budget on the wrong queries.",
+    "4. Who adapts first wins\n\nAdvertisers testing AI formats now get cheaper learning cycles before competitors crowd the auction.",
+    "5. Test one format today\n\nRun a small AI ad test in your account this week. Did it beat your keyword campaigns? Tell me your result."
+  ],
+  "video_script": [
+    "Google's AI ads are now rolling out worldwide.",
+    "Users might just scroll past those sponsored answers.",
+    "That means keyword-heavy campaigns could waste your budget.",
+    "Test one AI ad format before your competitors do.",
+    "Try it this week and check the numbers."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Google's AI ad gamble\n\nAI-powered Search ads just went global, betting growth can come from sponsored answers inside AI Overviews.",
+        "2. The scroll problem\n\nEarly data shows users often skip sponsored answers entirely, treating them like traditional banner blindness.",
+        "3. Keyword era ending\n\nGoogle's AI matches intent, not strings, so campaigns built on exact-match lists may waste budget on the wrong queries.",
+        "4. Who adapts first wins\n\nAdvertisers testing AI formats now get cheaper learning cycles before competitors crowd the auction.",
+        "5. Test one format today\n\nRun a small AI ad test in your account this week. Did it beat your keyword campaigns? Tell me your result."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google's AI ads are now rolling out worldwide.",
+        "Users might just scroll past those sponsored answers.",
+        "That means keyword-heavy campaigns could waste your budget.",
+        "Test one AI ad format before your competitors do.",
+        "Try it this week and check the numbers."
+      ]
+    },
+    "instagram": {
+      "caption": "Sponsored answers inside AI Overviews now show up for users worldwide, not just in test markets.\n\nGoogle is betting on AI Search ads as its core ad business slows. 💰\n\nEarly data suggests people often scroll straight past those sponsored answers, like banner blindness.\n\nThat means campaigns built on exact-match keyword lists may now waste budget on queries Google's AI reads differently.\n\nIf you run ads, one small test of an AI format this week could show you whether it beats your keyword campaigns. 📊\n\nWill you test one before your competitors crowd the auction? 🤔"
+    }
+  },
+  "instagram_caption": "Sponsored answers inside AI Overviews now show up for users worldwide, not just in test markets.\n\nGoogle is betting on AI Search ads as its core ad business slows. 💰\n\nEarly data suggests people often scroll straight past those sponsored answers, like banner blindness.\n\nThat means campaigns built on exact-match keyword lists may now waste budget on queries Google's AI reads differently.\n\nIf you run ads, one small test of an AI format this week could show you whether it beats your keyword campaigns. 📊\n\nWill you test one before your competitors crowd the auction? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Are users ignoring Google's new AI ads?",
+      "description": "Early data shows users often skip sponsored answers, treating them like banner blindness, so ad visibility may drop.",
+      "visual_hint": "Split screen: ad vs organic answer",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone screen"
+    },
+    {
+      "hook": "AI Search ads now go global",
+      "description": "Google expanded AI-powered Search ads worldwide, betting growth can come from sponsored answers inside AI Overviews.",
+      "visual_hint": "World map with glowing search icons",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "world map",
+      "image": "https://images.pexels.com/photos/5137785/pexels-photo-5137785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Users scroll past sponsored answers",
+      "description": "Early data reveals users skip sponsored answers like banner blindness, so advertisers must rethink visibility.",
+      "visual_hint": "Finger scrolling past ad label",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "hand scrolling phone",
+      "image": "https://images.pexels.com/photos/5239922/pexels-photo-5239922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Keyword campaigns may waste budget",
+      "description": "Google's AI matches intent, not strings, so exact-match keyword lists may waste budget on wrong queries.",
+      "visual_hint": "Old keyword list vs AI intent map",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "marketing dashboard",
+      "image": "https://images.pexels.com/photos/7181178/pexels-photo-7181178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one AI ad format this week",
+      "description": "Run a small AI ad test in your account now and see if it beats your keyword campaigns.",
+      "visual_hint": "Dashboard with test results",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "analytics dashboard",
+      "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-10-29T07:50:46.500Z",
+  "sourceId": "34b53368a5c19b91602d45edd7bceafb"
+}

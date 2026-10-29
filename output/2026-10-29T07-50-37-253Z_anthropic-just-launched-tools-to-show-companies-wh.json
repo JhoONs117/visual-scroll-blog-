@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-just-launched-tools-to-show-companies-wh",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+  "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+  "pubDate": "Wed, 28 Oct 2026 19:19:58 +0000",
+  "slides": [
+    "Anthropic's new tools: what is your AI spend buying?",
+    "They reveal which tasks consume the most tokens",
+    "But cost per task often hides the real bottleneck",
+    "Teams can now reprice workflows before the next invoice",
+    "Audit one high-cost workflow today and compare"
+  ],
+  "thread_text": [
+    "1. The invoice you don't read\n\nAnthropic's new tools show exactly which tasks burn the most tokens — and most teams have never checked.",
+    "2. Token hogs exposed\n\nHigh reasoning and long context requests are devouring your budget, while simple formatting tasks barely register.",
+    "3. The hidden bottleneck\n\nCost per task feels cheap until you realize the real drag is the human time spent fixing outputs that never needed expensive models.",
+    "4. Reprice before renewal\n\nYou can now remap each workflow to the cheapest model that still delivers, and see the impact before the next bill hits.",
+    "5. Audit one workflow now\n\nPick your most expensive workflow today. Compare its token cost to a cheaper model on the same task. If you haven't done it, that's your bottleneck."
+  ],
+  "video_script": [
+    "Anthropic's new tools show what your AI spend actually buys.",
+    "They reveal which tasks consume the most tokens by far.",
+    "But cost per task often hides the real bottleneck: human fixes.",
+    "Teams can now reprice workflows before the next invoice arrives.",
+    "Audit one high-cost workflow today and compare cheaper models."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The invoice you don't read\n\nAnthropic's new tools show exactly which tasks burn the most tokens — and most teams have never checked.",
+        "2. Token hogs exposed\n\nHigh reasoning and long context requests are devouring your budget, while simple formatting tasks barely register.",
+        "3. The hidden bottleneck\n\nCost per task feels cheap until you realize the real drag is the human time spent fixing outputs that never needed expensive models.",
+        "4. Reprice before renewal\n\nYou can now remap each workflow to the cheapest model that still delivers, and see the impact before the next bill hits.",
+        "5. Audit one workflow now\n\nPick your most expensive workflow today. Compare its token cost to a cheaper model on the same task. If you haven't done it, that's your bottleneck."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic's new tools show what your AI spend actually buys.",
+        "They reveal which tasks consume the most tokens by far.",
+        "But cost per task often hides the real bottleneck: human fixes.",
+        "Teams can now reprice workflows before the next invoice arrives.",
+        "Audit one high-cost workflow today and compare cheaper models."
+      ]
+    },
+    "instagram": {
+      "caption": "You're paying for tokens you never audited.\n\nAnthropic launched tools that show which tasks burn the most of your AI budget — and most teams have never checked.\n\nHigh reasoning and long context requests eat the spend, while simple formatting barely registers.\n\nThe real bottleneck often hides in human time spent fixing outputs that never needed an expensive model. 📊\n\nNow you can remap each workflow to the cheapest model that still delivers and see the cost before the next invoice. 💡\n\nPick your most expensive workflow today and compare its token cost to a cheaper model on the same task. 🔍\n\nIf you haven't done it yet, what's stopping you? 👀"
+    }
+  },
+  "instagram_caption": "You're paying for tokens you never audited.\n\nAnthropic launched tools that show which tasks burn the most of your AI budget — and most teams have never checked.\n\nHigh reasoning and long context requests eat the spend, while simple formatting barely registers.\n\nThe real bottleneck often hides in human time spent fixing outputs that never needed an expensive model. 📊\n\nNow you can remap each workflow to the cheapest model that still delivers and see the cost before the next invoice. 💡\n\nPick your most expensive workflow today and compare its token cost to a cheaper model on the same task. 🔍\n\nIf you haven't done it yet, what's stopping you? 👀",
+  "carousel_slides": [
+    {
+      "hook": "What is your AI spend actually buying?",
+      "description": "Anthropic's new tools reveal which tasks burn the most tokens, yet most teams have never checked their own invoice.",
+      "visual_hint": "Invoice with magnifying glass overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "paper invoice"
+    },
+    {
+      "hook": "Token hogs are eating your budget",
+      "description": "High reasoning and long context requests devour budget while simple formatting tasks barely register on the meter.",
+      "visual_hint": "Bar chart with token consumption spikes",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "bar chart",
+      "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cost per task hides real bottleneck",
+      "description": "Cost per task feels cheap until you realize human time fixing outputs is the real drag, not model price.",
+      "visual_hint": "Person frustrated at computer screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "office worker computer",
+      "image": "https://images.pexels.com/photos/12903349/pexels-photo-12903349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Reprice workflows before the next invoice",
+      "description": "You can now remap each workflow to the cheapest model that still delivers and see the impact before billing.",
+      "visual_hint": "Hand adjusting dial on control panel",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "control panel dial",
+      "image": "https://images.pexels.com/photos/15779816/pexels-photo-15779816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and audit one workflow",
+      "description": "Pick your most expensive workflow today, compare its token cost to a cheaper model on the same task.",
+      "visual_hint": "Checklist with audit stamp",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/claude-enterprise-social-smartreports-five-beats-gray200-animated-1080x608-v032.gif?w=1080",
+  "savedAt": "2026-10-29T07:51:14.842Z",
+  "sourceId": "b2173123b9bf5b7b31e0f2490e63a69e"
+}

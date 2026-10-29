@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "microsoft-recorded-10-billion-in-revenue-from-open",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+  "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+  "pubDate": "Wed, 28 Oct 2026 21:34:30 +0000",
+  "slides": [
+    "What is Microsoft really buying from OpenAI?",
+    "Ten billion dollars in revenue, but from what exactly?",
+    "Most of it is compute, not software licenses",
+    "Your Azure bill may soon look different",
+    "Check where your AI costs actually land"
+  ],
+  "thread_text": [
+    "1. Microsoft's Real OpenAI Buy\n\nMicrosoft isn't just investing in OpenAI—it's securing compute capacity. Most of the $10B revenue is Azure compute, not software licenses.",
+    "2. $10B Revenue Mystery\n\nThat revenue comes from OpenAI paying Microsoft for cloud services. It's a circular deal: Microsoft invests, OpenAI spends it back on Azure.",
+    "3. Compute Over Licenses\n\nSoftware licenses are a small slice. The bulk is GPU hours and infrastructure—essential for training and running AI models.",
+    "4. Azure Bills Changing\n\nAs OpenAI's usage grows, Azure's cost structure shifts. Expect pricing and billing to reflect this compute-heavy reality.",
+    "5. Audit Your AI Spend\n\nCheck your Azure bill: how much is compute vs. software? If compute dominates, renegotiate or optimize now."
+  ],
+  "video_script": [
+    "Microsoft's OpenAI deal is mostly about compute, not licenses.",
+    "OpenAI pays Microsoft for Azure cloud, creating a circular revenue loop.",
+    "Most of that ten billion is GPU hours, not software.",
+    "Your Azure bill might soon reflect this compute-heavy shift.",
+    "Check your AI costs: how much is compute versus software?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Microsoft's Real OpenAI Buy\n\nMicrosoft isn't just investing in OpenAI—it's securing compute capacity. Most of the $10B revenue is Azure compute, not software licenses.",
+        "2. $10B Revenue Mystery\n\nThat revenue comes from OpenAI paying Microsoft for cloud services. It's a circular deal: Microsoft invests, OpenAI spends it back on Azure.",
+        "3. Compute Over Licenses\n\nSoftware licenses are a small slice. The bulk is GPU hours and infrastructure—essential for training and running AI models.",
+        "4. Azure Bills Changing\n\nAs OpenAI's usage grows, Azure's cost structure shifts. Expect pricing and billing to reflect this compute-heavy reality.",
+        "5. Audit Your AI Spend\n\nCheck your Azure bill: how much is compute vs. software? If compute dominates, renegotiate or optimize now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Microsoft's OpenAI deal is mostly about compute, not licenses.",
+        "OpenAI pays Microsoft for Azure cloud, creating a circular revenue loop.",
+        "Most of that ten billion is GPU hours, not software.",
+        "Your Azure bill might soon reflect this compute-heavy shift.",
+        "Check your AI costs: how much is compute versus software?"
+      ]
+    },
+    "instagram": {
+      "caption": "Most of Microsoft's $10 billion from OpenAI isn't software licenses — it's Azure compute.\n\nOpenAI pays Microsoft for cloud services, and Microsoft invests that money back. A circular deal where GPU hours and infrastructure make up the bulk.\n\nThat means Azure's cost structure is shifting toward compute-heavy billing, and pricing may follow.\n\nIf you build or publish with AI tools, your cloud bill might start reflecting this — check how much of your spend is compute versus software. 💸\n\nWorth auditing now, before the next invoice surprises you. 🔍\n\nHow much of your last Azure bill was GPU hours? ⚙️"
+    }
+  },
+  "instagram_caption": "Most of Microsoft's $10 billion from OpenAI isn't software licenses — it's Azure compute.\n\nOpenAI pays Microsoft for cloud services, and Microsoft invests that money back. A circular deal where GPU hours and infrastructure make up the bulk.\n\nThat means Azure's cost structure is shifting toward compute-heavy billing, and pricing may follow.\n\nIf you build or publish with AI tools, your cloud bill might start reflecting this — check how much of your spend is compute versus software. 💸\n\nWorth auditing now, before the next invoice surprises you. 🔍\n\nHow much of your last Azure bill was GPU hours? ⚙️",
+  "carousel_slides": [
+    {
+      "hook": "Is Microsoft really buying OpenAI's revenue?",
+      "description": "Most of the $10B is Azure compute, not software licenses. That changes what the deal actually means.",
+      "visual_hint": "Abstract server room with glowing racks",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Ten billion dollars—but from what?",
+      "description": "OpenAI pays Microsoft for cloud services. It's circular: Microsoft invests, OpenAI spends it back on Azure.",
+      "visual_hint": "Circular flow diagram of money and services",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "cloud computing",
+      "image": "https://images.pexels.com/photos/12899121/pexels-photo-12899121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Compute, not licenses, drives the revenue",
+      "description": "GPU hours and infrastructure make up the bulk. Software licenses are just a small slice of the pie.",
+      "visual_hint": "Close-up of GPU chips in a data center",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "GPU chip",
+      "image": "https://images.pexels.com/photos/34552801/pexels-photo-34552801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your Azure bill is about to shift",
+      "description": "As OpenAI's usage grows, Azure's cost structure changes. Expect pricing and billing to reflect compute-heavy reality.",
+      "visual_hint": "Hand holding a tablet with billing dashboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "billing dashboard",
+      "image": "https://images.pexels.com/photos/8296949/pexels-photo-8296949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your AI spend now—save this",
+      "description": "Check your Azure bill: how much is compute vs. software? If compute dominates, renegotiate or optimize today.",
+      "visual_hint": "Checklist with magnifying glass on invoice",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "audit checklist",
+      "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800",
+  "savedAt": "2026-10-29T07:50:56.369Z",
+  "sourceId": "65911ac3f4f50838b86edb6d63438f9c"
+}

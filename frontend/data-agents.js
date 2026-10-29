@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "anthropic-just-launched-tools-to-show-companies-wh",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "pubDate": "Wed, 28 Oct 2026 19:19:58 +0000",
+      "slides": [
+        "Anthropic's new tools: what is your AI spend buying?",
+        "They reveal which tasks consume the most tokens",
+        "But cost per task often hides the real bottleneck",
+        "Teams can now reprice workflows before the next invoice",
+        "Audit one high-cost workflow today and compare"
+      ],
+      "thread_text": [
+        "1. The invoice you don't read\n\nAnthropic's new tools show exactly which tasks burn the most tokens — and most teams have never checked.",
+        "2. Token hogs exposed\n\nHigh reasoning and long context requests are devouring your budget, while simple formatting tasks barely register.",
+        "3. The hidden bottleneck\n\nCost per task feels cheap until you realize the real drag is the human time spent fixing outputs that never needed expensive models.",
+        "4. Reprice before renewal\n\nYou can now remap each workflow to the cheapest model that still delivers, and see the impact before the next bill hits.",
+        "5. Audit one workflow now\n\nPick your most expensive workflow today. Compare its token cost to a cheaper model on the same task. If you haven't done it, that's your bottleneck."
+      ],
+      "video_script": [
+        "Anthropic's new tools show what your AI spend actually buys.",
+        "They reveal which tasks consume the most tokens by far.",
+        "But cost per task often hides the real bottleneck: human fixes.",
+        "Teams can now reprice workflows before the next invoice arrives.",
+        "Audit one high-cost workflow today and compare cheaper models."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The invoice you don't read\n\nAnthropic's new tools show exactly which tasks burn the most tokens — and most teams have never checked.",
+            "2. Token hogs exposed\n\nHigh reasoning and long context requests are devouring your budget, while simple formatting tasks barely register.",
+            "3. The hidden bottleneck\n\nCost per task feels cheap until you realize the real drag is the human time spent fixing outputs that never needed expensive models.",
+            "4. Reprice before renewal\n\nYou can now remap each workflow to the cheapest model that still delivers, and see the impact before the next bill hits.",
+            "5. Audit one workflow now\n\nPick your most expensive workflow today. Compare its token cost to a cheaper model on the same task. If you haven't done it, that's your bottleneck."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Anthropic's new tools show what your AI spend actually buys.",
+            "They reveal which tasks consume the most tokens by far.",
+            "But cost per task often hides the real bottleneck: human fixes.",
+            "Teams can now reprice workflows before the next invoice arrives.",
+            "Audit one high-cost workflow today and compare cheaper models."
+          ]
+        },
+        "instagram": {
+          "caption": "You're paying for tokens you never audited.\n\nAnthropic launched tools that show which tasks burn the most of your AI budget — and most teams have never checked.\n\nHigh reasoning and long context requests eat the spend, while simple formatting barely registers.\n\nThe real bottleneck often hides in human time spent fixing outputs that never needed an expensive model. 📊\n\nNow you can remap each workflow to the cheapest model that still delivers and see the cost before the next invoice. 💡\n\nPick your most expensive workflow today and compare its token cost to a cheaper model on the same task. 🔍\n\nIf you haven't done it yet, what's stopping you? 👀"
+        }
+      },
+      "instagram_caption": "You're paying for tokens you never audited.\n\nAnthropic launched tools that show which tasks burn the most of your AI budget — and most teams have never checked.\n\nHigh reasoning and long context requests eat the spend, while simple formatting barely registers.\n\nThe real bottleneck often hides in human time spent fixing outputs that never needed an expensive model. 📊\n\nNow you can remap each workflow to the cheapest model that still delivers and see the cost before the next invoice. 💡\n\nPick your most expensive workflow today and compare its token cost to a cheaper model on the same task. 🔍\n\nIf you haven't done it yet, what's stopping you? 👀",
+      "carousel_slides": [
+        {
+          "hook": "What is your AI spend actually buying?",
+          "description": "Anthropic's new tools reveal which tasks burn the most tokens, yet most teams have never checked their own invoice.",
+          "visual_hint": "Invoice with magnifying glass overlay",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "paper invoice"
+        },
+        {
+          "hook": "Token hogs are eating your budget",
+          "description": "High reasoning and long context requests devour budget while simple formatting tasks barely register on the meter.",
+          "visual_hint": "Bar chart with token consumption spikes",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "bar chart",
+          "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cost per task hides real bottleneck",
+          "description": "Cost per task feels cheap until you realize human time fixing outputs is the real drag, not model price.",
+          "visual_hint": "Person frustrated at computer screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "office worker computer",
+          "image": "https://images.pexels.com/photos/12903349/pexels-photo-12903349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Reprice workflows before the next invoice",
+          "description": "You can now remap each workflow to the cheapest model that still delivers and see the impact before billing.",
+          "visual_hint": "Hand adjusting dial on control panel",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "control panel dial",
+          "image": "https://images.pexels.com/photos/15779816/pexels-photo-15779816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this and audit one workflow",
+          "description": "Pick your most expensive workflow today, compare its token cost to a cheaper model on the same task.",
+          "visual_hint": "Checklist with audit stamp",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/claude-enterprise-social-smartreports-five-beats-gray200-animated-1080x608-v032.gif?w=1080",
+      "savedAt": "2026-10-29T07:51:14.842Z",
+      "sourceId": "b2173123b9bf5b7b31e0f2490e63a69e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "hacker-stole-personnel-data-about-thousands-of-hom",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+      "link": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+      "pubDate": "Wed, 28 Oct 2026 20:01:00 +0000",
+      "slides": [
+        "Who inside Homeland Security just got exposed?",
+        "A hacker breached personnel records of thousands of agents",
+        "The stolen data may include undercover identities",
+        "Current and former employees should watch for targeting",
+        "Ask: what's your agency's real breach response plan?"
+      ],
+      "thread_text": [
+        "5. Who got exposed?\n\nA hacker breached personnel records of thousands of Homeland Security agents. The stolen data may include undercover identities.",
+        "6. Undercover agents at risk\n\nCurrent and former employees should watch for targeting. The breach response plan is now in question.",
+        "7. Breach response plan?\n\nAgencies need to ask: what's your real breach response plan? The stolen data could put agents in danger.",
+        "8. Data includes identities\n\nThe stolen data may include undercover identities. This is a serious security breach.",
+        "9. Action needed now\n\nCurrent and former employees should watch for targeting. Ask: what's your agency's real breach response plan?"
+      ],
+      "video_script": [
+        "A hacker breached Homeland Security personnel records.",
+        "Thousands of agents' data may be stolen.",
+        "Undercover identities could be exposed.",
+        "Current and former employees should watch for targeting.",
+        "Ask: what's your agency's real breach response plan?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "5. Who got exposed?\n\nA hacker breached personnel records of thousands of Homeland Security agents. The stolen data may include undercover identities.",
+            "6. Undercover agents at risk\n\nCurrent and former employees should watch for targeting. The breach response plan is now in question.",
+            "7. Breach response plan?\n\nAgencies need to ask: what's your real breach response plan? The stolen data could put agents in danger.",
+            "8. Data includes identities\n\nThe stolen data may include undercover identities. This is a serious security breach.",
+            "9. Action needed now\n\nCurrent and former employees should watch for targeting. Ask: what's your agency's real breach response plan?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A hacker breached Homeland Security personnel records.",
+            "Thousands of agents' data may be stolen.",
+            "Undercover identities could be exposed.",
+            "Current and former employees should watch for targeting.",
+            "Ask: what's your agency's real breach response plan?"
+          ]
+        },
+        "instagram": {
+          "caption": "A hacker stole personnel records of thousands of Homeland Security agents — including people working undercover.\n\nThe breach hits current and former employees at agencies like Customs and Border Protection and Immigration and Customs Enforcement. 🚨\n\nSome stolen files may expose undercover identities, putting agents and their operations at risk.\n\nIf you write about security or government, verify the facts before amplifying names or details that could endanger someone. ⚠️\n\nWhat would your organization actually do in the first 24 hours after a breach like this? 🔍"
+        }
+      },
+      "instagram_caption": "A hacker stole personnel records of thousands of Homeland Security agents — including people working undercover.\n\nThe breach hits current and former employees at agencies like Customs and Border Protection and Immigration and Customs Enforcement. 🚨\n\nSome stolen files may expose undercover identities, putting agents and their operations at risk.\n\nIf you write about security or government, verify the facts before amplifying names or details that could endanger someone. ⚠️\n\nWhat would your organization actually do in the first 24 hours after a breach like this? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Undercover agents' identities may be exposed",
+          "description": "A hacker breached Homeland Security personnel records, potentially revealing undercover identities of thousands of agents.",
+          "visual_hint": "Hooded figure at computer screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "hooded hacker"
+        },
+        {
+          "hook": "Thousands of agents' records compromised",
+          "description": "Personnel files of CBP and ICE agents were stolen, raising fears of targeted attacks on current and former employees.",
+          "visual_hint": "Server room with blinking lights",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Stolen data could endanger undercover agents",
+          "description": "The breach may include undercover identities, putting agents' safety at risk and prompting urgent security reviews.",
+          "visual_hint": "Close-up of a fingerprint scanner",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "fingerprint scanner",
+          "image": "https://images.pexels.com/photos/7479535/pexels-photo-7479535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Current and former employees targeted",
+          "description": "Agents should watch for suspicious activity as the breach response plan is questioned and identities may be exploited.",
+          "visual_hint": "Person looking at phone suspiciously",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person phone alert",
+          "image": "https://images.pexels.com/photos/6034771/pexels-photo-6034771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Does your agency have a breach plan?",
+          "description": "Ask your agency about its real breach response plan. Save this post and share to demand accountability.",
+          "visual_hint": "Padlock on a laptop keyboard",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "padlock laptop",
+          "image": "https://images.pexels.com/photos/13805850/pexels-photo-13805850.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/dhs-2255143488.jpg?resize=1200,800",
+      "savedAt": "2026-10-29T07:51:05.255Z",
+      "sourceId": "fb104c013e478dd6e7932809c1273676"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "microsoft-recorded-10-billion-in-revenue-from-open",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "pubDate": "Wed, 28 Oct 2026 21:34:30 +0000",
+      "slides": [
+        "What is Microsoft really buying from OpenAI?",
+        "Ten billion dollars in revenue, but from what exactly?",
+        "Most of it is compute, not software licenses",
+        "Your Azure bill may soon look different",
+        "Check where your AI costs actually land"
+      ],
+      "thread_text": [
+        "1. Microsoft's Real OpenAI Buy\n\nMicrosoft isn't just investing in OpenAI—it's securing compute capacity. Most of the $10B revenue is Azure compute, not software licenses.",
+        "2. $10B Revenue Mystery\n\nThat revenue comes from OpenAI paying Microsoft for cloud services. It's a circular deal: Microsoft invests, OpenAI spends it back on Azure.",
+        "3. Compute Over Licenses\n\nSoftware licenses are a small slice. The bulk is GPU hours and infrastructure—essential for training and running AI models.",
+        "4. Azure Bills Changing\n\nAs OpenAI's usage grows, Azure's cost structure shifts. Expect pricing and billing to reflect this compute-heavy reality.",
+        "5. Audit Your AI Spend\n\nCheck your Azure bill: how much is compute vs. software? If compute dominates, renegotiate or optimize now."
+      ],
+      "video_script": [
+        "Microsoft's OpenAI deal is mostly about compute, not licenses.",
+        "OpenAI pays Microsoft for Azure cloud, creating a circular revenue loop.",
+        "Most of that ten billion is GPU hours, not software.",
+        "Your Azure bill might soon reflect this compute-heavy shift.",
+        "Check your AI costs: how much is compute versus software?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Microsoft's Real OpenAI Buy\n\nMicrosoft isn't just investing in OpenAI—it's securing compute capacity. Most of the $10B revenue is Azure compute, not software licenses.",
+            "2. $10B Revenue Mystery\n\nThat revenue comes from OpenAI paying Microsoft for cloud services. It's a circular deal: Microsoft invests, OpenAI spends it back on Azure.",
+            "3. Compute Over Licenses\n\nSoftware licenses are a small slice. The bulk is GPU hours and infrastructure—essential for training and running AI models.",
+            "4. Azure Bills Changing\n\nAs OpenAI's usage grows, Azure's cost structure shifts. Expect pricing and billing to reflect this compute-heavy reality.",
+            "5. Audit Your AI Spend\n\nCheck your Azure bill: how much is compute vs. software? If compute dominates, renegotiate or optimize now."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Microsoft's OpenAI deal is mostly about compute, not licenses.",
+            "OpenAI pays Microsoft for Azure cloud, creating a circular revenue loop.",
+            "Most of that ten billion is GPU hours, not software.",
+            "Your Azure bill might soon reflect this compute-heavy shift.",
+            "Check your AI costs: how much is compute versus software?"
+          ]
+        },
+        "instagram": {
+          "caption": "Most of Microsoft's $10 billion from OpenAI isn't software licenses — it's Azure compute.\n\nOpenAI pays Microsoft for cloud services, and Microsoft invests that money back. A circular deal where GPU hours and infrastructure make up the bulk.\n\nThat means Azure's cost structure is shifting toward compute-heavy billing, and pricing may follow.\n\nIf you build or publish with AI tools, your cloud bill might start reflecting this — check how much of your spend is compute versus software. 💸\n\nWorth auditing now, before the next invoice surprises you. 🔍\n\nHow much of your last Azure bill was GPU hours? ⚙️"
+        }
+      },
+      "instagram_caption": "Most of Microsoft's $10 billion from OpenAI isn't software licenses — it's Azure compute.\n\nOpenAI pays Microsoft for cloud services, and Microsoft invests that money back. A circular deal where GPU hours and infrastructure make up the bulk.\n\nThat means Azure's cost structure is shifting toward compute-heavy billing, and pricing may follow.\n\nIf you build or publish with AI tools, your cloud bill might start reflecting this — check how much of your spend is compute versus software. 💸\n\nWorth auditing now, before the next invoice surprises you. 🔍\n\nHow much of your last Azure bill was GPU hours? ⚙️",
+      "carousel_slides": [
+        {
+          "hook": "Is Microsoft really buying OpenAI's revenue?",
+          "description": "Most of the $10B is Azure compute, not software licenses. That changes what the deal actually means.",
+          "visual_hint": "Abstract server room with glowing racks",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Ten billion dollars—but from what?",
+          "description": "OpenAI pays Microsoft for cloud services. It's circular: Microsoft invests, OpenAI spends it back on Azure.",
+          "visual_hint": "Circular flow diagram of money and services",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "cloud computing",
+          "image": "https://images.pexels.com/photos/12899121/pexels-photo-12899121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Compute, not licenses, drives the revenue",
+          "description": "GPU hours and infrastructure make up the bulk. Software licenses are just a small slice of the pie.",
+          "visual_hint": "Close-up of GPU chips in a data center",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "GPU chip",
+          "image": "https://images.pexels.com/photos/34552801/pexels-photo-34552801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your Azure bill is about to shift",
+          "description": "As OpenAI's usage grows, Azure's cost structure changes. Expect pricing and billing to reflect compute-heavy reality.",
+          "visual_hint": "Hand holding a tablet with billing dashboard",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "billing dashboard",
+          "image": "https://images.pexels.com/photos/8296949/pexels-photo-8296949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your AI spend now—save this",
+          "description": "Check your Azure bill: how much is compute vs. software? If compute dominates, renegotiate or optimize today.",
+          "visual_hint": "Checklist with magnifying glass on invoice",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "audit checklist",
+          "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800",
+      "savedAt": "2026-10-29T07:50:56.369Z",
+      "sourceId": "65911ac3f4f50838b86edb6d63438f9c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-expands-ai-search-ads-globally-as-core-ad-g",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "pubDate": "Wed, 28 Oct 2026 21:48:37 +0000",
+      "slides": [
+        "Can Google's AI ads win back slowing growth?",
+        "AI Search ads now roll out worldwide",
+        "But users may scroll past sponsored answers",
+        "Advertisers must rethink keyword-heavy campaigns now",
+        "Test one AI ad format before your competitors do"
+      ],
+      "thread_text": [
+        "1. Google's AI ad gamble\n\nAI-powered Search ads just went global, betting growth can come from sponsored answers inside AI Overviews.",
+        "2. The scroll problem\n\nEarly data shows users often skip sponsored answers entirely, treating them like traditional banner blindness.",
+        "3. Keyword era ending\n\nGoogle's AI matches intent, not strings, so campaigns built on exact-match lists may waste budget on the wrong queries.",
+        "4. Who adapts first wins\n\nAdvertisers testing AI formats now get cheaper learning cycles before competitors crowd the auction.",
+        "5. Test one format today\n\nRun a small AI ad test in your account this week. Did it beat your keyword campaigns? Tell me your result."
+      ],
+      "video_script": [
+        "Google's AI ads are now rolling out worldwide.",
+        "Users might just scroll past those sponsored answers.",
+        "That means keyword-heavy campaigns could waste your budget.",
+        "Test one AI ad format before your competitors do.",
+        "Try it this week and check the numbers."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Google's AI ad gamble\n\nAI-powered Search ads just went global, betting growth can come from sponsored answers inside AI Overviews.",
+            "2. The scroll problem\n\nEarly data shows users often skip sponsored answers entirely, treating them like traditional banner blindness.",
+            "3. Keyword era ending\n\nGoogle's AI matches intent, not strings, so campaigns built on exact-match lists may waste budget on the wrong queries.",
+            "4. Who adapts first wins\n\nAdvertisers testing AI formats now get cheaper learning cycles before competitors crowd the auction.",
+            "5. Test one format today\n\nRun a small AI ad test in your account this week. Did it beat your keyword campaigns? Tell me your result."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google's AI ads are now rolling out worldwide.",
+            "Users might just scroll past those sponsored answers.",
+            "That means keyword-heavy campaigns could waste your budget.",
+            "Test one AI ad format before your competitors do.",
+            "Try it this week and check the numbers."
+          ]
+        },
+        "instagram": {
+          "caption": "Sponsored answers inside AI Overviews now show up for users worldwide, not just in test markets.\n\nGoogle is betting on AI Search ads as its core ad business slows. 💰\n\nEarly data suggests people often scroll straight past those sponsored answers, like banner blindness.\n\nThat means campaigns built on exact-match keyword lists may now waste budget on queries Google's AI reads differently.\n\nIf you run ads, one small test of an AI format this week could show you whether it beats your keyword campaigns. 📊\n\nWill you test one before your competitors crowd the auction? 🤔"
+        }
+      },
+      "instagram_caption": "Sponsored answers inside AI Overviews now show up for users worldwide, not just in test markets.\n\nGoogle is betting on AI Search ads as its core ad business slows. 💰\n\nEarly data suggests people often scroll straight past those sponsored answers, like banner blindness.\n\nThat means campaigns built on exact-match keyword lists may now waste budget on queries Google's AI reads differently.\n\nIf you run ads, one small test of an AI format this week could show you whether it beats your keyword campaigns. 📊\n\nWill you test one before your competitors crowd the auction? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Are users ignoring Google's new AI ads?",
+          "description": "Early data shows users often skip sponsored answers, treating them like banner blindness, so ad visibility may drop.",
+          "visual_hint": "Split screen: ad vs organic answer",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone screen"
+        },
+        {
+          "hook": "AI Search ads now go global",
+          "description": "Google expanded AI-powered Search ads worldwide, betting growth can come from sponsored answers inside AI Overviews.",
+          "visual_hint": "World map with glowing search icons",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "world map",
+          "image": "https://images.pexels.com/photos/5137785/pexels-photo-5137785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Users scroll past sponsored answers",
+          "description": "Early data reveals users skip sponsored answers like banner blindness, so advertisers must rethink visibility.",
+          "visual_hint": "Finger scrolling past ad label",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "hand scrolling phone",
+          "image": "https://images.pexels.com/photos/5239922/pexels-photo-5239922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Keyword campaigns may waste budget",
+          "description": "Google's AI matches intent, not strings, so exact-match keyword lists may waste budget on wrong queries.",
+          "visual_hint": "Old keyword list vs AI intent map",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "marketing dashboard",
+          "image": "https://images.pexels.com/photos/7181178/pexels-photo-7181178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one AI ad format this week",
+          "description": "Run a small AI ad test in your account now and see if it beats your keyword campaigns.",
+          "visual_hint": "Dashboard with test results",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "analytics dashboard",
+          "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-10-29T07:50:46.500Z",
+      "sourceId": "34b53368a5c19b91602d45edd7bceafb"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "firefox-s-smart-window-adds-ai-form-filling-and-we",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -201564,6 +201980,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pasta-con-crema-di-finocchi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pasta con crema di finocchi",
+      "link": "https://ricette.giallozafferano.it/Pasta-con-crema-di-finocchi.html",
+      "pubDate": "Wed, 28 Oct 2026 14:31:00 +0100",
+      "content": "Pasta con crema di finocchi, nocciole e Parmigiano Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Contenuto Sponsorizzato Pasta con crema di finocchi /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici 349,7 Calorie per porzione Energia Kcal 349,7 Carboidrati g 39,5 &nbsp;&nbsp;di cui zuccheri g 7,3 Proteine g 14,4 Grassi g 16,1 &nbsp;&nbsp;di cui saturi g 4,3 Fibre g 7,6 Colesterolo mg 29,1 Sodio mg 600,1 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Light Senza lattosio Vegetariano Difficoltà: Facile Preparazione: 20 min Cottura: 40 min Dosi per: 4 persone Ascolta la ricetta Ascolta su Spreaker. Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti PRESENTAZIONE La pasta con crema di finocchi è un modo per portare in tavola questi ortaggi di stagione in una veste originale e appetitosa. I finocchi vengono prima cotti in forno insieme allo scalogno e poi frullati fino ad ottenere una crema vellutata e avvolgente, ideale per condire gli gnocchetti sardi. Il Parmigiano Reggiano, aggiunto sia nella crema che a scaglie sul piatto finito, conferisce sapidità e struttura al condimento, mentre le nocciole tostate lo completano con una nota croccante. Il profumo inconfondibile dei finocchi, inoltre, è esaltato dall’utilizzo di erbe aromatiche come timo, maggiorana e salvia che ne accentuano la freschezza senza coprirne il sapore. Raffinata ma molto facile da preparare, la pasta con crema di finocchi è un primo piatto diverso dal solito che stupirà i vostri ospiti con il suo gusto sfizioso ed equilibrato. Scoprite altre gustose ricette di pasta con i finocchi: Pasta gratinata con finocchi e besciamella Pasta con sedano, finocchi e olive taggiasche Pasta al salmone con crema di porri Pasta with fennel cream INGREDIENTI 349,7 Calorie per porzione Gnocchetti sardi 320 g Finocchi (da pulire) 500 g Scalogno 70 g Parmigiano Reggiano DOP 50 g Olio extravergine d'oliva q.b. Sale fino q.b. Pepe nero q.b. per guarnire Nocciole intere spellate 40 g Parmigiano Reggiano DOP 30 g Timo q.b. Maggiorana q.b. Salvia q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta con crema di finocchi Per preparare la pasta con crema di finocchi, per prima cosa mondate i finocchi eliminando le estremità 1 e lo strato più esterno 2 , poi tagliateli a fette. Tenete da parte la barbetta che vi servirà per l’impiattamento. Mondate e tagliate grossolanamente anche lo scalogno 3 . Distribuite i finocchi e lo scalogno in una teglia, poi condite con sale 4 e olio 5 . Cuocete in forno statico preriscaldato a 200° per 35 minuti. Durante gli ultimi 10 minuti di cottura infornate anche le nocciole in una teglia a parte, fino a tostatura 6 . A questo punto cuocete gli gnocchetti sardi in acqua bollente salata 7 . Sfornate la teglia con i finocchi 8 e trasferite il tutto in un boccale, poi versate un mestolo dell’acqua di cottura della pasta 9 . Frullate con un mixer a immersione 10 per ottenere una crema liscia e omogenea 11 . Versate la crema in una padella 12 . Scolate gli gnocchetti al dente e trasferiteli nella padella con la crema di finocchi 13 . Mescolate per condirli uniformemente, poi mantecate a fuoco spento con un filo d’olio 14 , il Parmigiano Reggiano grattugiato 15 e una macinata di pepe. Amalgamate bene il tutto 16 . Tenete un attimo da parte e tritate grossolanamente le nocciole tostate 17 , poi ricavate le scaglie di Parmigiano Reggiano con un pelapatate 18 . Impiattate la pasta e guarnite con le nocciole tritate 19 , la barbetta dei finocchi 20 e la maggiorana 21 . Profumate anche con il timo e la salvia 22 . In ultimo, completate con le scaglie di Parmigiano Reggiano 23 . La vostra pasta con crema di finocchi è pronta per essere servita 24 ! Conservazione La pasta con crema di finocchi si può conservare in frigorifero per 2 giorni. Consiglio In alternativa al forno, potete arrostire i finocchi e lo scalogno in una padella a fuoco medio per circa 30 minuti (il tempo di cottura può variare a seconda dello spessore dei finocchi). Parmigiano Reggiano: la stagionatura fa il piatto Dal 12 mesi, delicato per i tuoi aperitivi, al 24 mesi, ideale per mantecare i primi piatti, fino al 36 mesi, perfetto per dare grinta a un ripieno o a un carpaccio. Ad ogni ricetta la sua stagionatura: scopri come scegliere quella giusta per esaltare i tuoi piatti e creare nuovi abbinamenti. Scopri di più Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Timo Salvia Pasta Olio di oliva Maggiorana Finocchi Scalogno Parmigiano Reggiano Scopri tutto sugli ingredienti Presente in: Primi piatti sfiziosi , Primi piatti al forno , Ricette sfiziose , Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Contorni Finocchi in padella 17 4.0 I finocchi in padella sono un contorno veloce, realizzato saltando spicchi di finocchi in padella con olio, sale, pepe e timo. Scopri qui la ricetta! Vai alla ricetta Contorni Finocchi al forno 1 4.5 I finocchi al forno sono un contorno invernale facilissimo da preparare. Senza panatura, ma insaporiti con un'emulsione di olio, miele e prezzemolo! Vai alla ricetta Contorni Finocchi al cartoccio 1 4.4 I finocchi al cartoccio sono un contorno saporito e genuino arricchito con olive, capperi e pomodori secchi. Scopri questa ricetta facilissima! Vai alla ricetta Primi piatti Pasta gratinata con finocchi e besciamella 1 4.7 La pasta gratinata con finocchi e besciamella è un appetitoso primo piatto vegetariano dal gusto delicato e avvolgente, semplice da preparare. Vai alla ricetta Contorni Finocchi gratinati con besciamella 4.2 I finocchi gratinati con besciamella sono un appetitoso contorno cotto al forno. Scopri come prepararli a casa con la nostra ricetta facile e gustosa! Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. e all’utilizzo di pixel di tracciamento nelle suddette comunicazioni per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne Si No Prosegui 1",
+      "slides": [
+        "Vellutata, croccante, profumata: pasta con crema di finocchi",
+        "Finocchi, scalogno, Parmigiano Reggiano e nocciole tostate",
+        "Arrostisci finocchi e scalogno, poi frulla con acqua di cottura",
+        "Manteca gli gnocchetti con crema, olio e Parmigiano",
+        "Guarnisci con nocciole, scaglie, timo, salvia e maggiorana"
+      ],
+      "instagram_caption": "Vellutata, croccante, profumata: questa pasta con crema di finocchi è pura poesia 🌿\nFinocchi e scalogno arrostiti fino a diventare dorati, poi frullati con l'acqua di cottura per una crema setosa che avvolge gli gnocchetti.\nUna mantecatura con olio e Parmigiano Reggiano, e il gioco è fatto.\nChiudo con nocciole tostate, scaglie di Parmigiano e un mix di erbe aromatiche che profuma tutta la cucina ✨\nSalva la ricetta e provala questo weekend 🥂",
+      "formats": {
+        "instagram": {
+          "caption": "Vellutata, croccante, profumata: questa pasta con crema di finocchi è pura poesia 🌿\nFinocchi e scalogno arrostiti fino a diventare dorati, poi frullati con l'acqua di cottura per una crema setosa che avvolge gli gnocchetti.\nUna mantecatura con olio e Parmigiano Reggiano, e il gioco è fatto.\nChiudo con nocciole tostate, scaglie di Parmigiano e un mix di erbe aromatiche che profuma tutta la cucina ✨\nSalva la ricetta e provala questo weekend 🥂"
+        },
+        "tiktok": {
+          "script": [
+            "Vellutata e croccante: pasta con crema di finocchi!",
+            "Mi servono finocchi, scalogno, Parmigiano e nocciole tostate.",
+            "Arrostisco tutto e frullo con l'acqua di cottura.",
+            "Manteco gli gnocchetti con crema, olio e Parmigiano.",
+            "Guarnisco con nocciole, scaglie e erbe fresche. Buonissima!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "La pasta che sa di vellutata e croccante insieme: crema di finocchi, nocciole tostate e Parmigiano. Un piatto che profuma di domenica ma si prepara in 20 minuti. Fidati, il finocchio qui fa il botto.",
+            "Ti servono: finocchi, scalogno, Parmigiano Reggiano, nocciole tostate. Pochi ingredienti, zero sprechi. Il segreto? Arrostire finocchi e scalogno prima di frullarli: il sapore diventa profondo e dolce.",
+            "Arrostisci finocchi e scalogno in padella con un filo d'olio. Poi frulla tutto con un po' di acqua di cottura della pasta: otterrai una crema liscia e vellutata. Gli gnocchetti si mantecano da soli.",
+            "Cuoci gli gnocchetti, mantecali nella crema con olio e Parmigiano. Il calore della pasta lega tutto: la crema avvolge, il formaggio tira. Profumo da far girare la testa ai vicini.",
+            "Guarnisci con nocciole tostate, scaglie di Parmigiano, timo, salvia e maggiorana. Il contrasto croccante-fresco è la firma del piatto. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Vellutata e croccante: pasta con crema di finocchi!",
+        "Mi servono finocchi, scalogno, Parmigiano e nocciole tostate.",
+        "Arrostisco tutto e frullo con l'acqua di cottura.",
+        "Manteco gli gnocchetti con crema, olio e Parmigiano.",
+        "Guarnisco con nocciole, scaglie e erbe fresche. Buonissima!"
+      ],
+      "thread_text": [
+        "La pasta che sa di vellutata e croccante insieme: crema di finocchi, nocciole tostate e Parmigiano. Un piatto che profuma di domenica ma si prepara in 20 minuti. Fidati, il finocchio qui fa il botto.",
+        "Ti servono: finocchi, scalogno, Parmigiano Reggiano, nocciole tostate. Pochi ingredienti, zero sprechi. Il segreto? Arrostire finocchi e scalogno prima di frullarli: il sapore diventa profondo e dolce.",
+        "Arrostisci finocchi e scalogno in padella con un filo d'olio. Poi frulla tutto con un po' di acqua di cottura della pasta: otterrai una crema liscia e vellutata. Gli gnocchetti si mantecano da soli.",
+        "Cuoci gli gnocchetti, mantecali nella crema con olio e Parmigiano. Il calore della pasta lega tutto: la crema avvolge, il formaggio tira. Profumo da far girare la testa ai vicini.",
+        "Guarnisci con nocciole tostate, scaglie di Parmigiano, timo, salvia e maggiorana. Il contrasto croccante-fresco è la firma del piatto. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pasta con crema di finocchi vellutata",
+          "description": "Un primo cremoso e profumato, con croccante di nocciole: comfort food elegante in pochi minuti.",
+          "visual_hint": "piatto cremoso fumante",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory fennel pasta"
+        },
+        {
+          "hook": "Quattro ingredienti, carattere deciso",
+          "description": "Finocchi, scalogno, Parmigiano Reggiano e nocciole tostate: la semplicità che sorprende.",
+          "visual_hint": "ingredienti freschi sul tagliere",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory fennel ingredients",
+          "image": "https://images.pexels.com/photos/6128860/pexels-photo-6128860.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Arrostisci, frulla, crea la crema",
+          "description": "Finocchi e scalogno arrostiti, poi frullati con acqua di cottura: vellutata senza panna.",
+          "visual_hint": "frullatore crema verde",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory fennel cream",
+          "image": "https://images.pexels.com/photos/14856124/pexels-photo-14856124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manteca gli gnocchetti alla perfezione",
+          "description": "Mantecatura con crema di finocchi, olio e Parmigiano: ogni boccone avvolgente.",
+          "visual_hint": "mantecatura pasta in padella",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory pasta tossing",
+          "image": "https://images.pexels.com/photos/37406904/pexels-photo-37406904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Guarnisci e servi con carattere",
+          "description": "Nocciole, scaglie di Parmigiano ed erbe fresche: il tocco finale che fa la differenza.",
+          "visual_hint": "impiattamento con erbe e scaglie",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory fennel pasta plated",
+          "image": "https://images.pexels.com/photos/6659614/pexels-photo-6659614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "finocchi",
+        "Parmigiano Reggiano",
+        "nocciole tostate"
+      ],
+      "image": "https://www.giallozafferano.it/images/367-36774/Pasta-con-crema-di-finocchi_1200x800_wm.jpg",
+      "savedAt": "2026-10-29T07:55:22.189Z",
+      "sourceId": "dda79629a4ff4b15c9b513489e4ab5d1"
+    },
     {
       "schema_version": 2,
       "agent": "food",
