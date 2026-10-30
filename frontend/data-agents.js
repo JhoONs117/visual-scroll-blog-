@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "google-8217-s-satellite-ai-server-transmits-its-fi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+      "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "pubDate": "2026-10-30T18:21:38.000Z",
+      "slides": [
+        "Google's satellite AI just answered Earth — why now?",
+        "The model runs entirely in orbit, no ground link needed",
+        "But it can only process what its sensors capture first",
+        "Disaster response teams could get answers before downlink",
+        "Ask: who controls the model above your head?"
+      ],
+      "thread_text": [
+        "1. AI Just Left Earth\n\nA satellite just ran a full AI model in orbit, no ground link needed. That means decisions about what's happening on the ground could be made 500 km above your head.",
+        "2. Why Orbit Changes Everything\n\nThe model processes data on the spot, cutting the delay from hours to seconds. Disaster teams could get answers before the satellite even downlinks.",
+        "3. The Sensor Bottleneck\n\nIt can only analyze what its own eyes see. No ground truth, no extra data — just what the satellite's instruments captured first.",
+        "4. Who's Watching the Watcher?\n\nNo human in the loop for the first pass. That raises a simple question: who audits the model when it's out of reach?",
+        "5. Your Move\n\nNext time you hear 'AI in space', ask: who controls the model above your head? If you can't answer, that's the problem."
+      ],
+      "video_script": [
+        "A satellite just ran an AI model entirely in orbit.",
+        "No ground link needed — it thinks on its own.",
+        "But it only knows what its sensors capture first.",
+        "Disaster teams could get answers before downlink.",
+        "So who controls the model above your head?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI Just Left Earth\n\nA satellite just ran a full AI model in orbit, no ground link needed. That means decisions about what's happening on the ground could be made 500 km above your head.",
+            "2. Why Orbit Changes Everything\n\nThe model processes data on the spot, cutting the delay from hours to seconds. Disaster teams could get answers before the satellite even downlinks.",
+            "3. The Sensor Bottleneck\n\nIt can only analyze what its own eyes see. No ground truth, no extra data — just what the satellite's instruments captured first.",
+            "4. Who's Watching the Watcher?\n\nNo human in the loop for the first pass. That raises a simple question: who audits the model when it's out of reach?",
+            "5. Your Move\n\nNext time you hear 'AI in space', ask: who controls the model above your head? If you can't answer, that's the problem."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A satellite just ran an AI model entirely in orbit.",
+            "No ground link needed — it thinks on its own.",
+            "But it only knows what its sensors capture first.",
+            "Disaster teams could get answers before downlink.",
+            "So who controls the model above your head?"
+          ]
+        },
+        "instagram": {
+          "caption": "A Google satellite just ran a full AI model in orbit and sent its first answer back to Earth — no ground link needed.\n\nThe model processes data on the spot, cutting response time from hours to seconds. ⚡\n\nBut it can only analyze what its own sensors capture first — no ground truth, no extra data. 🛰️\n\nDisaster response teams could get answers before the satellite even downlinks. That changes how fast decisions reach people on the ground.\n\nNo human reviews the first pass. 👀\n\nSo who controls the model running 500 km above your head — and who audits it when it's out of reach?"
+        }
+      },
+      "instagram_caption": "A Google satellite just ran a full AI model in orbit and sent its first answer back to Earth — no ground link needed.\n\nThe model processes data on the spot, cutting response time from hours to seconds. ⚡\n\nBut it can only analyze what its own sensors capture first — no ground truth, no extra data. 🛰️\n\nDisaster response teams could get answers before the satellite even downlinks. That changes how fast decisions reach people on the ground.\n\nNo human reviews the first pass. 👀\n\nSo who controls the model running 500 km above your head — and who audits it when it's out of reach?",
+      "carousel_slides": [
+        {
+          "hook": "Who controls the AI above your head?",
+          "description": "A Google satellite AI just answered Earth, making decisions 500 km above you—without any human in the loop.",
+          "visual_hint": "Satellite orbiting Earth with AI brain",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "satellite orbit"
+        },
+        {
+          "hook": "No ground link needed anymore",
+          "description": "The model runs entirely in orbit, cutting disaster response from hours to seconds by processing data on the spot.",
+          "visual_hint": "Satellite with glowing onboard computer",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "satellite computer",
+          "image": "https://images.pexels.com/photos/5255312/pexels-photo-5255312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "It only sees what its sensors capture",
+          "description": "The AI can only analyze what its own instruments record—no ground truth, no extra data, just its first pass.",
+          "visual_hint": "Close-up of satellite sensor lens",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "satellite sensor",
+          "image": "https://images.pexels.com/photos/38143085/pexels-photo-38143085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Disaster teams get answers faster",
+          "description": "Response teams could receive AI analysis before the satellite even downlinks, accelerating critical decisions on the ground.",
+          "visual_hint": "Hand holding tablet with satellite map",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "disaster response team",
+          "image": "https://images.pexels.com/photos/8553092/pexels-photo-8553092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this and ask who's in control",
+          "description": "Next time you hear 'AI in space', demand transparency: who audits the model above your head? Share this post.",
+          "visual_hint": "Person looking up at night sky",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "person looking sky",
+          "image": "https://images.pexels.com/photos/15321631/pexels-photo-15321631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&amp;strip=all&amp;crop=0%2C1.4420367390612%2C100%2C97.115926521878&amp;w=1200",
+      "savedAt": "2026-10-30T20:17:47.836Z",
+      "sourceId": "b119c6eeb05f2544f94bcea51d13f31d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "theranos-whistleblower-tyler-shultz-warns-that-the",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "pubDate": "Fri, 30 Oct 2026 16:03:45 +0000",
+      "slides": [
+        "Why did Theranos whistleblower turn to AI fraud?",
+        "He cites the same pattern of secrecy and pressure",
+        "But AI deception happens before any product ships",
+        "Your AI vendor's claims deserve the same skepticism",
+        "Ask for evidence, not demos, before trusting AI"
+      ],
+      "thread_text": [
+        "1. The $9B lie that started it\n\nThe Theranos whistleblower who exposed Elizabeth Holmes now warns that AI fraud follows the same playbook — and it's already here.",
+        "2. Same secrecy, different industry\n\nHe points to the identical pattern of secrecy and pressure: NDAs, restricted access, and aggressive timelines that silence doubters.",
+        "3. AI fraud before shipping\n\nUnlike Theranos, AI deception happens before any product ships — in demos and benchmarks that can be cherry-picked or faked entirely.",
+        "4. Your vendor's claims need scrutiny\n\nApply the same skepticism to AI vendors that you would to any black-box medical device. Ask for proof, not promises.",
+        "5. What will you ask for?\n\nBefore your next AI purchase, request access to validation data and customer references. If they can't provide them, walk away."
+      ],
+      "video_script": [
+        "A Theranos whistleblower now warns about AI fraud.",
+        "He sees the same secrecy and pressure tactics.",
+        "AI deception happens before any product ships.",
+        "Treat AI vendor claims with the same skepticism.",
+        "Ask for evidence, not demos, before trusting AI."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The $9B lie that started it\n\nThe Theranos whistleblower who exposed Elizabeth Holmes now warns that AI fraud follows the same playbook — and it's already here.",
+            "2. Same secrecy, different industry\n\nHe points to the identical pattern of secrecy and pressure: NDAs, restricted access, and aggressive timelines that silence doubters.",
+            "3. AI fraud before shipping\n\nUnlike Theranos, AI deception happens before any product ships — in demos and benchmarks that can be cherry-picked or faked entirely.",
+            "4. Your vendor's claims need scrutiny\n\nApply the same skepticism to AI vendors that you would to any black-box medical device. Ask for proof, not promises.",
+            "5. What will you ask for?\n\nBefore your next AI purchase, request access to validation data and customer references. If they can't provide them, walk away."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A Theranos whistleblower now warns about AI fraud.",
+            "He sees the same secrecy and pressure tactics.",
+            "AI deception happens before any product ships.",
+            "Treat AI vendor claims with the same skepticism.",
+            "Ask for evidence, not demos, before trusting AI."
+          ]
+        },
+        "instagram": {
+          "caption": "The whistleblower who exposed Theranos now says AI fraud runs the same playbook 🔍\n\nTyler Shultz points to the same pattern: secrecy, pressure, and restricted access that keeps doubters quiet.\n\nOne twist — AI deception happens before any product ships, in demos and benchmarks that can be cherry-picked or faked outright.\n\nSo the claims you weigh in a vendor pitch deserve the same scrutiny as a black-box medical device.\n\nBefore your next AI purchase, ask for validation data and customer references. If they can't provide them, walk away 🚪\n\nWhat's the last AI claim you accepted without asking for proof?"
+        }
+      },
+      "instagram_caption": "The whistleblower who exposed Theranos now says AI fraud runs the same playbook 🔍\n\nTyler Shultz points to the same pattern: secrecy, pressure, and restricted access that keeps doubters quiet.\n\nOne twist — AI deception happens before any product ships, in demos and benchmarks that can be cherry-picked or faked outright.\n\nSo the claims you weigh in a vendor pitch deserve the same scrutiny as a black-box medical device.\n\nBefore your next AI purchase, ask for validation data and customer references. If they can't provide them, walk away 🚪\n\nWhat's the last AI claim you accepted without asking for proof?",
+      "carousel_slides": [
+        {
+          "hook": "AI fraud is already here",
+          "description": "Theranos whistleblower Tyler Shultz warns AI deception follows the same playbook as the $9B blood-testing scandal.",
+          "visual_hint": "Close-up of a glowing AI chip on a circuit board",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "AI chip circuit board"
+        },
+        {
+          "hook": "Same secrecy, different industry",
+          "description": "Shultz points to NDAs, restricted access, and aggressive timelines that silence doubters inside AI companies.",
+          "visual_hint": "NDA contract and redacted documents on a desk",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "NDA contract redacted",
+          "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI lies before shipping",
+          "description": "Unlike Theranos, AI deception happens in demos and benchmarks that can be cherry-picked or faked entirely.",
+          "visual_hint": "Split screen of polished demo vs. messy real data",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "product demo screen",
+          "image": "https://images.pexels.com/photos/25809263/pexels-photo-25809263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Question your AI vendor now",
+          "description": "Apply the same skepticism you would to a black-box medical device and demand proof instead of promises.",
+          "visual_hint": "Business hand holding a magnifying glass over a contract",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "magnifying glass contract",
+          "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask for evidence, not demos",
+          "description": "Before buying AI, request validation data and customer references. If they can't provide them, walk away.",
+          "visual_hint": "Checklist with validation data and customer references",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist validation data",
+          "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1465332173.jpg?resize=1200,800",
+      "savedAt": "2026-10-30T20:17:37.421Z",
+      "sourceId": "9baf1e5f5cebdc8d3d960550c4fbec13"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "zest-s-new-ai-agent-finds-restaurants-and-books-re",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "pubDate": "Fri, 30 Oct 2026 17:47:12 +0000",
+      "slides": [
+        "Zest's AI agent books tables by text—but who's paying?",
+        "It searches restaurants and handles reservations autonomously",
+        "Unlike chatbots, it completes bookings without human intervention",
+        "Diners can now outsource restaurant choice and table booking entirely",
+        "Test it on your next dinner plan before competitors do"
+      ],
+      "thread_text": [
+        "1. An AI that books tables?\n\nZest's agent searches restaurants and reserves autonomously, no human needed. The real question is who's actually paying for this service.",
+        "2. No chat, just done\n\nUnlike chatbots that suggest, this agent completes the booking. The human steps out of the loop entirely.",
+        "3. Outsource your dinner decision\n\nDiners can now hand off both restaurant choice and table booking. The agent handles it all.",
+        "4. Test before your rivals\n\nUse it for your next dinner plan. Competitors might already be trying it.",
+        "5. Would you let AI choose?\n\nCould you hand over your dinner reservation completely? Try it once and see if you miss the control."
+      ],
+      "video_script": [
+        "An AI agent that books tables for you.",
+        "It searches and reserves without any human help.",
+        "Unlike chatbots, it completes the booking on its own.",
+        "You can outsource the entire dinner decision.",
+        "Test it before your competitors do."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. An AI that books tables?\n\nZest's agent searches restaurants and reserves autonomously, no human needed. The real question is who's actually paying for this service.",
+            "2. No chat, just done\n\nUnlike chatbots that suggest, this agent completes the booking. The human steps out of the loop entirely.",
+            "3. Outsource your dinner decision\n\nDiners can now hand off both restaurant choice and table booking. The agent handles it all.",
+            "4. Test before your rivals\n\nUse it for your next dinner plan. Competitors might already be trying it.",
+            "5. Would you let AI choose?\n\nCould you hand over your dinner reservation completely? Try it once and see if you miss the control."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "An AI agent that books tables for you.",
+            "It searches and reserves without any human help.",
+            "Unlike chatbots, it completes the booking on its own.",
+            "You can outsource the entire dinner decision.",
+            "Test it before your competitors do."
+          ]
+        },
+        "instagram": {
+          "caption": "You can now book a table without picking up your phone—or picking the restaurant.\n\nZest's AI agent searches restaurants and handles reservations over text on its own. 🍽️\n\nUnlike chatbots that just suggest, it completes the booking with no human step.\n\nThat means you can hand off both the choice and the reservation entirely. 🤖\n\nIf you cover food or local business content, this changes how your audience finds and books places—worth testing before your competitors do.\n\nWould you actually let an AI choose where you eat and lock in the table? 🥂"
+        }
+      },
+      "instagram_caption": "You can now book a table without picking up your phone—or picking the restaurant.\n\nZest's AI agent searches restaurants and handles reservations over text on its own. 🍽️\n\nUnlike chatbots that just suggest, it completes the booking with no human step.\n\nThat means you can hand off both the choice and the reservation entirely. 🤖\n\nIf you cover food or local business content, this changes how your audience finds and books places—worth testing before your competitors do.\n\nWould you actually let an AI choose where you eat and lock in the table? 🥂",
+      "carousel_slides": [
+        {
+          "hook": "AI books tables without asking you",
+          "description": "Zest's agent searches restaurants and reserves autonomously, no human needed. The real question is who pays for this service.",
+          "visual_hint": "Smartphone screen showing a confirmed reservation",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone reservation app"
+        },
+        {
+          "hook": "No chat, just done",
+          "description": "Unlike chatbots that suggest, this agent completes the booking. The human steps out of the loop entirely.",
+          "visual_hint": "Split screen chatbot versus automatic booking",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "chatbot interface screen",
+          "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Outsource your dinner decision",
+          "description": "Diners can now hand off both restaurant choice and table booking. The agent handles it all.",
+          "visual_hint": "Restaurant table set for two, empty",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "restaurant table setting",
+          "image": "https://images.pexels.com/photos/17057009/pexels-photo-17057009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test before your rivals",
+          "description": "Use it for your next dinner plan. Competitors might already be trying it.",
+          "visual_hint": "Person using phone at dinner table",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person using smartphone",
+          "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Would you let AI choose?",
+          "description": "Save this post and try letting an AI book your next reservation. See if you miss the control.",
+          "visual_hint": "Hand hovering over phone with booking app",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/zest.jpg?resize=1200,764",
+      "savedAt": "2026-10-30T20:17:28.202Z",
+      "sourceId": "c9dcfb62ccca45b22e323f6f45c8391b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ai-law-firm-crosby-bids-on-disintegrating-famed-fi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+      "link": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+      "pubDate": "Fri, 30 Oct 2026 19:55:13 +0000",
+      "slides": [
+        "Can an AI law firm swallow Weil Gotshal?",
+        "Crosby just made a formal bid for the storied firm",
+        "Weil's partners are already splintering fast",
+        "Your legal bills could soon be priced by machines",
+        "Watch who leaves Weil next — that's the real tell"
+      ],
+      "thread_text": [
+        "1. Weil's AI takeover bid\n\nCrosby just made a formal offer for Weil Gotshal, one of the most storied law firms in the world. The deal would put an AI system in charge of legal work.",
+        "2. Partners are jumping ship\n\nWeil's partners are already splintering fast, with top talent leaving before the ink dries. The exodus signals deep distrust in the firm's direction.",
+        "3. Your bills priced by machines\n\nLegal fees could soon be set by algorithms, not billable hours. That means cheaper, faster work—but also less human judgment.",
+        "4. Watch who leaves next\n\nThe real tell isn't the bid itself, but who walks out the door next. If star partners keep leaving, the firm's value erodes fast.",
+        "5. Test AI on your own work\n\nTake a simple legal task and run it through an AI tool today. If it saves time without sacrificing quality, ask yourself: would you pay a firm for that?"
+      ],
+      "video_script": [
+        "Crosby just bid for Weil Gotshal.",
+        "Partners are already leaving fast.",
+        "Legal bills could soon be priced by machines.",
+        "Watch who leaves next—that's the real tell.",
+        "Test one legal task with AI today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Weil's AI takeover bid\n\nCrosby just made a formal offer for Weil Gotshal, one of the most storied law firms in the world. The deal would put an AI system in charge of legal work.",
+            "2. Partners are jumping ship\n\nWeil's partners are already splintering fast, with top talent leaving before the ink dries. The exodus signals deep distrust in the firm's direction.",
+            "3. Your bills priced by machines\n\nLegal fees could soon be set by algorithms, not billable hours. That means cheaper, faster work—but also less human judgment.",
+            "4. Watch who leaves next\n\nThe real tell isn't the bid itself, but who walks out the door next. If star partners keep leaving, the firm's value erodes fast.",
+            "5. Test AI on your own work\n\nTake a simple legal task and run it through an AI tool today. If it saves time without sacrificing quality, ask yourself: would you pay a firm for that?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Crosby just bid for Weil Gotshal.",
+            "Partners are already leaving fast.",
+            "Legal bills could soon be priced by machines.",
+            "Watch who leaves next—that's the real tell.",
+            "Test one legal task with AI today."
+          ]
+        },
+        "instagram": {
+          "caption": "An AI company just made a formal bid to take over Weil Gotshal, one of the most storied law firms in the world. 🏛️\n\nCrosby wants to put an AI system in charge of legal work that Weil's partners have done for decades.\n\nTop partners are already leaving fast, before the ink even dries. 📉\n\nIf this goes through, your legal bills could be priced by algorithms instead of billable hours — cheaper and faster, but with less human judgment. ⚖️\n\nTry a simple legal task with an AI tool today. If it saves time without sacrificing quality, would you still pay a firm for that? 🤖"
+        }
+      },
+      "instagram_caption": "An AI company just made a formal bid to take over Weil Gotshal, one of the most storied law firms in the world. 🏛️\n\nCrosby wants to put an AI system in charge of legal work that Weil's partners have done for decades.\n\nTop partners are already leaving fast, before the ink even dries. 📉\n\nIf this goes through, your legal bills could be priced by algorithms instead of billable hours — cheaper and faster, but with less human judgment. ⚖️\n\nTry a simple legal task with an AI tool today. If it saves time without sacrificing quality, would you still pay a firm for that? 🤖",
+      "carousel_slides": [
+        {
+          "hook": "Will AI replace your law firm?",
+          "description": "Crosby, an AI law firm, has formally bid for Weil Gotshal, potentially putting algorithms in charge of legal work.",
+          "visual_hint": "Robot hand holding gavel",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robot hand gavel"
+        },
+        {
+          "hook": "Partners leaving Weil in droves",
+          "description": "Top talent is splintering fast, signaling deep distrust in the firm's direction as the AI bid looms.",
+          "visual_hint": "Empty office chairs, packed boxes",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "empty office chairs",
+          "image": "https://images.pexels.com/photos/3767172/pexels-photo-3767172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your legal bills priced by machines",
+          "description": "Algorithms could soon set legal fees, replacing billable hours with cheaper, faster, but less human judgment.",
+          "visual_hint": "Algorithm code on screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer code screen",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Watch who leaves Weil next",
+          "description": "The real test is the exodus of star partners—if they keep leaving, the firm's value erodes quickly.",
+          "visual_hint": "Person walking out door",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person walking door",
+          "image": "https://images.pexels.com/photos/38874106/pexels-photo-38874106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: AI is coming for law",
+          "description": "Test a simple legal task with an AI tool today. If it saves time without sacrificing quality, would you still pay a firm?",
+          "visual_hint": "Phone with AI app",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone AI app",
+          "image": "https://images.pexels.com/photos/30530421/pexels-photo-30530421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/06/Crosby-cofounders.jpg?resize=1200,900",
+      "savedAt": "2026-10-30T20:17:18.766Z",
+      "sourceId": "d50acd2d8b62594d9d11a945e593e154"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "sam-altman-sympathizes-with-mathematicians-but-say",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -203436,6 +203852,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "torta-salata-con-le-cipolle",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Torta salata con le cipolle",
+      "link": "https://ricette.giallozafferano.it/Torta-salata-con-le-cipolle.html",
+      "pubDate": "Fri, 30 Oct 2026 16:06:00 +0100",
+      "content": "Torta salata con le cipolle: facile, cremosa e saporita Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X Torte salate Torta salata con le cipolle /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 15 min Cottura: 1 h 10 min Dosi per: 6 persone Costo: Molto basso PRESENTAZIONE Se cercate una ricetta sfiziosa e saporita da portare in tavola come antipasto o piatto unico, la torta salata con le cipolle è perfetta per voi. Un guscio croccante di pasta sfoglia racchiude un ripieno morbido e irresistibile a base di cipolle bionde cotte lentamente in padella, gorgonzola piccante, scamorza e parmigiano. Il contrasto tra la dolcezza delle cipolle e il gusto deciso dei formaggi rende questa torta salata particolarmente ricca e appetitosa, mentre la salvia aggiunge una piacevole nota aromatica. Potete servirla tiepida, tagliata a fette, per un aperitivo, un buffet o una cena informale. Preparate anche voi la torta salata con le cipolle, con pochi ingredienti porterete in tavola una ricetta semplice, rustica e piena di sapore, ideale anche quando avete voglia di qualcosa di sfizioso senza passare troppo tempo ai fornelli. Ecco altre varianti di torte salate con le cipolle: Quiche alle cipolle Torta salata cipolle e Gruyere Torta salata di patate, cipolle e formaggio Tarte tatin di cipolle Torta rustica di patate e cipolle Onion Tart INGREDIENTI Per una teglia da 24 cm Pasta Sfoglia (1 rotolo rotondo) 230 g Cipolle dorate (da pulire) 900 g Gorgonzola piccante 40 g Parmigiano Reggiano DOP 50 g Scamorza (provola) 50 g Salvia q.b. Burro 10 g Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta salata con le cipolle Per preparare la torta salata con le cipolle, per prima cosa montate le cipolle dorate e tagliatele a julienne 1 . Fate sciogliere il burro in una casseruola 2 , poi aggiungete le cipolle a fettine 3 . Salate 4 e mescolate bene in modo da non bruciare quelle sul fondo della casseruola 5 . Cuocete a fuoco medio-basso per circa 30-40 minuti, o fino a quando saranno appassite 6 . Una volta cotte e intiepidite, aromatizzate le cipolle con una macinata di pepe nero 7 e la salvia tritata 8 . Grattugiate la scamorza 9 . Ora srotolate la pasta sfoglia in una teglia del diametro di 24 cm e distribuite alla base la scamorza grattugiata 10 , poi farcite con le cipolle cotte 11 e il gorgonzola piccante tagliato a piccoli cubetti 12 . Cospargete la superficie con il Parmigiano Reggiano grattugiato 13 e ripiegate la sfoglia verso l'interno per creare il bordo 14 . Cuocete in forno statico a 200° per 30 minuti fino a doratura. Una volta sfornata e intiepidita, la vostra torta con le cipolle sarà pronta per essere gustata 15 ! Conservazione La torta salata con le cipolle si può conservare in frigorifero per 2 giorni. Potete congelarla una volta cotta e raffreddata. Consiglio Potete sostituire i formaggi con quelli che preferite. Per rendere le cipolle ancora più morbide potete aggiungere 1-2 cucchiaini di panna. Potete aromatizzare la torta salata con timo o rosmarino, oppure arricchirla con noci tostate. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Salvia Gorgonzola Burro Cipolla Parmigiano Reggiano Scopri tutto sugli ingredienti Presente in: Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Cipolle farcite con funghi e nocciole Plumcake speziato con frutta secca Torta salata con le cipolle SCOPRI Torta salata cipolle Torta salata spinaci Torta salata ricotta e spinaci Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. e all’utilizzo di pixel di tracciamento nelle suddette comunicazioni per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne Si No Prosegui",
+      "slides": [
+        "Guscio croccante, ripieno morbido alle cipolle",
+        "Sfoglia, cipolle, gorgonzola, scamorza e parmigiano",
+        "Cuoci le cipolle lentamente per 30-40 minuti",
+        "Farcisci la sfoglia e cuoci a 200° per 30 minuti",
+        "Servila tiepida, tagliata a fette"
+      ],
+      "instagram_caption": "Cipolle dolci e filanti, avvolte in una sfoglia che croccante non è mai stata così. 🧅\nLa verità? Ci vuole pazienza: lasciale appassire lentamente per 30-40 minuti, finché non diventano morbide e zuccherine. Poi via di gorgonzola, scamorza e una nevicata di parmigiano, tutto racchiuso nella sfoglia e in forno a 200° per mezz'ora.\nIl profumo che invade la cucina è già metà del piacere.\nServila tiepida, a fette generose, e fammi sapere com'è andata 💛\nProvala questo weekend! 🥧✨",
+      "formats": {
+        "instagram": {
+          "caption": "Cipolle dolci e filanti, avvolte in una sfoglia che croccante non è mai stata così. 🧅\nLa verità? Ci vuole pazienza: lasciale appassire lentamente per 30-40 minuti, finché non diventano morbide e zuccherine. Poi via di gorgonzola, scamorza e una nevicata di parmigiano, tutto racchiuso nella sfoglia e in forno a 200° per mezz'ora.\nIl profumo che invade la cucina è già metà del piacere.\nServila tiepida, a fette generose, e fammi sapere com'è andata 💛\nProvala questo weekend! 🥧✨"
+        },
+        "tiktok": {
+          "script": [
+            "Guscio croccante fuori, ripieno morbido di cipolle dentro!",
+            "Prendo sfoglia, cipolle, gorgonzola, scamorza e parmigiano.",
+            "Cuocio le cipolle piano piano per trenta-quaranta minuti.",
+            "Farcisco la sfoglia e inforno a duecento gradi per trenta minuti.",
+            "La servo tiepida, tagliata a fette: che bontà!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "La torta salata che fa piangere di gioia, non di tristezza: cipolle dolci, gorgonzola filante e un guscio che croccante è dire poco. Se pensi di non amare le cipolle, questa ricetta ti farà cambiare idea.",
+            "Base: sfoglia pronta (o pasta brisée). Ripieno: cipolle stufate, gorgonzola, scamorza e parmigiano. Il segreto? Le cipolle devono appassire lentamente, senza fretta.",
+            "Fai sudare le cipolle a fuoco basso con un filo d'olio per 30-40 minuti. Devono diventare morbide, quasi una crema. Questo passaggio lento è ciò che rende il ripieno irresistibile.",
+            "Stendi la sfoglia, farcisci con le cipolle e i formaggi a pezzetti. Chiudi i bordi o lascia aperta a piacere. Inforna a 200° per 30 minuti, finché la superficie non è dorata e sfrigolante.",
+            "Servila tiepida, tagliata a fette spesse: il formaggio fila e le cipolle profumano tutta la cucina. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Guscio croccante fuori, ripieno morbido di cipolle dentro!",
+        "Prendo sfoglia, cipolle, gorgonzola, scamorza e parmigiano.",
+        "Cuocio le cipolle piano piano per trenta-quaranta minuti.",
+        "Farcisco la sfoglia e inforno a duecento gradi per trenta minuti.",
+        "La servo tiepida, tagliata a fette: che bontà!"
+      ],
+      "thread_text": [
+        "La torta salata che fa piangere di gioia, non di tristezza: cipolle dolci, gorgonzola filante e un guscio che croccante è dire poco. Se pensi di non amare le cipolle, questa ricetta ti farà cambiare idea.",
+        "Base: sfoglia pronta (o pasta brisée). Ripieno: cipolle stufate, gorgonzola, scamorza e parmigiano. Il segreto? Le cipolle devono appassire lentamente, senza fretta.",
+        "Fai sudare le cipolle a fuoco basso con un filo d'olio per 30-40 minuti. Devono diventare morbide, quasi una crema. Questo passaggio lento è ciò che rende il ripieno irresistibile.",
+        "Stendi la sfoglia, farcisci con le cipolle e i formaggi a pezzetti. Chiudi i bordi o lascia aperta a piacere. Inforna a 200° per 30 minuti, finché la superficie non è dorata e sfrigolante.",
+        "Servila tiepida, tagliata a fette spesse: il formaggio fila e le cipolle profumano tutta la cucina. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Torta salata alle cipolle: croccante fuori, morbida dentro",
+          "description": "Un guscio dorato che racchiude un ripieno filante e dolce: la torta salata che conquista al primo morso.",
+          "visual_hint": "torta salata fetta dorata",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory onion tart"
+        },
+        {
+          "hook": "Cipolle, gorgonzola, scamorza e parmigiano",
+          "description": "La combinazione perfetta: dolcezza delle cipolle e carattere dei formaggi per un ripieno cremoso.",
+          "visual_hint": "ingredienti torta salata",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory tart ingredients",
+          "image": "https://images.pexels.com/photos/5794864/pexels-photo-5794864.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cuoci le cipolle lentamente per 30-40 minuti",
+          "description": "La pazienza è l'ingrediente segreto: cipolle stufate a fuoco lento fino a diventare morbide e dorate.",
+          "visual_hint": "cipolle stufate padella",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "caramelized onions pan",
+          "image": "https://images.pexels.com/photos/36066809/pexels-photo-36066809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Farcisci la sfoglia e cuoci a 200° per 30 minuti",
+          "description": "Stendi la sfoglia, versa il ripieno e inforna: il forno farà il resto per una superficie dorata.",
+          "visual_hint": "sfoglia farcita forno",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory tart baking",
+          "image": "https://images.pexels.com/photos/27098499/pexels-photo-27098499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Servila tiepida, tagliata a fette",
+          "description": "Il trucco finale: lasciala intiepidire e taglia a fette generose per esaltare la morbidezza del ripieno.",
+          "visual_hint": "fette torta salata",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory tart slices",
+          "image": "https://images.pexels.com/photos/5852252/pexels-photo-5852252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "vegetable",
+      "signature_ingredients": [
+        "cipolle",
+        "gorgonzola",
+        "scamorza"
+      ],
+      "image": "https://www.giallozafferano.it/images/367-36787/Torta-salata-con-le-cipolle_1200x800_wm.jpg",
+      "savedAt": "2026-10-30T20:23:26.707Z",
+      "sourceId": "d6849f04646943184ccee4a987e22ddf"
+    },
     {
       "schema_version": 2,
       "agent": "food",

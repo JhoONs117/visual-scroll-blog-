@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "theranos-whistleblower-tyler-shultz-warns-that-the",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+  "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+  "pubDate": "Fri, 30 Oct 2026 16:03:45 +0000",
+  "slides": [
+    "Why did Theranos whistleblower turn to AI fraud?",
+    "He cites the same pattern of secrecy and pressure",
+    "But AI deception happens before any product ships",
+    "Your AI vendor's claims deserve the same skepticism",
+    "Ask for evidence, not demos, before trusting AI"
+  ],
+  "thread_text": [
+    "1. The $9B lie that started it\n\nThe Theranos whistleblower who exposed Elizabeth Holmes now warns that AI fraud follows the same playbook — and it's already here.",
+    "2. Same secrecy, different industry\n\nHe points to the identical pattern of secrecy and pressure: NDAs, restricted access, and aggressive timelines that silence doubters.",
+    "3. AI fraud before shipping\n\nUnlike Theranos, AI deception happens before any product ships — in demos and benchmarks that can be cherry-picked or faked entirely.",
+    "4. Your vendor's claims need scrutiny\n\nApply the same skepticism to AI vendors that you would to any black-box medical device. Ask for proof, not promises.",
+    "5. What will you ask for?\n\nBefore your next AI purchase, request access to validation data and customer references. If they can't provide them, walk away."
+  ],
+  "video_script": [
+    "A Theranos whistleblower now warns about AI fraud.",
+    "He sees the same secrecy and pressure tactics.",
+    "AI deception happens before any product ships.",
+    "Treat AI vendor claims with the same skepticism.",
+    "Ask for evidence, not demos, before trusting AI."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $9B lie that started it\n\nThe Theranos whistleblower who exposed Elizabeth Holmes now warns that AI fraud follows the same playbook — and it's already here.",
+        "2. Same secrecy, different industry\n\nHe points to the identical pattern of secrecy and pressure: NDAs, restricted access, and aggressive timelines that silence doubters.",
+        "3. AI fraud before shipping\n\nUnlike Theranos, AI deception happens before any product ships — in demos and benchmarks that can be cherry-picked or faked entirely.",
+        "4. Your vendor's claims need scrutiny\n\nApply the same skepticism to AI vendors that you would to any black-box medical device. Ask for proof, not promises.",
+        "5. What will you ask for?\n\nBefore your next AI purchase, request access to validation data and customer references. If they can't provide them, walk away."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A Theranos whistleblower now warns about AI fraud.",
+        "He sees the same secrecy and pressure tactics.",
+        "AI deception happens before any product ships.",
+        "Treat AI vendor claims with the same skepticism.",
+        "Ask for evidence, not demos, before trusting AI."
+      ]
+    },
+    "instagram": {
+      "caption": "The whistleblower who exposed Theranos now says AI fraud runs the same playbook 🔍\n\nTyler Shultz points to the same pattern: secrecy, pressure, and restricted access that keeps doubters quiet.\n\nOne twist — AI deception happens before any product ships, in demos and benchmarks that can be cherry-picked or faked outright.\n\nSo the claims you weigh in a vendor pitch deserve the same scrutiny as a black-box medical device.\n\nBefore your next AI purchase, ask for validation data and customer references. If they can't provide them, walk away 🚪\n\nWhat's the last AI claim you accepted without asking for proof?"
+    }
+  },
+  "instagram_caption": "The whistleblower who exposed Theranos now says AI fraud runs the same playbook 🔍\n\nTyler Shultz points to the same pattern: secrecy, pressure, and restricted access that keeps doubters quiet.\n\nOne twist — AI deception happens before any product ships, in demos and benchmarks that can be cherry-picked or faked outright.\n\nSo the claims you weigh in a vendor pitch deserve the same scrutiny as a black-box medical device.\n\nBefore your next AI purchase, ask for validation data and customer references. If they can't provide them, walk away 🚪\n\nWhat's the last AI claim you accepted without asking for proof?",
+  "carousel_slides": [
+    {
+      "hook": "AI fraud is already here",
+      "description": "Theranos whistleblower Tyler Shultz warns AI deception follows the same playbook as the $9B blood-testing scandal.",
+      "visual_hint": "Close-up of a glowing AI chip on a circuit board",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "AI chip circuit board"
+    },
+    {
+      "hook": "Same secrecy, different industry",
+      "description": "Shultz points to NDAs, restricted access, and aggressive timelines that silence doubters inside AI companies.",
+      "visual_hint": "NDA contract and redacted documents on a desk",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "NDA contract redacted",
+      "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI lies before shipping",
+      "description": "Unlike Theranos, AI deception happens in demos and benchmarks that can be cherry-picked or faked entirely.",
+      "visual_hint": "Split screen of polished demo vs. messy real data",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "product demo screen",
+      "image": "https://images.pexels.com/photos/25809263/pexels-photo-25809263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Question your AI vendor now",
+      "description": "Apply the same skepticism you would to a black-box medical device and demand proof instead of promises.",
+      "visual_hint": "Business hand holding a magnifying glass over a contract",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "magnifying glass contract",
+      "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask for evidence, not demos",
+      "description": "Before buying AI, request validation data and customer references. If they can't provide them, walk away.",
+      "visual_hint": "Checklist with validation data and customer references",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist validation data",
+      "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1465332173.jpg?resize=1200,800",
+  "savedAt": "2026-10-30T20:17:37.421Z",
+  "sourceId": "9baf1e5f5cebdc8d3d960550c4fbec13"
+}

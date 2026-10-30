@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "torta-salata-con-le-cipolle",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Torta salata con le cipolle",
+    "link": "https://ricette.giallozafferano.it/Torta-salata-con-le-cipolle.html",
+    "pubDate": "Fri, 30 Oct 2026 16:06:00 +0100",
+    "content": "Torta salata con le cipolle: facile, cremosa e saporita Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X Torte salate Torta salata con le cipolle /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 15 min Cottura: 1 h 10 min Dosi per: 6 persone Costo: Molto basso PRESENTAZIONE Se cercate una ricetta sfiziosa e saporita da portare in tavola come antipasto o piatto unico, la torta salata con le cipolle è perfetta per voi. Un guscio croccante di pasta sfoglia racchiude un ripieno morbido e irresistibile a base di cipolle bionde cotte lentamente in padella, gorgonzola piccante, scamorza e parmigiano. Il contrasto tra la dolcezza delle cipolle e il gusto deciso dei formaggi rende questa torta salata particolarmente ricca e appetitosa, mentre la salvia aggiunge una piacevole nota aromatica. Potete servirla tiepida, tagliata a fette, per un aperitivo, un buffet o una cena informale. Preparate anche voi la torta salata con le cipolle, con pochi ingredienti porterete in tavola una ricetta semplice, rustica e piena di sapore, ideale anche quando avete voglia di qualcosa di sfizioso senza passare troppo tempo ai fornelli. Ecco altre varianti di torte salate con le cipolle: Quiche alle cipolle Torta salata cipolle e Gruyere Torta salata di patate, cipolle e formaggio Tarte tatin di cipolle Torta rustica di patate e cipolle Onion Tart INGREDIENTI Per una teglia da 24 cm Pasta Sfoglia (1 rotolo rotondo) 230 g Cipolle dorate (da pulire) 900 g Gorgonzola piccante 40 g Parmigiano Reggiano DOP 50 g Scamorza (provola) 50 g Salvia q.b. Burro 10 g Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta salata con le cipolle Per preparare la torta salata con le cipolle, per prima cosa montate le cipolle dorate e tagliatele a julienne 1 . Fate sciogliere il burro in una casseruola 2 , poi aggiungete le cipolle a fettine 3 . Salate 4 e mescolate bene in modo da non bruciare quelle sul fondo della casseruola 5 . Cuocete a fuoco medio-basso per circa 30-40 minuti, o fino a quando saranno appassite 6 . Una volta cotte e intiepidite, aromatizzate le cipolle con una macinata di pepe nero 7 e la salvia tritata 8 . Grattugiate la scamorza 9 . Ora srotolate la pasta sfoglia in una teglia del diametro di 24 cm e distribuite alla base la scamorza grattugiata 10 , poi farcite con le cipolle cotte 11 e il gorgonzola piccante tagliato a piccoli cubetti 12 . Cospargete la superficie con il Parmigiano Reggiano grattugiato 13 e ripiegate la sfoglia verso l'interno per creare il bordo 14 . Cuocete in forno statico a 200° per 30 minuti fino a doratura. Una volta sfornata e intiepidita, la vostra torta con le cipolle sarà pronta per essere gustata 15 ! Conservazione La torta salata con le cipolle si può conservare in frigorifero per 2 giorni. Potete congelarla una volta cotta e raffreddata. Consiglio Potete sostituire i formaggi con quelli che preferite. Per rendere le cipolle ancora più morbide potete aggiungere 1-2 cucchiaini di panna. Potete aromatizzare la torta salata con timo o rosmarino, oppure arricchirla con noci tostate. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Salvia Gorgonzola Burro Cipolla Parmigiano Reggiano Scopri tutto sugli ingredienti Presente in: Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Cipolle farcite con funghi e nocciole Plumcake speziato con frutta secca Torta salata con le cipolle SCOPRI Torta salata cipolle Torta salata spinaci Torta salata ricotta e spinaci Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. e all’utilizzo di pixel di tracciamento nelle suddette comunicazioni per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne Si No Prosegui",
+    "slides": [
+      "Guscio croccante, ripieno morbido alle cipolle",
+      "Sfoglia, cipolle, gorgonzola, scamorza e parmigiano",
+      "Cuoci le cipolle lentamente per 30-40 minuti",
+      "Farcisci la sfoglia e cuoci a 200° per 30 minuti",
+      "Servila tiepida, tagliata a fette"
+    ],
+    "instagram_caption": "Cipolle dolci e filanti, avvolte in una sfoglia che croccante non è mai stata così. 🧅\nLa verità? Ci vuole pazienza: lasciale appassire lentamente per 30-40 minuti, finché non diventano morbide e zuccherine. Poi via di gorgonzola, scamorza e una nevicata di parmigiano, tutto racchiuso nella sfoglia e in forno a 200° per mezz'ora.\nIl profumo che invade la cucina è già metà del piacere.\nServila tiepida, a fette generose, e fammi sapere com'è andata 💛\nProvala questo weekend! 🥧✨",
+    "formats": {
+      "instagram": {
+        "caption": "Cipolle dolci e filanti, avvolte in una sfoglia che croccante non è mai stata così. 🧅\nLa verità? Ci vuole pazienza: lasciale appassire lentamente per 30-40 minuti, finché non diventano morbide e zuccherine. Poi via di gorgonzola, scamorza e una nevicata di parmigiano, tutto racchiuso nella sfoglia e in forno a 200° per mezz'ora.\nIl profumo che invade la cucina è già metà del piacere.\nServila tiepida, a fette generose, e fammi sapere com'è andata 💛\nProvala questo weekend! 🥧✨"
+      },
+      "tiktok": {
+        "script": [
+          "Guscio croccante fuori, ripieno morbido di cipolle dentro!",
+          "Prendo sfoglia, cipolle, gorgonzola, scamorza e parmigiano.",
+          "Cuocio le cipolle piano piano per trenta-quaranta minuti.",
+          "Farcisco la sfoglia e inforno a duecento gradi per trenta minuti.",
+          "La servo tiepida, tagliata a fette: che bontà!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "La torta salata che fa piangere di gioia, non di tristezza: cipolle dolci, gorgonzola filante e un guscio che croccante è dire poco. Se pensi di non amare le cipolle, questa ricetta ti farà cambiare idea.",
+          "Base: sfoglia pronta (o pasta brisée). Ripieno: cipolle stufate, gorgonzola, scamorza e parmigiano. Il segreto? Le cipolle devono appassire lentamente, senza fretta.",
+          "Fai sudare le cipolle a fuoco basso con un filo d'olio per 30-40 minuti. Devono diventare morbide, quasi una crema. Questo passaggio lento è ciò che rende il ripieno irresistibile.",
+          "Stendi la sfoglia, farcisci con le cipolle e i formaggi a pezzetti. Chiudi i bordi o lascia aperta a piacere. Inforna a 200° per 30 minuti, finché la superficie non è dorata e sfrigolante.",
+          "Servila tiepida, tagliata a fette spesse: il formaggio fila e le cipolle profumano tutta la cucina. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Guscio croccante fuori, ripieno morbido di cipolle dentro!",
+      "Prendo sfoglia, cipolle, gorgonzola, scamorza e parmigiano.",
+      "Cuocio le cipolle piano piano per trenta-quaranta minuti.",
+      "Farcisco la sfoglia e inforno a duecento gradi per trenta minuti.",
+      "La servo tiepida, tagliata a fette: che bontà!"
+    ],
+    "thread_text": [
+      "La torta salata che fa piangere di gioia, non di tristezza: cipolle dolci, gorgonzola filante e un guscio che croccante è dire poco. Se pensi di non amare le cipolle, questa ricetta ti farà cambiare idea.",
+      "Base: sfoglia pronta (o pasta brisée). Ripieno: cipolle stufate, gorgonzola, scamorza e parmigiano. Il segreto? Le cipolle devono appassire lentamente, senza fretta.",
+      "Fai sudare le cipolle a fuoco basso con un filo d'olio per 30-40 minuti. Devono diventare morbide, quasi una crema. Questo passaggio lento è ciò che rende il ripieno irresistibile.",
+      "Stendi la sfoglia, farcisci con le cipolle e i formaggi a pezzetti. Chiudi i bordi o lascia aperta a piacere. Inforna a 200° per 30 minuti, finché la superficie non è dorata e sfrigolante.",
+      "Servila tiepida, tagliata a fette spesse: il formaggio fila e le cipolle profumano tutta la cucina. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Torta salata alle cipolle: croccante fuori, morbida dentro",
+        "description": "Un guscio dorato che racchiude un ripieno filante e dolce: la torta salata che conquista al primo morso.",
+        "visual_hint": "torta salata fetta dorata",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory onion tart"
+      },
+      {
+        "hook": "Cipolle, gorgonzola, scamorza e parmigiano",
+        "description": "La combinazione perfetta: dolcezza delle cipolle e carattere dei formaggi per un ripieno cremoso.",
+        "visual_hint": "ingredienti torta salata",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory tart ingredients",
+        "image": "https://images.pexels.com/photos/5794864/pexels-photo-5794864.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cuoci le cipolle lentamente per 30-40 minuti",
+        "description": "La pazienza è l'ingrediente segreto: cipolle stufate a fuoco lento fino a diventare morbide e dorate.",
+        "visual_hint": "cipolle stufate padella",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "caramelized onions pan",
+        "image": "https://images.pexels.com/photos/36066809/pexels-photo-36066809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Farcisci la sfoglia e cuoci a 200° per 30 minuti",
+        "description": "Stendi la sfoglia, versa il ripieno e inforna: il forno farà il resto per una superficie dorata.",
+        "visual_hint": "sfoglia farcita forno",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory tart baking",
+        "image": "https://images.pexels.com/photos/27098499/pexels-photo-27098499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Servila tiepida, tagliata a fette",
+        "description": "Il trucco finale: lasciala intiepidire e taglia a fette generose per esaltare la morbidezza del ripieno.",
+        "visual_hint": "fette torta salata",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory tart slices",
+        "image": "https://images.pexels.com/photos/5852252/pexels-photo-5852252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "vegetable",
+    "signature_ingredients": [
+      "cipolle",
+      "gorgonzola",
+      "scamorza"
+    ],
+    "image": "https://www.giallozafferano.it/images/367-36787/Torta-salata-con-le-cipolle_1200x800_wm.jpg",
+    "savedAt": "2026-10-30T20:23:26.707Z",
+    "sourceId": "d6849f04646943184ccee4a987e22ddf"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "pasta-con-castagne-e-funghi",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "google-8217-s-satellite-ai-server-transmits-its-fi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+    "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+    "pubDate": "2026-10-30T18:21:38.000Z",
+    "slides": [
+      "Google's satellite AI just answered Earth — why now?",
+      "The model runs entirely in orbit, no ground link needed",
+      "But it can only process what its sensors capture first",
+      "Disaster response teams could get answers before downlink",
+      "Ask: who controls the model above your head?"
+    ],
+    "thread_text": [
+      "1. AI Just Left Earth\n\nA satellite just ran a full AI model in orbit, no ground link needed. That means decisions about what's happening on the ground could be made 500 km above your head.",
+      "2. Why Orbit Changes Everything\n\nThe model processes data on the spot, cutting the delay from hours to seconds. Disaster teams could get answers before the satellite even downlinks.",
+      "3. The Sensor Bottleneck\n\nIt can only analyze what its own eyes see. No ground truth, no extra data — just what the satellite's instruments captured first.",
+      "4. Who's Watching the Watcher?\n\nNo human in the loop for the first pass. That raises a simple question: who audits the model when it's out of reach?",
+      "5. Your Move\n\nNext time you hear 'AI in space', ask: who controls the model above your head? If you can't answer, that's the problem."
+    ],
+    "video_script": [
+      "A satellite just ran an AI model entirely in orbit.",
+      "No ground link needed — it thinks on its own.",
+      "But it only knows what its sensors capture first.",
+      "Disaster teams could get answers before downlink.",
+      "So who controls the model above your head?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI Just Left Earth\n\nA satellite just ran a full AI model in orbit, no ground link needed. That means decisions about what's happening on the ground could be made 500 km above your head.",
+          "2. Why Orbit Changes Everything\n\nThe model processes data on the spot, cutting the delay from hours to seconds. Disaster teams could get answers before the satellite even downlinks.",
+          "3. The Sensor Bottleneck\n\nIt can only analyze what its own eyes see. No ground truth, no extra data — just what the satellite's instruments captured first.",
+          "4. Who's Watching the Watcher?\n\nNo human in the loop for the first pass. That raises a simple question: who audits the model when it's out of reach?",
+          "5. Your Move\n\nNext time you hear 'AI in space', ask: who controls the model above your head? If you can't answer, that's the problem."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A satellite just ran an AI model entirely in orbit.",
+          "No ground link needed — it thinks on its own.",
+          "But it only knows what its sensors capture first.",
+          "Disaster teams could get answers before downlink.",
+          "So who controls the model above your head?"
+        ]
+      },
+      "instagram": {
+        "caption": "A Google satellite just ran a full AI model in orbit and sent its first answer back to Earth — no ground link needed.\n\nThe model processes data on the spot, cutting response time from hours to seconds. ⚡\n\nBut it can only analyze what its own sensors capture first — no ground truth, no extra data. 🛰️\n\nDisaster response teams could get answers before the satellite even downlinks. That changes how fast decisions reach people on the ground.\n\nNo human reviews the first pass. 👀\n\nSo who controls the model running 500 km above your head — and who audits it when it's out of reach?"
+      }
+    },
+    "instagram_caption": "A Google satellite just ran a full AI model in orbit and sent its first answer back to Earth — no ground link needed.\n\nThe model processes data on the spot, cutting response time from hours to seconds. ⚡\n\nBut it can only analyze what its own sensors capture first — no ground truth, no extra data. 🛰️\n\nDisaster response teams could get answers before the satellite even downlinks. That changes how fast decisions reach people on the ground.\n\nNo human reviews the first pass. 👀\n\nSo who controls the model running 500 km above your head — and who audits it when it's out of reach?",
+    "carousel_slides": [
+      {
+        "hook": "Who controls the AI above your head?",
+        "description": "A Google satellite AI just answered Earth, making decisions 500 km above you—without any human in the loop.",
+        "visual_hint": "Satellite orbiting Earth with AI brain",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "satellite orbit"
+      },
+      {
+        "hook": "No ground link needed anymore",
+        "description": "The model runs entirely in orbit, cutting disaster response from hours to seconds by processing data on the spot.",
+        "visual_hint": "Satellite with glowing onboard computer",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "satellite computer",
+        "image": "https://images.pexels.com/photos/5255312/pexels-photo-5255312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It only sees what its sensors capture",
+        "description": "The AI can only analyze what its own instruments record—no ground truth, no extra data, just its first pass.",
+        "visual_hint": "Close-up of satellite sensor lens",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "satellite sensor",
+        "image": "https://images.pexels.com/photos/38143085/pexels-photo-38143085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Disaster teams get answers faster",
+        "description": "Response teams could receive AI analysis before the satellite even downlinks, accelerating critical decisions on the ground.",
+        "visual_hint": "Hand holding tablet with satellite map",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "disaster response team",
+        "image": "https://images.pexels.com/photos/8553092/pexels-photo-8553092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and ask who's in control",
+        "description": "Next time you hear 'AI in space', demand transparency: who audits the model above your head? Share this post.",
+        "visual_hint": "Person looking up at night sky",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person looking sky",
+        "image": "https://images.pexels.com/photos/15321631/pexels-photo-15321631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&amp;strip=all&amp;crop=0%2C1.4420367390612%2C100%2C97.115926521878&amp;w=1200",
+    "savedAt": "2026-10-30T20:17:47.836Z",
+    "sourceId": "b119c6eeb05f2544f94bcea51d13f31d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "theranos-whistleblower-tyler-shultz-warns-that-the",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+    "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+    "pubDate": "Fri, 30 Oct 2026 16:03:45 +0000",
+    "slides": [
+      "Why did Theranos whistleblower turn to AI fraud?",
+      "He cites the same pattern of secrecy and pressure",
+      "But AI deception happens before any product ships",
+      "Your AI vendor's claims deserve the same skepticism",
+      "Ask for evidence, not demos, before trusting AI"
+    ],
+    "thread_text": [
+      "1. The $9B lie that started it\n\nThe Theranos whistleblower who exposed Elizabeth Holmes now warns that AI fraud follows the same playbook — and it's already here.",
+      "2. Same secrecy, different industry\n\nHe points to the identical pattern of secrecy and pressure: NDAs, restricted access, and aggressive timelines that silence doubters.",
+      "3. AI fraud before shipping\n\nUnlike Theranos, AI deception happens before any product ships — in demos and benchmarks that can be cherry-picked or faked entirely.",
+      "4. Your vendor's claims need scrutiny\n\nApply the same skepticism to AI vendors that you would to any black-box medical device. Ask for proof, not promises.",
+      "5. What will you ask for?\n\nBefore your next AI purchase, request access to validation data and customer references. If they can't provide them, walk away."
+    ],
+    "video_script": [
+      "A Theranos whistleblower now warns about AI fraud.",
+      "He sees the same secrecy and pressure tactics.",
+      "AI deception happens before any product ships.",
+      "Treat AI vendor claims with the same skepticism.",
+      "Ask for evidence, not demos, before trusting AI."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $9B lie that started it\n\nThe Theranos whistleblower who exposed Elizabeth Holmes now warns that AI fraud follows the same playbook — and it's already here.",
+          "2. Same secrecy, different industry\n\nHe points to the identical pattern of secrecy and pressure: NDAs, restricted access, and aggressive timelines that silence doubters.",
+          "3. AI fraud before shipping\n\nUnlike Theranos, AI deception happens before any product ships — in demos and benchmarks that can be cherry-picked or faked entirely.",
+          "4. Your vendor's claims need scrutiny\n\nApply the same skepticism to AI vendors that you would to any black-box medical device. Ask for proof, not promises.",
+          "5. What will you ask for?\n\nBefore your next AI purchase, request access to validation data and customer references. If they can't provide them, walk away."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A Theranos whistleblower now warns about AI fraud.",
+          "He sees the same secrecy and pressure tactics.",
+          "AI deception happens before any product ships.",
+          "Treat AI vendor claims with the same skepticism.",
+          "Ask for evidence, not demos, before trusting AI."
+        ]
+      },
+      "instagram": {
+        "caption": "The whistleblower who exposed Theranos now says AI fraud runs the same playbook 🔍\n\nTyler Shultz points to the same pattern: secrecy, pressure, and restricted access that keeps doubters quiet.\n\nOne twist — AI deception happens before any product ships, in demos and benchmarks that can be cherry-picked or faked outright.\n\nSo the claims you weigh in a vendor pitch deserve the same scrutiny as a black-box medical device.\n\nBefore your next AI purchase, ask for validation data and customer references. If they can't provide them, walk away 🚪\n\nWhat's the last AI claim you accepted without asking for proof?"
+      }
+    },
+    "instagram_caption": "The whistleblower who exposed Theranos now says AI fraud runs the same playbook 🔍\n\nTyler Shultz points to the same pattern: secrecy, pressure, and restricted access that keeps doubters quiet.\n\nOne twist — AI deception happens before any product ships, in demos and benchmarks that can be cherry-picked or faked outright.\n\nSo the claims you weigh in a vendor pitch deserve the same scrutiny as a black-box medical device.\n\nBefore your next AI purchase, ask for validation data and customer references. If they can't provide them, walk away 🚪\n\nWhat's the last AI claim you accepted without asking for proof?",
+    "carousel_slides": [
+      {
+        "hook": "AI fraud is already here",
+        "description": "Theranos whistleblower Tyler Shultz warns AI deception follows the same playbook as the $9B blood-testing scandal.",
+        "visual_hint": "Close-up of a glowing AI chip on a circuit board",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "AI chip circuit board"
+      },
+      {
+        "hook": "Same secrecy, different industry",
+        "description": "Shultz points to NDAs, restricted access, and aggressive timelines that silence doubters inside AI companies.",
+        "visual_hint": "NDA contract and redacted documents on a desk",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "NDA contract redacted",
+        "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI lies before shipping",
+        "description": "Unlike Theranos, AI deception happens in demos and benchmarks that can be cherry-picked or faked entirely.",
+        "visual_hint": "Split screen of polished demo vs. messy real data",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "product demo screen",
+        "image": "https://images.pexels.com/photos/25809263/pexels-photo-25809263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Question your AI vendor now",
+        "description": "Apply the same skepticism you would to a black-box medical device and demand proof instead of promises.",
+        "visual_hint": "Business hand holding a magnifying glass over a contract",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "magnifying glass contract",
+        "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask for evidence, not demos",
+        "description": "Before buying AI, request validation data and customer references. If they can't provide them, walk away.",
+        "visual_hint": "Checklist with validation data and customer references",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist validation data",
+        "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1465332173.jpg?resize=1200,800",
+    "savedAt": "2026-10-30T20:17:37.421Z",
+    "sourceId": "9baf1e5f5cebdc8d3d960550c4fbec13"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "zest-s-new-ai-agent-finds-restaurants-and-books-re",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+    "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+    "pubDate": "Fri, 30 Oct 2026 17:47:12 +0000",
+    "slides": [
+      "Zest's AI agent books tables by text—but who's paying?",
+      "It searches restaurants and handles reservations autonomously",
+      "Unlike chatbots, it completes bookings without human intervention",
+      "Diners can now outsource restaurant choice and table booking entirely",
+      "Test it on your next dinner plan before competitors do"
+    ],
+    "thread_text": [
+      "1. An AI that books tables?\n\nZest's agent searches restaurants and reserves autonomously, no human needed. The real question is who's actually paying for this service.",
+      "2. No chat, just done\n\nUnlike chatbots that suggest, this agent completes the booking. The human steps out of the loop entirely.",
+      "3. Outsource your dinner decision\n\nDiners can now hand off both restaurant choice and table booking. The agent handles it all.",
+      "4. Test before your rivals\n\nUse it for your next dinner plan. Competitors might already be trying it.",
+      "5. Would you let AI choose?\n\nCould you hand over your dinner reservation completely? Try it once and see if you miss the control."
+    ],
+    "video_script": [
+      "An AI agent that books tables for you.",
+      "It searches and reserves without any human help.",
+      "Unlike chatbots, it completes the booking on its own.",
+      "You can outsource the entire dinner decision.",
+      "Test it before your competitors do."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. An AI that books tables?\n\nZest's agent searches restaurants and reserves autonomously, no human needed. The real question is who's actually paying for this service.",
+          "2. No chat, just done\n\nUnlike chatbots that suggest, this agent completes the booking. The human steps out of the loop entirely.",
+          "3. Outsource your dinner decision\n\nDiners can now hand off both restaurant choice and table booking. The agent handles it all.",
+          "4. Test before your rivals\n\nUse it for your next dinner plan. Competitors might already be trying it.",
+          "5. Would you let AI choose?\n\nCould you hand over your dinner reservation completely? Try it once and see if you miss the control."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "An AI agent that books tables for you.",
+          "It searches and reserves without any human help.",
+          "Unlike chatbots, it completes the booking on its own.",
+          "You can outsource the entire dinner decision.",
+          "Test it before your competitors do."
+        ]
+      },
+      "instagram": {
+        "caption": "You can now book a table without picking up your phone—or picking the restaurant.\n\nZest's AI agent searches restaurants and handles reservations over text on its own. 🍽️\n\nUnlike chatbots that just suggest, it completes the booking with no human step.\n\nThat means you can hand off both the choice and the reservation entirely. 🤖\n\nIf you cover food or local business content, this changes how your audience finds and books places—worth testing before your competitors do.\n\nWould you actually let an AI choose where you eat and lock in the table? 🥂"
+      }
+    },
+    "instagram_caption": "You can now book a table without picking up your phone—or picking the restaurant.\n\nZest's AI agent searches restaurants and handles reservations over text on its own. 🍽️\n\nUnlike chatbots that just suggest, it completes the booking with no human step.\n\nThat means you can hand off both the choice and the reservation entirely. 🤖\n\nIf you cover food or local business content, this changes how your audience finds and books places—worth testing before your competitors do.\n\nWould you actually let an AI choose where you eat and lock in the table? 🥂",
+    "carousel_slides": [
+      {
+        "hook": "AI books tables without asking you",
+        "description": "Zest's agent searches restaurants and reserves autonomously, no human needed. The real question is who pays for this service.",
+        "visual_hint": "Smartphone screen showing a confirmed reservation",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone reservation app"
+      },
+      {
+        "hook": "No chat, just done",
+        "description": "Unlike chatbots that suggest, this agent completes the booking. The human steps out of the loop entirely.",
+        "visual_hint": "Split screen chatbot versus automatic booking",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "chatbot interface screen",
+        "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Outsource your dinner decision",
+        "description": "Diners can now hand off both restaurant choice and table booking. The agent handles it all.",
+        "visual_hint": "Restaurant table set for two, empty",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "restaurant table setting",
+        "image": "https://images.pexels.com/photos/17057009/pexels-photo-17057009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test before your rivals",
+        "description": "Use it for your next dinner plan. Competitors might already be trying it.",
+        "visual_hint": "Person using phone at dinner table",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person using smartphone",
+        "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Would you let AI choose?",
+        "description": "Save this post and try letting an AI book your next reservation. See if you miss the control.",
+        "visual_hint": "Hand hovering over phone with booking app",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/zest.jpg?resize=1200,764",
+    "savedAt": "2026-10-30T20:17:28.202Z",
+    "sourceId": "c9dcfb62ccca45b22e323f6f45c8391b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ai-law-firm-crosby-bids-on-disintegrating-famed-fi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+    "link": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+    "pubDate": "Fri, 30 Oct 2026 19:55:13 +0000",
+    "slides": [
+      "Can an AI law firm swallow Weil Gotshal?",
+      "Crosby just made a formal bid for the storied firm",
+      "Weil's partners are already splintering fast",
+      "Your legal bills could soon be priced by machines",
+      "Watch who leaves Weil next — that's the real tell"
+    ],
+    "thread_text": [
+      "1. Weil's AI takeover bid\n\nCrosby just made a formal offer for Weil Gotshal, one of the most storied law firms in the world. The deal would put an AI system in charge of legal work.",
+      "2. Partners are jumping ship\n\nWeil's partners are already splintering fast, with top talent leaving before the ink dries. The exodus signals deep distrust in the firm's direction.",
+      "3. Your bills priced by machines\n\nLegal fees could soon be set by algorithms, not billable hours. That means cheaper, faster work—but also less human judgment.",
+      "4. Watch who leaves next\n\nThe real tell isn't the bid itself, but who walks out the door next. If star partners keep leaving, the firm's value erodes fast.",
+      "5. Test AI on your own work\n\nTake a simple legal task and run it through an AI tool today. If it saves time without sacrificing quality, ask yourself: would you pay a firm for that?"
+    ],
+    "video_script": [
+      "Crosby just bid for Weil Gotshal.",
+      "Partners are already leaving fast.",
+      "Legal bills could soon be priced by machines.",
+      "Watch who leaves next—that's the real tell.",
+      "Test one legal task with AI today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Weil's AI takeover bid\n\nCrosby just made a formal offer for Weil Gotshal, one of the most storied law firms in the world. The deal would put an AI system in charge of legal work.",
+          "2. Partners are jumping ship\n\nWeil's partners are already splintering fast, with top talent leaving before the ink dries. The exodus signals deep distrust in the firm's direction.",
+          "3. Your bills priced by machines\n\nLegal fees could soon be set by algorithms, not billable hours. That means cheaper, faster work—but also less human judgment.",
+          "4. Watch who leaves next\n\nThe real tell isn't the bid itself, but who walks out the door next. If star partners keep leaving, the firm's value erodes fast.",
+          "5. Test AI on your own work\n\nTake a simple legal task and run it through an AI tool today. If it saves time without sacrificing quality, ask yourself: would you pay a firm for that?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Crosby just bid for Weil Gotshal.",
+          "Partners are already leaving fast.",
+          "Legal bills could soon be priced by machines.",
+          "Watch who leaves next—that's the real tell.",
+          "Test one legal task with AI today."
+        ]
+      },
+      "instagram": {
+        "caption": "An AI company just made a formal bid to take over Weil Gotshal, one of the most storied law firms in the world. 🏛️\n\nCrosby wants to put an AI system in charge of legal work that Weil's partners have done for decades.\n\nTop partners are already leaving fast, before the ink even dries. 📉\n\nIf this goes through, your legal bills could be priced by algorithms instead of billable hours — cheaper and faster, but with less human judgment. ⚖️\n\nTry a simple legal task with an AI tool today. If it saves time without sacrificing quality, would you still pay a firm for that? 🤖"
+      }
+    },
+    "instagram_caption": "An AI company just made a formal bid to take over Weil Gotshal, one of the most storied law firms in the world. 🏛️\n\nCrosby wants to put an AI system in charge of legal work that Weil's partners have done for decades.\n\nTop partners are already leaving fast, before the ink even dries. 📉\n\nIf this goes through, your legal bills could be priced by algorithms instead of billable hours — cheaper and faster, but with less human judgment. ⚖️\n\nTry a simple legal task with an AI tool today. If it saves time without sacrificing quality, would you still pay a firm for that? 🤖",
+    "carousel_slides": [
+      {
+        "hook": "Will AI replace your law firm?",
+        "description": "Crosby, an AI law firm, has formally bid for Weil Gotshal, potentially putting algorithms in charge of legal work.",
+        "visual_hint": "Robot hand holding gavel",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot hand gavel"
+      },
+      {
+        "hook": "Partners leaving Weil in droves",
+        "description": "Top talent is splintering fast, signaling deep distrust in the firm's direction as the AI bid looms.",
+        "visual_hint": "Empty office chairs, packed boxes",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "empty office chairs",
+        "image": "https://images.pexels.com/photos/3767172/pexels-photo-3767172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your legal bills priced by machines",
+        "description": "Algorithms could soon set legal fees, replacing billable hours with cheaper, faster, but less human judgment.",
+        "visual_hint": "Algorithm code on screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer code screen",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Watch who leaves Weil next",
+        "description": "The real test is the exodus of star partners—if they keep leaving, the firm's value erodes quickly.",
+        "visual_hint": "Person walking out door",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person walking door",
+        "image": "https://images.pexels.com/photos/38874106/pexels-photo-38874106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: AI is coming for law",
+        "description": "Test a simple legal task with an AI tool today. If it saves time without sacrificing quality, would you still pay a firm?",
+        "visual_hint": "Phone with AI app",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone AI app",
+        "image": "https://images.pexels.com/photos/30530421/pexels-photo-30530421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/Crosby-cofounders.jpg?resize=1200,900",
+    "savedAt": "2026-10-30T20:17:18.766Z",
+    "sourceId": "d50acd2d8b62594d9d11a945e593e154"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "sam-altman-sympathizes-with-mathematicians-but-say",
     "prompt_version": "1.0.0",
     "status": "published",

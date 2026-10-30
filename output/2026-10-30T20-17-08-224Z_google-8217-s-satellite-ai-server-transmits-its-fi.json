@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-8217-s-satellite-ai-server-transmits-its-fi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+  "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+  "pubDate": "2026-10-30T18:21:38.000Z",
+  "slides": [
+    "Google's satellite AI just answered Earth — why now?",
+    "The model runs entirely in orbit, no ground link needed",
+    "But it can only process what its sensors capture first",
+    "Disaster response teams could get answers before downlink",
+    "Ask: who controls the model above your head?"
+  ],
+  "thread_text": [
+    "1. AI Just Left Earth\n\nA satellite just ran a full AI model in orbit, no ground link needed. That means decisions about what's happening on the ground could be made 500 km above your head.",
+    "2. Why Orbit Changes Everything\n\nThe model processes data on the spot, cutting the delay from hours to seconds. Disaster teams could get answers before the satellite even downlinks.",
+    "3. The Sensor Bottleneck\n\nIt can only analyze what its own eyes see. No ground truth, no extra data — just what the satellite's instruments captured first.",
+    "4. Who's Watching the Watcher?\n\nNo human in the loop for the first pass. That raises a simple question: who audits the model when it's out of reach?",
+    "5. Your Move\n\nNext time you hear 'AI in space', ask: who controls the model above your head? If you can't answer, that's the problem."
+  ],
+  "video_script": [
+    "A satellite just ran an AI model entirely in orbit.",
+    "No ground link needed — it thinks on its own.",
+    "But it only knows what its sensors capture first.",
+    "Disaster teams could get answers before downlink.",
+    "So who controls the model above your head?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Just Left Earth\n\nA satellite just ran a full AI model in orbit, no ground link needed. That means decisions about what's happening on the ground could be made 500 km above your head.",
+        "2. Why Orbit Changes Everything\n\nThe model processes data on the spot, cutting the delay from hours to seconds. Disaster teams could get answers before the satellite even downlinks.",
+        "3. The Sensor Bottleneck\n\nIt can only analyze what its own eyes see. No ground truth, no extra data — just what the satellite's instruments captured first.",
+        "4. Who's Watching the Watcher?\n\nNo human in the loop for the first pass. That raises a simple question: who audits the model when it's out of reach?",
+        "5. Your Move\n\nNext time you hear 'AI in space', ask: who controls the model above your head? If you can't answer, that's the problem."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A satellite just ran an AI model entirely in orbit.",
+        "No ground link needed — it thinks on its own.",
+        "But it only knows what its sensors capture first.",
+        "Disaster teams could get answers before downlink.",
+        "So who controls the model above your head?"
+      ]
+    },
+    "instagram": {
+      "caption": "A Google satellite just ran a full AI model in orbit and sent its first answer back to Earth — no ground link needed.\n\nThe model processes data on the spot, cutting response time from hours to seconds. ⚡\n\nBut it can only analyze what its own sensors capture first — no ground truth, no extra data. 🛰️\n\nDisaster response teams could get answers before the satellite even downlinks. That changes how fast decisions reach people on the ground.\n\nNo human reviews the first pass. 👀\n\nSo who controls the model running 500 km above your head — and who audits it when it's out of reach?"
+    }
+  },
+  "instagram_caption": "A Google satellite just ran a full AI model in orbit and sent its first answer back to Earth — no ground link needed.\n\nThe model processes data on the spot, cutting response time from hours to seconds. ⚡\n\nBut it can only analyze what its own sensors capture first — no ground truth, no extra data. 🛰️\n\nDisaster response teams could get answers before the satellite even downlinks. That changes how fast decisions reach people on the ground.\n\nNo human reviews the first pass. 👀\n\nSo who controls the model running 500 km above your head — and who audits it when it's out of reach?",
+  "carousel_slides": [
+    {
+      "hook": "Who controls the AI above your head?",
+      "description": "A Google satellite AI just answered Earth, making decisions 500 km above you—without any human in the loop.",
+      "visual_hint": "Satellite orbiting Earth with AI brain",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "satellite orbit"
+    },
+    {
+      "hook": "No ground link needed anymore",
+      "description": "The model runs entirely in orbit, cutting disaster response from hours to seconds by processing data on the spot.",
+      "visual_hint": "Satellite with glowing onboard computer",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "satellite computer",
+      "image": "https://images.pexels.com/photos/5255312/pexels-photo-5255312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It only sees what its sensors capture",
+      "description": "The AI can only analyze what its own instruments record—no ground truth, no extra data, just its first pass.",
+      "visual_hint": "Close-up of satellite sensor lens",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "satellite sensor",
+      "image": "https://images.pexels.com/photos/38143085/pexels-photo-38143085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Disaster teams get answers faster",
+      "description": "Response teams could receive AI analysis before the satellite even downlinks, accelerating critical decisions on the ground.",
+      "visual_hint": "Hand holding tablet with satellite map",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "disaster response team",
+      "image": "https://images.pexels.com/photos/8553092/pexels-photo-8553092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and ask who's in control",
+      "description": "Next time you hear 'AI in space', demand transparency: who audits the model above your head? Share this post.",
+      "visual_hint": "Person looking up at night sky",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person looking sky",
+      "image": "https://images.pexels.com/photos/15321631/pexels-photo-15321631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&amp;strip=all&amp;crop=0%2C1.4420367390612%2C100%2C97.115926521878&amp;w=1200",
+  "savedAt": "2026-10-30T20:17:47.836Z",
+  "sourceId": "b119c6eeb05f2544f94bcea51d13f31d"
+}

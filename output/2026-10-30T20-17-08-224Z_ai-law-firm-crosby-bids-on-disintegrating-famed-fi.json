@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-law-firm-crosby-bids-on-disintegrating-famed-fi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+  "link": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+  "pubDate": "Fri, 30 Oct 2026 19:55:13 +0000",
+  "slides": [
+    "Can an AI law firm swallow Weil Gotshal?",
+    "Crosby just made a formal bid for the storied firm",
+    "Weil's partners are already splintering fast",
+    "Your legal bills could soon be priced by machines",
+    "Watch who leaves Weil next — that's the real tell"
+  ],
+  "thread_text": [
+    "1. Weil's AI takeover bid\n\nCrosby just made a formal offer for Weil Gotshal, one of the most storied law firms in the world. The deal would put an AI system in charge of legal work.",
+    "2. Partners are jumping ship\n\nWeil's partners are already splintering fast, with top talent leaving before the ink dries. The exodus signals deep distrust in the firm's direction.",
+    "3. Your bills priced by machines\n\nLegal fees could soon be set by algorithms, not billable hours. That means cheaper, faster work—but also less human judgment.",
+    "4. Watch who leaves next\n\nThe real tell isn't the bid itself, but who walks out the door next. If star partners keep leaving, the firm's value erodes fast.",
+    "5. Test AI on your own work\n\nTake a simple legal task and run it through an AI tool today. If it saves time without sacrificing quality, ask yourself: would you pay a firm for that?"
+  ],
+  "video_script": [
+    "Crosby just bid for Weil Gotshal.",
+    "Partners are already leaving fast.",
+    "Legal bills could soon be priced by machines.",
+    "Watch who leaves next—that's the real tell.",
+    "Test one legal task with AI today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Weil's AI takeover bid\n\nCrosby just made a formal offer for Weil Gotshal, one of the most storied law firms in the world. The deal would put an AI system in charge of legal work.",
+        "2. Partners are jumping ship\n\nWeil's partners are already splintering fast, with top talent leaving before the ink dries. The exodus signals deep distrust in the firm's direction.",
+        "3. Your bills priced by machines\n\nLegal fees could soon be set by algorithms, not billable hours. That means cheaper, faster work—but also less human judgment.",
+        "4. Watch who leaves next\n\nThe real tell isn't the bid itself, but who walks out the door next. If star partners keep leaving, the firm's value erodes fast.",
+        "5. Test AI on your own work\n\nTake a simple legal task and run it through an AI tool today. If it saves time without sacrificing quality, ask yourself: would you pay a firm for that?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Crosby just bid for Weil Gotshal.",
+        "Partners are already leaving fast.",
+        "Legal bills could soon be priced by machines.",
+        "Watch who leaves next—that's the real tell.",
+        "Test one legal task with AI today."
+      ]
+    },
+    "instagram": {
+      "caption": "An AI company just made a formal bid to take over Weil Gotshal, one of the most storied law firms in the world. 🏛️\n\nCrosby wants to put an AI system in charge of legal work that Weil's partners have done for decades.\n\nTop partners are already leaving fast, before the ink even dries. 📉\n\nIf this goes through, your legal bills could be priced by algorithms instead of billable hours — cheaper and faster, but with less human judgment. ⚖️\n\nTry a simple legal task with an AI tool today. If it saves time without sacrificing quality, would you still pay a firm for that? 🤖"
+    }
+  },
+  "instagram_caption": "An AI company just made a formal bid to take over Weil Gotshal, one of the most storied law firms in the world. 🏛️\n\nCrosby wants to put an AI system in charge of legal work that Weil's partners have done for decades.\n\nTop partners are already leaving fast, before the ink even dries. 📉\n\nIf this goes through, your legal bills could be priced by algorithms instead of billable hours — cheaper and faster, but with less human judgment. ⚖️\n\nTry a simple legal task with an AI tool today. If it saves time without sacrificing quality, would you still pay a firm for that? 🤖",
+  "carousel_slides": [
+    {
+      "hook": "Will AI replace your law firm?",
+      "description": "Crosby, an AI law firm, has formally bid for Weil Gotshal, potentially putting algorithms in charge of legal work.",
+      "visual_hint": "Robot hand holding gavel",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot hand gavel"
+    },
+    {
+      "hook": "Partners leaving Weil in droves",
+      "description": "Top talent is splintering fast, signaling deep distrust in the firm's direction as the AI bid looms.",
+      "visual_hint": "Empty office chairs, packed boxes",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "empty office chairs",
+      "image": "https://images.pexels.com/photos/3767172/pexels-photo-3767172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your legal bills priced by machines",
+      "description": "Algorithms could soon set legal fees, replacing billable hours with cheaper, faster, but less human judgment.",
+      "visual_hint": "Algorithm code on screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Watch who leaves Weil next",
+      "description": "The real test is the exodus of star partners—if they keep leaving, the firm's value erodes quickly.",
+      "visual_hint": "Person walking out door",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person walking door",
+      "image": "https://images.pexels.com/photos/38874106/pexels-photo-38874106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: AI is coming for law",
+      "description": "Test a simple legal task with an AI tool today. If it saves time without sacrificing quality, would you still pay a firm?",
+      "visual_hint": "Phone with AI app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone AI app",
+      "image": "https://images.pexels.com/photos/30530421/pexels-photo-30530421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/06/Crosby-cofounders.jpg?resize=1200,900",
+  "savedAt": "2026-10-30T20:17:18.766Z",
+  "sourceId": "d50acd2d8b62594d9d11a945e593e154"
+}

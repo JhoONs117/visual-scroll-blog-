@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "zest-s-new-ai-agent-finds-restaurants-and-books-re",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+  "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+  "pubDate": "Fri, 30 Oct 2026 17:47:12 +0000",
+  "slides": [
+    "Zest's AI agent books tables by text—but who's paying?",
+    "It searches restaurants and handles reservations autonomously",
+    "Unlike chatbots, it completes bookings without human intervention",
+    "Diners can now outsource restaurant choice and table booking entirely",
+    "Test it on your next dinner plan before competitors do"
+  ],
+  "thread_text": [
+    "1. An AI that books tables?\n\nZest's agent searches restaurants and reserves autonomously, no human needed. The real question is who's actually paying for this service.",
+    "2. No chat, just done\n\nUnlike chatbots that suggest, this agent completes the booking. The human steps out of the loop entirely.",
+    "3. Outsource your dinner decision\n\nDiners can now hand off both restaurant choice and table booking. The agent handles it all.",
+    "4. Test before your rivals\n\nUse it for your next dinner plan. Competitors might already be trying it.",
+    "5. Would you let AI choose?\n\nCould you hand over your dinner reservation completely? Try it once and see if you miss the control."
+  ],
+  "video_script": [
+    "An AI agent that books tables for you.",
+    "It searches and reserves without any human help.",
+    "Unlike chatbots, it completes the booking on its own.",
+    "You can outsource the entire dinner decision.",
+    "Test it before your competitors do."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. An AI that books tables?\n\nZest's agent searches restaurants and reserves autonomously, no human needed. The real question is who's actually paying for this service.",
+        "2. No chat, just done\n\nUnlike chatbots that suggest, this agent completes the booking. The human steps out of the loop entirely.",
+        "3. Outsource your dinner decision\n\nDiners can now hand off both restaurant choice and table booking. The agent handles it all.",
+        "4. Test before your rivals\n\nUse it for your next dinner plan. Competitors might already be trying it.",
+        "5. Would you let AI choose?\n\nCould you hand over your dinner reservation completely? Try it once and see if you miss the control."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "An AI agent that books tables for you.",
+        "It searches and reserves without any human help.",
+        "Unlike chatbots, it completes the booking on its own.",
+        "You can outsource the entire dinner decision.",
+        "Test it before your competitors do."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now book a table without picking up your phone—or picking the restaurant.\n\nZest's AI agent searches restaurants and handles reservations over text on its own. 🍽️\n\nUnlike chatbots that just suggest, it completes the booking with no human step.\n\nThat means you can hand off both the choice and the reservation entirely. 🤖\n\nIf you cover food or local business content, this changes how your audience finds and books places—worth testing before your competitors do.\n\nWould you actually let an AI choose where you eat and lock in the table? 🥂"
+    }
+  },
+  "instagram_caption": "You can now book a table without picking up your phone—or picking the restaurant.\n\nZest's AI agent searches restaurants and handles reservations over text on its own. 🍽️\n\nUnlike chatbots that just suggest, it completes the booking with no human step.\n\nThat means you can hand off both the choice and the reservation entirely. 🤖\n\nIf you cover food or local business content, this changes how your audience finds and books places—worth testing before your competitors do.\n\nWould you actually let an AI choose where you eat and lock in the table? 🥂",
+  "carousel_slides": [
+    {
+      "hook": "AI books tables without asking you",
+      "description": "Zest's agent searches restaurants and reserves autonomously, no human needed. The real question is who pays for this service.",
+      "visual_hint": "Smartphone screen showing a confirmed reservation",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone reservation app"
+    },
+    {
+      "hook": "No chat, just done",
+      "description": "Unlike chatbots that suggest, this agent completes the booking. The human steps out of the loop entirely.",
+      "visual_hint": "Split screen chatbot versus automatic booking",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "chatbot interface screen",
+      "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Outsource your dinner decision",
+      "description": "Diners can now hand off both restaurant choice and table booking. The agent handles it all.",
+      "visual_hint": "Restaurant table set for two, empty",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "restaurant table setting",
+      "image": "https://images.pexels.com/photos/17057009/pexels-photo-17057009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test before your rivals",
+      "description": "Use it for your next dinner plan. Competitors might already be trying it.",
+      "visual_hint": "Person using phone at dinner table",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person using smartphone",
+      "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Would you let AI choose?",
+      "description": "Save this post and try letting an AI book your next reservation. See if you miss the control.",
+      "visual_hint": "Hand hovering over phone with booking app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/zest.jpg?resize=1200,764",
+  "savedAt": "2026-10-30T20:17:28.202Z",
+  "sourceId": "c9dcfb62ccca45b22e323f6f45c8391b"
+}
