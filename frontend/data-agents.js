@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "ai-has-come-for-arizona-s-water",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI has come for Arizona’s water",
+      "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "pubDate": "2026-10-29T10:00:04.000Z",
+      "slides": [
+        "Who's really thirsty in Arizona: AI or you?",
+        "Data centers now rival farms for water rights",
+        "One ChatGPT query can sip a bottle's worth",
+        "Your utility bill may soon fund new AI cooling",
+        "Ask your water board who's next in line"
+      ],
+      "thread_text": [
+        "1. AI or you?\n\nArizona data centers now compete with farms for water rights. The same tap you drink from may soon cool a server.",
+        "2. Farms no longer first\n\nFor decades, agriculture had priority. Now tech giants buy water rights directly, changing who gets served first.",
+        "3. One query, one bottle\n\nA single ChatGPT prompt can consume as much water as a plastic bottle. Multiply that by millions of daily users.",
+        "4. Your bill funds cooling\n\nUtility companies are investing in new infrastructure for AI cooling. Those costs often get passed to residential customers.",
+        "5. Who's next in line?\n\nAsk your local water board how data centers are prioritized. Then check your next utility bill for new line items."
+      ],
+      "video_script": [
+        "Arizona data centers now rival farms for water rights.",
+        "One ChatGPT query can sip a bottle's worth of water.",
+        "Your utility bill may soon fund new AI cooling systems.",
+        "Ask your water board who's next in line for water.",
+        "Check your next bill for new AI cooling charges."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI or you?\n\nArizona data centers now compete with farms for water rights. The same tap you drink from may soon cool a server.",
+            "2. Farms no longer first\n\nFor decades, agriculture had priority. Now tech giants buy water rights directly, changing who gets served first.",
+            "3. One query, one bottle\n\nA single ChatGPT prompt can consume as much water as a plastic bottle. Multiply that by millions of daily users.",
+            "4. Your bill funds cooling\n\nUtility companies are investing in new infrastructure for AI cooling. Those costs often get passed to residential customers.",
+            "5. Who's next in line?\n\nAsk your local water board how data centers are prioritized. Then check your next utility bill for new line items."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Arizona data centers now rival farms for water rights.",
+            "One ChatGPT query can sip a bottle's worth of water.",
+            "Your utility bill may soon fund new AI cooling systems.",
+            "Ask your water board who's next in line for water.",
+            "Check your next bill for new AI cooling charges."
+          ]
+        },
+        "instagram": {
+          "caption": "Your tap may soon be cooling a server. 💧\n\nArizona data centers now compete directly with farms for water rights — and they're buying them outright.\n\nOne ChatGPT query can sip as much water as a plastic bottle. 😳\n\nThose cooling costs often land on residential bills, not tech balance sheets.\n\nCheck your next utility bill for new line items — then ask your local water board how data centers get prioritized. 🏜️\n\nWho do you think should be first in line for water: farms, homes, or servers? 🤔"
+        }
+      },
+      "instagram_caption": "Your tap may soon be cooling a server. 💧\n\nArizona data centers now compete directly with farms for water rights — and they're buying them outright.\n\nOne ChatGPT query can sip as much water as a plastic bottle. 😳\n\nThose cooling costs often land on residential bills, not tech balance sheets.\n\nCheck your next utility bill for new line items — then ask your local water board how data centers get prioritized. 🏜️\n\nWho do you think should be first in line for water: farms, homes, or servers? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "One ChatGPT query drinks a bottle?",
+          "description": "A single AI prompt can consume as much water as a plastic bottle, multiplied by millions of daily users.",
+          "visual_hint": "Water bottle next to server rack",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Data centers now rival farms for water",
+          "description": "Tech giants buy water rights directly, changing who gets served first in Arizona's water hierarchy.",
+          "visual_hint": "Data center next to farm field",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your tap might soon cool a server",
+          "description": "The same water you drink may be diverted to cool AI servers as data centers compete for supply.",
+          "visual_hint": "Tap water flowing into server",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "water tap",
+          "image": "https://images.pexels.com/photos/33745624/pexels-photo-33745624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your utility bill may fund AI cooling",
+          "description": "Utility companies invest in new infrastructure for AI cooling, and those costs often pass to residential customers.",
+          "visual_hint": "Utility bill with cooling system",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "utility bill",
+          "image": "https://images.pexels.com/photos/7927396/pexels-photo-7927396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask your water board who's next",
+          "description": "Contact your local water board to ask how data centers are prioritized, then check your next utility bill for new line items.",
+          "visual_hint": "Person calling water board",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "water board meeting",
+          "image": "https://images.pexels.com/photos/6814345/pexels-photo-6814345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268658_Data_center_AZ_LEDE_VOSSS50.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-30T07:55:30.179Z",
+      "sourceId": "d5e0e9e01a4703dc2f2b1fe91da3b232"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "microsoft-s-ai-future-has-fewer-jobs",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Microsoft’s AI future has fewer jobs",
+      "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+      "pubDate": "2026-10-29T16:00:00.000Z",
+      "slides": [
+        "What if Microsoft's AI plan erases its own teams?",
+        "Its leaders say job cuts are coming soon",
+        "But the company is hiring AI specialists fast",
+        "Workers must reskill before roles vanish",
+        "Audit your skills against AI tasks now"
+      ],
+      "thread_text": [
+        "1. Microsoft’s AI paradox\n\nMicrosoft’s AI strategy is triggering job cuts in its own teams even as it hires AI specialists at record pace.",
+        "2. Leaders confirm cuts\n\nIts leaders have signaled that job cuts across departments are coming soon, not just a rumor.",
+        "3. Hiring surge continues\n\nWhile cuts loom, the company is aggressively hiring AI specialists, widening the skills gap.",
+        "4. Reskill or risk\n\nWorkers must reskill before their roles vanish, because the demand for AI skills is outpacing internal training.",
+        "5. Test your skills today\n\nTake a prompt on ChatGPT and simulate one of your daily tasks. If you haven’t done it, that’s your starting point."
+      ],
+      "video_script": [
+        "Microsoft’s AI plan might erase its own teams.",
+        "Leaders say job cuts are coming soon.",
+        "But they’re hiring AI specialists fast.",
+        "Workers must reskill before roles vanish.",
+        "Audit your skills against AI tasks now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Microsoft’s AI paradox\n\nMicrosoft’s AI strategy is triggering job cuts in its own teams even as it hires AI specialists at record pace.",
+            "2. Leaders confirm cuts\n\nIts leaders have signaled that job cuts across departments are coming soon, not just a rumor.",
+            "3. Hiring surge continues\n\nWhile cuts loom, the company is aggressively hiring AI specialists, widening the skills gap.",
+            "4. Reskill or risk\n\nWorkers must reskill before their roles vanish, because the demand for AI skills is outpacing internal training.",
+            "5. Test your skills today\n\nTake a prompt on ChatGPT and simulate one of your daily tasks. If you haven’t done it, that’s your starting point."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Microsoft’s AI plan might erase its own teams.",
+            "Leaders say job cuts are coming soon.",
+            "But they’re hiring AI specialists fast.",
+            "Workers must reskill before roles vanish.",
+            "Audit your skills against AI tasks now."
+          ]
+        },
+        "instagram": {
+          "caption": "Job cuts are coming across Microsoft departments — while it hires AI specialists at record pace. 🧠\n\nIts leaders confirmed the cuts are near, not rumor.\n\nTraining inside the company isn't keeping up with AI skill demand.\n\nSo the gap widens: fewer general roles, more AI roles.\n\nIf you create or publish content, the tasks you do daily are exactly the ones being reassigned first.\n\nPick one task you did today and try it as a prompt. If you've never done that, that's your starting point. 💡\n\nWhat's the one task you'd test first?"
+        }
+      },
+      "instagram_caption": "Job cuts are coming across Microsoft departments — while it hires AI specialists at record pace. 🧠\n\nIts leaders confirmed the cuts are near, not rumor.\n\nTraining inside the company isn't keeping up with AI skill demand.\n\nSo the gap widens: fewer general roles, more AI roles.\n\nIf you create or publish content, the tasks you do daily are exactly the ones being reassigned first.\n\nPick one task you did today and try it as a prompt. If you've never done that, that's your starting point. 💡\n\nWhat's the one task you'd test first?",
+      "carousel_slides": [
+        {
+          "hook": "Is Microsoft's AI plan erasing its own teams?",
+          "description": "Microsoft's AI strategy triggers job cuts in its own teams while hiring AI specialists at record pace.",
+          "visual_hint": "Split screen: empty office vs. AI hiring",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "empty office"
+        },
+        {
+          "hook": "Leaders confirm: job cuts are coming soon",
+          "description": "Microsoft leaders have signaled that job cuts across departments are imminent, not just a rumor.",
+          "visual_hint": "Executive meeting with serious faces",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "business meeting",
+          "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Hiring AI specialists at record pace",
+          "description": "While cuts loom, Microsoft aggressively hires AI specialists, widening the skills gap.",
+          "visual_hint": "AI specialists working on code",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "programmer coding",
+          "image": "https://images.pexels.com/photos/9553905/pexels-photo-9553905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Reskill before your role vanishes",
+          "description": "Workers must reskill before roles disappear, as demand for AI skills outpaces internal training.",
+          "visual_hint": "Worker learning on laptop",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person studying",
+          "image": "https://images.pexels.com/photos/9158720/pexels-photo-9158720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your skills against AI today",
+          "description": "Take a prompt on ChatGPT and simulate one daily task. If you haven't, that's your start.",
+          "visual_hint": "ChatGPT prompt on screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "chatgpt screen",
+          "image": "https://images.pexels.com/photos/16027822/pexels-photo-16027822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-30T07:55:20.640Z",
+      "sourceId": "e27a14625bfef0d34f52b1d4a49c0d20"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "meta-quietly-launches-an-ai-fashion-app-called-sty",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "pubDate": "Thu, 29 Oct 2026 19:14:36 +0000",
+      "slides": [
+        "Meta quietly launched Style Sketch — but why the silence?",
+        "It's a fashion AI app for generating outfit sketches",
+        "But Meta buried it outside its main apps entirely",
+        "You can now test it without a Meta account",
+        "Try one outfit design today and judge the output"
+      ],
+      "thread_text": [
+        "1. Meta's silent AI drop\n\nMeta quietly launched Style Sketch, a fashion AI app for generating outfit sketches — and buried it outside its main apps entirely.",
+        "2. Fashion AI, no account needed\n\nYou can now test Style Sketch without a Meta account, so there's no barrier to trying it out.",
+        "3. Why hide it?\n\nMeta kept Style Sketch out of its main apps, raising questions about whether this is a test or a strategic retreat.",
+        "4. Try before you judge\n\nGenerate one outfit design today and judge the output yourself — no sign-up required.",
+        "5. Your turn to test\n\nTry one outfit design today and judge the output. Does it make sense to save time if you have to edit twice? Test it on a real post this week."
+      ],
+      "video_script": [
+        "Meta quietly launched Style Sketch, a fashion AI app.",
+        "It generates outfit sketches and you can test it without a Meta account.",
+        "But Meta buried it outside its main apps entirely.",
+        "Why the silence? Is this a test or a retreat?",
+        "Try one outfit design today and judge the output yourself."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Meta's silent AI drop\n\nMeta quietly launched Style Sketch, a fashion AI app for generating outfit sketches — and buried it outside its main apps entirely.",
+            "2. Fashion AI, no account needed\n\nYou can now test Style Sketch without a Meta account, so there's no barrier to trying it out.",
+            "3. Why hide it?\n\nMeta kept Style Sketch out of its main apps, raising questions about whether this is a test or a strategic retreat.",
+            "4. Try before you judge\n\nGenerate one outfit design today and judge the output yourself — no sign-up required.",
+            "5. Your turn to test\n\nTry one outfit design today and judge the output. Does it make sense to save time if you have to edit twice? Test it on a real post this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta quietly launched Style Sketch, a fashion AI app.",
+            "It generates outfit sketches and you can test it without a Meta account.",
+            "But Meta buried it outside its main apps entirely.",
+            "Why the silence? Is this a test or a retreat?",
+            "Try one outfit design today and judge the output yourself."
+          ]
+        },
+        "instagram": {
+          "caption": "Meta built a fashion AI that generates outfit sketches, then launched it outside its main apps entirely.\n\nIt's called Style Sketch. 🧵 You can try it without a Meta account.\n\nThat silence is the story: no push notification, no banner in Instagram, no mention in the main feed. A test they didn't want you to notice, or a retreat before the backlash?\n\nIf you design or post outfits, you can generate one sketch today and check the output yourself. No sign-up.\n\nGenerate one look now: does it save you time, or do you end up editing twice? 👗"
+        }
+      },
+      "instagram_caption": "Meta built a fashion AI that generates outfit sketches, then launched it outside its main apps entirely.\n\nIt's called Style Sketch. 🧵 You can try it without a Meta account.\n\nThat silence is the story: no push notification, no banner in Instagram, no mention in the main feed. A test they didn't want you to notice, or a retreat before the backlash?\n\nIf you design or post outfits, you can generate one sketch today and check the output yourself. No sign-up.\n\nGenerate one look now: does it save you time, or do you end up editing twice? 👗",
+      "carousel_slides": [
+        {
+          "hook": "Why is Meta hiding its new AI app?",
+          "description": "Meta quietly launched Style Sketch, a fashion AI for outfit sketches, but buried it outside its main apps entirely.",
+          "visual_hint": "Split screen showing app icon and shadow",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone app icon"
+        },
+        {
+          "hook": "Fashion AI without a Meta account",
+          "description": "You can now test Style Sketch without a Meta account, so there's no barrier to trying it out.",
+          "visual_hint": "User tapping phone with sketch output",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "fashion sketch drawing",
+          "image": "https://images.pexels.com/photos/7147537/pexels-photo-7147537.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Is this a test or retreat?",
+          "description": "Meta kept Style Sketch out of its main apps, raising questions about whether this is a test or a strategic retreat.",
+          "visual_hint": "Question mark over app grid",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "question mark symbol",
+          "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Try before you judge the output",
+          "description": "Generate one outfit design today and judge the output yourself — no sign-up required.",
+          "visual_hint": "Hand holding phone with outfit sketch",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test Style Sketch on a real post",
+          "description": "Try one outfit design today and judge the output. Does it save time or require editing twice? Test it this week.",
+          "visual_hint": "Phone with sketch and edit icons",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "social media post",
+          "image": "https://images.pexels.com/photos/15226555/pexels-photo-15226555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/meta-style-sketch.png?resize=1200,625",
+      "savedAt": "2026-10-30T07:55:10.831Z",
+      "sourceId": "5d9d7808457b118e410aba114f94234e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "you-don-t-need-to-believe-in-a-god-to-get-a-religi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "pubDate": "Fri, 30 Oct 2026 01:20:48 +0000",
+      "slides": [
+        "Can you refuse AI at work and still keep your job?",
+        "US law protects religious beliefs, not just gods",
+        "Courts now accept secular 'religion' claims against AI",
+        "Employers must prove real hardship to deny exemption",
+        "Check your HR policy before your next AI mandate"
+      ],
+      "thread_text": [
+        "1. Can You Refuse AI at Work?\n\nA US court just accepted a 'secular religion' claim against an AI mandate. The employee kept their job — for now. This isn't about gods; it's about conscience.",
+        "2. Religious Freedom, Redefined\n\nUS law protects deeply held beliefs, even without a deity. Courts are now testing whether anti-AI convictions qualify under that same shield.",
+        "3. Employers Must Prove Hardship\n\nTo deny an exemption, your boss can't just say 'it's inconvenient.' They have to show real, concrete burden. That's a high bar — and a new weapon for workers.",
+        "4. The Twist: Secular Claims\n\nA belief doesn't need a church. If you oppose AI on ethical or philosophical grounds, you might have standing. But the case law is still thin — and uneven.",
+        "5. Check Your HR Policy Today\n\nBefore your next AI mandate, read the fine print. Does your company require exemptions in writing? Ask now. Does it make sense to wait until you're forced?"
+      ],
+      "video_script": [
+        "Can you refuse AI at work and keep your job?",
+        "US law protects religious beliefs, not just gods.",
+        "Courts now accept secular religion claims against AI.",
+        "Employers must prove real hardship to deny exemption.",
+        "Check your HR policy before your next AI mandate."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can You Refuse AI at Work?\n\nA US court just accepted a 'secular religion' claim against an AI mandate. The employee kept their job — for now. This isn't about gods; it's about conscience.",
+            "2. Religious Freedom, Redefined\n\nUS law protects deeply held beliefs, even without a deity. Courts are now testing whether anti-AI convictions qualify under that same shield.",
+            "3. Employers Must Prove Hardship\n\nTo deny an exemption, your boss can't just say 'it's inconvenient.' They have to show real, concrete burden. That's a high bar — and a new weapon for workers.",
+            "4. The Twist: Secular Claims\n\nA belief doesn't need a church. If you oppose AI on ethical or philosophical grounds, you might have standing. But the case law is still thin — and uneven.",
+            "5. Check Your HR Policy Today\n\nBefore your next AI mandate, read the fine print. Does your company require exemptions in writing? Ask now. Does it make sense to wait until you're forced?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Can you refuse AI at work and keep your job?",
+            "US law protects religious beliefs, not just gods.",
+            "Courts now accept secular religion claims against AI.",
+            "Employers must prove real hardship to deny exemption.",
+            "Check your HR policy before your next AI mandate."
+          ]
+        },
+        "instagram": {
+          "caption": "A US court just accepted a \"secular religion\" claim against an AI mandate at work — and the employee kept their job, for now.\n\nYou don't need to believe in a god. 🧠 US law protects deeply held beliefs, including ethical or philosophical objections to AI.\n\nTo refuse an exemption, your employer must prove a real, concrete burden — not just inconvenience. ⚖️\n\nBut case law is thin and uneven, so read your HR policy now. 🤔 Does it require exemptions in writing?\n\nIf your boss mandates AI tomorrow, do you know what you'd actually file — or would you just comply? 📄"
+        }
+      },
+      "instagram_caption": "A US court just accepted a \"secular religion\" claim against an AI mandate at work — and the employee kept their job, for now.\n\nYou don't need to believe in a god. 🧠 US law protects deeply held beliefs, including ethical or philosophical objections to AI.\n\nTo refuse an exemption, your employer must prove a real, concrete burden — not just inconvenience. ⚖️\n\nBut case law is thin and uneven, so read your HR policy now. 🤔 Does it require exemptions in writing?\n\nIf your boss mandates AI tomorrow, do you know what you'd actually file — or would you just comply? 📄",
+      "carousel_slides": [
+        {
+          "hook": "Can you refuse AI and keep your job?",
+          "description": "US court accepted a secular religion claim against an AI mandate. Employee kept job—for now. It's about conscience, not gods.",
+          "visual_hint": "Person standing firm at office desk",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "office worker"
+        },
+        {
+          "hook": "Religious freedom doesn't require a god",
+          "description": "US law protects deeply held beliefs, even without a deity. Courts now test if anti-AI convictions qualify under that shield.",
+          "visual_hint": "Scales of justice, no religious symbols",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "scales of justice",
+          "image": "https://images.pexels.com/photos/5669619/pexels-photo-5669619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Employers must prove real hardship",
+          "description": "To deny an exemption, your boss can't just say 'inconvenient.' They must show concrete burden—a high bar for workers.",
+          "visual_hint": "Boss pointing at document with charts",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "business meeting",
+          "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Secular claims against AI gain ground",
+          "description": "Belief doesn't need a church. Ethical or philosophical opposition to AI might have standing, but case law is still thin.",
+          "visual_hint": "Gavel and law book, no deity",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "gavel",
+          "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your HR policy before AI mandates",
+          "description": "Read the fine print now. Does your company require written exemptions? Ask before you're forced to comply.",
+          "visual_hint": "Employee reading HR policy document",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office desk",
+          "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
+      "savedAt": "2026-10-30T07:55:02.005Z",
+      "sourceId": "4585bce5af53764978e38dc0e4a3a5ba"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "ex-palantir-execs-launch-dream-with-17m-from-a16z-",
       "prompt_version": "1.0.0",
       "status": "published",

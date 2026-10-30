@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "you-don-t-need-to-believe-in-a-god-to-get-a-religi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+  "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+  "pubDate": "Fri, 30 Oct 2026 01:20:48 +0000",
+  "slides": [
+    "Can you refuse AI at work and still keep your job?",
+    "US law protects religious beliefs, not just gods",
+    "Courts now accept secular 'religion' claims against AI",
+    "Employers must prove real hardship to deny exemption",
+    "Check your HR policy before your next AI mandate"
+  ],
+  "thread_text": [
+    "1. Can You Refuse AI at Work?\n\nA US court just accepted a 'secular religion' claim against an AI mandate. The employee kept their job — for now. This isn't about gods; it's about conscience.",
+    "2. Religious Freedom, Redefined\n\nUS law protects deeply held beliefs, even without a deity. Courts are now testing whether anti-AI convictions qualify under that same shield.",
+    "3. Employers Must Prove Hardship\n\nTo deny an exemption, your boss can't just say 'it's inconvenient.' They have to show real, concrete burden. That's a high bar — and a new weapon for workers.",
+    "4. The Twist: Secular Claims\n\nA belief doesn't need a church. If you oppose AI on ethical or philosophical grounds, you might have standing. But the case law is still thin — and uneven.",
+    "5. Check Your HR Policy Today\n\nBefore your next AI mandate, read the fine print. Does your company require exemptions in writing? Ask now. Does it make sense to wait until you're forced?"
+  ],
+  "video_script": [
+    "Can you refuse AI at work and keep your job?",
+    "US law protects religious beliefs, not just gods.",
+    "Courts now accept secular religion claims against AI.",
+    "Employers must prove real hardship to deny exemption.",
+    "Check your HR policy before your next AI mandate."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can You Refuse AI at Work?\n\nA US court just accepted a 'secular religion' claim against an AI mandate. The employee kept their job — for now. This isn't about gods; it's about conscience.",
+        "2. Religious Freedom, Redefined\n\nUS law protects deeply held beliefs, even without a deity. Courts are now testing whether anti-AI convictions qualify under that same shield.",
+        "3. Employers Must Prove Hardship\n\nTo deny an exemption, your boss can't just say 'it's inconvenient.' They have to show real, concrete burden. That's a high bar — and a new weapon for workers.",
+        "4. The Twist: Secular Claims\n\nA belief doesn't need a church. If you oppose AI on ethical or philosophical grounds, you might have standing. But the case law is still thin — and uneven.",
+        "5. Check Your HR Policy Today\n\nBefore your next AI mandate, read the fine print. Does your company require exemptions in writing? Ask now. Does it make sense to wait until you're forced?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can you refuse AI at work and keep your job?",
+        "US law protects religious beliefs, not just gods.",
+        "Courts now accept secular religion claims against AI.",
+        "Employers must prove real hardship to deny exemption.",
+        "Check your HR policy before your next AI mandate."
+      ]
+    },
+    "instagram": {
+      "caption": "A US court just accepted a \"secular religion\" claim against an AI mandate at work — and the employee kept their job, for now.\n\nYou don't need to believe in a god. 🧠 US law protects deeply held beliefs, including ethical or philosophical objections to AI.\n\nTo refuse an exemption, your employer must prove a real, concrete burden — not just inconvenience. ⚖️\n\nBut case law is thin and uneven, so read your HR policy now. 🤔 Does it require exemptions in writing?\n\nIf your boss mandates AI tomorrow, do you know what you'd actually file — or would you just comply? 📄"
+    }
+  },
+  "instagram_caption": "A US court just accepted a \"secular religion\" claim against an AI mandate at work — and the employee kept their job, for now.\n\nYou don't need to believe in a god. 🧠 US law protects deeply held beliefs, including ethical or philosophical objections to AI.\n\nTo refuse an exemption, your employer must prove a real, concrete burden — not just inconvenience. ⚖️\n\nBut case law is thin and uneven, so read your HR policy now. 🤔 Does it require exemptions in writing?\n\nIf your boss mandates AI tomorrow, do you know what you'd actually file — or would you just comply? 📄",
+  "carousel_slides": [
+    {
+      "hook": "Can you refuse AI and keep your job?",
+      "description": "US court accepted a secular religion claim against an AI mandate. Employee kept job—for now. It's about conscience, not gods.",
+      "visual_hint": "Person standing firm at office desk",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "office worker"
+    },
+    {
+      "hook": "Religious freedom doesn't require a god",
+      "description": "US law protects deeply held beliefs, even without a deity. Courts now test if anti-AI convictions qualify under that shield.",
+      "visual_hint": "Scales of justice, no religious symbols",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "scales of justice",
+      "image": "https://images.pexels.com/photos/5669619/pexels-photo-5669619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Employers must prove real hardship",
+      "description": "To deny an exemption, your boss can't just say 'inconvenient.' They must show concrete burden—a high bar for workers.",
+      "visual_hint": "Boss pointing at document with charts",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "business meeting",
+      "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Secular claims against AI gain ground",
+      "description": "Belief doesn't need a church. Ethical or philosophical opposition to AI might have standing, but case law is still thin.",
+      "visual_hint": "Gavel and law book, no deity",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "gavel",
+      "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your HR policy before AI mandates",
+      "description": "Read the fine print now. Does your company require written exemptions? Ask before you're forced to comply.",
+      "visual_hint": "Employee reading HR policy document",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office desk",
+      "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
+  "savedAt": "2026-10-30T07:55:02.005Z",
+  "sourceId": "4585bce5af53764978e38dc0e4a3a5ba"
+}

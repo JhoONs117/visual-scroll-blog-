@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-has-come-for-arizona-s-water",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI has come for Arizona’s water",
+  "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+  "pubDate": "2026-10-29T10:00:04.000Z",
+  "slides": [
+    "Who's really thirsty in Arizona: AI or you?",
+    "Data centers now rival farms for water rights",
+    "One ChatGPT query can sip a bottle's worth",
+    "Your utility bill may soon fund new AI cooling",
+    "Ask your water board who's next in line"
+  ],
+  "thread_text": [
+    "1. AI or you?\n\nArizona data centers now compete with farms for water rights. The same tap you drink from may soon cool a server.",
+    "2. Farms no longer first\n\nFor decades, agriculture had priority. Now tech giants buy water rights directly, changing who gets served first.",
+    "3. One query, one bottle\n\nA single ChatGPT prompt can consume as much water as a plastic bottle. Multiply that by millions of daily users.",
+    "4. Your bill funds cooling\n\nUtility companies are investing in new infrastructure for AI cooling. Those costs often get passed to residential customers.",
+    "5. Who's next in line?\n\nAsk your local water board how data centers are prioritized. Then check your next utility bill for new line items."
+  ],
+  "video_script": [
+    "Arizona data centers now rival farms for water rights.",
+    "One ChatGPT query can sip a bottle's worth of water.",
+    "Your utility bill may soon fund new AI cooling systems.",
+    "Ask your water board who's next in line for water.",
+    "Check your next bill for new AI cooling charges."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI or you?\n\nArizona data centers now compete with farms for water rights. The same tap you drink from may soon cool a server.",
+        "2. Farms no longer first\n\nFor decades, agriculture had priority. Now tech giants buy water rights directly, changing who gets served first.",
+        "3. One query, one bottle\n\nA single ChatGPT prompt can consume as much water as a plastic bottle. Multiply that by millions of daily users.",
+        "4. Your bill funds cooling\n\nUtility companies are investing in new infrastructure for AI cooling. Those costs often get passed to residential customers.",
+        "5. Who's next in line?\n\nAsk your local water board how data centers are prioritized. Then check your next utility bill for new line items."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Arizona data centers now rival farms for water rights.",
+        "One ChatGPT query can sip a bottle's worth of water.",
+        "Your utility bill may soon fund new AI cooling systems.",
+        "Ask your water board who's next in line for water.",
+        "Check your next bill for new AI cooling charges."
+      ]
+    },
+    "instagram": {
+      "caption": "Your tap may soon be cooling a server. 💧\n\nArizona data centers now compete directly with farms for water rights — and they're buying them outright.\n\nOne ChatGPT query can sip as much water as a plastic bottle. 😳\n\nThose cooling costs often land on residential bills, not tech balance sheets.\n\nCheck your next utility bill for new line items — then ask your local water board how data centers get prioritized. 🏜️\n\nWho do you think should be first in line for water: farms, homes, or servers? 🤔"
+    }
+  },
+  "instagram_caption": "Your tap may soon be cooling a server. 💧\n\nArizona data centers now compete directly with farms for water rights — and they're buying them outright.\n\nOne ChatGPT query can sip as much water as a plastic bottle. 😳\n\nThose cooling costs often land on residential bills, not tech balance sheets.\n\nCheck your next utility bill for new line items — then ask your local water board how data centers get prioritized. 🏜️\n\nWho do you think should be first in line for water: farms, homes, or servers? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "One ChatGPT query drinks a bottle?",
+      "description": "A single AI prompt can consume as much water as a plastic bottle, multiplied by millions of daily users.",
+      "visual_hint": "Water bottle next to server rack",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Data centers now rival farms for water",
+      "description": "Tech giants buy water rights directly, changing who gets served first in Arizona's water hierarchy.",
+      "visual_hint": "Data center next to farm field",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your tap might soon cool a server",
+      "description": "The same water you drink may be diverted to cool AI servers as data centers compete for supply.",
+      "visual_hint": "Tap water flowing into server",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "water tap",
+      "image": "https://images.pexels.com/photos/33745624/pexels-photo-33745624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your utility bill may fund AI cooling",
+      "description": "Utility companies invest in new infrastructure for AI cooling, and those costs often pass to residential customers.",
+      "visual_hint": "Utility bill with cooling system",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "utility bill",
+      "image": "https://images.pexels.com/photos/7927396/pexels-photo-7927396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your water board who's next",
+      "description": "Contact your local water board to ask how data centers are prioritized, then check your next utility bill for new line items.",
+      "visual_hint": "Person calling water board",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "water board meeting",
+      "image": "https://images.pexels.com/photos/6814345/pexels-photo-6814345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268658_Data_center_AZ_LEDE_VOSSS50.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-30T07:55:30.179Z",
+  "sourceId": "d5e0e9e01a4703dc2f2b1fe91da3b232"
+}

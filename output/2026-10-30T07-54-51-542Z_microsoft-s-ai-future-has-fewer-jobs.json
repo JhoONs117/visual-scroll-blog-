@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "microsoft-s-ai-future-has-fewer-jobs",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Microsoft’s AI future has fewer jobs",
+  "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+  "pubDate": "2026-10-29T16:00:00.000Z",
+  "slides": [
+    "What if Microsoft's AI plan erases its own teams?",
+    "Its leaders say job cuts are coming soon",
+    "But the company is hiring AI specialists fast",
+    "Workers must reskill before roles vanish",
+    "Audit your skills against AI tasks now"
+  ],
+  "thread_text": [
+    "1. Microsoft’s AI paradox\n\nMicrosoft’s AI strategy is triggering job cuts in its own teams even as it hires AI specialists at record pace.",
+    "2. Leaders confirm cuts\n\nIts leaders have signaled that job cuts across departments are coming soon, not just a rumor.",
+    "3. Hiring surge continues\n\nWhile cuts loom, the company is aggressively hiring AI specialists, widening the skills gap.",
+    "4. Reskill or risk\n\nWorkers must reskill before their roles vanish, because the demand for AI skills is outpacing internal training.",
+    "5. Test your skills today\n\nTake a prompt on ChatGPT and simulate one of your daily tasks. If you haven’t done it, that’s your starting point."
+  ],
+  "video_script": [
+    "Microsoft’s AI plan might erase its own teams.",
+    "Leaders say job cuts are coming soon.",
+    "But they’re hiring AI specialists fast.",
+    "Workers must reskill before roles vanish.",
+    "Audit your skills against AI tasks now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Microsoft’s AI paradox\n\nMicrosoft’s AI strategy is triggering job cuts in its own teams even as it hires AI specialists at record pace.",
+        "2. Leaders confirm cuts\n\nIts leaders have signaled that job cuts across departments are coming soon, not just a rumor.",
+        "3. Hiring surge continues\n\nWhile cuts loom, the company is aggressively hiring AI specialists, widening the skills gap.",
+        "4. Reskill or risk\n\nWorkers must reskill before their roles vanish, because the demand for AI skills is outpacing internal training.",
+        "5. Test your skills today\n\nTake a prompt on ChatGPT and simulate one of your daily tasks. If you haven’t done it, that’s your starting point."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Microsoft’s AI plan might erase its own teams.",
+        "Leaders say job cuts are coming soon.",
+        "But they’re hiring AI specialists fast.",
+        "Workers must reskill before roles vanish.",
+        "Audit your skills against AI tasks now."
+      ]
+    },
+    "instagram": {
+      "caption": "Job cuts are coming across Microsoft departments — while it hires AI specialists at record pace. 🧠\n\nIts leaders confirmed the cuts are near, not rumor.\n\nTraining inside the company isn't keeping up with AI skill demand.\n\nSo the gap widens: fewer general roles, more AI roles.\n\nIf you create or publish content, the tasks you do daily are exactly the ones being reassigned first.\n\nPick one task you did today and try it as a prompt. If you've never done that, that's your starting point. 💡\n\nWhat's the one task you'd test first?"
+    }
+  },
+  "instagram_caption": "Job cuts are coming across Microsoft departments — while it hires AI specialists at record pace. 🧠\n\nIts leaders confirmed the cuts are near, not rumor.\n\nTraining inside the company isn't keeping up with AI skill demand.\n\nSo the gap widens: fewer general roles, more AI roles.\n\nIf you create or publish content, the tasks you do daily are exactly the ones being reassigned first.\n\nPick one task you did today and try it as a prompt. If you've never done that, that's your starting point. 💡\n\nWhat's the one task you'd test first?",
+  "carousel_slides": [
+    {
+      "hook": "Is Microsoft's AI plan erasing its own teams?",
+      "description": "Microsoft's AI strategy triggers job cuts in its own teams while hiring AI specialists at record pace.",
+      "visual_hint": "Split screen: empty office vs. AI hiring",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "empty office"
+    },
+    {
+      "hook": "Leaders confirm: job cuts are coming soon",
+      "description": "Microsoft leaders have signaled that job cuts across departments are imminent, not just a rumor.",
+      "visual_hint": "Executive meeting with serious faces",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "business meeting",
+      "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Hiring AI specialists at record pace",
+      "description": "While cuts loom, Microsoft aggressively hires AI specialists, widening the skills gap.",
+      "visual_hint": "AI specialists working on code",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "programmer coding",
+      "image": "https://images.pexels.com/photos/9553905/pexels-photo-9553905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Reskill before your role vanishes",
+      "description": "Workers must reskill before roles disappear, as demand for AI skills outpaces internal training.",
+      "visual_hint": "Worker learning on laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person studying",
+      "image": "https://images.pexels.com/photos/9158720/pexels-photo-9158720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your skills against AI today",
+      "description": "Take a prompt on ChatGPT and simulate one daily task. If you haven't, that's your start.",
+      "visual_hint": "ChatGPT prompt on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "chatgpt screen",
+      "image": "https://images.pexels.com/photos/16027822/pexels-photo-16027822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-30T07:55:20.640Z",
+  "sourceId": "e27a14625bfef0d34f52b1d4a49c0d20"
+}

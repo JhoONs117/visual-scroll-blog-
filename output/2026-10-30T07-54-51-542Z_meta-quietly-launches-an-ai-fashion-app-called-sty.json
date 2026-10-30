@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-quietly-launches-an-ai-fashion-app-called-sty",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta quietly launches an AI fashion app called Style Sketch",
+  "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+  "pubDate": "Thu, 29 Oct 2026 19:14:36 +0000",
+  "slides": [
+    "Meta quietly launched Style Sketch — but why the silence?",
+    "It's a fashion AI app for generating outfit sketches",
+    "But Meta buried it outside its main apps entirely",
+    "You can now test it without a Meta account",
+    "Try one outfit design today and judge the output"
+  ],
+  "thread_text": [
+    "1. Meta's silent AI drop\n\nMeta quietly launched Style Sketch, a fashion AI app for generating outfit sketches — and buried it outside its main apps entirely.",
+    "2. Fashion AI, no account needed\n\nYou can now test Style Sketch without a Meta account, so there's no barrier to trying it out.",
+    "3. Why hide it?\n\nMeta kept Style Sketch out of its main apps, raising questions about whether this is a test or a strategic retreat.",
+    "4. Try before you judge\n\nGenerate one outfit design today and judge the output yourself — no sign-up required.",
+    "5. Your turn to test\n\nTry one outfit design today and judge the output. Does it make sense to save time if you have to edit twice? Test it on a real post this week."
+  ],
+  "video_script": [
+    "Meta quietly launched Style Sketch, a fashion AI app.",
+    "It generates outfit sketches and you can test it without a Meta account.",
+    "But Meta buried it outside its main apps entirely.",
+    "Why the silence? Is this a test or a retreat?",
+    "Try one outfit design today and judge the output yourself."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta's silent AI drop\n\nMeta quietly launched Style Sketch, a fashion AI app for generating outfit sketches — and buried it outside its main apps entirely.",
+        "2. Fashion AI, no account needed\n\nYou can now test Style Sketch without a Meta account, so there's no barrier to trying it out.",
+        "3. Why hide it?\n\nMeta kept Style Sketch out of its main apps, raising questions about whether this is a test or a strategic retreat.",
+        "4. Try before you judge\n\nGenerate one outfit design today and judge the output yourself — no sign-up required.",
+        "5. Your turn to test\n\nTry one outfit design today and judge the output. Does it make sense to save time if you have to edit twice? Test it on a real post this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta quietly launched Style Sketch, a fashion AI app.",
+        "It generates outfit sketches and you can test it without a Meta account.",
+        "But Meta buried it outside its main apps entirely.",
+        "Why the silence? Is this a test or a retreat?",
+        "Try one outfit design today and judge the output yourself."
+      ]
+    },
+    "instagram": {
+      "caption": "Meta built a fashion AI that generates outfit sketches, then launched it outside its main apps entirely.\n\nIt's called Style Sketch. 🧵 You can try it without a Meta account.\n\nThat silence is the story: no push notification, no banner in Instagram, no mention in the main feed. A test they didn't want you to notice, or a retreat before the backlash?\n\nIf you design or post outfits, you can generate one sketch today and check the output yourself. No sign-up.\n\nGenerate one look now: does it save you time, or do you end up editing twice? 👗"
+    }
+  },
+  "instagram_caption": "Meta built a fashion AI that generates outfit sketches, then launched it outside its main apps entirely.\n\nIt's called Style Sketch. 🧵 You can try it without a Meta account.\n\nThat silence is the story: no push notification, no banner in Instagram, no mention in the main feed. A test they didn't want you to notice, or a retreat before the backlash?\n\nIf you design or post outfits, you can generate one sketch today and check the output yourself. No sign-up.\n\nGenerate one look now: does it save you time, or do you end up editing twice? 👗",
+  "carousel_slides": [
+    {
+      "hook": "Why is Meta hiding its new AI app?",
+      "description": "Meta quietly launched Style Sketch, a fashion AI for outfit sketches, but buried it outside its main apps entirely.",
+      "visual_hint": "Split screen showing app icon and shadow",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone app icon"
+    },
+    {
+      "hook": "Fashion AI without a Meta account",
+      "description": "You can now test Style Sketch without a Meta account, so there's no barrier to trying it out.",
+      "visual_hint": "User tapping phone with sketch output",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "fashion sketch drawing",
+      "image": "https://images.pexels.com/photos/7147537/pexels-photo-7147537.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is this a test or retreat?",
+      "description": "Meta kept Style Sketch out of its main apps, raising questions about whether this is a test or a strategic retreat.",
+      "visual_hint": "Question mark over app grid",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "question mark symbol",
+      "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try before you judge the output",
+      "description": "Generate one outfit design today and judge the output yourself — no sign-up required.",
+      "visual_hint": "Hand holding phone with outfit sketch",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Style Sketch on a real post",
+      "description": "Try one outfit design today and judge the output. Does it save time or require editing twice? Test it this week.",
+      "visual_hint": "Phone with sketch and edit icons",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "social media post",
+      "image": "https://images.pexels.com/photos/15226555/pexels-photo-15226555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/meta-style-sketch.png?resize=1200,625",
+  "savedAt": "2026-10-30T07:55:10.831Z",
+  "sourceId": "5d9d7808457b118e410aba114f94234e"
+}
