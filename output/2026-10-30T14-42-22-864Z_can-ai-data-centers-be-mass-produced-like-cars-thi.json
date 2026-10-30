@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "can-ai-data-centers-be-mass-produced-like-cars-thi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+  "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+  "pubDate": "Fri, 30 Oct 2026 13:00:00 +0000",
+  "slides": [
+    "Can AI data centers be mass-produced like cars?",
+    "A startup thinks factories can churn out modular data centers.",
+    "But most AI data centers still need custom cooling and power.",
+    "You may soon order a plug-and-play AI data center.",
+    "Ask your vendor: is your data center built like a car?"
+  ],
+  "thread_text": [
+    "1. Factories for AI?\n\nA startup claims it can mass-produce modular data centers like cars, potentially slashing build times from years to months.",
+    "2. The Plug-and-Play Promise\n\nYou might soon order an AI data center off the shelf, but most facilities still require custom cooling and power setups.",
+    "3. Custom Cooling Still King\n\nDespite modular designs, high-density AI racks demand bespoke cooling solutions that factories can't standardize yet.",
+    "4. The Real Bottleneck\n\nPower delivery and cooling infrastructure remain the biggest hurdles for mass-produced data centers, limiting true plug-and-play.",
+    "5. Ask Your Vendor\n\nNext time you evaluate a data center, ask: is it built like a car or a custom home? The answer reveals scalability."
+  ],
+  "video_script": [
+    "Can AI data centers be mass-produced like cars?",
+    "A startup thinks factories can churn out modular data centers.",
+    "But most AI data centers still need custom cooling and power.",
+    "You may soon order a plug-and-play AI data center.",
+    "Ask your vendor: is your data center built like a car?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Factories for AI?\n\nA startup claims it can mass-produce modular data centers like cars, potentially slashing build times from years to months.",
+        "2. The Plug-and-Play Promise\n\nYou might soon order an AI data center off the shelf, but most facilities still require custom cooling and power setups.",
+        "3. Custom Cooling Still King\n\nDespite modular designs, high-density AI racks demand bespoke cooling solutions that factories can't standardize yet.",
+        "4. The Real Bottleneck\n\nPower delivery and cooling infrastructure remain the biggest hurdles for mass-produced data centers, limiting true plug-and-play.",
+        "5. Ask Your Vendor\n\nNext time you evaluate a data center, ask: is it built like a car or a custom home? The answer reveals scalability."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can AI data centers be mass-produced like cars?",
+        "A startup thinks factories can churn out modular data centers.",
+        "But most AI data centers still need custom cooling and power.",
+        "You may soon order a plug-and-play AI data center.",
+        "Ask your vendor: is your data center built like a car?"
+      ]
+    },
+    "instagram": {
+      "caption": "A startup says its factories could soon churn out modular AI data centers the way car plants roll out vehicles 🏭\n\nThe pitch: order a plug-and-play data center off the shelf, and build times drop from years to months.\n\nBut most AI facilities still need custom cooling and power, since high-density racks can't be standardized yet.\n\nThat gap decides whether your tools run on cheap, fast capacity or stay stuck waiting on bespoke builds.\n\nNext time you evaluate a data center, ask: is it built like a car or a custom home? 🚗"
+    }
+  },
+  "instagram_caption": "A startup says its factories could soon churn out modular AI data centers the way car plants roll out vehicles 🏭\n\nThe pitch: order a plug-and-play data center off the shelf, and build times drop from years to months.\n\nBut most AI facilities still need custom cooling and power, since high-density racks can't be standardized yet.\n\nThat gap decides whether your tools run on cheap, fast capacity or stay stuck waiting on bespoke builds.\n\nNext time you evaluate a data center, ask: is it built like a car or a custom home? 🚗",
+  "carousel_slides": [
+    {
+      "hook": "Can AI data centers be mass-produced?",
+      "description": "A startup claims factories can churn out modular data centers, potentially cutting build times from years to months.",
+      "visual_hint": "Row of identical server racks in factory",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Factories could churn out modular data centers.",
+      "description": "A startup thinks factories can mass-produce modular data centers, but most still need custom cooling and power setups.",
+      "visual_hint": "Assembly line with server modules",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Custom cooling still rules high-density racks.",
+      "description": "High-density AI racks demand bespoke cooling solutions that factories can't standardize yet, limiting true plug-and-play.",
+      "visual_hint": "Close-up of cooling pipes on server rack",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "cooling system",
+      "image": "https://images.pexels.com/photos/33798627/pexels-photo-33798627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Power and cooling remain the bottleneck.",
+      "description": "Power delivery and cooling infrastructure are the biggest hurdles for mass-produced data centers, blocking off-the-shelf adoption.",
+      "visual_hint": "Hand pointing at power distribution unit",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "power plant",
+      "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your vendor: car or custom home?",
+      "description": "Next time you evaluate a data center, ask if it's built like a car or a custom home. Save this post for your next vendor call.",
+      "visual_hint": "Checklist with car and house icons",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "car factory",
+      "image": "https://images.pexels.com/photos/5982900/pexels-photo-5982900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Runware-Factory-.jpg?w=1200",
+  "savedAt": "2026-10-30T14:42:41.069Z",
+  "sourceId": "12c5b28f8540d0b9612a68666270a49e"
+}

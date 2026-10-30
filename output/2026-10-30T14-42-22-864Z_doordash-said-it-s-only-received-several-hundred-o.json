@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "doordash-said-it-s-only-received-several-hundred-o",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+  "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+  "pubDate": "Fri, 30 Oct 2026 13:54:25 +0000",
+  "slides": [
+    "DoorDash's AI agent orders: several hundred. Why so few?",
+    "AI agents can now order food through chat interfaces",
+    "But human browsing still drives nearly all the volume",
+    "Your delivery experience won't change because of this yet",
+    "Test an AI order yourself — see what breaks"
+  ],
+  "thread_text": [
+    "1. The 200 Orders That Didn't Happen\n\nDoorDash's AI agent can take orders via chat, but only a few hundred people tried it. Human browsing still drives almost all deliveries.",
+    "2. Chat Ordering Exists, Barely Used\n\nYou can now order food by messaging an AI, but almost nobody does. The feature is live, yet the volume is negligible.",
+    "3. Why Humans Still Click Menus\n\nBrowsing lets you discover and compare; chatting feels like a transaction. The habit gap explains the tiny numbers.",
+    "4. Your Delivery Won't Change Yet\n\nRestaurants and drivers see no shift because AI orders are a rounding error. The experience stays the same for now.",
+    "5. Test the AI Order Yourself\n\nOpen DoorDash's AI chat and order lunch. Note what breaks or feels slow—then ask if you'd do it again tomorrow."
+  ],
+  "video_script": [
+    "DoorDash's AI agent handles only a few hundred orders.",
+    "You can order food through chat, but almost nobody does.",
+    "People still browse menus because it feels more natural.",
+    "Your delivery experience won't change because of this yet.",
+    "Try an AI order yourself and see what breaks."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The 200 Orders That Didn't Happen\n\nDoorDash's AI agent can take orders via chat, but only a few hundred people tried it. Human browsing still drives almost all deliveries.",
+        "2. Chat Ordering Exists, Barely Used\n\nYou can now order food by messaging an AI, but almost nobody does. The feature is live, yet the volume is negligible.",
+        "3. Why Humans Still Click Menus\n\nBrowsing lets you discover and compare; chatting feels like a transaction. The habit gap explains the tiny numbers.",
+        "4. Your Delivery Won't Change Yet\n\nRestaurants and drivers see no shift because AI orders are a rounding error. The experience stays the same for now.",
+        "5. Test the AI Order Yourself\n\nOpen DoorDash's AI chat and order lunch. Note what breaks or feels slow—then ask if you'd do it again tomorrow."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "DoorDash's AI agent handles only a few hundred orders.",
+        "You can order food through chat, but almost nobody does.",
+        "People still browse menus because it feels more natural.",
+        "Your delivery experience won't change because of this yet.",
+        "Try an AI order yourself and see what breaks."
+      ]
+    },
+    "instagram": {
+      "caption": "A few hundred orders. That's all DoorDash's AI agent has processed since launch. 🍔\n\nYou can order food by chatting with an AI now, but almost nobody does it.\n\nHuman browsing still drives nearly every delivery on the platform.\n\nThe gap: clicking menus lets you discover and compare, chatting feels purely transactional.\n\nFor now, nothing changes in your delivery workflow or how restaurants operate. AI orders are a rounding error.\n\nWould you actually order lunch through a chat window tomorrow, or go back to scrolling? 🤔"
+    }
+  },
+  "instagram_caption": "A few hundred orders. That's all DoorDash's AI agent has processed since launch. 🍔\n\nYou can order food by chatting with an AI now, but almost nobody does it.\n\nHuman browsing still drives nearly every delivery on the platform.\n\nThe gap: clicking menus lets you discover and compare, chatting feels purely transactional.\n\nFor now, nothing changes in your delivery workflow or how restaurants operate. AI orders are a rounding error.\n\nWould you actually order lunch through a chat window tomorrow, or go back to scrolling? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "AI orders food, but barely anyone noticed",
+      "description": "DoorDash's AI agent handles only several hundred orders while human browsing drives almost all deliveries.",
+      "visual_hint": "Chat interface on smartphone screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone chat interface"
+    },
+    {
+      "hook": "Chat ordering is live, but barely used",
+      "description": "You can message an AI to order food, yet the volume is negligible compared to app browsing.",
+      "visual_hint": "Food delivery app chat conversation",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "food delivery app",
+      "image": "https://images.pexels.com/photos/9461218/pexels-photo-9461218.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Why do humans still click menus?",
+      "description": "Browsing feels like discovery; chatting feels like a transaction. The habit gap explains tiny adoption.",
+      "visual_hint": "Finger scrolling restaurant menu",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "restaurant menu",
+      "image": "https://images.pexels.com/photos/18988620/pexels-photo-18988620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your delivery experience won't change yet",
+      "description": "Restaurants and drivers see no shift because AI orders remain a rounding error in total volume.",
+      "visual_hint": "Delivery driver handing food bag",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "delivery driver",
+      "image": "https://images.pexels.com/photos/6169583/pexels-photo-6169583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test the AI order yourself today",
+      "description": "Open DoorDash's AI chat, order lunch, and note what breaks or feels slow. Would you do it again?",
+      "visual_hint": "Person ordering food on phone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person ordering food",
+      "image": "https://images.pexels.com/photos/9461627/pexels-photo-9461627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800",
+  "savedAt": "2026-10-30T14:42:32.259Z",
+  "sourceId": "30b5f07a33cd2b6d418021bd4af81040"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "sam-altman-sympathizes-with-mathematicians-but-say",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+  "pubDate": "2026-10-30T13:01:14.000Z",
+  "slides": [
+    "Sam Altman acknowledges mathematicians' anxiety — and won't stop anyway",
+    "AI models are closing in on formal math proofs",
+    "But the bottleneck isn't computation — it's taste",
+    "Proof assistants will reshape how researchers verify work",
+    "If machines out-prove you, what's your real edge?"
+  ],
+  "thread_text": [
+    "1. Your Proof Is Obsolete\n\nSam Altman says mathematicians are anxious about AI, and he has no plans to slow down. That anxiety is justified: AI models are already closing in on formal proofs.",
+    "2. Computation Isn't the Wall\n\nThe real bottleneck is taste — knowing which theorems are worth proving. AI can grind through logic, but it can't yet pick the elegant path.",
+    "3. Proof Assistants Change Everything\n\nTools like Lean will soon let researchers verify work in hours, not months. The shift isn't about speed — it's about what becomes possible when checking is cheap.",
+    "4. Out-Proven by a Machine?\n\nIf AI can out-prove you, your edge isn't raw logic. It's asking the right question before the machine starts computing.",
+    "5. Test Your Edge Today\n\nTake a theorem you know and ask an AI to outline a proof. Then ask it why that proof matters. If it can't answer, you've found your real value."
+  ],
+  "video_script": [
+    "Sam Altman says mathematicians are anxious. He won't stop.",
+    "AI is getting close to formal math proofs.",
+    "The bottleneck isn't computation. It's taste.",
+    "Proof assistants will change how researchers verify work.",
+    "If machines out-prove you, what's your real edge?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your Proof Is Obsolete\n\nSam Altman says mathematicians are anxious about AI, and he has no plans to slow down. That anxiety is justified: AI models are already closing in on formal proofs.",
+        "2. Computation Isn't the Wall\n\nThe real bottleneck is taste — knowing which theorems are worth proving. AI can grind through logic, but it can't yet pick the elegant path.",
+        "3. Proof Assistants Change Everything\n\nTools like Lean will soon let researchers verify work in hours, not months. The shift isn't about speed — it's about what becomes possible when checking is cheap.",
+        "4. Out-Proven by a Machine?\n\nIf AI can out-prove you, your edge isn't raw logic. It's asking the right question before the machine starts computing.",
+        "5. Test Your Edge Today\n\nTake a theorem you know and ask an AI to outline a proof. Then ask it why that proof matters. If it can't answer, you've found your real value."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Sam Altman says mathematicians are anxious. He won't stop.",
+        "AI is getting close to formal math proofs.",
+        "The bottleneck isn't computation. It's taste.",
+        "Proof assistants will change how researchers verify work.",
+        "If machines out-prove you, what's your real edge?"
+      ]
+    },
+    "instagram": {
+      "caption": "Sam Altman told mathematicians he gets their anxiety — then said OpenAI isn't slowing down. 🧮\n\nAI models are getting closer to formal math proofs. But the real bottleneck isn't raw computation — it's taste: knowing which theorems are worth proving.\n\nProof assistants like Lean could soon let researchers verify work in hours instead of months. Checking gets cheap, so what becomes possible changes.\n\nIf a machine can out-prove you, your edge isn't grinding through logic. It's asking the right question before the computation starts. 🤔\n\nTake a theorem you know and ask an AI to outline a proof. Then ask why it matters. 🔍\n\nIf it can't answer that, what's your real value? 💭"
+    }
+  },
+  "instagram_caption": "Sam Altman told mathematicians he gets their anxiety — then said OpenAI isn't slowing down. 🧮\n\nAI models are getting closer to formal math proofs. But the real bottleneck isn't raw computation — it's taste: knowing which theorems are worth proving.\n\nProof assistants like Lean could soon let researchers verify work in hours instead of months. Checking gets cheap, so what becomes possible changes.\n\nIf a machine can out-prove you, your edge isn't grinding through logic. It's asking the right question before the computation starts. 🤔\n\nTake a theorem you know and ask an AI to outline a proof. Then ask why it matters. 🔍\n\nIf it can't answer that, what's your real value? 💭",
+  "carousel_slides": [
+    {
+      "hook": "AI is coming for your proofs",
+      "description": "Sam Altman acknowledges mathematicians' anxiety as AI closes in on formal proofs, but OpenAI won't slow down.",
+      "visual_hint": "Digital proof on glowing screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer screen code"
+    },
+    {
+      "hook": "Computation isn't the bottleneck — taste is",
+      "description": "AI can grind through logic, but the real challenge is knowing which theorems are worth proving.",
+      "visual_hint": "Chessboard with glowing pieces",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "chess board",
+      "image": "https://images.pexels.com/photos/6114955/pexels-photo-6114955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Proof assistants will change everything",
+      "description": "Tools like Lean will let researchers verify work in hours, not months — making cheap checking a reality.",
+      "visual_hint": "Researcher using interactive theorem prover",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "laptop programming",
+      "image": "https://images.pexels.com/photos/5474296/pexels-photo-5474296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "If AI out-proves you, what's left?",
+      "description": "Your edge isn't raw logic — it's asking the right question before the machine starts computing.",
+      "visual_hint": "Human hand over glowing algorithm",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand writing",
+      "image": "https://images.pexels.com/photos/8296967/pexels-photo-8296967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your edge against AI today",
+      "description": "Take a theorem you know, ask AI to outline a proof, then ask why it matters. If it can't answer, you've found your value.",
+      "visual_hint": "Split screen human vs AI thinking",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person thinking",
+      "image": "https://images.pexels.com/photos/6144062/pexels-photo-6144062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.339110464558%2C100%2C75.321779070884&amp;w=1200",
+  "savedAt": "2026-10-30T14:43:01.882Z",
+  "sourceId": "20dbf889167656871b147b49a41be5c0"
+}

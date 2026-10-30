@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "sam-altman-sympathizes-with-mathematicians-but-say",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+    "pubDate": "2026-10-30T13:01:14.000Z",
+    "slides": [
+      "Sam Altman acknowledges mathematicians' anxiety — and won't stop anyway",
+      "AI models are closing in on formal math proofs",
+      "But the bottleneck isn't computation — it's taste",
+      "Proof assistants will reshape how researchers verify work",
+      "If machines out-prove you, what's your real edge?"
+    ],
+    "thread_text": [
+      "1. Your Proof Is Obsolete\n\nSam Altman says mathematicians are anxious about AI, and he has no plans to slow down. That anxiety is justified: AI models are already closing in on formal proofs.",
+      "2. Computation Isn't the Wall\n\nThe real bottleneck is taste — knowing which theorems are worth proving. AI can grind through logic, but it can't yet pick the elegant path.",
+      "3. Proof Assistants Change Everything\n\nTools like Lean will soon let researchers verify work in hours, not months. The shift isn't about speed — it's about what becomes possible when checking is cheap.",
+      "4. Out-Proven by a Machine?\n\nIf AI can out-prove you, your edge isn't raw logic. It's asking the right question before the machine starts computing.",
+      "5. Test Your Edge Today\n\nTake a theorem you know and ask an AI to outline a proof. Then ask it why that proof matters. If it can't answer, you've found your real value."
+    ],
+    "video_script": [
+      "Sam Altman says mathematicians are anxious. He won't stop.",
+      "AI is getting close to formal math proofs.",
+      "The bottleneck isn't computation. It's taste.",
+      "Proof assistants will change how researchers verify work.",
+      "If machines out-prove you, what's your real edge?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your Proof Is Obsolete\n\nSam Altman says mathematicians are anxious about AI, and he has no plans to slow down. That anxiety is justified: AI models are already closing in on formal proofs.",
+          "2. Computation Isn't the Wall\n\nThe real bottleneck is taste — knowing which theorems are worth proving. AI can grind through logic, but it can't yet pick the elegant path.",
+          "3. Proof Assistants Change Everything\n\nTools like Lean will soon let researchers verify work in hours, not months. The shift isn't about speed — it's about what becomes possible when checking is cheap.",
+          "4. Out-Proven by a Machine?\n\nIf AI can out-prove you, your edge isn't raw logic. It's asking the right question before the machine starts computing.",
+          "5. Test Your Edge Today\n\nTake a theorem you know and ask an AI to outline a proof. Then ask it why that proof matters. If it can't answer, you've found your real value."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Sam Altman says mathematicians are anxious. He won't stop.",
+          "AI is getting close to formal math proofs.",
+          "The bottleneck isn't computation. It's taste.",
+          "Proof assistants will change how researchers verify work.",
+          "If machines out-prove you, what's your real edge?"
+        ]
+      },
+      "instagram": {
+        "caption": "Sam Altman told mathematicians he gets their anxiety — then said OpenAI isn't slowing down. 🧮\n\nAI models are getting closer to formal math proofs. But the real bottleneck isn't raw computation — it's taste: knowing which theorems are worth proving.\n\nProof assistants like Lean could soon let researchers verify work in hours instead of months. Checking gets cheap, so what becomes possible changes.\n\nIf a machine can out-prove you, your edge isn't grinding through logic. It's asking the right question before the computation starts. 🤔\n\nTake a theorem you know and ask an AI to outline a proof. Then ask why it matters. 🔍\n\nIf it can't answer that, what's your real value? 💭"
+      }
+    },
+    "instagram_caption": "Sam Altman told mathematicians he gets their anxiety — then said OpenAI isn't slowing down. 🧮\n\nAI models are getting closer to formal math proofs. But the real bottleneck isn't raw computation — it's taste: knowing which theorems are worth proving.\n\nProof assistants like Lean could soon let researchers verify work in hours instead of months. Checking gets cheap, so what becomes possible changes.\n\nIf a machine can out-prove you, your edge isn't grinding through logic. It's asking the right question before the computation starts. 🤔\n\nTake a theorem you know and ask an AI to outline a proof. Then ask why it matters. 🔍\n\nIf it can't answer that, what's your real value? 💭",
+    "carousel_slides": [
+      {
+        "hook": "AI is coming for your proofs",
+        "description": "Sam Altman acknowledges mathematicians' anxiety as AI closes in on formal proofs, but OpenAI won't slow down.",
+        "visual_hint": "Digital proof on glowing screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer screen code"
+      },
+      {
+        "hook": "Computation isn't the bottleneck — taste is",
+        "description": "AI can grind through logic, but the real challenge is knowing which theorems are worth proving.",
+        "visual_hint": "Chessboard with glowing pieces",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "chess board",
+        "image": "https://images.pexels.com/photos/6114955/pexels-photo-6114955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Proof assistants will change everything",
+        "description": "Tools like Lean will let researchers verify work in hours, not months — making cheap checking a reality.",
+        "visual_hint": "Researcher using interactive theorem prover",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "laptop programming",
+        "image": "https://images.pexels.com/photos/5474296/pexels-photo-5474296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "If AI out-proves you, what's left?",
+        "description": "Your edge isn't raw logic — it's asking the right question before the machine starts computing.",
+        "visual_hint": "Human hand over glowing algorithm",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand writing",
+        "image": "https://images.pexels.com/photos/8296967/pexels-photo-8296967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your edge against AI today",
+        "description": "Take a theorem you know, ask AI to outline a proof, then ask why it matters. If it can't answer, you've found your value.",
+        "visual_hint": "Split screen human vs AI thinking",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person thinking",
+        "image": "https://images.pexels.com/photos/6144062/pexels-photo-6144062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.339110464558%2C100%2C75.321779070884&amp;w=1200",
+    "savedAt": "2026-10-30T14:43:01.882Z",
+    "sourceId": "20dbf889167656871b147b49a41be5c0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-backed-thrive-holdings-acquires-adt",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI-backed Thrive Holdings acquires ADT",
+    "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+    "pubDate": "Thu, 29 Oct 2026 19:56:19 +0000",
+    "slides": [
+      "Why would OpenAI back a security company buyout?",
+      "Thrive Holdings just acquired ADT's commercial arm",
+      "The deal bundles AI monitoring into physical security",
+      "Your building's cameras may soon run OpenAI models",
+      "Ask your vendor if their AI is actually open"
+    ],
+    "thread_text": [
+      "1. OpenAI's Security Play\n\nThrive Holdings just bought ADT's commercial arm, and OpenAI is backing the deal. Your building's cameras could soon run on AI models.",
+      "2. AI Monitoring Meets Physical Security\n\nThe acquisition bundles AI-powered monitoring into traditional security systems. This means real-time threat detection, not just recording.",
+      "3. Your Cameras, Smarter\n\nWith OpenAI models, cameras could analyze behavior and flag anomalies. But who controls the data and the algorithms?",
+      "4. The Openness Question\n\nMost vendors won't tell you if their AI is open or proprietary. That lack of transparency affects cost, control, and privacy.",
+      "5. Ask Your Vendor Today\n\nBefore you renew your security contract, ask: 'Is your AI open?' If they hesitate, you have your answer."
+    ],
+    "video_script": [
+      "OpenAI just backed a deal to buy ADT's commercial security arm.",
+      "This means AI monitoring is merging with physical security systems.",
+      "Your building's cameras might soon run OpenAI models for threat detection.",
+      "But most vendors won't reveal if their AI is open or closed.",
+      "Ask your security vendor: is your AI actually open?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. OpenAI's Security Play\n\nThrive Holdings just bought ADT's commercial arm, and OpenAI is backing the deal. Your building's cameras could soon run on AI models.",
+          "2. AI Monitoring Meets Physical Security\n\nThe acquisition bundles AI-powered monitoring into traditional security systems. This means real-time threat detection, not just recording.",
+          "3. Your Cameras, Smarter\n\nWith OpenAI models, cameras could analyze behavior and flag anomalies. But who controls the data and the algorithms?",
+          "4. The Openness Question\n\nMost vendors won't tell you if their AI is open or proprietary. That lack of transparency affects cost, control, and privacy.",
+          "5. Ask Your Vendor Today\n\nBefore you renew your security contract, ask: 'Is your AI open?' If they hesitate, you have your answer."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI just backed a deal to buy ADT's commercial security arm.",
+          "This means AI monitoring is merging with physical security systems.",
+          "Your building's cameras might soon run OpenAI models for threat detection.",
+          "But most vendors won't reveal if their AI is open or closed.",
+          "Ask your security vendor: is your AI actually open?"
+        ]
+      },
+      "instagram": {
+        "caption": "Your building's cameras might soon be analyzing behavior with OpenAI models, not just recording.\n\nThrive Holdings just bought ADT's commercial arm, with OpenAI backing the deal. The acquisition bundles AI-powered monitoring into physical security systems.\n\nThat means real-time threat detection instead of passive footage. But most vendors won't say whether their AI is open or proprietary 🎥\n\nIf you manage or work in a building, this affects your data, costs, and privacy.\n\nBefore you renew a security contract, ask one question: \"Is your AI open?\" If they hesitate, that's your answer 🔍"
+      }
+    },
+    "instagram_caption": "Your building's cameras might soon be analyzing behavior with OpenAI models, not just recording.\n\nThrive Holdings just bought ADT's commercial arm, with OpenAI backing the deal. The acquisition bundles AI-powered monitoring into physical security systems.\n\nThat means real-time threat detection instead of passive footage. But most vendors won't say whether their AI is open or proprietary 🎥\n\nIf you manage or work in a building, this affects your data, costs, and privacy.\n\nBefore you renew a security contract, ask one question: \"Is your AI open?\" If they hesitate, that's your answer 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Is your building's AI actually open?",
+        "description": "Thrive Holdings acquired ADT's commercial arm with OpenAI backing, bundling AI monitoring into physical security systems.",
+        "visual_hint": "Modern office building with security cameras",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "security camera building"
+      },
+      {
+        "hook": "OpenAI backs security buyout",
+        "description": "The deal means real-time threat detection, not just recording, as AI monitoring merges with traditional security infrastructure.",
+        "visual_hint": "Split screen showing AI and security",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room lights",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cameras that analyze behavior",
+        "description": "With OpenAI models, cameras could flag anomalies, but who controls the data and the algorithms behind them?",
+        "visual_hint": "Close-up of camera lens with AI overlay",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "camera lens closeup",
+        "image": "https://images.pexels.com/photos/35211404/pexels-photo-35211404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Most vendors won't tell you",
+        "description": "Lack of transparency about whether AI is open or proprietary affects cost, control, and privacy for your building.",
+        "visual_hint": "Person holding contract with question mark",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding document",
+        "image": "https://images.pexels.com/photos/13801779/pexels-photo-13801779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before you renew",
+        "description": "Ask your vendor: 'Is your AI open?' If they hesitate, you have your answer.",
+        "visual_hint": "Checklist with AI question highlighted",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard pen",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/40233327/pexels-photo-40233327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-10-30T14:42:51.869Z",
+    "sourceId": "db83db5c214c0a3981122c22af6f5a06"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "can-ai-data-centers-be-mass-produced-like-cars-thi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+    "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+    "pubDate": "Fri, 30 Oct 2026 13:00:00 +0000",
+    "slides": [
+      "Can AI data centers be mass-produced like cars?",
+      "A startup thinks factories can churn out modular data centers.",
+      "But most AI data centers still need custom cooling and power.",
+      "You may soon order a plug-and-play AI data center.",
+      "Ask your vendor: is your data center built like a car?"
+    ],
+    "thread_text": [
+      "1. Factories for AI?\n\nA startup claims it can mass-produce modular data centers like cars, potentially slashing build times from years to months.",
+      "2. The Plug-and-Play Promise\n\nYou might soon order an AI data center off the shelf, but most facilities still require custom cooling and power setups.",
+      "3. Custom Cooling Still King\n\nDespite modular designs, high-density AI racks demand bespoke cooling solutions that factories can't standardize yet.",
+      "4. The Real Bottleneck\n\nPower delivery and cooling infrastructure remain the biggest hurdles for mass-produced data centers, limiting true plug-and-play.",
+      "5. Ask Your Vendor\n\nNext time you evaluate a data center, ask: is it built like a car or a custom home? The answer reveals scalability."
+    ],
+    "video_script": [
+      "Can AI data centers be mass-produced like cars?",
+      "A startup thinks factories can churn out modular data centers.",
+      "But most AI data centers still need custom cooling and power.",
+      "You may soon order a plug-and-play AI data center.",
+      "Ask your vendor: is your data center built like a car?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Factories for AI?\n\nA startup claims it can mass-produce modular data centers like cars, potentially slashing build times from years to months.",
+          "2. The Plug-and-Play Promise\n\nYou might soon order an AI data center off the shelf, but most facilities still require custom cooling and power setups.",
+          "3. Custom Cooling Still King\n\nDespite modular designs, high-density AI racks demand bespoke cooling solutions that factories can't standardize yet.",
+          "4. The Real Bottleneck\n\nPower delivery and cooling infrastructure remain the biggest hurdles for mass-produced data centers, limiting true plug-and-play.",
+          "5. Ask Your Vendor\n\nNext time you evaluate a data center, ask: is it built like a car or a custom home? The answer reveals scalability."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can AI data centers be mass-produced like cars?",
+          "A startup thinks factories can churn out modular data centers.",
+          "But most AI data centers still need custom cooling and power.",
+          "You may soon order a plug-and-play AI data center.",
+          "Ask your vendor: is your data center built like a car?"
+        ]
+      },
+      "instagram": {
+        "caption": "A startup says its factories could soon churn out modular AI data centers the way car plants roll out vehicles 🏭\n\nThe pitch: order a plug-and-play data center off the shelf, and build times drop from years to months.\n\nBut most AI facilities still need custom cooling and power, since high-density racks can't be standardized yet.\n\nThat gap decides whether your tools run on cheap, fast capacity or stay stuck waiting on bespoke builds.\n\nNext time you evaluate a data center, ask: is it built like a car or a custom home? 🚗"
+      }
+    },
+    "instagram_caption": "A startup says its factories could soon churn out modular AI data centers the way car plants roll out vehicles 🏭\n\nThe pitch: order a plug-and-play data center off the shelf, and build times drop from years to months.\n\nBut most AI facilities still need custom cooling and power, since high-density racks can't be standardized yet.\n\nThat gap decides whether your tools run on cheap, fast capacity or stay stuck waiting on bespoke builds.\n\nNext time you evaluate a data center, ask: is it built like a car or a custom home? 🚗",
+    "carousel_slides": [
+      {
+        "hook": "Can AI data centers be mass-produced?",
+        "description": "A startup claims factories can churn out modular data centers, potentially cutting build times from years to months.",
+        "visual_hint": "Row of identical server racks in factory",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Factories could churn out modular data centers.",
+        "description": "A startup thinks factories can mass-produce modular data centers, but most still need custom cooling and power setups.",
+        "visual_hint": "Assembly line with server modules",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Custom cooling still rules high-density racks.",
+        "description": "High-density AI racks demand bespoke cooling solutions that factories can't standardize yet, limiting true plug-and-play.",
+        "visual_hint": "Close-up of cooling pipes on server rack",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "cooling system",
+        "image": "https://images.pexels.com/photos/33798627/pexels-photo-33798627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Power and cooling remain the bottleneck.",
+        "description": "Power delivery and cooling infrastructure are the biggest hurdles for mass-produced data centers, blocking off-the-shelf adoption.",
+        "visual_hint": "Hand pointing at power distribution unit",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "power plant",
+        "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask your vendor: car or custom home?",
+        "description": "Next time you evaluate a data center, ask if it's built like a car or a custom home. Save this post for your next vendor call.",
+        "visual_hint": "Checklist with car and house icons",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "car factory",
+        "image": "https://images.pexels.com/photos/5982900/pexels-photo-5982900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Runware-Factory-.jpg?w=1200",
+    "savedAt": "2026-10-30T14:42:41.069Z",
+    "sourceId": "12c5b28f8540d0b9612a68666270a49e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "doordash-said-it-s-only-received-several-hundred-o",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+    "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+    "pubDate": "Fri, 30 Oct 2026 13:54:25 +0000",
+    "slides": [
+      "DoorDash's AI agent orders: several hundred. Why so few?",
+      "AI agents can now order food through chat interfaces",
+      "But human browsing still drives nearly all the volume",
+      "Your delivery experience won't change because of this yet",
+      "Test an AI order yourself — see what breaks"
+    ],
+    "thread_text": [
+      "1. The 200 Orders That Didn't Happen\n\nDoorDash's AI agent can take orders via chat, but only a few hundred people tried it. Human browsing still drives almost all deliveries.",
+      "2. Chat Ordering Exists, Barely Used\n\nYou can now order food by messaging an AI, but almost nobody does. The feature is live, yet the volume is negligible.",
+      "3. Why Humans Still Click Menus\n\nBrowsing lets you discover and compare; chatting feels like a transaction. The habit gap explains the tiny numbers.",
+      "4. Your Delivery Won't Change Yet\n\nRestaurants and drivers see no shift because AI orders are a rounding error. The experience stays the same for now.",
+      "5. Test the AI Order Yourself\n\nOpen DoorDash's AI chat and order lunch. Note what breaks or feels slow—then ask if you'd do it again tomorrow."
+    ],
+    "video_script": [
+      "DoorDash's AI agent handles only a few hundred orders.",
+      "You can order food through chat, but almost nobody does.",
+      "People still browse menus because it feels more natural.",
+      "Your delivery experience won't change because of this yet.",
+      "Try an AI order yourself and see what breaks."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The 200 Orders That Didn't Happen\n\nDoorDash's AI agent can take orders via chat, but only a few hundred people tried it. Human browsing still drives almost all deliveries.",
+          "2. Chat Ordering Exists, Barely Used\n\nYou can now order food by messaging an AI, but almost nobody does. The feature is live, yet the volume is negligible.",
+          "3. Why Humans Still Click Menus\n\nBrowsing lets you discover and compare; chatting feels like a transaction. The habit gap explains the tiny numbers.",
+          "4. Your Delivery Won't Change Yet\n\nRestaurants and drivers see no shift because AI orders are a rounding error. The experience stays the same for now.",
+          "5. Test the AI Order Yourself\n\nOpen DoorDash's AI chat and order lunch. Note what breaks or feels slow—then ask if you'd do it again tomorrow."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "DoorDash's AI agent handles only a few hundred orders.",
+          "You can order food through chat, but almost nobody does.",
+          "People still browse menus because it feels more natural.",
+          "Your delivery experience won't change because of this yet.",
+          "Try an AI order yourself and see what breaks."
+        ]
+      },
+      "instagram": {
+        "caption": "A few hundred orders. That's all DoorDash's AI agent has processed since launch. 🍔\n\nYou can order food by chatting with an AI now, but almost nobody does it.\n\nHuman browsing still drives nearly every delivery on the platform.\n\nThe gap: clicking menus lets you discover and compare, chatting feels purely transactional.\n\nFor now, nothing changes in your delivery workflow or how restaurants operate. AI orders are a rounding error.\n\nWould you actually order lunch through a chat window tomorrow, or go back to scrolling? 🤔"
+      }
+    },
+    "instagram_caption": "A few hundred orders. That's all DoorDash's AI agent has processed since launch. 🍔\n\nYou can order food by chatting with an AI now, but almost nobody does it.\n\nHuman browsing still drives nearly every delivery on the platform.\n\nThe gap: clicking menus lets you discover and compare, chatting feels purely transactional.\n\nFor now, nothing changes in your delivery workflow or how restaurants operate. AI orders are a rounding error.\n\nWould you actually order lunch through a chat window tomorrow, or go back to scrolling? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "AI orders food, but barely anyone noticed",
+        "description": "DoorDash's AI agent handles only several hundred orders while human browsing drives almost all deliveries.",
+        "visual_hint": "Chat interface on smartphone screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone chat interface"
+      },
+      {
+        "hook": "Chat ordering is live, but barely used",
+        "description": "You can message an AI to order food, yet the volume is negligible compared to app browsing.",
+        "visual_hint": "Food delivery app chat conversation",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "food delivery app",
+        "image": "https://images.pexels.com/photos/9461218/pexels-photo-9461218.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Why do humans still click menus?",
+        "description": "Browsing feels like discovery; chatting feels like a transaction. The habit gap explains tiny adoption.",
+        "visual_hint": "Finger scrolling restaurant menu",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "restaurant menu",
+        "image": "https://images.pexels.com/photos/18988620/pexels-photo-18988620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your delivery experience won't change yet",
+        "description": "Restaurants and drivers see no shift because AI orders remain a rounding error in total volume.",
+        "visual_hint": "Delivery driver handing food bag",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "delivery driver",
+        "image": "https://images.pexels.com/photos/6169583/pexels-photo-6169583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test the AI order yourself today",
+        "description": "Open DoorDash's AI chat, order lunch, and note what breaks or feels slow. Would you do it again?",
+        "visual_hint": "Person ordering food on phone",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person ordering food",
+        "image": "https://images.pexels.com/photos/9461627/pexels-photo-9461627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800",
+    "savedAt": "2026-10-30T14:42:32.259Z",
+    "sourceId": "30b5f07a33cd2b6d418021bd4af81040"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "ai-has-come-for-arizona-s-water",
     "prompt_version": "1.0.0",
     "status": "published",

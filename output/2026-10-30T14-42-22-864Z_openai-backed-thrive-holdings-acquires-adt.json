@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-backed-thrive-holdings-acquires-adt",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI-backed Thrive Holdings acquires ADT",
+  "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+  "pubDate": "Thu, 29 Oct 2026 19:56:19 +0000",
+  "slides": [
+    "Why would OpenAI back a security company buyout?",
+    "Thrive Holdings just acquired ADT's commercial arm",
+    "The deal bundles AI monitoring into physical security",
+    "Your building's cameras may soon run OpenAI models",
+    "Ask your vendor if their AI is actually open"
+  ],
+  "thread_text": [
+    "1. OpenAI's Security Play\n\nThrive Holdings just bought ADT's commercial arm, and OpenAI is backing the deal. Your building's cameras could soon run on AI models.",
+    "2. AI Monitoring Meets Physical Security\n\nThe acquisition bundles AI-powered monitoring into traditional security systems. This means real-time threat detection, not just recording.",
+    "3. Your Cameras, Smarter\n\nWith OpenAI models, cameras could analyze behavior and flag anomalies. But who controls the data and the algorithms?",
+    "4. The Openness Question\n\nMost vendors won't tell you if their AI is open or proprietary. That lack of transparency affects cost, control, and privacy.",
+    "5. Ask Your Vendor Today\n\nBefore you renew your security contract, ask: 'Is your AI open?' If they hesitate, you have your answer."
+  ],
+  "video_script": [
+    "OpenAI just backed a deal to buy ADT's commercial security arm.",
+    "This means AI monitoring is merging with physical security systems.",
+    "Your building's cameras might soon run OpenAI models for threat detection.",
+    "But most vendors won't reveal if their AI is open or closed.",
+    "Ask your security vendor: is your AI actually open?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI's Security Play\n\nThrive Holdings just bought ADT's commercial arm, and OpenAI is backing the deal. Your building's cameras could soon run on AI models.",
+        "2. AI Monitoring Meets Physical Security\n\nThe acquisition bundles AI-powered monitoring into traditional security systems. This means real-time threat detection, not just recording.",
+        "3. Your Cameras, Smarter\n\nWith OpenAI models, cameras could analyze behavior and flag anomalies. But who controls the data and the algorithms?",
+        "4. The Openness Question\n\nMost vendors won't tell you if their AI is open or proprietary. That lack of transparency affects cost, control, and privacy.",
+        "5. Ask Your Vendor Today\n\nBefore you renew your security contract, ask: 'Is your AI open?' If they hesitate, you have your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI just backed a deal to buy ADT's commercial security arm.",
+        "This means AI monitoring is merging with physical security systems.",
+        "Your building's cameras might soon run OpenAI models for threat detection.",
+        "But most vendors won't reveal if their AI is open or closed.",
+        "Ask your security vendor: is your AI actually open?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your building's cameras might soon be analyzing behavior with OpenAI models, not just recording.\n\nThrive Holdings just bought ADT's commercial arm, with OpenAI backing the deal. The acquisition bundles AI-powered monitoring into physical security systems.\n\nThat means real-time threat detection instead of passive footage. But most vendors won't say whether their AI is open or proprietary 🎥\n\nIf you manage or work in a building, this affects your data, costs, and privacy.\n\nBefore you renew a security contract, ask one question: \"Is your AI open?\" If they hesitate, that's your answer 🔍"
+    }
+  },
+  "instagram_caption": "Your building's cameras might soon be analyzing behavior with OpenAI models, not just recording.\n\nThrive Holdings just bought ADT's commercial arm, with OpenAI backing the deal. The acquisition bundles AI-powered monitoring into physical security systems.\n\nThat means real-time threat detection instead of passive footage. But most vendors won't say whether their AI is open or proprietary 🎥\n\nIf you manage or work in a building, this affects your data, costs, and privacy.\n\nBefore you renew a security contract, ask one question: \"Is your AI open?\" If they hesitate, that's your answer 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Is your building's AI actually open?",
+      "description": "Thrive Holdings acquired ADT's commercial arm with OpenAI backing, bundling AI monitoring into physical security systems.",
+      "visual_hint": "Modern office building with security cameras",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "security camera building"
+    },
+    {
+      "hook": "OpenAI backs security buyout",
+      "description": "The deal means real-time threat detection, not just recording, as AI monitoring merges with traditional security infrastructure.",
+      "visual_hint": "Split screen showing AI and security",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room lights",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cameras that analyze behavior",
+      "description": "With OpenAI models, cameras could flag anomalies, but who controls the data and the algorithms behind them?",
+      "visual_hint": "Close-up of camera lens with AI overlay",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "camera lens closeup",
+      "image": "https://images.pexels.com/photos/35211404/pexels-photo-35211404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Most vendors won't tell you",
+      "description": "Lack of transparency about whether AI is open or proprietary affects cost, control, and privacy for your building.",
+      "visual_hint": "Person holding contract with question mark",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding document",
+      "image": "https://images.pexels.com/photos/13801779/pexels-photo-13801779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you renew",
+      "description": "Ask your vendor: 'Is your AI open?' If they hesitate, you have your answer.",
+      "visual_hint": "Checklist with AI question highlighted",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard pen",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/40233327/pexels-photo-40233327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-10-30T14:42:51.869Z",
+  "sourceId": "db83db5c214c0a3981122c22af6f5a06"
+}
