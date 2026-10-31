@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "i-built-an-ai-tamagotchi-before-meta-could",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "I built an AI Tamagotchi before Meta could",
+      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "pubDate": "2026-10-31T16:05:00.000Z",
+      "slides": [
+        "I built an AI Tamagotchi before Meta could.",
+        "Meta quietly filed patents for AI pets last year.",
+        "But my version runs entirely on a $5 chip.",
+        "You can clone it today with open-source code.",
+        "Ship the weird thing before the giants notice."
+      ],
+      "thread_text": [
+        "1. Meta's AI pet vs mine\n\nLast year Meta filed patents for AI pets. I built one that runs on a $5 chip.",
+        "2. The $5 chip secret\n\nWhile Meta's version likely needs cloud servers, mine fits in your pocket and costs less than lunch.",
+        "3. Why open source wins\n\nI published the code. Anyone can clone it today without asking a giant for permission.",
+        "4. The giant's blind spot\n\nMeta won't ship a toy that costs $5. That's exactly why indie builders should.",
+        "5. Ship before they notice\n\nGo grab the open-source repo and build your own weird AI pet this weekend."
+      ],
+      "video_script": [
+        "Meta filed patents for AI pets last year.",
+        "I built one on a five dollar chip.",
+        "It runs entirely on open source code.",
+        "You can clone it today for free.",
+        "Ship the weird thing before they notice."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Meta's AI pet vs mine\n\nLast year Meta filed patents for AI pets. I built one that runs on a $5 chip.",
+            "2. The $5 chip secret\n\nWhile Meta's version likely needs cloud servers, mine fits in your pocket and costs less than lunch.",
+            "3. Why open source wins\n\nI published the code. Anyone can clone it today without asking a giant for permission.",
+            "4. The giant's blind spot\n\nMeta won't ship a toy that costs $5. That's exactly why indie builders should.",
+            "5. Ship before they notice\n\nGo grab the open-source repo and build your own weird AI pet this weekend."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta filed patents for AI pets last year.",
+            "I built one on a five dollar chip.",
+            "It runs entirely on open source code.",
+            "You can clone it today for free.",
+            "Ship the weird thing before they notice."
+          ]
+        },
+        "instagram": {
+          "caption": "Someone built an AI pet that runs on a $5 chip, powered entirely on-device.\n\nMeta filed patents for AI pets last year, and its version likely leans on cloud servers.\n\nThis builder published the open-source code, so anyone can clone it today without asking a giant for permission.\n\nIf you make things, this is your window: the economics that keep Meta out of a $5 toy are exactly what let indie builders ship first.\n\nWhat weird thing are you sitting on that a giant would never bother to build? 🐾"
+        }
+      },
+      "instagram_caption": "Someone built an AI pet that runs on a $5 chip, powered entirely on-device.\n\nMeta filed patents for AI pets last year, and its version likely leans on cloud servers.\n\nThis builder published the open-source code, so anyone can clone it today without asking a giant for permission.\n\nIf you make things, this is your window: the economics that keep Meta out of a $5 toy are exactly what let indie builders ship first.\n\nWhat weird thing are you sitting on that a giant would never bother to build? 🐾",
+      "carousel_slides": [
+        {
+          "hook": "AI pet on a $5 chip?",
+          "description": "Meta patents AI pets needing cloud servers; my version runs locally on a cheap chip.",
+          "visual_hint": "Tiny chip on fingertip",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "microchip closeup"
+        },
+        {
+          "hook": "Meta's quiet patent filing",
+          "description": "Last year Meta patented AI pets, but cloud dependence makes them costly and slow.",
+          "visual_hint": "Patent document with Meta logo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "patent document",
+          "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pocket-sized, no cloud needed",
+          "description": "My AI Tamagotchi fits in your pocket and costs less than lunch, no servers required.",
+          "visual_hint": "Tamagotchi device in hand",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "tamagotchi toy",
+          "image": "https://images.pexels.com/photos/8501721/pexels-photo-8501721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Clone it with open-source code",
+          "description": "I published the code; anyone can clone it today without asking a giant for permission.",
+          "visual_hint": "Laptop screen with code",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "open source code",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Build your own weird AI pet",
+          "description": "Grab the open-source repo and ship your own AI pet this weekend—link in bio.",
+          "visual_hint": "Person assembling circuit board",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "diy electronics kit",
+          "image": "https://images.pexels.com/photos/39712877/pexels-photo-39712877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&amp;strip=all&amp;crop=4%2C9.7534360513847%2C96%2C75.393048208485&amp;w=1200",
+      "savedAt": "2026-10-31T19:38:50.917Z",
+      "sourceId": "0289b26f177bf3f8786fdf29b40924da"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "nvidia-weighs-playing-the-cosigner-for-nscale-s-ai",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "pubDate": "Sat, 31 Oct 2026 01:20:05 +0000",
+      "slides": [
+        "Can Nvidia's credit back West Virginia's bet?",
+        "Nscale's AI data center needs a cosigner",
+        "Nvidia rarely puts its balance sheet behind partners",
+        "That signal may reprice AI infrastructure risk",
+        "Watch who signs next, not who builds"
+      ],
+      "thread_text": [
+        "1. The cosigner question\n\nNvidia is weighing whether to guarantee a West Virginia AI data center. If it does, it's not just backing a building — it's underwriting the AI boom itself.",
+        "2. Why Nscale needs a backer\n\nBuilding AI data centers is capital-intensive. A tenant like Nscale can't carry the risk alone, so it's looking for a credit partner with deep pockets.",
+        "3. Nvidia's rare move\n\nNvidia almost never puts its own balance sheet behind partners. Doing it here would signal that compute demand is solid enough to guarantee — a major shift.",
+        "4. Repricing the risk\n\nIf Nvidia guarantees one project, the market may reprice risk across all AI infrastructure. Other builders could demand similar backing, changing how these deals are structured.",
+        "5. Who signs next?\n\nWatch the next company that gets Nvidia to cosign a data center. If more follow, it's a new playbook — and the real signal isn't who builds, it's who signs."
+      ],
+      "video_script": [
+        "Nvidia might guarantee a West Virginia AI data center.",
+        "Nscale needs a cosigner to carry the risk.",
+        "Nvidia rarely backs partners with its balance sheet.",
+        "That could reprice risk across AI infrastructure.",
+        "Watch who signs next, not who builds."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The cosigner question\n\nNvidia is weighing whether to guarantee a West Virginia AI data center. If it does, it's not just backing a building — it's underwriting the AI boom itself.",
+            "2. Why Nscale needs a backer\n\nBuilding AI data centers is capital-intensive. A tenant like Nscale can't carry the risk alone, so it's looking for a credit partner with deep pockets.",
+            "3. Nvidia's rare move\n\nNvidia almost never puts its own balance sheet behind partners. Doing it here would signal that compute demand is solid enough to guarantee — a major shift.",
+            "4. Repricing the risk\n\nIf Nvidia guarantees one project, the market may reprice risk across all AI infrastructure. Other builders could demand similar backing, changing how these deals are structured.",
+            "5. Who signs next?\n\nWatch the next company that gets Nvidia to cosign a data center. If more follow, it's a new playbook — and the real signal isn't who builds, it's who signs."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Nvidia might guarantee a West Virginia AI data center.",
+            "Nscale needs a cosigner to carry the risk.",
+            "Nvidia rarely backs partners with its balance sheet.",
+            "That could reprice risk across AI infrastructure.",
+            "Watch who signs next, not who builds."
+          ]
+        },
+        "instagram": {
+          "caption": "Nvidia might cosign a West Virginia AI data center — essentially guaranteeing someone else's loan, which it almost never does.\n\nNscale can't carry the build cost alone, so it needs a credit partner with deep pockets. 🏗️\n\nNormally Nvidia keeps its balance sheet away from partners' projects.\n\nIf it signs here, the market may reprice risk across all AI infrastructure, and other builders will demand the same backing. 📉\n\nFor anyone publishing or building with AI tools, compute deals like this quietly set what access will cost later.\n\nWho do you think gets the next cosign — and would you bet your roadmap on it? 🤔"
+        }
+      },
+      "instagram_caption": "Nvidia might cosign a West Virginia AI data center — essentially guaranteeing someone else's loan, which it almost never does.\n\nNscale can't carry the build cost alone, so it needs a credit partner with deep pockets. 🏗️\n\nNormally Nvidia keeps its balance sheet away from partners' projects.\n\nIf it signs here, the market may reprice risk across all AI infrastructure, and other builders will demand the same backing. 📉\n\nFor anyone publishing or building with AI tools, compute deals like this quietly set what access will cost later.\n\nWho do you think gets the next cosign — and would you bet your roadmap on it? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Would Nvidia cosign a data center?",
+          "description": "Nvidia is weighing a guarantee for Nscale's West Virginia AI data center, potentially underwriting the AI boom itself.",
+          "visual_hint": "Nvidia logo on a modern building",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Nvidia headquarters"
+        },
+        {
+          "hook": "Nscale needs a deep-pocket backer",
+          "description": "Building AI data centers is capital-intensive; Nscale can't carry the risk alone and seeks a credit partner.",
+          "visual_hint": "Large data center under construction",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center construction",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Nvidia rarely backs partners' balance sheets",
+          "description": "Nvidia almost never puts its own balance sheet behind partners, so a guarantee would signal solid compute demand.",
+          "visual_hint": "Financial documents with a pen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "financial documents",
+          "image": "https://images.pexels.com/photos/8970301/pexels-photo-8970301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One guarantee could reprice all AI risk",
+          "description": "If Nvidia guarantees one project, the market may reprice risk across AI infrastructure, changing deal structures.",
+          "visual_hint": "Stock market chart with risk arrows",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this and watch who signs next",
+          "description": "Follow the next company that gets Nvidia to cosign a data center; that's the real signal, not who builds.",
+          "visual_hint": "Person signing a contract close-up",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "signing contract",
+          "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
+      "savedAt": "2026-10-31T19:38:41.702Z",
+      "sourceId": "ec65015625291e9f98d35f94338ef650"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "wikipedia-s-operator-says-a-bad-ai-copyright-rulin",
       "prompt_version": "1.0.0",
       "status": "published",
