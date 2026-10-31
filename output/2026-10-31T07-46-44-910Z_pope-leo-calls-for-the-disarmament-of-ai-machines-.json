@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "pope-leo-calls-for-the-disarmament-of-ai-machines-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+  "pubDate": "2026-10-30T14:58:06.000Z",
+  "slides": [
+    "Can a machine hold a soul?",
+    "Pope Leo takes on AI disarmament",
+    "The surprise: he targets weapons, not chatbots",
+    "What changes for AI developers and users?",
+    "Ask who decides what a machine may do"
+  ],
+  "thread_text": [
+    "1. The Pope's AI Target\n\nPope Leo is pushing AI disarmament — but he's not going after chatbots. He's targeting weapons systems.",
+    "2. Beyond Chatbots\n\nWhile regulators chase generative AI, the Vatican points at autonomous weapons as the real ethical red line.",
+    "3. Weapons, Not Words\n\nThe surprise: the Church's moral authority lands on military AI, not content filters or deepfakes.",
+    "4. Developers on Notice\n\nIf autonomous weapons become the focus, defense contractors and AI labs face new moral scrutiny.",
+    "5. Who Decides?\n\nAsk yourself: who should decide what a machine may do? Take the question to your next team meeting."
+  ],
+  "video_script": [
+    "Pope Leo takes on AI disarmament.",
+    "But he targets weapons, not chatbots.",
+    "That's the surprise nobody expected.",
+    "What changes for AI developers now?",
+    "Ask who decides what a machine may do."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Pope's AI Target\n\nPope Leo is pushing AI disarmament — but he's not going after chatbots. He's targeting weapons systems.",
+        "2. Beyond Chatbots\n\nWhile regulators chase generative AI, the Vatican points at autonomous weapons as the real ethical red line.",
+        "3. Weapons, Not Words\n\nThe surprise: the Church's moral authority lands on military AI, not content filters or deepfakes.",
+        "4. Developers on Notice\n\nIf autonomous weapons become the focus, defense contractors and AI labs face new moral scrutiny.",
+        "5. Who Decides?\n\nAsk yourself: who should decide what a machine may do? Take the question to your next team meeting."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Pope Leo takes on AI disarmament.",
+        "But he targets weapons, not chatbots.",
+        "That's the surprise nobody expected.",
+        "What changes for AI developers now?",
+        "Ask who decides what a machine may do."
+      ]
+    },
+    "instagram": {
+      "caption": "The Vatican is pushing to ban autonomous weapons, not chatbots. 🕊️\n\nPope Leo argues machines are tools, not persons, and draws a moral line at military AI that decides who lives and dies.\n\nMost AI rules focus on content and deepfakes. This targets defense contractors and the labs building for them.\n\nIf you work in AI, the question shifts from what your model says to what it's allowed to do. 🤖\n\nWho should decide what a machine may do — the engineer, the state, or no one at all? ⚖️"
+    }
+  },
+  "instagram_caption": "The Vatican is pushing to ban autonomous weapons, not chatbots. 🕊️\n\nPope Leo argues machines are tools, not persons, and draws a moral line at military AI that decides who lives and dies.\n\nMost AI rules focus on content and deepfakes. This targets defense contractors and the labs building for them.\n\nIf you work in AI, the question shifts from what your model says to what it's allowed to do. 🤖\n\nWho should decide what a machine may do — the engineer, the state, or no one at all? ⚖️",
+  "carousel_slides": [
+    {
+      "hook": "Who decides what a machine may do?",
+      "description": "The Pope's AI disarmament call targets autonomous weapons, not chatbots—shifting the ethical red line to military AI.",
+      "visual_hint": "Pope holding document, serious expression",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Pope Francis"
+    },
+    {
+      "hook": "Pope Leo takes on AI disarmament",
+      "description": "While regulators chase generative AI, the Vatican points at autonomous weapons as the real ethical red line.",
+      "visual_hint": "Vatican flag with AI circuit overlay",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "Vatican City",
+      "image": "https://images.pexels.com/photos/33008997/pexels-photo-33008997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "He targets weapons, not chatbots",
+      "description": "The Church's moral authority lands on military AI, not content filters or deepfakes.",
+      "visual_hint": "Autonomous drone with crosshair",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "military drone",
+      "image": "https://images.pexels.com/photos/16581888/pexels-photo-16581888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI developers face new moral scrutiny",
+      "description": "If autonomous weapons become the focus, defense contractors and AI labs face tough ethical questions.",
+      "visual_hint": "Engineer reviewing code with weapon blueprint",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "engineer coding",
+      "image": "https://images.pexels.com/photos/3861959/pexels-photo-3861959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your next team meeting",
+      "description": "Ask your team: who should decide what a machine may do? Share this post and discuss.",
+      "visual_hint": "Team meeting with AI ethics chart",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office meeting",
+      "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2226124908.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-31T07:47:04.218Z",
+  "sourceId": "cfe1c65d6cd5d12d3399815aa0da565b"
+}

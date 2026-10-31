@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "starbucks-wants-to-use-ai-to-show-you-a-personaliz",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+  "pubDate": "2026-10-30T17:38:04.000Z",
+  "slides": [
+    "Starbucks bets your drive-thru order is about to get stranger",
+    "It's building AI menus that change per customer",
+    "The system decides what you see before you speak",
+    "Your usual order may quietly disappear from view",
+    "Ask yourself: who controls what you're shown next time?"
+  ],
+  "thread_text": [
+    "1. The Menu Knows You\n\nStarbucks is testing AI drive-thru menus that personalize what you see before you say a word.",
+    "2. Order Without Speaking\n\nThe system predicts your choice and displays it first — turning the menu into a suggestion engine.",
+    "3. Your Usual Vanishes\n\nIf the AI thinks something else fits better, your go-to drink may quietly disappear from the screen.",
+    "4. Who Sets the Menu?\n\nThe algorithm decides what's visible, which means it also decides what you're unlikely to consider.",
+    "5. Check Your Next Menu\n\nNext time you order, ask: did I pick that, or did the screen pick for me? Try noticing the difference."
+  ],
+  "video_script": [
+    "Starbucks is testing AI menus that change per customer.",
+    "The system decides what you see before you speak.",
+    "Your usual order might quietly disappear from view.",
+    "The algorithm controls what's shown and what's hidden.",
+    "Ask yourself: who controls what you're shown next?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Menu Knows You\n\nStarbucks is testing AI drive-thru menus that personalize what you see before you say a word.",
+        "2. Order Without Speaking\n\nThe system predicts your choice and displays it first — turning the menu into a suggestion engine.",
+        "3. Your Usual Vanishes\n\nIf the AI thinks something else fits better, your go-to drink may quietly disappear from the screen.",
+        "4. Who Sets the Menu?\n\nThe algorithm decides what's visible, which means it also decides what you're unlikely to consider.",
+        "5. Check Your Next Menu\n\nNext time you order, ask: did I pick that, or did the screen pick for me? Try noticing the difference."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Starbucks is testing AI menus that change per customer.",
+        "The system decides what you see before you speak.",
+        "Your usual order might quietly disappear from view.",
+        "The algorithm controls what's shown and what's hidden.",
+        "Ask yourself: who controls what you're shown next?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your usual order might not be on the screen next time you pull up to the drive-thru.\n\nStarbucks is building AI menus that change for each customer at the drive-thru. The system predicts your choice and shows it first, before you say a word. If the algorithm thinks something else fits better, your go-to drink can quietly disappear from view. ☕\n\nFor anyone who publishes or sells online, the lesson is bigger than coffee: whoever controls the display controls the choice. What you create matters less if an algorithm decides who sees it. 👀\n\nNext time you order, ask yourself: did I pick that, or did the screen pick for me? 🤔"
+    }
+  },
+  "instagram_caption": "Your usual order might not be on the screen next time you pull up to the drive-thru.\n\nStarbucks is building AI menus that change for each customer at the drive-thru. The system predicts your choice and shows it first, before you say a word. If the algorithm thinks something else fits better, your go-to drink can quietly disappear from view. ☕\n\nFor anyone who publishes or sells online, the lesson is bigger than coffee: whoever controls the display controls the choice. What you create matters less if an algorithm decides who sees it. 👀\n\nNext time you order, ask yourself: did I pick that, or did the screen pick for me? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "The menu decides before you speak",
+      "description": "Starbucks is testing AI drive-thru menus that predict your order and display suggestions before you say a word.",
+      "visual_hint": "Drive-thru digital menu screen glowing",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "drive-thru menu"
+    },
+    {
+      "hook": "AI menus change per customer",
+      "description": "The system builds personalized menus that adapt to each driver, turning the display into a prediction engine.",
+      "visual_hint": "Split screen showing different menu options",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "digital display",
+      "image": "https://images.pexels.com/photos/27638181/pexels-photo-27638181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your usual order may vanish",
+      "description": "If the algorithm thinks another drink fits better, your go-to choice could quietly disappear from the screen.",
+      "visual_hint": "Empty slot where a drink used to be",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "coffee cup",
+      "image": "https://images.pexels.com/photos/27589853/pexels-photo-27589853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who controls what you see?",
+      "description": "The algorithm decides what's visible, which means it also decides what you're unlikely to consider.",
+      "visual_hint": "Hand pointing at a digital menu",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "pointing hand",
+      "image": "https://images.pexels.com/photos/8834242/pexels-photo-8834242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next order",
+      "description": "Next time you order, ask: did I pick that, or did the screen pick for me? Notice the difference.",
+      "visual_hint": "Person looking thoughtfully at menu",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "thoughtful customer",
+      "image": "https://images.pexels.com/photos/1315910/pexels-photo-1315910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.727816900681%2C100%2C78.544366198639&amp;w=1200",
+  "savedAt": "2026-10-31T07:46:54.643Z",
+  "sourceId": "a5d82a5cf5c844da87b0513be695058c"
+}

@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "wikipedia-s-operator-says-a-bad-ai-copyright-rulin",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "pubDate": "2026-10-30T09:00:00.000Z",
+      "slides": [
+        "Could a copyright ruling kill Wikipedia's open web?",
+        "Wikimedia warns courts may treat AI training as infringement",
+        "But the real target is not AI, it's fair use itself",
+        "Your reuse of public knowledge could face new licensing fees",
+        "Ask your legal team: does scraping still count as fair use?"
+      ],
+      "thread_text": [
+        "1. Copyright vs. Wikipedia\n\nWikimedia warns courts may treat AI training as infringement — but the real target isn't AI, it's fair use itself.",
+        "2. The real target\n\nIf training AI on public data becomes infringement, your reuse of public knowledge could face new licensing fees.",
+        "3. Your reuse at risk\n\nFair use has long protected scraping and indexing. A ruling against it would affect far more than Wikipedia.",
+        "4. The open web at stake\n\nA copyright ruling could kill the open web by making everyday reuse of public information legally risky.",
+        "5. Ask your legal team\n\nDoes scraping still count as fair use in your workflow? Check your data practices before the next ruling drops."
+      ],
+      "video_script": [
+        "Could a copyright ruling kill Wikipedia's open web?",
+        "Wikimedia warns courts may treat AI training as infringement.",
+        "But the real target is not AI — it's fair use itself.",
+        "Your reuse of public knowledge could face new licensing fees.",
+        "Ask your legal team: does scraping still count as fair use?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Copyright vs. Wikipedia\n\nWikimedia warns courts may treat AI training as infringement — but the real target isn't AI, it's fair use itself.",
+            "2. The real target\n\nIf training AI on public data becomes infringement, your reuse of public knowledge could face new licensing fees.",
+            "3. Your reuse at risk\n\nFair use has long protected scraping and indexing. A ruling against it would affect far more than Wikipedia.",
+            "4. The open web at stake\n\nA copyright ruling could kill the open web by making everyday reuse of public information legally risky.",
+            "5. Ask your legal team\n\nDoes scraping still count as fair use in your workflow? Check your data practices before the next ruling drops."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Could a copyright ruling kill Wikipedia's open web?",
+            "Wikimedia warns courts may treat AI training as infringement.",
+            "But the real target is not AI — it's fair use itself.",
+            "Your reuse of public knowledge could face new licensing fees.",
+            "Ask your legal team: does scraping still count as fair use?"
+          ]
+        },
+        "instagram": {
+          "caption": "A court could soon decide that training AI on public data counts as copyright infringement — and Wikimedia says that ruling could hit far more than Wikipedia. ⚖️\n\nThe real target isn't AI. It's fair use, the doctrine that has long let people scrape and index public information without paying.\n\nIf that flips, everyday reuse of public knowledge could come with new licensing fees. 📉\n\nThat means your own workflow — research, archiving, building tools on public data — might suddenly carry legal risk.\n\nDoes scraping still count as fair use in what you do? Ask your legal team before the next ruling drops. 🗂️"
+        }
+      },
+      "instagram_caption": "A court could soon decide that training AI on public data counts as copyright infringement — and Wikimedia says that ruling could hit far more than Wikipedia. ⚖️\n\nThe real target isn't AI. It's fair use, the doctrine that has long let people scrape and index public information without paying.\n\nIf that flips, everyday reuse of public knowledge could come with new licensing fees. 📉\n\nThat means your own workflow — research, archiving, building tools on public data — might suddenly carry legal risk.\n\nDoes scraping still count as fair use in what you do? Ask your legal team before the next ruling drops. 🗂️",
+      "carousel_slides": [
+        {
+          "hook": "Is fair use under attack?",
+          "description": "Wikimedia warns courts may treat AI training as copyright infringement, but the real target is fair use itself.",
+          "visual_hint": "Gavel striking down on a book",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "gavel book"
+        },
+        {
+          "hook": "AI training or copyright infringement?",
+          "description": "If training AI on public data becomes infringement, your reuse of public knowledge could face new licensing fees.",
+          "visual_hint": "Robot hand reaching for data",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "robot hand",
+          "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The real target is fair use",
+          "description": "Fair use has long protected scraping and indexing; a ruling against it would affect far more than Wikipedia.",
+          "visual_hint": "Scales of justice tipping",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "justice scales",
+          "image": "https://images.pexels.com/photos/5669619/pexels-photo-5669619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your reuse of public knowledge is at risk",
+          "description": "A copyright ruling could kill the open web by making everyday reuse of public information legally risky.",
+          "visual_hint": "Person typing on laptop",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person laptop",
+          "image": "https://images.pexels.com/photos/8929484/pexels-photo-8929484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: check your data practices",
+          "description": "Ask your legal team: does scraping still count as fair use? Review your data practices now.",
+          "visual_hint": "Legal team meeting",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.728364100735%2C100%2C78.54327179853&amp;w=1200",
+      "savedAt": "2026-10-31T07:47:13.804Z",
+      "sourceId": "27c634a128420a0eaf45c7dfb12a9dd2"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "pope-leo-calls-for-the-disarmament-of-ai-machines-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "pubDate": "2026-10-30T14:58:06.000Z",
+      "slides": [
+        "Can a machine hold a soul?",
+        "Pope Leo takes on AI disarmament",
+        "The surprise: he targets weapons, not chatbots",
+        "What changes for AI developers and users?",
+        "Ask who decides what a machine may do"
+      ],
+      "thread_text": [
+        "1. The Pope's AI Target\n\nPope Leo is pushing AI disarmament — but he's not going after chatbots. He's targeting weapons systems.",
+        "2. Beyond Chatbots\n\nWhile regulators chase generative AI, the Vatican points at autonomous weapons as the real ethical red line.",
+        "3. Weapons, Not Words\n\nThe surprise: the Church's moral authority lands on military AI, not content filters or deepfakes.",
+        "4. Developers on Notice\n\nIf autonomous weapons become the focus, defense contractors and AI labs face new moral scrutiny.",
+        "5. Who Decides?\n\nAsk yourself: who should decide what a machine may do? Take the question to your next team meeting."
+      ],
+      "video_script": [
+        "Pope Leo takes on AI disarmament.",
+        "But he targets weapons, not chatbots.",
+        "That's the surprise nobody expected.",
+        "What changes for AI developers now?",
+        "Ask who decides what a machine may do."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Pope's AI Target\n\nPope Leo is pushing AI disarmament — but he's not going after chatbots. He's targeting weapons systems.",
+            "2. Beyond Chatbots\n\nWhile regulators chase generative AI, the Vatican points at autonomous weapons as the real ethical red line.",
+            "3. Weapons, Not Words\n\nThe surprise: the Church's moral authority lands on military AI, not content filters or deepfakes.",
+            "4. Developers on Notice\n\nIf autonomous weapons become the focus, defense contractors and AI labs face new moral scrutiny.",
+            "5. Who Decides?\n\nAsk yourself: who should decide what a machine may do? Take the question to your next team meeting."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Pope Leo takes on AI disarmament.",
+            "But he targets weapons, not chatbots.",
+            "That's the surprise nobody expected.",
+            "What changes for AI developers now?",
+            "Ask who decides what a machine may do."
+          ]
+        },
+        "instagram": {
+          "caption": "The Vatican is pushing to ban autonomous weapons, not chatbots. 🕊️\n\nPope Leo argues machines are tools, not persons, and draws a moral line at military AI that decides who lives and dies.\n\nMost AI rules focus on content and deepfakes. This targets defense contractors and the labs building for them.\n\nIf you work in AI, the question shifts from what your model says to what it's allowed to do. 🤖\n\nWho should decide what a machine may do — the engineer, the state, or no one at all? ⚖️"
+        }
+      },
+      "instagram_caption": "The Vatican is pushing to ban autonomous weapons, not chatbots. 🕊️\n\nPope Leo argues machines are tools, not persons, and draws a moral line at military AI that decides who lives and dies.\n\nMost AI rules focus on content and deepfakes. This targets defense contractors and the labs building for them.\n\nIf you work in AI, the question shifts from what your model says to what it's allowed to do. 🤖\n\nWho should decide what a machine may do — the engineer, the state, or no one at all? ⚖️",
+      "carousel_slides": [
+        {
+          "hook": "Who decides what a machine may do?",
+          "description": "The Pope's AI disarmament call targets autonomous weapons, not chatbots—shifting the ethical red line to military AI.",
+          "visual_hint": "Pope holding document, serious expression",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Pope Francis"
+        },
+        {
+          "hook": "Pope Leo takes on AI disarmament",
+          "description": "While regulators chase generative AI, the Vatican points at autonomous weapons as the real ethical red line.",
+          "visual_hint": "Vatican flag with AI circuit overlay",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "Vatican City",
+          "image": "https://images.pexels.com/photos/33008997/pexels-photo-33008997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "He targets weapons, not chatbots",
+          "description": "The Church's moral authority lands on military AI, not content filters or deepfakes.",
+          "visual_hint": "Autonomous drone with crosshair",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "military drone",
+          "image": "https://images.pexels.com/photos/16581888/pexels-photo-16581888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI developers face new moral scrutiny",
+          "description": "If autonomous weapons become the focus, defense contractors and AI labs face tough ethical questions.",
+          "visual_hint": "Engineer reviewing code with weapon blueprint",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "engineer coding",
+          "image": "https://images.pexels.com/photos/3861959/pexels-photo-3861959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this for your next team meeting",
+          "description": "Ask your team: who should decide what a machine may do? Share this post and discuss.",
+          "visual_hint": "Team meeting with AI ethics chart",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office meeting",
+          "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2226124908.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-10-31T07:47:04.218Z",
+      "sourceId": "cfe1c65d6cd5d12d3399815aa0da565b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "starbucks-wants-to-use-ai-to-show-you-a-personaliz",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "pubDate": "2026-10-30T17:38:04.000Z",
+      "slides": [
+        "Starbucks bets your drive-thru order is about to get stranger",
+        "It's building AI menus that change per customer",
+        "The system decides what you see before you speak",
+        "Your usual order may quietly disappear from view",
+        "Ask yourself: who controls what you're shown next time?"
+      ],
+      "thread_text": [
+        "1. The Menu Knows You\n\nStarbucks is testing AI drive-thru menus that personalize what you see before you say a word.",
+        "2. Order Without Speaking\n\nThe system predicts your choice and displays it first — turning the menu into a suggestion engine.",
+        "3. Your Usual Vanishes\n\nIf the AI thinks something else fits better, your go-to drink may quietly disappear from the screen.",
+        "4. Who Sets the Menu?\n\nThe algorithm decides what's visible, which means it also decides what you're unlikely to consider.",
+        "5. Check Your Next Menu\n\nNext time you order, ask: did I pick that, or did the screen pick for me? Try noticing the difference."
+      ],
+      "video_script": [
+        "Starbucks is testing AI menus that change per customer.",
+        "The system decides what you see before you speak.",
+        "Your usual order might quietly disappear from view.",
+        "The algorithm controls what's shown and what's hidden.",
+        "Ask yourself: who controls what you're shown next?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Menu Knows You\n\nStarbucks is testing AI drive-thru menus that personalize what you see before you say a word.",
+            "2. Order Without Speaking\n\nThe system predicts your choice and displays it first — turning the menu into a suggestion engine.",
+            "3. Your Usual Vanishes\n\nIf the AI thinks something else fits better, your go-to drink may quietly disappear from the screen.",
+            "4. Who Sets the Menu?\n\nThe algorithm decides what's visible, which means it also decides what you're unlikely to consider.",
+            "5. Check Your Next Menu\n\nNext time you order, ask: did I pick that, or did the screen pick for me? Try noticing the difference."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Starbucks is testing AI menus that change per customer.",
+            "The system decides what you see before you speak.",
+            "Your usual order might quietly disappear from view.",
+            "The algorithm controls what's shown and what's hidden.",
+            "Ask yourself: who controls what you're shown next?"
+          ]
+        },
+        "instagram": {
+          "caption": "Your usual order might not be on the screen next time you pull up to the drive-thru.\n\nStarbucks is building AI menus that change for each customer at the drive-thru. The system predicts your choice and shows it first, before you say a word. If the algorithm thinks something else fits better, your go-to drink can quietly disappear from view. ☕\n\nFor anyone who publishes or sells online, the lesson is bigger than coffee: whoever controls the display controls the choice. What you create matters less if an algorithm decides who sees it. 👀\n\nNext time you order, ask yourself: did I pick that, or did the screen pick for me? 🤔"
+        }
+      },
+      "instagram_caption": "Your usual order might not be on the screen next time you pull up to the drive-thru.\n\nStarbucks is building AI menus that change for each customer at the drive-thru. The system predicts your choice and shows it first, before you say a word. If the algorithm thinks something else fits better, your go-to drink can quietly disappear from view. ☕\n\nFor anyone who publishes or sells online, the lesson is bigger than coffee: whoever controls the display controls the choice. What you create matters less if an algorithm decides who sees it. 👀\n\nNext time you order, ask yourself: did I pick that, or did the screen pick for me? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "The menu decides before you speak",
+          "description": "Starbucks is testing AI drive-thru menus that predict your order and display suggestions before you say a word.",
+          "visual_hint": "Drive-thru digital menu screen glowing",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "drive-thru menu"
+        },
+        {
+          "hook": "AI menus change per customer",
+          "description": "The system builds personalized menus that adapt to each driver, turning the display into a prediction engine.",
+          "visual_hint": "Split screen showing different menu options",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "digital display",
+          "image": "https://images.pexels.com/photos/27638181/pexels-photo-27638181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your usual order may vanish",
+          "description": "If the algorithm thinks another drink fits better, your go-to choice could quietly disappear from the screen.",
+          "visual_hint": "Empty slot where a drink used to be",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "coffee cup",
+          "image": "https://images.pexels.com/photos/27589853/pexels-photo-27589853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who controls what you see?",
+          "description": "The algorithm decides what's visible, which means it also decides what you're unlikely to consider.",
+          "visual_hint": "Hand pointing at a digital menu",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "pointing hand",
+          "image": "https://images.pexels.com/photos/8834242/pexels-photo-8834242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your next order",
+          "description": "Next time you order, ask: did I pick that, or did the screen pick for me? Notice the difference.",
+          "visual_hint": "Person looking thoughtfully at menu",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "thoughtful customer",
+          "image": "https://images.pexels.com/photos/1315910/pexels-photo-1315910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.727816900681%2C100%2C78.544366198639&amp;w=1200",
+      "savedAt": "2026-10-31T07:46:54.643Z",
+      "sourceId": "a5d82a5cf5c844da87b0513be695058c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "maine-s-data-center-revolt-will-decide-who-control",
       "prompt_version": "1.0.0",
       "status": "published",

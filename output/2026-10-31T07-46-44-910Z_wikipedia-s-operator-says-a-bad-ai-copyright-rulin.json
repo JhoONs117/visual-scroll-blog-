@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "wikipedia-s-operator-says-a-bad-ai-copyright-rulin",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+  "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+  "pubDate": "2026-10-30T09:00:00.000Z",
+  "slides": [
+    "Could a copyright ruling kill Wikipedia's open web?",
+    "Wikimedia warns courts may treat AI training as infringement",
+    "But the real target is not AI, it's fair use itself",
+    "Your reuse of public knowledge could face new licensing fees",
+    "Ask your legal team: does scraping still count as fair use?"
+  ],
+  "thread_text": [
+    "1. Copyright vs. Wikipedia\n\nWikimedia warns courts may treat AI training as infringement — but the real target isn't AI, it's fair use itself.",
+    "2. The real target\n\nIf training AI on public data becomes infringement, your reuse of public knowledge could face new licensing fees.",
+    "3. Your reuse at risk\n\nFair use has long protected scraping and indexing. A ruling against it would affect far more than Wikipedia.",
+    "4. The open web at stake\n\nA copyright ruling could kill the open web by making everyday reuse of public information legally risky.",
+    "5. Ask your legal team\n\nDoes scraping still count as fair use in your workflow? Check your data practices before the next ruling drops."
+  ],
+  "video_script": [
+    "Could a copyright ruling kill Wikipedia's open web?",
+    "Wikimedia warns courts may treat AI training as infringement.",
+    "But the real target is not AI — it's fair use itself.",
+    "Your reuse of public knowledge could face new licensing fees.",
+    "Ask your legal team: does scraping still count as fair use?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Copyright vs. Wikipedia\n\nWikimedia warns courts may treat AI training as infringement — but the real target isn't AI, it's fair use itself.",
+        "2. The real target\n\nIf training AI on public data becomes infringement, your reuse of public knowledge could face new licensing fees.",
+        "3. Your reuse at risk\n\nFair use has long protected scraping and indexing. A ruling against it would affect far more than Wikipedia.",
+        "4. The open web at stake\n\nA copyright ruling could kill the open web by making everyday reuse of public information legally risky.",
+        "5. Ask your legal team\n\nDoes scraping still count as fair use in your workflow? Check your data practices before the next ruling drops."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Could a copyright ruling kill Wikipedia's open web?",
+        "Wikimedia warns courts may treat AI training as infringement.",
+        "But the real target is not AI — it's fair use itself.",
+        "Your reuse of public knowledge could face new licensing fees.",
+        "Ask your legal team: does scraping still count as fair use?"
+      ]
+    },
+    "instagram": {
+      "caption": "A court could soon decide that training AI on public data counts as copyright infringement — and Wikimedia says that ruling could hit far more than Wikipedia. ⚖️\n\nThe real target isn't AI. It's fair use, the doctrine that has long let people scrape and index public information without paying.\n\nIf that flips, everyday reuse of public knowledge could come with new licensing fees. 📉\n\nThat means your own workflow — research, archiving, building tools on public data — might suddenly carry legal risk.\n\nDoes scraping still count as fair use in what you do? Ask your legal team before the next ruling drops. 🗂️"
+    }
+  },
+  "instagram_caption": "A court could soon decide that training AI on public data counts as copyright infringement — and Wikimedia says that ruling could hit far more than Wikipedia. ⚖️\n\nThe real target isn't AI. It's fair use, the doctrine that has long let people scrape and index public information without paying.\n\nIf that flips, everyday reuse of public knowledge could come with new licensing fees. 📉\n\nThat means your own workflow — research, archiving, building tools on public data — might suddenly carry legal risk.\n\nDoes scraping still count as fair use in what you do? Ask your legal team before the next ruling drops. 🗂️",
+  "carousel_slides": [
+    {
+      "hook": "Is fair use under attack?",
+      "description": "Wikimedia warns courts may treat AI training as copyright infringement, but the real target is fair use itself.",
+      "visual_hint": "Gavel striking down on a book",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "gavel book"
+    },
+    {
+      "hook": "AI training or copyright infringement?",
+      "description": "If training AI on public data becomes infringement, your reuse of public knowledge could face new licensing fees.",
+      "visual_hint": "Robot hand reaching for data",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot hand",
+      "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The real target is fair use",
+      "description": "Fair use has long protected scraping and indexing; a ruling against it would affect far more than Wikipedia.",
+      "visual_hint": "Scales of justice tipping",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "justice scales",
+      "image": "https://images.pexels.com/photos/5669619/pexels-photo-5669619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your reuse of public knowledge is at risk",
+      "description": "A copyright ruling could kill the open web by making everyday reuse of public information legally risky.",
+      "visual_hint": "Person typing on laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person laptop",
+      "image": "https://images.pexels.com/photos/8929484/pexels-photo-8929484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: check your data practices",
+      "description": "Ask your legal team: does scraping still count as fair use? Review your data practices now.",
+      "visual_hint": "Legal team meeting",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.728364100735%2C100%2C78.54327179853&amp;w=1200",
+  "savedAt": "2026-10-31T07:47:13.804Z",
+  "sourceId": "27c634a128420a0eaf45c7dfb12a9dd2"
+}
