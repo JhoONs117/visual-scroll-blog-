@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ollie-a-privacy-focused-ai-assistant-is-shutting-d",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+  "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+  "pubDate": "Fri, 30 Oct 2026 22:56:13 +0000",
+  "slides": [
+    "Ollie is shutting down — who fills its privacy gap?",
+    "The AI assistant promised zero data retention",
+    "Yet privacy alone couldn't sustain the business",
+    "Users must migrate data before the shutdown date",
+    "Ask vendors what happens when their funding runs dry"
+  ],
+  "thread_text": [
+    "1. Privacy isn't a business model\n\nOllie promised zero data retention, then shut down. Users now have to migrate their data before the deadline or lose it.",
+    "2. A promise that couldn't pay\n\nZero data retention meant no targeted ads, no data resale — and no revenue. The assistant folded.",
+    "3. The gap nobody fills\n\nCompetitors collect data by default. Ollie's exit leaves privacy-conscious users without an equivalent option.",
+    "4. The migration clock\n\nNo automatic transfer. Users must export manually before the shutdown date or start from scratch.",
+    "5. Ask about funding, not features\n\nBefore committing to any AI tool, ask what happens when its funding runs dry. Can you export your data today? Test it now."
+  ],
+  "video_script": [
+    "Ollie promised zero data retention — then shut down.",
+    "Privacy couldn't keep the lights on. No ads, no resale.",
+    "Competitors collect data. Where do privacy users go now?",
+    "You have until the shutdown date to migrate manually.",
+    "Ask vendors: what happens when funding runs dry?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Privacy isn't a business model\n\nOllie promised zero data retention, then shut down. Users now have to migrate their data before the deadline or lose it.",
+        "2. A promise that couldn't pay\n\nZero data retention meant no targeted ads, no data resale — and no revenue. The assistant folded.",
+        "3. The gap nobody fills\n\nCompetitors collect data by default. Ollie's exit leaves privacy-conscious users without an equivalent option.",
+        "4. The migration clock\n\nNo automatic transfer. Users must export manually before the shutdown date or start from scratch.",
+        "5. Ask about funding, not features\n\nBefore committing to any AI tool, ask what happens when its funding runs dry. Can you export your data today? Test it now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Ollie promised zero data retention — then shut down.",
+        "Privacy couldn't keep the lights on. No ads, no resale.",
+        "Competitors collect data. Where do privacy users go now?",
+        "You have until the shutdown date to migrate manually.",
+        "Ask vendors: what happens when funding runs dry?"
+      ]
+    },
+    "instagram": {
+      "caption": "If you used Ollie, your data won't transfer anywhere automatically. 😬\n\nThe privacy-focused AI assistant promised zero data retention — no ad targeting, no data resale. It just announced it's shutting down.\n\nThat promise meant no real revenue, and the business folded.\n\nPrivacy-conscious users are left without an equivalent option, since most competitors collect data by default.\n\nYou now have to export your data manually before the shutdown date or start from scratch. 🗂️\n\nBefore you commit to any AI tool, ask: can I export my data today? Test it now — not when the funding runs dry. ⏳"
+    }
+  },
+  "instagram_caption": "If you used Ollie, your data won't transfer anywhere automatically. 😬\n\nThe privacy-focused AI assistant promised zero data retention — no ad targeting, no data resale. It just announced it's shutting down.\n\nThat promise meant no real revenue, and the business folded.\n\nPrivacy-conscious users are left without an equivalent option, since most competitors collect data by default.\n\nYou now have to export your data manually before the shutdown date or start from scratch. 🗂️\n\nBefore you commit to any AI tool, ask: can I export my data today? Test it now — not when the funding runs dry. ⏳",
+  "carousel_slides": [
+    {
+      "hook": "Privacy isn't a business model",
+      "description": "Ollie promised zero data retention but shut down, leaving users to migrate data or lose it.",
+      "visual_hint": "Closed laptop with unsaved document warning",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "closed laptop"
+    },
+    {
+      "hook": "Zero data retention meant zero revenue",
+      "description": "Without targeted ads or data resale, Ollie couldn't sustain itself and folded.",
+      "visual_hint": "Empty wallet with falling coins",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "empty wallet",
+      "image": "https://images.pexels.com/photos/7927422/pexels-photo-7927422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Competitors collect data by default",
+      "description": "Ollie's exit leaves privacy-conscious users without an equivalent option as others harvest data.",
+      "visual_hint": "Network servers with data streams",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data server racks",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No automatic transfer: export manually",
+      "description": "Users must manually export data before the shutdown date or start from scratch.",
+      "visual_hint": "Hand clicking export button on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand clicking download",
+      "image": "https://images.pexels.com/photos/8834241/pexels-photo-8834241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this post for your AI checklist",
+      "description": "Before committing to any AI tool, test if you can export your data today.",
+      "visual_hint": "Checklist with checkbox and pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847",
+  "savedAt": "2026-10-31T01:16:48.058Z",
+  "sourceId": "d319498a5eb3b02d3d3009286c8e210c"
+}

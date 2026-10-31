@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "cracks-are-emerging-in-the-ai-spending-boom",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Cracks are emerging in the AI spending boom",
+  "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+  "pubDate": "Fri, 30 Oct 2026 21:17:40 +0000",
+  "slides": [
+    "Is the AI spending boom starting to crack?",
+    "Hyperscalers poured billions into data centers this year",
+    "But utilization rates tell a different story",
+    "Your cloud bill may soon reflect this imbalance",
+    "Audit one AI vendor contract this week"
+  ],
+  "thread_text": [
+    "1. The AI spending bubble question\n\nHyperscalers poured billions into data centers this year, but utilization rates are painting a very different picture. The gap between investment and actual use is widening.",
+    "2. Utilization tells the real story\n\nCapacity is being built faster than workloads can fill it. That imbalance doesn't stay on a balance sheet — it moves toward pricing.",
+    "3. Your cloud bill is next\n\nProviders will need to recover underused capacity somehow. Expect adjustments that show up in your invoices, not in press releases.",
+    "4. The imbalance has a deadline\n\nWhen utilization lags spending, the correction rarely happens quietly. It hits contracts, renewals, and committed spend.",
+    "5. Audit one contract now\n\nPull a single AI vendor agreement today and check the utilization clauses. If you can't find them, that's your answer."
+  ],
+  "video_script": [
+    "Billions went into data centers this year.",
+    "But utilization rates tell a very different story.",
+    "That gap doesn't stay hidden on a balance sheet.",
+    "Your cloud bill may soon reflect this imbalance.",
+    "Audit one AI vendor contract this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The AI spending bubble question\n\nHyperscalers poured billions into data centers this year, but utilization rates are painting a very different picture. The gap between investment and actual use is widening.",
+        "2. Utilization tells the real story\n\nCapacity is being built faster than workloads can fill it. That imbalance doesn't stay on a balance sheet — it moves toward pricing.",
+        "3. Your cloud bill is next\n\nProviders will need to recover underused capacity somehow. Expect adjustments that show up in your invoices, not in press releases.",
+        "4. The imbalance has a deadline\n\nWhen utilization lags spending, the correction rarely happens quietly. It hits contracts, renewals, and committed spend.",
+        "5. Audit one contract now\n\nPull a single AI vendor agreement today and check the utilization clauses. If you can't find them, that's your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Billions went into data centers this year.",
+        "But utilization rates tell a very different story.",
+        "That gap doesn't stay hidden on a balance sheet.",
+        "Your cloud bill may soon reflect this imbalance.",
+        "Audit one AI vendor contract this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Data centers are being built faster than anyone can fill them 🏗️\n\nHyperscalers poured billions into new capacity this year.\n\nBut utilization rates aren't keeping pace with the spending.\n\nThat gap doesn't stay on a balance sheet — it moves toward pricing.\n\nExpect adjustments to show up in your cloud invoice, not in a press release 📉\n\nIf you publish or run tools on cloud infrastructure, your bill may soon reflect capacity nobody's using.\n\nPull one AI vendor contract this week and check the utilization clauses 🔍\n\nIf you can't find them, that's your answer.\n\nHave you actually read the utilization terms in your last cloud agreement? 🤔"
+    }
+  },
+  "instagram_caption": "Data centers are being built faster than anyone can fill them 🏗️\n\nHyperscalers poured billions into new capacity this year.\n\nBut utilization rates aren't keeping pace with the spending.\n\nThat gap doesn't stay on a balance sheet — it moves toward pricing.\n\nExpect adjustments to show up in your cloud invoice, not in a press release 📉\n\nIf you publish or run tools on cloud infrastructure, your bill may soon reflect capacity nobody's using.\n\nPull one AI vendor contract this week and check the utilization clauses 🔍\n\nIf you can't find them, that's your answer.\n\nHave you actually read the utilization terms in your last cloud agreement? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Is the AI spending boom cracking?",
+      "description": "Hyperscalers poured billions into data centers, but utilization rates lag far behind. The gap between investment and actual use is widening fast.",
+      "visual_hint": "Cracked concrete wall with digital overlay",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "cracked concrete"
+    },
+    {
+      "hook": "Billions spent, capacity unused.",
+      "description": "Hyperscalers built data center capacity faster than workloads can fill it. That imbalance won't stay hidden on balance sheets for long.",
+      "visual_hint": "Empty server room with blinking lights",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "empty server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Utilization rates reveal the real story.",
+      "description": "Capacity is being built faster than workloads can fill it. That gap doesn't stay on a balance sheet—it moves toward pricing.",
+      "visual_hint": "Glowing utilization gauge dropping",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "utilization gauge",
+      "image": "https://images.pexels.com/photos/20703570/pexels-photo-20703570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your cloud bill is next.",
+      "description": "Providers must recover underused capacity somehow. Expect adjustments that show up in your invoices, not in press releases.",
+      "visual_hint": "Hand holding cloud invoice with rising numbers",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "cloud invoice",
+      "image": "https://images.pexels.com/photos/8872400/pexels-photo-8872400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit one AI contract this week.",
+      "description": "Pull a single AI vendor agreement today and check the utilization clauses. If you can't find them, that's your answer.",
+      "visual_hint": "Contract with magnifying glass and checklist",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "contract audit",
+      "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/mick-haupt-7Kv1Elbagcc-unsplash.jpg?resize=1200,800",
+  "savedAt": "2026-10-31T01:16:57.284Z",
+  "sourceId": "d2ae3dfb1d7fd7f462739ba786d30e1f"
+}

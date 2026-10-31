@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "maine-s-data-center-revolt-will-decide-who-control",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Maine’s data center revolt will decide who controls the Senate",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+    "pubDate": "2026-10-30T11:00:00.000Z",
+    "slides": [
+      "Maine voters just drew a line in the sand",
+      "A town rejected a data center. Why does it matter?",
+      "It could tip control of the U.S. Senate",
+      "Your electricity bill may become a ballot issue",
+      "Ask candidates: data centers or residents first?"
+    ],
+    "thread_text": [
+      "1. A town just said no\n\nMaine voters rejected a data center project at the ballot box. It's the first time residents directly blocked one—and it could reshape how AI infrastructure gets built nationwide.",
+      "2. Why one town matters\n\nThis isn't just local noise. The vote could tip control of the U.S. Senate, because the data center fight is now a political litmus test in a swing state.",
+      "3. Your bill is next\n\nElectricity costs are becoming a ballot issue. As data centers suck up power, utilities are passing the tab to residents—and voters are noticing.",
+      "4. The question for candidates\n\nPoliticians are now being asked: data centers or residents first? The answer may decide who wins in November.",
+      "5. Ask them directly\n\nAt the next town hall or debate, ask your candidate: 'Do you side with data centers or residents on power costs?' Their answer tells you everything."
+    ],
+    "video_script": [
+      "Maine voters just rejected a data center at the ballot box.",
+      "This isn't local—it could tip control of the U.S. Senate.",
+      "Electricity bills are becoming a ballot issue across the country.",
+      "Candidates are now being asked: data centers or residents first?",
+      "Ask your candidate that question at the next town hall."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. A town just said no\n\nMaine voters rejected a data center project at the ballot box. It's the first time residents directly blocked one—and it could reshape how AI infrastructure gets built nationwide.",
+          "2. Why one town matters\n\nThis isn't just local noise. The vote could tip control of the U.S. Senate, because the data center fight is now a political litmus test in a swing state.",
+          "3. Your bill is next\n\nElectricity costs are becoming a ballot issue. As data centers suck up power, utilities are passing the tab to residents—and voters are noticing.",
+          "4. The question for candidates\n\nPoliticians are now being asked: data centers or residents first? The answer may decide who wins in November.",
+          "5. Ask them directly\n\nAt the next town hall or debate, ask your candidate: 'Do you side with data centers or residents on power costs?' Their answer tells you everything."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Maine voters just rejected a data center at the ballot box.",
+          "This isn't local—it could tip control of the U.S. Senate.",
+          "Electricity bills are becoming a ballot issue across the country.",
+          "Candidates are now being asked: data centers or residents first?",
+          "Ask your candidate that question at the next town hall."
+        ]
+      },
+      "instagram": {
+        "caption": "A town in Maine just voted down a data center at the ballot box — the first time residents have directly blocked one. 🗳️\n\nThis wasn't a zoning board decision. It was a public vote, and it's turning data centers into a campaign issue in a swing state.\n\nThat fight could decide who controls the U.S. Senate. ⚡\n\nMeanwhile, as data centers pull more power, utilities are shifting the cost to household bills — and voters are starting to connect the dots.\n\nIf you write about energy, AI, or politics, this is the story that ties all three together. 💡\n\nNext town hall, ask your candidate: data centers or residents first? Their answer tells you everything."
+      }
+    },
+    "instagram_caption": "A town in Maine just voted down a data center at the ballot box — the first time residents have directly blocked one. 🗳️\n\nThis wasn't a zoning board decision. It was a public vote, and it's turning data centers into a campaign issue in a swing state.\n\nThat fight could decide who controls the U.S. Senate. ⚡\n\nMeanwhile, as data centers pull more power, utilities are shifting the cost to household bills — and voters are starting to connect the dots.\n\nIf you write about energy, AI, or politics, this is the story that ties all three together. 💡\n\nNext town hall, ask your candidate: data centers or residents first? Their answer tells you everything.",
+    "carousel_slides": [
+      {
+        "hook": "Will data centers decide the Senate?",
+        "description": "Maine voters rejected a data center at the ballot box, potentially reshaping AI infrastructure and tipping Senate control.",
+        "visual_hint": "Ballot box with energy infrastructure",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "ballot box"
+      },
+      {
+        "hook": "A town said no to data centers",
+        "description": "Residents directly blocked a data center project for the first time, setting a national precedent for local control.",
+        "visual_hint": "Town hall meeting crowd",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "town hall",
+        "image": "https://images.pexels.com/photos/17404692/pexels-photo-17404692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "This vote could flip the Senate",
+        "description": "The data center fight is now a political litmus test in a swing state, with national implications.",
+        "visual_hint": "US Capitol building",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "US Capitol",
+        "image": "https://images.pexels.com/photos/6580465/pexels-photo-6580465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your power bill becomes a ballot issue",
+        "description": "As data centers consume more electricity, utilities pass costs to residents, making energy a voting issue.",
+        "visual_hint": "Electricity meter close-up",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "electricity meter",
+        "image": "https://images.pexels.com/photos/32549020/pexels-photo-32549020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: ask candidates about data centers",
+        "description": "At town halls, ask: 'Do you side with data centers or residents on power costs?' Their answer reveals priorities.",
+        "visual_hint": "Person asking question at town hall",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "town hall question",
+        "image": "https://images.pexels.com/photos/29180760/pexels-photo-29180760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_MAINE_DATA_CENTERS_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-31T01:17:15.945Z",
+    "sourceId": "62deaf73d869952b290fdd04f20fb970"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "the-biggest-names-in-ai-are-backing-a-new-way-to-o",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The biggest names in AI are backing a new way to opt out of scraping",
+    "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+    "pubDate": "2026-10-30T20:26:10.000Z",
+    "slides": [
+      "Who's really behind AI's new scraping opt-out?",
+      "Big names back a standard to let sites refuse bots",
+      "But it only works if scrapers actually honor it",
+      "Publishers now have a lever—though enforcement stays fuzzy",
+      "Ask your vendors if they respect the signal"
+    ],
+    "thread_text": [
+      "1. The opt-out nobody checks\n\nA new standard lets sites tell AI bots to back off. Big names are backing it—but compliance is voluntary.",
+      "2. Big names, soft power\n\nMajor publishers and tech firms announced support for the signal. There's no enforcement mechanism, just good faith.",
+      "3. Honor system 2.0\n\nScrapers can ignore the signal without penalty. The standard only works if everyone plays nice—and AI companies have little incentive.",
+      "4. Leverage without teeth\n\nPublishers finally have a formal way to refuse bots. But without audits or penalties, it's a lever made of cardboard.",
+      "5. Ask your vendor today\n\nDoes your AI tool respect scraping opt-outs? If they can't answer, that's your answer. Test one vendor this week."
+    ],
+    "video_script": [
+      "A new standard lets websites tell AI bots to stop scraping.",
+      "Big names back it, but there's no enforcement.",
+      "Scrapers can ignore it with zero penalty.",
+      "Publishers have a lever, but it's weak.",
+      "Ask your AI vendor if they honor the signal."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The opt-out nobody checks\n\nA new standard lets sites tell AI bots to back off. Big names are backing it—but compliance is voluntary.",
+          "2. Big names, soft power\n\nMajor publishers and tech firms announced support for the signal. There's no enforcement mechanism, just good faith.",
+          "3. Honor system 2.0\n\nScrapers can ignore the signal without penalty. The standard only works if everyone plays nice—and AI companies have little incentive.",
+          "4. Leverage without teeth\n\nPublishers finally have a formal way to refuse bots. But without audits or penalties, it's a lever made of cardboard.",
+          "5. Ask your vendor today\n\nDoes your AI tool respect scraping opt-outs? If they can't answer, that's your answer. Test one vendor this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A new standard lets websites tell AI bots to stop scraping.",
+          "Big names back it, but there's no enforcement.",
+          "Scrapers can ignore it with zero penalty.",
+          "Publishers have a lever, but it's weak.",
+          "Ask your AI vendor if they honor the signal."
+        ]
+      },
+      "instagram": {
+        "caption": "Your site can now tell AI bots to back off with one signal—but nothing forces them to listen.\n\nMajor publishers and tech firms backed a new opt-out standard for scraping. 📰\n\nEnforcement is voluntary: no audits, no penalties, just good faith. 🤝\n\nPublishers finally have a formal lever to refuse bots, though it's a lever made of cardboard. ⚠️\n\nIf you publish anything online, your content can still be scraped unless the scraper chooses to honor the signal. 🤖\n\nAsk your AI vendor this week: do you respect scraping opt-outs? If they can't answer, that's your answer. 🔍"
+      }
+    },
+    "instagram_caption": "Your site can now tell AI bots to back off with one signal—but nothing forces them to listen.\n\nMajor publishers and tech firms backed a new opt-out standard for scraping. 📰\n\nEnforcement is voluntary: no audits, no penalties, just good faith. 🤝\n\nPublishers finally have a formal lever to refuse bots, though it's a lever made of cardboard. ⚠️\n\nIf you publish anything online, your content can still be scraped unless the scraper chooses to honor the signal. 🤖\n\nAsk your AI vendor this week: do you respect scraping opt-outs? If they can't answer, that's your answer. 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Who really backs AI's opt-out?",
+        "description": "Big publishers and tech firms support the signal, but compliance is voluntary—no enforcement.",
+        "visual_hint": "Abstract network of company logos",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Major players endorse scraping opt-out standard",
+        "description": "Publishers and tech companies announced support for the signal, relying on good faith, not enforcement.",
+        "visual_hint": "Handshake over digital contract",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Scrapers can ignore opt-out freely",
+        "description": "No penalties for ignoring the signal. AI companies have little incentive to comply.",
+        "visual_hint": "Robot bypassing a stop sign",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Publishers gain leverage, but enforcement weak",
+        "description": "Formal opt-out exists, but without audits or penalties, it's a lever made of cardboard.",
+        "visual_hint": "Cardboard lever in hands",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "cardboard box",
+        "image": "https://images.pexels.com/photos/4498135/pexels-photo-4498135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask your AI vendor: Do you respect opt-outs?",
+        "description": "Test one vendor this week. If they can't answer, that's your answer.",
+        "visual_hint": "Person holding phone with checklist",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-10-31T01:17:06.455Z",
+    "sourceId": "18ea57daed9dddc63c4dcf6e903bafbc"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "cracks-are-emerging-in-the-ai-spending-boom",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Cracks are emerging in the AI spending boom",
+    "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+    "pubDate": "Fri, 30 Oct 2026 21:17:40 +0000",
+    "slides": [
+      "Is the AI spending boom starting to crack?",
+      "Hyperscalers poured billions into data centers this year",
+      "But utilization rates tell a different story",
+      "Your cloud bill may soon reflect this imbalance",
+      "Audit one AI vendor contract this week"
+    ],
+    "thread_text": [
+      "1. The AI spending bubble question\n\nHyperscalers poured billions into data centers this year, but utilization rates are painting a very different picture. The gap between investment and actual use is widening.",
+      "2. Utilization tells the real story\n\nCapacity is being built faster than workloads can fill it. That imbalance doesn't stay on a balance sheet — it moves toward pricing.",
+      "3. Your cloud bill is next\n\nProviders will need to recover underused capacity somehow. Expect adjustments that show up in your invoices, not in press releases.",
+      "4. The imbalance has a deadline\n\nWhen utilization lags spending, the correction rarely happens quietly. It hits contracts, renewals, and committed spend.",
+      "5. Audit one contract now\n\nPull a single AI vendor agreement today and check the utilization clauses. If you can't find them, that's your answer."
+    ],
+    "video_script": [
+      "Billions went into data centers this year.",
+      "But utilization rates tell a very different story.",
+      "That gap doesn't stay hidden on a balance sheet.",
+      "Your cloud bill may soon reflect this imbalance.",
+      "Audit one AI vendor contract this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The AI spending bubble question\n\nHyperscalers poured billions into data centers this year, but utilization rates are painting a very different picture. The gap between investment and actual use is widening.",
+          "2. Utilization tells the real story\n\nCapacity is being built faster than workloads can fill it. That imbalance doesn't stay on a balance sheet — it moves toward pricing.",
+          "3. Your cloud bill is next\n\nProviders will need to recover underused capacity somehow. Expect adjustments that show up in your invoices, not in press releases.",
+          "4. The imbalance has a deadline\n\nWhen utilization lags spending, the correction rarely happens quietly. It hits contracts, renewals, and committed spend.",
+          "5. Audit one contract now\n\nPull a single AI vendor agreement today and check the utilization clauses. If you can't find them, that's your answer."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Billions went into data centers this year.",
+          "But utilization rates tell a very different story.",
+          "That gap doesn't stay hidden on a balance sheet.",
+          "Your cloud bill may soon reflect this imbalance.",
+          "Audit one AI vendor contract this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Data centers are being built faster than anyone can fill them 🏗️\n\nHyperscalers poured billions into new capacity this year.\n\nBut utilization rates aren't keeping pace with the spending.\n\nThat gap doesn't stay on a balance sheet — it moves toward pricing.\n\nExpect adjustments to show up in your cloud invoice, not in a press release 📉\n\nIf you publish or run tools on cloud infrastructure, your bill may soon reflect capacity nobody's using.\n\nPull one AI vendor contract this week and check the utilization clauses 🔍\n\nIf you can't find them, that's your answer.\n\nHave you actually read the utilization terms in your last cloud agreement? 🤔"
+      }
+    },
+    "instagram_caption": "Data centers are being built faster than anyone can fill them 🏗️\n\nHyperscalers poured billions into new capacity this year.\n\nBut utilization rates aren't keeping pace with the spending.\n\nThat gap doesn't stay on a balance sheet — it moves toward pricing.\n\nExpect adjustments to show up in your cloud invoice, not in a press release 📉\n\nIf you publish or run tools on cloud infrastructure, your bill may soon reflect capacity nobody's using.\n\nPull one AI vendor contract this week and check the utilization clauses 🔍\n\nIf you can't find them, that's your answer.\n\nHave you actually read the utilization terms in your last cloud agreement? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Is the AI spending boom cracking?",
+        "description": "Hyperscalers poured billions into data centers, but utilization rates lag far behind. The gap between investment and actual use is widening fast.",
+        "visual_hint": "Cracked concrete wall with digital overlay",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "cracked concrete"
+      },
+      {
+        "hook": "Billions spent, capacity unused.",
+        "description": "Hyperscalers built data center capacity faster than workloads can fill it. That imbalance won't stay hidden on balance sheets for long.",
+        "visual_hint": "Empty server room with blinking lights",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "empty server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Utilization rates reveal the real story.",
+        "description": "Capacity is being built faster than workloads can fill it. That gap doesn't stay on a balance sheet—it moves toward pricing.",
+        "visual_hint": "Glowing utilization gauge dropping",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "utilization gauge",
+        "image": "https://images.pexels.com/photos/20703570/pexels-photo-20703570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your cloud bill is next.",
+        "description": "Providers must recover underused capacity somehow. Expect adjustments that show up in your invoices, not in press releases.",
+        "visual_hint": "Hand holding cloud invoice with rising numbers",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "cloud invoice",
+        "image": "https://images.pexels.com/photos/8872400/pexels-photo-8872400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit one AI contract this week.",
+        "description": "Pull a single AI vendor agreement today and check the utilization clauses. If you can't find them, that's your answer.",
+        "visual_hint": "Contract with magnifying glass and checklist",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "contract audit",
+        "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/mick-haupt-7Kv1Elbagcc-unsplash.jpg?resize=1200,800",
+    "savedAt": "2026-10-31T01:16:57.284Z",
+    "sourceId": "d2ae3dfb1d7fd7f462739ba786d30e1f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ollie-a-privacy-focused-ai-assistant-is-shutting-d",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+    "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+    "pubDate": "Fri, 30 Oct 2026 22:56:13 +0000",
+    "slides": [
+      "Ollie is shutting down — who fills its privacy gap?",
+      "The AI assistant promised zero data retention",
+      "Yet privacy alone couldn't sustain the business",
+      "Users must migrate data before the shutdown date",
+      "Ask vendors what happens when their funding runs dry"
+    ],
+    "thread_text": [
+      "1. Privacy isn't a business model\n\nOllie promised zero data retention, then shut down. Users now have to migrate their data before the deadline or lose it.",
+      "2. A promise that couldn't pay\n\nZero data retention meant no targeted ads, no data resale — and no revenue. The assistant folded.",
+      "3. The gap nobody fills\n\nCompetitors collect data by default. Ollie's exit leaves privacy-conscious users without an equivalent option.",
+      "4. The migration clock\n\nNo automatic transfer. Users must export manually before the shutdown date or start from scratch.",
+      "5. Ask about funding, not features\n\nBefore committing to any AI tool, ask what happens when its funding runs dry. Can you export your data today? Test it now."
+    ],
+    "video_script": [
+      "Ollie promised zero data retention — then shut down.",
+      "Privacy couldn't keep the lights on. No ads, no resale.",
+      "Competitors collect data. Where do privacy users go now?",
+      "You have until the shutdown date to migrate manually.",
+      "Ask vendors: what happens when funding runs dry?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Privacy isn't a business model\n\nOllie promised zero data retention, then shut down. Users now have to migrate their data before the deadline or lose it.",
+          "2. A promise that couldn't pay\n\nZero data retention meant no targeted ads, no data resale — and no revenue. The assistant folded.",
+          "3. The gap nobody fills\n\nCompetitors collect data by default. Ollie's exit leaves privacy-conscious users without an equivalent option.",
+          "4. The migration clock\n\nNo automatic transfer. Users must export manually before the shutdown date or start from scratch.",
+          "5. Ask about funding, not features\n\nBefore committing to any AI tool, ask what happens when its funding runs dry. Can you export your data today? Test it now."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Ollie promised zero data retention — then shut down.",
+          "Privacy couldn't keep the lights on. No ads, no resale.",
+          "Competitors collect data. Where do privacy users go now?",
+          "You have until the shutdown date to migrate manually.",
+          "Ask vendors: what happens when funding runs dry?"
+        ]
+      },
+      "instagram": {
+        "caption": "If you used Ollie, your data won't transfer anywhere automatically. 😬\n\nThe privacy-focused AI assistant promised zero data retention — no ad targeting, no data resale. It just announced it's shutting down.\n\nThat promise meant no real revenue, and the business folded.\n\nPrivacy-conscious users are left without an equivalent option, since most competitors collect data by default.\n\nYou now have to export your data manually before the shutdown date or start from scratch. 🗂️\n\nBefore you commit to any AI tool, ask: can I export my data today? Test it now — not when the funding runs dry. ⏳"
+      }
+    },
+    "instagram_caption": "If you used Ollie, your data won't transfer anywhere automatically. 😬\n\nThe privacy-focused AI assistant promised zero data retention — no ad targeting, no data resale. It just announced it's shutting down.\n\nThat promise meant no real revenue, and the business folded.\n\nPrivacy-conscious users are left without an equivalent option, since most competitors collect data by default.\n\nYou now have to export your data manually before the shutdown date or start from scratch. 🗂️\n\nBefore you commit to any AI tool, ask: can I export my data today? Test it now — not when the funding runs dry. ⏳",
+    "carousel_slides": [
+      {
+        "hook": "Privacy isn't a business model",
+        "description": "Ollie promised zero data retention but shut down, leaving users to migrate data or lose it.",
+        "visual_hint": "Closed laptop with unsaved document warning",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "closed laptop"
+      },
+      {
+        "hook": "Zero data retention meant zero revenue",
+        "description": "Without targeted ads or data resale, Ollie couldn't sustain itself and folded.",
+        "visual_hint": "Empty wallet with falling coins",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "empty wallet",
+        "image": "https://images.pexels.com/photos/7927422/pexels-photo-7927422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Competitors collect data by default",
+        "description": "Ollie's exit leaves privacy-conscious users without an equivalent option as others harvest data.",
+        "visual_hint": "Network servers with data streams",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data server racks",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No automatic transfer: export manually",
+        "description": "Users must manually export data before the shutdown date or start from scratch.",
+        "visual_hint": "Hand clicking export button on screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand clicking download",
+        "image": "https://images.pexels.com/photos/8834241/pexels-photo-8834241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this post for your AI checklist",
+        "description": "Before committing to any AI tool, test if you can export your data today.",
+        "visual_hint": "Checklist with checkbox and pen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847",
+    "savedAt": "2026-10-31T01:16:48.058Z",
+    "sourceId": "d319498a5eb3b02d3d3009286c8e210c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "google-8217-s-satellite-ai-server-transmits-its-fi",
     "prompt_version": "1.0.0",
     "status": "published",

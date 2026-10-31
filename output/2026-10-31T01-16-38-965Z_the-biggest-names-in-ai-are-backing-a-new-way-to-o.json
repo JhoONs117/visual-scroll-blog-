@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-biggest-names-in-ai-are-backing-a-new-way-to-o",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The biggest names in AI are backing a new way to opt out of scraping",
+  "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+  "pubDate": "2026-10-30T20:26:10.000Z",
+  "slides": [
+    "Who's really behind AI's new scraping opt-out?",
+    "Big names back a standard to let sites refuse bots",
+    "But it only works if scrapers actually honor it",
+    "Publishers now have a lever—though enforcement stays fuzzy",
+    "Ask your vendors if they respect the signal"
+  ],
+  "thread_text": [
+    "1. The opt-out nobody checks\n\nA new standard lets sites tell AI bots to back off. Big names are backing it—but compliance is voluntary.",
+    "2. Big names, soft power\n\nMajor publishers and tech firms announced support for the signal. There's no enforcement mechanism, just good faith.",
+    "3. Honor system 2.0\n\nScrapers can ignore the signal without penalty. The standard only works if everyone plays nice—and AI companies have little incentive.",
+    "4. Leverage without teeth\n\nPublishers finally have a formal way to refuse bots. But without audits or penalties, it's a lever made of cardboard.",
+    "5. Ask your vendor today\n\nDoes your AI tool respect scraping opt-outs? If they can't answer, that's your answer. Test one vendor this week."
+  ],
+  "video_script": [
+    "A new standard lets websites tell AI bots to stop scraping.",
+    "Big names back it, but there's no enforcement.",
+    "Scrapers can ignore it with zero penalty.",
+    "Publishers have a lever, but it's weak.",
+    "Ask your AI vendor if they honor the signal."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The opt-out nobody checks\n\nA new standard lets sites tell AI bots to back off. Big names are backing it—but compliance is voluntary.",
+        "2. Big names, soft power\n\nMajor publishers and tech firms announced support for the signal. There's no enforcement mechanism, just good faith.",
+        "3. Honor system 2.0\n\nScrapers can ignore the signal without penalty. The standard only works if everyone plays nice—and AI companies have little incentive.",
+        "4. Leverage without teeth\n\nPublishers finally have a formal way to refuse bots. But without audits or penalties, it's a lever made of cardboard.",
+        "5. Ask your vendor today\n\nDoes your AI tool respect scraping opt-outs? If they can't answer, that's your answer. Test one vendor this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A new standard lets websites tell AI bots to stop scraping.",
+        "Big names back it, but there's no enforcement.",
+        "Scrapers can ignore it with zero penalty.",
+        "Publishers have a lever, but it's weak.",
+        "Ask your AI vendor if they honor the signal."
+      ]
+    },
+    "instagram": {
+      "caption": "Your site can now tell AI bots to back off with one signal—but nothing forces them to listen.\n\nMajor publishers and tech firms backed a new opt-out standard for scraping. 📰\n\nEnforcement is voluntary: no audits, no penalties, just good faith. 🤝\n\nPublishers finally have a formal lever to refuse bots, though it's a lever made of cardboard. ⚠️\n\nIf you publish anything online, your content can still be scraped unless the scraper chooses to honor the signal. 🤖\n\nAsk your AI vendor this week: do you respect scraping opt-outs? If they can't answer, that's your answer. 🔍"
+    }
+  },
+  "instagram_caption": "Your site can now tell AI bots to back off with one signal—but nothing forces them to listen.\n\nMajor publishers and tech firms backed a new opt-out standard for scraping. 📰\n\nEnforcement is voluntary: no audits, no penalties, just good faith. 🤝\n\nPublishers finally have a formal lever to refuse bots, though it's a lever made of cardboard. ⚠️\n\nIf you publish anything online, your content can still be scraped unless the scraper chooses to honor the signal. 🤖\n\nAsk your AI vendor this week: do you respect scraping opt-outs? If they can't answer, that's your answer. 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Who really backs AI's opt-out?",
+      "description": "Big publishers and tech firms support the signal, but compliance is voluntary—no enforcement.",
+      "visual_hint": "Abstract network of company logos",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Major players endorse scraping opt-out standard",
+      "description": "Publishers and tech companies announced support for the signal, relying on good faith, not enforcement.",
+      "visual_hint": "Handshake over digital contract",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Scrapers can ignore opt-out freely",
+      "description": "No penalties for ignoring the signal. AI companies have little incentive to comply.",
+      "visual_hint": "Robot bypassing a stop sign",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Publishers gain leverage, but enforcement weak",
+      "description": "Formal opt-out exists, but without audits or penalties, it's a lever made of cardboard.",
+      "visual_hint": "Cardboard lever in hands",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "cardboard box",
+      "image": "https://images.pexels.com/photos/4498135/pexels-photo-4498135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your AI vendor: Do you respect opt-outs?",
+      "description": "Test one vendor this week. If they can't answer, that's your answer.",
+      "visual_hint": "Person holding phone with checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-10-31T01:17:06.455Z",
+  "sourceId": "18ea57daed9dddc63c4dcf6e903bafbc"
+}
