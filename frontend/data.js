@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "apple-ceo-says-the-company-doesn-t-want-to-ship-ai",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "pubDate": "Sat, 31 Oct 2026 21:41:00 +0000",
+    "slides": [
+      "Why is Apple's CEO warning against AI for AI's sake?",
+      "Tim Cook says Apple asks if AI truly helps users.",
+      "That's the opposite of rivals racing to add AI features.",
+      "Expect fewer AI features, but more useful ones on your iPhone.",
+      "Ask: does this AI tool actually solve your problem?"
+    ],
+    "thread_text": [
+      "1. The AI race has a new critic\n\nTim Cook says Apple won't add AI just to keep up with rivals. While Google and Microsoft rush features out the door, Apple is asking a harder question.",
+      "2. The question Apple asks first\n\nDoes this AI actually help the user? Cook says every feature must pass that test before it ships — a slow, deliberate filter rivals seem to skip.",
+      "3. Rivals are racing, Apple is filtering\n\nGoogle and Microsoft are shipping AI tools fast to win the hype cycle. Apple's slower approach bets that users care more about usefulness than feature count.",
+      "4. What this means for your iPhone\n\nExpect fewer AI features on iOS, but each one vetted for real-world value. The bet: less noise, more tools you'll actually open twice.",
+      "5. Test your own AI tools today\n\nPick one AI feature you use and ask: does it solve a real problem? If not, drop it. Apply Cook's filter to your own stack this week."
+    ],
+    "video_script": [
+      "Tim Cook just warned against AI for AI's sake.",
+      "Apple asks one question: does this actually help users?",
+      "Rivals are racing to ship AI features fast.",
+      "Expect fewer AI features on iPhone, but more useful ones.",
+      "Ask yourself: does this AI tool solve your problem?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The AI race has a new critic\n\nTim Cook says Apple won't add AI just to keep up with rivals. While Google and Microsoft rush features out the door, Apple is asking a harder question.",
+          "2. The question Apple asks first\n\nDoes this AI actually help the user? Cook says every feature must pass that test before it ships — a slow, deliberate filter rivals seem to skip.",
+          "3. Rivals are racing, Apple is filtering\n\nGoogle and Microsoft are shipping AI tools fast to win the hype cycle. Apple's slower approach bets that users care more about usefulness than feature count.",
+          "4. What this means for your iPhone\n\nExpect fewer AI features on iOS, but each one vetted for real-world value. The bet: less noise, more tools you'll actually open twice.",
+          "5. Test your own AI tools today\n\nPick one AI feature you use and ask: does it solve a real problem? If not, drop it. Apply Cook's filter to your own stack this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Tim Cook just warned against AI for AI's sake.",
+          "Apple asks one question: does this actually help users?",
+          "Rivals are racing to ship AI features fast.",
+          "Expect fewer AI features on iPhone, but more useful ones.",
+          "Ask yourself: does this AI tool solve your problem?"
+        ]
+      },
+      "instagram": {
+        "caption": "Your next iPhone might ship with fewer AI features than the competition.\n\nTim Cook says Apple won't add AI just to keep up with rivals — every feature has to prove it actually helps users first. 🍎\n\nGoogle and Microsoft are shipping tools fast; Apple is filtering instead. Fewer features, but each one vetted for real value.\n\nIf you create or publish content, expect more AI tools that survive a second open — less noise to test and abandon.\n\nPick one AI tool you use this week and ask: does it solve a real problem? If not, drop it. 🔍\n\nWhat's one AI feature you'd cut tomorrow? 🤔"
+      }
+    },
+    "instagram_caption": "Your next iPhone might ship with fewer AI features than the competition.\n\nTim Cook says Apple won't add AI just to keep up with rivals — every feature has to prove it actually helps users first. 🍎\n\nGoogle and Microsoft are shipping tools fast; Apple is filtering instead. Fewer features, but each one vetted for real value.\n\nIf you create or publish content, expect more AI tools that survive a second open — less noise to test and abandon.\n\nPick one AI tool you use this week and ask: does it solve a real problem? If not, drop it. 🔍\n\nWhat's one AI feature you'd cut tomorrow? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Is Apple slowing down AI on purpose?",
+        "description": "Tim Cook says Apple won't ship AI just to match rivals, prioritizing real user value over hype.",
+        "visual_hint": "Tim Cook on stage with iPhone",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Tim Cook"
+      },
+      {
+        "hook": "Does your AI actually help you?",
+        "description": "Apple asks if each AI feature truly benefits users, a deliberate filter rivals often skip.",
+        "visual_hint": "Person using AI on phone",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "person using smartphone",
+        "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rivals race while Apple filters",
+        "description": "Google and Microsoft rush AI features, but Apple bets users want usefulness over feature count.",
+        "visual_hint": "Tech logos on screens",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "technology logos",
+        "image": "https://images.pexels.com/photos/19826624/pexels-photo-19826624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Fewer AI features, more real value",
+        "description": "Expect fewer AI tools on iOS, but each vetted for real-world impact and daily use.",
+        "visual_hint": "iPhone home screen close-up",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "iPhone screen",
+        "image": "https://images.pexels.com/photos/11216260/pexels-photo-11216260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your AI tools now",
+        "description": "Pick one AI feature you use and ask: does it solve a real problem? If not, drop it.",
+        "visual_hint": "Hand holding phone with checklist",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
+    "savedAt": "2026-10-31T22:56:23.003Z",
+    "sourceId": "8462b9fc7109b30ba03f782bf029b44d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "i-built-an-ai-tamagotchi-before-meta-could",
     "prompt_version": "1.0.0",
     "status": "published",
