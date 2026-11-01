@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "ai-can-make-tech-ceos-lives-easier-what-about-ever",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "pubDate": "Sun, 01 Nov 2026 20:57:58 +0000",
+      "slides": [
+        "Can AI serve everyone, not just tech CEOs?",
+        "CEOs get personalized tools while rank-and-file wait",
+        "But AI may actually automate middle management first",
+        "Your workload could shift toward oversight, not less work",
+        "Ask your boss what AI tool you'll actually get"
+      ],
+      "thread_text": [
+        "1. Who gets the good AI?\n\nCEOs are already testing personalized AI assistants while most employees still wait for basic access. The gap is widening, not closing.",
+        "2. The real automation target\n\nMiddle management is first in line, not factory floors. Their coordination tasks are exactly what AI handles best.",
+        "3. Your job becomes supervision\n\nYou won't do less work. You'll check AI output, fix errors, and manage systems that never sleep.",
+        "4. The oversight trap\n\nLess hands-on work sounds good until you realize you're accountable for AI mistakes you didn't make. That's not freedom.",
+        "5. Ask about your tools\n\nAsk your boss this week: what AI tool will I actually get, and when? If there's no answer, that tells you something."
+      ],
+      "video_script": [
+        "CEOs get personalized AI. You get nothing yet.",
+        "Middle managers are the first automation target.",
+        "Your workload shifts to oversight, not less work.",
+        "You'll be accountable for AI errors you didn't make.",
+        "Ask your boss what AI tool you'll actually get."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who gets the good AI?\n\nCEOs are already testing personalized AI assistants while most employees still wait for basic access. The gap is widening, not closing.",
+            "2. The real automation target\n\nMiddle management is first in line, not factory floors. Their coordination tasks are exactly what AI handles best.",
+            "3. Your job becomes supervision\n\nYou won't do less work. You'll check AI output, fix errors, and manage systems that never sleep.",
+            "4. The oversight trap\n\nLess hands-on work sounds good until you realize you're accountable for AI mistakes you didn't make. That's not freedom.",
+            "5. Ask about your tools\n\nAsk your boss this week: what AI tool will I actually get, and when? If there's no answer, that tells you something."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "CEOs get personalized AI. You get nothing yet.",
+            "Middle managers are the first automation target.",
+            "Your workload shifts to oversight, not less work.",
+            "You'll be accountable for AI errors you didn't make.",
+            "Ask your boss what AI tool you'll actually get."
+          ]
+        },
+        "instagram": {
+          "caption": "CEOs are already testing personalized AI assistants while most employees still wait for basic access.\n\nMiddle management is the first automation target, not factory floors — their coordination tasks are exactly what AI handles best.\n\nWhen AI does reach you, the work shifts toward oversight: checking output, fixing errors, managing systems that never sleep.\n\nYou're now accountable for AI mistakes you didn't make. That's the part nobody mentions in the rollout deck.\n\nAsk your boss this week: what AI tool will I actually get, and when? No answer is an answer. 🤖"
+        }
+      },
+      "instagram_caption": "CEOs are already testing personalized AI assistants while most employees still wait for basic access.\n\nMiddle management is the first automation target, not factory floors — their coordination tasks are exactly what AI handles best.\n\nWhen AI does reach you, the work shifts toward oversight: checking output, fixing errors, managing systems that never sleep.\n\nYou're now accountable for AI mistakes you didn't make. That's the part nobody mentions in the rollout deck.\n\nAsk your boss this week: what AI tool will I actually get, and when? No answer is an answer. 🤖",
+      "carousel_slides": [
+        {
+          "hook": "Who gets the good AI?",
+          "description": "CEOs test personalized AI assistants while most employees still wait for basic access. The gap is widening, not closing.",
+          "visual_hint": "Split screen: executive vs. regular employee",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "office workers"
+        },
+        {
+          "hook": "CEOs get tools, you wait",
+          "description": "Leadership enjoys bespoke AI tools while rank-and-file employees are stuck with outdated software and no roadmap.",
+          "visual_hint": "Contrast between modern and old technology",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "laptop computer",
+          "image": "https://images.pexels.com/photos/39712880/pexels-photo-39712880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Middle management first in line",
+          "description": "AI automates coordination tasks, hitting middle managers before factory floors. Their roles may shrink fastest.",
+          "visual_hint": "Organizational chart with highlighted middle layer",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "office meeting",
+          "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your job becomes oversight",
+          "description": "You won't do less work. You'll check AI output, fix errors, and manage systems that never sleep.",
+          "visual_hint": "Person reviewing AI-generated reports on screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "computer screen",
+          "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask your boss this week",
+          "description": "Ask: what AI tool will I actually get, and when? If there's no answer, that tells you something. Save this and speak up.",
+          "visual_hint": "Employee raising hand in meeting",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1481617564.jpg?resize=1200,680",
+      "savedAt": "2026-11-01T21:31:10.541Z",
+      "sourceId": "b3a6357c7fdd515ddda6f29f03ff0c55"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "apple-ceo-says-the-company-doesn-t-want-to-ship-ai",
       "prompt_version": "1.0.0",
       "status": "published",
