@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "northwood-space-raises-375m-series-c-at-a-2b-valua",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth",
+    "link": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
+    "pubDate": "Mon, 02 Nov 2026 14:22:35 +0000",
+    "slides": [
+      "Can Northwood Space turn satellite data into a utility?",
+      "It just raised $375M at a $2B valuation.",
+      "But the real bet is on ground infrastructure, not satellites.",
+      "Companies ignoring this shift risk missing cheaper data access.",
+      "Watch for their first commercial ground station launch this year."
+    ],
+    "thread_text": [
+      "1. $2B for ground stations\n\nNorthwood Space just raised $375M to build ground infrastructure, not satellites. The real bet is on the pipes, not the data.",
+      "2. Satellites are the easy part\n\nGround stations are the bottleneck. Northwood wants to turn them into a utility—cheaper access for everyone.",
+      "3. Ignore this at your peril\n\nCompanies stuck on old ground infrastructure will pay more for data. The shift to shared ground stations cuts costs.",
+      "4. First launch this year\n\nNorthwood's first commercial ground station goes live. That's the proof point—watch if it delivers.",
+      "5. Are you ready to switch?\n\nCheck your current data costs. If Northwood's utility model works, you could save. Ask your provider about ground station options."
+    ],
+    "video_script": [
+      "Northwood Space raised 375 million dollars at a 2 billion valuation.",
+      "They're not building satellites. They're building ground stations.",
+      "Ground infrastructure is the real bottleneck for satellite data.",
+      "Ignoring this shift means paying more for data access.",
+      "Watch for their first commercial ground station launch this year."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $2B for ground stations\n\nNorthwood Space just raised $375M to build ground infrastructure, not satellites. The real bet is on the pipes, not the data.",
+          "2. Satellites are the easy part\n\nGround stations are the bottleneck. Northwood wants to turn them into a utility—cheaper access for everyone.",
+          "3. Ignore this at your peril\n\nCompanies stuck on old ground infrastructure will pay more for data. The shift to shared ground stations cuts costs.",
+          "4. First launch this year\n\nNorthwood's first commercial ground station goes live. That's the proof point—watch if it delivers.",
+          "5. Are you ready to switch?\n\nCheck your current data costs. If Northwood's utility model works, you could save. Ask your provider about ground station options."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Northwood Space raised 375 million dollars at a 2 billion valuation.",
+          "They're not building satellites. They're building ground stations.",
+          "Ground infrastructure is the real bottleneck for satellite data.",
+          "Ignoring this shift means paying more for data access.",
+          "Watch for their first commercial ground station launch this year."
+        ]
+      },
+      "instagram": {
+        "caption": "Satellite data could get cheaper because of ground stations, not rockets 🛰️\n\nNorthwood Space just raised $375M at a $2B valuation from a16z and DFJ Growth.\n\nThey're not building satellites—they're building the ground infrastructure that connects them.\n\nShared ground stations mean lower data costs for everyone downstream 📡\n\nIf you publish or build with satellite imagery, your provider's pricing could shift this year.\n\nNorthwood's first commercial ground station goes live soon—watch if it actually delivers 🌍\n\nDo you know what you're currently paying for satellite data access?"
+      }
+    },
+    "instagram_caption": "Satellite data could get cheaper because of ground stations, not rockets 🛰️\n\nNorthwood Space just raised $375M at a $2B valuation from a16z and DFJ Growth.\n\nThey're not building satellites—they're building the ground infrastructure that connects them.\n\nShared ground stations mean lower data costs for everyone downstream 📡\n\nIf you publish or build with satellite imagery, your provider's pricing could shift this year.\n\nNorthwood's first commercial ground station goes live soon—watch if it actually delivers 🌍\n\nDo you know what you're currently paying for satellite data access?",
+    "carousel_slides": [
+      {
+        "hook": "Is ground infrastructure the real space race?",
+        "description": "Northwood raised $375M at $2B valuation to build ground stations, not satellites—betting on pipes over data.",
+        "visual_hint": "Satellite dish array under starry sky",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "satellite dish"
+      },
+      {
+        "hook": "Satellites are easy, ground stations are hard",
+        "description": "Northwood just secured $375M at $2B to turn ground stations into a utility for cheaper data access.",
+        "visual_hint": "Close-up of ground station antenna",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "antenna tower",
+        "image": "https://images.pexels.com/photos/9221383/pexels-photo-9221383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ignoring ground infrastructure will cost you",
+        "description": "Companies stuck on old ground infrastructure pay more for data; shared stations cut costs significantly.",
+        "visual_hint": "Split screen old vs new antenna",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "old radio tower",
+        "image": "https://images.pexels.com/photos/26757194/pexels-photo-26757194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "First commercial ground station goes live this year",
+        "description": "Northwood's first commercial ground station launches this year—the proof point to watch for delivery.",
+        "visual_hint": "Hand pointing at launch timeline",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "launch control room",
+        "image": "https://images.pexels.com/photos/15056120/pexels-photo-15056120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to check your data costs later",
+        "description": "Ask your provider about ground station options now—if Northwood's utility model works, you could save.",
+        "visual_hint": "Hand holding phone with checklist",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "phone checklist",
+        "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/Disrupt-2024-Bridgit-Mendler.jpg?resize=1200,800",
+    "savedAt": "2026-11-02T19:54:21.840Z",
+    "sourceId": "5a2c703be12eba940f4d5092e03ed676"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "42ai-comes-out-of-stealth-with-62-5m-and-a-world-m",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+    "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+    "pubDate": "Mon, 02 Nov 2026 16:30:00 +0000",
+    "slides": [
+      "Can 42AI truly predict human behavior?",
+      "The startup exits stealth with $62.5M in funding",
+      "Its world model forecasts actions before they happen",
+      "Marketers and product teams could test ideas without users",
+      "Ask yourself: would you trust a model to read intent?"
+    ],
+    "thread_text": [
+      "1. Reading Intent Before Action\n\nA startup exits stealth with $62.5M to build a world model that forecasts what people will do before they do it — no focus groups, no surveys.",
+      "2. $62.5M Bet on Foresight\n\nThe company claims its model predicts human actions by simulating how people decide, not just what they click. If real, it upends market research.",
+      "3. Test Ideas Without Users\n\nMarketers and product teams could trial campaigns and features in simulation before a single person sees them, cutting iteration cycles from weeks to hours.",
+      "4. The Trust Gap\n\nForecasting intent is not the same as knowing it. The model's value depends on how well it handles the messy, contradictory reasons people actually act.",
+      "5. Would You Trust It?\n\nTake a real product decision you're facing and ask: would you act on a simulated forecast if it disagreed with your gut? If not, what would change your mind?"
+    ],
+    "video_script": [
+      "A startup raised sixty two million to predict behavior.",
+      "Its world model forecasts actions before they happen.",
+      "Marketers could test ideas without real users.",
+      "But trusting a model to read intent is risky.",
+      "Would you bet a launch on it today?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Reading Intent Before Action\n\nA startup exits stealth with $62.5M to build a world model that forecasts what people will do before they do it — no focus groups, no surveys.",
+          "2. $62.5M Bet on Foresight\n\nThe company claims its model predicts human actions by simulating how people decide, not just what they click. If real, it upends market research.",
+          "3. Test Ideas Without Users\n\nMarketers and product teams could trial campaigns and features in simulation before a single person sees them, cutting iteration cycles from weeks to hours.",
+          "4. The Trust Gap\n\nForecasting intent is not the same as knowing it. The model's value depends on how well it handles the messy, contradictory reasons people actually act.",
+          "5. Would You Trust It?\n\nTake a real product decision you're facing and ask: would you act on a simulated forecast if it disagreed with your gut? If not, what would change your mind?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A startup raised sixty two million to predict behavior.",
+          "Its world model forecasts actions before they happen.",
+          "Marketers could test ideas without real users.",
+          "But trusting a model to read intent is risky.",
+          "Would you bet a launch on it today?"
+        ]
+      },
+      "instagram": {
+        "caption": "Before a single person sees your next campaign, a model may already know how people will react to it.\n\n42AI just came out of stealth with $62.5M to build a world model that forecasts human behavior before it happens. 🧠\n\nMarketers could test ideas in simulation instead of running focus groups or surveys. Iteration cycles could drop from weeks to hours.\n\nBut predicting intent isn't the same as knowing it — messy, contradictory human reasons still matter. ⚠️\n\nIf a simulated forecast disagreed with your gut on a real product decision, would you act on it? 🤔"
+      }
+    },
+    "instagram_caption": "Before a single person sees your next campaign, a model may already know how people will react to it.\n\n42AI just came out of stealth with $62.5M to build a world model that forecasts human behavior before it happens. 🧠\n\nMarketers could test ideas in simulation instead of running focus groups or surveys. Iteration cycles could drop from weeks to hours.\n\nBut predicting intent isn't the same as knowing it — messy, contradictory human reasons still matter. ⚠️\n\nIf a simulated forecast disagreed with your gut on a real product decision, would you act on it? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Can AI predict what you'll do next?",
+        "description": "42AI exits stealth with $62.5M to build a world model that forecasts human actions before they happen.",
+        "visual_hint": "Futuristic AI brain with predictive lines",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "artificial intelligence brain"
+      },
+      {
+        "hook": "$62.5M bet on human foresight",
+        "description": "The startup claims its model simulates how people decide, not just what they click, potentially upending market research.",
+        "visual_hint": "Stack of cash and glowing AI chip",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "venture capital funding",
+        "image": "https://images.pexels.com/photos/6289043/pexels-photo-6289043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test ideas before users see them",
+        "description": "Marketers and product teams could trial campaigns in simulation, cutting iteration cycles from weeks to hours.",
+        "visual_hint": "Digital simulation of human decisions",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "simulation technology",
+        "image": "https://images.pexels.com/photos/28993110/pexels-photo-28993110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The trust gap: intent vs. action",
+        "description": "Forecasting intent is not knowing it. The model's value depends on handling messy, contradictory human reasons.",
+        "visual_hint": "Human hand reaching for digital forecast",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "human hand technology",
+        "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Would you trust a simulated forecast?",
+        "description": "Take a real product decision and ask: would you act on a simulated forecast if it disagreed with your gut?",
+        "visual_hint": "Person at crossroads with digital overlay",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "decision crossroads",
+        "image": "https://images.pexels.com/photos/31695050/pexels-photo-31695050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3572.jpeg?resize=1200,895",
+    "savedAt": "2026-11-02T19:54:12.565Z",
+    "sourceId": "b6e2d45456503ed8aad761a80376e836"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-might-rebrand-its-data-centers-as-ai-comput",
     "prompt_version": "1.0.0",
     "status": "published",
