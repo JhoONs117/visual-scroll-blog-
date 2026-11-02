@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-might-rebrand-its-data-centers-as-ai-comput",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "pubDate": "Sun, 01 Nov 2026 21:55:23 +0000",
+    "slides": [
+      "Why does OpenAI need a new name for data centers?",
+      "It reportedly calls them 'AI compute campuses' now",
+      "But the rebrand hides rising infrastructure costs",
+      "What name you use won't change your API bill",
+      "Watch the pricing page, not the press release"
+    ],
+    "thread_text": [
+      "1. The real cost signal\n\nOpenAI is rebranding its data centers as 'AI compute campuses' — but the rename does nothing to lower the billions being spent on infrastructure.",
+      "2. Why rebrand now?\n\n'Data center' sounds like a commodity; 'campus' sounds strategic. That shift matters as investors scrutinize soaring capex and energy demands.",
+      "3. API users feel it\n\nNew name or not, your API bill is tied to compute pricing. Rising infrastructure costs will show up there, not in the press release.",
+      "4. What to watch\n\nIgnore the branding. Track pricing page updates, rate limits, and usage tiers — those are the real signals of cost pressure.",
+      "5. Check your own bill\n\nPull up your OpenAI usage dashboard and compare last month's cost per token. If it's up, the name change won't soften that number."
+    ],
+    "video_script": [
+      "OpenAI now calls data centers 'AI compute campuses.'",
+      "New name, same massive infrastructure spending.",
+      "Rebranding doesn't reduce the cost of compute.",
+      "Your API bill tracks pricing, not press releases.",
+      "Check your usage page—costs tell the real story."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The real cost signal\n\nOpenAI is rebranding its data centers as 'AI compute campuses' — but the rename does nothing to lower the billions being spent on infrastructure.",
+          "2. Why rebrand now?\n\n'Data center' sounds like a commodity; 'campus' sounds strategic. That shift matters as investors scrutinize soaring capex and energy demands.",
+          "3. API users feel it\n\nNew name or not, your API bill is tied to compute pricing. Rising infrastructure costs will show up there, not in the press release.",
+          "4. What to watch\n\nIgnore the branding. Track pricing page updates, rate limits, and usage tiers — those are the real signals of cost pressure.",
+          "5. Check your own bill\n\nPull up your OpenAI usage dashboard and compare last month's cost per token. If it's up, the name change won't soften that number."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI now calls data centers 'AI compute campuses.'",
+          "New name, same massive infrastructure spending.",
+          "Rebranding doesn't reduce the cost of compute.",
+          "Your API bill tracks pricing, not press releases.",
+          "Check your usage page—costs tell the real story."
+        ]
+      },
+      "instagram": {
+        "caption": "Data centers just got a new name, but your API bill didn't get cheaper.\n\nOpenAI reportedly calls them \"AI compute campuses\" now. \"Data center\" sounds like a commodity; \"campus\" sounds strategic — handy when investors are watching billions in infrastructure spend. 🏗️\n\nThe rebrand hides rising compute costs rather than reducing them.\n\nIf you build with their API, pricing is still tied to compute. What changes for you: watch the pricing page, rate limits, and usage tiers — not the press release. 📊\n\nOpen your usage dashboard now: is last month's cost per token higher than before? 💸"
+      }
+    },
+    "instagram_caption": "Data centers just got a new name, but your API bill didn't get cheaper.\n\nOpenAI reportedly calls them \"AI compute campuses\" now. \"Data center\" sounds like a commodity; \"campus\" sounds strategic — handy when investors are watching billions in infrastructure spend. 🏗️\n\nThe rebrand hides rising compute costs rather than reducing them.\n\nIf you build with their API, pricing is still tied to compute. What changes for you: watch the pricing page, rate limits, and usage tiers — not the press release. 📊\n\nOpen your usage dashboard now: is last month's cost per token higher than before? 💸",
+    "carousel_slides": [
+      {
+        "hook": "The rebrand won't cut your API bill",
+        "description": "OpenAI renames data centers 'AI compute campuses,' but rising infrastructure costs still hit your per-token pricing.",
+        "visual_hint": "Server room with glowing racks",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Why 'campus' sounds better than 'data center'",
+        "description": "'Data center' implies commodity; 'campus' suggests strategic investment—a shift as investors eye soaring capex.",
+        "visual_hint": "Modern tech campus from above",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "tech campus aerial",
+        "image": "https://images.pexels.com/photos/36757553/pexels-photo-36757553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Infrastructure costs are rising, not hiding",
+        "description": "Billions spent on compute and energy will surface in API pricing, not in a press release.",
+        "visual_hint": "Power lines and data center",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "power lines sunset",
+        "image": "https://images.pexels.com/photos/28758920/pexels-photo-28758920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Track pricing page, not branding",
+        "description": "Watch rate limits, usage tiers, and pricing updates—those are the real signals of cost pressure.",
+        "visual_hint": "Person analyzing pricing chart",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and check your usage dashboard",
+        "description": "Compare last month's cost per token—if it's up, the name change won't soften that number.",
+        "visual_hint": "Dashboard with cost graph",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "usage dashboard screen",
+        "image": "https://images.pexels.com/photos/4413752/pexels-photo-4413752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+    "savedAt": "2026-11-02T01:08:16.254Z",
+    "sourceId": "cf5e1b5d84c4197bd1feb084f4696795"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "ai-can-make-tech-ceos-lives-easier-what-about-ever",
     "prompt_version": "1.0.0",
     "status": "published",
