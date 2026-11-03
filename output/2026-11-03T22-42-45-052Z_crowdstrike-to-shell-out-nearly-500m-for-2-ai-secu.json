@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "crowdstrike-to-shell-out-nearly-500m-for-2-ai-secu",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+  "link": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+  "pubDate": "Tue, 03 Nov 2026 17:56:52 +0000",
+  "slides": [
+    "Why is CrowdStrike paying nearly $500M now?",
+    "Two AI security startups acquired in one move",
+    "But the real target is securing AI agents themselves",
+    "Your AI agents may soon need identity and access controls",
+    "Audit what agents can access before attackers do"
+  ],
+  "thread_text": [
+    "1. $500M for AI security\n\nCrowdStrike is paying nearly half a billion dollars to acquire two AI security startups. The deal isn't about today's tools — it's a bet on what comes next.",
+    "2. Two startups, one move\n\nCrowdStrike isn't buying one company — it's buying two AI security startups in a single deal. That's not a talent grab, it's a strategy shift.",
+    "3. The real target\n\nThe acquisitions aren't about securing AI models. They're about securing AI agents — the autonomous programs that act on your behalf. That's a much harder problem.",
+    "4. Agents need ID checks\n\nYour AI agents will soon need identity and access controls, just like human employees. Without them, any agent can act as anyone — and no one will know.",
+    "5. Audit before attackers\n\nList every system your AI agents can access today. If you can't answer that in five minutes, you have a gap an attacker will find first."
+  ],
+  "video_script": [
+    "CrowdStrike is paying nearly five hundred million dollars.",
+    "They bought two AI security startups at once.",
+    "The real target is securing AI agents themselves.",
+    "Your AI agents will soon need identity and access controls.",
+    "Audit what your agents can access before attackers do."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $500M for AI security\n\nCrowdStrike is paying nearly half a billion dollars to acquire two AI security startups. The deal isn't about today's tools — it's a bet on what comes next.",
+        "2. Two startups, one move\n\nCrowdStrike isn't buying one company — it's buying two AI security startups in a single deal. That's not a talent grab, it's a strategy shift.",
+        "3. The real target\n\nThe acquisitions aren't about securing AI models. They're about securing AI agents — the autonomous programs that act on your behalf. That's a much harder problem.",
+        "4. Agents need ID checks\n\nYour AI agents will soon need identity and access controls, just like human employees. Without them, any agent can act as anyone — and no one will know.",
+        "5. Audit before attackers\n\nList every system your AI agents can access today. If you can't answer that in five minutes, you have a gap an attacker will find first."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "CrowdStrike is paying nearly five hundred million dollars.",
+        "They bought two AI security startups at once.",
+        "The real target is securing AI agents themselves.",
+        "Your AI agents will soon need identity and access controls.",
+        "Audit what your agents can access before attackers do."
+      ]
+    },
+    "instagram": {
+      "caption": "CrowdStrike is spending nearly $500 million to buy two AI security startups in one deal. 💰\n\nThe real target isn't the tools — it's securing AI agents, the autonomous programs that act on your behalf.\n\nSoon your agents will need identity and access controls, just like human employees. Without them, any agent can act as anyone.\n\nIf you build or publish with AI agents, list every system they can access. 🔍\n\nCan you name all of them in five minutes? If not, an attacker will find the gap first. ⚠️"
+    }
+  },
+  "instagram_caption": "CrowdStrike is spending nearly $500 million to buy two AI security startups in one deal. 💰\n\nThe real target isn't the tools — it's securing AI agents, the autonomous programs that act on your behalf.\n\nSoon your agents will need identity and access controls, just like human employees. Without them, any agent can act as anyone.\n\nIf you build or publish with AI agents, list every system they can access. 🔍\n\nCan you name all of them in five minutes? If not, an attacker will find the gap first. ⚠️",
+  "carousel_slides": [
+    {
+      "hook": "Why $500M for AI security now?",
+      "description": "CrowdStrike is paying nearly $500M to acquire two AI security startups, betting on securing autonomous agents rather than today's tools.",
+      "visual_hint": "Large check with AI security logos",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "check payment"
+    },
+    {
+      "hook": "Two startups, one strategic shift",
+      "description": "CrowdStrike is buying two AI security startups in a single deal, signaling a major strategy shift beyond talent acquisition.",
+      "visual_hint": "Two startup logos merging into one",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "startup office",
+      "image": "https://images.pexels.com/photos/5324900/pexels-photo-5324900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The real target: securing AI agents",
+      "description": "The acquisitions focus on securing AI agents—autonomous programs acting on your behalf—not just AI models, a much harder problem.",
+      "visual_hint": "AI agent controlling multiple systems",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robot hand",
+      "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI agents need ID checks",
+      "description": "AI agents will soon require identity and access controls like human employees, or any agent can act as anyone undetected.",
+      "visual_hint": "Digital ID card for AI agent",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "identity card",
+      "image": "https://images.pexels.com/photos/5420976/pexels-photo-5420976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit agent access before attackers do",
+      "description": "List every system your AI agents can access today. If you can't answer in five minutes, you have a gap attackers will find first.",
+      "visual_hint": "Checklist with AI agent access",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "security audit",
+      "image": "https://images.pexels.com/photos/5561909/pexels-photo-5561909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2281430305.jpg?w=1024",
+  "savedAt": "2026-11-03T22:43:20.130Z",
+  "sourceId": "72683f747424fdef3ae94ba7e4f3d88b"
+}

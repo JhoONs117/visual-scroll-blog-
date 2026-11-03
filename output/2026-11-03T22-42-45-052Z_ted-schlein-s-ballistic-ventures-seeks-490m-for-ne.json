@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ted-schlein-s-ballistic-ventures-seeks-490m-for-ne",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+  "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+  "pubDate": "Tue, 03 Nov 2026 21:43:08 +0000",
+  "slides": [
+    "Can Ballistic Ventures raise $490M before rivals crowd in?",
+    "It's targeting two new funds simultaneously",
+    "But the cybersecurity LP pool is tighter than headlines suggest",
+    "Founders pitching soon will face sharper diligence on AI claims",
+    "Watch whether Ballistic closes above or below target"
+  ],
+  "thread_text": [
+    "1. $490M Before the Crowd\n\nBallistic Ventures is raising two funds at once while the cybersecurity LP pool tightens. The clock is ticking before rivals move in.",
+    "2. Two Funds, One Bet\n\nRunning parallel vehicles lets the firm scale fast, but it also doubles the fundraising load and splits attention.",
+    "3. LP Pool Is Shrinking\n\nHeadlines suggest endless cyber cash, but the actual pool of limited partners writing big checks is smaller than it looks.",
+    "4. Diligence Gets Sharper\n\nFounders pitching AI security claims soon will face harder questions on proof, not just potential.",
+    "5. Will They Hit Target?\n\nWatch whether Ballistic closes above or below $490M. If you're raising, ask yourself: would your deck survive that scrutiny today?"
+  ],
+  "video_script": [
+    "Ballistic Ventures wants $490 million, and fast.",
+    "They're running two funds at the same time.",
+    "But cybersecurity limited partners are scarcer than headlines say.",
+    "Founders pitching AI will face sharper diligence questions.",
+    "Watch if they close above or below target."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $490M Before the Crowd\n\nBallistic Ventures is raising two funds at once while the cybersecurity LP pool tightens. The clock is ticking before rivals move in.",
+        "2. Two Funds, One Bet\n\nRunning parallel vehicles lets the firm scale fast, but it also doubles the fundraising load and splits attention.",
+        "3. LP Pool Is Shrinking\n\nHeadlines suggest endless cyber cash, but the actual pool of limited partners writing big checks is smaller than it looks.",
+        "4. Diligence Gets Sharper\n\nFounders pitching AI security claims soon will face harder questions on proof, not just potential.",
+        "5. Will They Hit Target?\n\nWatch whether Ballistic closes above or below $490M. If you're raising, ask yourself: would your deck survive that scrutiny today?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Ballistic Ventures wants $490 million, and fast.",
+        "They're running two funds at the same time.",
+        "But cybersecurity limited partners are scarcer than headlines say.",
+        "Founders pitching AI will face sharper diligence questions.",
+        "Watch if they close above or below target."
+      ]
+    },
+    "instagram": {
+      "caption": "$490M is the number Ballistic Ventures is chasing — across two funds at once.\n\nTed Schlein's firm is raising both vehicles in parallel, which speeds up scaling but doubles the fundraising load.\n\nThe pool of limited partners writing big cyber checks is tighter than the headlines suggest. 😬\n\nFounders pitching AI security claims will now face harder diligence on proof, not potential.\n\nIf you're raising soon, ask yourself: would your deck survive that scrutiny today? 🔍\n\nWill Ballistic close above or below target — and what does that signal for your next round? 💰"
+    }
+  },
+  "instagram_caption": "$490M is the number Ballistic Ventures is chasing — across two funds at once.\n\nTed Schlein's firm is raising both vehicles in parallel, which speeds up scaling but doubles the fundraising load.\n\nThe pool of limited partners writing big cyber checks is tighter than the headlines suggest. 😬\n\nFounders pitching AI security claims will now face harder diligence on proof, not potential.\n\nIf you're raising soon, ask yourself: would your deck survive that scrutiny today? 🔍\n\nWill Ballistic close above or below target — and what does that signal for your next round? 💰",
+  "carousel_slides": [
+    {
+      "hook": "Is $490M too late?",
+      "description": "Ballistic Ventures raises two funds as the cybersecurity LP pool tightens, racing rivals before the window closes.",
+      "visual_hint": "Countdown clock over server racks",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Two funds, double the pressure",
+      "description": "Running parallel vehicles lets the firm scale fast, but doubles fundraising load and splits attention.",
+      "visual_hint": "Split screen two fund charts",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The LP pool is shrinking",
+      "description": "Headlines suggest endless cyber cash, but the actual pool of limited partners writing big checks is smaller than it looks.",
+      "visual_hint": "Zoom into shrinking dollar signs",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "money wallet",
+      "image": "https://images.pexels.com/photos/4386433/pexels-photo-4386433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Founders face sharper AI scrutiny",
+      "description": "Founders pitching AI security claims soon will face harder questions on proof, not just potential.",
+      "visual_hint": "Hand holding magnifying glass over document",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this if you're raising",
+      "description": "Watch whether Ballistic closes above or below $490M. Ask yourself: would your deck survive that scrutiny today?",
+      "visual_hint": "Target board with arrows",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "target board",
+      "image": "https://images.pexels.com/photos/5202417/pexels-photo-5202417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/04/Ballistic-Ventures-GP-team.jpg?resize=1200,801",
+  "savedAt": "2026-11-03T22:43:01.522Z",
+  "sourceId": "0835e4c1adb39f7fac54d5bdd1930d2a"
+}

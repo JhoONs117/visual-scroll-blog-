@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "crowdstrike-to-shell-out-nearly-500m-for-2-ai-secu",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+      "link": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+      "pubDate": "Tue, 03 Nov 2026 17:56:52 +0000",
+      "slides": [
+        "Why is CrowdStrike paying nearly $500M now?",
+        "Two AI security startups acquired in one move",
+        "But the real target is securing AI agents themselves",
+        "Your AI agents may soon need identity and access controls",
+        "Audit what agents can access before attackers do"
+      ],
+      "thread_text": [
+        "1. $500M for AI security\n\nCrowdStrike is paying nearly half a billion dollars to acquire two AI security startups. The deal isn't about today's tools — it's a bet on what comes next.",
+        "2. Two startups, one move\n\nCrowdStrike isn't buying one company — it's buying two AI security startups in a single deal. That's not a talent grab, it's a strategy shift.",
+        "3. The real target\n\nThe acquisitions aren't about securing AI models. They're about securing AI agents — the autonomous programs that act on your behalf. That's a much harder problem.",
+        "4. Agents need ID checks\n\nYour AI agents will soon need identity and access controls, just like human employees. Without them, any agent can act as anyone — and no one will know.",
+        "5. Audit before attackers\n\nList every system your AI agents can access today. If you can't answer that in five minutes, you have a gap an attacker will find first."
+      ],
+      "video_script": [
+        "CrowdStrike is paying nearly five hundred million dollars.",
+        "They bought two AI security startups at once.",
+        "The real target is securing AI agents themselves.",
+        "Your AI agents will soon need identity and access controls.",
+        "Audit what your agents can access before attackers do."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $500M for AI security\n\nCrowdStrike is paying nearly half a billion dollars to acquire two AI security startups. The deal isn't about today's tools — it's a bet on what comes next.",
+            "2. Two startups, one move\n\nCrowdStrike isn't buying one company — it's buying two AI security startups in a single deal. That's not a talent grab, it's a strategy shift.",
+            "3. The real target\n\nThe acquisitions aren't about securing AI models. They're about securing AI agents — the autonomous programs that act on your behalf. That's a much harder problem.",
+            "4. Agents need ID checks\n\nYour AI agents will soon need identity and access controls, just like human employees. Without them, any agent can act as anyone — and no one will know.",
+            "5. Audit before attackers\n\nList every system your AI agents can access today. If you can't answer that in five minutes, you have a gap an attacker will find first."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "CrowdStrike is paying nearly five hundred million dollars.",
+            "They bought two AI security startups at once.",
+            "The real target is securing AI agents themselves.",
+            "Your AI agents will soon need identity and access controls.",
+            "Audit what your agents can access before attackers do."
+          ]
+        },
+        "instagram": {
+          "caption": "CrowdStrike is spending nearly $500 million to buy two AI security startups in one deal. 💰\n\nThe real target isn't the tools — it's securing AI agents, the autonomous programs that act on your behalf.\n\nSoon your agents will need identity and access controls, just like human employees. Without them, any agent can act as anyone.\n\nIf you build or publish with AI agents, list every system they can access. 🔍\n\nCan you name all of them in five minutes? If not, an attacker will find the gap first. ⚠️"
+        }
+      },
+      "instagram_caption": "CrowdStrike is spending nearly $500 million to buy two AI security startups in one deal. 💰\n\nThe real target isn't the tools — it's securing AI agents, the autonomous programs that act on your behalf.\n\nSoon your agents will need identity and access controls, just like human employees. Without them, any agent can act as anyone.\n\nIf you build or publish with AI agents, list every system they can access. 🔍\n\nCan you name all of them in five minutes? If not, an attacker will find the gap first. ⚠️",
+      "carousel_slides": [
+        {
+          "hook": "Why $500M for AI security now?",
+          "description": "CrowdStrike is paying nearly $500M to acquire two AI security startups, betting on securing autonomous agents rather than today's tools.",
+          "visual_hint": "Large check with AI security logos",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "check payment"
+        },
+        {
+          "hook": "Two startups, one strategic shift",
+          "description": "CrowdStrike is buying two AI security startups in a single deal, signaling a major strategy shift beyond talent acquisition.",
+          "visual_hint": "Two startup logos merging into one",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "startup office",
+          "image": "https://images.pexels.com/photos/5324900/pexels-photo-5324900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The real target: securing AI agents",
+          "description": "The acquisitions focus on securing AI agents—autonomous programs acting on your behalf—not just AI models, a much harder problem.",
+          "visual_hint": "AI agent controlling multiple systems",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "robot hand",
+          "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI agents need ID checks",
+          "description": "AI agents will soon require identity and access controls like human employees, or any agent can act as anyone undetected.",
+          "visual_hint": "Digital ID card for AI agent",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "identity card",
+          "image": "https://images.pexels.com/photos/5420976/pexels-photo-5420976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit agent access before attackers do",
+          "description": "List every system your AI agents can access today. If you can't answer in five minutes, you have a gap attackers will find first.",
+          "visual_hint": "Checklist with AI agent access",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "security audit",
+          "image": "https://images.pexels.com/photos/5561909/pexels-photo-5561909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2281430305.jpg?w=1024",
+      "savedAt": "2026-11-03T22:43:20.130Z",
+      "sourceId": "72683f747424fdef3ae94ba7e4f3d88b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ai-inference-startup-fal-doubles-its-valuation-to-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "pubDate": "Tue, 03 Nov 2026 19:34:43 +0000",
+      "slides": [
+        "Why did Fal's valuation double to $16B so fast?",
+        "Demand for AI inference is surging beyond expectations",
+        "But inference margins are thinner than training",
+        "Your AI app costs may not drop as hoped",
+        "Test your inference provider's real latency today"
+      ],
+      "thread_text": [
+        "1. Fal's $16B shock\n\nDemand for AI inference is surging beyond what anyone predicted, and Fal just doubled its valuation to $16B. That speed hides a margin problem most builders haven't priced in.",
+        "2. Inference margins are thin\n\nServing models costs more per token than training them, because you pay for compute, latency, and reliability on every single request. Training is a one-time bill; inference is a meter that never stops.",
+        "3. Your app costs won't fall\n\nCheaper inference per token doesn't mean a cheaper product, because users send more requests as prices drop. Your bill can climb even when unit costs shrink.",
+        "4. Latency is the real test\n\nProviders advertise average speeds, but your users feel the slow tail, not the mean. Measuring that gap is the only way to know what your app actually delivers.",
+        "5. Test your provider today\n\nRun a real prompt through your live app and time the slowest response, not the fastest. If your provider can't show that number, you're guessing."
+      ],
+      "video_script": [
+        "Fal just hit sixteen billion dollars in valuation.",
+        "Everyone assumes inference is the cheap part of AI.",
+        "But per-token margins are actually thinner than training.",
+        "So your AI app bill may not drop as expected.",
+        "Time your slowest response today, not the average."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Fal's $16B shock\n\nDemand for AI inference is surging beyond what anyone predicted, and Fal just doubled its valuation to $16B. That speed hides a margin problem most builders haven't priced in.",
+            "2. Inference margins are thin\n\nServing models costs more per token than training them, because you pay for compute, latency, and reliability on every single request. Training is a one-time bill; inference is a meter that never stops.",
+            "3. Your app costs won't fall\n\nCheaper inference per token doesn't mean a cheaper product, because users send more requests as prices drop. Your bill can climb even when unit costs shrink.",
+            "4. Latency is the real test\n\nProviders advertise average speeds, but your users feel the slow tail, not the mean. Measuring that gap is the only way to know what your app actually delivers.",
+            "5. Test your provider today\n\nRun a real prompt through your live app and time the slowest response, not the fastest. If your provider can't show that number, you're guessing."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Fal just hit sixteen billion dollars in valuation.",
+            "Everyone assumes inference is the cheap part of AI.",
+            "But per-token margins are actually thinner than training.",
+            "So your AI app bill may not drop as expected.",
+            "Time your slowest response today, not the average."
+          ]
+        },
+        "instagram": {
+          "caption": "Fal just doubled its valuation to $16 billion on surging demand for AI inference.\n\nInference margins are thinner than training, because you pay for compute, latency, and reliability on every single request. Training is a one-time bill; inference is a meter that never stops. 📉\n\nCheaper per-token pricing won't shrink your app bill either — users send more requests as prices drop, so costs can climb even when unit costs fall.\n\nThat means your AI app's running costs probably won't drop the way you hoped. 💸\n\nAverage speeds are advertised, but your users feel the slow tail, not the mean.\n\nRun one real prompt through your live app today and time the slowest response. ⏱️ If your provider can't show you that number, you're guessing. 👇"
+        }
+      },
+      "instagram_caption": "Fal just doubled its valuation to $16 billion on surging demand for AI inference.\n\nInference margins are thinner than training, because you pay for compute, latency, and reliability on every single request. Training is a one-time bill; inference is a meter that never stops. 📉\n\nCheaper per-token pricing won't shrink your app bill either — users send more requests as prices drop, so costs can climb even when unit costs fall.\n\nThat means your AI app's running costs probably won't drop the way you hoped. 💸\n\nAverage speeds are advertised, but your users feel the slow tail, not the mean.\n\nRun one real prompt through your live app today and time the slowest response. ⏱️ If your provider can't show you that number, you're guessing. 👇",
+      "carousel_slides": [
+        {
+          "hook": "Fal's $16B valuation hides a margin problem",
+          "description": "Demand for AI inference is surging, but serving models costs more per token than training them—a margin issue most builders haven't priced in.",
+          "visual_hint": "Dollar sign merging with server rack",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Inference is a meter that never stops",
+          "description": "Training is a one-time bill; inference charges for compute, latency, and reliability on every request. Your costs scale with usage.",
+          "visual_hint": "Glowing meter running continuously",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "power meter",
+          "image": "https://images.pexels.com/photos/11125742/pexels-photo-11125742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cheaper per token doesn't mean cheaper",
+          "description": "As inference prices drop, users send more requests. Your bill can climb even when unit costs shrink.",
+          "visual_hint": "Sawtooth graph rising while price falls",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your users feel the slow tail",
+          "description": "Providers advertise average speeds, but the mean hides the lag. Measuring the gap reveals what your app actually delivers.",
+          "visual_hint": "Hand holding phone with loading icon",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "loading icon screen",
+          "image": "https://images.pexels.com/photos/17789077/pexels-photo-17789077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your provider's real latency now",
+          "description": "Run a live prompt and time the slowest response. If your provider can't show that number, you're guessing.",
+          "visual_hint": "Stopwatch over app interface",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "stopwatch timer",
+          "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1268605503.jpg?resize=1200,420",
+      "savedAt": "2026-11-03T22:43:11.621Z",
+      "sourceId": "0018ea6e4618a3fe55b0e320d889c170"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ted-schlein-s-ballistic-ventures-seeks-490m-for-ne",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "pubDate": "Tue, 03 Nov 2026 21:43:08 +0000",
+      "slides": [
+        "Can Ballistic Ventures raise $490M before rivals crowd in?",
+        "It's targeting two new funds simultaneously",
+        "But the cybersecurity LP pool is tighter than headlines suggest",
+        "Founders pitching soon will face sharper diligence on AI claims",
+        "Watch whether Ballistic closes above or below target"
+      ],
+      "thread_text": [
+        "1. $490M Before the Crowd\n\nBallistic Ventures is raising two funds at once while the cybersecurity LP pool tightens. The clock is ticking before rivals move in.",
+        "2. Two Funds, One Bet\n\nRunning parallel vehicles lets the firm scale fast, but it also doubles the fundraising load and splits attention.",
+        "3. LP Pool Is Shrinking\n\nHeadlines suggest endless cyber cash, but the actual pool of limited partners writing big checks is smaller than it looks.",
+        "4. Diligence Gets Sharper\n\nFounders pitching AI security claims soon will face harder questions on proof, not just potential.",
+        "5. Will They Hit Target?\n\nWatch whether Ballistic closes above or below $490M. If you're raising, ask yourself: would your deck survive that scrutiny today?"
+      ],
+      "video_script": [
+        "Ballistic Ventures wants $490 million, and fast.",
+        "They're running two funds at the same time.",
+        "But cybersecurity limited partners are scarcer than headlines say.",
+        "Founders pitching AI will face sharper diligence questions.",
+        "Watch if they close above or below target."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $490M Before the Crowd\n\nBallistic Ventures is raising two funds at once while the cybersecurity LP pool tightens. The clock is ticking before rivals move in.",
+            "2. Two Funds, One Bet\n\nRunning parallel vehicles lets the firm scale fast, but it also doubles the fundraising load and splits attention.",
+            "3. LP Pool Is Shrinking\n\nHeadlines suggest endless cyber cash, but the actual pool of limited partners writing big checks is smaller than it looks.",
+            "4. Diligence Gets Sharper\n\nFounders pitching AI security claims soon will face harder questions on proof, not just potential.",
+            "5. Will They Hit Target?\n\nWatch whether Ballistic closes above or below $490M. If you're raising, ask yourself: would your deck survive that scrutiny today?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Ballistic Ventures wants $490 million, and fast.",
+            "They're running two funds at the same time.",
+            "But cybersecurity limited partners are scarcer than headlines say.",
+            "Founders pitching AI will face sharper diligence questions.",
+            "Watch if they close above or below target."
+          ]
+        },
+        "instagram": {
+          "caption": "$490M is the number Ballistic Ventures is chasing — across two funds at once.\n\nTed Schlein's firm is raising both vehicles in parallel, which speeds up scaling but doubles the fundraising load.\n\nThe pool of limited partners writing big cyber checks is tighter than the headlines suggest. 😬\n\nFounders pitching AI security claims will now face harder diligence on proof, not potential.\n\nIf you're raising soon, ask yourself: would your deck survive that scrutiny today? 🔍\n\nWill Ballistic close above or below target — and what does that signal for your next round? 💰"
+        }
+      },
+      "instagram_caption": "$490M is the number Ballistic Ventures is chasing — across two funds at once.\n\nTed Schlein's firm is raising both vehicles in parallel, which speeds up scaling but doubles the fundraising load.\n\nThe pool of limited partners writing big cyber checks is tighter than the headlines suggest. 😬\n\nFounders pitching AI security claims will now face harder diligence on proof, not potential.\n\nIf you're raising soon, ask yourself: would your deck survive that scrutiny today? 🔍\n\nWill Ballistic close above or below target — and what does that signal for your next round? 💰",
+      "carousel_slides": [
+        {
+          "hook": "Is $490M too late?",
+          "description": "Ballistic Ventures raises two funds as the cybersecurity LP pool tightens, racing rivals before the window closes.",
+          "visual_hint": "Countdown clock over server racks",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Two funds, double the pressure",
+          "description": "Running parallel vehicles lets the firm scale fast, but doubles fundraising load and splits attention.",
+          "visual_hint": "Split screen two fund charts",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The LP pool is shrinking",
+          "description": "Headlines suggest endless cyber cash, but the actual pool of limited partners writing big checks is smaller than it looks.",
+          "visual_hint": "Zoom into shrinking dollar signs",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "money wallet",
+          "image": "https://images.pexels.com/photos/4386433/pexels-photo-4386433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Founders face sharper AI scrutiny",
+          "description": "Founders pitching AI security claims soon will face harder questions on proof, not just potential.",
+          "visual_hint": "Hand holding magnifying glass over document",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "magnifying glass",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this if you're raising",
+          "description": "Watch whether Ballistic closes above or below $490M. Ask yourself: would your deck survive that scrutiny today?",
+          "visual_hint": "Target board with arrows",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "target board",
+          "image": "https://images.pexels.com/photos/5202417/pexels-photo-5202417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/Ballistic-Ventures-GP-team.jpg?resize=1200,801",
+      "savedAt": "2026-11-03T22:43:01.522Z",
+      "sourceId": "0835e4c1adb39f7fac54d5bdd1930d2a"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "anthropic-is-working-on-a-system-to-prove-ai-model",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "pubDate": "Tue, 03 Nov 2026 22:41:03 +0000",
+      "slides": [
+        "Can Anthropic prove an AI is really its model?",
+        "It's building identity verification for AI models",
+        "But the system may not catch fine-tuned copies",
+        "Buyers could demand proof before deploying models",
+        "Ask your vendor: can you verify model identity?"
+      ],
+      "thread_text": [
+        "1. Can You Prove It?\n\nAnthropic is building identity verification for AI models. The goal: prove a model is really yours, not a copy.",
+        "2. The Copycat Problem\n\nFine-tuned copies can slip past the system. Verification works on originals, but tweaked versions may not be caught.",
+        "3. Buyers Want Proof\n\nBefore deploying a model, buyers could demand identity verification. Vendors who can't prove it may lose deals.",
+        "4. A New Standard\n\nModel identity checks could become a procurement requirement. Companies will ask for proof before signing contracts.",
+        "5. Ask Your Vendor\n\nNext time you evaluate an AI model, ask: can you verify its identity? If they can't answer, that's your answer."
+      ],
+      "video_script": [
+        "Anthropic wants to prove an AI model is really theirs.",
+        "They're building identity verification for AI models.",
+        "But fine-tuned copies might slip through the cracks.",
+        "Buyers could soon demand proof before deploying anything.",
+        "Ask your vendor: can you verify model identity?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can You Prove It?\n\nAnthropic is building identity verification for AI models. The goal: prove a model is really yours, not a copy.",
+            "2. The Copycat Problem\n\nFine-tuned copies can slip past the system. Verification works on originals, but tweaked versions may not be caught.",
+            "3. Buyers Want Proof\n\nBefore deploying a model, buyers could demand identity verification. Vendors who can't prove it may lose deals.",
+            "4. A New Standard\n\nModel identity checks could become a procurement requirement. Companies will ask for proof before signing contracts.",
+            "5. Ask Your Vendor\n\nNext time you evaluate an AI model, ask: can you verify its identity? If they can't answer, that's your answer."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Anthropic wants to prove an AI model is really theirs.",
+            "They're building identity verification for AI models.",
+            "But fine-tuned copies might slip through the cracks.",
+            "Buyers could soon demand proof before deploying anything.",
+            "Ask your vendor: can you verify model identity?"
+          ]
+        },
+        "instagram": {
+          "caption": "Before you deploy a model, you might need proof it's the real one.\n\nAnthropic is building identity verification for AI models. The goal: prove a model is actually theirs and not a copy.\n\nFine-tuned versions may slip past the check though. That gap matters if you're buying or reselling models. 🔍\n\nVendors who can't show proof could lose deals to those who can.\n\nNext time you evaluate a model, ask the vendor: can you verify its identity? 🤔"
+        }
+      },
+      "instagram_caption": "Before you deploy a model, you might need proof it's the real one.\n\nAnthropic is building identity verification for AI models. The goal: prove a model is actually theirs and not a copy.\n\nFine-tuned versions may slip past the check though. That gap matters if you're buying or reselling models. 🔍\n\nVendors who can't show proof could lose deals to those who can.\n\nNext time you evaluate a model, ask the vendor: can you verify its identity? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Can you prove your AI is real?",
+          "description": "Anthropic is building identity verification for models to prove authenticity and stop copycats.",
+          "visual_hint": "Close-up of a digital fingerprint scanner",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "fingerprint scanner"
+        },
+        {
+          "hook": "Fake models are slipping through",
+          "description": "Fine-tuned copies can bypass verification, so tweaked versions may not be caught.",
+          "visual_hint": "Two identical robots with one slightly altered",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "robot clones",
+          "image": "https://images.pexels.com/photos/30691846/pexels-photo-30691846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Buyers demand proof before deploying",
+          "description": "Companies could require identity verification before deploying models, and vendors without proof risk losing deals.",
+          "visual_hint": "Business handshake with a verification checkmark",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "business handshake",
+          "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Identity checks become procurement standard",
+          "description": "Model identity verification may soon be a standard requirement in procurement contracts.",
+          "visual_hint": "Contract document with a verification stamp",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "contract signing",
+          "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: ask your vendor today",
+          "description": "Next time you evaluate an AI model, ask: can you verify its identity? If not, that's your answer.",
+          "visual_hint": "Person holding a smartphone with a checklist",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone checklist",
+          "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798",
+      "savedAt": "2026-11-03T22:42:52.856Z",
+      "sourceId": "bf81805a5ae860b994873a9158cd9f23"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "the-new-york-times-sues-brave-web-browser-for-ai-s",
       "prompt_version": "1.0.0",
       "status": "published",

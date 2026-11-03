@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-is-working-on-a-system-to-prove-ai-model",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic is working on a system to prove AI models’ identity",
+  "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+  "pubDate": "Tue, 03 Nov 2026 22:41:03 +0000",
+  "slides": [
+    "Can Anthropic prove an AI is really its model?",
+    "It's building identity verification for AI models",
+    "But the system may not catch fine-tuned copies",
+    "Buyers could demand proof before deploying models",
+    "Ask your vendor: can you verify model identity?"
+  ],
+  "thread_text": [
+    "1. Can You Prove It?\n\nAnthropic is building identity verification for AI models. The goal: prove a model is really yours, not a copy.",
+    "2. The Copycat Problem\n\nFine-tuned copies can slip past the system. Verification works on originals, but tweaked versions may not be caught.",
+    "3. Buyers Want Proof\n\nBefore deploying a model, buyers could demand identity verification. Vendors who can't prove it may lose deals.",
+    "4. A New Standard\n\nModel identity checks could become a procurement requirement. Companies will ask for proof before signing contracts.",
+    "5. Ask Your Vendor\n\nNext time you evaluate an AI model, ask: can you verify its identity? If they can't answer, that's your answer."
+  ],
+  "video_script": [
+    "Anthropic wants to prove an AI model is really theirs.",
+    "They're building identity verification for AI models.",
+    "But fine-tuned copies might slip through the cracks.",
+    "Buyers could soon demand proof before deploying anything.",
+    "Ask your vendor: can you verify model identity?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can You Prove It?\n\nAnthropic is building identity verification for AI models. The goal: prove a model is really yours, not a copy.",
+        "2. The Copycat Problem\n\nFine-tuned copies can slip past the system. Verification works on originals, but tweaked versions may not be caught.",
+        "3. Buyers Want Proof\n\nBefore deploying a model, buyers could demand identity verification. Vendors who can't prove it may lose deals.",
+        "4. A New Standard\n\nModel identity checks could become a procurement requirement. Companies will ask for proof before signing contracts.",
+        "5. Ask Your Vendor\n\nNext time you evaluate an AI model, ask: can you verify its identity? If they can't answer, that's your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic wants to prove an AI model is really theirs.",
+        "They're building identity verification for AI models.",
+        "But fine-tuned copies might slip through the cracks.",
+        "Buyers could soon demand proof before deploying anything.",
+        "Ask your vendor: can you verify model identity?"
+      ]
+    },
+    "instagram": {
+      "caption": "Before you deploy a model, you might need proof it's the real one.\n\nAnthropic is building identity verification for AI models. The goal: prove a model is actually theirs and not a copy.\n\nFine-tuned versions may slip past the check though. That gap matters if you're buying or reselling models. 🔍\n\nVendors who can't show proof could lose deals to those who can.\n\nNext time you evaluate a model, ask the vendor: can you verify its identity? 🤔"
+    }
+  },
+  "instagram_caption": "Before you deploy a model, you might need proof it's the real one.\n\nAnthropic is building identity verification for AI models. The goal: prove a model is actually theirs and not a copy.\n\nFine-tuned versions may slip past the check though. That gap matters if you're buying or reselling models. 🔍\n\nVendors who can't show proof could lose deals to those who can.\n\nNext time you evaluate a model, ask the vendor: can you verify its identity? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can you prove your AI is real?",
+      "description": "Anthropic is building identity verification for models to prove authenticity and stop copycats.",
+      "visual_hint": "Close-up of a digital fingerprint scanner",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "fingerprint scanner"
+    },
+    {
+      "hook": "Fake models are slipping through",
+      "description": "Fine-tuned copies can bypass verification, so tweaked versions may not be caught.",
+      "visual_hint": "Two identical robots with one slightly altered",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot clones",
+      "image": "https://images.pexels.com/photos/30691846/pexels-photo-30691846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Buyers demand proof before deploying",
+      "description": "Companies could require identity verification before deploying models, and vendors without proof risk losing deals.",
+      "visual_hint": "Business handshake with a verification checkmark",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "business handshake",
+      "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Identity checks become procurement standard",
+      "description": "Model identity verification may soon be a standard requirement in procurement contracts.",
+      "visual_hint": "Contract document with a verification stamp",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "contract signing",
+      "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: ask your vendor today",
+      "description": "Next time you evaluate an AI model, ask: can you verify its identity? If not, that's your answer.",
+      "visual_hint": "Person holding a smartphone with a checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone checklist",
+      "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798",
+  "savedAt": "2026-11-03T22:42:52.856Z",
+  "sourceId": "bf81805a5ae860b994873a9158cd9f23"
+}
