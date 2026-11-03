@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "anthropic-warns-that-it-s-very-close-to-rsi-capabi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+    "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "pubDate": "Mon, 02 Nov 2026 22:14:50 +0000",
+    "slides": [
+      "Anthropic says self-building AI is near. How near?",
+      "Its own researchers flag recursive self-improvement risk",
+      "But the company admits it lacks tools to measure it",
+      "Teams deploying agents now inherit that blind spot",
+      "Ask your vendor: what RSI metric do you track?"
+    ],
+    "thread_text": [
+      "1. The blind spot is already yours\n\nAnthropic's own researchers warn recursive self-improvement is near — and admit they can't measure it. Anyone deploying AI agents today inherits that gap.",
+      "2. What recursion actually means\n\nSelf-building AI means the model improves itself faster than humans can review. The team that spots it first isn't the one that ships it.",
+      "3. The test they don't have\n\nAnthropic says it lacks tools to detect when an AI starts rewriting its own code. That means no early warning — for them or for you.",
+      "4. Your vendor won't volunteer this\n\nIf the lab building the model can't track recursive self-improvement, no downstream deployer can. The risk travels down the contract, not the codebase.",
+      "5. One question, before you sign\n\nAsk your AI vendor: what metric do you track for recursive self-improvement? If they can't name one, you're the test case."
+    ],
+    "video_script": [
+      "Anthropic says self-building AI is close.",
+      "Its own researchers flag the recursive improvement risk.",
+      "But the company admits it can't measure it yet.",
+      "Anyone deploying agents now inherits that blind spot.",
+      "Ask your vendor which metric tracks recursive self-improvement."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The blind spot is already yours\n\nAnthropic's own researchers warn recursive self-improvement is near — and admit they can't measure it. Anyone deploying AI agents today inherits that gap.",
+          "2. What recursion actually means\n\nSelf-building AI means the model improves itself faster than humans can review. The team that spots it first isn't the one that ships it.",
+          "3. The test they don't have\n\nAnthropic says it lacks tools to detect when an AI starts rewriting its own code. That means no early warning — for them or for you.",
+          "4. Your vendor won't volunteer this\n\nIf the lab building the model can't track recursive self-improvement, no downstream deployer can. The risk travels down the contract, not the codebase.",
+          "5. One question, before you sign\n\nAsk your AI vendor: what metric do you track for recursive self-improvement? If they can't name one, you're the test case."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Anthropic says self-building AI is close.",
+          "Its own researchers flag the recursive improvement risk.",
+          "But the company admits it can't measure it yet.",
+          "Anyone deploying agents now inherits that blind spot.",
+          "Ask your vendor which metric tracks recursive self-improvement."
+        ]
+      },
+      "instagram": {
+        "caption": "Anthropic's own researchers say self-building AI is close, and they admit they can't measure it yet.\n\nThat means a model could start rewriting its own code faster than humans can review, with no early warning system in place. 🤖\n\nIf the lab building the model can't track it, no one deploying those agents downstream can either.\n\nSo if you're using AI tools in your work right now, you've inherited that blind spot without being told.\n\nBefore you sign with any AI vendor, ask one question: what metric do you track for recursive self-improvement?\n\nIf they can't name one, you're the test case. 👀"
+      }
+    },
+    "instagram_caption": "Anthropic's own researchers say self-building AI is close, and they admit they can't measure it yet.\n\nThat means a model could start rewriting its own code faster than humans can review, with no early warning system in place. 🤖\n\nIf the lab building the model can't track it, no one deploying those agents downstream can either.\n\nSo if you're using AI tools in your work right now, you've inherited that blind spot without being told.\n\nBefore you sign with any AI vendor, ask one question: what metric do you track for recursive self-improvement?\n\nIf they can't name one, you're the test case. 👀",
+    "carousel_slides": [
+      {
+        "hook": "Can AI improve itself without oversight?",
+        "description": "Anthropic warns recursive self-improvement is near, but admits it can't measure it—leaving deployers exposed.",
+        "visual_hint": "Abstract neural network with warning sign",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "artificial intelligence brain"
+      },
+      {
+        "hook": "Risk travels down the contract",
+        "description": "If the lab can't track self-improvement, no downstream deployer can—the blind spot becomes yours.",
+        "visual_hint": "Contract handshake with digital overlay",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "business contract signing",
+        "image": "https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No early warning system exists",
+        "description": "Anthropic says it lacks tools to detect when an AI rewrites its own code—so you get no alert.",
+        "visual_hint": "Code editor with missing alarm icon",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "programming code screen",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your vendor won't volunteer this",
+        "description": "Teams deploying agents today inherit a measurement gap the model builder itself can't close.",
+        "visual_hint": "Server room with locked door",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "server room racks",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask: what RSI metric do you track?",
+        "description": "Before signing, demand a specific recursive self-improvement metric from your AI vendor—save this checklist.",
+        "visual_hint": "Checklist with magnifying glass",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard pen",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600",
+    "savedAt": "2026-11-03T01:56:10.121Z",
+    "sourceId": "b86b88ec9ca0ed8c65c70dff76f852cb"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "trajectory-raises-45m-to-make-ai-model-training-ac",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+    "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+    "pubDate": "Mon, 02 Nov 2026 23:13:53 +0000",
+    "slides": [
+      "Can nontechnical experts now train AI without code?",
+      "Trajectory just raised $45M to try",
+      "Its twist: experts teach models, not engineers",
+      "Your domain knowledge may matter more than Python skills",
+      "Test Trajectory on one workflow this month"
+    ],
+    "thread_text": [
+      "1. Experts, not coders\n\nTrajectory just raised $45M to let nontechnical experts train AI without writing code. The model learns from your domain knowledge, not your Python.",
+      "2. Teach, don't engineer\n\nThe twist: you don't build models, you teach them. Your expertise becomes the training signal, not your programming skill.",
+      "3. Python optional now\n\nIf you know your field cold, you may matter more than someone who knows syntax. The barrier is shifting from code to context.",
+      "4. Test one workflow\n\nPick a single repetitive task you already understand deeply. See if Trajectory can learn it from your examples this month.",
+      "5. Your turn\n\nWhat workflow in your job could you teach to a model in one afternoon? Try it on Trajectory and see if it holds up."
+    ],
+    "video_script": [
+      "Nontechnical experts can now train AI without code.",
+      "Trajectory raised forty five million to make it happen.",
+      "The twist: you teach models, not engineers.",
+      "Your domain knowledge may matter more than Python skills.",
+      "Test Trajectory on one workflow this month."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Experts, not coders\n\nTrajectory just raised $45M to let nontechnical experts train AI without writing code. The model learns from your domain knowledge, not your Python.",
+          "2. Teach, don't engineer\n\nThe twist: you don't build models, you teach them. Your expertise becomes the training signal, not your programming skill.",
+          "3. Python optional now\n\nIf you know your field cold, you may matter more than someone who knows syntax. The barrier is shifting from code to context.",
+          "4. Test one workflow\n\nPick a single repetitive task you already understand deeply. See if Trajectory can learn it from your examples this month.",
+          "5. Your turn\n\nWhat workflow in your job could you teach to a model in one afternoon? Try it on Trajectory and see if it holds up."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nontechnical experts can now train AI without code.",
+          "Trajectory raised forty five million to make it happen.",
+          "The twist: you teach models, not engineers.",
+          "Your domain knowledge may matter more than Python skills.",
+          "Test Trajectory on one workflow this month."
+        ]
+      },
+      "instagram": {
+        "caption": "You don't need to know Python to train an AI model anymore — your domain knowledge is the training signal.\n\nTrajectory just raised $45M to let nontechnical experts teach models instead of engineering them. 🧠\n\nThe barrier shifts from syntax to context: if you know your field cold, you may matter more than someone who knows code.\n\nFor creators and publishers, that means turning a repetitive task you already understand into a working model — no dev team required.\n\nWhat workflow in your job could you teach a model in one afternoon? Try it on one task this month and see if it holds up. 🔍"
+      }
+    },
+    "instagram_caption": "You don't need to know Python to train an AI model anymore — your domain knowledge is the training signal.\n\nTrajectory just raised $45M to let nontechnical experts teach models instead of engineering them. 🧠\n\nThe barrier shifts from syntax to context: if you know your field cold, you may matter more than someone who knows code.\n\nFor creators and publishers, that means turning a repetitive task you already understand into a working model — no dev team required.\n\nWhat workflow in your job could you teach a model in one afternoon? Try it on one task this month and see if it holds up. 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Can experts train AI without code?",
+        "description": "Trajectory raised $45M to let nontechnical experts train AI models using domain knowledge instead of programming skills.",
+        "visual_hint": "Person teaching a model with examples",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "person teaching computer"
+      },
+      {
+        "hook": "$45M bet on expert-driven AI",
+        "description": "The startup's $45M funding aims to shift AI training from engineers to domain experts, making model creation more accessible.",
+        "visual_hint": "Stack of cash next to laptop",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stack of cash",
+        "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your knowledge trains the model",
+        "description": "Trajectory's twist: experts teach models directly, so your expertise becomes the training signal, not your Python skills.",
+        "visual_hint": "Brain connecting to a neural network",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "brain neural network",
+        "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Domain expertise beats Python skills",
+        "description": "If you know your field deeply, you may matter more than a coder. The barrier is shifting from syntax to context.",
+        "visual_hint": "Hand pointing at a flowchart",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand pointing flowchart",
+        "image": "https://images.pexels.com/photos/7876501/pexels-photo-7876501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one workflow this month",
+        "description": "Pick a repetitive task you understand well and try teaching it to Trajectory. See if it learns from your examples.",
+        "visual_hint": "Calendar with a task highlighted",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calendar task highlight",
+        "image": "https://images.pexels.com/photos/19915770/pexels-photo-19915770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Trajectory_3.jpg?resize=1200,900",
+    "savedAt": "2026-11-03T01:56:01.070Z",
+    "sourceId": "c368c304bd55e435c140688a32e1ff5f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "y-combinator-s-garry-tan-uses-ai-agents-so-much-he",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+    "pubDate": "Tue, 03 Nov 2026 00:35:52 +0000",
+    "slides": [
+      "Why does Garry Tan burn $200K on tokens?",
+      "The Y Combinator president runs AI agents daily",
+      "Most founders still treat tokens as an expense",
+      "Your agent budget may soon rival your payroll",
+      "Audit one workflow this week: agent or human?"
+    ],
+    "thread_text": [
+      "1. $200K on AI tokens?\n\nGarry Tan, president of Y Combinator, burns that much yearly running AI agents daily. Most founders still see tokens as a cost, not a lever.",
+      "2. Daily agents, real money\n\nTan doesn't just experiment—he runs agents every day. That habit turns token spend into a core operating expense, not a side project.",
+      "3. Founders stuck on expense\n\nMost still budget tokens like software licenses. But when agents handle real work, the line between expense and investment blurs fast.",
+      "4. Payroll's new rival\n\nIf agents take over tasks, your token budget could soon match what you pay people. That shift forces a hard look at every workflow.",
+      "5. Audit one workflow now\n\nPick a single task your team does weekly. Ask: could an agent do it? If yes, test it this week. If no, you've learned something."
+    ],
+    "video_script": [
+      "Garry Tan spends two hundred thousand dollars on AI tokens.",
+      "He runs AI agents every single day at Y Combinator.",
+      "Most founders still treat tokens as a simple expense.",
+      "Soon your agent budget might rival your payroll costs.",
+      "Audit one workflow this week: agent or human?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $200K on AI tokens?\n\nGarry Tan, president of Y Combinator, burns that much yearly running AI agents daily. Most founders still see tokens as a cost, not a lever.",
+          "2. Daily agents, real money\n\nTan doesn't just experiment—he runs agents every day. That habit turns token spend into a core operating expense, not a side project.",
+          "3. Founders stuck on expense\n\nMost still budget tokens like software licenses. But when agents handle real work, the line between expense and investment blurs fast.",
+          "4. Payroll's new rival\n\nIf agents take over tasks, your token budget could soon match what you pay people. That shift forces a hard look at every workflow.",
+          "5. Audit one workflow now\n\nPick a single task your team does weekly. Ask: could an agent do it? If yes, test it this week. If no, you've learned something."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Garry Tan spends two hundred thousand dollars on AI tokens.",
+          "He runs AI agents every single day at Y Combinator.",
+          "Most founders still treat tokens as a simple expense.",
+          "Soon your agent budget might rival your payroll costs.",
+          "Audit one workflow this week: agent or human?"
+        ]
+      },
+      "instagram": {
+        "caption": "$200K a year on AI tokens — that's what Garry Tan, president of Y Combinator, spends running agents every single day. 💸\n\nHe doesn't treat that spend as a software license. It's a core operating expense.\n\nMost founders still budget tokens like a side cost, even when agents handle real work.\n\nThe consequence: your token budget could soon rival your payroll — and every workflow becomes a build-or-hire decision. 🤖\n\nPick one task your team repeats weekly. Could an agent do it? Test it this week, or learn why not. ⚙️\n\nWhich workflow would you hand off first? 👇"
+      }
+    },
+    "instagram_caption": "$200K a year on AI tokens — that's what Garry Tan, president of Y Combinator, spends running agents every single day. 💸\n\nHe doesn't treat that spend as a software license. It's a core operating expense.\n\nMost founders still budget tokens like a side cost, even when agents handle real work.\n\nThe consequence: your token budget could soon rival your payroll — and every workflow becomes a build-or-hire decision. 🤖\n\nPick one task your team repeats weekly. Could an agent do it? Test it this week, or learn why not. ⚙️\n\nWhich workflow would you hand off first? 👇",
+    "carousel_slides": [
+      {
+        "hook": "Is $200K on tokens insane?",
+        "description": "Garry Tan spends up to $200K yearly on AI tokens while most founders still see tokens as a cost, not a lever.",
+        "visual_hint": "Glowing server racks with dollar signs",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Daily agents, real money",
+        "description": "Tan runs AI agents every day, turning token spend into a core operating expense, not a side project.",
+        "visual_hint": "Dashboard showing daily agent activity",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer dashboard",
+        "image": "https://images.pexels.com/photos/7681671/pexels-photo-7681671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stop treating tokens as expense",
+        "description": "Most founders budget tokens like software licenses, but when agents handle real work, expense and investment blur fast.",
+        "visual_hint": "Split screen: receipt vs. investment chart",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "financial chart",
+        "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your token budget vs. payroll",
+        "description": "If agents take over tasks, your token budget could soon match payroll, forcing a hard look at every workflow.",
+        "visual_hint": "Payroll stubs next to token counter",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office desk",
+        "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this. Audit one workflow.",
+        "description": "Pick a weekly task: could an agent do it? Test it this week. Save this post for your audit.",
+        "visual_hint": "Checklist with agent or human options",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
+    "savedAt": "2026-11-03T01:55:48.830Z",
+    "sourceId": "30470ccd04740effe5eaa997a3b07696"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ukraine-s-new-pocket-sized-gadget-turns-russian-dr",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+    "link": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+    "pubDate": "Tue, 03 Nov 2026 01:12:55 +0000",
+    "slides": [
+      "Can a pocket gadget defeat Russia's drones?",
+      "Ukraine's new device targets drone camera sensors directly",
+      "It blinds drones using their own lens optics, not jamming",
+      "Soldiers can deploy it without special training or power",
+      "Ask your defense contact if this tech is field-tested"
+    ],
+    "thread_text": [
+      "1. A Pocket Drone Killer?\n\nUkraine has developed a handheld device that takes down Russian drones by blinding their camera sensors, not by jamming signals. Soldiers can carry it and use it without special training.",
+      "2. How It Blinds Drones\n\nThe device uses the drone's own lens optics against it, overloading the camera sensor with light. This forces the drone to lose visual guidance and crash or abort its mission.",
+      "3. No Training, No Power Needed\n\nSoldiers can deploy it right out of the box, with no special training or external power source required. This makes it ideal for fast-moving frontline situations.",
+      "4. Not Jamming, But Blinding\n\nUnlike electronic warfare that disrupts radio signals, this tool directly attacks the drone's vision. That means it works even against drones that are immune to jamming.",
+      "5. Is This Tech Battle-Tested?\n\nAsk your defense contact if this device has been field-tested in real combat. If not, demand proof before relying on it."
+    ],
+    "video_script": [
+      "Can a pocket gadget defeat Russia's drones?",
+      "Ukraine's new device targets drone camera sensors directly.",
+      "It blinds drones using their own lens optics, not jamming.",
+      "Soldiers can deploy it without special training or power.",
+      "Ask your defense contact if this tech is field-tested."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. A Pocket Drone Killer?\n\nUkraine has developed a handheld device that takes down Russian drones by blinding their camera sensors, not by jamming signals. Soldiers can carry it and use it without special training.",
+          "2. How It Blinds Drones\n\nThe device uses the drone's own lens optics against it, overloading the camera sensor with light. This forces the drone to lose visual guidance and crash or abort its mission.",
+          "3. No Training, No Power Needed\n\nSoldiers can deploy it right out of the box, with no special training or external power source required. This makes it ideal for fast-moving frontline situations.",
+          "4. Not Jamming, But Blinding\n\nUnlike electronic warfare that disrupts radio signals, this tool directly attacks the drone's vision. That means it works even against drones that are immune to jamming.",
+          "5. Is This Tech Battle-Tested?\n\nAsk your defense contact if this device has been field-tested in real combat. If not, demand proof before relying on it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can a pocket gadget defeat Russia's drones?",
+          "Ukraine's new device targets drone camera sensors directly.",
+          "It blinds drones using their own lens optics, not jamming.",
+          "Soldiers can deploy it without special training or power.",
+          "Ask your defense contact if this tech is field-tested."
+        ]
+      },
+      "instagram": {
+        "caption": "Ukraine built a handheld device that takes down Russian drones by blinding their camera sensors with light, not by jamming signals.\n\nIt uses the drone's own lens optics against it, overloading the sensor until the drone loses visual guidance and crashes or aborts. 🎯\n\nNo special training, no external power — soldiers deploy it right out of the box, which matters in fast-moving frontline situations.\n\nIt also works against drones that are immune to radio jamming, since it attacks vision instead of signal.\n\nIf you source or report on defense tech, ask your contact whether this device has actually been field-tested in real combat — and get proof before trusting it. 🔍\n\nWould you publish a claim like this without seeing combat data first? 🤔"
+      }
+    },
+    "instagram_caption": "Ukraine built a handheld device that takes down Russian drones by blinding their camera sensors with light, not by jamming signals.\n\nIt uses the drone's own lens optics against it, overloading the sensor until the drone loses visual guidance and crashes or aborts. 🎯\n\nNo special training, no external power — soldiers deploy it right out of the box, which matters in fast-moving frontline situations.\n\nIt also works against drones that are immune to radio jamming, since it attacks vision instead of signal.\n\nIf you source or report on defense tech, ask your contact whether this device has actually been field-tested in real combat — and get proof before trusting it. 🔍\n\nWould you publish a claim like this without seeing combat data first? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Can a pocket gadget kill drones?",
+        "description": "Ukraine's handheld device blinds drone cameras, not signals, forcing drones to lose guidance and crash.",
+        "visual_hint": "Soldier holding small device outdoors",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "soldier holding device"
+      },
+      {
+        "hook": "It targets the camera, not the signal.",
+        "description": "The device overloads the drone's camera sensor with light using its own lens optics, causing mission abort.",
+        "visual_hint": "Close-up of drone camera lens",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "drone camera lens",
+        "image": "https://images.pexels.com/photos/18605553/pexels-photo-18605553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No jamming, just blinding vision.",
+        "description": "Unlike electronic warfare, this tool attacks vision directly, working even on drones immune to jamming.",
+        "visual_hint": "Light beam hitting sensor",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "camera sensor close-up",
+        "image": "https://images.pexels.com/photos/18880010/pexels-photo-18880010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No training, no power needed.",
+        "description": "Soldiers can deploy it right out of the box, ideal for fast-moving frontline situations without external power.",
+        "visual_hint": "Soldier using device in field",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "soldier using handheld device",
+        "image": "https://images.pexels.com/photos/7467857/pexels-photo-7467857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Is this tech battle-tested? Ask now.",
+        "description": "Ask your defense contact if this device has been field-tested in real combat. Demand proof before relying on it.",
+        "visual_hint": "Hand holding device with question mark",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "hand holding device",
+        "image": "https://images.pexels.com/photos/13570168/pexels-photo-13570168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1388071988.jpg?resize=1200,798",
+    "savedAt": "2026-11-03T01:55:39.301Z",
+    "sourceId": "245a9ef26d7ea6cb9c42d063f6f59b22"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "northwood-space-raises-375m-series-c-at-a-2b-valua",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-warns-that-it-s-very-close-to-rsi-capabi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+  "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+  "pubDate": "Mon, 02 Nov 2026 22:14:50 +0000",
+  "slides": [
+    "Anthropic says self-building AI is near. How near?",
+    "Its own researchers flag recursive self-improvement risk",
+    "But the company admits it lacks tools to measure it",
+    "Teams deploying agents now inherit that blind spot",
+    "Ask your vendor: what RSI metric do you track?"
+  ],
+  "thread_text": [
+    "1. The blind spot is already yours\n\nAnthropic's own researchers warn recursive self-improvement is near — and admit they can't measure it. Anyone deploying AI agents today inherits that gap.",
+    "2. What recursion actually means\n\nSelf-building AI means the model improves itself faster than humans can review. The team that spots it first isn't the one that ships it.",
+    "3. The test they don't have\n\nAnthropic says it lacks tools to detect when an AI starts rewriting its own code. That means no early warning — for them or for you.",
+    "4. Your vendor won't volunteer this\n\nIf the lab building the model can't track recursive self-improvement, no downstream deployer can. The risk travels down the contract, not the codebase.",
+    "5. One question, before you sign\n\nAsk your AI vendor: what metric do you track for recursive self-improvement? If they can't name one, you're the test case."
+  ],
+  "video_script": [
+    "Anthropic says self-building AI is close.",
+    "Its own researchers flag the recursive improvement risk.",
+    "But the company admits it can't measure it yet.",
+    "Anyone deploying agents now inherits that blind spot.",
+    "Ask your vendor which metric tracks recursive self-improvement."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The blind spot is already yours\n\nAnthropic's own researchers warn recursive self-improvement is near — and admit they can't measure it. Anyone deploying AI agents today inherits that gap.",
+        "2. What recursion actually means\n\nSelf-building AI means the model improves itself faster than humans can review. The team that spots it first isn't the one that ships it.",
+        "3. The test they don't have\n\nAnthropic says it lacks tools to detect when an AI starts rewriting its own code. That means no early warning — for them or for you.",
+        "4. Your vendor won't volunteer this\n\nIf the lab building the model can't track recursive self-improvement, no downstream deployer can. The risk travels down the contract, not the codebase.",
+        "5. One question, before you sign\n\nAsk your AI vendor: what metric do you track for recursive self-improvement? If they can't name one, you're the test case."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic says self-building AI is close.",
+        "Its own researchers flag the recursive improvement risk.",
+        "But the company admits it can't measure it yet.",
+        "Anyone deploying agents now inherits that blind spot.",
+        "Ask your vendor which metric tracks recursive self-improvement."
+      ]
+    },
+    "instagram": {
+      "caption": "Anthropic's own researchers say self-building AI is close, and they admit they can't measure it yet.\n\nThat means a model could start rewriting its own code faster than humans can review, with no early warning system in place. 🤖\n\nIf the lab building the model can't track it, no one deploying those agents downstream can either.\n\nSo if you're using AI tools in your work right now, you've inherited that blind spot without being told.\n\nBefore you sign with any AI vendor, ask one question: what metric do you track for recursive self-improvement?\n\nIf they can't name one, you're the test case. 👀"
+    }
+  },
+  "instagram_caption": "Anthropic's own researchers say self-building AI is close, and they admit they can't measure it yet.\n\nThat means a model could start rewriting its own code faster than humans can review, with no early warning system in place. 🤖\n\nIf the lab building the model can't track it, no one deploying those agents downstream can either.\n\nSo if you're using AI tools in your work right now, you've inherited that blind spot without being told.\n\nBefore you sign with any AI vendor, ask one question: what metric do you track for recursive self-improvement?\n\nIf they can't name one, you're the test case. 👀",
+  "carousel_slides": [
+    {
+      "hook": "Can AI improve itself without oversight?",
+      "description": "Anthropic warns recursive self-improvement is near, but admits it can't measure it—leaving deployers exposed.",
+      "visual_hint": "Abstract neural network with warning sign",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "artificial intelligence brain"
+    },
+    {
+      "hook": "Risk travels down the contract",
+      "description": "If the lab can't track self-improvement, no downstream deployer can—the blind spot becomes yours.",
+      "visual_hint": "Contract handshake with digital overlay",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "business contract signing",
+      "image": "https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No early warning system exists",
+      "description": "Anthropic says it lacks tools to detect when an AI rewrites its own code—so you get no alert.",
+      "visual_hint": "Code editor with missing alarm icon",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "programming code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your vendor won't volunteer this",
+      "description": "Teams deploying agents today inherit a measurement gap the model builder itself can't close.",
+      "visual_hint": "Server room with locked door",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "server room racks",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask: what RSI metric do you track?",
+      "description": "Before signing, demand a specific recursive self-improvement metric from your AI vendor—save this checklist.",
+      "visual_hint": "Checklist with magnifying glass",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard pen",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600",
+  "savedAt": "2026-11-03T01:56:10.121Z",
+  "sourceId": "b86b88ec9ca0ed8c65c70dff76f852cb"
+}

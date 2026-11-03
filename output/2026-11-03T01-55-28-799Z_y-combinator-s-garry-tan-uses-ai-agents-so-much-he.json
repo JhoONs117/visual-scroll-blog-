@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "y-combinator-s-garry-tan-uses-ai-agents-so-much-he",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+  "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+  "pubDate": "Tue, 03 Nov 2026 00:35:52 +0000",
+  "slides": [
+    "Why does Garry Tan burn $200K on tokens?",
+    "The Y Combinator president runs AI agents daily",
+    "Most founders still treat tokens as an expense",
+    "Your agent budget may soon rival your payroll",
+    "Audit one workflow this week: agent or human?"
+  ],
+  "thread_text": [
+    "1. $200K on AI tokens?\n\nGarry Tan, president of Y Combinator, burns that much yearly running AI agents daily. Most founders still see tokens as a cost, not a lever.",
+    "2. Daily agents, real money\n\nTan doesn't just experiment—he runs agents every day. That habit turns token spend into a core operating expense, not a side project.",
+    "3. Founders stuck on expense\n\nMost still budget tokens like software licenses. But when agents handle real work, the line between expense and investment blurs fast.",
+    "4. Payroll's new rival\n\nIf agents take over tasks, your token budget could soon match what you pay people. That shift forces a hard look at every workflow.",
+    "5. Audit one workflow now\n\nPick a single task your team does weekly. Ask: could an agent do it? If yes, test it this week. If no, you've learned something."
+  ],
+  "video_script": [
+    "Garry Tan spends two hundred thousand dollars on AI tokens.",
+    "He runs AI agents every single day at Y Combinator.",
+    "Most founders still treat tokens as a simple expense.",
+    "Soon your agent budget might rival your payroll costs.",
+    "Audit one workflow this week: agent or human?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $200K on AI tokens?\n\nGarry Tan, president of Y Combinator, burns that much yearly running AI agents daily. Most founders still see tokens as a cost, not a lever.",
+        "2. Daily agents, real money\n\nTan doesn't just experiment—he runs agents every day. That habit turns token spend into a core operating expense, not a side project.",
+        "3. Founders stuck on expense\n\nMost still budget tokens like software licenses. But when agents handle real work, the line between expense and investment blurs fast.",
+        "4. Payroll's new rival\n\nIf agents take over tasks, your token budget could soon match what you pay people. That shift forces a hard look at every workflow.",
+        "5. Audit one workflow now\n\nPick a single task your team does weekly. Ask: could an agent do it? If yes, test it this week. If no, you've learned something."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Garry Tan spends two hundred thousand dollars on AI tokens.",
+        "He runs AI agents every single day at Y Combinator.",
+        "Most founders still treat tokens as a simple expense.",
+        "Soon your agent budget might rival your payroll costs.",
+        "Audit one workflow this week: agent or human?"
+      ]
+    },
+    "instagram": {
+      "caption": "$200K a year on AI tokens — that's what Garry Tan, president of Y Combinator, spends running agents every single day. 💸\n\nHe doesn't treat that spend as a software license. It's a core operating expense.\n\nMost founders still budget tokens like a side cost, even when agents handle real work.\n\nThe consequence: your token budget could soon rival your payroll — and every workflow becomes a build-or-hire decision. 🤖\n\nPick one task your team repeats weekly. Could an agent do it? Test it this week, or learn why not. ⚙️\n\nWhich workflow would you hand off first? 👇"
+    }
+  },
+  "instagram_caption": "$200K a year on AI tokens — that's what Garry Tan, president of Y Combinator, spends running agents every single day. 💸\n\nHe doesn't treat that spend as a software license. It's a core operating expense.\n\nMost founders still budget tokens like a side cost, even when agents handle real work.\n\nThe consequence: your token budget could soon rival your payroll — and every workflow becomes a build-or-hire decision. 🤖\n\nPick one task your team repeats weekly. Could an agent do it? Test it this week, or learn why not. ⚙️\n\nWhich workflow would you hand off first? 👇",
+  "carousel_slides": [
+    {
+      "hook": "Is $200K on tokens insane?",
+      "description": "Garry Tan spends up to $200K yearly on AI tokens while most founders still see tokens as a cost, not a lever.",
+      "visual_hint": "Glowing server racks with dollar signs",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Daily agents, real money",
+      "description": "Tan runs AI agents every day, turning token spend into a core operating expense, not a side project.",
+      "visual_hint": "Dashboard showing daily agent activity",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer dashboard",
+      "image": "https://images.pexels.com/photos/7681671/pexels-photo-7681671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop treating tokens as expense",
+      "description": "Most founders budget tokens like software licenses, but when agents handle real work, expense and investment blur fast.",
+      "visual_hint": "Split screen: receipt vs. investment chart",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "financial chart",
+      "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your token budget vs. payroll",
+      "description": "If agents take over tasks, your token budget could soon match payroll, forcing a hard look at every workflow.",
+      "visual_hint": "Payroll stubs next to token counter",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office desk",
+      "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Audit one workflow.",
+      "description": "Pick a weekly task: could an agent do it? Test it this week. Save this post for your audit.",
+      "visual_hint": "Checklist with agent or human options",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
+  "savedAt": "2026-11-03T01:55:48.830Z",
+  "sourceId": "30470ccd04740effe5eaa997a3b07696"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "trajectory-raises-45m-to-make-ai-model-training-ac",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+  "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+  "pubDate": "Mon, 02 Nov 2026 23:13:53 +0000",
+  "slides": [
+    "Can nontechnical experts now train AI without code?",
+    "Trajectory just raised $45M to try",
+    "Its twist: experts teach models, not engineers",
+    "Your domain knowledge may matter more than Python skills",
+    "Test Trajectory on one workflow this month"
+  ],
+  "thread_text": [
+    "1. Experts, not coders\n\nTrajectory just raised $45M to let nontechnical experts train AI without writing code. The model learns from your domain knowledge, not your Python.",
+    "2. Teach, don't engineer\n\nThe twist: you don't build models, you teach them. Your expertise becomes the training signal, not your programming skill.",
+    "3. Python optional now\n\nIf you know your field cold, you may matter more than someone who knows syntax. The barrier is shifting from code to context.",
+    "4. Test one workflow\n\nPick a single repetitive task you already understand deeply. See if Trajectory can learn it from your examples this month.",
+    "5. Your turn\n\nWhat workflow in your job could you teach to a model in one afternoon? Try it on Trajectory and see if it holds up."
+  ],
+  "video_script": [
+    "Nontechnical experts can now train AI without code.",
+    "Trajectory raised forty five million to make it happen.",
+    "The twist: you teach models, not engineers.",
+    "Your domain knowledge may matter more than Python skills.",
+    "Test Trajectory on one workflow this month."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Experts, not coders\n\nTrajectory just raised $45M to let nontechnical experts train AI without writing code. The model learns from your domain knowledge, not your Python.",
+        "2. Teach, don't engineer\n\nThe twist: you don't build models, you teach them. Your expertise becomes the training signal, not your programming skill.",
+        "3. Python optional now\n\nIf you know your field cold, you may matter more than someone who knows syntax. The barrier is shifting from code to context.",
+        "4. Test one workflow\n\nPick a single repetitive task you already understand deeply. See if Trajectory can learn it from your examples this month.",
+        "5. Your turn\n\nWhat workflow in your job could you teach to a model in one afternoon? Try it on Trajectory and see if it holds up."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Nontechnical experts can now train AI without code.",
+        "Trajectory raised forty five million to make it happen.",
+        "The twist: you teach models, not engineers.",
+        "Your domain knowledge may matter more than Python skills.",
+        "Test Trajectory on one workflow this month."
+      ]
+    },
+    "instagram": {
+      "caption": "You don't need to know Python to train an AI model anymore — your domain knowledge is the training signal.\n\nTrajectory just raised $45M to let nontechnical experts teach models instead of engineering them. 🧠\n\nThe barrier shifts from syntax to context: if you know your field cold, you may matter more than someone who knows code.\n\nFor creators and publishers, that means turning a repetitive task you already understand into a working model — no dev team required.\n\nWhat workflow in your job could you teach a model in one afternoon? Try it on one task this month and see if it holds up. 🔍"
+    }
+  },
+  "instagram_caption": "You don't need to know Python to train an AI model anymore — your domain knowledge is the training signal.\n\nTrajectory just raised $45M to let nontechnical experts teach models instead of engineering them. 🧠\n\nThe barrier shifts from syntax to context: if you know your field cold, you may matter more than someone who knows code.\n\nFor creators and publishers, that means turning a repetitive task you already understand into a working model — no dev team required.\n\nWhat workflow in your job could you teach a model in one afternoon? Try it on one task this month and see if it holds up. 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Can experts train AI without code?",
+      "description": "Trajectory raised $45M to let nontechnical experts train AI models using domain knowledge instead of programming skills.",
+      "visual_hint": "Person teaching a model with examples",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "person teaching computer"
+    },
+    {
+      "hook": "$45M bet on expert-driven AI",
+      "description": "The startup's $45M funding aims to shift AI training from engineers to domain experts, making model creation more accessible.",
+      "visual_hint": "Stack of cash next to laptop",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stack of cash",
+      "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your knowledge trains the model",
+      "description": "Trajectory's twist: experts teach models directly, so your expertise becomes the training signal, not your Python skills.",
+      "visual_hint": "Brain connecting to a neural network",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "brain neural network",
+      "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Domain expertise beats Python skills",
+      "description": "If you know your field deeply, you may matter more than a coder. The barrier is shifting from syntax to context.",
+      "visual_hint": "Hand pointing at a flowchart",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand pointing flowchart",
+      "image": "https://images.pexels.com/photos/7876501/pexels-photo-7876501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one workflow this month",
+      "description": "Pick a repetitive task you understand well and try teaching it to Trajectory. See if it learns from your examples.",
+      "visual_hint": "Calendar with a task highlighted",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar task highlight",
+      "image": "https://images.pexels.com/photos/19915770/pexels-photo-19915770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/Trajectory_3.jpg?resize=1200,900",
+  "savedAt": "2026-11-03T01:56:01.070Z",
+  "sourceId": "c368c304bd55e435c140688a32e1ff5f"
+}

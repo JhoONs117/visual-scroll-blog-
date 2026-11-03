@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ukraine-s-new-pocket-sized-gadget-turns-russian-dr",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+  "link": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+  "pubDate": "Tue, 03 Nov 2026 01:12:55 +0000",
+  "slides": [
+    "Can a pocket gadget defeat Russia's drones?",
+    "Ukraine's new device targets drone camera sensors directly",
+    "It blinds drones using their own lens optics, not jamming",
+    "Soldiers can deploy it without special training or power",
+    "Ask your defense contact if this tech is field-tested"
+  ],
+  "thread_text": [
+    "1. A Pocket Drone Killer?\n\nUkraine has developed a handheld device that takes down Russian drones by blinding their camera sensors, not by jamming signals. Soldiers can carry it and use it without special training.",
+    "2. How It Blinds Drones\n\nThe device uses the drone's own lens optics against it, overloading the camera sensor with light. This forces the drone to lose visual guidance and crash or abort its mission.",
+    "3. No Training, No Power Needed\n\nSoldiers can deploy it right out of the box, with no special training or external power source required. This makes it ideal for fast-moving frontline situations.",
+    "4. Not Jamming, But Blinding\n\nUnlike electronic warfare that disrupts radio signals, this tool directly attacks the drone's vision. That means it works even against drones that are immune to jamming.",
+    "5. Is This Tech Battle-Tested?\n\nAsk your defense contact if this device has been field-tested in real combat. If not, demand proof before relying on it."
+  ],
+  "video_script": [
+    "Can a pocket gadget defeat Russia's drones?",
+    "Ukraine's new device targets drone camera sensors directly.",
+    "It blinds drones using their own lens optics, not jamming.",
+    "Soldiers can deploy it without special training or power.",
+    "Ask your defense contact if this tech is field-tested."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. A Pocket Drone Killer?\n\nUkraine has developed a handheld device that takes down Russian drones by blinding their camera sensors, not by jamming signals. Soldiers can carry it and use it without special training.",
+        "2. How It Blinds Drones\n\nThe device uses the drone's own lens optics against it, overloading the camera sensor with light. This forces the drone to lose visual guidance and crash or abort its mission.",
+        "3. No Training, No Power Needed\n\nSoldiers can deploy it right out of the box, with no special training or external power source required. This makes it ideal for fast-moving frontline situations.",
+        "4. Not Jamming, But Blinding\n\nUnlike electronic warfare that disrupts radio signals, this tool directly attacks the drone's vision. That means it works even against drones that are immune to jamming.",
+        "5. Is This Tech Battle-Tested?\n\nAsk your defense contact if this device has been field-tested in real combat. If not, demand proof before relying on it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can a pocket gadget defeat Russia's drones?",
+        "Ukraine's new device targets drone camera sensors directly.",
+        "It blinds drones using their own lens optics, not jamming.",
+        "Soldiers can deploy it without special training or power.",
+        "Ask your defense contact if this tech is field-tested."
+      ]
+    },
+    "instagram": {
+      "caption": "Ukraine built a handheld device that takes down Russian drones by blinding their camera sensors with light, not by jamming signals.\n\nIt uses the drone's own lens optics against it, overloading the sensor until the drone loses visual guidance and crashes or aborts. 🎯\n\nNo special training, no external power — soldiers deploy it right out of the box, which matters in fast-moving frontline situations.\n\nIt also works against drones that are immune to radio jamming, since it attacks vision instead of signal.\n\nIf you source or report on defense tech, ask your contact whether this device has actually been field-tested in real combat — and get proof before trusting it. 🔍\n\nWould you publish a claim like this without seeing combat data first? 🤔"
+    }
+  },
+  "instagram_caption": "Ukraine built a handheld device that takes down Russian drones by blinding their camera sensors with light, not by jamming signals.\n\nIt uses the drone's own lens optics against it, overloading the sensor until the drone loses visual guidance and crashes or aborts. 🎯\n\nNo special training, no external power — soldiers deploy it right out of the box, which matters in fast-moving frontline situations.\n\nIt also works against drones that are immune to radio jamming, since it attacks vision instead of signal.\n\nIf you source or report on defense tech, ask your contact whether this device has actually been field-tested in real combat — and get proof before trusting it. 🔍\n\nWould you publish a claim like this without seeing combat data first? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can a pocket gadget kill drones?",
+      "description": "Ukraine's handheld device blinds drone cameras, not signals, forcing drones to lose guidance and crash.",
+      "visual_hint": "Soldier holding small device outdoors",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "soldier holding device"
+    },
+    {
+      "hook": "It targets the camera, not the signal.",
+      "description": "The device overloads the drone's camera sensor with light using its own lens optics, causing mission abort.",
+      "visual_hint": "Close-up of drone camera lens",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "drone camera lens",
+      "image": "https://images.pexels.com/photos/18605553/pexels-photo-18605553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No jamming, just blinding vision.",
+      "description": "Unlike electronic warfare, this tool attacks vision directly, working even on drones immune to jamming.",
+      "visual_hint": "Light beam hitting sensor",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "camera sensor close-up",
+      "image": "https://images.pexels.com/photos/18880010/pexels-photo-18880010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No training, no power needed.",
+      "description": "Soldiers can deploy it right out of the box, ideal for fast-moving frontline situations without external power.",
+      "visual_hint": "Soldier using device in field",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "soldier using handheld device",
+      "image": "https://images.pexels.com/photos/7467857/pexels-photo-7467857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is this tech battle-tested? Ask now.",
+      "description": "Ask your defense contact if this device has been field-tested in real combat. Demand proof before relying on it.",
+      "visual_hint": "Hand holding device with question mark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hand holding device",
+      "image": "https://images.pexels.com/photos/13570168/pexels-photo-13570168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1388071988.jpg?resize=1200,798",
+  "savedAt": "2026-11-03T01:55:39.301Z",
+  "sourceId": "245a9ef26d7ea6cb9c42d063f6f59b22"
+}
