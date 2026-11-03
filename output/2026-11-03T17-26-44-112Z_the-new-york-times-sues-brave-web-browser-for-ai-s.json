@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-new-york-times-sues-brave-web-browser-for-ai-s",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+  "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+  "pubDate": "2026-11-02T17:51:19.000Z",
+  "slides": [
+    "Why is The New York Times suing Brave?",
+    "It claims Brave bypassed paywalls to scrape articles",
+    "But Brave says its AI answers cite sources, not copy",
+    "Publishers must now audit how AI browsers read their sites",
+    "Check your own site: are AI crawlers paying to read?"
+  ],
+  "thread_text": [
+    "1. The Times vs Brave\n\nBrave's AI bypassed paywalls to scrape articles, according to a new lawsuit from The New York Times. The core question: is AI browsing just reading, or stealing?",
+    "2. Paywall Bypass Claims\n\nThe Times says Brave's browser used its AI to get around paywalls and scrape content. That's not indexing — that's extraction without permission.",
+    "3. Brave's Defense\n\nBrave argues its AI answers only cite sources and never copy full text. If true, does that make it fair use, or still a paywall violation?",
+    "4. Your Site's Blind Spot\n\nPublishers now need to audit how AI browsers access their content. Most have no idea which bots are reading, and whether they're paying.",
+    "5. Check Your Logs Today\n\nLook at your server logs: are AI crawlers hitting your paywalled pages? If yes, you're already in this fight. What will you do about it?"
+  ],
+  "video_script": [
+    "The New York Times is suing Brave.",
+    "They say Brave bypassed paywalls.",
+    "Brave says it only cites sources.",
+    "Publishers must audit AI browser access.",
+    "Check your logs for AI crawlers."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Times vs Brave\n\nBrave's AI bypassed paywalls to scrape articles, according to a new lawsuit from The New York Times. The core question: is AI browsing just reading, or stealing?",
+        "2. Paywall Bypass Claims\n\nThe Times says Brave's browser used its AI to get around paywalls and scrape content. That's not indexing — that's extraction without permission.",
+        "3. Brave's Defense\n\nBrave argues its AI answers only cite sources and never copy full text. If true, does that make it fair use, or still a paywall violation?",
+        "4. Your Site's Blind Spot\n\nPublishers now need to audit how AI browsers access their content. Most have no idea which bots are reading, and whether they're paying.",
+        "5. Check Your Logs Today\n\nLook at your server logs: are AI crawlers hitting your paywalled pages? If yes, you're already in this fight. What will you do about it?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "The New York Times is suing Brave.",
+        "They say Brave bypassed paywalls.",
+        "Brave says it only cites sources.",
+        "Publishers must audit AI browser access.",
+        "Check your logs for AI crawlers."
+      ]
+    },
+    "instagram": {
+      "caption": "A paywall can be bypassed by a browser's AI to scrape articles — that's what The New York Times alleges against Brave in a new lawsuit. 🧩\n\nThe Times claims Brave's AI got around paywalls to extract content, not just index it.\n\nBrave responds that its AI answers cite sources and never copy full text. ⚖️\n\nIf you publish anything behind a paywall, this is your blind spot: most sites have no idea which AI bots are reading their pages, or whether they're paying. 🔍\n\nCheck your server logs today — are AI crawlers hitting your paywalled pages?\n\nWhat would you do if they were? 👀"
+    }
+  },
+  "instagram_caption": "A paywall can be bypassed by a browser's AI to scrape articles — that's what The New York Times alleges against Brave in a new lawsuit. 🧩\n\nThe Times claims Brave's AI got around paywalls to extract content, not just index it.\n\nBrave responds that its AI answers cite sources and never copy full text. ⚖️\n\nIf you publish anything behind a paywall, this is your blind spot: most sites have no idea which AI bots are reading their pages, or whether they're paying. 🔍\n\nCheck your server logs today — are AI crawlers hitting your paywalled pages?\n\nWhat would you do if they were? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Is AI browsing stealing or just reading?",
+      "description": "The New York Times sues Brave, claiming its AI bypassed paywalls to scrape articles. The core question: fair use or theft?",
+      "visual_hint": "Gavel and newspaper on desk",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "gavel newspaper"
+    },
+    {
+      "hook": "Brave accused of paywall bypass",
+      "description": "The Times alleges Brave's browser used AI to get around paywalls and scrape content without permission, calling it extraction, not indexing.",
+      "visual_hint": "Browser window with paywall icon",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "browser paywall",
+      "image": "https://images.pexels.com/photos/16245252/pexels-photo-16245252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Brave: our AI only cites sources",
+      "description": "Brave defends itself, saying its AI answers only cite sources and never copy full text. Does that make it fair use?",
+      "visual_hint": "AI chat interface with citations",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "AI chat interface",
+      "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Publishers must audit AI crawlers now",
+      "description": "Most publishers have no idea which AI bots read their content or whether they pay. Auditing access is now essential.",
+      "visual_hint": "Server logs with bot activity",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "server logs",
+      "image": "https://images.pexels.com/photos/18187117/pexels-photo-18187117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your logs: are AI crawlers paying?",
+      "description": "Inspect your server logs for AI bots hitting paywalled pages. If they are, you're already in this fight. Save this post.",
+      "visual_hint": "Hand pointing at analytics dashboard",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "analytics dashboard",
+      "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.232235952618%2C100%2C79.535528094764&amp;w=1200",
+  "savedAt": "2026-11-03T17:27:22.191Z",
+  "sourceId": "f3c40d8a649f8cb1c65bb905fea2215b"
+}

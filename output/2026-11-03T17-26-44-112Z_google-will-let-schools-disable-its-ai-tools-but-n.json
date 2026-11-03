@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-will-let-schools-disable-its-ai-tools-but-n",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+  "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+  "pubDate": "Tue, 03 Nov 2026 16:30:34 +0000",
+  "slides": [
+    "Why is Google letting schools switch off its AI?",
+    "Schools can now disable Gemini apps entirely",
+    "But disabling AI also strips Search features",
+    "Admins must choose between AI and full Search",
+    "Ask your school which trade-off it chose"
+  ],
+  "thread_text": [
+    "1. Your school can now kill Google AI\n\nGoogle just gave schools a switch to disable Gemini entirely. That means students lose access to AI writing tools overnight.",
+    "2. The catch: Search breaks too\n\nTurning off Gemini doesn't just remove AI. It also strips enhanced Search features like AI Overviews and smart summaries. Administrators can't separate the two.",
+    "3. The trade-off nobody wanted\n\nSchools now face a binary choice: keep AI in Search, or lose Search's full power. There's no middle ground for parents or teachers.",
+    "4. Why Google did this\n\nPressure from regulators and parents forced Google's hand. But the solution creates a new problem: dumbing down Search for everyone.",
+    "5. Ask your school what they chose\n\nCall or email your school admin today. Ask: 'Did we disable Gemini? And what happened to our Search features?' Their answer affects your kid's daily tools."
+  ],
+  "video_script": [
+    "Google just let schools turn off its AI. But there's a catch.",
+    "Disabling Gemini also removes smart Search features students rely on.",
+    "Administrators now choose between AI and full Search. No middle ground.",
+    "Regulators forced this change. But it creates a new problem for schools.",
+    "Ask your school: did we disable AI? And what did Search lose?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your school can now kill Google AI\n\nGoogle just gave schools a switch to disable Gemini entirely. That means students lose access to AI writing tools overnight.",
+        "2. The catch: Search breaks too\n\nTurning off Gemini doesn't just remove AI. It also strips enhanced Search features like AI Overviews and smart summaries. Administrators can't separate the two.",
+        "3. The trade-off nobody wanted\n\nSchools now face a binary choice: keep AI in Search, or lose Search's full power. There's no middle ground for parents or teachers.",
+        "4. Why Google did this\n\nPressure from regulators and parents forced Google's hand. But the solution creates a new problem: dumbing down Search for everyone.",
+        "5. Ask your school what they chose\n\nCall or email your school admin today. Ask: 'Did we disable Gemini? And what happened to our Search features?' Their answer affects your kid's daily tools."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google just let schools turn off its AI. But there's a catch.",
+        "Disabling Gemini also removes smart Search features students rely on.",
+        "Administrators now choose between AI and full Search. No middle ground.",
+        "Regulators forced this change. But it creates a new problem for schools.",
+        "Ask your school: did we disable AI? And what did Search lose?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your school can now switch off Gemini completely — but it can't do that without also killing Search's AI Overviews and smart summaries. 🏫\n\nGoogle handed schools a kill switch for its AI. The problem is it's wired to the same circuit as Search.\n\nAdmins can't separate them: keeping full Search means keeping AI in it. It's one binary choice.\n\nSo the tools students and teachers use daily got decided by someone else. 🧩\n\nAsk your school admin one direct question: \"Did we disable Gemini, and what happened to our Search features?\" ⚡ Their answer affects what your kid can actually do in class.\n\nWorth a two-minute email today. 📩"
+    }
+  },
+  "instagram_caption": "Your school can now switch off Gemini completely — but it can't do that without also killing Search's AI Overviews and smart summaries. 🏫\n\nGoogle handed schools a kill switch for its AI. The problem is it's wired to the same circuit as Search.\n\nAdmins can't separate them: keeping full Search means keeping AI in it. It's one binary choice.\n\nSo the tools students and teachers use daily got decided by someone else. 🧩\n\nAsk your school admin one direct question: \"Did we disable Gemini, and what happened to our Search features?\" ⚡ Their answer affects what your kid can actually do in class.\n\nWorth a two-minute email today. 📩",
+  "carousel_slides": [
+    {
+      "hook": "Schools can disable AI, but lose Search",
+      "description": "Google now lets schools turn off Gemini entirely, but doing so also strips enhanced Search features like AI Overviews, forcing a tough trade-off.",
+      "visual_hint": "Split screen showing AI toggle and search bar",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "school classroom technology"
+    },
+    {
+      "hook": "One switch kills Gemini for everyone",
+      "description": "Administrators can disable Gemini apps overnight, removing student access to AI writing tools instantly, with no gradual phase-out.",
+      "visual_hint": "Hand flipping a large power switch",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "power switch",
+      "image": "https://images.pexels.com/photos/12951625/pexels-photo-12951625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Turning off AI also breaks Search",
+      "description": "Disabling Gemini removes AI Overviews and smart summaries from Search, and admins cannot separate AI from core search functionality.",
+      "visual_hint": "Search bar with missing results and error icons",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "search engine",
+      "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No middle ground for schools",
+      "description": "Schools face a binary choice: keep AI in Search or lose full Search power, leaving parents and teachers without a compromise option.",
+      "visual_hint": "Two buttons labeled AI and Search with a fork",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "fork road",
+      "image": "https://images.pexels.com/photos/10124559/pexels-photo-10124559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your school which trade-off they chose",
+      "description": "Email your school admin today and ask: Did we disable Gemini? What happened to our Search features? Their answer affects your kid's daily tools.",
+      "visual_hint": "Parent sending email on smartphone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone email",
+      "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/20432916/pexels-photo-20432916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-11-03T17:26:54.574Z",
+  "sourceId": "a7a0eeaf87bf41d8c7dae60571dcdf30"
+}

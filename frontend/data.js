@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "the-new-york-times-sues-brave-web-browser-for-ai-s",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+    "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+    "pubDate": "2026-11-02T17:51:19.000Z",
+    "slides": [
+      "Why is The New York Times suing Brave?",
+      "It claims Brave bypassed paywalls to scrape articles",
+      "But Brave says its AI answers cite sources, not copy",
+      "Publishers must now audit how AI browsers read their sites",
+      "Check your own site: are AI crawlers paying to read?"
+    ],
+    "thread_text": [
+      "1. The Times vs Brave\n\nBrave's AI bypassed paywalls to scrape articles, according to a new lawsuit from The New York Times. The core question: is AI browsing just reading, or stealing?",
+      "2. Paywall Bypass Claims\n\nThe Times says Brave's browser used its AI to get around paywalls and scrape content. That's not indexing — that's extraction without permission.",
+      "3. Brave's Defense\n\nBrave argues its AI answers only cite sources and never copy full text. If true, does that make it fair use, or still a paywall violation?",
+      "4. Your Site's Blind Spot\n\nPublishers now need to audit how AI browsers access their content. Most have no idea which bots are reading, and whether they're paying.",
+      "5. Check Your Logs Today\n\nLook at your server logs: are AI crawlers hitting your paywalled pages? If yes, you're already in this fight. What will you do about it?"
+    ],
+    "video_script": [
+      "The New York Times is suing Brave.",
+      "They say Brave bypassed paywalls.",
+      "Brave says it only cites sources.",
+      "Publishers must audit AI browser access.",
+      "Check your logs for AI crawlers."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Times vs Brave\n\nBrave's AI bypassed paywalls to scrape articles, according to a new lawsuit from The New York Times. The core question: is AI browsing just reading, or stealing?",
+          "2. Paywall Bypass Claims\n\nThe Times says Brave's browser used its AI to get around paywalls and scrape content. That's not indexing — that's extraction without permission.",
+          "3. Brave's Defense\n\nBrave argues its AI answers only cite sources and never copy full text. If true, does that make it fair use, or still a paywall violation?",
+          "4. Your Site's Blind Spot\n\nPublishers now need to audit how AI browsers access their content. Most have no idea which bots are reading, and whether they're paying.",
+          "5. Check Your Logs Today\n\nLook at your server logs: are AI crawlers hitting your paywalled pages? If yes, you're already in this fight. What will you do about it?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "The New York Times is suing Brave.",
+          "They say Brave bypassed paywalls.",
+          "Brave says it only cites sources.",
+          "Publishers must audit AI browser access.",
+          "Check your logs for AI crawlers."
+        ]
+      },
+      "instagram": {
+        "caption": "A paywall can be bypassed by a browser's AI to scrape articles — that's what The New York Times alleges against Brave in a new lawsuit. 🧩\n\nThe Times claims Brave's AI got around paywalls to extract content, not just index it.\n\nBrave responds that its AI answers cite sources and never copy full text. ⚖️\n\nIf you publish anything behind a paywall, this is your blind spot: most sites have no idea which AI bots are reading their pages, or whether they're paying. 🔍\n\nCheck your server logs today — are AI crawlers hitting your paywalled pages?\n\nWhat would you do if they were? 👀"
+      }
+    },
+    "instagram_caption": "A paywall can be bypassed by a browser's AI to scrape articles — that's what The New York Times alleges against Brave in a new lawsuit. 🧩\n\nThe Times claims Brave's AI got around paywalls to extract content, not just index it.\n\nBrave responds that its AI answers cite sources and never copy full text. ⚖️\n\nIf you publish anything behind a paywall, this is your blind spot: most sites have no idea which AI bots are reading their pages, or whether they're paying. 🔍\n\nCheck your server logs today — are AI crawlers hitting your paywalled pages?\n\nWhat would you do if they were? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Is AI browsing stealing or just reading?",
+        "description": "The New York Times sues Brave, claiming its AI bypassed paywalls to scrape articles. The core question: fair use or theft?",
+        "visual_hint": "Gavel and newspaper on desk",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "gavel newspaper"
+      },
+      {
+        "hook": "Brave accused of paywall bypass",
+        "description": "The Times alleges Brave's browser used AI to get around paywalls and scrape content without permission, calling it extraction, not indexing.",
+        "visual_hint": "Browser window with paywall icon",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "browser paywall",
+        "image": "https://images.pexels.com/photos/16245252/pexels-photo-16245252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Brave: our AI only cites sources",
+        "description": "Brave defends itself, saying its AI answers only cite sources and never copy full text. Does that make it fair use?",
+        "visual_hint": "AI chat interface with citations",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "AI chat interface",
+        "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Publishers must audit AI crawlers now",
+        "description": "Most publishers have no idea which AI bots read their content or whether they pay. Auditing access is now essential.",
+        "visual_hint": "Server logs with bot activity",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "server logs",
+        "image": "https://images.pexels.com/photos/18187117/pexels-photo-18187117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your logs: are AI crawlers paying?",
+        "description": "Inspect your server logs for AI bots hitting paywalled pages. If they are, you're already in this fight. Save this post.",
+        "visual_hint": "Hand pointing at analytics dashboard",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "analytics dashboard",
+        "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.232235952618%2C100%2C79.535528094764&amp;w=1200",
+    "savedAt": "2026-11-03T17:27:22.191Z",
+    "sourceId": "f3c40d8a649f8cb1c65bb905fea2215b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-is-entirely-disabling-search-in-schools-tha",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google is entirely disabling Search in schools that don&#8217;t want AI",
+    "link": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+    "pubDate": "2026-11-03T17:00:04.000Z",
+    "slides": [
+      "Why is Google pulling Search from schools?",
+      "Only for schools refusing its AI tools",
+      "The withdrawal targets the core search product itself",
+      "Schools must accept AI or lose basic search access",
+      "Ask your school: what did Google actually demand?"
+    ],
+    "thread_text": [
+      "1. Google's Search Ultimatum\n\nSchools that refuse Google's AI tools are now losing access to basic Search itself. The withdrawal targets the core product, not just the AI add-on.",
+      "2. Not Just an AI Feature\n\nGoogle is pulling Search entirely from schools that don't adopt its AI offerings. The move turns a basic utility into leverage for AI adoption.",
+      "3. The Real Demand\n\nSchools must accept Google's AI tools or lose Search access. This isn't a negotiation — it's a condition imposed on essential infrastructure.",
+      "4. What Else Is at Stake?\n\nIf Search can be pulled, what about Gmail, Docs, or Classroom? The precedent threatens all free-tier services schools rely on daily.",
+      "5. Ask Your School Today\n\nFind out what Google actually demanded from your district. If they won't say, ask why basic search access is conditional on AI adoption."
+    ],
+    "video_script": [
+      "Google is pulling Search from schools that refuse its AI tools.",
+      "This isn't just about AI — it's about basic search access.",
+      "Schools must accept Google's AI or lose Search entirely.",
+      "If Search can be pulled, what free service is next?",
+      "Ask your school what Google actually demanded."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Google's Search Ultimatum\n\nSchools that refuse Google's AI tools are now losing access to basic Search itself. The withdrawal targets the core product, not just the AI add-on.",
+          "2. Not Just an AI Feature\n\nGoogle is pulling Search entirely from schools that don't adopt its AI offerings. The move turns a basic utility into leverage for AI adoption.",
+          "3. The Real Demand\n\nSchools must accept Google's AI tools or lose Search access. This isn't a negotiation — it's a condition imposed on essential infrastructure.",
+          "4. What Else Is at Stake?\n\nIf Search can be pulled, what about Gmail, Docs, or Classroom? The precedent threatens all free-tier services schools rely on daily.",
+          "5. Ask Your School Today\n\nFind out what Google actually demanded from your district. If they won't say, ask why basic search access is conditional on AI adoption."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google is pulling Search from schools that refuse its AI tools.",
+          "This isn't just about AI — it's about basic search access.",
+          "Schools must accept Google's AI or lose Search entirely.",
+          "If Search can be pulled, what free service is next?",
+          "Ask your school what Google actually demanded."
+        ]
+      },
+      "instagram": {
+        "caption": "If your school says no to Google's AI tools, it loses basic Search too — the whole product, not just the AI add-on. 🚨\n\nGoogle is pulling Search entirely from districts that refuse its AI offerings, turning a daily utility into leverage.\n\nSchools must accept the AI or lose Search access — a condition, not a negotiation. 😳\n\nIf Search can be pulled, Gmail, Docs, and Classroom could be next.\n\nAsk your school what Google actually demanded. If they won't say, ask why basic search access is conditional on AI adoption. 🔍"
+      }
+    },
+    "instagram_caption": "If your school says no to Google's AI tools, it loses basic Search too — the whole product, not just the AI add-on. 🚨\n\nGoogle is pulling Search entirely from districts that refuse its AI offerings, turning a daily utility into leverage.\n\nSchools must accept the AI or lose Search access — a condition, not a negotiation. 😳\n\nIf Search can be pulled, Gmail, Docs, and Classroom could be next.\n\nAsk your school what Google actually demanded. If they won't say, ask why basic search access is conditional on AI adoption. 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Google Pulls Search from Schools?",
+        "description": "Schools refusing Google's AI tools lose basic Search access. The core product, not just an add-on, is withdrawn.",
+        "visual_hint": "Google logo fading from school screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Google logo"
+      },
+      {
+        "hook": "Only for AI Refusers",
+        "description": "Google targets schools that decline its AI offerings, turning a basic utility into leverage for AI adoption.",
+        "visual_hint": "School building with 'no AI' sign",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "school building",
+        "image": "https://images.pexels.com/photos/33084311/pexels-photo-33084311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The Core Search Product Itself",
+        "description": "The withdrawal hits Search entirely, not just AI features. Basic search becomes conditional on accepting AI.",
+        "visual_hint": "Search bar broken or crossed out",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "search bar",
+        "image": "https://images.pexels.com/photos/5701654/pexels-photo-5701654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Accept AI or Lose Search",
+        "description": "Schools must accept Google's AI tools or lose Search access. This condition imposed on essential infrastructure sets a precedent.",
+        "visual_hint": "Hand holding contract with AI clause",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "contract signing",
+        "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask Your School: What Did Google Demand?",
+        "description": "Find out what Google actually demanded from your district. If they won't say, ask why basic search access is conditional.",
+        "visual_hint": "Person questioning school official",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "school meeting",
+        "image": "https://images.pexels.com/photos/7692510/pexels-photo-7692510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-11-03T17:27:12.911Z",
+    "sourceId": "4da843cbbbb2ca4b2adb452117e5e1ab"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-will-let-schools-disable-its-ai-tools-but-n",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+    "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+    "pubDate": "Tue, 03 Nov 2026 16:30:34 +0000",
+    "slides": [
+      "Why is Google letting schools switch off its AI?",
+      "Schools can now disable Gemini apps entirely",
+      "But disabling AI also strips Search features",
+      "Admins must choose between AI and full Search",
+      "Ask your school which trade-off it chose"
+    ],
+    "thread_text": [
+      "1. Your school can now kill Google AI\n\nGoogle just gave schools a switch to disable Gemini entirely. That means students lose access to AI writing tools overnight.",
+      "2. The catch: Search breaks too\n\nTurning off Gemini doesn't just remove AI. It also strips enhanced Search features like AI Overviews and smart summaries. Administrators can't separate the two.",
+      "3. The trade-off nobody wanted\n\nSchools now face a binary choice: keep AI in Search, or lose Search's full power. There's no middle ground for parents or teachers.",
+      "4. Why Google did this\n\nPressure from regulators and parents forced Google's hand. But the solution creates a new problem: dumbing down Search for everyone.",
+      "5. Ask your school what they chose\n\nCall or email your school admin today. Ask: 'Did we disable Gemini? And what happened to our Search features?' Their answer affects your kid's daily tools."
+    ],
+    "video_script": [
+      "Google just let schools turn off its AI. But there's a catch.",
+      "Disabling Gemini also removes smart Search features students rely on.",
+      "Administrators now choose between AI and full Search. No middle ground.",
+      "Regulators forced this change. But it creates a new problem for schools.",
+      "Ask your school: did we disable AI? And what did Search lose?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your school can now kill Google AI\n\nGoogle just gave schools a switch to disable Gemini entirely. That means students lose access to AI writing tools overnight.",
+          "2. The catch: Search breaks too\n\nTurning off Gemini doesn't just remove AI. It also strips enhanced Search features like AI Overviews and smart summaries. Administrators can't separate the two.",
+          "3. The trade-off nobody wanted\n\nSchools now face a binary choice: keep AI in Search, or lose Search's full power. There's no middle ground for parents or teachers.",
+          "4. Why Google did this\n\nPressure from regulators and parents forced Google's hand. But the solution creates a new problem: dumbing down Search for everyone.",
+          "5. Ask your school what they chose\n\nCall or email your school admin today. Ask: 'Did we disable Gemini? And what happened to our Search features?' Their answer affects your kid's daily tools."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google just let schools turn off its AI. But there's a catch.",
+          "Disabling Gemini also removes smart Search features students rely on.",
+          "Administrators now choose between AI and full Search. No middle ground.",
+          "Regulators forced this change. But it creates a new problem for schools.",
+          "Ask your school: did we disable AI? And what did Search lose?"
+        ]
+      },
+      "instagram": {
+        "caption": "Your school can now switch off Gemini completely — but it can't do that without also killing Search's AI Overviews and smart summaries. 🏫\n\nGoogle handed schools a kill switch for its AI. The problem is it's wired to the same circuit as Search.\n\nAdmins can't separate them: keeping full Search means keeping AI in it. It's one binary choice.\n\nSo the tools students and teachers use daily got decided by someone else. 🧩\n\nAsk your school admin one direct question: \"Did we disable Gemini, and what happened to our Search features?\" ⚡ Their answer affects what your kid can actually do in class.\n\nWorth a two-minute email today. 📩"
+      }
+    },
+    "instagram_caption": "Your school can now switch off Gemini completely — but it can't do that without also killing Search's AI Overviews and smart summaries. 🏫\n\nGoogle handed schools a kill switch for its AI. The problem is it's wired to the same circuit as Search.\n\nAdmins can't separate them: keeping full Search means keeping AI in it. It's one binary choice.\n\nSo the tools students and teachers use daily got decided by someone else. 🧩\n\nAsk your school admin one direct question: \"Did we disable Gemini, and what happened to our Search features?\" ⚡ Their answer affects what your kid can actually do in class.\n\nWorth a two-minute email today. 📩",
+    "carousel_slides": [
+      {
+        "hook": "Schools can disable AI, but lose Search",
+        "description": "Google now lets schools turn off Gemini entirely, but doing so also strips enhanced Search features like AI Overviews, forcing a tough trade-off.",
+        "visual_hint": "Split screen showing AI toggle and search bar",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "school classroom technology"
+      },
+      {
+        "hook": "One switch kills Gemini for everyone",
+        "description": "Administrators can disable Gemini apps overnight, removing student access to AI writing tools instantly, with no gradual phase-out.",
+        "visual_hint": "Hand flipping a large power switch",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "power switch",
+        "image": "https://images.pexels.com/photos/12951625/pexels-photo-12951625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Turning off AI also breaks Search",
+        "description": "Disabling Gemini removes AI Overviews and smart summaries from Search, and admins cannot separate AI from core search functionality.",
+        "visual_hint": "Search bar with missing results and error icons",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "search engine",
+        "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No middle ground for schools",
+        "description": "Schools face a binary choice: keep AI in Search or lose full Search power, leaving parents and teachers without a compromise option.",
+        "visual_hint": "Two buttons labeled AI and Search with a fork",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "fork road",
+        "image": "https://images.pexels.com/photos/10124559/pexels-photo-10124559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask your school which trade-off they chose",
+        "description": "Email your school admin today and ask: Did we disable Gemini? What happened to our Search features? Their answer affects your kid's daily tools.",
+        "visual_hint": "Parent sending email on smartphone",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone email",
+        "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/20432916/pexels-photo-20432916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-11-03T17:26:54.574Z",
+    "sourceId": "a7a0eeaf87bf41d8c7dae60571dcdf30"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "anthropic-warns-that-it-s-very-close-to-rsi-capabi",
     "prompt_version": "1.0.0",
     "status": "published",

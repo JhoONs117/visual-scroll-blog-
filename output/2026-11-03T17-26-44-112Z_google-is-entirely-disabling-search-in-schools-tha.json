@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-is-entirely-disabling-search-in-schools-tha",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google is entirely disabling Search in schools that don&#8217;t want AI",
+  "link": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+  "pubDate": "2026-11-03T17:00:04.000Z",
+  "slides": [
+    "Why is Google pulling Search from schools?",
+    "Only for schools refusing its AI tools",
+    "The withdrawal targets the core search product itself",
+    "Schools must accept AI or lose basic search access",
+    "Ask your school: what did Google actually demand?"
+  ],
+  "thread_text": [
+    "1. Google's Search Ultimatum\n\nSchools that refuse Google's AI tools are now losing access to basic Search itself. The withdrawal targets the core product, not just the AI add-on.",
+    "2. Not Just an AI Feature\n\nGoogle is pulling Search entirely from schools that don't adopt its AI offerings. The move turns a basic utility into leverage for AI adoption.",
+    "3. The Real Demand\n\nSchools must accept Google's AI tools or lose Search access. This isn't a negotiation — it's a condition imposed on essential infrastructure.",
+    "4. What Else Is at Stake?\n\nIf Search can be pulled, what about Gmail, Docs, or Classroom? The precedent threatens all free-tier services schools rely on daily.",
+    "5. Ask Your School Today\n\nFind out what Google actually demanded from your district. If they won't say, ask why basic search access is conditional on AI adoption."
+  ],
+  "video_script": [
+    "Google is pulling Search from schools that refuse its AI tools.",
+    "This isn't just about AI — it's about basic search access.",
+    "Schools must accept Google's AI or lose Search entirely.",
+    "If Search can be pulled, what free service is next?",
+    "Ask your school what Google actually demanded."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Google's Search Ultimatum\n\nSchools that refuse Google's AI tools are now losing access to basic Search itself. The withdrawal targets the core product, not just the AI add-on.",
+        "2. Not Just an AI Feature\n\nGoogle is pulling Search entirely from schools that don't adopt its AI offerings. The move turns a basic utility into leverage for AI adoption.",
+        "3. The Real Demand\n\nSchools must accept Google's AI tools or lose Search access. This isn't a negotiation — it's a condition imposed on essential infrastructure.",
+        "4. What Else Is at Stake?\n\nIf Search can be pulled, what about Gmail, Docs, or Classroom? The precedent threatens all free-tier services schools rely on daily.",
+        "5. Ask Your School Today\n\nFind out what Google actually demanded from your district. If they won't say, ask why basic search access is conditional on AI adoption."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google is pulling Search from schools that refuse its AI tools.",
+        "This isn't just about AI — it's about basic search access.",
+        "Schools must accept Google's AI or lose Search entirely.",
+        "If Search can be pulled, what free service is next?",
+        "Ask your school what Google actually demanded."
+      ]
+    },
+    "instagram": {
+      "caption": "If your school says no to Google's AI tools, it loses basic Search too — the whole product, not just the AI add-on. 🚨\n\nGoogle is pulling Search entirely from districts that refuse its AI offerings, turning a daily utility into leverage.\n\nSchools must accept the AI or lose Search access — a condition, not a negotiation. 😳\n\nIf Search can be pulled, Gmail, Docs, and Classroom could be next.\n\nAsk your school what Google actually demanded. If they won't say, ask why basic search access is conditional on AI adoption. 🔍"
+    }
+  },
+  "instagram_caption": "If your school says no to Google's AI tools, it loses basic Search too — the whole product, not just the AI add-on. 🚨\n\nGoogle is pulling Search entirely from districts that refuse its AI offerings, turning a daily utility into leverage.\n\nSchools must accept the AI or lose Search access — a condition, not a negotiation. 😳\n\nIf Search can be pulled, Gmail, Docs, and Classroom could be next.\n\nAsk your school what Google actually demanded. If they won't say, ask why basic search access is conditional on AI adoption. 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Google Pulls Search from Schools?",
+      "description": "Schools refusing Google's AI tools lose basic Search access. The core product, not just an add-on, is withdrawn.",
+      "visual_hint": "Google logo fading from school screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Google logo"
+    },
+    {
+      "hook": "Only for AI Refusers",
+      "description": "Google targets schools that decline its AI offerings, turning a basic utility into leverage for AI adoption.",
+      "visual_hint": "School building with 'no AI' sign",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "school building",
+      "image": "https://images.pexels.com/photos/33084311/pexels-photo-33084311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The Core Search Product Itself",
+      "description": "The withdrawal hits Search entirely, not just AI features. Basic search becomes conditional on accepting AI.",
+      "visual_hint": "Search bar broken or crossed out",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "search bar",
+      "image": "https://images.pexels.com/photos/5701654/pexels-photo-5701654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Accept AI or Lose Search",
+      "description": "Schools must accept Google's AI tools or lose Search access. This condition imposed on essential infrastructure sets a precedent.",
+      "visual_hint": "Hand holding contract with AI clause",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "contract signing",
+      "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask Your School: What Did Google Demand?",
+      "description": "Find out what Google actually demanded from your district. If they won't say, ask why basic search access is conditional.",
+      "visual_hint": "Person questioning school official",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "school meeting",
+      "image": "https://images.pexels.com/photos/7692510/pexels-photo-7692510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-03T17:27:12.911Z",
+  "sourceId": "4da843cbbbb2ca4b2adb452117e5e1ab"
+}

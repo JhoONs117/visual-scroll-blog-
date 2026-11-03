@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "the-new-york-times-sues-brave-web-browser-for-ai-s",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "pubDate": "2026-11-02T17:51:19.000Z",
+      "slides": [
+        "Why is The New York Times suing Brave?",
+        "It claims Brave bypassed paywalls to scrape articles",
+        "But Brave says its AI answers cite sources, not copy",
+        "Publishers must now audit how AI browsers read their sites",
+        "Check your own site: are AI crawlers paying to read?"
+      ],
+      "thread_text": [
+        "1. The Times vs Brave\n\nBrave's AI bypassed paywalls to scrape articles, according to a new lawsuit from The New York Times. The core question: is AI browsing just reading, or stealing?",
+        "2. Paywall Bypass Claims\n\nThe Times says Brave's browser used its AI to get around paywalls and scrape content. That's not indexing — that's extraction without permission.",
+        "3. Brave's Defense\n\nBrave argues its AI answers only cite sources and never copy full text. If true, does that make it fair use, or still a paywall violation?",
+        "4. Your Site's Blind Spot\n\nPublishers now need to audit how AI browsers access their content. Most have no idea which bots are reading, and whether they're paying.",
+        "5. Check Your Logs Today\n\nLook at your server logs: are AI crawlers hitting your paywalled pages? If yes, you're already in this fight. What will you do about it?"
+      ],
+      "video_script": [
+        "The New York Times is suing Brave.",
+        "They say Brave bypassed paywalls.",
+        "Brave says it only cites sources.",
+        "Publishers must audit AI browser access.",
+        "Check your logs for AI crawlers."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Times vs Brave\n\nBrave's AI bypassed paywalls to scrape articles, according to a new lawsuit from The New York Times. The core question: is AI browsing just reading, or stealing?",
+            "2. Paywall Bypass Claims\n\nThe Times says Brave's browser used its AI to get around paywalls and scrape content. That's not indexing — that's extraction without permission.",
+            "3. Brave's Defense\n\nBrave argues its AI answers only cite sources and never copy full text. If true, does that make it fair use, or still a paywall violation?",
+            "4. Your Site's Blind Spot\n\nPublishers now need to audit how AI browsers access their content. Most have no idea which bots are reading, and whether they're paying.",
+            "5. Check Your Logs Today\n\nLook at your server logs: are AI crawlers hitting your paywalled pages? If yes, you're already in this fight. What will you do about it?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "The New York Times is suing Brave.",
+            "They say Brave bypassed paywalls.",
+            "Brave says it only cites sources.",
+            "Publishers must audit AI browser access.",
+            "Check your logs for AI crawlers."
+          ]
+        },
+        "instagram": {
+          "caption": "A paywall can be bypassed by a browser's AI to scrape articles — that's what The New York Times alleges against Brave in a new lawsuit. 🧩\n\nThe Times claims Brave's AI got around paywalls to extract content, not just index it.\n\nBrave responds that its AI answers cite sources and never copy full text. ⚖️\n\nIf you publish anything behind a paywall, this is your blind spot: most sites have no idea which AI bots are reading their pages, or whether they're paying. 🔍\n\nCheck your server logs today — are AI crawlers hitting your paywalled pages?\n\nWhat would you do if they were? 👀"
+        }
+      },
+      "instagram_caption": "A paywall can be bypassed by a browser's AI to scrape articles — that's what The New York Times alleges against Brave in a new lawsuit. 🧩\n\nThe Times claims Brave's AI got around paywalls to extract content, not just index it.\n\nBrave responds that its AI answers cite sources and never copy full text. ⚖️\n\nIf you publish anything behind a paywall, this is your blind spot: most sites have no idea which AI bots are reading their pages, or whether they're paying. 🔍\n\nCheck your server logs today — are AI crawlers hitting your paywalled pages?\n\nWhat would you do if they were? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Is AI browsing stealing or just reading?",
+          "description": "The New York Times sues Brave, claiming its AI bypassed paywalls to scrape articles. The core question: fair use or theft?",
+          "visual_hint": "Gavel and newspaper on desk",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "gavel newspaper"
+        },
+        {
+          "hook": "Brave accused of paywall bypass",
+          "description": "The Times alleges Brave's browser used AI to get around paywalls and scrape content without permission, calling it extraction, not indexing.",
+          "visual_hint": "Browser window with paywall icon",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "browser paywall",
+          "image": "https://images.pexels.com/photos/16245252/pexels-photo-16245252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Brave: our AI only cites sources",
+          "description": "Brave defends itself, saying its AI answers only cite sources and never copy full text. Does that make it fair use?",
+          "visual_hint": "AI chat interface with citations",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "AI chat interface",
+          "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Publishers must audit AI crawlers now",
+          "description": "Most publishers have no idea which AI bots read their content or whether they pay. Auditing access is now essential.",
+          "visual_hint": "Server logs with bot activity",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "server logs",
+          "image": "https://images.pexels.com/photos/18187117/pexels-photo-18187117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your logs: are AI crawlers paying?",
+          "description": "Inspect your server logs for AI bots hitting paywalled pages. If they are, you're already in this fight. Save this post.",
+          "visual_hint": "Hand pointing at analytics dashboard",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "analytics dashboard",
+          "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.232235952618%2C100%2C79.535528094764&amp;w=1200",
+      "savedAt": "2026-11-03T17:27:22.191Z",
+      "sourceId": "f3c40d8a649f8cb1c65bb905fea2215b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-is-entirely-disabling-search-in-schools-tha",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google is entirely disabling Search in schools that don&#8217;t want AI",
+      "link": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+      "pubDate": "2026-11-03T17:00:04.000Z",
+      "slides": [
+        "Why is Google pulling Search from schools?",
+        "Only for schools refusing its AI tools",
+        "The withdrawal targets the core search product itself",
+        "Schools must accept AI or lose basic search access",
+        "Ask your school: what did Google actually demand?"
+      ],
+      "thread_text": [
+        "1. Google's Search Ultimatum\n\nSchools that refuse Google's AI tools are now losing access to basic Search itself. The withdrawal targets the core product, not just the AI add-on.",
+        "2. Not Just an AI Feature\n\nGoogle is pulling Search entirely from schools that don't adopt its AI offerings. The move turns a basic utility into leverage for AI adoption.",
+        "3. The Real Demand\n\nSchools must accept Google's AI tools or lose Search access. This isn't a negotiation — it's a condition imposed on essential infrastructure.",
+        "4. What Else Is at Stake?\n\nIf Search can be pulled, what about Gmail, Docs, or Classroom? The precedent threatens all free-tier services schools rely on daily.",
+        "5. Ask Your School Today\n\nFind out what Google actually demanded from your district. If they won't say, ask why basic search access is conditional on AI adoption."
+      ],
+      "video_script": [
+        "Google is pulling Search from schools that refuse its AI tools.",
+        "This isn't just about AI — it's about basic search access.",
+        "Schools must accept Google's AI or lose Search entirely.",
+        "If Search can be pulled, what free service is next?",
+        "Ask your school what Google actually demanded."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Google's Search Ultimatum\n\nSchools that refuse Google's AI tools are now losing access to basic Search itself. The withdrawal targets the core product, not just the AI add-on.",
+            "2. Not Just an AI Feature\n\nGoogle is pulling Search entirely from schools that don't adopt its AI offerings. The move turns a basic utility into leverage for AI adoption.",
+            "3. The Real Demand\n\nSchools must accept Google's AI tools or lose Search access. This isn't a negotiation — it's a condition imposed on essential infrastructure.",
+            "4. What Else Is at Stake?\n\nIf Search can be pulled, what about Gmail, Docs, or Classroom? The precedent threatens all free-tier services schools rely on daily.",
+            "5. Ask Your School Today\n\nFind out what Google actually demanded from your district. If they won't say, ask why basic search access is conditional on AI adoption."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google is pulling Search from schools that refuse its AI tools.",
+            "This isn't just about AI — it's about basic search access.",
+            "Schools must accept Google's AI or lose Search entirely.",
+            "If Search can be pulled, what free service is next?",
+            "Ask your school what Google actually demanded."
+          ]
+        },
+        "instagram": {
+          "caption": "If your school says no to Google's AI tools, it loses basic Search too — the whole product, not just the AI add-on. 🚨\n\nGoogle is pulling Search entirely from districts that refuse its AI offerings, turning a daily utility into leverage.\n\nSchools must accept the AI or lose Search access — a condition, not a negotiation. 😳\n\nIf Search can be pulled, Gmail, Docs, and Classroom could be next.\n\nAsk your school what Google actually demanded. If they won't say, ask why basic search access is conditional on AI adoption. 🔍"
+        }
+      },
+      "instagram_caption": "If your school says no to Google's AI tools, it loses basic Search too — the whole product, not just the AI add-on. 🚨\n\nGoogle is pulling Search entirely from districts that refuse its AI offerings, turning a daily utility into leverage.\n\nSchools must accept the AI or lose Search access — a condition, not a negotiation. 😳\n\nIf Search can be pulled, Gmail, Docs, and Classroom could be next.\n\nAsk your school what Google actually demanded. If they won't say, ask why basic search access is conditional on AI adoption. 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Google Pulls Search from Schools?",
+          "description": "Schools refusing Google's AI tools lose basic Search access. The core product, not just an add-on, is withdrawn.",
+          "visual_hint": "Google logo fading from school screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Google logo"
+        },
+        {
+          "hook": "Only for AI Refusers",
+          "description": "Google targets schools that decline its AI offerings, turning a basic utility into leverage for AI adoption.",
+          "visual_hint": "School building with 'no AI' sign",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "school building",
+          "image": "https://images.pexels.com/photos/33084311/pexels-photo-33084311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The Core Search Product Itself",
+          "description": "The withdrawal hits Search entirely, not just AI features. Basic search becomes conditional on accepting AI.",
+          "visual_hint": "Search bar broken or crossed out",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "search bar",
+          "image": "https://images.pexels.com/photos/5701654/pexels-photo-5701654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Accept AI or Lose Search",
+          "description": "Schools must accept Google's AI tools or lose Search access. This condition imposed on essential infrastructure sets a precedent.",
+          "visual_hint": "Hand holding contract with AI clause",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "contract signing",
+          "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask Your School: What Did Google Demand?",
+          "description": "Find out what Google actually demanded from your district. If they won't say, ask why basic search access is conditional.",
+          "visual_hint": "Person questioning school official",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "school meeting",
+          "image": "https://images.pexels.com/photos/7692510/pexels-photo-7692510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-11-03T17:27:12.911Z",
+      "sourceId": "4da843cbbbb2ca4b2adb452117e5e1ab"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-will-let-schools-disable-its-ai-tools-but-n",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "pubDate": "Tue, 03 Nov 2026 16:30:34 +0000",
+      "slides": [
+        "Why is Google letting schools switch off its AI?",
+        "Schools can now disable Gemini apps entirely",
+        "But disabling AI also strips Search features",
+        "Admins must choose between AI and full Search",
+        "Ask your school which trade-off it chose"
+      ],
+      "thread_text": [
+        "1. Your school can now kill Google AI\n\nGoogle just gave schools a switch to disable Gemini entirely. That means students lose access to AI writing tools overnight.",
+        "2. The catch: Search breaks too\n\nTurning off Gemini doesn't just remove AI. It also strips enhanced Search features like AI Overviews and smart summaries. Administrators can't separate the two.",
+        "3. The trade-off nobody wanted\n\nSchools now face a binary choice: keep AI in Search, or lose Search's full power. There's no middle ground for parents or teachers.",
+        "4. Why Google did this\n\nPressure from regulators and parents forced Google's hand. But the solution creates a new problem: dumbing down Search for everyone.",
+        "5. Ask your school what they chose\n\nCall or email your school admin today. Ask: 'Did we disable Gemini? And what happened to our Search features?' Their answer affects your kid's daily tools."
+      ],
+      "video_script": [
+        "Google just let schools turn off its AI. But there's a catch.",
+        "Disabling Gemini also removes smart Search features students rely on.",
+        "Administrators now choose between AI and full Search. No middle ground.",
+        "Regulators forced this change. But it creates a new problem for schools.",
+        "Ask your school: did we disable AI? And what did Search lose?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your school can now kill Google AI\n\nGoogle just gave schools a switch to disable Gemini entirely. That means students lose access to AI writing tools overnight.",
+            "2. The catch: Search breaks too\n\nTurning off Gemini doesn't just remove AI. It also strips enhanced Search features like AI Overviews and smart summaries. Administrators can't separate the two.",
+            "3. The trade-off nobody wanted\n\nSchools now face a binary choice: keep AI in Search, or lose Search's full power. There's no middle ground for parents or teachers.",
+            "4. Why Google did this\n\nPressure from regulators and parents forced Google's hand. But the solution creates a new problem: dumbing down Search for everyone.",
+            "5. Ask your school what they chose\n\nCall or email your school admin today. Ask: 'Did we disable Gemini? And what happened to our Search features?' Their answer affects your kid's daily tools."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google just let schools turn off its AI. But there's a catch.",
+            "Disabling Gemini also removes smart Search features students rely on.",
+            "Administrators now choose between AI and full Search. No middle ground.",
+            "Regulators forced this change. But it creates a new problem for schools.",
+            "Ask your school: did we disable AI? And what did Search lose?"
+          ]
+        },
+        "instagram": {
+          "caption": "Your school can now switch off Gemini completely — but it can't do that without also killing Search's AI Overviews and smart summaries. 🏫\n\nGoogle handed schools a kill switch for its AI. The problem is it's wired to the same circuit as Search.\n\nAdmins can't separate them: keeping full Search means keeping AI in it. It's one binary choice.\n\nSo the tools students and teachers use daily got decided by someone else. 🧩\n\nAsk your school admin one direct question: \"Did we disable Gemini, and what happened to our Search features?\" ⚡ Their answer affects what your kid can actually do in class.\n\nWorth a two-minute email today. 📩"
+        }
+      },
+      "instagram_caption": "Your school can now switch off Gemini completely — but it can't do that without also killing Search's AI Overviews and smart summaries. 🏫\n\nGoogle handed schools a kill switch for its AI. The problem is it's wired to the same circuit as Search.\n\nAdmins can't separate them: keeping full Search means keeping AI in it. It's one binary choice.\n\nSo the tools students and teachers use daily got decided by someone else. 🧩\n\nAsk your school admin one direct question: \"Did we disable Gemini, and what happened to our Search features?\" ⚡ Their answer affects what your kid can actually do in class.\n\nWorth a two-minute email today. 📩",
+      "carousel_slides": [
+        {
+          "hook": "Schools can disable AI, but lose Search",
+          "description": "Google now lets schools turn off Gemini entirely, but doing so also strips enhanced Search features like AI Overviews, forcing a tough trade-off.",
+          "visual_hint": "Split screen showing AI toggle and search bar",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "school classroom technology"
+        },
+        {
+          "hook": "One switch kills Gemini for everyone",
+          "description": "Administrators can disable Gemini apps overnight, removing student access to AI writing tools instantly, with no gradual phase-out.",
+          "visual_hint": "Hand flipping a large power switch",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "power switch",
+          "image": "https://images.pexels.com/photos/12951625/pexels-photo-12951625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Turning off AI also breaks Search",
+          "description": "Disabling Gemini removes AI Overviews and smart summaries from Search, and admins cannot separate AI from core search functionality.",
+          "visual_hint": "Search bar with missing results and error icons",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "search engine",
+          "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No middle ground for schools",
+          "description": "Schools face a binary choice: keep AI in Search or lose full Search power, leaving parents and teachers without a compromise option.",
+          "visual_hint": "Two buttons labeled AI and Search with a fork",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "fork road",
+          "image": "https://images.pexels.com/photos/10124559/pexels-photo-10124559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask your school which trade-off they chose",
+          "description": "Email your school admin today and ask: Did we disable Gemini? What happened to our Search features? Their answer affects your kid's daily tools.",
+          "visual_hint": "Parent sending email on smartphone",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone email",
+          "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/20432916/pexels-photo-20432916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-11-03T17:26:54.574Z",
+      "sourceId": "a7a0eeaf87bf41d8c7dae60571dcdf30"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "anthropic-warns-that-it-s-very-close-to-rsi-capabi",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -205724,6 +206036,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "scaloppine-di-pollo-con-cipolle",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Scaloppine di pollo con cipolle",
+      "link": "https://ricette.giallozafferano.it/Scaloppine-di-pollo-con-cipolle.html",
+      "pubDate": "Tue, 03 Nov 2026 11:38:00 +0100",
+      "content": "Scaloppine di pollo con cipolle, morbide e saporite Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X BENESSERE Top Blogger TOP BLOGGER Secondi piatti Scaloppine di pollo con cipolle /5 Ricetta proposta da Luisa Orizio CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici 313,4 Calorie per porzione Energia Kcal 313,4 Carboidrati g 8,2 &nbsp;&nbsp;di cui zuccheri g 2,8 Proteine g 34,7 Grassi g 14 &nbsp;&nbsp;di cui saturi g 2,3 Fibre g 1,1 Colesterolo mg 109,5 Sodio mg 267,4 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Senza lattosio Dieta Mediterranea Difficoltà: Facile Preparazione: 15 min Cottura: 55 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti PRESENTAZIONE Le scaloppine di pollo con cipolle sono un secondo piatto casalingo, ideale per la cucina di tutti i giorni. Una ricetta semplice, preparata con pochi ingredienti e pratica da preparare poiché sporcherete una sola padella! Le fettine di petto di pollo , infarinate e rosolate, diventano morbide e succose grazie alla cottura con il vino bianco, mentre le cipolle stufate lentamente aggiungono una nota dolce e avvolgente. Potete accompagnarle con patate, verdure di stagione, purè oppure con delle fette di pane, perfette per raccogliere cremoso il fondo di cottura. Se cercate una ricetta di carne facile, economica e ricca di gusto, le scaloppine di pollo con cipolle sono una soluzione comoda, vincente e soprattutto super appetitosa! Ecco altre gustose ricette di scaloppine : Scaloppine di pollo al limone Scaloppine al marsala Scaloppine ai funghi Scaloppine al vino bianco e prezzemolo Scaloppine in rosa Chicken cutlets with onions INGREDIENTI 313,4 Calorie per porzione Per le scaloppine Petto di pollo (a fettine) 600 g Vino bianco 50 g Farina 00 q.b. Olio extravergine d'oliva 2 cucchiai Sale fino q.b. Per le cipolle Cipolle dorate 2 Acqua 250 g Olio extravergine d'oliva 3 cucchiai Sale fino q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare le Scaloppine di pollo con cipolle Per preparare le scaloppine di pollo con cipolle, per prima cosa dividete le cipolle a metà 1 , sbucciatele e tagliatele con una mandolina 2 : dovrete ottenere delle fettine molto sottili 3 . Versate le cipolle in una padella capiente con un filo d’olio caldo 4 , poi aggiungete il sale 5 e l’acqua 6 . Coprite con il coperchio 7 e cuocete a fuoco dolce per 30-40 minuti. Nel frattempo infarinate le fettine di pollo 8 e adagiatele su un vassoio 9 , avendo cura di eliminare la farina in eccesso. Quando le cipolle saranno cotte e molto morbide 10 , toglietele dalla padella e tenetele da parte. Nella stessa padella scaldate un altro filo d’olio, poi aggiungete le fettine di pollo infarinate 11 e rosolate a fiamma vivace per 5 minuti. A questo punto sfumate col vino bianco 12 e lasciate evaporare completamente. Salate e portate a cottura le scaloppine, unendo le cipolle stufate durante gli ultimi 5 minuti 13 14 . Le vostre scaloppine di pollo con cipolle sono pronte per essere servite ben calde 15 ! Conservazione Si consiglia di consumare le scaloppine di pollo con cipolle al momento perché la carne tenderà a indurirsi una volta cotta. Se necessario potete conservarle in frigorifero per 1-2 giorni. Si sconsiglia la congelazione. Consiglio La stessa ricetta può essere realizzata con le fettine di vitello. Potete aromatizzare il piatto a fine cottura con del prezzemolo tritato. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Olio di oliva Cipolla Scopri tutto sugli ingredienti STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Benessere Scaloppine di pollo con cipolle 5.0 Involtini alle verdure 5.0 Cipolle farcite con funghi e nocciole 5.0 SCOPRI Scaloppine di pollo Scaloppine al limone pollo Scaloppine di pollo al latte Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. e all’utilizzo di pixel di tracciamento nelle suddette comunicazioni per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne Si No Prosegui",
+      "slides": [
+        "Scaloppine morbide e saporite con cipolle stufate",
+        "Pollo, cipolle dorate, vino bianco e farina",
+        "Infarina le fettine e rosolale a fiamma vivace",
+        "Sfuma col vino, unisci le cipolle e completa",
+        "Servile subito: la carne resta morbida e succosa"
+      ],
+      "instagram_caption": "Scaloppine di pollo con cipolle: comfort food allo stato puro 🍗\nFettine infarinate e rosolate a fiamma vivace, poi sfumate col vino bianco e avvolte da cipolle dorate e morbide.\nIl segreto? Servirle subito, quando la carne è ancora succosa e profumata.\nUn piatto semplice che sa di casa, pronto in pochissimo tempo.\nSalva la ricetta e provala questo weekend 🌿🧅✨",
+      "formats": {
+        "instagram": {
+          "caption": "Scaloppine di pollo con cipolle: comfort food allo stato puro 🍗\nFettine infarinate e rosolate a fiamma vivace, poi sfumate col vino bianco e avvolte da cipolle dorate e morbide.\nIl segreto? Servirle subito, quando la carne è ancora succosa e profumata.\nUn piatto semplice che sa di casa, pronto in pochissimo tempo.\nSalva la ricetta e provala questo weekend 🌿🧅✨"
+        },
+        "tiktok": {
+          "script": [
+            "Oggi scaloppine morbide con cipolle stufate!",
+            "Mi servono pollo, cipolle dorate, vino e farina.",
+            "Infarino le fettine e rosolo a fiamma vivace.",
+            "Sfumo col vino, unisco le cipolle e completo.",
+            "Servo subito: la carne resta morbida e succosa!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Le scaloppine di pollo con cipolle: morbide dentro, dorate fuori. Un piatto che sembra domenica ma si fa in 20 minuti. 🍗",
+            "Ti servono: fettine di pollo sottili, cipolle, vino bianco, farina. Quattro ingredienti, zero scuse.",
+            "Infarina le fettine e rosolale a fiamma vivace. Pochi secondi per lato: il segreto è non muoverle troppo.",
+            "Sfuma col vino bianco, unisci le cipolle stufate e lascia completare. Il profumo ti dirà quando è pronto.",
+            "Servile subito: la carne resta morbida e succosa solo così. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Oggi scaloppine morbide con cipolle stufate!",
+        "Mi servono pollo, cipolle dorate, vino e farina.",
+        "Infarino le fettine e rosolo a fiamma vivace.",
+        "Sfumo col vino, unisco le cipolle e completo.",
+        "Servo subito: la carne resta morbida e succosa!"
+      ],
+      "thread_text": [
+        "Le scaloppine di pollo con cipolle: morbide dentro, dorate fuori. Un piatto che sembra domenica ma si fa in 20 minuti. 🍗",
+        "Ti servono: fettine di pollo sottili, cipolle, vino bianco, farina. Quattro ingredienti, zero scuse.",
+        "Infarina le fettine e rosolale a fiamma vivace. Pochi secondi per lato: il segreto è non muoverle troppo.",
+        "Sfuma col vino bianco, unisci le cipolle stufate e lascia completare. Il profumo ti dirà quando è pronto.",
+        "Servile subito: la carne resta morbida e succosa solo così. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Scaloppine morbide e saporite",
+          "description": "Un secondo piatto veloce che conquista: pollo tenero e cipolle dolci stufate in pochi minuti.",
+          "visual_hint": "scaloppine dorate in padella",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory chicken scallopini"
+        },
+        {
+          "hook": "Pochi ingredienti, tanto sapore",
+          "description": "Pollo, cipolle dorate, vino bianco e farina: basta questo per un piatto ricco e avvolgente.",
+          "visual_hint": "ingredienti sul tagliere",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory chicken onions",
+          "image": "https://images.pexels.com/photos/10813331/pexels-photo-10813331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il segreto è la rosolatura",
+          "description": "Infarina le fettine e rosolale a fiamma vivace: si crea quella crosticina che fa la differenza.",
+          "visual_hint": "fettine infarinate in padella",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory chicken frying pan",
+          "image": "https://images.pexels.com/photos/25884472/pexels-photo-25884472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Sfuma e completa la cottura",
+          "description": "Sfuma col vino bianco, unisci le cipolle stufate e lascia insaporire fino a completa cottura.",
+          "visual_hint": "sfumatura con vino in padella",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory chicken wine pan",
+          "image": "https://images.pexels.com/photos/37726962/pexels-photo-37726962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Servile subito, morbide e succose",
+          "description": "Il trucco finale: servile subito per mantenere la carne morbida e succosa, con le cipolle in salsa.",
+          "visual_hint": "piatto impiattato con cipolle",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory chicken plated",
+          "image": "https://images.pexels.com/photos/13289926/pexels-photo-13289926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "meat",
+      "signature_ingredients": [
+        "pollo",
+        "cipolle",
+        "vino bianco"
+      ],
+      "image": "https://www.giallozafferano.it/images/368-36802/Scaloppine-di-pollo-con-cipolle_1200x800_wm.jpg",
+      "savedAt": "2026-11-03T17:31:27.674Z",
+      "sourceId": "d59200152e835a7503c84de85c7266a6"
+    },
     {
       "schema_version": 2,
       "agent": "food",
