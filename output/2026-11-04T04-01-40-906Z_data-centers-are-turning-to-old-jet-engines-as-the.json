@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "data-centers-are-turning-to-old-jet-engines-as-the",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Data centers are turning to old jet engines as the wait for power grows",
+  "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+  "pubDate": "Tue, 03 Nov 2026 22:19:53 +0000",
+  "slides": [
+    "Why would data centers bolt on old jet engines?",
+    "Grid connections now take years, not months",
+    "Aircraft turbines produce power in weeks instead",
+    "Your cloud costs may shift as operators improvise",
+    "Ask providers how they secure power for 2027"
+  ],
+  "thread_text": [
+    "1. Jet engines for data centers?\n\nAI's power demand is so high that operators are repurposing aircraft turbines to keep servers running, bypassing years-long grid delays.",
+    "2. Grid connections now take years\n\nWhat used to be a months-long process now stretches to 2027 or beyond, forcing companies to find creative workarounds.",
+    "3. Turbines deliver power in weeks\n\nUnlike slow grid upgrades, aircraft turbines can be installed and operational in a fraction of the time, bridging the gap.",
+    "4. Your cloud bill may rise\n\nAs operators improvise with costly stopgap solutions, those expenses could trickle down to your monthly cloud costs.",
+    "5. Ask about 2027 power plans\n\nWhen negotiating cloud contracts, demand specifics: how will your provider secure power for 2027? Get it in writing."
+  ],
+  "video_script": [
+    "Why are data centers bolting old jet engines?",
+    "Grid connections now take years, not months.",
+    "Aircraft turbines produce power in weeks instead.",
+    "Your cloud costs may shift as operators improvise.",
+    "Ask providers how they secure power for 2027."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Jet engines for data centers?\n\nAI's power demand is so high that operators are repurposing aircraft turbines to keep servers running, bypassing years-long grid delays.",
+        "2. Grid connections now take years\n\nWhat used to be a months-long process now stretches to 2027 or beyond, forcing companies to find creative workarounds.",
+        "3. Turbines deliver power in weeks\n\nUnlike slow grid upgrades, aircraft turbines can be installed and operational in a fraction of the time, bridging the gap.",
+        "4. Your cloud bill may rise\n\nAs operators improvise with costly stopgap solutions, those expenses could trickle down to your monthly cloud costs.",
+        "5. Ask about 2027 power plans\n\nWhen negotiating cloud contracts, demand specifics: how will your provider secure power for 2027? Get it in writing."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Why are data centers bolting old jet engines?",
+        "Grid connections now take years, not months.",
+        "Aircraft turbines produce power in weeks instead.",
+        "Your cloud costs may shift as operators improvise.",
+        "Ask providers how they secure power for 2027."
+      ]
+    },
+    "instagram": {
+      "caption": "Grid connections for new data centers now stretch to 2027 or beyond — so operators are bolting old aircraft turbines onto buildings to keep servers running.\n\nA grid hookup used to take months. Now it takes years, and AI's power demand won't wait. ✈️\n\nAircraft turbines can be installed and producing power in weeks instead.\n\nThose stopgap fixes cost money, and operators may pass the expense down to your monthly cloud bill. 💸\n\nIf you build or publish with cloud tools, ask your provider one question before signing: how exactly will you secure power for 2027? Get the answer in writing. ⚡\n\nWould you pay more for cloud services if it meant guaranteed uptime? 🤔"
+    }
+  },
+  "instagram_caption": "Grid connections for new data centers now stretch to 2027 or beyond — so operators are bolting old aircraft turbines onto buildings to keep servers running.\n\nA grid hookup used to take months. Now it takes years, and AI's power demand won't wait. ✈️\n\nAircraft turbines can be installed and producing power in weeks instead.\n\nThose stopgap fixes cost money, and operators may pass the expense down to your monthly cloud bill. 💸\n\nIf you build or publish with cloud tools, ask your provider one question before signing: how exactly will you secure power for 2027? Get the answer in writing. ⚡\n\nWould you pay more for cloud services if it meant guaranteed uptime? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Jet engines powering data centers?",
+      "description": "AI's massive power demand forces operators to repurpose aircraft turbines, bypassing years-long grid delays. A surprising workaround.",
+      "visual_hint": "Old jet engine beside server racks",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "jet engine"
+    },
+    {
+      "hook": "Grid connections now take years",
+      "description": "What was a months-long process now stretches to 2027 or beyond, forcing companies to find creative workarounds.",
+      "visual_hint": "Calendar with 2027 circled",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "power grid",
+      "image": "https://images.pexels.com/photos/39398551/pexels-photo-39398551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Turbines deliver power in weeks",
+      "description": "Aircraft turbines install and operate in a fraction of the time, bridging the gap while grid upgrades lag.",
+      "visual_hint": "Turbine being installed quickly",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "aircraft turbine",
+      "image": "https://images.pexels.com/photos/5262803/pexels-photo-5262803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your cloud bill may rise",
+      "description": "Costly stopgap solutions could trickle down to your monthly cloud costs as operators improvise.",
+      "visual_hint": "Cloud bill with upward arrow",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "cloud computing",
+      "image": "https://images.pexels.com/photos/12899121/pexels-photo-12899121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask about 2027 power plans",
+      "description": "When negotiating cloud contracts, demand specifics: how will your provider secure power for 2027? Get it in writing.",
+      "visual_hint": "Contract with power clause highlighted",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "business contract",
+      "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Commercial-plane-clouds.jpg?w=719",
+  "savedAt": "2026-11-04T04:01:50.336Z",
+  "sourceId": "4970a06a586ccae03c7884f4e86c0351"
+}

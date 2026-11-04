@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "netflix-s-new-ai-discover-tab-helps-you-find-somet",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+  "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+  "pubDate": "Tue, 03 Nov 2026 18:42:16 +0000",
+  "slides": [
+    "Netflix bets your mood beats your watch history",
+    "A new AI Discover tab reads how you feel",
+    "But mood shifts faster than any algorithm tracks",
+    "Expect sharper picks, fewer endless scroll nights",
+    "Test it tonight: pick a mood, judge the result"
+  ],
+  "thread_text": [
+    "1. Netflix's Mood Play\n\nNetflix is testing an AI tab that recommends shows based on how you feel, not what you've watched.",
+    "2. Feelings Over History\n\nThe new Discover tab asks you to pick a mood, then serves up content it thinks fits that emotion.",
+    "3. Moods Move Fast\n\nYour mood can change in minutes, but the algorithm's picks lag behind, possibly missing the mark.",
+    "4. Sharper Picks or Missed Shots\n\nIf it works, you'll spend less time scrolling. If not, you'll get suggestions that feel off.",
+    "5. Try It Yourself\n\nTonight, open Netflix, choose a mood, and see if the first recommendation actually matches how you feel."
+  ],
+  "video_script": [
+    "Netflix is testing an AI tab that reads your mood.",
+    "It asks you to pick a feeling, then recommends shows.",
+    "But moods shift fast, and algorithms might not keep up.",
+    "If it works, you'll get sharper picks and less scrolling.",
+    "Try it tonight: pick a mood and judge the result."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Netflix's Mood Play\n\nNetflix is testing an AI tab that recommends shows based on how you feel, not what you've watched.",
+        "2. Feelings Over History\n\nThe new Discover tab asks you to pick a mood, then serves up content it thinks fits that emotion.",
+        "3. Moods Move Fast\n\nYour mood can change in minutes, but the algorithm's picks lag behind, possibly missing the mark.",
+        "4. Sharper Picks or Missed Shots\n\nIf it works, you'll spend less time scrolling. If not, you'll get suggestions that feel off.",
+        "5. Try It Yourself\n\nTonight, open Netflix, choose a mood, and see if the first recommendation actually matches how you feel."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Netflix is testing an AI tab that reads your mood.",
+        "It asks you to pick a feeling, then recommends shows.",
+        "But moods shift fast, and algorithms might not keep up.",
+        "If it works, you'll get sharper picks and less scrolling.",
+        "Try it tonight: pick a mood and judge the result."
+      ]
+    },
+    "instagram": {
+      "caption": "Netflix is testing a tab that asks how you feel before it shows you what to watch.\n\nIt's called Discover, and it builds recommendations from your mood instead of your watch history. 🎬\n\nThe catch: your mood can shift in minutes, while the algorithm's picks lag behind. 🤔\n\nIf it works, you spend less time scrolling and more time watching. If it doesn't, you get suggestions that feel off.\n\nWorth testing yourself: pick a mood tonight and see if the first pick actually fits. What mood would you choose first? 😅"
+    }
+  },
+  "instagram_caption": "Netflix is testing a tab that asks how you feel before it shows you what to watch.\n\nIt's called Discover, and it builds recommendations from your mood instead of your watch history. 🎬\n\nThe catch: your mood can shift in minutes, while the algorithm's picks lag behind. 🤔\n\nIf it works, you spend less time scrolling and more time watching. If it doesn't, you get suggestions that feel off.\n\nWorth testing yourself: pick a mood tonight and see if the first pick actually fits. What mood would you choose first? 😅",
+  "carousel_slides": [
+    {
+      "hook": "Your mood changes faster than Netflix",
+      "description": "Netflix's AI Discover tab recommends by mood, but moods shift in minutes, so picks may lag behind.",
+      "visual_hint": "Person scrolling Netflix on phone",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Netflix interface"
+    },
+    {
+      "hook": "Netflix bets mood beats history",
+      "description": "New AI tab asks you to pick a mood, then serves content it thinks fits that emotion, ignoring watch history.",
+      "visual_hint": "Split screen: mood emojis vs watch history",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "mood emoticons",
+      "image": "https://images.pexels.com/photos/32880672/pexels-photo-32880672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Algorithms can't keep up with feelings",
+      "description": "Your mood can change in minutes, but the algorithm's picks lag behind, possibly missing the mark entirely.",
+      "visual_hint": "Clock ticking next to mood swings",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "clock face",
+      "image": "https://images.pexels.com/photos/37808313/pexels-photo-37808313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Sharper picks or missed shots?",
+      "description": "If it works, you'll spend less time scrolling. If not, you'll get suggestions that feel off.",
+      "visual_hint": "Hand swiping through Netflix suggestions",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand remote control",
+      "image": "https://images.pexels.com/photos/36410718/pexels-photo-36410718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it tonight and judge yourself",
+      "description": "Open Netflix, choose a mood, and see if the first recommendation matches how you feel. Save this for later!",
+      "visual_hint": "Phone screen with mood selection",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "Netflix mood selection",
+      "image": "https://images.pexels.com/photos/14770619/pexels-photo-14770619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2235383828.jpg?resize=1200,800",
+  "savedAt": "2026-11-04T04:02:00.128Z",
+  "sourceId": "b0c96602861bfc20ffcbd28d6c386251"
+}

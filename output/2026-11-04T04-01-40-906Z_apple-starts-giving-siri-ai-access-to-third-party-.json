@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-starts-giving-siri-ai-access-to-third-party-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple starts giving Siri AI access to third-party apps",
+  "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+  "pubDate": "2026-11-03T20:16:17.000Z",
+  "slides": [
+    "Can Siri finally call the shots on your apps?",
+    "Apple opened Siri to third-party app controls",
+    "But only a handful of apps work at launch",
+    "Your daily routines may now run without touching the screen",
+    "Start mapping which app handoffs matter most"
+  ],
+  "thread_text": [
+    "1. The real Siri test\n\nFor the first time, Apple lets Siri control third-party apps, like sending a message or booking a ride, without opening them. But only a few apps work at launch.",
+    "2. Apple's quiet shift\n\nBy opening Siri to outside developers, Apple admits its assistant can't do everything alone. The move puts Siri in direct competition with Google Assistant and Alexa.",
+    "3. Barely a handful\n\nOnly a tiny list of apps supports the new controls now. That means most of your daily apps still need a tap, so the dream of full hands-free is far off.",
+    "4. Routines without touch\n\nEarly testers say simple routines like texting a contact or ordering food now work hands-free. But if an app isn't on the list, the chain breaks and you're back to tapping.",
+    "5. Map your handoffs\n\nList the five app actions you do most each day. Check if each one works with Siri today, and if not, decide whether to wait or change your routine now."
+  ],
+  "video_script": [
+    "Apple finally lets Siri control third-party apps.",
+    "But only a handful of apps work at launch.",
+    "Your daily routines could run without touching the screen.",
+    "Most apps still need a tap though.",
+    "Start mapping which app handoffs matter most."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The real Siri test\n\nFor the first time, Apple lets Siri control third-party apps, like sending a message or booking a ride, without opening them. But only a few apps work at launch.",
+        "2. Apple's quiet shift\n\nBy opening Siri to outside developers, Apple admits its assistant can't do everything alone. The move puts Siri in direct competition with Google Assistant and Alexa.",
+        "3. Barely a handful\n\nOnly a tiny list of apps supports the new controls now. That means most of your daily apps still need a tap, so the dream of full hands-free is far off.",
+        "4. Routines without touch\n\nEarly testers say simple routines like texting a contact or ordering food now work hands-free. But if an app isn't on the list, the chain breaks and you're back to tapping.",
+        "5. Map your handoffs\n\nList the five app actions you do most each day. Check if each one works with Siri today, and if not, decide whether to wait or change your routine now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple finally lets Siri control third-party apps.",
+        "But only a handful of apps work at launch.",
+        "Your daily routines could run without touching the screen.",
+        "Most apps still need a tap though.",
+        "Start mapping which app handoffs matter most."
+      ]
+    },
+    "instagram": {
+      "caption": "Siri can now send a message or book a ride without opening the app.\n\nApple opened Siri to third-party app controls for the first time. 🔓\n\nThe catch: only a handful of apps work at launch. If your go-to app isn't on the list, the routine breaks. 📱\n\nFor content creators, hands-free logging of ideas or scheduling posts only works if the tools you use are supported.\n\nWhich app action would you hand off to Siri first — and is it on the list today?"
+    }
+  },
+  "instagram_caption": "Siri can now send a message or book a ride without opening the app.\n\nApple opened Siri to third-party app controls for the first time. 🔓\n\nThe catch: only a handful of apps work at launch. If your go-to app isn't on the list, the routine breaks. 📱\n\nFor content creators, hands-free logging of ideas or scheduling posts only works if the tools you use are supported.\n\nWhich app action would you hand off to Siri first — and is it on the list today?",
+  "carousel_slides": [
+    {
+      "hook": "Only a handful of apps work?",
+      "description": "Apple opened Siri to third-party apps, but the launch list is tiny. Most daily apps still need a tap.",
+      "visual_hint": "Siri icon surrounded by empty app icons",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Siri app icon"
+    },
+    {
+      "hook": "Apple admits Siri can't do it alone",
+      "description": "By opening Siri to outside developers, Apple pits its assistant against Google Assistant and Alexa in a new race.",
+      "visual_hint": "Split screen of Siri, Google Assistant, Alexa logos",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "voice assistant logos",
+      "image": "https://images.pexels.com/photos/4790267/pexels-photo-4790267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Barely a handful of apps support it",
+      "description": "Only a tiny list of apps works with the new controls now. Full hands-free routines are still far off.",
+      "visual_hint": "Short list of app icons on phone screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smartphone app icons",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your routines can run hands-free",
+      "description": "Early testers text contacts and order food without touching the screen. If an app isn't supported, the chain breaks.",
+      "visual_hint": "Hand hovering over phone with Siri wave",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand using smartphone",
+      "image": "https://images.pexels.com/photos/17902222/pexels-photo-17902222.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Map your top five app handoffs now",
+      "description": "List the five app actions you do most daily. Check if Siri supports them, then decide to wait or adjust your routine.",
+      "visual_hint": "Checklist of app actions with Siri icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist smartphone",
+      "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.736302165243%2C100%2C78.527395669513&amp;w=1200",
+  "savedAt": "2026-11-04T04:02:19.448Z",
+  "sourceId": "4cb12b423b57a6cc5a7d22855cf46ccd"
+}

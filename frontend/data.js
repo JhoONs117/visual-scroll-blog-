@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "apple-starts-giving-siri-ai-access-to-third-party-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple starts giving Siri AI access to third-party apps",
+    "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+    "pubDate": "2026-11-03T20:16:17.000Z",
+    "slides": [
+      "Can Siri finally call the shots on your apps?",
+      "Apple opened Siri to third-party app controls",
+      "But only a handful of apps work at launch",
+      "Your daily routines may now run without touching the screen",
+      "Start mapping which app handoffs matter most"
+    ],
+    "thread_text": [
+      "1. The real Siri test\n\nFor the first time, Apple lets Siri control third-party apps, like sending a message or booking a ride, without opening them. But only a few apps work at launch.",
+      "2. Apple's quiet shift\n\nBy opening Siri to outside developers, Apple admits its assistant can't do everything alone. The move puts Siri in direct competition with Google Assistant and Alexa.",
+      "3. Barely a handful\n\nOnly a tiny list of apps supports the new controls now. That means most of your daily apps still need a tap, so the dream of full hands-free is far off.",
+      "4. Routines without touch\n\nEarly testers say simple routines like texting a contact or ordering food now work hands-free. But if an app isn't on the list, the chain breaks and you're back to tapping.",
+      "5. Map your handoffs\n\nList the five app actions you do most each day. Check if each one works with Siri today, and if not, decide whether to wait or change your routine now."
+    ],
+    "video_script": [
+      "Apple finally lets Siri control third-party apps.",
+      "But only a handful of apps work at launch.",
+      "Your daily routines could run without touching the screen.",
+      "Most apps still need a tap though.",
+      "Start mapping which app handoffs matter most."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The real Siri test\n\nFor the first time, Apple lets Siri control third-party apps, like sending a message or booking a ride, without opening them. But only a few apps work at launch.",
+          "2. Apple's quiet shift\n\nBy opening Siri to outside developers, Apple admits its assistant can't do everything alone. The move puts Siri in direct competition with Google Assistant and Alexa.",
+          "3. Barely a handful\n\nOnly a tiny list of apps supports the new controls now. That means most of your daily apps still need a tap, so the dream of full hands-free is far off.",
+          "4. Routines without touch\n\nEarly testers say simple routines like texting a contact or ordering food now work hands-free. But if an app isn't on the list, the chain breaks and you're back to tapping.",
+          "5. Map your handoffs\n\nList the five app actions you do most each day. Check if each one works with Siri today, and if not, decide whether to wait or change your routine now."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple finally lets Siri control third-party apps.",
+          "But only a handful of apps work at launch.",
+          "Your daily routines could run without touching the screen.",
+          "Most apps still need a tap though.",
+          "Start mapping which app handoffs matter most."
+        ]
+      },
+      "instagram": {
+        "caption": "Siri can now send a message or book a ride without opening the app.\n\nApple opened Siri to third-party app controls for the first time. 🔓\n\nThe catch: only a handful of apps work at launch. If your go-to app isn't on the list, the routine breaks. 📱\n\nFor content creators, hands-free logging of ideas or scheduling posts only works if the tools you use are supported.\n\nWhich app action would you hand off to Siri first — and is it on the list today?"
+      }
+    },
+    "instagram_caption": "Siri can now send a message or book a ride without opening the app.\n\nApple opened Siri to third-party app controls for the first time. 🔓\n\nThe catch: only a handful of apps work at launch. If your go-to app isn't on the list, the routine breaks. 📱\n\nFor content creators, hands-free logging of ideas or scheduling posts only works if the tools you use are supported.\n\nWhich app action would you hand off to Siri first — and is it on the list today?",
+    "carousel_slides": [
+      {
+        "hook": "Only a handful of apps work?",
+        "description": "Apple opened Siri to third-party apps, but the launch list is tiny. Most daily apps still need a tap.",
+        "visual_hint": "Siri icon surrounded by empty app icons",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Siri app icon"
+      },
+      {
+        "hook": "Apple admits Siri can't do it alone",
+        "description": "By opening Siri to outside developers, Apple pits its assistant against Google Assistant and Alexa in a new race.",
+        "visual_hint": "Split screen of Siri, Google Assistant, Alexa logos",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "voice assistant logos",
+        "image": "https://images.pexels.com/photos/4790267/pexels-photo-4790267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Barely a handful of apps support it",
+        "description": "Only a tiny list of apps works with the new controls now. Full hands-free routines are still far off.",
+        "visual_hint": "Short list of app icons on phone screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "smartphone app icons",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your routines can run hands-free",
+        "description": "Early testers text contacts and order food without touching the screen. If an app isn't supported, the chain breaks.",
+        "visual_hint": "Hand hovering over phone with Siri wave",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand using smartphone",
+        "image": "https://images.pexels.com/photos/17902222/pexels-photo-17902222.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Map your top five app handoffs now",
+        "description": "List the five app actions you do most daily. Check if Siri supports them, then decide to wait or adjust your routine.",
+        "visual_hint": "Checklist of app actions with Siri icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist smartphone",
+        "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.736302165243%2C100%2C78.527395669513&amp;w=1200",
+    "savedAt": "2026-11-04T04:02:19.448Z",
+    "sourceId": "4cb12b423b57a6cc5a7d22855cf46ccd"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "apple-restricts-dating-apps-and-ai-companions-to-u",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple restricts dating apps and AI companions to users 18 and up",
+    "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+    "pubDate": "Tue, 03 Nov 2026 15:38:27 +0000",
+    "slides": [
+      "Why is Apple policing who you can date online?",
+      "New UK rules force age checks on dating apps.",
+      "But AI companions face the same 18+ gate.",
+      "Your app store downloads now require age verification.",
+      "Check if your favorite app just got restricted."
+    ],
+    "thread_text": [
+      "1. Apple's Dating Police?\n\nApple now scans dating apps for age compliance, but the real shock? AI companions face the same 18+ gate.",
+      "2. UK Forces Age Checks\n\nNew rules require dating apps to verify user age. Non-compliance means app store removal.",
+      "3. AI Companions Gated\n\nVirtual partners now trigger the same 18+ verification as dating apps, catching developers off guard.",
+      "4. App Store Downloads Blocked\n\nIf an app lacks age verification, iOS and Android stores will refuse to list it, cutting off access entirely.",
+      "5. Is Your App Next?\n\nCheck if your favorite dating or AI app still appears in the store. If it's gone, the age gate hit."
+    ],
+    "video_script": [
+      "Apple is policing who you can date online.",
+      "New UK rules force age checks on dating apps.",
+      "But AI companions face the same 18+ gate.",
+      "Your app store downloads now require age verification.",
+      "Check if your favorite app just got restricted."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Apple's Dating Police?\n\nApple now scans dating apps for age compliance, but the real shock? AI companions face the same 18+ gate.",
+          "2. UK Forces Age Checks\n\nNew rules require dating apps to verify user age. Non-compliance means app store removal.",
+          "3. AI Companions Gated\n\nVirtual partners now trigger the same 18+ verification as dating apps, catching developers off guard.",
+          "4. App Store Downloads Blocked\n\nIf an app lacks age verification, iOS and Android stores will refuse to list it, cutting off access entirely.",
+          "5. Is Your App Next?\n\nCheck if your favorite dating or AI app still appears in the store. If it's gone, the age gate hit."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple is policing who you can date online.",
+          "New UK rules force age checks on dating apps.",
+          "But AI companions face the same 18+ gate.",
+          "Your app store downloads now require age verification.",
+          "Check if your favorite app just got restricted."
+        ]
+      },
+      "instagram": {
+        "caption": "Your dating app now needs proof you're 18 before Apple lets you download it. 📱\n\nApple is enforcing age verification on dating apps in the UK under new rules. Non-compliant apps get pulled from the App Store entirely.\n\nThe twist: AI companion apps face the exact same 18+ gate. 🚧\n\nIf you build or publish an app, missing age checks means iOS and Android stores won't list it — no download, no users, no revenue.\n\nOpen your App Store right now and search your favorite dating or AI companion app. Still there? Good. Gone? The age gate already hit. 👀"
+      }
+    },
+    "instagram_caption": "Your dating app now needs proof you're 18 before Apple lets you download it. 📱\n\nApple is enforcing age verification on dating apps in the UK under new rules. Non-compliant apps get pulled from the App Store entirely.\n\nThe twist: AI companion apps face the exact same 18+ gate. 🚧\n\nIf you build or publish an app, missing age checks means iOS and Android stores won't list it — no download, no users, no revenue.\n\nOpen your App Store right now and search your favorite dating or AI companion app. Still there? Good. Gone? The age gate already hit. 👀",
+    "carousel_slides": [
+      {
+        "hook": "AI companions now need age verification?",
+        "description": "Apple enforces 18+ gate on AI companions and dating apps due to new UK rules, surprising developers.",
+        "visual_hint": "Age verification prompt on smartphone screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone screen"
+      },
+      {
+        "hook": "UK forces age checks on dating apps",
+        "description": "New UK regulations require dating apps to verify user age; non-compliance leads to app store removal.",
+        "visual_hint": "UK flag with smartphone and ID check",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "UK flag",
+        "image": "https://images.pexels.com/photos/29589319/pexels-photo-29589319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Virtual partners hit by 18+ rule",
+        "description": "AI companions now trigger the same age verification as dating apps, catching developers off guard.",
+        "visual_hint": "AI chatbot interface with age restriction icon",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "chatbot interface",
+        "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "App store downloads blocked without age check",
+        "description": "If an app lacks age verification, iOS and Android stores refuse to list it, cutting off access entirely.",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "visual_hint": "Hand holding phone with app store error",
+        "image_query": "app store icon",
+        "image": "https://images.pexels.com/photos/15378959/pexels-photo-15378959.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Is your favorite app next? Check now!",
+        "description": "Search your app store for your dating or AI app; if it's missing, the age gate hit.",
+        "visual_hint": "Person scrolling app store with missing app",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "app store search",
+        "image": "https://images.pexels.com/photos/13570173/pexels-photo-13570173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-1.24.23PM.png?resize=1200,672",
+    "savedAt": "2026-11-04T04:02:09.564Z",
+    "sourceId": "74ef1aa5540cfddda2fbd4e87fcc735a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "netflix-s-new-ai-discover-tab-helps-you-find-somet",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+    "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+    "pubDate": "Tue, 03 Nov 2026 18:42:16 +0000",
+    "slides": [
+      "Netflix bets your mood beats your watch history",
+      "A new AI Discover tab reads how you feel",
+      "But mood shifts faster than any algorithm tracks",
+      "Expect sharper picks, fewer endless scroll nights",
+      "Test it tonight: pick a mood, judge the result"
+    ],
+    "thread_text": [
+      "1. Netflix's Mood Play\n\nNetflix is testing an AI tab that recommends shows based on how you feel, not what you've watched.",
+      "2. Feelings Over History\n\nThe new Discover tab asks you to pick a mood, then serves up content it thinks fits that emotion.",
+      "3. Moods Move Fast\n\nYour mood can change in minutes, but the algorithm's picks lag behind, possibly missing the mark.",
+      "4. Sharper Picks or Missed Shots\n\nIf it works, you'll spend less time scrolling. If not, you'll get suggestions that feel off.",
+      "5. Try It Yourself\n\nTonight, open Netflix, choose a mood, and see if the first recommendation actually matches how you feel."
+    ],
+    "video_script": [
+      "Netflix is testing an AI tab that reads your mood.",
+      "It asks you to pick a feeling, then recommends shows.",
+      "But moods shift fast, and algorithms might not keep up.",
+      "If it works, you'll get sharper picks and less scrolling.",
+      "Try it tonight: pick a mood and judge the result."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Netflix's Mood Play\n\nNetflix is testing an AI tab that recommends shows based on how you feel, not what you've watched.",
+          "2. Feelings Over History\n\nThe new Discover tab asks you to pick a mood, then serves up content it thinks fits that emotion.",
+          "3. Moods Move Fast\n\nYour mood can change in minutes, but the algorithm's picks lag behind, possibly missing the mark.",
+          "4. Sharper Picks or Missed Shots\n\nIf it works, you'll spend less time scrolling. If not, you'll get suggestions that feel off.",
+          "5. Try It Yourself\n\nTonight, open Netflix, choose a mood, and see if the first recommendation actually matches how you feel."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Netflix is testing an AI tab that reads your mood.",
+          "It asks you to pick a feeling, then recommends shows.",
+          "But moods shift fast, and algorithms might not keep up.",
+          "If it works, you'll get sharper picks and less scrolling.",
+          "Try it tonight: pick a mood and judge the result."
+        ]
+      },
+      "instagram": {
+        "caption": "Netflix is testing a tab that asks how you feel before it shows you what to watch.\n\nIt's called Discover, and it builds recommendations from your mood instead of your watch history. 🎬\n\nThe catch: your mood can shift in minutes, while the algorithm's picks lag behind. 🤔\n\nIf it works, you spend less time scrolling and more time watching. If it doesn't, you get suggestions that feel off.\n\nWorth testing yourself: pick a mood tonight and see if the first pick actually fits. What mood would you choose first? 😅"
+      }
+    },
+    "instagram_caption": "Netflix is testing a tab that asks how you feel before it shows you what to watch.\n\nIt's called Discover, and it builds recommendations from your mood instead of your watch history. 🎬\n\nThe catch: your mood can shift in minutes, while the algorithm's picks lag behind. 🤔\n\nIf it works, you spend less time scrolling and more time watching. If it doesn't, you get suggestions that feel off.\n\nWorth testing yourself: pick a mood tonight and see if the first pick actually fits. What mood would you choose first? 😅",
+    "carousel_slides": [
+      {
+        "hook": "Your mood changes faster than Netflix",
+        "description": "Netflix's AI Discover tab recommends by mood, but moods shift in minutes, so picks may lag behind.",
+        "visual_hint": "Person scrolling Netflix on phone",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Netflix interface"
+      },
+      {
+        "hook": "Netflix bets mood beats history",
+        "description": "New AI tab asks you to pick a mood, then serves content it thinks fits that emotion, ignoring watch history.",
+        "visual_hint": "Split screen: mood emojis vs watch history",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "mood emoticons",
+        "image": "https://images.pexels.com/photos/32880672/pexels-photo-32880672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Algorithms can't keep up with feelings",
+        "description": "Your mood can change in minutes, but the algorithm's picks lag behind, possibly missing the mark entirely.",
+        "visual_hint": "Clock ticking next to mood swings",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "clock face",
+        "image": "https://images.pexels.com/photos/37808313/pexels-photo-37808313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sharper picks or missed shots?",
+        "description": "If it works, you'll spend less time scrolling. If not, you'll get suggestions that feel off.",
+        "visual_hint": "Hand swiping through Netflix suggestions",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand remote control",
+        "image": "https://images.pexels.com/photos/36410718/pexels-photo-36410718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try it tonight and judge yourself",
+        "description": "Open Netflix, choose a mood, and see if the first recommendation matches how you feel. Save this for later!",
+        "visual_hint": "Phone screen with mood selection",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "Netflix mood selection",
+        "image": "https://images.pexels.com/photos/14770619/pexels-photo-14770619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2235383828.jpg?resize=1200,800",
+    "savedAt": "2026-11-04T04:02:00.128Z",
+    "sourceId": "b0c96602861bfc20ffcbd28d6c386251"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "data-centers-are-turning-to-old-jet-engines-as-the",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Data centers are turning to old jet engines as the wait for power grows",
+    "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+    "pubDate": "Tue, 03 Nov 2026 22:19:53 +0000",
+    "slides": [
+      "Why would data centers bolt on old jet engines?",
+      "Grid connections now take years, not months",
+      "Aircraft turbines produce power in weeks instead",
+      "Your cloud costs may shift as operators improvise",
+      "Ask providers how they secure power for 2027"
+    ],
+    "thread_text": [
+      "1. Jet engines for data centers?\n\nAI's power demand is so high that operators are repurposing aircraft turbines to keep servers running, bypassing years-long grid delays.",
+      "2. Grid connections now take years\n\nWhat used to be a months-long process now stretches to 2027 or beyond, forcing companies to find creative workarounds.",
+      "3. Turbines deliver power in weeks\n\nUnlike slow grid upgrades, aircraft turbines can be installed and operational in a fraction of the time, bridging the gap.",
+      "4. Your cloud bill may rise\n\nAs operators improvise with costly stopgap solutions, those expenses could trickle down to your monthly cloud costs.",
+      "5. Ask about 2027 power plans\n\nWhen negotiating cloud contracts, demand specifics: how will your provider secure power for 2027? Get it in writing."
+    ],
+    "video_script": [
+      "Why are data centers bolting old jet engines?",
+      "Grid connections now take years, not months.",
+      "Aircraft turbines produce power in weeks instead.",
+      "Your cloud costs may shift as operators improvise.",
+      "Ask providers how they secure power for 2027."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Jet engines for data centers?\n\nAI's power demand is so high that operators are repurposing aircraft turbines to keep servers running, bypassing years-long grid delays.",
+          "2. Grid connections now take years\n\nWhat used to be a months-long process now stretches to 2027 or beyond, forcing companies to find creative workarounds.",
+          "3. Turbines deliver power in weeks\n\nUnlike slow grid upgrades, aircraft turbines can be installed and operational in a fraction of the time, bridging the gap.",
+          "4. Your cloud bill may rise\n\nAs operators improvise with costly stopgap solutions, those expenses could trickle down to your monthly cloud costs.",
+          "5. Ask about 2027 power plans\n\nWhen negotiating cloud contracts, demand specifics: how will your provider secure power for 2027? Get it in writing."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Why are data centers bolting old jet engines?",
+          "Grid connections now take years, not months.",
+          "Aircraft turbines produce power in weeks instead.",
+          "Your cloud costs may shift as operators improvise.",
+          "Ask providers how they secure power for 2027."
+        ]
+      },
+      "instagram": {
+        "caption": "Grid connections for new data centers now stretch to 2027 or beyond — so operators are bolting old aircraft turbines onto buildings to keep servers running.\n\nA grid hookup used to take months. Now it takes years, and AI's power demand won't wait. ✈️\n\nAircraft turbines can be installed and producing power in weeks instead.\n\nThose stopgap fixes cost money, and operators may pass the expense down to your monthly cloud bill. 💸\n\nIf you build or publish with cloud tools, ask your provider one question before signing: how exactly will you secure power for 2027? Get the answer in writing. ⚡\n\nWould you pay more for cloud services if it meant guaranteed uptime? 🤔"
+      }
+    },
+    "instagram_caption": "Grid connections for new data centers now stretch to 2027 or beyond — so operators are bolting old aircraft turbines onto buildings to keep servers running.\n\nA grid hookup used to take months. Now it takes years, and AI's power demand won't wait. ✈️\n\nAircraft turbines can be installed and producing power in weeks instead.\n\nThose stopgap fixes cost money, and operators may pass the expense down to your monthly cloud bill. 💸\n\nIf you build or publish with cloud tools, ask your provider one question before signing: how exactly will you secure power for 2027? Get the answer in writing. ⚡\n\nWould you pay more for cloud services if it meant guaranteed uptime? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Jet engines powering data centers?",
+        "description": "AI's massive power demand forces operators to repurpose aircraft turbines, bypassing years-long grid delays. A surprising workaround.",
+        "visual_hint": "Old jet engine beside server racks",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "jet engine"
+      },
+      {
+        "hook": "Grid connections now take years",
+        "description": "What was a months-long process now stretches to 2027 or beyond, forcing companies to find creative workarounds.",
+        "visual_hint": "Calendar with 2027 circled",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "power grid",
+        "image": "https://images.pexels.com/photos/39398551/pexels-photo-39398551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Turbines deliver power in weeks",
+        "description": "Aircraft turbines install and operate in a fraction of the time, bridging the gap while grid upgrades lag.",
+        "visual_hint": "Turbine being installed quickly",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "aircraft turbine",
+        "image": "https://images.pexels.com/photos/5262803/pexels-photo-5262803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your cloud bill may rise",
+        "description": "Costly stopgap solutions could trickle down to your monthly cloud costs as operators improvise.",
+        "visual_hint": "Cloud bill with upward arrow",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "cloud computing",
+        "image": "https://images.pexels.com/photos/12899121/pexels-photo-12899121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask about 2027 power plans",
+        "description": "When negotiating cloud contracts, demand specifics: how will your provider secure power for 2027? Get it in writing.",
+        "visual_hint": "Contract with power clause highlighted",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "business contract",
+        "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Commercial-plane-clouds.jpg?w=719",
+    "savedAt": "2026-11-04T04:01:50.336Z",
+    "sourceId": "4970a06a586ccae03c7884f4e86c0351"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "crowdstrike-to-shell-out-nearly-500m-for-2-ai-secu",
     "prompt_version": "1.0.0",
     "status": "published",
