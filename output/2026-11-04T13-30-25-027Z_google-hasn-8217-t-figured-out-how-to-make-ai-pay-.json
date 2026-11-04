@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-hasn-8217-t-figured-out-how-to-make-ai-pay-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+  "pubDate": "2026-11-04T12:00:00.000Z",
+  "slides": [
+    "Google's AI gamble: why can't it monetize like Search?",
+    "Search ads fund most of Alphabet's profit machine",
+    "AI answers kill the clicks that ads depend on",
+    "Your search habits may shift without you noticing",
+    "Ask one question: who pays when answers are free?"
+  ],
+  "thread_text": [
+    "1. AI's Free Lunch Problem\n\nGoogle answers more queries directly with AI, but every answer that skips a click also skips the ad impression that funds the whole machine.",
+    "2. Search Pays for Everything\n\nSearch ads generate the bulk of Alphabet's profit, bankrolling labs, cloud, and bets like Waymo. No clicks means no auction, no revenue.",
+    "3. Habits Shift Quietly\n\nYou won't notice the change: autocomplete, AI overviews, and voice answers feel smoother. Convenience hides the moment you stop scrolling results.",
+    "4. New Business Model Needed\n\nGoogle isn't alone — every free AI assistant faces the same gap between inference costs and ad models built for link clicks.",
+    "5. Ask Yourself This Today\n\nTry a prompt on ChatGPT and ask it to summarize a product review. Then ask: who paid for that answer, and what are you giving up?"
+  ],
+  "video_script": [
+    "Google's AI answers are eating the clicks that pay for search.",
+    "Search ads fund most of Alphabet's profit — no clicks, no revenue.",
+    "AI summaries feel smoother, but they quietly kill ad impressions.",
+    "Google's search habits may shift without users even noticing.",
+    "Free answers have a cost — ask who's really paying."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI's Free Lunch Problem\n\nGoogle answers more queries directly with AI, but every answer that skips a click also skips the ad impression that funds the whole machine.",
+        "2. Search Pays for Everything\n\nSearch ads generate the bulk of Alphabet's profit, bankrolling labs, cloud, and bets like Waymo. No clicks means no auction, no revenue.",
+        "3. Habits Shift Quietly\n\nYou won't notice the change: autocomplete, AI overviews, and voice answers feel smoother. Convenience hides the moment you stop scrolling results.",
+        "4. New Business Model Needed\n\nGoogle isn't alone — every free AI assistant faces the same gap between inference costs and ad models built for link clicks.",
+        "5. Ask Yourself This Today\n\nTry a prompt on ChatGPT and ask it to summarize a product review. Then ask: who paid for that answer, and what are you giving up?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google's AI answers are eating the clicks that pay for search.",
+        "Search ads fund most of Alphabet's profit — no clicks, no revenue.",
+        "AI summaries feel smoother, but they quietly kill ad impressions.",
+        "Google's search habits may shift without users even noticing.",
+        "Free answers have a cost — ask who's really paying."
+      ]
+    },
+    "instagram": {
+      "caption": "Google answers more questions without sending you to a website, and that click it skips is the one that paid for everything. 🔍\n\nSearch ads fund most of Alphabet's profit, including its cloud and its self-driving car bets.\n\nEvery AI answer that replaces a link skips the ad auction entirely.\n\nYou won't even notice the shift — autocomplete and voice answers just feel smoother. 🧠\n\nIf you publish content, the traffic you counted on can shrink without a single warning.\n\nAsk ChatGPT to summarize a product review today, then ask yourself: who paid for that answer, and what did you give up? 💬"
+    }
+  },
+  "instagram_caption": "Google answers more questions without sending you to a website, and that click it skips is the one that paid for everything. 🔍\n\nSearch ads fund most of Alphabet's profit, including its cloud and its self-driving car bets.\n\nEvery AI answer that replaces a link skips the ad auction entirely.\n\nYou won't even notice the shift — autocomplete and voice answers just feel smoother. 🧠\n\nIf you publish content, the traffic you counted on can shrink without a single warning.\n\nAsk ChatGPT to summarize a product review today, then ask yourself: who paid for that answer, and what did you give up? 💬",
+  "carousel_slides": [
+    {
+      "hook": "AI answers kill the clicks ads need",
+      "description": "Google's AI overviews answer queries directly, but each skipped click means a lost ad impression that funds the entire profit machine.",
+      "visual_hint": "AI chat interface replacing search results",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "AI chatbot interface"
+    },
+    {
+      "hook": "Search ads bankroll Alphabet's entire empire",
+      "description": "Search ads generate most of Alphabet's profit, funding labs, cloud, and moonshots like Waymo. No clicks means no auction, no revenue.",
+      "visual_hint": "Search ad revenue flowing to diverse projects",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your search habits shift without you noticing",
+      "description": "Autocomplete, AI overviews, and voice answers feel smoother, but convenience hides the moment you stop scrolling results and ads disappear.",
+      "visual_hint": "Person using voice assistant on phone",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smartphone voice assistant",
+      "image": "https://images.pexels.com/photos/5083215/pexels-photo-5083215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Free AI assistants face the same monetization gap",
+      "description": "Google isn't alone—every free AI assistant struggles with inference costs versus ad models built for link clicks.",
+      "visual_hint": "AI assistant icons with dollar signs",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "server room infrastructure",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask yourself: who pays for free answers?",
+      "description": "Try a prompt on ChatGPT to summarize a product review, then ask: who paid for that answer, and what are you giving up?",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Person typing on laptop with question mark",
+      "image_query": "person typing laptop",
+      "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-106058340.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.3445766662078%2C100%2C81.310846667584&amp;w=1200",
+  "savedAt": "2026-11-04T13:30:36.313Z",
+  "sourceId": "27ef63eca13564102f2c1bbb769a9359"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-biggest-modding-site-in-pc-gaming-is-taking-a-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The biggest modding site in PC gaming is taking a stance on AI",
+  "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+  "pubDate": "2026-11-04T00:42:10.000Z",
+  "slides": [
+    "Why is Nexus Mods drawing a line on AI?",
+    "It hosts mods for thousands of PC games",
+    "It will ban AI-generated content and tools",
+    "Modders must disclose any AI use honestly",
+    "Check your favorite mods for new AI rules"
+  ],
+  "thread_text": [
+    "1. Nexus Mods bans AI content\n\nNexus Mods hosts mods for thousands of PC games. It just drew a hard line on AI-generated content and tools, banning them outright.",
+    "2. Modders must disclose AI use\n\nAny modder using AI must honestly disclose it. This transparency rule applies to all mods on the platform.",
+    "3. Check your favorite mods\n\nExisting mods may now be affected by the new AI rules. Check your favorite mods for compliance updates.",
+    "4. Why the sudden crackdown?\n\nNexus Mods hasn't detailed its full reasoning, but the move signals growing tension over AI in gaming communities.",
+    "5. What's your take?\n\nDo you support banning AI-generated mods, or should platforms allow them with disclosure? Tell us in the replies."
+  ],
+  "video_script": [
+    "Nexus Mods just banned AI-generated content and tools.",
+    "It hosts mods for thousands of PC games, so this is huge.",
+    "Modders must now honestly disclose any AI use.",
+    "Check your favorite mods for new AI rules.",
+    "What do you think about this ban?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Nexus Mods bans AI content\n\nNexus Mods hosts mods for thousands of PC games. It just drew a hard line on AI-generated content and tools, banning them outright.",
+        "2. Modders must disclose AI use\n\nAny modder using AI must honestly disclose it. This transparency rule applies to all mods on the platform.",
+        "3. Check your favorite mods\n\nExisting mods may now be affected by the new AI rules. Check your favorite mods for compliance updates.",
+        "4. Why the sudden crackdown?\n\nNexus Mods hasn't detailed its full reasoning, but the move signals growing tension over AI in gaming communities.",
+        "5. What's your take?\n\nDo you support banning AI-generated mods, or should platforms allow them with disclosure? Tell us in the replies."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Nexus Mods just banned AI-generated content and tools.",
+        "It hosts mods for thousands of PC games, so this is huge.",
+        "Modders must now honestly disclose any AI use.",
+        "Check your favorite mods for new AI rules.",
+        "What do you think about this ban?"
+      ]
+    },
+    "instagram": {
+      "caption": "If a mod you use was made with AI, it may not be available on Nexus Mods anymore.\n\nThe site hosts mods for thousands of PC games and just banned AI-generated content and tools outright.\n\nModders who use AI at all now have to say so honestly. No exceptions. 🚫\n\nIf you make or upload mods, check yours against the new rules before they get pulled.\n\nDo you back the ban, or should platforms allow AI mods as long as creators disclose it? 👇"
+    }
+  },
+  "instagram_caption": "If a mod you use was made with AI, it may not be available on Nexus Mods anymore.\n\nThe site hosts mods for thousands of PC games and just banned AI-generated content and tools outright.\n\nModders who use AI at all now have to say so honestly. No exceptions. 🚫\n\nIf you make or upload mods, check yours against the new rules before they get pulled.\n\nDo you back the ban, or should platforms allow AI mods as long as creators disclose it? 👇",
+  "carousel_slides": [
+    {
+      "hook": "AI mods just got banned",
+      "description": "Nexus Mods, hosting mods for thousands of PC games, now bans AI-generated content and tools outright, reshaping modding rules.",
+      "visual_hint": "Ban symbol over game controller",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "game controller ban"
+    },
+    {
+      "hook": "Thousands of games affected",
+      "description": "Nexus Mods hosts mods for thousands of PC games, so this AI ban impacts a massive modding ecosystem.",
+      "visual_hint": "Screens with game mods",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer game screens",
+      "image": "https://images.pexels.com/photos/31862220/pexels-photo-31862220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Honest AI disclosure required",
+      "description": "Modders must disclose any AI use honestly; transparency rule applies to all mods on the platform.",
+      "visual_hint": "Hand writing on notepad",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "hand writing notepad",
+      "image": "https://images.pexels.com/photos/4195397/pexels-photo-4195397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your favorite mods now",
+      "description": "Existing mods may be affected by new AI rules; check your favorite mods for compliance updates.",
+      "visual_hint": "Person browsing mod website",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person browsing website",
+      "image": "https://images.pexels.com/photos/7620697/pexels-photo-7620697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Support the AI ban? Comment!",
+      "description": "Do you support banning AI-generated mods or allow with disclosure? Share your take and save this post.",
+      "visual_hint": "Comment section on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "comment section screen",
+      "image": "https://images.pexels.com/photos/5053765/pexels-photo-5053765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-04T13:30:46.077Z",
+  "sourceId": "faa8b68df590a6f6f4e69eb9e7dd430f"
+}

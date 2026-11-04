@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-says-chatgpt-is-catching-up-to-google-in-se",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI says ChatGPT is catching up to Google in search",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "pubDate": "2026-11-03T18:30:42.000Z",
+      "slides": [
+        "Is ChatGPT about to dethrone Google in search?",
+        "OpenAI now lets ChatGPT search the live web directly",
+        "But it still trails Google on news and shopping queries",
+        "Your search habits may shift as ChatGPT improves daily",
+        "Test one real query today and compare answers"
+      ],
+      "thread_text": [
+        "1. ChatGPT vs Google: The Search War\n\nOpenAI just turned on live web search inside ChatGPT, no plugins required. That puts it directly in Google's lane for the first time.",
+        "2. ChatGPT Searches the Live Web\n\nThe update fetches current pages in real time, meaning answers can now include today's news. No more relying on a stale training cutoff.",
+        "3. Still Weak on News and Shopping\n\nEarly tests show ChatGPT lags behind Google on fresh news and product comparisons. It struggles to surface the most recent headlines or the best deals.",
+        "4. Your Search Habits May Shift\n\nAs ChatGPT gets better at everyday queries, you might start opening it before your browser. Small daily improvements could quietly rewrite your routine.",
+        "5. Test One Query Today\n\nOpen ChatGPT and Google side by side with a real question you care about. Compare the answers — would you switch based on what you see?"
+      ],
+      "video_script": [
+        "Is ChatGPT about to dethrone Google in search?",
+        "OpenAI now lets ChatGPT search the live web directly.",
+        "But it still trails Google on news and shopping queries.",
+        "Your search habits may shift as ChatGPT improves daily.",
+        "Test one real query today and compare answers."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. ChatGPT vs Google: The Search War\n\nOpenAI just turned on live web search inside ChatGPT, no plugins required. That puts it directly in Google's lane for the first time.",
+            "2. ChatGPT Searches the Live Web\n\nThe update fetches current pages in real time, meaning answers can now include today's news. No more relying on a stale training cutoff.",
+            "3. Still Weak on News and Shopping\n\nEarly tests show ChatGPT lags behind Google on fresh news and product comparisons. It struggles to surface the most recent headlines or the best deals.",
+            "4. Your Search Habits May Shift\n\nAs ChatGPT gets better at everyday queries, you might start opening it before your browser. Small daily improvements could quietly rewrite your routine.",
+            "5. Test One Query Today\n\nOpen ChatGPT and Google side by side with a real question you care about. Compare the answers — would you switch based on what you see?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Is ChatGPT about to dethrone Google in search?",
+            "OpenAI now lets ChatGPT search the live web directly.",
+            "But it still trails Google on news and shopping queries.",
+            "Your search habits may shift as ChatGPT improves daily.",
+            "Test one real query today and compare answers."
+          ]
+        },
+        "instagram": {
+          "caption": "ChatGPT now searches the live web directly, no plugins needed — and OpenAI says it's catching up to Google.\n\nThat means answers can include today's pages instead of a stale training cutoff 🕸️\n\nBut early tests show it still trails Google on fresh news and product comparisons 🔍\n\nIf you publish content, getting surfaced in AI answers starts to matter as much as ranking in search results 📰\n\nOpen ChatGPT and Google side by side with one real query you care about. Would you switch based on what you see? 👀"
+        }
+      },
+      "instagram_caption": "ChatGPT now searches the live web directly, no plugins needed — and OpenAI says it's catching up to Google.\n\nThat means answers can include today's pages instead of a stale training cutoff 🕸️\n\nBut early tests show it still trails Google on fresh news and product comparisons 🔍\n\nIf you publish content, getting surfaced in AI answers starts to matter as much as ranking in search results 📰\n\nOpen ChatGPT and Google side by side with one real query you care about. Would you switch based on what you see? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Is Google's search reign finally ending?",
+          "description": "OpenAI added live web search to ChatGPT, putting it directly in Google's lane for the first time.",
+          "visual_hint": "Split screen: Google logo vs ChatGPT logo",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "search engine logos"
+        },
+        {
+          "hook": "ChatGPT now searches the live web",
+          "description": "The update fetches current pages in real time, so answers can include today's news instead of stale training data.",
+          "visual_hint": "Live web pages loading in real time",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "world wide web",
+          "image": "https://images.pexels.com/photos/4238506/pexels-photo-4238506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "But it still trails Google on news",
+          "description": "Early tests show ChatGPT lags on fresh headlines and product comparisons, struggling to surface the best deals.",
+          "visual_hint": "News headlines and shopping results side by side",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "newspaper headlines",
+          "image": "https://images.pexels.com/photos/18807134/pexels-photo-18807134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your search habits might quietly shift",
+          "description": "As ChatGPT improves at everyday queries, you might open it before your browser, rewriting your daily routine.",
+          "visual_hint": "Hand reaching for phone vs laptop",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person using smartphone",
+          "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one query today and compare",
+          "description": "Open ChatGPT and Google side by side with a real question you care about. Would you switch based on the answers?",
+          "visual_hint": "Two screens showing different answers",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "side by side comparison",
+          "image": "https://images.pexels.com/photos/38137454/pexels-photo-38137454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-11-04T13:30:55.643Z",
+      "sourceId": "eaa88cee498cbfc261464bf533a00824"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "the-biggest-modding-site-in-pc-gaming-is-taking-a-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "pubDate": "2026-11-04T00:42:10.000Z",
+      "slides": [
+        "Why is Nexus Mods drawing a line on AI?",
+        "It hosts mods for thousands of PC games",
+        "It will ban AI-generated content and tools",
+        "Modders must disclose any AI use honestly",
+        "Check your favorite mods for new AI rules"
+      ],
+      "thread_text": [
+        "1. Nexus Mods bans AI content\n\nNexus Mods hosts mods for thousands of PC games. It just drew a hard line on AI-generated content and tools, banning them outright.",
+        "2. Modders must disclose AI use\n\nAny modder using AI must honestly disclose it. This transparency rule applies to all mods on the platform.",
+        "3. Check your favorite mods\n\nExisting mods may now be affected by the new AI rules. Check your favorite mods for compliance updates.",
+        "4. Why the sudden crackdown?\n\nNexus Mods hasn't detailed its full reasoning, but the move signals growing tension over AI in gaming communities.",
+        "5. What's your take?\n\nDo you support banning AI-generated mods, or should platforms allow them with disclosure? Tell us in the replies."
+      ],
+      "video_script": [
+        "Nexus Mods just banned AI-generated content and tools.",
+        "It hosts mods for thousands of PC games, so this is huge.",
+        "Modders must now honestly disclose any AI use.",
+        "Check your favorite mods for new AI rules.",
+        "What do you think about this ban?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Nexus Mods bans AI content\n\nNexus Mods hosts mods for thousands of PC games. It just drew a hard line on AI-generated content and tools, banning them outright.",
+            "2. Modders must disclose AI use\n\nAny modder using AI must honestly disclose it. This transparency rule applies to all mods on the platform.",
+            "3. Check your favorite mods\n\nExisting mods may now be affected by the new AI rules. Check your favorite mods for compliance updates.",
+            "4. Why the sudden crackdown?\n\nNexus Mods hasn't detailed its full reasoning, but the move signals growing tension over AI in gaming communities.",
+            "5. What's your take?\n\nDo you support banning AI-generated mods, or should platforms allow them with disclosure? Tell us in the replies."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Nexus Mods just banned AI-generated content and tools.",
+            "It hosts mods for thousands of PC games, so this is huge.",
+            "Modders must now honestly disclose any AI use.",
+            "Check your favorite mods for new AI rules.",
+            "What do you think about this ban?"
+          ]
+        },
+        "instagram": {
+          "caption": "If a mod you use was made with AI, it may not be available on Nexus Mods anymore.\n\nThe site hosts mods for thousands of PC games and just banned AI-generated content and tools outright.\n\nModders who use AI at all now have to say so honestly. No exceptions. 🚫\n\nIf you make or upload mods, check yours against the new rules before they get pulled.\n\nDo you back the ban, or should platforms allow AI mods as long as creators disclose it? 👇"
+        }
+      },
+      "instagram_caption": "If a mod you use was made with AI, it may not be available on Nexus Mods anymore.\n\nThe site hosts mods for thousands of PC games and just banned AI-generated content and tools outright.\n\nModders who use AI at all now have to say so honestly. No exceptions. 🚫\n\nIf you make or upload mods, check yours against the new rules before they get pulled.\n\nDo you back the ban, or should platforms allow AI mods as long as creators disclose it? 👇",
+      "carousel_slides": [
+        {
+          "hook": "AI mods just got banned",
+          "description": "Nexus Mods, hosting mods for thousands of PC games, now bans AI-generated content and tools outright, reshaping modding rules.",
+          "visual_hint": "Ban symbol over game controller",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "game controller ban"
+        },
+        {
+          "hook": "Thousands of games affected",
+          "description": "Nexus Mods hosts mods for thousands of PC games, so this AI ban impacts a massive modding ecosystem.",
+          "visual_hint": "Screens with game mods",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer game screens",
+          "image": "https://images.pexels.com/photos/31862220/pexels-photo-31862220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Honest AI disclosure required",
+          "description": "Modders must disclose any AI use honestly; transparency rule applies to all mods on the platform.",
+          "visual_hint": "Hand writing on notepad",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "hand writing notepad",
+          "image": "https://images.pexels.com/photos/4195397/pexels-photo-4195397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your favorite mods now",
+          "description": "Existing mods may be affected by new AI rules; check your favorite mods for compliance updates.",
+          "visual_hint": "Person browsing mod website",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person browsing website",
+          "image": "https://images.pexels.com/photos/7620697/pexels-photo-7620697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Support the AI ban? Comment!",
+          "description": "Do you support banning AI-generated mods or allow with disclosure? Share your take and save this post.",
+          "visual_hint": "Comment section on screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "comment section screen",
+          "image": "https://images.pexels.com/photos/5053765/pexels-photo-5053765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-11-04T13:30:46.077Z",
+      "sourceId": "faa8b68df590a6f6f4e69eb9e7dd430f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-hasn-8217-t-figured-out-how-to-make-ai-pay-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+      "pubDate": "2026-11-04T12:00:00.000Z",
+      "slides": [
+        "Google's AI gamble: why can't it monetize like Search?",
+        "Search ads fund most of Alphabet's profit machine",
+        "AI answers kill the clicks that ads depend on",
+        "Your search habits may shift without you noticing",
+        "Ask one question: who pays when answers are free?"
+      ],
+      "thread_text": [
+        "1. AI's Free Lunch Problem\n\nGoogle answers more queries directly with AI, but every answer that skips a click also skips the ad impression that funds the whole machine.",
+        "2. Search Pays for Everything\n\nSearch ads generate the bulk of Alphabet's profit, bankrolling labs, cloud, and bets like Waymo. No clicks means no auction, no revenue.",
+        "3. Habits Shift Quietly\n\nYou won't notice the change: autocomplete, AI overviews, and voice answers feel smoother. Convenience hides the moment you stop scrolling results.",
+        "4. New Business Model Needed\n\nGoogle isn't alone — every free AI assistant faces the same gap between inference costs and ad models built for link clicks.",
+        "5. Ask Yourself This Today\n\nTry a prompt on ChatGPT and ask it to summarize a product review. Then ask: who paid for that answer, and what are you giving up?"
+      ],
+      "video_script": [
+        "Google's AI answers are eating the clicks that pay for search.",
+        "Search ads fund most of Alphabet's profit — no clicks, no revenue.",
+        "AI summaries feel smoother, but they quietly kill ad impressions.",
+        "Google's search habits may shift without users even noticing.",
+        "Free answers have a cost — ask who's really paying."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI's Free Lunch Problem\n\nGoogle answers more queries directly with AI, but every answer that skips a click also skips the ad impression that funds the whole machine.",
+            "2. Search Pays for Everything\n\nSearch ads generate the bulk of Alphabet's profit, bankrolling labs, cloud, and bets like Waymo. No clicks means no auction, no revenue.",
+            "3. Habits Shift Quietly\n\nYou won't notice the change: autocomplete, AI overviews, and voice answers feel smoother. Convenience hides the moment you stop scrolling results.",
+            "4. New Business Model Needed\n\nGoogle isn't alone — every free AI assistant faces the same gap between inference costs and ad models built for link clicks.",
+            "5. Ask Yourself This Today\n\nTry a prompt on ChatGPT and ask it to summarize a product review. Then ask: who paid for that answer, and what are you giving up?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google's AI answers are eating the clicks that pay for search.",
+            "Search ads fund most of Alphabet's profit — no clicks, no revenue.",
+            "AI summaries feel smoother, but they quietly kill ad impressions.",
+            "Google's search habits may shift without users even noticing.",
+            "Free answers have a cost — ask who's really paying."
+          ]
+        },
+        "instagram": {
+          "caption": "Google answers more questions without sending you to a website, and that click it skips is the one that paid for everything. 🔍\n\nSearch ads fund most of Alphabet's profit, including its cloud and its self-driving car bets.\n\nEvery AI answer that replaces a link skips the ad auction entirely.\n\nYou won't even notice the shift — autocomplete and voice answers just feel smoother. 🧠\n\nIf you publish content, the traffic you counted on can shrink without a single warning.\n\nAsk ChatGPT to summarize a product review today, then ask yourself: who paid for that answer, and what did you give up? 💬"
+        }
+      },
+      "instagram_caption": "Google answers more questions without sending you to a website, and that click it skips is the one that paid for everything. 🔍\n\nSearch ads fund most of Alphabet's profit, including its cloud and its self-driving car bets.\n\nEvery AI answer that replaces a link skips the ad auction entirely.\n\nYou won't even notice the shift — autocomplete and voice answers just feel smoother. 🧠\n\nIf you publish content, the traffic you counted on can shrink without a single warning.\n\nAsk ChatGPT to summarize a product review today, then ask yourself: who paid for that answer, and what did you give up? 💬",
+      "carousel_slides": [
+        {
+          "hook": "AI answers kill the clicks ads need",
+          "description": "Google's AI overviews answer queries directly, but each skipped click means a lost ad impression that funds the entire profit machine.",
+          "visual_hint": "AI chat interface replacing search results",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "AI chatbot interface"
+        },
+        {
+          "hook": "Search ads bankroll Alphabet's entire empire",
+          "description": "Search ads generate most of Alphabet's profit, funding labs, cloud, and moonshots like Waymo. No clicks means no auction, no revenue.",
+          "visual_hint": "Search ad revenue flowing to diverse projects",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your search habits shift without you noticing",
+          "description": "Autocomplete, AI overviews, and voice answers feel smoother, but convenience hides the moment you stop scrolling results and ads disappear.",
+          "visual_hint": "Person using voice assistant on phone",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "smartphone voice assistant",
+          "image": "https://images.pexels.com/photos/5083215/pexels-photo-5083215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Free AI assistants face the same monetization gap",
+          "description": "Google isn't alone—every free AI assistant struggles with inference costs versus ad models built for link clicks.",
+          "visual_hint": "AI assistant icons with dollar signs",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "server room infrastructure",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask yourself: who pays for free answers?",
+          "description": "Try a prompt on ChatGPT to summarize a product review, then ask: who paid for that answer, and what are you giving up?",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "visual_hint": "Person typing on laptop with question mark",
+          "image_query": "person typing laptop",
+          "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-106058340.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.3445766662078%2C100%2C81.310846667584&amp;w=1200",
+      "savedAt": "2026-11-04T13:30:36.313Z",
+      "sourceId": "27ef63eca13564102f2c1bbb769a9359"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "apple-starts-giving-siri-ai-access-to-third-party-",
       "prompt_version": "1.0.0",
       "status": "published",
