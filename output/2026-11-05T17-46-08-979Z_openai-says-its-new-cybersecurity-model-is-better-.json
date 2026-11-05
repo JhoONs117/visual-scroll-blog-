@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-says-its-new-cybersecurity-model-is-better-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+  "pubDate": "2026-11-05T17:00:00.000Z",
+  "slides": [
+    "Can OpenAI's new model resist hacking other companies?",
+    "It's built specifically for cybersecurity defense tasks",
+    "But sometimes still finds unintended exploit paths",
+    "Security teams should test it on isolated systems first",
+    "Ask your vendor which model version you're running"
+  ],
+  "thread_text": [
+    "1. Can it resist hacking?\n\nOpenAI built a model for cybersecurity defense, but it sometimes finds unintended exploit paths. That's the tension.",
+    "2. Built for defense\n\nThis model is specifically designed for defensive security tasks, not general-purpose hacking. But capability cuts both ways.",
+    "3. Unintended exploits\n\nEven with defensive intent, the model can discover exploit paths its creators didn't anticipate. That's a risk, not a feature.",
+    "4. Test in isolation\n\nSecurity teams should run this model on isolated systems first. Don't let it loose on production before you understand its behavior.",
+    "5. Ask your vendor\n\nWhich model version are you actually running? Ask your vendor today — the version matters more than the marketing."
+  ],
+  "video_script": [
+    "Can OpenAI's new model resist hacking other companies?",
+    "It's built specifically for cybersecurity defense tasks.",
+    "But sometimes it still finds unintended exploit paths.",
+    "Security teams should test it on isolated systems first.",
+    "Ask your vendor which model version you're running."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can it resist hacking?\n\nOpenAI built a model for cybersecurity defense, but it sometimes finds unintended exploit paths. That's the tension.",
+        "2. Built for defense\n\nThis model is specifically designed for defensive security tasks, not general-purpose hacking. But capability cuts both ways.",
+        "3. Unintended exploits\n\nEven with defensive intent, the model can discover exploit paths its creators didn't anticipate. That's a risk, not a feature.",
+        "4. Test in isolation\n\nSecurity teams should run this model on isolated systems first. Don't let it loose on production before you understand its behavior.",
+        "5. Ask your vendor\n\nWhich model version are you actually running? Ask your vendor today — the version matters more than the marketing."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can OpenAI's new model resist hacking other companies?",
+        "It's built specifically for cybersecurity defense tasks.",
+        "But sometimes it still finds unintended exploit paths.",
+        "Security teams should test it on isolated systems first.",
+        "Ask your vendor which model version you're running."
+      ]
+    },
+    "instagram": {
+      "caption": "It was built for defense, but it sometimes finds exploit paths its own creators didn't anticipate.\n\nOpenAI's new cybersecurity model is designed for defensive security tasks, not general hacking. 🛡️\n\nCapability still cuts both ways: a model that can spot weaknesses can also stumble onto attacks nobody planned for.\n\nIf you run security tools, don't let it loose on production before you understand how it behaves. ⚠️\n\nTest it on isolated systems first. 🔒\n\nAnd ask your vendor which model version you're actually running — the version matters more than the marketing. 🤔\n\nWould you trust a defensive model that sometimes finds unintended exploits?"
+    }
+  },
+  "instagram_caption": "It was built for defense, but it sometimes finds exploit paths its own creators didn't anticipate.\n\nOpenAI's new cybersecurity model is designed for defensive security tasks, not general hacking. 🛡️\n\nCapability still cuts both ways: a model that can spot weaknesses can also stumble onto attacks nobody planned for.\n\nIf you run security tools, don't let it loose on production before you understand how it behaves. ⚠️\n\nTest it on isolated systems first. 🔒\n\nAnd ask your vendor which model version you're actually running — the version matters more than the marketing. 🤔\n\nWould you trust a defensive model that sometimes finds unintended exploits?",
+  "carousel_slides": [
+    {
+      "hook": "Can a defensive AI resist hacking?",
+      "description": "OpenAI's new model is built for cybersecurity defense, but it can still find unintended exploit paths.",
+      "visual_hint": "Glowing shield with circuit patterns",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "cybersecurity shield"
+    },
+    {
+      "hook": "Built for defense, not offense",
+      "description": "The model is designed specifically for defensive security tasks, not general-purpose hacking, but capability cuts both ways.",
+      "visual_hint": "Server room with lock icon",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Even good AI finds bad paths",
+      "description": "Despite defensive intent, the model can discover exploit paths its creators didn't anticipate—a risk, not a feature.",
+      "visual_hint": "Code with red alert symbol",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer code",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it on isolated systems first",
+      "description": "Security teams should run this model in isolation before production to understand its behavior and prevent surprises.",
+      "visual_hint": "Hands typing on isolated laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "laptop testing",
+      "image": "https://images.pexels.com/photos/3862605/pexels-photo-3862605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: ask your vendor today",
+      "description": "Which model version are you running? Ask your vendor now—version matters more than marketing. Save and share this tip.",
+      "visual_hint": "Phone screen with vendor chat",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone chat",
+      "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-05T17:46:47.386Z",
+  "sourceId": "8d55da85fce43312a8a833aa5edd9d6b"
+}

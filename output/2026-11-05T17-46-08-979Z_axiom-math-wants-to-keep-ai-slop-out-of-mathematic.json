@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "axiom-math-wants-to-keep-ai-slop-out-of-mathematic",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Axiom Math wants to keep AI slop out of mathematics",
+  "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+  "pubDate": "Thu, 05 Nov 2026 16:16:45 +0000",
+  "slides": [
+    "Can AI do math without inventing false proofs?",
+    "Axiom Math raised funding to build formal verification",
+    "Its system checks every step against proof assistants",
+    "Researchers can submit results and get machine-verified",
+    "Demand proof, not prose, from every AI math claim"
+  ],
+  "thread_text": [
+    "1. AI math needs proof\n\nAxiom Math just raised funding to build formal verification for AI-generated proofs. The goal: ensure every step is machine-checked, not just plausible.",
+    "2. Proof assistants as judges\n\nThe system checks each step against proof assistants. These are software tools that verify mathematical correctness, leaving no room for invented steps.",
+    "3. Submit your results\n\nResearchers can now submit their results and get them machine-verified. This could speed up peer review and increase trust in AI-assisted math.",
+    "4. Demand proof, not prose\n\nWhen an AI claims a math result, ask for the proof. With formal verification, you can check it step by step instead of trusting the model's narrative.",
+    "5. Test it yourself\n\nNext time an AI gives you a math answer, ask it to show its work. If it can't provide a verifiable proof, treat it as a guess."
+  ],
+  "video_script": [
+    "AI math can invent false proofs. Axiom Math is fixing that with formal verification.",
+    "Their system checks every step against proof assistants, so no made-up steps slip through.",
+    "Researchers can submit results and get them machine-verified, speeding up trust.",
+    "Demand proof, not prose, from every AI math claim.",
+    "Test it: ask an AI to show its work and verify each step."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI math needs proof\n\nAxiom Math just raised funding to build formal verification for AI-generated proofs. The goal: ensure every step is machine-checked, not just plausible.",
+        "2. Proof assistants as judges\n\nThe system checks each step against proof assistants. These are software tools that verify mathematical correctness, leaving no room for invented steps.",
+        "3. Submit your results\n\nResearchers can now submit their results and get them machine-verified. This could speed up peer review and increase trust in AI-assisted math.",
+        "4. Demand proof, not prose\n\nWhen an AI claims a math result, ask for the proof. With formal verification, you can check it step by step instead of trusting the model's narrative.",
+        "5. Test it yourself\n\nNext time an AI gives you a math answer, ask it to show its work. If it can't provide a verifiable proof, treat it as a guess."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI math can invent false proofs. Axiom Math is fixing that with formal verification.",
+        "Their system checks every step against proof assistants, so no made-up steps slip through.",
+        "Researchers can submit results and get them machine-verified, speeding up trust.",
+        "Demand proof, not prose, from every AI math claim.",
+        "Test it: ask an AI to show its work and verify each step."
+      ]
+    },
+    "instagram": {
+      "caption": "An AI can now generate a math proof that looks perfect and is completely wrong. Axiom Math raised funding to catch exactly that. 🔍\n\nIts system checks every single step against proof assistants, software that verifies correctness mechanically.\n\nNo plausible-sounding leaps, no invented steps.\n\nResearchers can submit results and get them machine-verified before anyone trusts them.\n\nIf you use AI for calculations, ask it to show its work.\n\nWould you be able to tell a real proof from a confident fake? 🧮"
+    }
+  },
+  "instagram_caption": "An AI can now generate a math proof that looks perfect and is completely wrong. Axiom Math raised funding to catch exactly that. 🔍\n\nIts system checks every single step against proof assistants, software that verifies correctness mechanically.\n\nNo plausible-sounding leaps, no invented steps.\n\nResearchers can submit results and get them machine-verified before anyone trusts them.\n\nIf you use AI for calculations, ask it to show its work.\n\nWould you be able to tell a real proof from a confident fake? 🧮",
+  "carousel_slides": [
+    {
+      "hook": "Can AI do math without fake proofs?",
+      "description": "Axiom Math raised funding to build formal verification, ensuring every AI-generated math step is machine-checked, not just plausible.",
+      "visual_hint": "Split screen: AI code vs math symbols",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer code math"
+    },
+    {
+      "hook": "Proof assistants judge every step",
+      "description": "The system checks each step against proof assistants—software that verifies correctness, leaving no room for invented steps.",
+      "visual_hint": "Proof assistant software interface",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "software interface",
+      "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Submit results, get machine-verified",
+      "description": "Researchers can submit results and get machine-verified, speeding up peer review and increasing trust in AI-assisted math.",
+      "visual_hint": "Researcher submitting proof online",
+      "layout_type": "sensor-zoom",
+      "icon": "check",
+      "image_query": "researcher computer",
+      "image": "https://images.pexels.com/photos/8851456/pexels-photo-8851456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demand proof, not prose, from AI",
+      "description": "When an AI claims a math result, ask for the proof. Formal verification lets you check step by step instead of trusting the model's narrative.",
+      "visual_hint": "Hand pointing at proof steps",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand pointing",
+      "image": "https://images.pexels.com/photos/9127687/pexels-photo-9127687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: demand verifiable proofs",
+      "description": "Next time an AI gives a math answer, ask it to show its work. If it can't provide a verifiable proof, treat it as a guess.",
+      "visual_hint": "Checklist with proof icons",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/Axiom-Team-2.jpg?resize=1200,800",
+  "savedAt": "2026-11-05T17:46:17.824Z",
+  "sourceId": "7dac5ce0cdad0d3f04879d75c6b21cea"
+}

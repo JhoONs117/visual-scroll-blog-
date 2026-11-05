@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "a-yc-startup-is-putting-1m-behind-five-unsolved-ma",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+  "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+  "pubDate": "Thu, 05 Nov 2026 13:00:00 +0000",
+  "slides": [
+    "Can AI crack materials science's hardest problems?",
+    "A YC startup stakes $1M on five of them",
+    "The problems chosen are the ones experts avoid",
+    "Your field may already have a funded target",
+    "Pick one unsolved problem and start now"
+  ],
+  "thread_text": [
+    "1. The Hardest Problems\n\nA Y combinator startup just put $1M behind five unsolved materials science problems. The catch? These are the ones experts actively avoid.",
+    "2. Why Experts Avoid Them\n\nNot because they're impossible, but because they're too risky for academic tenure and too slow for industry. The startup is betting that AI changes the risk calculus.",
+    "3. Your Field Is Funded\n\nOne of those five targets likely overlaps with your domain. The startup isn't waiting for consensus -- they're assigning problems and funding them now.",
+    "4. The Gap Is Opportunity\n\nThe problems experts dodge are where AI has the least competition and the most room to surprise. That's not a bug, it's the whole thesis.",
+    "5. Pick One and Start\n\nOpen a tool like ChatGPT or a materials database and simulate one unsolved problem in your field. If you don't have a target, ask: what would I work on if failure was funded?"
+  ],
+  "video_script": [
+    "A startup just bet one million dollars on five problems.",
+    "These are problems most experts actively avoid.",
+    "Not impossible, just too risky for traditional funding.",
+    "One of those targets might be in your field.",
+    "Pick one unsolved problem and start now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Hardest Problems\n\nA Y combinator startup just put $1M behind five unsolved materials science problems. The catch? These are the ones experts actively avoid.",
+        "2. Why Experts Avoid Them\n\nNot because they're impossible, but because they're too risky for academic tenure and too slow for industry. The startup is betting that AI changes the risk calculus.",
+        "3. Your Field Is Funded\n\nOne of those five targets likely overlaps with your domain. The startup isn't waiting for consensus -- they're assigning problems and funding them now.",
+        "4. The Gap Is Opportunity\n\nThe problems experts dodge are where AI has the least competition and the most room to surprise. That's not a bug, it's the whole thesis.",
+        "5. Pick One and Start\n\nOpen a tool like ChatGPT or a materials database and simulate one unsolved problem in your field. If you don't have a target, ask: what would I work on if failure was funded?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A startup just bet one million dollars on five problems.",
+        "These are problems most experts actively avoid.",
+        "Not impossible, just too risky for traditional funding.",
+        "One of those targets might be in your field.",
+        "Pick one unsolved problem and start now."
+      ]
+    },
+    "instagram": {
+      "caption": "A Y Combinator startup is putting $1M behind five materials science problems that experts actively avoid.\n\nNot because they're impossible — because they're too risky for academic tenure and too slow for industry. 🔬\n\nThe bet: AI changes the risk math, so the problems nobody wants become the ones worth funding first.\n\nIf you work in materials, one of those five targets likely overlaps with your field — and it's already funded.\n\nWhat would you work on if failure was funded? 🤔"
+    }
+  },
+  "instagram_caption": "A Y Combinator startup is putting $1M behind five materials science problems that experts actively avoid.\n\nNot because they're impossible — because they're too risky for academic tenure and too slow for industry. 🔬\n\nThe bet: AI changes the risk math, so the problems nobody wants become the ones worth funding first.\n\nIf you work in materials, one of those five targets likely overlaps with your field — and it's already funded.\n\nWhat would you work on if failure was funded? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Why do experts avoid these problems?",
+      "description": "A YC startup put $1M behind five unsolved materials science problems that experts actively avoid due to risk.",
+      "visual_hint": "Researcher looking at complex data",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "materials science lab"
+    },
+    {
+      "hook": "$1M bet on experts' avoided problems",
+      "description": "The problems are too risky for academia and too slow for industry, but AI changes the risk calculus.",
+      "visual_hint": "Money and materials samples",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "venture capital funding",
+      "image": "https://images.pexels.com/photos/6289043/pexels-photo-6289043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your field may have a funded target",
+      "description": "One of the five targets likely overlaps with your domain; the startup assigns and funds problems now.",
+      "visual_hint": "Overlapping scientific fields",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "interdisciplinary research",
+      "image": "https://images.pexels.com/photos/7723401/pexels-photo-7723401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The gap is opportunity, not a bug",
+      "description": "Problems experts dodge are where AI has least competition and most room to surprise, that's the thesis.",
+      "visual_hint": "AI analyzing material structure",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "artificial intelligence materials",
+      "image": "https://images.pexels.com/photos/7688592/pexels-photo-7688592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and pick one problem",
+      "description": "Open ChatGPT or a materials database and simulate one unsolved problem in your field today.",
+      "visual_hint": "Person simulating on computer",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "scientist using computer",
+      "image": "https://images.pexels.com/photos/8851456/pexels-photo-8851456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?resize=1200,800",
+  "savedAt": "2026-11-05T17:46:38.620Z",
+  "sourceId": "ddef7f7b40b18c0e1a5bbd67df066659"
+}

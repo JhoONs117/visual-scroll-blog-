@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "elevenlabs-now-lets-users-publish-ai-generated-mus",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+  "link": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+  "pubDate": "Thu, 05 Nov 2026 15:00:00 +0000",
+  "slides": [
+    "ElevenLabs music on SoundCloud: what changes for creators?",
+    "The tool now integrates directly with SoundCloud's upload system.",
+    "But copyright and royalty rules remain unclear for AI tracks.",
+    "You can publish AI music today, but platforms may still flag it.",
+    "Test one track this week and check how it's received."
+  ],
+  "thread_text": [
+    "1. SoundCloud Opens AI Music\n\nElevenLabs tracks can now be uploaded directly to SoundCloud. Creators can publish AI-generated music today, but platform flags may still catch it.",
+    "2. Upload Straight From ElevenLabs\n\nThe tool integrates with SoundCloud's upload system, so you can move from prompt to published track without leaving the interface.",
+    "3. Copyright Rules Still Unclear\n\nRoyalty splits and ownership for AI tracks remain undefined. Platforms haven't settled on how to handle AI-generated content.",
+    "4. Platforms May Flag Your Track\n\nEven with direct upload, automated systems can still flag AI music. You might publish successfully and still face removal later.",
+    "5. Test One Track This Week\n\nUpload a single AI track and watch how it's received. Does it get flagged, ignored, or played? That answer tells you more than any policy page."
+  ],
+  "video_script": [
+    "ElevenLabs music now uploads straight to SoundCloud.",
+    "The tool plugs into SoundCloud's upload system directly.",
+    "But copyright and royalty rules for AI tracks are still unclear.",
+    "You can publish today, but platforms might still flag it.",
+    "Test one track this week and see how it's received."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. SoundCloud Opens AI Music\n\nElevenLabs tracks can now be uploaded directly to SoundCloud. Creators can publish AI-generated music today, but platform flags may still catch it.",
+        "2. Upload Straight From ElevenLabs\n\nThe tool integrates with SoundCloud's upload system, so you can move from prompt to published track without leaving the interface.",
+        "3. Copyright Rules Still Unclear\n\nRoyalty splits and ownership for AI tracks remain undefined. Platforms haven't settled on how to handle AI-generated content.",
+        "4. Platforms May Flag Your Track\n\nEven with direct upload, automated systems can still flag AI music. You might publish successfully and still face removal later.",
+        "5. Test One Track This Week\n\nUpload a single AI track and watch how it's received. Does it get flagged, ignored, or played? That answer tells you more than any policy page."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "ElevenLabs music now uploads straight to SoundCloud.",
+        "The tool plugs into SoundCloud's upload system directly.",
+        "But copyright and royalty rules for AI tracks are still unclear.",
+        "You can publish today, but platforms might still flag it.",
+        "Test one track this week and see how it's received."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now publish an AI-generated track to SoundCloud without leaving ElevenLabs — prompt to live upload in one flow.\n\nThe tool plugs straight into SoundCloud's upload system. 🎛️\n\nBut royalty splits and ownership for AI music are still undefined, and automated systems can flag your track even after it goes live.\n\nSo your release might play today and disappear next week, with no clear rule telling you why. 🚩\n\nIf you make music, test one track this week and watch what happens: flagged, ignored, or played? 🎧\n\nWould you risk releasing a track you can't fully own?"
+    }
+  },
+  "instagram_caption": "You can now publish an AI-generated track to SoundCloud without leaving ElevenLabs — prompt to live upload in one flow.\n\nThe tool plugs straight into SoundCloud's upload system. 🎛️\n\nBut royalty splits and ownership for AI music are still undefined, and automated systems can flag your track even after it goes live.\n\nSo your release might play today and disappear next week, with no clear rule telling you why. 🚩\n\nIf you make music, test one track this week and watch what happens: flagged, ignored, or played? 🎧\n\nWould you risk releasing a track you can't fully own?",
+  "carousel_slides": [
+    {
+      "hook": "Who Really Owns AI Music?",
+      "description": "ElevenLabs tracks can now be published on SoundCloud, but copyright and royalty rules for AI-generated music remain undefined.",
+      "visual_hint": "Split screen: music note and copyright symbol",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "copyright symbol"
+    },
+    {
+      "hook": "Upload AI Tracks Without Leaving ElevenLabs",
+      "description": "The tool now integrates directly with SoundCloud's upload system, letting you go from prompt to published track in one place.",
+      "visual_hint": "Screenshot of ElevenLabs interface with upload button",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "SoundCloud logo",
+      "image": "https://images.pexels.com/photos/40223075/pexels-photo-40223075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI Music Ownership Still Undefined",
+      "description": "Royalty splits and ownership for AI tracks remain unclear as platforms haven't settled on how to handle AI-generated content.",
+      "visual_hint": "Gavel and music note on scales of justice",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "scales of justice",
+      "image": "https://images.pexels.com/photos/5669619/pexels-photo-5669619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI Track Might Get Flagged",
+      "description": "Even with direct upload, automated systems can still flag AI music, so you might publish successfully and face removal later.",
+      "visual_hint": "Red warning flag on a music track waveform",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "warning sign",
+      "image": "https://images.pexels.com/photos/36554863/pexels-photo-36554863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test One AI Track This Week",
+      "description": "Upload a single AI track and observe if it gets flagged, ignored, or played. That real-world answer beats any policy page.",
+      "visual_hint": "Hand clicking upload button on laptop",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop upload",
+      "image": "https://images.pexels.com/photos/7437087/pexels-photo-7437087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675",
+  "savedAt": "2026-11-05T17:46:29.035Z",
+  "sourceId": "7d07d5dca54f2e02e713578b2cf1b31e"
+}

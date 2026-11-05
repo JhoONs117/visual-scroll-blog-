@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-says-its-new-cybersecurity-model-is-better-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "pubDate": "2026-11-05T17:00:00.000Z",
+      "slides": [
+        "Can OpenAI's new model resist hacking other companies?",
+        "It's built specifically for cybersecurity defense tasks",
+        "But sometimes still finds unintended exploit paths",
+        "Security teams should test it on isolated systems first",
+        "Ask your vendor which model version you're running"
+      ],
+      "thread_text": [
+        "1. Can it resist hacking?\n\nOpenAI built a model for cybersecurity defense, but it sometimes finds unintended exploit paths. That's the tension.",
+        "2. Built for defense\n\nThis model is specifically designed for defensive security tasks, not general-purpose hacking. But capability cuts both ways.",
+        "3. Unintended exploits\n\nEven with defensive intent, the model can discover exploit paths its creators didn't anticipate. That's a risk, not a feature.",
+        "4. Test in isolation\n\nSecurity teams should run this model on isolated systems first. Don't let it loose on production before you understand its behavior.",
+        "5. Ask your vendor\n\nWhich model version are you actually running? Ask your vendor today — the version matters more than the marketing."
+      ],
+      "video_script": [
+        "Can OpenAI's new model resist hacking other companies?",
+        "It's built specifically for cybersecurity defense tasks.",
+        "But sometimes it still finds unintended exploit paths.",
+        "Security teams should test it on isolated systems first.",
+        "Ask your vendor which model version you're running."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can it resist hacking?\n\nOpenAI built a model for cybersecurity defense, but it sometimes finds unintended exploit paths. That's the tension.",
+            "2. Built for defense\n\nThis model is specifically designed for defensive security tasks, not general-purpose hacking. But capability cuts both ways.",
+            "3. Unintended exploits\n\nEven with defensive intent, the model can discover exploit paths its creators didn't anticipate. That's a risk, not a feature.",
+            "4. Test in isolation\n\nSecurity teams should run this model on isolated systems first. Don't let it loose on production before you understand its behavior.",
+            "5. Ask your vendor\n\nWhich model version are you actually running? Ask your vendor today — the version matters more than the marketing."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Can OpenAI's new model resist hacking other companies?",
+            "It's built specifically for cybersecurity defense tasks.",
+            "But sometimes it still finds unintended exploit paths.",
+            "Security teams should test it on isolated systems first.",
+            "Ask your vendor which model version you're running."
+          ]
+        },
+        "instagram": {
+          "caption": "It was built for defense, but it sometimes finds exploit paths its own creators didn't anticipate.\n\nOpenAI's new cybersecurity model is designed for defensive security tasks, not general hacking. 🛡️\n\nCapability still cuts both ways: a model that can spot weaknesses can also stumble onto attacks nobody planned for.\n\nIf you run security tools, don't let it loose on production before you understand how it behaves. ⚠️\n\nTest it on isolated systems first. 🔒\n\nAnd ask your vendor which model version you're actually running — the version matters more than the marketing. 🤔\n\nWould you trust a defensive model that sometimes finds unintended exploits?"
+        }
+      },
+      "instagram_caption": "It was built for defense, but it sometimes finds exploit paths its own creators didn't anticipate.\n\nOpenAI's new cybersecurity model is designed for defensive security tasks, not general hacking. 🛡️\n\nCapability still cuts both ways: a model that can spot weaknesses can also stumble onto attacks nobody planned for.\n\nIf you run security tools, don't let it loose on production before you understand how it behaves. ⚠️\n\nTest it on isolated systems first. 🔒\n\nAnd ask your vendor which model version you're actually running — the version matters more than the marketing. 🤔\n\nWould you trust a defensive model that sometimes finds unintended exploits?",
+      "carousel_slides": [
+        {
+          "hook": "Can a defensive AI resist hacking?",
+          "description": "OpenAI's new model is built for cybersecurity defense, but it can still find unintended exploit paths.",
+          "visual_hint": "Glowing shield with circuit patterns",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "cybersecurity shield"
+        },
+        {
+          "hook": "Built for defense, not offense",
+          "description": "The model is designed specifically for defensive security tasks, not general-purpose hacking, but capability cuts both ways.",
+          "visual_hint": "Server room with lock icon",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Even good AI finds bad paths",
+          "description": "Despite defensive intent, the model can discover exploit paths its creators didn't anticipate—a risk, not a feature.",
+          "visual_hint": "Code with red alert symbol",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer code",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it on isolated systems first",
+          "description": "Security teams should run this model in isolation before production to understand its behavior and prevent surprises.",
+          "visual_hint": "Hands typing on isolated laptop",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "laptop testing",
+          "image": "https://images.pexels.com/photos/3862605/pexels-photo-3862605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: ask your vendor today",
+          "description": "Which model version are you running? Ask your vendor now—version matters more than marketing. Save and share this tip.",
+          "visual_hint": "Phone screen with vendor chat",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone chat",
+          "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-11-05T17:46:47.386Z",
+      "sourceId": "8d55da85fce43312a8a833aa5edd9d6b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "a-yc-startup-is-putting-1m-behind-five-unsolved-ma",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+      "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "pubDate": "Thu, 05 Nov 2026 13:00:00 +0000",
+      "slides": [
+        "Can AI crack materials science's hardest problems?",
+        "A YC startup stakes $1M on five of them",
+        "The problems chosen are the ones experts avoid",
+        "Your field may already have a funded target",
+        "Pick one unsolved problem and start now"
+      ],
+      "thread_text": [
+        "1. The Hardest Problems\n\nA Y combinator startup just put $1M behind five unsolved materials science problems. The catch? These are the ones experts actively avoid.",
+        "2. Why Experts Avoid Them\n\nNot because they're impossible, but because they're too risky for academic tenure and too slow for industry. The startup is betting that AI changes the risk calculus.",
+        "3. Your Field Is Funded\n\nOne of those five targets likely overlaps with your domain. The startup isn't waiting for consensus -- they're assigning problems and funding them now.",
+        "4. The Gap Is Opportunity\n\nThe problems experts dodge are where AI has the least competition and the most room to surprise. That's not a bug, it's the whole thesis.",
+        "5. Pick One and Start\n\nOpen a tool like ChatGPT or a materials database and simulate one unsolved problem in your field. If you don't have a target, ask: what would I work on if failure was funded?"
+      ],
+      "video_script": [
+        "A startup just bet one million dollars on five problems.",
+        "These are problems most experts actively avoid.",
+        "Not impossible, just too risky for traditional funding.",
+        "One of those targets might be in your field.",
+        "Pick one unsolved problem and start now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Hardest Problems\n\nA Y combinator startup just put $1M behind five unsolved materials science problems. The catch? These are the ones experts actively avoid.",
+            "2. Why Experts Avoid Them\n\nNot because they're impossible, but because they're too risky for academic tenure and too slow for industry. The startup is betting that AI changes the risk calculus.",
+            "3. Your Field Is Funded\n\nOne of those five targets likely overlaps with your domain. The startup isn't waiting for consensus -- they're assigning problems and funding them now.",
+            "4. The Gap Is Opportunity\n\nThe problems experts dodge are where AI has the least competition and the most room to surprise. That's not a bug, it's the whole thesis.",
+            "5. Pick One and Start\n\nOpen a tool like ChatGPT or a materials database and simulate one unsolved problem in your field. If you don't have a target, ask: what would I work on if failure was funded?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A startup just bet one million dollars on five problems.",
+            "These are problems most experts actively avoid.",
+            "Not impossible, just too risky for traditional funding.",
+            "One of those targets might be in your field.",
+            "Pick one unsolved problem and start now."
+          ]
+        },
+        "instagram": {
+          "caption": "A Y Combinator startup is putting $1M behind five materials science problems that experts actively avoid.\n\nNot because they're impossible — because they're too risky for academic tenure and too slow for industry. 🔬\n\nThe bet: AI changes the risk math, so the problems nobody wants become the ones worth funding first.\n\nIf you work in materials, one of those five targets likely overlaps with your field — and it's already funded.\n\nWhat would you work on if failure was funded? 🤔"
+        }
+      },
+      "instagram_caption": "A Y Combinator startup is putting $1M behind five materials science problems that experts actively avoid.\n\nNot because they're impossible — because they're too risky for academic tenure and too slow for industry. 🔬\n\nThe bet: AI changes the risk math, so the problems nobody wants become the ones worth funding first.\n\nIf you work in materials, one of those five targets likely overlaps with your field — and it's already funded.\n\nWhat would you work on if failure was funded? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Why do experts avoid these problems?",
+          "description": "A YC startup put $1M behind five unsolved materials science problems that experts actively avoid due to risk.",
+          "visual_hint": "Researcher looking at complex data",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "materials science lab"
+        },
+        {
+          "hook": "$1M bet on experts' avoided problems",
+          "description": "The problems are too risky for academia and too slow for industry, but AI changes the risk calculus.",
+          "visual_hint": "Money and materials samples",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "venture capital funding",
+          "image": "https://images.pexels.com/photos/6289043/pexels-photo-6289043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your field may have a funded target",
+          "description": "One of the five targets likely overlaps with your domain; the startup assigns and funds problems now.",
+          "visual_hint": "Overlapping scientific fields",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "interdisciplinary research",
+          "image": "https://images.pexels.com/photos/7723401/pexels-photo-7723401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The gap is opportunity, not a bug",
+          "description": "Problems experts dodge are where AI has least competition and most room to surprise, that's the thesis.",
+          "visual_hint": "AI analyzing material structure",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "artificial intelligence materials",
+          "image": "https://images.pexels.com/photos/7688592/pexels-photo-7688592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this and pick one problem",
+          "description": "Open ChatGPT or a materials database and simulate one unsolved problem in your field today.",
+          "visual_hint": "Person simulating on computer",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "scientist using computer",
+          "image": "https://images.pexels.com/photos/8851456/pexels-photo-8851456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?resize=1200,800",
+      "savedAt": "2026-11-05T17:46:38.620Z",
+      "sourceId": "ddef7f7b40b18c0e1a5bbd67df066659"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "elevenlabs-now-lets-users-publish-ai-generated-mus",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+      "link": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+      "pubDate": "Thu, 05 Nov 2026 15:00:00 +0000",
+      "slides": [
+        "ElevenLabs music on SoundCloud: what changes for creators?",
+        "The tool now integrates directly with SoundCloud's upload system.",
+        "But copyright and royalty rules remain unclear for AI tracks.",
+        "You can publish AI music today, but platforms may still flag it.",
+        "Test one track this week and check how it's received."
+      ],
+      "thread_text": [
+        "1. SoundCloud Opens AI Music\n\nElevenLabs tracks can now be uploaded directly to SoundCloud. Creators can publish AI-generated music today, but platform flags may still catch it.",
+        "2. Upload Straight From ElevenLabs\n\nThe tool integrates with SoundCloud's upload system, so you can move from prompt to published track without leaving the interface.",
+        "3. Copyright Rules Still Unclear\n\nRoyalty splits and ownership for AI tracks remain undefined. Platforms haven't settled on how to handle AI-generated content.",
+        "4. Platforms May Flag Your Track\n\nEven with direct upload, automated systems can still flag AI music. You might publish successfully and still face removal later.",
+        "5. Test One Track This Week\n\nUpload a single AI track and watch how it's received. Does it get flagged, ignored, or played? That answer tells you more than any policy page."
+      ],
+      "video_script": [
+        "ElevenLabs music now uploads straight to SoundCloud.",
+        "The tool plugs into SoundCloud's upload system directly.",
+        "But copyright and royalty rules for AI tracks are still unclear.",
+        "You can publish today, but platforms might still flag it.",
+        "Test one track this week and see how it's received."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. SoundCloud Opens AI Music\n\nElevenLabs tracks can now be uploaded directly to SoundCloud. Creators can publish AI-generated music today, but platform flags may still catch it.",
+            "2. Upload Straight From ElevenLabs\n\nThe tool integrates with SoundCloud's upload system, so you can move from prompt to published track without leaving the interface.",
+            "3. Copyright Rules Still Unclear\n\nRoyalty splits and ownership for AI tracks remain undefined. Platforms haven't settled on how to handle AI-generated content.",
+            "4. Platforms May Flag Your Track\n\nEven with direct upload, automated systems can still flag AI music. You might publish successfully and still face removal later.",
+            "5. Test One Track This Week\n\nUpload a single AI track and watch how it's received. Does it get flagged, ignored, or played? That answer tells you more than any policy page."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "ElevenLabs music now uploads straight to SoundCloud.",
+            "The tool plugs into SoundCloud's upload system directly.",
+            "But copyright and royalty rules for AI tracks are still unclear.",
+            "You can publish today, but platforms might still flag it.",
+            "Test one track this week and see how it's received."
+          ]
+        },
+        "instagram": {
+          "caption": "You can now publish an AI-generated track to SoundCloud without leaving ElevenLabs — prompt to live upload in one flow.\n\nThe tool plugs straight into SoundCloud's upload system. 🎛️\n\nBut royalty splits and ownership for AI music are still undefined, and automated systems can flag your track even after it goes live.\n\nSo your release might play today and disappear next week, with no clear rule telling you why. 🚩\n\nIf you make music, test one track this week and watch what happens: flagged, ignored, or played? 🎧\n\nWould you risk releasing a track you can't fully own?"
+        }
+      },
+      "instagram_caption": "You can now publish an AI-generated track to SoundCloud without leaving ElevenLabs — prompt to live upload in one flow.\n\nThe tool plugs straight into SoundCloud's upload system. 🎛️\n\nBut royalty splits and ownership for AI music are still undefined, and automated systems can flag your track even after it goes live.\n\nSo your release might play today and disappear next week, with no clear rule telling you why. 🚩\n\nIf you make music, test one track this week and watch what happens: flagged, ignored, or played? 🎧\n\nWould you risk releasing a track you can't fully own?",
+      "carousel_slides": [
+        {
+          "hook": "Who Really Owns AI Music?",
+          "description": "ElevenLabs tracks can now be published on SoundCloud, but copyright and royalty rules for AI-generated music remain undefined.",
+          "visual_hint": "Split screen: music note and copyright symbol",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "copyright symbol"
+        },
+        {
+          "hook": "Upload AI Tracks Without Leaving ElevenLabs",
+          "description": "The tool now integrates directly with SoundCloud's upload system, letting you go from prompt to published track in one place.",
+          "visual_hint": "Screenshot of ElevenLabs interface with upload button",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "SoundCloud logo",
+          "image": "https://images.pexels.com/photos/40223075/pexels-photo-40223075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI Music Ownership Still Undefined",
+          "description": "Royalty splits and ownership for AI tracks remain unclear as platforms haven't settled on how to handle AI-generated content.",
+          "visual_hint": "Gavel and music note on scales of justice",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "scales of justice",
+          "image": "https://images.pexels.com/photos/5669619/pexels-photo-5669619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI Track Might Get Flagged",
+          "description": "Even with direct upload, automated systems can still flag AI music, so you might publish successfully and face removal later.",
+          "visual_hint": "Red warning flag on a music track waveform",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "warning sign",
+          "image": "https://images.pexels.com/photos/36554863/pexels-photo-36554863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test One AI Track This Week",
+          "description": "Upload a single AI track and observe if it gets flagged, ignored, or played. That real-world answer beats any policy page.",
+          "visual_hint": "Hand clicking upload button on laptop",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop upload",
+          "image": "https://images.pexels.com/photos/7437087/pexels-photo-7437087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675",
+      "savedAt": "2026-11-05T17:46:29.035Z",
+      "sourceId": "7d07d5dca54f2e02e713578b2cf1b31e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "axiom-math-wants-to-keep-ai-slop-out-of-mathematic",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "pubDate": "Thu, 05 Nov 2026 16:16:45 +0000",
+      "slides": [
+        "Can AI do math without inventing false proofs?",
+        "Axiom Math raised funding to build formal verification",
+        "Its system checks every step against proof assistants",
+        "Researchers can submit results and get machine-verified",
+        "Demand proof, not prose, from every AI math claim"
+      ],
+      "thread_text": [
+        "1. AI math needs proof\n\nAxiom Math just raised funding to build formal verification for AI-generated proofs. The goal: ensure every step is machine-checked, not just plausible.",
+        "2. Proof assistants as judges\n\nThe system checks each step against proof assistants. These are software tools that verify mathematical correctness, leaving no room for invented steps.",
+        "3. Submit your results\n\nResearchers can now submit their results and get them machine-verified. This could speed up peer review and increase trust in AI-assisted math.",
+        "4. Demand proof, not prose\n\nWhen an AI claims a math result, ask for the proof. With formal verification, you can check it step by step instead of trusting the model's narrative.",
+        "5. Test it yourself\n\nNext time an AI gives you a math answer, ask it to show its work. If it can't provide a verifiable proof, treat it as a guess."
+      ],
+      "video_script": [
+        "AI math can invent false proofs. Axiom Math is fixing that with formal verification.",
+        "Their system checks every step against proof assistants, so no made-up steps slip through.",
+        "Researchers can submit results and get them machine-verified, speeding up trust.",
+        "Demand proof, not prose, from every AI math claim.",
+        "Test it: ask an AI to show its work and verify each step."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI math needs proof\n\nAxiom Math just raised funding to build formal verification for AI-generated proofs. The goal: ensure every step is machine-checked, not just plausible.",
+            "2. Proof assistants as judges\n\nThe system checks each step against proof assistants. These are software tools that verify mathematical correctness, leaving no room for invented steps.",
+            "3. Submit your results\n\nResearchers can now submit their results and get them machine-verified. This could speed up peer review and increase trust in AI-assisted math.",
+            "4. Demand proof, not prose\n\nWhen an AI claims a math result, ask for the proof. With formal verification, you can check it step by step instead of trusting the model's narrative.",
+            "5. Test it yourself\n\nNext time an AI gives you a math answer, ask it to show its work. If it can't provide a verifiable proof, treat it as a guess."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI math can invent false proofs. Axiom Math is fixing that with formal verification.",
+            "Their system checks every step against proof assistants, so no made-up steps slip through.",
+            "Researchers can submit results and get them machine-verified, speeding up trust.",
+            "Demand proof, not prose, from every AI math claim.",
+            "Test it: ask an AI to show its work and verify each step."
+          ]
+        },
+        "instagram": {
+          "caption": "An AI can now generate a math proof that looks perfect and is completely wrong. Axiom Math raised funding to catch exactly that. 🔍\n\nIts system checks every single step against proof assistants, software that verifies correctness mechanically.\n\nNo plausible-sounding leaps, no invented steps.\n\nResearchers can submit results and get them machine-verified before anyone trusts them.\n\nIf you use AI for calculations, ask it to show its work.\n\nWould you be able to tell a real proof from a confident fake? 🧮"
+        }
+      },
+      "instagram_caption": "An AI can now generate a math proof that looks perfect and is completely wrong. Axiom Math raised funding to catch exactly that. 🔍\n\nIts system checks every single step against proof assistants, software that verifies correctness mechanically.\n\nNo plausible-sounding leaps, no invented steps.\n\nResearchers can submit results and get them machine-verified before anyone trusts them.\n\nIf you use AI for calculations, ask it to show its work.\n\nWould you be able to tell a real proof from a confident fake? 🧮",
+      "carousel_slides": [
+        {
+          "hook": "Can AI do math without fake proofs?",
+          "description": "Axiom Math raised funding to build formal verification, ensuring every AI-generated math step is machine-checked, not just plausible.",
+          "visual_hint": "Split screen: AI code vs math symbols",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer code math"
+        },
+        {
+          "hook": "Proof assistants judge every step",
+          "description": "The system checks each step against proof assistants—software that verifies correctness, leaving no room for invented steps.",
+          "visual_hint": "Proof assistant software interface",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "software interface",
+          "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Submit results, get machine-verified",
+          "description": "Researchers can submit results and get machine-verified, speeding up peer review and increasing trust in AI-assisted math.",
+          "visual_hint": "Researcher submitting proof online",
+          "layout_type": "sensor-zoom",
+          "icon": "check",
+          "image_query": "researcher computer",
+          "image": "https://images.pexels.com/photos/8851456/pexels-photo-8851456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Demand proof, not prose, from AI",
+          "description": "When an AI claims a math result, ask for the proof. Formal verification lets you check step by step instead of trusting the model's narrative.",
+          "visual_hint": "Hand pointing at proof steps",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand pointing",
+          "image": "https://images.pexels.com/photos/9127687/pexels-photo-9127687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: demand verifiable proofs",
+          "description": "Next time an AI gives a math answer, ask it to show its work. If it can't provide a verifiable proof, treat it as a guess.",
+          "visual_hint": "Checklist with proof icons",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Axiom-Team-2.jpg?resize=1200,800",
+      "savedAt": "2026-11-05T17:46:17.824Z",
+      "sourceId": "7dac5ce0cdad0d3f04879d75c6b21cea"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "duckduckgo-pitches-itself-to-schools-amid-backlash",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -208012,6 +208428,339 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "torta-salata-alla-genovese",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Torta salata alla genovese",
+      "link": "https://ricette.giallozafferano.it/Torta-salata-alla-genovese.html",
+      "pubDate": "Thu, 05 Nov 2026 10:19:00 +0100",
+      "content": "Torta salata alla genovese con pesto, patate e scamorza Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X Torte salate Torta salata alla genovese /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici 501,2 Calorie per porzione Energia Kcal 501,2 Carboidrati g 36,1 &nbsp;&nbsp;di cui zuccheri g 1,1 Proteine g 16,8 Grassi g 32,6 &nbsp;&nbsp;di cui saturi g 14,6 Fibre g 2,8 Colesterolo mg 55,2 Sodio mg 445,4 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Vegetariano Difficoltà: Media Preparazione: 40 min Cottura: 60 min Dosi per: 8 persone Costo: Basso Nota + il riposo in frigo della brisè (almeno 30 min.) Ascolta la ricetta Ascolta su Spreaker. Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti PRESENTAZIONE La torta salata alla genovese è una ricetta rustica e sfiziosa, perfetta da servire come antipasto, per un buffet o come piatto unico a pranzo o a cena. Si prepara con una base di pasta brisé fatta in casa, che racchiude un ripieno di patate tagliate a fettine sottili, pesto alla genovese e scamorza dolce. Il risultato è un guscio friabile che incontra un ripieno morbido e filante, dove il profumo intenso del basilico si unisce alla delicatezza delle patate e al gusto del formaggio. Questa torta salata alla genovese è ideale da gustare calda, appena sfornata, ma è ottima anche tiepida, da portare al picnic o da condividere in occasione di un aperitivo casalingo. Scoprite altre sfiziose ricette di torte salate al pesto : Torta salata estiva Crostata con pesto misto e pancetta Cheesecake salata con pesto e pomodorini Torta salata al salmone, caprino e pesto di rucola Genoese savory tart Scopri anche Torta salata alla parmigiana Torta salata estiva Torta de gee Sfoglia tutte INGREDIENTI 501,2 Calorie per porzione Per la pasta brisè (per uno stampo da 32 cm in superficie e 28 cm alla base) Farina 00 200 g Burro 100 g Acqua fredda 50 g Sale fino q.b. Timo q.b. Per il pesto Basilico 50 g Olio extravergine d'oliva 50 g Parmigiano Reggiano DOP 80 g Pinoli 30 g Sale fino q.b. Per il ripieno Patate 700 g Scamorza (provola) 250 g Timo q.b. Olio extravergine d'oliva q.b. Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta salata alla genovese Per preparare la torta salata alla genovese, cominciate dalla pasta brisè: versate in un mixer la farina e il burro freddo 1 , poi unite il sale 2 e il timo 3 . Frullate fino ad ottenere una consistenza briciolosa, poi aggiungete l'acqua fredda 4 . Azionate ancora le lame, giusto il tempo di compattare il composto 5 . Trasferite l'impasto sul piano di lavoro, formate un panetto e avvolgetelo nella pellicola. Lasciate riposare in frigorifero per almeno 30 minuti 6 . Intanto occupatevi del pesto: mettete in un boccale le foglie di basilico, lavate e asciugate, insieme al sale 7 , all'olio 8 e ai pinoli 9 . Iniziate a frullare con un mixer a immersione 10 , poi unite il formaggio grattugiato 11 . Una volta ottenuto un pesto cremoso 12 , tenete da parte. Passate alle patate: pelatele 13 e affettatele sottilmente con la mandolina a uno spessore di 2-3 mm 14 . Infine grattugiate la scamorza dolce con una grattugia a fori larghi 15 . Trascorso il tempo di riposo, riprendete l'impasto e stendetelo sul piano leggermente infarinato con il mattarello 16 . Dovrete ottenere una sfoglia un po' più grande dello stampo, della misura di 32 cm in superficie e 28 cm alla base. Foderate lo stampo con la sfoglia 17 , eliminate l'eccesso 18 e bucherellate la base. Distribuite metà dose di pesto sulla base 19 , poi adagiate le rondelle di patate sovrapponendole leggermente 20 . Irrorate con un filo d'olio 21 . Salate e pepate a piacere 22 , poi cospargete con metà della scamorza grattugiata 23 e ricoprite con la dose di pesto rimanente 24 . Proseguite gli strati con le patate a fettine 25 , olio, sale, pepe e scamorza grattugiata 26 . In ultimo, aromatizzate con le foglioline di timo 27 . Ripiegate i bordi della sfoglia verso l'interno 28 e cuocete in forno statico a 170° sul ripiano più basso per 50 minuti, poi spostate lo stampo a contatto con la base e proseguite la cottura per altri 10 minuti. Una volta dorata, sfornate la vostra torta salata alla genovese e lasciatela intiepidire 30 , prima di sformarla e servirla! Conservazione Potete conservare la torta salata alla genovese in frigorifero per 2-3 giorni oppure congelarla. Consiglio Se desiderate potete sostituire la scamorza dolce con quella affumicata o il gorgonzola per un sapore ancora più deciso. E' importante che le patate siano tagliate a fette molto sottili altrimenti rimarranno crude. Se non avete una mandolina, potete affettarle al coltello e sbollentarle per qualche minuto. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Timo Basilico Patate Olio di oliva Burro Parmigiano Reggiano Scopri tutto sugli ingredienti Presente in: Ricette sfiziose , Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Torta salata alla parmigiana 4 5.0 Torta salata estiva 2 4.7 Torta de gee 10 4.5 Tatin di pomodori e feta 64 4.5 Cheesecake salata con pesto e pomodorini 4.6 Plumcake con verdure e edamer 102 4.1 Farinata di ceci 260 4.2 Torta Pasqualina 202 4.4 ULTIME RICETTE Broccoli alla siciliana 5.0 Risotto alla puttanesca bianco 5.0 Fette croccanti con ricotta e zucchine 5.0 SCOPRI Torta salata spinaci Torta salata ricotta e spinaci Torta salata zucca Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Torte salate Torta salata alla parmigiana 4 5.0 La torta salata alla parmigiana è una sfiziosa torta rustica con base di pasta frolla salata farcita con verdure e formaggio filante. Scopri&hellip; Vai alla ricetta Torte salate Torta salata estiva 2 4.7 La torta salata estiva con pesto, pomodori e stracciatella è fresca, colorata e pronta in pochi minuti. Perfetta per buffet, antipasti o cene veloci! Vai alla ricetta Torte salate Torta de gee 10 4.5 La torta de gee è una torta salata della tradizione culinaria genovese farcita con le bietole e il formaggio prescinsêua, una specialità tipica! Vai alla ricetta Torte salate Tatin di pomodori e feta 64 4.5 La tatin di pomodori e feta è una torta salata realizzata con pasta brisè: gustosa e scenografica, è perfetta per un buffet estivo! Scopri la ricetta. Vai alla ricetta Torte salate Cheesecake salata con pesto e pomodorini 4.6 La cheesecake salata con pesto e pomodorini è una sfiziosa ricetta estiva che gioca sui contrasti di sapori e consistenze. Scopri dosi e procedimento! Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. e all’utilizzo di pixel di tracciamento nelle suddette comunicazioni per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne Si No Prosegui",
+      "slides": [
+        "Guscio friabile, ripieno morbido e filante",
+        "Farina, burro, patate e pesto",
+        "Stendi la brisè e farcisci a strati",
+        "Cuoci 50 minuti a 170°, poi 10 minuti",
+        "Patate sottilissime, altrimenti restano crude"
+      ],
+      "instagram_caption": "La genovese che non ti aspetti: dentro una torta salata! 🥧\nGuscio friabile, ripieno morbido e filante con patate, pesto e un brisè che si scioglie in bocca. Stendi, farcisci a strati e inforna: 50 minuti a 170°, poi altri 10 per la doratura perfetta.\nUn trucco fondamentale? Patate sottilissime, altrimenti restano crude 😉\nSalva la ricetta e provala questo weekend 🌿",
+      "formats": {
+        "instagram": {
+          "caption": "La genovese che non ti aspetti: dentro una torta salata! 🥧\nGuscio friabile, ripieno morbido e filante con patate, pesto e un brisè che si scioglie in bocca. Stendi, farcisci a strati e inforna: 50 minuti a 170°, poi altri 10 per la doratura perfetta.\nUn trucco fondamentale? Patate sottilissime, altrimenti restano crude 😉\nSalva la ricetta e provala questo weekend 🌿"
+        },
+        "tiktok": {
+          "script": [
+            "Guscio friabile, ripieno morbido e filante, fidati!",
+            "Farina, burro, patate e tanto pesto genovese.",
+            "Stendo la brisè e farcisco bello a strati.",
+            "In forno 50 minuti a 170, poi altri 10.",
+            "Patate sottilissime, sennò restano crude, occhio!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Guscio friabile fuori, ripieno morbido e filante dentro. La torta salata alla genovese è quella cosa che apri il forno e capisci subito che la domenica è svoltata. 🥧",
+            "La base è una brisè semplice: farina, burro freddo, un pizzico di sale. Ma il cuore è genovese: patate a fette sottilissime e tanto pesto, quello vero, che profuma di basilico appena schiacciato.",
+            "Stendi la brisè, bucherella il fondo e farcisci a strati: patate, pesto, un filo d'olio, ancora patate. Chiudi i bordi, spennella e inforna. Il segreto è non avere fretta.",
+            "50 minuti a 170°, poi altri 10 per asciugare bene il fondo. Se sforni troppo presto il ripieno resta umido e la sfoglia si ammoscia: il forno è metà del piatto.",
+            "Trucco finale: patate sottilissime, altrimenti restano crude sotto la sfoglia. Usa la mandolina, non il coltello. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Guscio friabile, ripieno morbido e filante, fidati!",
+        "Farina, burro, patate e tanto pesto genovese.",
+        "Stendo la brisè e farcisco bello a strati.",
+        "In forno 50 minuti a 170, poi altri 10.",
+        "Patate sottilissime, sennò restano crude, occhio!"
+      ],
+      "thread_text": [
+        "Guscio friabile fuori, ripieno morbido e filante dentro. La torta salata alla genovese è quella cosa che apri il forno e capisci subito che la domenica è svoltata. 🥧",
+        "La base è una brisè semplice: farina, burro freddo, un pizzico di sale. Ma il cuore è genovese: patate a fette sottilissime e tanto pesto, quello vero, che profuma di basilico appena schiacciato.",
+        "Stendi la brisè, bucherella il fondo e farcisci a strati: patate, pesto, un filo d'olio, ancora patate. Chiudi i bordi, spennella e inforna. Il segreto è non avere fretta.",
+        "50 minuti a 170°, poi altri 10 per asciugare bene il fondo. Se sforni troppo presto il ripieno resta umido e la sfoglia si ammoscia: il forno è metà del piatto.",
+        "Trucco finale: patate sottilissime, altrimenti restano crude sotto la sfoglia. Usa la mandolina, non il coltello. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Torta salata alla genovese",
+          "description": "Guscio friabile, ripieno morbido e filante: un abbraccio di sapore ligure in ogni morso.",
+          "visual_hint": "torta salata dorata intera",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory genovese tart"
+        },
+        {
+          "hook": "Farina, burro, patate e pesto",
+          "description": "Pochi ingredienti veri per un ripieno cremoso profumato al basilico.",
+          "visual_hint": "ingredienti sul tavolo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory tart ingredients",
+          "image": "https://images.pexels.com/photos/5794864/pexels-photo-5794864.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Stendi la brisè e farcisci a strati",
+          "description": "Il gesto chiave: stendere la pasta e alternare patate e pesto con cura.",
+          "visual_hint": "mani stendono la brisè",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory pie crust rolling",
+          "image": "https://images.pexels.com/photos/28916049/pexels-photo-28916049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cuoci 50 minuti a 170°, poi 10",
+          "description": "Prima cottura dolce, poi dieci minuti per una superficie dorata e croccante.",
+          "visual_hint": "forno con torta dorata",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory tart baking oven",
+          "image": "https://images.pexels.com/photos/26870538/pexels-photo-26870538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Patate sottilissime, o restano crude",
+          "description": "Il trucco finale: affetta le patate finissime e servi la torta tiepida.",
+          "visual_hint": "fetta di torta servita",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory tart slice",
+          "image": "https://images.pexels.com/photos/5852252/pexels-photo-5852252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "generic",
+      "signature_ingredients": [
+        "farina",
+        "burro",
+        "pesto"
+      ],
+      "image": "https://www.giallozafferano.it/images/367-36755/Torta-salata-alla-genovese_1200x800_wm.jpg",
+      "savedAt": "2026-11-05T17:52:24.795Z",
+      "sourceId": "9c24e07d18f6389a943fc685d357c602"
+    },
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pasta-con-crema-di-funghi-e-zucca",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pasta con crema di funghi e zucca",
+      "link": "https://ricette.giallozafferano.it/Pasta-con-crema-di-funghi-e-zucca.html",
+      "pubDate": "Thu, 05 Nov 2026 11:59:00 +0100",
+      "content": "Pasta con crema di funghi e zucca: primo cremoso autunnale Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X SPECIALE Pasta italiana: sapore unico in collaborazione con Primi piatti Pasta Contenuto Sponsorizzato Pasta con crema di funghi e zucca /5 CONDIVIDI INVIA FOTO COMMENTA de es fr nl br SALVA Segui GialloZafferano su Google Seguici 538,2 Calorie per porzione Energia Kcal 538,2 Carboidrati g 75,8 &nbsp;&nbsp;di cui zuccheri g 5,9 Proteine g 11,1 Grassi g 23,7 &nbsp;&nbsp;di cui saturi g 10,5 Fibre g 5,9 Colesterolo mg 55,5 Sodio mg 157,9 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Senza glutine Vegetariano Difficoltà: Facile Preparazione: 30 min Cottura: 50 min Dosi per: 4 persone Ascolta la ricetta Ascolta su Spreaker. Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti PRESENTAZIONE La pasta con crema di funghi e zucca è un primo piatto cremoso e saporito, perfetto per arricchire i vostri menu autunnali . I funghi porcini e champignon si uniscono in una crema vellutata, resa ancora più morbida dalla panna fresca, che avvolge le linguine a ogni forchettata. A completare il condimento, una dadolata di zucca saltata in padella, piacevolmente dorata, che con la sua dolcezza esalta il gusto intenso dei funghi. Il tocco finale è la polvere di rosmarino, che aggiunge una nota aromatica e valorizza l’incontro tra due degli ingredienti più amati della stagione. Ideale per un pranzo della domenica o una cena con amici, questa pasta con funghi e zucca vi conquisterà con il suo equilibrio di sapori e consistenze: un modo originale e appetitoso per portare in tavola tutto il profumo dell’autunno. Curiosate tra queste sfiziose varianti: Pasta zucca e funghi Gnocchetti con crema di zucca, funghi e ricotta Pasta con vongole, zucca e funghi Nidi di funghi, crema di zucca e mozzarella INGREDIENTI 538,2 Calorie per porzione Linguine senza glutine 320 g Funghi porcini surgelati 300 g Funghi champignon 200 g Zucca delica da pulire 300 g Salvia 2 foglie Timo 2 rametti Rosmarino 2 rametti Aglio 3 spicchi Olio extravergine d'oliva q.b. Sale fino q.b. Pepe nero q.b. Panna fresca liquida 200 g Rosmarino secco 20 g AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta con crema di funghi e zucca Per preparare la pasta con crema di funghi e zucca, mettete il rosmarino secco in un macinaspezie o macinacaffè 1 e frullatelo fino a ridurlo in polvere, poi tenetelo da parte. Pulite gli champignon eliminando la parte terrosa del gambo 2 , rimuovete eventuali residui di terra con un panno umido e tagliateli in quarti 3 . Fate lo stesso con i porcini, se freschi. Versate l’olio in una pentola, aggiungete l’aglio 4 , il timo, il rosmarino e la salvia 5 , quindi lasciate insaporire a fiamma bassa. Unite gli champignon 6 . Aggiungete anche i porcini 7 , alzate la fiamma e mescolate bene per farli insaporire. Regolate di sale 8 , aromatizzate con il pepe e versate la panna 9 . Cuocete a fiamma media per circa 30 minuti, mescolando di tanto in tanto 10 . Nel frattempo dividete a metà la zucca ed eliminate i semi e i filamenti interni con un cucchiaio 11 , poi tagliatela a cubetti mantenendo la buccia 12 . Scaldate l’olio in una padella, aggiungete la zucca 13 e saltatela a fiamma alta per circa 5 minuti. Salate 14 , trasferite i cubetti in una ciotola e teneteli da parte 15 , conservando la padella per condire la pasta. Portate a bollore una pentola di acqua salata e cuocete le linguine 16 , prevedendo di scolarle 2 minuti prima del tempo indicato sulla confezione. Terminata la cottura dei funghi, eliminate i rametti delle erbe aromatiche 17 e l’aglio 18 . Trasferite il tutto in un recipiente alto e stretto 19 . Frullate con un mixer a immersione fino a ottenere una crema omogenea 20 . Versate la crema di funghi nella padella in cui avete cotto la zucca 21 . Scolate le linguine al dente e trasferitele direttamente nella crema 22 , conservando l’acqua di cottura. Aggiungetene un mestolo 23 e terminate la cottura in padella, mescolando e versando altra acqua al bisogno, fino a ottenere un condimento cremoso che avvolga la pasta 24 . Impiattate le linguine formando un nido, spolverizzate con la polvere di rosmarino 25 e completate con i cubetti di zucca 26 . Servite subito la vostra pasta con crema di funghi e zucca 27 . Conservazione Consigliamo di consumare subito la pasta con crema di funghi e zucca. Consiglio Tagliate la zucca a cubetti piccoli e uniformi, così cuocerà rapidamente anche mantenendo la buccia. Quando terminate la cottura delle linguine, aggiungete l’acqua di cottura poco alla volta per ottenere una crema avvolgente senza diluire troppo il condimento. Per questa ricetta, ti consigliamo di provare le Linguine Gluten Free n° 13 Rummo Pasta Rummo, eccezionale tenuta alla cottura. Grazie alla qualità delle semole utilizzate, alla cura dei maestri pastai e al Metodo Lenta Lavorazione®, la pasta Rummo è la prima certificata per la tenuta alla cottura. Gli oltre 175 anni di esperienza e la trafilatura al bronzo rendono Pasta Rummo eccezionale. Scopri di più Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Timo Salvia Zucca Aglio Pasta Olio di oliva Rosmarino Scopri tutto sugli ingredienti STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Primi piatti Pasta con vongole, zucca e funghi 5.0 La pasta con vongole, zucca e funghi è un'aromatica variante dei classici spaghetti alle vongole arricchita con verdure di stagione! Scopri la ricetta Vai alla ricetta Primi piatti Spaghetti alla chitarra alla farina di castagne con funghi, zucca e salsiccia 23 4.4 Gli spaghetti alla chitarra alla farina di castagne con funghi, zucca e salsiccia sono un primo piatto con un ricco condimento di verdure e carne. Vai alla ricetta Benessere Primi piatti Gnocchetti con crema di zucca, funghi e ricotta 4.5 Gnocchetti con crema di zucca, funghi e ricotta: un primo piatto autunnale, facile da preparare e ideale per stupire a tavola con gusto e delicatezza. Vai alla ricetta Piatti Unici Lasagne di zucca con crema di funghi e scamorza 41 4.8 Le lasagne di zucca con crema di funghi e scamorza sono un primo piatto ricco con un condimento che racchiude i sapori più tipici dell'autunno. Vai alla ricetta Primi piatti Nidi di funghi, crema di zucca e mozzarella 1 4.8 I nidi di funghi, crema di zucca e mozzarella sono delle crespelle farcite con un ripieno filante! Scopri la ricetta per preparare questo primo piatto Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. e all’utilizzo di pixel di tracciamento nelle suddette comunicazioni per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne Si No Prosegui",
+      "slides": [
+        "Pasta cremosa autunnale con funghi e zucca",
+        "Linguine, funghi, zucca, panna e rosmarino",
+        "Frulla funghi cotti con panna in crema",
+        "Manteca linguine nella crema con acqua cottura",
+        "Nido di pasta, zucca dorata e rosmarino"
+      ],
+      "instagram_caption": "La pasta che sa di autunno al primo morso 🍂\nLinguine avvolte in una crema vellutata di funghi e panna, con zucca dorata e un profumo di rosmarino che riempie la cucina.\nFrullo i funghi cotti con la panna fino a ottenere una crema liscia, poi manteco la pasta con l'acqua di cottura per quella consistenza setosa che fa la differenza.\nUn nido di linguine, qualche cubetto di zucca croccante e una spolverata di rosmarino: comfort food allo stato puro 🍄🎃\nSalva il post e provala questo weekend 🌿",
+      "formats": {
+        "instagram": {
+          "caption": "La pasta che sa di autunno al primo morso 🍂\nLinguine avvolte in una crema vellutata di funghi e panna, con zucca dorata e un profumo di rosmarino che riempie la cucina.\nFrullo i funghi cotti con la panna fino a ottenere una crema liscia, poi manteco la pasta con l'acqua di cottura per quella consistenza setosa che fa la differenza.\nUn nido di linguine, qualche cubetto di zucca croccante e una spolverata di rosmarino: comfort food allo stato puro 🍄🎃\nSalva il post e provala questo weekend 🌿"
+        },
+        "tiktok": {
+          "script": [
+            "Pasta cremosa autunnale: funghi e zucca, che bontà!",
+            "Prendo linguine, funghi, zucca, panna e rosmarino.",
+            "Frullo i funghi cotti con la panna: che crema!",
+            "Manteco le linguine nella crema con acqua di cottura.",
+            "Nido di pasta, zucca dorata e rosmarino sopra."
+          ]
+        },
+        "x": {
+          "thread": [
+            "La pasta che sa di autunno: crema di funghi e zucca. Vellutata, profumata, pronta in 20 minuti. La domenica perfetta esiste.",
+            "Linguine, funghi, zucca a cubetti, panna e rosmarino. Soffriggi funghi e zucca finché non sono dorati. Profumo di bosco in cucina.",
+            "Frulla i funghi cotti con la panna: ottieni una crema liscia e intensa. Sarà il mantecato che avvolge ogni linguina.",
+            "Cuoci le linguine, mantecale nella crema con un mestolo di acqua cottura. Diventano setose, lucide, cremose al punto giusto.",
+            "Nido di pasta, zucca dorata e una spruzzata di rosmarino. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Pasta cremosa autunnale: funghi e zucca, che bontà!",
+        "Prendo linguine, funghi, zucca, panna e rosmarino.",
+        "Frullo i funghi cotti con la panna: che crema!",
+        "Manteco le linguine nella crema con acqua di cottura.",
+        "Nido di pasta, zucca dorata e rosmarino sopra."
+      ],
+      "thread_text": [
+        "La pasta che sa di autunno: crema di funghi e zucca. Vellutata, profumata, pronta in 20 minuti. La domenica perfetta esiste.",
+        "Linguine, funghi, zucca a cubetti, panna e rosmarino. Soffriggi funghi e zucca finché non sono dorati. Profumo di bosco in cucina.",
+        "Frulla i funghi cotti con la panna: ottieni una crema liscia e intensa. Sarà il mantecato che avvolge ogni linguina.",
+        "Cuoci le linguine, mantecale nella crema con un mestolo di acqua cottura. Diventano setose, lucide, cremose al punto giusto.",
+        "Nido di pasta, zucca dorata e una spruzzata di rosmarino. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pasta cremosa autunnale con funghi e zucca",
+          "description": "Un primo piatto vellutato che celebra i sapori dell'autunno, cremoso e avvolgente.",
+          "visual_hint": "linguine cremosa con zucca",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory pumpkin pasta"
+        },
+        {
+          "hook": "Linguine, funghi, zucca, panna e rosmarino",
+          "description": "Ingredienti semplici e genuini che si trasformano in una crema ricca e profumata.",
+          "visual_hint": "ingredienti freschi sul tavolo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory mushroom pumpkin pasta",
+          "image": "https://images.pexels.com/photos/38868615/pexels-photo-38868615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Frulla funghi cotti con panna in crema",
+          "description": "Il segreto è frullare i funghi cotti con la panna fino a ottenere una crema liscia.",
+          "visual_hint": "frullatore con crema di funghi",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory mushroom cream",
+          "image": "https://images.pexels.com/photos/36183178/pexels-photo-36183178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manteca linguine nella crema con acqua cottura",
+          "description": "Mantecare le linguine nella crema con un po' di acqua di cottura per legare tutto.",
+          "visual_hint": "pasta mantecata nella crema",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory creamy pasta tossing",
+          "image": "https://images.pexels.com/photos/37726962/pexels-photo-37726962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Nido di pasta, zucca dorata e rosmarino",
+          "description": "Impiatta a nido, aggiungi zucca dorata e un rametto di rosmarino per un tocco finale.",
+          "visual_hint": "piatto impiattato con rosmarino",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory pumpkin pasta nest",
+          "image": "https://images.pexels.com/photos/22468681/pexels-photo-22468681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "funghi",
+        "zucca",
+        "panna"
+      ],
+      "image": "https://www.giallozafferano.it/images/367-36784/Pasta-con-crema-di-funghi-e-zucca_1200x800_wm.jpg",
+      "savedAt": "2026-11-05T17:52:12.098Z",
+      "sourceId": "20cd3f0322b875e193ec6c5063d18dae"
+    },
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "risotto-alla-puttanesca-bianco",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Risotto alla puttanesca bianco",
+      "link": "https://ricette.giallozafferano.it/Risotto-alla-puttanesca-bianco.html",
+      "pubDate": "Thu, 05 Nov 2026 15:19:00 +0100",
+      "content": "Risotto alla puttanesca bianco con alici e olive Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X Primi piatti Riso e Cereali Risotto alla puttanesca bianco /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Segui GialloZafferano su Google Seguici Difficoltà: Molto facile Preparazione: 15 min Cottura: 25 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti PRESENTAZIONE Il risotto alla puttanesca bianco riunisce in un primo cremoso e avvolgente i sapori decisi della tipica pasta della tradizione. Una variante del risotto alla puttanesca che vi conquisterà con un mix di ingredienti stuzzicanti: olive, capperi e alici, l’abbinamento intramontabile della classica puttanesca, qui proposto in una versione senza pomodoro, candida ma altrettanto saporita. La mantecatura con burro e Parmigiano dona al riso una consistenza vellutata, perfetta per accogliere la vivacità dei capperi, il gusto delle olive taggiasche e la sapidità dei filetti di alici. A completare il piatto c'è il pangrattato tostato, un tocco gourmet nella sua semplicità, che aggiunge una nota piacevolmente croccante e rende ogni boccone ancora più invitante. Portate in tavola questo risotto per un pranzo in famiglia o una cena con gli amici: ritroverete il carattere della puttanesca in una veste nuova, da assaporare una forchettata dopo l’altra! Venite a curiosare tra queste variati degli spaghetti alla puttanesca : Spaghetti con polpo alla puttanesca Risotto alla puttanesca con pomodori arrosto Rigatoni alla puttanesca e nduja INGREDIENTI Riso Carnaroli 320 g Brodo vegetale 600 ml Capperi sott'aceto 60 g Olive taggiasche denocciolate 60 g Acciughe (alici) 60 g Cipolle 40 g Olio extravergine d'oliva q.b. Prezzemolo q.b. Burro 80 g Parmigiano Reggiano DOP 60 g Vino bianco 20 ml Pepe nero q.b. Sale fino q.b. per il pangrattato tostato Pangrattato 50 g Aglio 1 spicchio Olio extravergine d'oliva q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Risotto alla puttanesca bianco Per preparare il risotto alla puttanesca bianco, iniziate tritando finemente insieme le olive e i capperi su un tagliere 1 . Mondate e tritate anche la cipolla 2 , quindi versate un filo d’olio in una casseruola, aggiungete la cipolla e fatela dorare dolcemente 3 . Unite il trito di olive e capperi e lasciatelo rosolare a fuoco medio per circa 2 minuti, poi aggiungete il riso e fatelo tostare per altri 2 minuti 4 . Sfumate con il vino bianco e lasciate evaporare la parte alcolica 5 . Iniziate quindi a bagnare il riso con il brodo vegetale caldo, aggiungendolo poco alla volta, e proseguite la cottura per circa 16 minuti 6 . Salate se necessario. Nel frattempo versate il pangrattato in una padella 7 , aggiungete un filo d’olio extravergine d’oliva, l'aglio 8 e fatelo tostare a fuoco dolce, mescolando spesso, fino a ottenere una doratura uniforme 9 . Una volta terminata la cottura del risotto, spegnete il fuoco e mantecate con il burro 10 e il Parmigiano grattugiato 11 . Completate con il prezzemolo tritato 12 . Insaporite con una macinata di pepe nero 13 e mescolate bene fino a ottenere un risotto cremoso e ben mantecato 14 . Distribuite il risotto nei piatti e adagiate sulla superficie i filetti di alici 15 . Completate con il pangrattato tostato, distribuendolo sul risotto 16 , terminate con un’ultima macinata di pepe nero 17 . Servite subito il risotto alla puttanesca bianco ben caldo 18 . Conservazione Consigliamo di consumare subito il risotto alla puttanesca bianco. Consiglio Per un gusto ancora più equilibrato, assaggiate il risotto prima di aggiungere sale: capperi, olive, alici e Parmigiano apportano già una buona sapidità, quindi potrebbe non essere necessario aggiungerne altro. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Aglio Olive in salamoia Olio di oliva Burro Prezzemolo Cipolla Capperi Parmigiano Reggiano Scopri tutto sugli ingredienti Presente in: Primi piatti veloci , Primi piatti di pesce , Ricette veloci STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Risotto alla puttanesca bianco Fette croccanti con ricotta e zucchine Fette croccanti con zucca, mirtilli e semi tostati SCOPRI Risotto in bianco Risotto al tartufo bianco Riso in bianco Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. e all’utilizzo di pixel di tracciamento nelle suddette comunicazioni per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne Si No Prosegui",
+      "slides": [
+        "Risotto bianco cremoso con alici e olive",
+        "Riso, capperi, olive, alici, burro",
+        "Trita olive e capperi, tosta il riso",
+        "Manteca con burro e Parmigiano a fuoco spento",
+        "Pangrattato tostato croccante sopra: non omettere"
+      ],
+      "instagram_caption": "Risotto alla puttanesca bianco: la tradizione napoletana incontra la cremosità del riso 🍚\nHo tostato il riso con olive e capperi tritati, poi l'ho mantecato con burro e Parmigiano a fuoco spento per una cremosità avvolgente. Le alici danno quel tocco sapido che conquista al primo assaggio 🐟\nE sopra? Pangrattato tostato croccante: non si omette, fidati ✨\nSalva la ricetta e provala questo weekend 🌿",
+      "formats": {
+        "instagram": {
+          "caption": "Risotto alla puttanesca bianco: la tradizione napoletana incontra la cremosità del riso 🍚\nHo tostato il riso con olive e capperi tritati, poi l'ho mantecato con burro e Parmigiano a fuoco spento per una cremosità avvolgente. Le alici danno quel tocco sapido che conquista al primo assaggio 🐟\nE sopra? Pangrattato tostato croccante: non si omette, fidati ✨\nSalva la ricetta e provala questo weekend 🌿"
+        },
+        "tiktok": {
+          "script": [
+            "Risotto bianco cremoso con alici e olive, andiamo!",
+            "Butto riso, capperi, olive e alici insieme.",
+            "Trito olive e capperi, poi tosto il riso.",
+            "Fuoco spento, manteco con burro e Parmigiano.",
+            "Pangrattato tostato croccante sopra: non saltatelo!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Risotto alla puttanesca bianco: la versione che non ti aspetti. Cremoso, sapido, con un finale croccante che cambia tutto. Se ami la puttanesca, qui ti innamori di nuovo.",
+            "Base bianca, niente pomodoro: riso, capperi, olive, alici e burro. Trita olive e capperi fini, tosta il riso con un filo d'olio. Le alici si sciolgono e diventano il condimento.",
+            "Sfuma con vino bianco, poi brodo caldo poco alla volta. Manteca a fuoco spento con burro e Parmigiano: qui nasce la cremosità. E non fermarti qui.",
+            "Il segreto? Pangrattato tostato croccante sopra. Non ometterlo: dà il contrasto che ti fa chiudere gli occhi. Una spolverata generosa, appena prima di servire.",
+            "Provala e dimmi com'è andata 👇 Se ti va, tagga chi la cucina con te. E se la fai, voglio la foto: il pangrattato deve fare rumore sotto i denti."
+          ]
+        }
+      },
+      "video_script": [
+        "Risotto bianco cremoso con alici e olive, andiamo!",
+        "Butto riso, capperi, olive e alici insieme.",
+        "Trito olive e capperi, poi tosto il riso.",
+        "Fuoco spento, manteco con burro e Parmigiano.",
+        "Pangrattato tostato croccante sopra: non saltatelo!"
+      ],
+      "thread_text": [
+        "Risotto alla puttanesca bianco: la versione che non ti aspetti. Cremoso, sapido, con un finale croccante che cambia tutto. Se ami la puttanesca, qui ti innamori di nuovo.",
+        "Base bianca, niente pomodoro: riso, capperi, olive, alici e burro. Trita olive e capperi fini, tosta il riso con un filo d'olio. Le alici si sciolgono e diventano il condimento.",
+        "Sfuma con vino bianco, poi brodo caldo poco alla volta. Manteca a fuoco spento con burro e Parmigiano: qui nasce la cremosità. E non fermarti qui.",
+        "Il segreto? Pangrattato tostato croccante sopra. Non ometterlo: dà il contrasto che ti fa chiudere gli occhi. Una spolverata generosa, appena prima di servire.",
+        "Provala e dimmi com'è andata 👇 Se ti va, tagga chi la cucina con te. E se la fai, voglio la foto: il pangrattato deve fare rumore sotto i denti."
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Risotto bianco, anima puttanesca",
+          "description": "Un risotto cremoso che cattura i sapori intensi della puttanesca, senza pomodoro.",
+          "visual_hint": "risotto bianco cremoso",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory white risotto"
+        },
+        {
+          "hook": "Alici, olive e capperi: il trio",
+          "description": "Ingredienti semplici e audaci che danno carattere a ogni cucchiaio.",
+          "visual_hint": "ingredienti su tavolo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory anchovies olives capers",
+          "image": "https://images.pexels.com/photos/6399834/pexels-photo-6399834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Trita e tosta: il segreto",
+          "description": "Olive e capperi tritati, riso tostato per un fondo ricco e profumato.",
+          "visual_hint": "mani che tritano olive",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory chopping olives",
+          "image": "https://images.pexels.com/photos/8448107/pexels-photo-8448107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Mantecatura a fuoco spento",
+          "description": "Burro e Parmigiano mantecano il riso, creando una cremosità avvolgente.",
+          "visual_hint": "riso mantecato con burro",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory risotto mantecatura",
+          "image": "https://images.pexels.com/photos/28559486/pexels-photo-28559486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pangrattato tostato: croccantezza finale",
+          "description": "Una spolverata di pangrattato tostato aggiunge il contrasto perfetto. Servi subito.",
+          "visual_hint": "risotto con pangrattato",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory risotto breadcrumbs",
+          "image": "https://images.pexels.com/photos/10520439/pexels-photo-10520439.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "generic",
+      "signature_ingredients": [
+        "riso",
+        "alici",
+        "olive"
+      ],
+      "image": "https://www.giallozafferano.it/images/368-36815/Risotto-alla-puttanesca-bianco_1200x800_wm.jpg",
+      "savedAt": "2026-11-05T17:51:59.762Z",
+      "sourceId": "885fb14d8a57efc9fd447adc12638534"
+    },
     {
       "schema_version": 2,
       "agent": "food",

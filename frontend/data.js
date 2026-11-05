@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-says-its-new-cybersecurity-model-is-better-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+    "pubDate": "2026-11-05T17:00:00.000Z",
+    "slides": [
+      "Can OpenAI's new model resist hacking other companies?",
+      "It's built specifically for cybersecurity defense tasks",
+      "But sometimes still finds unintended exploit paths",
+      "Security teams should test it on isolated systems first",
+      "Ask your vendor which model version you're running"
+    ],
+    "thread_text": [
+      "1. Can it resist hacking?\n\nOpenAI built a model for cybersecurity defense, but it sometimes finds unintended exploit paths. That's the tension.",
+      "2. Built for defense\n\nThis model is specifically designed for defensive security tasks, not general-purpose hacking. But capability cuts both ways.",
+      "3. Unintended exploits\n\nEven with defensive intent, the model can discover exploit paths its creators didn't anticipate. That's a risk, not a feature.",
+      "4. Test in isolation\n\nSecurity teams should run this model on isolated systems first. Don't let it loose on production before you understand its behavior.",
+      "5. Ask your vendor\n\nWhich model version are you actually running? Ask your vendor today — the version matters more than the marketing."
+    ],
+    "video_script": [
+      "Can OpenAI's new model resist hacking other companies?",
+      "It's built specifically for cybersecurity defense tasks.",
+      "But sometimes it still finds unintended exploit paths.",
+      "Security teams should test it on isolated systems first.",
+      "Ask your vendor which model version you're running."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can it resist hacking?\n\nOpenAI built a model for cybersecurity defense, but it sometimes finds unintended exploit paths. That's the tension.",
+          "2. Built for defense\n\nThis model is specifically designed for defensive security tasks, not general-purpose hacking. But capability cuts both ways.",
+          "3. Unintended exploits\n\nEven with defensive intent, the model can discover exploit paths its creators didn't anticipate. That's a risk, not a feature.",
+          "4. Test in isolation\n\nSecurity teams should run this model on isolated systems first. Don't let it loose on production before you understand its behavior.",
+          "5. Ask your vendor\n\nWhich model version are you actually running? Ask your vendor today — the version matters more than the marketing."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can OpenAI's new model resist hacking other companies?",
+          "It's built specifically for cybersecurity defense tasks.",
+          "But sometimes it still finds unintended exploit paths.",
+          "Security teams should test it on isolated systems first.",
+          "Ask your vendor which model version you're running."
+        ]
+      },
+      "instagram": {
+        "caption": "It was built for defense, but it sometimes finds exploit paths its own creators didn't anticipate.\n\nOpenAI's new cybersecurity model is designed for defensive security tasks, not general hacking. 🛡️\n\nCapability still cuts both ways: a model that can spot weaknesses can also stumble onto attacks nobody planned for.\n\nIf you run security tools, don't let it loose on production before you understand how it behaves. ⚠️\n\nTest it on isolated systems first. 🔒\n\nAnd ask your vendor which model version you're actually running — the version matters more than the marketing. 🤔\n\nWould you trust a defensive model that sometimes finds unintended exploits?"
+      }
+    },
+    "instagram_caption": "It was built for defense, but it sometimes finds exploit paths its own creators didn't anticipate.\n\nOpenAI's new cybersecurity model is designed for defensive security tasks, not general hacking. 🛡️\n\nCapability still cuts both ways: a model that can spot weaknesses can also stumble onto attacks nobody planned for.\n\nIf you run security tools, don't let it loose on production before you understand how it behaves. ⚠️\n\nTest it on isolated systems first. 🔒\n\nAnd ask your vendor which model version you're actually running — the version matters more than the marketing. 🤔\n\nWould you trust a defensive model that sometimes finds unintended exploits?",
+    "carousel_slides": [
+      {
+        "hook": "Can a defensive AI resist hacking?",
+        "description": "OpenAI's new model is built for cybersecurity defense, but it can still find unintended exploit paths.",
+        "visual_hint": "Glowing shield with circuit patterns",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "cybersecurity shield"
+      },
+      {
+        "hook": "Built for defense, not offense",
+        "description": "The model is designed specifically for defensive security tasks, not general-purpose hacking, but capability cuts both ways.",
+        "visual_hint": "Server room with lock icon",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Even good AI finds bad paths",
+        "description": "Despite defensive intent, the model can discover exploit paths its creators didn't anticipate—a risk, not a feature.",
+        "visual_hint": "Code with red alert symbol",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer code",
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it on isolated systems first",
+        "description": "Security teams should run this model in isolation before production to understand its behavior and prevent surprises.",
+        "visual_hint": "Hands typing on isolated laptop",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "laptop testing",
+        "image": "https://images.pexels.com/photos/3862605/pexels-photo-3862605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: ask your vendor today",
+        "description": "Which model version are you running? Ask your vendor now—version matters more than marketing. Save and share this tip.",
+        "visual_hint": "Phone screen with vendor chat",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone chat",
+        "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-11-05T17:46:47.386Z",
+    "sourceId": "8d55da85fce43312a8a833aa5edd9d6b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "a-yc-startup-is-putting-1m-behind-five-unsolved-ma",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+    "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+    "pubDate": "Thu, 05 Nov 2026 13:00:00 +0000",
+    "slides": [
+      "Can AI crack materials science's hardest problems?",
+      "A YC startup stakes $1M on five of them",
+      "The problems chosen are the ones experts avoid",
+      "Your field may already have a funded target",
+      "Pick one unsolved problem and start now"
+    ],
+    "thread_text": [
+      "1. The Hardest Problems\n\nA Y combinator startup just put $1M behind five unsolved materials science problems. The catch? These are the ones experts actively avoid.",
+      "2. Why Experts Avoid Them\n\nNot because they're impossible, but because they're too risky for academic tenure and too slow for industry. The startup is betting that AI changes the risk calculus.",
+      "3. Your Field Is Funded\n\nOne of those five targets likely overlaps with your domain. The startup isn't waiting for consensus -- they're assigning problems and funding them now.",
+      "4. The Gap Is Opportunity\n\nThe problems experts dodge are where AI has the least competition and the most room to surprise. That's not a bug, it's the whole thesis.",
+      "5. Pick One and Start\n\nOpen a tool like ChatGPT or a materials database and simulate one unsolved problem in your field. If you don't have a target, ask: what would I work on if failure was funded?"
+    ],
+    "video_script": [
+      "A startup just bet one million dollars on five problems.",
+      "These are problems most experts actively avoid.",
+      "Not impossible, just too risky for traditional funding.",
+      "One of those targets might be in your field.",
+      "Pick one unsolved problem and start now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Hardest Problems\n\nA Y combinator startup just put $1M behind five unsolved materials science problems. The catch? These are the ones experts actively avoid.",
+          "2. Why Experts Avoid Them\n\nNot because they're impossible, but because they're too risky for academic tenure and too slow for industry. The startup is betting that AI changes the risk calculus.",
+          "3. Your Field Is Funded\n\nOne of those five targets likely overlaps with your domain. The startup isn't waiting for consensus -- they're assigning problems and funding them now.",
+          "4. The Gap Is Opportunity\n\nThe problems experts dodge are where AI has the least competition and the most room to surprise. That's not a bug, it's the whole thesis.",
+          "5. Pick One and Start\n\nOpen a tool like ChatGPT or a materials database and simulate one unsolved problem in your field. If you don't have a target, ask: what would I work on if failure was funded?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A startup just bet one million dollars on five problems.",
+          "These are problems most experts actively avoid.",
+          "Not impossible, just too risky for traditional funding.",
+          "One of those targets might be in your field.",
+          "Pick one unsolved problem and start now."
+        ]
+      },
+      "instagram": {
+        "caption": "A Y Combinator startup is putting $1M behind five materials science problems that experts actively avoid.\n\nNot because they're impossible — because they're too risky for academic tenure and too slow for industry. 🔬\n\nThe bet: AI changes the risk math, so the problems nobody wants become the ones worth funding first.\n\nIf you work in materials, one of those five targets likely overlaps with your field — and it's already funded.\n\nWhat would you work on if failure was funded? 🤔"
+      }
+    },
+    "instagram_caption": "A Y Combinator startup is putting $1M behind five materials science problems that experts actively avoid.\n\nNot because they're impossible — because they're too risky for academic tenure and too slow for industry. 🔬\n\nThe bet: AI changes the risk math, so the problems nobody wants become the ones worth funding first.\n\nIf you work in materials, one of those five targets likely overlaps with your field — and it's already funded.\n\nWhat would you work on if failure was funded? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Why do experts avoid these problems?",
+        "description": "A YC startup put $1M behind five unsolved materials science problems that experts actively avoid due to risk.",
+        "visual_hint": "Researcher looking at complex data",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "materials science lab"
+      },
+      {
+        "hook": "$1M bet on experts' avoided problems",
+        "description": "The problems are too risky for academia and too slow for industry, but AI changes the risk calculus.",
+        "visual_hint": "Money and materials samples",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "venture capital funding",
+        "image": "https://images.pexels.com/photos/6289043/pexels-photo-6289043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your field may have a funded target",
+        "description": "One of the five targets likely overlaps with your domain; the startup assigns and funds problems now.",
+        "visual_hint": "Overlapping scientific fields",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "interdisciplinary research",
+        "image": "https://images.pexels.com/photos/7723401/pexels-photo-7723401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The gap is opportunity, not a bug",
+        "description": "Problems experts dodge are where AI has least competition and most room to surprise, that's the thesis.",
+        "visual_hint": "AI analyzing material structure",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "artificial intelligence materials",
+        "image": "https://images.pexels.com/photos/7688592/pexels-photo-7688592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and pick one problem",
+        "description": "Open ChatGPT or a materials database and simulate one unsolved problem in your field today.",
+        "visual_hint": "Person simulating on computer",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "scientist using computer",
+        "image": "https://images.pexels.com/photos/8851456/pexels-photo-8851456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?resize=1200,800",
+    "savedAt": "2026-11-05T17:46:38.620Z",
+    "sourceId": "ddef7f7b40b18c0e1a5bbd67df066659"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "elevenlabs-now-lets-users-publish-ai-generated-mus",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+    "link": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+    "pubDate": "Thu, 05 Nov 2026 15:00:00 +0000",
+    "slides": [
+      "ElevenLabs music on SoundCloud: what changes for creators?",
+      "The tool now integrates directly with SoundCloud's upload system.",
+      "But copyright and royalty rules remain unclear for AI tracks.",
+      "You can publish AI music today, but platforms may still flag it.",
+      "Test one track this week and check how it's received."
+    ],
+    "thread_text": [
+      "1. SoundCloud Opens AI Music\n\nElevenLabs tracks can now be uploaded directly to SoundCloud. Creators can publish AI-generated music today, but platform flags may still catch it.",
+      "2. Upload Straight From ElevenLabs\n\nThe tool integrates with SoundCloud's upload system, so you can move from prompt to published track without leaving the interface.",
+      "3. Copyright Rules Still Unclear\n\nRoyalty splits and ownership for AI tracks remain undefined. Platforms haven't settled on how to handle AI-generated content.",
+      "4. Platforms May Flag Your Track\n\nEven with direct upload, automated systems can still flag AI music. You might publish successfully and still face removal later.",
+      "5. Test One Track This Week\n\nUpload a single AI track and watch how it's received. Does it get flagged, ignored, or played? That answer tells you more than any policy page."
+    ],
+    "video_script": [
+      "ElevenLabs music now uploads straight to SoundCloud.",
+      "The tool plugs into SoundCloud's upload system directly.",
+      "But copyright and royalty rules for AI tracks are still unclear.",
+      "You can publish today, but platforms might still flag it.",
+      "Test one track this week and see how it's received."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. SoundCloud Opens AI Music\n\nElevenLabs tracks can now be uploaded directly to SoundCloud. Creators can publish AI-generated music today, but platform flags may still catch it.",
+          "2. Upload Straight From ElevenLabs\n\nThe tool integrates with SoundCloud's upload system, so you can move from prompt to published track without leaving the interface.",
+          "3. Copyright Rules Still Unclear\n\nRoyalty splits and ownership for AI tracks remain undefined. Platforms haven't settled on how to handle AI-generated content.",
+          "4. Platforms May Flag Your Track\n\nEven with direct upload, automated systems can still flag AI music. You might publish successfully and still face removal later.",
+          "5. Test One Track This Week\n\nUpload a single AI track and watch how it's received. Does it get flagged, ignored, or played? That answer tells you more than any policy page."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "ElevenLabs music now uploads straight to SoundCloud.",
+          "The tool plugs into SoundCloud's upload system directly.",
+          "But copyright and royalty rules for AI tracks are still unclear.",
+          "You can publish today, but platforms might still flag it.",
+          "Test one track this week and see how it's received."
+        ]
+      },
+      "instagram": {
+        "caption": "You can now publish an AI-generated track to SoundCloud without leaving ElevenLabs — prompt to live upload in one flow.\n\nThe tool plugs straight into SoundCloud's upload system. 🎛️\n\nBut royalty splits and ownership for AI music are still undefined, and automated systems can flag your track even after it goes live.\n\nSo your release might play today and disappear next week, with no clear rule telling you why. 🚩\n\nIf you make music, test one track this week and watch what happens: flagged, ignored, or played? 🎧\n\nWould you risk releasing a track you can't fully own?"
+      }
+    },
+    "instagram_caption": "You can now publish an AI-generated track to SoundCloud without leaving ElevenLabs — prompt to live upload in one flow.\n\nThe tool plugs straight into SoundCloud's upload system. 🎛️\n\nBut royalty splits and ownership for AI music are still undefined, and automated systems can flag your track even after it goes live.\n\nSo your release might play today and disappear next week, with no clear rule telling you why. 🚩\n\nIf you make music, test one track this week and watch what happens: flagged, ignored, or played? 🎧\n\nWould you risk releasing a track you can't fully own?",
+    "carousel_slides": [
+      {
+        "hook": "Who Really Owns AI Music?",
+        "description": "ElevenLabs tracks can now be published on SoundCloud, but copyright and royalty rules for AI-generated music remain undefined.",
+        "visual_hint": "Split screen: music note and copyright symbol",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "copyright symbol"
+      },
+      {
+        "hook": "Upload AI Tracks Without Leaving ElevenLabs",
+        "description": "The tool now integrates directly with SoundCloud's upload system, letting you go from prompt to published track in one place.",
+        "visual_hint": "Screenshot of ElevenLabs interface with upload button",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "SoundCloud logo",
+        "image": "https://images.pexels.com/photos/40223075/pexels-photo-40223075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI Music Ownership Still Undefined",
+        "description": "Royalty splits and ownership for AI tracks remain unclear as platforms haven't settled on how to handle AI-generated content.",
+        "visual_hint": "Gavel and music note on scales of justice",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "scales of justice",
+        "image": "https://images.pexels.com/photos/5669619/pexels-photo-5669619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your AI Track Might Get Flagged",
+        "description": "Even with direct upload, automated systems can still flag AI music, so you might publish successfully and face removal later.",
+        "visual_hint": "Red warning flag on a music track waveform",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "warning sign",
+        "image": "https://images.pexels.com/photos/36554863/pexels-photo-36554863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test One AI Track This Week",
+        "description": "Upload a single AI track and observe if it gets flagged, ignored, or played. That real-world answer beats any policy page.",
+        "visual_hint": "Hand clicking upload button on laptop",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop upload",
+        "image": "https://images.pexels.com/photos/7437087/pexels-photo-7437087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675",
+    "savedAt": "2026-11-05T17:46:29.035Z",
+    "sourceId": "7d07d5dca54f2e02e713578b2cf1b31e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "axiom-math-wants-to-keep-ai-slop-out-of-mathematic",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Axiom Math wants to keep AI slop out of mathematics",
+    "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+    "pubDate": "Thu, 05 Nov 2026 16:16:45 +0000",
+    "slides": [
+      "Can AI do math without inventing false proofs?",
+      "Axiom Math raised funding to build formal verification",
+      "Its system checks every step against proof assistants",
+      "Researchers can submit results and get machine-verified",
+      "Demand proof, not prose, from every AI math claim"
+    ],
+    "thread_text": [
+      "1. AI math needs proof\n\nAxiom Math just raised funding to build formal verification for AI-generated proofs. The goal: ensure every step is machine-checked, not just plausible.",
+      "2. Proof assistants as judges\n\nThe system checks each step against proof assistants. These are software tools that verify mathematical correctness, leaving no room for invented steps.",
+      "3. Submit your results\n\nResearchers can now submit their results and get them machine-verified. This could speed up peer review and increase trust in AI-assisted math.",
+      "4. Demand proof, not prose\n\nWhen an AI claims a math result, ask for the proof. With formal verification, you can check it step by step instead of trusting the model's narrative.",
+      "5. Test it yourself\n\nNext time an AI gives you a math answer, ask it to show its work. If it can't provide a verifiable proof, treat it as a guess."
+    ],
+    "video_script": [
+      "AI math can invent false proofs. Axiom Math is fixing that with formal verification.",
+      "Their system checks every step against proof assistants, so no made-up steps slip through.",
+      "Researchers can submit results and get them machine-verified, speeding up trust.",
+      "Demand proof, not prose, from every AI math claim.",
+      "Test it: ask an AI to show its work and verify each step."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI math needs proof\n\nAxiom Math just raised funding to build formal verification for AI-generated proofs. The goal: ensure every step is machine-checked, not just plausible.",
+          "2. Proof assistants as judges\n\nThe system checks each step against proof assistants. These are software tools that verify mathematical correctness, leaving no room for invented steps.",
+          "3. Submit your results\n\nResearchers can now submit their results and get them machine-verified. This could speed up peer review and increase trust in AI-assisted math.",
+          "4. Demand proof, not prose\n\nWhen an AI claims a math result, ask for the proof. With formal verification, you can check it step by step instead of trusting the model's narrative.",
+          "5. Test it yourself\n\nNext time an AI gives you a math answer, ask it to show its work. If it can't provide a verifiable proof, treat it as a guess."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI math can invent false proofs. Axiom Math is fixing that with formal verification.",
+          "Their system checks every step against proof assistants, so no made-up steps slip through.",
+          "Researchers can submit results and get them machine-verified, speeding up trust.",
+          "Demand proof, not prose, from every AI math claim.",
+          "Test it: ask an AI to show its work and verify each step."
+        ]
+      },
+      "instagram": {
+        "caption": "An AI can now generate a math proof that looks perfect and is completely wrong. Axiom Math raised funding to catch exactly that. 🔍\n\nIts system checks every single step against proof assistants, software that verifies correctness mechanically.\n\nNo plausible-sounding leaps, no invented steps.\n\nResearchers can submit results and get them machine-verified before anyone trusts them.\n\nIf you use AI for calculations, ask it to show its work.\n\nWould you be able to tell a real proof from a confident fake? 🧮"
+      }
+    },
+    "instagram_caption": "An AI can now generate a math proof that looks perfect and is completely wrong. Axiom Math raised funding to catch exactly that. 🔍\n\nIts system checks every single step against proof assistants, software that verifies correctness mechanically.\n\nNo plausible-sounding leaps, no invented steps.\n\nResearchers can submit results and get them machine-verified before anyone trusts them.\n\nIf you use AI for calculations, ask it to show its work.\n\nWould you be able to tell a real proof from a confident fake? 🧮",
+    "carousel_slides": [
+      {
+        "hook": "Can AI do math without fake proofs?",
+        "description": "Axiom Math raised funding to build formal verification, ensuring every AI-generated math step is machine-checked, not just plausible.",
+        "visual_hint": "Split screen: AI code vs math symbols",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer code math"
+      },
+      {
+        "hook": "Proof assistants judge every step",
+        "description": "The system checks each step against proof assistants—software that verifies correctness, leaving no room for invented steps.",
+        "visual_hint": "Proof assistant software interface",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "software interface",
+        "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Submit results, get machine-verified",
+        "description": "Researchers can submit results and get machine-verified, speeding up peer review and increasing trust in AI-assisted math.",
+        "visual_hint": "Researcher submitting proof online",
+        "layout_type": "sensor-zoom",
+        "icon": "check",
+        "image_query": "researcher computer",
+        "image": "https://images.pexels.com/photos/8851456/pexels-photo-8851456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Demand proof, not prose, from AI",
+        "description": "When an AI claims a math result, ask for the proof. Formal verification lets you check step by step instead of trusting the model's narrative.",
+        "visual_hint": "Hand pointing at proof steps",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand pointing",
+        "image": "https://images.pexels.com/photos/9127687/pexels-photo-9127687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: demand verifiable proofs",
+        "description": "Next time an AI gives a math answer, ask it to show its work. If it can't provide a verifiable proof, treat it as a guess.",
+        "visual_hint": "Checklist with proof icons",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Axiom-Team-2.jpg?resize=1200,800",
+    "savedAt": "2026-11-05T17:46:17.824Z",
+    "sourceId": "7dac5ce0cdad0d3f04879d75c6b21cea"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "duckduckgo-pitches-itself-to-schools-amid-backlash",
     "prompt_version": "1.0.0",
     "status": "published",
