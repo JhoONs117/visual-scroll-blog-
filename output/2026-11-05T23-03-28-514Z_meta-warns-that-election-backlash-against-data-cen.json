@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-warns-that-election-backlash-against-data-cen",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+  "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+  "pubDate": "Thu, 05 Nov 2026 19:12:39 +0000",
+  "slides": [
+    "Why is Meta suddenly worried about voters?",
+    "Election backlash now threatens data center expansion",
+    "Local opposition is blocking projects faster than regulators",
+    "Your region may see new siting rules within months",
+    "Check your local zoning agenda before the next vote"
+  ],
+  "thread_text": [
+    "1. Meta's voter anxiety, explained\n\nMeta is quietly funding election-integrity teams while its data center buildout faces something new: angry local voters, not federal regulators.",
+    "2. Backlash hits the grid\n\nCounty boards are rejecting or delaying data center permits at record rates, citing water use and power bills — a bottleneck that bypasses Washington entirely.",
+    "3. Local vetoes outpace regulators\n\nIn at least a dozen states, planning commissions have blocked projects faster than utility regulators can approve them, according to industry tracking.",
+    "4. New rules are coming\n\nSeveral states are drafting siting legislation that could land within months, giving local governments more say over where AI infrastructure goes.",
+    "5. Check your zoning agenda\n\nFind your county planning calendar and see if a data center item is listed before the next vote. If it is, show up — or at least read the filing."
+  ],
+  "video_script": [
+    "Meta is worried about voters, not regulators.",
+    "Local boards are blocking data centers faster than agencies.",
+    "Water and power bills are fueling the backlash.",
+    "New siting rules could hit your state soon.",
+    "Check your local zoning agenda before the next vote."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta's voter anxiety, explained\n\nMeta is quietly funding election-integrity teams while its data center buildout faces something new: angry local voters, not federal regulators.",
+        "2. Backlash hits the grid\n\nCounty boards are rejecting or delaying data center permits at record rates, citing water use and power bills — a bottleneck that bypasses Washington entirely.",
+        "3. Local vetoes outpace regulators\n\nIn at least a dozen states, planning commissions have blocked projects faster than utility regulators can approve them, according to industry tracking.",
+        "4. New rules are coming\n\nSeveral states are drafting siting legislation that could land within months, giving local governments more say over where AI infrastructure goes.",
+        "5. Check your zoning agenda\n\nFind your county planning calendar and see if a data center item is listed before the next vote. If it is, show up — or at least read the filing."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta is worried about voters, not regulators.",
+        "Local boards are blocking data centers faster than agencies.",
+        "Water and power bills are fueling the backlash.",
+        "New siting rules could hit your state soon.",
+        "Check your local zoning agenda before the next vote."
+      ]
+    },
+    "instagram": {
+      "caption": "County planning boards are rejecting data center permits faster than federal regulators can review them.\n\nMeta is now warning that voter backlash over water use and power bills could slow its AI buildout. 🗳️\n\nLocal officials in at least a dozen states are blocking or delaying projects before Washington weighs in.\n\nSeveral states are drafting siting rules that could land within months. ⚡\n\nIf you publish or build with AI tools, the infrastructure behind them may face new local vetoes. 🏗️\n\nCheck your county planning calendar now — is a data center item listed before the next vote? 📋"
+    }
+  },
+  "instagram_caption": "County planning boards are rejecting data center permits faster than federal regulators can review them.\n\nMeta is now warning that voter backlash over water use and power bills could slow its AI buildout. 🗳️\n\nLocal officials in at least a dozen states are blocking or delaying projects before Washington weighs in.\n\nSeveral states are drafting siting rules that could land within months. ⚡\n\nIf you publish or build with AI tools, the infrastructure behind them may face new local vetoes. 🏗️\n\nCheck your county planning calendar now — is a data center item listed before the next vote? 📋",
+  "carousel_slides": [
+    {
+      "hook": "Local voters block AI expansion",
+      "description": "County boards reject data center permits at record rates, creating a bottleneck that bypasses federal regulators entirely.",
+      "visual_hint": "County board meeting with raised hands",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "crowd protest"
+    },
+    {
+      "hook": "Meta's election anxiety explained",
+      "description": "Meta funds election-integrity teams as its data center buildout faces angry local voters, not federal regulators.",
+      "visual_hint": "Meta logo with voters at polls",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "voting ballot box",
+      "image": "https://images.pexels.com/photos/5926272/pexels-photo-5926272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Local vetoes outpace regulators",
+      "description": "In a dozen states, planning commissions block projects faster than utility regulators can approve them.",
+      "visual_hint": "Map with blocked project markers",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "usa map",
+      "image": "https://images.pexels.com/photos/20240697/pexels-photo-20240697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "New siting rules coming soon",
+      "description": "Several states are drafting siting legislation within months, giving local governments more say over AI infrastructure.",
+      "visual_hint": "Legislative documents on desk",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "government building",
+      "image": "https://images.pexels.com/photos/28451083/pexels-photo-28451083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: check your zoning agenda",
+      "description": "Find your county planning calendar and see if a data center item is listed before the next vote.",
+      "visual_hint": "Calendar with data center item highlighted",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar planner",
+      "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/data-center-2.jpg?resize=1200,899",
+  "savedAt": "2026-11-05T23:03:38.514Z",
+  "sourceId": "1eac0b195a3b12f801ac242ce28da39e"
+}

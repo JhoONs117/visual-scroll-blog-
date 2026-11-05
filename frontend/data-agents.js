@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "-total-repudiation-the-blue-wave-is-about-to-hit-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "‘Total repudiation’: The blue wave is about to hit AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+      "pubDate": "2026-11-05T17:51:52.000Z",
+      "slides": [
+        "Blue wave about to hit AI — but why repudiation?",
+        "Voters reject AI policies across party lines",
+        "Total repudiation targets Big Tech's unchecked power",
+        "New rules could reshape how your tools are built",
+        "Ask candidates where they stand on AI — today"
+      ],
+      "thread_text": [
+        "1. Blue wave incoming\n\nA blue wave is about to hit AI, but it's not what you think. Voters across party lines are rejecting AI policies, and Big Tech's unchecked power is the target.",
+        "2. Voters reject AI policies\n\nPoliticians who backed AI deregulation are losing votes. The repudiation is total, and it's reshaping how new rules get written.",
+        "3. Total repudiation targets Big Tech\n\nBig Tech's unchecked power is the real issue. New rules could reshape how your tools are built, from algorithms to data access.",
+        "4. New rules, new tools\n\nAI tools you use daily may change under new regulations. Companies will have to adapt, and users will notice the difference.",
+        "5. Ask candidates today\n\nBefore you vote, ask candidates where they stand on AI. Their answer will shape the tools you rely on tomorrow."
+      ],
+      "video_script": [
+        "A blue wave is coming for AI, and it's not what you think.",
+        "Voters are rejecting AI policies across party lines.",
+        "The repudiation targets Big Tech's unchecked power.",
+        "New rules could reshape how your tools are built.",
+        "Ask candidates where they stand on AI today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Blue wave incoming\n\nA blue wave is about to hit AI, but it's not what you think. Voters across party lines are rejecting AI policies, and Big Tech's unchecked power is the target.",
+            "2. Voters reject AI policies\n\nPoliticians who backed AI deregulation are losing votes. The repudiation is total, and it's reshaping how new rules get written.",
+            "3. Total repudiation targets Big Tech\n\nBig Tech's unchecked power is the real issue. New rules could reshape how your tools are built, from algorithms to data access.",
+            "4. New rules, new tools\n\nAI tools you use daily may change under new regulations. Companies will have to adapt, and users will notice the difference.",
+            "5. Ask candidates today\n\nBefore you vote, ask candidates where they stand on AI. Their answer will shape the tools you rely on tomorrow."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A blue wave is coming for AI, and it's not what you think.",
+            "Voters are rejecting AI policies across party lines.",
+            "The repudiation targets Big Tech's unchecked power.",
+            "New rules could reshape how your tools are built.",
+            "Ask candidates where they stand on AI today."
+          ]
+        },
+        "instagram": {
+          "caption": "Politicians who backed AI deregulation are losing votes — across party lines.\n\nVoters are rejecting those policies outright, and the backlash is being called a total repudiation.\n\nThe real target? Big Tech's unchecked power over algorithms and data access. 🎯\n\nNew rules could change how the AI tools you use every day get built.\n\nIf you create or publish content, the platforms and tools you depend on may work differently soon.\n\nBefore you vote, ask candidates where they stand on AI. 🗳️ Their answer shapes your workflow tomorrow."
+        }
+      },
+      "instagram_caption": "Politicians who backed AI deregulation are losing votes — across party lines.\n\nVoters are rejecting those policies outright, and the backlash is being called a total repudiation.\n\nThe real target? Big Tech's unchecked power over algorithms and data access. 🎯\n\nNew rules could change how the AI tools you use every day get built.\n\nIf you create or publish content, the platforms and tools you depend on may work differently soon.\n\nBefore you vote, ask candidates where they stand on AI. 🗳️ Their answer shapes your workflow tomorrow.",
+      "carousel_slides": [
+        {
+          "hook": "Is Big Tech's AI power finally being punished?",
+          "description": "Voters across party lines reject AI policies, targeting unchecked corporate power and reshaping new rules.",
+          "visual_hint": "Protesters holding signs against Big Tech",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "protest crowd"
+        },
+        {
+          "hook": "Politicians backed AI deregulation — now paying price?",
+          "description": "Candidates who supported AI deregulation are losing votes, as total repudiation crosses party lines.",
+          "visual_hint": "Voting ballot box with shadow",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "ballot box",
+          "image": "https://images.pexels.com/photos/8846310/pexels-photo-8846310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Total repudiation: Big Tech's unchecked power targeted",
+          "description": "New rules could reshape how your tools are built, from algorithms to data access, curbing corporate control.",
+          "visual_hint": "Server room with glowing lights",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Will new AI rules change the tools you use daily?",
+          "description": "AI tools may change under new regulations; companies must adapt, and users will notice the difference.",
+          "visual_hint": "Hands typing on laptop keyboard",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "laptop keyboard",
+          "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask candidates where they stand on AI today",
+          "description": "Before you vote, ask candidates their AI stance—it will shape the tools you rely on tomorrow.",
+          "visual_hint": "Person holding protest sign",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "protest sign",
+          "image": "https://images.pexels.com/photos/11421067/pexels-photo-11421067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-11-05T23:04:06.234Z",
+      "sourceId": "51ff4c2f73a749d0afdee24f5981a463"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "dropbox-acquires-tigris-data-for-350m-to-bolster-i",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "pubDate": "Thu, 05 Nov 2026 15:19:05 +0000",
+      "slides": [
+        "Dropbox just paid $350M for Tigris Data — why now?",
+        "Tigris builds storage that scales for AI workloads",
+        "Yet Dropbox's core business has nothing to do with AI training",
+        "Your shared files may soon sit on AI-optimized infrastructure",
+        "Watch whether Dropbox ships AI features or just rents storage"
+      ],
+      "thread_text": [
+        "1. Dropbox's $350M AI Bet\n\nDropbox just bought Tigris Data for $350M. Tigris builds storage for AI workloads — a world away from your shared folders.",
+        "2. AI Storage, Not File Sharing\n\nTigris scales for AI training and inference. Dropbox's core product? Storing your PDFs and photos. The two don't overlap.",
+        "3. Your Files on AI Infrastructure\n\nYour shared links may soon live on AI-optimized storage. That means faster access but also new terms you never agreed to.",
+        "4. Rent vs. Build\n\nThe real question: will Dropbox ship its own AI features, or just rent Tigris's tech? One adds value, the other adds margin.",
+        "5. Test the AI Claim\n\nThis week, open Dropbox and look for one new AI feature. If you can't find it, you'll know it's just storage."
+      ],
+      "video_script": [
+        "Dropbox just paid 350 million dollars for Tigris Data.",
+        "Tigris builds storage that scales for AI workloads.",
+        "But Dropbox's core business is storing your files.",
+        "Your shared files may soon sit on AI infrastructure.",
+        "Watch if Dropbox ships AI features or just rents storage."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Dropbox's $350M AI Bet\n\nDropbox just bought Tigris Data for $350M. Tigris builds storage for AI workloads — a world away from your shared folders.",
+            "2. AI Storage, Not File Sharing\n\nTigris scales for AI training and inference. Dropbox's core product? Storing your PDFs and photos. The two don't overlap.",
+            "3. Your Files on AI Infrastructure\n\nYour shared links may soon live on AI-optimized storage. That means faster access but also new terms you never agreed to.",
+            "4. Rent vs. Build\n\nThe real question: will Dropbox ship its own AI features, or just rent Tigris's tech? One adds value, the other adds margin.",
+            "5. Test the AI Claim\n\nThis week, open Dropbox and look for one new AI feature. If you can't find it, you'll know it's just storage."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Dropbox just paid 350 million dollars for Tigris Data.",
+            "Tigris builds storage that scales for AI workloads.",
+            "But Dropbox's core business is storing your files.",
+            "Your shared files may soon sit on AI infrastructure.",
+            "Watch if Dropbox ships AI features or just rents storage."
+          ]
+        },
+        "instagram": {
+          "caption": "$350M for a storage company whose tech has nothing to do with your shared folders. 👀\n\nDropbox just bought Tigris Data — storage built for AI training and inference, not PDFs and photos.\n\nYour files may soon sit on AI-optimized infrastructure, which could mean faster access but also new terms you never agreed to.\n\nFor anyone publishing content, the real test is whether Dropbox ships actual AI features or just rents the tech. 🤔\n\nThe real question: will Dropbox build its own AI, or just pay for the margin? 💸\n\nThis week, open Dropbox and hunt for one new AI feature. If you can't find it, you'll know. 🔍"
+        }
+      },
+      "instagram_caption": "$350M for a storage company whose tech has nothing to do with your shared folders. 👀\n\nDropbox just bought Tigris Data — storage built for AI training and inference, not PDFs and photos.\n\nYour files may soon sit on AI-optimized infrastructure, which could mean faster access but also new terms you never agreed to.\n\nFor anyone publishing content, the real test is whether Dropbox ships actual AI features or just rents the tech. 🤔\n\nThe real question: will Dropbox build its own AI, or just pay for the margin? 💸\n\nThis week, open Dropbox and hunt for one new AI feature. If you can't find it, you'll know. 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Dropbox's $350M AI bet: storage or hype?",
+          "description": "Dropbox acquired Tigris Data for $350M to build AI-optimized storage, far from its core file-sharing business.",
+          "visual_hint": "Server racks in data center",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Tigris scales storage for AI workloads",
+          "description": "Tigris provides storage that scales for AI training and inference, while Dropbox stores your PDFs and photos.",
+          "visual_hint": "Abstract data waves flowing",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your shared files may hit AI infrastructure",
+          "description": "Your shared links could soon live on AI-optimized storage, offering faster access but new terms.",
+          "visual_hint": "Close-up of file icons on screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "cloud storage",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Will Dropbox ship AI or just rent?",
+          "description": "Dropbox must decide: build its own AI features or resell Tigris tech. One adds value, the other margin.",
+          "visual_hint": "Hand holding smartphone with app",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone app",
+          "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test Dropbox's AI claim today",
+          "description": "Open Dropbox this week and look for one new AI feature. If you can't find it, it's just storage.",
+          "visual_hint": "Checklist on desk with pen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist desk",
+          "image": "https://images.pexels.com/photos/6928997/pexels-photo-6928997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1211180751.jpg?w=1024",
+      "savedAt": "2026-11-05T23:03:57.241Z",
+      "sourceId": "939524e97f242da62ef240465fa7a572"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "the-ex-secret-service-agent-who-flipped-a-hacker-i",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+      "link": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "pubDate": "Thu, 05 Nov 2026 18:00:00 +0000",
+      "slides": [
+        "Can one ex-agent turning hackers stop the next breach?",
+        "He spent years in the Secret Service hunting cybercriminals",
+        "Now he's raising a second $250M fund to back them",
+        "Founders pitching him face a harder test than most VCs",
+        "Ask: is your security product something a hacker would fear?"
+      ],
+      "thread_text": [
+        "1. The ex-agent test\n\nA former Secret Service cybercrime hunter is now raising $250M to back the hackers he used to chase. He evaluates founders harder than most VCs — here’s why.",
+        "2. Secret Service years\n\nHe spent years in the Secret Service tracking down cybercriminals. That experience gives him a playbook most investors don’t have: thinking like the attacker.",
+        "3. Second $250M fund\n\nThis is his second $250M fund. He’s not just writing checks — he’s building a portfolio of security startups that can outsmart the threats he once investigated.",
+        "4. Founders face harder test\n\nPitching him is tougher than most VCs. He probes for real-world resilience, not just hype. If your product wouldn’t scare a hacker, he’s not interested.",
+        "5. Ask yourself\n\nIs your security product something a hacker would fear? If you can’t answer that, rethink your pitch. Test it against a real threat model this week."
+      ],
+      "video_script": [
+        "Ex-agent hunting hackers now funds them.",
+        "Secret Service years taught him attacker thinking.",
+        "Second $250M fund backs security startups.",
+        "Founders face harder tests than most VCs.",
+        "Is your product something a hacker would fear?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The ex-agent test\n\nA former Secret Service cybercrime hunter is now raising $250M to back the hackers he used to chase. He evaluates founders harder than most VCs — here’s why.",
+            "2. Secret Service years\n\nHe spent years in the Secret Service tracking down cybercriminals. That experience gives him a playbook most investors don’t have: thinking like the attacker.",
+            "3. Second $250M fund\n\nThis is his second $250M fund. He’s not just writing checks — he’s building a portfolio of security startups that can outsmart the threats he once investigated.",
+            "4. Founders face harder test\n\nPitching him is tougher than most VCs. He probes for real-world resilience, not just hype. If your product wouldn’t scare a hacker, he’s not interested.",
+            "5. Ask yourself\n\nIs your security product something a hacker would fear? If you can’t answer that, rethink your pitch. Test it against a real threat model this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Ex-agent hunting hackers now funds them.",
+            "Secret Service years taught him attacker thinking.",
+            "Second $250M fund backs security startups.",
+            "Founders face harder tests than most VCs.",
+            "Is your product something a hacker would fear?"
+          ]
+        },
+        "instagram": {
+          "caption": "A former Secret Service agent who spent years hunting cybercriminals is now raising $250 million to fund the hackers he used to chase. 🔍\n\nThis is his second $250M cybersecurity fund, and he evaluates founders harder than most investors.\n\nHe's looking for products that could actually scare a hacker, not just pitch decks that sound impressive. 🛡️\n\nIf you're building in security, your pitch now has to survive someone who thinks like the attacker. 💡\n\nWould your product pass that test, or would a real hacker tear it apart in minutes? 👀"
+        }
+      },
+      "instagram_caption": "A former Secret Service agent who spent years hunting cybercriminals is now raising $250 million to fund the hackers he used to chase. 🔍\n\nThis is his second $250M cybersecurity fund, and he evaluates founders harder than most investors.\n\nHe's looking for products that could actually scare a hacker, not just pitch decks that sound impressive. 🛡️\n\nIf you're building in security, your pitch now has to survive someone who thinks like the attacker. 💡\n\nWould your product pass that test, or would a real hacker tear it apart in minutes? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Would a hacker fear your product?",
+          "description": "Ex-Secret Service agent raising $250M to back hackers he once chased. He tests if your security product would actually scare an attacker.",
+          "visual_hint": "Close-up of a hacker's hooded silhouette",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "hacker hoodie"
+        },
+        {
+          "hook": "He hunted cybercriminals for years",
+          "description": "Years in the Secret Service tracking cybercriminals gave him a playbook most VCs lack: thinking like the attacker.",
+          "visual_hint": "Agent analyzing code on multiple screens",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "cyber investigation",
+          "image": "https://images.pexels.com/photos/8382292/pexels-photo-8382292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Second $250M fund to back hackers",
+          "description": "This is his second $250M fund. He's not just writing checks—he's building a portfolio to outsmart threats he once investigated.",
+          "visual_hint": "Growth chart with cybersecurity icons",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "venture capital",
+          "image": "https://images.pexels.com/photos/5980867/pexels-photo-5980867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pitching him is tougher than most VCs",
+          "description": "He probes for real-world resilience, not hype. If your product wouldn't scare a hacker, he's not interested.",
+          "visual_hint": "Founder presenting to skeptical investor",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "startup pitch",
+          "image": "https://images.pexels.com/photos/7414105/pexels-photo-7414105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your next pitch",
+          "description": "Ask: is your security product something a hacker would fear? Test it against a real threat model this week.",
+          "visual_hint": "Checklist with threat model items",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "security checklist",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Stephen_Ward_horiztonal.jpeg?resize=1200,1077",
+      "savedAt": "2026-11-05T23:03:48.127Z",
+      "sourceId": "00aedcc8bb41a02ce8b91604049e6161"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "meta-warns-that-election-backlash-against-data-cen",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "pubDate": "Thu, 05 Nov 2026 19:12:39 +0000",
+      "slides": [
+        "Why is Meta suddenly worried about voters?",
+        "Election backlash now threatens data center expansion",
+        "Local opposition is blocking projects faster than regulators",
+        "Your region may see new siting rules within months",
+        "Check your local zoning agenda before the next vote"
+      ],
+      "thread_text": [
+        "1. Meta's voter anxiety, explained\n\nMeta is quietly funding election-integrity teams while its data center buildout faces something new: angry local voters, not federal regulators.",
+        "2. Backlash hits the grid\n\nCounty boards are rejecting or delaying data center permits at record rates, citing water use and power bills — a bottleneck that bypasses Washington entirely.",
+        "3. Local vetoes outpace regulators\n\nIn at least a dozen states, planning commissions have blocked projects faster than utility regulators can approve them, according to industry tracking.",
+        "4. New rules are coming\n\nSeveral states are drafting siting legislation that could land within months, giving local governments more say over where AI infrastructure goes.",
+        "5. Check your zoning agenda\n\nFind your county planning calendar and see if a data center item is listed before the next vote. If it is, show up — or at least read the filing."
+      ],
+      "video_script": [
+        "Meta is worried about voters, not regulators.",
+        "Local boards are blocking data centers faster than agencies.",
+        "Water and power bills are fueling the backlash.",
+        "New siting rules could hit your state soon.",
+        "Check your local zoning agenda before the next vote."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Meta's voter anxiety, explained\n\nMeta is quietly funding election-integrity teams while its data center buildout faces something new: angry local voters, not federal regulators.",
+            "2. Backlash hits the grid\n\nCounty boards are rejecting or delaying data center permits at record rates, citing water use and power bills — a bottleneck that bypasses Washington entirely.",
+            "3. Local vetoes outpace regulators\n\nIn at least a dozen states, planning commissions have blocked projects faster than utility regulators can approve them, according to industry tracking.",
+            "4. New rules are coming\n\nSeveral states are drafting siting legislation that could land within months, giving local governments more say over where AI infrastructure goes.",
+            "5. Check your zoning agenda\n\nFind your county planning calendar and see if a data center item is listed before the next vote. If it is, show up — or at least read the filing."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta is worried about voters, not regulators.",
+            "Local boards are blocking data centers faster than agencies.",
+            "Water and power bills are fueling the backlash.",
+            "New siting rules could hit your state soon.",
+            "Check your local zoning agenda before the next vote."
+          ]
+        },
+        "instagram": {
+          "caption": "County planning boards are rejecting data center permits faster than federal regulators can review them.\n\nMeta is now warning that voter backlash over water use and power bills could slow its AI buildout. 🗳️\n\nLocal officials in at least a dozen states are blocking or delaying projects before Washington weighs in.\n\nSeveral states are drafting siting rules that could land within months. ⚡\n\nIf you publish or build with AI tools, the infrastructure behind them may face new local vetoes. 🏗️\n\nCheck your county planning calendar now — is a data center item listed before the next vote? 📋"
+        }
+      },
+      "instagram_caption": "County planning boards are rejecting data center permits faster than federal regulators can review them.\n\nMeta is now warning that voter backlash over water use and power bills could slow its AI buildout. 🗳️\n\nLocal officials in at least a dozen states are blocking or delaying projects before Washington weighs in.\n\nSeveral states are drafting siting rules that could land within months. ⚡\n\nIf you publish or build with AI tools, the infrastructure behind them may face new local vetoes. 🏗️\n\nCheck your county planning calendar now — is a data center item listed before the next vote? 📋",
+      "carousel_slides": [
+        {
+          "hook": "Local voters block AI expansion",
+          "description": "County boards reject data center permits at record rates, creating a bottleneck that bypasses federal regulators entirely.",
+          "visual_hint": "County board meeting with raised hands",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "crowd protest"
+        },
+        {
+          "hook": "Meta's election anxiety explained",
+          "description": "Meta funds election-integrity teams as its data center buildout faces angry local voters, not federal regulators.",
+          "visual_hint": "Meta logo with voters at polls",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "voting ballot box",
+          "image": "https://images.pexels.com/photos/5926272/pexels-photo-5926272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Local vetoes outpace regulators",
+          "description": "In a dozen states, planning commissions block projects faster than utility regulators can approve them.",
+          "visual_hint": "Map with blocked project markers",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "usa map",
+          "image": "https://images.pexels.com/photos/20240697/pexels-photo-20240697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "New siting rules coming soon",
+          "description": "Several states are drafting siting legislation within months, giving local governments more say over AI infrastructure.",
+          "visual_hint": "Legislative documents on desk",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "government building",
+          "image": "https://images.pexels.com/photos/28451083/pexels-photo-28451083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: check your zoning agenda",
+          "description": "Find your county planning calendar and see if a data center item is listed before the next vote.",
+          "visual_hint": "Calendar with data center item highlighted",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "calendar planner",
+          "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/data-center-2.jpg?resize=1200,899",
+      "savedAt": "2026-11-05T23:03:38.514Z",
+      "sourceId": "1eac0b195a3b12f801ac242ce28da39e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-says-its-new-cybersecurity-model-is-better-",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -208428,6 +208844,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "petto-di-pollo-al-limone-in-friggitrice-ad-aria",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Petto di pollo al limone in friggitrice ad aria",
+      "link": "https://ricette.giallozafferano.it/Petto-di-pollo-al-limone-in-friggitrice-ad-aria.html",
+      "pubDate": "Thu, 05 Nov 2026 10:17:00 +0100",
+      "content": "Petto di pollo al limone in friggitrice ad aria: ricetta facile Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X Secondi piatti Petto di pollo al limone in friggitrice ad aria /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici 494,4 Calorie per porzione Energia Kcal 494,4 Carboidrati g 12,7 &nbsp;&nbsp;di cui zuccheri g 2,2 Proteine g 85,4 Grassi g 10,1 &nbsp;&nbsp;di cui saturi g 2,1 Fibre g 2,5 Colesterolo mg 273,8 Sodio mg 462,5 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Senza glutine Senza lattosio Dieta Mediterranea Difficoltà: Molto facile Preparazione: 10 min Cottura: 15 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti PRESENTAZIONE Il petto di pollo al limone in friggitrice ad aria è un secondo piatto semplice e gustoso, perfetto per portare in tavola il pollo in una versione profumata e sfiziosa. La cottura in friggitrice ad aria garantisce una doratura invitante offrendo un risultato più leggero e salutare. La salsa al limone, invece, arricchisce la carne con una piacevole nota agrumata, creando una cremina irresistibile. Facile da preparare e pronto in poco tempo, il pollo al limone in friggitrice ad aria è una ricetta ideale per il pranzo o la cena di tutti i giorni, da accompagnare con un contorno di verdure, un'insalata fresca o delle patate. Se state cercando altri secondi in friggitrice ad aria ecco tante sfiziose ricette: Cotolette di pollo impanate in friggitrice ad aria Bocconcini di pollo in friggitrice ad aria Petto di pollo in friggitrice ad aria Straccetti di pollo in friggitrice ad aria Air Fryer Lemon Chicken Breast Scopri anche Petto di pollo in friggitrice ad aria Pollo al limone Scaloppine di pollo al limone Sfoglia tutte INGREDIENTI 494,4 Calorie per porzione Petto di pollo 2 pezzi 1,5 kg Limoni 3 Amido di mais (maizena) 20 g Acqua 50 g Sale fino q.b. Per decorare Limoni &frac12; AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Petto di pollo al limone in friggitrice ad aria Per preparare il petto di pollo al limone in friggitrice ad aria cominciate da quest'ultimo: eliminate le cartilagini e l'osso centrale 1 . Dividete a metà 2 e poi affettate cercando di ottenere delle fette tutte uguali e di circa 1 cm di spessore. Quindi battetele per renderle più sottili e garantire una cottura omogenea 3 , quindi salatele. Disponete le fettine sulla base del cestello della friggitrice ad aria, rivestito con carta forno 4 e avviate la cottura a 200° per 10-12 minuti 4 . Occorre fare più infornate quindi ripetete l'operazione ancora un paio di volte. Intanto grattugiate la scorza di limone 5 e spremete il succo ottenendo circa 120 g 6 . Versate in un pentolino la scorza e il succo 7 . Poi sciogliete l'amido nell'acqua e unite in pentola 8 . Quindi iniziate a cuocere per 1-2 minuti mescolando o finché non avrete ottenuto una salsa liscia 9 . Quando avrete finito tutte le infornate 10 disponete nel piatto la carne e guarnite con la salsa 11 . Ecco pronto il vostro petto di pollo al limone in friggitrice ad aria, decorate a piacere con fettine di limone 12 . Conservazione Si consiglia di consumare subito il petto di pollo al limone in friggitrice ad aria. Se dovesse avanzare, potete conservarlo in frigo per un paio di giorni. Consiglio Delle erbe aromatiche in perfetta armonia con il petto di pollo al limone in friggitrice ad aria? Sicuramente dell'erba cipollina, prezzemolo o anche del timo: da aggiungere nel pentolino quando preparate la salsa. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Limone Amido di mais Scopri tutto sugli ingredienti Presente in: Secondi piatti veloci , Secondi piatti sfiziosi , Ricette sfiziose , Ricette veloci STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Petto di pollo in friggitrice ad aria 1 4.0 Pollo al limone 221 4.2 Scaloppine di pollo al limone 4 4.4 Pollo al limone cremoso 3 4.3 Bocconcini di pollo in friggitrice ad aria 1 4.6 Straccetti di pollo in friggitrice ad aria 3 4.9 Cordon bleu con friggitrice ad aria 3 4.6 Petto di pollo all'aceto balsamico 38 4.4 ULTIME RICETTE Broccoli alla siciliana 5.0 Risotto alla puttanesca bianco 5.0 Fette croccanti con ricotta e zucchine 5.0 SCOPRI Petto di pollo al limone Petto di pollo Petto di pollo al curry Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Secondi piatti Petto di pollo in friggitrice ad aria 1 4.0 Il petto di pollo in friggitrice ad aria è un secondo di carne leggero e gustoso dalla panatura croccante, servito con un contorno fresco e nutriente! Vai alla ricetta Secondi piatti Pollo al limone 221 4.2 Il pollo al limone è un secondo piatto facile e veloce, tenere striscioline di carne avvolte da una salsina densa e cremosa dal profumo agrumato. Vai alla ricetta Secondi piatti Scaloppine di pollo al limone 4 4.4 Le scaloppine di pollo al limone sono un secondo piatto di carne semplice e sfizioso per i menù di tutti i giorni. Scopri questa ricetta velocissima! Vai alla ricetta Secondi piatti Pollo al limone cremoso 3 4.3 Il pollo al limone cremoso è una ricetta leggera e veloce, senza glutine e senza lattosio. Un gustoso secondo piatto di carne per tutta la famiglia! Vai alla ricetta Secondi piatti Bocconcini di pollo in friggitrice ad aria 1 4.6 I bocconcini di pollo in friggitrice ad aria sono un secondo piatto facile e leggero da preparare. Un'idea veloce per la cena di tutti i giorni! Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. e all’utilizzo di pixel di tracciamento nelle suddette comunicazioni per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne Si No Prosegui",
+      "slides": [
+        "Pollo dorato e cremoso al limone",
+        "Pollo, limoni, amido di mais, acqua, sale",
+        "Batti le fette sottili e salale",
+        "Cuoci in friggitrice ad aria a 200° per 10-12 minuti",
+        "Salsa al limone e scorza: decora a piacere"
+      ],
+      "instagram_caption": "Petto di pollo al limone: dorato fuori, cremoso dentro, con quella salsa che profuma di sole 🍋\nBatti le fette sottili, sale e via in friggitrice ad aria a 200° per 10-12 minuti: croccantezza garantita senza accendere il forno.\nPoi il tocco magico: una salsina al limone con amido di mais e scorza che avvolge tutto e ti fa fare il bis.\nSalva il post e provala questo weekend 🌿",
+      "formats": {
+        "instagram": {
+          "caption": "Petto di pollo al limone: dorato fuori, cremoso dentro, con quella salsa che profuma di sole 🍋\nBatti le fette sottili, sale e via in friggitrice ad aria a 200° per 10-12 minuti: croccantezza garantita senza accendere il forno.\nPoi il tocco magico: una salsina al limone con amido di mais e scorza che avvolge tutto e ti fa fare il bis.\nSalva il post e provala questo weekend 🌿"
+        },
+        "tiktok": {
+          "script": [
+            "Petto di pollo dorato e cremoso al limone!",
+            "Mi servono pollo, limoni, amido, acqua e sale.",
+            "Batto le fette sottili e le salo bene.",
+            "In friggitrice ad aria a 200 gradi per 10-12 minuti.",
+            "Salsa al limone e scorza: decoro a piacere!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Pollo al limone, ma con la friggitrice ad aria: dorato fuori, cremoso dentro, pronto in 12 minuti. La cena che non ti aspetti da un piatto così semplice.",
+            "Ti servono: fette di pollo, limoni, amido di mais, acqua e sale. Pochi ingredienti, zero scuse: quello che hai già in cucina fa il lavoro.",
+            "Batti le fette sottili, sale su entrambi i lati. Questo passaggio sembra banale ma è quello che rende il pollo tenero e uniforme in cottura.",
+            "Friggitrice ad aria a 200° per 10-12 minuti. Nel frattempo la salsa: limone, scorza e amido di mais per quella cremosità che cambia tutto.",
+            "Il trucco? La scorza di limone alla fine, non prima: profumo fresco e non amaro. Provala stasera e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Petto di pollo dorato e cremoso al limone!",
+        "Mi servono pollo, limoni, amido, acqua e sale.",
+        "Batto le fette sottili e le salo bene.",
+        "In friggitrice ad aria a 200 gradi per 10-12 minuti.",
+        "Salsa al limone e scorza: decoro a piacere!"
+      ],
+      "thread_text": [
+        "Pollo al limone, ma con la friggitrice ad aria: dorato fuori, cremoso dentro, pronto in 12 minuti. La cena che non ti aspetti da un piatto così semplice.",
+        "Ti servono: fette di pollo, limoni, amido di mais, acqua e sale. Pochi ingredienti, zero scuse: quello che hai già in cucina fa il lavoro.",
+        "Batti le fette sottili, sale su entrambi i lati. Questo passaggio sembra banale ma è quello che rende il pollo tenero e uniforme in cottura.",
+        "Friggitrice ad aria a 200° per 10-12 minuti. Nel frattempo la salsa: limone, scorza e amido di mais per quella cremosità che cambia tutto.",
+        "Il trucco? La scorza di limone alla fine, non prima: profumo fresco e non amaro. Provala stasera e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pollo al limone in friggitrice ad aria",
+          "description": "Dorato fuori, cremoso dentro: il pollo al limone che si prepara in pochi minuti nella friggitrice ad aria.",
+          "visual_hint": "pollo dorato con salsa al limone",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory lemon chicken"
+        },
+        {
+          "hook": "Solo 5 ingredienti per la magia",
+          "description": "Petto di pollo, limone, amido di mais, acqua e sale: basta questo per un piatto pieno di gusto.",
+          "visual_hint": "ingredienti freschi disposti",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory lemon ingredients",
+          "image": "https://images.pexels.com/photos/4020655/pexels-photo-4020655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Batti le fette e sala",
+          "description": "Batti le fette sottili con il batticarne e sale: una preparazione semplice che fa la differenza.",
+          "visual_hint": "mani che battono il pollo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory chicken cutlets",
+          "image": "https://images.pexels.com/photos/16696798/pexels-photo-16696798.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "10-12 minuti a 200°",
+          "description": "Cuoci in friggitrice ad aria a 200° per 10-12 minuti: il pollo resta morbido e dorato.",
+          "visual_hint": "cesto friggitrice ad aria",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory air fryer chicken",
+          "image": "https://images.pexels.com/photos/8862753/pexels-photo-8862753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Salsa al limone e scorza",
+          "description": "Condisci con salsa al limone e scorza, decora a piacere e servi subito: semplice e spettacolare.",
+          "visual_hint": "pollo guarnito servito",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory lemon chicken plate",
+          "image": "https://images.pexels.com/photos/26341175/pexels-photo-26341175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "meat",
+      "signature_ingredients": [
+        "petto di pollo",
+        "limone",
+        "amido di mais"
+      ],
+      "image": "https://www.giallozafferano.it/images/367-36799/Petto-di-pollo-al-limone-in-friggitrice-ad-aria_1200x800_wm.jpg",
+      "savedAt": "2026-11-05T23:12:27.411Z",
+      "sourceId": "177b5f6060644a1c0c343b2fb0dd9a61"
+    },
     {
       "schema_version": 2,
       "agent": "food",

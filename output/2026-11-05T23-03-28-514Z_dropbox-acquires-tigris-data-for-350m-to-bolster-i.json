@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "dropbox-acquires-tigris-data-for-350m-to-bolster-i",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+  "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+  "pubDate": "Thu, 05 Nov 2026 15:19:05 +0000",
+  "slides": [
+    "Dropbox just paid $350M for Tigris Data — why now?",
+    "Tigris builds storage that scales for AI workloads",
+    "Yet Dropbox's core business has nothing to do with AI training",
+    "Your shared files may soon sit on AI-optimized infrastructure",
+    "Watch whether Dropbox ships AI features or just rents storage"
+  ],
+  "thread_text": [
+    "1. Dropbox's $350M AI Bet\n\nDropbox just bought Tigris Data for $350M. Tigris builds storage for AI workloads — a world away from your shared folders.",
+    "2. AI Storage, Not File Sharing\n\nTigris scales for AI training and inference. Dropbox's core product? Storing your PDFs and photos. The two don't overlap.",
+    "3. Your Files on AI Infrastructure\n\nYour shared links may soon live on AI-optimized storage. That means faster access but also new terms you never agreed to.",
+    "4. Rent vs. Build\n\nThe real question: will Dropbox ship its own AI features, or just rent Tigris's tech? One adds value, the other adds margin.",
+    "5. Test the AI Claim\n\nThis week, open Dropbox and look for one new AI feature. If you can't find it, you'll know it's just storage."
+  ],
+  "video_script": [
+    "Dropbox just paid 350 million dollars for Tigris Data.",
+    "Tigris builds storage that scales for AI workloads.",
+    "But Dropbox's core business is storing your files.",
+    "Your shared files may soon sit on AI infrastructure.",
+    "Watch if Dropbox ships AI features or just rents storage."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Dropbox's $350M AI Bet\n\nDropbox just bought Tigris Data for $350M. Tigris builds storage for AI workloads — a world away from your shared folders.",
+        "2. AI Storage, Not File Sharing\n\nTigris scales for AI training and inference. Dropbox's core product? Storing your PDFs and photos. The two don't overlap.",
+        "3. Your Files on AI Infrastructure\n\nYour shared links may soon live on AI-optimized storage. That means faster access but also new terms you never agreed to.",
+        "4. Rent vs. Build\n\nThe real question: will Dropbox ship its own AI features, or just rent Tigris's tech? One adds value, the other adds margin.",
+        "5. Test the AI Claim\n\nThis week, open Dropbox and look for one new AI feature. If you can't find it, you'll know it's just storage."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Dropbox just paid 350 million dollars for Tigris Data.",
+        "Tigris builds storage that scales for AI workloads.",
+        "But Dropbox's core business is storing your files.",
+        "Your shared files may soon sit on AI infrastructure.",
+        "Watch if Dropbox ships AI features or just rents storage."
+      ]
+    },
+    "instagram": {
+      "caption": "$350M for a storage company whose tech has nothing to do with your shared folders. 👀\n\nDropbox just bought Tigris Data — storage built for AI training and inference, not PDFs and photos.\n\nYour files may soon sit on AI-optimized infrastructure, which could mean faster access but also new terms you never agreed to.\n\nFor anyone publishing content, the real test is whether Dropbox ships actual AI features or just rents the tech. 🤔\n\nThe real question: will Dropbox build its own AI, or just pay for the margin? 💸\n\nThis week, open Dropbox and hunt for one new AI feature. If you can't find it, you'll know. 🔍"
+    }
+  },
+  "instagram_caption": "$350M for a storage company whose tech has nothing to do with your shared folders. 👀\n\nDropbox just bought Tigris Data — storage built for AI training and inference, not PDFs and photos.\n\nYour files may soon sit on AI-optimized infrastructure, which could mean faster access but also new terms you never agreed to.\n\nFor anyone publishing content, the real test is whether Dropbox ships actual AI features or just rents the tech. 🤔\n\nThe real question: will Dropbox build its own AI, or just pay for the margin? 💸\n\nThis week, open Dropbox and hunt for one new AI feature. If you can't find it, you'll know. 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Dropbox's $350M AI bet: storage or hype?",
+      "description": "Dropbox acquired Tigris Data for $350M to build AI-optimized storage, far from its core file-sharing business.",
+      "visual_hint": "Server racks in data center",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Tigris scales storage for AI workloads",
+      "description": "Tigris provides storage that scales for AI training and inference, while Dropbox stores your PDFs and photos.",
+      "visual_hint": "Abstract data waves flowing",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your shared files may hit AI infrastructure",
+      "description": "Your shared links could soon live on AI-optimized storage, offering faster access but new terms.",
+      "visual_hint": "Close-up of file icons on screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "cloud storage",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Will Dropbox ship AI or just rent?",
+      "description": "Dropbox must decide: build its own AI features or resell Tigris tech. One adds value, the other margin.",
+      "visual_hint": "Hand holding smartphone with app",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone app",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Dropbox's AI claim today",
+      "description": "Open Dropbox this week and look for one new AI feature. If you can't find it, it's just storage.",
+      "visual_hint": "Checklist on desk with pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist desk",
+      "image": "https://images.pexels.com/photos/6928997/pexels-photo-6928997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1211180751.jpg?w=1024",
+  "savedAt": "2026-11-05T23:03:57.241Z",
+  "sourceId": "939524e97f242da62ef240465fa7a572"
+}

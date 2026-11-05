@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "-total-repudiation-the-blue-wave-is-about-to-hit-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "‘Total repudiation’: The blue wave is about to hit AI",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+  "pubDate": "2026-11-05T17:51:52.000Z",
+  "slides": [
+    "Blue wave about to hit AI — but why repudiation?",
+    "Voters reject AI policies across party lines",
+    "Total repudiation targets Big Tech's unchecked power",
+    "New rules could reshape how your tools are built",
+    "Ask candidates where they stand on AI — today"
+  ],
+  "thread_text": [
+    "1. Blue wave incoming\n\nA blue wave is about to hit AI, but it's not what you think. Voters across party lines are rejecting AI policies, and Big Tech's unchecked power is the target.",
+    "2. Voters reject AI policies\n\nPoliticians who backed AI deregulation are losing votes. The repudiation is total, and it's reshaping how new rules get written.",
+    "3. Total repudiation targets Big Tech\n\nBig Tech's unchecked power is the real issue. New rules could reshape how your tools are built, from algorithms to data access.",
+    "4. New rules, new tools\n\nAI tools you use daily may change under new regulations. Companies will have to adapt, and users will notice the difference.",
+    "5. Ask candidates today\n\nBefore you vote, ask candidates where they stand on AI. Their answer will shape the tools you rely on tomorrow."
+  ],
+  "video_script": [
+    "A blue wave is coming for AI, and it's not what you think.",
+    "Voters are rejecting AI policies across party lines.",
+    "The repudiation targets Big Tech's unchecked power.",
+    "New rules could reshape how your tools are built.",
+    "Ask candidates where they stand on AI today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Blue wave incoming\n\nA blue wave is about to hit AI, but it's not what you think. Voters across party lines are rejecting AI policies, and Big Tech's unchecked power is the target.",
+        "2. Voters reject AI policies\n\nPoliticians who backed AI deregulation are losing votes. The repudiation is total, and it's reshaping how new rules get written.",
+        "3. Total repudiation targets Big Tech\n\nBig Tech's unchecked power is the real issue. New rules could reshape how your tools are built, from algorithms to data access.",
+        "4. New rules, new tools\n\nAI tools you use daily may change under new regulations. Companies will have to adapt, and users will notice the difference.",
+        "5. Ask candidates today\n\nBefore you vote, ask candidates where they stand on AI. Their answer will shape the tools you rely on tomorrow."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A blue wave is coming for AI, and it's not what you think.",
+        "Voters are rejecting AI policies across party lines.",
+        "The repudiation targets Big Tech's unchecked power.",
+        "New rules could reshape how your tools are built.",
+        "Ask candidates where they stand on AI today."
+      ]
+    },
+    "instagram": {
+      "caption": "Politicians who backed AI deregulation are losing votes — across party lines.\n\nVoters are rejecting those policies outright, and the backlash is being called a total repudiation.\n\nThe real target? Big Tech's unchecked power over algorithms and data access. 🎯\n\nNew rules could change how the AI tools you use every day get built.\n\nIf you create or publish content, the platforms and tools you depend on may work differently soon.\n\nBefore you vote, ask candidates where they stand on AI. 🗳️ Their answer shapes your workflow tomorrow."
+    }
+  },
+  "instagram_caption": "Politicians who backed AI deregulation are losing votes — across party lines.\n\nVoters are rejecting those policies outright, and the backlash is being called a total repudiation.\n\nThe real target? Big Tech's unchecked power over algorithms and data access. 🎯\n\nNew rules could change how the AI tools you use every day get built.\n\nIf you create or publish content, the platforms and tools you depend on may work differently soon.\n\nBefore you vote, ask candidates where they stand on AI. 🗳️ Their answer shapes your workflow tomorrow.",
+  "carousel_slides": [
+    {
+      "hook": "Is Big Tech's AI power finally being punished?",
+      "description": "Voters across party lines reject AI policies, targeting unchecked corporate power and reshaping new rules.",
+      "visual_hint": "Protesters holding signs against Big Tech",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "protest crowd"
+    },
+    {
+      "hook": "Politicians backed AI deregulation — now paying price?",
+      "description": "Candidates who supported AI deregulation are losing votes, as total repudiation crosses party lines.",
+      "visual_hint": "Voting ballot box with shadow",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "ballot box",
+      "image": "https://images.pexels.com/photos/8846310/pexels-photo-8846310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Total repudiation: Big Tech's unchecked power targeted",
+      "description": "New rules could reshape how your tools are built, from algorithms to data access, curbing corporate control.",
+      "visual_hint": "Server room with glowing lights",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Will new AI rules change the tools you use daily?",
+      "description": "AI tools may change under new regulations; companies must adapt, and users will notice the difference.",
+      "visual_hint": "Hands typing on laptop keyboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "laptop keyboard",
+      "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask candidates where they stand on AI today",
+      "description": "Before you vote, ask candidates their AI stance—it will shape the tools you rely on tomorrow.",
+      "visual_hint": "Person holding protest sign",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "protest sign",
+      "image": "https://images.pexels.com/photos/11421067/pexels-photo-11421067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-05T23:04:06.234Z",
+  "sourceId": "51ff4c2f73a749d0afdee24f5981a463"
+}
