@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-is-already-trying-to-shape-the-2028-electio",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "pubDate": "Wed, 04 Nov 2026 21:25:44 +0000",
+      "slides": [
+        "Is OpenAI already scripting the 2028 election?",
+        "It's building tools to track political narratives in real time.",
+        "But the same system can amplify the misinformation it flags.",
+        "Campaigns using it will set the terms of debate early.",
+        "Ask which narratives your feed never shows you."
+      ],
+      "thread_text": [
+        "1. The 2028 race has a new player\n\nOpenAI is reportedly building real-time tools to track political narratives. That means the ground game for 2028 may already be underway.",
+        "2. The same tool flips\n\nThe system can amplify the very misinformation it flags. A filter that also acts as a megaphone.",
+        "3. First mover wins the frame\n\nCampaigns that adopt it early will set the terms of debate before voters even tune in.",
+        "4. Your feed is the battlefield\n\nThese tools don't just watch narratives. They shape what reaches you, often without any label.",
+        "5. Ask what's missing\n\nOpen your feed and ask which narratives never appear. That silence is the real story. Do it today."
+      ],
+      "video_script": [
+        "OpenAI is already tracking political narratives in real time.",
+        "The same system can amplify the misinformation it flags.",
+        "Early campaigns will set the terms of debate.",
+        "Your feed is being shaped right now.",
+        "Ask which narratives your feed never shows you."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The 2028 race has a new player\n\nOpenAI is reportedly building real-time tools to track political narratives. That means the ground game for 2028 may already be underway.",
+            "2. The same tool flips\n\nThe system can amplify the very misinformation it flags. A filter that also acts as a megaphone.",
+            "3. First mover wins the frame\n\nCampaigns that adopt it early will set the terms of debate before voters even tune in.",
+            "4. Your feed is the battlefield\n\nThese tools don't just watch narratives. They shape what reaches you, often without any label.",
+            "5. Ask what's missing\n\nOpen your feed and ask which narratives never appear. That silence is the real story. Do it today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI is already tracking political narratives in real time.",
+            "The same system can amplify the misinformation it flags.",
+            "Early campaigns will set the terms of debate.",
+            "Your feed is being shaped right now.",
+            "Ask which narratives your feed never shows you."
+          ]
+        },
+        "instagram": {
+          "caption": "A system being built right now could flag political misinformation and amplify it at the same time. 🚩\n\nOpenAI is reportedly developing tools to track political narratives in real time ahead of 2028.\n\nThe same system that spots a false story can also push it further.\n\nCampaigns that adopt it early will frame the debate before most voters tune in. 🎯\n\nIf you publish content, the narratives these tools surface (or bury) will shape what your audience sees first. 👀\n\nOpen your feed and ask: which stories never reach you? That silence is worth investigating today. 🔍"
+        }
+      },
+      "instagram_caption": "A system being built right now could flag political misinformation and amplify it at the same time. 🚩\n\nOpenAI is reportedly developing tools to track political narratives in real time ahead of 2028.\n\nThe same system that spots a false story can also push it further.\n\nCampaigns that adopt it early will frame the debate before most voters tune in. 🎯\n\nIf you publish content, the narratives these tools surface (or bury) will shape what your audience sees first. 👀\n\nOpen your feed and ask: which stories never reach you? That silence is worth investigating today. 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Is OpenAI already scripting 2028?",
+          "description": "OpenAI is building real-time tools to track political narratives, so the 2028 ground game may already be underway.",
+          "visual_hint": "A glowing server rack with data streams",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "The same tool flips both ways.",
+          "description": "The system can amplify the very misinformation it flags, acting as a filter that doubles as a megaphone.",
+          "visual_hint": "A microphone with waves amplifying outward",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "microphone close-up",
+          "image": "https://images.pexels.com/photos/4988132/pexels-photo-4988132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "First movers set the debate.",
+          "description": "Campaigns adopting these tools early will define the terms of debate before most voters even tune in.",
+          "visual_hint": "A chessboard with a hand moving a piece",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "chess board",
+          "image": "https://images.pexels.com/photos/6114955/pexels-photo-6114955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your feed is the battlefield.",
+          "description": "These tools don't just watch narratives; they shape what reaches you, often without any label.",
+          "visual_hint": "A smartphone screen with invisible arrows",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone screen",
+          "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this. Then check your feed.",
+          "description": "Open your feed now and ask which narratives never appear. That silence is the real story.",
+          "visual_hint": "A person staring at a phone, puzzled",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "person looking phone",
+          "image": "https://images.pexels.com/photos/7428581/pexels-photo-7428581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+      "savedAt": "2026-11-05T01:56:13.203Z",
+      "sourceId": "423e16ab4854ec5c914472929a70005d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "nothing-ceo-says-company-s-mysterious-ai-first-dev",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "pubDate": "Wed, 04 Nov 2026 22:13:16 +0000",
+      "slides": [
+        "Nothing's AI-first device arrives next month — but what is it?",
+        "The CEO confirmed the launch date without revealing the product.",
+        "It's not a phone upgrade; it's a new device category entirely.",
+        "Developers can start building for it before launch.",
+        "Decide now: wait for reviews or pre-commit to a gamble?"
+      ],
+      "thread_text": [
+        "1. A new device category?\n\nNothing's AI-first device launches next month, but the CEO won't say what it is. Is this hype or a real shift?",
+        "2. Not a phone upgrade\n\nThis isn't just another smartphone iteration. It's a completely new device category, according to the company.",
+        "3. Developers get early access\n\nDevelopers can start building for the device before it even launches. That means apps and use cases could be ready on day one.",
+        "4. The gamble: wait or commit?\n\nWith no product details, early adopters face a choice: wait for reviews or pre-commit to a potential game-changer.",
+        "5. Would you pre-order?\n\nIf the device could replace your phone, would you risk it? Or wait for the first reviews?"
+      ],
+      "video_script": [
+        "Nothing's AI-first device launches next month, but what is it?",
+        "The CEO confirmed the date but stayed silent on the product.",
+        "This isn't a phone upgrade; it's a new device category.",
+        "Developers can start building before launch.",
+        "Wait for reviews or pre-commit? Decide now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. A new device category?\n\nNothing's AI-first device launches next month, but the CEO won't say what it is. Is this hype or a real shift?",
+            "2. Not a phone upgrade\n\nThis isn't just another smartphone iteration. It's a completely new device category, according to the company.",
+            "3. Developers get early access\n\nDevelopers can start building for the device before it even launches. That means apps and use cases could be ready on day one.",
+            "4. The gamble: wait or commit?\n\nWith no product details, early adopters face a choice: wait for reviews or pre-commit to a potential game-changer.",
+            "5. Would you pre-order?\n\nIf the device could replace your phone, would you risk it? Or wait for the first reviews?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Nothing's AI-first device launches next month, but what is it?",
+            "The CEO confirmed the date but stayed silent on the product.",
+            "This isn't a phone upgrade; it's a new device category.",
+            "Developers can start building before launch.",
+            "Wait for reviews or pre-commit? Decide now."
+          ]
+        },
+        "instagram": {
+          "caption": "A launch date with no product to look at — that's what Nothing just confirmed.\n\nThe CEO says the company's AI-first device ships next month but won't reveal what it actually is. 🤔\n\nIt's not a phone upgrade — the company calls it a whole new device category.\n\nDevelopers can already start building for it, meaning apps could be ready on day one.\n\nFor anyone who reviews gear or plans content around launches, you'll likely be covering something you can't fully evaluate until units land.\n\nWould you pre-commit to a device you haven't seen, or wait for the first reviews? 👀"
+        }
+      },
+      "instagram_caption": "A launch date with no product to look at — that's what Nothing just confirmed.\n\nThe CEO says the company's AI-first device ships next month but won't reveal what it actually is. 🤔\n\nIt's not a phone upgrade — the company calls it a whole new device category.\n\nDevelopers can already start building for it, meaning apps could be ready on day one.\n\nFor anyone who reviews gear or plans content around launches, you'll likely be covering something you can't fully evaluate until units land.\n\nWould you pre-commit to a device you haven't seen, or wait for the first reviews? 👀",
+      "carousel_slides": [
+        {
+          "hook": "New device category or just hype?",
+          "description": "Nothing's AI-first device launches next month, but the CEO won't reveal what it is. Is this a real shift?",
+          "visual_hint": "Mysterious black device with glowing edges",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone dark"
+        },
+        {
+          "hook": "Not a phone upgrade",
+          "description": "This isn't another smartphone iteration. It's a completely new device category, according to the company.",
+          "visual_hint": "Hand holding abstract tech prototype",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "tech prototype",
+          "image": "https://images.pexels.com/photos/39994676/pexels-photo-39994676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Developers build before launch",
+          "description": "Developers can start building for the device before it even launches. Apps and use cases could be ready on day one.",
+          "visual_hint": "Code on screen with device outline",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "programming code",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Wait for reviews or pre-commit?",
+          "description": "With no product details, early adopters face a choice: wait for reviews or pre-commit to a potential game-changer.",
+          "visual_hint": "Person weighing two options on hands",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "decision scale",
+          "image": "https://images.pexels.com/photos/8431786/pexels-photo-8431786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Would you pre-order? Save this!",
+          "description": "If the device could replace your phone, would you risk it? Or wait for the first reviews? Comment below.",
+          "visual_hint": "Phone screen with pre-order button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "pre-order button",
+          "image": "https://images.pexels.com/photos/8089672/pexels-photo-8089672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/2560x2040_5fe778b6-8919-4143-bf11-8d86af754f52_2192x.webp?resize=1200,956",
+      "savedAt": "2026-11-05T01:56:03.147Z",
+      "sourceId": "3ba59fa6ce83686924c708896885ba34"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ai-pacs-spent-millions-trying-to-shape-congress-he",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "pubDate": "Wed, 04 Nov 2026 22:45:09 +0000",
+      "slides": [
+        "Did AI PAC money actually buy Congress seats?",
+        "The AI industry built a lobbying war chest",
+        "Most endorsed candidates lost anyway",
+        "Your district may see these ads next cycle",
+        "Check who funded your representative's race"
+      ],
+      "thread_text": [
+        "1. The Money Didn't Work\n\nAI PACs spent millions backing candidates. Most of those endorsed candidates lost their races anyway.",
+        "2. Lobbying War Chest Built\n\nThe AI industry amassed a record lobbying fund this cycle. They wanted influence, not just ads.",
+        "3. Your District Is Next\n\nThese same PACs are already planning ad buys for the next election cycle. Your representative's race may be targeted.",
+        "4. Check the Funders\n\nLook up who financed your representative's campaign. Follow the money before the next ad hits your feed.",
+        "5. Ask Them Directly\n\nCall your representative's office and ask if they took AI PAC money. Then tell us what they said."
+      ],
+      "video_script": [
+        "AI PACs spent millions on congressional races.",
+        "They built a lobbying war chest for influence.",
+        "Most endorsed candidates lost anyway.",
+        "Your district may see these ads next cycle.",
+        "Check who funded your representative's race."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Money Didn't Work\n\nAI PACs spent millions backing candidates. Most of those endorsed candidates lost their races anyway.",
+            "2. Lobbying War Chest Built\n\nThe AI industry amassed a record lobbying fund this cycle. They wanted influence, not just ads.",
+            "3. Your District Is Next\n\nThese same PACs are already planning ad buys for the next election cycle. Your representative's race may be targeted.",
+            "4. Check the Funders\n\nLook up who financed your representative's campaign. Follow the money before the next ad hits your feed.",
+            "5. Ask Them Directly\n\nCall your representative's office and ask if they took AI PAC money. Then tell us what they said."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI PACs spent millions on congressional races.",
+            "They built a lobbying war chest for influence.",
+            "Most endorsed candidates lost anyway.",
+            "Your district may see these ads next cycle.",
+            "Check who funded your representative's race."
+          ]
+        },
+        "instagram": {
+          "caption": "AI political action committees spent millions backing candidates for Congress this cycle, and most of the candidates they endorsed still lost their races. 💸\n\nThe AI industry built a record lobbying war chest to buy influence, not just airtime.\n\nThose same PACs are already planning ad buys for the next election cycle, and your district could be a target.\n\nSo content creators and publishers may soon see these ads flooding their feeds and wonder who's really paying for them.\n\nBefore the next ad hits your feed, look up who funded your representative's race. 🕵️ Then tell us: did your rep take AI PAC money? 📞"
+        }
+      },
+      "instagram_caption": "AI political action committees spent millions backing candidates for Congress this cycle, and most of the candidates they endorsed still lost their races. 💸\n\nThe AI industry built a record lobbying war chest to buy influence, not just airtime.\n\nThose same PACs are already planning ad buys for the next election cycle, and your district could be a target.\n\nSo content creators and publishers may soon see these ads flooding their feeds and wonder who's really paying for them.\n\nBefore the next ad hits your feed, look up who funded your representative's race. 🕵️ Then tell us: did your rep take AI PAC money? 📞",
+      "carousel_slides": [
+        {
+          "hook": "Did AI PAC money buy Congress seats?",
+          "description": "AI PACs spent millions backing candidates, but most endorsed candidates lost. Money didn't guarantee victory this cycle.",
+          "visual_hint": "Split image of money and ballot box",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "ballot box"
+        },
+        {
+          "hook": "AI industry built record lobbying war chest",
+          "description": "The AI industry amassed a record lobbying fund this cycle, aiming for influence beyond just campaign ads.",
+          "visual_hint": "Piles of cash and lobbyist meeting",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "money stack",
+          "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your district may be targeted next",
+          "description": "These same PACs are already planning ad buys for the next election cycle. Your representative's race may be next.",
+          "visual_hint": "Map with targeted districts highlighted",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "election map",
+          "image": "https://images.pexels.com/photos/8846714/pexels-photo-8846714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check who funded your representative's race",
+          "description": "Look up who financed your representative's campaign. Follow the money before the next ad hits your feed.",
+          "visual_hint": "Person researching campaign finances online",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "laptop research",
+          "image": "https://images.pexels.com/photos/7948103/pexels-photo-7948103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this and check your rep's funders",
+          "description": "Call your representative's office and ask if they took AI PAC money. Then share what they said in the comments.",
+          "visual_hint": "Phone with call to action overlay",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "phone call",
+          "image": "https://images.pexels.com/photos/4240533/pexels-photo-4240533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2264644532.jpg?resize=1200,800",
+      "savedAt": "2026-11-05T01:55:53.214Z",
+      "sourceId": "2a45f43e41ba72897b5e5c2d2705616b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "apple-is-reportedly-cutting-budgets-for-its-intern",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "pubDate": "Thu, 05 Nov 2026 01:26:22 +0000",
+      "slides": [
+        "Is Apple losing faith in its own AI?",
+        "Internal teams reportedly face tighter AI spending caps",
+        "Apple still ships AI features to millions of users",
+        "Your workplace AI budget may tighten the same way",
+        "Audit what your team's AI tools actually deliver"
+      ],
+      "thread_text": [
+        "1. Apple's AI Faith Test\n\nInternal teams now face tighter spending caps on AI tools, according to reports. That's a signal worth watching.",
+        "2. Budgets Shrink Quietly\n\nApple still ships AI features to millions, but behind the scenes, spending is being scrutinized. The gap between public launch and private caution is the story.",
+        "3. Your Budget Next?\n\nIf Apple is capping AI spend, your workplace may follow. The same scrutiny is coming for every team's tool stack.",
+        "4. Audit Before Renewal\n\nDon't wait for the cap to hit. Check what your AI tools actually deliver — usage, output quality, time saved. Most teams can't answer.",
+        "5. Test One Workflow\n\nPick your most-used AI tool and track its real output for one week. If it doesn't save time, cut it before finance does."
+      ],
+      "video_script": [
+        "Apple is reportedly capping internal AI spending.",
+        "Publicly, they still ship AI to millions.",
+        "That gap is the real story here.",
+        "Your team's AI budget might tighten too.",
+        "Audit what your tools actually deliver."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Apple's AI Faith Test\n\nInternal teams now face tighter spending caps on AI tools, according to reports. That's a signal worth watching.",
+            "2. Budgets Shrink Quietly\n\nApple still ships AI features to millions, but behind the scenes, spending is being scrutinized. The gap between public launch and private caution is the story.",
+            "3. Your Budget Next?\n\nIf Apple is capping AI spend, your workplace may follow. The same scrutiny is coming for every team's tool stack.",
+            "4. Audit Before Renewal\n\nDon't wait for the cap to hit. Check what your AI tools actually deliver — usage, output quality, time saved. Most teams can't answer.",
+            "5. Test One Workflow\n\nPick your most-used AI tool and track its real output for one week. If it doesn't save time, cut it before finance does."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Apple is reportedly capping internal AI spending.",
+            "Publicly, they still ship AI to millions.",
+            "That gap is the real story here.",
+            "Your team's AI budget might tighten too.",
+            "Audit what your tools actually deliver."
+          ]
+        },
+        "instagram": {
+          "caption": "Internal teams at Apple now reportedly have spending caps on the AI tools they use.\n\nThe same company shipping AI features to millions of users is tightening budgets behind closed doors.\n\nThat gap between public launch and private caution is the real story. 🤔\n\nIf Apple is watching its AI spend this closely, your workplace budget review is probably next.\n\nBefore finance asks, pick your most-used AI tool and track its actual output for one week — usage, quality, time saved. 📊\n\nIf it doesn't clearly save time, cut it yourself. ✂️\n\nWhich tool on your stack would survive that test? 👇"
+        }
+      },
+      "instagram_caption": "Internal teams at Apple now reportedly have spending caps on the AI tools they use.\n\nThe same company shipping AI features to millions of users is tightening budgets behind closed doors.\n\nThat gap between public launch and private caution is the real story. 🤔\n\nIf Apple is watching its AI spend this closely, your workplace budget review is probably next.\n\nBefore finance asks, pick your most-used AI tool and track its actual output for one week — usage, quality, time saved. 📊\n\nIf it doesn't clearly save time, cut it yourself. ✂️\n\nWhich tool on your stack would survive that test? 👇",
+      "carousel_slides": [
+        {
+          "hook": "Is Apple losing faith in its own AI?",
+          "description": "Apple reportedly caps internal AI spending while still shipping AI features to millions. The gap between public launch and private caution is the story.",
+          "visual_hint": "Apple logo with shrinking budget graph",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Apple logo"
+        },
+        {
+          "hook": "Internal teams face tighter AI spending caps",
+          "description": "Apple's internal teams reportedly face tighter spending caps on AI tools. A signal that even tech giants are scrutinizing AI costs.",
+          "visual_hint": "Budget chart with downward arrow",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "budget chart",
+          "image": "https://images.pexels.com/photos/7947700/pexels-photo-7947700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Apple still ships AI to millions",
+          "description": "Despite internal caps, Apple continues to ship AI features to millions of users. Public launch and private caution diverge.",
+          "visual_hint": "Smartphone with AI interface",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "smartphone AI",
+          "image": "https://images.pexels.com/photos/5083215/pexels-photo-5083215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your workplace AI budget may tighten",
+          "description": "If Apple is capping AI spend, your workplace may follow. The same scrutiny is coming for every team's tool stack.",
+          "visual_hint": "Office desk with budget papers",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office desk",
+          "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your AI tools before finance does",
+          "description": "Pick your most-used AI tool and track its real output for one week. If it doesn't save time, cut it before finance does.",
+          "visual_hint": "Person reviewing AI tool analytics",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "analytics dashboard",
+          "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
+      "savedAt": "2026-11-05T01:55:43.598Z",
+      "sourceId": "87cd57a95fdb9ce3504a5426e7ebe2f0"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-says-chatgpt-is-catching-up-to-google-in-se",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -207180,6 +207596,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pasta-al-rag-di-nocciole",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pasta al ragù di nocciole",
+      "link": "https://ricette.giallozafferano.it/Pasta-al-ragu-di-nocciole.html",
+      "pubDate": "Wed, 04 Nov 2026 15:18:00 +0100",
+      "content": "Pasta al ragù di nocciole, primo piatto vegetariano Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Pasta al ragù di nocciole /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici 809,6 Calorie per porzione Energia Kcal 809,6 Carboidrati g 88,6 &nbsp;&nbsp;di cui zuccheri g 15,6 Proteine g 22,1 Grassi g 42,3 &nbsp;&nbsp;di cui saturi g 4 Fibre g 12,5 Sodio mg 774,3 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Senza lattosio Vegetariano Vegano Dieta Mediterranea Difficoltà: Facile Preparazione: 30 min Cottura: 1 h 10 min Dosi per: 4 persone Costo: Basso PRESENTAZIONE Avete mai pensato di preparare il ragù con le nocciole? La pasta al ragù di nocciole è un primo piatto autunnale originale e saporito, perfetto per portare in tavola un condimento diverso dai classici sughi . Le nocciole , tritate grossolanamente e rosolate insieme al soffritto, regalano una consistenza piacevole e un gusto tostato che si abbina alla perfezione alla passata di pomodoro e al profumo delle erbe aromatiche. Calda, avvolgente e ricca di sapore, questa pasta vegetariana è un'idea perfetta per cambiare volto al pranzo della domenica o per una cena nelle giornate più fredde. Il ragù di nocciole conquista con i suoi profumi autunnali e con un equilibrio di sapori sorprendente: una ricetta semplice ma particolare, tutta da provare! Lasciatevi ispirare da queste ricette di ragù vegetariani: Tagliatelle al ragù di funghi e frutta secca Paccheri al sugo finto Pasta nocciole e toma Lasagne al ragù di seitan Pasta with hazelnut ragù Scopri anche Tagliatelle al ragù di funghi e frutta secca Pasta nocciole e toma Pasta al pesto di nocciole, zucchine e Grana Padano Sfoglia tutte INGREDIENTI 809,6 Calorie per porzione Penne Rigate 320 g Nocciole intere spellate 200 g Passata di pomodoro 700 g Carote 1 Sedano 1 costa Cipolle bianche 1 Vino rosso 100 g Salvia q.b. Timo q.b. Rosmarino q.b. Alloro 1 foglia Concentrato di pomodoro 20 g Salsa di soia 20 g Aceto balsamico 15 g Sale fino q.b. Pepe nero q.b. Olio extravergine d'oliva 40 g AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta al ragù di nocciole Per preparare la pasta al ragù di nocciole, iniziate dal soffritto. Mondate la cipolla e tagliatela finemente a brunoise 1 , poi fate lo stesso con il sedano 2 e con la carota, riducendola prima a bastoncini e successivamente a piccoli cubetti 3 . Versate un giro d’olio in una pentola capiente e unite la brunoise di sedano, carota e cipolla 4 . Nel frattempo tritate grossolanamente le nocciole con un coltello 5 . Lasciate appassire il soffritto a fuoco dolce, mescolando di tanto in tanto, finché le verdure risulteranno morbide e leggermente dorate 6 . A questo punto aggiungete le nocciole tritate al soffritto 7 e fatele rosolare bene per qualche minuto, mescolando. Unite quindi il concentrato di pomodoro 8 , amalgamatelo agli altri ingredienti e sfumate con il vino 9 . Lasciate evaporare completamente la parte alcolica. Versate la passata di pomodoro 10 , aggiungete un pizzico di sale 11 e profumate con le erbe aromatiche 12 . Insaporite il ragù con la salsa di soia e l’aceto balsamico 13 , quindi regolate di sale e pepe. Mescolate e lasciate cuocere il ragù a fiamma media per circa un’ora, o finché il pomodoro si sarà ristretto e il condimento avrà raggiunto una consistenza corposa. Portate a bollore abbondante acqua salata e cuocete la pasta 14 , scolandola circa 2 minuti prima del tempo indicato sulla confezione. Trasferitela direttamente nella pentola con il ragù di nocciole 15 . Proseguite la cottura della pasta nel condimento, aggiungendo un po’ della sua acqua di cottura, se necessario 16 , e mescolate bene per amalgamare il tutto 17 . Spegnete infine la fiamma, mantecate con un filo d’olio extravergine d’oliva e servite la pasta al ragù di nocciole ben calda 18 . Conservazione Si consiglia di consumare subito la pasta al ragù di nocciole. Il ragù di nocciole si conserva in frigo per un paio di giorni oppure si può congelare. Consiglio Se il ragù dovesse asciugarsi troppo durante la cottura, aggiungete poca acqua calda alla volta: manterrete il condimento morbido e avvolgente. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Timo Salvia Pomodoro Sedano Pasta Olio di oliva Rosmarino Alloro Cipolla Scopri tutto sugli ingredienti STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Tagliatelle al ragù di funghi e frutta secca 2 4.5 Pasta nocciole e toma 1 4.9 Pasta al pesto di nocciole, zucchine e Grana Padano 4.0 Pasta con pesto invernale 1 4.8 Spaghetti con crema di aglio nero, liquirizia e nocciole 3.9 Risotto con Castelmagno e nocciole 39 4.6 Zuppa di pastinache e nocciole 7 4.7 Parfait alle nocciole 6 5.0 ULTIME RICETTE Spezzatino di funghi con purè di fagioli 5.0 Pasta al ragù di nocciole 5.0 Gramigna alla salsiccia 5.0 SCOPRI Pasta di nocciole Pasta al ragu Pasta al forno con ragu Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Primi piatti Tagliatelle al ragù di funghi e frutta secca 2 4.5 Preparate la ricetta delle tagliatelle al ragù di funghi e frutta secca sono per un primo piatto ricco e saporito, sarà amato dai vostri cari! Vai alla ricetta Primi piatti Pasta nocciole e toma 1 4.9 La pasta nocciole e toma è un primo piatto rustico e cremoso condito con fonduta di formaggio, croccante frutta secca e salvia fritta! Qui la ricetta. Vai alla ricetta Primi piatti Pasta al pesto di nocciole, zucchine e Grana Padano 4.0 La pasta al pesto di nocciole zucchine e Grana Padano è un primo piatto cremoso e stuzzicante. Scopri dosi e procedimento per realizzare la ricetta. Vai alla ricetta Primi piatti Pasta con pesto invernale 1 4.8 La pasta con pesto invernale è un gustoso primo piatto facile e veloce da realizzare. Scopri come prepare il pesto nel tempo di cottura della pasta! Vai alla ricetta Primi piatti Spaghetti con crema di aglio nero, liquirizia e nocciole 3.9 Gli spaghetti con crema di aglio nero, liquirizia e nocciole sono un primo piatto dal gusto unico e raffinato: sorprendi gli ospiti con questa&hellip; Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. e all’utilizzo di pixel di tracciamento nelle suddette comunicazioni per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne Si No Prosegui",
+      "slides": [
+        "Pasta cremosa al ragù di nocciole vegetariano",
+        "Penne, nocciole, pomodoro, vino rosso, erbe aromatiche",
+        "Trita le nocciole e rosolale nel soffritto",
+        "Cuoci la pasta nel ragù due minuti prima",
+        "Manteca con olio a fuoco spento e servi calda"
+      ],
+      "instagram_caption": "La pasta al ragù di nocciole è la coccola che non ti aspetti 🍝\nNiente carne, solo nocciole tritate e rosolate nel soffritto con pomodoro, vino rosso ed erbe aromatiche: un ragù vegetariano che profuma di bosco.\nCuocio le penne direttamente nel sugo per due minuti, poi manteco con un filo d'olio a fuoco spento per una cremosità avvolgente.\nFidati, il sapore tostato delle nocciole conquista al primo assaggio 🌰\nSalva la ricetta e provala questo weekend!",
+      "formats": {
+        "instagram": {
+          "caption": "La pasta al ragù di nocciole è la coccola che non ti aspetti 🍝\nNiente carne, solo nocciole tritate e rosolate nel soffritto con pomodoro, vino rosso ed erbe aromatiche: un ragù vegetariano che profuma di bosco.\nCuocio le penne direttamente nel sugo per due minuti, poi manteco con un filo d'olio a fuoco spento per una cremosità avvolgente.\nFidati, il sapore tostato delle nocciole conquista al primo assaggio 🌰\nSalva la ricetta e provala questo weekend!"
+        },
+        "tiktok": {
+          "script": [
+            "Oggi faccio la pasta al ragù di nocciole!",
+            "Penne, nocciole, pomodoro, vino rosso ed erbe.",
+            "Trito le nocciole e le rosolo nel soffritto.",
+            "Butto la pasta nel ragù due minuti prima.",
+            "Manteco con olio a fuoco spento e servo!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "La pasta al ragù può essere vegetariana e cremosa senza rinunciare a nulla. Anzi, forse è pure più buona. Il segreto? Le nocciole. Fidati, non torni indietro.",
+            "Ti servono: penne, nocciole tostate, pomodoro, un bicchiere di vino rosso e erbe aromatiche. Sembra poco, ma è tutto quello che serve per un ragù che sa di domenica.",
+            "Il gesto che cambia tutto: trita le nocciole e rosolale nel soffritto. Rilasciano un profumo che ti fa capire subito che stai facendo qualcosa di serio.",
+            "Cuoci la penne direttamente nel ragù, due minuti prima della fine. Assorbono il sugo e diventano una cosa sola con il condimento. Poi manteca con olio a fuoco spento: cremosità assurda.",
+            "Servila calda, senza aspettare. E se la provi, dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Oggi faccio la pasta al ragù di nocciole!",
+        "Penne, nocciole, pomodoro, vino rosso ed erbe.",
+        "Trito le nocciole e le rosolo nel soffritto.",
+        "Butto la pasta nel ragù due minuti prima.",
+        "Manteco con olio a fuoco spento e servo!"
+      ],
+      "thread_text": [
+        "La pasta al ragù può essere vegetariana e cremosa senza rinunciare a nulla. Anzi, forse è pure più buona. Il segreto? Le nocciole. Fidati, non torni indietro.",
+        "Ti servono: penne, nocciole tostate, pomodoro, un bicchiere di vino rosso e erbe aromatiche. Sembra poco, ma è tutto quello che serve per un ragù che sa di domenica.",
+        "Il gesto che cambia tutto: trita le nocciole e rosolale nel soffritto. Rilasciano un profumo che ti fa capire subito che stai facendo qualcosa di serio.",
+        "Cuoci la penne direttamente nel ragù, due minuti prima della fine. Assorbono il sugo e diventano una cosa sola con il condimento. Poi manteca con olio a fuoco spento: cremosità assurda.",
+        "Servila calda, senza aspettare. E se la provi, dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pasta cremosa al ragù di nocciole",
+          "description": "Un ragù vegetariano ricco e vellutato che trasforma la pasta in un piatto sorprendente.",
+          "visual_hint": "penne cremose al ragù",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory hazelnut pasta"
+        },
+        {
+          "hook": "Nocciole, pomodoro e vino rosso",
+          "description": "Pochi ingredienti essenziali per un ragù profondo e aromatico, senza carne.",
+          "visual_hint": "ingredienti sul tavolo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory ragù ingredients",
+          "image": "https://images.pexels.com/photos/4038849/pexels-photo-4038849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Trita e rosola le nocciole",
+          "description": "Il soffritto di nocciole tritate sprigiona profumo e crea la base del ragù.",
+          "visual_hint": "nocciole tritate in padella",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory hazelnut soffritto",
+          "image": "https://images.pexels.com/photos/13667596/pexels-photo-13667596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cuoci la pasta nel ragù",
+          "description": "Due minuti prima del termine, la pasta finisce nel ragù per assorbire tutto il sapore.",
+          "visual_hint": "pasta nel ragù",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory pasta ragù pan",
+          "image": "https://images.pexels.com/photos/30350309/pexels-photo-30350309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manteca e servi calda",
+          "description": "Un filo d'olio a fuoco spento per la cremosità perfetta: impiatta e servi subito.",
+          "visual_hint": "penne mantecate impiattate",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory creamy pasta plate",
+          "image": "https://images.pexels.com/photos/31235407/pexels-photo-31235407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "nocciole",
+        "pomodoro",
+        "vino rosso"
+      ],
+      "image": "https://www.giallozafferano.it/images/368-36809/Pasta-al-ragu-di-nocciole_1200x800_wm.jpg",
+      "savedAt": "2026-11-05T02:01:23.452Z",
+      "sourceId": "e915a8a79e8795edf646069891226f1c"
+    },
     {
       "schema_version": 2,
       "agent": "food",

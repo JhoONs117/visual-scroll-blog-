@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-is-reportedly-cutting-budgets-for-its-intern",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple is reportedly cutting budgets for its internal AI usage",
+  "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+  "pubDate": "Thu, 05 Nov 2026 01:26:22 +0000",
+  "slides": [
+    "Is Apple losing faith in its own AI?",
+    "Internal teams reportedly face tighter AI spending caps",
+    "Apple still ships AI features to millions of users",
+    "Your workplace AI budget may tighten the same way",
+    "Audit what your team's AI tools actually deliver"
+  ],
+  "thread_text": [
+    "1. Apple's AI Faith Test\n\nInternal teams now face tighter spending caps on AI tools, according to reports. That's a signal worth watching.",
+    "2. Budgets Shrink Quietly\n\nApple still ships AI features to millions, but behind the scenes, spending is being scrutinized. The gap between public launch and private caution is the story.",
+    "3. Your Budget Next?\n\nIf Apple is capping AI spend, your workplace may follow. The same scrutiny is coming for every team's tool stack.",
+    "4. Audit Before Renewal\n\nDon't wait for the cap to hit. Check what your AI tools actually deliver — usage, output quality, time saved. Most teams can't answer.",
+    "5. Test One Workflow\n\nPick your most-used AI tool and track its real output for one week. If it doesn't save time, cut it before finance does."
+  ],
+  "video_script": [
+    "Apple is reportedly capping internal AI spending.",
+    "Publicly, they still ship AI to millions.",
+    "That gap is the real story here.",
+    "Your team's AI budget might tighten too.",
+    "Audit what your tools actually deliver."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Apple's AI Faith Test\n\nInternal teams now face tighter spending caps on AI tools, according to reports. That's a signal worth watching.",
+        "2. Budgets Shrink Quietly\n\nApple still ships AI features to millions, but behind the scenes, spending is being scrutinized. The gap between public launch and private caution is the story.",
+        "3. Your Budget Next?\n\nIf Apple is capping AI spend, your workplace may follow. The same scrutiny is coming for every team's tool stack.",
+        "4. Audit Before Renewal\n\nDon't wait for the cap to hit. Check what your AI tools actually deliver — usage, output quality, time saved. Most teams can't answer.",
+        "5. Test One Workflow\n\nPick your most-used AI tool and track its real output for one week. If it doesn't save time, cut it before finance does."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple is reportedly capping internal AI spending.",
+        "Publicly, they still ship AI to millions.",
+        "That gap is the real story here.",
+        "Your team's AI budget might tighten too.",
+        "Audit what your tools actually deliver."
+      ]
+    },
+    "instagram": {
+      "caption": "Internal teams at Apple now reportedly have spending caps on the AI tools they use.\n\nThe same company shipping AI features to millions of users is tightening budgets behind closed doors.\n\nThat gap between public launch and private caution is the real story. 🤔\n\nIf Apple is watching its AI spend this closely, your workplace budget review is probably next.\n\nBefore finance asks, pick your most-used AI tool and track its actual output for one week — usage, quality, time saved. 📊\n\nIf it doesn't clearly save time, cut it yourself. ✂️\n\nWhich tool on your stack would survive that test? 👇"
+    }
+  },
+  "instagram_caption": "Internal teams at Apple now reportedly have spending caps on the AI tools they use.\n\nThe same company shipping AI features to millions of users is tightening budgets behind closed doors.\n\nThat gap between public launch and private caution is the real story. 🤔\n\nIf Apple is watching its AI spend this closely, your workplace budget review is probably next.\n\nBefore finance asks, pick your most-used AI tool and track its actual output for one week — usage, quality, time saved. 📊\n\nIf it doesn't clearly save time, cut it yourself. ✂️\n\nWhich tool on your stack would survive that test? 👇",
+  "carousel_slides": [
+    {
+      "hook": "Is Apple losing faith in its own AI?",
+      "description": "Apple reportedly caps internal AI spending while still shipping AI features to millions. The gap between public launch and private caution is the story.",
+      "visual_hint": "Apple logo with shrinking budget graph",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Apple logo"
+    },
+    {
+      "hook": "Internal teams face tighter AI spending caps",
+      "description": "Apple's internal teams reportedly face tighter spending caps on AI tools. A signal that even tech giants are scrutinizing AI costs.",
+      "visual_hint": "Budget chart with downward arrow",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "budget chart",
+      "image": "https://images.pexels.com/photos/7947700/pexels-photo-7947700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Apple still ships AI to millions",
+      "description": "Despite internal caps, Apple continues to ship AI features to millions of users. Public launch and private caution diverge.",
+      "visual_hint": "Smartphone with AI interface",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smartphone AI",
+      "image": "https://images.pexels.com/photos/5083215/pexels-photo-5083215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your workplace AI budget may tighten",
+      "description": "If Apple is capping AI spend, your workplace may follow. The same scrutiny is coming for every team's tool stack.",
+      "visual_hint": "Office desk with budget papers",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office desk",
+      "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your AI tools before finance does",
+      "description": "Pick your most-used AI tool and track its real output for one week. If it doesn't save time, cut it before finance does.",
+      "visual_hint": "Person reviewing AI tool analytics",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "analytics dashboard",
+      "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
+  "savedAt": "2026-11-05T01:55:43.598Z",
+  "sourceId": "87cd57a95fdb9ce3504a5426e7ebe2f0"
+}

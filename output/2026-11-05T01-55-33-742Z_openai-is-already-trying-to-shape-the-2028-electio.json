@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-is-already-trying-to-shape-the-2028-electio",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI is already trying to shape the 2028 election",
+  "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+  "pubDate": "Wed, 04 Nov 2026 21:25:44 +0000",
+  "slides": [
+    "Is OpenAI already scripting the 2028 election?",
+    "It's building tools to track political narratives in real time.",
+    "But the same system can amplify the misinformation it flags.",
+    "Campaigns using it will set the terms of debate early.",
+    "Ask which narratives your feed never shows you."
+  ],
+  "thread_text": [
+    "1. The 2028 race has a new player\n\nOpenAI is reportedly building real-time tools to track political narratives. That means the ground game for 2028 may already be underway.",
+    "2. The same tool flips\n\nThe system can amplify the very misinformation it flags. A filter that also acts as a megaphone.",
+    "3. First mover wins the frame\n\nCampaigns that adopt it early will set the terms of debate before voters even tune in.",
+    "4. Your feed is the battlefield\n\nThese tools don't just watch narratives. They shape what reaches you, often without any label.",
+    "5. Ask what's missing\n\nOpen your feed and ask which narratives never appear. That silence is the real story. Do it today."
+  ],
+  "video_script": [
+    "OpenAI is already tracking political narratives in real time.",
+    "The same system can amplify the misinformation it flags.",
+    "Early campaigns will set the terms of debate.",
+    "Your feed is being shaped right now.",
+    "Ask which narratives your feed never shows you."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The 2028 race has a new player\n\nOpenAI is reportedly building real-time tools to track political narratives. That means the ground game for 2028 may already be underway.",
+        "2. The same tool flips\n\nThe system can amplify the very misinformation it flags. A filter that also acts as a megaphone.",
+        "3. First mover wins the frame\n\nCampaigns that adopt it early will set the terms of debate before voters even tune in.",
+        "4. Your feed is the battlefield\n\nThese tools don't just watch narratives. They shape what reaches you, often without any label.",
+        "5. Ask what's missing\n\nOpen your feed and ask which narratives never appear. That silence is the real story. Do it today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI is already tracking political narratives in real time.",
+        "The same system can amplify the misinformation it flags.",
+        "Early campaigns will set the terms of debate.",
+        "Your feed is being shaped right now.",
+        "Ask which narratives your feed never shows you."
+      ]
+    },
+    "instagram": {
+      "caption": "A system being built right now could flag political misinformation and amplify it at the same time. 🚩\n\nOpenAI is reportedly developing tools to track political narratives in real time ahead of 2028.\n\nThe same system that spots a false story can also push it further.\n\nCampaigns that adopt it early will frame the debate before most voters tune in. 🎯\n\nIf you publish content, the narratives these tools surface (or bury) will shape what your audience sees first. 👀\n\nOpen your feed and ask: which stories never reach you? That silence is worth investigating today. 🔍"
+    }
+  },
+  "instagram_caption": "A system being built right now could flag political misinformation and amplify it at the same time. 🚩\n\nOpenAI is reportedly developing tools to track political narratives in real time ahead of 2028.\n\nThe same system that spots a false story can also push it further.\n\nCampaigns that adopt it early will frame the debate before most voters tune in. 🎯\n\nIf you publish content, the narratives these tools surface (or bury) will shape what your audience sees first. 👀\n\nOpen your feed and ask: which stories never reach you? That silence is worth investigating today. 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Is OpenAI already scripting 2028?",
+      "description": "OpenAI is building real-time tools to track political narratives, so the 2028 ground game may already be underway.",
+      "visual_hint": "A glowing server rack with data streams",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "The same tool flips both ways.",
+      "description": "The system can amplify the very misinformation it flags, acting as a filter that doubles as a megaphone.",
+      "visual_hint": "A microphone with waves amplifying outward",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "microphone close-up",
+      "image": "https://images.pexels.com/photos/4988132/pexels-photo-4988132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "First movers set the debate.",
+      "description": "Campaigns adopting these tools early will define the terms of debate before most voters even tune in.",
+      "visual_hint": "A chessboard with a hand moving a piece",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "chess board",
+      "image": "https://images.pexels.com/photos/6114955/pexels-photo-6114955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your feed is the battlefield.",
+      "description": "These tools don't just watch narratives; they shape what reaches you, often without any label.",
+      "visual_hint": "A smartphone screen with invisible arrows",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Then check your feed.",
+      "description": "Open your feed now and ask which narratives never appear. That silence is the real story.",
+      "visual_hint": "A person staring at a phone, puzzled",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person looking phone",
+      "image": "https://images.pexels.com/photos/7428581/pexels-photo-7428581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+  "savedAt": "2026-11-05T01:56:13.203Z",
+  "sourceId": "423e16ab4854ec5c914472929a70005d"
+}

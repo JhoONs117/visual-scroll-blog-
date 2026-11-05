@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "nothing-ceo-says-company-s-mysterious-ai-first-dev",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+  "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+  "pubDate": "Wed, 04 Nov 2026 22:13:16 +0000",
+  "slides": [
+    "Nothing's AI-first device arrives next month — but what is it?",
+    "The CEO confirmed the launch date without revealing the product.",
+    "It's not a phone upgrade; it's a new device category entirely.",
+    "Developers can start building for it before launch.",
+    "Decide now: wait for reviews or pre-commit to a gamble?"
+  ],
+  "thread_text": [
+    "1. A new device category?\n\nNothing's AI-first device launches next month, but the CEO won't say what it is. Is this hype or a real shift?",
+    "2. Not a phone upgrade\n\nThis isn't just another smartphone iteration. It's a completely new device category, according to the company.",
+    "3. Developers get early access\n\nDevelopers can start building for the device before it even launches. That means apps and use cases could be ready on day one.",
+    "4. The gamble: wait or commit?\n\nWith no product details, early adopters face a choice: wait for reviews or pre-commit to a potential game-changer.",
+    "5. Would you pre-order?\n\nIf the device could replace your phone, would you risk it? Or wait for the first reviews?"
+  ],
+  "video_script": [
+    "Nothing's AI-first device launches next month, but what is it?",
+    "The CEO confirmed the date but stayed silent on the product.",
+    "This isn't a phone upgrade; it's a new device category.",
+    "Developers can start building before launch.",
+    "Wait for reviews or pre-commit? Decide now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. A new device category?\n\nNothing's AI-first device launches next month, but the CEO won't say what it is. Is this hype or a real shift?",
+        "2. Not a phone upgrade\n\nThis isn't just another smartphone iteration. It's a completely new device category, according to the company.",
+        "3. Developers get early access\n\nDevelopers can start building for the device before it even launches. That means apps and use cases could be ready on day one.",
+        "4. The gamble: wait or commit?\n\nWith no product details, early adopters face a choice: wait for reviews or pre-commit to a potential game-changer.",
+        "5. Would you pre-order?\n\nIf the device could replace your phone, would you risk it? Or wait for the first reviews?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Nothing's AI-first device launches next month, but what is it?",
+        "The CEO confirmed the date but stayed silent on the product.",
+        "This isn't a phone upgrade; it's a new device category.",
+        "Developers can start building before launch.",
+        "Wait for reviews or pre-commit? Decide now."
+      ]
+    },
+    "instagram": {
+      "caption": "A launch date with no product to look at — that's what Nothing just confirmed.\n\nThe CEO says the company's AI-first device ships next month but won't reveal what it actually is. 🤔\n\nIt's not a phone upgrade — the company calls it a whole new device category.\n\nDevelopers can already start building for it, meaning apps could be ready on day one.\n\nFor anyone who reviews gear or plans content around launches, you'll likely be covering something you can't fully evaluate until units land.\n\nWould you pre-commit to a device you haven't seen, or wait for the first reviews? 👀"
+    }
+  },
+  "instagram_caption": "A launch date with no product to look at — that's what Nothing just confirmed.\n\nThe CEO says the company's AI-first device ships next month but won't reveal what it actually is. 🤔\n\nIt's not a phone upgrade — the company calls it a whole new device category.\n\nDevelopers can already start building for it, meaning apps could be ready on day one.\n\nFor anyone who reviews gear or plans content around launches, you'll likely be covering something you can't fully evaluate until units land.\n\nWould you pre-commit to a device you haven't seen, or wait for the first reviews? 👀",
+  "carousel_slides": [
+    {
+      "hook": "New device category or just hype?",
+      "description": "Nothing's AI-first device launches next month, but the CEO won't reveal what it is. Is this a real shift?",
+      "visual_hint": "Mysterious black device with glowing edges",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone dark"
+    },
+    {
+      "hook": "Not a phone upgrade",
+      "description": "This isn't another smartphone iteration. It's a completely new device category, according to the company.",
+      "visual_hint": "Hand holding abstract tech prototype",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "tech prototype",
+      "image": "https://images.pexels.com/photos/39994676/pexels-photo-39994676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Developers build before launch",
+      "description": "Developers can start building for the device before it even launches. Apps and use cases could be ready on day one.",
+      "visual_hint": "Code on screen with device outline",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "programming code",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Wait for reviews or pre-commit?",
+      "description": "With no product details, early adopters face a choice: wait for reviews or pre-commit to a potential game-changer.",
+      "visual_hint": "Person weighing two options on hands",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "decision scale",
+      "image": "https://images.pexels.com/photos/8431786/pexels-photo-8431786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Would you pre-order? Save this!",
+      "description": "If the device could replace your phone, would you risk it? Or wait for the first reviews? Comment below.",
+      "visual_hint": "Phone screen with pre-order button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "pre-order button",
+      "image": "https://images.pexels.com/photos/8089672/pexels-photo-8089672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/02/2560x2040_5fe778b6-8919-4143-bf11-8d86af754f52_2192x.webp?resize=1200,956",
+  "savedAt": "2026-11-05T01:56:03.147Z",
+  "sourceId": "3ba59fa6ce83686924c708896885ba34"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-pacs-spent-millions-trying-to-shape-congress-he",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+  "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+  "pubDate": "Wed, 04 Nov 2026 22:45:09 +0000",
+  "slides": [
+    "Did AI PAC money actually buy Congress seats?",
+    "The AI industry built a lobbying war chest",
+    "Most endorsed candidates lost anyway",
+    "Your district may see these ads next cycle",
+    "Check who funded your representative's race"
+  ],
+  "thread_text": [
+    "1. The Money Didn't Work\n\nAI PACs spent millions backing candidates. Most of those endorsed candidates lost their races anyway.",
+    "2. Lobbying War Chest Built\n\nThe AI industry amassed a record lobbying fund this cycle. They wanted influence, not just ads.",
+    "3. Your District Is Next\n\nThese same PACs are already planning ad buys for the next election cycle. Your representative's race may be targeted.",
+    "4. Check the Funders\n\nLook up who financed your representative's campaign. Follow the money before the next ad hits your feed.",
+    "5. Ask Them Directly\n\nCall your representative's office and ask if they took AI PAC money. Then tell us what they said."
+  ],
+  "video_script": [
+    "AI PACs spent millions on congressional races.",
+    "They built a lobbying war chest for influence.",
+    "Most endorsed candidates lost anyway.",
+    "Your district may see these ads next cycle.",
+    "Check who funded your representative's race."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Money Didn't Work\n\nAI PACs spent millions backing candidates. Most of those endorsed candidates lost their races anyway.",
+        "2. Lobbying War Chest Built\n\nThe AI industry amassed a record lobbying fund this cycle. They wanted influence, not just ads.",
+        "3. Your District Is Next\n\nThese same PACs are already planning ad buys for the next election cycle. Your representative's race may be targeted.",
+        "4. Check the Funders\n\nLook up who financed your representative's campaign. Follow the money before the next ad hits your feed.",
+        "5. Ask Them Directly\n\nCall your representative's office and ask if they took AI PAC money. Then tell us what they said."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI PACs spent millions on congressional races.",
+        "They built a lobbying war chest for influence.",
+        "Most endorsed candidates lost anyway.",
+        "Your district may see these ads next cycle.",
+        "Check who funded your representative's race."
+      ]
+    },
+    "instagram": {
+      "caption": "AI political action committees spent millions backing candidates for Congress this cycle, and most of the candidates they endorsed still lost their races. 💸\n\nThe AI industry built a record lobbying war chest to buy influence, not just airtime.\n\nThose same PACs are already planning ad buys for the next election cycle, and your district could be a target.\n\nSo content creators and publishers may soon see these ads flooding their feeds and wonder who's really paying for them.\n\nBefore the next ad hits your feed, look up who funded your representative's race. 🕵️ Then tell us: did your rep take AI PAC money? 📞"
+    }
+  },
+  "instagram_caption": "AI political action committees spent millions backing candidates for Congress this cycle, and most of the candidates they endorsed still lost their races. 💸\n\nThe AI industry built a record lobbying war chest to buy influence, not just airtime.\n\nThose same PACs are already planning ad buys for the next election cycle, and your district could be a target.\n\nSo content creators and publishers may soon see these ads flooding their feeds and wonder who's really paying for them.\n\nBefore the next ad hits your feed, look up who funded your representative's race. 🕵️ Then tell us: did your rep take AI PAC money? 📞",
+  "carousel_slides": [
+    {
+      "hook": "Did AI PAC money buy Congress seats?",
+      "description": "AI PACs spent millions backing candidates, but most endorsed candidates lost. Money didn't guarantee victory this cycle.",
+      "visual_hint": "Split image of money and ballot box",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "ballot box"
+    },
+    {
+      "hook": "AI industry built record lobbying war chest",
+      "description": "The AI industry amassed a record lobbying fund this cycle, aiming for influence beyond just campaign ads.",
+      "visual_hint": "Piles of cash and lobbyist meeting",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "money stack",
+      "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your district may be targeted next",
+      "description": "These same PACs are already planning ad buys for the next election cycle. Your representative's race may be next.",
+      "visual_hint": "Map with targeted districts highlighted",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "election map",
+      "image": "https://images.pexels.com/photos/8846714/pexels-photo-8846714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check who funded your representative's race",
+      "description": "Look up who financed your representative's campaign. Follow the money before the next ad hits your feed.",
+      "visual_hint": "Person researching campaign finances online",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "laptop research",
+      "image": "https://images.pexels.com/photos/7948103/pexels-photo-7948103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and check your rep's funders",
+      "description": "Call your representative's office and ask if they took AI PAC money. Then share what they said in the comments.",
+      "visual_hint": "Phone with call to action overlay",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "phone call",
+      "image": "https://images.pexels.com/photos/4240533/pexels-photo-4240533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2264644532.jpg?resize=1200,800",
+  "savedAt": "2026-11-05T01:55:53.214Z",
+  "sourceId": "2a45f43e41ba72897b5e5c2d2705616b"
+}

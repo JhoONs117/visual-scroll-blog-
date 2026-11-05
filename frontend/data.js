@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-is-already-trying-to-shape-the-2028-electio",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI is already trying to shape the 2028 election",
+    "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+    "pubDate": "Wed, 04 Nov 2026 21:25:44 +0000",
+    "slides": [
+      "Is OpenAI already scripting the 2028 election?",
+      "It's building tools to track political narratives in real time.",
+      "But the same system can amplify the misinformation it flags.",
+      "Campaigns using it will set the terms of debate early.",
+      "Ask which narratives your feed never shows you."
+    ],
+    "thread_text": [
+      "1. The 2028 race has a new player\n\nOpenAI is reportedly building real-time tools to track political narratives. That means the ground game for 2028 may already be underway.",
+      "2. The same tool flips\n\nThe system can amplify the very misinformation it flags. A filter that also acts as a megaphone.",
+      "3. First mover wins the frame\n\nCampaigns that adopt it early will set the terms of debate before voters even tune in.",
+      "4. Your feed is the battlefield\n\nThese tools don't just watch narratives. They shape what reaches you, often without any label.",
+      "5. Ask what's missing\n\nOpen your feed and ask which narratives never appear. That silence is the real story. Do it today."
+    ],
+    "video_script": [
+      "OpenAI is already tracking political narratives in real time.",
+      "The same system can amplify the misinformation it flags.",
+      "Early campaigns will set the terms of debate.",
+      "Your feed is being shaped right now.",
+      "Ask which narratives your feed never shows you."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The 2028 race has a new player\n\nOpenAI is reportedly building real-time tools to track political narratives. That means the ground game for 2028 may already be underway.",
+          "2. The same tool flips\n\nThe system can amplify the very misinformation it flags. A filter that also acts as a megaphone.",
+          "3. First mover wins the frame\n\nCampaigns that adopt it early will set the terms of debate before voters even tune in.",
+          "4. Your feed is the battlefield\n\nThese tools don't just watch narratives. They shape what reaches you, often without any label.",
+          "5. Ask what's missing\n\nOpen your feed and ask which narratives never appear. That silence is the real story. Do it today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI is already tracking political narratives in real time.",
+          "The same system can amplify the misinformation it flags.",
+          "Early campaigns will set the terms of debate.",
+          "Your feed is being shaped right now.",
+          "Ask which narratives your feed never shows you."
+        ]
+      },
+      "instagram": {
+        "caption": "A system being built right now could flag political misinformation and amplify it at the same time. 🚩\n\nOpenAI is reportedly developing tools to track political narratives in real time ahead of 2028.\n\nThe same system that spots a false story can also push it further.\n\nCampaigns that adopt it early will frame the debate before most voters tune in. 🎯\n\nIf you publish content, the narratives these tools surface (or bury) will shape what your audience sees first. 👀\n\nOpen your feed and ask: which stories never reach you? That silence is worth investigating today. 🔍"
+      }
+    },
+    "instagram_caption": "A system being built right now could flag political misinformation and amplify it at the same time. 🚩\n\nOpenAI is reportedly developing tools to track political narratives in real time ahead of 2028.\n\nThe same system that spots a false story can also push it further.\n\nCampaigns that adopt it early will frame the debate before most voters tune in. 🎯\n\nIf you publish content, the narratives these tools surface (or bury) will shape what your audience sees first. 👀\n\nOpen your feed and ask: which stories never reach you? That silence is worth investigating today. 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Is OpenAI already scripting 2028?",
+        "description": "OpenAI is building real-time tools to track political narratives, so the 2028 ground game may already be underway.",
+        "visual_hint": "A glowing server rack with data streams",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "The same tool flips both ways.",
+        "description": "The system can amplify the very misinformation it flags, acting as a filter that doubles as a megaphone.",
+        "visual_hint": "A microphone with waves amplifying outward",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "microphone close-up",
+        "image": "https://images.pexels.com/photos/4988132/pexels-photo-4988132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "First movers set the debate.",
+        "description": "Campaigns adopting these tools early will define the terms of debate before most voters even tune in.",
+        "visual_hint": "A chessboard with a hand moving a piece",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "chess board",
+        "image": "https://images.pexels.com/photos/6114955/pexels-photo-6114955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your feed is the battlefield.",
+        "description": "These tools don't just watch narratives; they shape what reaches you, often without any label.",
+        "visual_hint": "A smartphone screen with invisible arrows",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this. Then check your feed.",
+        "description": "Open your feed now and ask which narratives never appear. That silence is the real story.",
+        "visual_hint": "A person staring at a phone, puzzled",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person looking phone",
+        "image": "https://images.pexels.com/photos/7428581/pexels-photo-7428581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+    "savedAt": "2026-11-05T01:56:13.203Z",
+    "sourceId": "423e16ab4854ec5c914472929a70005d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "nothing-ceo-says-company-s-mysterious-ai-first-dev",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+    "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+    "pubDate": "Wed, 04 Nov 2026 22:13:16 +0000",
+    "slides": [
+      "Nothing's AI-first device arrives next month — but what is it?",
+      "The CEO confirmed the launch date without revealing the product.",
+      "It's not a phone upgrade; it's a new device category entirely.",
+      "Developers can start building for it before launch.",
+      "Decide now: wait for reviews or pre-commit to a gamble?"
+    ],
+    "thread_text": [
+      "1. A new device category?\n\nNothing's AI-first device launches next month, but the CEO won't say what it is. Is this hype or a real shift?",
+      "2. Not a phone upgrade\n\nThis isn't just another smartphone iteration. It's a completely new device category, according to the company.",
+      "3. Developers get early access\n\nDevelopers can start building for the device before it even launches. That means apps and use cases could be ready on day one.",
+      "4. The gamble: wait or commit?\n\nWith no product details, early adopters face a choice: wait for reviews or pre-commit to a potential game-changer.",
+      "5. Would you pre-order?\n\nIf the device could replace your phone, would you risk it? Or wait for the first reviews?"
+    ],
+    "video_script": [
+      "Nothing's AI-first device launches next month, but what is it?",
+      "The CEO confirmed the date but stayed silent on the product.",
+      "This isn't a phone upgrade; it's a new device category.",
+      "Developers can start building before launch.",
+      "Wait for reviews or pre-commit? Decide now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. A new device category?\n\nNothing's AI-first device launches next month, but the CEO won't say what it is. Is this hype or a real shift?",
+          "2. Not a phone upgrade\n\nThis isn't just another smartphone iteration. It's a completely new device category, according to the company.",
+          "3. Developers get early access\n\nDevelopers can start building for the device before it even launches. That means apps and use cases could be ready on day one.",
+          "4. The gamble: wait or commit?\n\nWith no product details, early adopters face a choice: wait for reviews or pre-commit to a potential game-changer.",
+          "5. Would you pre-order?\n\nIf the device could replace your phone, would you risk it? Or wait for the first reviews?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nothing's AI-first device launches next month, but what is it?",
+          "The CEO confirmed the date but stayed silent on the product.",
+          "This isn't a phone upgrade; it's a new device category.",
+          "Developers can start building before launch.",
+          "Wait for reviews or pre-commit? Decide now."
+        ]
+      },
+      "instagram": {
+        "caption": "A launch date with no product to look at — that's what Nothing just confirmed.\n\nThe CEO says the company's AI-first device ships next month but won't reveal what it actually is. 🤔\n\nIt's not a phone upgrade — the company calls it a whole new device category.\n\nDevelopers can already start building for it, meaning apps could be ready on day one.\n\nFor anyone who reviews gear or plans content around launches, you'll likely be covering something you can't fully evaluate until units land.\n\nWould you pre-commit to a device you haven't seen, or wait for the first reviews? 👀"
+      }
+    },
+    "instagram_caption": "A launch date with no product to look at — that's what Nothing just confirmed.\n\nThe CEO says the company's AI-first device ships next month but won't reveal what it actually is. 🤔\n\nIt's not a phone upgrade — the company calls it a whole new device category.\n\nDevelopers can already start building for it, meaning apps could be ready on day one.\n\nFor anyone who reviews gear or plans content around launches, you'll likely be covering something you can't fully evaluate until units land.\n\nWould you pre-commit to a device you haven't seen, or wait for the first reviews? 👀",
+    "carousel_slides": [
+      {
+        "hook": "New device category or just hype?",
+        "description": "Nothing's AI-first device launches next month, but the CEO won't reveal what it is. Is this a real shift?",
+        "visual_hint": "Mysterious black device with glowing edges",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone dark"
+      },
+      {
+        "hook": "Not a phone upgrade",
+        "description": "This isn't another smartphone iteration. It's a completely new device category, according to the company.",
+        "visual_hint": "Hand holding abstract tech prototype",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "tech prototype",
+        "image": "https://images.pexels.com/photos/39994676/pexels-photo-39994676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Developers build before launch",
+        "description": "Developers can start building for the device before it even launches. Apps and use cases could be ready on day one.",
+        "visual_hint": "Code on screen with device outline",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "programming code",
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Wait for reviews or pre-commit?",
+        "description": "With no product details, early adopters face a choice: wait for reviews or pre-commit to a potential game-changer.",
+        "visual_hint": "Person weighing two options on hands",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "decision scale",
+        "image": "https://images.pexels.com/photos/8431786/pexels-photo-8431786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Would you pre-order? Save this!",
+        "description": "If the device could replace your phone, would you risk it? Or wait for the first reviews? Comment below.",
+        "visual_hint": "Phone screen with pre-order button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "pre-order button",
+        "image": "https://images.pexels.com/photos/8089672/pexels-photo-8089672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/2560x2040_5fe778b6-8919-4143-bf11-8d86af754f52_2192x.webp?resize=1200,956",
+    "savedAt": "2026-11-05T01:56:03.147Z",
+    "sourceId": "3ba59fa6ce83686924c708896885ba34"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ai-pacs-spent-millions-trying-to-shape-congress-he",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+    "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+    "pubDate": "Wed, 04 Nov 2026 22:45:09 +0000",
+    "slides": [
+      "Did AI PAC money actually buy Congress seats?",
+      "The AI industry built a lobbying war chest",
+      "Most endorsed candidates lost anyway",
+      "Your district may see these ads next cycle",
+      "Check who funded your representative's race"
+    ],
+    "thread_text": [
+      "1. The Money Didn't Work\n\nAI PACs spent millions backing candidates. Most of those endorsed candidates lost their races anyway.",
+      "2. Lobbying War Chest Built\n\nThe AI industry amassed a record lobbying fund this cycle. They wanted influence, not just ads.",
+      "3. Your District Is Next\n\nThese same PACs are already planning ad buys for the next election cycle. Your representative's race may be targeted.",
+      "4. Check the Funders\n\nLook up who financed your representative's campaign. Follow the money before the next ad hits your feed.",
+      "5. Ask Them Directly\n\nCall your representative's office and ask if they took AI PAC money. Then tell us what they said."
+    ],
+    "video_script": [
+      "AI PACs spent millions on congressional races.",
+      "They built a lobbying war chest for influence.",
+      "Most endorsed candidates lost anyway.",
+      "Your district may see these ads next cycle.",
+      "Check who funded your representative's race."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Money Didn't Work\n\nAI PACs spent millions backing candidates. Most of those endorsed candidates lost their races anyway.",
+          "2. Lobbying War Chest Built\n\nThe AI industry amassed a record lobbying fund this cycle. They wanted influence, not just ads.",
+          "3. Your District Is Next\n\nThese same PACs are already planning ad buys for the next election cycle. Your representative's race may be targeted.",
+          "4. Check the Funders\n\nLook up who financed your representative's campaign. Follow the money before the next ad hits your feed.",
+          "5. Ask Them Directly\n\nCall your representative's office and ask if they took AI PAC money. Then tell us what they said."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI PACs spent millions on congressional races.",
+          "They built a lobbying war chest for influence.",
+          "Most endorsed candidates lost anyway.",
+          "Your district may see these ads next cycle.",
+          "Check who funded your representative's race."
+        ]
+      },
+      "instagram": {
+        "caption": "AI political action committees spent millions backing candidates for Congress this cycle, and most of the candidates they endorsed still lost their races. 💸\n\nThe AI industry built a record lobbying war chest to buy influence, not just airtime.\n\nThose same PACs are already planning ad buys for the next election cycle, and your district could be a target.\n\nSo content creators and publishers may soon see these ads flooding their feeds and wonder who's really paying for them.\n\nBefore the next ad hits your feed, look up who funded your representative's race. 🕵️ Then tell us: did your rep take AI PAC money? 📞"
+      }
+    },
+    "instagram_caption": "AI political action committees spent millions backing candidates for Congress this cycle, and most of the candidates they endorsed still lost their races. 💸\n\nThe AI industry built a record lobbying war chest to buy influence, not just airtime.\n\nThose same PACs are already planning ad buys for the next election cycle, and your district could be a target.\n\nSo content creators and publishers may soon see these ads flooding their feeds and wonder who's really paying for them.\n\nBefore the next ad hits your feed, look up who funded your representative's race. 🕵️ Then tell us: did your rep take AI PAC money? 📞",
+    "carousel_slides": [
+      {
+        "hook": "Did AI PAC money buy Congress seats?",
+        "description": "AI PACs spent millions backing candidates, but most endorsed candidates lost. Money didn't guarantee victory this cycle.",
+        "visual_hint": "Split image of money and ballot box",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "ballot box"
+      },
+      {
+        "hook": "AI industry built record lobbying war chest",
+        "description": "The AI industry amassed a record lobbying fund this cycle, aiming for influence beyond just campaign ads.",
+        "visual_hint": "Piles of cash and lobbyist meeting",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "money stack",
+        "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your district may be targeted next",
+        "description": "These same PACs are already planning ad buys for the next election cycle. Your representative's race may be next.",
+        "visual_hint": "Map with targeted districts highlighted",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "election map",
+        "image": "https://images.pexels.com/photos/8846714/pexels-photo-8846714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check who funded your representative's race",
+        "description": "Look up who financed your representative's campaign. Follow the money before the next ad hits your feed.",
+        "visual_hint": "Person researching campaign finances online",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "laptop research",
+        "image": "https://images.pexels.com/photos/7948103/pexels-photo-7948103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and check your rep's funders",
+        "description": "Call your representative's office and ask if they took AI PAC money. Then share what they said in the comments.",
+        "visual_hint": "Phone with call to action overlay",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "phone call",
+        "image": "https://images.pexels.com/photos/4240533/pexels-photo-4240533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2264644532.jpg?resize=1200,800",
+    "savedAt": "2026-11-05T01:55:53.214Z",
+    "sourceId": "2a45f43e41ba72897b5e5c2d2705616b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "apple-is-reportedly-cutting-budgets-for-its-intern",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "pubDate": "Thu, 05 Nov 2026 01:26:22 +0000",
+    "slides": [
+      "Is Apple losing faith in its own AI?",
+      "Internal teams reportedly face tighter AI spending caps",
+      "Apple still ships AI features to millions of users",
+      "Your workplace AI budget may tighten the same way",
+      "Audit what your team's AI tools actually deliver"
+    ],
+    "thread_text": [
+      "1. Apple's AI Faith Test\n\nInternal teams now face tighter spending caps on AI tools, according to reports. That's a signal worth watching.",
+      "2. Budgets Shrink Quietly\n\nApple still ships AI features to millions, but behind the scenes, spending is being scrutinized. The gap between public launch and private caution is the story.",
+      "3. Your Budget Next?\n\nIf Apple is capping AI spend, your workplace may follow. The same scrutiny is coming for every team's tool stack.",
+      "4. Audit Before Renewal\n\nDon't wait for the cap to hit. Check what your AI tools actually deliver — usage, output quality, time saved. Most teams can't answer.",
+      "5. Test One Workflow\n\nPick your most-used AI tool and track its real output for one week. If it doesn't save time, cut it before finance does."
+    ],
+    "video_script": [
+      "Apple is reportedly capping internal AI spending.",
+      "Publicly, they still ship AI to millions.",
+      "That gap is the real story here.",
+      "Your team's AI budget might tighten too.",
+      "Audit what your tools actually deliver."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Apple's AI Faith Test\n\nInternal teams now face tighter spending caps on AI tools, according to reports. That's a signal worth watching.",
+          "2. Budgets Shrink Quietly\n\nApple still ships AI features to millions, but behind the scenes, spending is being scrutinized. The gap between public launch and private caution is the story.",
+          "3. Your Budget Next?\n\nIf Apple is capping AI spend, your workplace may follow. The same scrutiny is coming for every team's tool stack.",
+          "4. Audit Before Renewal\n\nDon't wait for the cap to hit. Check what your AI tools actually deliver — usage, output quality, time saved. Most teams can't answer.",
+          "5. Test One Workflow\n\nPick your most-used AI tool and track its real output for one week. If it doesn't save time, cut it before finance does."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple is reportedly capping internal AI spending.",
+          "Publicly, they still ship AI to millions.",
+          "That gap is the real story here.",
+          "Your team's AI budget might tighten too.",
+          "Audit what your tools actually deliver."
+        ]
+      },
+      "instagram": {
+        "caption": "Internal teams at Apple now reportedly have spending caps on the AI tools they use.\n\nThe same company shipping AI features to millions of users is tightening budgets behind closed doors.\n\nThat gap between public launch and private caution is the real story. 🤔\n\nIf Apple is watching its AI spend this closely, your workplace budget review is probably next.\n\nBefore finance asks, pick your most-used AI tool and track its actual output for one week — usage, quality, time saved. 📊\n\nIf it doesn't clearly save time, cut it yourself. ✂️\n\nWhich tool on your stack would survive that test? 👇"
+      }
+    },
+    "instagram_caption": "Internal teams at Apple now reportedly have spending caps on the AI tools they use.\n\nThe same company shipping AI features to millions of users is tightening budgets behind closed doors.\n\nThat gap between public launch and private caution is the real story. 🤔\n\nIf Apple is watching its AI spend this closely, your workplace budget review is probably next.\n\nBefore finance asks, pick your most-used AI tool and track its actual output for one week — usage, quality, time saved. 📊\n\nIf it doesn't clearly save time, cut it yourself. ✂️\n\nWhich tool on your stack would survive that test? 👇",
+    "carousel_slides": [
+      {
+        "hook": "Is Apple losing faith in its own AI?",
+        "description": "Apple reportedly caps internal AI spending while still shipping AI features to millions. The gap between public launch and private caution is the story.",
+        "visual_hint": "Apple logo with shrinking budget graph",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Apple logo"
+      },
+      {
+        "hook": "Internal teams face tighter AI spending caps",
+        "description": "Apple's internal teams reportedly face tighter spending caps on AI tools. A signal that even tech giants are scrutinizing AI costs.",
+        "visual_hint": "Budget chart with downward arrow",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "budget chart",
+        "image": "https://images.pexels.com/photos/7947700/pexels-photo-7947700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Apple still ships AI to millions",
+        "description": "Despite internal caps, Apple continues to ship AI features to millions of users. Public launch and private caution diverge.",
+        "visual_hint": "Smartphone with AI interface",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "smartphone AI",
+        "image": "https://images.pexels.com/photos/5083215/pexels-photo-5083215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your workplace AI budget may tighten",
+        "description": "If Apple is capping AI spend, your workplace may follow. The same scrutiny is coming for every team's tool stack.",
+        "visual_hint": "Office desk with budget papers",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office desk",
+        "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your AI tools before finance does",
+        "description": "Pick your most-used AI tool and track its real output for one week. If it doesn't save time, cut it before finance does.",
+        "visual_hint": "Person reviewing AI tool analytics",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "analytics dashboard",
+        "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
+    "savedAt": "2026-11-05T01:55:43.598Z",
+    "sourceId": "87cd57a95fdb9ce3504a5426e7ebe2f0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-says-chatgpt-is-catching-up-to-google-in-se",
     "prompt_version": "1.0.0",
     "status": "published",
