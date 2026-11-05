@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "almost-no-one-uses-ai-agents-to-book-their-uber-co",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Almost no one uses AI agents to book their Uber, company says",
+  "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+  "pubDate": "Wed, 04 Nov 2026 21:56:01 +0000",
+  "slides": [
+    "Uber bet big on AI agents. Did anyone show up?",
+    "Very few riders let agents book their trips.",
+    "The barrier isn't tech—it's trust in delegation.",
+    "Expect slower agent rollout than the hype promised.",
+    "Try one low-stakes task and judge for yourself."
+  ],
+  "thread_text": [
+    "1. Uber's Agent Bet Flopped\n\nAlmost no riders used AI agents to book trips after Uber rolled out the feature. The tech worked—but people didn't bite.",
+    "2. The Delegation Gap\n\nBooking a ride feels personal: pickup spot, timing, safety. Handing that to an agent triggers hesitation even when it's faster.",
+    "3. Trust, Not Code\n\nThe barrier isn't intelligence—it's willingness to let go. Users worry agents will miss context or make costly mistakes.",
+    "4. Slower Rollout Ahead\n\nExpect agent adoption to crawl, not sprint. Hype promised instant delegation; reality shows people ease in gradually.",
+    "5. Test It Yourself\n\nPick one low-stakes task—like ordering coffee—and let an agent do it. Does the convenience outweigh the loss of control?"
+  ],
+  "video_script": [
+    "Uber bet on AI agents for bookings.",
+    "Almost nobody used them.",
+    "The problem isn't the tech—it's trust.",
+    "People hesitate to delegate personal tasks.",
+    "Expect slower agent adoption than promised."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Uber's Agent Bet Flopped\n\nAlmost no riders used AI agents to book trips after Uber rolled out the feature. The tech worked—but people didn't bite.",
+        "2. The Delegation Gap\n\nBooking a ride feels personal: pickup spot, timing, safety. Handing that to an agent triggers hesitation even when it's faster.",
+        "3. Trust, Not Code\n\nThe barrier isn't intelligence—it's willingness to let go. Users worry agents will miss context or make costly mistakes.",
+        "4. Slower Rollout Ahead\n\nExpect agent adoption to crawl, not sprint. Hype promised instant delegation; reality shows people ease in gradually.",
+        "5. Test It Yourself\n\nPick one low-stakes task—like ordering coffee—and let an agent do it. Does the convenience outweigh the loss of control?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Uber bet on AI agents for bookings.",
+        "Almost nobody used them.",
+        "The problem isn't the tech—it's trust.",
+        "People hesitate to delegate personal tasks.",
+        "Expect slower agent adoption than promised."
+      ]
+    },
+    "instagram": {
+      "caption": "Riders were offered AI agents to book their Uber, and almost no one used them.\n\nThe feature worked — people just didn't hand over the trip 🤔\n\nBooking a ride means pickup spot, timing, safety. Letting an agent decide feels like losing control, even when it's faster.\n\nSo expect a slower rollout than the hype promised.\n\nIf you build or publish content, this is your reality check: adoption lags the demo, and trust decides what ships.\n\nWould you let an agent book your next ride, or is that one tap yours to keep? 🚗"
+    }
+  },
+  "instagram_caption": "Riders were offered AI agents to book their Uber, and almost no one used them.\n\nThe feature worked — people just didn't hand over the trip 🤔\n\nBooking a ride means pickup spot, timing, safety. Letting an agent decide feels like losing control, even when it's faster.\n\nSo expect a slower rollout than the hype promised.\n\nIf you build or publish content, this is your reality check: adoption lags the demo, and trust decides what ships.\n\nWould you let an agent book your next ride, or is that one tap yours to keep? 🚗",
+  "carousel_slides": [
+    {
+      "hook": "Would you let AI book your ride?",
+      "description": "Uber's AI agents worked, but almost no riders used them. Tech isn't the problem—trust is.",
+      "visual_hint": "Phone screen showing ride-hailing app",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone ride app"
+    },
+    {
+      "hook": "Almost no one delegates booking",
+      "description": "Very few riders let agents book trips. Booking feels personal: pickup spot, timing, safety all trigger hesitation.",
+      "visual_hint": "Person hesitating with phone in hand",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "person using smartphone",
+      "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The barrier is trust, not code",
+      "description": "Users worry agents will miss context or make costly mistakes. Willingness to let go is the real hurdle.",
+      "visual_hint": "Hand hovering over phone screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Agent rollout will crawl, not sprint",
+      "description": "Hype promised instant delegation, but adoption will be gradual. Expect slower agent rollout than expected.",
+      "visual_hint": "Slow moving turtle on road",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "turtle crossing road",
+      "image": "https://images.pexels.com/photos/40288947/pexels-photo-40288947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test AI delegation yourself today",
+      "description": "Pick one low-stakes task—like ordering coffee—and let an agent do it. Does convenience outweigh loss of control?",
+      "visual_hint": "Coffee cup on counter",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "coffee cup counter",
+      "image": "https://images.pexels.com/photos/32617176/pexels-photo-32617176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800",
+  "savedAt": "2026-11-05T08:46:03.625Z",
+  "sourceId": "d13217a5b4923233ed812aa05fc86f30"
+}

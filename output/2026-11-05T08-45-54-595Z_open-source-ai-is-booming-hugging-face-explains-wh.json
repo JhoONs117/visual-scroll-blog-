@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "open-source-ai-is-booming-hugging-face-explains-wh",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Open source AI is booming. Hugging Face explains who profits.",
+  "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+  "pubDate": "Wed, 04 Nov 2026 19:30:04 +0000",
+  "slides": [
+    "Hugging Face hosts 1M+ models — but who actually profits?",
+    "Open source AI adoption is doubling every year",
+    "Most value flows to a few infrastructure players, not builders",
+    "Your next model choice may lock you into a vendor stack",
+    "Check your dependencies before committing to a stack"
+  ],
+  "thread_text": [
+    "1. The AI Profit Illusion\n\nHugging Face now hosts over 1 million models. But the real money isn't made by those who build them—it's made by those who control the infrastructure.",
+    "2. Adoption Is Doubling\n\nOpen source AI adoption is doubling every year. More teams are choosing open models over proprietary APIs, shifting the balance of power.",
+    "3. Follow the Money\n\nMost value flows to a few infrastructure players, not the builders. Compute, hosting, and tooling capture the profits while model creators often see little.",
+    "4. The Lock-In Trap\n\nYour next model choice may lock you into a vendor stack. Dependencies on proprietary tools can limit your flexibility and increase long-term costs.",
+    "5. Check Your Dependencies\n\nBefore committing to a stack, audit your dependencies. Ask: can I switch models without rewriting my entire pipeline? If not, you're already locked in."
+  ],
+  "video_script": [
+    "Hugging Face has over a million models.",
+    "Open source AI adoption doubles every year.",
+    "But most profits go to infrastructure, not builders.",
+    "Your model choice might lock you in.",
+    "Check your dependencies before you commit."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The AI Profit Illusion\n\nHugging Face now hosts over 1 million models. But the real money isn't made by those who build them—it's made by those who control the infrastructure.",
+        "2. Adoption Is Doubling\n\nOpen source AI adoption is doubling every year. More teams are choosing open models over proprietary APIs, shifting the balance of power.",
+        "3. Follow the Money\n\nMost value flows to a few infrastructure players, not the builders. Compute, hosting, and tooling capture the profits while model creators often see little.",
+        "4. The Lock-In Trap\n\nYour next model choice may lock you into a vendor stack. Dependencies on proprietary tools can limit your flexibility and increase long-term costs.",
+        "5. Check Your Dependencies\n\nBefore committing to a stack, audit your dependencies. Ask: can I switch models without rewriting my entire pipeline? If not, you're already locked in."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hugging Face has over a million models.",
+        "Open source AI adoption doubles every year.",
+        "But most profits go to infrastructure, not builders.",
+        "Your model choice might lock you in.",
+        "Check your dependencies before you commit."
+      ]
+    },
+    "instagram": {
+      "caption": "Over a million models now live on Hugging Face, but the people building them often aren't the ones getting paid.\n\nOpen source AI adoption is doubling every year as more teams pick open models over proprietary APIs.\n\nMost of the value flows to a handful of infrastructure players — compute, hosting and tooling capture the profit, not the model creators.\n\nPick your next model carelessly and you may lock yourself into a vendor stack that's expensive to leave. 🧩\n\nBefore committing, audit your dependencies: can you swap models without rewriting your entire pipeline? If not, you're already stuck. 🔍\n\nHave you checked what your current stack would cost to leave? 💭"
+    }
+  },
+  "instagram_caption": "Over a million models now live on Hugging Face, but the people building them often aren't the ones getting paid.\n\nOpen source AI adoption is doubling every year as more teams pick open models over proprietary APIs.\n\nMost of the value flows to a handful of infrastructure players — compute, hosting and tooling capture the profit, not the model creators.\n\nPick your next model carelessly and you may lock yourself into a vendor stack that's expensive to leave. 🧩\n\nBefore committing, audit your dependencies: can you swap models without rewriting your entire pipeline? If not, you're already stuck. 🔍\n\nHave you checked what your current stack would cost to leave? 💭",
+  "carousel_slides": [
+    {
+      "hook": "Who really profits from open source AI?",
+      "description": "Hugging Face hosts 1M+ models, but infrastructure players capture most value, not the builders.",
+      "visual_hint": "Server room with glowing racks",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Open source AI adoption is doubling yearly",
+      "description": "More teams choose open models over proprietary APIs, shifting power from vendors to infrastructure controllers.",
+      "visual_hint": "Rising graph on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Value flows to infrastructure, not builders",
+      "description": "Compute, hosting, and tooling capture profits while model creators often see little return on their work.",
+      "visual_hint": "Money flowing into data center",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your model choice may lock you in",
+      "description": "Proprietary dependencies limit flexibility and raise long-term costs, trapping you in a vendor stack.",
+      "visual_hint": "Hand holding locked padlock",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "padlock chain",
+      "image": "https://images.pexels.com/photos/10509162/pexels-photo-10509162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your dependencies before committing",
+      "description": "Ask: can I switch models without rewriting my pipeline? If not, you're already locked in.",
+      "visual_hint": "Checklist with magnifying glass",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+  "savedAt": "2026-11-05T08:46:25.059Z",
+  "sourceId": "2685c0ac972344078eb4b9f36fcb641f"
+}

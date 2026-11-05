@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-acquires-ai-coding-startup-conductor",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta acquires AI coding startup Conductor",
+  "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+  "pubDate": "Wed, 04 Nov 2026 21:10:56 +0000",
+  "slides": [
+    "Why does Meta need Conductor's coding AI?",
+    "Conductor builds tools that write code for you",
+    "Meta plans to embed it directly into its workflows",
+    "Developers may soon compete with AI for coding jobs",
+    "Ask your team: what tasks could AI handle first?"
+  ],
+  "thread_text": [
+    "1. Meta's Quiet Coding Move\n\nMeta is reportedly integrating Conductor's AI to write code inside its own workflows. The tool doesn't autocomplete — it generates entire features.",
+    "2. Built to Replace Keystrokes\n\nConductor's AI takes a plain-English brief and outputs working code. Meta plans to embed it directly, not just test it.",
+    "3. Your Job Description Just Changed\n\nDevelopers may soon compete with AI for coding tasks. The question isn't if, but which tasks go first.",
+    "4. First in Line: Boilerplate\n\nRepetitive code, tests, and glue logic are the obvious targets. That's exactly where Conductor claims speed.",
+    "5. Audit Your Own Workflow\n\nList one task you did today that followed a fixed pattern. That's your candidate for AI handoff — try it this week."
+  ],
+  "video_script": [
+    "Meta is embedding Conductor's AI to write code inside its workflows.",
+    "Conductor turns plain-English briefs into working code, not just suggestions.",
+    "Developers may soon compete with AI for coding tasks.",
+    "The first targets are repetitive code, tests, and glue logic.",
+    "Ask your team: what task could AI handle first this week?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta's Quiet Coding Move\n\nMeta is reportedly integrating Conductor's AI to write code inside its own workflows. The tool doesn't autocomplete — it generates entire features.",
+        "2. Built to Replace Keystrokes\n\nConductor's AI takes a plain-English brief and outputs working code. Meta plans to embed it directly, not just test it.",
+        "3. Your Job Description Just Changed\n\nDevelopers may soon compete with AI for coding tasks. The question isn't if, but which tasks go first.",
+        "4. First in Line: Boilerplate\n\nRepetitive code, tests, and glue logic are the obvious targets. That's exactly where Conductor claims speed.",
+        "5. Audit Your Own Workflow\n\nList one task you did today that followed a fixed pattern. That's your candidate for AI handoff — try it this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta is embedding Conductor's AI to write code inside its workflows.",
+        "Conductor turns plain-English briefs into working code, not just suggestions.",
+        "Developers may soon compete with AI for coding tasks.",
+        "The first targets are repetitive code, tests, and glue logic.",
+        "Ask your team: what task could AI handle first this week?"
+      ]
+    },
+    "instagram": {
+      "caption": "Meta is buying Conductor, a startup whose AI writes entire features from a plain-English brief — not just autocomplete.\n\nMeta plans to embed it directly into its own coding workflows, not just test it 🛠️\n\nThat means repetitive work — boilerplate, tests, glue logic — is first in line for handoff.\n\nIf you write or ship code, some of your daily tasks may soon be done by a tool inside your own stack.\n\nList one task you did today that followed a fixed pattern. That's your first candidate 🤖 Try handing it off this week."
+    }
+  },
+  "instagram_caption": "Meta is buying Conductor, a startup whose AI writes entire features from a plain-English brief — not just autocomplete.\n\nMeta plans to embed it directly into its own coding workflows, not just test it 🛠️\n\nThat means repetitive work — boilerplate, tests, glue logic — is first in line for handoff.\n\nIf you write or ship code, some of your daily tasks may soon be done by a tool inside your own stack.\n\nList one task you did today that followed a fixed pattern. That's your first candidate 🤖 Try handing it off this week.",
+  "carousel_slides": [
+    {
+      "hook": "Will AI take your coding job?",
+      "description": "Meta acquires Conductor to generate entire features, not just autocomplete — developers may soon compete.",
+      "visual_hint": "Robot arm writing code on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot arm computer"
+    },
+    {
+      "hook": "Conductor turns briefs into code",
+      "description": "Conductor's AI takes plain-English briefs and outputs working code. Meta plans to embed it directly, not just test.",
+      "visual_hint": "Programmer typing on laptop",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "programmer laptop screen",
+      "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Meta embeds AI into workflows",
+      "description": "Meta will integrate Conductor's AI directly into its workflows to write entire features, not just autocomplete.",
+      "visual_hint": "Server room with glowing lights",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room lights",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your coding tasks just changed",
+      "description": "Developers may soon compete with AI for coding tasks. The question isn't if, but which tasks go first.",
+      "visual_hint": "Developer at desk with dual monitors",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "developer desk monitors",
+      "image": "https://images.pexels.com/photos/9553909/pexels-photo-9553909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ready to hand off tasks to AI?",
+      "description": "List one repetitive coding task you did today—that's your candidate for AI handoff. Try it this week.",
+      "visual_hint": "Sticky note with checklist on desk",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "sticky note checklist",
+      "image": "https://images.pexels.com/photos/4586899/pexels-photo-4586899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-ray-bans.png?resize=1200,653",
+  "savedAt": "2026-11-05T08:46:14.384Z",
+  "sourceId": "421e2b40f3bf5ee4fd27dc7c2173e2c2"
+}

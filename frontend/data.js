@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "duckduckgo-pitches-itself-to-schools-amid-backlash",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+    "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+    "pubDate": "Wed, 04 Nov 2026 19:29:52 +0000",
+    "slides": [
+      "Why are schools rethinking Google right now?",
+      "DuckDuckGo is pitching itself as the alternative.",
+      "Its pitch leans on privacy, not better search results.",
+      "Schools switching face real migration friction and costs.",
+      "Ask your school which search tool it actually trusts."
+    ],
+    "thread_text": [
+      "1. The quiet search shift\n\nSchools are moving away from Google as their default search tool — not because of features, but because of a privacy roadmap nobody asked for.",
+      "2. DuckDuckGo's angle\n\nThe company isn't trying to out-Google Google on results. It's selling one thing: a search box that doesn't build a profile of every student.",
+      "3. Privacy isn't a feature\n\nFor IT admins, 'we don't track you' is the whole pitch. That reframes procurement from speed and relevance to data governance and liability.",
+      "4. The cost of leaving\n\nSwitching isn't just a toggle. Schools face single sign-on breakage, extension rebuilds, staff retraining, and real budget line items for migration.",
+      "5. Ask the hard question\n\nAsk your school which search tool it actually trusts — and whether the privacy claim is verified or just marketing. Then check the contract."
+    ],
+    "video_script": [
+      "Schools are reconsidering Google search right now.",
+      "DuckDuckGo is pitching itself as the alternative.",
+      "But the pitch is privacy, not better results.",
+      "Switching has real costs and migration friction.",
+      "Ask your school which search tool it trusts."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The quiet search shift\n\nSchools are moving away from Google as their default search tool — not because of features, but because of a privacy roadmap nobody asked for.",
+          "2. DuckDuckGo's angle\n\nThe company isn't trying to out-Google Google on results. It's selling one thing: a search box that doesn't build a profile of every student.",
+          "3. Privacy isn't a feature\n\nFor IT admins, 'we don't track you' is the whole pitch. That reframes procurement from speed and relevance to data governance and liability.",
+          "4. The cost of leaving\n\nSwitching isn't just a toggle. Schools face single sign-on breakage, extension rebuilds, staff retraining, and real budget line items for migration.",
+          "5. Ask the hard question\n\nAsk your school which search tool it actually trusts — and whether the privacy claim is verified or just marketing. Then check the contract."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Schools are reconsidering Google search right now.",
+          "DuckDuckGo is pitching itself as the alternative.",
+          "But the pitch is privacy, not better results.",
+          "Switching has real costs and migration friction.",
+          "Ask your school which search tool it trusts."
+        ]
+      },
+      "instagram": {
+        "caption": "Schools are being asked to reconsider the search box they've defaulted to for years.\n\nDuckDuckGo is pitching itself as the replacement, and its whole argument is privacy — a search tool that doesn't build a profile of every student. 🔍\n\nIt's not about better results. For IT admins, \"we don't track you\" reframes the whole purchase around data governance and liability.\n\nBut switching isn't a toggle: broken single sign-on, rebuilt extensions, retraining staff, and real budget lines. 🧾\n\nIf you publish or run a site, your school's traffic and tooling may shift under you.\n\nAsk your school which search tool it actually trusts — and whether the privacy claim is verified or just marketing. 📋"
+      }
+    },
+    "instagram_caption": "Schools are being asked to reconsider the search box they've defaulted to for years.\n\nDuckDuckGo is pitching itself as the replacement, and its whole argument is privacy — a search tool that doesn't build a profile of every student. 🔍\n\nIt's not about better results. For IT admins, \"we don't track you\" reframes the whole purchase around data governance and liability.\n\nBut switching isn't a toggle: broken single sign-on, rebuilt extensions, retraining staff, and real budget lines. 🧾\n\nIf you publish or run a site, your school's traffic and tooling may shift under you.\n\nAsk your school which search tool it actually trusts — and whether the privacy claim is verified or just marketing. 📋",
+    "carousel_slides": [
+      {
+        "hook": "Is your school's search tool tracking students?",
+        "description": "DuckDuckGo pitches privacy as schools question Google's AI data policies. The shift is about data governance, not search quality.",
+        "visual_hint": "Padlock icon over a school laptop",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "school laptop"
+      },
+      {
+        "hook": "DuckDuckGo offers a privacy-first alternative",
+        "description": "The company isn't competing on search results—it's selling a search box that doesn't build student profiles.",
+        "visual_hint": "Search bar with privacy shield",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "search engine",
+        "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Privacy is the entire pitch",
+        "description": "For IT admins, 'we don't track you' reframes procurement from speed and relevance to data governance and liability.",
+        "visual_hint": "Shield icon above data streams",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data security",
+        "image": "https://images.pexels.com/photos/5474301/pexels-photo-5474301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Switching isn't just a toggle",
+        "description": "Schools face single sign-on breakage, extension rebuilds, staff retraining, and real budget line items for migration.",
+        "visual_hint": "Hand turning a dial labeled switch",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "migration cost",
+        "image": "https://images.pexels.com/photos/7680692/pexels-photo-7680692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask your school which search tool it trusts",
+        "description": "Check whether the privacy claim is verified or just marketing—then read the contract. Save this post for your next school board meeting.",
+        "visual_hint": "Hand holding contract with magnifying glass",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "school contract",
+        "image": "https://images.pexels.com/photos/8099477/pexels-photo-8099477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
+    "savedAt": "2026-11-05T08:46:34.678Z",
+    "sourceId": "cbd69ab726f591caa91d3222dda0c4a0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "open-source-ai-is-booming-hugging-face-explains-wh",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Open source AI is booming. Hugging Face explains who profits.",
+    "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+    "pubDate": "Wed, 04 Nov 2026 19:30:04 +0000",
+    "slides": [
+      "Hugging Face hosts 1M+ models — but who actually profits?",
+      "Open source AI adoption is doubling every year",
+      "Most value flows to a few infrastructure players, not builders",
+      "Your next model choice may lock you into a vendor stack",
+      "Check your dependencies before committing to a stack"
+    ],
+    "thread_text": [
+      "1. The AI Profit Illusion\n\nHugging Face now hosts over 1 million models. But the real money isn't made by those who build them—it's made by those who control the infrastructure.",
+      "2. Adoption Is Doubling\n\nOpen source AI adoption is doubling every year. More teams are choosing open models over proprietary APIs, shifting the balance of power.",
+      "3. Follow the Money\n\nMost value flows to a few infrastructure players, not the builders. Compute, hosting, and tooling capture the profits while model creators often see little.",
+      "4. The Lock-In Trap\n\nYour next model choice may lock you into a vendor stack. Dependencies on proprietary tools can limit your flexibility and increase long-term costs.",
+      "5. Check Your Dependencies\n\nBefore committing to a stack, audit your dependencies. Ask: can I switch models without rewriting my entire pipeline? If not, you're already locked in."
+    ],
+    "video_script": [
+      "Hugging Face has over a million models.",
+      "Open source AI adoption doubles every year.",
+      "But most profits go to infrastructure, not builders.",
+      "Your model choice might lock you in.",
+      "Check your dependencies before you commit."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The AI Profit Illusion\n\nHugging Face now hosts over 1 million models. But the real money isn't made by those who build them—it's made by those who control the infrastructure.",
+          "2. Adoption Is Doubling\n\nOpen source AI adoption is doubling every year. More teams are choosing open models over proprietary APIs, shifting the balance of power.",
+          "3. Follow the Money\n\nMost value flows to a few infrastructure players, not the builders. Compute, hosting, and tooling capture the profits while model creators often see little.",
+          "4. The Lock-In Trap\n\nYour next model choice may lock you into a vendor stack. Dependencies on proprietary tools can limit your flexibility and increase long-term costs.",
+          "5. Check Your Dependencies\n\nBefore committing to a stack, audit your dependencies. Ask: can I switch models without rewriting my entire pipeline? If not, you're already locked in."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Hugging Face has over a million models.",
+          "Open source AI adoption doubles every year.",
+          "But most profits go to infrastructure, not builders.",
+          "Your model choice might lock you in.",
+          "Check your dependencies before you commit."
+        ]
+      },
+      "instagram": {
+        "caption": "Over a million models now live on Hugging Face, but the people building them often aren't the ones getting paid.\n\nOpen source AI adoption is doubling every year as more teams pick open models over proprietary APIs.\n\nMost of the value flows to a handful of infrastructure players — compute, hosting and tooling capture the profit, not the model creators.\n\nPick your next model carelessly and you may lock yourself into a vendor stack that's expensive to leave. 🧩\n\nBefore committing, audit your dependencies: can you swap models without rewriting your entire pipeline? If not, you're already stuck. 🔍\n\nHave you checked what your current stack would cost to leave? 💭"
+      }
+    },
+    "instagram_caption": "Over a million models now live on Hugging Face, but the people building them often aren't the ones getting paid.\n\nOpen source AI adoption is doubling every year as more teams pick open models over proprietary APIs.\n\nMost of the value flows to a handful of infrastructure players — compute, hosting and tooling capture the profit, not the model creators.\n\nPick your next model carelessly and you may lock yourself into a vendor stack that's expensive to leave. 🧩\n\nBefore committing, audit your dependencies: can you swap models without rewriting your entire pipeline? If not, you're already stuck. 🔍\n\nHave you checked what your current stack would cost to leave? 💭",
+    "carousel_slides": [
+      {
+        "hook": "Who really profits from open source AI?",
+        "description": "Hugging Face hosts 1M+ models, but infrastructure players capture most value, not the builders.",
+        "visual_hint": "Server room with glowing racks",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Open source AI adoption is doubling yearly",
+        "description": "More teams choose open models over proprietary APIs, shifting power from vendors to infrastructure controllers.",
+        "visual_hint": "Rising graph on screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Value flows to infrastructure, not builders",
+        "description": "Compute, hosting, and tooling capture profits while model creators often see little return on their work.",
+        "visual_hint": "Money flowing into data center",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your model choice may lock you in",
+        "description": "Proprietary dependencies limit flexibility and raise long-term costs, trapping you in a vendor stack.",
+        "visual_hint": "Hand holding locked padlock",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "padlock chain",
+        "image": "https://images.pexels.com/photos/10509162/pexels-photo-10509162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your dependencies before committing",
+        "description": "Ask: can I switch models without rewriting my pipeline? If not, you're already locked in.",
+        "visual_hint": "Checklist with magnifying glass",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+    "savedAt": "2026-11-05T08:46:25.059Z",
+    "sourceId": "2685c0ac972344078eb4b9f36fcb641f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-acquires-ai-coding-startup-conductor",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta acquires AI coding startup Conductor",
+    "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+    "pubDate": "Wed, 04 Nov 2026 21:10:56 +0000",
+    "slides": [
+      "Why does Meta need Conductor's coding AI?",
+      "Conductor builds tools that write code for you",
+      "Meta plans to embed it directly into its workflows",
+      "Developers may soon compete with AI for coding jobs",
+      "Ask your team: what tasks could AI handle first?"
+    ],
+    "thread_text": [
+      "1. Meta's Quiet Coding Move\n\nMeta is reportedly integrating Conductor's AI to write code inside its own workflows. The tool doesn't autocomplete — it generates entire features.",
+      "2. Built to Replace Keystrokes\n\nConductor's AI takes a plain-English brief and outputs working code. Meta plans to embed it directly, not just test it.",
+      "3. Your Job Description Just Changed\n\nDevelopers may soon compete with AI for coding tasks. The question isn't if, but which tasks go first.",
+      "4. First in Line: Boilerplate\n\nRepetitive code, tests, and glue logic are the obvious targets. That's exactly where Conductor claims speed.",
+      "5. Audit Your Own Workflow\n\nList one task you did today that followed a fixed pattern. That's your candidate for AI handoff — try it this week."
+    ],
+    "video_script": [
+      "Meta is embedding Conductor's AI to write code inside its workflows.",
+      "Conductor turns plain-English briefs into working code, not just suggestions.",
+      "Developers may soon compete with AI for coding tasks.",
+      "The first targets are repetitive code, tests, and glue logic.",
+      "Ask your team: what task could AI handle first this week?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Meta's Quiet Coding Move\n\nMeta is reportedly integrating Conductor's AI to write code inside its own workflows. The tool doesn't autocomplete — it generates entire features.",
+          "2. Built to Replace Keystrokes\n\nConductor's AI takes a plain-English brief and outputs working code. Meta plans to embed it directly, not just test it.",
+          "3. Your Job Description Just Changed\n\nDevelopers may soon compete with AI for coding tasks. The question isn't if, but which tasks go first.",
+          "4. First in Line: Boilerplate\n\nRepetitive code, tests, and glue logic are the obvious targets. That's exactly where Conductor claims speed.",
+          "5. Audit Your Own Workflow\n\nList one task you did today that followed a fixed pattern. That's your candidate for AI handoff — try it this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta is embedding Conductor's AI to write code inside its workflows.",
+          "Conductor turns plain-English briefs into working code, not just suggestions.",
+          "Developers may soon compete with AI for coding tasks.",
+          "The first targets are repetitive code, tests, and glue logic.",
+          "Ask your team: what task could AI handle first this week?"
+        ]
+      },
+      "instagram": {
+        "caption": "Meta is buying Conductor, a startup whose AI writes entire features from a plain-English brief — not just autocomplete.\n\nMeta plans to embed it directly into its own coding workflows, not just test it 🛠️\n\nThat means repetitive work — boilerplate, tests, glue logic — is first in line for handoff.\n\nIf you write or ship code, some of your daily tasks may soon be done by a tool inside your own stack.\n\nList one task you did today that followed a fixed pattern. That's your first candidate 🤖 Try handing it off this week."
+      }
+    },
+    "instagram_caption": "Meta is buying Conductor, a startup whose AI writes entire features from a plain-English brief — not just autocomplete.\n\nMeta plans to embed it directly into its own coding workflows, not just test it 🛠️\n\nThat means repetitive work — boilerplate, tests, glue logic — is first in line for handoff.\n\nIf you write or ship code, some of your daily tasks may soon be done by a tool inside your own stack.\n\nList one task you did today that followed a fixed pattern. That's your first candidate 🤖 Try handing it off this week.",
+    "carousel_slides": [
+      {
+        "hook": "Will AI take your coding job?",
+        "description": "Meta acquires Conductor to generate entire features, not just autocomplete — developers may soon compete.",
+        "visual_hint": "Robot arm writing code on screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot arm computer"
+      },
+      {
+        "hook": "Conductor turns briefs into code",
+        "description": "Conductor's AI takes plain-English briefs and outputs working code. Meta plans to embed it directly, not just test.",
+        "visual_hint": "Programmer typing on laptop",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "programmer laptop screen",
+        "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Meta embeds AI into workflows",
+        "description": "Meta will integrate Conductor's AI directly into its workflows to write entire features, not just autocomplete.",
+        "visual_hint": "Server room with glowing lights",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room lights",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your coding tasks just changed",
+        "description": "Developers may soon compete with AI for coding tasks. The question isn't if, but which tasks go first.",
+        "visual_hint": "Developer at desk with dual monitors",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "developer desk monitors",
+        "image": "https://images.pexels.com/photos/9553909/pexels-photo-9553909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ready to hand off tasks to AI?",
+        "description": "List one repetitive coding task you did today—that's your candidate for AI handoff. Try it this week.",
+        "visual_hint": "Sticky note with checklist on desk",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "sticky note checklist",
+        "image": "https://images.pexels.com/photos/4586899/pexels-photo-4586899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-ray-bans.png?resize=1200,653",
+    "savedAt": "2026-11-05T08:46:14.384Z",
+    "sourceId": "421e2b40f3bf5ee4fd27dc7c2173e2c2"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "almost-no-one-uses-ai-agents-to-book-their-uber-co",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Almost no one uses AI agents to book their Uber, company says",
+    "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+    "pubDate": "Wed, 04 Nov 2026 21:56:01 +0000",
+    "slides": [
+      "Uber bet big on AI agents. Did anyone show up?",
+      "Very few riders let agents book their trips.",
+      "The barrier isn't tech—it's trust in delegation.",
+      "Expect slower agent rollout than the hype promised.",
+      "Try one low-stakes task and judge for yourself."
+    ],
+    "thread_text": [
+      "1. Uber's Agent Bet Flopped\n\nAlmost no riders used AI agents to book trips after Uber rolled out the feature. The tech worked—but people didn't bite.",
+      "2. The Delegation Gap\n\nBooking a ride feels personal: pickup spot, timing, safety. Handing that to an agent triggers hesitation even when it's faster.",
+      "3. Trust, Not Code\n\nThe barrier isn't intelligence—it's willingness to let go. Users worry agents will miss context or make costly mistakes.",
+      "4. Slower Rollout Ahead\n\nExpect agent adoption to crawl, not sprint. Hype promised instant delegation; reality shows people ease in gradually.",
+      "5. Test It Yourself\n\nPick one low-stakes task—like ordering coffee—and let an agent do it. Does the convenience outweigh the loss of control?"
+    ],
+    "video_script": [
+      "Uber bet on AI agents for bookings.",
+      "Almost nobody used them.",
+      "The problem isn't the tech—it's trust.",
+      "People hesitate to delegate personal tasks.",
+      "Expect slower agent adoption than promised."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Uber's Agent Bet Flopped\n\nAlmost no riders used AI agents to book trips after Uber rolled out the feature. The tech worked—but people didn't bite.",
+          "2. The Delegation Gap\n\nBooking a ride feels personal: pickup spot, timing, safety. Handing that to an agent triggers hesitation even when it's faster.",
+          "3. Trust, Not Code\n\nThe barrier isn't intelligence—it's willingness to let go. Users worry agents will miss context or make costly mistakes.",
+          "4. Slower Rollout Ahead\n\nExpect agent adoption to crawl, not sprint. Hype promised instant delegation; reality shows people ease in gradually.",
+          "5. Test It Yourself\n\nPick one low-stakes task—like ordering coffee—and let an agent do it. Does the convenience outweigh the loss of control?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Uber bet on AI agents for bookings.",
+          "Almost nobody used them.",
+          "The problem isn't the tech—it's trust.",
+          "People hesitate to delegate personal tasks.",
+          "Expect slower agent adoption than promised."
+        ]
+      },
+      "instagram": {
+        "caption": "Riders were offered AI agents to book their Uber, and almost no one used them.\n\nThe feature worked — people just didn't hand over the trip 🤔\n\nBooking a ride means pickup spot, timing, safety. Letting an agent decide feels like losing control, even when it's faster.\n\nSo expect a slower rollout than the hype promised.\n\nIf you build or publish content, this is your reality check: adoption lags the demo, and trust decides what ships.\n\nWould you let an agent book your next ride, or is that one tap yours to keep? 🚗"
+      }
+    },
+    "instagram_caption": "Riders were offered AI agents to book their Uber, and almost no one used them.\n\nThe feature worked — people just didn't hand over the trip 🤔\n\nBooking a ride means pickup spot, timing, safety. Letting an agent decide feels like losing control, even when it's faster.\n\nSo expect a slower rollout than the hype promised.\n\nIf you build or publish content, this is your reality check: adoption lags the demo, and trust decides what ships.\n\nWould you let an agent book your next ride, or is that one tap yours to keep? 🚗",
+    "carousel_slides": [
+      {
+        "hook": "Would you let AI book your ride?",
+        "description": "Uber's AI agents worked, but almost no riders used them. Tech isn't the problem—trust is.",
+        "visual_hint": "Phone screen showing ride-hailing app",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone ride app"
+      },
+      {
+        "hook": "Almost no one delegates booking",
+        "description": "Very few riders let agents book trips. Booking feels personal: pickup spot, timing, safety all trigger hesitation.",
+        "visual_hint": "Person hesitating with phone in hand",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "person using smartphone",
+        "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The barrier is trust, not code",
+        "description": "Users worry agents will miss context or make costly mistakes. Willingness to let go is the real hurdle.",
+        "visual_hint": "Hand hovering over phone screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Agent rollout will crawl, not sprint",
+        "description": "Hype promised instant delegation, but adoption will be gradual. Expect slower agent rollout than expected.",
+        "visual_hint": "Slow moving turtle on road",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "turtle crossing road",
+        "image": "https://images.pexels.com/photos/40288947/pexels-photo-40288947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test AI delegation yourself today",
+        "description": "Pick one low-stakes task—like ordering coffee—and let an agent do it. Does convenience outweigh loss of control?",
+        "visual_hint": "Coffee cup on counter",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "coffee cup counter",
+        "image": "https://images.pexels.com/photos/32617176/pexels-photo-32617176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800",
+    "savedAt": "2026-11-05T08:46:03.625Z",
+    "sourceId": "d13217a5b4923233ed812aa05fc86f30"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-is-already-trying-to-shape-the-2028-electio",
     "prompt_version": "1.0.0",
     "status": "published",

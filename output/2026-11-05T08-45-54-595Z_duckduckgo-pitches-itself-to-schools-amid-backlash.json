@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "duckduckgo-pitches-itself-to-schools-amid-backlash",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+  "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+  "pubDate": "Wed, 04 Nov 2026 19:29:52 +0000",
+  "slides": [
+    "Why are schools rethinking Google right now?",
+    "DuckDuckGo is pitching itself as the alternative.",
+    "Its pitch leans on privacy, not better search results.",
+    "Schools switching face real migration friction and costs.",
+    "Ask your school which search tool it actually trusts."
+  ],
+  "thread_text": [
+    "1. The quiet search shift\n\nSchools are moving away from Google as their default search tool — not because of features, but because of a privacy roadmap nobody asked for.",
+    "2. DuckDuckGo's angle\n\nThe company isn't trying to out-Google Google on results. It's selling one thing: a search box that doesn't build a profile of every student.",
+    "3. Privacy isn't a feature\n\nFor IT admins, 'we don't track you' is the whole pitch. That reframes procurement from speed and relevance to data governance and liability.",
+    "4. The cost of leaving\n\nSwitching isn't just a toggle. Schools face single sign-on breakage, extension rebuilds, staff retraining, and real budget line items for migration.",
+    "5. Ask the hard question\n\nAsk your school which search tool it actually trusts — and whether the privacy claim is verified or just marketing. Then check the contract."
+  ],
+  "video_script": [
+    "Schools are reconsidering Google search right now.",
+    "DuckDuckGo is pitching itself as the alternative.",
+    "But the pitch is privacy, not better results.",
+    "Switching has real costs and migration friction.",
+    "Ask your school which search tool it trusts."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The quiet search shift\n\nSchools are moving away from Google as their default search tool — not because of features, but because of a privacy roadmap nobody asked for.",
+        "2. DuckDuckGo's angle\n\nThe company isn't trying to out-Google Google on results. It's selling one thing: a search box that doesn't build a profile of every student.",
+        "3. Privacy isn't a feature\n\nFor IT admins, 'we don't track you' is the whole pitch. That reframes procurement from speed and relevance to data governance and liability.",
+        "4. The cost of leaving\n\nSwitching isn't just a toggle. Schools face single sign-on breakage, extension rebuilds, staff retraining, and real budget line items for migration.",
+        "5. Ask the hard question\n\nAsk your school which search tool it actually trusts — and whether the privacy claim is verified or just marketing. Then check the contract."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Schools are reconsidering Google search right now.",
+        "DuckDuckGo is pitching itself as the alternative.",
+        "But the pitch is privacy, not better results.",
+        "Switching has real costs and migration friction.",
+        "Ask your school which search tool it trusts."
+      ]
+    },
+    "instagram": {
+      "caption": "Schools are being asked to reconsider the search box they've defaulted to for years.\n\nDuckDuckGo is pitching itself as the replacement, and its whole argument is privacy — a search tool that doesn't build a profile of every student. 🔍\n\nIt's not about better results. For IT admins, \"we don't track you\" reframes the whole purchase around data governance and liability.\n\nBut switching isn't a toggle: broken single sign-on, rebuilt extensions, retraining staff, and real budget lines. 🧾\n\nIf you publish or run a site, your school's traffic and tooling may shift under you.\n\nAsk your school which search tool it actually trusts — and whether the privacy claim is verified or just marketing. 📋"
+    }
+  },
+  "instagram_caption": "Schools are being asked to reconsider the search box they've defaulted to for years.\n\nDuckDuckGo is pitching itself as the replacement, and its whole argument is privacy — a search tool that doesn't build a profile of every student. 🔍\n\nIt's not about better results. For IT admins, \"we don't track you\" reframes the whole purchase around data governance and liability.\n\nBut switching isn't a toggle: broken single sign-on, rebuilt extensions, retraining staff, and real budget lines. 🧾\n\nIf you publish or run a site, your school's traffic and tooling may shift under you.\n\nAsk your school which search tool it actually trusts — and whether the privacy claim is verified or just marketing. 📋",
+  "carousel_slides": [
+    {
+      "hook": "Is your school's search tool tracking students?",
+      "description": "DuckDuckGo pitches privacy as schools question Google's AI data policies. The shift is about data governance, not search quality.",
+      "visual_hint": "Padlock icon over a school laptop",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "school laptop"
+    },
+    {
+      "hook": "DuckDuckGo offers a privacy-first alternative",
+      "description": "The company isn't competing on search results—it's selling a search box that doesn't build student profiles.",
+      "visual_hint": "Search bar with privacy shield",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "search engine",
+      "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Privacy is the entire pitch",
+      "description": "For IT admins, 'we don't track you' reframes procurement from speed and relevance to data governance and liability.",
+      "visual_hint": "Shield icon above data streams",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data security",
+      "image": "https://images.pexels.com/photos/5474301/pexels-photo-5474301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Switching isn't just a toggle",
+      "description": "Schools face single sign-on breakage, extension rebuilds, staff retraining, and real budget line items for migration.",
+      "visual_hint": "Hand turning a dial labeled switch",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "migration cost",
+      "image": "https://images.pexels.com/photos/7680692/pexels-photo-7680692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your school which search tool it trusts",
+      "description": "Check whether the privacy claim is verified or just marketing—then read the contract. Save this post for your next school board meeting.",
+      "visual_hint": "Hand holding contract with magnifying glass",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "school contract",
+      "image": "https://images.pexels.com/photos/8099477/pexels-photo-8099477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
+  "savedAt": "2026-11-05T08:46:34.678Z",
+  "sourceId": "cbd69ab726f591caa91d3222dda0c4a0"
+}
