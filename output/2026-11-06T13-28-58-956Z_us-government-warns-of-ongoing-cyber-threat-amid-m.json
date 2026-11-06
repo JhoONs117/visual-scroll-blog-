@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "us-government-warns-of-ongoing-cyber-threat-amid-m",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
+  "link": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+  "pubDate": "Thu, 05 Nov 2026 18:48:34 +0000",
+  "slides": [
+    "Why is the US warning about hacked freezers now?",
+    "Industrial, retail and military cold storage systems are compromised.",
+    "The attackers aren't after data — they want physical disruption.",
+    "Check your cold-chain devices for unknown outbound connections.",
+    "One unpatched freezer is a door into your whole network."
+  ],
+  "thread_text": [
+    "1. Your Freezer Is a Backdoor\n\nUS agencies just warned that hacked cold storage systems are being used for physical sabotage, not data theft.",
+    "2. Cold Chain Under Siege\n\nIndustrial, retail, and military refrigeration units have all been compromised in coordinated attacks.",
+    "3. They Want Disruption, Not Data\n\nAttackers are skipping ransomware and going straight for physical chaos—spoiled goods, broken supply lines.",
+    "4. Check Outbound Connections\n\nLook for unknown outbound traffic from your cold-chain devices. That's the telltale sign of a compromised freezer.",
+    "5. One Freezer, Whole Network\n\nAn unpatched freezer is a door into your entire network. Patch it today or segment it off—your call."
+  ],
+  "video_script": [
+    "US warns: hacked freezers are now a physical threat.",
+    "Industrial, retail, and military cold storage systems are compromised.",
+    "Attackers aren't after data—they want physical disruption.",
+    "Check your cold-chain devices for unknown outbound connections.",
+    "One unpatched freezer opens the door to your whole network."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your Freezer Is a Backdoor\n\nUS agencies just warned that hacked cold storage systems are being used for physical sabotage, not data theft.",
+        "2. Cold Chain Under Siege\n\nIndustrial, retail, and military refrigeration units have all been compromised in coordinated attacks.",
+        "3. They Want Disruption, Not Data\n\nAttackers are skipping ransomware and going straight for physical chaos—spoiled goods, broken supply lines.",
+        "4. Check Outbound Connections\n\nLook for unknown outbound traffic from your cold-chain devices. That's the telltale sign of a compromised freezer.",
+        "5. One Freezer, Whole Network\n\nAn unpatched freezer is a door into your entire network. Patch it today or segment it off—your call."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "US warns: hacked freezers are now a physical threat.",
+        "Industrial, retail, and military cold storage systems are compromised.",
+        "Attackers aren't after data—they want physical disruption.",
+        "Check your cold-chain devices for unknown outbound connections.",
+        "One unpatched freezer opens the door to your whole network."
+      ]
+    },
+    "instagram": {
+      "caption": "US agencies are warning that hacked industrial, retail and military freezers are being used for physical sabotage, not data theft. 🚨\n\nAttackers are skipping ransomware and going straight for disruption — spoiled goods, broken supply lines.\n\nThe telltale sign? Unknown outbound connections from your cold-chain devices. ⚠️\n\nIf you create or publish content around security, this is the story: an unpatched freezer is a door into an entire network.\n\nHave you checked what your cold-chain devices are connecting to lately? 🧊🔍"
+    }
+  },
+  "instagram_caption": "US agencies are warning that hacked industrial, retail and military freezers are being used for physical sabotage, not data theft. 🚨\n\nAttackers are skipping ransomware and going straight for disruption — spoiled goods, broken supply lines.\n\nThe telltale sign? Unknown outbound connections from your cold-chain devices. ⚠️\n\nIf you create or publish content around security, this is the story: an unpatched freezer is a door into an entire network.\n\nHave you checked what your cold-chain devices are connecting to lately? 🧊🔍",
+  "carousel_slides": [
+    {
+      "hook": "Your freezer could be a backdoor",
+      "description": "US agencies warn hacked cold storage systems are being used for physical sabotage, not data theft.",
+      "visual_hint": "Industrial freezer with warning overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "industrial freezer"
+    },
+    {
+      "hook": "Cold chain under coordinated attack",
+      "description": "Industrial, retail, and military refrigeration units have all been compromised in coordinated attacks.",
+      "visual_hint": "Split image of freezer types",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "cold storage warehouse",
+      "image": "https://images.pexels.com/photos/36522088/pexels-photo-36522088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "They want chaos, not your data",
+      "description": "Attackers skip ransomware and go straight for physical chaos—spoiled goods, broken supply lines.",
+      "visual_hint": "Spoiled food in broken freezer",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "spoiled food",
+      "image": "https://images.pexels.com/photos/4195518/pexels-photo-4195518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check outbound connections now",
+      "description": "Look for unknown outbound traffic from cold-chain devices. That's the telltale sign of a compromised freezer.",
+      "visual_hint": "Network monitoring dashboard on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "network monitoring",
+      "image": "https://images.pexels.com/photos/38143085/pexels-photo-38143085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: one freezer, whole network",
+      "description": "An unpatched freezer is a door into your entire network. Patch it today or segment it off—your call.",
+      "visual_hint": "Network diagram with freezer entry point",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "network diagram",
+      "image": "https://images.pexels.com/photos/6642542/pexels-photo-6642542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/freezer-hacks-2299339780.jpg?resize=1200,800",
+  "savedAt": "2026-11-06T13:29:39.046Z",
+  "sourceId": "92bc664f812f4c9a9195760d2f2ccde6"
+}

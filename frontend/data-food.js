@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "pasta-all-amatriciana-bianca",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Pasta all'amatriciana bianca",
+    "link": "https://ricette.giallozafferano.it/Pasta-all-amatriciana-bianca.html",
+    "pubDate": "Fri, 06 Nov 2026 12:35:00 +0100",
+    "content": "Pasta all'amatriciana bianca Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Pasta all'amatriciana bianca /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 10 min Cottura: 25 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti PRESENTAZIONE Se amate i primi piatti cremosi , saporiti e capaci di sorprendere con pochi ingredienti, questa pasta all'amatriciana bianca è la ricetta giusta da provare. Una ricetta semplice nell’idea, ispirata al tradizionale piatto di Amatrice e ricca di contrasti: il guanciale diventa croccante e saporito, la crema di pecorino avvolge la pasta con una consistenza morbida e vellutata, mentre la scorza di limone dona una nota fresca e profumata che alleggerisce il gusto e rende il risultato ancora più invitante. Il segreto sta tutto nella mantecatura: lasciate che gli spaghettoni si uniscano alla crema di pecorino e al fondo saporito del guanciale, così ogni forchettata sarà intensa, cremosa e ben equilibrata. Il tocco finale del limone fa davvero la differenza, basterà aggiungerlo alla fine, grattugiando finemente la scorza direttamente sul piatto, così conserverà tutto il suo profumo. Il risultato è una pasta cremosa con guanciale dal gusto deciso ma armonioso, perfetta se cercate un primo piatto originale, goloso e allo stesso tempo facile da preparare. Ecco una lista di altri primi piatti saporiti da provare: Spaghetti all'amatriciana Spaghetti all'assassina Spaghetti cacio e pepe Pasta alla zozzona INGREDIENTI Spaghettoni 320 g Guanciale 200 g Pecorino Romano DOP 100 g Panna fresca liquida 250 g Scorza di limone 1 Cipolle bianche 50 g Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta all'amatriciana bianca Per preparare la pasta all'amatriciana bianca cominciate tagliando il guanciale a listarelle di 2 cm e versatelo in padella senza aggiungere grassi 1 . Tenete il fuoco medio basso, in questo modo si rosolerà per bene senza bruciarsi 2 . Dopo circa 10 minuti il guanciale sarà bello rosolato e croccante, a quel punto toglietelo dalla padella e tenetelo da parte 3 . Per la crema di pecorino vi basterà versare la panna in un pentolino 4 . Una volta che sfiorerà il bollore spegnete il fuoco e unite il pecorino romano grattugiato 5 . Mescolate bene con una frusta in modo da non creare grumi 6 . Ora mondate e tritate la cipolla bianca 7 e unitela al fondo di cottura del guanciale 8 . Mescolate e fate cuocere per 10 minuti 9 . Se dovesse servire, bagnate la cipolla con l'acqua di cottura, in questo modo non si brucerà 10 . Tuffate gli spaghettoni in acqua bollente salata 11 e, una volta al dente, trasferiteli in padella 12 . A fuoco spento unite il guanciale croccante 13 , la crema di pecorino 14 e mescolate bene per amalgamare gli ingredienti 15 . Servite gli spaghettoni insieme al condimento 16 e profumate con una grattugiata di pepe nero e con la scorza di limone 17 . La vostra pasta all'amatriciana bianca è pronta per essere servita 18 ! Conservazione E' preferibile consumare subito la pasta all'amatriciana bianca. Se dovesse avanzare, si può conservare un giorno in frigorifero. Per scaldarla versate 50 g di panna fresca o di acqua in modo da ravvivare la cremosità. Consiglio Se non volete usare la panna fresca aggiungete il pecorino grattugiato alla fine e unite l'acqua calda poco alla volta in modo da creare una cremina densa. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Spaghetti Pasta Limone Cipolla Scopri tutto sugli ingredienti Presente in: Primi piatti veloci , Primi piatti sfiziosi , Ricette sfiziose , Ricette veloci STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pasta all'amatriciana bianca Patate alla pizzaiola in padella Broccoli alla siciliana 5.0 SCOPRI Pasta all amatriciana Amatriciana bianca Bucatini all amatriciana Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. e all’utilizzo di pixel di tracciamento nelle suddette comunicazioni per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne Si No Prosegui",
+    "slides": [
+      "Spaghettoni cremosi al pecorino con guanciale croccante",
+      "Spaghettoni, guanciale, pecorino, panna, limone",
+      "Rosola il guanciale, crea la crema di pecorino",
+      "Manteca a fuoco spento con crema e guanciale",
+      "Scorza di limone e pepe nero in superficie"
+    ],
+    "instagram_caption": "La pasta all'amatriciana bianca esiste, e ora non potete più farne a meno. 🍝\nGuanciale rosolato fino a diventare croccante, una crema vellutata di pecorino e panna che avvolge gli spaghettoni, poi una grattata di limone e pepe nero a dare quella scintilla che non ti aspetti. 🍋\nIl segreto? Mantecare tutto a fuoco spento, così la crema resta setosa e il guanciale non perde il suo crunch.\nSalva il post e provala questo weekend: non tornerai più indietro. ✨",
+    "formats": {
+      "instagram": {
+        "caption": "La pasta all'amatriciana bianca esiste, e ora non potete più farne a meno. 🍝\nGuanciale rosolato fino a diventare croccante, una crema vellutata di pecorino e panna che avvolge gli spaghettoni, poi una grattata di limone e pepe nero a dare quella scintilla che non ti aspetti. 🍋\nIl segreto? Mantecare tutto a fuoco spento, così la crema resta setosa e il guanciale non perde il suo crunch.\nSalva il post e provala questo weekend: non tornerai più indietro. ✨"
+      },
+      "tiktok": {
+        "script": [
+          "Spaghettoni cremosi con guanciale croccante, che bomba!",
+          "Mi servono spaghettoni, guanciale, pecorino, panna e limone.",
+          "Rosolo il guanciale finché è oro, poi creo la crema.",
+          "Fuoco spento, manteco tutto con crema e guanciale.",
+          "Scorza di limone e pepe nero sopra, da urlo!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "L'amatriciana senza pomodoro esiste. E ti fa capire perché il guanciale non ha bisogno di coperture. Pasta bianca, cremosa, con una grattata di limone che spacca. Thread 👇",
+          "Ti servono: spaghettoni, guanciale, pecorino romano, panna (fidati), limone e pepe nero. Niente cipolla, niente aglio, niente pomodoro. Solo grasso buono e formaggio.",
+          "Rosola il guanciale a fiamma bassa finché non è croccante. Nel frattempo grattugia pecorino e mescolalo con un cucchiaio di panna: deve uscire una crema densa e lucida. Il limone lo usi solo alla fine.",
+          "Scola gli spaghettoni al dente, buttali nella padella del guanciale a fuoco spento. Aggiungi la crema di pecorino e manteca energicamente. L'acqua di cottura è il tuo salvagente: un goccio se stringe.",
+          "Impiatta, scorza di limone sopra e una macinata di pepe nero. Il limone taglia il grasso e ti fa fare il bis. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Spaghettoni cremosi con guanciale croccante, che bomba!",
+      "Mi servono spaghettoni, guanciale, pecorino, panna e limone.",
+      "Rosolo il guanciale finché è oro, poi creo la crema.",
+      "Fuoco spento, manteco tutto con crema e guanciale.",
+      "Scorza di limone e pepe nero sopra, da urlo!"
+    ],
+    "thread_text": [
+      "L'amatriciana senza pomodoro esiste. E ti fa capire perché il guanciale non ha bisogno di coperture. Pasta bianca, cremosa, con una grattata di limone che spacca. Thread 👇",
+      "Ti servono: spaghettoni, guanciale, pecorino romano, panna (fidati), limone e pepe nero. Niente cipolla, niente aglio, niente pomodoro. Solo grasso buono e formaggio.",
+      "Rosola il guanciale a fiamma bassa finché non è croccante. Nel frattempo grattugia pecorino e mescolalo con un cucchiaio di panna: deve uscire una crema densa e lucida. Il limone lo usi solo alla fine.",
+      "Scola gli spaghettoni al dente, buttali nella padella del guanciale a fuoco spento. Aggiungi la crema di pecorino e manteca energicamente. L'acqua di cottura è il tuo salvagente: un goccio se stringe.",
+      "Impiatta, scorza di limone sopra e una macinata di pepe nero. Il limone taglia il grasso e ti fa fare il bis. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Amatriciana bianca, cremosità senza pomodoro",
+        "description": "Spaghettoni avvolti in crema di pecorino e guanciale croccante: la carbonara che non ti aspetti.",
+        "visual_hint": "spaghettoni cremosi guanciale croccante",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory creamy pasta"
+      },
+      {
+        "hook": "Pochi ingredienti, carattere deciso",
+        "description": "Guanciale, pecorino, panna e limone: la semplicità che fa la differenza in cucina.",
+        "visual_hint": "ingredienti essenziali sul tavolo",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory pasta ingredients",
+        "image": "https://images.pexels.com/photos/4038950/pexels-photo-4038950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il segreto è la crema di pecorino",
+        "description": "Rosola il guanciale a fuoco vivo e prepara una crema liscia con pecorino e panna.",
+        "visual_hint": "guanciale che rosola in padella",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory frying guanciale",
+        "image": "https://images.pexels.com/photos/10794159/pexels-photo-10794159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Manteca a fuoco spento",
+        "description": "Unisci spaghettoni, crema e guanciale lontano dal fuoco: mantecatura perfetta senza grumi.",
+        "visual_hint": "mantecatura pasta a fuoco spento",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory pasta tossing",
+        "image": "https://images.pexels.com/photos/37406904/pexels-photo-37406904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Limone e pepe: il tocco finale",
+        "description": "Scorza di limone e pepe nero completano il piatto. Servi subito e conquista tutti.",
+        "visual_hint": "scorza di limone e pepe nero",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory lemon pasta",
+        "image": "https://images.pexels.com/photos/6541832/pexels-photo-6541832.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "spaghettoni",
+      "guanciale",
+      "pecorino"
+    ],
+    "image": "https://www.giallozafferano.it/images/368-36822/Pasta-all-amatriciana-bianca_1200x800_wm.jpg",
+    "savedAt": "2026-11-06T13:34:50.139Z",
+    "sourceId": "8d64aadd51e4fbc8f7054ed4523fc19e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "petto-di-pollo-al-limone-in-friggitrice-ad-aria",
     "prompt_version": "1.0.0",
     "status": "published",

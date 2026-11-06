@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-released-a-new-cybersecurity-model-is-that-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI released a new cybersecurity model. Is that enough?",
+  "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+  "pubDate": "Thu, 05 Nov 2026 19:06:12 +0000",
+  "slides": [
+    "OpenAI shipped a cybersecurity model — does it actually protect anyone?",
+    "Built to find software vulnerabilities before attackers do",
+    "But it missed flaws human researchers caught instantly",
+    "Your security team can't simply trust automated scanners yet",
+    "Test it on one known vulnerability before trusting it"
+  ],
+  "thread_text": [
+    "1. Security AI That Misses Flaws\n\nOpenAI's new model aims to find software vulnerabilities before attackers do, but in early tests it overlooked bugs that human researchers caught instantly.",
+    "2. Built to Outpace Attackers\n\nAutomated scanning promises speed, but the gap between AI detection and human intuition is still wide open.",
+    "3. The Blind Spot Problem\n\nOne missed flaw can be a backdoor. Relying solely on automated scanners could leave your systems exposed to threats they never see.",
+    "4. Trust Isn't Automatic\n\nYour security team can't simply trust automated scanners yet—especially when a single oversight can compromise everything.",
+    "5. Test Before You Trust\n\nTake one known vulnerability and run it through the model. If it misses, you know the limits. Start there."
+  ],
+  "video_script": [
+    "OpenAI shipped a cybersecurity model, but does it actually protect anyone?",
+    "It's built to find software flaws before attackers do.",
+    "But it missed bugs that human researchers caught instantly.",
+    "Your security team can't fully trust automated scanners yet.",
+    "Test it on one known vulnerability before you rely on it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Security AI That Misses Flaws\n\nOpenAI's new model aims to find software vulnerabilities before attackers do, but in early tests it overlooked bugs that human researchers caught instantly.",
+        "2. Built to Outpace Attackers\n\nAutomated scanning promises speed, but the gap between AI detection and human intuition is still wide open.",
+        "3. The Blind Spot Problem\n\nOne missed flaw can be a backdoor. Relying solely on automated scanners could leave your systems exposed to threats they never see.",
+        "4. Trust Isn't Automatic\n\nYour security team can't simply trust automated scanners yet—especially when a single oversight can compromise everything.",
+        "5. Test Before You Trust\n\nTake one known vulnerability and run it through the model. If it misses, you know the limits. Start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI shipped a cybersecurity model, but does it actually protect anyone?",
+        "It's built to find software flaws before attackers do.",
+        "But it missed bugs that human researchers caught instantly.",
+        "Your security team can't fully trust automated scanners yet.",
+        "Test it on one known vulnerability before you rely on it."
+      ]
+    },
+    "instagram": {
+      "caption": "Its scanner missed bugs human researchers caught instantly. 👀\n\nOpenAI shipped a cybersecurity model built to find software vulnerabilities before attackers do.\n\nBut early tests show it overlooked flaws a person spotted right away.\n\nOne missed flaw can act like a backdoor.\n\nSo your security team can't just trust automated scanners yet. 🔍\n\nIf you build or publish software, test the model on one known vulnerability first.\n\nIf it misses, you've found its limits before an attacker does. ⚠️\n\nWould you trust it on your codebase today? 🤔"
+    }
+  },
+  "instagram_caption": "Its scanner missed bugs human researchers caught instantly. 👀\n\nOpenAI shipped a cybersecurity model built to find software vulnerabilities before attackers do.\n\nBut early tests show it overlooked flaws a person spotted right away.\n\nOne missed flaw can act like a backdoor.\n\nSo your security team can't just trust automated scanners yet. 🔍\n\nIf you build or publish software, test the model on one known vulnerability first.\n\nIf it misses, you've found its limits before an attacker does. ⚠️\n\nWould you trust it on your codebase today? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Does AI security actually protect anyone?",
+      "description": "OpenAI's new model aims to find vulnerabilities before attackers, but early tests missed flaws humans caught instantly.",
+      "visual_hint": "Glowing cybersecurity shield hologram",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "cybersecurity shield"
+    },
+    {
+      "hook": "Built to outpace attackers, but blind spots remain",
+      "description": "Automated scanning promises speed, but the gap between AI detection and human intuition is still wide open.",
+      "visual_hint": "Split screen: AI vs human researcher",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "hacker computer code",
+      "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One missed flaw is a backdoor",
+      "description": "Relying solely on automated scanners could leave your systems exposed to threats they never see.",
+      "visual_hint": "Magnifying glass over code line",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass code",
+      "image": "https://images.pexels.com/photos/17543457/pexels-photo-17543457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trust isn't automatic — your team can't rely yet",
+      "description": "A single oversight can compromise everything, so security teams must verify AI findings before acting.",
+      "visual_hint": "Hand hovering over keyboard alert",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office worker computer",
+      "image": "https://images.pexels.com/photos/12903349/pexels-photo-12903349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it on one known vulnerability now",
+      "description": "Run a known flaw through the model. If it misses, you know the limits. Start there.",
+      "visual_hint": "Checklist with vulnerability test",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard pen",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798",
+  "savedAt": "2026-11-06T13:29:29.533Z",
+  "sourceId": "2bf787a301ee1485ff87bf91f79f92e1"
+}

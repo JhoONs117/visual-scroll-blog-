@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "palo-alto-networks-in-talks-to-buy-ai-agent-securi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+  "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+  "pubDate": "Fri, 06 Nov 2026 06:28:32 +0000",
+  "slides": [
+    "Why is Palo Alto paying $500M for a tiny startup?",
+    "Clutch secures AI agents before they reach production.",
+    "AI agents can be hijacked to leak data or execute code.",
+    "Security teams must now inventory every agent in their stack.",
+    "Ask your CISO: who owns agent security today?"
+  ],
+  "thread_text": [
+    "1. $500M for a tiny startup?\n\nPalo Alto Networks just dropped half a billion on a company most people have never heard of. The reason: AI agents are entering production faster than security can keep up.",
+    "2. Clutch secures AI agents\n\nThe startup's platform locks down agents before they go live. It's not about post-breach cleanup — it's about preventing the breach in the first place.",
+    "3. Hijacked agents leak data\n\nAttackers can take over AI agents to exfiltrate sensitive information or run malicious code. Your agent could be a backdoor you didn't know you had.",
+    "4. Inventory every agent now\n\nSecurity teams can't protect what they can't see. Start by listing every AI agent in your stack — shadow agents are the new shadow IT.",
+    "5. Who owns agent security?\n\nAsk your CISO today. If no one has a clear answer, you've already found your first gap."
+  ],
+  "video_script": [
+    "Why is Palo Alto paying five hundred million for a tiny startup?",
+    "Clutch secures AI agents before they reach production.",
+    "AI agents can be hijacked to leak data or execute code.",
+    "Security teams must inventory every agent in their stack.",
+    "Ask your CISO: who owns agent security today?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $500M for a tiny startup?\n\nPalo Alto Networks just dropped half a billion on a company most people have never heard of. The reason: AI agents are entering production faster than security can keep up.",
+        "2. Clutch secures AI agents\n\nThe startup's platform locks down agents before they go live. It's not about post-breach cleanup — it's about preventing the breach in the first place.",
+        "3. Hijacked agents leak data\n\nAttackers can take over AI agents to exfiltrate sensitive information or run malicious code. Your agent could be a backdoor you didn't know you had.",
+        "4. Inventory every agent now\n\nSecurity teams can't protect what they can't see. Start by listing every AI agent in your stack — shadow agents are the new shadow IT.",
+        "5. Who owns agent security?\n\nAsk your CISO today. If no one has a clear answer, you've already found your first gap."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Why is Palo Alto paying five hundred million for a tiny startup?",
+        "Clutch secures AI agents before they reach production.",
+        "AI agents can be hijacked to leak data or execute code.",
+        "Security teams must inventory every agent in their stack.",
+        "Ask your CISO: who owns agent security today?"
+      ]
+    },
+    "instagram": {
+      "caption": "Half a billion dollars for a startup most people have never heard of. 💰\n\nPalo Alto Networks is in talks to buy Clutch, which secures AI agents before they reach production.\n\nHijacked agents can leak data or run malicious code — a backdoor you didn't know you had. 🔓\n\nIf you create or publish with AI tools, the agents in your stack may now be someone else's entry point.\n\nAsk your CISO: who owns agent security today? 🛡️\n\nIf no one has a clear answer, you've found your first gap. 👀"
+    }
+  },
+  "instagram_caption": "Half a billion dollars for a startup most people have never heard of. 💰\n\nPalo Alto Networks is in talks to buy Clutch, which secures AI agents before they reach production.\n\nHijacked agents can leak data or run malicious code — a backdoor you didn't know you had. 🔓\n\nIf you create or publish with AI tools, the agents in your stack may now be someone else's entry point.\n\nAsk your CISO: who owns agent security today? 🛡️\n\nIf no one has a clear answer, you've found your first gap. 👀",
+  "carousel_slides": [
+    {
+      "hook": "Is your AI agent a backdoor?",
+      "description": "Palo Alto Networks is paying $500M for Clutch because AI agents can be hijacked to leak data or execute code.",
+      "visual_hint": "Dark server room with glowing red warning light",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Clutch secures agents before production.",
+      "description": "Clutch locks down AI agents before they go live, focusing on prevention rather than post-breach cleanup.",
+      "visual_hint": "Digital lock icon over AI workflow diagram",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "digital lock",
+      "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Hijacked agents leak sensitive data.",
+      "description": "Attackers can take over AI agents to exfiltrate information or run malicious code, turning your agent into a backdoor.",
+      "visual_hint": "Hacker silhouette accessing data streams",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "hacker computer",
+      "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Inventory every AI agent now.",
+      "description": "Security teams can't protect what they can't see. Start by listing every AI agent in your stack—shadow agents are the new shadow IT.",
+      "visual_hint": "Checklist with agent icons on clipboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "clipboard checklist",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: ask your CISO today.",
+      "description": "If no one owns agent security, you've found your first gap. Share this with your security team.",
+      "visual_hint": "CISO office door with question mark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office door",
+      "image": "https://images.pexels.com/photos/16631162/pexels-photo-16631162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800",
+  "savedAt": "2026-11-06T13:29:19.579Z",
+  "sourceId": "aa3547203e76d8ef896ab6eb8d8a996e"
+}

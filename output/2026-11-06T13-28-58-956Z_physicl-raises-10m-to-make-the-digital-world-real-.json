@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "physicl-raises-10m-to-make-the-digital-world-real-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Physicl raises $10M to make the digital world real enough for robots",
+  "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+  "pubDate": "Fri, 06 Nov 2026 13:00:00 +0000",
+  "slides": [
+    "Can a robot trust what it sees on screen?",
+    "Physicl just raised $10M to solve this",
+    "The digital world it builds is not simulated",
+    "Real-world robot training gets cheaper and faster",
+    "Test one physical task with Physicl this month"
+  ],
+  "thread_text": [
+    "1. Can a robot trust what it sees on screen?\n\nPhysicl just raised $10M to tackle that exact problem. The company builds digital worlds that are not simulated, meaning robots learn from real-world physics, not approximations.",
+    "2. Physicl raises $10M\n\nThe funding will accelerate the development of its non-simulated digital environments, where robots can safely fail and learn without expensive physical setups.",
+    "3. Real-world training gets cheaper\n\nBy using Physicl's digital worlds, robot training becomes faster and more cost-effective. Companies can test physical tasks without building multiple physical prototypes.",
+    "4. Test one physical task\n\nPhysicl invites you to try a single physical task this month. It's a hands-on way to see if their approach fits your needs.",
+    "5. Ready to try Physicl?\n\nSign up for a trial and test one physical task this month. If you don't, your competitors might beat you to it."
+  ],
+  "video_script": [
+    "Can a robot trust what it sees on screen?",
+    "Physicl raised ten million dollars to solve this.",
+    "Their digital world is not simulated.",
+    "Real-world robot training gets cheaper and faster.",
+    "Test one physical task with Physicl this month."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can a robot trust what it sees on screen?\n\nPhysicl just raised $10M to tackle that exact problem. The company builds digital worlds that are not simulated, meaning robots learn from real-world physics, not approximations.",
+        "2. Physicl raises $10M\n\nThe funding will accelerate the development of its non-simulated digital environments, where robots can safely fail and learn without expensive physical setups.",
+        "3. Real-world training gets cheaper\n\nBy using Physicl's digital worlds, robot training becomes faster and more cost-effective. Companies can test physical tasks without building multiple physical prototypes.",
+        "4. Test one physical task\n\nPhysicl invites you to try a single physical task this month. It's a hands-on way to see if their approach fits your needs.",
+        "5. Ready to try Physicl?\n\nSign up for a trial and test one physical task this month. If you don't, your competitors might beat you to it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can a robot trust what it sees on screen?",
+        "Physicl raised ten million dollars to solve this.",
+        "Their digital world is not simulated.",
+        "Real-world robot training gets cheaper and faster.",
+        "Test one physical task with Physicl this month."
+      ]
+    },
+    "instagram": {
+      "caption": "A robot still can't fully trust what it sees on screen, and that gap just cost someone $10M to close. 🤖\n\nPhysicl raised $10M to build digital worlds that aren't simulated, so robots learn from real-world physics instead of approximations.\n\nThat means training gets cheaper and faster, without building endless physical prototypes. ⚙️\n\nIf you work with robotics or content around it, your testing loop just got shorter. 🚀\n\nWould you test one physical task this month, or let a competitor do it first? 👀"
+    }
+  },
+  "instagram_caption": "A robot still can't fully trust what it sees on screen, and that gap just cost someone $10M to close. 🤖\n\nPhysicl raised $10M to build digital worlds that aren't simulated, so robots learn from real-world physics instead of approximations.\n\nThat means training gets cheaper and faster, without building endless physical prototypes. ⚙️\n\nIf you work with robotics or content around it, your testing loop just got shorter. 🚀\n\nWould you test one physical task this month, or let a competitor do it first? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Can robots really trust what they see?",
+      "description": "Physicl raised $10M to build digital worlds where robots learn from real physics, not simulations.",
+      "visual_hint": "Robot eye reflecting digital code",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "robot eye"
+    },
+    {
+      "hook": "$10M to make digital worlds real",
+      "description": "The funding accelerates non-simulated environments where robots fail safely and learn without costly physical setups.",
+      "visual_hint": "Investment funding announcement graphic",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "funding money",
+      "image": "https://images.pexels.com/photos/7680480/pexels-photo-7680480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Not simulated. Actually real physics.",
+      "description": "Physicl's digital worlds use real-world physics, so robots learn accurate behavior instead of approximations.",
+      "visual_hint": "Physics equations over digital grid",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "physics lab",
+      "image": "https://images.pexels.com/photos/39926619/pexels-photo-39926619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Train robots faster and cheaper",
+      "description": "Companies can test physical tasks in Physicl's worlds without building multiple prototypes, saving time and money.",
+      "visual_hint": "Hand interacting with virtual robot",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one physical task this month",
+      "description": "Sign up for a Physicl trial and try a single physical task now. Don't let competitors beat you.",
+      "visual_hint": "Call-to-action button on screen",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "computer screen",
+      "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/physicl-studio-hero-kitchen-16x9-1.jpg?resize=1200,675",
+  "savedAt": "2026-11-06T13:29:09.751Z",
+  "sourceId": "6d72973eed55f30e014a1d554dc13550"
+}

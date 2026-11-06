@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "us-government-warns-of-ongoing-cyber-threat-amid-m",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
+      "link": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+      "pubDate": "Thu, 05 Nov 2026 18:48:34 +0000",
+      "slides": [
+        "Why is the US warning about hacked freezers now?",
+        "Industrial, retail and military cold storage systems are compromised.",
+        "The attackers aren't after data — they want physical disruption.",
+        "Check your cold-chain devices for unknown outbound connections.",
+        "One unpatched freezer is a door into your whole network."
+      ],
+      "thread_text": [
+        "1. Your Freezer Is a Backdoor\n\nUS agencies just warned that hacked cold storage systems are being used for physical sabotage, not data theft.",
+        "2. Cold Chain Under Siege\n\nIndustrial, retail, and military refrigeration units have all been compromised in coordinated attacks.",
+        "3. They Want Disruption, Not Data\n\nAttackers are skipping ransomware and going straight for physical chaos—spoiled goods, broken supply lines.",
+        "4. Check Outbound Connections\n\nLook for unknown outbound traffic from your cold-chain devices. That's the telltale sign of a compromised freezer.",
+        "5. One Freezer, Whole Network\n\nAn unpatched freezer is a door into your entire network. Patch it today or segment it off—your call."
+      ],
+      "video_script": [
+        "US warns: hacked freezers are now a physical threat.",
+        "Industrial, retail, and military cold storage systems are compromised.",
+        "Attackers aren't after data—they want physical disruption.",
+        "Check your cold-chain devices for unknown outbound connections.",
+        "One unpatched freezer opens the door to your whole network."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your Freezer Is a Backdoor\n\nUS agencies just warned that hacked cold storage systems are being used for physical sabotage, not data theft.",
+            "2. Cold Chain Under Siege\n\nIndustrial, retail, and military refrigeration units have all been compromised in coordinated attacks.",
+            "3. They Want Disruption, Not Data\n\nAttackers are skipping ransomware and going straight for physical chaos—spoiled goods, broken supply lines.",
+            "4. Check Outbound Connections\n\nLook for unknown outbound traffic from your cold-chain devices. That's the telltale sign of a compromised freezer.",
+            "5. One Freezer, Whole Network\n\nAn unpatched freezer is a door into your entire network. Patch it today or segment it off—your call."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "US warns: hacked freezers are now a physical threat.",
+            "Industrial, retail, and military cold storage systems are compromised.",
+            "Attackers aren't after data—they want physical disruption.",
+            "Check your cold-chain devices for unknown outbound connections.",
+            "One unpatched freezer opens the door to your whole network."
+          ]
+        },
+        "instagram": {
+          "caption": "US agencies are warning that hacked industrial, retail and military freezers are being used for physical sabotage, not data theft. 🚨\n\nAttackers are skipping ransomware and going straight for disruption — spoiled goods, broken supply lines.\n\nThe telltale sign? Unknown outbound connections from your cold-chain devices. ⚠️\n\nIf you create or publish content around security, this is the story: an unpatched freezer is a door into an entire network.\n\nHave you checked what your cold-chain devices are connecting to lately? 🧊🔍"
+        }
+      },
+      "instagram_caption": "US agencies are warning that hacked industrial, retail and military freezers are being used for physical sabotage, not data theft. 🚨\n\nAttackers are skipping ransomware and going straight for disruption — spoiled goods, broken supply lines.\n\nThe telltale sign? Unknown outbound connections from your cold-chain devices. ⚠️\n\nIf you create or publish content around security, this is the story: an unpatched freezer is a door into an entire network.\n\nHave you checked what your cold-chain devices are connecting to lately? 🧊🔍",
+      "carousel_slides": [
+        {
+          "hook": "Your freezer could be a backdoor",
+          "description": "US agencies warn hacked cold storage systems are being used for physical sabotage, not data theft.",
+          "visual_hint": "Industrial freezer with warning overlay",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "industrial freezer"
+        },
+        {
+          "hook": "Cold chain under coordinated attack",
+          "description": "Industrial, retail, and military refrigeration units have all been compromised in coordinated attacks.",
+          "visual_hint": "Split image of freezer types",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "cold storage warehouse",
+          "image": "https://images.pexels.com/photos/36522088/pexels-photo-36522088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "They want chaos, not your data",
+          "description": "Attackers skip ransomware and go straight for physical chaos—spoiled goods, broken supply lines.",
+          "visual_hint": "Spoiled food in broken freezer",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "spoiled food",
+          "image": "https://images.pexels.com/photos/4195518/pexels-photo-4195518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check outbound connections now",
+          "description": "Look for unknown outbound traffic from cold-chain devices. That's the telltale sign of a compromised freezer.",
+          "visual_hint": "Network monitoring dashboard on screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "network monitoring",
+          "image": "https://images.pexels.com/photos/38143085/pexels-photo-38143085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: one freezer, whole network",
+          "description": "An unpatched freezer is a door into your entire network. Patch it today or segment it off—your call.",
+          "visual_hint": "Network diagram with freezer entry point",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "network diagram",
+          "image": "https://images.pexels.com/photos/6642542/pexels-photo-6642542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/freezer-hacks-2299339780.jpg?resize=1200,800",
+      "savedAt": "2026-11-06T13:29:39.046Z",
+      "sourceId": "92bc664f812f4c9a9195760d2f2ccde6"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-released-a-new-cybersecurity-model-is-that-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "pubDate": "Thu, 05 Nov 2026 19:06:12 +0000",
+      "slides": [
+        "OpenAI shipped a cybersecurity model — does it actually protect anyone?",
+        "Built to find software vulnerabilities before attackers do",
+        "But it missed flaws human researchers caught instantly",
+        "Your security team can't simply trust automated scanners yet",
+        "Test it on one known vulnerability before trusting it"
+      ],
+      "thread_text": [
+        "1. Security AI That Misses Flaws\n\nOpenAI's new model aims to find software vulnerabilities before attackers do, but in early tests it overlooked bugs that human researchers caught instantly.",
+        "2. Built to Outpace Attackers\n\nAutomated scanning promises speed, but the gap between AI detection and human intuition is still wide open.",
+        "3. The Blind Spot Problem\n\nOne missed flaw can be a backdoor. Relying solely on automated scanners could leave your systems exposed to threats they never see.",
+        "4. Trust Isn't Automatic\n\nYour security team can't simply trust automated scanners yet—especially when a single oversight can compromise everything.",
+        "5. Test Before You Trust\n\nTake one known vulnerability and run it through the model. If it misses, you know the limits. Start there."
+      ],
+      "video_script": [
+        "OpenAI shipped a cybersecurity model, but does it actually protect anyone?",
+        "It's built to find software flaws before attackers do.",
+        "But it missed bugs that human researchers caught instantly.",
+        "Your security team can't fully trust automated scanners yet.",
+        "Test it on one known vulnerability before you rely on it."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Security AI That Misses Flaws\n\nOpenAI's new model aims to find software vulnerabilities before attackers do, but in early tests it overlooked bugs that human researchers caught instantly.",
+            "2. Built to Outpace Attackers\n\nAutomated scanning promises speed, but the gap between AI detection and human intuition is still wide open.",
+            "3. The Blind Spot Problem\n\nOne missed flaw can be a backdoor. Relying solely on automated scanners could leave your systems exposed to threats they never see.",
+            "4. Trust Isn't Automatic\n\nYour security team can't simply trust automated scanners yet—especially when a single oversight can compromise everything.",
+            "5. Test Before You Trust\n\nTake one known vulnerability and run it through the model. If it misses, you know the limits. Start there."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI shipped a cybersecurity model, but does it actually protect anyone?",
+            "It's built to find software flaws before attackers do.",
+            "But it missed bugs that human researchers caught instantly.",
+            "Your security team can't fully trust automated scanners yet.",
+            "Test it on one known vulnerability before you rely on it."
+          ]
+        },
+        "instagram": {
+          "caption": "Its scanner missed bugs human researchers caught instantly. 👀\n\nOpenAI shipped a cybersecurity model built to find software vulnerabilities before attackers do.\n\nBut early tests show it overlooked flaws a person spotted right away.\n\nOne missed flaw can act like a backdoor.\n\nSo your security team can't just trust automated scanners yet. 🔍\n\nIf you build or publish software, test the model on one known vulnerability first.\n\nIf it misses, you've found its limits before an attacker does. ⚠️\n\nWould you trust it on your codebase today? 🤔"
+        }
+      },
+      "instagram_caption": "Its scanner missed bugs human researchers caught instantly. 👀\n\nOpenAI shipped a cybersecurity model built to find software vulnerabilities before attackers do.\n\nBut early tests show it overlooked flaws a person spotted right away.\n\nOne missed flaw can act like a backdoor.\n\nSo your security team can't just trust automated scanners yet. 🔍\n\nIf you build or publish software, test the model on one known vulnerability first.\n\nIf it misses, you've found its limits before an attacker does. ⚠️\n\nWould you trust it on your codebase today? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Does AI security actually protect anyone?",
+          "description": "OpenAI's new model aims to find vulnerabilities before attackers, but early tests missed flaws humans caught instantly.",
+          "visual_hint": "Glowing cybersecurity shield hologram",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "cybersecurity shield"
+        },
+        {
+          "hook": "Built to outpace attackers, but blind spots remain",
+          "description": "Automated scanning promises speed, but the gap between AI detection and human intuition is still wide open.",
+          "visual_hint": "Split screen: AI vs human researcher",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "hacker computer code",
+          "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One missed flaw is a backdoor",
+          "description": "Relying solely on automated scanners could leave your systems exposed to threats they never see.",
+          "visual_hint": "Magnifying glass over code line",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass code",
+          "image": "https://images.pexels.com/photos/17543457/pexels-photo-17543457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Trust isn't automatic — your team can't rely yet",
+          "description": "A single oversight can compromise everything, so security teams must verify AI findings before acting.",
+          "visual_hint": "Hand hovering over keyboard alert",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office worker computer",
+          "image": "https://images.pexels.com/photos/12903349/pexels-photo-12903349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it on one known vulnerability now",
+          "description": "Run a known flaw through the model. If it misses, you know the limits. Start there.",
+          "visual_hint": "Checklist with vulnerability test",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard pen",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798",
+      "savedAt": "2026-11-06T13:29:29.533Z",
+      "sourceId": "2bf787a301ee1485ff87bf91f79f92e1"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "palo-alto-networks-in-talks-to-buy-ai-agent-securi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "pubDate": "Fri, 06 Nov 2026 06:28:32 +0000",
+      "slides": [
+        "Why is Palo Alto paying $500M for a tiny startup?",
+        "Clutch secures AI agents before they reach production.",
+        "AI agents can be hijacked to leak data or execute code.",
+        "Security teams must now inventory every agent in their stack.",
+        "Ask your CISO: who owns agent security today?"
+      ],
+      "thread_text": [
+        "1. $500M for a tiny startup?\n\nPalo Alto Networks just dropped half a billion on a company most people have never heard of. The reason: AI agents are entering production faster than security can keep up.",
+        "2. Clutch secures AI agents\n\nThe startup's platform locks down agents before they go live. It's not about post-breach cleanup — it's about preventing the breach in the first place.",
+        "3. Hijacked agents leak data\n\nAttackers can take over AI agents to exfiltrate sensitive information or run malicious code. Your agent could be a backdoor you didn't know you had.",
+        "4. Inventory every agent now\n\nSecurity teams can't protect what they can't see. Start by listing every AI agent in your stack — shadow agents are the new shadow IT.",
+        "5. Who owns agent security?\n\nAsk your CISO today. If no one has a clear answer, you've already found your first gap."
+      ],
+      "video_script": [
+        "Why is Palo Alto paying five hundred million for a tiny startup?",
+        "Clutch secures AI agents before they reach production.",
+        "AI agents can be hijacked to leak data or execute code.",
+        "Security teams must inventory every agent in their stack.",
+        "Ask your CISO: who owns agent security today?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $500M for a tiny startup?\n\nPalo Alto Networks just dropped half a billion on a company most people have never heard of. The reason: AI agents are entering production faster than security can keep up.",
+            "2. Clutch secures AI agents\n\nThe startup's platform locks down agents before they go live. It's not about post-breach cleanup — it's about preventing the breach in the first place.",
+            "3. Hijacked agents leak data\n\nAttackers can take over AI agents to exfiltrate sensitive information or run malicious code. Your agent could be a backdoor you didn't know you had.",
+            "4. Inventory every agent now\n\nSecurity teams can't protect what they can't see. Start by listing every AI agent in your stack — shadow agents are the new shadow IT.",
+            "5. Who owns agent security?\n\nAsk your CISO today. If no one has a clear answer, you've already found your first gap."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Why is Palo Alto paying five hundred million for a tiny startup?",
+            "Clutch secures AI agents before they reach production.",
+            "AI agents can be hijacked to leak data or execute code.",
+            "Security teams must inventory every agent in their stack.",
+            "Ask your CISO: who owns agent security today?"
+          ]
+        },
+        "instagram": {
+          "caption": "Half a billion dollars for a startup most people have never heard of. 💰\n\nPalo Alto Networks is in talks to buy Clutch, which secures AI agents before they reach production.\n\nHijacked agents can leak data or run malicious code — a backdoor you didn't know you had. 🔓\n\nIf you create or publish with AI tools, the agents in your stack may now be someone else's entry point.\n\nAsk your CISO: who owns agent security today? 🛡️\n\nIf no one has a clear answer, you've found your first gap. 👀"
+        }
+      },
+      "instagram_caption": "Half a billion dollars for a startup most people have never heard of. 💰\n\nPalo Alto Networks is in talks to buy Clutch, which secures AI agents before they reach production.\n\nHijacked agents can leak data or run malicious code — a backdoor you didn't know you had. 🔓\n\nIf you create or publish with AI tools, the agents in your stack may now be someone else's entry point.\n\nAsk your CISO: who owns agent security today? 🛡️\n\nIf no one has a clear answer, you've found your first gap. 👀",
+      "carousel_slides": [
+        {
+          "hook": "Is your AI agent a backdoor?",
+          "description": "Palo Alto Networks is paying $500M for Clutch because AI agents can be hijacked to leak data or execute code.",
+          "visual_hint": "Dark server room with glowing red warning light",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Clutch secures agents before production.",
+          "description": "Clutch locks down AI agents before they go live, focusing on prevention rather than post-breach cleanup.",
+          "visual_hint": "Digital lock icon over AI workflow diagram",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "digital lock",
+          "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Hijacked agents leak sensitive data.",
+          "description": "Attackers can take over AI agents to exfiltrate information or run malicious code, turning your agent into a backdoor.",
+          "visual_hint": "Hacker silhouette accessing data streams",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "hacker computer",
+          "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Inventory every AI agent now.",
+          "description": "Security teams can't protect what they can't see. Start by listing every AI agent in your stack—shadow agents are the new shadow IT.",
+          "visual_hint": "Checklist with agent icons on clipboard",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "clipboard checklist",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: ask your CISO today.",
+          "description": "If no one owns agent security, you've found your first gap. Share this with your security team.",
+          "visual_hint": "CISO office door with question mark",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office door",
+          "image": "https://images.pexels.com/photos/16631162/pexels-photo-16631162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800",
+      "savedAt": "2026-11-06T13:29:19.579Z",
+      "sourceId": "aa3547203e76d8ef896ab6eb8d8a996e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "physicl-raises-10m-to-make-the-digital-world-real-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "pubDate": "Fri, 06 Nov 2026 13:00:00 +0000",
+      "slides": [
+        "Can a robot trust what it sees on screen?",
+        "Physicl just raised $10M to solve this",
+        "The digital world it builds is not simulated",
+        "Real-world robot training gets cheaper and faster",
+        "Test one physical task with Physicl this month"
+      ],
+      "thread_text": [
+        "1. Can a robot trust what it sees on screen?\n\nPhysicl just raised $10M to tackle that exact problem. The company builds digital worlds that are not simulated, meaning robots learn from real-world physics, not approximations.",
+        "2. Physicl raises $10M\n\nThe funding will accelerate the development of its non-simulated digital environments, where robots can safely fail and learn without expensive physical setups.",
+        "3. Real-world training gets cheaper\n\nBy using Physicl's digital worlds, robot training becomes faster and more cost-effective. Companies can test physical tasks without building multiple physical prototypes.",
+        "4. Test one physical task\n\nPhysicl invites you to try a single physical task this month. It's a hands-on way to see if their approach fits your needs.",
+        "5. Ready to try Physicl?\n\nSign up for a trial and test one physical task this month. If you don't, your competitors might beat you to it."
+      ],
+      "video_script": [
+        "Can a robot trust what it sees on screen?",
+        "Physicl raised ten million dollars to solve this.",
+        "Their digital world is not simulated.",
+        "Real-world robot training gets cheaper and faster.",
+        "Test one physical task with Physicl this month."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can a robot trust what it sees on screen?\n\nPhysicl just raised $10M to tackle that exact problem. The company builds digital worlds that are not simulated, meaning robots learn from real-world physics, not approximations.",
+            "2. Physicl raises $10M\n\nThe funding will accelerate the development of its non-simulated digital environments, where robots can safely fail and learn without expensive physical setups.",
+            "3. Real-world training gets cheaper\n\nBy using Physicl's digital worlds, robot training becomes faster and more cost-effective. Companies can test physical tasks without building multiple physical prototypes.",
+            "4. Test one physical task\n\nPhysicl invites you to try a single physical task this month. It's a hands-on way to see if their approach fits your needs.",
+            "5. Ready to try Physicl?\n\nSign up for a trial and test one physical task this month. If you don't, your competitors might beat you to it."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Can a robot trust what it sees on screen?",
+            "Physicl raised ten million dollars to solve this.",
+            "Their digital world is not simulated.",
+            "Real-world robot training gets cheaper and faster.",
+            "Test one physical task with Physicl this month."
+          ]
+        },
+        "instagram": {
+          "caption": "A robot still can't fully trust what it sees on screen, and that gap just cost someone $10M to close. 🤖\n\nPhysicl raised $10M to build digital worlds that aren't simulated, so robots learn from real-world physics instead of approximations.\n\nThat means training gets cheaper and faster, without building endless physical prototypes. ⚙️\n\nIf you work with robotics or content around it, your testing loop just got shorter. 🚀\n\nWould you test one physical task this month, or let a competitor do it first? 👀"
+        }
+      },
+      "instagram_caption": "A robot still can't fully trust what it sees on screen, and that gap just cost someone $10M to close. 🤖\n\nPhysicl raised $10M to build digital worlds that aren't simulated, so robots learn from real-world physics instead of approximations.\n\nThat means training gets cheaper and faster, without building endless physical prototypes. ⚙️\n\nIf you work with robotics or content around it, your testing loop just got shorter. 🚀\n\nWould you test one physical task this month, or let a competitor do it first? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Can robots really trust what they see?",
+          "description": "Physicl raised $10M to build digital worlds where robots learn from real physics, not simulations.",
+          "visual_hint": "Robot eye reflecting digital code",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "robot eye"
+        },
+        {
+          "hook": "$10M to make digital worlds real",
+          "description": "The funding accelerates non-simulated environments where robots fail safely and learn without costly physical setups.",
+          "visual_hint": "Investment funding announcement graphic",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "funding money",
+          "image": "https://images.pexels.com/photos/7680480/pexels-photo-7680480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Not simulated. Actually real physics.",
+          "description": "Physicl's digital worlds use real-world physics, so robots learn accurate behavior instead of approximations.",
+          "visual_hint": "Physics equations over digital grid",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "physics lab",
+          "image": "https://images.pexels.com/photos/39926619/pexels-photo-39926619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Train robots faster and cheaper",
+          "description": "Companies can test physical tasks in Physicl's worlds without building multiple prototypes, saving time and money.",
+          "visual_hint": "Hand interacting with virtual robot",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one physical task this month",
+          "description": "Sign up for a Physicl trial and try a single physical task now. Don't let competitors beat you.",
+          "visual_hint": "Call-to-action button on screen",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "computer screen",
+          "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/physicl-studio-hero-kitchen-16x9-1.jpg?resize=1200,675",
+      "savedAt": "2026-11-06T13:29:09.751Z",
+      "sourceId": "6d72973eed55f30e014a1d554dc13550"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "-total-repudiation-the-blue-wave-is-about-to-hit-a",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -208844,6 +209260,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pasta-all-amatriciana-bianca",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pasta all'amatriciana bianca",
+      "link": "https://ricette.giallozafferano.it/Pasta-all-amatriciana-bianca.html",
+      "pubDate": "Fri, 06 Nov 2026 12:35:00 +0100",
+      "content": "Pasta all'amatriciana bianca Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Pasta all'amatriciana bianca /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 10 min Cottura: 25 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti PRESENTAZIONE Se amate i primi piatti cremosi , saporiti e capaci di sorprendere con pochi ingredienti, questa pasta all'amatriciana bianca è la ricetta giusta da provare. Una ricetta semplice nell’idea, ispirata al tradizionale piatto di Amatrice e ricca di contrasti: il guanciale diventa croccante e saporito, la crema di pecorino avvolge la pasta con una consistenza morbida e vellutata, mentre la scorza di limone dona una nota fresca e profumata che alleggerisce il gusto e rende il risultato ancora più invitante. Il segreto sta tutto nella mantecatura: lasciate che gli spaghettoni si uniscano alla crema di pecorino e al fondo saporito del guanciale, così ogni forchettata sarà intensa, cremosa e ben equilibrata. Il tocco finale del limone fa davvero la differenza, basterà aggiungerlo alla fine, grattugiando finemente la scorza direttamente sul piatto, così conserverà tutto il suo profumo. Il risultato è una pasta cremosa con guanciale dal gusto deciso ma armonioso, perfetta se cercate un primo piatto originale, goloso e allo stesso tempo facile da preparare. Ecco una lista di altri primi piatti saporiti da provare: Spaghetti all'amatriciana Spaghetti all'assassina Spaghetti cacio e pepe Pasta alla zozzona INGREDIENTI Spaghettoni 320 g Guanciale 200 g Pecorino Romano DOP 100 g Panna fresca liquida 250 g Scorza di limone 1 Cipolle bianche 50 g Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta all'amatriciana bianca Per preparare la pasta all'amatriciana bianca cominciate tagliando il guanciale a listarelle di 2 cm e versatelo in padella senza aggiungere grassi 1 . Tenete il fuoco medio basso, in questo modo si rosolerà per bene senza bruciarsi 2 . Dopo circa 10 minuti il guanciale sarà bello rosolato e croccante, a quel punto toglietelo dalla padella e tenetelo da parte 3 . Per la crema di pecorino vi basterà versare la panna in un pentolino 4 . Una volta che sfiorerà il bollore spegnete il fuoco e unite il pecorino romano grattugiato 5 . Mescolate bene con una frusta in modo da non creare grumi 6 . Ora mondate e tritate la cipolla bianca 7 e unitela al fondo di cottura del guanciale 8 . Mescolate e fate cuocere per 10 minuti 9 . Se dovesse servire, bagnate la cipolla con l'acqua di cottura, in questo modo non si brucerà 10 . Tuffate gli spaghettoni in acqua bollente salata 11 e, una volta al dente, trasferiteli in padella 12 . A fuoco spento unite il guanciale croccante 13 , la crema di pecorino 14 e mescolate bene per amalgamare gli ingredienti 15 . Servite gli spaghettoni insieme al condimento 16 e profumate con una grattugiata di pepe nero e con la scorza di limone 17 . La vostra pasta all'amatriciana bianca è pronta per essere servita 18 ! Conservazione E' preferibile consumare subito la pasta all'amatriciana bianca. Se dovesse avanzare, si può conservare un giorno in frigorifero. Per scaldarla versate 50 g di panna fresca o di acqua in modo da ravvivare la cremosità. Consiglio Se non volete usare la panna fresca aggiungete il pecorino grattugiato alla fine e unite l'acqua calda poco alla volta in modo da creare una cremina densa. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Spaghetti Pasta Limone Cipolla Scopri tutto sugli ingredienti Presente in: Primi piatti veloci , Primi piatti sfiziosi , Ricette sfiziose , Ricette veloci STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pasta all'amatriciana bianca Patate alla pizzaiola in padella Broccoli alla siciliana 5.0 SCOPRI Pasta all amatriciana Amatriciana bianca Bucatini all amatriciana Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. e all’utilizzo di pixel di tracciamento nelle suddette comunicazioni per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne Si No Prosegui",
+      "slides": [
+        "Spaghettoni cremosi al pecorino con guanciale croccante",
+        "Spaghettoni, guanciale, pecorino, panna, limone",
+        "Rosola il guanciale, crea la crema di pecorino",
+        "Manteca a fuoco spento con crema e guanciale",
+        "Scorza di limone e pepe nero in superficie"
+      ],
+      "instagram_caption": "La pasta all'amatriciana bianca esiste, e ora non potete più farne a meno. 🍝\nGuanciale rosolato fino a diventare croccante, una crema vellutata di pecorino e panna che avvolge gli spaghettoni, poi una grattata di limone e pepe nero a dare quella scintilla che non ti aspetti. 🍋\nIl segreto? Mantecare tutto a fuoco spento, così la crema resta setosa e il guanciale non perde il suo crunch.\nSalva il post e provala questo weekend: non tornerai più indietro. ✨",
+      "formats": {
+        "instagram": {
+          "caption": "La pasta all'amatriciana bianca esiste, e ora non potete più farne a meno. 🍝\nGuanciale rosolato fino a diventare croccante, una crema vellutata di pecorino e panna che avvolge gli spaghettoni, poi una grattata di limone e pepe nero a dare quella scintilla che non ti aspetti. 🍋\nIl segreto? Mantecare tutto a fuoco spento, così la crema resta setosa e il guanciale non perde il suo crunch.\nSalva il post e provala questo weekend: non tornerai più indietro. ✨"
+        },
+        "tiktok": {
+          "script": [
+            "Spaghettoni cremosi con guanciale croccante, che bomba!",
+            "Mi servono spaghettoni, guanciale, pecorino, panna e limone.",
+            "Rosolo il guanciale finché è oro, poi creo la crema.",
+            "Fuoco spento, manteco tutto con crema e guanciale.",
+            "Scorza di limone e pepe nero sopra, da urlo!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "L'amatriciana senza pomodoro esiste. E ti fa capire perché il guanciale non ha bisogno di coperture. Pasta bianca, cremosa, con una grattata di limone che spacca. Thread 👇",
+            "Ti servono: spaghettoni, guanciale, pecorino romano, panna (fidati), limone e pepe nero. Niente cipolla, niente aglio, niente pomodoro. Solo grasso buono e formaggio.",
+            "Rosola il guanciale a fiamma bassa finché non è croccante. Nel frattempo grattugia pecorino e mescolalo con un cucchiaio di panna: deve uscire una crema densa e lucida. Il limone lo usi solo alla fine.",
+            "Scola gli spaghettoni al dente, buttali nella padella del guanciale a fuoco spento. Aggiungi la crema di pecorino e manteca energicamente. L'acqua di cottura è il tuo salvagente: un goccio se stringe.",
+            "Impiatta, scorza di limone sopra e una macinata di pepe nero. Il limone taglia il grasso e ti fa fare il bis. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Spaghettoni cremosi con guanciale croccante, che bomba!",
+        "Mi servono spaghettoni, guanciale, pecorino, panna e limone.",
+        "Rosolo il guanciale finché è oro, poi creo la crema.",
+        "Fuoco spento, manteco tutto con crema e guanciale.",
+        "Scorza di limone e pepe nero sopra, da urlo!"
+      ],
+      "thread_text": [
+        "L'amatriciana senza pomodoro esiste. E ti fa capire perché il guanciale non ha bisogno di coperture. Pasta bianca, cremosa, con una grattata di limone che spacca. Thread 👇",
+        "Ti servono: spaghettoni, guanciale, pecorino romano, panna (fidati), limone e pepe nero. Niente cipolla, niente aglio, niente pomodoro. Solo grasso buono e formaggio.",
+        "Rosola il guanciale a fiamma bassa finché non è croccante. Nel frattempo grattugia pecorino e mescolalo con un cucchiaio di panna: deve uscire una crema densa e lucida. Il limone lo usi solo alla fine.",
+        "Scola gli spaghettoni al dente, buttali nella padella del guanciale a fuoco spento. Aggiungi la crema di pecorino e manteca energicamente. L'acqua di cottura è il tuo salvagente: un goccio se stringe.",
+        "Impiatta, scorza di limone sopra e una macinata di pepe nero. Il limone taglia il grasso e ti fa fare il bis. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Amatriciana bianca, cremosità senza pomodoro",
+          "description": "Spaghettoni avvolti in crema di pecorino e guanciale croccante: la carbonara che non ti aspetti.",
+          "visual_hint": "spaghettoni cremosi guanciale croccante",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory creamy pasta"
+        },
+        {
+          "hook": "Pochi ingredienti, carattere deciso",
+          "description": "Guanciale, pecorino, panna e limone: la semplicità che fa la differenza in cucina.",
+          "visual_hint": "ingredienti essenziali sul tavolo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory pasta ingredients",
+          "image": "https://images.pexels.com/photos/4038950/pexels-photo-4038950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il segreto è la crema di pecorino",
+          "description": "Rosola il guanciale a fuoco vivo e prepara una crema liscia con pecorino e panna.",
+          "visual_hint": "guanciale che rosola in padella",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory frying guanciale",
+          "image": "https://images.pexels.com/photos/10794159/pexels-photo-10794159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manteca a fuoco spento",
+          "description": "Unisci spaghettoni, crema e guanciale lontano dal fuoco: mantecatura perfetta senza grumi.",
+          "visual_hint": "mantecatura pasta a fuoco spento",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory pasta tossing",
+          "image": "https://images.pexels.com/photos/37406904/pexels-photo-37406904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Limone e pepe: il tocco finale",
+          "description": "Scorza di limone e pepe nero completano il piatto. Servi subito e conquista tutti.",
+          "visual_hint": "scorza di limone e pepe nero",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory lemon pasta",
+          "image": "https://images.pexels.com/photos/6541832/pexels-photo-6541832.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "spaghettoni",
+        "guanciale",
+        "pecorino"
+      ],
+      "image": "https://www.giallozafferano.it/images/368-36822/Pasta-all-amatriciana-bianca_1200x800_wm.jpg",
+      "savedAt": "2026-11-06T13:34:50.139Z",
+      "sourceId": "8d64aadd51e4fbc8f7054ed4523fc19e"
+    },
     {
       "schema_version": 2,
       "agent": "food",
