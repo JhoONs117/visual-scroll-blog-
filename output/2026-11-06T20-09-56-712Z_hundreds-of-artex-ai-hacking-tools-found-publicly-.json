@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "hundreds-of-artex-ai-hacking-tools-found-publicly-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+  "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+  "pubDate": "Fri, 06 Nov 2026 18:44:38 +0000",
+  "slides": [
+    "What if hundreds of hacking tools were one search away?",
+    "Security researchers found Artex AI tools exposed online",
+    "These aren't toys—they automate real intrusion attempts",
+    "Your exposed endpoints may already be indexed by scanners",
+    "Search your own domain for these tools today"
+  ],
+  "thread_text": [
+    "1. One search away\n\nSecurity researchers just found a trove of Artex AI hacking tools exposed online. Anyone with a browser could stumble on them.",
+    "2. Not script kiddie stuff\n\nThese tools automate real intrusion attempts—port scanning, credential stuffing, exploit delivery. They run themselves.",
+    "3. Your endpoints are indexed\n\nScanners constantly crawl for exposed services. If yours is open, it may already be in a database.",
+    "4. The AI advantage\n\nArtex adapts attack paths in real time, learning from failed attempts. That makes defense harder than ever.",
+    "5. Check your domain now\n\nSearch your own domain on Shodan or Censys today. If you find an exposed Artex endpoint, report it immediately."
+  ],
+  "video_script": [
+    "What if hundreds of hacking tools were one search away?",
+    "Security researchers found Artex AI tools exposed online.",
+    "These aren't toys—they automate real intrusion attempts.",
+    "Your exposed endpoints may already be indexed by scanners.",
+    "Search your own domain for these tools today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. One search away\n\nSecurity researchers just found a trove of Artex AI hacking tools exposed online. Anyone with a browser could stumble on them.",
+        "2. Not script kiddie stuff\n\nThese tools automate real intrusion attempts—port scanning, credential stuffing, exploit delivery. They run themselves.",
+        "3. Your endpoints are indexed\n\nScanners constantly crawl for exposed services. If yours is open, it may already be in a database.",
+        "4. The AI advantage\n\nArtex adapts attack paths in real time, learning from failed attempts. That makes defense harder than ever.",
+        "5. Check your domain now\n\nSearch your own domain on Shodan or Censys today. If you find an exposed Artex endpoint, report it immediately."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "What if hundreds of hacking tools were one search away?",
+        "Security researchers found Artex AI tools exposed online.",
+        "These aren't toys—they automate real intrusion attempts.",
+        "Your exposed endpoints may already be indexed by scanners.",
+        "Search your own domain for these tools today."
+      ]
+    },
+    "instagram": {
+      "caption": "Hundreds of Artex AI hacking tools were sitting on the open web, one search away from anyone with a browser. 🔍\n\nResearchers found them publicly exposed—no login, no barrier.\n\nThese tools automate real intrusion attempts: port scanning, credential stuffing, exploit delivery.\n\nScanners crawl for exposed services constantly, so if your endpoint is open, it may already be logged.\n\nIf you publish or host content, check your own domain on Shodan or Censys today. An open endpoint is not a theoretical risk.\n\nWould you know if your domain was already indexed? 👀"
+    }
+  },
+  "instagram_caption": "Hundreds of Artex AI hacking tools were sitting on the open web, one search away from anyone with a browser. 🔍\n\nResearchers found them publicly exposed—no login, no barrier.\n\nThese tools automate real intrusion attempts: port scanning, credential stuffing, exploit delivery.\n\nScanners crawl for exposed services constantly, so if your endpoint is open, it may already be logged.\n\nIf you publish or host content, check your own domain on Shodan or Censys today. An open endpoint is not a theoretical risk.\n\nWould you know if your domain was already indexed? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Are hacking tools one search away?",
+      "description": "Security researchers found hundreds of Artex AI hacking tools publicly exposed online, accessible to anyone with a browser.",
+      "visual_hint": "Glowing search bar over dark web",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "search engine"
+    },
+    {
+      "hook": "Hundreds of hacking tools exposed",
+      "description": "Researchers discovered Artex AI tools left open on the internet, lowering the barrier for cyberattacks.",
+      "visual_hint": "Server rack with blinking lights",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "These tools automate real intrusions",
+      "description": "Not toys—Artex AI automates port scanning, credential stuffing, and exploit delivery, running attacks autonomously.",
+      "visual_hint": "Code lines on dark screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer code",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your endpoints may already be indexed",
+      "description": "Scanners constantly crawl for exposed services; if your endpoint is open, it might be in a database.",
+      "visual_hint": "Globe with network connections",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "network map",
+      "image": "https://images.pexels.com/photos/6642546/pexels-photo-6642546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Search your domain now",
+      "description": "Check your domain on Shodan or Censys today; report any exposed Artex endpoint immediately.",
+      "visual_hint": "Magnifying glass over domain name",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+  "savedAt": "2026-11-06T20:10:06.778Z",
+  "sourceId": "37d75a0fa3790bf4ac75d250aeccd452"
+}

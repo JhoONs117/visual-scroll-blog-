@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "underdog-shows-off-a-32mb-speech-model-in-new-demo",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Underdog shows off a 32MB speech model in new demo",
+  "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+  "pubDate": "Fri, 06 Nov 2026 13:02:16 +0000",
+  "slides": [
+    "Can a 32MB model beat your speech assistant?",
+    "Underdog built it to run on tiny devices",
+    "But most tiny models fail on real accents",
+    "Your next earbuds may not need the cloud",
+    "Test one hard audio clip against it today"
+  ],
+  "thread_text": [
+    "32MB vs Your Assistant\n\nA team just squeezed a speech model into less memory than a single photo. It runs on-device, no cloud round trip.",
+    "Built for Tiny Devices\n\nThe model fits on earbuds and watches, not just phones. That means offline voice control without a server.",
+    "Tiny Models Fail Accents\n\nMost compact models break on real-world accents and noisy rooms. This one claims to handle them, but claims are cheap.",
+    "No Cloud in Your Earbuds\n\nIf it works, your next earbuds could process speech locally. No latency, no data leaving your head.",
+    "Test It on One Clip\n\nGrab a hard audio clip with your accent and run it against this model today. If it fails, you know before the marketing does."
+  ],
+  "video_script": [
+    "A 32MB model might replace your speech assistant.",
+    "It runs on tiny devices, even earbuds, no cloud.",
+    "But most tiny models choke on real accents.",
+    "If this works, your earbuds won't need the cloud.",
+    "Test one hard audio clip against it today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "32MB vs Your Assistant\n\nA team just squeezed a speech model into less memory than a single photo. It runs on-device, no cloud round trip.",
+        "Built for Tiny Devices\n\nThe model fits on earbuds and watches, not just phones. That means offline voice control without a server.",
+        "Tiny Models Fail Accents\n\nMost compact models break on real-world accents and noisy rooms. This one claims to handle them, but claims are cheap.",
+        "No Cloud in Your Earbuds\n\nIf it works, your next earbuds could process speech locally. No latency, no data leaving your head.",
+        "Test It on One Clip\n\nGrab a hard audio clip with your accent and run it against this model today. If it fails, you know before the marketing does."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A 32MB model might replace your speech assistant.",
+        "It runs on tiny devices, even earbuds, no cloud.",
+        "But most tiny models choke on real accents.",
+        "If this works, your earbuds won't need the cloud.",
+        "Test one hard audio clip against it today."
+      ]
+    },
+    "instagram": {
+      "caption": "A speech model now fits in 32MB — less than a single photo on your phone 📱\n\nUnderdog built it to run on earbuds and watches, no cloud round trip needed.\n\nMost tiny models break on real accents and noisy rooms, and this one only claims to handle them.\n\nIf it holds up, your next earbuds could process speech locally: no latency, no audio leaving your head.\n\nGrab one hard clip with your own accent and run it against the model today. If it fails, you'll know before the marketing does.\n\nWould you trade cloud accuracy for on-device privacy? 🎧"
+    }
+  },
+  "instagram_caption": "A speech model now fits in 32MB — less than a single photo on your phone 📱\n\nUnderdog built it to run on earbuds and watches, no cloud round trip needed.\n\nMost tiny models break on real accents and noisy rooms, and this one only claims to handle them.\n\nIf it holds up, your next earbuds could process speech locally: no latency, no audio leaving your head.\n\nGrab one hard clip with your own accent and run it against the model today. If it fails, you'll know before the marketing does.\n\nWould you trade cloud accuracy for on-device privacy? 🎧",
+  "carousel_slides": [
+    {
+      "hook": "Can 32MB beat your speech assistant?",
+      "description": "A team squeezed a speech model into less memory than a photo, running on-device with no cloud round trip.",
+      "visual_hint": "Tiny chip on fingertip",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "microchip closeup"
+    },
+    {
+      "hook": "Built for earbuds and watches",
+      "description": "The model fits on tiny devices, not just phones, enabling offline voice control without any server.",
+      "visual_hint": "Wireless earbuds on table",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "wireless earbuds",
+      "image": "https://images.pexels.com/photos/39908040/pexels-photo-39908040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Most tiny models fail on accents",
+      "description": "Compact models often break on real-world accents and noisy rooms, and this one claims to handle them.",
+      "visual_hint": "Sound wave distortion graphic",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "sound wave",
+      "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your earbuds may skip the cloud",
+      "description": "If it works, your next earbuds could process speech locally, with no latency and no data leaving your head.",
+      "visual_hint": "Person wearing earbuds outside",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person wearing earbuds",
+      "image": "https://images.pexels.com/photos/6890197/pexels-photo-6890197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one hard clip today",
+      "description": "Grab a tough audio clip with your accent and run it against this model now, before the marketing does.",
+      "visual_hint": "Audio waveform on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "audio waveform",
+      "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542",
+  "savedAt": "2026-11-06T20:10:26.070Z",
+  "sourceId": "9ae4899642152a010e07e5242ca7d07d"
+}

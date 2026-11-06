@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "after-the-midterms-is-the-ai-industry-in-for-a-rou",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "After the midterms, is the AI industry in for a rough two years?",
+  "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+  "pubDate": "Fri, 06 Nov 2026 17:23:52 +0000",
+  "slides": [
+    "Will AI's Washington honeymoon end after midterms?",
+    "Lawmakers return with new tech oversight bills",
+    "But few actually target AI algorithms directly",
+    "Companies must now document model risks for audits",
+    "Start tracking every compliance requirement this quarter"
+  ],
+  "thread_text": [
+    "1. Washington's AI Honeymoon May Be Over\n\nLawmakers return with new tech oversight bills, but few actually target AI algorithms directly. Companies now must document model risks for audits — starting this quarter.",
+    "2. Oversight Bills Miss The Algorithm\n\nMost proposals focus on transparency and reporting, not on how AI models make decisions. That gap leaves the core technology largely unregulated.",
+    "3. Audits Are Now Your Problem\n\nFirms must document model risks for compliance reviews. If you build or deploy AI, the paperwork starts now — not next year.",
+    "4. Compliance Deadline This Quarter\n\nTracking every requirement is no longer optional. Miss it, and you risk audits, fines, or stalled deployments.",
+    "5. Audit Your Own AI Today\n\nPick one model you use and write down its risks in plain language. If you can't, you're already behind this quarter."
+  ],
+  "video_script": [
+    "Washington's AI honeymoon might be ending after midterms.",
+    "Lawmakers return with new tech oversight bills.",
+    "But few bills actually target AI algorithms directly.",
+    "Companies must now document model risks for audits.",
+    "Start tracking every compliance requirement this quarter."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Washington's AI Honeymoon May Be Over\n\nLawmakers return with new tech oversight bills, but few actually target AI algorithms directly. Companies now must document model risks for audits — starting this quarter.",
+        "2. Oversight Bills Miss The Algorithm\n\nMost proposals focus on transparency and reporting, not on how AI models make decisions. That gap leaves the core technology largely unregulated.",
+        "3. Audits Are Now Your Problem\n\nFirms must document model risks for compliance reviews. If you build or deploy AI, the paperwork starts now — not next year.",
+        "4. Compliance Deadline This Quarter\n\nTracking every requirement is no longer optional. Miss it, and you risk audits, fines, or stalled deployments.",
+        "5. Audit Your Own AI Today\n\nPick one model you use and write down its risks in plain language. If you can't, you're already behind this quarter."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Washington's AI honeymoon might be ending after midterms.",
+        "Lawmakers return with new tech oversight bills.",
+        "But few bills actually target AI algorithms directly.",
+        "Companies must now document model risks for audits.",
+        "Start tracking every compliance requirement this quarter."
+      ]
+    },
+    "instagram": {
+      "caption": "If you build or deploy AI, you now have to document model risks for audits — starting this quarter. 📋\n\nLawmakers are back with new tech oversight bills after the midterms.\n\nBut few of those bills actually target how AI algorithms make decisions. 🔍\n\nMost focus on transparency and reporting, leaving the core technology largely unregulated.\n\nThat means the paperwork lands on you: tracking every compliance requirement is no longer optional. ⚠️\n\nMiss it, and you risk audits, fines, or stalled deployments.\n\nWhat's one model you use that you could describe the risks of in plain language today? 🤔"
+    }
+  },
+  "instagram_caption": "If you build or deploy AI, you now have to document model risks for audits — starting this quarter. 📋\n\nLawmakers are back with new tech oversight bills after the midterms.\n\nBut few of those bills actually target how AI algorithms make decisions. 🔍\n\nMost focus on transparency and reporting, leaving the core technology largely unregulated.\n\nThat means the paperwork lands on you: tracking every compliance requirement is no longer optional. ⚠️\n\nMiss it, and you risk audits, fines, or stalled deployments.\n\nWhat's one model you use that you could describe the risks of in plain language today? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Is AI's free ride over?",
+      "description": "Post-midterms, lawmakers return with tech oversight bills, but few target AI algorithms directly—leaving core tech largely unregulated.",
+      "visual_hint": "Capitol building with dark clouds",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "US Capitol"
+    },
+    {
+      "hook": "New bills, old blind spots",
+      "description": "Most proposals focus on transparency and reporting, not on how AI models make decisions—a gap that leaves algorithms unchecked.",
+      "visual_hint": "Stack of documents with magnifying glass",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "government documents",
+      "image": "https://images.pexels.com/photos/7821927/pexels-photo-7821927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audits are now your problem",
+      "description": "Companies must document model risks for compliance reviews. If you build or deploy AI, the paperwork starts now.",
+      "visual_hint": "Checklist with AI model diagram",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "audit checklist",
+      "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Compliance deadline this quarter",
+      "description": "Tracking every AI requirement is no longer optional. Miss it, and you risk audits, fines, or stalled deployments.",
+      "visual_hint": "Calendar with red circle on date",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "calendar deadline",
+      "image": "https://images.pexels.com/photos/8962466/pexels-photo-8962466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: audit your AI today",
+      "description": "Pick one model you use and write down its risks in plain language. If you can't, you're already behind this quarter.",
+      "visual_hint": "Hand writing on notepad with AI icons",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person writing notes",
+      "image": "https://images.pexels.com/photos/13495866/pexels-photo-13495866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2236543888.jpg?resize=1200,800",
+  "savedAt": "2026-11-06T20:10:17.341Z",
+  "sourceId": "8f51c7b390aa45bf24423206c62a9ec4"
+}

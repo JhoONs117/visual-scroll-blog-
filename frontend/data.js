@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "how-akai-and-moog-are-embracing-vibe-coded-mods",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "How Akai and Moog are embracing vibe-coded mods",
+    "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+    "pubDate": "2026-11-06T16:34:39.000Z",
+    "slides": [
+      "Why are Akai and Moog courting vibe coders?",
+      "Both brands opened official modding SDKs this spring",
+      "The mods are made in minutes, not months",
+      "Your synth presets may soon be crowdsourced",
+      "Try one mod before judging the hype"
+    ],
+    "thread_text": [
+      "1. Why synths are dating coders\n\nAkai and Moog just opened official modding SDKs this spring, letting anyone tweak their synth firmware. The barrier to entry collapsed overnight.",
+      "2. Minutes, not months\n\nWhat used to take a team weeks of reverse engineering now takes a vibe coder an afternoon with the official toolkit. Prototypes ship before the coffee gets cold.",
+      "3. Your presets, crowdsourced\n\nImagine scrolling user-made mods the way you scroll sample packs. The best tweaks will float to the top and become the new default sound.",
+      "4. The hardware becomes a platform\n\nSynths stop being finished products and start acting like app stores. Brands that win will be the ones curating the best community mods.",
+      "5. Try one before judging\n\nGrab a free mod from the official SDK repo and load it on your gear this week. Does it actually save you time, or just add another layer to edit?"
+    ],
+    "video_script": [
+      "Akai and Moog opened modding kits this spring.",
+      "Vibe coders can now tweak synth firmware in minutes.",
+      "Your presets might soon be crowdsourced by the community.",
+      "Hardware is turning into a platform with user mods.",
+      "Try one free mod before you judge the hype."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why synths are dating coders\n\nAkai and Moog just opened official modding SDKs this spring, letting anyone tweak their synth firmware. The barrier to entry collapsed overnight.",
+          "2. Minutes, not months\n\nWhat used to take a team weeks of reverse engineering now takes a vibe coder an afternoon with the official toolkit. Prototypes ship before the coffee gets cold.",
+          "3. Your presets, crowdsourced\n\nImagine scrolling user-made mods the way you scroll sample packs. The best tweaks will float to the top and become the new default sound.",
+          "4. The hardware becomes a platform\n\nSynths stop being finished products and start acting like app stores. Brands that win will be the ones curating the best community mods.",
+          "5. Try one before judging\n\nGrab a free mod from the official SDK repo and load it on your gear this week. Does it actually save you time, or just add another layer to edit?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Akai and Moog opened modding kits this spring.",
+          "Vibe coders can now tweak synth firmware in minutes.",
+          "Your presets might soon be crowdsourced by the community.",
+          "Hardware is turning into a platform with user mods.",
+          "Try one free mod before you judge the hype."
+        ]
+      },
+      "instagram": {
+        "caption": "Want to tweak your synth's firmware? Akai and Moog now let you do it with an official SDK 🎛️\n\nThis spring both brands opened modding toolkits to anyone, not just their own engineers.\n\nWhat once took weeks of reverse engineering now takes a vibe coder an afternoon.\n\nYour synth presets could soon be crowdsourced, with top community mods becoming the new default sound.\n\nIf you make music or content, your gear just became an app store you can ship to.\n\nGrab a free mod from the official SDK repo this week and load it up: does it actually save you time, or just add another layer to edit?"
+      }
+    },
+    "instagram_caption": "Want to tweak your synth's firmware? Akai and Moog now let you do it with an official SDK 🎛️\n\nThis spring both brands opened modding toolkits to anyone, not just their own engineers.\n\nWhat once took weeks of reverse engineering now takes a vibe coder an afternoon.\n\nYour synth presets could soon be crowdsourced, with top community mods becoming the new default sound.\n\nIf you make music or content, your gear just became an app store you can ship to.\n\nGrab a free mod from the official SDK repo this week and load it up: does it actually save you time, or just add another layer to edit?",
+    "carousel_slides": [
+      {
+        "hook": "Mods in minutes, not months?",
+        "description": "Akai and Moog opened official modding SDKs this spring, letting anyone tweak synth firmware without reverse engineering.",
+        "visual_hint": "Synth firmware code on screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "synthesizer keyboard"
+      },
+      {
+        "hook": "Synths are dating coders now",
+        "description": "Both brands launched modding SDKs, collapsing the barrier to entry overnight for anyone with a vibe-coding workflow.",
+        "visual_hint": "Developer coding on laptop",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "laptop coding",
+        "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prototypes ship before coffee cools",
+        "description": "What took a team weeks of reverse engineering now takes an afternoon with the official toolkit, accelerating hardware iteration.",
+        "visual_hint": "Coffee cup next to synth",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "coffee cup desk",
+        "image": "https://images.pexels.com/photos/6878196/pexels-photo-6878196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your presets are becoming crowdsourced",
+        "description": "User-made mods will be scrolled like sample packs, with the best tweaks floating to the top as new default sounds.",
+        "visual_hint": "Hand scrolling mod marketplace",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "app store screen",
+        "image": "https://images.pexels.com/photos/15378959/pexels-photo-15378959.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Grab a free mod this week",
+        "description": "Load one official SDK mod on your gear and judge if it saves time or adds another edit layer.",
+        "visual_hint": "Synth with mod loaded",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "synthesizer closeup",
+        "image": "https://images.pexels.com/photos/10827835/pexels-photo-10827835.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/assets_47c5d023e7b3451a86ac03602c65dce8_43f25647cf8a4cbb8786829bc29ee2fb.webp?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "savedAt": "2026-11-06T20:10:36.789Z",
+    "sourceId": "b8851797863ea4792f21891e7f9d2636"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "underdog-shows-off-a-32mb-speech-model-in-new-demo",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Underdog shows off a 32MB speech model in new demo",
+    "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+    "pubDate": "Fri, 06 Nov 2026 13:02:16 +0000",
+    "slides": [
+      "Can a 32MB model beat your speech assistant?",
+      "Underdog built it to run on tiny devices",
+      "But most tiny models fail on real accents",
+      "Your next earbuds may not need the cloud",
+      "Test one hard audio clip against it today"
+    ],
+    "thread_text": [
+      "32MB vs Your Assistant\n\nA team just squeezed a speech model into less memory than a single photo. It runs on-device, no cloud round trip.",
+      "Built for Tiny Devices\n\nThe model fits on earbuds and watches, not just phones. That means offline voice control without a server.",
+      "Tiny Models Fail Accents\n\nMost compact models break on real-world accents and noisy rooms. This one claims to handle them, but claims are cheap.",
+      "No Cloud in Your Earbuds\n\nIf it works, your next earbuds could process speech locally. No latency, no data leaving your head.",
+      "Test It on One Clip\n\nGrab a hard audio clip with your accent and run it against this model today. If it fails, you know before the marketing does."
+    ],
+    "video_script": [
+      "A 32MB model might replace your speech assistant.",
+      "It runs on tiny devices, even earbuds, no cloud.",
+      "But most tiny models choke on real accents.",
+      "If this works, your earbuds won't need the cloud.",
+      "Test one hard audio clip against it today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "32MB vs Your Assistant\n\nA team just squeezed a speech model into less memory than a single photo. It runs on-device, no cloud round trip.",
+          "Built for Tiny Devices\n\nThe model fits on earbuds and watches, not just phones. That means offline voice control without a server.",
+          "Tiny Models Fail Accents\n\nMost compact models break on real-world accents and noisy rooms. This one claims to handle them, but claims are cheap.",
+          "No Cloud in Your Earbuds\n\nIf it works, your next earbuds could process speech locally. No latency, no data leaving your head.",
+          "Test It on One Clip\n\nGrab a hard audio clip with your accent and run it against this model today. If it fails, you know before the marketing does."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A 32MB model might replace your speech assistant.",
+          "It runs on tiny devices, even earbuds, no cloud.",
+          "But most tiny models choke on real accents.",
+          "If this works, your earbuds won't need the cloud.",
+          "Test one hard audio clip against it today."
+        ]
+      },
+      "instagram": {
+        "caption": "A speech model now fits in 32MB — less than a single photo on your phone 📱\n\nUnderdog built it to run on earbuds and watches, no cloud round trip needed.\n\nMost tiny models break on real accents and noisy rooms, and this one only claims to handle them.\n\nIf it holds up, your next earbuds could process speech locally: no latency, no audio leaving your head.\n\nGrab one hard clip with your own accent and run it against the model today. If it fails, you'll know before the marketing does.\n\nWould you trade cloud accuracy for on-device privacy? 🎧"
+      }
+    },
+    "instagram_caption": "A speech model now fits in 32MB — less than a single photo on your phone 📱\n\nUnderdog built it to run on earbuds and watches, no cloud round trip needed.\n\nMost tiny models break on real accents and noisy rooms, and this one only claims to handle them.\n\nIf it holds up, your next earbuds could process speech locally: no latency, no audio leaving your head.\n\nGrab one hard clip with your own accent and run it against the model today. If it fails, you'll know before the marketing does.\n\nWould you trade cloud accuracy for on-device privacy? 🎧",
+    "carousel_slides": [
+      {
+        "hook": "Can 32MB beat your speech assistant?",
+        "description": "A team squeezed a speech model into less memory than a photo, running on-device with no cloud round trip.",
+        "visual_hint": "Tiny chip on fingertip",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "microchip closeup"
+      },
+      {
+        "hook": "Built for earbuds and watches",
+        "description": "The model fits on tiny devices, not just phones, enabling offline voice control without any server.",
+        "visual_hint": "Wireless earbuds on table",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "wireless earbuds",
+        "image": "https://images.pexels.com/photos/39908040/pexels-photo-39908040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Most tiny models fail on accents",
+        "description": "Compact models often break on real-world accents and noisy rooms, and this one claims to handle them.",
+        "visual_hint": "Sound wave distortion graphic",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "sound wave",
+        "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your earbuds may skip the cloud",
+        "description": "If it works, your next earbuds could process speech locally, with no latency and no data leaving your head.",
+        "visual_hint": "Person wearing earbuds outside",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person wearing earbuds",
+        "image": "https://images.pexels.com/photos/6890197/pexels-photo-6890197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one hard clip today",
+        "description": "Grab a tough audio clip with your accent and run it against this model now, before the marketing does.",
+        "visual_hint": "Audio waveform on screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "audio waveform",
+        "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542",
+    "savedAt": "2026-11-06T20:10:26.070Z",
+    "sourceId": "9ae4899642152a010e07e5242ca7d07d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "after-the-midterms-is-the-ai-industry-in-for-a-rou",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "After the midterms, is the AI industry in for a rough two years?",
+    "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+    "pubDate": "Fri, 06 Nov 2026 17:23:52 +0000",
+    "slides": [
+      "Will AI's Washington honeymoon end after midterms?",
+      "Lawmakers return with new tech oversight bills",
+      "But few actually target AI algorithms directly",
+      "Companies must now document model risks for audits",
+      "Start tracking every compliance requirement this quarter"
+    ],
+    "thread_text": [
+      "1. Washington's AI Honeymoon May Be Over\n\nLawmakers return with new tech oversight bills, but few actually target AI algorithms directly. Companies now must document model risks for audits — starting this quarter.",
+      "2. Oversight Bills Miss The Algorithm\n\nMost proposals focus on transparency and reporting, not on how AI models make decisions. That gap leaves the core technology largely unregulated.",
+      "3. Audits Are Now Your Problem\n\nFirms must document model risks for compliance reviews. If you build or deploy AI, the paperwork starts now — not next year.",
+      "4. Compliance Deadline This Quarter\n\nTracking every requirement is no longer optional. Miss it, and you risk audits, fines, or stalled deployments.",
+      "5. Audit Your Own AI Today\n\nPick one model you use and write down its risks in plain language. If you can't, you're already behind this quarter."
+    ],
+    "video_script": [
+      "Washington's AI honeymoon might be ending after midterms.",
+      "Lawmakers return with new tech oversight bills.",
+      "But few bills actually target AI algorithms directly.",
+      "Companies must now document model risks for audits.",
+      "Start tracking every compliance requirement this quarter."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Washington's AI Honeymoon May Be Over\n\nLawmakers return with new tech oversight bills, but few actually target AI algorithms directly. Companies now must document model risks for audits — starting this quarter.",
+          "2. Oversight Bills Miss The Algorithm\n\nMost proposals focus on transparency and reporting, not on how AI models make decisions. That gap leaves the core technology largely unregulated.",
+          "3. Audits Are Now Your Problem\n\nFirms must document model risks for compliance reviews. If you build or deploy AI, the paperwork starts now — not next year.",
+          "4. Compliance Deadline This Quarter\n\nTracking every requirement is no longer optional. Miss it, and you risk audits, fines, or stalled deployments.",
+          "5. Audit Your Own AI Today\n\nPick one model you use and write down its risks in plain language. If you can't, you're already behind this quarter."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Washington's AI honeymoon might be ending after midterms.",
+          "Lawmakers return with new tech oversight bills.",
+          "But few bills actually target AI algorithms directly.",
+          "Companies must now document model risks for audits.",
+          "Start tracking every compliance requirement this quarter."
+        ]
+      },
+      "instagram": {
+        "caption": "If you build or deploy AI, you now have to document model risks for audits — starting this quarter. 📋\n\nLawmakers are back with new tech oversight bills after the midterms.\n\nBut few of those bills actually target how AI algorithms make decisions. 🔍\n\nMost focus on transparency and reporting, leaving the core technology largely unregulated.\n\nThat means the paperwork lands on you: tracking every compliance requirement is no longer optional. ⚠️\n\nMiss it, and you risk audits, fines, or stalled deployments.\n\nWhat's one model you use that you could describe the risks of in plain language today? 🤔"
+      }
+    },
+    "instagram_caption": "If you build or deploy AI, you now have to document model risks for audits — starting this quarter. 📋\n\nLawmakers are back with new tech oversight bills after the midterms.\n\nBut few of those bills actually target how AI algorithms make decisions. 🔍\n\nMost focus on transparency and reporting, leaving the core technology largely unregulated.\n\nThat means the paperwork lands on you: tracking every compliance requirement is no longer optional. ⚠️\n\nMiss it, and you risk audits, fines, or stalled deployments.\n\nWhat's one model you use that you could describe the risks of in plain language today? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Is AI's free ride over?",
+        "description": "Post-midterms, lawmakers return with tech oversight bills, but few target AI algorithms directly—leaving core tech largely unregulated.",
+        "visual_hint": "Capitol building with dark clouds",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "US Capitol"
+      },
+      {
+        "hook": "New bills, old blind spots",
+        "description": "Most proposals focus on transparency and reporting, not on how AI models make decisions—a gap that leaves algorithms unchecked.",
+        "visual_hint": "Stack of documents with magnifying glass",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "government documents",
+        "image": "https://images.pexels.com/photos/7821927/pexels-photo-7821927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audits are now your problem",
+        "description": "Companies must document model risks for compliance reviews. If you build or deploy AI, the paperwork starts now.",
+        "visual_hint": "Checklist with AI model diagram",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "audit checklist",
+        "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Compliance deadline this quarter",
+        "description": "Tracking every AI requirement is no longer optional. Miss it, and you risk audits, fines, or stalled deployments.",
+        "visual_hint": "Calendar with red circle on date",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "calendar deadline",
+        "image": "https://images.pexels.com/photos/8962466/pexels-photo-8962466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: audit your AI today",
+        "description": "Pick one model you use and write down its risks in plain language. If you can't, you're already behind this quarter.",
+        "visual_hint": "Hand writing on notepad with AI icons",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person writing notes",
+        "image": "https://images.pexels.com/photos/13495866/pexels-photo-13495866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2236543888.jpg?resize=1200,800",
+    "savedAt": "2026-11-06T20:10:17.341Z",
+    "sourceId": "8f51c7b390aa45bf24423206c62a9ec4"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "hundreds-of-artex-ai-hacking-tools-found-publicly-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "pubDate": "Fri, 06 Nov 2026 18:44:38 +0000",
+    "slides": [
+      "What if hundreds of hacking tools were one search away?",
+      "Security researchers found Artex AI tools exposed online",
+      "These aren't toys—they automate real intrusion attempts",
+      "Your exposed endpoints may already be indexed by scanners",
+      "Search your own domain for these tools today"
+    ],
+    "thread_text": [
+      "1. One search away\n\nSecurity researchers just found a trove of Artex AI hacking tools exposed online. Anyone with a browser could stumble on them.",
+      "2. Not script kiddie stuff\n\nThese tools automate real intrusion attempts—port scanning, credential stuffing, exploit delivery. They run themselves.",
+      "3. Your endpoints are indexed\n\nScanners constantly crawl for exposed services. If yours is open, it may already be in a database.",
+      "4. The AI advantage\n\nArtex adapts attack paths in real time, learning from failed attempts. That makes defense harder than ever.",
+      "5. Check your domain now\n\nSearch your own domain on Shodan or Censys today. If you find an exposed Artex endpoint, report it immediately."
+    ],
+    "video_script": [
+      "What if hundreds of hacking tools were one search away?",
+      "Security researchers found Artex AI tools exposed online.",
+      "These aren't toys—they automate real intrusion attempts.",
+      "Your exposed endpoints may already be indexed by scanners.",
+      "Search your own domain for these tools today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. One search away\n\nSecurity researchers just found a trove of Artex AI hacking tools exposed online. Anyone with a browser could stumble on them.",
+          "2. Not script kiddie stuff\n\nThese tools automate real intrusion attempts—port scanning, credential stuffing, exploit delivery. They run themselves.",
+          "3. Your endpoints are indexed\n\nScanners constantly crawl for exposed services. If yours is open, it may already be in a database.",
+          "4. The AI advantage\n\nArtex adapts attack paths in real time, learning from failed attempts. That makes defense harder than ever.",
+          "5. Check your domain now\n\nSearch your own domain on Shodan or Censys today. If you find an exposed Artex endpoint, report it immediately."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "What if hundreds of hacking tools were one search away?",
+          "Security researchers found Artex AI tools exposed online.",
+          "These aren't toys—they automate real intrusion attempts.",
+          "Your exposed endpoints may already be indexed by scanners.",
+          "Search your own domain for these tools today."
+        ]
+      },
+      "instagram": {
+        "caption": "Hundreds of Artex AI hacking tools were sitting on the open web, one search away from anyone with a browser. 🔍\n\nResearchers found them publicly exposed—no login, no barrier.\n\nThese tools automate real intrusion attempts: port scanning, credential stuffing, exploit delivery.\n\nScanners crawl for exposed services constantly, so if your endpoint is open, it may already be logged.\n\nIf you publish or host content, check your own domain on Shodan or Censys today. An open endpoint is not a theoretical risk.\n\nWould you know if your domain was already indexed? 👀"
+      }
+    },
+    "instagram_caption": "Hundreds of Artex AI hacking tools were sitting on the open web, one search away from anyone with a browser. 🔍\n\nResearchers found them publicly exposed—no login, no barrier.\n\nThese tools automate real intrusion attempts: port scanning, credential stuffing, exploit delivery.\n\nScanners crawl for exposed services constantly, so if your endpoint is open, it may already be logged.\n\nIf you publish or host content, check your own domain on Shodan or Censys today. An open endpoint is not a theoretical risk.\n\nWould you know if your domain was already indexed? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Are hacking tools one search away?",
+        "description": "Security researchers found hundreds of Artex AI hacking tools publicly exposed online, accessible to anyone with a browser.",
+        "visual_hint": "Glowing search bar over dark web",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "search engine"
+      },
+      {
+        "hook": "Hundreds of hacking tools exposed",
+        "description": "Researchers discovered Artex AI tools left open on the internet, lowering the barrier for cyberattacks.",
+        "visual_hint": "Server rack with blinking lights",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "These tools automate real intrusions",
+        "description": "Not toys—Artex AI automates port scanning, credential stuffing, and exploit delivery, running attacks autonomously.",
+        "visual_hint": "Code lines on dark screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer code",
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your endpoints may already be indexed",
+        "description": "Scanners constantly crawl for exposed services; if your endpoint is open, it might be in a database.",
+        "visual_hint": "Globe with network connections",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "network map",
+        "image": "https://images.pexels.com/photos/6642546/pexels-photo-6642546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Search your domain now",
+        "description": "Check your domain on Shodan or Censys today; report any exposed Artex endpoint immediately.",
+        "visual_hint": "Magnifying glass over domain name",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "magnifying glass",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+    "savedAt": "2026-11-06T20:10:06.778Z",
+    "sourceId": "37d75a0fa3790bf4ac75d250aeccd452"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "us-government-warns-of-ongoing-cyber-threat-amid-m",
     "prompt_version": "1.0.0",
     "status": "published",

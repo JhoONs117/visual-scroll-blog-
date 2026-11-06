@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "how-akai-and-moog-are-embracing-vibe-coded-mods",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "How Akai and Moog are embracing vibe-coded mods",
+  "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+  "pubDate": "2026-11-06T16:34:39.000Z",
+  "slides": [
+    "Why are Akai and Moog courting vibe coders?",
+    "Both brands opened official modding SDKs this spring",
+    "The mods are made in minutes, not months",
+    "Your synth presets may soon be crowdsourced",
+    "Try one mod before judging the hype"
+  ],
+  "thread_text": [
+    "1. Why synths are dating coders\n\nAkai and Moog just opened official modding SDKs this spring, letting anyone tweak their synth firmware. The barrier to entry collapsed overnight.",
+    "2. Minutes, not months\n\nWhat used to take a team weeks of reverse engineering now takes a vibe coder an afternoon with the official toolkit. Prototypes ship before the coffee gets cold.",
+    "3. Your presets, crowdsourced\n\nImagine scrolling user-made mods the way you scroll sample packs. The best tweaks will float to the top and become the new default sound.",
+    "4. The hardware becomes a platform\n\nSynths stop being finished products and start acting like app stores. Brands that win will be the ones curating the best community mods.",
+    "5. Try one before judging\n\nGrab a free mod from the official SDK repo and load it on your gear this week. Does it actually save you time, or just add another layer to edit?"
+  ],
+  "video_script": [
+    "Akai and Moog opened modding kits this spring.",
+    "Vibe coders can now tweak synth firmware in minutes.",
+    "Your presets might soon be crowdsourced by the community.",
+    "Hardware is turning into a platform with user mods.",
+    "Try one free mod before you judge the hype."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why synths are dating coders\n\nAkai and Moog just opened official modding SDKs this spring, letting anyone tweak their synth firmware. The barrier to entry collapsed overnight.",
+        "2. Minutes, not months\n\nWhat used to take a team weeks of reverse engineering now takes a vibe coder an afternoon with the official toolkit. Prototypes ship before the coffee gets cold.",
+        "3. Your presets, crowdsourced\n\nImagine scrolling user-made mods the way you scroll sample packs. The best tweaks will float to the top and become the new default sound.",
+        "4. The hardware becomes a platform\n\nSynths stop being finished products and start acting like app stores. Brands that win will be the ones curating the best community mods.",
+        "5. Try one before judging\n\nGrab a free mod from the official SDK repo and load it on your gear this week. Does it actually save you time, or just add another layer to edit?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Akai and Moog opened modding kits this spring.",
+        "Vibe coders can now tweak synth firmware in minutes.",
+        "Your presets might soon be crowdsourced by the community.",
+        "Hardware is turning into a platform with user mods.",
+        "Try one free mod before you judge the hype."
+      ]
+    },
+    "instagram": {
+      "caption": "Want to tweak your synth's firmware? Akai and Moog now let you do it with an official SDK 🎛️\n\nThis spring both brands opened modding toolkits to anyone, not just their own engineers.\n\nWhat once took weeks of reverse engineering now takes a vibe coder an afternoon.\n\nYour synth presets could soon be crowdsourced, with top community mods becoming the new default sound.\n\nIf you make music or content, your gear just became an app store you can ship to.\n\nGrab a free mod from the official SDK repo this week and load it up: does it actually save you time, or just add another layer to edit?"
+    }
+  },
+  "instagram_caption": "Want to tweak your synth's firmware? Akai and Moog now let you do it with an official SDK 🎛️\n\nThis spring both brands opened modding toolkits to anyone, not just their own engineers.\n\nWhat once took weeks of reverse engineering now takes a vibe coder an afternoon.\n\nYour synth presets could soon be crowdsourced, with top community mods becoming the new default sound.\n\nIf you make music or content, your gear just became an app store you can ship to.\n\nGrab a free mod from the official SDK repo this week and load it up: does it actually save you time, or just add another layer to edit?",
+  "carousel_slides": [
+    {
+      "hook": "Mods in minutes, not months?",
+      "description": "Akai and Moog opened official modding SDKs this spring, letting anyone tweak synth firmware without reverse engineering.",
+      "visual_hint": "Synth firmware code on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "synthesizer keyboard"
+    },
+    {
+      "hook": "Synths are dating coders now",
+      "description": "Both brands launched modding SDKs, collapsing the barrier to entry overnight for anyone with a vibe-coding workflow.",
+      "visual_hint": "Developer coding on laptop",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "laptop coding",
+      "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prototypes ship before coffee cools",
+      "description": "What took a team weeks of reverse engineering now takes an afternoon with the official toolkit, accelerating hardware iteration.",
+      "visual_hint": "Coffee cup next to synth",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "coffee cup desk",
+      "image": "https://images.pexels.com/photos/6878196/pexels-photo-6878196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your presets are becoming crowdsourced",
+      "description": "User-made mods will be scrolled like sample packs, with the best tweaks floating to the top as new default sounds.",
+      "visual_hint": "Hand scrolling mod marketplace",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "app store screen",
+      "image": "https://images.pexels.com/photos/15378959/pexels-photo-15378959.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Grab a free mod this week",
+      "description": "Load one official SDK mod on your gear and judge if it saves time or adds another edit layer.",
+      "visual_hint": "Synth with mod loaded",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "synthesizer closeup",
+      "image": "https://images.pexels.com/photos/10827835/pexels-photo-10827835.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/assets_47c5d023e7b3451a86ac03602c65dce8_43f25647cf8a4cbb8786829bc29ee2fb.webp?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+  "savedAt": "2026-11-06T20:10:36.789Z",
+  "sourceId": "b8851797863ea4792f21891e7f9d2636"
+}
