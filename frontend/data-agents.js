@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "all-the-latest-updates-on-ai-data-centers",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "All the latest updates on AI data centers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "pubDate": "2026-11-06T20:02:22.000Z",
+      "slides": [
+        "Can AI data centers survive their own power hunger?",
+        "Global capacity is doubling roughly every eighteen months",
+        "But water cooling use is quietly sparking local backlash",
+        "Operators now face permitting delays in key regions",
+        "Map your region's power grid before committing"
+      ],
+      "thread_text": [
+        "1. The AI Power Paradox\n\nData centers now consume as much electricity as some small nations, and operators are discovering that the grid can't keep up with their ambitions.",
+        "2. Doubling Every 18 Months\n\nGlobal data center capacity is doubling roughly every eighteen months, far outpacing upgrades to power infrastructure in most regions.",
+        "3. Water Cooling Backlash\n\nLocal communities are pushing back against water-intensive cooling systems, creating unexpected friction in regions that once welcomed tech investment.",
+        "4. Permitting Delays Spread\n\nOperators now face permitting delays in key regions, forcing project timelines to slip and costs to rise as regulators catch up.",
+        "5. Map Your Grid First\n\nBefore committing to a new AI project, check your region's power grid capacity. Have you done that yet?"
+      ],
+      "video_script": [
+        "AI data centers are getting too power-hungry.",
+        "Global capacity is doubling every eighteen months.",
+        "But water cooling is sparking local backlash.",
+        "Now operators face permitting delays in key regions.",
+        "Map your region's power grid before committing."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The AI Power Paradox\n\nData centers now consume as much electricity as some small nations, and operators are discovering that the grid can't keep up with their ambitions.",
+            "2. Doubling Every 18 Months\n\nGlobal data center capacity is doubling roughly every eighteen months, far outpacing upgrades to power infrastructure in most regions.",
+            "3. Water Cooling Backlash\n\nLocal communities are pushing back against water-intensive cooling systems, creating unexpected friction in regions that once welcomed tech investment.",
+            "4. Permitting Delays Spread\n\nOperators now face permitting delays in key regions, forcing project timelines to slip and costs to rise as regulators catch up.",
+            "5. Map Your Grid First\n\nBefore committing to a new AI project, check your region's power grid capacity. Have you done that yet?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI data centers are getting too power-hungry.",
+            "Global capacity is doubling every eighteen months.",
+            "But water cooling is sparking local backlash.",
+            "Now operators face permitting delays in key regions.",
+            "Map your region's power grid before committing."
+          ]
+        },
+        "instagram": {
+          "caption": "Data centers now guzzle as much power as some small nations ⚡ and the grid can't keep up.\n\nGlobal capacity is doubling roughly every eighteen months, far faster than power infrastructure gets upgraded.\n\nWater-cooled systems are triggering local backlash, and operators face permitting delays in key regions.\n\nIf you publish or build with AI, your tools and timelines depend on grids you've probably never checked.\n\nHave you mapped your region's power capacity before committing to your next project? 🔌"
+        }
+      },
+      "instagram_caption": "Data centers now guzzle as much power as some small nations ⚡ and the grid can't keep up.\n\nGlobal capacity is doubling roughly every eighteen months, far faster than power infrastructure gets upgraded.\n\nWater-cooled systems are triggering local backlash, and operators face permitting delays in key regions.\n\nIf you publish or build with AI, your tools and timelines depend on grids you've probably never checked.\n\nHave you mapped your region's power capacity before committing to your next project? 🔌",
+      "carousel_slides": [
+        {
+          "hook": "Can AI data centers survive their power hunger?",
+          "description": "AI data centers now consume as much electricity as small nations, and grids can't keep up with their ambitions.",
+          "visual_hint": "Data center with power lines",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Capacity doubling every 18 months",
+          "description": "Global data center capacity doubles every 18 months, far outpacing power infrastructure upgrades in most regions.",
+          "visual_hint": "Graph showing capacity growth",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "power plant",
+          "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Water cooling sparks local backlash",
+          "description": "Communities push back against water-intensive cooling, creating friction in regions that once welcomed tech investment.",
+          "visual_hint": "Cooling towers with water",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "water cooling tower",
+          "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Permitting delays hit key regions",
+          "description": "Operators face permitting delays in key regions, forcing project timelines to slip and costs to rise as regulators catch up.",
+          "visual_hint": "Construction site with permits",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "construction site",
+          "image": "https://images.pexels.com/photos/17297091/pexels-photo-17297091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Map your region's power grid now",
+          "description": "Before committing to a new AI project, check your region's power grid capacity. Save this post and share your thoughts!",
+          "visual_hint": "Map with power grid overlay",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "power grid map",
+          "image": "https://images.pexels.com/photos/39398551/pexels-photo-39398551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-11-07T23:18:01.004Z",
+      "sourceId": "3bc01457309b56110355477bc2cf31e5"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "meta-8217-s-muse-ai-can-create-custom-8216-spaces-",
       "prompt_version": "1.0.0",
       "status": "published",
