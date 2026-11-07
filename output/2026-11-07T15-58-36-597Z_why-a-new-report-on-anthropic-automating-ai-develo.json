@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "why-a-new-report-on-anthropic-automating-ai-develo",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+  "pubDate": "2026-11-07T12:30:00.000Z",
+  "slides": [
+    "Why is Anthropic automating its own AI development?",
+    "A new report details internal automated AI research systems.",
+    "Researchers worry oversight may not keep pace with the speed.",
+    "Teams using AI-built models must audit what they cannot see.",
+    "Ask your vendor: who reviews the code AI wrote?"
+  ],
+  "thread_text": [
+    "1. Anthropic automates its own R&D\n\nA new report details internal automated AI research systems that can design, test, and improve new models. The company building the AI is now using AI to build the next AI.",
+    "2. Speed without brakes\n\nResearchers warn oversight may not keep pace with automated research cycles that run faster than any human review process. The question is who catches mistakes when the system moves at machine speed.",
+    "3. The audit gap\n\nTeams deploying AI-built models must audit what they cannot see: the code paths, training choices, and fixes the automation made along the way. If you cannot inspect it, you cannot trust it.",
+    "4. Vendors under pressure\n\nBuyers are starting to ask who reviews the code AI wrote inside the models they purchase. Procurement teams now need answers on human sign-off before signing contracts.",
+    "5. Ask your vendor today\n\nAsk your vendor one question: who reviews the code AI wrote? If they cannot name a person and a process, you have your answer."
+  ],
+  "video_script": [
+    "Anthropic is automating its own AI development, according to a new report.",
+    "Internal systems design and test models faster than humans can review.",
+    "Researchers warn oversight may not keep pace with automated research cycles.",
+    "Teams must audit AI-built models they cannot fully see or inspect.",
+    "Ask your vendor: who reviews the code AI wrote?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Anthropic automates its own R&D\n\nA new report details internal automated AI research systems that can design, test, and improve new models. The company building the AI is now using AI to build the next AI.",
+        "2. Speed without brakes\n\nResearchers warn oversight may not keep pace with automated research cycles that run faster than any human review process. The question is who catches mistakes when the system moves at machine speed.",
+        "3. The audit gap\n\nTeams deploying AI-built models must audit what they cannot see: the code paths, training choices, and fixes the automation made along the way. If you cannot inspect it, you cannot trust it.",
+        "4. Vendors under pressure\n\nBuyers are starting to ask who reviews the code AI wrote inside the models they purchase. Procurement teams now need answers on human sign-off before signing contracts.",
+        "5. Ask your vendor today\n\nAsk your vendor one question: who reviews the code AI wrote? If they cannot name a person and a process, you have your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic is automating its own AI development, according to a new report.",
+        "Internal systems design and test models faster than humans can review.",
+        "Researchers warn oversight may not keep pace with automated research cycles.",
+        "Teams must audit AI-built models they cannot fully see or inspect.",
+        "Ask your vendor: who reviews the code AI wrote?"
+      ]
+    },
+    "instagram": {
+      "caption": "A new report says the AI designing, testing, and improving new models at Anthropic is now largely automated — with human oversight potentially lagging behind. 🔍\n\nResearchers warn the automated research cycles run faster than any human review process can match.\n\nSo teams deploying AI-built models must audit code paths and training choices they cannot fully see.\n\nIf you can't inspect what the automation wrote, you can't trust the model you ship. ⚠️\n\nYour vendor should be able to name who reviews the code AI wrote — a person and a process.\n\nAsk them today: if they can't, that's your answer. 🤔\n\nWhat would you do if your model provider couldn't tell you who signs off on AI-generated code?"
+    }
+  },
+  "instagram_caption": "A new report says the AI designing, testing, and improving new models at Anthropic is now largely automated — with human oversight potentially lagging behind. 🔍\n\nResearchers warn the automated research cycles run faster than any human review process can match.\n\nSo teams deploying AI-built models must audit code paths and training choices they cannot fully see.\n\nIf you can't inspect what the automation wrote, you can't trust the model you ship. ⚠️\n\nYour vendor should be able to name who reviews the code AI wrote — a person and a process.\n\nAsk them today: if they can't, that's your answer. 🤔\n\nWhat would you do if your model provider couldn't tell you who signs off on AI-generated code?",
+  "carousel_slides": [
+    {
+      "hook": "Who catches mistakes at machine speed?",
+      "description": "Anthropic automates AI R&D, but researchers warn human oversight can't keep pace with automated research cycles running faster than any review.",
+      "visual_hint": "Glowing server racks with racing data streams",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "server room"
+    },
+    {
+      "hook": "AI now builds the next AI",
+      "description": "A new report details internal automated systems at Anthropic that design, test, and improve new models without full human review.",
+      "visual_hint": "Split screen of code and neural network",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Speed without brakes",
+      "description": "Automated research cycles outrun human review, raising the question of who catches errors when systems move at machine speed.",
+      "visual_hint": "Abstract fast-moving light trails",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "fiber optic",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You can't trust what you can't see",
+      "description": "Teams deploying AI-built models must audit invisible code paths and training choices; if you cannot inspect it, you cannot trust it.",
+      "visual_hint": "Magnifying glass over binary code",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your vendor: who reviews AI code?",
+      "description": "Before signing, demand a named person and process for human sign-off on AI-written code. Save this and ask today.",
+      "visual_hint": "Contract with highlighted review clause",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "contract signing",
+      "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.752607989199%2C100%2C78.494784021602&amp;w=1200",
+  "savedAt": "2026-11-07T15:59:08.922Z",
+  "sourceId": "d36485a6e1dbd817cadd8ab26757bbd7"
+}

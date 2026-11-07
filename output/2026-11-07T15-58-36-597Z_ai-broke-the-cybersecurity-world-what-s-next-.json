@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-broke-the-cybersecurity-world-what-s-next-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI broke the cybersecurity world. What’s next?",
+  "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+  "pubDate": "2026-11-07T15:00:00.000Z",
+  "slides": [
+    "Did AI just break cybersecurity forever?",
+    "Attackers now deploy AI agents that adapt mid-breach",
+    "Defenders found one tactic the machines miss entirely",
+    "Your team can test it on one live incident this week",
+    "Run that test before your next breach does"
+  ],
+  "thread_text": [
+    "1. AI just broke cybersecurity?\n\nAttackers now deploy autonomous agents that adapt mid-breach — not scripted playbooks, but live decision-making during the attack itself.",
+    "2. Adaptive agents change the game\n\nThey learn the environment in real time, pivot when blocked, and exploit weaknesses as they find them. Static defenses can't keep up.",
+    "3. One tactic machines miss\n\nDefenders found a technique that confuses AI agents entirely. It exploits how they perceive the network — a blind spot in their reasoning.",
+    "4. Test it on one live incident\n\nYour team can run this tactic on a single real incident this week. No new tools needed — just a shift in how you respond.",
+    "5. Run the test before they do\n\nPick one active incident and apply the tactic today. If you haven't tried it, your next breach will test it for you. Does your team know where to start?"
+  ],
+  "video_script": [
+    "AI agents are now attacking networks and adapting mid-breach.",
+    "They change tactics live, so old defenses can't keep up.",
+    "But defenders found one trick that confuses these agents.",
+    "You can test it on a real incident this week.",
+    "Run that test before your next breach does."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI just broke cybersecurity?\n\nAttackers now deploy autonomous agents that adapt mid-breach — not scripted playbooks, but live decision-making during the attack itself.",
+        "2. Adaptive agents change the game\n\nThey learn the environment in real time, pivot when blocked, and exploit weaknesses as they find them. Static defenses can't keep up.",
+        "3. One tactic machines miss\n\nDefenders found a technique that confuses AI agents entirely. It exploits how they perceive the network — a blind spot in their reasoning.",
+        "4. Test it on one live incident\n\nYour team can run this tactic on a single real incident this week. No new tools needed — just a shift in how you respond.",
+        "5. Run the test before they do\n\nPick one active incident and apply the tactic today. If you haven't tried it, your next breach will test it for you. Does your team know where to start?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI agents are now attacking networks and adapting mid-breach.",
+        "They change tactics live, so old defenses can't keep up.",
+        "But defenders found one trick that confuses these agents.",
+        "You can test it on a real incident this week.",
+        "Run that test before your next breach does."
+      ]
+    },
+    "instagram": {
+      "caption": "Attackers are now running AI agents that make decisions mid-breach instead of following a script — they pivot when blocked and adapt in real time. 🤖\n\nThat means static defenses built on known playbooks fall behind the moment the attack shifts.\n\nDefenders found one tactic these agents miss entirely — it exploits how they perceive the network, a blind spot in their reasoning.\n\nFor anyone publishing or teaching security content, this changes what advice you give: response now matters more than prevention alone.\n\nPick one active incident this week and test it before your next breach does. 🛡️ Where would your team start?"
+    }
+  },
+  "instagram_caption": "Attackers are now running AI agents that make decisions mid-breach instead of following a script — they pivot when blocked and adapt in real time. 🤖\n\nThat means static defenses built on known playbooks fall behind the moment the attack shifts.\n\nDefenders found one tactic these agents miss entirely — it exploits how they perceive the network, a blind spot in their reasoning.\n\nFor anyone publishing or teaching security content, this changes what advice you give: response now matters more than prevention alone.\n\nPick one active incident this week and test it before your next breach does. 🛡️ Where would your team start?",
+  "carousel_slides": [
+    {
+      "hook": "Is AI outsmarting your defenses?",
+      "description": "Attackers deploy autonomous agents that make live decisions during a breach, not just follow scripts.",
+      "visual_hint": "Glowing circuit board with digital eyes",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "circuit board"
+    },
+    {
+      "hook": "Adaptive agents learn and pivot instantly.",
+      "description": "AI agents change tactics mid-attack, learning the network in real time. Static defenses cannot keep up.",
+      "visual_hint": "AI agent scanning network map",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "network server",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One tactic confuses machines completely.",
+      "description": "Defenders found a technique that exploits how AI agents perceive networks, creating a blind spot in their reasoning.",
+      "visual_hint": "Close-up of sensor with blind spot",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "security camera",
+      "image": "https://images.pexels.com/photos/14773064/pexels-photo-14773064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it on one live incident now.",
+      "description": "Your team can apply this tactic on a single real incident this week. No new tools needed, just a shift in response.",
+      "visual_hint": "Hand pointing at incident dashboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "control room",
+      "image": "https://images.pexels.com/photos/15056120/pexels-photo-15056120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next breach.",
+      "description": "Pick one active incident and apply the tactic today. If you haven't tried it, your next breach will.",
+      "visual_hint": "Save icon over cybersecurity dashboard",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "cybersecurity dashboard",
+      "image": "https://images.pexels.com/photos/5240543/pexels-photo-5240543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-07T15:58:58.037Z",
+  "sourceId": "c350b1638a5338a29548cb713240727f"
+}

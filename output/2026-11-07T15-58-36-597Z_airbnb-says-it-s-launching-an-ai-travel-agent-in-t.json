@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "airbnb-says-it-s-launching-an-ai-travel-agent-in-t",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+  "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+  "pubDate": "Thu, 05 Nov 2026 22:40:55 +0000",
+  "slides": [
+    "Can Airbnb's AI travel agent replace your trip planning?",
+    "The AI agent launches in the first half of 2027",
+    "It reportedly uses your booking history to design itineraries",
+    "Your saved preferences may shape every future recommendation",
+    "Start curating your Airbnb profile like a travel brief"
+  ],
+  "thread_text": [
+    "1. Your next trip planned by AI?\n\nAirbnb is building an AI travel agent that reportedly uses your booking history to design itineraries. It launches in the first half of 2027.",
+    "2. Your booking history is the blueprint\n\nThe agent reportedly pulls from your past stays to suggest future trips. That means every reservation becomes training data for your next itinerary.",
+    "3. Saved preferences shape everything\n\nYour saved filters and wishlists may drive every recommendation the AI makes. The more you save, the more the agent mirrors your past choices.",
+    "4. The real test: your profile\n\nIf the AI relies on your history, a thin profile means generic suggestions. The quality of your trip planning depends on how much you've curated.",
+    "5. Start your travel brief now\n\nOpen your Airbnb profile and update your saved preferences and wishlists. Treat it like a brief for the AI agent that's coming in 2027."
+  ],
+  "video_script": [
+    "Airbnb is building an AI travel agent for 2027.",
+    "It reportedly uses your booking history to design itineraries.",
+    "Your saved preferences may shape every future recommendation.",
+    "A thin profile means generic trip ideas from the AI.",
+    "Start curating your Airbnb profile like a travel brief today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your next trip planned by AI?\n\nAirbnb is building an AI travel agent that reportedly uses your booking history to design itineraries. It launches in the first half of 2027.",
+        "2. Your booking history is the blueprint\n\nThe agent reportedly pulls from your past stays to suggest future trips. That means every reservation becomes training data for your next itinerary.",
+        "3. Saved preferences shape everything\n\nYour saved filters and wishlists may drive every recommendation the AI makes. The more you save, the more the agent mirrors your past choices.",
+        "4. The real test: your profile\n\nIf the AI relies on your history, a thin profile means generic suggestions. The quality of your trip planning depends on how much you've curated.",
+        "5. Start your travel brief now\n\nOpen your Airbnb profile and update your saved preferences and wishlists. Treat it like a brief for the AI agent that's coming in 2027."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Airbnb is building an AI travel agent for 2027.",
+        "It reportedly uses your booking history to design itineraries.",
+        "Your saved preferences may shape every future recommendation.",
+        "A thin profile means generic trip ideas from the AI.",
+        "Start curating your Airbnb profile like a travel brief today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your past Airbnb bookings may soon design your next itinerary. 🧳\n\nAirbnb says it's launching an AI travel agent in the first half of 2027.\n\nIt reportedly uses your booking history and saved preferences to build trip suggestions.\n\nA thin profile means generic recommendations. The more you save, the more it mirrors your past choices.\n\nIf you publish travel content, your own curated lists become the baseline the AI works from.\n\nOpen your Airbnb profile today and update your wishlists like a brief. What would yours say? ✍️"
+    }
+  },
+  "instagram_caption": "Your past Airbnb bookings may soon design your next itinerary. 🧳\n\nAirbnb says it's launching an AI travel agent in the first half of 2027.\n\nIt reportedly uses your booking history and saved preferences to build trip suggestions.\n\nA thin profile means generic recommendations. The more you save, the more it mirrors your past choices.\n\nIf you publish travel content, your own curated lists become the baseline the AI works from.\n\nOpen your Airbnb profile today and update your wishlists like a brief. What would yours say? ✍️",
+  "carousel_slides": [
+    {
+      "hook": "Will AI plan your next trip?",
+      "description": "Airbnb's AI travel agent, launching in 2027, uses your booking history to design itineraries.",
+      "visual_hint": "AI travel interface on smartphone",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone travel app"
+    },
+    {
+      "hook": "Your booking history is the blueprint",
+      "description": "The agent reportedly pulls from past stays to suggest future trips, making every reservation training data.",
+      "visual_hint": "Past booking cards timeline",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "booking history screen",
+      "image": "https://images.pexels.com/photos/6632371/pexels-photo-6632371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Saved preferences shape every recommendation",
+      "description": "Your saved filters and wishlists may drive the AI's suggestions, mirroring your past choices.",
+      "visual_hint": "Heart icon on saved items",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "wishlist heart icon",
+      "image": "https://images.pexels.com/photos/14808365/pexels-photo-14808365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Thin profile, generic suggestions",
+      "description": "The AI relies on your history, so a sparse profile leads to bland trip ideas. Curate to get personalized plans.",
+      "visual_hint": "Hand tapping profile settings",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding phone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your 2027 trip",
+      "description": "Open your Airbnb profile now and update your saved preferences and wishlists like a travel brief.",
+      "visual_hint": "Profile edit screen with checkmark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "profile settings screen",
+      "image": "https://images.pexels.com/photos/15226553/pexels-photo-15226553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/05/Airbnb-Summer-feat.jpg?resize=1200,675",
+  "savedAt": "2026-11-07T15:58:47.392Z",
+  "sourceId": "560f077b27e20f2902a11d7034060dae"
+}

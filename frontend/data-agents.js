@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "why-a-new-report-on-anthropic-automating-ai-develo",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "pubDate": "2026-11-07T12:30:00.000Z",
+      "slides": [
+        "Why is Anthropic automating its own AI development?",
+        "A new report details internal automated AI research systems.",
+        "Researchers worry oversight may not keep pace with the speed.",
+        "Teams using AI-built models must audit what they cannot see.",
+        "Ask your vendor: who reviews the code AI wrote?"
+      ],
+      "thread_text": [
+        "1. Anthropic automates its own R&D\n\nA new report details internal automated AI research systems that can design, test, and improve new models. The company building the AI is now using AI to build the next AI.",
+        "2. Speed without brakes\n\nResearchers warn oversight may not keep pace with automated research cycles that run faster than any human review process. The question is who catches mistakes when the system moves at machine speed.",
+        "3. The audit gap\n\nTeams deploying AI-built models must audit what they cannot see: the code paths, training choices, and fixes the automation made along the way. If you cannot inspect it, you cannot trust it.",
+        "4. Vendors under pressure\n\nBuyers are starting to ask who reviews the code AI wrote inside the models they purchase. Procurement teams now need answers on human sign-off before signing contracts.",
+        "5. Ask your vendor today\n\nAsk your vendor one question: who reviews the code AI wrote? If they cannot name a person and a process, you have your answer."
+      ],
+      "video_script": [
+        "Anthropic is automating its own AI development, according to a new report.",
+        "Internal systems design and test models faster than humans can review.",
+        "Researchers warn oversight may not keep pace with automated research cycles.",
+        "Teams must audit AI-built models they cannot fully see or inspect.",
+        "Ask your vendor: who reviews the code AI wrote?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Anthropic automates its own R&D\n\nA new report details internal automated AI research systems that can design, test, and improve new models. The company building the AI is now using AI to build the next AI.",
+            "2. Speed without brakes\n\nResearchers warn oversight may not keep pace with automated research cycles that run faster than any human review process. The question is who catches mistakes when the system moves at machine speed.",
+            "3. The audit gap\n\nTeams deploying AI-built models must audit what they cannot see: the code paths, training choices, and fixes the automation made along the way. If you cannot inspect it, you cannot trust it.",
+            "4. Vendors under pressure\n\nBuyers are starting to ask who reviews the code AI wrote inside the models they purchase. Procurement teams now need answers on human sign-off before signing contracts.",
+            "5. Ask your vendor today\n\nAsk your vendor one question: who reviews the code AI wrote? If they cannot name a person and a process, you have your answer."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Anthropic is automating its own AI development, according to a new report.",
+            "Internal systems design and test models faster than humans can review.",
+            "Researchers warn oversight may not keep pace with automated research cycles.",
+            "Teams must audit AI-built models they cannot fully see or inspect.",
+            "Ask your vendor: who reviews the code AI wrote?"
+          ]
+        },
+        "instagram": {
+          "caption": "A new report says the AI designing, testing, and improving new models at Anthropic is now largely automated — with human oversight potentially lagging behind. 🔍\n\nResearchers warn the automated research cycles run faster than any human review process can match.\n\nSo teams deploying AI-built models must audit code paths and training choices they cannot fully see.\n\nIf you can't inspect what the automation wrote, you can't trust the model you ship. ⚠️\n\nYour vendor should be able to name who reviews the code AI wrote — a person and a process.\n\nAsk them today: if they can't, that's your answer. 🤔\n\nWhat would you do if your model provider couldn't tell you who signs off on AI-generated code?"
+        }
+      },
+      "instagram_caption": "A new report says the AI designing, testing, and improving new models at Anthropic is now largely automated — with human oversight potentially lagging behind. 🔍\n\nResearchers warn the automated research cycles run faster than any human review process can match.\n\nSo teams deploying AI-built models must audit code paths and training choices they cannot fully see.\n\nIf you can't inspect what the automation wrote, you can't trust the model you ship. ⚠️\n\nYour vendor should be able to name who reviews the code AI wrote — a person and a process.\n\nAsk them today: if they can't, that's your answer. 🤔\n\nWhat would you do if your model provider couldn't tell you who signs off on AI-generated code?",
+      "carousel_slides": [
+        {
+          "hook": "Who catches mistakes at machine speed?",
+          "description": "Anthropic automates AI R&D, but researchers warn human oversight can't keep pace with automated research cycles running faster than any review.",
+          "visual_hint": "Glowing server racks with racing data streams",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "server room"
+        },
+        {
+          "hook": "AI now builds the next AI",
+          "description": "A new report details internal automated systems at Anthropic that design, test, and improve new models without full human review.",
+          "visual_hint": "Split screen of code and neural network",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Speed without brakes",
+          "description": "Automated research cycles outrun human review, raising the question of who catches errors when systems move at machine speed.",
+          "visual_hint": "Abstract fast-moving light trails",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "fiber optic",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "You can't trust what you can't see",
+          "description": "Teams deploying AI-built models must audit invisible code paths and training choices; if you cannot inspect it, you cannot trust it.",
+          "visual_hint": "Magnifying glass over binary code",
+          "layout_type": "human-hand",
+          "icon": "check",
+          "image_query": "magnifying glass",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask your vendor: who reviews AI code?",
+          "description": "Before signing, demand a named person and process for human sign-off on AI-written code. Save this and ask today.",
+          "visual_hint": "Contract with highlighted review clause",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "contract signing",
+          "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.752607989199%2C100%2C78.494784021602&amp;w=1200",
+      "savedAt": "2026-11-07T15:59:08.922Z",
+      "sourceId": "d36485a6e1dbd817cadd8ab26757bbd7"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ai-broke-the-cybersecurity-world-what-s-next-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "pubDate": "2026-11-07T15:00:00.000Z",
+      "slides": [
+        "Did AI just break cybersecurity forever?",
+        "Attackers now deploy AI agents that adapt mid-breach",
+        "Defenders found one tactic the machines miss entirely",
+        "Your team can test it on one live incident this week",
+        "Run that test before your next breach does"
+      ],
+      "thread_text": [
+        "1. AI just broke cybersecurity?\n\nAttackers now deploy autonomous agents that adapt mid-breach — not scripted playbooks, but live decision-making during the attack itself.",
+        "2. Adaptive agents change the game\n\nThey learn the environment in real time, pivot when blocked, and exploit weaknesses as they find them. Static defenses can't keep up.",
+        "3. One tactic machines miss\n\nDefenders found a technique that confuses AI agents entirely. It exploits how they perceive the network — a blind spot in their reasoning.",
+        "4. Test it on one live incident\n\nYour team can run this tactic on a single real incident this week. No new tools needed — just a shift in how you respond.",
+        "5. Run the test before they do\n\nPick one active incident and apply the tactic today. If you haven't tried it, your next breach will test it for you. Does your team know where to start?"
+      ],
+      "video_script": [
+        "AI agents are now attacking networks and adapting mid-breach.",
+        "They change tactics live, so old defenses can't keep up.",
+        "But defenders found one trick that confuses these agents.",
+        "You can test it on a real incident this week.",
+        "Run that test before your next breach does."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI just broke cybersecurity?\n\nAttackers now deploy autonomous agents that adapt mid-breach — not scripted playbooks, but live decision-making during the attack itself.",
+            "2. Adaptive agents change the game\n\nThey learn the environment in real time, pivot when blocked, and exploit weaknesses as they find them. Static defenses can't keep up.",
+            "3. One tactic machines miss\n\nDefenders found a technique that confuses AI agents entirely. It exploits how they perceive the network — a blind spot in their reasoning.",
+            "4. Test it on one live incident\n\nYour team can run this tactic on a single real incident this week. No new tools needed — just a shift in how you respond.",
+            "5. Run the test before they do\n\nPick one active incident and apply the tactic today. If you haven't tried it, your next breach will test it for you. Does your team know where to start?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI agents are now attacking networks and adapting mid-breach.",
+            "They change tactics live, so old defenses can't keep up.",
+            "But defenders found one trick that confuses these agents.",
+            "You can test it on a real incident this week.",
+            "Run that test before your next breach does."
+          ]
+        },
+        "instagram": {
+          "caption": "Attackers are now running AI agents that make decisions mid-breach instead of following a script — they pivot when blocked and adapt in real time. 🤖\n\nThat means static defenses built on known playbooks fall behind the moment the attack shifts.\n\nDefenders found one tactic these agents miss entirely — it exploits how they perceive the network, a blind spot in their reasoning.\n\nFor anyone publishing or teaching security content, this changes what advice you give: response now matters more than prevention alone.\n\nPick one active incident this week and test it before your next breach does. 🛡️ Where would your team start?"
+        }
+      },
+      "instagram_caption": "Attackers are now running AI agents that make decisions mid-breach instead of following a script — they pivot when blocked and adapt in real time. 🤖\n\nThat means static defenses built on known playbooks fall behind the moment the attack shifts.\n\nDefenders found one tactic these agents miss entirely — it exploits how they perceive the network, a blind spot in their reasoning.\n\nFor anyone publishing or teaching security content, this changes what advice you give: response now matters more than prevention alone.\n\nPick one active incident this week and test it before your next breach does. 🛡️ Where would your team start?",
+      "carousel_slides": [
+        {
+          "hook": "Is AI outsmarting your defenses?",
+          "description": "Attackers deploy autonomous agents that make live decisions during a breach, not just follow scripts.",
+          "visual_hint": "Glowing circuit board with digital eyes",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "circuit board"
+        },
+        {
+          "hook": "Adaptive agents learn and pivot instantly.",
+          "description": "AI agents change tactics mid-attack, learning the network in real time. Static defenses cannot keep up.",
+          "visual_hint": "AI agent scanning network map",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "network server",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One tactic confuses machines completely.",
+          "description": "Defenders found a technique that exploits how AI agents perceive networks, creating a blind spot in their reasoning.",
+          "visual_hint": "Close-up of sensor with blind spot",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "security camera",
+          "image": "https://images.pexels.com/photos/14773064/pexels-photo-14773064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it on one live incident now.",
+          "description": "Your team can apply this tactic on a single real incident this week. No new tools needed, just a shift in response.",
+          "visual_hint": "Hand pointing at incident dashboard",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "control room",
+          "image": "https://images.pexels.com/photos/15056120/pexels-photo-15056120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your next breach.",
+          "description": "Pick one active incident and apply the tactic today. If you haven't tried it, your next breach will.",
+          "visual_hint": "Save icon over cybersecurity dashboard",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "cybersecurity dashboard",
+          "image": "https://images.pexels.com/photos/5240543/pexels-photo-5240543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-11-07T15:58:58.037Z",
+      "sourceId": "c350b1638a5338a29548cb713240727f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "airbnb-says-it-s-launching-an-ai-travel-agent-in-t",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "pubDate": "Thu, 05 Nov 2026 22:40:55 +0000",
+      "slides": [
+        "Can Airbnb's AI travel agent replace your trip planning?",
+        "The AI agent launches in the first half of 2027",
+        "It reportedly uses your booking history to design itineraries",
+        "Your saved preferences may shape every future recommendation",
+        "Start curating your Airbnb profile like a travel brief"
+      ],
+      "thread_text": [
+        "1. Your next trip planned by AI?\n\nAirbnb is building an AI travel agent that reportedly uses your booking history to design itineraries. It launches in the first half of 2027.",
+        "2. Your booking history is the blueprint\n\nThe agent reportedly pulls from your past stays to suggest future trips. That means every reservation becomes training data for your next itinerary.",
+        "3. Saved preferences shape everything\n\nYour saved filters and wishlists may drive every recommendation the AI makes. The more you save, the more the agent mirrors your past choices.",
+        "4. The real test: your profile\n\nIf the AI relies on your history, a thin profile means generic suggestions. The quality of your trip planning depends on how much you've curated.",
+        "5. Start your travel brief now\n\nOpen your Airbnb profile and update your saved preferences and wishlists. Treat it like a brief for the AI agent that's coming in 2027."
+      ],
+      "video_script": [
+        "Airbnb is building an AI travel agent for 2027.",
+        "It reportedly uses your booking history to design itineraries.",
+        "Your saved preferences may shape every future recommendation.",
+        "A thin profile means generic trip ideas from the AI.",
+        "Start curating your Airbnb profile like a travel brief today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your next trip planned by AI?\n\nAirbnb is building an AI travel agent that reportedly uses your booking history to design itineraries. It launches in the first half of 2027.",
+            "2. Your booking history is the blueprint\n\nThe agent reportedly pulls from your past stays to suggest future trips. That means every reservation becomes training data for your next itinerary.",
+            "3. Saved preferences shape everything\n\nYour saved filters and wishlists may drive every recommendation the AI makes. The more you save, the more the agent mirrors your past choices.",
+            "4. The real test: your profile\n\nIf the AI relies on your history, a thin profile means generic suggestions. The quality of your trip planning depends on how much you've curated.",
+            "5. Start your travel brief now\n\nOpen your Airbnb profile and update your saved preferences and wishlists. Treat it like a brief for the AI agent that's coming in 2027."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Airbnb is building an AI travel agent for 2027.",
+            "It reportedly uses your booking history to design itineraries.",
+            "Your saved preferences may shape every future recommendation.",
+            "A thin profile means generic trip ideas from the AI.",
+            "Start curating your Airbnb profile like a travel brief today."
+          ]
+        },
+        "instagram": {
+          "caption": "Your past Airbnb bookings may soon design your next itinerary. 🧳\n\nAirbnb says it's launching an AI travel agent in the first half of 2027.\n\nIt reportedly uses your booking history and saved preferences to build trip suggestions.\n\nA thin profile means generic recommendations. The more you save, the more it mirrors your past choices.\n\nIf you publish travel content, your own curated lists become the baseline the AI works from.\n\nOpen your Airbnb profile today and update your wishlists like a brief. What would yours say? ✍️"
+        }
+      },
+      "instagram_caption": "Your past Airbnb bookings may soon design your next itinerary. 🧳\n\nAirbnb says it's launching an AI travel agent in the first half of 2027.\n\nIt reportedly uses your booking history and saved preferences to build trip suggestions.\n\nA thin profile means generic recommendations. The more you save, the more it mirrors your past choices.\n\nIf you publish travel content, your own curated lists become the baseline the AI works from.\n\nOpen your Airbnb profile today and update your wishlists like a brief. What would yours say? ✍️",
+      "carousel_slides": [
+        {
+          "hook": "Will AI plan your next trip?",
+          "description": "Airbnb's AI travel agent, launching in 2027, uses your booking history to design itineraries.",
+          "visual_hint": "AI travel interface on smartphone",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone travel app"
+        },
+        {
+          "hook": "Your booking history is the blueprint",
+          "description": "The agent reportedly pulls from past stays to suggest future trips, making every reservation training data.",
+          "visual_hint": "Past booking cards timeline",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "booking history screen",
+          "image": "https://images.pexels.com/photos/6632371/pexels-photo-6632371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Saved preferences shape every recommendation",
+          "description": "Your saved filters and wishlists may drive the AI's suggestions, mirroring your past choices.",
+          "visual_hint": "Heart icon on saved items",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "wishlist heart icon",
+          "image": "https://images.pexels.com/photos/14808365/pexels-photo-14808365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Thin profile, generic suggestions",
+          "description": "The AI relies on your history, so a sparse profile leads to bland trip ideas. Curate to get personalized plans.",
+          "visual_hint": "Hand tapping profile settings",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding phone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this for your 2027 trip",
+          "description": "Open your Airbnb profile now and update your saved preferences and wishlists like a travel brief.",
+          "visual_hint": "Profile edit screen with checkmark",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "profile settings screen",
+          "image": "https://images.pexels.com/photos/15226553/pexels-photo-15226553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/Airbnb-Summer-feat.jpg?resize=1200,675",
+      "savedAt": "2026-11-07T15:58:47.392Z",
+      "sourceId": "560f077b27e20f2902a11d7034060dae"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-valued-at-1-25-trillion-as-rival-anthropic-",
       "prompt_version": "1.0.0",
       "status": "published",
