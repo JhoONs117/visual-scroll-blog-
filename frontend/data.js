@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "meta-8217-s-muse-ai-can-create-custom-8216-spaces-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+    "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+    "pubDate": "2026-11-06T18:10:10.000Z",
+    "slides": [
+      "What if your app rebuilt itself for each task?",
+      "Meta's Muse AI generates custom app 'spaces'",
+      "But the spaces vanish once the task ends",
+      "Users must design the space before starting work",
+      "Try one space tomorrow: what would you rebuild?"
+    ],
+    "thread_text": [
+      "1. The two-faced Muse\n\nMeta's Muse AI generates custom app spaces for each task, then makes them vanish once you're done. Is that freedom or friction?",
+      "2. Design before you start\n\nYou must design the space before starting work. No tweaking mid-task — the structure is locked in from the first click.",
+      "3. Learning curve or liberation?\n\nDesigning every space upfront means you need to know your workflow before you begin. That's a skill most of us haven't built.",
+      "4. No more leftover clutter\n\nThe vanishing spaces mean no app graveyard, no abandoned projects. Your digital environment resets to zero after every task.",
+      "5. What would you rebuild?\n\nPick one recurring task tomorrow and sketch its ideal space on paper. Does designing it first change how you work? Try it."
+    ],
+    "video_script": [
+      "Imagine an app that rebuilds itself for every task.",
+      "Meta's Muse generates custom spaces, then deletes them when you're done.",
+      "You have to design the space before you start working.",
+      "That means knowing your workflow before you begin.",
+      "What would you rebuild if you had to design it first?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The two-faced Muse\n\nMeta's Muse AI generates custom app spaces for each task, then makes them vanish once you're done. Is that freedom or friction?",
+          "2. Design before you start\n\nYou must design the space before starting work. No tweaking mid-task — the structure is locked in from the first click.",
+          "3. Learning curve or liberation?\n\nDesigning every space upfront means you need to know your workflow before you begin. That's a skill most of us haven't built.",
+          "4. No more leftover clutter\n\nThe vanishing spaces mean no app graveyard, no abandoned projects. Your digital environment resets to zero after every task.",
+          "5. What would you rebuild?\n\nPick one recurring task tomorrow and sketch its ideal space on paper. Does designing it first change how you work? Try it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Imagine an app that rebuilds itself for every task.",
+          "Meta's Muse generates custom spaces, then deletes them when you're done.",
+          "You have to design the space before you start working.",
+          "That means knowing your workflow before you begin.",
+          "What would you rebuild if you had to design it first?"
+        ]
+      },
+      "instagram": {
+        "caption": "You design the workspace before you start working — and it disappears the moment you're done. Meta's Muse AI generates custom \"spaces\" inside the app, each built for one specific task, then wiped clean once that task ends. 🧩 No leftover clutter, no abandoned projects piling up. But the structure locks in from the first click, so you can't tweak it mid-task. 🛠️ That means knowing your workflow before you begin — a skill most of us haven't built yet. For anyone juggling content and tools daily, it's less setup and more upfront planning. ✍️ Pick one recurring task tomorrow: what would you rebuild? 🧠"
+      }
+    },
+    "instagram_caption": "You design the workspace before you start working — and it disappears the moment you're done. Meta's Muse AI generates custom \"spaces\" inside the app, each built for one specific task, then wiped clean once that task ends. 🧩 No leftover clutter, no abandoned projects piling up. But the structure locks in from the first click, so you can't tweak it mid-task. 🛠️ That means knowing your workflow before you begin — a skill most of us haven't built yet. For anyone juggling content and tools daily, it's less setup and more upfront planning. ✍️ Pick one recurring task tomorrow: what would you rebuild? 🧠",
+    "carousel_slides": [
+      {
+        "hook": "What if your app vanished after each task?",
+        "description": "Meta's Muse AI generates custom spaces that disappear when done, eliminating digital clutter but forcing upfront design.",
+        "visual_hint": "Glowing app interface dissolving into particles",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "digital interface"
+      },
+      {
+        "hook": "Meta's Muse AI builds custom app spaces",
+        "description": "Muse AI creates tailored app environments for each task, but they vanish once you finish, leaving no trace.",
+        "visual_hint": "Futuristic dashboard with modular widgets",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "dashboard screen",
+        "image": "https://images.pexels.com/photos/35297914/pexels-photo-35297914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Spaces vanish when the task ends",
+        "description": "The temporary nature means no abandoned projects or app graveyard, but you lose persistent customization.",
+        "visual_hint": "Empty digital space with fading edges",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "empty room",
+        "image": "https://images.pexels.com/photos/27906727/pexels-photo-27906727.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "You must design before you start",
+        "description": "Users must structure the space upfront, locking in workflow from the first click, which demands new planning skills.",
+        "visual_hint": "Hand sketching app layout on paper",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "sketching wireframe",
+        "image": "https://images.pexels.com/photos/7257234/pexels-photo-7257234.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and try one space tomorrow",
+        "description": "Pick a recurring task, sketch its ideal space on paper, and see if designing first changes how you work.",
+        "visual_hint": "Notebook with task list and pen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "notebook planner",
+        "image": "https://images.pexels.com/photos/8970650/pexels-photo-8970650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&amp;strip=all&amp;crop=8.0752843063528%2C7.2758349524933%2C91.924715693647%2C59.9199899822&amp;w=1200",
+    "savedAt": "2026-11-07T19:56:19.875Z",
+    "sourceId": "4d25f5d785f087ee7935704d87c4898e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "nyt-cooking-s-ai-assistant-saved-my-weeknight-chic",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+    "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+    "pubDate": "2026-11-07T15:50:00.000Z",
+    "slides": [
+      "Can NYT Cooking's AI assistant actually cook?",
+      "I tested it on a weeknight chicken dinner",
+      "It nailed savory timing but fumbled baking chemistry",
+      "Your cake depends on precision the AI ignores",
+      "Trust it for dinner, never for dessert"
+    ],
+    "thread_text": [
+      "1. Can AI actually cook?\n\nThe New York Times built an AI assistant for its Cooking app. I tested it on a real weeknight chicken dinner to see if it delivers or just talks.",
+      "2. One recipe, one test\n\nI gave it a simple chicken dinner task and watched how it handled the savory steps. Timing came out surprisingly solid, no guesswork needed.",
+      "3. Where it broke down\n\nBaking was a different story. The assistant ignored chemistry rules that cakes depend on, and precision went out the window.",
+      "4. Cakes don't forgive\n\nA few grams off or a wrong order and your dessert fails. The AI treated baking like cooking, which is exactly why it fumbled.",
+      "5. Would you trust it?\n\nTry the same prompt on your next dinner, then bake a cake with it. Share which one survives your kitchen."
+    ],
+    "video_script": [
+      "Can an AI really cook a weeknight chicken dinner?",
+      "I tested the New York Times cooking assistant on one recipe.",
+      "The savory timing was solid, no complaints at all.",
+      "But baking chemistry fell apart, it ignored precision rules.",
+      "Trust it for dinner, never for dessert, test it yourself."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can AI actually cook?\n\nThe New York Times built an AI assistant for its Cooking app. I tested it on a real weeknight chicken dinner to see if it delivers or just talks.",
+          "2. One recipe, one test\n\nI gave it a simple chicken dinner task and watched how it handled the savory steps. Timing came out surprisingly solid, no guesswork needed.",
+          "3. Where it broke down\n\nBaking was a different story. The assistant ignored chemistry rules that cakes depend on, and precision went out the window.",
+          "4. Cakes don't forgive\n\nA few grams off or a wrong order and your dessert fails. The AI treated baking like cooking, which is exactly why it fumbled.",
+          "5. Would you trust it?\n\nTry the same prompt on your next dinner, then bake a cake with it. Share which one survives your kitchen."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can an AI really cook a weeknight chicken dinner?",
+          "I tested the New York Times cooking assistant on one recipe.",
+          "The savory timing was solid, no complaints at all.",
+          "But baking chemistry fell apart, it ignored precision rules.",
+          "Trust it for dinner, never for dessert, test it yourself."
+        ]
+      },
+      "instagram": {
+        "caption": "The AI nailed the timing on my weeknight chicken but treated baking like cooking.\n\nI tested NYT Cooking's AI assistant on a real chicken dinner. The savory steps came out solid—no guesswork needed. 🍗\n\nThen I tried it on a cake. It ignored the chemistry rules baking depends on, and a few grams off is all it takes to fail.\n\nIf you publish recipes, this is the line to watch: cooking forgives, baking doesn't. ⚖️\n\nTry the same prompt on your next dinner, then bake a cake with it. Which one survives your kitchen? 🎂"
+      }
+    },
+    "instagram_caption": "The AI nailed the timing on my weeknight chicken but treated baking like cooking.\n\nI tested NYT Cooking's AI assistant on a real chicken dinner. The savory steps came out solid—no guesswork needed. 🍗\n\nThen I tried it on a cake. It ignored the chemistry rules baking depends on, and a few grams off is all it takes to fail.\n\nIf you publish recipes, this is the line to watch: cooking forgives, baking doesn't. ⚖️\n\nTry the same prompt on your next dinner, then bake a cake with it. Which one survives your kitchen? 🎂",
+    "carousel_slides": [
+      {
+        "hook": "AI saved dinner, almost ruined cake",
+        "description": "NYT Cooking's AI assistant handled savory timing perfectly but ignored baking chemistry, turning a simple cake into a near disaster.",
+        "visual_hint": "AI assistant on phone screen with chicken",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone cooking app"
+      },
+      {
+        "hook": "Weeknight chicken? Surprisingly solid.",
+        "description": "I tested the AI on a simple chicken dinner. Timing was spot on, no guesswork needed—savory cooking seems to be its strength.",
+        "visual_hint": "Roasted chicken on a dinner plate",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "roasted chicken dinner",
+        "image": "https://images.pexels.com/photos/10821330/pexels-photo-10821330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Baking? The AI fumbled chemistry.",
+        "description": "When it came to baking, the assistant ignored critical chemistry rules. Precision vanished, and the cake suffered for it.",
+        "visual_hint": "Cake batter with measuring cups nearby",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "cake batter mixing",
+        "image": "https://images.pexels.com/photos/33775628/pexels-photo-33775628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cakes don't forgive small errors.",
+        "description": "A few grams off or wrong order and dessert fails. The AI treated baking like cooking, which is exactly why it flopped.",
+        "visual_hint": "Hands measuring flour on scale",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "baking ingredients scale",
+        "image": "https://images.pexels.com/photos/8175357/pexels-photo-8175357.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your next bake!",
+        "description": "Try the AI on dinner, but skip it for dessert. Share your results and follow for more honest tech tests.",
+        "visual_hint": "Phone showing AI app with cake icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone app screen",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-11-07T19:56:07.486Z",
+    "sourceId": "d581352d6e44804a7f35abe08caac37d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "why-a-new-report-on-anthropic-automating-ai-develo",
     "prompt_version": "1.0.0",
     "status": "published",

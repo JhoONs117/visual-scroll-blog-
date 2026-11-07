@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "nyt-cooking-s-ai-assistant-saved-my-weeknight-chic",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+  "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+  "pubDate": "2026-11-07T15:50:00.000Z",
+  "slides": [
+    "Can NYT Cooking's AI assistant actually cook?",
+    "I tested it on a weeknight chicken dinner",
+    "It nailed savory timing but fumbled baking chemistry",
+    "Your cake depends on precision the AI ignores",
+    "Trust it for dinner, never for dessert"
+  ],
+  "thread_text": [
+    "1. Can AI actually cook?\n\nThe New York Times built an AI assistant for its Cooking app. I tested it on a real weeknight chicken dinner to see if it delivers or just talks.",
+    "2. One recipe, one test\n\nI gave it a simple chicken dinner task and watched how it handled the savory steps. Timing came out surprisingly solid, no guesswork needed.",
+    "3. Where it broke down\n\nBaking was a different story. The assistant ignored chemistry rules that cakes depend on, and precision went out the window.",
+    "4. Cakes don't forgive\n\nA few grams off or a wrong order and your dessert fails. The AI treated baking like cooking, which is exactly why it fumbled.",
+    "5. Would you trust it?\n\nTry the same prompt on your next dinner, then bake a cake with it. Share which one survives your kitchen."
+  ],
+  "video_script": [
+    "Can an AI really cook a weeknight chicken dinner?",
+    "I tested the New York Times cooking assistant on one recipe.",
+    "The savory timing was solid, no complaints at all.",
+    "But baking chemistry fell apart, it ignored precision rules.",
+    "Trust it for dinner, never for dessert, test it yourself."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can AI actually cook?\n\nThe New York Times built an AI assistant for its Cooking app. I tested it on a real weeknight chicken dinner to see if it delivers or just talks.",
+        "2. One recipe, one test\n\nI gave it a simple chicken dinner task and watched how it handled the savory steps. Timing came out surprisingly solid, no guesswork needed.",
+        "3. Where it broke down\n\nBaking was a different story. The assistant ignored chemistry rules that cakes depend on, and precision went out the window.",
+        "4. Cakes don't forgive\n\nA few grams off or a wrong order and your dessert fails. The AI treated baking like cooking, which is exactly why it fumbled.",
+        "5. Would you trust it?\n\nTry the same prompt on your next dinner, then bake a cake with it. Share which one survives your kitchen."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can an AI really cook a weeknight chicken dinner?",
+        "I tested the New York Times cooking assistant on one recipe.",
+        "The savory timing was solid, no complaints at all.",
+        "But baking chemistry fell apart, it ignored precision rules.",
+        "Trust it for dinner, never for dessert, test it yourself."
+      ]
+    },
+    "instagram": {
+      "caption": "The AI nailed the timing on my weeknight chicken but treated baking like cooking.\n\nI tested NYT Cooking's AI assistant on a real chicken dinner. The savory steps came out solid—no guesswork needed. 🍗\n\nThen I tried it on a cake. It ignored the chemistry rules baking depends on, and a few grams off is all it takes to fail.\n\nIf you publish recipes, this is the line to watch: cooking forgives, baking doesn't. ⚖️\n\nTry the same prompt on your next dinner, then bake a cake with it. Which one survives your kitchen? 🎂"
+    }
+  },
+  "instagram_caption": "The AI nailed the timing on my weeknight chicken but treated baking like cooking.\n\nI tested NYT Cooking's AI assistant on a real chicken dinner. The savory steps came out solid—no guesswork needed. 🍗\n\nThen I tried it on a cake. It ignored the chemistry rules baking depends on, and a few grams off is all it takes to fail.\n\nIf you publish recipes, this is the line to watch: cooking forgives, baking doesn't. ⚖️\n\nTry the same prompt on your next dinner, then bake a cake with it. Which one survives your kitchen? 🎂",
+  "carousel_slides": [
+    {
+      "hook": "AI saved dinner, almost ruined cake",
+      "description": "NYT Cooking's AI assistant handled savory timing perfectly but ignored baking chemistry, turning a simple cake into a near disaster.",
+      "visual_hint": "AI assistant on phone screen with chicken",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone cooking app"
+    },
+    {
+      "hook": "Weeknight chicken? Surprisingly solid.",
+      "description": "I tested the AI on a simple chicken dinner. Timing was spot on, no guesswork needed—savory cooking seems to be its strength.",
+      "visual_hint": "Roasted chicken on a dinner plate",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "roasted chicken dinner",
+      "image": "https://images.pexels.com/photos/10821330/pexels-photo-10821330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Baking? The AI fumbled chemistry.",
+      "description": "When it came to baking, the assistant ignored critical chemistry rules. Precision vanished, and the cake suffered for it.",
+      "visual_hint": "Cake batter with measuring cups nearby",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "cake batter mixing",
+      "image": "https://images.pexels.com/photos/33775628/pexels-photo-33775628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cakes don't forgive small errors.",
+      "description": "A few grams off or wrong order and dessert fails. The AI treated baking like cooking, which is exactly why it flopped.",
+      "visual_hint": "Hands measuring flour on scale",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "baking ingredients scale",
+      "image": "https://images.pexels.com/photos/8175357/pexels-photo-8175357.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next bake!",
+      "description": "Try the AI on dinner, but skip it for dessert. Share your results and follow for more honest tech tests.",
+      "visual_hint": "Phone showing AI app with cake icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone app screen",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-07T19:56:07.486Z",
+  "sourceId": "d581352d6e44804a7f35abe08caac37d"
+}
