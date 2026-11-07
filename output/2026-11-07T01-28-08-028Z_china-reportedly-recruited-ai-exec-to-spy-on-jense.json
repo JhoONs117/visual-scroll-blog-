@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "china-reportedly-recruited-ai-exec-to-spy-on-jense",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+  "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+  "pubDate": "2026-11-06T23:00:44.000Z",
+  "slides": [
+    "China recruited an AI exec to spy on Jensen Huang?",
+    "The executive allegedly infiltrated Nvidia's inner circle.",
+    "But the reported target was Huang's personal habits, not tech.",
+    "Companies now must vet AI partners for espionage risk.",
+    "Audit your AI vendor relationships today."
+  ],
+  "thread_text": [
+    "1. Spy in Nvidia's Inner Circle?\n\nA China-linked AI executive allegedly infiltrated Jensen Huang's trusted circle. The reported target wasn't chip secrets — it was his personal habits.",
+    "2. Intel on a CEO's Routines\n\nSources say the operation focused on Huang's daily patterns, not technology. That's a new kind of corporate espionage.",
+    "3. The Trusted Insider Risk\n\nHiring senior AI talent often means giving deep access. Background checks rarely cover personal intelligence gathering.",
+    "4. Your AI Partners Are Targets\n\nVendors and partners can be vectors for espionage. Due diligence now must include counterintelligence, not just code audits.",
+    "5. Audit Your AI Vendors Now\n\nPull your AI vendor list and ask: who has physical or digital access to leadership? If you can't answer, that's your first gap."
+  ],
+  "video_script": [
+    "China allegedly planted an AI exec inside Nvidia's circle.",
+    "The target? Jensen Huang's personal habits, not tech.",
+    "Trusted insiders can be the biggest security blind spot.",
+    "Your AI partners might be espionage risks too.",
+    "Audit your AI vendor access today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Spy in Nvidia's Inner Circle?\n\nA China-linked AI executive allegedly infiltrated Jensen Huang's trusted circle. The reported target wasn't chip secrets — it was his personal habits.",
+        "2. Intel on a CEO's Routines\n\nSources say the operation focused on Huang's daily patterns, not technology. That's a new kind of corporate espionage.",
+        "3. The Trusted Insider Risk\n\nHiring senior AI talent often means giving deep access. Background checks rarely cover personal intelligence gathering.",
+        "4. Your AI Partners Are Targets\n\nVendors and partners can be vectors for espionage. Due diligence now must include counterintelligence, not just code audits.",
+        "5. Audit Your AI Vendors Now\n\nPull your AI vendor list and ask: who has physical or digital access to leadership? If you can't answer, that's your first gap."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "China allegedly planted an AI exec inside Nvidia's circle.",
+        "The target? Jensen Huang's personal habits, not tech.",
+        "Trusted insiders can be the biggest security blind spot.",
+        "Your AI partners might be espionage risks too.",
+        "Audit your AI vendor access today."
+      ]
+    },
+    "instagram": {
+      "caption": "A China-linked AI exec allegedly got inside Jensen Huang's trusted circle — and the reported target was his personal habits, not chip secrets. 🕵️\n\nThe operation reportedly focused on Huang's daily routines rather than technology.\n\nThat means the risk sits with people you give access to, not just the code they write.\n\nIf your content or business depends on AI vendors, ask who on that list can physically or digitally reach your leadership. 🔍\n\nBackground checks rarely cover intelligence gathering like this.\n\nPull your AI vendor list today — and if you can't say who has access to leadership, that's your first gap. ⚠️\n\nDo you actually know who on your AI vendor list has access to your team?"
+    }
+  },
+  "instagram_caption": "A China-linked AI exec allegedly got inside Jensen Huang's trusted circle — and the reported target was his personal habits, not chip secrets. 🕵️\n\nThe operation reportedly focused on Huang's daily routines rather than technology.\n\nThat means the risk sits with people you give access to, not just the code they write.\n\nIf your content or business depends on AI vendors, ask who on that list can physically or digitally reach your leadership. 🔍\n\nBackground checks rarely cover intelligence gathering like this.\n\nPull your AI vendor list today — and if you can't say who has access to leadership, that's your first gap. ⚠️\n\nDo you actually know who on your AI vendor list has access to your team?",
+  "carousel_slides": [
+    {
+      "hook": "Was the real target his habits?",
+      "description": "A China-linked AI executive allegedly infiltrated Jensen Huang's circle, but reportedly sought personal routines, not chip secrets.",
+      "visual_hint": "Silhouette of a man in a suit, blurred background",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "businessman silhouette"
+    },
+    {
+      "hook": "Spy inside Nvidia's trusted circle?",
+      "description": "The executive allegedly gained deep access to Huang's inner circle, raising fears of a new kind of corporate espionage.",
+      "visual_hint": "Close-up of a security badge on a lanyard",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "security badge",
+      "image": "https://images.pexels.com/photos/7714731/pexels-photo-7714731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "They wanted his daily patterns.",
+      "description": "Sources say the operation focused on Huang's personal habits, not technology, signaling a shift in espionage targets.",
+      "visual_hint": "Calendar with marked dates and times",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "calendar schedule",
+      "image": "https://images.pexels.com/photos/29509509/pexels-photo-29509509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI partners are targets.",
+      "description": "Vendors and partners can be vectors for espionage, so due diligence must now include counterintelligence, not just code audits.",
+      "visual_hint": "Handshake over a laptop with code",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "business handshake",
+      "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your AI vendors now.",
+      "description": "Pull your AI vendor list and ask: who has physical or digital access to leadership? If you can't answer, that's your first gap.",
+      "visual_hint": "Checklist with a pen on a desk",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist pen",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-07T01:28:42.695Z",
+  "sourceId": "421fa7063f0687d0e02540c8bf9c056a"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ramp-data-shows-ai-spending-stalling-just-as-anthr",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+  "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+  "pubDate": "Fri, 06 Nov 2026 15:54:47 +0000",
+  "slides": [
+    "Is Ramp's data hiding an AI spending freeze?",
+    "Businesses slowed AI tool adoption in recent months",
+    "Yet Anthropic is preparing its IPO right now",
+    "Your AI vendors may raise prices or pivot soon",
+    "Audit one AI subscription this week: is it still used?"
+  ],
+  "thread_text": [
+    "1. The AI spending freeze nobody sees\n\nRamp's transaction data shows real companies quietly cutting AI tool budgets. But the same week, Anthropic is prepping its IPO.",
+    "2. Adoption slowed, but not everywhere\n\nBusinesses pulled back on new AI seats and renewals in recent months. The slowdown isn't a collapse — it's a pause while vendors hold their breath.",
+    "3. Anthropic's IPO timing is the tell\n\nIf demand were truly dead, you don't file to go public. The IPO signals vendors expect the pause to end — or they need public money to survive it.",
+    "4. Vendors will come for your budget\n\nWhen growth slows, prices go up or products pivot. Expect renewal offers with new tiers, forced upgrades, and 'limited-time' pricing before the end of the quarter.",
+    "5. Audit one subscription this week\n\nOpen your billing dashboard and pick the AI tool you've paid for longest. Check last month's usage. If it's near zero, cancel it today — before renewal hits."
+  ],
+  "video_script": [
+    "Ramp data hints companies are quietly cutting AI spending.",
+    "But Anthropic is prepping an IPO right now.",
+    "Slower adoption doesn't mean zero demand — it's a pause.",
+    "When growth stalls, vendors raise prices or pivot fast.",
+    "Audit one AI subscription this week and cancel unused ones."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The AI spending freeze nobody sees\n\nRamp's transaction data shows real companies quietly cutting AI tool budgets. But the same week, Anthropic is prepping its IPO.",
+        "2. Adoption slowed, but not everywhere\n\nBusinesses pulled back on new AI seats and renewals in recent months. The slowdown isn't a collapse — it's a pause while vendors hold their breath.",
+        "3. Anthropic's IPO timing is the tell\n\nIf demand were truly dead, you don't file to go public. The IPO signals vendors expect the pause to end — or they need public money to survive it.",
+        "4. Vendors will come for your budget\n\nWhen growth slows, prices go up or products pivot. Expect renewal offers with new tiers, forced upgrades, and 'limited-time' pricing before the end of the quarter.",
+        "5. Audit one subscription this week\n\nOpen your billing dashboard and pick the AI tool you've paid for longest. Check last month's usage. If it's near zero, cancel it today — before renewal hits."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Ramp data hints companies are quietly cutting AI spending.",
+        "But Anthropic is prepping an IPO right now.",
+        "Slower adoption doesn't mean zero demand — it's a pause.",
+        "When growth stalls, vendors raise prices or pivot fast.",
+        "Audit one AI subscription this week and cancel unused ones."
+      ]
+    },
+    "instagram": {
+      "caption": "Companies quietly cut their AI tool budgets in recent months, per Ramp's transaction data. 📉\n\nAt the same time, Anthropic is preparing to go public.\n\nThat timing matters: if demand were really dead, you don't file for an IPO. Vendors expect the pause to end — or need public money to survive it.\n\nExpect higher prices, forced upgrades and \"limited-time\" renewal offers as vendors chase growth. 💸\n\nFor anyone who publishes or creates: your AI stack is about to get more expensive, and not every tool you pay for is earning its keep.\n\nOpen your billing dashboard, pick the AI subscription you've paid for longest, and check last month's usage. If it's near zero, cancel it before renewal hits. 🔍\n\nWhat's the one AI tool you're still paying for but haven't opened in weeks? ⬇️"
+    }
+  },
+  "instagram_caption": "Companies quietly cut their AI tool budgets in recent months, per Ramp's transaction data. 📉\n\nAt the same time, Anthropic is preparing to go public.\n\nThat timing matters: if demand were really dead, you don't file for an IPO. Vendors expect the pause to end — or need public money to survive it.\n\nExpect higher prices, forced upgrades and \"limited-time\" renewal offers as vendors chase growth. 💸\n\nFor anyone who publishes or creates: your AI stack is about to get more expensive, and not every tool you pay for is earning its keep.\n\nOpen your billing dashboard, pick the AI subscription you've paid for longest, and check last month's usage. If it's near zero, cancel it before renewal hits. 🔍\n\nWhat's the one AI tool you're still paying for but haven't opened in weeks? ⬇️",
+  "carousel_slides": [
+    {
+      "hook": "Is AI spending actually freezing?",
+      "description": "Ramp data shows businesses cut AI budgets while Anthropic preps its IPO. What does this signal mean for you?",
+      "visual_hint": "Money and charts with downward arrow",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Businesses are pausing AI adoption",
+      "description": "New AI seats and renewals slowed in recent months. It's not a collapse—just a pause while vendors hold their breath.",
+      "visual_hint": "Office workers reviewing budget cuts",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Anthropic IPO timing is the tell",
+      "description": "If demand were dead, you wouldn't file to go public. The IPO signals vendors expect the pause to end—or need cash.",
+      "visual_hint": "IPO filing documents with stock ticker",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock exchange screen",
+      "image": "https://images.pexels.com/photos/10628029/pexels-photo-10628029.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Vendors will come for your budget",
+      "description": "When growth slows, expect price hikes, forced upgrades, and 'limited-time' offers before the quarter ends.",
+      "visual_hint": "Hand holding contract with rising prices",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding contract",
+      "image": "https://images.pexels.com/photos/8297657/pexels-photo-8297657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit one AI subscription this week",
+      "description": "Open your billing dashboard. Pick the oldest AI tool. If usage is near zero, cancel it today before renewal.",
+      "visual_hint": "Person checking billing dashboard",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "billing dashboard",
+      "image": "https://images.pexels.com/photos/8296949/pexels-photo-8296949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/ara-stripe-5.png?resize=1200,779",
+  "savedAt": "2026-11-07T01:28:31.176Z",
+  "sourceId": "7b5a2965d87a1f12515a052dcaed7672"
+}

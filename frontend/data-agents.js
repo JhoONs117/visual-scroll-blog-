@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-is-stepping-back-from-ndas-for-data-center-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "pubDate": "2026-11-06T00:37:56.000Z",
+      "slides": [
+        "Why is OpenAI softening its data center NDAs?",
+        "The company confirmed it will ease restrictions",
+        "But critics say the change is mostly cosmetic",
+        "Local groups gain leverage in project negotiations",
+        "Ask your officials what terms actually changed"
+      ],
+      "thread_text": [
+        "1. OpenAI's NDA problem\n\nOpenAI is quietly easing data center NDAs after criticism that communities were gagged. But the company confirms the change while critics call it cosmetic.",
+        "2. What actually changed\n\nThe company confirmed it will ease restrictions on local officials discussing projects. But the details are vague — and that's the point.",
+        "3. Critics: mostly cosmetic\n\nLocal groups say the changes are mostly cosmetic, leaving real leverage untouched. The NDA language may still silence key voices.",
+        "4. Local leverage boost\n\nBut the shift gives local groups more leverage in project negotiations. They can now ask for specifics without fear of retaliation.",
+        "5. Ask your officials\n\nAsk your local officials what terms actually changed in those NDAs. If they can't answer, that's your answer."
+      ],
+      "video_script": [
+        "OpenAI is softening its data center NDAs, but is it real?",
+        "The company confirmed it will ease restrictions, but details are vague.",
+        "Critics say the change is mostly cosmetic and leaves leverage untouched.",
+        "Local groups gain leverage in negotiations, but only if they use it.",
+        "Ask your officials what terms actually changed. If they can't answer, that's telling."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. OpenAI's NDA problem\n\nOpenAI is quietly easing data center NDAs after criticism that communities were gagged. But the company confirms the change while critics call it cosmetic.",
+            "2. What actually changed\n\nThe company confirmed it will ease restrictions on local officials discussing projects. But the details are vague — and that's the point.",
+            "3. Critics: mostly cosmetic\n\nLocal groups say the changes are mostly cosmetic, leaving real leverage untouched. The NDA language may still silence key voices.",
+            "4. Local leverage boost\n\nBut the shift gives local groups more leverage in project negotiations. They can now ask for specifics without fear of retaliation.",
+            "5. Ask your officials\n\nAsk your local officials what terms actually changed in those NDAs. If they can't answer, that's your answer."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI is softening its data center NDAs, but is it real?",
+            "The company confirmed it will ease restrictions, but details are vague.",
+            "Critics say the change is mostly cosmetic and leaves leverage untouched.",
+            "Local groups gain leverage in negotiations, but only if they use it.",
+            "Ask your officials what terms actually changed. If they can't answer, that's telling."
+          ]
+        },
+        "instagram": {
+          "caption": "OpenAI just confirmed it will ease NDAs that kept local officials from discussing its data center projects.\n\nThat matters if a facility is planned near you and your town can't say what it agreed to. Critics call the change mostly cosmetic 😒 the vague wording may still silence key voices.\n\nBut local groups gain real leverage: they can now ask for specifics without fear of retaliation.\n\nAsk your officials what terms actually changed in those NDAs 🗣️ if they can't answer, that's your answer."
+        }
+      },
+      "instagram_caption": "OpenAI just confirmed it will ease NDAs that kept local officials from discussing its data center projects.\n\nThat matters if a facility is planned near you and your town can't say what it agreed to. Critics call the change mostly cosmetic 😒 the vague wording may still silence key voices.\n\nBut local groups gain real leverage: they can now ask for specifics without fear of retaliation.\n\nAsk your officials what terms actually changed in those NDAs 🗣️ if they can't answer, that's your answer.",
+      "carousel_slides": [
+        {
+          "hook": "Are NDAs silencing your community?",
+          "description": "OpenAI eases data center NDAs after criticism that local voices were gagged, but details remain vague.",
+          "visual_hint": "Close-up of a thick NDA document",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "legal document"
+        },
+        {
+          "hook": "OpenAI confirms easing NDA restrictions",
+          "description": "The company will allow local officials to discuss projects, but the specifics are still unclear.",
+          "visual_hint": "Official statement with blurred text",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "press conference",
+          "image": "https://images.pexels.com/photos/14567615/pexels-photo-14567615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Critics call the change cosmetic",
+          "description": "Local groups argue the easing is mostly cosmetic, leaving real leverage untouched and key voices silenced.",
+          "visual_hint": "Protest sign with 'cosmetic' wording",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "protest sign",
+          "image": "https://images.pexels.com/photos/11421067/pexels-photo-11421067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Local groups gain negotiation leverage",
+          "description": "The shift gives local groups more leverage, allowing them to ask for specifics without fear of retaliation.",
+          "visual_hint": "Handshake over a negotiation table",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "business negotiation",
+          "image": "https://images.pexels.com/photos/6289049/pexels-photo-6289049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask your officials what changed",
+          "description": "Contact your local officials and ask what terms actually changed in those NDAs. If they can't answer, that's your answer.",
+          "visual_hint": "Person holding a phone with question mark",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "phone call",
+          "image": "https://images.pexels.com/photos/4240533/pexels-photo-4240533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-11-07T01:28:53.757Z",
+      "sourceId": "3323df791b8bcd34e15af67b305a53a1"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "china-reportedly-recruited-ai-exec-to-spy-on-jense",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "pubDate": "2026-11-06T23:00:44.000Z",
+      "slides": [
+        "China recruited an AI exec to spy on Jensen Huang?",
+        "The executive allegedly infiltrated Nvidia's inner circle.",
+        "But the reported target was Huang's personal habits, not tech.",
+        "Companies now must vet AI partners for espionage risk.",
+        "Audit your AI vendor relationships today."
+      ],
+      "thread_text": [
+        "1. Spy in Nvidia's Inner Circle?\n\nA China-linked AI executive allegedly infiltrated Jensen Huang's trusted circle. The reported target wasn't chip secrets — it was his personal habits.",
+        "2. Intel on a CEO's Routines\n\nSources say the operation focused on Huang's daily patterns, not technology. That's a new kind of corporate espionage.",
+        "3. The Trusted Insider Risk\n\nHiring senior AI talent often means giving deep access. Background checks rarely cover personal intelligence gathering.",
+        "4. Your AI Partners Are Targets\n\nVendors and partners can be vectors for espionage. Due diligence now must include counterintelligence, not just code audits.",
+        "5. Audit Your AI Vendors Now\n\nPull your AI vendor list and ask: who has physical or digital access to leadership? If you can't answer, that's your first gap."
+      ],
+      "video_script": [
+        "China allegedly planted an AI exec inside Nvidia's circle.",
+        "The target? Jensen Huang's personal habits, not tech.",
+        "Trusted insiders can be the biggest security blind spot.",
+        "Your AI partners might be espionage risks too.",
+        "Audit your AI vendor access today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Spy in Nvidia's Inner Circle?\n\nA China-linked AI executive allegedly infiltrated Jensen Huang's trusted circle. The reported target wasn't chip secrets — it was his personal habits.",
+            "2. Intel on a CEO's Routines\n\nSources say the operation focused on Huang's daily patterns, not technology. That's a new kind of corporate espionage.",
+            "3. The Trusted Insider Risk\n\nHiring senior AI talent often means giving deep access. Background checks rarely cover personal intelligence gathering.",
+            "4. Your AI Partners Are Targets\n\nVendors and partners can be vectors for espionage. Due diligence now must include counterintelligence, not just code audits.",
+            "5. Audit Your AI Vendors Now\n\nPull your AI vendor list and ask: who has physical or digital access to leadership? If you can't answer, that's your first gap."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "China allegedly planted an AI exec inside Nvidia's circle.",
+            "The target? Jensen Huang's personal habits, not tech.",
+            "Trusted insiders can be the biggest security blind spot.",
+            "Your AI partners might be espionage risks too.",
+            "Audit your AI vendor access today."
+          ]
+        },
+        "instagram": {
+          "caption": "A China-linked AI exec allegedly got inside Jensen Huang's trusted circle — and the reported target was his personal habits, not chip secrets. 🕵️\n\nThe operation reportedly focused on Huang's daily routines rather than technology.\n\nThat means the risk sits with people you give access to, not just the code they write.\n\nIf your content or business depends on AI vendors, ask who on that list can physically or digitally reach your leadership. 🔍\n\nBackground checks rarely cover intelligence gathering like this.\n\nPull your AI vendor list today — and if you can't say who has access to leadership, that's your first gap. ⚠️\n\nDo you actually know who on your AI vendor list has access to your team?"
+        }
+      },
+      "instagram_caption": "A China-linked AI exec allegedly got inside Jensen Huang's trusted circle — and the reported target was his personal habits, not chip secrets. 🕵️\n\nThe operation reportedly focused on Huang's daily routines rather than technology.\n\nThat means the risk sits with people you give access to, not just the code they write.\n\nIf your content or business depends on AI vendors, ask who on that list can physically or digitally reach your leadership. 🔍\n\nBackground checks rarely cover intelligence gathering like this.\n\nPull your AI vendor list today — and if you can't say who has access to leadership, that's your first gap. ⚠️\n\nDo you actually know who on your AI vendor list has access to your team?",
+      "carousel_slides": [
+        {
+          "hook": "Was the real target his habits?",
+          "description": "A China-linked AI executive allegedly infiltrated Jensen Huang's circle, but reportedly sought personal routines, not chip secrets.",
+          "visual_hint": "Silhouette of a man in a suit, blurred background",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "businessman silhouette"
+        },
+        {
+          "hook": "Spy inside Nvidia's trusted circle?",
+          "description": "The executive allegedly gained deep access to Huang's inner circle, raising fears of a new kind of corporate espionage.",
+          "visual_hint": "Close-up of a security badge on a lanyard",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "security badge",
+          "image": "https://images.pexels.com/photos/7714731/pexels-photo-7714731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "They wanted his daily patterns.",
+          "description": "Sources say the operation focused on Huang's personal habits, not technology, signaling a shift in espionage targets.",
+          "visual_hint": "Calendar with marked dates and times",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "calendar schedule",
+          "image": "https://images.pexels.com/photos/29509509/pexels-photo-29509509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI partners are targets.",
+          "description": "Vendors and partners can be vectors for espionage, so due diligence must now include counterintelligence, not just code audits.",
+          "visual_hint": "Handshake over a laptop with code",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "business handshake",
+          "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your AI vendors now.",
+          "description": "Pull your AI vendor list and ask: who has physical or digital access to leadership? If you can't answer, that's your first gap.",
+          "visual_hint": "Checklist with a pen on a desk",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist pen",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-11-07T01:28:42.695Z",
+      "sourceId": "421fa7063f0687d0e02540c8bf9c056a"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ramp-data-shows-ai-spending-stalling-just-as-anthr",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "pubDate": "Fri, 06 Nov 2026 15:54:47 +0000",
+      "slides": [
+        "Is Ramp's data hiding an AI spending freeze?",
+        "Businesses slowed AI tool adoption in recent months",
+        "Yet Anthropic is preparing its IPO right now",
+        "Your AI vendors may raise prices or pivot soon",
+        "Audit one AI subscription this week: is it still used?"
+      ],
+      "thread_text": [
+        "1. The AI spending freeze nobody sees\n\nRamp's transaction data shows real companies quietly cutting AI tool budgets. But the same week, Anthropic is prepping its IPO.",
+        "2. Adoption slowed, but not everywhere\n\nBusinesses pulled back on new AI seats and renewals in recent months. The slowdown isn't a collapse — it's a pause while vendors hold their breath.",
+        "3. Anthropic's IPO timing is the tell\n\nIf demand were truly dead, you don't file to go public. The IPO signals vendors expect the pause to end — or they need public money to survive it.",
+        "4. Vendors will come for your budget\n\nWhen growth slows, prices go up or products pivot. Expect renewal offers with new tiers, forced upgrades, and 'limited-time' pricing before the end of the quarter.",
+        "5. Audit one subscription this week\n\nOpen your billing dashboard and pick the AI tool you've paid for longest. Check last month's usage. If it's near zero, cancel it today — before renewal hits."
+      ],
+      "video_script": [
+        "Ramp data hints companies are quietly cutting AI spending.",
+        "But Anthropic is prepping an IPO right now.",
+        "Slower adoption doesn't mean zero demand — it's a pause.",
+        "When growth stalls, vendors raise prices or pivot fast.",
+        "Audit one AI subscription this week and cancel unused ones."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The AI spending freeze nobody sees\n\nRamp's transaction data shows real companies quietly cutting AI tool budgets. But the same week, Anthropic is prepping its IPO.",
+            "2. Adoption slowed, but not everywhere\n\nBusinesses pulled back on new AI seats and renewals in recent months. The slowdown isn't a collapse — it's a pause while vendors hold their breath.",
+            "3. Anthropic's IPO timing is the tell\n\nIf demand were truly dead, you don't file to go public. The IPO signals vendors expect the pause to end — or they need public money to survive it.",
+            "4. Vendors will come for your budget\n\nWhen growth slows, prices go up or products pivot. Expect renewal offers with new tiers, forced upgrades, and 'limited-time' pricing before the end of the quarter.",
+            "5. Audit one subscription this week\n\nOpen your billing dashboard and pick the AI tool you've paid for longest. Check last month's usage. If it's near zero, cancel it today — before renewal hits."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Ramp data hints companies are quietly cutting AI spending.",
+            "But Anthropic is prepping an IPO right now.",
+            "Slower adoption doesn't mean zero demand — it's a pause.",
+            "When growth stalls, vendors raise prices or pivot fast.",
+            "Audit one AI subscription this week and cancel unused ones."
+          ]
+        },
+        "instagram": {
+          "caption": "Companies quietly cut their AI tool budgets in recent months, per Ramp's transaction data. 📉\n\nAt the same time, Anthropic is preparing to go public.\n\nThat timing matters: if demand were really dead, you don't file for an IPO. Vendors expect the pause to end — or need public money to survive it.\n\nExpect higher prices, forced upgrades and \"limited-time\" renewal offers as vendors chase growth. 💸\n\nFor anyone who publishes or creates: your AI stack is about to get more expensive, and not every tool you pay for is earning its keep.\n\nOpen your billing dashboard, pick the AI subscription you've paid for longest, and check last month's usage. If it's near zero, cancel it before renewal hits. 🔍\n\nWhat's the one AI tool you're still paying for but haven't opened in weeks? ⬇️"
+        }
+      },
+      "instagram_caption": "Companies quietly cut their AI tool budgets in recent months, per Ramp's transaction data. 📉\n\nAt the same time, Anthropic is preparing to go public.\n\nThat timing matters: if demand were really dead, you don't file for an IPO. Vendors expect the pause to end — or need public money to survive it.\n\nExpect higher prices, forced upgrades and \"limited-time\" renewal offers as vendors chase growth. 💸\n\nFor anyone who publishes or creates: your AI stack is about to get more expensive, and not every tool you pay for is earning its keep.\n\nOpen your billing dashboard, pick the AI subscription you've paid for longest, and check last month's usage. If it's near zero, cancel it before renewal hits. 🔍\n\nWhat's the one AI tool you're still paying for but haven't opened in weeks? ⬇️",
+      "carousel_slides": [
+        {
+          "hook": "Is AI spending actually freezing?",
+          "description": "Ramp data shows businesses cut AI budgets while Anthropic preps its IPO. What does this signal mean for you?",
+          "visual_hint": "Money and charts with downward arrow",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Businesses are pausing AI adoption",
+          "description": "New AI seats and renewals slowed in recent months. It's not a collapse—just a pause while vendors hold their breath.",
+          "visual_hint": "Office workers reviewing budget cuts",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Anthropic IPO timing is the tell",
+          "description": "If demand were dead, you wouldn't file to go public. The IPO signals vendors expect the pause to end—or need cash.",
+          "visual_hint": "IPO filing documents with stock ticker",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock exchange screen",
+          "image": "https://images.pexels.com/photos/10628029/pexels-photo-10628029.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Vendors will come for your budget",
+          "description": "When growth slows, expect price hikes, forced upgrades, and 'limited-time' offers before the quarter ends.",
+          "visual_hint": "Hand holding contract with rising prices",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding contract",
+          "image": "https://images.pexels.com/photos/8297657/pexels-photo-8297657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit one AI subscription this week",
+          "description": "Open your billing dashboard. Pick the oldest AI tool. If usage is near zero, cancel it today before renewal.",
+          "visual_hint": "Person checking billing dashboard",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "billing dashboard",
+          "image": "https://images.pexels.com/photos/8296949/pexels-photo-8296949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/ara-stripe-5.png?resize=1200,779",
+      "savedAt": "2026-11-07T01:28:31.176Z",
+      "sourceId": "7b5a2965d87a1f12515a052dcaed7672"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-reportedly-raises-an-additional-11-billion-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "pubDate": "Fri, 06 Nov 2026 22:53:46 +0000",
+      "slides": [
+        "OpenAI just raised $11 billion — but why now?",
+        "Investors priced the company at $1.25 trillion.",
+        "That money may not cover next year's compute bills.",
+        "Your AI tools could get pricier as costs shift down.",
+        "Ask your vendor what this funding changes for pricing."
+      ],
+      "thread_text": [
+        "1. The $11B question\n\nOpenAI just closed an $11 billion round. Investors handed it over at a $1.25 trillion valuation — and the timing is the story.",
+        "2. Compute bills are coming\n\nThe raise may not cover next year's compute costs. Training and inference bills are growing faster than revenue.",
+        "3. The bill lands on you\n\nAs costs shift downstream, your AI tools could get pricier. Vendors will pass the squeeze to users.",
+        "4. Pricing is the real signal\n\nWatch for tier changes, usage caps, and per-seat hikes. The funding news is a preview of your next invoice.",
+        "5. Ask this one question\n\nAsk your AI vendor what this funding changes for pricing. Get the answer in writing before renewal."
+      ],
+      "video_script": [
+        "OpenAI just raised eleven billion dollars.",
+        "Investors valued the company at one point two five trillion.",
+        "That money might not cover next year's compute bills.",
+        "Your AI tools could get more expensive as costs shift down.",
+        "Ask your vendor what this funding changes for pricing."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The $11B question\n\nOpenAI just closed an $11 billion round. Investors handed it over at a $1.25 trillion valuation — and the timing is the story.",
+            "2. Compute bills are coming\n\nThe raise may not cover next year's compute costs. Training and inference bills are growing faster than revenue.",
+            "3. The bill lands on you\n\nAs costs shift downstream, your AI tools could get pricier. Vendors will pass the squeeze to users.",
+            "4. Pricing is the real signal\n\nWatch for tier changes, usage caps, and per-seat hikes. The funding news is a preview of your next invoice.",
+            "5. Ask this one question\n\nAsk your AI vendor what this funding changes for pricing. Get the answer in writing before renewal."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI just raised eleven billion dollars.",
+            "Investors valued the company at one point two five trillion.",
+            "That money might not cover next year's compute bills.",
+            "Your AI tools could get more expensive as costs shift down.",
+            "Ask your vendor what this funding changes for pricing."
+          ]
+        },
+        "instagram": {
+          "caption": "$1.25 trillion valuation, and the money might not even cover next year's compute bills. 🧠\n\nOpenAI just raised another $11 billion from investors.\n\nTraining and running AI models costs more than the revenue coming in.\n\nVendors will likely pass that squeeze downstream — tier changes, usage caps, per-seat hikes.\n\nIf you build content with AI tools, your renewal invoice is where this lands. 💸\n\nAsk your AI vendor one thing before renewal: what does this funding change for pricing? Get it in writing. 📝"
+        }
+      },
+      "instagram_caption": "$1.25 trillion valuation, and the money might not even cover next year's compute bills. 🧠\n\nOpenAI just raised another $11 billion from investors.\n\nTraining and running AI models costs more than the revenue coming in.\n\nVendors will likely pass that squeeze downstream — tier changes, usage caps, per-seat hikes.\n\nIf you build content with AI tools, your renewal invoice is where this lands. 💸\n\nAsk your AI vendor one thing before renewal: what does this funding change for pricing? Get it in writing. 📝",
+      "carousel_slides": [
+        {
+          "hook": "OpenAI raised $11B. Why now?",
+          "description": "Investors just valued OpenAI at $1.25 trillion, but the timing hints that next year's compute bills might not be covered.",
+          "visual_hint": "Large glowing dollar sign in dark data center",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "A $1.25 trillion bet",
+          "description": "The company's new valuation dwarfs most public firms, yet the cash may not cover next year's training and inference costs.",
+          "visual_hint": "Stock chart climbing steeply on screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI tools might get pricier",
+          "description": "As compute costs shift downstream, vendors will likely pass the squeeze to users through higher prices or tighter limits.",
+          "visual_hint": "Close-up of server racks with rising heat",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server racks",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Watch for tier changes and caps",
+          "description": "Funding news is a preview of your next invoice: expect per-seat hikes, usage caps, and new pricing tiers from your AI vendor.",
+          "visual_hint": "Hand holding a bill with rising numbers",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "invoice paper",
+          "image": "https://images.pexels.com/photos/8872400/pexels-photo-8872400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask your vendor this one question",
+          "description": "Before renewal, ask your AI vendor what this funding changes for pricing and get the answer in writing. Save this post.",
+          "visual_hint": "Person typing on laptop with contract",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop contract",
+          "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-11-07T01:28:18.897Z",
+      "sourceId": "41cd6da548e02af9f26497eba445b82c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "how-akai-and-moog-are-embracing-vibe-coded-mods",
       "prompt_version": "1.0.0",
       "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-reportedly-raises-an-additional-11-billion-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+  "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+  "pubDate": "Fri, 06 Nov 2026 22:53:46 +0000",
+  "slides": [
+    "OpenAI just raised $11 billion — but why now?",
+    "Investors priced the company at $1.25 trillion.",
+    "That money may not cover next year's compute bills.",
+    "Your AI tools could get pricier as costs shift down.",
+    "Ask your vendor what this funding changes for pricing."
+  ],
+  "thread_text": [
+    "1. The $11B question\n\nOpenAI just closed an $11 billion round. Investors handed it over at a $1.25 trillion valuation — and the timing is the story.",
+    "2. Compute bills are coming\n\nThe raise may not cover next year's compute costs. Training and inference bills are growing faster than revenue.",
+    "3. The bill lands on you\n\nAs costs shift downstream, your AI tools could get pricier. Vendors will pass the squeeze to users.",
+    "4. Pricing is the real signal\n\nWatch for tier changes, usage caps, and per-seat hikes. The funding news is a preview of your next invoice.",
+    "5. Ask this one question\n\nAsk your AI vendor what this funding changes for pricing. Get the answer in writing before renewal."
+  ],
+  "video_script": [
+    "OpenAI just raised eleven billion dollars.",
+    "Investors valued the company at one point two five trillion.",
+    "That money might not cover next year's compute bills.",
+    "Your AI tools could get more expensive as costs shift down.",
+    "Ask your vendor what this funding changes for pricing."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $11B question\n\nOpenAI just closed an $11 billion round. Investors handed it over at a $1.25 trillion valuation — and the timing is the story.",
+        "2. Compute bills are coming\n\nThe raise may not cover next year's compute costs. Training and inference bills are growing faster than revenue.",
+        "3. The bill lands on you\n\nAs costs shift downstream, your AI tools could get pricier. Vendors will pass the squeeze to users.",
+        "4. Pricing is the real signal\n\nWatch for tier changes, usage caps, and per-seat hikes. The funding news is a preview of your next invoice.",
+        "5. Ask this one question\n\nAsk your AI vendor what this funding changes for pricing. Get the answer in writing before renewal."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI just raised eleven billion dollars.",
+        "Investors valued the company at one point two five trillion.",
+        "That money might not cover next year's compute bills.",
+        "Your AI tools could get more expensive as costs shift down.",
+        "Ask your vendor what this funding changes for pricing."
+      ]
+    },
+    "instagram": {
+      "caption": "$1.25 trillion valuation, and the money might not even cover next year's compute bills. 🧠\n\nOpenAI just raised another $11 billion from investors.\n\nTraining and running AI models costs more than the revenue coming in.\n\nVendors will likely pass that squeeze downstream — tier changes, usage caps, per-seat hikes.\n\nIf you build content with AI tools, your renewal invoice is where this lands. 💸\n\nAsk your AI vendor one thing before renewal: what does this funding change for pricing? Get it in writing. 📝"
+    }
+  },
+  "instagram_caption": "$1.25 trillion valuation, and the money might not even cover next year's compute bills. 🧠\n\nOpenAI just raised another $11 billion from investors.\n\nTraining and running AI models costs more than the revenue coming in.\n\nVendors will likely pass that squeeze downstream — tier changes, usage caps, per-seat hikes.\n\nIf you build content with AI tools, your renewal invoice is where this lands. 💸\n\nAsk your AI vendor one thing before renewal: what does this funding change for pricing? Get it in writing. 📝",
+  "carousel_slides": [
+    {
+      "hook": "OpenAI raised $11B. Why now?",
+      "description": "Investors just valued OpenAI at $1.25 trillion, but the timing hints that next year's compute bills might not be covered.",
+      "visual_hint": "Large glowing dollar sign in dark data center",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "A $1.25 trillion bet",
+      "description": "The company's new valuation dwarfs most public firms, yet the cash may not cover next year's training and inference costs.",
+      "visual_hint": "Stock chart climbing steeply on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI tools might get pricier",
+      "description": "As compute costs shift downstream, vendors will likely pass the squeeze to users through higher prices or tighter limits.",
+      "visual_hint": "Close-up of server racks with rising heat",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server racks",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Watch for tier changes and caps",
+      "description": "Funding news is a preview of your next invoice: expect per-seat hikes, usage caps, and new pricing tiers from your AI vendor.",
+      "visual_hint": "Hand holding a bill with rising numbers",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "invoice paper",
+      "image": "https://images.pexels.com/photos/8872400/pexels-photo-8872400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your vendor this one question",
+      "description": "Before renewal, ask your AI vendor what this funding changes for pricing and get the answer in writing. Save this post.",
+      "visual_hint": "Person typing on laptop with contract",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop contract",
+      "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-11-07T01:28:18.897Z",
+  "sourceId": "41cd6da548e02af9f26497eba445b82c"
+}

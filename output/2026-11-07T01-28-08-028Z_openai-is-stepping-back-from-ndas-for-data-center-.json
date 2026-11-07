@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-is-stepping-back-from-ndas-for-data-center-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI is stepping back from NDAs for data center projects",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+  "pubDate": "2026-11-06T00:37:56.000Z",
+  "slides": [
+    "Why is OpenAI softening its data center NDAs?",
+    "The company confirmed it will ease restrictions",
+    "But critics say the change is mostly cosmetic",
+    "Local groups gain leverage in project negotiations",
+    "Ask your officials what terms actually changed"
+  ],
+  "thread_text": [
+    "1. OpenAI's NDA problem\n\nOpenAI is quietly easing data center NDAs after criticism that communities were gagged. But the company confirms the change while critics call it cosmetic.",
+    "2. What actually changed\n\nThe company confirmed it will ease restrictions on local officials discussing projects. But the details are vague — and that's the point.",
+    "3. Critics: mostly cosmetic\n\nLocal groups say the changes are mostly cosmetic, leaving real leverage untouched. The NDA language may still silence key voices.",
+    "4. Local leverage boost\n\nBut the shift gives local groups more leverage in project negotiations. They can now ask for specifics without fear of retaliation.",
+    "5. Ask your officials\n\nAsk your local officials what terms actually changed in those NDAs. If they can't answer, that's your answer."
+  ],
+  "video_script": [
+    "OpenAI is softening its data center NDAs, but is it real?",
+    "The company confirmed it will ease restrictions, but details are vague.",
+    "Critics say the change is mostly cosmetic and leaves leverage untouched.",
+    "Local groups gain leverage in negotiations, but only if they use it.",
+    "Ask your officials what terms actually changed. If they can't answer, that's telling."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI's NDA problem\n\nOpenAI is quietly easing data center NDAs after criticism that communities were gagged. But the company confirms the change while critics call it cosmetic.",
+        "2. What actually changed\n\nThe company confirmed it will ease restrictions on local officials discussing projects. But the details are vague — and that's the point.",
+        "3. Critics: mostly cosmetic\n\nLocal groups say the changes are mostly cosmetic, leaving real leverage untouched. The NDA language may still silence key voices.",
+        "4. Local leverage boost\n\nBut the shift gives local groups more leverage in project negotiations. They can now ask for specifics without fear of retaliation.",
+        "5. Ask your officials\n\nAsk your local officials what terms actually changed in those NDAs. If they can't answer, that's your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI is softening its data center NDAs, but is it real?",
+        "The company confirmed it will ease restrictions, but details are vague.",
+        "Critics say the change is mostly cosmetic and leaves leverage untouched.",
+        "Local groups gain leverage in negotiations, but only if they use it.",
+        "Ask your officials what terms actually changed. If they can't answer, that's telling."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI just confirmed it will ease NDAs that kept local officials from discussing its data center projects.\n\nThat matters if a facility is planned near you and your town can't say what it agreed to. Critics call the change mostly cosmetic 😒 the vague wording may still silence key voices.\n\nBut local groups gain real leverage: they can now ask for specifics without fear of retaliation.\n\nAsk your officials what terms actually changed in those NDAs 🗣️ if they can't answer, that's your answer."
+    }
+  },
+  "instagram_caption": "OpenAI just confirmed it will ease NDAs that kept local officials from discussing its data center projects.\n\nThat matters if a facility is planned near you and your town can't say what it agreed to. Critics call the change mostly cosmetic 😒 the vague wording may still silence key voices.\n\nBut local groups gain real leverage: they can now ask for specifics without fear of retaliation.\n\nAsk your officials what terms actually changed in those NDAs 🗣️ if they can't answer, that's your answer.",
+  "carousel_slides": [
+    {
+      "hook": "Are NDAs silencing your community?",
+      "description": "OpenAI eases data center NDAs after criticism that local voices were gagged, but details remain vague.",
+      "visual_hint": "Close-up of a thick NDA document",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "legal document"
+    },
+    {
+      "hook": "OpenAI confirms easing NDA restrictions",
+      "description": "The company will allow local officials to discuss projects, but the specifics are still unclear.",
+      "visual_hint": "Official statement with blurred text",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "press conference",
+      "image": "https://images.pexels.com/photos/14567615/pexels-photo-14567615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Critics call the change cosmetic",
+      "description": "Local groups argue the easing is mostly cosmetic, leaving real leverage untouched and key voices silenced.",
+      "visual_hint": "Protest sign with 'cosmetic' wording",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "protest sign",
+      "image": "https://images.pexels.com/photos/11421067/pexels-photo-11421067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Local groups gain negotiation leverage",
+      "description": "The shift gives local groups more leverage, allowing them to ask for specifics without fear of retaliation.",
+      "visual_hint": "Handshake over a negotiation table",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "business negotiation",
+      "image": "https://images.pexels.com/photos/6289049/pexels-photo-6289049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your officials what changed",
+      "description": "Contact your local officials and ask what terms actually changed in those NDAs. If they can't answer, that's your answer.",
+      "visual_hint": "Person holding a phone with question mark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "phone call",
+      "image": "https://images.pexels.com/photos/4240533/pexels-photo-4240533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-07T01:28:53.757Z",
+  "sourceId": "3323df791b8bcd34e15af67b305a53a1"
+}
