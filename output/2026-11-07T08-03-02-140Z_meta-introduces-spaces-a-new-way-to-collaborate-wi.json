@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-introduces-spaces-a-new-way-to-collaborate-wi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+  "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+  "pubDate": "Fri, 06 Nov 2026 18:44:20 +0000",
+  "slides": [
+    "Can Meta's Muse agent actually replace your team?",
+    "Spaces is a shared workspace built for collaboration",
+    "But early tests show it struggles with conflicting input",
+    "Teams using it now report shorter iteration cycles",
+    "Try one real task in Spaces before your rival does"
+  ],
+  "thread_text": [
+    "1. Meta's Muse: Team Replacement?\n\nMeta's new AI agent Muse promises to overhaul team workflows, but early adopters are skeptical. Here's what we know so far.",
+    "2. Spaces: Built for Collaboration\n\nMuse operates within Spaces, a shared workspace designed for real-time teamwork. It aims to streamline tasks and boost productivity.",
+    "3. Early Tests Reveal Struggles\n\nDespite the hype, initial trials show Muse faltering with conflicting instructions. Users report confusion when inputs clash.",
+    "4. Shorter Iteration Cycles Reported\n\nTeams already using Muse in Spaces say they're iterating faster than before. The collaborative environment seems to cut down back-and-forth.",
+    "5. Test Before Your Rival Does\n\nPick one real task and run it in Spaces this week. If you don't, a competitor might beat you to the insight."
+  ],
+  "video_script": [
+    "Meta's Muse agent claims to replace your team.",
+    "It works in Spaces, a shared workspace for collaboration.",
+    "But early tests show it struggles with conflicting input.",
+    "Yet teams report shorter iteration cycles using it.",
+    "Try one real task in Spaces before your rival does."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta's Muse: Team Replacement?\n\nMeta's new AI agent Muse promises to overhaul team workflows, but early adopters are skeptical. Here's what we know so far.",
+        "2. Spaces: Built for Collaboration\n\nMuse operates within Spaces, a shared workspace designed for real-time teamwork. It aims to streamline tasks and boost productivity.",
+        "3. Early Tests Reveal Struggles\n\nDespite the hype, initial trials show Muse faltering with conflicting instructions. Users report confusion when inputs clash.",
+        "4. Shorter Iteration Cycles Reported\n\nTeams already using Muse in Spaces say they're iterating faster than before. The collaborative environment seems to cut down back-and-forth.",
+        "5. Test Before Your Rival Does\n\nPick one real task and run it in Spaces this week. If you don't, a competitor might beat you to the insight."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta's Muse agent claims to replace your team.",
+        "It works in Spaces, a shared workspace for collaboration.",
+        "But early tests show it struggles with conflicting input.",
+        "Yet teams report shorter iteration cycles using it.",
+        "Try one real task in Spaces before your rival does."
+      ]
+    },
+    "instagram": {
+      "caption": "Meta's new Muse agent lives inside Spaces, a shared workspace built for real-time teamwork.\n\nEarly tests show it struggles when team members give conflicting instructions. 🤔\n\nBut teams already using it report shorter iteration cycles than before.\n\nIf you publish or create content, this means the tools your team uses to collaborate may shift under you faster than expected.\n\nPick one real task this week and run it in Spaces before your competitor does. ⚡\n\nWould you trust an agent to untangle your team's conflicting feedback? 👀"
+    }
+  },
+  "instagram_caption": "Meta's new Muse agent lives inside Spaces, a shared workspace built for real-time teamwork.\n\nEarly tests show it struggles when team members give conflicting instructions. 🤔\n\nBut teams already using it report shorter iteration cycles than before.\n\nIf you publish or create content, this means the tools your team uses to collaborate may shift under you faster than expected.\n\nPick one real task this week and run it in Spaces before your competitor does. ⚡\n\nWould you trust an agent to untangle your team's conflicting feedback? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Can AI really replace your team?",
+      "description": "Meta's Muse agent promises to overhaul workflows, but early adopters remain skeptical about full team replacement.",
+      "visual_hint": "Robot hand reaching toward human hand",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot hand"
+    },
+    {
+      "hook": "Spaces: shared workspace for real-time teamwork",
+      "description": "Muse operates inside Spaces, designed to streamline tasks and boost productivity for collaborating teams.",
+      "visual_hint": "Team collaborating in modern workspace",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office teamwork",
+      "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "What happens when inputs conflict?",
+      "description": "Early tests show Muse faltering with conflicting instructions, leaving users confused when inputs clash.",
+      "visual_hint": "Confused user facing multiple screens",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer error screen",
+      "image": "https://images.pexels.com/photos/9121365/pexels-photo-9121365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Teams iterate faster with Muse",
+      "description": "Early teams report shorter iteration cycles, cutting back-and-forth and speeding up collaborative work.",
+      "visual_hint": "Developer typing on multiple monitors",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "programmer coding",
+      "image": "https://images.pexels.com/photos/9553905/pexels-photo-9553905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Spaces before your rival does",
+      "description": "Pick one real task and run it in Spaces this week. Don't let a competitor beat you to the insight.",
+      "visual_hint": "Person clicking call-to-action button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "computer mouse",
+      "image": "https://images.pexels.com/photos/12029640/pexels-photo-12029640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+  "savedAt": "2026-11-07T08:03:10.375Z",
+  "sourceId": "dcfedcc7440be1b63e34f9fdd075f41e"
+}

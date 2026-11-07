@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-valued-at-1-25-trillion-as-rival-anthropic-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+    "pubDate": "2026-11-06T23:46:18.000Z",
+    "slides": [
+      "Can OpenAI justify a $1.25 trillion price tag?",
+      "Its valuation now exceeds most S&P 500 companies.",
+      "Yet rival Anthropic is quietly nearing its own IPO.",
+      "Investors in both now face a real allocation choice.",
+      "Pick which AI bet you'd actually hold through a dip."
+    ],
+    "thread_text": [
+      "1. The $1.25T Question\n\nOpenAI's valuation now tops most S&P 500 giants. That's a bet on future profits, not today's revenue.",
+      "2. Rivals Aren't Waiting\n\nAnthropic is quietly moving toward its own IPO, giving investors a second pure-play AI option.",
+      "3. The Allocation Trap\n\nMoney flowing into one doesn't mean the other is ignored. Portfolios face a real either-or decision.",
+      "4. Who Survives a Dip?\n\nHigh valuation means high expectations. Any stumble gets punished fast by the market.",
+      "5. Your Move\n\nWhich AI stock would you actually hold through a 30% drop? Write it down and check your conviction."
+    ],
+    "video_script": [
+      "OpenAI just hit a one point two five trillion dollar valuation.",
+      "That's higher than most companies in the S and P 500.",
+      "Meanwhile Anthropic is quietly preparing its own public offering.",
+      "Investors now face a real choice between two AI bets.",
+      "Which one would you hold through a market dip?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $1.25T Question\n\nOpenAI's valuation now tops most S&P 500 giants. That's a bet on future profits, not today's revenue.",
+          "2. Rivals Aren't Waiting\n\nAnthropic is quietly moving toward its own IPO, giving investors a second pure-play AI option.",
+          "3. The Allocation Trap\n\nMoney flowing into one doesn't mean the other is ignored. Portfolios face a real either-or decision.",
+          "4. Who Survives a Dip?\n\nHigh valuation means high expectations. Any stumble gets punished fast by the market.",
+          "5. Your Move\n\nWhich AI stock would you actually hold through a 30% drop? Write it down and check your conviction."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI just hit a one point two five trillion dollar valuation.",
+          "That's higher than most companies in the S and P 500.",
+          "Meanwhile Anthropic is quietly preparing its own public offering.",
+          "Investors now face a real choice between two AI bets.",
+          "Which one would you hold through a market dip?"
+        ]
+      },
+      "instagram": {
+        "caption": "OpenAI is now valued at $1.25 trillion — more than most companies in the S&P 500. 💰\n\nThat price isn't based on current revenue. It's a bet on profits that don't exist yet.\n\nMeanwhile Anthropic is quietly moving toward its own IPO, giving investors a second pure AI bet.\n\nIf you build or publish with these tools, your costs and options will shift as both chase public money. 📊\n\nEven a small stumble gets punished fast at this valuation. ⚠️\n\nWhich one would you actually hold through a 30% drop? Write it down and check your conviction. 🤔"
+      }
+    },
+    "instagram_caption": "OpenAI is now valued at $1.25 trillion — more than most companies in the S&P 500. 💰\n\nThat price isn't based on current revenue. It's a bet on profits that don't exist yet.\n\nMeanwhile Anthropic is quietly moving toward its own IPO, giving investors a second pure AI bet.\n\nIf you build or publish with these tools, your costs and options will shift as both chase public money. 📊\n\nEven a small stumble gets punished fast at this valuation. ⚠️\n\nWhich one would you actually hold through a 30% drop? Write it down and check your conviction. 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Would you bet $1.25T on OpenAI?",
+        "description": "OpenAI's valuation now exceeds most S&P 500 companies, a bet on future profits, not current revenue.",
+        "visual_hint": "Split screen: OpenAI logo vs S&P 500 chart",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Can OpenAI's revenue catch its valuation?",
+        "description": "The $1.25T price tag assumes massive future growth, but today's revenue is a fraction of that.",
+        "visual_hint": "Bar graph showing revenue vs valuation gap",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "financial graph",
+        "image": "https://images.pexels.com/photos/7567445/pexels-photo-7567445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Anthropic is quietly closing in",
+        "description": "Rival Anthropic is nearing its own IPO, offering investors a second pure-play AI option.",
+        "visual_hint": "Anthropic logo with IPO rocket",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "rocket launch",
+        "image": "https://images.pexels.com/photos/5420670/pexels-photo-5420670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "High valuation means high expectations",
+        "description": "Any stumble gets punished fast, so investors must choose which AI bet to hold through a dip.",
+        "visual_hint": "Hand holding stock certificate with dip arrow",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market crash",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Pick your AI bet and commit",
+        "description": "Write down which AI stock you'd hold through a 30% drop and check your conviction.",
+        "visual_hint": "Notepad with pen and AI stock tickers",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "notepad pen",
+        "image": "https://images.pexels.com/photos/7657385/pexels-photo-7657385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-11-07T08:03:19.558Z",
+    "sourceId": "53c8a40c524cf7111adeb12c46d3df6f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-introduces-spaces-a-new-way-to-collaborate-wi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "pubDate": "Fri, 06 Nov 2026 18:44:20 +0000",
+    "slides": [
+      "Can Meta's Muse agent actually replace your team?",
+      "Spaces is a shared workspace built for collaboration",
+      "But early tests show it struggles with conflicting input",
+      "Teams using it now report shorter iteration cycles",
+      "Try one real task in Spaces before your rival does"
+    ],
+    "thread_text": [
+      "1. Meta's Muse: Team Replacement?\n\nMeta's new AI agent Muse promises to overhaul team workflows, but early adopters are skeptical. Here's what we know so far.",
+      "2. Spaces: Built for Collaboration\n\nMuse operates within Spaces, a shared workspace designed for real-time teamwork. It aims to streamline tasks and boost productivity.",
+      "3. Early Tests Reveal Struggles\n\nDespite the hype, initial trials show Muse faltering with conflicting instructions. Users report confusion when inputs clash.",
+      "4. Shorter Iteration Cycles Reported\n\nTeams already using Muse in Spaces say they're iterating faster than before. The collaborative environment seems to cut down back-and-forth.",
+      "5. Test Before Your Rival Does\n\nPick one real task and run it in Spaces this week. If you don't, a competitor might beat you to the insight."
+    ],
+    "video_script": [
+      "Meta's Muse agent claims to replace your team.",
+      "It works in Spaces, a shared workspace for collaboration.",
+      "But early tests show it struggles with conflicting input.",
+      "Yet teams report shorter iteration cycles using it.",
+      "Try one real task in Spaces before your rival does."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Meta's Muse: Team Replacement?\n\nMeta's new AI agent Muse promises to overhaul team workflows, but early adopters are skeptical. Here's what we know so far.",
+          "2. Spaces: Built for Collaboration\n\nMuse operates within Spaces, a shared workspace designed for real-time teamwork. It aims to streamline tasks and boost productivity.",
+          "3. Early Tests Reveal Struggles\n\nDespite the hype, initial trials show Muse faltering with conflicting instructions. Users report confusion when inputs clash.",
+          "4. Shorter Iteration Cycles Reported\n\nTeams already using Muse in Spaces say they're iterating faster than before. The collaborative environment seems to cut down back-and-forth.",
+          "5. Test Before Your Rival Does\n\nPick one real task and run it in Spaces this week. If you don't, a competitor might beat you to the insight."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta's Muse agent claims to replace your team.",
+          "It works in Spaces, a shared workspace for collaboration.",
+          "But early tests show it struggles with conflicting input.",
+          "Yet teams report shorter iteration cycles using it.",
+          "Try one real task in Spaces before your rival does."
+        ]
+      },
+      "instagram": {
+        "caption": "Meta's new Muse agent lives inside Spaces, a shared workspace built for real-time teamwork.\n\nEarly tests show it struggles when team members give conflicting instructions. 🤔\n\nBut teams already using it report shorter iteration cycles than before.\n\nIf you publish or create content, this means the tools your team uses to collaborate may shift under you faster than expected.\n\nPick one real task this week and run it in Spaces before your competitor does. ⚡\n\nWould you trust an agent to untangle your team's conflicting feedback? 👀"
+      }
+    },
+    "instagram_caption": "Meta's new Muse agent lives inside Spaces, a shared workspace built for real-time teamwork.\n\nEarly tests show it struggles when team members give conflicting instructions. 🤔\n\nBut teams already using it report shorter iteration cycles than before.\n\nIf you publish or create content, this means the tools your team uses to collaborate may shift under you faster than expected.\n\nPick one real task this week and run it in Spaces before your competitor does. ⚡\n\nWould you trust an agent to untangle your team's conflicting feedback? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Can AI really replace your team?",
+        "description": "Meta's Muse agent promises to overhaul workflows, but early adopters remain skeptical about full team replacement.",
+        "visual_hint": "Robot hand reaching toward human hand",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot hand"
+      },
+      {
+        "hook": "Spaces: shared workspace for real-time teamwork",
+        "description": "Muse operates inside Spaces, designed to streamline tasks and boost productivity for collaborating teams.",
+        "visual_hint": "Team collaborating in modern workspace",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "office teamwork",
+        "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "What happens when inputs conflict?",
+        "description": "Early tests show Muse faltering with conflicting instructions, leaving users confused when inputs clash.",
+        "visual_hint": "Confused user facing multiple screens",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer error screen",
+        "image": "https://images.pexels.com/photos/9121365/pexels-photo-9121365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Teams iterate faster with Muse",
+        "description": "Early teams report shorter iteration cycles, cutting back-and-forth and speeding up collaborative work.",
+        "visual_hint": "Developer typing on multiple monitors",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "programmer coding",
+        "image": "https://images.pexels.com/photos/9553905/pexels-photo-9553905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Spaces before your rival does",
+        "description": "Pick one real task and run it in Spaces this week. Don't let a competitor beat you to the insight.",
+        "visual_hint": "Person clicking call-to-action button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "computer mouse",
+        "image": "https://images.pexels.com/photos/12029640/pexels-photo-12029640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+    "savedAt": "2026-11-07T08:03:10.375Z",
+    "sourceId": "dcfedcc7440be1b63e34f9fdd075f41e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-is-stepping-back-from-ndas-for-data-center-",
     "prompt_version": "1.0.0",
     "status": "published",

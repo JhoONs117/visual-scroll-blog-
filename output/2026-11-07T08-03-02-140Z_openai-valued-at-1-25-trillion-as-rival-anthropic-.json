@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-valued-at-1-25-trillion-as-rival-anthropic-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+  "pubDate": "2026-11-06T23:46:18.000Z",
+  "slides": [
+    "Can OpenAI justify a $1.25 trillion price tag?",
+    "Its valuation now exceeds most S&P 500 companies.",
+    "Yet rival Anthropic is quietly nearing its own IPO.",
+    "Investors in both now face a real allocation choice.",
+    "Pick which AI bet you'd actually hold through a dip."
+  ],
+  "thread_text": [
+    "1. The $1.25T Question\n\nOpenAI's valuation now tops most S&P 500 giants. That's a bet on future profits, not today's revenue.",
+    "2. Rivals Aren't Waiting\n\nAnthropic is quietly moving toward its own IPO, giving investors a second pure-play AI option.",
+    "3. The Allocation Trap\n\nMoney flowing into one doesn't mean the other is ignored. Portfolios face a real either-or decision.",
+    "4. Who Survives a Dip?\n\nHigh valuation means high expectations. Any stumble gets punished fast by the market.",
+    "5. Your Move\n\nWhich AI stock would you actually hold through a 30% drop? Write it down and check your conviction."
+  ],
+  "video_script": [
+    "OpenAI just hit a one point two five trillion dollar valuation.",
+    "That's higher than most companies in the S and P 500.",
+    "Meanwhile Anthropic is quietly preparing its own public offering.",
+    "Investors now face a real choice between two AI bets.",
+    "Which one would you hold through a market dip?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $1.25T Question\n\nOpenAI's valuation now tops most S&P 500 giants. That's a bet on future profits, not today's revenue.",
+        "2. Rivals Aren't Waiting\n\nAnthropic is quietly moving toward its own IPO, giving investors a second pure-play AI option.",
+        "3. The Allocation Trap\n\nMoney flowing into one doesn't mean the other is ignored. Portfolios face a real either-or decision.",
+        "4. Who Survives a Dip?\n\nHigh valuation means high expectations. Any stumble gets punished fast by the market.",
+        "5. Your Move\n\nWhich AI stock would you actually hold through a 30% drop? Write it down and check your conviction."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI just hit a one point two five trillion dollar valuation.",
+        "That's higher than most companies in the S and P 500.",
+        "Meanwhile Anthropic is quietly preparing its own public offering.",
+        "Investors now face a real choice between two AI bets.",
+        "Which one would you hold through a market dip?"
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI is now valued at $1.25 trillion — more than most companies in the S&P 500. 💰\n\nThat price isn't based on current revenue. It's a bet on profits that don't exist yet.\n\nMeanwhile Anthropic is quietly moving toward its own IPO, giving investors a second pure AI bet.\n\nIf you build or publish with these tools, your costs and options will shift as both chase public money. 📊\n\nEven a small stumble gets punished fast at this valuation. ⚠️\n\nWhich one would you actually hold through a 30% drop? Write it down and check your conviction. 🤔"
+    }
+  },
+  "instagram_caption": "OpenAI is now valued at $1.25 trillion — more than most companies in the S&P 500. 💰\n\nThat price isn't based on current revenue. It's a bet on profits that don't exist yet.\n\nMeanwhile Anthropic is quietly moving toward its own IPO, giving investors a second pure AI bet.\n\nIf you build or publish with these tools, your costs and options will shift as both chase public money. 📊\n\nEven a small stumble gets punished fast at this valuation. ⚠️\n\nWhich one would you actually hold through a 30% drop? Write it down and check your conviction. 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Would you bet $1.25T on OpenAI?",
+      "description": "OpenAI's valuation now exceeds most S&P 500 companies, a bet on future profits, not current revenue.",
+      "visual_hint": "Split screen: OpenAI logo vs S&P 500 chart",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Can OpenAI's revenue catch its valuation?",
+      "description": "The $1.25T price tag assumes massive future growth, but today's revenue is a fraction of that.",
+      "visual_hint": "Bar graph showing revenue vs valuation gap",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "financial graph",
+      "image": "https://images.pexels.com/photos/7567445/pexels-photo-7567445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Anthropic is quietly closing in",
+      "description": "Rival Anthropic is nearing its own IPO, offering investors a second pure-play AI option.",
+      "visual_hint": "Anthropic logo with IPO rocket",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "rocket launch",
+      "image": "https://images.pexels.com/photos/5420670/pexels-photo-5420670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "High valuation means high expectations",
+      "description": "Any stumble gets punished fast, so investors must choose which AI bet to hold through a dip.",
+      "visual_hint": "Hand holding stock certificate with dip arrow",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market crash",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pick your AI bet and commit",
+      "description": "Write down which AI stock you'd hold through a 30% drop and check your conviction.",
+      "visual_hint": "Notepad with pen and AI stock tickers",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "notepad pen",
+      "image": "https://images.pexels.com/photos/7657385/pexels-photo-7657385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-07T08:03:19.558Z",
+  "sourceId": "53c8a40c524cf7111adeb12c46d3df6f"
+}
