@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "apple-is-racing-to-make-siri-more-agentic",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple is racing to make Siri more agentic",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+    "pubDate": "2026-11-08T19:18:19.000Z",
+    "slides": [
+      "Can Apple make Siri finally useful?",
+      "Apple is racing to rebuild Siri as agentic AI",
+      "But Apple may need rivals' models to get there",
+      "Siri could soon book, plan, and act for you",
+      "Ask Siri one multi-step task this month"
+    ],
+    "thread_text": [
+      "1. Can Apple Make Siri Useful?\n\nApple is rebuilding Siri from scratch as agentic AI—meaning it can take actions, not just answer questions. The goal is a Siri that books, plans, and executes multi-step tasks on your behalf.",
+      "2. Siri's Agentic AI Overhaul\n\nAgentic AI means Siri will chain actions: find a flight, book it, add to calendar, and text your boss—all from one request. Apple is racing to ship this as a core iOS feature.",
+      "3. Apple May Need Rivals' Models\n\nBuilding true agency is hard. Apple may integrate third-party models from OpenAI or Google to power Siri's reasoning. That's a strategic shift for a company obsessed with control.",
+      "4. Siri Could Book and Plan For You\n\nImagine telling Siri: 'Plan my trip to Rome next month.' It could compare flights, hotels, and restaurants, then book everything. That's the agentic promise—and the risk.",
+      "5. Test Siri's Multi-Step Skills\n\nThis month, ask Siri one multi-step task—like 'Find a coffee shop near me and add it to my calendar.' See how it handles the chain. Does it work, or does it break?"
+    ],
+    "video_script": [
+      "Apple is rebuilding Siri as agentic AI.",
+      "It will book, plan, and act for you.",
+      "But Apple may need rivals' models to get there.",
+      "Siri could soon handle multi-step tasks on its own.",
+      "Ask Siri one multi-step task this month and see."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can Apple Make Siri Useful?\n\nApple is rebuilding Siri from scratch as agentic AI—meaning it can take actions, not just answer questions. The goal is a Siri that books, plans, and executes multi-step tasks on your behalf.",
+          "2. Siri's Agentic AI Overhaul\n\nAgentic AI means Siri will chain actions: find a flight, book it, add to calendar, and text your boss—all from one request. Apple is racing to ship this as a core iOS feature.",
+          "3. Apple May Need Rivals' Models\n\nBuilding true agency is hard. Apple may integrate third-party models from OpenAI or Google to power Siri's reasoning. That's a strategic shift for a company obsessed with control.",
+          "4. Siri Could Book and Plan For You\n\nImagine telling Siri: 'Plan my trip to Rome next month.' It could compare flights, hotels, and restaurants, then book everything. That's the agentic promise—and the risk.",
+          "5. Test Siri's Multi-Step Skills\n\nThis month, ask Siri one multi-step task—like 'Find a coffee shop near me and add it to my calendar.' See how it handles the chain. Does it work, or does it break?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple is rebuilding Siri as agentic AI.",
+          "It will book, plan, and act for you.",
+          "But Apple may need rivals' models to get there.",
+          "Siri could soon handle multi-step tasks on its own.",
+          "Ask Siri one multi-step task this month and see."
+        ]
+      },
+      "instagram": {
+        "caption": "Siri might finally stop being just a fancy timer. Apple is rebuilding it as agentic AI — meaning it can actually take actions, not just answer questions. 🍎\n\nThe goal: you ask once, Siri finds a flight, books it, adds it to your calendar, and texts your boss. One request, multiple steps.\n\nThe catch? Apple may need rivals' models from OpenAI or Google to power the reasoning. That's a big shift for a company obsessed with control.\n\nFor anyone who creates or publishes content, this means your phone could soon handle the busywork — research, planning, scheduling — without you opening five apps.\n\nThis month, try one multi-step task with Siri: \"Find a coffee shop near me and add it to my calendar.\" Does it chain the steps — or fall apart? ☕📅 Let me know what happens."
+      }
+    },
+    "instagram_caption": "Siri might finally stop being just a fancy timer. Apple is rebuilding it as agentic AI — meaning it can actually take actions, not just answer questions. 🍎\n\nThe goal: you ask once, Siri finds a flight, books it, adds it to your calendar, and texts your boss. One request, multiple steps.\n\nThe catch? Apple may need rivals' models from OpenAI or Google to power the reasoning. That's a big shift for a company obsessed with control.\n\nFor anyone who creates or publishes content, this means your phone could soon handle the busywork — research, planning, scheduling — without you opening five apps.\n\nThis month, try one multi-step task with Siri: \"Find a coffee shop near me and add it to my calendar.\" Does it chain the steps — or fall apart? ☕📅 Let me know what happens.",
+    "carousel_slides": [
+      {
+        "hook": "Can Apple make Siri finally useful?",
+        "description": "Apple is rebuilding Siri as agentic AI, so it can take actions, not just answer questions.",
+        "visual_hint": "Siri interface on iPhone screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "iPhone Siri screen"
+      },
+      {
+        "hook": "Siri's agentic AI overhaul",
+        "description": "Agentic AI lets Siri chain actions: find a flight, book it, add to calendar, and text your boss.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "visual_hint": "smartphone with flight booking app",
+        "image_query": "smartphone flight booking",
+        "image": "https://images.pexels.com/photos/13404723/pexels-photo-13404723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Apple may need rivals' models",
+        "description": "Building true agency is hard; Apple may integrate third-party models from OpenAI or Google for Siri's reasoning.",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "visual_hint": "OpenAI and Google logos on screens",
+        "image_query": "OpenAI Google logos",
+        "image": "https://images.pexels.com/photos/29257597/pexels-photo-29257597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Siri could book and plan for you",
+        "description": "Imagine telling Siri: 'Plan my trip to Rome next month.' It could compare flights, hotels, and restaurants, then book everything.",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "visual_hint": "hand holding phone with travel app",
+        "image_query": "hand holding smartphone travel",
+        "image": "https://images.pexels.com/photos/17881620/pexels-photo-17881620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and test Siri today",
+        "description": "This month, ask Siri one multi-step task—like 'Find a coffee shop near me and add it to my calendar.'",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "visual_hint": "Siri listening on iPhone",
+        "image_query": "Siri iPhone listening",
+        "image": "https://images.pexels.com/photos/5083215/pexels-photo-5083215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.727837220746%2C100%2C78.544325558509&amp;w=1200",
+    "savedAt": "2026-11-08T21:29:58.704Z",
+    "sourceId": "3fa60b95a7a47cb32794481f23529de7"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "ai-is-the-new-dating-dealbreaker",
     "prompt_version": "1.0.0",
     "status": "published",
