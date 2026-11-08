@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-is-the-new-dating-dealbreaker",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI is the new dating dealbreaker",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+  "pubDate": "2026-11-06T17:00:00.000Z",
+  "slides": [
+    "Can AI confess ruin your dating life?",
+    "One in three daters now hides chatbot use",
+    "But honesty about AI boosts trust, study finds",
+    "Delete the chat history before your next date",
+    "Ask one date: what do you use AI for?"
+  ],
+  "thread_text": [
+    "1. The AI Confession Trap\n\nOne in three daters now hides the fact that they use chatbots to craft messages. That silence might be costing them real connection.",
+    "2. The Trust Paradox\n\nA new study shows honesty about AI use actually increases trust between partners. Yet most people still choose to conceal it — creating a self-made obstacle.",
+    "3. The History Purge\n\nMany daters admit to deleting their chat history before meeting someone new. That habit signals shame, not privacy — and it's becoming a common ritual.",
+    "4. The Real Conversation Starter\n\nInstead of hiding AI, try asking your date what they use it for. The answer reveals more about their values than any polished bio ever could.",
+    "5. Your Next Move\n\nNext time you're about to delete that chat history, stop. Ask your date one simple question: what do you use AI for? The answer might surprise you."
+  ],
+  "video_script": [
+    "One in three daters hides their chatbot use.",
+    "But a study says honesty actually boosts trust.",
+    "Yet people still delete their chat history before dates.",
+    "Try asking your date what they use AI for.",
+    "Skip the purge. Start the conversation instead."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The AI Confession Trap\n\nOne in three daters now hides the fact that they use chatbots to craft messages. That silence might be costing them real connection.",
+        "2. The Trust Paradox\n\nA new study shows honesty about AI use actually increases trust between partners. Yet most people still choose to conceal it — creating a self-made obstacle.",
+        "3. The History Purge\n\nMany daters admit to deleting their chat history before meeting someone new. That habit signals shame, not privacy — and it's becoming a common ritual.",
+        "4. The Real Conversation Starter\n\nInstead of hiding AI, try asking your date what they use it for. The answer reveals more about their values than any polished bio ever could.",
+        "5. Your Next Move\n\nNext time you're about to delete that chat history, stop. Ask your date one simple question: what do you use AI for? The answer might surprise you."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "One in three daters hides their chatbot use.",
+        "But a study says honesty actually boosts trust.",
+        "Yet people still delete their chat history before dates.",
+        "Try asking your date what they use AI for.",
+        "Skip the purge. Start the conversation instead."
+      ]
+    },
+    "instagram": {
+      "caption": "One in three daters is hiding that they use chatbots to write their messages.\n\nA new study found that being honest about AI use actually increases trust between partners.\n\nYet most people still conceal it — and many delete their chat history before a first date, a habit that signals shame more than privacy.\n\nIf you write for a living or craft messages for others, this applies to you too: the same silence that feels safe on a date can quietly erode trust with clients and readers 👀\n\nNext time you're about to clear that chat history, pause. Ask your date one question instead: what do you use AI for? 🤖\n\nThe answer might tell you more than any bio ever could. 💬"
+    }
+  },
+  "instagram_caption": "One in three daters is hiding that they use chatbots to write their messages.\n\nA new study found that being honest about AI use actually increases trust between partners.\n\nYet most people still conceal it — and many delete their chat history before a first date, a habit that signals shame more than privacy.\n\nIf you write for a living or craft messages for others, this applies to you too: the same silence that feels safe on a date can quietly erode trust with clients and readers 👀\n\nNext time you're about to clear that chat history, pause. Ask your date one question instead: what do you use AI for? 🤖\n\nThe answer might tell you more than any bio ever could. 💬",
+  "carousel_slides": [
+    {
+      "hook": "Honesty about AI boosts trust, study finds",
+      "description": "A new study shows honesty about AI use increases trust, yet most daters still conceal it—creating a self-made obstacle to connection.",
+      "visual_hint": "Two hands reaching toward each other",
+      "layout_type": "hero",
+      "icon": "heart",
+      "image_query": "hands reaching"
+    },
+    {
+      "hook": "One in three daters hides chatbot use",
+      "description": "One in three daters now hides chatbot use for messages, and that silence may cost them real connection.",
+      "visual_hint": "Person typing on smartphone secretly",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone typing",
+      "image": "https://images.pexels.com/photos/40382716/pexels-photo-40382716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Delete chat history before your next date?",
+      "description": "Many daters delete chat history before meeting someone new. That habit signals shame, not privacy—and it's becoming a common ritual.",
+      "visual_hint": "Trash bin with digital files",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "trash bin",
+      "image": "https://images.pexels.com/photos/18883377/pexels-photo-18883377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask one date: what do you use AI for?",
+      "description": "Instead of hiding AI, ask your date what they use it for. The answer reveals their values more than any polished bio.",
+      "visual_hint": "Two people talking at cafe",
+      "layout_type": "human-hand",
+      "icon": "tag",
+      "image_query": "cafe conversation",
+      "image": "https://images.pexels.com/photos/17011337/pexels-photo-17011337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next date",
+      "description": "Next time you're about to delete that chat history, stop. Ask your date one simple question: what do you use AI for?",
+      "visual_hint": "Phone with question mark icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "question mark phone",
+      "image": "https://images.pexels.com/photos/40718048/pexels-photo-40718048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-08T03:32:37.891Z",
+  "sourceId": "aeb37577bdc737ffe33b82038a50ca07"
+}
