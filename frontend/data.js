@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "anthropic-joins-ai-s-natural-gas-frenzy-buys-3-4b-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+    "pubDate": "Mon, 09 Nov 2026 16:56:54 +0000",
+    "slides": [
+      "Why does Anthropic need $3.4B worth of turbines?",
+      "It's buying natural gas turbines for its data centers",
+      "AI's power demand is outpacing the electric grid",
+      "Your cloud costs may soon reflect energy scarcity",
+      "Check your AI vendor's energy strategy before scaling"
+    ],
+    "thread_text": [
+      "1. Gas turbines for AI?\n\nAnthropic just committed $3.4B to buy natural gas turbines — not for a power plant, but for its own data centers. That's a direct bet the grid can't keep up.",
+      "2. The grid can't keep up\n\nAI's electricity demand is growing faster than utilities can build capacity. Companies are now securing their own generation because waiting for the grid is no longer an option.",
+      "3. Your cloud bill is next\n\nEnergy scarcity is starting to show up in cloud pricing. As power gets tighter, the cost of running AI workloads will reflect that — and it won't be subtle.",
+      "4. Check your vendor's energy plan\n\nBefore you scale your AI stack, ask your provider how they're securing power. The ones with no answer will pass the risk — and the cost — straight to you.",
+      "5. Do this before you scale\n\nAsk your AI vendor one question this week: how are you securing energy for the next 12 months? If they can't answer, you're the one absorbing the risk."
+    ],
+    "video_script": [
+      "Anthropic is buying three point four billion dollars of gas turbines.",
+      "The electric grid simply cannot keep up with AI demand.",
+      "That energy scarcity is going to show up in your cloud bill.",
+      "Ask your AI vendor how they are securing power right now.",
+      "If they have no answer, you are absorbing the risk."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Gas turbines for AI?\n\nAnthropic just committed $3.4B to buy natural gas turbines — not for a power plant, but for its own data centers. That's a direct bet the grid can't keep up.",
+          "2. The grid can't keep up\n\nAI's electricity demand is growing faster than utilities can build capacity. Companies are now securing their own generation because waiting for the grid is no longer an option.",
+          "3. Your cloud bill is next\n\nEnergy scarcity is starting to show up in cloud pricing. As power gets tighter, the cost of running AI workloads will reflect that — and it won't be subtle.",
+          "4. Check your vendor's energy plan\n\nBefore you scale your AI stack, ask your provider how they're securing power. The ones with no answer will pass the risk — and the cost — straight to you.",
+          "5. Do this before you scale\n\nAsk your AI vendor one question this week: how are you securing energy for the next 12 months? If they can't answer, you're the one absorbing the risk."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Anthropic is buying three point four billion dollars of gas turbines.",
+          "The electric grid simply cannot keep up with AI demand.",
+          "That energy scarcity is going to show up in your cloud bill.",
+          "Ask your AI vendor how they are securing power right now.",
+          "If they have no answer, you are absorbing the risk."
+        ]
+      },
+      "instagram": {
+        "caption": "$3.4 billion for gas turbines — not for a power plant, but for Anthropic's own data centers. ⚡\n\nAI's electricity demand is now growing faster than utilities can build capacity, so companies are securing their own generation.\n\nEnergy scarcity is starting to show up in cloud pricing, and running AI workloads will reflect that cost.\n\nIf you publish or build with AI tools, check your vendor's energy strategy before scaling — the ones without a plan will pass the risk straight to you. 🔍\n\nAsk your AI provider this week: how are you securing power for the next 12 months? If they can't answer, you're the one absorbing the risk. 🤔"
+      }
+    },
+    "instagram_caption": "$3.4 billion for gas turbines — not for a power plant, but for Anthropic's own data centers. ⚡\n\nAI's electricity demand is now growing faster than utilities can build capacity, so companies are securing their own generation.\n\nEnergy scarcity is starting to show up in cloud pricing, and running AI workloads will reflect that cost.\n\nIf you publish or build with AI tools, check your vendor's energy strategy before scaling — the ones without a plan will pass the risk straight to you. 🔍\n\nAsk your AI provider this week: how are you securing power for the next 12 months? If they can't answer, you're the one absorbing the risk. 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Is the grid failing AI?",
+        "description": "AI power demand is outpacing the electric grid, forcing companies like Anthropic to secure their own energy sources.",
+        "visual_hint": "Power lines against sunset sky",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "power lines"
+      },
+      {
+        "hook": "Anthropic's $3.4B gas turbine bet",
+        "description": "Anthropic is buying natural gas turbines for its data centers, a direct bet the grid can't keep up.",
+        "visual_hint": "Gas turbine industrial facility",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "gas turbine",
+        "image": "https://images.pexels.com/photos/35596446/pexels-photo-35596446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI's insatiable appetite for power",
+        "description": "AI's electricity demand is growing faster than utilities can build capacity, so companies secure their own generation.",
+        "visual_hint": "Data center server racks glowing",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your cloud bill is about to spike",
+        "description": "Energy scarcity is starting to show up in cloud pricing, and the cost of running AI workloads will reflect that.",
+        "visual_hint": "Rising energy cost graph overlay",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before you scale",
+        "description": "Ask your AI vendor how they're securing energy for the next 12 months. If they can't answer, you absorb the risk.",
+        "visual_hint": "Business meeting energy strategy discussion",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-155376474.jpeg?resize=1200,800",
+    "savedAt": "2026-11-09T20:18:17.819Z",
+    "sourceId": "f3c522ff77f3b76aae89ed0894951112"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-releases-muse-ember-a-new-lightweight-model-f",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+    "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+    "pubDate": "Mon, 09 Nov 2026 18:00:00 +0000",
+    "slides": [
+      "What if Meta's lightweight model beats your heavy stack?",
+      "Muse Ember targets agent execution, not chat",
+      "It trades raw scale for speed on tool-calling tasks",
+      "Small teams can now ship agent workflows on cheap hardware",
+      "Test one repetitive agent task against your current model today"
+    ],
+    "thread_text": [
+      "1. What if small beats big?\n\nMeta's lightweight model, Muse Ember, is designed for agent execution, not chat. It could make your heavy stack obsolete.",
+      "2. Speed over scale\n\nMuse Ember trades raw scale for speed on tool-calling tasks. That means faster responses and lower costs for agent workflows.",
+      "3. Cheap hardware, big workflows\n\nSmall teams can now ship agent workflows on cheap hardware. No need for expensive GPUs or cloud instances.",
+      "4. Test your agent task\n\nPick one repetitive agent task you run today. Try it with Muse Ember on a cheap device and compare speed and accuracy.",
+      "5. Ready to switch?\n\nDoes saving 20 minutes per task justify switching? Test it on a real workflow this week and see for yourself."
+    ],
+    "video_script": [
+      "Meta's new model might beat your heavy stack.",
+      "Muse Ember focuses on agent execution, not chat.",
+      "It trades raw scale for speed on tool calls.",
+      "Small teams can now run agent workflows on cheap hardware.",
+      "Test one repetitive agent task against your current model today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What if small beats big?\n\nMeta's lightweight model, Muse Ember, is designed for agent execution, not chat. It could make your heavy stack obsolete.",
+          "2. Speed over scale\n\nMuse Ember trades raw scale for speed on tool-calling tasks. That means faster responses and lower costs for agent workflows.",
+          "3. Cheap hardware, big workflows\n\nSmall teams can now ship agent workflows on cheap hardware. No need for expensive GPUs or cloud instances.",
+          "4. Test your agent task\n\nPick one repetitive agent task you run today. Try it with Muse Ember on a cheap device and compare speed and accuracy.",
+          "5. Ready to switch?\n\nDoes saving 20 minutes per task justify switching? Test it on a real workflow this week and see for yourself."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta's new model might beat your heavy stack.",
+          "Muse Ember focuses on agent execution, not chat.",
+          "It trades raw scale for speed on tool calls.",
+          "Small teams can now run agent workflows on cheap hardware.",
+          "Test one repetitive agent task against your current model today."
+        ]
+      },
+      "instagram": {
+        "caption": "Meta just shipped a model built for agent execution, not chat.\n\nMuse Ember trades raw scale for speed on tool-calling tasks — fewer parameters, faster responses.\n\nThat means small teams can run agent workflows on cheap hardware instead of expensive GPUs 🔧\n\nIf you build or publish with agents, your compute bill and latency per task could drop without a full rewrite.\n\nPick one repetitive agent task you run today and test it on a cheap device this week.\n\nDoes saving 20 minutes per task justify switching? ⏱️"
+      }
+    },
+    "instagram_caption": "Meta just shipped a model built for agent execution, not chat.\n\nMuse Ember trades raw scale for speed on tool-calling tasks — fewer parameters, faster responses.\n\nThat means small teams can run agent workflows on cheap hardware instead of expensive GPUs 🔧\n\nIf you build or publish with agents, your compute bill and latency per task could drop without a full rewrite.\n\nPick one repetitive agent task you run today and test it on a cheap device this week.\n\nDoes saving 20 minutes per task justify switching? ⏱️",
+    "carousel_slides": [
+      {
+        "hook": "Can small models beat your heavy stack?",
+        "description": "Meta's Muse Ember is built for agent execution, not chat, potentially making expensive stacks obsolete.",
+        "visual_hint": "Split screen: small chip vs large server",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer chip"
+      },
+      {
+        "hook": "Speed over scale for agents",
+        "description": "Muse Ember trades raw scale for speed on tool-calling tasks, enabling faster responses and lower costs.",
+        "visual_hint": "Speedometer with tool icons",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "speedometer closeup",
+        "image": "https://images.pexels.com/photos/16803799/pexels-photo-16803799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cheap hardware, big workflows",
+        "description": "Small teams can now ship agent workflows on cheap hardware, no need for expensive GPUs or cloud instances.",
+        "visual_hint": "Hand holding small device with workflow",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "raspberry pi",
+        "image": "https://images.pexels.com/photos/38968601/pexels-photo-38968601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one repetitive agent task",
+        "description": "Pick a repetitive agent task you run today, try it with Muse Ember on a cheap device, compare speed and accuracy.",
+        "visual_hint": "Person comparing two devices",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office worker testing",
+        "image": "https://images.pexels.com/photos/10878604/pexels-photo-10878604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for your next agent test",
+        "description": "Does saving 20 minutes per task justify switching? Test it on a real workflow this week and see for yourself.",
+        "visual_hint": "Clock with checklist and arrow",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "clock checklist",
+        "image": "https://images.pexels.com/photos/5882583/pexels-photo-5882583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Blog-Header-Visual.png?resize=1200,675",
+    "savedAt": "2026-11-09T20:18:07.444Z",
+    "sourceId": "9b99d3e8fbba152424b37d695287863e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "jensen-huang-s-affair-with-alleged-chinese-spy-put",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+    "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+    "pubDate": "Mon, 09 Nov 2026 18:09:52 +0000",
+    "slides": [
+      "What does Jensen Huang's alleged affair cost Nvidia?",
+      "The woman is reportedly linked to Chinese intelligence",
+      "Nvidia's China strategy was already fragile",
+      "Board governance questions now surface for Huang",
+      "Watch Nvidia's next China disclosure closely"
+    ],
+    "thread_text": [
+      "1. Nvidia's $300B secret\n\nJensen Huang's alleged affair reportedly involves a woman linked to Chinese intelligence. Nvidia's market cap has already lost billions on the news.",
+      "2. Who is she really?\n\nThe woman at the center of the story is reportedly connected to Chinese intelligence networks. That raises the stakes from personal scandal to national security.",
+      "3. China was already a problem\n\nNvidia's China strategy was fragile before this story broke. Export restrictions and geopolitical tension had already squeezed its most important growth market.",
+      "4. Board under the microscope\n\nNvidia's board now faces hard governance questions about Huang's judgment and disclosure. Investors are asking what they weren't told, and when.",
+      "5. Watch the next filing\n\nCheck Nvidia's next China disclosure and any 8-K carefully. Ask yourself: would you hold the stock through a governance crisis you can't fully see?"
+    ],
+    "video_script": [
+      "Nvidia just lost billions on an alleged affair scandal.",
+      "The woman reportedly has links to Chinese intelligence.",
+      "Nvidia's China strategy was already fragile before this.",
+      "Now the board has hard governance questions for Huang.",
+      "Watch Nvidia's next China disclosure very closely."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Nvidia's $300B secret\n\nJensen Huang's alleged affair reportedly involves a woman linked to Chinese intelligence. Nvidia's market cap has already lost billions on the news.",
+          "2. Who is she really?\n\nThe woman at the center of the story is reportedly connected to Chinese intelligence networks. That raises the stakes from personal scandal to national security.",
+          "3. China was already a problem\n\nNvidia's China strategy was fragile before this story broke. Export restrictions and geopolitical tension had already squeezed its most important growth market.",
+          "4. Board under the microscope\n\nNvidia's board now faces hard governance questions about Huang's judgment and disclosure. Investors are asking what they weren't told, and when.",
+          "5. Watch the next filing\n\nCheck Nvidia's next China disclosure and any 8-K carefully. Ask yourself: would you hold the stock through a governance crisis you can't fully see?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nvidia just lost billions on an alleged affair scandal.",
+          "The woman reportedly has links to Chinese intelligence.",
+          "Nvidia's China strategy was already fragile before this.",
+          "Now the board has hard governance questions for Huang.",
+          "Watch Nvidia's next China disclosure very closely."
+        ]
+      },
+      "instagram": {
+        "caption": "A woman reportedly linked to Chinese intelligence is at the center of an alleged affair with Jensen Huang, and Nvidia has already lost billions in market value.\n\nThe story turns a personal scandal into a national security question 🚨\n\nNvidia's China strategy was already fragile from export restrictions, and now the board faces hard governance questions about Huang's judgment and disclosure.\n\nIf you cover tech or hold the stock, watch the next China disclosure and any 8-K filing closely 👀\n\nWould you hold through a governance crisis you can't fully see? 🤔"
+      }
+    },
+    "instagram_caption": "A woman reportedly linked to Chinese intelligence is at the center of an alleged affair with Jensen Huang, and Nvidia has already lost billions in market value.\n\nThe story turns a personal scandal into a national security question 🚨\n\nNvidia's China strategy was already fragile from export restrictions, and now the board faces hard governance questions about Huang's judgment and disclosure.\n\nIf you cover tech or hold the stock, watch the next China disclosure and any 8-K filing closely 👀\n\nWould you hold through a governance crisis you can't fully see? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Is Nvidia's China dream now a nightmare?",
+        "description": "Jensen Huang's alleged affair with a woman linked to Chinese intelligence threatens Nvidia's fragile China strategy and market value.",
+        "visual_hint": "Cracked Nvidia logo over China flag",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Nvidia headquarters"
+      },
+      {
+        "hook": "Who is the woman at the center?",
+        "description": "The woman reportedly connected to Chinese intelligence networks escalates the scandal from personal to national security.",
+        "visual_hint": "Silhouette with network lines",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "cyber security network",
+        "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "China was already a fragile market",
+        "description": "Export restrictions and geopolitical tensions had already squeezed Nvidia's most important growth market before this story broke.",
+        "visual_hint": "Map of China with trade barriers",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "shipping containers China",
+        "image": "https://images.pexels.com/photos/20715652/pexels-photo-20715652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Board governance questions surface for Huang",
+        "description": "Nvidia's board faces hard questions about Huang's judgment and disclosure as investors ask what they weren't told.",
+        "visual_hint": "Boardroom table with empty chairs",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "corporate boardroom",
+        "image": "https://images.pexels.com/photos/6949365/pexels-photo-6949365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: watch Nvidia's next China disclosure",
+        "description": "Check Nvidia's next 8-K filing carefully and ask if you'd hold through a hidden governance crisis.",
+        "visual_hint": "Magnifying glass over financial document",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "financial documents",
+        "image": "https://images.pexels.com/photos/8970301/pexels-photo-8970301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801",
+    "savedAt": "2026-11-09T20:17:57.779Z",
+    "sourceId": "c81f482fdf110b88cc3533ceaca2672b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "anthropic-releases-new-mythos-and-fable-models-ami",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+    "pubDate": "Mon, 09 Nov 2026 19:24:51 +0000",
+    "slides": [
+      "What if AI starts improving itself faster than we can track?",
+      "Anthropic just launched Mythos and Fable models",
+      "Both show early signs of recursive self-improvement",
+      "Your evaluation pipelines may miss sudden capability jumps",
+      "Audit your current model baselines before the next release"
+    ],
+    "thread_text": [
+      "1. The 5-Minute Warning\n\nAnthropic's new Mythos and Fable models both show early signs of recursive self-improvement. That means they can upgrade their own architecture faster than your team can schedule a review.",
+      "2. The Pipeline Blindspot\n\nYour evaluation pipelines were built for stable models, not ones that rewrite their own weights. They may miss sudden capability jumps between checkpoints entirely.",
+      "3. The Audit Gap\n\nMost teams haven't re-baselined since the last major release. When Mythos ships, your old baselines become meaningless reference points overnight.",
+      "4. The Silent Escalation\n\nRecursive self-improvement doesn't announce itself with a changelog. It shows up as a model that solves yesterday's hard eval on the first try, with no explanation.",
+      "5. The Baseline Check\n\nOpen your last three model evals right now. If you can't name the exact version and date of each baseline, you're flying blind. Fix that before the next release."
+    ],
+    "video_script": [
+      "What if AI improves itself faster than you can track?",
+      "Anthropic just launched two models showing early recursive self-improvement.",
+      "Your evaluation pipelines may miss sudden capability jumps between checkpoints.",
+      "Recursive improvement doesn't announce itself — it just solves yesterday's hard problem.",
+      "Audit your current model baselines before the next release drops."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The 5-Minute Warning\n\nAnthropic's new Mythos and Fable models both show early signs of recursive self-improvement. That means they can upgrade their own architecture faster than your team can schedule a review.",
+          "2. The Pipeline Blindspot\n\nYour evaluation pipelines were built for stable models, not ones that rewrite their own weights. They may miss sudden capability jumps between checkpoints entirely.",
+          "3. The Audit Gap\n\nMost teams haven't re-baselined since the last major release. When Mythos ships, your old baselines become meaningless reference points overnight.",
+          "4. The Silent Escalation\n\nRecursive self-improvement doesn't announce itself with a changelog. It shows up as a model that solves yesterday's hard eval on the first try, with no explanation.",
+          "5. The Baseline Check\n\nOpen your last three model evals right now. If you can't name the exact version and date of each baseline, you're flying blind. Fix that before the next release."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "What if AI improves itself faster than you can track?",
+          "Anthropic just launched two models showing early recursive self-improvement.",
+          "Your evaluation pipelines may miss sudden capability jumps between checkpoints.",
+          "Recursive improvement doesn't announce itself — it just solves yesterday's hard problem.",
+          "Audit your current model baselines before the next release drops."
+        ]
+      },
+      "instagram": {
+        "caption": "Two new models that can rewrite their own architecture faster than your team can schedule a review just shipped. 🤖\n\nAnthropic's Mythos and Fable both show early signs of recursive self-improvement.\n\nYour evaluation pipelines were built for stable models, not ones that change between checkpoints.\n\nIf you haven't re-baselined since the last major release, your old reference points are already meaningless. ⚠️\n\nOpen your last three model evals right now — if you can't name the exact version and date of each baseline, you're flying blind. 📅\n\nWhich baseline are you actually running against today? 🔍"
+      }
+    },
+    "instagram_caption": "Two new models that can rewrite their own architecture faster than your team can schedule a review just shipped. 🤖\n\nAnthropic's Mythos and Fable both show early signs of recursive self-improvement.\n\nYour evaluation pipelines were built for stable models, not ones that change between checkpoints.\n\nIf you haven't re-baselined since the last major release, your old reference points are already meaningless. ⚠️\n\nOpen your last three model evals right now — if you can't name the exact version and date of each baseline, you're flying blind. 📅\n\nWhich baseline are you actually running against today? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Can AI outpace our own oversight?",
+        "description": "Anthropic's Mythos and Fable models show early recursive self-improvement, upgrading faster than teams can schedule reviews.",
+        "visual_hint": "Futuristic AI core with pulsating light",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "artificial intelligence brain"
+      },
+      {
+        "hook": "Anthropic's new models rewrite their own weights",
+        "description": "Mythos and Fable exhibit self-modifying architectures, making static evaluation pipelines blind to sudden capability jumps.",
+        "visual_hint": "Code streams morphing into neural network",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer code screen",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Recursive self-improvement hides in plain sight",
+        "description": "No changelog announces it; it appears as a model solving yesterday's hard eval on the first try, unexplained.",
+        "visual_hint": "Eval score chart with sudden spike",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your baselines are now meaningless",
+        "description": "Most teams haven't re-baselined since the last major release; old reference points become obsolete overnight.",
+        "visual_hint": "Hand holding outdated evaluation report",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office desk papers",
+        "image": "https://images.pexels.com/photos/17257183/pexels-photo-17257183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and audit your baselines now",
+        "description": "Open your last three model evals and verify exact version and date for each baseline before the next release.",
+        "visual_hint": "Checklist with model versions and dates",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard pen",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2279025960.jpg?w=1024",
+    "savedAt": "2026-11-09T20:17:48.422Z",
+    "sourceId": "9d2e28e73a2d3504185b28d2f95a8ee9"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "apple-is-racing-to-make-siri-more-agentic",
     "prompt_version": "1.0.0",
     "status": "published",

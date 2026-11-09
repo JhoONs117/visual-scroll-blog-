@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "anthropic-joins-ai-s-natural-gas-frenzy-buys-3-4b-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "pubDate": "Mon, 09 Nov 2026 16:56:54 +0000",
+      "slides": [
+        "Why does Anthropic need $3.4B worth of turbines?",
+        "It's buying natural gas turbines for its data centers",
+        "AI's power demand is outpacing the electric grid",
+        "Your cloud costs may soon reflect energy scarcity",
+        "Check your AI vendor's energy strategy before scaling"
+      ],
+      "thread_text": [
+        "1. Gas turbines for AI?\n\nAnthropic just committed $3.4B to buy natural gas turbines — not for a power plant, but for its own data centers. That's a direct bet the grid can't keep up.",
+        "2. The grid can't keep up\n\nAI's electricity demand is growing faster than utilities can build capacity. Companies are now securing their own generation because waiting for the grid is no longer an option.",
+        "3. Your cloud bill is next\n\nEnergy scarcity is starting to show up in cloud pricing. As power gets tighter, the cost of running AI workloads will reflect that — and it won't be subtle.",
+        "4. Check your vendor's energy plan\n\nBefore you scale your AI stack, ask your provider how they're securing power. The ones with no answer will pass the risk — and the cost — straight to you.",
+        "5. Do this before you scale\n\nAsk your AI vendor one question this week: how are you securing energy for the next 12 months? If they can't answer, you're the one absorbing the risk."
+      ],
+      "video_script": [
+        "Anthropic is buying three point four billion dollars of gas turbines.",
+        "The electric grid simply cannot keep up with AI demand.",
+        "That energy scarcity is going to show up in your cloud bill.",
+        "Ask your AI vendor how they are securing power right now.",
+        "If they have no answer, you are absorbing the risk."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Gas turbines for AI?\n\nAnthropic just committed $3.4B to buy natural gas turbines — not for a power plant, but for its own data centers. That's a direct bet the grid can't keep up.",
+            "2. The grid can't keep up\n\nAI's electricity demand is growing faster than utilities can build capacity. Companies are now securing their own generation because waiting for the grid is no longer an option.",
+            "3. Your cloud bill is next\n\nEnergy scarcity is starting to show up in cloud pricing. As power gets tighter, the cost of running AI workloads will reflect that — and it won't be subtle.",
+            "4. Check your vendor's energy plan\n\nBefore you scale your AI stack, ask your provider how they're securing power. The ones with no answer will pass the risk — and the cost — straight to you.",
+            "5. Do this before you scale\n\nAsk your AI vendor one question this week: how are you securing energy for the next 12 months? If they can't answer, you're the one absorbing the risk."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Anthropic is buying three point four billion dollars of gas turbines.",
+            "The electric grid simply cannot keep up with AI demand.",
+            "That energy scarcity is going to show up in your cloud bill.",
+            "Ask your AI vendor how they are securing power right now.",
+            "If they have no answer, you are absorbing the risk."
+          ]
+        },
+        "instagram": {
+          "caption": "$3.4 billion for gas turbines — not for a power plant, but for Anthropic's own data centers. ⚡\n\nAI's electricity demand is now growing faster than utilities can build capacity, so companies are securing their own generation.\n\nEnergy scarcity is starting to show up in cloud pricing, and running AI workloads will reflect that cost.\n\nIf you publish or build with AI tools, check your vendor's energy strategy before scaling — the ones without a plan will pass the risk straight to you. 🔍\n\nAsk your AI provider this week: how are you securing power for the next 12 months? If they can't answer, you're the one absorbing the risk. 🤔"
+        }
+      },
+      "instagram_caption": "$3.4 billion for gas turbines — not for a power plant, but for Anthropic's own data centers. ⚡\n\nAI's electricity demand is now growing faster than utilities can build capacity, so companies are securing their own generation.\n\nEnergy scarcity is starting to show up in cloud pricing, and running AI workloads will reflect that cost.\n\nIf you publish or build with AI tools, check your vendor's energy strategy before scaling — the ones without a plan will pass the risk straight to you. 🔍\n\nAsk your AI provider this week: how are you securing power for the next 12 months? If they can't answer, you're the one absorbing the risk. 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Is the grid failing AI?",
+          "description": "AI power demand is outpacing the electric grid, forcing companies like Anthropic to secure their own energy sources.",
+          "visual_hint": "Power lines against sunset sky",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "power lines"
+        },
+        {
+          "hook": "Anthropic's $3.4B gas turbine bet",
+          "description": "Anthropic is buying natural gas turbines for its data centers, a direct bet the grid can't keep up.",
+          "visual_hint": "Gas turbine industrial facility",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "gas turbine",
+          "image": "https://images.pexels.com/photos/35596446/pexels-photo-35596446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI's insatiable appetite for power",
+          "description": "AI's electricity demand is growing faster than utilities can build capacity, so companies secure their own generation.",
+          "visual_hint": "Data center server racks glowing",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your cloud bill is about to spike",
+          "description": "Energy scarcity is starting to show up in cloud pricing, and the cost of running AI workloads will reflect that.",
+          "visual_hint": "Rising energy cost graph overlay",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before you scale",
+          "description": "Ask your AI vendor how they're securing energy for the next 12 months. If they can't answer, you absorb the risk.",
+          "visual_hint": "Business meeting energy strategy discussion",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-155376474.jpeg?resize=1200,800",
+      "savedAt": "2026-11-09T20:18:17.819Z",
+      "sourceId": "f3c522ff77f3b76aae89ed0894951112"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "meta-releases-muse-ember-a-new-lightweight-model-f",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "pubDate": "Mon, 09 Nov 2026 18:00:00 +0000",
+      "slides": [
+        "What if Meta's lightweight model beats your heavy stack?",
+        "Muse Ember targets agent execution, not chat",
+        "It trades raw scale for speed on tool-calling tasks",
+        "Small teams can now ship agent workflows on cheap hardware",
+        "Test one repetitive agent task against your current model today"
+      ],
+      "thread_text": [
+        "1. What if small beats big?\n\nMeta's lightweight model, Muse Ember, is designed for agent execution, not chat. It could make your heavy stack obsolete.",
+        "2. Speed over scale\n\nMuse Ember trades raw scale for speed on tool-calling tasks. That means faster responses and lower costs for agent workflows.",
+        "3. Cheap hardware, big workflows\n\nSmall teams can now ship agent workflows on cheap hardware. No need for expensive GPUs or cloud instances.",
+        "4. Test your agent task\n\nPick one repetitive agent task you run today. Try it with Muse Ember on a cheap device and compare speed and accuracy.",
+        "5. Ready to switch?\n\nDoes saving 20 minutes per task justify switching? Test it on a real workflow this week and see for yourself."
+      ],
+      "video_script": [
+        "Meta's new model might beat your heavy stack.",
+        "Muse Ember focuses on agent execution, not chat.",
+        "It trades raw scale for speed on tool calls.",
+        "Small teams can now run agent workflows on cheap hardware.",
+        "Test one repetitive agent task against your current model today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. What if small beats big?\n\nMeta's lightweight model, Muse Ember, is designed for agent execution, not chat. It could make your heavy stack obsolete.",
+            "2. Speed over scale\n\nMuse Ember trades raw scale for speed on tool-calling tasks. That means faster responses and lower costs for agent workflows.",
+            "3. Cheap hardware, big workflows\n\nSmall teams can now ship agent workflows on cheap hardware. No need for expensive GPUs or cloud instances.",
+            "4. Test your agent task\n\nPick one repetitive agent task you run today. Try it with Muse Ember on a cheap device and compare speed and accuracy.",
+            "5. Ready to switch?\n\nDoes saving 20 minutes per task justify switching? Test it on a real workflow this week and see for yourself."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta's new model might beat your heavy stack.",
+            "Muse Ember focuses on agent execution, not chat.",
+            "It trades raw scale for speed on tool calls.",
+            "Small teams can now run agent workflows on cheap hardware.",
+            "Test one repetitive agent task against your current model today."
+          ]
+        },
+        "instagram": {
+          "caption": "Meta just shipped a model built for agent execution, not chat.\n\nMuse Ember trades raw scale for speed on tool-calling tasks — fewer parameters, faster responses.\n\nThat means small teams can run agent workflows on cheap hardware instead of expensive GPUs 🔧\n\nIf you build or publish with agents, your compute bill and latency per task could drop without a full rewrite.\n\nPick one repetitive agent task you run today and test it on a cheap device this week.\n\nDoes saving 20 minutes per task justify switching? ⏱️"
+        }
+      },
+      "instagram_caption": "Meta just shipped a model built for agent execution, not chat.\n\nMuse Ember trades raw scale for speed on tool-calling tasks — fewer parameters, faster responses.\n\nThat means small teams can run agent workflows on cheap hardware instead of expensive GPUs 🔧\n\nIf you build or publish with agents, your compute bill and latency per task could drop without a full rewrite.\n\nPick one repetitive agent task you run today and test it on a cheap device this week.\n\nDoes saving 20 minutes per task justify switching? ⏱️",
+      "carousel_slides": [
+        {
+          "hook": "Can small models beat your heavy stack?",
+          "description": "Meta's Muse Ember is built for agent execution, not chat, potentially making expensive stacks obsolete.",
+          "visual_hint": "Split screen: small chip vs large server",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer chip"
+        },
+        {
+          "hook": "Speed over scale for agents",
+          "description": "Muse Ember trades raw scale for speed on tool-calling tasks, enabling faster responses and lower costs.",
+          "visual_hint": "Speedometer with tool icons",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "speedometer closeup",
+          "image": "https://images.pexels.com/photos/16803799/pexels-photo-16803799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cheap hardware, big workflows",
+          "description": "Small teams can now ship agent workflows on cheap hardware, no need for expensive GPUs or cloud instances.",
+          "visual_hint": "Hand holding small device with workflow",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "raspberry pi",
+          "image": "https://images.pexels.com/photos/38968601/pexels-photo-38968601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one repetitive agent task",
+          "description": "Pick a repetitive agent task you run today, try it with Muse Ember on a cheap device, compare speed and accuracy.",
+          "visual_hint": "Person comparing two devices",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office worker testing",
+          "image": "https://images.pexels.com/photos/10878604/pexels-photo-10878604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this for your next agent test",
+          "description": "Does saving 20 minutes per task justify switching? Test it on a real workflow this week and see for yourself.",
+          "visual_hint": "Clock with checklist and arrow",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "clock checklist",
+          "image": "https://images.pexels.com/photos/5882583/pexels-photo-5882583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Blog-Header-Visual.png?resize=1200,675",
+      "savedAt": "2026-11-09T20:18:07.444Z",
+      "sourceId": "9b99d3e8fbba152424b37d695287863e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "jensen-huang-s-affair-with-alleged-chinese-spy-put",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "pubDate": "Mon, 09 Nov 2026 18:09:52 +0000",
+      "slides": [
+        "What does Jensen Huang's alleged affair cost Nvidia?",
+        "The woman is reportedly linked to Chinese intelligence",
+        "Nvidia's China strategy was already fragile",
+        "Board governance questions now surface for Huang",
+        "Watch Nvidia's next China disclosure closely"
+      ],
+      "thread_text": [
+        "1. Nvidia's $300B secret\n\nJensen Huang's alleged affair reportedly involves a woman linked to Chinese intelligence. Nvidia's market cap has already lost billions on the news.",
+        "2. Who is she really?\n\nThe woman at the center of the story is reportedly connected to Chinese intelligence networks. That raises the stakes from personal scandal to national security.",
+        "3. China was already a problem\n\nNvidia's China strategy was fragile before this story broke. Export restrictions and geopolitical tension had already squeezed its most important growth market.",
+        "4. Board under the microscope\n\nNvidia's board now faces hard governance questions about Huang's judgment and disclosure. Investors are asking what they weren't told, and when.",
+        "5. Watch the next filing\n\nCheck Nvidia's next China disclosure and any 8-K carefully. Ask yourself: would you hold the stock through a governance crisis you can't fully see?"
+      ],
+      "video_script": [
+        "Nvidia just lost billions on an alleged affair scandal.",
+        "The woman reportedly has links to Chinese intelligence.",
+        "Nvidia's China strategy was already fragile before this.",
+        "Now the board has hard governance questions for Huang.",
+        "Watch Nvidia's next China disclosure very closely."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Nvidia's $300B secret\n\nJensen Huang's alleged affair reportedly involves a woman linked to Chinese intelligence. Nvidia's market cap has already lost billions on the news.",
+            "2. Who is she really?\n\nThe woman at the center of the story is reportedly connected to Chinese intelligence networks. That raises the stakes from personal scandal to national security.",
+            "3. China was already a problem\n\nNvidia's China strategy was fragile before this story broke. Export restrictions and geopolitical tension had already squeezed its most important growth market.",
+            "4. Board under the microscope\n\nNvidia's board now faces hard governance questions about Huang's judgment and disclosure. Investors are asking what they weren't told, and when.",
+            "5. Watch the next filing\n\nCheck Nvidia's next China disclosure and any 8-K carefully. Ask yourself: would you hold the stock through a governance crisis you can't fully see?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Nvidia just lost billions on an alleged affair scandal.",
+            "The woman reportedly has links to Chinese intelligence.",
+            "Nvidia's China strategy was already fragile before this.",
+            "Now the board has hard governance questions for Huang.",
+            "Watch Nvidia's next China disclosure very closely."
+          ]
+        },
+        "instagram": {
+          "caption": "A woman reportedly linked to Chinese intelligence is at the center of an alleged affair with Jensen Huang, and Nvidia has already lost billions in market value.\n\nThe story turns a personal scandal into a national security question 🚨\n\nNvidia's China strategy was already fragile from export restrictions, and now the board faces hard governance questions about Huang's judgment and disclosure.\n\nIf you cover tech or hold the stock, watch the next China disclosure and any 8-K filing closely 👀\n\nWould you hold through a governance crisis you can't fully see? 🤔"
+        }
+      },
+      "instagram_caption": "A woman reportedly linked to Chinese intelligence is at the center of an alleged affair with Jensen Huang, and Nvidia has already lost billions in market value.\n\nThe story turns a personal scandal into a national security question 🚨\n\nNvidia's China strategy was already fragile from export restrictions, and now the board faces hard governance questions about Huang's judgment and disclosure.\n\nIf you cover tech or hold the stock, watch the next China disclosure and any 8-K filing closely 👀\n\nWould you hold through a governance crisis you can't fully see? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Is Nvidia's China dream now a nightmare?",
+          "description": "Jensen Huang's alleged affair with a woman linked to Chinese intelligence threatens Nvidia's fragile China strategy and market value.",
+          "visual_hint": "Cracked Nvidia logo over China flag",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Nvidia headquarters"
+        },
+        {
+          "hook": "Who is the woman at the center?",
+          "description": "The woman reportedly connected to Chinese intelligence networks escalates the scandal from personal to national security.",
+          "visual_hint": "Silhouette with network lines",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "cyber security network",
+          "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "China was already a fragile market",
+          "description": "Export restrictions and geopolitical tensions had already squeezed Nvidia's most important growth market before this story broke.",
+          "visual_hint": "Map of China with trade barriers",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "shipping containers China",
+          "image": "https://images.pexels.com/photos/20715652/pexels-photo-20715652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Board governance questions surface for Huang",
+          "description": "Nvidia's board faces hard questions about Huang's judgment and disclosure as investors ask what they weren't told.",
+          "visual_hint": "Boardroom table with empty chairs",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "corporate boardroom",
+          "image": "https://images.pexels.com/photos/6949365/pexels-photo-6949365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: watch Nvidia's next China disclosure",
+          "description": "Check Nvidia's next 8-K filing carefully and ask if you'd hold through a hidden governance crisis.",
+          "visual_hint": "Magnifying glass over financial document",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "financial documents",
+          "image": "https://images.pexels.com/photos/8970301/pexels-photo-8970301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801",
+      "savedAt": "2026-11-09T20:17:57.779Z",
+      "sourceId": "c81f482fdf110b88cc3533ceaca2672b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "anthropic-releases-new-mythos-and-fable-models-ami",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "pubDate": "Mon, 09 Nov 2026 19:24:51 +0000",
+      "slides": [
+        "What if AI starts improving itself faster than we can track?",
+        "Anthropic just launched Mythos and Fable models",
+        "Both show early signs of recursive self-improvement",
+        "Your evaluation pipelines may miss sudden capability jumps",
+        "Audit your current model baselines before the next release"
+      ],
+      "thread_text": [
+        "1. The 5-Minute Warning\n\nAnthropic's new Mythos and Fable models both show early signs of recursive self-improvement. That means they can upgrade their own architecture faster than your team can schedule a review.",
+        "2. The Pipeline Blindspot\n\nYour evaluation pipelines were built for stable models, not ones that rewrite their own weights. They may miss sudden capability jumps between checkpoints entirely.",
+        "3. The Audit Gap\n\nMost teams haven't re-baselined since the last major release. When Mythos ships, your old baselines become meaningless reference points overnight.",
+        "4. The Silent Escalation\n\nRecursive self-improvement doesn't announce itself with a changelog. It shows up as a model that solves yesterday's hard eval on the first try, with no explanation.",
+        "5. The Baseline Check\n\nOpen your last three model evals right now. If you can't name the exact version and date of each baseline, you're flying blind. Fix that before the next release."
+      ],
+      "video_script": [
+        "What if AI improves itself faster than you can track?",
+        "Anthropic just launched two models showing early recursive self-improvement.",
+        "Your evaluation pipelines may miss sudden capability jumps between checkpoints.",
+        "Recursive improvement doesn't announce itself — it just solves yesterday's hard problem.",
+        "Audit your current model baselines before the next release drops."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The 5-Minute Warning\n\nAnthropic's new Mythos and Fable models both show early signs of recursive self-improvement. That means they can upgrade their own architecture faster than your team can schedule a review.",
+            "2. The Pipeline Blindspot\n\nYour evaluation pipelines were built for stable models, not ones that rewrite their own weights. They may miss sudden capability jumps between checkpoints entirely.",
+            "3. The Audit Gap\n\nMost teams haven't re-baselined since the last major release. When Mythos ships, your old baselines become meaningless reference points overnight.",
+            "4. The Silent Escalation\n\nRecursive self-improvement doesn't announce itself with a changelog. It shows up as a model that solves yesterday's hard eval on the first try, with no explanation.",
+            "5. The Baseline Check\n\nOpen your last three model evals right now. If you can't name the exact version and date of each baseline, you're flying blind. Fix that before the next release."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "What if AI improves itself faster than you can track?",
+            "Anthropic just launched two models showing early recursive self-improvement.",
+            "Your evaluation pipelines may miss sudden capability jumps between checkpoints.",
+            "Recursive improvement doesn't announce itself — it just solves yesterday's hard problem.",
+            "Audit your current model baselines before the next release drops."
+          ]
+        },
+        "instagram": {
+          "caption": "Two new models that can rewrite their own architecture faster than your team can schedule a review just shipped. 🤖\n\nAnthropic's Mythos and Fable both show early signs of recursive self-improvement.\n\nYour evaluation pipelines were built for stable models, not ones that change between checkpoints.\n\nIf you haven't re-baselined since the last major release, your old reference points are already meaningless. ⚠️\n\nOpen your last three model evals right now — if you can't name the exact version and date of each baseline, you're flying blind. 📅\n\nWhich baseline are you actually running against today? 🔍"
+        }
+      },
+      "instagram_caption": "Two new models that can rewrite their own architecture faster than your team can schedule a review just shipped. 🤖\n\nAnthropic's Mythos and Fable both show early signs of recursive self-improvement.\n\nYour evaluation pipelines were built for stable models, not ones that change between checkpoints.\n\nIf you haven't re-baselined since the last major release, your old reference points are already meaningless. ⚠️\n\nOpen your last three model evals right now — if you can't name the exact version and date of each baseline, you're flying blind. 📅\n\nWhich baseline are you actually running against today? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Can AI outpace our own oversight?",
+          "description": "Anthropic's Mythos and Fable models show early recursive self-improvement, upgrading faster than teams can schedule reviews.",
+          "visual_hint": "Futuristic AI core with pulsating light",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "artificial intelligence brain"
+        },
+        {
+          "hook": "Anthropic's new models rewrite their own weights",
+          "description": "Mythos and Fable exhibit self-modifying architectures, making static evaluation pipelines blind to sudden capability jumps.",
+          "visual_hint": "Code streams morphing into neural network",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer code screen",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Recursive self-improvement hides in plain sight",
+          "description": "No changelog announces it; it appears as a model solving yesterday's hard eval on the first try, unexplained.",
+          "visual_hint": "Eval score chart with sudden spike",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your baselines are now meaningless",
+          "description": "Most teams haven't re-baselined since the last major release; old reference points become obsolete overnight.",
+          "visual_hint": "Hand holding outdated evaluation report",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office desk papers",
+          "image": "https://images.pexels.com/photos/17257183/pexels-photo-17257183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this and audit your baselines now",
+          "description": "Open your last three model evals and verify exact version and date for each baseline before the next release.",
+          "visual_hint": "Checklist with model versions and dates",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard pen",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2279025960.jpg?w=1024",
+      "savedAt": "2026-11-09T20:17:48.422Z",
+      "sourceId": "9d2e28e73a2d3504185b28d2f95a8ee9"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "apple-is-racing-to-make-siri-more-agentic",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -211132,6 +211548,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pollo-laccato-all-arancia-con-verdure",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pollo laccato all'arancia con verdure",
+      "link": "https://ricette.giallozafferano.it/Pollo-laccato-all-arancia-con-verdure.html",
+      "pubDate": "Mon, 09 Nov 2026 15:55:00 +0100",
+      "content": "Pollo laccato all'arancia e miele con verdure Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X Secondi piatti Pollo laccato all'arancia con verdure /5 Ricetta proposta da Sebastian Fitarau CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 45 min Cottura: 60 min Dosi per: 4 persone Costo: Basso Nota + il tempo di marinatura in frigo (almeno 30 min.) Ascolta la ricetta Ascolta su Spreaker. Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti PRESENTAZIONE Il pollo laccato all’arancia con verdure è una deliziosa alternativa al classico pollo arrosto con patate! La particolarità di questo secondo piatto al forno è la marinatura a base di succo d’arancia, miele, salsa di soia e senape, che durante la cottura crea una glassatura lucida e dorata, rendendo la pelle croccante e la carne tenera e succosa. Il pollo intero viene cotto in teglia insieme a un contorno di ortaggi di stagione, tra cui patate dolci, carote, broccoli, cavolfiore e cipolla, insaporite con timo e rosmarino. I succhi rilasciati dalla carne durante la cottura si mescolano al condimento delle verdure, creando un invitante insieme di profumi e sapori, in equilibrio fra dolce e salato. Ideale per il pranzo della domenica o un'occasione speciale, come per esempio il pranzo di Natale , il pollo laccato all'arancia con verdure si prepara in pochi passaggi e il forno farà il resto. Il segreto per ottenere una glassatura uniforme è spennellarlo il pollo più volte durante la cottura… in questo modo otterrete un risultato irresistibile, perfetto da condividere! Provate anche il petto d’anatra laccato all’arancia e altre sfiziose ricette di pollo arrosto: Pollo arrosto con verdure tornite Pollo alla diavola con salsa agrodolce Pollo bardato con carciofi e patate dolci Cappone agli agrumi Orange-glazed chicken with vegetables Scopri anche Petto d'anatra laccato all'arancia Polpette di pollo all'arancia Pollo all'arancia e mandorle Sfoglia tutte INGREDIENTI Per il pollo Pollo intero 1,2 kg Arance &frac12; Succo d'arancia 100 g Miele di acacia 2 cucchiai Salsa di soia 2 cucchiai Senape 1 cucchiaio Aglio 2 spicchi Rosmarino 1 rametto Olio extravergine d'oliva 2 cucchiai Sale fino q.b. Pepe nero q.b. Per le verdure Patate dolci (o americane) 700 g Cavolfiore (da pulire) 300 g Broccoli (da pulire) 300 g Carote 130 g Cipolle 70 g Timo q.b. Rosmarino q.b. Olio extravergine d'oliva q.b. Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Pollo laccato all'arancia con verdure Per preparare il pollo laccato all’arancia con verdure, iniziate dalla marinatura: versate in una ciotola il succo d’arancia filtrato 1 , il miele 2 e l’olio 3 . Unite anche la salsa di soia 4 , la senape 5 e la scorza grattugiata dell’arancia 6 . Infine aggiungete il sale, il pepe 7 e l’aglio schiacciato (o tritato) 8 . Mescolate il tutto 9 . Ora prendete il pollo intero e asciugatelo bene con carta da cucina, poi salate e pepate sia l’esterno che l’interno 10 . Inserite nella cavità mezza arancia 11 e i rametti di rosmarino 12 . Legate il pollo in modo che dopo la cottura mantenga la forma: prendete un elastico per cottura in forno, giratelo intorno alla parte finale delle coscette 13 , poi stendetelo e giratelo dietro al petto. Spennellate il pollo con due terzi della marinatura 14 e lasciatelo insaporire in frigorifero per almeno 30 minuti (ancora meglio, per 2 ore). Nell frattempo occupatevi delle verdure: sbucciate le carote e tagliatele a pezzi grossolani 15 . Sbucciate le patate dolci e dividetele in 4 parti 16 , poi riducetele a tocchetti all’incirca della stessa dimensione delle carote 17 . Ricavate le cimette del cavolfiore e tagliatele in modo che siano grandi più o meno come le altre verdure 18 . Fate la stessa cosa anche con i broccoli 19 , poi pelate e tagliate a tocchetti anche il gambo 20 . Infine, mondate e tagliate a pezzettoni la cipolla 21 . Trascorso il tempo di marinatura del pollo, posizionatelo al centro di una leccarda da forno 22 , poi distribuite le verdure tutt’intorno 23 e profumate con i rametti di timo e rosmarino 24 . Condite le verdure con sale, pepe e olio 25 . Cuocete in forno statico preriscaldato a 190° per circa 60 minuti, spennellando il pollo con la marinatura rimasta ogni 20 minuti 26 . Durante gli ultimi 10 minuti, aumentate la temperatura a 210° per rendere la pelle dorata e croccante. Il tempo di cottura può variare a seconda della dimensione del pollo: prima di sfornare, bucate la coscia con uno stecchino e verificate che fuoriesca del liquido chiaro; se il liquido è rosa, prolungate la cottura. Se disponete di un termometro da cucina, potete misurare la temperatura al cuore che deve raggiungere i 75° circa. Una volta cotto, sfornate 27 . Impiattate il pollo arrosto con le sue verdure 28 , irrorandolo con il fondo di cottura 29 . Il vostro pollo laccato all’arancia con verdure è pronto per essere servito e tagliato 30 ! Conservazione Il pollo laccato all’arancia con verdure si può conservare in frigorifero per un giorno. Consiglio Potete utilizzare le verdure di stagione che preferite! Per ottenere un pollo ancora più saporito, prolungate il tempo di marinatura fino a 2 ore in frigorifero. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Timo Cavolfiore Patate Aglio Broccoli Patate dolci Olio di oliva Rosmarino Senape Cipolla Scopri tutto sugli ingredienti Presente in: Secondi piatti sfiziosi , Ricette sfiziose , Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Petto d'anatra laccato all'arancia 37 4.7 Polpette di pollo all'arancia 13 4.3 Pollo all'arancia e mandorle 4.5 Cappone agli agrumi 4.3 Pollo in coccio marinato agli agrumi 13 3.8 Benessere Involtini di pollo con porri e agrumi 5.0 Petto di pollo all’arancia 66 4.3 Filetto di branzino con finocchi caramellati e salsa all'arancia 6 4.5 ULTIME RICETTE Pollo laccato all'arancia con verdure 5.0 Torta 5 minuti mele, noci e uvetta 1 4.5 Pasta all'amatriciana bianca 3.8 SCOPRI Pollo all arancia Petto di pollo all arancia Pollo con verdure Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Secondi piatti Petto d'anatra laccato all'arancia 37 4.7 Il petto d'anatra laccato all'arancia è un secondo piatto di carne molto prelibato. La carne viene scottata in padella, glassata e poi cotta in forno. Vai alla ricetta Secondi piatti Polpette di pollo all'arancia 13 4.3 Le polpette di pollo all'arancia sono dei bocconcini sfiziosi al profumo di agrumi, perfetti per arricchire di gusto i vostri menu invernali. Vai alla ricetta Secondi piatti Pollo all'arancia e mandorle 4.5 Il pollo all'arancia e mandorle è un gustoso secondo piatto profumato e saporito che si prepara in padella, perfetto per tutte le occasioni. Vai alla ricetta Secondi piatti Cappone agli agrumi 4.3 Il cappone agli agrumi è un raffinato secondo piatto di carne con contorno di patate, perfetto per le occasioni speciali. Scopri qui dosi e ricetta! Vai alla ricetta Secondi piatti Pollo in coccio marinato agli agrumi 13 3.8 Il pollo in coccio marinato agli agrumi è un secondo piatto di carne gustoso: il pollo, marinato con succo di agrumi, è cotto e servito con l'arancia. Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. e all’utilizzo di pixel di tracciamento nelle suddette comunicazioni per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne Si No Prosegui",
+      "slides": [
+        "Pollo dorato, glassa lucida all'arancia",
+        "Arancia, miele, soia, senape e pollo",
+        "Marina il pollo con succo d'arancia e miele",
+        "Cuoci a 190° spennellando ogni 20 minuti",
+        "Ultimi 10 minuti a 210° per pelle croccante"
+      ],
+      "instagram_caption": "Pollo laccato all'arancia: croccante fuori, succoso dentro, lucido come uno specchio 🍊\nLa magia sta nella glassa di arancia, miele, soia e senape, che si caramella a ogni spennellata mentre il pollo cuoce a 190°.\nGli ultimi 10 minuti a 210° regalano quella pelle dorata che sentite scrocchiare solo a guardarla.\nLe verdure al forno raccolgono tutto il profumo degli agrumi e fanno il resto.\nSalvatela e provatela questo weekend: la domenica merita un profumo così ✨🍗",
+      "formats": {
+        "instagram": {
+          "caption": "Pollo laccato all'arancia: croccante fuori, succoso dentro, lucido come uno specchio 🍊\nLa magia sta nella glassa di arancia, miele, soia e senape, che si caramella a ogni spennellata mentre il pollo cuoce a 190°.\nGli ultimi 10 minuti a 210° regalano quella pelle dorata che sentite scrocchiare solo a guardarla.\nLe verdure al forno raccolgono tutto il profumo degli agrumi e fanno il resto.\nSalvatela e provatela questo weekend: la domenica merita un profumo così ✨🍗"
+        },
+        "tiktok": {
+          "script": [
+            "Doro il pollo fino a farlo diventare bello dorato",
+            "Preparo la glassa con arancia, miele, soia e senape",
+            "Marino il pollo con succo d'arancia e miele",
+            "Cuocio a 190 gradi spennellando ogni venti minuti",
+            "Ultimi dieci minuti a 210 per la pelle croccante"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Pollo laccato all'arancia: crosta lucida, carne succosa, profumo che riempie la cucina. Sembra un piatto da ristorante, ma si fa a casa con 5 ingredienti. 🍊",
+            "La glassa è tutto: succo d'arancia, miele, soia e un cucchiaino di senape. Dolce, salata, appiccicosa al punto giusto. Il pollo si dora prima in padella, poi si bagna.",
+            "Marina il pollo con succo d'arancia e miele almeno 30 minuti. Più riposa, più il sapore entra nella carne. Intanto accendi il forno a 190°.",
+            "In forno a 190°, spennellando la glassa ogni 20 minuti. Ogni passata è uno strato di lucido in più. Le verdure le butti nella teglia e si cuociono nel suo grasso.",
+            "Ultimi 10 minuti a 210°: è qui che la pelle diventa croccante e la glassa caramella. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Doro il pollo fino a farlo diventare bello dorato",
+        "Preparo la glassa con arancia, miele, soia e senape",
+        "Marino il pollo con succo d'arancia e miele",
+        "Cuocio a 190 gradi spennellando ogni venti minuti",
+        "Ultimi dieci minuti a 210 per la pelle croccante"
+      ],
+      "thread_text": [
+        "Pollo laccato all'arancia: crosta lucida, carne succosa, profumo che riempie la cucina. Sembra un piatto da ristorante, ma si fa a casa con 5 ingredienti. 🍊",
+        "La glassa è tutto: succo d'arancia, miele, soia e un cucchiaino di senape. Dolce, salata, appiccicosa al punto giusto. Il pollo si dora prima in padella, poi si bagna.",
+        "Marina il pollo con succo d'arancia e miele almeno 30 minuti. Più riposa, più il sapore entra nella carne. Intanto accendi il forno a 190°.",
+        "In forno a 190°, spennellando la glassa ogni 20 minuti. Ogni passata è uno strato di lucido in più. Le verdure le butti nella teglia e si cuociono nel suo grasso.",
+        "Ultimi 10 minuti a 210°: è qui che la pelle diventa croccante e la glassa caramella. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pollo laccato all'arancia: oro in tavola",
+          "description": "Un piatto che conquista al primo sguardo, con una glassa lucida e un profumo agrumato irresistibile.",
+          "visual_hint": "pollo dorato glassa lucida",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory glazed chicken"
+        },
+        {
+          "hook": "Solo 5 ingredienti per la glassa",
+          "description": "Arancia, miele, soia e senape: la combo perfetta per una marinata agrodolce e saporita.",
+          "visual_hint": "ingredienti glassa arancia",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory orange chicken",
+          "image": "https://images.pexels.com/photos/6072033/pexels-photo-6072033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Marina e lascia riposare",
+          "description": "Il segreto è far assorbire tutti i sapori: succo d'arancia e miele per una carne morbida e profumata.",
+          "visual_hint": "pollo in marinata",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory chicken marinade",
+          "image": "https://images.pexels.com/photos/29043469/pexels-photo-29043469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cottura lenta e spennellata",
+          "description": "A 190° per una cottura uniforme, spennellando ogni 20 minuti per una glassa perfetta.",
+          "visual_hint": "pollo spennellato in forno",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory roasted chicken",
+          "image": "https://images.pexels.com/photos/10821330/pexels-photo-10821330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Trucco finale: pelle croccante",
+          "description": "Gli ultimi 10 minuti a 210° regalano una crosticina dorata. Servi con verdure fresche e goditi il successo.",
+          "visual_hint": "pollo croccante servito",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory crispy chicken",
+          "image": "https://images.pexels.com/photos/39388311/pexels-photo-39388311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "meat",
+      "signature_ingredients": [
+        "pollo",
+        "arancia",
+        "miele"
+      ],
+      "image": "https://www.giallozafferano.it/images/368-36837/Pollo-laccato-all-arancia-con-verdure_1200x800_wm.jpg",
+      "savedAt": "2026-11-09T20:26:38.304Z",
+      "sourceId": "3c2becff2b5609058aabd11401d16a0f"
+    },
     {
       "schema_version": 2,
       "agent": "food",

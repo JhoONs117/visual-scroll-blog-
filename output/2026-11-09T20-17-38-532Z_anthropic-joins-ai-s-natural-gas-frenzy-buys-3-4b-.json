@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-joins-ai-s-natural-gas-frenzy-buys-3-4b-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+  "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+  "pubDate": "Mon, 09 Nov 2026 16:56:54 +0000",
+  "slides": [
+    "Why does Anthropic need $3.4B worth of turbines?",
+    "It's buying natural gas turbines for its data centers",
+    "AI's power demand is outpacing the electric grid",
+    "Your cloud costs may soon reflect energy scarcity",
+    "Check your AI vendor's energy strategy before scaling"
+  ],
+  "thread_text": [
+    "1. Gas turbines for AI?\n\nAnthropic just committed $3.4B to buy natural gas turbines — not for a power plant, but for its own data centers. That's a direct bet the grid can't keep up.",
+    "2. The grid can't keep up\n\nAI's electricity demand is growing faster than utilities can build capacity. Companies are now securing their own generation because waiting for the grid is no longer an option.",
+    "3. Your cloud bill is next\n\nEnergy scarcity is starting to show up in cloud pricing. As power gets tighter, the cost of running AI workloads will reflect that — and it won't be subtle.",
+    "4. Check your vendor's energy plan\n\nBefore you scale your AI stack, ask your provider how they're securing power. The ones with no answer will pass the risk — and the cost — straight to you.",
+    "5. Do this before you scale\n\nAsk your AI vendor one question this week: how are you securing energy for the next 12 months? If they can't answer, you're the one absorbing the risk."
+  ],
+  "video_script": [
+    "Anthropic is buying three point four billion dollars of gas turbines.",
+    "The electric grid simply cannot keep up with AI demand.",
+    "That energy scarcity is going to show up in your cloud bill.",
+    "Ask your AI vendor how they are securing power right now.",
+    "If they have no answer, you are absorbing the risk."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Gas turbines for AI?\n\nAnthropic just committed $3.4B to buy natural gas turbines — not for a power plant, but for its own data centers. That's a direct bet the grid can't keep up.",
+        "2. The grid can't keep up\n\nAI's electricity demand is growing faster than utilities can build capacity. Companies are now securing their own generation because waiting for the grid is no longer an option.",
+        "3. Your cloud bill is next\n\nEnergy scarcity is starting to show up in cloud pricing. As power gets tighter, the cost of running AI workloads will reflect that — and it won't be subtle.",
+        "4. Check your vendor's energy plan\n\nBefore you scale your AI stack, ask your provider how they're securing power. The ones with no answer will pass the risk — and the cost — straight to you.",
+        "5. Do this before you scale\n\nAsk your AI vendor one question this week: how are you securing energy for the next 12 months? If they can't answer, you're the one absorbing the risk."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic is buying three point four billion dollars of gas turbines.",
+        "The electric grid simply cannot keep up with AI demand.",
+        "That energy scarcity is going to show up in your cloud bill.",
+        "Ask your AI vendor how they are securing power right now.",
+        "If they have no answer, you are absorbing the risk."
+      ]
+    },
+    "instagram": {
+      "caption": "$3.4 billion for gas turbines — not for a power plant, but for Anthropic's own data centers. ⚡\n\nAI's electricity demand is now growing faster than utilities can build capacity, so companies are securing their own generation.\n\nEnergy scarcity is starting to show up in cloud pricing, and running AI workloads will reflect that cost.\n\nIf you publish or build with AI tools, check your vendor's energy strategy before scaling — the ones without a plan will pass the risk straight to you. 🔍\n\nAsk your AI provider this week: how are you securing power for the next 12 months? If they can't answer, you're the one absorbing the risk. 🤔"
+    }
+  },
+  "instagram_caption": "$3.4 billion for gas turbines — not for a power plant, but for Anthropic's own data centers. ⚡\n\nAI's electricity demand is now growing faster than utilities can build capacity, so companies are securing their own generation.\n\nEnergy scarcity is starting to show up in cloud pricing, and running AI workloads will reflect that cost.\n\nIf you publish or build with AI tools, check your vendor's energy strategy before scaling — the ones without a plan will pass the risk straight to you. 🔍\n\nAsk your AI provider this week: how are you securing power for the next 12 months? If they can't answer, you're the one absorbing the risk. 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Is the grid failing AI?",
+      "description": "AI power demand is outpacing the electric grid, forcing companies like Anthropic to secure their own energy sources.",
+      "visual_hint": "Power lines against sunset sky",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "power lines"
+    },
+    {
+      "hook": "Anthropic's $3.4B gas turbine bet",
+      "description": "Anthropic is buying natural gas turbines for its data centers, a direct bet the grid can't keep up.",
+      "visual_hint": "Gas turbine industrial facility",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "gas turbine",
+      "image": "https://images.pexels.com/photos/35596446/pexels-photo-35596446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI's insatiable appetite for power",
+      "description": "AI's electricity demand is growing faster than utilities can build capacity, so companies secure their own generation.",
+      "visual_hint": "Data center server racks glowing",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your cloud bill is about to spike",
+      "description": "Energy scarcity is starting to show up in cloud pricing, and the cost of running AI workloads will reflect that.",
+      "visual_hint": "Rising energy cost graph overlay",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you scale",
+      "description": "Ask your AI vendor how they're securing energy for the next 12 months. If they can't answer, you absorb the risk.",
+      "visual_hint": "Business meeting energy strategy discussion",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-155376474.jpeg?resize=1200,800",
+  "savedAt": "2026-11-09T20:18:17.819Z",
+  "sourceId": "f3c522ff77f3b76aae89ed0894951112"
+}

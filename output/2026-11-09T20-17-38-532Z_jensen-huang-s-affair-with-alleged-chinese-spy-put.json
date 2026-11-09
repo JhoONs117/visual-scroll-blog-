@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "jensen-huang-s-affair-with-alleged-chinese-spy-put",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+  "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+  "pubDate": "Mon, 09 Nov 2026 18:09:52 +0000",
+  "slides": [
+    "What does Jensen Huang's alleged affair cost Nvidia?",
+    "The woman is reportedly linked to Chinese intelligence",
+    "Nvidia's China strategy was already fragile",
+    "Board governance questions now surface for Huang",
+    "Watch Nvidia's next China disclosure closely"
+  ],
+  "thread_text": [
+    "1. Nvidia's $300B secret\n\nJensen Huang's alleged affair reportedly involves a woman linked to Chinese intelligence. Nvidia's market cap has already lost billions on the news.",
+    "2. Who is she really?\n\nThe woman at the center of the story is reportedly connected to Chinese intelligence networks. That raises the stakes from personal scandal to national security.",
+    "3. China was already a problem\n\nNvidia's China strategy was fragile before this story broke. Export restrictions and geopolitical tension had already squeezed its most important growth market.",
+    "4. Board under the microscope\n\nNvidia's board now faces hard governance questions about Huang's judgment and disclosure. Investors are asking what they weren't told, and when.",
+    "5. Watch the next filing\n\nCheck Nvidia's next China disclosure and any 8-K carefully. Ask yourself: would you hold the stock through a governance crisis you can't fully see?"
+  ],
+  "video_script": [
+    "Nvidia just lost billions on an alleged affair scandal.",
+    "The woman reportedly has links to Chinese intelligence.",
+    "Nvidia's China strategy was already fragile before this.",
+    "Now the board has hard governance questions for Huang.",
+    "Watch Nvidia's next China disclosure very closely."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Nvidia's $300B secret\n\nJensen Huang's alleged affair reportedly involves a woman linked to Chinese intelligence. Nvidia's market cap has already lost billions on the news.",
+        "2. Who is she really?\n\nThe woman at the center of the story is reportedly connected to Chinese intelligence networks. That raises the stakes from personal scandal to national security.",
+        "3. China was already a problem\n\nNvidia's China strategy was fragile before this story broke. Export restrictions and geopolitical tension had already squeezed its most important growth market.",
+        "4. Board under the microscope\n\nNvidia's board now faces hard governance questions about Huang's judgment and disclosure. Investors are asking what they weren't told, and when.",
+        "5. Watch the next filing\n\nCheck Nvidia's next China disclosure and any 8-K carefully. Ask yourself: would you hold the stock through a governance crisis you can't fully see?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Nvidia just lost billions on an alleged affair scandal.",
+        "The woman reportedly has links to Chinese intelligence.",
+        "Nvidia's China strategy was already fragile before this.",
+        "Now the board has hard governance questions for Huang.",
+        "Watch Nvidia's next China disclosure very closely."
+      ]
+    },
+    "instagram": {
+      "caption": "A woman reportedly linked to Chinese intelligence is at the center of an alleged affair with Jensen Huang, and Nvidia has already lost billions in market value.\n\nThe story turns a personal scandal into a national security question 🚨\n\nNvidia's China strategy was already fragile from export restrictions, and now the board faces hard governance questions about Huang's judgment and disclosure.\n\nIf you cover tech or hold the stock, watch the next China disclosure and any 8-K filing closely 👀\n\nWould you hold through a governance crisis you can't fully see? 🤔"
+    }
+  },
+  "instagram_caption": "A woman reportedly linked to Chinese intelligence is at the center of an alleged affair with Jensen Huang, and Nvidia has already lost billions in market value.\n\nThe story turns a personal scandal into a national security question 🚨\n\nNvidia's China strategy was already fragile from export restrictions, and now the board faces hard governance questions about Huang's judgment and disclosure.\n\nIf you cover tech or hold the stock, watch the next China disclosure and any 8-K filing closely 👀\n\nWould you hold through a governance crisis you can't fully see? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Is Nvidia's China dream now a nightmare?",
+      "description": "Jensen Huang's alleged affair with a woman linked to Chinese intelligence threatens Nvidia's fragile China strategy and market value.",
+      "visual_hint": "Cracked Nvidia logo over China flag",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Nvidia headquarters"
+    },
+    {
+      "hook": "Who is the woman at the center?",
+      "description": "The woman reportedly connected to Chinese intelligence networks escalates the scandal from personal to national security.",
+      "visual_hint": "Silhouette with network lines",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "cyber security network",
+      "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "China was already a fragile market",
+      "description": "Export restrictions and geopolitical tensions had already squeezed Nvidia's most important growth market before this story broke.",
+      "visual_hint": "Map of China with trade barriers",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "shipping containers China",
+      "image": "https://images.pexels.com/photos/20715652/pexels-photo-20715652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Board governance questions surface for Huang",
+      "description": "Nvidia's board faces hard questions about Huang's judgment and disclosure as investors ask what they weren't told.",
+      "visual_hint": "Boardroom table with empty chairs",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "corporate boardroom",
+      "image": "https://images.pexels.com/photos/6949365/pexels-photo-6949365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: watch Nvidia's next China disclosure",
+      "description": "Check Nvidia's next 8-K filing carefully and ask if you'd hold through a hidden governance crisis.",
+      "visual_hint": "Magnifying glass over financial document",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "financial documents",
+      "image": "https://images.pexels.com/photos/8970301/pexels-photo-8970301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801",
+  "savedAt": "2026-11-09T20:17:57.779Z",
+  "sourceId": "c81f482fdf110b88cc3533ceaca2672b"
+}

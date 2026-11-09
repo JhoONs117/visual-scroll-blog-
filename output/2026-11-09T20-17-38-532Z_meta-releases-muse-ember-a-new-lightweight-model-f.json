@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-releases-muse-ember-a-new-lightweight-model-f",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+  "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+  "pubDate": "Mon, 09 Nov 2026 18:00:00 +0000",
+  "slides": [
+    "What if Meta's lightweight model beats your heavy stack?",
+    "Muse Ember targets agent execution, not chat",
+    "It trades raw scale for speed on tool-calling tasks",
+    "Small teams can now ship agent workflows on cheap hardware",
+    "Test one repetitive agent task against your current model today"
+  ],
+  "thread_text": [
+    "1. What if small beats big?\n\nMeta's lightweight model, Muse Ember, is designed for agent execution, not chat. It could make your heavy stack obsolete.",
+    "2. Speed over scale\n\nMuse Ember trades raw scale for speed on tool-calling tasks. That means faster responses and lower costs for agent workflows.",
+    "3. Cheap hardware, big workflows\n\nSmall teams can now ship agent workflows on cheap hardware. No need for expensive GPUs or cloud instances.",
+    "4. Test your agent task\n\nPick one repetitive agent task you run today. Try it with Muse Ember on a cheap device and compare speed and accuracy.",
+    "5. Ready to switch?\n\nDoes saving 20 minutes per task justify switching? Test it on a real workflow this week and see for yourself."
+  ],
+  "video_script": [
+    "Meta's new model might beat your heavy stack.",
+    "Muse Ember focuses on agent execution, not chat.",
+    "It trades raw scale for speed on tool calls.",
+    "Small teams can now run agent workflows on cheap hardware.",
+    "Test one repetitive agent task against your current model today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What if small beats big?\n\nMeta's lightweight model, Muse Ember, is designed for agent execution, not chat. It could make your heavy stack obsolete.",
+        "2. Speed over scale\n\nMuse Ember trades raw scale for speed on tool-calling tasks. That means faster responses and lower costs for agent workflows.",
+        "3. Cheap hardware, big workflows\n\nSmall teams can now ship agent workflows on cheap hardware. No need for expensive GPUs or cloud instances.",
+        "4. Test your agent task\n\nPick one repetitive agent task you run today. Try it with Muse Ember on a cheap device and compare speed and accuracy.",
+        "5. Ready to switch?\n\nDoes saving 20 minutes per task justify switching? Test it on a real workflow this week and see for yourself."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta's new model might beat your heavy stack.",
+        "Muse Ember focuses on agent execution, not chat.",
+        "It trades raw scale for speed on tool calls.",
+        "Small teams can now run agent workflows on cheap hardware.",
+        "Test one repetitive agent task against your current model today."
+      ]
+    },
+    "instagram": {
+      "caption": "Meta just shipped a model built for agent execution, not chat.\n\nMuse Ember trades raw scale for speed on tool-calling tasks — fewer parameters, faster responses.\n\nThat means small teams can run agent workflows on cheap hardware instead of expensive GPUs 🔧\n\nIf you build or publish with agents, your compute bill and latency per task could drop without a full rewrite.\n\nPick one repetitive agent task you run today and test it on a cheap device this week.\n\nDoes saving 20 minutes per task justify switching? ⏱️"
+    }
+  },
+  "instagram_caption": "Meta just shipped a model built for agent execution, not chat.\n\nMuse Ember trades raw scale for speed on tool-calling tasks — fewer parameters, faster responses.\n\nThat means small teams can run agent workflows on cheap hardware instead of expensive GPUs 🔧\n\nIf you build or publish with agents, your compute bill and latency per task could drop without a full rewrite.\n\nPick one repetitive agent task you run today and test it on a cheap device this week.\n\nDoes saving 20 minutes per task justify switching? ⏱️",
+  "carousel_slides": [
+    {
+      "hook": "Can small models beat your heavy stack?",
+      "description": "Meta's Muse Ember is built for agent execution, not chat, potentially making expensive stacks obsolete.",
+      "visual_hint": "Split screen: small chip vs large server",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer chip"
+    },
+    {
+      "hook": "Speed over scale for agents",
+      "description": "Muse Ember trades raw scale for speed on tool-calling tasks, enabling faster responses and lower costs.",
+      "visual_hint": "Speedometer with tool icons",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "speedometer closeup",
+      "image": "https://images.pexels.com/photos/16803799/pexels-photo-16803799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cheap hardware, big workflows",
+      "description": "Small teams can now ship agent workflows on cheap hardware, no need for expensive GPUs or cloud instances.",
+      "visual_hint": "Hand holding small device with workflow",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "raspberry pi",
+      "image": "https://images.pexels.com/photos/38968601/pexels-photo-38968601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one repetitive agent task",
+      "description": "Pick a repetitive agent task you run today, try it with Muse Ember on a cheap device, compare speed and accuracy.",
+      "visual_hint": "Person comparing two devices",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office worker testing",
+      "image": "https://images.pexels.com/photos/10878604/pexels-photo-10878604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your next agent test",
+      "description": "Does saving 20 minutes per task justify switching? Test it on a real workflow this week and see for yourself.",
+      "visual_hint": "Clock with checklist and arrow",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "clock checklist",
+      "image": "https://images.pexels.com/photos/5882583/pexels-photo-5882583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/Blog-Header-Visual.png?resize=1200,675",
+  "savedAt": "2026-11-09T20:18:07.444Z",
+  "sourceId": "9b99d3e8fbba152424b37d695287863e"
+}

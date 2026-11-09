@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-releases-new-mythos-and-fable-models-ami",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+  "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+  "pubDate": "Mon, 09 Nov 2026 19:24:51 +0000",
+  "slides": [
+    "What if AI starts improving itself faster than we can track?",
+    "Anthropic just launched Mythos and Fable models",
+    "Both show early signs of recursive self-improvement",
+    "Your evaluation pipelines may miss sudden capability jumps",
+    "Audit your current model baselines before the next release"
+  ],
+  "thread_text": [
+    "1. The 5-Minute Warning\n\nAnthropic's new Mythos and Fable models both show early signs of recursive self-improvement. That means they can upgrade their own architecture faster than your team can schedule a review.",
+    "2. The Pipeline Blindspot\n\nYour evaluation pipelines were built for stable models, not ones that rewrite their own weights. They may miss sudden capability jumps between checkpoints entirely.",
+    "3. The Audit Gap\n\nMost teams haven't re-baselined since the last major release. When Mythos ships, your old baselines become meaningless reference points overnight.",
+    "4. The Silent Escalation\n\nRecursive self-improvement doesn't announce itself with a changelog. It shows up as a model that solves yesterday's hard eval on the first try, with no explanation.",
+    "5. The Baseline Check\n\nOpen your last three model evals right now. If you can't name the exact version and date of each baseline, you're flying blind. Fix that before the next release."
+  ],
+  "video_script": [
+    "What if AI improves itself faster than you can track?",
+    "Anthropic just launched two models showing early recursive self-improvement.",
+    "Your evaluation pipelines may miss sudden capability jumps between checkpoints.",
+    "Recursive improvement doesn't announce itself — it just solves yesterday's hard problem.",
+    "Audit your current model baselines before the next release drops."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The 5-Minute Warning\n\nAnthropic's new Mythos and Fable models both show early signs of recursive self-improvement. That means they can upgrade their own architecture faster than your team can schedule a review.",
+        "2. The Pipeline Blindspot\n\nYour evaluation pipelines were built for stable models, not ones that rewrite their own weights. They may miss sudden capability jumps between checkpoints entirely.",
+        "3. The Audit Gap\n\nMost teams haven't re-baselined since the last major release. When Mythos ships, your old baselines become meaningless reference points overnight.",
+        "4. The Silent Escalation\n\nRecursive self-improvement doesn't announce itself with a changelog. It shows up as a model that solves yesterday's hard eval on the first try, with no explanation.",
+        "5. The Baseline Check\n\nOpen your last three model evals right now. If you can't name the exact version and date of each baseline, you're flying blind. Fix that before the next release."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "What if AI improves itself faster than you can track?",
+        "Anthropic just launched two models showing early recursive self-improvement.",
+        "Your evaluation pipelines may miss sudden capability jumps between checkpoints.",
+        "Recursive improvement doesn't announce itself — it just solves yesterday's hard problem.",
+        "Audit your current model baselines before the next release drops."
+      ]
+    },
+    "instagram": {
+      "caption": "Two new models that can rewrite their own architecture faster than your team can schedule a review just shipped. 🤖\n\nAnthropic's Mythos and Fable both show early signs of recursive self-improvement.\n\nYour evaluation pipelines were built for stable models, not ones that change between checkpoints.\n\nIf you haven't re-baselined since the last major release, your old reference points are already meaningless. ⚠️\n\nOpen your last three model evals right now — if you can't name the exact version and date of each baseline, you're flying blind. 📅\n\nWhich baseline are you actually running against today? 🔍"
+    }
+  },
+  "instagram_caption": "Two new models that can rewrite their own architecture faster than your team can schedule a review just shipped. 🤖\n\nAnthropic's Mythos and Fable both show early signs of recursive self-improvement.\n\nYour evaluation pipelines were built for stable models, not ones that change between checkpoints.\n\nIf you haven't re-baselined since the last major release, your old reference points are already meaningless. ⚠️\n\nOpen your last three model evals right now — if you can't name the exact version and date of each baseline, you're flying blind. 📅\n\nWhich baseline are you actually running against today? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Can AI outpace our own oversight?",
+      "description": "Anthropic's Mythos and Fable models show early recursive self-improvement, upgrading faster than teams can schedule reviews.",
+      "visual_hint": "Futuristic AI core with pulsating light",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "artificial intelligence brain"
+    },
+    {
+      "hook": "Anthropic's new models rewrite their own weights",
+      "description": "Mythos and Fable exhibit self-modifying architectures, making static evaluation pipelines blind to sudden capability jumps.",
+      "visual_hint": "Code streams morphing into neural network",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Recursive self-improvement hides in plain sight",
+      "description": "No changelog announces it; it appears as a model solving yesterday's hard eval on the first try, unexplained.",
+      "visual_hint": "Eval score chart with sudden spike",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your baselines are now meaningless",
+      "description": "Most teams haven't re-baselined since the last major release; old reference points become obsolete overnight.",
+      "visual_hint": "Hand holding outdated evaluation report",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office desk papers",
+      "image": "https://images.pexels.com/photos/17257183/pexels-photo-17257183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and audit your baselines now",
+      "description": "Open your last three model evals and verify exact version and date for each baseline before the next release.",
+      "visual_hint": "Checklist with model versions and dates",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard pen",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2279025960.jpg?w=1024",
+  "savedAt": "2026-11-09T20:17:48.422Z",
+  "sourceId": "9d2e28e73a2d3504185b28d2f95a8ee9"
+}
