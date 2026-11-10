@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "reddit-is-turning-user-conversations-into-ai-power",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Reddit is turning user conversations into AI-powered product reviews",
+      "link": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+      "pubDate": "Tue, 10 Nov 2026 15:00:00 +0000",
+      "slides": [
+        "Can Reddit monetize what users never meant to sell?",
+        "Conversations become structured product review data",
+        "But users never consented to this repurposing",
+        "Brands may now cite Reddit threads in pitches",
+        "Check what your old posts reveal about your taste"
+      ],
+      "thread_text": [
+        "1. Your posts become products\n\nReddit threads are being turned into structured review data that brands can license, even though users never agreed to that use.",
+        "2. Data you didn't mean to sell\n\nPosts about products and experiences are repackaged as market research, without explicit consent from the people who wrote them.",
+        "3. Consent missing from the deal\n\nUsers never opted in to having their conversations sold as structured data, raising questions about ownership and control.",
+        "4. Brands quote your threads\n\nCompanies may now cite Reddit discussions in pitches, turning casual opinions into marketing ammunition.",
+        "5. Audit your Reddit footprint\n\nSearch your username for product mentions and see what a brand could infer about your taste. Would you share that with a marketer?"
+      ],
+      "video_script": [
+        "Reddit is turning your posts into product review data.",
+        "Companies can license that data and quote your threads.",
+        "But users never consented to this kind of repurposing.",
+        "Check your old posts to see what they reveal.",
+        "Would you sell your taste profile? Think about it."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your posts become products\n\nReddit threads are being turned into structured review data that brands can license, even though users never agreed to that use.",
+            "2. Data you didn't mean to sell\n\nPosts about products and experiences are repackaged as market research, without explicit consent from the people who wrote them.",
+            "3. Consent missing from the deal\n\nUsers never opted in to having their conversations sold as structured data, raising questions about ownership and control.",
+            "4. Brands quote your threads\n\nCompanies may now cite Reddit discussions in pitches, turning casual opinions into marketing ammunition.",
+            "5. Audit your Reddit footprint\n\nSearch your username for product mentions and see what a brand could infer about your taste. Would you share that with a marketer?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Reddit is turning your posts into product review data.",
+            "Companies can license that data and quote your threads.",
+            "But users never consented to this kind of repurposing.",
+            "Check your old posts to see what they reveal.",
+            "Would you sell your taste profile? Think about it."
+          ]
+        },
+        "instagram": {
+          "caption": "Your old comments about a coffee grinder or a bad mattress are being packaged into structured product reviews — and you never agreed to that.\n\nReddit is turning user conversations into review data that brands can license, repackaging casual posts as market research.\n\nUsers never opted in to having their words sold this way, which raises questions about who controls what you wrote.\n\nBrands may now cite Reddit threads in pitches, turning your offhand opinion into marketing material.\n\nSearch your username for product mentions and see what a marketer could infer about your taste 👀 Would you be comfortable with them using it?"
+        }
+      },
+      "instagram_caption": "Your old comments about a coffee grinder or a bad mattress are being packaged into structured product reviews — and you never agreed to that.\n\nReddit is turning user conversations into review data that brands can license, repackaging casual posts as market research.\n\nUsers never opted in to having their words sold this way, which raises questions about who controls what you wrote.\n\nBrands may now cite Reddit threads in pitches, turning your offhand opinion into marketing material.\n\nSearch your username for product mentions and see what a marketer could infer about your taste 👀 Would you be comfortable with them using it?",
+      "carousel_slides": [
+        {
+          "hook": "Your Reddit posts are being sold as data",
+          "description": "Reddit conversations are turned into structured review data for brands, without users ever agreeing to that use.",
+          "visual_hint": "A Reddit post transforming into a barcode",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "barcode scanner"
+        },
+        {
+          "hook": "Casual chats become market research gold",
+          "description": "Product mentions and experiences are repackaged into structured data, fueling brand strategies without explicit consent.",
+          "visual_hint": "Threads flowing into a data funnel",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Did you ever consent to this?",
+          "description": "Users never opted in to having their conversations sold as structured data, raising questions about ownership and control.",
+          "visual_hint": "A missing consent checkbox on screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "checkbox form",
+          "image": "https://images.pexels.com/photos/5926266/pexels-photo-5926266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Brands now cite your threads in pitches",
+          "description": "Companies may quote Reddit discussions in marketing pitches, turning casual opinions into ammunition.",
+          "visual_hint": "A brand pitch slide quoting a Reddit comment",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "business presentation",
+          "image": "https://images.pexels.com/photos/4990545/pexels-photo-4990545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your Reddit footprint now",
+          "description": "Search your username for product mentions and see what a brand could infer about your taste. Would you share that?",
+          "visual_hint": "A magnifying glass over a Reddit profile",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "magnifying glass",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1048288996.jpg?resize=1200,675",
+      "savedAt": "2026-11-10T19:18:53.800Z",
+      "sourceId": "906867629eba750fd25a4051c27f203d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-broadens-its-ai-hardware-portfolio-with-two",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "pubDate": "Tue, 10 Nov 2026 15:54:08 +0000",
+      "slides": [
+        "Google quietly shifts its AI hardware strategy—why now?",
+        "Two chips target training and inference separately.",
+        "One chip is not a TPU and changes the game.",
+        "Your cloud AI costs could drop if you adopt early.",
+        "Audit your workload: which chip fits your stack?"
+      ],
+      "thread_text": [
+        "1. The AI chip shift nobody saw coming\n\nGoogle just split its AI hardware into two chips: one for training, one for inference. The inference chip isn't a TPU. That changes cloud AI economics.",
+        "2. Why split training and inference?\n\nTraining needs raw power. Inference needs efficiency. One chip can't do both well. Google's new split targets each workload separately, cutting waste.",
+        "3. Not a TPU. A game changer.\n\nThe inference chip abandons TPU architecture entirely. That means Google can optimize for latency and cost per query, not just raw throughput.",
+        "4. Your cloud bill could shrink.\n\nEarly adopters of the inference chip may see lower costs per AI request. If you run large-scale inference, the savings compound fast.",
+        "5. Audit your workload now.\n\nWhich chip fits your stack? Map your training vs inference usage this week. If you haven't checked, start there."
+      ],
+      "video_script": [
+        "Google just split its AI chips. Here's why it matters.",
+        "One chip trains, the other runs your AI. Different jobs.",
+        "The inference chip isn't a TPU. That's a big deal.",
+        "If you run lots of AI queries, your costs might drop.",
+        "Check your workload today. Which chip fits you?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The AI chip shift nobody saw coming\n\nGoogle just split its AI hardware into two chips: one for training, one for inference. The inference chip isn't a TPU. That changes cloud AI economics.",
+            "2. Why split training and inference?\n\nTraining needs raw power. Inference needs efficiency. One chip can't do both well. Google's new split targets each workload separately, cutting waste.",
+            "3. Not a TPU. A game changer.\n\nThe inference chip abandons TPU architecture entirely. That means Google can optimize for latency and cost per query, not just raw throughput.",
+            "4. Your cloud bill could shrink.\n\nEarly adopters of the inference chip may see lower costs per AI request. If you run large-scale inference, the savings compound fast.",
+            "5. Audit your workload now.\n\nWhich chip fits your stack? Map your training vs inference usage this week. If you haven't checked, start there."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google just split its AI chips. Here's why it matters.",
+            "One chip trains, the other runs your AI. Different jobs.",
+            "The inference chip isn't a TPU. That's a big deal.",
+            "If you run lots of AI queries, your costs might drop.",
+            "Check your workload today. Which chip fits you?"
+          ]
+        },
+        "instagram": {
+          "caption": "Google just split its AI chips into two: one for training, one for inference.\n\nThe inference chip isn't a TPU at all. It's built to cut latency and cost per query, not chase raw throughput.\n\nThat means training and inference each get hardware tuned to their job, instead of one chip doing both badly. 🧠\n\nIf you run large-scale inference, your cloud bill per AI request could shrink — and savings compound fast.\n\nAudit your stack this week: how much of your usage is training vs inference? Which chip actually fits? ⚙️\n\nIf you haven't mapped that split yet, start there. 📊"
+        }
+      },
+      "instagram_caption": "Google just split its AI chips into two: one for training, one for inference.\n\nThe inference chip isn't a TPU at all. It's built to cut latency and cost per query, not chase raw throughput.\n\nThat means training and inference each get hardware tuned to their job, instead of one chip doing both badly. 🧠\n\nIf you run large-scale inference, your cloud bill per AI request could shrink — and savings compound fast.\n\nAudit your stack this week: how much of your usage is training vs inference? Which chip actually fits? ⚙️\n\nIf you haven't mapped that split yet, start there. 📊",
+      "carousel_slides": [
+        {
+          "hook": "The inference chip nobody saw coming",
+          "description": "Google's new inference chip abandons TPU architecture, optimizing for latency and cost per query instead of raw throughput.",
+          "visual_hint": "Close-up of a glowing microchip",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "microchip close-up"
+        },
+        {
+          "hook": "Why split training and inference?",
+          "description": "Training needs raw power; inference needs efficiency. One chip can't do both well, so Google split them to cut waste.",
+          "visual_hint": "Two chips side by side",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer chip",
+          "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Not a TPU. A game changer.",
+          "description": "The inference chip leaves TPU behind, letting Google optimize for cost per AI request rather than just throughput.",
+          "visual_hint": "TPU chip compared to new chip",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "TPU chip",
+          "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your cloud AI costs could drop",
+          "description": "Early adopters of the inference chip may see lower costs per AI request, and savings compound fast at scale.",
+          "visual_hint": "Hand holding a price tag",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "price tag hand",
+          "image": "https://images.pexels.com/photos/5935795/pexels-photo-5935795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your workload for chip fit",
+          "description": "Map your training vs inference usage this week to see which chip fits your stack and start saving.",
+          "visual_hint": "Person analyzing workload charts",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "workload analysis chart",
+          "image": "https://images.pexels.com/photos/7948071/pexels-photo-7948071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1484622878.jpeg?resize=1200,800",
+      "savedAt": "2026-11-10T19:18:43.424Z",
+      "sourceId": "af325a13228f8f12e162a0fd29438606"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "pixel-tag-google-s-30-android-ready-answer-to-appl",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+      "link": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+      "pubDate": "Tue, 10 Nov 2026 18:49:19 +0000",
+      "slides": [
+        "Google's $30 Pixel Tag: AirTag killer or late copy?",
+        "It works with Android's Find My Device network",
+        "But it also tracks iPhones—unlike AirTag on Android",
+        "Android users finally get a native tracker for keys and bags",
+        "Buy one and test cross-platform tracking yourself"
+      ],
+      "thread_text": [
+        "1. AirTag killer or late copy?\n\nGoogle just launched a $30 Pixel Tag that works with Android's Find My Device network. The real question: does it track iPhones too?",
+        "2. Cross-platform tracking\n\nUnlike AirTag, which can't be tracked on Android, Pixel Tag works with both Android and iOS. That's a first for native trackers.",
+        "3. Android users finally\n\nNo more jury-rigging with third-party trackers. Pixel Tag is native, cheap, and built for keys and bags.",
+        "4. The privacy question\n\nCross-platform tracking cuts both ways. Google says it's secure, but you're now findable by both ecosystems.",
+        "5. Test it yourself\n\nBuy one and try tracking across an iPhone and Android. Does it actually work as advertised? Share your results."
+      ],
+      "video_script": [
+        "Google just dropped a thirty-dollar tracker.",
+        "It works with Android's Find My Device network.",
+        "But unlike AirTag, it also tracks iPhones.",
+        "Android users finally get a native tracker.",
+        "Buy one and test cross-platform tracking yourself."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AirTag killer or late copy?\n\nGoogle just launched a $30 Pixel Tag that works with Android's Find My Device network. The real question: does it track iPhones too?",
+            "2. Cross-platform tracking\n\nUnlike AirTag, which can't be tracked on Android, Pixel Tag works with both Android and iOS. That's a first for native trackers.",
+            "3. Android users finally\n\nNo more jury-rigging with third-party trackers. Pixel Tag is native, cheap, and built for keys and bags.",
+            "4. The privacy question\n\nCross-platform tracking cuts both ways. Google says it's secure, but you're now findable by both ecosystems.",
+            "5. Test it yourself\n\nBuy one and try tracking across an iPhone and Android. Does it actually work as advertised? Share your results."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google just dropped a thirty-dollar tracker.",
+            "It works with Android's Find My Device network.",
+            "But unlike AirTag, it also tracks iPhones.",
+            "Android users finally get a native tracker.",
+            "Buy one and test cross-platform tracking yourself."
+          ]
+        },
+        "instagram": {
+          "caption": "$30 for a tracker that works on both Android and iPhone — a first for native devices.\n\nGoogle's Pixel Tag runs on Android's Find My Device network. AirTag can't be tracked on Android; this one crosses over to iOS too. Maybe that's why it costs less than Apple's.\n\nNo more third-party workarounds for keys and bags if you're on Android. 🔑\n\nIf you publish tech content, this cross-platform angle is your hook — demo beats spec sheet. 📱\n\nOne catch: cross-platform means findable by both ecosystems. 🔒\n\nWould you actually trust it with your keys, or does the privacy trade-off stop you?"
+        }
+      },
+      "instagram_caption": "$30 for a tracker that works on both Android and iPhone — a first for native devices.\n\nGoogle's Pixel Tag runs on Android's Find My Device network. AirTag can't be tracked on Android; this one crosses over to iOS too. Maybe that's why it costs less than Apple's.\n\nNo more third-party workarounds for keys and bags if you're on Android. 🔑\n\nIf you publish tech content, this cross-platform angle is your hook — demo beats spec sheet. 📱\n\nOne catch: cross-platform means findable by both ecosystems. 🔒\n\nWould you actually trust it with your keys, or does the privacy trade-off stop you?",
+      "carousel_slides": [
+        {
+          "hook": "Does Google track iPhones too?",
+          "description": "Pixel Tag works on both Android and iOS, unlike AirTag. Cross-platform tracking is a first for native trackers.",
+          "visual_hint": "Pixel Tag on smartphone screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone tracking device"
+        },
+        {
+          "hook": "Android's Find My Device network",
+          "description": "Pixel Tag uses Android's Find My Device network, giving Android users a native tracker for keys and bags.",
+          "visual_hint": "Android phone with map interface",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "android smartphone map",
+          "image": "https://images.pexels.com/photos/6169861/pexels-photo-6169861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AirTag can't do this",
+          "description": "AirTag can't be tracked on Android, but Pixel Tag works with both ecosystems. That's a first for native trackers.",
+          "visual_hint": "iPhone and Android phone side by side",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "iphone android comparison",
+          "image": "https://images.pexels.com/photos/5398928/pexels-photo-5398928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Privacy risk or feature?",
+          "description": "Cross-platform tracking cuts both ways. Google says it's secure, but you're findable by both ecosystems.",
+          "visual_hint": "Hand holding tracker with privacy shield",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding tracker",
+          "image": "https://images.pexels.com/photos/6612230/pexels-photo-6612230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it yourself",
+          "description": "Buy a Pixel Tag and try tracking across iPhone and Android. Does it work as advertised? Share your results.",
+          "visual_hint": "Person testing tracker with two phones",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "person testing gadget",
+          "image": "https://images.pexels.com/photos/7858297/pexels-photo-7858297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Tag_Lifestyle_Keys.png?resize=1166,1200",
+      "savedAt": "2026-11-10T19:18:33.012Z",
+      "sourceId": "0aa80f859e9aca0511f498de04765e33"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "psi-is-trying-to-make-a-business-out-of-ai-driven-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "pubDate": "Tue, 10 Nov 2026 19:03:52 +0000",
+      "slides": [
+        "PSI wants to turn discovery into a business model",
+        "But science rarely fits a product cycle",
+        "Their platform sells discovery-as-a-service to labs",
+        "Few buyers can price an unknown result upfront",
+        "Ask: who actually pays when the science fails?"
+      ],
+      "thread_text": [
+        "1. The real bill for discovery\n\nPSI sells discovery-as-a-service to labs, but when a result is unknown, few buyers can price it upfront. So who covers the cost when the science fails?",
+        "2. Science vs. product cycle\n\nResearch rarely fits a product cycle. PSI's model assumes it can, turning unpredictable discovery into a repeatable business.",
+        "3. Labs buy, but can they price?\n\nLabs are the customers, yet an unknown result has no sticker price. That mismatch is the hidden risk in PSI's platform.",
+        "4. Discovery as a service\n\nPSI's platform sells discovery-as-a-service, but if buyers can't price the unknown, the service may stall before it scales.",
+        "5. Who pays when science fails?\n\nAsk yourself: if you were a lab, would you pay upfront for a result that might never come? That's the question PSI must answer."
+      ],
+      "video_script": [
+        "PSI wants to turn discovery into a business.",
+        "But science rarely fits a product cycle.",
+        "They sell discovery-as-a-service to labs.",
+        "Few buyers can price an unknown result.",
+        "So who pays when the science fails?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The real bill for discovery\n\nPSI sells discovery-as-a-service to labs, but when a result is unknown, few buyers can price it upfront. So who covers the cost when the science fails?",
+            "2. Science vs. product cycle\n\nResearch rarely fits a product cycle. PSI's model assumes it can, turning unpredictable discovery into a repeatable business.",
+            "3. Labs buy, but can they price?\n\nLabs are the customers, yet an unknown result has no sticker price. That mismatch is the hidden risk in PSI's platform.",
+            "4. Discovery as a service\n\nPSI's platform sells discovery-as-a-service, but if buyers can't price the unknown, the service may stall before it scales.",
+            "5. Who pays when science fails?\n\nAsk yourself: if you were a lab, would you pay upfront for a result that might never come? That's the question PSI must answer."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "PSI wants to turn discovery into a business.",
+            "But science rarely fits a product cycle.",
+            "They sell discovery-as-a-service to labs.",
+            "Few buyers can price an unknown result.",
+            "So who pays when the science fails?"
+          ]
+        },
+        "instagram": {
+          "caption": "Labs are being sold \"discovery as a service\" — but an unknown result has no sticker price.\n\nPSI wants to turn scientific discovery into a repeatable business model, selling its platform to labs as a service. 🔬\n\nThe problem: research rarely fits a product cycle, and few buyers can price a result upfront when nobody knows what it will be.\n\nIf you write or publish about science, this is the model to watch — and question. ⚠️\n\nIf you ran a lab, would you pay upfront for a result that might never come? 💭"
+        }
+      },
+      "instagram_caption": "Labs are being sold \"discovery as a service\" — but an unknown result has no sticker price.\n\nPSI wants to turn scientific discovery into a repeatable business model, selling its platform to labs as a service. 🔬\n\nThe problem: research rarely fits a product cycle, and few buyers can price a result upfront when nobody knows what it will be.\n\nIf you write or publish about science, this is the model to watch — and question. ⚠️\n\nIf you ran a lab, would you pay upfront for a result that might never come? 💭",
+      "carousel_slides": [
+        {
+          "hook": "Who pays when science fails?",
+          "description": "PSI sells discovery-as-a-service to labs, but unknown results have no upfront price. Who covers the cost when experiments fail?",
+          "visual_hint": "A scientist looking at failed experiment",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "failed experiment lab"
+        },
+        {
+          "hook": "Science doesn't fit product cycles",
+          "description": "Research rarely follows a product cycle. PSI's model assumes it can turn unpredictable discovery into a repeatable business.",
+          "visual_hint": "A timeline comparing product cycle vs research",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "research timeline chart",
+          "image": "https://images.pexels.com/photos/7948029/pexels-photo-7948029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Labs buy, but can they price?",
+          "description": "Labs are the customers, yet an unknown result has no sticker price. That mismatch is the hidden risk in PSI's platform.",
+          "visual_hint": "A lab buyer looking at a price tag",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "price tag lab",
+          "image": "https://images.pexels.com/photos/5926248/pexels-photo-5926248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Discovery-as-a-service may stall",
+          "description": "PSI's platform sells discovery-as-a-service, but if buyers can't price the unknown, the service may stall before it scales.",
+          "visual_hint": "A service platform with a question mark",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "service platform question",
+          "image": "https://images.pexels.com/photos/10981245/pexels-photo-10981245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Would you pay upfront for unknown?",
+          "description": "If you were a lab, would you pay upfront for a result that might never come? That's the question PSI must answer. Save this post.",
+          "visual_hint": "A lab scientist thinking with a question mark",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "thinking scientist lab",
+          "image": "https://images.pexels.com/photos/8851609/pexels-photo-8851609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-10.00.33-AM.png?w=683",
+      "savedAt": "2026-11-10T19:18:22.632Z",
+      "sourceId": "a032a0b0222a87eb27ab5b5289ff2371"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "disney-and-adobe-are-building-generative-ai-tools-",
       "prompt_version": "1.0.0",
       "status": "published",

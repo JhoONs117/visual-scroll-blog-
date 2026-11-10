@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "reddit-is-turning-user-conversations-into-ai-power",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Reddit is turning user conversations into AI-powered product reviews",
+  "link": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+  "pubDate": "Tue, 10 Nov 2026 15:00:00 +0000",
+  "slides": [
+    "Can Reddit monetize what users never meant to sell?",
+    "Conversations become structured product review data",
+    "But users never consented to this repurposing",
+    "Brands may now cite Reddit threads in pitches",
+    "Check what your old posts reveal about your taste"
+  ],
+  "thread_text": [
+    "1. Your posts become products\n\nReddit threads are being turned into structured review data that brands can license, even though users never agreed to that use.",
+    "2. Data you didn't mean to sell\n\nPosts about products and experiences are repackaged as market research, without explicit consent from the people who wrote them.",
+    "3. Consent missing from the deal\n\nUsers never opted in to having their conversations sold as structured data, raising questions about ownership and control.",
+    "4. Brands quote your threads\n\nCompanies may now cite Reddit discussions in pitches, turning casual opinions into marketing ammunition.",
+    "5. Audit your Reddit footprint\n\nSearch your username for product mentions and see what a brand could infer about your taste. Would you share that with a marketer?"
+  ],
+  "video_script": [
+    "Reddit is turning your posts into product review data.",
+    "Companies can license that data and quote your threads.",
+    "But users never consented to this kind of repurposing.",
+    "Check your old posts to see what they reveal.",
+    "Would you sell your taste profile? Think about it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your posts become products\n\nReddit threads are being turned into structured review data that brands can license, even though users never agreed to that use.",
+        "2. Data you didn't mean to sell\n\nPosts about products and experiences are repackaged as market research, without explicit consent from the people who wrote them.",
+        "3. Consent missing from the deal\n\nUsers never opted in to having their conversations sold as structured data, raising questions about ownership and control.",
+        "4. Brands quote your threads\n\nCompanies may now cite Reddit discussions in pitches, turning casual opinions into marketing ammunition.",
+        "5. Audit your Reddit footprint\n\nSearch your username for product mentions and see what a brand could infer about your taste. Would you share that with a marketer?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Reddit is turning your posts into product review data.",
+        "Companies can license that data and quote your threads.",
+        "But users never consented to this kind of repurposing.",
+        "Check your old posts to see what they reveal.",
+        "Would you sell your taste profile? Think about it."
+      ]
+    },
+    "instagram": {
+      "caption": "Your old comments about a coffee grinder or a bad mattress are being packaged into structured product reviews — and you never agreed to that.\n\nReddit is turning user conversations into review data that brands can license, repackaging casual posts as market research.\n\nUsers never opted in to having their words sold this way, which raises questions about who controls what you wrote.\n\nBrands may now cite Reddit threads in pitches, turning your offhand opinion into marketing material.\n\nSearch your username for product mentions and see what a marketer could infer about your taste 👀 Would you be comfortable with them using it?"
+    }
+  },
+  "instagram_caption": "Your old comments about a coffee grinder or a bad mattress are being packaged into structured product reviews — and you never agreed to that.\n\nReddit is turning user conversations into review data that brands can license, repackaging casual posts as market research.\n\nUsers never opted in to having their words sold this way, which raises questions about who controls what you wrote.\n\nBrands may now cite Reddit threads in pitches, turning your offhand opinion into marketing material.\n\nSearch your username for product mentions and see what a marketer could infer about your taste 👀 Would you be comfortable with them using it?",
+  "carousel_slides": [
+    {
+      "hook": "Your Reddit posts are being sold as data",
+      "description": "Reddit conversations are turned into structured review data for brands, without users ever agreeing to that use.",
+      "visual_hint": "A Reddit post transforming into a barcode",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "barcode scanner"
+    },
+    {
+      "hook": "Casual chats become market research gold",
+      "description": "Product mentions and experiences are repackaged into structured data, fueling brand strategies without explicit consent.",
+      "visual_hint": "Threads flowing into a data funnel",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Did you ever consent to this?",
+      "description": "Users never opted in to having their conversations sold as structured data, raising questions about ownership and control.",
+      "visual_hint": "A missing consent checkbox on screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "checkbox form",
+      "image": "https://images.pexels.com/photos/5926266/pexels-photo-5926266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Brands now cite your threads in pitches",
+      "description": "Companies may quote Reddit discussions in marketing pitches, turning casual opinions into ammunition.",
+      "visual_hint": "A brand pitch slide quoting a Reddit comment",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "business presentation",
+      "image": "https://images.pexels.com/photos/4990545/pexels-photo-4990545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your Reddit footprint now",
+      "description": "Search your username for product mentions and see what a brand could infer about your taste. Would you share that?",
+      "visual_hint": "A magnifying glass over a Reddit profile",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1048288996.jpg?resize=1200,675",
+  "savedAt": "2026-11-10T19:18:53.800Z",
+  "sourceId": "906867629eba750fd25a4051c27f203d"
+}

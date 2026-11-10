@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "pixel-tag-google-s-30-android-ready-answer-to-appl",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+  "link": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+  "pubDate": "Tue, 10 Nov 2026 18:49:19 +0000",
+  "slides": [
+    "Google's $30 Pixel Tag: AirTag killer or late copy?",
+    "It works with Android's Find My Device network",
+    "But it also tracks iPhones—unlike AirTag on Android",
+    "Android users finally get a native tracker for keys and bags",
+    "Buy one and test cross-platform tracking yourself"
+  ],
+  "thread_text": [
+    "1. AirTag killer or late copy?\n\nGoogle just launched a $30 Pixel Tag that works with Android's Find My Device network. The real question: does it track iPhones too?",
+    "2. Cross-platform tracking\n\nUnlike AirTag, which can't be tracked on Android, Pixel Tag works with both Android and iOS. That's a first for native trackers.",
+    "3. Android users finally\n\nNo more jury-rigging with third-party trackers. Pixel Tag is native, cheap, and built for keys and bags.",
+    "4. The privacy question\n\nCross-platform tracking cuts both ways. Google says it's secure, but you're now findable by both ecosystems.",
+    "5. Test it yourself\n\nBuy one and try tracking across an iPhone and Android. Does it actually work as advertised? Share your results."
+  ],
+  "video_script": [
+    "Google just dropped a thirty-dollar tracker.",
+    "It works with Android's Find My Device network.",
+    "But unlike AirTag, it also tracks iPhones.",
+    "Android users finally get a native tracker.",
+    "Buy one and test cross-platform tracking yourself."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AirTag killer or late copy?\n\nGoogle just launched a $30 Pixel Tag that works with Android's Find My Device network. The real question: does it track iPhones too?",
+        "2. Cross-platform tracking\n\nUnlike AirTag, which can't be tracked on Android, Pixel Tag works with both Android and iOS. That's a first for native trackers.",
+        "3. Android users finally\n\nNo more jury-rigging with third-party trackers. Pixel Tag is native, cheap, and built for keys and bags.",
+        "4. The privacy question\n\nCross-platform tracking cuts both ways. Google says it's secure, but you're now findable by both ecosystems.",
+        "5. Test it yourself\n\nBuy one and try tracking across an iPhone and Android. Does it actually work as advertised? Share your results."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google just dropped a thirty-dollar tracker.",
+        "It works with Android's Find My Device network.",
+        "But unlike AirTag, it also tracks iPhones.",
+        "Android users finally get a native tracker.",
+        "Buy one and test cross-platform tracking yourself."
+      ]
+    },
+    "instagram": {
+      "caption": "$30 for a tracker that works on both Android and iPhone — a first for native devices.\n\nGoogle's Pixel Tag runs on Android's Find My Device network. AirTag can't be tracked on Android; this one crosses over to iOS too. Maybe that's why it costs less than Apple's.\n\nNo more third-party workarounds for keys and bags if you're on Android. 🔑\n\nIf you publish tech content, this cross-platform angle is your hook — demo beats spec sheet. 📱\n\nOne catch: cross-platform means findable by both ecosystems. 🔒\n\nWould you actually trust it with your keys, or does the privacy trade-off stop you?"
+    }
+  },
+  "instagram_caption": "$30 for a tracker that works on both Android and iPhone — a first for native devices.\n\nGoogle's Pixel Tag runs on Android's Find My Device network. AirTag can't be tracked on Android; this one crosses over to iOS too. Maybe that's why it costs less than Apple's.\n\nNo more third-party workarounds for keys and bags if you're on Android. 🔑\n\nIf you publish tech content, this cross-platform angle is your hook — demo beats spec sheet. 📱\n\nOne catch: cross-platform means findable by both ecosystems. 🔒\n\nWould you actually trust it with your keys, or does the privacy trade-off stop you?",
+  "carousel_slides": [
+    {
+      "hook": "Does Google track iPhones too?",
+      "description": "Pixel Tag works on both Android and iOS, unlike AirTag. Cross-platform tracking is a first for native trackers.",
+      "visual_hint": "Pixel Tag on smartphone screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone tracking device"
+    },
+    {
+      "hook": "Android's Find My Device network",
+      "description": "Pixel Tag uses Android's Find My Device network, giving Android users a native tracker for keys and bags.",
+      "visual_hint": "Android phone with map interface",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "android smartphone map",
+      "image": "https://images.pexels.com/photos/6169861/pexels-photo-6169861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AirTag can't do this",
+      "description": "AirTag can't be tracked on Android, but Pixel Tag works with both ecosystems. That's a first for native trackers.",
+      "visual_hint": "iPhone and Android phone side by side",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "iphone android comparison",
+      "image": "https://images.pexels.com/photos/5398928/pexels-photo-5398928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Privacy risk or feature?",
+      "description": "Cross-platform tracking cuts both ways. Google says it's secure, but you're findable by both ecosystems.",
+      "visual_hint": "Hand holding tracker with privacy shield",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding tracker",
+      "image": "https://images.pexels.com/photos/6612230/pexels-photo-6612230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it yourself",
+      "description": "Buy a Pixel Tag and try tracking across iPhone and Android. Does it work as advertised? Share your results.",
+      "visual_hint": "Person testing tracker with two phones",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person testing gadget",
+      "image": "https://images.pexels.com/photos/7858297/pexels-photo-7858297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/Tag_Lifestyle_Keys.png?resize=1166,1200",
+  "savedAt": "2026-11-10T19:18:33.012Z",
+  "sourceId": "0aa80f859e9aca0511f498de04765e33"
+}

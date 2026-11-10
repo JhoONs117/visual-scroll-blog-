@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "psi-is-trying-to-make-a-business-out-of-ai-driven-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+  "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+  "pubDate": "Tue, 10 Nov 2026 19:03:52 +0000",
+  "slides": [
+    "PSI wants to turn discovery into a business model",
+    "But science rarely fits a product cycle",
+    "Their platform sells discovery-as-a-service to labs",
+    "Few buyers can price an unknown result upfront",
+    "Ask: who actually pays when the science fails?"
+  ],
+  "thread_text": [
+    "1. The real bill for discovery\n\nPSI sells discovery-as-a-service to labs, but when a result is unknown, few buyers can price it upfront. So who covers the cost when the science fails?",
+    "2. Science vs. product cycle\n\nResearch rarely fits a product cycle. PSI's model assumes it can, turning unpredictable discovery into a repeatable business.",
+    "3. Labs buy, but can they price?\n\nLabs are the customers, yet an unknown result has no sticker price. That mismatch is the hidden risk in PSI's platform.",
+    "4. Discovery as a service\n\nPSI's platform sells discovery-as-a-service, but if buyers can't price the unknown, the service may stall before it scales.",
+    "5. Who pays when science fails?\n\nAsk yourself: if you were a lab, would you pay upfront for a result that might never come? That's the question PSI must answer."
+  ],
+  "video_script": [
+    "PSI wants to turn discovery into a business.",
+    "But science rarely fits a product cycle.",
+    "They sell discovery-as-a-service to labs.",
+    "Few buyers can price an unknown result.",
+    "So who pays when the science fails?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The real bill for discovery\n\nPSI sells discovery-as-a-service to labs, but when a result is unknown, few buyers can price it upfront. So who covers the cost when the science fails?",
+        "2. Science vs. product cycle\n\nResearch rarely fits a product cycle. PSI's model assumes it can, turning unpredictable discovery into a repeatable business.",
+        "3. Labs buy, but can they price?\n\nLabs are the customers, yet an unknown result has no sticker price. That mismatch is the hidden risk in PSI's platform.",
+        "4. Discovery as a service\n\nPSI's platform sells discovery-as-a-service, but if buyers can't price the unknown, the service may stall before it scales.",
+        "5. Who pays when science fails?\n\nAsk yourself: if you were a lab, would you pay upfront for a result that might never come? That's the question PSI must answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "PSI wants to turn discovery into a business.",
+        "But science rarely fits a product cycle.",
+        "They sell discovery-as-a-service to labs.",
+        "Few buyers can price an unknown result.",
+        "So who pays when the science fails?"
+      ]
+    },
+    "instagram": {
+      "caption": "Labs are being sold \"discovery as a service\" — but an unknown result has no sticker price.\n\nPSI wants to turn scientific discovery into a repeatable business model, selling its platform to labs as a service. 🔬\n\nThe problem: research rarely fits a product cycle, and few buyers can price a result upfront when nobody knows what it will be.\n\nIf you write or publish about science, this is the model to watch — and question. ⚠️\n\nIf you ran a lab, would you pay upfront for a result that might never come? 💭"
+    }
+  },
+  "instagram_caption": "Labs are being sold \"discovery as a service\" — but an unknown result has no sticker price.\n\nPSI wants to turn scientific discovery into a repeatable business model, selling its platform to labs as a service. 🔬\n\nThe problem: research rarely fits a product cycle, and few buyers can price a result upfront when nobody knows what it will be.\n\nIf you write or publish about science, this is the model to watch — and question. ⚠️\n\nIf you ran a lab, would you pay upfront for a result that might never come? 💭",
+  "carousel_slides": [
+    {
+      "hook": "Who pays when science fails?",
+      "description": "PSI sells discovery-as-a-service to labs, but unknown results have no upfront price. Who covers the cost when experiments fail?",
+      "visual_hint": "A scientist looking at failed experiment",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "failed experiment lab"
+    },
+    {
+      "hook": "Science doesn't fit product cycles",
+      "description": "Research rarely follows a product cycle. PSI's model assumes it can turn unpredictable discovery into a repeatable business.",
+      "visual_hint": "A timeline comparing product cycle vs research",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "research timeline chart",
+      "image": "https://images.pexels.com/photos/7948029/pexels-photo-7948029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Labs buy, but can they price?",
+      "description": "Labs are the customers, yet an unknown result has no sticker price. That mismatch is the hidden risk in PSI's platform.",
+      "visual_hint": "A lab buyer looking at a price tag",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "price tag lab",
+      "image": "https://images.pexels.com/photos/5926248/pexels-photo-5926248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Discovery-as-a-service may stall",
+      "description": "PSI's platform sells discovery-as-a-service, but if buyers can't price the unknown, the service may stall before it scales.",
+      "visual_hint": "A service platform with a question mark",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "service platform question",
+      "image": "https://images.pexels.com/photos/10981245/pexels-photo-10981245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Would you pay upfront for unknown?",
+      "description": "If you were a lab, would you pay upfront for a result that might never come? That's the question PSI must answer. Save this post.",
+      "visual_hint": "A lab scientist thinking with a question mark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "thinking scientist lab",
+      "image": "https://images.pexels.com/photos/8851609/pexels-photo-8851609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-10.00.33-AM.png?w=683",
+  "savedAt": "2026-11-10T19:18:22.632Z",
+  "sourceId": "a032a0b0222a87eb27ab5b5289ff2371"
+}

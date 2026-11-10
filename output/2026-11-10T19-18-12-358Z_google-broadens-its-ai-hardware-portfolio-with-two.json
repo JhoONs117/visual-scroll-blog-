@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-broadens-its-ai-hardware-portfolio-with-two",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+  "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+  "pubDate": "Tue, 10 Nov 2026 15:54:08 +0000",
+  "slides": [
+    "Google quietly shifts its AI hardware strategy—why now?",
+    "Two chips target training and inference separately.",
+    "One chip is not a TPU and changes the game.",
+    "Your cloud AI costs could drop if you adopt early.",
+    "Audit your workload: which chip fits your stack?"
+  ],
+  "thread_text": [
+    "1. The AI chip shift nobody saw coming\n\nGoogle just split its AI hardware into two chips: one for training, one for inference. The inference chip isn't a TPU. That changes cloud AI economics.",
+    "2. Why split training and inference?\n\nTraining needs raw power. Inference needs efficiency. One chip can't do both well. Google's new split targets each workload separately, cutting waste.",
+    "3. Not a TPU. A game changer.\n\nThe inference chip abandons TPU architecture entirely. That means Google can optimize for latency and cost per query, not just raw throughput.",
+    "4. Your cloud bill could shrink.\n\nEarly adopters of the inference chip may see lower costs per AI request. If you run large-scale inference, the savings compound fast.",
+    "5. Audit your workload now.\n\nWhich chip fits your stack? Map your training vs inference usage this week. If you haven't checked, start there."
+  ],
+  "video_script": [
+    "Google just split its AI chips. Here's why it matters.",
+    "One chip trains, the other runs your AI. Different jobs.",
+    "The inference chip isn't a TPU. That's a big deal.",
+    "If you run lots of AI queries, your costs might drop.",
+    "Check your workload today. Which chip fits you?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The AI chip shift nobody saw coming\n\nGoogle just split its AI hardware into two chips: one for training, one for inference. The inference chip isn't a TPU. That changes cloud AI economics.",
+        "2. Why split training and inference?\n\nTraining needs raw power. Inference needs efficiency. One chip can't do both well. Google's new split targets each workload separately, cutting waste.",
+        "3. Not a TPU. A game changer.\n\nThe inference chip abandons TPU architecture entirely. That means Google can optimize for latency and cost per query, not just raw throughput.",
+        "4. Your cloud bill could shrink.\n\nEarly adopters of the inference chip may see lower costs per AI request. If you run large-scale inference, the savings compound fast.",
+        "5. Audit your workload now.\n\nWhich chip fits your stack? Map your training vs inference usage this week. If you haven't checked, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google just split its AI chips. Here's why it matters.",
+        "One chip trains, the other runs your AI. Different jobs.",
+        "The inference chip isn't a TPU. That's a big deal.",
+        "If you run lots of AI queries, your costs might drop.",
+        "Check your workload today. Which chip fits you?"
+      ]
+    },
+    "instagram": {
+      "caption": "Google just split its AI chips into two: one for training, one for inference.\n\nThe inference chip isn't a TPU at all. It's built to cut latency and cost per query, not chase raw throughput.\n\nThat means training and inference each get hardware tuned to their job, instead of one chip doing both badly. 🧠\n\nIf you run large-scale inference, your cloud bill per AI request could shrink — and savings compound fast.\n\nAudit your stack this week: how much of your usage is training vs inference? Which chip actually fits? ⚙️\n\nIf you haven't mapped that split yet, start there. 📊"
+    }
+  },
+  "instagram_caption": "Google just split its AI chips into two: one for training, one for inference.\n\nThe inference chip isn't a TPU at all. It's built to cut latency and cost per query, not chase raw throughput.\n\nThat means training and inference each get hardware tuned to their job, instead of one chip doing both badly. 🧠\n\nIf you run large-scale inference, your cloud bill per AI request could shrink — and savings compound fast.\n\nAudit your stack this week: how much of your usage is training vs inference? Which chip actually fits? ⚙️\n\nIf you haven't mapped that split yet, start there. 📊",
+  "carousel_slides": [
+    {
+      "hook": "The inference chip nobody saw coming",
+      "description": "Google's new inference chip abandons TPU architecture, optimizing for latency and cost per query instead of raw throughput.",
+      "visual_hint": "Close-up of a glowing microchip",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "microchip close-up"
+    },
+    {
+      "hook": "Why split training and inference?",
+      "description": "Training needs raw power; inference needs efficiency. One chip can't do both well, so Google split them to cut waste.",
+      "visual_hint": "Two chips side by side",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer chip",
+      "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Not a TPU. A game changer.",
+      "description": "The inference chip leaves TPU behind, letting Google optimize for cost per AI request rather than just throughput.",
+      "visual_hint": "TPU chip compared to new chip",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "TPU chip",
+      "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your cloud AI costs could drop",
+      "description": "Early adopters of the inference chip may see lower costs per AI request, and savings compound fast at scale.",
+      "visual_hint": "Hand holding a price tag",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "price tag hand",
+      "image": "https://images.pexels.com/photos/5935795/pexels-photo-5935795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your workload for chip fit",
+      "description": "Map your training vs inference usage this week to see which chip fits your stack and start saving.",
+      "visual_hint": "Person analyzing workload charts",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "workload analysis chart",
+      "image": "https://images.pexels.com/photos/7948071/pexels-photo-7948071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1484622878.jpeg?resize=1200,800",
+  "savedAt": "2026-11-10T19:18:43.424Z",
+  "sourceId": "af325a13228f8f12e162a0fd29438606"
+}
