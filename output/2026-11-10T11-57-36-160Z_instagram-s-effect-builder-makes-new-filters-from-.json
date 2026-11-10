@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "instagram-s-effect-builder-makes-new-filters-from-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+  "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+  "pubDate": "2026-11-09T18:07:23.000Z",
+  "slides": [
+    "Instagram now builds filters from prompts — but what breaks?",
+    "Effect Builder turns plain text into AR effects",
+    "It skips coding entirely, yet limits creators' control",
+    "Brands can ship custom filters in minutes, not weeks",
+    "Try one filter today: does speed beat craft?"
+  ],
+  "thread_text": [
+    "1. No-Code AR Is Here\n\nInstagram's new Effect Builder turns plain text into AR filters, skipping coding entirely. But early testers report limited control over the final look.",
+    "2. Fast Filters, Fewer Choices\n\nBrands can now ship custom filters in minutes instead of weeks. Yet creators say the tool's simplicity sacrifices creative nuance and precise adjustments.",
+    "3. The Trade-Off of Speed\n\nWithout coding, you gain speed but lose fine-tuning. Effect Builder's presets are rigid, and customisation options are sparse, raising questions about quality.",
+    "4. Will Speed Beat Craft?\n\nAgencies love the turnaround, but independent creators worry that rushed filters will flood feeds with generic effects. The pressure to produce fast may overshadow artistry.",
+    "5. Test It Yourself Today\n\nTry building one filter with Effect Builder and compare it to a hand-coded version. Does the time saved justify the creative compromise? Share your take."
+  ],
+  "video_script": [
+    "Instagram now builds AR filters from text prompts.",
+    "Effect Builder skips coding but limits creative control.",
+    "Brands can ship custom filters in minutes, not weeks.",
+    "Will speed beat craft? Creators are divided.",
+    "Try one filter today and judge for yourself."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. No-Code AR Is Here\n\nInstagram's new Effect Builder turns plain text into AR filters, skipping coding entirely. But early testers report limited control over the final look.",
+        "2. Fast Filters, Fewer Choices\n\nBrands can now ship custom filters in minutes instead of weeks. Yet creators say the tool's simplicity sacrifices creative nuance and precise adjustments.",
+        "3. The Trade-Off of Speed\n\nWithout coding, you gain speed but lose fine-tuning. Effect Builder's presets are rigid, and customisation options are sparse, raising questions about quality.",
+        "4. Will Speed Beat Craft?\n\nAgencies love the turnaround, but independent creators worry that rushed filters will flood feeds with generic effects. The pressure to produce fast may overshadow artistry.",
+        "5. Test It Yourself Today\n\nTry building one filter with Effect Builder and compare it to a hand-coded version. Does the time saved justify the creative compromise? Share your take."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Instagram now builds AR filters from text prompts.",
+        "Effect Builder skips coding but limits creative control.",
+        "Brands can ship custom filters in minutes, not weeks.",
+        "Will speed beat craft? Creators are divided.",
+        "Try one filter today and judge for yourself."
+      ]
+    },
+    "instagram": {
+      "caption": "Type a sentence, get an AR filter. Instagram's Effect Builder now turns plain text into effects without a single line of code. 🎨\n\nBrands can ship custom filters in minutes instead of weeks.\n\nBut early testers say control over the final look is limited — rigid presets, few fine-tuning options.\n\nIf you create content, your filters may soon look like everyone else's unless you hand-code them. ⚙️\n\nTry building one filter today and compare it to a hand-coded version — does the speed justify the compromise? 🤔"
+    }
+  },
+  "instagram_caption": "Type a sentence, get an AR filter. Instagram's Effect Builder now turns plain text into effects without a single line of code. 🎨\n\nBrands can ship custom filters in minutes instead of weeks.\n\nBut early testers say control over the final look is limited — rigid presets, few fine-tuning options.\n\nIf you create content, your filters may soon look like everyone else's unless you hand-code them. ⚙️\n\nTry building one filter today and compare it to a hand-coded version — does the speed justify the compromise? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Speed vs. Craft: What Breaks?",
+      "description": "Effect Builder skips coding for speed, but early testers report limited control over the final AR look.",
+      "visual_hint": "Split screen: code vs. text prompt",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "code screen"
+    },
+    {
+      "hook": "Text to AR in Seconds",
+      "description": "Plain text becomes an AR effect instantly, yet creators say simplicity sacrifices creative nuance and precise adjustments.",
+      "visual_hint": "Text bubble transforming into 3D filter",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone AR",
+      "image": "https://images.pexels.com/photos/1309725/pexels-photo-1309725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No Code, Less Control",
+      "description": "Presets are rigid and customization sparse without coding, raising questions about whether speed undermines quality.",
+      "visual_hint": "Slider bars with limited options grayed out",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "control panel",
+      "image": "https://images.pexels.com/photos/39255983/pexels-photo-39255983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Brands Ship Filters in Minutes",
+      "description": "Agencies love the rapid turnaround, but independent creators worry rushed filters will flood feeds with generic effects.",
+      "visual_hint": "Hand holding phone with filter gallery",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save This: Test the Trade-Off",
+      "description": "Try building one filter with Effect Builder and compare it to a hand-coded version. Does speed justify the compromise?",
+      "visual_hint": "Phone screen with build button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "mobile phone screen",
+      "image": "https://images.pexels.com/photos/6611918/pexels-photo-6611918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-effect-builder-launch-2.jpeg?quality=90&amp;strip=all&amp;crop=0%2C10.193943950862%2C100%2C79.612112098277&amp;w=1200",
+  "savedAt": "2026-11-10T11:58:26.682Z",
+  "sourceId": "9c473fd9de958c8dad5f50cc1f423cd9"
+}

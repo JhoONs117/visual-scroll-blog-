@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-expands-instagram-s-ai-age-guessing-tech-glob",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta expands Instagram’s AI age-guessing tech globally",
+  "link": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
+  "pubDate": "Mon, 09 Nov 2026 15:32:27 +0000",
+  "slides": [
+    "Meta now guesses your age on Instagram worldwide — who's safe?",
+    "It scans profile signals, not just your birthday",
+    "Adults get flagged as teens more often than expected",
+    "Under-18 accounts get locked into stricter private defaults",
+    "Check your account's age label — it may already be wrong"
+  ],
+  "thread_text": [
+    "1. Who's Actually Safe?\n\nMeta now guesses your age on Instagram worldwide. The system scans profile signals, not just your birthday — so your account may already be labeled.",
+    "2. It Scans Your Profile\n\nLikes, follows, comments, even the accounts you interact with feed the guess. No birthdate needed — the algorithm builds a shadow age.",
+    "3. Adults Flagged As Teens\n\nFalse positives hit grown users more than expected. That means unexpected privacy changes — and a label you never chose.",
+    "4. Teens Get Locked Down\n\nUnder-18 accounts are forced into stricter private defaults. Fewer recommendations, limited messaging — protections you can't opt out of.",
+    "5. Check Your Age Label\n\nOpen Instagram settings and find the age label. If it's wrong, request a review now — before the defaults reshape your account."
+  ],
+  "video_script": [
+    "Meta now guesses your age worldwide on Instagram.",
+    "It scans profile signals, not just your birthday.",
+    "Adults get flagged as teens more often than expected.",
+    "Under-18 accounts get locked into stricter private defaults.",
+    "Check your account's age label — it may already be wrong."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who's Actually Safe?\n\nMeta now guesses your age on Instagram worldwide. The system scans profile signals, not just your birthday — so your account may already be labeled.",
+        "2. It Scans Your Profile\n\nLikes, follows, comments, even the accounts you interact with feed the guess. No birthdate needed — the algorithm builds a shadow age.",
+        "3. Adults Flagged As Teens\n\nFalse positives hit grown users more than expected. That means unexpected privacy changes — and a label you never chose.",
+        "4. Teens Get Locked Down\n\nUnder-18 accounts are forced into stricter private defaults. Fewer recommendations, limited messaging — protections you can't opt out of.",
+        "5. Check Your Age Label\n\nOpen Instagram settings and find the age label. If it's wrong, request a review now — before the defaults reshape your account."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta now guesses your age worldwide on Instagram.",
+        "It scans profile signals, not just your birthday.",
+        "Adults get flagged as teens more often than expected.",
+        "Under-18 accounts get locked into stricter private defaults.",
+        "Check your account's age label — it may already be wrong."
+      ]
+    },
+    "instagram": {
+      "caption": "Instagram may already have guessed your age — and it won't ask your birthday to do it.\n\nMeta rolled the system out worldwide: it reads likes, follows and comments to build a \"shadow age\" for your profile. 🧐\n\nAdults get flagged as teens more often than you'd expect, and under-18 accounts are pushed into stricter private defaults you can't opt out of. 🔒\n\nIf you post for a living, a wrong label can quietly cut your reach and messaging limits overnight.\n\nOpen Instagram settings, find your age label, and request a review if it's off. Have you checked yours yet? 👀"
+    }
+  },
+  "instagram_caption": "Instagram may already have guessed your age — and it won't ask your birthday to do it.\n\nMeta rolled the system out worldwide: it reads likes, follows and comments to build a \"shadow age\" for your profile. 🧐\n\nAdults get flagged as teens more often than you'd expect, and under-18 accounts are pushed into stricter private defaults you can't opt out of. 🔒\n\nIf you post for a living, a wrong label can quietly cut your reach and messaging limits overnight.\n\nOpen Instagram settings, find your age label, and request a review if it's off. Have you checked yours yet? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Your age label may already be wrong.",
+      "description": "Meta now guesses age worldwide using profile signals, not just birthday, so adults are flagged as teens more often than expected.",
+      "visual_hint": "Face scan overlay on phone screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "facial recognition"
+    },
+    {
+      "hook": "It scans profile signals, not birthday.",
+      "description": "Likes, follows, and comments feed the algorithm to build a shadow age. No birthdate needed.",
+      "visual_hint": "Data streams connecting profile icons",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "social media icons",
+      "image": "https://images.pexels.com/photos/11681097/pexels-photo-11681097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Adults flagged as teens more often.",
+      "description": "False positives hit grown users unexpectedly, triggering privacy changes and an unchosen label.",
+      "visual_hint": "Adult looking confused at phone",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "confused person phone",
+      "image": "https://images.pexels.com/photos/9461243/pexels-photo-9461243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Teens locked into stricter private defaults.",
+      "description": "Under-18 accounts face forced private settings, fewer recommendations, limited messaging—protections you can't opt out of.",
+      "visual_hint": "Lock icon over teen profile",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "lock smartphone",
+      "image": "https://images.pexels.com/photos/11857283/pexels-photo-11857283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your age label now!",
+      "description": "Open Instagram settings to find your age label. If it's wrong, request a review before defaults reshape your account.",
+      "visual_hint": "Settings menu with age label highlighted",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "instagram settings",
+      "image": "https://images.pexels.com/photos/15226548/pexels-photo-15226548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/instagram-header.jpg?resize=1200,800",
+  "savedAt": "2026-11-10T11:58:01.728Z",
+  "sourceId": "1e7504f07a34d40d460eb4c812be7c73"
+}

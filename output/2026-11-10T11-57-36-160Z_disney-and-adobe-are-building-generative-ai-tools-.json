@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "disney-and-adobe-are-building-generative-ai-tools-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Disney and Adobe are building generative AI tools together",
+  "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+  "pubDate": "2026-11-09T15:38:56.000Z",
+  "slides": [
+    "Disney teams with Adobe on AI—what could go wrong?",
+    "The partnership aims to streamline content creation workflows.",
+    "But animators fear AI could replace their jobs.",
+    "Studios using these tools may cut production costs, but",
+    "Will creative control shift from artists to algorithms?"
+  ],
+  "thread_text": [
+    "1. Disney+Adobe: AI or Bust?\n\nDisney just partnered with Adobe to integrate AI into its animation pipeline, aiming to speed up content creation. But animators are already worried about what this means for their jobs.",
+    "2. Faster Workflows, Fewer Jobs?\n\nThe partnership promises streamlined workflows, but critics fear it's a backdoor to replacing human animators with algorithms. Studios could cut costs by automating tasks once done by skilled artists.",
+    "3. Creative Control at Risk\n\nAs AI takes over more production tasks, the big question is: who controls the creative direction? Artists worry their unique style and vision will be overridden by algorithmic efficiency.",
+    "4. Cost Cuts vs. Quality\n\nStudios may save money, but will the push for cheaper production sacrifice the artistry that makes Disney magic? Animators argue that AI can't replicate human creativity and emotional storytelling.",
+    "5. Your Take: AI in Animation?\n\nWould you support AI tools in animation if they speed up production, or do you think they risk killing the craft? Share your thoughts—this affects every creative industry."
+  ],
+  "video_script": [
+    "Disney and Adobe team up on AI for animation.",
+    "The goal is faster content creation workflows.",
+    "But animators fear AI could replace their jobs.",
+    "Studios might cut costs, but what about creative control?",
+    "Will algorithms dictate art? Share your thoughts."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Disney+Adobe: AI or Bust?\n\nDisney just partnered with Adobe to integrate AI into its animation pipeline, aiming to speed up content creation. But animators are already worried about what this means for their jobs.",
+        "2. Faster Workflows, Fewer Jobs?\n\nThe partnership promises streamlined workflows, but critics fear it's a backdoor to replacing human animators with algorithms. Studios could cut costs by automating tasks once done by skilled artists.",
+        "3. Creative Control at Risk\n\nAs AI takes over more production tasks, the big question is: who controls the creative direction? Artists worry their unique style and vision will be overridden by algorithmic efficiency.",
+        "4. Cost Cuts vs. Quality\n\nStudios may save money, but will the push for cheaper production sacrifice the artistry that makes Disney magic? Animators argue that AI can't replicate human creativity and emotional storytelling.",
+        "5. Your Take: AI in Animation?\n\nWould you support AI tools in animation if they speed up production, or do you think they risk killing the craft? Share your thoughts—this affects every creative industry."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Disney and Adobe team up on AI for animation.",
+        "The goal is faster content creation workflows.",
+        "But animators fear AI could replace their jobs.",
+        "Studios might cut costs, but what about creative control?",
+        "Will algorithms dictate art? Share your thoughts."
+      ]
+    },
+    "instagram": {
+      "caption": "Disney animators just watched their studio partner with Adobe on generative AI for the animation pipeline.\n\nThe two companies are building tools meant to speed up content creation workflows.\n\nAnimators fear those streamlined workflows could automate tasks once done by skilled artists, not just assist them.\n\nStudios using these tools may cut production costs, but the trade-off could be creative control shifting from artists to algorithms.\n\nIf you work in animation or content creation, the tools you're asked to use next year may be built to replace parts of your process, not support it.\n\nWould you accept an AI tool that speeds up your work if it also learns to do your job? 🎨🤖⚠️💬"
+    }
+  },
+  "instagram_caption": "Disney animators just watched their studio partner with Adobe on generative AI for the animation pipeline.\n\nThe two companies are building tools meant to speed up content creation workflows.\n\nAnimators fear those streamlined workflows could automate tasks once done by skilled artists, not just assist them.\n\nStudios using these tools may cut production costs, but the trade-off could be creative control shifting from artists to algorithms.\n\nIf you work in animation or content creation, the tools you're asked to use next year may be built to replace parts of your process, not support it.\n\nWould you accept an AI tool that speeds up your work if it also learns to do your job? 🎨🤖⚠️💬",
+  "carousel_slides": [
+    {
+      "hook": "Will AI replace Disney animators?",
+      "description": "Disney and Adobe partner to integrate AI into animation, streamlining workflows but raising fears of job losses for skilled artists.",
+      "visual_hint": "Split screen: animator vs algorithm",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "animation studio"
+    },
+    {
+      "hook": "Faster workflows, but at what cost?",
+      "description": "The partnership promises streamlined content creation, yet critics see a backdoor to replacing human animators with cost-cutting automation.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Assembly line with robotic arms",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who controls the creative direction?",
+      "description": "As AI takes over production tasks, artists worry their unique style and vision will be overridden by algorithmic efficiency.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Artist's hand vs digital overlay",
+      "image_query": "digital art tablet",
+      "image": "https://images.pexels.com/photos/7014943/pexels-photo-7014943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cost cuts may sacrifice Disney magic",
+      "description": "Studios may save money, but animators argue AI can't replicate human creativity and emotional storytelling that defines Disney.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hand drawing vs robot hand",
+      "image_query": "hand drawing sketch",
+      "image": "https://images.pexels.com/photos/11135907/pexels-photo-11135907.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this if you care about creativity",
+      "description": "Share your thoughts: should AI tools speed up animation or risk killing the craft? Comment below and visit link in bio.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Comment bubble and save icon",
+      "image_query": "social media icons",
+      "image": "https://images.pexels.com/photos/11681097/pexels-photo-11681097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Disney-Adobe-AI-partnership.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-10T11:58:41.088Z",
+  "sourceId": "f9c4955a3661c1024904e0823d19df23"
+}

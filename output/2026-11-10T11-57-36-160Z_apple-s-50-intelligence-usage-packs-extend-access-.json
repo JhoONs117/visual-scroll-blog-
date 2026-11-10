@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-s-50-intelligence-usage-packs-extend-access-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+  "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+  "pubDate": "2026-11-09T19:09:58.000Z",
+  "slides": [
+    "Why is Apple charging $50 for AI features?",
+    "Usage packs extend access beyond free limits",
+    "Most users may never hit the cap",
+    "Check your usage before buying a pack",
+    "Audit your AI spend before renewing"
+  ],
+  "thread_text": [
+    "1. $50 for AI? Really?\n\nApple is charging $50 for AI features that most users won't hit the free limit on. That's a premium for peace of mind, not usage.",
+    "2. Usage packs extend access\n\nIf you do hit the cap, you can buy packs that extend access beyond the free limits. But here's the twist: most users never get there.",
+    "3. Most never hit the cap\n\nApple's data shows that typical usage stays well below the free threshold. So why pay $50 upfront? Only heavy users see the benefit.",
+    "4. Check before you buy\n\nBefore buying a pack, check your actual usage. You might be paying for headroom you'll never use. A quick audit could save you $50.",
+    "5. Audit your spend today\n\nOpen your AI subscription settings and compare your usage against the free limit. If you're under, cancel the pack. Do it now."
+  ],
+  "video_script": [
+    "Apple charges fifty dollars for AI features.",
+    "Most users never hit the free limit.",
+    "Usage packs extend access beyond free limits.",
+    "Check your usage before buying a pack.",
+    "Audit your AI spend before renewing."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $50 for AI? Really?\n\nApple is charging $50 for AI features that most users won't hit the free limit on. That's a premium for peace of mind, not usage.",
+        "2. Usage packs extend access\n\nIf you do hit the cap, you can buy packs that extend access beyond the free limits. But here's the twist: most users never get there.",
+        "3. Most never hit the cap\n\nApple's data shows that typical usage stays well below the free threshold. So why pay $50 upfront? Only heavy users see the benefit.",
+        "4. Check before you buy\n\nBefore buying a pack, check your actual usage. You might be paying for headroom you'll never use. A quick audit could save you $50.",
+        "5. Audit your spend today\n\nOpen your AI subscription settings and compare your usage against the free limit. If you're under, cancel the pack. Do it now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple charges fifty dollars for AI features.",
+        "Most users never hit the free limit.",
+        "Usage packs extend access beyond free limits.",
+        "Check your usage before buying a pack.",
+        "Audit your AI spend before renewing."
+      ]
+    },
+    "instagram": {
+      "caption": "$50 buys you AI access you probably won't use.\n\nApple now sells Intelligence Usage Packs that extend some AI features beyond the free limits. 💸\n\nBut most people never hit that free cap in the first place, so the pack is headroom, not necessity.\n\nIf you create or publish content, check your actual usage before paying for extra capacity you won't touch. 📊\n\nOpen your AI subscription settings and compare usage against the free limit before you renew. If you're under, skip the pack.\n\nHave you ever checked how close you get to the free limit? 🤔"
+    }
+  },
+  "instagram_caption": "$50 buys you AI access you probably won't use.\n\nApple now sells Intelligence Usage Packs that extend some AI features beyond the free limits. 💸\n\nBut most people never hit that free cap in the first place, so the pack is headroom, not necessity.\n\nIf you create or publish content, check your actual usage before paying for extra capacity you won't touch. 📊\n\nOpen your AI subscription settings and compare usage against the free limit before you renew. If you're under, skip the pack.\n\nHave you ever checked how close you get to the free limit? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Is $50 for AI a waste?",
+      "description": "Most users never hit Apple's free AI limit, so the $50 pack pays for unused headroom.",
+      "visual_hint": "Price tag on AI interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "price tag"
+    },
+    {
+      "hook": "Usage packs extend access",
+      "description": "If you exceed free limits, packs extend access, but typical usage stays well below the threshold.",
+      "visual_hint": "Progress bar showing usage level",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "progress bar",
+      "image": "https://images.pexels.com/photos/7947661/pexels-photo-7947661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Most never hit the cap",
+      "description": "Apple's data shows typical usage stays below free threshold, so only heavy users benefit from packs.",
+      "visual_hint": "Graph with low usage line",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "line graph",
+      "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check usage before buying",
+      "description": "Before buying a pack, check your actual usage. You might pay for headroom you'll never use.",
+      "visual_hint": "Hand holding phone with settings",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone settings",
+      "image": "https://images.pexels.com/photos/13888309/pexels-photo-13888309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: audit your AI spend",
+      "description": "Open AI subscription settings, compare usage to free limit, and cancel the pack if you're under.",
+      "visual_hint": "Subscription settings screen with cancel button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "subscription screen",
+      "image": "https://images.pexels.com/photos/5998822/pexels-photo-5998822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.742998834307%2C100%2C78.514002331385&amp;w=1200",
+  "savedAt": "2026-11-10T11:58:15.346Z",
+  "sourceId": "5223c7a831600083d115593094b7565a"
+}

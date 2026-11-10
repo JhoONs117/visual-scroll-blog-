@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "disney-and-adobe-are-building-generative-ai-tools-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Disney and Adobe are building generative AI tools together",
+      "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "pubDate": "2026-11-09T15:38:56.000Z",
+      "slides": [
+        "Disney teams with Adobe on AI—what could go wrong?",
+        "The partnership aims to streamline content creation workflows.",
+        "But animators fear AI could replace their jobs.",
+        "Studios using these tools may cut production costs, but",
+        "Will creative control shift from artists to algorithms?"
+      ],
+      "thread_text": [
+        "1. Disney+Adobe: AI or Bust?\n\nDisney just partnered with Adobe to integrate AI into its animation pipeline, aiming to speed up content creation. But animators are already worried about what this means for their jobs.",
+        "2. Faster Workflows, Fewer Jobs?\n\nThe partnership promises streamlined workflows, but critics fear it's a backdoor to replacing human animators with algorithms. Studios could cut costs by automating tasks once done by skilled artists.",
+        "3. Creative Control at Risk\n\nAs AI takes over more production tasks, the big question is: who controls the creative direction? Artists worry their unique style and vision will be overridden by algorithmic efficiency.",
+        "4. Cost Cuts vs. Quality\n\nStudios may save money, but will the push for cheaper production sacrifice the artistry that makes Disney magic? Animators argue that AI can't replicate human creativity and emotional storytelling.",
+        "5. Your Take: AI in Animation?\n\nWould you support AI tools in animation if they speed up production, or do you think they risk killing the craft? Share your thoughts—this affects every creative industry."
+      ],
+      "video_script": [
+        "Disney and Adobe team up on AI for animation.",
+        "The goal is faster content creation workflows.",
+        "But animators fear AI could replace their jobs.",
+        "Studios might cut costs, but what about creative control?",
+        "Will algorithms dictate art? Share your thoughts."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Disney+Adobe: AI or Bust?\n\nDisney just partnered with Adobe to integrate AI into its animation pipeline, aiming to speed up content creation. But animators are already worried about what this means for their jobs.",
+            "2. Faster Workflows, Fewer Jobs?\n\nThe partnership promises streamlined workflows, but critics fear it's a backdoor to replacing human animators with algorithms. Studios could cut costs by automating tasks once done by skilled artists.",
+            "3. Creative Control at Risk\n\nAs AI takes over more production tasks, the big question is: who controls the creative direction? Artists worry their unique style and vision will be overridden by algorithmic efficiency.",
+            "4. Cost Cuts vs. Quality\n\nStudios may save money, but will the push for cheaper production sacrifice the artistry that makes Disney magic? Animators argue that AI can't replicate human creativity and emotional storytelling.",
+            "5. Your Take: AI in Animation?\n\nWould you support AI tools in animation if they speed up production, or do you think they risk killing the craft? Share your thoughts—this affects every creative industry."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Disney and Adobe team up on AI for animation.",
+            "The goal is faster content creation workflows.",
+            "But animators fear AI could replace their jobs.",
+            "Studios might cut costs, but what about creative control?",
+            "Will algorithms dictate art? Share your thoughts."
+          ]
+        },
+        "instagram": {
+          "caption": "Disney animators just watched their studio partner with Adobe on generative AI for the animation pipeline.\n\nThe two companies are building tools meant to speed up content creation workflows.\n\nAnimators fear those streamlined workflows could automate tasks once done by skilled artists, not just assist them.\n\nStudios using these tools may cut production costs, but the trade-off could be creative control shifting from artists to algorithms.\n\nIf you work in animation or content creation, the tools you're asked to use next year may be built to replace parts of your process, not support it.\n\nWould you accept an AI tool that speeds up your work if it also learns to do your job? 🎨🤖⚠️💬"
+        }
+      },
+      "instagram_caption": "Disney animators just watched their studio partner with Adobe on generative AI for the animation pipeline.\n\nThe two companies are building tools meant to speed up content creation workflows.\n\nAnimators fear those streamlined workflows could automate tasks once done by skilled artists, not just assist them.\n\nStudios using these tools may cut production costs, but the trade-off could be creative control shifting from artists to algorithms.\n\nIf you work in animation or content creation, the tools you're asked to use next year may be built to replace parts of your process, not support it.\n\nWould you accept an AI tool that speeds up your work if it also learns to do your job? 🎨🤖⚠️💬",
+      "carousel_slides": [
+        {
+          "hook": "Will AI replace Disney animators?",
+          "description": "Disney and Adobe partner to integrate AI into animation, streamlining workflows but raising fears of job losses for skilled artists.",
+          "visual_hint": "Split screen: animator vs algorithm",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "animation studio"
+        },
+        {
+          "hook": "Faster workflows, but at what cost?",
+          "description": "The partnership promises streamlined content creation, yet critics see a backdoor to replacing human animators with cost-cutting automation.",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "visual_hint": "Assembly line with robotic arms",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who controls the creative direction?",
+          "description": "As AI takes over production tasks, artists worry their unique style and vision will be overridden by algorithmic efficiency.",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "visual_hint": "Artist's hand vs digital overlay",
+          "image_query": "digital art tablet",
+          "image": "https://images.pexels.com/photos/7014943/pexels-photo-7014943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cost cuts may sacrifice Disney magic",
+          "description": "Studios may save money, but animators argue AI can't replicate human creativity and emotional storytelling that defines Disney.",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "visual_hint": "Hand drawing vs robot hand",
+          "image_query": "hand drawing sketch",
+          "image": "https://images.pexels.com/photos/11135907/pexels-photo-11135907.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this if you care about creativity",
+          "description": "Share your thoughts: should AI tools speed up animation or risk killing the craft? Comment below and visit link in bio.",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "visual_hint": "Comment bubble and save icon",
+          "image_query": "social media icons",
+          "image": "https://images.pexels.com/photos/11681097/pexels-photo-11681097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Disney-Adobe-AI-partnership.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-11-10T11:58:41.088Z",
+      "sourceId": "f9c4955a3661c1024904e0823d19df23"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "instagram-s-effect-builder-makes-new-filters-from-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+      "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "pubDate": "2026-11-09T18:07:23.000Z",
+      "slides": [
+        "Instagram now builds filters from prompts — but what breaks?",
+        "Effect Builder turns plain text into AR effects",
+        "It skips coding entirely, yet limits creators' control",
+        "Brands can ship custom filters in minutes, not weeks",
+        "Try one filter today: does speed beat craft?"
+      ],
+      "thread_text": [
+        "1. No-Code AR Is Here\n\nInstagram's new Effect Builder turns plain text into AR filters, skipping coding entirely. But early testers report limited control over the final look.",
+        "2. Fast Filters, Fewer Choices\n\nBrands can now ship custom filters in minutes instead of weeks. Yet creators say the tool's simplicity sacrifices creative nuance and precise adjustments.",
+        "3. The Trade-Off of Speed\n\nWithout coding, you gain speed but lose fine-tuning. Effect Builder's presets are rigid, and customisation options are sparse, raising questions about quality.",
+        "4. Will Speed Beat Craft?\n\nAgencies love the turnaround, but independent creators worry that rushed filters will flood feeds with generic effects. The pressure to produce fast may overshadow artistry.",
+        "5. Test It Yourself Today\n\nTry building one filter with Effect Builder and compare it to a hand-coded version. Does the time saved justify the creative compromise? Share your take."
+      ],
+      "video_script": [
+        "Instagram now builds AR filters from text prompts.",
+        "Effect Builder skips coding but limits creative control.",
+        "Brands can ship custom filters in minutes, not weeks.",
+        "Will speed beat craft? Creators are divided.",
+        "Try one filter today and judge for yourself."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. No-Code AR Is Here\n\nInstagram's new Effect Builder turns plain text into AR filters, skipping coding entirely. But early testers report limited control over the final look.",
+            "2. Fast Filters, Fewer Choices\n\nBrands can now ship custom filters in minutes instead of weeks. Yet creators say the tool's simplicity sacrifices creative nuance and precise adjustments.",
+            "3. The Trade-Off of Speed\n\nWithout coding, you gain speed but lose fine-tuning. Effect Builder's presets are rigid, and customisation options are sparse, raising questions about quality.",
+            "4. Will Speed Beat Craft?\n\nAgencies love the turnaround, but independent creators worry that rushed filters will flood feeds with generic effects. The pressure to produce fast may overshadow artistry.",
+            "5. Test It Yourself Today\n\nTry building one filter with Effect Builder and compare it to a hand-coded version. Does the time saved justify the creative compromise? Share your take."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Instagram now builds AR filters from text prompts.",
+            "Effect Builder skips coding but limits creative control.",
+            "Brands can ship custom filters in minutes, not weeks.",
+            "Will speed beat craft? Creators are divided.",
+            "Try one filter today and judge for yourself."
+          ]
+        },
+        "instagram": {
+          "caption": "Type a sentence, get an AR filter. Instagram's Effect Builder now turns plain text into effects without a single line of code. 🎨\n\nBrands can ship custom filters in minutes instead of weeks.\n\nBut early testers say control over the final look is limited — rigid presets, few fine-tuning options.\n\nIf you create content, your filters may soon look like everyone else's unless you hand-code them. ⚙️\n\nTry building one filter today and compare it to a hand-coded version — does the speed justify the compromise? 🤔"
+        }
+      },
+      "instagram_caption": "Type a sentence, get an AR filter. Instagram's Effect Builder now turns plain text into effects without a single line of code. 🎨\n\nBrands can ship custom filters in minutes instead of weeks.\n\nBut early testers say control over the final look is limited — rigid presets, few fine-tuning options.\n\nIf you create content, your filters may soon look like everyone else's unless you hand-code them. ⚙️\n\nTry building one filter today and compare it to a hand-coded version — does the speed justify the compromise? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Speed vs. Craft: What Breaks?",
+          "description": "Effect Builder skips coding for speed, but early testers report limited control over the final AR look.",
+          "visual_hint": "Split screen: code vs. text prompt",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "code screen"
+        },
+        {
+          "hook": "Text to AR in Seconds",
+          "description": "Plain text becomes an AR effect instantly, yet creators say simplicity sacrifices creative nuance and precise adjustments.",
+          "visual_hint": "Text bubble transforming into 3D filter",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartphone AR",
+          "image": "https://images.pexels.com/photos/1309725/pexels-photo-1309725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No Code, Less Control",
+          "description": "Presets are rigid and customization sparse without coding, raising questions about whether speed undermines quality.",
+          "visual_hint": "Slider bars with limited options grayed out",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "control panel",
+          "image": "https://images.pexels.com/photos/39255983/pexels-photo-39255983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Brands Ship Filters in Minutes",
+          "description": "Agencies love the rapid turnaround, but independent creators worry rushed filters will flood feeds with generic effects.",
+          "visual_hint": "Hand holding phone with filter gallery",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save This: Test the Trade-Off",
+          "description": "Try building one filter with Effect Builder and compare it to a hand-coded version. Does speed justify the compromise?",
+          "visual_hint": "Phone screen with build button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "mobile phone screen",
+          "image": "https://images.pexels.com/photos/6611918/pexels-photo-6611918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-effect-builder-launch-2.jpeg?quality=90&amp;strip=all&amp;crop=0%2C10.193943950862%2C100%2C79.612112098277&amp;w=1200",
+      "savedAt": "2026-11-10T11:58:26.682Z",
+      "sourceId": "9c473fd9de958c8dad5f50cc1f423cd9"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "apple-s-50-intelligence-usage-packs-extend-access-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+      "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "pubDate": "2026-11-09T19:09:58.000Z",
+      "slides": [
+        "Why is Apple charging $50 for AI features?",
+        "Usage packs extend access beyond free limits",
+        "Most users may never hit the cap",
+        "Check your usage before buying a pack",
+        "Audit your AI spend before renewing"
+      ],
+      "thread_text": [
+        "1. $50 for AI? Really?\n\nApple is charging $50 for AI features that most users won't hit the free limit on. That's a premium for peace of mind, not usage.",
+        "2. Usage packs extend access\n\nIf you do hit the cap, you can buy packs that extend access beyond the free limits. But here's the twist: most users never get there.",
+        "3. Most never hit the cap\n\nApple's data shows that typical usage stays well below the free threshold. So why pay $50 upfront? Only heavy users see the benefit.",
+        "4. Check before you buy\n\nBefore buying a pack, check your actual usage. You might be paying for headroom you'll never use. A quick audit could save you $50.",
+        "5. Audit your spend today\n\nOpen your AI subscription settings and compare your usage against the free limit. If you're under, cancel the pack. Do it now."
+      ],
+      "video_script": [
+        "Apple charges fifty dollars for AI features.",
+        "Most users never hit the free limit.",
+        "Usage packs extend access beyond free limits.",
+        "Check your usage before buying a pack.",
+        "Audit your AI spend before renewing."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $50 for AI? Really?\n\nApple is charging $50 for AI features that most users won't hit the free limit on. That's a premium for peace of mind, not usage.",
+            "2. Usage packs extend access\n\nIf you do hit the cap, you can buy packs that extend access beyond the free limits. But here's the twist: most users never get there.",
+            "3. Most never hit the cap\n\nApple's data shows that typical usage stays well below the free threshold. So why pay $50 upfront? Only heavy users see the benefit.",
+            "4. Check before you buy\n\nBefore buying a pack, check your actual usage. You might be paying for headroom you'll never use. A quick audit could save you $50.",
+            "5. Audit your spend today\n\nOpen your AI subscription settings and compare your usage against the free limit. If you're under, cancel the pack. Do it now."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Apple charges fifty dollars for AI features.",
+            "Most users never hit the free limit.",
+            "Usage packs extend access beyond free limits.",
+            "Check your usage before buying a pack.",
+            "Audit your AI spend before renewing."
+          ]
+        },
+        "instagram": {
+          "caption": "$50 buys you AI access you probably won't use.\n\nApple now sells Intelligence Usage Packs that extend some AI features beyond the free limits. 💸\n\nBut most people never hit that free cap in the first place, so the pack is headroom, not necessity.\n\nIf you create or publish content, check your actual usage before paying for extra capacity you won't touch. 📊\n\nOpen your AI subscription settings and compare usage against the free limit before you renew. If you're under, skip the pack.\n\nHave you ever checked how close you get to the free limit? 🤔"
+        }
+      },
+      "instagram_caption": "$50 buys you AI access you probably won't use.\n\nApple now sells Intelligence Usage Packs that extend some AI features beyond the free limits. 💸\n\nBut most people never hit that free cap in the first place, so the pack is headroom, not necessity.\n\nIf you create or publish content, check your actual usage before paying for extra capacity you won't touch. 📊\n\nOpen your AI subscription settings and compare usage against the free limit before you renew. If you're under, skip the pack.\n\nHave you ever checked how close you get to the free limit? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Is $50 for AI a waste?",
+          "description": "Most users never hit Apple's free AI limit, so the $50 pack pays for unused headroom.",
+          "visual_hint": "Price tag on AI interface",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "price tag"
+        },
+        {
+          "hook": "Usage packs extend access",
+          "description": "If you exceed free limits, packs extend access, but typical usage stays well below the threshold.",
+          "visual_hint": "Progress bar showing usage level",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "progress bar",
+          "image": "https://images.pexels.com/photos/7947661/pexels-photo-7947661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Most never hit the cap",
+          "description": "Apple's data shows typical usage stays below free threshold, so only heavy users benefit from packs.",
+          "visual_hint": "Graph with low usage line",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "line graph",
+          "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check usage before buying",
+          "description": "Before buying a pack, check your actual usage. You might pay for headroom you'll never use.",
+          "visual_hint": "Hand holding phone with settings",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone settings",
+          "image": "https://images.pexels.com/photos/13888309/pexels-photo-13888309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: audit your AI spend",
+          "description": "Open AI subscription settings, compare usage to free limit, and cancel the pack if you're under.",
+          "visual_hint": "Subscription settings screen with cancel button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "subscription screen",
+          "image": "https://images.pexels.com/photos/5998822/pexels-photo-5998822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.742998834307%2C100%2C78.514002331385&amp;w=1200",
+      "savedAt": "2026-11-10T11:58:15.346Z",
+      "sourceId": "5223c7a831600083d115593094b7565a"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "meta-expands-instagram-s-ai-age-guessing-tech-glob",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta expands Instagram’s AI age-guessing tech globally",
+      "link": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
+      "pubDate": "Mon, 09 Nov 2026 15:32:27 +0000",
+      "slides": [
+        "Meta now guesses your age on Instagram worldwide — who's safe?",
+        "It scans profile signals, not just your birthday",
+        "Adults get flagged as teens more often than expected",
+        "Under-18 accounts get locked into stricter private defaults",
+        "Check your account's age label — it may already be wrong"
+      ],
+      "thread_text": [
+        "1. Who's Actually Safe?\n\nMeta now guesses your age on Instagram worldwide. The system scans profile signals, not just your birthday — so your account may already be labeled.",
+        "2. It Scans Your Profile\n\nLikes, follows, comments, even the accounts you interact with feed the guess. No birthdate needed — the algorithm builds a shadow age.",
+        "3. Adults Flagged As Teens\n\nFalse positives hit grown users more than expected. That means unexpected privacy changes — and a label you never chose.",
+        "4. Teens Get Locked Down\n\nUnder-18 accounts are forced into stricter private defaults. Fewer recommendations, limited messaging — protections you can't opt out of.",
+        "5. Check Your Age Label\n\nOpen Instagram settings and find the age label. If it's wrong, request a review now — before the defaults reshape your account."
+      ],
+      "video_script": [
+        "Meta now guesses your age worldwide on Instagram.",
+        "It scans profile signals, not just your birthday.",
+        "Adults get flagged as teens more often than expected.",
+        "Under-18 accounts get locked into stricter private defaults.",
+        "Check your account's age label — it may already be wrong."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who's Actually Safe?\n\nMeta now guesses your age on Instagram worldwide. The system scans profile signals, not just your birthday — so your account may already be labeled.",
+            "2. It Scans Your Profile\n\nLikes, follows, comments, even the accounts you interact with feed the guess. No birthdate needed — the algorithm builds a shadow age.",
+            "3. Adults Flagged As Teens\n\nFalse positives hit grown users more than expected. That means unexpected privacy changes — and a label you never chose.",
+            "4. Teens Get Locked Down\n\nUnder-18 accounts are forced into stricter private defaults. Fewer recommendations, limited messaging — protections you can't opt out of.",
+            "5. Check Your Age Label\n\nOpen Instagram settings and find the age label. If it's wrong, request a review now — before the defaults reshape your account."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta now guesses your age worldwide on Instagram.",
+            "It scans profile signals, not just your birthday.",
+            "Adults get flagged as teens more often than expected.",
+            "Under-18 accounts get locked into stricter private defaults.",
+            "Check your account's age label — it may already be wrong."
+          ]
+        },
+        "instagram": {
+          "caption": "Instagram may already have guessed your age — and it won't ask your birthday to do it.\n\nMeta rolled the system out worldwide: it reads likes, follows and comments to build a \"shadow age\" for your profile. 🧐\n\nAdults get flagged as teens more often than you'd expect, and under-18 accounts are pushed into stricter private defaults you can't opt out of. 🔒\n\nIf you post for a living, a wrong label can quietly cut your reach and messaging limits overnight.\n\nOpen Instagram settings, find your age label, and request a review if it's off. Have you checked yours yet? 👀"
+        }
+      },
+      "instagram_caption": "Instagram may already have guessed your age — and it won't ask your birthday to do it.\n\nMeta rolled the system out worldwide: it reads likes, follows and comments to build a \"shadow age\" for your profile. 🧐\n\nAdults get flagged as teens more often than you'd expect, and under-18 accounts are pushed into stricter private defaults you can't opt out of. 🔒\n\nIf you post for a living, a wrong label can quietly cut your reach and messaging limits overnight.\n\nOpen Instagram settings, find your age label, and request a review if it's off. Have you checked yours yet? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Your age label may already be wrong.",
+          "description": "Meta now guesses age worldwide using profile signals, not just birthday, so adults are flagged as teens more often than expected.",
+          "visual_hint": "Face scan overlay on phone screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "facial recognition"
+        },
+        {
+          "hook": "It scans profile signals, not birthday.",
+          "description": "Likes, follows, and comments feed the algorithm to build a shadow age. No birthdate needed.",
+          "visual_hint": "Data streams connecting profile icons",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "social media icons",
+          "image": "https://images.pexels.com/photos/11681097/pexels-photo-11681097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Adults flagged as teens more often.",
+          "description": "False positives hit grown users unexpectedly, triggering privacy changes and an unchosen label.",
+          "visual_hint": "Adult looking confused at phone",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "confused person phone",
+          "image": "https://images.pexels.com/photos/9461243/pexels-photo-9461243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Teens locked into stricter private defaults.",
+          "description": "Under-18 accounts face forced private settings, fewer recommendations, limited messaging—protections you can't opt out of.",
+          "visual_hint": "Lock icon over teen profile",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "lock smartphone",
+          "image": "https://images.pexels.com/photos/11857283/pexels-photo-11857283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your age label now!",
+          "description": "Open Instagram settings to find your age label. If it's wrong, request a review before defaults reshape your account.",
+          "visual_hint": "Settings menu with age label highlighted",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "instagram settings",
+          "image": "https://images.pexels.com/photos/15226548/pexels-photo-15226548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/instagram-header.jpg?resize=1200,800",
+      "savedAt": "2026-11-10T11:58:01.728Z",
+      "sourceId": "1e7504f07a34d40d460eb4c812be7c73"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "anthropic-launches-new-claude-fable-and-mythos-5-2",
       "prompt_version": "1.0.0",
       "status": "published",
