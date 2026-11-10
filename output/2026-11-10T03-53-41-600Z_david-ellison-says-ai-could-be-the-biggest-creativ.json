@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "david-ellison-says-ai-could-be-the-biggest-creativ",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+  "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+  "pubDate": "2026-11-10T00:28:49.000Z",
+  "slides": [
+    "David Ellison bets AI is creativity's biggest unlock — but for whom?",
+    "Skydance's chief frames AI as a tool, not a replacement",
+    "The catch: access to these tools may concentrate power",
+    "Creators who master AI workflows gain leverage fast",
+    "Test one AI tool on your next project this week"
+  ],
+  "thread_text": [
+    "1. Who Gets the Unlock?\n\nDavid Ellison says AI is creativity's biggest unlock — but Skydance's chief frames it as a tool, not a replacement. The real question is who gets access.",
+    "2. Tool vs. Replacement\n\nEllison insists AI won't replace creators, just augment them. Yet history shows tools that concentrate power tend to reshape entire industries.",
+    "3. Access Is the Bottleneck\n\nThe catch: if only a few can afford cutting-edge AI, creativity's unlock becomes a gated community. Power concentrates fast when tools are scarce.",
+    "4. Workflow Advantage\n\nCreators who master AI workflows gain leverage quickly — not by waiting for permission, but by shipping faster and experimenting. Early adopters set the rules.",
+    "5. Test One Tool Now\n\nPick one AI tool and use it on your next project this week. If you haven't tried it, that's your starting line."
+  ],
+  "video_script": [
+    "David Ellison bets AI is creativity's biggest unlock.",
+    "But access might concentrate power in a few hands.",
+    "Creators who master AI workflows gain leverage fast.",
+    "The tool is here — but not everyone can afford it.",
+    "Test one AI tool on your next project this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who Gets the Unlock?\n\nDavid Ellison says AI is creativity's biggest unlock — but Skydance's chief frames it as a tool, not a replacement. The real question is who gets access.",
+        "2. Tool vs. Replacement\n\nEllison insists AI won't replace creators, just augment them. Yet history shows tools that concentrate power tend to reshape entire industries.",
+        "3. Access Is the Bottleneck\n\nThe catch: if only a few can afford cutting-edge AI, creativity's unlock becomes a gated community. Power concentrates fast when tools are scarce.",
+        "4. Workflow Advantage\n\nCreators who master AI workflows gain leverage quickly — not by waiting for permission, but by shipping faster and experimenting. Early adopters set the rules.",
+        "5. Test One Tool Now\n\nPick one AI tool and use it on your next project this week. If you haven't tried it, that's your starting line."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "David Ellison bets AI is creativity's biggest unlock.",
+        "But access might concentrate power in a few hands.",
+        "Creators who master AI workflows gain leverage fast.",
+        "The tool is here — but not everyone can afford it.",
+        "Test one AI tool on your next project this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Skydance's chief says AI won't replace creators, just augment them. 🎬\n\nDavid Ellison calls it the \"biggest creative unlock in modern history\" — a tool, not a substitute for the people using it.\n\nBut the catch is access: if cutting-edge AI stays expensive, the unlock becomes a gated community and power concentrates fast. 🔒\n\nFor anyone who creates, the divide won't be talent — it'll be who masters these workflows first. Early adopters ship faster and set the rules. ⚡\n\nPick one AI tool and use it on your next project this week. 🛠️ If you haven't tried it yet, that's your starting line.\n\nSo — which tool are you testing first? 👀"
+    }
+  },
+  "instagram_caption": "Skydance's chief says AI won't replace creators, just augment them. 🎬\n\nDavid Ellison calls it the \"biggest creative unlock in modern history\" — a tool, not a substitute for the people using it.\n\nBut the catch is access: if cutting-edge AI stays expensive, the unlock becomes a gated community and power concentrates fast. 🔒\n\nFor anyone who creates, the divide won't be talent — it'll be who masters these workflows first. Early adopters ship faster and set the rules. ⚡\n\nPick one AI tool and use it on your next project this week. 🛠️ If you haven't tried it yet, that's your starting line.\n\nSo — which tool are you testing first? 👀",
+  "carousel_slides": [
+    {
+      "hook": "AI creativity: unlock or gate?",
+      "description": "David Ellison calls AI creativity's biggest unlock, but access may be limited to those who can afford it.",
+      "visual_hint": "Split screen: open gate vs locked door",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "gate lock"
+    },
+    {
+      "hook": "Tool, not replacement, insists Ellison",
+      "description": "Skydance's chief frames AI as an augmenting tool, yet history shows such tools reshape industries.",
+      "visual_hint": "Hands holding tools, one glowing",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "hand tools",
+      "image": "https://images.pexels.com/photos/31501005/pexels-photo-31501005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Access: the real bottleneck",
+      "description": "If only a few can afford cutting-edge AI, creativity's unlock becomes a gated community, concentrating power fast.",
+      "visual_hint": "Locked gate with golden key",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "locked gate",
+      "image": "https://images.pexels.com/photos/11543858/pexels-photo-11543858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Master AI workflows, gain leverage fast",
+      "description": "Creators who master AI workflows gain leverage quickly by shipping faster and experimenting, not waiting for permission.",
+      "visual_hint": "Person typing on laptop with AI interface",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "laptop typing",
+      "image": "https://images.pexels.com/photos/30612694/pexels-photo-30612694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one AI tool this week",
+      "description": "Pick one AI tool and use it on your next project. If you haven't tried it, that's your starting line.",
+      "visual_hint": "Person holding AI tool with 'start' button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "start button",
+      "image": "https://images.pexels.com/photos/24201390/pexels-photo-24201390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2274329497.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.740836125969%2C100%2C78.518327748063&amp;w=1200",
+  "savedAt": "2026-11-10T03:54:15.985Z",
+  "sourceId": "5a616de1114129603880ef6ffdce4355"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-hardware-startup-nominal-triples-valuation-to-3",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+  "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+  "pubDate": "Mon, 09 Nov 2026 19:21:46 +0000",
+  "slides": [
+    "Nominal hits $3B, but what's the real driver?",
+    "Its test tools are now essential for AI chipmakers.",
+    "Yet the company has only 40 employees and no sales team.",
+    "Your hardware validation costs could drop by 30% next quarter.",
+    "Ask your chip supplier if they use Nominal yet."
+  ],
+  "thread_text": [
+    "1. The $3B illusion\n\nNominal just hit a $3B valuation with 40 employees and zero sales team. That math doesn't work — unless you understand what's really driving it.",
+    "2. The hidden dependency\n\nEvery major AI chipmaker now relies on Nominal's test tools. Without them, hardware validation slows to a crawl — and nobody's talking about it.",
+    "3. The 30% cut\n\nYour hardware validation costs could drop by 30% next quarter. That's not a forecast — it's what happens when you stop wasting time on manual testing.",
+    "4. The 40-person army\n\nNo sales team. No army of reps. Just 40 people building tools so essential that chipmakers can't ship without them. That's the real moat.",
+    "5. The question you should ask\n\nAsk your chip supplier if they use Nominal yet. If they hesitate, you've found your answer — and your next risk."
+  ],
+  "video_script": [
+    "Nominal just hit three billion dollars. Here's why.",
+    "Chipmakers depend on their test tools. Essential, not optional.",
+    "Forty employees. No sales team. That's the whole company.",
+    "Your validation costs could drop thirty percent next quarter.",
+    "Ask your chip supplier: do you use Nominal yet?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $3B illusion\n\nNominal just hit a $3B valuation with 40 employees and zero sales team. That math doesn't work — unless you understand what's really driving it.",
+        "2. The hidden dependency\n\nEvery major AI chipmaker now relies on Nominal's test tools. Without them, hardware validation slows to a crawl — and nobody's talking about it.",
+        "3. The 30% cut\n\nYour hardware validation costs could drop by 30% next quarter. That's not a forecast — it's what happens when you stop wasting time on manual testing.",
+        "4. The 40-person army\n\nNo sales team. No army of reps. Just 40 people building tools so essential that chipmakers can't ship without them. That's the real moat.",
+        "5. The question you should ask\n\nAsk your chip supplier if they use Nominal yet. If they hesitate, you've found your answer — and your next risk."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Nominal just hit three billion dollars. Here's why.",
+        "Chipmakers depend on their test tools. Essential, not optional.",
+        "Forty employees. No sales team. That's the whole company.",
+        "Your validation costs could drop thirty percent next quarter.",
+        "Ask your chip supplier: do you use Nominal yet?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your hardware validation costs could drop by 30% next quarter.\n\nNominal just tripled its valuation to $3B in 8 months — with only 40 employees and no sales team. 🧠\n\nIts test tools are now essential for AI chipmakers: without them, hardware validation slows to a crawl.\n\nThat's the real moat — not headcount, but dependency.\n\nIf you build or publish around AI hardware, this quietly changes your cost assumptions and your supply chain risk. 🔍\n\nAsk your chip supplier if they use Nominal yet. If they hesitate, you've found your answer. ⚡"
+    }
+  },
+  "instagram_caption": "Your hardware validation costs could drop by 30% next quarter.\n\nNominal just tripled its valuation to $3B in 8 months — with only 40 employees and no sales team. 🧠\n\nIts test tools are now essential for AI chipmakers: without them, hardware validation slows to a crawl.\n\nThat's the real moat — not headcount, but dependency.\n\nIf you build or publish around AI hardware, this quietly changes your cost assumptions and your supply chain risk. 🔍\n\nAsk your chip supplier if they use Nominal yet. If they hesitate, you've found your answer. ⚡",
+  "carousel_slides": [
+    {
+      "hook": "40 employees. $3B valuation. How?",
+      "description": "Nominal's test tools are now essential for AI chipmakers, driving a valuation triple in just 8 months.",
+      "visual_hint": "Small team in high-tech lab",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "startup office"
+    },
+    {
+      "hook": "Why chipmakers can't ship without them",
+      "description": "Every major AI chipmaker relies on Nominal's validation tools; without them, hardware testing slows to a crawl.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Engineer testing circuit board",
+      "image_query": "circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No sales team. Still indispensable.",
+      "description": "With only 40 employees, Nominal built tools so critical that chipmakers depend on them for validation.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Close-up of microchip in hand",
+      "image_query": "microchip",
+      "image": "https://images.pexels.com/photos/8108717/pexels-photo-8108717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cut validation costs by 30%",
+      "description": "Your hardware validation costs could drop by 30% next quarter by automating manual testing with Nominal's tools.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hand adjusting testing equipment",
+      "image_query": "lab equipment",
+      "image": "https://images.pexels.com/photos/8940470/pexels-photo-8940470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: ask your supplier now",
+      "description": "Ask your chip supplier if they use Nominal yet. If they hesitate, you've found your next risk.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Business professional on phone",
+      "image_query": "business meeting",
+      "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/Nominal-CEO-Cameron-McCord.jpg?resize=1200,661",
+  "savedAt": "2026-11-10T03:53:51.429Z",
+  "sourceId": "55a7f5024e8896dc2d19b1c58c42c49d"
+}

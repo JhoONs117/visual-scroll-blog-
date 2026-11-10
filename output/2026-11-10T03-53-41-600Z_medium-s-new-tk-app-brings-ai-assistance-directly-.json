@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "medium-s-new-tk-app-brings-ai-assistance-directly-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+  "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+  "pubDate": "Mon, 09 Nov 2026 16:12:28 +0000",
+  "slides": [
+    "What if your writing app starts rewriting you?",
+    "Medium launches TK, an AI assistant inside the editor",
+    "It edits drafts, but may rewrite your voice entirely",
+    "Writers must now check every AI suggestion line by line",
+    "Next draft: let TK edit one paragraph, compare voices"
+  ],
+  "thread_text": [
+    "1. Your editor just got opinions\n\nMedium's new AI assistant TK doesn't just suggest commas — it rewrites drafts inside the editor. That means your voice is now a negotiation.",
+    "2. The rewrite gap\n\nTK edits for flow, but flow isn't voice. It can smooth out quirks that made your writing yours, and you won't notice until the piece sounds like everyone else's.",
+    "3. Line-by-line tax\n\nEvery AI suggestion now costs you a read. What used to be a final pass is becoming a full editorial review of a machine's choices.",
+    "4. The comparison test\n\nLet TK edit one paragraph, then read it against your original. The gap you hear is the part of your voice you'd be trading away.",
+    "5. Test it this week\n\nWrite your next draft without TK, then let it edit one section. If you can't tell which version is yours, that's your answer."
+  ],
+  "video_script": [
+    "Your writing app just started rewriting you.",
+    "Medium launched TK, an AI editor inside the draft.",
+    "It smooths your voice into something more generic.",
+    "You now check every suggestion line by line.",
+    "Let TK edit one paragraph — compare the voices."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your editor just got opinions\n\nMedium's new AI assistant TK doesn't just suggest commas — it rewrites drafts inside the editor. That means your voice is now a negotiation.",
+        "2. The rewrite gap\n\nTK edits for flow, but flow isn't voice. It can smooth out quirks that made your writing yours, and you won't notice until the piece sounds like everyone else's.",
+        "3. Line-by-line tax\n\nEvery AI suggestion now costs you a read. What used to be a final pass is becoming a full editorial review of a machine's choices.",
+        "4. The comparison test\n\nLet TK edit one paragraph, then read it against your original. The gap you hear is the part of your voice you'd be trading away.",
+        "5. Test it this week\n\nWrite your next draft without TK, then let it edit one section. If you can't tell which version is yours, that's your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your writing app just started rewriting you.",
+        "Medium launched TK, an AI editor inside the draft.",
+        "It smooths your voice into something more generic.",
+        "You now check every suggestion line by line.",
+        "Let TK edit one paragraph — compare the voices."
+      ]
+    },
+    "instagram": {
+      "caption": "The app you write in can now rewrite your draft for you, sentence by sentence, right inside the editor.\n\nMedium launched TK, an AI assistant that edits your drafts directly in the editor, adjusting flow and phrasing as you write. 🖊️\n\nThe catch: editing for flow isn't the same as preserving voice. TK can smooth away the quirks that make your writing yours, and you won't notice until the piece sounds like everyone else's. 😬\n\nSo every suggestion now costs you a line-by-line read, and your final pass becomes a full review of a machine's choices.\n\nLet TK edit one paragraph of your next draft, then read it against your original. The gap you hear is what you'd be trading away. What do you hear? 👀"
+    }
+  },
+  "instagram_caption": "The app you write in can now rewrite your draft for you, sentence by sentence, right inside the editor.\n\nMedium launched TK, an AI assistant that edits your drafts directly in the editor, adjusting flow and phrasing as you write. 🖊️\n\nThe catch: editing for flow isn't the same as preserving voice. TK can smooth away the quirks that make your writing yours, and you won't notice until the piece sounds like everyone else's. 😬\n\nSo every suggestion now costs you a line-by-line read, and your final pass becomes a full review of a machine's choices.\n\nLet TK edit one paragraph of your next draft, then read it against your original. The gap you hear is what you'd be trading away. What do you hear? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Is AI rewriting your voice?",
+      "description": "Medium's TK edits drafts inside the editor, smoothing quirks that made your writing yours until it sounds like everyone else's.",
+      "visual_hint": "AI cursor rewriting a paragraph",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "laptop screen text"
+    },
+    {
+      "hook": "Medium's TK edits alongside you",
+      "description": "The new AI assistant suggests flow fixes, not just commas, turning your draft into a negotiation between you and the machine.",
+      "visual_hint": "Editor interface with AI sidebar",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "computer keyboard closeup",
+      "image": "https://images.pexels.com/photos/28993049/pexels-photo-28993049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Flow is not voice",
+      "description": "TK edits for smoothness, but smoothness erases the quirks that made your writing distinct—and you won't notice until it's gone.",
+      "visual_hint": "Two texts side by side comparison",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "text document comparison",
+      "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Every suggestion costs a read",
+      "description": "What was a final pass is now a full editorial review of a machine's choices, line by line, suggestion by suggestion.",
+      "visual_hint": "Hand scrolling through highlighted text",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "person reading document",
+      "image": "https://images.pexels.com/photos/7821547/pexels-photo-7821547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test TK on one paragraph",
+      "description": "Write your next draft without TK, then let it edit one section. If you can't tell which version is yours, that's your answer.",
+      "visual_hint": "Split screen original vs edited",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "writing notebook pen",
+      "image": "https://images.pexels.com/photos/7657397/pexels-photo-7657397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/7983364/pexels-photo-7983364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-11-10T03:54:02.907Z",
+  "sourceId": "9ed094811c690553f61707f8b2d8a8ec"
+}

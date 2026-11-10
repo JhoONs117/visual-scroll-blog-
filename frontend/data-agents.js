@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "anthropic-launches-new-claude-fable-and-mythos-5-2",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "pubDate": "2026-11-09T19:00:00.000Z",
+      "slides": [
+        "What if Claude now writes books you actually finish?",
+        "Anthropic splits its models into Fable and Mythos lines",
+        "Fable targets prose while Mythos handles deep reasoning",
+        "Writers can draft full chapters in a single prompt",
+        "Test one chapter today and judge the voice yourself"
+      ],
+      "thread_text": [
+        "5. A book you finish\n\nAnthropic's Claude now generates full chapters in one prompt, but the real test is whether the voice holds up over 300 pages.",
+        "6. Two model lines\n\nAnthropic split Claude into Fable for prose and Mythos for deep reasoning. Writers get a dedicated fiction engine, analysts get a logic machine.",
+        "7. Prose vs. reasoning\n\nFable optimizes for narrative flow and style; Mythos prioritizes step-by-step logic. Same family, different brains for different tasks.",
+        "8. Drafting speed\n\nWriters can now sketch a complete chapter from a single prompt. The bottleneck shifts from writing to editing and voice-checking.",
+        "9. Test the voice\n\nPick one chapter you've already written. Run it through Fable and compare the voice. Does it sound like you, or like a machine?"
+      ],
+      "video_script": [
+        "Claude now writes books you might actually finish.",
+        "Anthropic split it into Fable for prose, Mythos for reasoning.",
+        "Fable targets narrative flow, Mythos handles deep logic.",
+        "Writers can draft full chapters in a single prompt.",
+        "Test one chapter today and judge the voice yourself."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "5. A book you finish\n\nAnthropic's Claude now generates full chapters in one prompt, but the real test is whether the voice holds up over 300 pages.",
+            "6. Two model lines\n\nAnthropic split Claude into Fable for prose and Mythos for deep reasoning. Writers get a dedicated fiction engine, analysts get a logic machine.",
+            "7. Prose vs. reasoning\n\nFable optimizes for narrative flow and style; Mythos prioritizes step-by-step logic. Same family, different brains for different tasks.",
+            "8. Drafting speed\n\nWriters can now sketch a complete chapter from a single prompt. The bottleneck shifts from writing to editing and voice-checking.",
+            "9. Test the voice\n\nPick one chapter you've already written. Run it through Fable and compare the voice. Does it sound like you, or like a machine?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Claude now writes books you might actually finish.",
+            "Anthropic split it into Fable for prose, Mythos for reasoning.",
+            "Fable targets narrative flow, Mythos handles deep logic.",
+            "Writers can draft full chapters in a single prompt.",
+            "Test one chapter today and judge the voice yourself."
+          ]
+        },
+        "instagram": {
+          "caption": "Claude can now draft an entire book chapter from one prompt.\n\nAnthropic split its models into two lines: Fable for prose and narrative flow, Mythos for deep step-by-step reasoning. ✍️\n\nSame family, different brains — writers get a fiction engine, analysts get a logic machine.\n\nThe bottleneck shifts from writing to editing and checking whether the voice holds up over 300 pages.\n\nTake a chapter you already wrote, run it through Fable, and compare. 🧐 Does it still sound like you?\n\nWould you publish a chapter a machine drafted? 👇"
+        }
+      },
+      "instagram_caption": "Claude can now draft an entire book chapter from one prompt.\n\nAnthropic split its models into two lines: Fable for prose and narrative flow, Mythos for deep step-by-step reasoning. ✍️\n\nSame family, different brains — writers get a fiction engine, analysts get a logic machine.\n\nThe bottleneck shifts from writing to editing and checking whether the voice holds up over 300 pages.\n\nTake a chapter you already wrote, run it through Fable, and compare. 🧐 Does it still sound like you?\n\nWould you publish a chapter a machine drafted? 👇",
+      "carousel_slides": [
+        {
+          "hook": "Will you actually finish this book?",
+          "description": "Claude generates full chapters in one prompt. The real test is whether the voice holds over 300 pages.",
+          "visual_hint": "Open book with turning pages",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "open book"
+        },
+        {
+          "hook": "Two model lines, one family",
+          "description": "Anthropic splits Claude into Fable for prose and Mythos for reasoning, giving writers and analysts dedicated engines.",
+          "visual_hint": "Split screen: quill and gears",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "split screen",
+          "image": "https://images.pexels.com/photos/39492753/pexels-photo-39492753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prose vs. reasoning: different brains",
+          "description": "Fable optimizes narrative flow and style; Mythos prioritizes step-by-step logic. Same family, different strengths.",
+          "visual_hint": "Brain with two hemispheres",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "human brain",
+          "image": "https://images.pexels.com/photos/5723875/pexels-photo-5723875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Draft a chapter in one prompt",
+          "description": "Writers can sketch a complete chapter from a single prompt. The bottleneck shifts from writing to editing and voice-checking.",
+          "visual_hint": "Hand typing on laptop",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "typing laptop",
+          "image": "https://images.pexels.com/photos/30612694/pexels-photo-30612694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test the voice today",
+          "description": "Pick one chapter you've already written. Run it through Fable and compare: does it sound like you?",
+          "visual_hint": "Compare two text documents",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "text comparison",
+          "image": "https://images.pexels.com/photos/38728545/pexels-photo-38728545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-11-10T03:54:24.758Z",
+      "sourceId": "c301a0197fe30514d3142e634d9cb5d0"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "david-ellison-says-ai-could-be-the-biggest-creativ",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "pubDate": "2026-11-10T00:28:49.000Z",
+      "slides": [
+        "David Ellison bets AI is creativity's biggest unlock — but for whom?",
+        "Skydance's chief frames AI as a tool, not a replacement",
+        "The catch: access to these tools may concentrate power",
+        "Creators who master AI workflows gain leverage fast",
+        "Test one AI tool on your next project this week"
+      ],
+      "thread_text": [
+        "1. Who Gets the Unlock?\n\nDavid Ellison says AI is creativity's biggest unlock — but Skydance's chief frames it as a tool, not a replacement. The real question is who gets access.",
+        "2. Tool vs. Replacement\n\nEllison insists AI won't replace creators, just augment them. Yet history shows tools that concentrate power tend to reshape entire industries.",
+        "3. Access Is the Bottleneck\n\nThe catch: if only a few can afford cutting-edge AI, creativity's unlock becomes a gated community. Power concentrates fast when tools are scarce.",
+        "4. Workflow Advantage\n\nCreators who master AI workflows gain leverage quickly — not by waiting for permission, but by shipping faster and experimenting. Early adopters set the rules.",
+        "5. Test One Tool Now\n\nPick one AI tool and use it on your next project this week. If you haven't tried it, that's your starting line."
+      ],
+      "video_script": [
+        "David Ellison bets AI is creativity's biggest unlock.",
+        "But access might concentrate power in a few hands.",
+        "Creators who master AI workflows gain leverage fast.",
+        "The tool is here — but not everyone can afford it.",
+        "Test one AI tool on your next project this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who Gets the Unlock?\n\nDavid Ellison says AI is creativity's biggest unlock — but Skydance's chief frames it as a tool, not a replacement. The real question is who gets access.",
+            "2. Tool vs. Replacement\n\nEllison insists AI won't replace creators, just augment them. Yet history shows tools that concentrate power tend to reshape entire industries.",
+            "3. Access Is the Bottleneck\n\nThe catch: if only a few can afford cutting-edge AI, creativity's unlock becomes a gated community. Power concentrates fast when tools are scarce.",
+            "4. Workflow Advantage\n\nCreators who master AI workflows gain leverage quickly — not by waiting for permission, but by shipping faster and experimenting. Early adopters set the rules.",
+            "5. Test One Tool Now\n\nPick one AI tool and use it on your next project this week. If you haven't tried it, that's your starting line."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "David Ellison bets AI is creativity's biggest unlock.",
+            "But access might concentrate power in a few hands.",
+            "Creators who master AI workflows gain leverage fast.",
+            "The tool is here — but not everyone can afford it.",
+            "Test one AI tool on your next project this week."
+          ]
+        },
+        "instagram": {
+          "caption": "Skydance's chief says AI won't replace creators, just augment them. 🎬\n\nDavid Ellison calls it the \"biggest creative unlock in modern history\" — a tool, not a substitute for the people using it.\n\nBut the catch is access: if cutting-edge AI stays expensive, the unlock becomes a gated community and power concentrates fast. 🔒\n\nFor anyone who creates, the divide won't be talent — it'll be who masters these workflows first. Early adopters ship faster and set the rules. ⚡\n\nPick one AI tool and use it on your next project this week. 🛠️ If you haven't tried it yet, that's your starting line.\n\nSo — which tool are you testing first? 👀"
+        }
+      },
+      "instagram_caption": "Skydance's chief says AI won't replace creators, just augment them. 🎬\n\nDavid Ellison calls it the \"biggest creative unlock in modern history\" — a tool, not a substitute for the people using it.\n\nBut the catch is access: if cutting-edge AI stays expensive, the unlock becomes a gated community and power concentrates fast. 🔒\n\nFor anyone who creates, the divide won't be talent — it'll be who masters these workflows first. Early adopters ship faster and set the rules. ⚡\n\nPick one AI tool and use it on your next project this week. 🛠️ If you haven't tried it yet, that's your starting line.\n\nSo — which tool are you testing first? 👀",
+      "carousel_slides": [
+        {
+          "hook": "AI creativity: unlock or gate?",
+          "description": "David Ellison calls AI creativity's biggest unlock, but access may be limited to those who can afford it.",
+          "visual_hint": "Split screen: open gate vs locked door",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "gate lock"
+        },
+        {
+          "hook": "Tool, not replacement, insists Ellison",
+          "description": "Skydance's chief frames AI as an augmenting tool, yet history shows such tools reshape industries.",
+          "visual_hint": "Hands holding tools, one glowing",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "hand tools",
+          "image": "https://images.pexels.com/photos/31501005/pexels-photo-31501005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Access: the real bottleneck",
+          "description": "If only a few can afford cutting-edge AI, creativity's unlock becomes a gated community, concentrating power fast.",
+          "visual_hint": "Locked gate with golden key",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "locked gate",
+          "image": "https://images.pexels.com/photos/11543858/pexels-photo-11543858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Master AI workflows, gain leverage fast",
+          "description": "Creators who master AI workflows gain leverage quickly by shipping faster and experimenting, not waiting for permission.",
+          "visual_hint": "Person typing on laptop with AI interface",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "laptop typing",
+          "image": "https://images.pexels.com/photos/30612694/pexels-photo-30612694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one AI tool this week",
+          "description": "Pick one AI tool and use it on your next project. If you haven't tried it, that's your starting line.",
+          "visual_hint": "Person holding AI tool with 'start' button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "start button",
+          "image": "https://images.pexels.com/photos/24201390/pexels-photo-24201390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2274329497.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.740836125969%2C100%2C78.518327748063&amp;w=1200",
+      "savedAt": "2026-11-10T03:54:15.985Z",
+      "sourceId": "5a616de1114129603880ef6ffdce4355"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "medium-s-new-tk-app-brings-ai-assistance-directly-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+      "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "pubDate": "Mon, 09 Nov 2026 16:12:28 +0000",
+      "slides": [
+        "What if your writing app starts rewriting you?",
+        "Medium launches TK, an AI assistant inside the editor",
+        "It edits drafts, but may rewrite your voice entirely",
+        "Writers must now check every AI suggestion line by line",
+        "Next draft: let TK edit one paragraph, compare voices"
+      ],
+      "thread_text": [
+        "1. Your editor just got opinions\n\nMedium's new AI assistant TK doesn't just suggest commas — it rewrites drafts inside the editor. That means your voice is now a negotiation.",
+        "2. The rewrite gap\n\nTK edits for flow, but flow isn't voice. It can smooth out quirks that made your writing yours, and you won't notice until the piece sounds like everyone else's.",
+        "3. Line-by-line tax\n\nEvery AI suggestion now costs you a read. What used to be a final pass is becoming a full editorial review of a machine's choices.",
+        "4. The comparison test\n\nLet TK edit one paragraph, then read it against your original. The gap you hear is the part of your voice you'd be trading away.",
+        "5. Test it this week\n\nWrite your next draft without TK, then let it edit one section. If you can't tell which version is yours, that's your answer."
+      ],
+      "video_script": [
+        "Your writing app just started rewriting you.",
+        "Medium launched TK, an AI editor inside the draft.",
+        "It smooths your voice into something more generic.",
+        "You now check every suggestion line by line.",
+        "Let TK edit one paragraph — compare the voices."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your editor just got opinions\n\nMedium's new AI assistant TK doesn't just suggest commas — it rewrites drafts inside the editor. That means your voice is now a negotiation.",
+            "2. The rewrite gap\n\nTK edits for flow, but flow isn't voice. It can smooth out quirks that made your writing yours, and you won't notice until the piece sounds like everyone else's.",
+            "3. Line-by-line tax\n\nEvery AI suggestion now costs you a read. What used to be a final pass is becoming a full editorial review of a machine's choices.",
+            "4. The comparison test\n\nLet TK edit one paragraph, then read it against your original. The gap you hear is the part of your voice you'd be trading away.",
+            "5. Test it this week\n\nWrite your next draft without TK, then let it edit one section. If you can't tell which version is yours, that's your answer."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your writing app just started rewriting you.",
+            "Medium launched TK, an AI editor inside the draft.",
+            "It smooths your voice into something more generic.",
+            "You now check every suggestion line by line.",
+            "Let TK edit one paragraph — compare the voices."
+          ]
+        },
+        "instagram": {
+          "caption": "The app you write in can now rewrite your draft for you, sentence by sentence, right inside the editor.\n\nMedium launched TK, an AI assistant that edits your drafts directly in the editor, adjusting flow and phrasing as you write. 🖊️\n\nThe catch: editing for flow isn't the same as preserving voice. TK can smooth away the quirks that make your writing yours, and you won't notice until the piece sounds like everyone else's. 😬\n\nSo every suggestion now costs you a line-by-line read, and your final pass becomes a full review of a machine's choices.\n\nLet TK edit one paragraph of your next draft, then read it against your original. The gap you hear is what you'd be trading away. What do you hear? 👀"
+        }
+      },
+      "instagram_caption": "The app you write in can now rewrite your draft for you, sentence by sentence, right inside the editor.\n\nMedium launched TK, an AI assistant that edits your drafts directly in the editor, adjusting flow and phrasing as you write. 🖊️\n\nThe catch: editing for flow isn't the same as preserving voice. TK can smooth away the quirks that make your writing yours, and you won't notice until the piece sounds like everyone else's. 😬\n\nSo every suggestion now costs you a line-by-line read, and your final pass becomes a full review of a machine's choices.\n\nLet TK edit one paragraph of your next draft, then read it against your original. The gap you hear is what you'd be trading away. What do you hear? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Is AI rewriting your voice?",
+          "description": "Medium's TK edits drafts inside the editor, smoothing quirks that made your writing yours until it sounds like everyone else's.",
+          "visual_hint": "AI cursor rewriting a paragraph",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "laptop screen text"
+        },
+        {
+          "hook": "Medium's TK edits alongside you",
+          "description": "The new AI assistant suggests flow fixes, not just commas, turning your draft into a negotiation between you and the machine.",
+          "visual_hint": "Editor interface with AI sidebar",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "computer keyboard closeup",
+          "image": "https://images.pexels.com/photos/28993049/pexels-photo-28993049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Flow is not voice",
+          "description": "TK edits for smoothness, but smoothness erases the quirks that made your writing distinct—and you won't notice until it's gone.",
+          "visual_hint": "Two texts side by side comparison",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "text document comparison",
+          "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Every suggestion costs a read",
+          "description": "What was a final pass is now a full editorial review of a machine's choices, line by line, suggestion by suggestion.",
+          "visual_hint": "Hand scrolling through highlighted text",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "person reading document",
+          "image": "https://images.pexels.com/photos/7821547/pexels-photo-7821547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test TK on one paragraph",
+          "description": "Write your next draft without TK, then let it edit one section. If you can't tell which version is yours, that's your answer.",
+          "visual_hint": "Split screen original vs edited",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "writing notebook pen",
+          "image": "https://images.pexels.com/photos/7657397/pexels-photo-7657397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7983364/pexels-photo-7983364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-11-10T03:54:02.907Z",
+      "sourceId": "9ed094811c690553f61707f8b2d8a8ec"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ai-hardware-startup-nominal-triples-valuation-to-3",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+      "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+      "pubDate": "Mon, 09 Nov 2026 19:21:46 +0000",
+      "slides": [
+        "Nominal hits $3B, but what's the real driver?",
+        "Its test tools are now essential for AI chipmakers.",
+        "Yet the company has only 40 employees and no sales team.",
+        "Your hardware validation costs could drop by 30% next quarter.",
+        "Ask your chip supplier if they use Nominal yet."
+      ],
+      "thread_text": [
+        "1. The $3B illusion\n\nNominal just hit a $3B valuation with 40 employees and zero sales team. That math doesn't work — unless you understand what's really driving it.",
+        "2. The hidden dependency\n\nEvery major AI chipmaker now relies on Nominal's test tools. Without them, hardware validation slows to a crawl — and nobody's talking about it.",
+        "3. The 30% cut\n\nYour hardware validation costs could drop by 30% next quarter. That's not a forecast — it's what happens when you stop wasting time on manual testing.",
+        "4. The 40-person army\n\nNo sales team. No army of reps. Just 40 people building tools so essential that chipmakers can't ship without them. That's the real moat.",
+        "5. The question you should ask\n\nAsk your chip supplier if they use Nominal yet. If they hesitate, you've found your answer — and your next risk."
+      ],
+      "video_script": [
+        "Nominal just hit three billion dollars. Here's why.",
+        "Chipmakers depend on their test tools. Essential, not optional.",
+        "Forty employees. No sales team. That's the whole company.",
+        "Your validation costs could drop thirty percent next quarter.",
+        "Ask your chip supplier: do you use Nominal yet?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The $3B illusion\n\nNominal just hit a $3B valuation with 40 employees and zero sales team. That math doesn't work — unless you understand what's really driving it.",
+            "2. The hidden dependency\n\nEvery major AI chipmaker now relies on Nominal's test tools. Without them, hardware validation slows to a crawl — and nobody's talking about it.",
+            "3. The 30% cut\n\nYour hardware validation costs could drop by 30% next quarter. That's not a forecast — it's what happens when you stop wasting time on manual testing.",
+            "4. The 40-person army\n\nNo sales team. No army of reps. Just 40 people building tools so essential that chipmakers can't ship without them. That's the real moat.",
+            "5. The question you should ask\n\nAsk your chip supplier if they use Nominal yet. If they hesitate, you've found your answer — and your next risk."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Nominal just hit three billion dollars. Here's why.",
+            "Chipmakers depend on their test tools. Essential, not optional.",
+            "Forty employees. No sales team. That's the whole company.",
+            "Your validation costs could drop thirty percent next quarter.",
+            "Ask your chip supplier: do you use Nominal yet?"
+          ]
+        },
+        "instagram": {
+          "caption": "Your hardware validation costs could drop by 30% next quarter.\n\nNominal just tripled its valuation to $3B in 8 months — with only 40 employees and no sales team. 🧠\n\nIts test tools are now essential for AI chipmakers: without them, hardware validation slows to a crawl.\n\nThat's the real moat — not headcount, but dependency.\n\nIf you build or publish around AI hardware, this quietly changes your cost assumptions and your supply chain risk. 🔍\n\nAsk your chip supplier if they use Nominal yet. If they hesitate, you've found your answer. ⚡"
+        }
+      },
+      "instagram_caption": "Your hardware validation costs could drop by 30% next quarter.\n\nNominal just tripled its valuation to $3B in 8 months — with only 40 employees and no sales team. 🧠\n\nIts test tools are now essential for AI chipmakers: without them, hardware validation slows to a crawl.\n\nThat's the real moat — not headcount, but dependency.\n\nIf you build or publish around AI hardware, this quietly changes your cost assumptions and your supply chain risk. 🔍\n\nAsk your chip supplier if they use Nominal yet. If they hesitate, you've found your answer. ⚡",
+      "carousel_slides": [
+        {
+          "hook": "40 employees. $3B valuation. How?",
+          "description": "Nominal's test tools are now essential for AI chipmakers, driving a valuation triple in just 8 months.",
+          "visual_hint": "Small team in high-tech lab",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "startup office"
+        },
+        {
+          "hook": "Why chipmakers can't ship without them",
+          "description": "Every major AI chipmaker relies on Nominal's validation tools; without them, hardware testing slows to a crawl.",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "visual_hint": "Engineer testing circuit board",
+          "image_query": "circuit board",
+          "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No sales team. Still indispensable.",
+          "description": "With only 40 employees, Nominal built tools so critical that chipmakers depend on them for validation.",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "visual_hint": "Close-up of microchip in hand",
+          "image_query": "microchip",
+          "image": "https://images.pexels.com/photos/8108717/pexels-photo-8108717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cut validation costs by 30%",
+          "description": "Your hardware validation costs could drop by 30% next quarter by automating manual testing with Nominal's tools.",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "visual_hint": "Hand adjusting testing equipment",
+          "image_query": "lab equipment",
+          "image": "https://images.pexels.com/photos/8940470/pexels-photo-8940470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: ask your supplier now",
+          "description": "Ask your chip supplier if they use Nominal yet. If they hesitate, you've found your next risk.",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "visual_hint": "Business professional on phone",
+          "image_query": "business meeting",
+          "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Nominal-CEO-Cameron-McCord.jpg?resize=1200,661",
+      "savedAt": "2026-11-10T03:53:51.429Z",
+      "sourceId": "55a7f5024e8896dc2d19b1c58c42c49d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "anthropic-joins-ai-s-natural-gas-frenzy-buys-3-4b-",
       "prompt_version": "1.0.0",
       "status": "published",

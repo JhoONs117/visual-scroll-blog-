@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-launches-new-claude-fable-and-mythos-5-2",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+  "pubDate": "2026-11-09T19:00:00.000Z",
+  "slides": [
+    "What if Claude now writes books you actually finish?",
+    "Anthropic splits its models into Fable and Mythos lines",
+    "Fable targets prose while Mythos handles deep reasoning",
+    "Writers can draft full chapters in a single prompt",
+    "Test one chapter today and judge the voice yourself"
+  ],
+  "thread_text": [
+    "5. A book you finish\n\nAnthropic's Claude now generates full chapters in one prompt, but the real test is whether the voice holds up over 300 pages.",
+    "6. Two model lines\n\nAnthropic split Claude into Fable for prose and Mythos for deep reasoning. Writers get a dedicated fiction engine, analysts get a logic machine.",
+    "7. Prose vs. reasoning\n\nFable optimizes for narrative flow and style; Mythos prioritizes step-by-step logic. Same family, different brains for different tasks.",
+    "8. Drafting speed\n\nWriters can now sketch a complete chapter from a single prompt. The bottleneck shifts from writing to editing and voice-checking.",
+    "9. Test the voice\n\nPick one chapter you've already written. Run it through Fable and compare the voice. Does it sound like you, or like a machine?"
+  ],
+  "video_script": [
+    "Claude now writes books you might actually finish.",
+    "Anthropic split it into Fable for prose, Mythos for reasoning.",
+    "Fable targets narrative flow, Mythos handles deep logic.",
+    "Writers can draft full chapters in a single prompt.",
+    "Test one chapter today and judge the voice yourself."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "5. A book you finish\n\nAnthropic's Claude now generates full chapters in one prompt, but the real test is whether the voice holds up over 300 pages.",
+        "6. Two model lines\n\nAnthropic split Claude into Fable for prose and Mythos for deep reasoning. Writers get a dedicated fiction engine, analysts get a logic machine.",
+        "7. Prose vs. reasoning\n\nFable optimizes for narrative flow and style; Mythos prioritizes step-by-step logic. Same family, different brains for different tasks.",
+        "8. Drafting speed\n\nWriters can now sketch a complete chapter from a single prompt. The bottleneck shifts from writing to editing and voice-checking.",
+        "9. Test the voice\n\nPick one chapter you've already written. Run it through Fable and compare the voice. Does it sound like you, or like a machine?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Claude now writes books you might actually finish.",
+        "Anthropic split it into Fable for prose, Mythos for reasoning.",
+        "Fable targets narrative flow, Mythos handles deep logic.",
+        "Writers can draft full chapters in a single prompt.",
+        "Test one chapter today and judge the voice yourself."
+      ]
+    },
+    "instagram": {
+      "caption": "Claude can now draft an entire book chapter from one prompt.\n\nAnthropic split its models into two lines: Fable for prose and narrative flow, Mythos for deep step-by-step reasoning. ✍️\n\nSame family, different brains — writers get a fiction engine, analysts get a logic machine.\n\nThe bottleneck shifts from writing to editing and checking whether the voice holds up over 300 pages.\n\nTake a chapter you already wrote, run it through Fable, and compare. 🧐 Does it still sound like you?\n\nWould you publish a chapter a machine drafted? 👇"
+    }
+  },
+  "instagram_caption": "Claude can now draft an entire book chapter from one prompt.\n\nAnthropic split its models into two lines: Fable for prose and narrative flow, Mythos for deep step-by-step reasoning. ✍️\n\nSame family, different brains — writers get a fiction engine, analysts get a logic machine.\n\nThe bottleneck shifts from writing to editing and checking whether the voice holds up over 300 pages.\n\nTake a chapter you already wrote, run it through Fable, and compare. 🧐 Does it still sound like you?\n\nWould you publish a chapter a machine drafted? 👇",
+  "carousel_slides": [
+    {
+      "hook": "Will you actually finish this book?",
+      "description": "Claude generates full chapters in one prompt. The real test is whether the voice holds over 300 pages.",
+      "visual_hint": "Open book with turning pages",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "open book"
+    },
+    {
+      "hook": "Two model lines, one family",
+      "description": "Anthropic splits Claude into Fable for prose and Mythos for reasoning, giving writers and analysts dedicated engines.",
+      "visual_hint": "Split screen: quill and gears",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "split screen",
+      "image": "https://images.pexels.com/photos/39492753/pexels-photo-39492753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prose vs. reasoning: different brains",
+      "description": "Fable optimizes narrative flow and style; Mythos prioritizes step-by-step logic. Same family, different strengths.",
+      "visual_hint": "Brain with two hemispheres",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "human brain",
+      "image": "https://images.pexels.com/photos/5723875/pexels-photo-5723875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Draft a chapter in one prompt",
+      "description": "Writers can sketch a complete chapter from a single prompt. The bottleneck shifts from writing to editing and voice-checking.",
+      "visual_hint": "Hand typing on laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "typing laptop",
+      "image": "https://images.pexels.com/photos/30612694/pexels-photo-30612694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test the voice today",
+      "description": "Pick one chapter you've already written. Run it through Fable and compare: does it sound like you?",
+      "visual_hint": "Compare two text documents",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "text comparison",
+      "image": "https://images.pexels.com/photos/38728545/pexels-photo-38728545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-10T03:54:24.758Z",
+  "sourceId": "c301a0197fe30514d3142e634d9cb5d0"
+}
