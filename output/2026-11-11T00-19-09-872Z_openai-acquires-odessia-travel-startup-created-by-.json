@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-acquires-odessia-travel-startup-created-by-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+  "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+  "pubDate": "Tue, 10 Nov 2026 21:08:52 +0000",
+  "slides": [
+    "What does OpenAI want with a travel startup?",
+    "It acquired Odessia, founded by Sonder's creator",
+    "The founder already built one travel giant",
+    "Travel bookings may soon run on AI agents",
+    "Watch for AI-planned trips replacing search engines"
+  ],
+  "thread_text": [
+    "1. OpenAI's Travel Ambition\n\nOpenAI just acquired Odessia, a travel startup founded by the creator of Sonder. This isn't a side project — it's a signal that AI agents are coming for your next vacation.",
+    "2. The Founder's Track Record\n\nLucas Vandenberghe built Sonder into a $1B hospitality giant. Now he's building AI that could bypass traditional travel agencies entirely.",
+    "3. AI Agents Book for You\n\nOdessia's platform lets AI agents handle bookings, compare options, and execute purchases. No more browsing 20 tabs — just tell your assistant where you want to go.",
+    "4. Search Engines Under Threat\n\nIf AI agents plan and book trips, Google's $200B travel ad business takes a hit. Travelers won't need to search — they'll just ask.",
+    "5. Try This Today\n\nOpen ChatGPT and ask it to plan a full weekend trip with budget and bookings. If the result feels clunky, imagine it in two years. Would you still open a browser?"
+  ],
+  "video_script": [
+    "OpenAI just bought a travel startup called Odessia.",
+    "The founder already built Sonder into a travel giant.",
+    "Odessia lets AI agents book trips for you.",
+    "Search engines could lose their grip on travel planning.",
+    "Try asking an AI to plan your next trip today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI's Travel Ambition\n\nOpenAI just acquired Odessia, a travel startup founded by the creator of Sonder. This isn't a side project — it's a signal that AI agents are coming for your next vacation.",
+        "2. The Founder's Track Record\n\nLucas Vandenberghe built Sonder into a $1B hospitality giant. Now he's building AI that could bypass traditional travel agencies entirely.",
+        "3. AI Agents Book for You\n\nOdessia's platform lets AI agents handle bookings, compare options, and execute purchases. No more browsing 20 tabs — just tell your assistant where you want to go.",
+        "4. Search Engines Under Threat\n\nIf AI agents plan and book trips, Google's $200B travel ad business takes a hit. Travelers won't need to search — they'll just ask.",
+        "5. Try This Today\n\nOpen ChatGPT and ask it to plan a full weekend trip with budget and bookings. If the result feels clunky, imagine it in two years. Would you still open a browser?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI just bought a travel startup called Odessia.",
+        "The founder already built Sonder into a travel giant.",
+        "Odessia lets AI agents book trips for you.",
+        "Search engines could lose their grip on travel planning.",
+        "Try asking an AI to plan your next trip today."
+      ]
+    },
+    "instagram": {
+      "caption": "A travel startup founded by the creator of Sonder just got acquired by OpenAI. 🧳\n\nOdessia lets AI agents handle bookings and compare options for you.\n\nThe founder already built Sonder into a $1B hospitality company.\n\nThat means your next trip could be planned and booked by an assistant, not a search engine.\n\nIf your work depends on travel content or SEO, the way people find trips is about to shift. ✈️\n\nWhen was the last time you booked a trip without opening twenty tabs? 🤔"
+    }
+  },
+  "instagram_caption": "A travel startup founded by the creator of Sonder just got acquired by OpenAI. 🧳\n\nOdessia lets AI agents handle bookings and compare options for you.\n\nThe founder already built Sonder into a $1B hospitality company.\n\nThat means your next trip could be planned and booked by an assistant, not a search engine.\n\nIf your work depends on travel content or SEO, the way people find trips is about to shift. ✈️\n\nWhen was the last time you booked a trip without opening twenty tabs? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "AI is coming for your vacation.",
+      "description": "OpenAI acquired Odessia, a travel startup founded by Sonder's creator, signaling AI agents will soon handle trip planning.",
+      "visual_hint": "Futuristic travel interface with AI overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "airport terminal"
+    },
+    {
+      "hook": "The founder built a $1B giant.",
+      "description": "Lucas Vandenberghe turned Sonder into a hospitality unicorn. Now he's building AI to bypass traditional travel agencies entirely.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Founder silhouette against city skyline",
+      "image_query": "city skyline",
+      "image": "https://images.pexels.com/photos/11531154/pexels-photo-11531154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No more twenty open tabs.",
+      "description": "Odessia lets AI agents handle bookings, compare options, and execute purchases. Just tell your assistant where you want to go.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Close-up of AI chat interface booking",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Google's $200B travel ads at risk.",
+      "description": "If AI agents plan and book trips, travelers won't search—they'll just ask. Search engines lose their grip on travel discovery.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hand holding phone with AI assistant",
+      "image_query": "hand smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try this AI trip planner now.",
+      "description": "Open ChatGPT and ask it to plan a full weekend trip with budget and bookings. Save this post for later.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "ChatGPT interface with travel itinerary",
+      "image_query": "laptop screen",
+      "image": "https://images.pexels.com/photos/21391567/pexels-photo-21391567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2207801992.jpg?resize=1200,801",
+  "savedAt": "2026-11-11T00:19:20.312Z",
+  "sourceId": "24b56e0e82fbea849eeb064f729be715"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-rolls-out-new-business-profiles-making-chat",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+  "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+  "pubDate": "Tue, 10 Nov 2026 18:49:52 +0000",
+  "slides": [
+    "Will ChatGPT now replace your company's website?",
+    "OpenAI launched business profiles inside ChatGPT itself",
+    "Profiles surface details before users ever click through",
+    "Your company page may soon appear directly in chats",
+    "Claim your profile before competitors do"
+  ],
+  "thread_text": [
+    "1. ChatGPT Replaces Your Website?\n\nOpenAI just launched business profiles inside ChatGPT itself. Users now see your company details before they ever click through.",
+    "2. Profiles Before the Click\n\nEvery business now gets a profile card that surfaces key details right in the chat. This means users can evaluate you without visiting your site.",
+    "3. Your Site Loses Traffic\n\nAs profiles get richer, fewer users will bother clicking to your actual website. Your online presence is shifting to a platform you don't control.",
+    "4. Competitors Are Claiming Profiles\n\nEarly movers are already setting up their profiles, making it harder for laggards to stand out. The race for visibility inside ChatGPT is on.",
+    "5. Claim Your Profile Now\n\nGo to ChatGPT and search for your business. If it's not there, claim it today—before someone else does."
+  ],
+  "video_script": [
+    "OpenAI just launched business profiles inside ChatGPT.",
+    "Users see your details before they click through.",
+    "Your website might lose traffic.",
+    "Competitors are already claiming their profiles.",
+    "Claim yours now—before someone else does."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. ChatGPT Replaces Your Website?\n\nOpenAI just launched business profiles inside ChatGPT itself. Users now see your company details before they ever click through.",
+        "2. Profiles Before the Click\n\nEvery business now gets a profile card that surfaces key details right in the chat. This means users can evaluate you without visiting your site.",
+        "3. Your Site Loses Traffic\n\nAs profiles get richer, fewer users will bother clicking to your actual website. Your online presence is shifting to a platform you don't control.",
+        "4. Competitors Are Claiming Profiles\n\nEarly movers are already setting up their profiles, making it harder for laggards to stand out. The race for visibility inside ChatGPT is on.",
+        "5. Claim Your Profile Now\n\nGo to ChatGPT and search for your business. If it's not there, claim it today—before someone else does."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI just launched business profiles inside ChatGPT.",
+        "Users see your details before they click through.",
+        "Your website might lose traffic.",
+        "Competitors are already claiming their profiles.",
+        "Claim yours now—before someone else does."
+      ]
+    },
+    "instagram": {
+      "caption": "Your company's details now show up inside ChatGPT before anyone clicks your site.\n\nOpenAI rolled out business profiles directly in chats — a card with your key info surfaces before the click ever happens.\n\nThat means people can judge you without visiting your website at all. 😬\n\nIf you run a business or publish content, some of your traffic may never reach you — it stops at the profile instead.\n\nGo search your business in ChatGPT right now: is your profile there, and who's claiming it if it isn't? 🔍"
+    }
+  },
+  "instagram_caption": "Your company's details now show up inside ChatGPT before anyone clicks your site.\n\nOpenAI rolled out business profiles directly in chats — a card with your key info surfaces before the click ever happens.\n\nThat means people can judge you without visiting your website at all. 😬\n\nIf you run a business or publish content, some of your traffic may never reach you — it stops at the profile instead.\n\nGo search your business in ChatGPT right now: is your profile there, and who's claiming it if it isn't? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Will ChatGPT replace your website?",
+      "description": "OpenAI launched business profiles inside ChatGPT, letting users see company details before clicking through, potentially reducing website traffic.",
+      "visual_hint": "ChatGPT interface with business card",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "chatgpt interface"
+    },
+    {
+      "hook": "Your business profile inside ChatGPT",
+      "description": "Every business gets a profile card in chat, showing key details so users can evaluate you without visiting your site.",
+      "visual_hint": "profile card in chat",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "business profile card",
+      "image": "https://images.pexels.com/photos/7661332/pexels-photo-7661332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Evaluate without visiting your site",
+      "description": "Profiles surface rich details right in the chat, meaning users can judge your business without ever clicking through to your website.",
+      "visual_hint": "user reading profile details",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "user reading smartphone",
+      "image": "https://images.pexels.com/photos/5875077/pexels-photo-5875077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Competitors are claiming profiles now",
+      "description": "Early movers are setting up profiles, gaining visibility inside ChatGPT and making it harder for laggards to stand out.",
+      "visual_hint": "business person claiming profile",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "business person laptop",
+      "image": "https://images.pexels.com/photos/6326118/pexels-photo-6326118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Claim your profile before someone else",
+      "description": "Go to ChatGPT and search for your business. If it's not there, claim it today—before a competitor does.",
+      "visual_hint": "hand claiming profile on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hand clicking screen",
+      "image": "https://images.pexels.com/photos/8554383/pexels-photo-8554383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-8.46.19-AM.png?resize=1200,677",
+  "savedAt": "2026-11-11T00:19:50.045Z",
+  "sourceId": "4b68cc7db805bd1974dd868f48f47e8a"
+}

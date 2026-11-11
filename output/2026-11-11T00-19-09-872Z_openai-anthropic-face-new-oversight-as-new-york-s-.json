@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-anthropic-face-new-oversight-as-new-york-s-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+  "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+  "pubDate": "Tue, 10 Nov 2026 20:52:13 +0000",
+  "slides": [
+    "New York's AI safety law is live — will OpenAI comply?",
+    "It mandates disclosure of safety testing before deployment",
+    "But the law's enforcement budget is surprisingly thin",
+    "Your AI vendor contracts may now need safety clauses",
+    "Check today if your provider publishes compliance reports"
+  ],
+  "thread_text": [
+    "1. NY's AI Safety Law Is Live\n\nCompanies deploying AI in New York must now disclose safety testing before launch. The law has teeth — but will OpenAI comply?",
+    "2. Enforcement Budget Is Thin\n\nDespite ambitious mandates, the budget for oversight is surprisingly small. Who's actually checking the disclosures?",
+    "3. Your Contracts Need Safety Clauses\n\nIf your AI vendor isn't compliant, you could be liable. Update your contracts to require safety testing proof.",
+    "4. Compliance Reports: Ask Now\n\nYour provider should publish compliance reports. If they don't, you're in the dark about their safety practices.",
+    "5. Check Your Vendor Today\n\nAsk your AI provider for their latest compliance report. If they can't produce one, it's time to reconsider the partnership."
+  ],
+  "video_script": [
+    "New York's AI safety law is now live.",
+    "It requires disclosure of safety testing before deployment.",
+    "But the enforcement budget is surprisingly thin.",
+    "Your AI vendor contracts may need safety clauses now.",
+    "Check today if your provider publishes compliance reports."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. NY's AI Safety Law Is Live\n\nCompanies deploying AI in New York must now disclose safety testing before launch. The law has teeth — but will OpenAI comply?",
+        "2. Enforcement Budget Is Thin\n\nDespite ambitious mandates, the budget for oversight is surprisingly small. Who's actually checking the disclosures?",
+        "3. Your Contracts Need Safety Clauses\n\nIf your AI vendor isn't compliant, you could be liable. Update your contracts to require safety testing proof.",
+        "4. Compliance Reports: Ask Now\n\nYour provider should publish compliance reports. If they don't, you're in the dark about their safety practices.",
+        "5. Check Your Vendor Today\n\nAsk your AI provider for their latest compliance report. If they can't produce one, it's time to reconsider the partnership."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "New York's AI safety law is now live.",
+        "It requires disclosure of safety testing before deployment.",
+        "But the enforcement budget is surprisingly thin.",
+        "Your AI vendor contracts may need safety clauses now.",
+        "Check today if your provider publishes compliance reports."
+      ]
+    },
+    "instagram": {
+      "caption": "If you deploy AI in New York, you now have to disclose safety testing before launch 🗽\n\nNew York's AI safety law just took effect, and it applies to companies using AI, not just building it.\n\nThe catch: the oversight budget is thin, so enforcement may lag behind the mandate.\n\nYour vendor contracts may need safety clauses — if your provider isn't compliant, you could be liable.\n\nAsk your AI provider today for their latest compliance report. If they can't produce one 😬 what does that tell you?"
+    }
+  },
+  "instagram_caption": "If you deploy AI in New York, you now have to disclose safety testing before launch 🗽\n\nNew York's AI safety law just took effect, and it applies to companies using AI, not just building it.\n\nThe catch: the oversight budget is thin, so enforcement may lag behind the mandate.\n\nYour vendor contracts may need safety clauses — if your provider isn't compliant, you could be liable.\n\nAsk your AI provider today for their latest compliance report. If they can't produce one 😬 what does that tell you?",
+  "carousel_slides": [
+    {
+      "hook": "Who's actually enforcing New York's AI safety law?",
+      "description": "The law mandates disclosure of safety testing, but the oversight budget is surprisingly thin.",
+      "visual_hint": "Empty government office with stacks of unread papers",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "empty office"
+    },
+    {
+      "hook": "New York demands pre-deployment safety testing disclosures.",
+      "description": "Companies deploying AI in New York must now disclose safety testing before launch.",
+      "visual_hint": "AI system deploying code on a screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer code",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Thin budget, big mandates: who's checking?",
+      "description": "Despite ambitious mandates, the budget for oversight is surprisingly small.",
+      "visual_hint": "Small budget folder with magnifying glass",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "budget folder",
+      "image": "https://images.pexels.com/photos/8296968/pexels-photo-8296968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI contracts may need safety clauses.",
+      "description": "If your AI vendor isn't compliant, you could be liable. Update contracts to require safety proof.",
+      "visual_hint": "Hand signing a contract with pen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "contract signing",
+      "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your vendor's compliance report today.",
+      "description": "Ask your AI provider for their latest compliance report and reconsider if they can't produce one.",
+      "visual_hint": "Person reviewing a compliance report on tablet",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "compliance report",
+      "image": "https://images.pexels.com/photos/8512441/pexels-photo-8512441.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2302996653.jpg?w=1024",
+  "savedAt": "2026-11-11T00:19:28.915Z",
+  "sourceId": "eb94be6281ea48201ee445eb0d2ef732"
+}

@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "adobe-brings-ai-agents-and-new-creative-tools-to-p",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+    "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+    "pubDate": "Tue, 10 Nov 2026 14:05:10 +0000",
+    "slides": [
+      "Can Adobe's new AI agents replace your editing instincts?",
+      "Agents launched across Photoshop, Premiere, and Firefly simultaneously.",
+      "But they work inside Adobe's ecosystem, not standalone.",
+      "Teams will need to rebuild workflows around agent-driven tasks.",
+      "Test one agent on a real project this week."
+    ],
+    "thread_text": [
+      "1. Adobe's AI agents: editing instincts replaced?\n\nAgents launched across Photoshop, Premiere, and Firefly simultaneously, but they're locked inside Adobe's ecosystem. No standalone tools.",
+      "2. Locked inside Adobe's walled garden\n\nThese agents can't operate outside Adobe apps, so you're tied to their subscription and file formats. Flexibility takes a hit.",
+      "3. Workflows will never be the same\n\nTeams must rebuild processes around agent-driven tasks. The old way of editing file-by-file is gone.",
+      "4. The hidden cost of automation\n\nAgents may speed up tasks, but they require new oversight. You'll trade manual edits for supervising AI output.",
+      "5. Test one agent this week\n\nPick a real project and run a single agent on it. Does it save time or just shift the work? Try it and see."
+    ],
+    "video_script": [
+      "Adobe just launched AI agents across its core apps.",
+      "They work inside Photoshop, Premiere, and Firefly only.",
+      "That means your workflow has to change around them.",
+      "Teams will need to rebuild how they edit and review.",
+      "Test one agent on a real project this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Adobe's AI agents: editing instincts replaced?\n\nAgents launched across Photoshop, Premiere, and Firefly simultaneously, but they're locked inside Adobe's ecosystem. No standalone tools.",
+          "2. Locked inside Adobe's walled garden\n\nThese agents can't operate outside Adobe apps, so you're tied to their subscription and file formats. Flexibility takes a hit.",
+          "3. Workflows will never be the same\n\nTeams must rebuild processes around agent-driven tasks. The old way of editing file-by-file is gone.",
+          "4. The hidden cost of automation\n\nAgents may speed up tasks, but they require new oversight. You'll trade manual edits for supervising AI output.",
+          "5. Test one agent this week\n\nPick a real project and run a single agent on it. Does it save time or just shift the work? Try it and see."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Adobe just launched AI agents across its core apps.",
+          "They work inside Photoshop, Premiere, and Firefly only.",
+          "That means your workflow has to change around them.",
+          "Teams will need to rebuild how they edit and review.",
+          "Test one agent on a real project this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Your editing timeline now comes with an agent that works only inside Adobe's apps. 🤖\n\nPhotoshop, Premiere, and Firefly all got AI agents at the same time. They can't run standalone, so you're tied to the subscription and file formats.\n\nThat means teams have to rebuild workflows around agent-driven tasks instead of file-by-file editing.\n\nYou'll trade manual edits for supervising AI output, and that oversight is real work. ⚙️\n\nPick one real project this week and run a single agent on it. 👀\n\nDoes it actually save you time, or does it just shift the work? 🎬"
+      }
+    },
+    "instagram_caption": "Your editing timeline now comes with an agent that works only inside Adobe's apps. 🤖\n\nPhotoshop, Premiere, and Firefly all got AI agents at the same time. They can't run standalone, so you're tied to the subscription and file formats.\n\nThat means teams have to rebuild workflows around agent-driven tasks instead of file-by-file editing.\n\nYou'll trade manual edits for supervising AI output, and that oversight is real work. ⚙️\n\nPick one real project this week and run a single agent on it. 👀\n\nDoes it actually save you time, or does it just shift the work? 🎬",
+    "carousel_slides": [
+      {
+        "hook": "Can AI replace your editing instincts?",
+        "description": "Adobe's new AI agents launch across Photoshop, Premiere, and Firefly, but only inside Adobe's ecosystem, not standalone.",
+        "visual_hint": "Split screen: human editor vs AI interface",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "photo editing software"
+      },
+      {
+        "hook": "Locked inside Adobe's walled garden",
+        "description": "Agents work only within Adobe apps, tying you to subscriptions and file formats, reducing flexibility.",
+        "visual_hint": "Adobe logo behind a fence",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "software subscription",
+        "image": "https://images.pexels.com/photos/7439127/pexels-photo-7439127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Workflows will never be the same",
+        "description": "Teams must rebuild processes around agent-driven tasks; the old file-by-file editing approach is obsolete.",
+        "visual_hint": "Team adjusting workflow diagram",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "team meeting",
+        "image": "https://images.pexels.com/photos/5945799/pexels-photo-5945799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The hidden cost of automation",
+        "description": "Agents may speed up tasks but require new oversight; you trade manual edits for supervising AI output.",
+        "visual_hint": "Person monitoring AI dashboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "AI monitoring",
+        "image": "https://images.pexels.com/photos/16416872/pexels-photo-16416872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and test one agent now",
+        "description": "Pick a real project and run a single agent on it this week to see if it saves time or shifts work.",
+        "visual_hint": "Person testing software with checklist",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "testing software",
+        "image": "https://images.pexels.com/photos/7858297/pexels-photo-7858297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/9281786/pexels-photo-9281786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-11-11T00:20:00.587Z",
+    "sourceId": "2691bfd505194ce6febf2aaf1bf86f21"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-rolls-out-new-business-profiles-making-chat",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+    "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+    "pubDate": "Tue, 10 Nov 2026 18:49:52 +0000",
+    "slides": [
+      "Will ChatGPT now replace your company's website?",
+      "OpenAI launched business profiles inside ChatGPT itself",
+      "Profiles surface details before users ever click through",
+      "Your company page may soon appear directly in chats",
+      "Claim your profile before competitors do"
+    ],
+    "thread_text": [
+      "1. ChatGPT Replaces Your Website?\n\nOpenAI just launched business profiles inside ChatGPT itself. Users now see your company details before they ever click through.",
+      "2. Profiles Before the Click\n\nEvery business now gets a profile card that surfaces key details right in the chat. This means users can evaluate you without visiting your site.",
+      "3. Your Site Loses Traffic\n\nAs profiles get richer, fewer users will bother clicking to your actual website. Your online presence is shifting to a platform you don't control.",
+      "4. Competitors Are Claiming Profiles\n\nEarly movers are already setting up their profiles, making it harder for laggards to stand out. The race for visibility inside ChatGPT is on.",
+      "5. Claim Your Profile Now\n\nGo to ChatGPT and search for your business. If it's not there, claim it today—before someone else does."
+    ],
+    "video_script": [
+      "OpenAI just launched business profiles inside ChatGPT.",
+      "Users see your details before they click through.",
+      "Your website might lose traffic.",
+      "Competitors are already claiming their profiles.",
+      "Claim yours now—before someone else does."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. ChatGPT Replaces Your Website?\n\nOpenAI just launched business profiles inside ChatGPT itself. Users now see your company details before they ever click through.",
+          "2. Profiles Before the Click\n\nEvery business now gets a profile card that surfaces key details right in the chat. This means users can evaluate you without visiting your site.",
+          "3. Your Site Loses Traffic\n\nAs profiles get richer, fewer users will bother clicking to your actual website. Your online presence is shifting to a platform you don't control.",
+          "4. Competitors Are Claiming Profiles\n\nEarly movers are already setting up their profiles, making it harder for laggards to stand out. The race for visibility inside ChatGPT is on.",
+          "5. Claim Your Profile Now\n\nGo to ChatGPT and search for your business. If it's not there, claim it today—before someone else does."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI just launched business profiles inside ChatGPT.",
+          "Users see your details before they click through.",
+          "Your website might lose traffic.",
+          "Competitors are already claiming their profiles.",
+          "Claim yours now—before someone else does."
+        ]
+      },
+      "instagram": {
+        "caption": "Your company's details now show up inside ChatGPT before anyone clicks your site.\n\nOpenAI rolled out business profiles directly in chats — a card with your key info surfaces before the click ever happens.\n\nThat means people can judge you without visiting your website at all. 😬\n\nIf you run a business or publish content, some of your traffic may never reach you — it stops at the profile instead.\n\nGo search your business in ChatGPT right now: is your profile there, and who's claiming it if it isn't? 🔍"
+      }
+    },
+    "instagram_caption": "Your company's details now show up inside ChatGPT before anyone clicks your site.\n\nOpenAI rolled out business profiles directly in chats — a card with your key info surfaces before the click ever happens.\n\nThat means people can judge you without visiting your website at all. 😬\n\nIf you run a business or publish content, some of your traffic may never reach you — it stops at the profile instead.\n\nGo search your business in ChatGPT right now: is your profile there, and who's claiming it if it isn't? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Will ChatGPT replace your website?",
+        "description": "OpenAI launched business profiles inside ChatGPT, letting users see company details before clicking through, potentially reducing website traffic.",
+        "visual_hint": "ChatGPT interface with business card",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "chatgpt interface"
+      },
+      {
+        "hook": "Your business profile inside ChatGPT",
+        "description": "Every business gets a profile card in chat, showing key details so users can evaluate you without visiting your site.",
+        "visual_hint": "profile card in chat",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "business profile card",
+        "image": "https://images.pexels.com/photos/7661332/pexels-photo-7661332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Evaluate without visiting your site",
+        "description": "Profiles surface rich details right in the chat, meaning users can judge your business without ever clicking through to your website.",
+        "visual_hint": "user reading profile details",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "user reading smartphone",
+        "image": "https://images.pexels.com/photos/5875077/pexels-photo-5875077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Competitors are claiming profiles now",
+        "description": "Early movers are setting up profiles, gaining visibility inside ChatGPT and making it harder for laggards to stand out.",
+        "visual_hint": "business person claiming profile",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "business person laptop",
+        "image": "https://images.pexels.com/photos/6326118/pexels-photo-6326118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Claim your profile before someone else",
+        "description": "Go to ChatGPT and search for your business. If it's not there, claim it today—before a competitor does.",
+        "visual_hint": "hand claiming profile on screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "hand clicking screen",
+        "image": "https://images.pexels.com/photos/8554383/pexels-photo-8554383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-8.46.19-AM.png?resize=1200,677",
+    "savedAt": "2026-11-11T00:19:50.045Z",
+    "sourceId": "4b68cc7db805bd1974dd868f48f47e8a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-anthropic-face-new-oversight-as-new-york-s-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "pubDate": "Tue, 10 Nov 2026 20:52:13 +0000",
+    "slides": [
+      "New York's AI safety law is live — will OpenAI comply?",
+      "It mandates disclosure of safety testing before deployment",
+      "But the law's enforcement budget is surprisingly thin",
+      "Your AI vendor contracts may now need safety clauses",
+      "Check today if your provider publishes compliance reports"
+    ],
+    "thread_text": [
+      "1. NY's AI Safety Law Is Live\n\nCompanies deploying AI in New York must now disclose safety testing before launch. The law has teeth — but will OpenAI comply?",
+      "2. Enforcement Budget Is Thin\n\nDespite ambitious mandates, the budget for oversight is surprisingly small. Who's actually checking the disclosures?",
+      "3. Your Contracts Need Safety Clauses\n\nIf your AI vendor isn't compliant, you could be liable. Update your contracts to require safety testing proof.",
+      "4. Compliance Reports: Ask Now\n\nYour provider should publish compliance reports. If they don't, you're in the dark about their safety practices.",
+      "5. Check Your Vendor Today\n\nAsk your AI provider for their latest compliance report. If they can't produce one, it's time to reconsider the partnership."
+    ],
+    "video_script": [
+      "New York's AI safety law is now live.",
+      "It requires disclosure of safety testing before deployment.",
+      "But the enforcement budget is surprisingly thin.",
+      "Your AI vendor contracts may need safety clauses now.",
+      "Check today if your provider publishes compliance reports."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. NY's AI Safety Law Is Live\n\nCompanies deploying AI in New York must now disclose safety testing before launch. The law has teeth — but will OpenAI comply?",
+          "2. Enforcement Budget Is Thin\n\nDespite ambitious mandates, the budget for oversight is surprisingly small. Who's actually checking the disclosures?",
+          "3. Your Contracts Need Safety Clauses\n\nIf your AI vendor isn't compliant, you could be liable. Update your contracts to require safety testing proof.",
+          "4. Compliance Reports: Ask Now\n\nYour provider should publish compliance reports. If they don't, you're in the dark about their safety practices.",
+          "5. Check Your Vendor Today\n\nAsk your AI provider for their latest compliance report. If they can't produce one, it's time to reconsider the partnership."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "New York's AI safety law is now live.",
+          "It requires disclosure of safety testing before deployment.",
+          "But the enforcement budget is surprisingly thin.",
+          "Your AI vendor contracts may need safety clauses now.",
+          "Check today if your provider publishes compliance reports."
+        ]
+      },
+      "instagram": {
+        "caption": "If you deploy AI in New York, you now have to disclose safety testing before launch 🗽\n\nNew York's AI safety law just took effect, and it applies to companies using AI, not just building it.\n\nThe catch: the oversight budget is thin, so enforcement may lag behind the mandate.\n\nYour vendor contracts may need safety clauses — if your provider isn't compliant, you could be liable.\n\nAsk your AI provider today for their latest compliance report. If they can't produce one 😬 what does that tell you?"
+      }
+    },
+    "instagram_caption": "If you deploy AI in New York, you now have to disclose safety testing before launch 🗽\n\nNew York's AI safety law just took effect, and it applies to companies using AI, not just building it.\n\nThe catch: the oversight budget is thin, so enforcement may lag behind the mandate.\n\nYour vendor contracts may need safety clauses — if your provider isn't compliant, you could be liable.\n\nAsk your AI provider today for their latest compliance report. If they can't produce one 😬 what does that tell you?",
+    "carousel_slides": [
+      {
+        "hook": "Who's actually enforcing New York's AI safety law?",
+        "description": "The law mandates disclosure of safety testing, but the oversight budget is surprisingly thin.",
+        "visual_hint": "Empty government office with stacks of unread papers",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "empty office"
+      },
+      {
+        "hook": "New York demands pre-deployment safety testing disclosures.",
+        "description": "Companies deploying AI in New York must now disclose safety testing before launch.",
+        "visual_hint": "AI system deploying code on a screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer code",
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Thin budget, big mandates: who's checking?",
+        "description": "Despite ambitious mandates, the budget for oversight is surprisingly small.",
+        "visual_hint": "Small budget folder with magnifying glass",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "budget folder",
+        "image": "https://images.pexels.com/photos/8296968/pexels-photo-8296968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your AI contracts may need safety clauses.",
+        "description": "If your AI vendor isn't compliant, you could be liable. Update contracts to require safety proof.",
+        "visual_hint": "Hand signing a contract with pen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "contract signing",
+        "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your vendor's compliance report today.",
+        "description": "Ask your AI provider for their latest compliance report and reconsider if they can't produce one.",
+        "visual_hint": "Person reviewing a compliance report on tablet",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "compliance report",
+        "image": "https://images.pexels.com/photos/8512441/pexels-photo-8512441.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2302996653.jpg?w=1024",
+    "savedAt": "2026-11-11T00:19:28.915Z",
+    "sourceId": "eb94be6281ea48201ee445eb0d2ef732"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-acquires-odessia-travel-startup-created-by-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "pubDate": "Tue, 10 Nov 2026 21:08:52 +0000",
+    "slides": [
+      "What does OpenAI want with a travel startup?",
+      "It acquired Odessia, founded by Sonder's creator",
+      "The founder already built one travel giant",
+      "Travel bookings may soon run on AI agents",
+      "Watch for AI-planned trips replacing search engines"
+    ],
+    "thread_text": [
+      "1. OpenAI's Travel Ambition\n\nOpenAI just acquired Odessia, a travel startup founded by the creator of Sonder. This isn't a side project — it's a signal that AI agents are coming for your next vacation.",
+      "2. The Founder's Track Record\n\nLucas Vandenberghe built Sonder into a $1B hospitality giant. Now he's building AI that could bypass traditional travel agencies entirely.",
+      "3. AI Agents Book for You\n\nOdessia's platform lets AI agents handle bookings, compare options, and execute purchases. No more browsing 20 tabs — just tell your assistant where you want to go.",
+      "4. Search Engines Under Threat\n\nIf AI agents plan and book trips, Google's $200B travel ad business takes a hit. Travelers won't need to search — they'll just ask.",
+      "5. Try This Today\n\nOpen ChatGPT and ask it to plan a full weekend trip with budget and bookings. If the result feels clunky, imagine it in two years. Would you still open a browser?"
+    ],
+    "video_script": [
+      "OpenAI just bought a travel startup called Odessia.",
+      "The founder already built Sonder into a travel giant.",
+      "Odessia lets AI agents book trips for you.",
+      "Search engines could lose their grip on travel planning.",
+      "Try asking an AI to plan your next trip today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. OpenAI's Travel Ambition\n\nOpenAI just acquired Odessia, a travel startup founded by the creator of Sonder. This isn't a side project — it's a signal that AI agents are coming for your next vacation.",
+          "2. The Founder's Track Record\n\nLucas Vandenberghe built Sonder into a $1B hospitality giant. Now he's building AI that could bypass traditional travel agencies entirely.",
+          "3. AI Agents Book for You\n\nOdessia's platform lets AI agents handle bookings, compare options, and execute purchases. No more browsing 20 tabs — just tell your assistant where you want to go.",
+          "4. Search Engines Under Threat\n\nIf AI agents plan and book trips, Google's $200B travel ad business takes a hit. Travelers won't need to search — they'll just ask.",
+          "5. Try This Today\n\nOpen ChatGPT and ask it to plan a full weekend trip with budget and bookings. If the result feels clunky, imagine it in two years. Would you still open a browser?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI just bought a travel startup called Odessia.",
+          "The founder already built Sonder into a travel giant.",
+          "Odessia lets AI agents book trips for you.",
+          "Search engines could lose their grip on travel planning.",
+          "Try asking an AI to plan your next trip today."
+        ]
+      },
+      "instagram": {
+        "caption": "A travel startup founded by the creator of Sonder just got acquired by OpenAI. 🧳\n\nOdessia lets AI agents handle bookings and compare options for you.\n\nThe founder already built Sonder into a $1B hospitality company.\n\nThat means your next trip could be planned and booked by an assistant, not a search engine.\n\nIf your work depends on travel content or SEO, the way people find trips is about to shift. ✈️\n\nWhen was the last time you booked a trip without opening twenty tabs? 🤔"
+      }
+    },
+    "instagram_caption": "A travel startup founded by the creator of Sonder just got acquired by OpenAI. 🧳\n\nOdessia lets AI agents handle bookings and compare options for you.\n\nThe founder already built Sonder into a $1B hospitality company.\n\nThat means your next trip could be planned and booked by an assistant, not a search engine.\n\nIf your work depends on travel content or SEO, the way people find trips is about to shift. ✈️\n\nWhen was the last time you booked a trip without opening twenty tabs? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "AI is coming for your vacation.",
+        "description": "OpenAI acquired Odessia, a travel startup founded by Sonder's creator, signaling AI agents will soon handle trip planning.",
+        "visual_hint": "Futuristic travel interface with AI overlay",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "airport terminal"
+      },
+      {
+        "hook": "The founder built a $1B giant.",
+        "description": "Lucas Vandenberghe turned Sonder into a hospitality unicorn. Now he's building AI to bypass traditional travel agencies entirely.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "visual_hint": "Founder silhouette against city skyline",
+        "image_query": "city skyline",
+        "image": "https://images.pexels.com/photos/11531154/pexels-photo-11531154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No more twenty open tabs.",
+        "description": "Odessia lets AI agents handle bookings, compare options, and execute purchases. Just tell your assistant where you want to go.",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "visual_hint": "Close-up of AI chat interface booking",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Google's $200B travel ads at risk.",
+        "description": "If AI agents plan and book trips, travelers won't search—they'll just ask. Search engines lose their grip on travel discovery.",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "visual_hint": "Hand holding phone with AI assistant",
+        "image_query": "hand smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try this AI trip planner now.",
+        "description": "Open ChatGPT and ask it to plan a full weekend trip with budget and bookings. Save this post for later.",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "visual_hint": "ChatGPT interface with travel itinerary",
+        "image_query": "laptop screen",
+        "image": "https://images.pexels.com/photos/21391567/pexels-photo-21391567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2207801992.jpg?resize=1200,801",
+    "savedAt": "2026-11-11T00:19:20.312Z",
+    "sourceId": "24b56e0e82fbea849eeb064f729be715"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "reddit-is-turning-user-conversations-into-ai-power",
     "prompt_version": "1.0.0",
     "status": "published",
