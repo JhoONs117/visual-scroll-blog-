@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "with-720m-round-britain-s-fractile-gets-a-leg-up-i",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+    "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+    "pubDate": "Wed, 11 Nov 2026 19:34:55 +0000",
+    "slides": [
+      "Fractile raises $720M. But can it really challenge Nvidia?",
+      "Its chips aim to run AI models faster and cheaper.",
+      "Yet the secret sauce is a memory trick most ignore.",
+      "For buyers, this means more choice and falling prices.",
+      "Test Fractile's benchmarks before locking into Nvidia."
+    ],
+    "thread_text": [
+      "1. $720M Bet Against Nvidia\n\nFractile just raised $720 million to build chips that run AI models faster and cheaper. The question is whether a memory trick most people ignore can actually break Nvidia's grip.",
+      "2. The Memory Trick\n\nFractile's chips use a memory architecture that most chip designers overlook. It lets AI models run with less data movement, which cuts both cost and latency.",
+      "3. Buyers Get Leverage\n\nIf Fractile delivers, buyers get a real alternative to Nvidia. More competition means falling prices and more choice, especially for companies priced out of top-tier GPUs.",
+      "4. The Catch\n\nFractile hasn't published independent benchmarks yet. The $720 million is a bet on a memory design that remains unproven at scale against Nvidia's ecosystem.",
+      "5. Test Before You Commit\n\nAsk Fractile for benchmark numbers on your own model before signing an Nvidia contract. If they can't provide them, you have your answer."
+    ],
+    "video_script": [
+      "Fractile raised seven hundred twenty million dollars to challenge Nvidia.",
+      "Their chips run AI models faster and cheaper using a memory trick.",
+      "Most chip designers ignore this memory approach, but Fractile built around it.",
+      "For buyers, that means more choice and falling prices if it works.",
+      "Test Fractile's benchmarks on your own models before locking into Nvidia."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $720M Bet Against Nvidia\n\nFractile just raised $720 million to build chips that run AI models faster and cheaper. The question is whether a memory trick most people ignore can actually break Nvidia's grip.",
+          "2. The Memory Trick\n\nFractile's chips use a memory architecture that most chip designers overlook. It lets AI models run with less data movement, which cuts both cost and latency.",
+          "3. Buyers Get Leverage\n\nIf Fractile delivers, buyers get a real alternative to Nvidia. More competition means falling prices and more choice, especially for companies priced out of top-tier GPUs.",
+          "4. The Catch\n\nFractile hasn't published independent benchmarks yet. The $720 million is a bet on a memory design that remains unproven at scale against Nvidia's ecosystem.",
+          "5. Test Before You Commit\n\nAsk Fractile for benchmark numbers on your own model before signing an Nvidia contract. If they can't provide them, you have your answer."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Fractile raised seven hundred twenty million dollars to challenge Nvidia.",
+          "Their chips run AI models faster and cheaper using a memory trick.",
+          "Most chip designers ignore this memory approach, but Fractile built around it.",
+          "For buyers, that means more choice and falling prices if it works.",
+          "Test Fractile's benchmarks on your own models before locking into Nvidia."
+        ]
+      },
+      "instagram": {
+        "caption": "$720 million says Nvidia's grip can be broken with a memory trick most chip designers overlook.\n\nFractile's chips move less data, which cuts cost and latency when running AI models. 🧠\n\nIf it delivers, buyers get a real alternative and prices fall — especially for teams priced out of top-tier GPUs.\n\nBut no independent benchmarks exist yet, so the design is unproven at scale. ⚠️\n\nBefore you renew an Nvidia contract, ask Fractile for benchmark numbers on your own model. 📊\n\nIf they can't provide them, doesn't that tell you everything? 🤔"
+      }
+    },
+    "instagram_caption": "$720 million says Nvidia's grip can be broken with a memory trick most chip designers overlook.\n\nFractile's chips move less data, which cuts cost and latency when running AI models. 🧠\n\nIf it delivers, buyers get a real alternative and prices fall — especially for teams priced out of top-tier GPUs.\n\nBut no independent benchmarks exist yet, so the design is unproven at scale. ⚠️\n\nBefore you renew an Nvidia contract, ask Fractile for benchmark numbers on your own model. 📊\n\nIf they can't provide them, doesn't that tell you everything? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Can a memory trick beat Nvidia?",
+        "description": "Fractile raised $720M to build AI chips using an overlooked memory architecture that cuts data movement and cost.",
+        "visual_hint": "AI chip close-up with glowing circuits",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer chip"
+      },
+      {
+        "hook": "Faster AI for less money",
+        "description": "Fractile's chips aim to run AI models faster and cheaper by reducing data movement, directly challenging Nvidia's dominance.",
+        "visual_hint": "Server rack with blinking lights",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The overlooked memory advantage",
+        "description": "Fractile's secret sauce is a memory architecture most chip designers ignore, enabling less data movement and lower latency.",
+        "visual_hint": "Macro shot of memory modules",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "memory module",
+        "image": "https://images.pexels.com/photos/33792054/pexels-photo-33792054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Buyers gain real leverage",
+        "description": "If Fractile delivers, buyers get a true alternative to Nvidia, meaning more choice and falling prices for AI hardware.",
+        "visual_hint": "Hand holding a chip with price tag",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding chip",
+        "image": "https://images.pexels.com/photos/6962256/pexels-photo-6962256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test benchmarks before you commit",
+        "description": "Ask Fractile for benchmark numbers on your own model before signing an Nvidia contract. If they can't provide them, you have your answer.",
+        "visual_hint": "Person reviewing benchmark charts",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "benchmark chart",
+        "image": "https://images.pexels.com/photos/7947661/pexels-photo-7947661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2183896789.jpg?resize=1200,800",
+    "savedAt": "2026-11-11T23:52:47.788Z",
+    "sourceId": "69792f3c808437d7b258bec4f45bc408"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "coreweave-turns-to-customer-prepayments-shorter-co",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+    "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+    "pubDate": "Wed, 11 Nov 2026 19:54:00 +0000",
+    "slides": [
+      "Can CoreWeave fund AI growth without burning cash?",
+      "It now asks customers to prepay for compute upfront",
+      "Yet shorter contracts shrink future revenue visibility",
+      "Smaller AI labs may face tighter cash timing demands",
+      "Check your compute contract terms before renewal"
+    ],
+    "thread_text": [
+      "1. The cash burn question\n\nCoreWeave now demands prepayment for compute upfront, shifting funding pressure onto customers.",
+      "2. Prepay to play\n\nAI startups must hand over cash before using a single GPU, a move that protects CoreWeave but strains smaller budgets.",
+      "3. Shorter contracts, less visibility\n\nWhile prepayment helps cash flow, shorter deal lengths mean CoreWeave's future revenue is harder to predict.",
+      "4. Small labs squeezed\n\nSmaller AI labs face tighter timing on payments, forcing them to choose between reserving compute and preserving runway.",
+      "5. Check before you renew\n\nReview your compute contract terms now. Does prepayment lock up cash you need for hiring or research?"
+    ],
+    "video_script": [
+      "CoreWeave wants cash before you touch a GPU.",
+      "Prepayment upfront protects them but strains your budget.",
+      "Shorter contracts mean less revenue visibility for CoreWeave.",
+      "Smaller AI labs face tighter cash timing demands.",
+      "Check your compute contract terms before you renew."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The cash burn question\n\nCoreWeave now demands prepayment for compute upfront, shifting funding pressure onto customers.",
+          "2. Prepay to play\n\nAI startups must hand over cash before using a single GPU, a move that protects CoreWeave but strains smaller budgets.",
+          "3. Shorter contracts, less visibility\n\nWhile prepayment helps cash flow, shorter deal lengths mean CoreWeave's future revenue is harder to predict.",
+          "4. Small labs squeezed\n\nSmaller AI labs face tighter timing on payments, forcing them to choose between reserving compute and preserving runway.",
+          "5. Check before you renew\n\nReview your compute contract terms now. Does prepayment lock up cash you need for hiring or research?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "CoreWeave wants cash before you touch a GPU.",
+          "Prepayment upfront protects them but strains your budget.",
+          "Shorter contracts mean less revenue visibility for CoreWeave.",
+          "Smaller AI labs face tighter cash timing demands.",
+          "Check your compute contract terms before you renew."
+        ]
+      },
+      "instagram": {
+        "caption": "Want to use those GPUs? Pay upfront first. 💸\n\nCoreWeave now asks customers to prepay for compute before they touch a single chip, shifting the funding burden onto them.\n\nShorter contracts help CoreWeave's cash flow but make its future revenue harder to predict.\n\nSmaller AI labs get squeezed: reserve compute or preserve runway.\n\nIf you rent compute for your own projects, check your contract terms before renewal. 🔍\n\nDoes prepayment lock up cash you need for hiring, tools, or research? 🤔"
+      }
+    },
+    "instagram_caption": "Want to use those GPUs? Pay upfront first. 💸\n\nCoreWeave now asks customers to prepay for compute before they touch a single chip, shifting the funding burden onto them.\n\nShorter contracts help CoreWeave's cash flow but make its future revenue harder to predict.\n\nSmaller AI labs get squeezed: reserve compute or preserve runway.\n\nIf you rent compute for your own projects, check your contract terms before renewal. 🔍\n\nDoes prepayment lock up cash you need for hiring, tools, or research? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Can CoreWeave grow without burning cash?",
+        "description": "CoreWeave now demands upfront prepayment for compute, shifting funding pressure onto its customers.",
+        "visual_hint": "Server room with glowing racks",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Prepay to play: cash before compute",
+        "description": "AI startups must hand over cash before using a single GPU, straining smaller budgets.",
+        "visual_hint": "Hand holding credit card over keyboard",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "credit card payment",
+        "image": "https://images.pexels.com/photos/5239804/pexels-photo-5239804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Shorter contracts shrink future visibility",
+        "description": "While prepayment helps cash flow, shorter deal lengths make CoreWeave's future revenue harder to predict.",
+        "visual_hint": "Fading line graph on screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "line graph",
+        "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Small labs squeezed by tighter payment timing",
+        "description": "Smaller AI labs face tighter payment deadlines, forcing a choice between reserving compute and preserving runway.",
+        "visual_hint": "Person weighing two options",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "business decision",
+        "image": "https://images.pexels.com/photos/6326394/pexels-photo-6326394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your compute contract before renewal",
+        "description": "Review your compute contract terms now. Does prepayment lock up cash you need for hiring or research?",
+        "visual_hint": "Contract document with pen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "contract signing",
+        "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304376406.jpg?w=1024",
+    "savedAt": "2026-11-11T23:52:38.248Z",
+    "sourceId": "546c365caa1bad2dd9d9476677eed90d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "the-us-is-winning-the-ai-race-jensen-huang-could-h",
     "prompt_version": "1.0.0",
     "status": "published",
