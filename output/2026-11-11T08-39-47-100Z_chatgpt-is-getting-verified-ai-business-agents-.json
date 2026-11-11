@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "chatgpt-is-getting-verified-ai-business-agents-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "ChatGPT is getting verified AI ‘Business Agents’",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+  "pubDate": "2026-11-10T18:00:00.000Z",
+  "slides": [
+    "Can a chatbot run your business errands?",
+    "OpenAI unveils verified AI business agents in ChatGPT",
+    "Only approved vendors can deploy them — not anyone",
+    "Your team can now delegate bookings and orders",
+    "Test one vendor's agent before rivals adopt it"
+  ],
+  "thread_text": [
+    "1. Errands, automated?\n\nOpenAI just gave ChatGPT the ability to book and order on your behalf — but only through a shortlist of approved vendors.",
+    "2. Approved vendors only\n\nYou can't plug in any service you like. Every agent has to pass OpenAI's verification first, which keeps quality tight but options narrow.",
+    "3. Delegate the busywork\n\nYour team can now hand off bookings and orders directly inside the chat, cutting the back-and-forth that usually eats a morning.",
+    "4. Early access matters\n\nTesting one vendor's agent now means you learn the quirks before competitors do — and you get a say in which workflows get refined.",
+    "5. Try it this week\n\nPick one repetitive task your team does weekly. Test the closest approved agent on it. Does it save time, or just add a review step?"
+  ],
+  "video_script": [
+    "What if ChatGPT could run your errands?",
+    "OpenAI just launched verified business agents.",
+    "Only approved vendors can deploy them, though.",
+    "That means your team can hand off bookings and orders.",
+    "Test one vendor's agent before your rivals adopt it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Errands, automated?\n\nOpenAI just gave ChatGPT the ability to book and order on your behalf — but only through a shortlist of approved vendors.",
+        "2. Approved vendors only\n\nYou can't plug in any service you like. Every agent has to pass OpenAI's verification first, which keeps quality tight but options narrow.",
+        "3. Delegate the busywork\n\nYour team can now hand off bookings and orders directly inside the chat, cutting the back-and-forth that usually eats a morning.",
+        "4. Early access matters\n\nTesting one vendor's agent now means you learn the quirks before competitors do — and you get a say in which workflows get refined.",
+        "5. Try it this week\n\nPick one repetitive task your team does weekly. Test the closest approved agent on it. Does it save time, or just add a review step?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "What if ChatGPT could run your errands?",
+        "OpenAI just launched verified business agents.",
+        "Only approved vendors can deploy them, though.",
+        "That means your team can hand off bookings and orders.",
+        "Test one vendor's agent before your rivals adopt it."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now hand off bookings and orders inside ChatGPT — but only through a shortlist of vendors OpenAI has verified.\n\nOpenAI is rolling out verified AI “business agents” in ChatGPT, and approval is required before any vendor can deploy one. Your team can delegate the busywork directly in the chat.\n\nFewer back-and-forth emails, more done in one thread 🔁\n\nFor anyone creating or publishing content, this means testing a vendor’s agent early shows you the quirks before competitors find them — and your feedback shapes how the workflows get refined.\n\nWhich repetitive task would you hand off first? 🤔"
+    }
+  },
+  "instagram_caption": "You can now hand off bookings and orders inside ChatGPT — but only through a shortlist of vendors OpenAI has verified.\n\nOpenAI is rolling out verified AI “business agents” in ChatGPT, and approval is required before any vendor can deploy one. Your team can delegate the busywork directly in the chat.\n\nFewer back-and-forth emails, more done in one thread 🔁\n\nFor anyone creating or publishing content, this means testing a vendor’s agent early shows you the quirks before competitors find them — and your feedback shapes how the workflows get refined.\n\nWhich repetitive task would you hand off first? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Only approved vendors can deploy AI agents",
+      "description": "OpenAI verifies every business agent before it can book or order in ChatGPT, ensuring quality but limiting options.",
+      "visual_hint": "Checkmark on a vendor list",
+      "layout_type": "hero",
+      "icon": "check",
+      "image_query": "checklist clipboard"
+    },
+    {
+      "hook": "OpenAI unveils verified AI business agents",
+      "description": "ChatGPT now lets approved vendors deploy agents that handle bookings and orders directly inside the chat.",
+      "visual_hint": "ChatGPT interface with business icons",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "chatbot interface",
+      "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Can a chatbot run your business errands?",
+      "description": "Yes, but only through a shortlist of verified vendors—no arbitrary services, which keeps quality tight but options narrow.",
+      "visual_hint": "AI robot booking calendar",
+      "layout_type": "sensor-zoom",
+      "icon": "waves",
+      "image_query": "robot assistant",
+      "image": "https://images.pexels.com/photos/9534649/pexels-photo-9534649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Delegate bookings and orders inside chat",
+      "description": "Your team can hand off repetitive tasks directly in ChatGPT, cutting the back-and-forth that eats a morning.",
+      "visual_hint": "Team collaborating around laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office team laptop",
+      "image": "https://images.pexels.com/photos/7437087/pexels-photo-7437087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this post to test an agent",
+      "description": "Pick one weekly task your team repeats, test the closest approved agent, and see if it saves time or adds steps.",
+      "visual_hint": "Phone screen with save icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone save icon",
+      "image": "https://images.pexels.com/photos/3850481/pexels-photo-3850481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Business-Agent-Customer-Conversation.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+  "savedAt": "2026-11-11T08:40:18.503Z",
+  "sourceId": "97a11b3b9df55130f6b721b98fa2ce8b"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-has-its-own-ai-powered-office-suite-now",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic has its own AI-powered office suite now",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+  "pubDate": "2026-11-10T17:30:00.000Z",
+  "slides": [
+    "Anthropic's office suite: threat to Microsoft or Google?",
+    "Its AI writes documents, slides, and spreadsheets directly",
+    "But it only runs on Claude, locking users in",
+    "Teams already on Claude can try it today",
+    "Test one real workflow before your rivals do"
+  ],
+  "thread_text": [
+    "1. The AI office suite war\n\nAnthropic now writes documents, slides, and spreadsheets directly inside its own app. Microsoft and Google should be paying attention.",
+    "2. But there's a catch\n\nIt only runs on Claude, so every file you create locks you deeper into their ecosystem. Convenience comes with a price.",
+    "3. Are you already in?\n\nIf your team uses Claude today, you can test the office suite right now. No waitlist, no extra cost.",
+    "4. First-mover advantage\n\nEarly adopters will find the quirks and workarounds before competitors do. That knowledge becomes a real edge.",
+    "5. Test one workflow today\n\nPick a real document or deck you need this week and build it with Claude. If it saves less time than it costs, you'll know fast."
+  ],
+  "video_script": [
+    "Anthropic just launched an AI office suite.",
+    "It writes documents, slides, and spreadsheets for you.",
+    "But it only works inside Claude, locking you in.",
+    "If your team already uses Claude, try it now.",
+    "Test one real workflow before your rivals do."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The AI office suite war\n\nAnthropic now writes documents, slides, and spreadsheets directly inside its own app. Microsoft and Google should be paying attention.",
+        "2. But there's a catch\n\nIt only runs on Claude, so every file you create locks you deeper into their ecosystem. Convenience comes with a price.",
+        "3. Are you already in?\n\nIf your team uses Claude today, you can test the office suite right now. No waitlist, no extra cost.",
+        "4. First-mover advantage\n\nEarly adopters will find the quirks and workarounds before competitors do. That knowledge becomes a real edge.",
+        "5. Test one workflow today\n\nPick a real document or deck you need this week and build it with Claude. If it saves less time than it costs, you'll know fast."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic just launched an AI office suite.",
+        "It writes documents, slides, and spreadsheets for you.",
+        "But it only works inside Claude, locking you in.",
+        "If your team already uses Claude, try it now.",
+        "Test one real workflow before your rivals do."
+      ]
+    },
+    "instagram": {
+      "caption": "Anthropic now writes your documents, slides, and spreadsheets inside its own app — not Microsoft's, not Google's.\n\nIt's a full office suite, and the AI builds the files directly. 📄\n\nThe catch: it only runs on Claude. Every file you create locks you deeper into their ecosystem.\n\nFor anyone who ships content or decks, your tool stack just got a third option — and a new lock-in risk.\n\nIf your team is already on Claude, you can test it today, no waitlist.\n\nWhat's one real workflow you'd run through it this week before your rivals do? ⚡"
+    }
+  },
+  "instagram_caption": "Anthropic now writes your documents, slides, and spreadsheets inside its own app — not Microsoft's, not Google's.\n\nIt's a full office suite, and the AI builds the files directly. 📄\n\nThe catch: it only runs on Claude. Every file you create locks you deeper into their ecosystem.\n\nFor anyone who ships content or decks, your tool stack just got a third option — and a new lock-in risk.\n\nIf your team is already on Claude, you can test it today, no waitlist.\n\nWhat's one real workflow you'd run through it this week before your rivals do? ⚡",
+  "carousel_slides": [
+    {
+      "hook": "Is Anthropic coming for Microsoft and Google?",
+      "description": "Anthropic now writes documents, slides, and spreadsheets inside its own app, directly threatening Microsoft and Google's office suite dominance.",
+      "visual_hint": "Split screen of office apps versus AI interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "office desk"
+    },
+    {
+      "hook": "AI writes documents, slides, and spreadsheets directly",
+      "description": "Claude generates your entire workflow without switching apps, saving time but keeping all output within Anthropic's ecosystem.",
+      "visual_hint": "AI generating document, slide, and spreadsheet icons",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "laptop screen",
+      "image": "https://images.pexels.com/photos/21391567/pexels-photo-21391567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "But it only runs on Claude",
+      "description": "Every file you create locks you deeper into Anthropic's ecosystem, making convenience come with a hidden price: vendor lock-in.",
+      "visual_hint": "Lock icon over Claude interface with files",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "padlock chain",
+      "image": "https://images.pexels.com/photos/10509162/pexels-photo-10509162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Already on Claude? Try it today",
+      "description": "Teams using Claude can access the office suite right now with no waitlist or extra cost, gaining a first-mover advantage over competitors.",
+      "visual_hint": "Hand clicking 'Try now' button on Claude",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand typing",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one real workflow before rivals do",
+      "description": "Pick a document or deck you need this week and build it with Claude. Save this post and visit the link in bio to start.",
+      "visual_hint": "Person working on document with timer",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-11T08:40:28.064Z",
+  "sourceId": "804eba17b1eac0db967648a854474a96"
+}

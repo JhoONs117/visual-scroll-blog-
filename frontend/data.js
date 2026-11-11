@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "anthropic-has-its-own-ai-powered-office-suite-now",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Anthropic has its own AI-powered office suite now",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+    "pubDate": "2026-11-10T17:30:00.000Z",
+    "slides": [
+      "Anthropic's office suite: threat to Microsoft or Google?",
+      "Its AI writes documents, slides, and spreadsheets directly",
+      "But it only runs on Claude, locking users in",
+      "Teams already on Claude can try it today",
+      "Test one real workflow before your rivals do"
+    ],
+    "thread_text": [
+      "1. The AI office suite war\n\nAnthropic now writes documents, slides, and spreadsheets directly inside its own app. Microsoft and Google should be paying attention.",
+      "2. But there's a catch\n\nIt only runs on Claude, so every file you create locks you deeper into their ecosystem. Convenience comes with a price.",
+      "3. Are you already in?\n\nIf your team uses Claude today, you can test the office suite right now. No waitlist, no extra cost.",
+      "4. First-mover advantage\n\nEarly adopters will find the quirks and workarounds before competitors do. That knowledge becomes a real edge.",
+      "5. Test one workflow today\n\nPick a real document or deck you need this week and build it with Claude. If it saves less time than it costs, you'll know fast."
+    ],
+    "video_script": [
+      "Anthropic just launched an AI office suite.",
+      "It writes documents, slides, and spreadsheets for you.",
+      "But it only works inside Claude, locking you in.",
+      "If your team already uses Claude, try it now.",
+      "Test one real workflow before your rivals do."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The AI office suite war\n\nAnthropic now writes documents, slides, and spreadsheets directly inside its own app. Microsoft and Google should be paying attention.",
+          "2. But there's a catch\n\nIt only runs on Claude, so every file you create locks you deeper into their ecosystem. Convenience comes with a price.",
+          "3. Are you already in?\n\nIf your team uses Claude today, you can test the office suite right now. No waitlist, no extra cost.",
+          "4. First-mover advantage\n\nEarly adopters will find the quirks and workarounds before competitors do. That knowledge becomes a real edge.",
+          "5. Test one workflow today\n\nPick a real document or deck you need this week and build it with Claude. If it saves less time than it costs, you'll know fast."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Anthropic just launched an AI office suite.",
+          "It writes documents, slides, and spreadsheets for you.",
+          "But it only works inside Claude, locking you in.",
+          "If your team already uses Claude, try it now.",
+          "Test one real workflow before your rivals do."
+        ]
+      },
+      "instagram": {
+        "caption": "Anthropic now writes your documents, slides, and spreadsheets inside its own app — not Microsoft's, not Google's.\n\nIt's a full office suite, and the AI builds the files directly. 📄\n\nThe catch: it only runs on Claude. Every file you create locks you deeper into their ecosystem.\n\nFor anyone who ships content or decks, your tool stack just got a third option — and a new lock-in risk.\n\nIf your team is already on Claude, you can test it today, no waitlist.\n\nWhat's one real workflow you'd run through it this week before your rivals do? ⚡"
+      }
+    },
+    "instagram_caption": "Anthropic now writes your documents, slides, and spreadsheets inside its own app — not Microsoft's, not Google's.\n\nIt's a full office suite, and the AI builds the files directly. 📄\n\nThe catch: it only runs on Claude. Every file you create locks you deeper into their ecosystem.\n\nFor anyone who ships content or decks, your tool stack just got a third option — and a new lock-in risk.\n\nIf your team is already on Claude, you can test it today, no waitlist.\n\nWhat's one real workflow you'd run through it this week before your rivals do? ⚡",
+    "carousel_slides": [
+      {
+        "hook": "Is Anthropic coming for Microsoft and Google?",
+        "description": "Anthropic now writes documents, slides, and spreadsheets inside its own app, directly threatening Microsoft and Google's office suite dominance.",
+        "visual_hint": "Split screen of office apps versus AI interface",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "office desk"
+      },
+      {
+        "hook": "AI writes documents, slides, and spreadsheets directly",
+        "description": "Claude generates your entire workflow without switching apps, saving time but keeping all output within Anthropic's ecosystem.",
+        "visual_hint": "AI generating document, slide, and spreadsheet icons",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "laptop screen",
+        "image": "https://images.pexels.com/photos/21391567/pexels-photo-21391567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "But it only runs on Claude",
+        "description": "Every file you create locks you deeper into Anthropic's ecosystem, making convenience come with a hidden price: vendor lock-in.",
+        "visual_hint": "Lock icon over Claude interface with files",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "padlock chain",
+        "image": "https://images.pexels.com/photos/10509162/pexels-photo-10509162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Already on Claude? Try it today",
+        "description": "Teams using Claude can access the office suite right now with no waitlist or extra cost, gaining a first-mover advantage over competitors.",
+        "visual_hint": "Hand clicking 'Try now' button on Claude",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand typing",
+        "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one real workflow before rivals do",
+        "description": "Pick a document or deck you need this week and build it with Claude. Save this post and visit the link in bio to start.",
+        "visual_hint": "Person working on document with timer",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-11-11T08:40:28.064Z",
+    "sourceId": "804eba17b1eac0db967648a854474a96"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "chatgpt-is-getting-verified-ai-business-agents-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "ChatGPT is getting verified AI ‘Business Agents’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+    "pubDate": "2026-11-10T18:00:00.000Z",
+    "slides": [
+      "Can a chatbot run your business errands?",
+      "OpenAI unveils verified AI business agents in ChatGPT",
+      "Only approved vendors can deploy them — not anyone",
+      "Your team can now delegate bookings and orders",
+      "Test one vendor's agent before rivals adopt it"
+    ],
+    "thread_text": [
+      "1. Errands, automated?\n\nOpenAI just gave ChatGPT the ability to book and order on your behalf — but only through a shortlist of approved vendors.",
+      "2. Approved vendors only\n\nYou can't plug in any service you like. Every agent has to pass OpenAI's verification first, which keeps quality tight but options narrow.",
+      "3. Delegate the busywork\n\nYour team can now hand off bookings and orders directly inside the chat, cutting the back-and-forth that usually eats a morning.",
+      "4. Early access matters\n\nTesting one vendor's agent now means you learn the quirks before competitors do — and you get a say in which workflows get refined.",
+      "5. Try it this week\n\nPick one repetitive task your team does weekly. Test the closest approved agent on it. Does it save time, or just add a review step?"
+    ],
+    "video_script": [
+      "What if ChatGPT could run your errands?",
+      "OpenAI just launched verified business agents.",
+      "Only approved vendors can deploy them, though.",
+      "That means your team can hand off bookings and orders.",
+      "Test one vendor's agent before your rivals adopt it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Errands, automated?\n\nOpenAI just gave ChatGPT the ability to book and order on your behalf — but only through a shortlist of approved vendors.",
+          "2. Approved vendors only\n\nYou can't plug in any service you like. Every agent has to pass OpenAI's verification first, which keeps quality tight but options narrow.",
+          "3. Delegate the busywork\n\nYour team can now hand off bookings and orders directly inside the chat, cutting the back-and-forth that usually eats a morning.",
+          "4. Early access matters\n\nTesting one vendor's agent now means you learn the quirks before competitors do — and you get a say in which workflows get refined.",
+          "5. Try it this week\n\nPick one repetitive task your team does weekly. Test the closest approved agent on it. Does it save time, or just add a review step?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "What if ChatGPT could run your errands?",
+          "OpenAI just launched verified business agents.",
+          "Only approved vendors can deploy them, though.",
+          "That means your team can hand off bookings and orders.",
+          "Test one vendor's agent before your rivals adopt it."
+        ]
+      },
+      "instagram": {
+        "caption": "You can now hand off bookings and orders inside ChatGPT — but only through a shortlist of vendors OpenAI has verified.\n\nOpenAI is rolling out verified AI “business agents” in ChatGPT, and approval is required before any vendor can deploy one. Your team can delegate the busywork directly in the chat.\n\nFewer back-and-forth emails, more done in one thread 🔁\n\nFor anyone creating or publishing content, this means testing a vendor’s agent early shows you the quirks before competitors find them — and your feedback shapes how the workflows get refined.\n\nWhich repetitive task would you hand off first? 🤔"
+      }
+    },
+    "instagram_caption": "You can now hand off bookings and orders inside ChatGPT — but only through a shortlist of vendors OpenAI has verified.\n\nOpenAI is rolling out verified AI “business agents” in ChatGPT, and approval is required before any vendor can deploy one. Your team can delegate the busywork directly in the chat.\n\nFewer back-and-forth emails, more done in one thread 🔁\n\nFor anyone creating or publishing content, this means testing a vendor’s agent early shows you the quirks before competitors find them — and your feedback shapes how the workflows get refined.\n\nWhich repetitive task would you hand off first? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Only approved vendors can deploy AI agents",
+        "description": "OpenAI verifies every business agent before it can book or order in ChatGPT, ensuring quality but limiting options.",
+        "visual_hint": "Checkmark on a vendor list",
+        "layout_type": "hero",
+        "icon": "check",
+        "image_query": "checklist clipboard"
+      },
+      {
+        "hook": "OpenAI unveils verified AI business agents",
+        "description": "ChatGPT now lets approved vendors deploy agents that handle bookings and orders directly inside the chat.",
+        "visual_hint": "ChatGPT interface with business icons",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "chatbot interface",
+        "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Can a chatbot run your business errands?",
+        "description": "Yes, but only through a shortlist of verified vendors—no arbitrary services, which keeps quality tight but options narrow.",
+        "visual_hint": "AI robot booking calendar",
+        "layout_type": "sensor-zoom",
+        "icon": "waves",
+        "image_query": "robot assistant",
+        "image": "https://images.pexels.com/photos/9534649/pexels-photo-9534649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Delegate bookings and orders inside chat",
+        "description": "Your team can hand off repetitive tasks directly in ChatGPT, cutting the back-and-forth that eats a morning.",
+        "visual_hint": "Team collaborating around laptop",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office team laptop",
+        "image": "https://images.pexels.com/photos/7437087/pexels-photo-7437087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this post to test an agent",
+        "description": "Pick one weekly task your team repeats, test the closest approved agent, and see if it saves time or adds steps.",
+        "visual_hint": "Phone screen with save icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone save icon",
+        "image": "https://images.pexels.com/photos/3850481/pexels-photo-3850481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Business-Agent-Customer-Conversation.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "savedAt": "2026-11-11T08:40:18.503Z",
+    "sourceId": "97a11b3b9df55130f6b721b98fa2ce8b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "oura-to-acquire-ai-native-primary-care-startup-cou",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+    "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "pubDate": "Tue, 10 Nov 2026 19:23:34 +0000",
+    "slides": [
+      "Oura buys Counsel Health for $625M — but why?",
+      "Counsel Health is an AI-native primary care startup",
+      "The ring maker now wants to practice medicine",
+      "Users may soon get AI-backed clinical care",
+      "Ask yourself: would you trust a ring to diagnose you?"
+    ],
+    "thread_text": [
+      "1. The $625M question\n\nOura just dropped $625 million to buy Counsel Health, an AI primary care startup. The ring maker now wants to practice medicine.",
+      "2. From tracking to treating\n\nCounsel Health is AI-native primary care — not just monitoring, but diagnosing and prescribing. Oura's ring data could feed directly into clinical decisions.",
+      "3. Your ring as your doctor\n\nUsers may soon get AI-backed clinical care through the same device that tracks their sleep. The line between wearable and physician is vanishing.",
+      "4. Trust at stake\n\nWould you trust a ring to diagnose you? That's the real question Oura is betting $625M you'll answer yes to.",
+      "5. Test your trust\n\nNext time your ring buzzes with a health alert, ask: would you act on it without a human doctor? That gut reaction is the whole market."
+    ],
+    "video_script": [
+      "Oura just bought Counsel Health for six hundred twenty-five million dollars.",
+      "Counsel Health is an AI primary care startup, not just a tracking app.",
+      "The ring maker now wants to practice medicine, not just monitor it.",
+      "Users may soon get AI-backed clinical care from their finger.",
+      "Would you trust a ring to diagnose you? Ask yourself that."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $625M question\n\nOura just dropped $625 million to buy Counsel Health, an AI primary care startup. The ring maker now wants to practice medicine.",
+          "2. From tracking to treating\n\nCounsel Health is AI-native primary care — not just monitoring, but diagnosing and prescribing. Oura's ring data could feed directly into clinical decisions.",
+          "3. Your ring as your doctor\n\nUsers may soon get AI-backed clinical care through the same device that tracks their sleep. The line between wearable and physician is vanishing.",
+          "4. Trust at stake\n\nWould you trust a ring to diagnose you? That's the real question Oura is betting $625M you'll answer yes to.",
+          "5. Test your trust\n\nNext time your ring buzzes with a health alert, ask: would you act on it without a human doctor? That gut reaction is the whole market."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Oura just bought Counsel Health for six hundred twenty-five million dollars.",
+          "Counsel Health is an AI primary care startup, not just a tracking app.",
+          "The ring maker now wants to practice medicine, not just monitor it.",
+          "Users may soon get AI-backed clinical care from their finger.",
+          "Would you trust a ring to diagnose you? Ask yourself that."
+        ]
+      },
+      "instagram": {
+        "caption": "$625 million just went into the idea that your ring could soon diagnose you.\n\nOura is buying Counsel Health, an AI primary care startup that doesn't just track data — it diagnoses and prescribes. 🩺\n\nThat means your sleep and heart rate data could feed directly into clinical decisions, with no human doctor in the loop by default.\n\nIf you publish health or tech content, this is the story your audience will ask about: where tracking ends and treatment begins.\n\nWould you act on a diagnosis that came from your ring, without a doctor confirming it? 💭"
+      }
+    },
+    "instagram_caption": "$625 million just went into the idea that your ring could soon diagnose you.\n\nOura is buying Counsel Health, an AI primary care startup that doesn't just track data — it diagnoses and prescribes. 🩺\n\nThat means your sleep and heart rate data could feed directly into clinical decisions, with no human doctor in the loop by default.\n\nIf you publish health or tech content, this is the story your audience will ask about: where tracking ends and treatment begins.\n\nWould you act on a diagnosis that came from your ring, without a doctor confirming it? 💭",
+    "carousel_slides": [
+      {
+        "hook": "Would you trust a ring to diagnose you?",
+        "description": "Oura paid $625M for Counsel Health, an AI primary care startup, betting your ring can become your doctor.",
+        "visual_hint": "Smart ring on finger, medical cross overlay",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smart ring finger"
+      },
+      {
+        "hook": "From tracking sleep to treating patients",
+        "description": "Counsel Health is AI-native primary care that diagnoses and prescribes, not just monitors. Oura's data could feed clinical decisions.",
+        "visual_hint": "AI interface with medical charts",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "medical chart screen",
+        "image": "https://images.pexels.com/photos/6627348/pexels-photo-6627348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The ring maker now practices medicine",
+        "description": "Oura's $625M acquisition blurs the line between wearable tracker and physician, turning health data into clinical action.",
+        "visual_hint": "Ring sensor zoomed with data streams",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "sensor closeup technology",
+        "image": "https://images.pexels.com/photos/18880010/pexels-photo-18880010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your ring could soon prescribe treatment",
+        "description": "Users may get AI-backed clinical care from the same device tracking their sleep. The wearable-physician boundary is vanishing.",
+        "visual_hint": "Hand wearing ring, doctor silhouette behind",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand wearing ring",
+        "image": "https://images.pexels.com/photos/30381729/pexels-photo-30381729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your ring buzzes",
+        "description": "Next health alert, ask: would you act without a human doctor? Comment your gut reaction and visit the link in bio.",
+        "visual_hint": "Ring notification with question mark",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "notification alert phone",
+        "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2296609700.jpg?resize=1200,799",
+    "savedAt": "2026-11-11T08:40:07.731Z",
+    "sourceId": "d29090d0b774daa561e83d520622c006"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "proximal-ventures-raises-debut-fund-to-back-startu",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+    "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+    "pubDate": "Tue, 10 Nov 2026 20:47:05 +0000",
+    "slides": [
+      "Can AI really fix drug development's failure rate?",
+      "Proximal Ventures just raised its debut fund for this",
+      "It bets on AI startups, not traditional biotech labs",
+      "Founders pitching drug-AI startups now have a new check",
+      "Test one AI drug tool before competitors do"
+    ],
+    "thread_text": [
+      "1. Drug development is broken\n\nNine out of ten drugs fail in clinical trials. Proximal Ventures just raised its debut fund to bet on AI startups that could fix that.",
+      "2. Not another biotech fund\n\nThis new fund only backs AI startups, not traditional biotech labs. It's a direct challenge to how drugs have always been developed.",
+      "3. Founders get a new check\n\nIf you're pitching a drug-AI startup, there's fresh capital available now. Proximal Ventures is ready to write the first check.",
+      "4. Test before you commit\n\nBefore you trust any AI drug tool, run it against a known benchmark. Competitors won't wait for you to catch up.",
+      "5. What's your move?\n\nIf you had access to a drug-AI tool today, what would you test first? Try one prompt on a public dataset and see for yourself."
+    ],
+    "video_script": [
+      "Drug development fails ninety percent of the time.",
+      "Proximal Ventures raised a new fund to fix that.",
+      "They're betting on AI startups, not biotech labs.",
+      "Founders pitching drug-AI startups can get a check.",
+      "Test one tool before your competitors do."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Drug development is broken\n\nNine out of ten drugs fail in clinical trials. Proximal Ventures just raised its debut fund to bet on AI startups that could fix that.",
+          "2. Not another biotech fund\n\nThis new fund only backs AI startups, not traditional biotech labs. It's a direct challenge to how drugs have always been developed.",
+          "3. Founders get a new check\n\nIf you're pitching a drug-AI startup, there's fresh capital available now. Proximal Ventures is ready to write the first check.",
+          "4. Test before you commit\n\nBefore you trust any AI drug tool, run it against a known benchmark. Competitors won't wait for you to catch up.",
+          "5. What's your move?\n\nIf you had access to a drug-AI tool today, what would you test first? Try one prompt on a public dataset and see for yourself."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Drug development fails ninety percent of the time.",
+          "Proximal Ventures raised a new fund to fix that.",
+          "They're betting on AI startups, not biotech labs.",
+          "Founders pitching drug-AI startups can get a check.",
+          "Test one tool before your competitors do."
+        ]
+      },
+      "instagram": {
+        "caption": "Nine out of ten drugs fail in clinical trials — that's the failure rate Proximal Ventures is betting AI can cut.\n\nThe firm just raised its debut fund, and it only backs AI startups, not traditional biotech labs 🧪\n\nIf you're pitching a drug-AI startup, there's fresh capital ready to write a first check.\n\nFor anyone building or testing AI drug tools: run yours against a known benchmark before a competitor does 🔬\n\nIf you had one drug-AI tool today, what would you test first? 🧠 Try one prompt on a public dataset and see for yourself."
+      }
+    },
+    "instagram_caption": "Nine out of ten drugs fail in clinical trials — that's the failure rate Proximal Ventures is betting AI can cut.\n\nThe firm just raised its debut fund, and it only backs AI startups, not traditional biotech labs 🧪\n\nIf you're pitching a drug-AI startup, there's fresh capital ready to write a first check.\n\nFor anyone building or testing AI drug tools: run yours against a known benchmark before a competitor does 🔬\n\nIf you had one drug-AI tool today, what would you test first? 🧠 Try one prompt on a public dataset and see for yourself.",
+    "carousel_slides": [
+      {
+        "hook": "90% of drugs fail. Can AI fix that?",
+        "description": "Proximal Ventures raised its debut fund to back AI startups that aim to reverse drug development's 90% failure rate.",
+        "visual_hint": "Scientist looking at holographic data",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "scientist laboratory"
+      },
+      {
+        "hook": "This fund bets only on AI",
+        "description": "Proximal Ventures backs AI startups exclusively, not traditional biotech labs—a direct challenge to how drugs are developed.",
+        "visual_hint": "AI neural network diagram in lab",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "artificial intelligence brain",
+        "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Founders, there's a new check",
+        "description": "If you're pitching a drug-AI startup, fresh capital is available now. Proximal Ventures is ready to write the first check.",
+        "visual_hint": "Startup founder pitching to investors",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "startup pitch meeting",
+        "image": "https://images.pexels.com/photos/7414105/pexels-photo-7414105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test an AI drug tool first",
+        "description": "Before trusting any AI drug tool, run it against a known benchmark. Competitors won't wait for you to catch up.",
+        "visual_hint": "Hands typing on laptop with data",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands typing laptop",
+        "image": "https://images.pexels.com/photos/30612694/pexels-photo-30612694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this. Try one prompt now.",
+        "description": "Pick a public dataset, test one AI drug tool, and see the results yourself. Save this post for your next experiment.",
+        "visual_hint": "Person saving post on phone",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person using smartphone",
+        "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/headshot-Proximal.jpg?resize=1200,675",
+    "savedAt": "2026-11-11T08:39:57.400Z",
+    "sourceId": "f6a56026a345a245808f14cf69a8e6d0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "adobe-brings-ai-agents-and-new-creative-tools-to-p",
     "prompt_version": "1.0.0",
     "status": "published",

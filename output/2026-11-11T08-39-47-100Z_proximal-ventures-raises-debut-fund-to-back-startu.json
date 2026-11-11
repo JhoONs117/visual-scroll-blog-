@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "proximal-ventures-raises-debut-fund-to-back-startu",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+  "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+  "pubDate": "Tue, 10 Nov 2026 20:47:05 +0000",
+  "slides": [
+    "Can AI really fix drug development's failure rate?",
+    "Proximal Ventures just raised its debut fund for this",
+    "It bets on AI startups, not traditional biotech labs",
+    "Founders pitching drug-AI startups now have a new check",
+    "Test one AI drug tool before competitors do"
+  ],
+  "thread_text": [
+    "1. Drug development is broken\n\nNine out of ten drugs fail in clinical trials. Proximal Ventures just raised its debut fund to bet on AI startups that could fix that.",
+    "2. Not another biotech fund\n\nThis new fund only backs AI startups, not traditional biotech labs. It's a direct challenge to how drugs have always been developed.",
+    "3. Founders get a new check\n\nIf you're pitching a drug-AI startup, there's fresh capital available now. Proximal Ventures is ready to write the first check.",
+    "4. Test before you commit\n\nBefore you trust any AI drug tool, run it against a known benchmark. Competitors won't wait for you to catch up.",
+    "5. What's your move?\n\nIf you had access to a drug-AI tool today, what would you test first? Try one prompt on a public dataset and see for yourself."
+  ],
+  "video_script": [
+    "Drug development fails ninety percent of the time.",
+    "Proximal Ventures raised a new fund to fix that.",
+    "They're betting on AI startups, not biotech labs.",
+    "Founders pitching drug-AI startups can get a check.",
+    "Test one tool before your competitors do."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Drug development is broken\n\nNine out of ten drugs fail in clinical trials. Proximal Ventures just raised its debut fund to bet on AI startups that could fix that.",
+        "2. Not another biotech fund\n\nThis new fund only backs AI startups, not traditional biotech labs. It's a direct challenge to how drugs have always been developed.",
+        "3. Founders get a new check\n\nIf you're pitching a drug-AI startup, there's fresh capital available now. Proximal Ventures is ready to write the first check.",
+        "4. Test before you commit\n\nBefore you trust any AI drug tool, run it against a known benchmark. Competitors won't wait for you to catch up.",
+        "5. What's your move?\n\nIf you had access to a drug-AI tool today, what would you test first? Try one prompt on a public dataset and see for yourself."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Drug development fails ninety percent of the time.",
+        "Proximal Ventures raised a new fund to fix that.",
+        "They're betting on AI startups, not biotech labs.",
+        "Founders pitching drug-AI startups can get a check.",
+        "Test one tool before your competitors do."
+      ]
+    },
+    "instagram": {
+      "caption": "Nine out of ten drugs fail in clinical trials — that's the failure rate Proximal Ventures is betting AI can cut.\n\nThe firm just raised its debut fund, and it only backs AI startups, not traditional biotech labs 🧪\n\nIf you're pitching a drug-AI startup, there's fresh capital ready to write a first check.\n\nFor anyone building or testing AI drug tools: run yours against a known benchmark before a competitor does 🔬\n\nIf you had one drug-AI tool today, what would you test first? 🧠 Try one prompt on a public dataset and see for yourself."
+    }
+  },
+  "instagram_caption": "Nine out of ten drugs fail in clinical trials — that's the failure rate Proximal Ventures is betting AI can cut.\n\nThe firm just raised its debut fund, and it only backs AI startups, not traditional biotech labs 🧪\n\nIf you're pitching a drug-AI startup, there's fresh capital ready to write a first check.\n\nFor anyone building or testing AI drug tools: run yours against a known benchmark before a competitor does 🔬\n\nIf you had one drug-AI tool today, what would you test first? 🧠 Try one prompt on a public dataset and see for yourself.",
+  "carousel_slides": [
+    {
+      "hook": "90% of drugs fail. Can AI fix that?",
+      "description": "Proximal Ventures raised its debut fund to back AI startups that aim to reverse drug development's 90% failure rate.",
+      "visual_hint": "Scientist looking at holographic data",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "scientist laboratory"
+    },
+    {
+      "hook": "This fund bets only on AI",
+      "description": "Proximal Ventures backs AI startups exclusively, not traditional biotech labs—a direct challenge to how drugs are developed.",
+      "visual_hint": "AI neural network diagram in lab",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "artificial intelligence brain",
+      "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Founders, there's a new check",
+      "description": "If you're pitching a drug-AI startup, fresh capital is available now. Proximal Ventures is ready to write the first check.",
+      "visual_hint": "Startup founder pitching to investors",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "startup pitch meeting",
+      "image": "https://images.pexels.com/photos/7414105/pexels-photo-7414105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test an AI drug tool first",
+      "description": "Before trusting any AI drug tool, run it against a known benchmark. Competitors won't wait for you to catch up.",
+      "visual_hint": "Hands typing on laptop with data",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands typing laptop",
+      "image": "https://images.pexels.com/photos/30612694/pexels-photo-30612694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Try one prompt now.",
+      "description": "Pick a public dataset, test one AI drug tool, and see the results yourself. Save this post for your next experiment.",
+      "visual_hint": "Person saving post on phone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person using smartphone",
+      "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/headshot-Proximal.jpg?resize=1200,675",
+  "savedAt": "2026-11-11T08:39:57.400Z",
+  "sourceId": "f6a56026a345a245808f14cf69a8e6d0"
+}

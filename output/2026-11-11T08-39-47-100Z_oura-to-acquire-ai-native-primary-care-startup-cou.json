@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "oura-to-acquire-ai-native-primary-care-startup-cou",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+  "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+  "pubDate": "Tue, 10 Nov 2026 19:23:34 +0000",
+  "slides": [
+    "Oura buys Counsel Health for $625M — but why?",
+    "Counsel Health is an AI-native primary care startup",
+    "The ring maker now wants to practice medicine",
+    "Users may soon get AI-backed clinical care",
+    "Ask yourself: would you trust a ring to diagnose you?"
+  ],
+  "thread_text": [
+    "1. The $625M question\n\nOura just dropped $625 million to buy Counsel Health, an AI primary care startup. The ring maker now wants to practice medicine.",
+    "2. From tracking to treating\n\nCounsel Health is AI-native primary care — not just monitoring, but diagnosing and prescribing. Oura's ring data could feed directly into clinical decisions.",
+    "3. Your ring as your doctor\n\nUsers may soon get AI-backed clinical care through the same device that tracks their sleep. The line between wearable and physician is vanishing.",
+    "4. Trust at stake\n\nWould you trust a ring to diagnose you? That's the real question Oura is betting $625M you'll answer yes to.",
+    "5. Test your trust\n\nNext time your ring buzzes with a health alert, ask: would you act on it without a human doctor? That gut reaction is the whole market."
+  ],
+  "video_script": [
+    "Oura just bought Counsel Health for six hundred twenty-five million dollars.",
+    "Counsel Health is an AI primary care startup, not just a tracking app.",
+    "The ring maker now wants to practice medicine, not just monitor it.",
+    "Users may soon get AI-backed clinical care from their finger.",
+    "Would you trust a ring to diagnose you? Ask yourself that."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $625M question\n\nOura just dropped $625 million to buy Counsel Health, an AI primary care startup. The ring maker now wants to practice medicine.",
+        "2. From tracking to treating\n\nCounsel Health is AI-native primary care — not just monitoring, but diagnosing and prescribing. Oura's ring data could feed directly into clinical decisions.",
+        "3. Your ring as your doctor\n\nUsers may soon get AI-backed clinical care through the same device that tracks their sleep. The line between wearable and physician is vanishing.",
+        "4. Trust at stake\n\nWould you trust a ring to diagnose you? That's the real question Oura is betting $625M you'll answer yes to.",
+        "5. Test your trust\n\nNext time your ring buzzes with a health alert, ask: would you act on it without a human doctor? That gut reaction is the whole market."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Oura just bought Counsel Health for six hundred twenty-five million dollars.",
+        "Counsel Health is an AI primary care startup, not just a tracking app.",
+        "The ring maker now wants to practice medicine, not just monitor it.",
+        "Users may soon get AI-backed clinical care from their finger.",
+        "Would you trust a ring to diagnose you? Ask yourself that."
+      ]
+    },
+    "instagram": {
+      "caption": "$625 million just went into the idea that your ring could soon diagnose you.\n\nOura is buying Counsel Health, an AI primary care startup that doesn't just track data — it diagnoses and prescribes. 🩺\n\nThat means your sleep and heart rate data could feed directly into clinical decisions, with no human doctor in the loop by default.\n\nIf you publish health or tech content, this is the story your audience will ask about: where tracking ends and treatment begins.\n\nWould you act on a diagnosis that came from your ring, without a doctor confirming it? 💭"
+    }
+  },
+  "instagram_caption": "$625 million just went into the idea that your ring could soon diagnose you.\n\nOura is buying Counsel Health, an AI primary care startup that doesn't just track data — it diagnoses and prescribes. 🩺\n\nThat means your sleep and heart rate data could feed directly into clinical decisions, with no human doctor in the loop by default.\n\nIf you publish health or tech content, this is the story your audience will ask about: where tracking ends and treatment begins.\n\nWould you act on a diagnosis that came from your ring, without a doctor confirming it? 💭",
+  "carousel_slides": [
+    {
+      "hook": "Would you trust a ring to diagnose you?",
+      "description": "Oura paid $625M for Counsel Health, an AI primary care startup, betting your ring can become your doctor.",
+      "visual_hint": "Smart ring on finger, medical cross overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smart ring finger"
+    },
+    {
+      "hook": "From tracking sleep to treating patients",
+      "description": "Counsel Health is AI-native primary care that diagnoses and prescribes, not just monitors. Oura's data could feed clinical decisions.",
+      "visual_hint": "AI interface with medical charts",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "medical chart screen",
+      "image": "https://images.pexels.com/photos/6627348/pexels-photo-6627348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The ring maker now practices medicine",
+      "description": "Oura's $625M acquisition blurs the line between wearable tracker and physician, turning health data into clinical action.",
+      "visual_hint": "Ring sensor zoomed with data streams",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "sensor closeup technology",
+      "image": "https://images.pexels.com/photos/18880010/pexels-photo-18880010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your ring could soon prescribe treatment",
+      "description": "Users may get AI-backed clinical care from the same device tracking their sleep. The wearable-physician boundary is vanishing.",
+      "visual_hint": "Hand wearing ring, doctor silhouette behind",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand wearing ring",
+      "image": "https://images.pexels.com/photos/30381729/pexels-photo-30381729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your ring buzzes",
+      "description": "Next health alert, ask: would you act without a human doctor? Comment your gut reaction and visit the link in bio.",
+      "visual_hint": "Ring notification with question mark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "notification alert phone",
+      "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2296609700.jpg?resize=1200,799",
+  "savedAt": "2026-11-11T08:40:07.731Z",
+  "sourceId": "d29090d0b774daa561e83d520622c006"
+}
