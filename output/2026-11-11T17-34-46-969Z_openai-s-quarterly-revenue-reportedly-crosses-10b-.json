@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-s-quarterly-revenue-reportedly-crosses-10b-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+  "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+  "pubDate": "Wed, 11 Nov 2026 16:14:44 +0000",
+  "slides": [
+    "Can OpenAI's $10B quarter survive its own burn rate?",
+    "Revenue crossed $10B for the first time quarterly",
+    "But losses reportedly grow faster than revenue does",
+    "Enterprise buyers now face higher pricing tiers",
+    "Check your API bill: costs rose this quarter"
+  ],
+  "thread_text": [
+    "1. OpenAI's $10B Quarter\n\nRevenue hit $10 billion for the first time in a single quarter, but internal numbers show losses are growing faster than sales.",
+    "2. Burn Rate Outpaces Growth\n\nOperating costs are climbing at a steeper rate than revenue, meaning the company is spending more than it earns to sustain growth.",
+    "3. Enterprise Pricing Shift\n\nBusiness customers now face higher pricing tiers, as OpenAI adjusts its rate cards to offset rising infrastructure and research expenses.",
+    "4. API Costs on the Rise\n\nDevelopers and companies using OpenAI's API saw their bills increase this quarter, a direct result of the new pricing structure.",
+    "5. Check Your API Bill\n\nGo to your OpenAI billing dashboard and compare this quarter's charges to last quarter. If the jump is significant, consider renegotiating your plan or optimizing your usage."
+  ],
+  "video_script": [
+    "OpenAI just hit ten billion dollars in quarterly revenue.",
+    "But losses are growing even faster than sales.",
+    "Enterprise customers now face higher pricing tiers.",
+    "API costs went up this quarter for many users.",
+    "Check your bill today and compare to last quarter."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI's $10B Quarter\n\nRevenue hit $10 billion for the first time in a single quarter, but internal numbers show losses are growing faster than sales.",
+        "2. Burn Rate Outpaces Growth\n\nOperating costs are climbing at a steeper rate than revenue, meaning the company is spending more than it earns to sustain growth.",
+        "3. Enterprise Pricing Shift\n\nBusiness customers now face higher pricing tiers, as OpenAI adjusts its rate cards to offset rising infrastructure and research expenses.",
+        "4. API Costs on the Rise\n\nDevelopers and companies using OpenAI's API saw their bills increase this quarter, a direct result of the new pricing structure.",
+        "5. Check Your API Bill\n\nGo to your OpenAI billing dashboard and compare this quarter's charges to last quarter. If the jump is significant, consider renegotiating your plan or optimizing your usage."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI just hit ten billion dollars in quarterly revenue.",
+        "But losses are growing even faster than sales.",
+        "Enterprise customers now face higher pricing tiers.",
+        "API costs went up this quarter for many users.",
+        "Check your bill today and compare to last quarter."
+      ]
+    },
+    "instagram": {
+      "caption": "Revenue crossed $10 billion in a single quarter for the first time — but losses reportedly grew even faster.\n\nOpenAI's operating costs are climbing at a steeper rate than sales, according to internal numbers. 📊\n\nEnterprise customers now face higher pricing tiers, and API bills went up this quarter as the company offsets infrastructure and research costs.\n\nIf you publish or build with OpenAI tools, your production costs just changed — check what you're actually paying per call.\n\nPull up your billing dashboard and compare this quarter to last: is the jump big enough to rethink your plan? 💳"
+    }
+  },
+  "instagram_caption": "Revenue crossed $10 billion in a single quarter for the first time — but losses reportedly grew even faster.\n\nOpenAI's operating costs are climbing at a steeper rate than sales, according to internal numbers. 📊\n\nEnterprise customers now face higher pricing tiers, and API bills went up this quarter as the company offsets infrastructure and research costs.\n\nIf you publish or build with OpenAI tools, your production costs just changed — check what you're actually paying per call.\n\nPull up your billing dashboard and compare this quarter to last: is the jump big enough to rethink your plan? 💳",
+  "carousel_slides": [
+    {
+      "hook": "Is OpenAI's $10B quarter a warning?",
+      "description": "Revenue crossed $10B for the first time, but losses reportedly grow faster than sales, raising sustainability questions.",
+      "visual_hint": "Split screen: money growth vs loss chart",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Revenue hit $10B in a single quarter",
+      "description": "OpenAI's quarterly revenue reportedly crossed $10 billion for the first time, marking a major milestone.",
+      "visual_hint": "Rising bar chart with $10B label",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "bar chart",
+      "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Losses are growing faster than revenue",
+      "description": "Operating costs climb at a steeper rate than sales, meaning OpenAI spends more than it earns to sustain growth.",
+      "visual_hint": "Two diverging lines: cost up, revenue up slower",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "line graph",
+      "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Enterprise buyers now face higher pricing tiers",
+      "description": "Business customers see higher pricing tiers as OpenAI adjusts rate cards to offset rising infrastructure and research expenses.",
+      "visual_hint": "Hand holding price tag with upward arrow",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "price tag",
+      "image": "https://images.pexels.com/photos/7986977/pexels-photo-7986977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your API bill now — costs rose",
+      "description": "Compare this quarter's OpenAI charges to last quarter; if the jump is significant, renegotiate your plan or optimize usage.",
+      "visual_hint": "Dashboard with billing statement and arrow up",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "billing statement",
+      "image": "https://images.pexels.com/photos/7926706/pexels-photo-7926706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-rose.jpg?resize=1200,675",
+  "savedAt": "2026-11-11T17:34:56.446Z",
+  "sourceId": "b577d6b06f32358e6bb6761c381bd6c5"
+}

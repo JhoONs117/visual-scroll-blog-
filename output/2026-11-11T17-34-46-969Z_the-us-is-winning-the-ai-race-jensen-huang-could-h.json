@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-us-is-winning-the-ai-race-jensen-huang-could-h",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The US is winning the AI race. Jensen Huang could have blown it",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+  "pubDate": "2026-11-10T19:04:05.000Z",
+  "slides": [
+    "Jensen Huang almost lost the AI race for the US?",
+    "Nvidia's chips power nearly all advanced AI models.",
+    "But Huang once considered shifting production overseas.",
+    "Export controls now limit sales to China, reshaping strategy.",
+    "Ask: is US AI leadership secure or fragile?"
+  ],
+  "thread_text": [
+    "1. The $4 Trillion Gamble\n\nJensen Huang built Nvidia into the backbone of the AI boom. But a single decision years ago almost sent that dominance overseas.",
+    "2. Chips Behind Every Model\n\nNvidia hardware powers nearly every advanced AI system today. That concentration puts enormous leverage in one company's hands.",
+    "3. The Overseas Option\n\nHuang once weighed shifting production abroad. Had he done it, US export policy and supply chains would look very different now.",
+    "4. China Sales Cut Off\n\nExport controls now restrict Nvidia's China business. The company is redesigning chips and rerouting strategy in real time.",
+    "5. Is US AI Safe?\n\nLook at where the compute comes from. Ask yourself: if one supply chain broke tomorrow, what would still run?"
+  ],
+  "video_script": [
+    "Jensen Huang almost moved Nvidia production overseas.",
+    "Nvidia chips power nearly every advanced AI model.",
+    "One decision could have changed the whole supply chain.",
+    "Export controls now limit sales to China.",
+    "Is US AI leadership secure or fragile?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $4 Trillion Gamble\n\nJensen Huang built Nvidia into the backbone of the AI boom. But a single decision years ago almost sent that dominance overseas.",
+        "2. Chips Behind Every Model\n\nNvidia hardware powers nearly every advanced AI system today. That concentration puts enormous leverage in one company's hands.",
+        "3. The Overseas Option\n\nHuang once weighed shifting production abroad. Had he done it, US export policy and supply chains would look very different now.",
+        "4. China Sales Cut Off\n\nExport controls now restrict Nvidia's China business. The company is redesigning chips and rerouting strategy in real time.",
+        "5. Is US AI Safe?\n\nLook at where the compute comes from. Ask yourself: if one supply chain broke tomorrow, what would still run?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Jensen Huang almost moved Nvidia production overseas.",
+        "Nvidia chips power nearly every advanced AI model.",
+        "One decision could have changed the whole supply chain.",
+        "Export controls now limit sales to China.",
+        "Is US AI leadership secure or fragile?"
+      ]
+    },
+    "instagram": {
+      "caption": "Nvidia's chips run nearly every advanced AI model on the planet — and Jensen Huang almost moved that production overseas. 😳\n\nOne decision years ago could have sent US AI dominance abroad.\n\nExport controls now cut Nvidia off from China, forcing chip redesigns on the fly. ⚙️\n\nThat means the tools you build and publish with depend on one fragile supply chain. 💻\n\nIf that chain broke tomorrow, what would still run? 🤔"
+    }
+  },
+  "instagram_caption": "Nvidia's chips run nearly every advanced AI model on the planet — and Jensen Huang almost moved that production overseas. 😳\n\nOne decision years ago could have sent US AI dominance abroad.\n\nExport controls now cut Nvidia off from China, forcing chip redesigns on the fly. ⚙️\n\nThat means the tools you build and publish with depend on one fragile supply chain. 💻\n\nIf that chain broke tomorrow, what would still run? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Did Huang almost lose the AI race?",
+      "description": "Jensen Huang once considered shifting Nvidia production overseas, a move that could have altered US AI dominance.",
+      "visual_hint": "Jensen Huang speaking on stage",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Jensen Huang"
+    },
+    {
+      "hook": "Nvidia chips power almost all AI.",
+      "description": "Nvidia's hardware runs nearly every advanced AI model, giving one company enormous leverage over the entire industry.",
+      "visual_hint": "Close-up of AI chip",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "AI chip",
+      "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "What if production had moved?",
+      "description": "Huang weighed shifting production abroad; had he done so, US export policy and supply chains would look very different.",
+      "visual_hint": "Global supply chain map",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "supply chain",
+      "image": "https://images.pexels.com/photos/4483859/pexels-photo-4483859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Export controls hit China sales.",
+      "description": "New export controls restrict Nvidia's China business, forcing the company to redesign chips and reroute strategy in real time.",
+      "visual_hint": "Cargo ship at port",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "cargo ship",
+      "image": "https://images.pexels.com/photos/27402391/pexels-photo-27402391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is US AI leadership fragile? Save this.",
+      "description": "Check where your AI compute comes from. If one supply chain broke tomorrow, what would still run?",
+      "visual_hint": "Server room with blinking lights",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-11T17:35:25.995Z",
+  "sourceId": "13a445521080305c001bc739bcf1c55c"
+}

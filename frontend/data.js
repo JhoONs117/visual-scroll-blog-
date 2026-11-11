@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "the-us-is-winning-the-ai-race-jensen-huang-could-h",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The US is winning the AI race. Jensen Huang could have blown it",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+    "pubDate": "2026-11-10T19:04:05.000Z",
+    "slides": [
+      "Jensen Huang almost lost the AI race for the US?",
+      "Nvidia's chips power nearly all advanced AI models.",
+      "But Huang once considered shifting production overseas.",
+      "Export controls now limit sales to China, reshaping strategy.",
+      "Ask: is US AI leadership secure or fragile?"
+    ],
+    "thread_text": [
+      "1. The $4 Trillion Gamble\n\nJensen Huang built Nvidia into the backbone of the AI boom. But a single decision years ago almost sent that dominance overseas.",
+      "2. Chips Behind Every Model\n\nNvidia hardware powers nearly every advanced AI system today. That concentration puts enormous leverage in one company's hands.",
+      "3. The Overseas Option\n\nHuang once weighed shifting production abroad. Had he done it, US export policy and supply chains would look very different now.",
+      "4. China Sales Cut Off\n\nExport controls now restrict Nvidia's China business. The company is redesigning chips and rerouting strategy in real time.",
+      "5. Is US AI Safe?\n\nLook at where the compute comes from. Ask yourself: if one supply chain broke tomorrow, what would still run?"
+    ],
+    "video_script": [
+      "Jensen Huang almost moved Nvidia production overseas.",
+      "Nvidia chips power nearly every advanced AI model.",
+      "One decision could have changed the whole supply chain.",
+      "Export controls now limit sales to China.",
+      "Is US AI leadership secure or fragile?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $4 Trillion Gamble\n\nJensen Huang built Nvidia into the backbone of the AI boom. But a single decision years ago almost sent that dominance overseas.",
+          "2. Chips Behind Every Model\n\nNvidia hardware powers nearly every advanced AI system today. That concentration puts enormous leverage in one company's hands.",
+          "3. The Overseas Option\n\nHuang once weighed shifting production abroad. Had he done it, US export policy and supply chains would look very different now.",
+          "4. China Sales Cut Off\n\nExport controls now restrict Nvidia's China business. The company is redesigning chips and rerouting strategy in real time.",
+          "5. Is US AI Safe?\n\nLook at where the compute comes from. Ask yourself: if one supply chain broke tomorrow, what would still run?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Jensen Huang almost moved Nvidia production overseas.",
+          "Nvidia chips power nearly every advanced AI model.",
+          "One decision could have changed the whole supply chain.",
+          "Export controls now limit sales to China.",
+          "Is US AI leadership secure or fragile?"
+        ]
+      },
+      "instagram": {
+        "caption": "Nvidia's chips run nearly every advanced AI model on the planet — and Jensen Huang almost moved that production overseas. 😳\n\nOne decision years ago could have sent US AI dominance abroad.\n\nExport controls now cut Nvidia off from China, forcing chip redesigns on the fly. ⚙️\n\nThat means the tools you build and publish with depend on one fragile supply chain. 💻\n\nIf that chain broke tomorrow, what would still run? 🤔"
+      }
+    },
+    "instagram_caption": "Nvidia's chips run nearly every advanced AI model on the planet — and Jensen Huang almost moved that production overseas. 😳\n\nOne decision years ago could have sent US AI dominance abroad.\n\nExport controls now cut Nvidia off from China, forcing chip redesigns on the fly. ⚙️\n\nThat means the tools you build and publish with depend on one fragile supply chain. 💻\n\nIf that chain broke tomorrow, what would still run? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Did Huang almost lose the AI race?",
+        "description": "Jensen Huang once considered shifting Nvidia production overseas, a move that could have altered US AI dominance.",
+        "visual_hint": "Jensen Huang speaking on stage",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Jensen Huang"
+      },
+      {
+        "hook": "Nvidia chips power almost all AI.",
+        "description": "Nvidia's hardware runs nearly every advanced AI model, giving one company enormous leverage over the entire industry.",
+        "visual_hint": "Close-up of AI chip",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "AI chip",
+        "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "What if production had moved?",
+        "description": "Huang weighed shifting production abroad; had he done so, US export policy and supply chains would look very different.",
+        "visual_hint": "Global supply chain map",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "supply chain",
+        "image": "https://images.pexels.com/photos/4483859/pexels-photo-4483859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Export controls hit China sales.",
+        "description": "New export controls restrict Nvidia's China business, forcing the company to redesign chips and reroute strategy in real time.",
+        "visual_hint": "Cargo ship at port",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "cargo ship",
+        "image": "https://images.pexels.com/photos/27402391/pexels-photo-27402391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Is US AI leadership fragile? Save this.",
+        "description": "Check where your AI compute comes from. If one supply chain broke tomorrow, what would still run?",
+        "visual_hint": "Server room with blinking lights",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-11-11T17:35:25.995Z",
+    "sourceId": "13a445521080305c001bc739bcf1c55c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "adobe-s-ai-experiments-let-you-walk-around-in-phot",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+    "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+    "pubDate": "2026-11-11T14:00:00.000Z",
+    "slides": [
+      "What if your next pitch deck grew a second page?",
+      "Adobe prototyped a tool that turns flat photos into walkable scenes",
+      "Testers kept walking back to the same unanswered corner",
+      "A tool now spots weak slides before clients do",
+      "Pick one deck slide and ask what hides beside it"
+    ],
+    "thread_text": [
+      "1. Your deck has a blind spot\n\nAdobe built a tool that turns flat photos into walkable 3D scenes. Testers kept walking back to the same unanswered corner—the one your slide hides.",
+      "2. Adobe's spatial prototype\n\nIt converts a single photo into a navigable scene. The surprise wasn't the tech—it was where people instinctively walked first.",
+      "3. The corner testers returned to\n\nEvery tester circled back to the same weak slide. The tool exposed a gap the presenter had stopped seeing after ten rehearsals.",
+      "4. Weak slides, caught early\n\nA new tool flags thin arguments before clients do. It doesn't polish—it finds the slide that can't survive a follow-up question.",
+      "5. Ask what's beside it\n\nOpen your next deck and point at one slide: what question lives just off its edge? If you can't answer in ten seconds, that's your rewrite."
+    ],
+    "video_script": [
+      "What if your pitch deck had a second page?",
+      "Adobe's prototype turns flat photos into walkable scenes.",
+      "Testers kept walking back to the same unanswered corner.",
+      "A tool now spots weak slides before clients do.",
+      "Pick one slide and ask what hides beside it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your deck has a blind spot\n\nAdobe built a tool that turns flat photos into walkable 3D scenes. Testers kept walking back to the same unanswered corner—the one your slide hides.",
+          "2. Adobe's spatial prototype\n\nIt converts a single photo into a navigable scene. The surprise wasn't the tech—it was where people instinctively walked first.",
+          "3. The corner testers returned to\n\nEvery tester circled back to the same weak slide. The tool exposed a gap the presenter had stopped seeing after ten rehearsals.",
+          "4. Weak slides, caught early\n\nA new tool flags thin arguments before clients do. It doesn't polish—it finds the slide that can't survive a follow-up question.",
+          "5. Ask what's beside it\n\nOpen your next deck and point at one slide: what question lives just off its edge? If you can't answer in ten seconds, that's your rewrite."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "What if your pitch deck had a second page?",
+          "Adobe's prototype turns flat photos into walkable scenes.",
+          "Testers kept walking back to the same unanswered corner.",
+          "A tool now spots weak slides before clients do.",
+          "Pick one slide and ask what hides beside it."
+        ]
+      },
+      "instagram": {
+        "caption": "Adobe made flat photos walkable 3D scenes, and testers kept drifting back to the same unanswered corner.\n\nThat corner was a slide hiding a weak argument, the one the presenter had rehearsed past 🙃\n\nThe prototype turns a single photo into a scene you can move through. The tech wasn't the surprise — where people instinctively walked was.\n\nA second tool now flags thin slides before clients spot them. It doesn't polish wording, it finds the slide that can't survive a follow-up question.\n\nOpen your next deck, point at one slide, and ask what question lives just off its edge 👀\n\nIf you can't answer in ten seconds, that slide needs a rewrite.\n\nWhich slide in your deck are you avoiding?"
+      }
+    },
+    "instagram_caption": "Adobe made flat photos walkable 3D scenes, and testers kept drifting back to the same unanswered corner.\n\nThat corner was a slide hiding a weak argument, the one the presenter had rehearsed past 🙃\n\nThe prototype turns a single photo into a scene you can move through. The tech wasn't the surprise — where people instinctively walked was.\n\nA second tool now flags thin slides before clients spot them. It doesn't polish wording, it finds the slide that can't survive a follow-up question.\n\nOpen your next deck, point at one slide, and ask what question lives just off its edge 👀\n\nIf you can't answer in ten seconds, that slide needs a rewrite.\n\nWhich slide in your deck are you avoiding?",
+    "carousel_slides": [
+      {
+        "hook": "Which slide hides your blind spot?",
+        "description": "Adobe's tool turns photos into walkable scenes. Testers repeatedly returned to the same unanswered corner that your pitch deck conceals.",
+        "visual_hint": "Presenter looking at a flat photo on a table",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "photo on table"
+      },
+      {
+        "hook": "Adobe's spatial prototype converts one photo",
+        "description": "A single photo becomes a navigable 3D scene. The surprise: testers instinctively walked to the weakest slide first, revealing hidden gaps.",
+        "visual_hint": "3D wireframe of a room",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "3D wireframe room",
+        "image": "https://images.pexels.com/photos/3137081/pexels-photo-3137081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Every tester circled the same weak slide",
+        "description": "The tool exposed gaps the presenter stopped seeing after ten rehearsals. It flags weak arguments before clients ever do.",
+        "visual_hint": "Confused person scratching head",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "confused person",
+        "image": "https://images.pexels.com/photos/8727494/pexels-photo-8727494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "New tool flags thin arguments early",
+        "description": "It finds the slide that can't survive a follow-up question. No polish, just detection of weak spots in your deck.",
+        "visual_hint": "Hand highlighting a slide on screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand pointing screen",
+        "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this. Then test your next deck.",
+        "description": "Open your deck, point at one slide: what question lives off its edge? If you can't answer in ten seconds, rewrite it.",
+        "visual_hint": "Person examining presentation slide",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "business presentation slide",
+        "image": "https://images.pexels.com/photos/18999196/pexels-photo-18999196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-11-11T17:35:16.853Z",
+    "sourceId": "24878850a24ab6190b2d5afb16d26448"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-u",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+    "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+    "pubDate": "Wed, 11 Nov 2026 15:00:00 +0000",
+    "slides": [
+      "Can Databricks' agent tell Ali Ghodsi the truth?",
+      "It reviews the company's own operations data daily.",
+      "But it surfaces problems executives never asked about.",
+      "Leaders using such agents get harder questions sooner.",
+      "Ask your data one uncomfortable question this week."
+    ],
+    "thread_text": [
+      "1. The AI That Questions CEOs\n\nDatabricks built an agent that reviews its own operations daily. It doesn't wait for executives to ask — it surfaces problems they never thought to look for.",
+      "2. The Agent's Daily Grind\n\nEvery day, it scans the company's operational data. No prompts from leaders. No specific questions. Just a constant, silent audit of everything.",
+      "3. Uncomfortable Discoveries\n\nThe agent finds issues executives never asked about. Not because they forgot, but because they didn't know what to ask. It reveals blind spots.",
+      "4. Hard Questions, Sooner\n\nLeaders using such agents get confronted with tough questions faster. The agent doesn't soften the blow — it delivers the truth upfront.",
+      "5. Your Turn to Ask\n\nThis week, ask your data one uncomfortable question. Something you've been avoiding. See what it tells you — and act on it."
+    ],
+    "video_script": [
+      "Databricks' agent reviews operations daily, unprompted.",
+      "It finds problems executives never thought to ask about.",
+      "Leaders get harder questions sooner from these agents.",
+      "The truth surfaces whether you're ready or not.",
+      "Ask your data one uncomfortable question this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The AI That Questions CEOs\n\nDatabricks built an agent that reviews its own operations daily. It doesn't wait for executives to ask — it surfaces problems they never thought to look for.",
+          "2. The Agent's Daily Grind\n\nEvery day, it scans the company's operational data. No prompts from leaders. No specific questions. Just a constant, silent audit of everything.",
+          "3. Uncomfortable Discoveries\n\nThe agent finds issues executives never asked about. Not because they forgot, but because they didn't know what to ask. It reveals blind spots.",
+          "4. Hard Questions, Sooner\n\nLeaders using such agents get confronted with tough questions faster. The agent doesn't soften the blow — it delivers the truth upfront.",
+          "5. Your Turn to Ask\n\nThis week, ask your data one uncomfortable question. Something you've been avoiding. See what it tells you — and act on it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Databricks' agent reviews operations daily, unprompted.",
+          "It finds problems executives never thought to ask about.",
+          "Leaders get harder questions sooner from these agents.",
+          "The truth surfaces whether you're ready or not.",
+          "Ask your data one uncomfortable question this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Databricks built an AI agent that reviews its own operations every single day — and it reports straight to CEO Ali Ghodsi. 🧠\n\nIt scans the company's operational data daily, with no prompts from leaders.\n\nIt surfaces problems executives never thought to ask about — not because they forgot, but because they didn't know what to ask.\n\nLeaders using agents like this get the hard questions sooner, unsoftened.\n\nIf you work with data or content, the lesson is blunt: your blind spots are now auditable, every day. 👀\n\nSo this week — what's the one uncomfortable question about your own work you've been avoiding asking your data? 💬"
+      }
+    },
+    "instagram_caption": "Databricks built an AI agent that reviews its own operations every single day — and it reports straight to CEO Ali Ghodsi. 🧠\n\nIt scans the company's operational data daily, with no prompts from leaders.\n\nIt surfaces problems executives never thought to ask about — not because they forgot, but because they didn't know what to ask.\n\nLeaders using agents like this get the hard questions sooner, unsoftened.\n\nIf you work with data or content, the lesson is blunt: your blind spots are now auditable, every day. 👀\n\nSo this week — what's the one uncomfortable question about your own work you've been avoiding asking your data? 💬",
+    "carousel_slides": [
+      {
+        "hook": "What if your AI tells the truth?",
+        "description": "Databricks' agent reviews operations daily, surfacing problems executives never thought to ask about.",
+        "visual_hint": "Futuristic AI interface with data streams",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "It scans data without being asked",
+        "description": "Every day, the agent audits operational data silently, no prompts needed, revealing blind spots.",
+        "visual_hint": "Data dashboard with scanning animation",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Uncomfortable truths surface first",
+        "description": "The agent finds issues leaders never asked about, exposing what they didn't know to look for.",
+        "visual_hint": "Magnifying glass over data chart",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Hard questions come sooner",
+        "description": "Leaders using such agents get confronted with tough questions faster, no sugarcoating.",
+        "visual_hint": "Executive facing intense data screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask your data one tough question",
+        "description": "This week, ask your data something you've been avoiding. Act on what it reveals.",
+        "visual_hint": "Person typing question into laptop",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop screen",
+        "image": "https://images.pexels.com/photos/11363706/pexels-photo-11363706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?resize=1200,1200",
+    "savedAt": "2026-11-11T17:35:06.417Z",
+    "sourceId": "a12c5f3d8f2dcc714a62a3902d89da73"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-s-quarterly-revenue-reportedly-crosses-10b-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+    "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+    "pubDate": "Wed, 11 Nov 2026 16:14:44 +0000",
+    "slides": [
+      "Can OpenAI's $10B quarter survive its own burn rate?",
+      "Revenue crossed $10B for the first time quarterly",
+      "But losses reportedly grow faster than revenue does",
+      "Enterprise buyers now face higher pricing tiers",
+      "Check your API bill: costs rose this quarter"
+    ],
+    "thread_text": [
+      "1. OpenAI's $10B Quarter\n\nRevenue hit $10 billion for the first time in a single quarter, but internal numbers show losses are growing faster than sales.",
+      "2. Burn Rate Outpaces Growth\n\nOperating costs are climbing at a steeper rate than revenue, meaning the company is spending more than it earns to sustain growth.",
+      "3. Enterprise Pricing Shift\n\nBusiness customers now face higher pricing tiers, as OpenAI adjusts its rate cards to offset rising infrastructure and research expenses.",
+      "4. API Costs on the Rise\n\nDevelopers and companies using OpenAI's API saw their bills increase this quarter, a direct result of the new pricing structure.",
+      "5. Check Your API Bill\n\nGo to your OpenAI billing dashboard and compare this quarter's charges to last quarter. If the jump is significant, consider renegotiating your plan or optimizing your usage."
+    ],
+    "video_script": [
+      "OpenAI just hit ten billion dollars in quarterly revenue.",
+      "But losses are growing even faster than sales.",
+      "Enterprise customers now face higher pricing tiers.",
+      "API costs went up this quarter for many users.",
+      "Check your bill today and compare to last quarter."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. OpenAI's $10B Quarter\n\nRevenue hit $10 billion for the first time in a single quarter, but internal numbers show losses are growing faster than sales.",
+          "2. Burn Rate Outpaces Growth\n\nOperating costs are climbing at a steeper rate than revenue, meaning the company is spending more than it earns to sustain growth.",
+          "3. Enterprise Pricing Shift\n\nBusiness customers now face higher pricing tiers, as OpenAI adjusts its rate cards to offset rising infrastructure and research expenses.",
+          "4. API Costs on the Rise\n\nDevelopers and companies using OpenAI's API saw their bills increase this quarter, a direct result of the new pricing structure.",
+          "5. Check Your API Bill\n\nGo to your OpenAI billing dashboard and compare this quarter's charges to last quarter. If the jump is significant, consider renegotiating your plan or optimizing your usage."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI just hit ten billion dollars in quarterly revenue.",
+          "But losses are growing even faster than sales.",
+          "Enterprise customers now face higher pricing tiers.",
+          "API costs went up this quarter for many users.",
+          "Check your bill today and compare to last quarter."
+        ]
+      },
+      "instagram": {
+        "caption": "Revenue crossed $10 billion in a single quarter for the first time — but losses reportedly grew even faster.\n\nOpenAI's operating costs are climbing at a steeper rate than sales, according to internal numbers. 📊\n\nEnterprise customers now face higher pricing tiers, and API bills went up this quarter as the company offsets infrastructure and research costs.\n\nIf you publish or build with OpenAI tools, your production costs just changed — check what you're actually paying per call.\n\nPull up your billing dashboard and compare this quarter to last: is the jump big enough to rethink your plan? 💳"
+      }
+    },
+    "instagram_caption": "Revenue crossed $10 billion in a single quarter for the first time — but losses reportedly grew even faster.\n\nOpenAI's operating costs are climbing at a steeper rate than sales, according to internal numbers. 📊\n\nEnterprise customers now face higher pricing tiers, and API bills went up this quarter as the company offsets infrastructure and research costs.\n\nIf you publish or build with OpenAI tools, your production costs just changed — check what you're actually paying per call.\n\nPull up your billing dashboard and compare this quarter to last: is the jump big enough to rethink your plan? 💳",
+    "carousel_slides": [
+      {
+        "hook": "Is OpenAI's $10B quarter a warning?",
+        "description": "Revenue crossed $10B for the first time, but losses reportedly grow faster than sales, raising sustainability questions.",
+        "visual_hint": "Split screen: money growth vs loss chart",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Revenue hit $10B in a single quarter",
+        "description": "OpenAI's quarterly revenue reportedly crossed $10 billion for the first time, marking a major milestone.",
+        "visual_hint": "Rising bar chart with $10B label",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "bar chart",
+        "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Losses are growing faster than revenue",
+        "description": "Operating costs climb at a steeper rate than sales, meaning OpenAI spends more than it earns to sustain growth.",
+        "visual_hint": "Two diverging lines: cost up, revenue up slower",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "line graph",
+        "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Enterprise buyers now face higher pricing tiers",
+        "description": "Business customers see higher pricing tiers as OpenAI adjusts rate cards to offset rising infrastructure and research expenses.",
+        "visual_hint": "Hand holding price tag with upward arrow",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "price tag",
+        "image": "https://images.pexels.com/photos/7986977/pexels-photo-7986977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your API bill now — costs rose",
+        "description": "Compare this quarter's OpenAI charges to last quarter; if the jump is significant, renegotiate your plan or optimize usage.",
+        "visual_hint": "Dashboard with billing statement and arrow up",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "billing statement",
+        "image": "https://images.pexels.com/photos/7926706/pexels-photo-7926706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-rose.jpg?resize=1200,675",
+    "savedAt": "2026-11-11T17:34:56.446Z",
+    "sourceId": "b577d6b06f32358e6bb6761c381bd6c5"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "anthropic-has-its-own-ai-powered-office-suite-now",
     "prompt_version": "1.0.0",
     "status": "published",

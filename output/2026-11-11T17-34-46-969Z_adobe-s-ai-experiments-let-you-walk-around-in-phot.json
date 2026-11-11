@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "adobe-s-ai-experiments-let-you-walk-around-in-phot",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+  "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+  "pubDate": "2026-11-11T14:00:00.000Z",
+  "slides": [
+    "What if your next pitch deck grew a second page?",
+    "Adobe prototyped a tool that turns flat photos into walkable scenes",
+    "Testers kept walking back to the same unanswered corner",
+    "A tool now spots weak slides before clients do",
+    "Pick one deck slide and ask what hides beside it"
+  ],
+  "thread_text": [
+    "1. Your deck has a blind spot\n\nAdobe built a tool that turns flat photos into walkable 3D scenes. Testers kept walking back to the same unanswered corner—the one your slide hides.",
+    "2. Adobe's spatial prototype\n\nIt converts a single photo into a navigable scene. The surprise wasn't the tech—it was where people instinctively walked first.",
+    "3. The corner testers returned to\n\nEvery tester circled back to the same weak slide. The tool exposed a gap the presenter had stopped seeing after ten rehearsals.",
+    "4. Weak slides, caught early\n\nA new tool flags thin arguments before clients do. It doesn't polish—it finds the slide that can't survive a follow-up question.",
+    "5. Ask what's beside it\n\nOpen your next deck and point at one slide: what question lives just off its edge? If you can't answer in ten seconds, that's your rewrite."
+  ],
+  "video_script": [
+    "What if your pitch deck had a second page?",
+    "Adobe's prototype turns flat photos into walkable scenes.",
+    "Testers kept walking back to the same unanswered corner.",
+    "A tool now spots weak slides before clients do.",
+    "Pick one slide and ask what hides beside it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your deck has a blind spot\n\nAdobe built a tool that turns flat photos into walkable 3D scenes. Testers kept walking back to the same unanswered corner—the one your slide hides.",
+        "2. Adobe's spatial prototype\n\nIt converts a single photo into a navigable scene. The surprise wasn't the tech—it was where people instinctively walked first.",
+        "3. The corner testers returned to\n\nEvery tester circled back to the same weak slide. The tool exposed a gap the presenter had stopped seeing after ten rehearsals.",
+        "4. Weak slides, caught early\n\nA new tool flags thin arguments before clients do. It doesn't polish—it finds the slide that can't survive a follow-up question.",
+        "5. Ask what's beside it\n\nOpen your next deck and point at one slide: what question lives just off its edge? If you can't answer in ten seconds, that's your rewrite."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "What if your pitch deck had a second page?",
+        "Adobe's prototype turns flat photos into walkable scenes.",
+        "Testers kept walking back to the same unanswered corner.",
+        "A tool now spots weak slides before clients do.",
+        "Pick one slide and ask what hides beside it."
+      ]
+    },
+    "instagram": {
+      "caption": "Adobe made flat photos walkable 3D scenes, and testers kept drifting back to the same unanswered corner.\n\nThat corner was a slide hiding a weak argument, the one the presenter had rehearsed past 🙃\n\nThe prototype turns a single photo into a scene you can move through. The tech wasn't the surprise — where people instinctively walked was.\n\nA second tool now flags thin slides before clients spot them. It doesn't polish wording, it finds the slide that can't survive a follow-up question.\n\nOpen your next deck, point at one slide, and ask what question lives just off its edge 👀\n\nIf you can't answer in ten seconds, that slide needs a rewrite.\n\nWhich slide in your deck are you avoiding?"
+    }
+  },
+  "instagram_caption": "Adobe made flat photos walkable 3D scenes, and testers kept drifting back to the same unanswered corner.\n\nThat corner was a slide hiding a weak argument, the one the presenter had rehearsed past 🙃\n\nThe prototype turns a single photo into a scene you can move through. The tech wasn't the surprise — where people instinctively walked was.\n\nA second tool now flags thin slides before clients spot them. It doesn't polish wording, it finds the slide that can't survive a follow-up question.\n\nOpen your next deck, point at one slide, and ask what question lives just off its edge 👀\n\nIf you can't answer in ten seconds, that slide needs a rewrite.\n\nWhich slide in your deck are you avoiding?",
+  "carousel_slides": [
+    {
+      "hook": "Which slide hides your blind spot?",
+      "description": "Adobe's tool turns photos into walkable scenes. Testers repeatedly returned to the same unanswered corner that your pitch deck conceals.",
+      "visual_hint": "Presenter looking at a flat photo on a table",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "photo on table"
+    },
+    {
+      "hook": "Adobe's spatial prototype converts one photo",
+      "description": "A single photo becomes a navigable 3D scene. The surprise: testers instinctively walked to the weakest slide first, revealing hidden gaps.",
+      "visual_hint": "3D wireframe of a room",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "3D wireframe room",
+      "image": "https://images.pexels.com/photos/3137081/pexels-photo-3137081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Every tester circled the same weak slide",
+      "description": "The tool exposed gaps the presenter stopped seeing after ten rehearsals. It flags weak arguments before clients ever do.",
+      "visual_hint": "Confused person scratching head",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "confused person",
+      "image": "https://images.pexels.com/photos/8727494/pexels-photo-8727494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "New tool flags thin arguments early",
+      "description": "It finds the slide that can't survive a follow-up question. No polish, just detection of weak spots in your deck.",
+      "visual_hint": "Hand highlighting a slide on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand pointing screen",
+      "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Then test your next deck.",
+      "description": "Open your deck, point at one slide: what question lives off its edge? If you can't answer in ten seconds, rewrite it.",
+      "visual_hint": "Person examining presentation slide",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "business presentation slide",
+      "image": "https://images.pexels.com/photos/18999196/pexels-photo-18999196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-11T17:35:16.853Z",
+  "sourceId": "24878850a24ab6190b2d5afb16d26448"
+}

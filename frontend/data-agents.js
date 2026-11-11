@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "the-us-is-winning-the-ai-race-jensen-huang-could-h",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "pubDate": "2026-11-10T19:04:05.000Z",
+      "slides": [
+        "Jensen Huang almost lost the AI race for the US?",
+        "Nvidia's chips power nearly all advanced AI models.",
+        "But Huang once considered shifting production overseas.",
+        "Export controls now limit sales to China, reshaping strategy.",
+        "Ask: is US AI leadership secure or fragile?"
+      ],
+      "thread_text": [
+        "1. The $4 Trillion Gamble\n\nJensen Huang built Nvidia into the backbone of the AI boom. But a single decision years ago almost sent that dominance overseas.",
+        "2. Chips Behind Every Model\n\nNvidia hardware powers nearly every advanced AI system today. That concentration puts enormous leverage in one company's hands.",
+        "3. The Overseas Option\n\nHuang once weighed shifting production abroad. Had he done it, US export policy and supply chains would look very different now.",
+        "4. China Sales Cut Off\n\nExport controls now restrict Nvidia's China business. The company is redesigning chips and rerouting strategy in real time.",
+        "5. Is US AI Safe?\n\nLook at where the compute comes from. Ask yourself: if one supply chain broke tomorrow, what would still run?"
+      ],
+      "video_script": [
+        "Jensen Huang almost moved Nvidia production overseas.",
+        "Nvidia chips power nearly every advanced AI model.",
+        "One decision could have changed the whole supply chain.",
+        "Export controls now limit sales to China.",
+        "Is US AI leadership secure or fragile?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The $4 Trillion Gamble\n\nJensen Huang built Nvidia into the backbone of the AI boom. But a single decision years ago almost sent that dominance overseas.",
+            "2. Chips Behind Every Model\n\nNvidia hardware powers nearly every advanced AI system today. That concentration puts enormous leverage in one company's hands.",
+            "3. The Overseas Option\n\nHuang once weighed shifting production abroad. Had he done it, US export policy and supply chains would look very different now.",
+            "4. China Sales Cut Off\n\nExport controls now restrict Nvidia's China business. The company is redesigning chips and rerouting strategy in real time.",
+            "5. Is US AI Safe?\n\nLook at where the compute comes from. Ask yourself: if one supply chain broke tomorrow, what would still run?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Jensen Huang almost moved Nvidia production overseas.",
+            "Nvidia chips power nearly every advanced AI model.",
+            "One decision could have changed the whole supply chain.",
+            "Export controls now limit sales to China.",
+            "Is US AI leadership secure or fragile?"
+          ]
+        },
+        "instagram": {
+          "caption": "Nvidia's chips run nearly every advanced AI model on the planet — and Jensen Huang almost moved that production overseas. 😳\n\nOne decision years ago could have sent US AI dominance abroad.\n\nExport controls now cut Nvidia off from China, forcing chip redesigns on the fly. ⚙️\n\nThat means the tools you build and publish with depend on one fragile supply chain. 💻\n\nIf that chain broke tomorrow, what would still run? 🤔"
+        }
+      },
+      "instagram_caption": "Nvidia's chips run nearly every advanced AI model on the planet — and Jensen Huang almost moved that production overseas. 😳\n\nOne decision years ago could have sent US AI dominance abroad.\n\nExport controls now cut Nvidia off from China, forcing chip redesigns on the fly. ⚙️\n\nThat means the tools you build and publish with depend on one fragile supply chain. 💻\n\nIf that chain broke tomorrow, what would still run? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Did Huang almost lose the AI race?",
+          "description": "Jensen Huang once considered shifting Nvidia production overseas, a move that could have altered US AI dominance.",
+          "visual_hint": "Jensen Huang speaking on stage",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Jensen Huang"
+        },
+        {
+          "hook": "Nvidia chips power almost all AI.",
+          "description": "Nvidia's hardware runs nearly every advanced AI model, giving one company enormous leverage over the entire industry.",
+          "visual_hint": "Close-up of AI chip",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "AI chip",
+          "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "What if production had moved?",
+          "description": "Huang weighed shifting production abroad; had he done so, US export policy and supply chains would look very different.",
+          "visual_hint": "Global supply chain map",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "supply chain",
+          "image": "https://images.pexels.com/photos/4483859/pexels-photo-4483859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Export controls hit China sales.",
+          "description": "New export controls restrict Nvidia's China business, forcing the company to redesign chips and reroute strategy in real time.",
+          "visual_hint": "Cargo ship at port",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "cargo ship",
+          "image": "https://images.pexels.com/photos/27402391/pexels-photo-27402391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Is US AI leadership fragile? Save this.",
+          "description": "Check where your AI compute comes from. If one supply chain broke tomorrow, what would still run?",
+          "visual_hint": "Server room with blinking lights",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-11-11T17:35:25.995Z",
+      "sourceId": "13a445521080305c001bc739bcf1c55c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "adobe-s-ai-experiments-let-you-walk-around-in-phot",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+      "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+      "pubDate": "2026-11-11T14:00:00.000Z",
+      "slides": [
+        "What if your next pitch deck grew a second page?",
+        "Adobe prototyped a tool that turns flat photos into walkable scenes",
+        "Testers kept walking back to the same unanswered corner",
+        "A tool now spots weak slides before clients do",
+        "Pick one deck slide and ask what hides beside it"
+      ],
+      "thread_text": [
+        "1. Your deck has a blind spot\n\nAdobe built a tool that turns flat photos into walkable 3D scenes. Testers kept walking back to the same unanswered corner—the one your slide hides.",
+        "2. Adobe's spatial prototype\n\nIt converts a single photo into a navigable scene. The surprise wasn't the tech—it was where people instinctively walked first.",
+        "3. The corner testers returned to\n\nEvery tester circled back to the same weak slide. The tool exposed a gap the presenter had stopped seeing after ten rehearsals.",
+        "4. Weak slides, caught early\n\nA new tool flags thin arguments before clients do. It doesn't polish—it finds the slide that can't survive a follow-up question.",
+        "5. Ask what's beside it\n\nOpen your next deck and point at one slide: what question lives just off its edge? If you can't answer in ten seconds, that's your rewrite."
+      ],
+      "video_script": [
+        "What if your pitch deck had a second page?",
+        "Adobe's prototype turns flat photos into walkable scenes.",
+        "Testers kept walking back to the same unanswered corner.",
+        "A tool now spots weak slides before clients do.",
+        "Pick one slide and ask what hides beside it."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your deck has a blind spot\n\nAdobe built a tool that turns flat photos into walkable 3D scenes. Testers kept walking back to the same unanswered corner—the one your slide hides.",
+            "2. Adobe's spatial prototype\n\nIt converts a single photo into a navigable scene. The surprise wasn't the tech—it was where people instinctively walked first.",
+            "3. The corner testers returned to\n\nEvery tester circled back to the same weak slide. The tool exposed a gap the presenter had stopped seeing after ten rehearsals.",
+            "4. Weak slides, caught early\n\nA new tool flags thin arguments before clients do. It doesn't polish—it finds the slide that can't survive a follow-up question.",
+            "5. Ask what's beside it\n\nOpen your next deck and point at one slide: what question lives just off its edge? If you can't answer in ten seconds, that's your rewrite."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "What if your pitch deck had a second page?",
+            "Adobe's prototype turns flat photos into walkable scenes.",
+            "Testers kept walking back to the same unanswered corner.",
+            "A tool now spots weak slides before clients do.",
+            "Pick one slide and ask what hides beside it."
+          ]
+        },
+        "instagram": {
+          "caption": "Adobe made flat photos walkable 3D scenes, and testers kept drifting back to the same unanswered corner.\n\nThat corner was a slide hiding a weak argument, the one the presenter had rehearsed past 🙃\n\nThe prototype turns a single photo into a scene you can move through. The tech wasn't the surprise — where people instinctively walked was.\n\nA second tool now flags thin slides before clients spot them. It doesn't polish wording, it finds the slide that can't survive a follow-up question.\n\nOpen your next deck, point at one slide, and ask what question lives just off its edge 👀\n\nIf you can't answer in ten seconds, that slide needs a rewrite.\n\nWhich slide in your deck are you avoiding?"
+        }
+      },
+      "instagram_caption": "Adobe made flat photos walkable 3D scenes, and testers kept drifting back to the same unanswered corner.\n\nThat corner was a slide hiding a weak argument, the one the presenter had rehearsed past 🙃\n\nThe prototype turns a single photo into a scene you can move through. The tech wasn't the surprise — where people instinctively walked was.\n\nA second tool now flags thin slides before clients spot them. It doesn't polish wording, it finds the slide that can't survive a follow-up question.\n\nOpen your next deck, point at one slide, and ask what question lives just off its edge 👀\n\nIf you can't answer in ten seconds, that slide needs a rewrite.\n\nWhich slide in your deck are you avoiding?",
+      "carousel_slides": [
+        {
+          "hook": "Which slide hides your blind spot?",
+          "description": "Adobe's tool turns photos into walkable scenes. Testers repeatedly returned to the same unanswered corner that your pitch deck conceals.",
+          "visual_hint": "Presenter looking at a flat photo on a table",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "photo on table"
+        },
+        {
+          "hook": "Adobe's spatial prototype converts one photo",
+          "description": "A single photo becomes a navigable 3D scene. The surprise: testers instinctively walked to the weakest slide first, revealing hidden gaps.",
+          "visual_hint": "3D wireframe of a room",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "3D wireframe room",
+          "image": "https://images.pexels.com/photos/3137081/pexels-photo-3137081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Every tester circled the same weak slide",
+          "description": "The tool exposed gaps the presenter stopped seeing after ten rehearsals. It flags weak arguments before clients ever do.",
+          "visual_hint": "Confused person scratching head",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "confused person",
+          "image": "https://images.pexels.com/photos/8727494/pexels-photo-8727494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "New tool flags thin arguments early",
+          "description": "It finds the slide that can't survive a follow-up question. No polish, just detection of weak spots in your deck.",
+          "visual_hint": "Hand highlighting a slide on screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand pointing screen",
+          "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this. Then test your next deck.",
+          "description": "Open your deck, point at one slide: what question lives off its edge? If you can't answer in ten seconds, rewrite it.",
+          "visual_hint": "Person examining presentation slide",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "business presentation slide",
+          "image": "https://images.pexels.com/photos/18999196/pexels-photo-18999196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-11-11T17:35:16.853Z",
+      "sourceId": "24878850a24ab6190b2d5afb16d26448"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-u",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "pubDate": "Wed, 11 Nov 2026 15:00:00 +0000",
+      "slides": [
+        "Can Databricks' agent tell Ali Ghodsi the truth?",
+        "It reviews the company's own operations data daily.",
+        "But it surfaces problems executives never asked about.",
+        "Leaders using such agents get harder questions sooner.",
+        "Ask your data one uncomfortable question this week."
+      ],
+      "thread_text": [
+        "1. The AI That Questions CEOs\n\nDatabricks built an agent that reviews its own operations daily. It doesn't wait for executives to ask — it surfaces problems they never thought to look for.",
+        "2. The Agent's Daily Grind\n\nEvery day, it scans the company's operational data. No prompts from leaders. No specific questions. Just a constant, silent audit of everything.",
+        "3. Uncomfortable Discoveries\n\nThe agent finds issues executives never asked about. Not because they forgot, but because they didn't know what to ask. It reveals blind spots.",
+        "4. Hard Questions, Sooner\n\nLeaders using such agents get confronted with tough questions faster. The agent doesn't soften the blow — it delivers the truth upfront.",
+        "5. Your Turn to Ask\n\nThis week, ask your data one uncomfortable question. Something you've been avoiding. See what it tells you — and act on it."
+      ],
+      "video_script": [
+        "Databricks' agent reviews operations daily, unprompted.",
+        "It finds problems executives never thought to ask about.",
+        "Leaders get harder questions sooner from these agents.",
+        "The truth surfaces whether you're ready or not.",
+        "Ask your data one uncomfortable question this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The AI That Questions CEOs\n\nDatabricks built an agent that reviews its own operations daily. It doesn't wait for executives to ask — it surfaces problems they never thought to look for.",
+            "2. The Agent's Daily Grind\n\nEvery day, it scans the company's operational data. No prompts from leaders. No specific questions. Just a constant, silent audit of everything.",
+            "3. Uncomfortable Discoveries\n\nThe agent finds issues executives never asked about. Not because they forgot, but because they didn't know what to ask. It reveals blind spots.",
+            "4. Hard Questions, Sooner\n\nLeaders using such agents get confronted with tough questions faster. The agent doesn't soften the blow — it delivers the truth upfront.",
+            "5. Your Turn to Ask\n\nThis week, ask your data one uncomfortable question. Something you've been avoiding. See what it tells you — and act on it."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Databricks' agent reviews operations daily, unprompted.",
+            "It finds problems executives never thought to ask about.",
+            "Leaders get harder questions sooner from these agents.",
+            "The truth surfaces whether you're ready or not.",
+            "Ask your data one uncomfortable question this week."
+          ]
+        },
+        "instagram": {
+          "caption": "Databricks built an AI agent that reviews its own operations every single day — and it reports straight to CEO Ali Ghodsi. 🧠\n\nIt scans the company's operational data daily, with no prompts from leaders.\n\nIt surfaces problems executives never thought to ask about — not because they forgot, but because they didn't know what to ask.\n\nLeaders using agents like this get the hard questions sooner, unsoftened.\n\nIf you work with data or content, the lesson is blunt: your blind spots are now auditable, every day. 👀\n\nSo this week — what's the one uncomfortable question about your own work you've been avoiding asking your data? 💬"
+        }
+      },
+      "instagram_caption": "Databricks built an AI agent that reviews its own operations every single day — and it reports straight to CEO Ali Ghodsi. 🧠\n\nIt scans the company's operational data daily, with no prompts from leaders.\n\nIt surfaces problems executives never thought to ask about — not because they forgot, but because they didn't know what to ask.\n\nLeaders using agents like this get the hard questions sooner, unsoftened.\n\nIf you work with data or content, the lesson is blunt: your blind spots are now auditable, every day. 👀\n\nSo this week — what's the one uncomfortable question about your own work you've been avoiding asking your data? 💬",
+      "carousel_slides": [
+        {
+          "hook": "What if your AI tells the truth?",
+          "description": "Databricks' agent reviews operations daily, surfacing problems executives never thought to ask about.",
+          "visual_hint": "Futuristic AI interface with data streams",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "It scans data without being asked",
+          "description": "Every day, the agent audits operational data silently, no prompts needed, revealing blind spots.",
+          "visual_hint": "Data dashboard with scanning animation",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Uncomfortable truths surface first",
+          "description": "The agent finds issues leaders never asked about, exposing what they didn't know to look for.",
+          "visual_hint": "Magnifying glass over data chart",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Hard questions come sooner",
+          "description": "Leaders using such agents get confronted with tough questions faster, no sugarcoating.",
+          "visual_hint": "Executive facing intense data screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask your data one tough question",
+          "description": "This week, ask your data something you've been avoiding. Act on what it reveals.",
+          "visual_hint": "Person typing question into laptop",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop screen",
+          "image": "https://images.pexels.com/photos/11363706/pexels-photo-11363706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?resize=1200,1200",
+      "savedAt": "2026-11-11T17:35:06.417Z",
+      "sourceId": "a12c5f3d8f2dcc714a62a3902d89da73"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-s-quarterly-revenue-reportedly-crosses-10b-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "pubDate": "Wed, 11 Nov 2026 16:14:44 +0000",
+      "slides": [
+        "Can OpenAI's $10B quarter survive its own burn rate?",
+        "Revenue crossed $10B for the first time quarterly",
+        "But losses reportedly grow faster than revenue does",
+        "Enterprise buyers now face higher pricing tiers",
+        "Check your API bill: costs rose this quarter"
+      ],
+      "thread_text": [
+        "1. OpenAI's $10B Quarter\n\nRevenue hit $10 billion for the first time in a single quarter, but internal numbers show losses are growing faster than sales.",
+        "2. Burn Rate Outpaces Growth\n\nOperating costs are climbing at a steeper rate than revenue, meaning the company is spending more than it earns to sustain growth.",
+        "3. Enterprise Pricing Shift\n\nBusiness customers now face higher pricing tiers, as OpenAI adjusts its rate cards to offset rising infrastructure and research expenses.",
+        "4. API Costs on the Rise\n\nDevelopers and companies using OpenAI's API saw their bills increase this quarter, a direct result of the new pricing structure.",
+        "5. Check Your API Bill\n\nGo to your OpenAI billing dashboard and compare this quarter's charges to last quarter. If the jump is significant, consider renegotiating your plan or optimizing your usage."
+      ],
+      "video_script": [
+        "OpenAI just hit ten billion dollars in quarterly revenue.",
+        "But losses are growing even faster than sales.",
+        "Enterprise customers now face higher pricing tiers.",
+        "API costs went up this quarter for many users.",
+        "Check your bill today and compare to last quarter."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. OpenAI's $10B Quarter\n\nRevenue hit $10 billion for the first time in a single quarter, but internal numbers show losses are growing faster than sales.",
+            "2. Burn Rate Outpaces Growth\n\nOperating costs are climbing at a steeper rate than revenue, meaning the company is spending more than it earns to sustain growth.",
+            "3. Enterprise Pricing Shift\n\nBusiness customers now face higher pricing tiers, as OpenAI adjusts its rate cards to offset rising infrastructure and research expenses.",
+            "4. API Costs on the Rise\n\nDevelopers and companies using OpenAI's API saw their bills increase this quarter, a direct result of the new pricing structure.",
+            "5. Check Your API Bill\n\nGo to your OpenAI billing dashboard and compare this quarter's charges to last quarter. If the jump is significant, consider renegotiating your plan or optimizing your usage."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI just hit ten billion dollars in quarterly revenue.",
+            "But losses are growing even faster than sales.",
+            "Enterprise customers now face higher pricing tiers.",
+            "API costs went up this quarter for many users.",
+            "Check your bill today and compare to last quarter."
+          ]
+        },
+        "instagram": {
+          "caption": "Revenue crossed $10 billion in a single quarter for the first time — but losses reportedly grew even faster.\n\nOpenAI's operating costs are climbing at a steeper rate than sales, according to internal numbers. 📊\n\nEnterprise customers now face higher pricing tiers, and API bills went up this quarter as the company offsets infrastructure and research costs.\n\nIf you publish or build with OpenAI tools, your production costs just changed — check what you're actually paying per call.\n\nPull up your billing dashboard and compare this quarter to last: is the jump big enough to rethink your plan? 💳"
+        }
+      },
+      "instagram_caption": "Revenue crossed $10 billion in a single quarter for the first time — but losses reportedly grew even faster.\n\nOpenAI's operating costs are climbing at a steeper rate than sales, according to internal numbers. 📊\n\nEnterprise customers now face higher pricing tiers, and API bills went up this quarter as the company offsets infrastructure and research costs.\n\nIf you publish or build with OpenAI tools, your production costs just changed — check what you're actually paying per call.\n\nPull up your billing dashboard and compare this quarter to last: is the jump big enough to rethink your plan? 💳",
+      "carousel_slides": [
+        {
+          "hook": "Is OpenAI's $10B quarter a warning?",
+          "description": "Revenue crossed $10B for the first time, but losses reportedly grow faster than sales, raising sustainability questions.",
+          "visual_hint": "Split screen: money growth vs loss chart",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Revenue hit $10B in a single quarter",
+          "description": "OpenAI's quarterly revenue reportedly crossed $10 billion for the first time, marking a major milestone.",
+          "visual_hint": "Rising bar chart with $10B label",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "bar chart",
+          "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Losses are growing faster than revenue",
+          "description": "Operating costs climb at a steeper rate than sales, meaning OpenAI spends more than it earns to sustain growth.",
+          "visual_hint": "Two diverging lines: cost up, revenue up slower",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "line graph",
+          "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Enterprise buyers now face higher pricing tiers",
+          "description": "Business customers see higher pricing tiers as OpenAI adjusts rate cards to offset rising infrastructure and research expenses.",
+          "visual_hint": "Hand holding price tag with upward arrow",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "price tag",
+          "image": "https://images.pexels.com/photos/7986977/pexels-photo-7986977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your API bill now — costs rose",
+          "description": "Compare this quarter's OpenAI charges to last quarter; if the jump is significant, renegotiate your plan or optimize usage.",
+          "visual_hint": "Dashboard with billing statement and arrow up",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "billing statement",
+          "image": "https://images.pexels.com/photos/7926706/pexels-photo-7926706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-rose.jpg?resize=1200,675",
+      "savedAt": "2026-11-11T17:34:56.446Z",
+      "sourceId": "b577d6b06f32358e6bb6761c381bd6c5"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "anthropic-has-its-own-ai-powered-office-suite-now",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -213628,6 +214044,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "torta-di-patate-ai-funghi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Torta di patate ai funghi",
+      "link": "https://ricette.giallozafferano.it/Torta-di-patate-ai-funghi.html",
+      "pubDate": "Wed, 11 Nov 2026 10:59:00 +0100",
+      "content": "Torta di patate ai funghi, lo sformato facile e filante Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X Torte salate Torta di patate ai funghi /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici 371,5 Calorie per porzione Energia Kcal 371,5 Carboidrati g 32,2 &nbsp;&nbsp;di cui zuccheri g 3,9 Proteine g 21,8 Grassi g 17,9 &nbsp;&nbsp;di cui saturi g 8,6 Fibre g 4 Colesterolo mg 88,4 Sodio mg 697,4 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Vegetariano Dieta Mediterranea Difficoltà: Facile Preparazione: 30 min Cottura: 1 h 10 min Dosi per: 8 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti PRESENTAZIONE La torta di patate ai funghi è una torta salata ideale da servire come secondo piatto vegetariano ricco e sfizioso, perfetto per un pranzo della domenica o una cena in famiglia. Questo gustoso sformato al forno è preparato con una base morbida di patate, arricchita con uova e Parmigiano, che accoglie un ripieno cremoso di funghi champignon e formaggio filante. A completare il tutto, una golosa gratinatura al Parmigiano che rende la superficie dorata e appetitosa. La torta di patate ai funghi è un'ottima alternativa alle classiche torte salate, ideale da preparare anche in anticipo e servire a fette. Il contrasto tra la consistenza soffice delle patate, il ripieno saporito e la crosticina gratinata la rende particolarmente invitante. E se amate questo abbinamento provate anche: torta salata funghi e patate sformato di patate e funghi tortino di patate con porcini e provola rustico con patate funghi e scamorza torta di patate con pollo e funghi schiacciata di patate in padella con funghi Potato and Mushroom Tart INGREDIENTI 371,5 Calorie per porzione per la base di patate (per una tortiera da 30 cm) Patate 1 kg Uova 2 Parmigiano Reggiano DOP 100 g Pangrattato 60 g Olio extravergine d'oliva 10 g Sale fino q.b. Pepe nero q.b. per il ripieno ai funghi Funghi champignon 800 g Emmentaler a fette 100 g Panna fresca liquida 50 g Parmigiano Reggiano DOP 100 g Aglio 1 spicchio Sale fino q.b. Pepe nero q.b. Olio extravergine d'oliva q.b. per la teglia e la gratinatura Pangrattato 30 g Parmigiano Reggiano DOP 20 g Olio extravergine d'oliva per ungere la teglia 5 g AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta di patate ai funghi Per preparare la torta di patate ai funghi come prima cosa lessate le patate, partendo da acqua fredda, per 30-40 minuti 1 . Nel frattempo occupatevi dei funghi champignon. Tagliate la parte inferiore del gambo e togliete il terriccio con un panno umido 2 . Una volta puliti tagliateli a fettine 3 . Scaldate una padella con un filo d'olio extravergine di oliva e uno spicchio d'aglio 4 . Una volta che l'aglio sarà imbiondito versate i funghi 5 . Condite con sale e pepe e fate cuocere a fiamma medio alta per 5 minuti 6 . Passato questo tempo versate la panna fresca 7 e unite il parmigiano 8 . Mescolate bene e cuocete altri 4 minuti a fuoco medio 9 . Una volta che le patate saranno cotte scolatele e schiacciatele in una ciotola 10 . Se usate lo schiacciapatate, non ci sarà bisogno di sbucciarle. Condite con sale, pepe e olio 11 . Ora unite anche le uova 12 . Aggiungete al composto il parmigiano grattugiato 13 e dopo aver mescolato unite anche il pangrattato 14 . Ungete con dell'olio extravergine di oliva una tortiera con fondo removibile da 30 cm 15 , quindi rivestitela con il pangrattato. Trasferite il composto con una spatola 16 e con le mani distribuitelo su tutta la superficie, schiacciandolo delicatamente e creando un bordo più spesso sui bordi 17 . Farcite l'interno della torta con le fette di Emmentaler 18 . Ora aggiungete i funghi cotti 19 e sistemateli bene con un cucchiaio 20 . Cospargete la superficie con il restante parmigiano grattugiato 21 . Cuocete la torta in forno statico preriscaldato a 170° per 30 minuti 22 o fino a che sarà ben gratinata in superficie 23 . Lasciatela intiepidire e servitela 24 . Conservazione La torta di patate ai funghi si conserva in frigorifero per due giorni ben coperta. Una volta raffreddata completamente si può congelare. Consiglio Lasciate intiepidire la torta di patate ai funghi prima di tagliarla: in questo modo otterrete delle fette ben definite, senza rischiare che si rompano. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Patate Aglio Olio di oliva Uovo Parmigiano Reggiano Scopri tutto sugli ingredienti Presente in: Secondi piatti , Secondi piatti vegetariani , Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Torta di patate ai funghi 5.0 Cheesecake salata vegana ai broccoli 5.0 Pastina ai funghi 5.0 SCOPRI Torta salata funghi e patate Funghi e patate Tortino di patate e funghi Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. e all’utilizzo di pixel di tracciamento nelle suddette comunicazioni per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne Si No Prosegui",
+      "slides": [
+        "Torta di patate ai funghi, filante e gratinata",
+        "Patate, funghi, uova, Parmigiano ed Emmentaler",
+        "Schiaccia le patate e mescola con uova",
+        "Riempi con funghi ed Emmentaler, gratina in forno",
+        "Lascia intiepidire prima di tagliare le fette"
+      ],
+      "instagram_caption": "Croccante fuori, filante dentro: la torta di patate ai funghi è quella coccola che non sapevi di desiderare 🥔🍄\nPatate schiacciate e mescolate alle uova, un cuore generoso di funghi ed Emmentaler che si scioglie in forno, poi una bella gratinatura dorata in superficie. Il profumo invade la cucina già dopo dieci minuti.\nLa pazienza è tutto: lasciala intiepidire prima di tagliarla, le fette resteranno perfette.\nProvala questo weekend e fammi sapere com'è andata! 🧀✨",
+      "formats": {
+        "instagram": {
+          "caption": "Croccante fuori, filante dentro: la torta di patate ai funghi è quella coccola che non sapevi di desiderare 🥔🍄\nPatate schiacciate e mescolate alle uova, un cuore generoso di funghi ed Emmentaler che si scioglie in forno, poi una bella gratinatura dorata in superficie. Il profumo invade la cucina già dopo dieci minuti.\nLa pazienza è tutto: lasciala intiepidire prima di tagliarla, le fette resteranno perfette.\nProvala questo weekend e fammi sapere com'è andata! 🧀✨"
+        },
+        "tiktok": {
+          "script": [
+            "Torta di patate ai funghi, filante e gratinata!",
+            "Patate, funghi, uova, Parmigiano ed Emmentaler.",
+            "Schiaccio le patate e mescolo con le uova.",
+            "Riempo con funghi ed Emmentaler, poi gratino in forno.",
+            "Lascio intiepidire prima di tagliare le fette."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Torta di patate ai funghi: fuori è croccante, dentro fila che è una meraviglia. Se non l'hai mai provata, preparati a cambiare idea sulle torte salate.",
+            "Servono patate, funghi, uova, Parmigiano ed Emmentaler. Pochi ingredienti, zero scuse: è il tipo di ricetta che sembra complicata e invece ti salva la cena.",
+            "Il gesto chiave: schiaccia le patate e mescolale con le uova. Deve venire un impasto morbido ma compatto, pronto a fare da base alla tua farcitura.",
+            "Riempi con i funghi e tanto Emmentaler, poi in forno a gratinare. È lì che succede la magia: la superficie diventa dorata e il formaggio fila a ogni taglio.",
+            "Trucco finale: lasciala intiepidire prima di tagliarla, altrimenti si sfalda. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Torta di patate ai funghi, filante e gratinata!",
+        "Patate, funghi, uova, Parmigiano ed Emmentaler.",
+        "Schiaccio le patate e mescolo con le uova.",
+        "Riempo con funghi ed Emmentaler, poi gratino in forno.",
+        "Lascio intiepidire prima di tagliare le fette."
+      ],
+      "thread_text": [
+        "Torta di patate ai funghi: fuori è croccante, dentro fila che è una meraviglia. Se non l'hai mai provata, preparati a cambiare idea sulle torte salate.",
+        "Servono patate, funghi, uova, Parmigiano ed Emmentaler. Pochi ingredienti, zero scuse: è il tipo di ricetta che sembra complicata e invece ti salva la cena.",
+        "Il gesto chiave: schiaccia le patate e mescolale con le uova. Deve venire un impasto morbido ma compatto, pronto a fare da base alla tua farcitura.",
+        "Riempi con i funghi e tanto Emmentaler, poi in forno a gratinare. È lì che succede la magia: la superficie diventa dorata e il formaggio fila a ogni taglio.",
+        "Trucco finale: lasciala intiepidire prima di tagliarla, altrimenti si sfalda. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Torta di patate ai funghi",
+          "description": "Filante, gratinata e dorata: una torta salata che conquista al primo morso.",
+          "visual_hint": "torta dorata filante",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory potato mushroom pie"
+        },
+        {
+          "hook": "Patate, funghi e tanto formaggio",
+          "description": "Ingredienti semplici per un ripieno ricco: uova, Parmigiano ed Emmentaler.",
+          "visual_hint": "ingredienti freschi sul tavolo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory potato mushroom ingredients",
+          "image": "https://images.pexels.com/photos/7936644/pexels-photo-7936644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Schiaccia le patate e mescola",
+          "description": "Il gesto chiave: patate schiacciate e amalgamate con le uova per una base morbida.",
+          "visual_hint": "mani schiacciano patate",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory mashed potatoes eggs",
+          "image": "https://images.pexels.com/photos/20323457/pexels-photo-20323457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Riempi e gratina in forno",
+          "description": "Funghi ed Emmentaler nel cuore, poi forno fino a gratina dorata.",
+          "visual_hint": "torta in forno gratinata",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory mushroom cheese pie baking",
+          "image": "https://images.pexels.com/photos/38868614/pexels-photo-38868614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Lascia intiepidire prima di tagliare",
+          "description": "Il trucco per fette perfette: qualche minuto di riposo e servi.",
+          "visual_hint": "fetta di torta servita",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory potato pie slice",
+          "image": "https://images.pexels.com/photos/20182349/pexels-photo-20182349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "vegetable",
+      "signature_ingredients": [
+        "patate",
+        "funghi",
+        "Emmentaler"
+      ],
+      "image": "https://www.giallozafferano.it/images/368-36818/Torta-di-patate-ai-funghi_1200x800_wm.jpg",
+      "savedAt": "2026-11-11T17:43:44.592Z",
+      "sourceId": "941abba432287cd76f88f58851954cf5"
+    },
     {
       "schema_version": 2,
       "agent": "food",

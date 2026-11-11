@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "torta-di-patate-ai-funghi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Torta di patate ai funghi",
+    "link": "https://ricette.giallozafferano.it/Torta-di-patate-ai-funghi.html",
+    "pubDate": "Wed, 11 Nov 2026 10:59:00 +0100",
+    "content": "Torta di patate ai funghi, lo sformato facile e filante Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X Torte salate Torta di patate ai funghi /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici 371,5 Calorie per porzione Energia Kcal 371,5 Carboidrati g 32,2 &nbsp;&nbsp;di cui zuccheri g 3,9 Proteine g 21,8 Grassi g 17,9 &nbsp;&nbsp;di cui saturi g 8,6 Fibre g 4 Colesterolo mg 88,4 Sodio mg 697,4 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Vegetariano Dieta Mediterranea Difficoltà: Facile Preparazione: 30 min Cottura: 1 h 10 min Dosi per: 8 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti PRESENTAZIONE La torta di patate ai funghi è una torta salata ideale da servire come secondo piatto vegetariano ricco e sfizioso, perfetto per un pranzo della domenica o una cena in famiglia. Questo gustoso sformato al forno è preparato con una base morbida di patate, arricchita con uova e Parmigiano, che accoglie un ripieno cremoso di funghi champignon e formaggio filante. A completare il tutto, una golosa gratinatura al Parmigiano che rende la superficie dorata e appetitosa. La torta di patate ai funghi è un'ottima alternativa alle classiche torte salate, ideale da preparare anche in anticipo e servire a fette. Il contrasto tra la consistenza soffice delle patate, il ripieno saporito e la crosticina gratinata la rende particolarmente invitante. E se amate questo abbinamento provate anche: torta salata funghi e patate sformato di patate e funghi tortino di patate con porcini e provola rustico con patate funghi e scamorza torta di patate con pollo e funghi schiacciata di patate in padella con funghi Potato and Mushroom Tart INGREDIENTI 371,5 Calorie per porzione per la base di patate (per una tortiera da 30 cm) Patate 1 kg Uova 2 Parmigiano Reggiano DOP 100 g Pangrattato 60 g Olio extravergine d'oliva 10 g Sale fino q.b. Pepe nero q.b. per il ripieno ai funghi Funghi champignon 800 g Emmentaler a fette 100 g Panna fresca liquida 50 g Parmigiano Reggiano DOP 100 g Aglio 1 spicchio Sale fino q.b. Pepe nero q.b. Olio extravergine d'oliva q.b. per la teglia e la gratinatura Pangrattato 30 g Parmigiano Reggiano DOP 20 g Olio extravergine d'oliva per ungere la teglia 5 g AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta di patate ai funghi Per preparare la torta di patate ai funghi come prima cosa lessate le patate, partendo da acqua fredda, per 30-40 minuti 1 . Nel frattempo occupatevi dei funghi champignon. Tagliate la parte inferiore del gambo e togliete il terriccio con un panno umido 2 . Una volta puliti tagliateli a fettine 3 . Scaldate una padella con un filo d'olio extravergine di oliva e uno spicchio d'aglio 4 . Una volta che l'aglio sarà imbiondito versate i funghi 5 . Condite con sale e pepe e fate cuocere a fiamma medio alta per 5 minuti 6 . Passato questo tempo versate la panna fresca 7 e unite il parmigiano 8 . Mescolate bene e cuocete altri 4 minuti a fuoco medio 9 . Una volta che le patate saranno cotte scolatele e schiacciatele in una ciotola 10 . Se usate lo schiacciapatate, non ci sarà bisogno di sbucciarle. Condite con sale, pepe e olio 11 . Ora unite anche le uova 12 . Aggiungete al composto il parmigiano grattugiato 13 e dopo aver mescolato unite anche il pangrattato 14 . Ungete con dell'olio extravergine di oliva una tortiera con fondo removibile da 30 cm 15 , quindi rivestitela con il pangrattato. Trasferite il composto con una spatola 16 e con le mani distribuitelo su tutta la superficie, schiacciandolo delicatamente e creando un bordo più spesso sui bordi 17 . Farcite l'interno della torta con le fette di Emmentaler 18 . Ora aggiungete i funghi cotti 19 e sistemateli bene con un cucchiaio 20 . Cospargete la superficie con il restante parmigiano grattugiato 21 . Cuocete la torta in forno statico preriscaldato a 170° per 30 minuti 22 o fino a che sarà ben gratinata in superficie 23 . Lasciatela intiepidire e servitela 24 . Conservazione La torta di patate ai funghi si conserva in frigorifero per due giorni ben coperta. Una volta raffreddata completamente si può congelare. Consiglio Lasciate intiepidire la torta di patate ai funghi prima di tagliarla: in questo modo otterrete delle fette ben definite, senza rischiare che si rompano. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Patate Aglio Olio di oliva Uovo Parmigiano Reggiano Scopri tutto sugli ingredienti Presente in: Secondi piatti , Secondi piatti vegetariani , Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Torta di patate ai funghi 5.0 Cheesecake salata vegana ai broccoli 5.0 Pastina ai funghi 5.0 SCOPRI Torta salata funghi e patate Funghi e patate Tortino di patate e funghi Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. e all’utilizzo di pixel di tracciamento nelle suddette comunicazioni per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne Si No Prosegui",
+    "slides": [
+      "Torta di patate ai funghi, filante e gratinata",
+      "Patate, funghi, uova, Parmigiano ed Emmentaler",
+      "Schiaccia le patate e mescola con uova",
+      "Riempi con funghi ed Emmentaler, gratina in forno",
+      "Lascia intiepidire prima di tagliare le fette"
+    ],
+    "instagram_caption": "Croccante fuori, filante dentro: la torta di patate ai funghi è quella coccola che non sapevi di desiderare 🥔🍄\nPatate schiacciate e mescolate alle uova, un cuore generoso di funghi ed Emmentaler che si scioglie in forno, poi una bella gratinatura dorata in superficie. Il profumo invade la cucina già dopo dieci minuti.\nLa pazienza è tutto: lasciala intiepidire prima di tagliarla, le fette resteranno perfette.\nProvala questo weekend e fammi sapere com'è andata! 🧀✨",
+    "formats": {
+      "instagram": {
+        "caption": "Croccante fuori, filante dentro: la torta di patate ai funghi è quella coccola che non sapevi di desiderare 🥔🍄\nPatate schiacciate e mescolate alle uova, un cuore generoso di funghi ed Emmentaler che si scioglie in forno, poi una bella gratinatura dorata in superficie. Il profumo invade la cucina già dopo dieci minuti.\nLa pazienza è tutto: lasciala intiepidire prima di tagliarla, le fette resteranno perfette.\nProvala questo weekend e fammi sapere com'è andata! 🧀✨"
+      },
+      "tiktok": {
+        "script": [
+          "Torta di patate ai funghi, filante e gratinata!",
+          "Patate, funghi, uova, Parmigiano ed Emmentaler.",
+          "Schiaccio le patate e mescolo con le uova.",
+          "Riempo con funghi ed Emmentaler, poi gratino in forno.",
+          "Lascio intiepidire prima di tagliare le fette."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Torta di patate ai funghi: fuori è croccante, dentro fila che è una meraviglia. Se non l'hai mai provata, preparati a cambiare idea sulle torte salate.",
+          "Servono patate, funghi, uova, Parmigiano ed Emmentaler. Pochi ingredienti, zero scuse: è il tipo di ricetta che sembra complicata e invece ti salva la cena.",
+          "Il gesto chiave: schiaccia le patate e mescolale con le uova. Deve venire un impasto morbido ma compatto, pronto a fare da base alla tua farcitura.",
+          "Riempi con i funghi e tanto Emmentaler, poi in forno a gratinare. È lì che succede la magia: la superficie diventa dorata e il formaggio fila a ogni taglio.",
+          "Trucco finale: lasciala intiepidire prima di tagliarla, altrimenti si sfalda. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Torta di patate ai funghi, filante e gratinata!",
+      "Patate, funghi, uova, Parmigiano ed Emmentaler.",
+      "Schiaccio le patate e mescolo con le uova.",
+      "Riempo con funghi ed Emmentaler, poi gratino in forno.",
+      "Lascio intiepidire prima di tagliare le fette."
+    ],
+    "thread_text": [
+      "Torta di patate ai funghi: fuori è croccante, dentro fila che è una meraviglia. Se non l'hai mai provata, preparati a cambiare idea sulle torte salate.",
+      "Servono patate, funghi, uova, Parmigiano ed Emmentaler. Pochi ingredienti, zero scuse: è il tipo di ricetta che sembra complicata e invece ti salva la cena.",
+      "Il gesto chiave: schiaccia le patate e mescolale con le uova. Deve venire un impasto morbido ma compatto, pronto a fare da base alla tua farcitura.",
+      "Riempi con i funghi e tanto Emmentaler, poi in forno a gratinare. È lì che succede la magia: la superficie diventa dorata e il formaggio fila a ogni taglio.",
+      "Trucco finale: lasciala intiepidire prima di tagliarla, altrimenti si sfalda. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Torta di patate ai funghi",
+        "description": "Filante, gratinata e dorata: una torta salata che conquista al primo morso.",
+        "visual_hint": "torta dorata filante",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory potato mushroom pie"
+      },
+      {
+        "hook": "Patate, funghi e tanto formaggio",
+        "description": "Ingredienti semplici per un ripieno ricco: uova, Parmigiano ed Emmentaler.",
+        "visual_hint": "ingredienti freschi sul tavolo",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory potato mushroom ingredients",
+        "image": "https://images.pexels.com/photos/7936644/pexels-photo-7936644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Schiaccia le patate e mescola",
+        "description": "Il gesto chiave: patate schiacciate e amalgamate con le uova per una base morbida.",
+        "visual_hint": "mani schiacciano patate",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory mashed potatoes eggs",
+        "image": "https://images.pexels.com/photos/20323457/pexels-photo-20323457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Riempi e gratina in forno",
+        "description": "Funghi ed Emmentaler nel cuore, poi forno fino a gratina dorata.",
+        "visual_hint": "torta in forno gratinata",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory mushroom cheese pie baking",
+        "image": "https://images.pexels.com/photos/38868614/pexels-photo-38868614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Lascia intiepidire prima di tagliare",
+        "description": "Il trucco per fette perfette: qualche minuto di riposo e servi.",
+        "visual_hint": "fetta di torta servita",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory potato pie slice",
+        "image": "https://images.pexels.com/photos/20182349/pexels-photo-20182349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "vegetable",
+    "signature_ingredients": [
+      "patate",
+      "funghi",
+      "Emmentaler"
+    ],
+    "image": "https://www.giallozafferano.it/images/368-36818/Torta-di-patate-ai-funghi_1200x800_wm.jpg",
+    "savedAt": "2026-11-11T17:43:44.592Z",
+    "sourceId": "941abba432287cd76f88f58851954cf5"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "pollo-laccato-all-arancia-con-verdure",
     "prompt_version": "1.0.0",
     "status": "published",
