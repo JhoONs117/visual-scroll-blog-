@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ebay-appears-to-have-shut-the-door-on-third-party-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "eBay appears to have shut the door on third-party AI agents",
+  "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+  "pubDate": "2026-11-10T16:20:30.000Z",
+  "slides": [
+    "Is eBay closing its doors to AI agents?",
+    "It quietly blocked third-party AI shopping bots.",
+    "Sellers relying on those agents lose visibility overnight.",
+    "Check if your storefront depends on external agents.",
+    "Audit your traffic sources before the next update."
+  ],
+  "thread_text": [
+    "1. eBay Just Went Quiet\n\nWithout warning, third-party AI shopping bots stopped seeing eBay listings. Sellers woke up to missing traffic and no explanation.",
+    "2. Who's Behind the Block?\n\neBay hasn't publicly commented, but the pattern suggests a deliberate technical barrier. Bots that scrape or automate purchases are the target.",
+    "3. Sellers Left in the Dark\n\nMerchants relying on AI agents for visibility lost their lifeline overnight. No notice, no grace period — just a sudden drop in exposure.",
+    "4. Check Your Dependencies\n\nIf your storefront depends on external shopping agents, you're exposed. Map every third-party tool that drives traffic to your listings.",
+    "5. Audit Before the Next Update\n\nList your top traffic sources today. If any are AI-driven, test a fallback. What's your plan if eBay blocks them next?"
+  ],
+  "video_script": [
+    "eBay quietly blocked third-party AI shopping bots.",
+    "Sellers lost visibility overnight with no warning.",
+    "If your storefront relies on external agents, you're exposed.",
+    "Check which traffic sources come from AI tools.",
+    "Audit your dependencies before the next platform update."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. eBay Just Went Quiet\n\nWithout warning, third-party AI shopping bots stopped seeing eBay listings. Sellers woke up to missing traffic and no explanation.",
+        "2. Who's Behind the Block?\n\neBay hasn't publicly commented, but the pattern suggests a deliberate technical barrier. Bots that scrape or automate purchases are the target.",
+        "3. Sellers Left in the Dark\n\nMerchants relying on AI agents for visibility lost their lifeline overnight. No notice, no grace period — just a sudden drop in exposure.",
+        "4. Check Your Dependencies\n\nIf your storefront depends on external shopping agents, you're exposed. Map every third-party tool that drives traffic to your listings.",
+        "5. Audit Before the Next Update\n\nList your top traffic sources today. If any are AI-driven, test a fallback. What's your plan if eBay blocks them next?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "eBay quietly blocked third-party AI shopping bots.",
+        "Sellers lost visibility overnight with no warning.",
+        "If your storefront relies on external agents, you're exposed.",
+        "Check which traffic sources come from AI tools.",
+        "Audit your dependencies before the next platform update."
+      ]
+    },
+    "instagram": {
+      "caption": "Third-party AI shopping bots stopped seeing eBay listings overnight, with no warning to sellers.\n\neBay hasn't said a word publicly, but the pattern points to a deliberate technical block.\n\nSellers who relied on those agents for visibility lost their traffic source in one sweep.\n\nIf your storefront depends on external shopping agents, your listing exposure can vanish the same way.\n\nMap every tool that drives traffic to your listings today — before the next quiet update.\n\nDo you actually know which of your top traffic sources are AI-driven? 🔍"
+    }
+  },
+  "instagram_caption": "Third-party AI shopping bots stopped seeing eBay listings overnight, with no warning to sellers.\n\neBay hasn't said a word publicly, but the pattern points to a deliberate technical block.\n\nSellers who relied on those agents for visibility lost their traffic source in one sweep.\n\nIf your storefront depends on external shopping agents, your listing exposure can vanish the same way.\n\nMap every tool that drives traffic to your listings today — before the next quiet update.\n\nDo you actually know which of your top traffic sources are AI-driven? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Did eBay just block AI shopping bots?",
+      "description": "eBay quietly blocked third-party AI shopping bots, leaving sellers with missing traffic and no explanation.",
+      "visual_hint": "Closed door with digital lock",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "eBay's silent barrier targets AI agents",
+      "description": "eBay hasn't commented, but the pattern suggests a deliberate technical barrier against bots that scrape or automate purchases.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Robot blocked by firewall",
+      "image_query": "firewall server",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Sellers lose visibility overnight",
+      "description": "Merchants relying on AI agents for visibility lost their lifeline suddenly—no notice, no grace period, just a drop in exposure.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Storefront with fading traffic graph",
+      "image_query": "empty store",
+      "image": "https://images.pexels.com/photos/17159885/pexels-photo-17159885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Are you dependent on external AI agents?",
+      "description": "If your storefront depends on external shopping agents, you're exposed. Map every third-party tool driving traffic to your listings.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hand tracing network connections",
+      "image_query": "network cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: audit your traffic sources now",
+      "description": "List your top traffic sources today. If any are AI-driven, test a fallback before eBay blocks them next.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Checklist with traffic sources",
+      "image_query": "analytics dashboard",
+      "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-12T05:00:23.939Z",
+  "sourceId": "c77128a201b88a557ca37a58b2d9f7d6"
+}

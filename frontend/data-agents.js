@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "ebay-appears-to-have-shut-the-door-on-third-party-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "eBay appears to have shut the door on third-party AI agents",
+      "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+      "pubDate": "2026-11-10T16:20:30.000Z",
+      "slides": [
+        "Is eBay closing its doors to AI agents?",
+        "It quietly blocked third-party AI shopping bots.",
+        "Sellers relying on those agents lose visibility overnight.",
+        "Check if your storefront depends on external agents.",
+        "Audit your traffic sources before the next update."
+      ],
+      "thread_text": [
+        "1. eBay Just Went Quiet\n\nWithout warning, third-party AI shopping bots stopped seeing eBay listings. Sellers woke up to missing traffic and no explanation.",
+        "2. Who's Behind the Block?\n\neBay hasn't publicly commented, but the pattern suggests a deliberate technical barrier. Bots that scrape or automate purchases are the target.",
+        "3. Sellers Left in the Dark\n\nMerchants relying on AI agents for visibility lost their lifeline overnight. No notice, no grace period — just a sudden drop in exposure.",
+        "4. Check Your Dependencies\n\nIf your storefront depends on external shopping agents, you're exposed. Map every third-party tool that drives traffic to your listings.",
+        "5. Audit Before the Next Update\n\nList your top traffic sources today. If any are AI-driven, test a fallback. What's your plan if eBay blocks them next?"
+      ],
+      "video_script": [
+        "eBay quietly blocked third-party AI shopping bots.",
+        "Sellers lost visibility overnight with no warning.",
+        "If your storefront relies on external agents, you're exposed.",
+        "Check which traffic sources come from AI tools.",
+        "Audit your dependencies before the next platform update."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. eBay Just Went Quiet\n\nWithout warning, third-party AI shopping bots stopped seeing eBay listings. Sellers woke up to missing traffic and no explanation.",
+            "2. Who's Behind the Block?\n\neBay hasn't publicly commented, but the pattern suggests a deliberate technical barrier. Bots that scrape or automate purchases are the target.",
+            "3. Sellers Left in the Dark\n\nMerchants relying on AI agents for visibility lost their lifeline overnight. No notice, no grace period — just a sudden drop in exposure.",
+            "4. Check Your Dependencies\n\nIf your storefront depends on external shopping agents, you're exposed. Map every third-party tool that drives traffic to your listings.",
+            "5. Audit Before the Next Update\n\nList your top traffic sources today. If any are AI-driven, test a fallback. What's your plan if eBay blocks them next?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "eBay quietly blocked third-party AI shopping bots.",
+            "Sellers lost visibility overnight with no warning.",
+            "If your storefront relies on external agents, you're exposed.",
+            "Check which traffic sources come from AI tools.",
+            "Audit your dependencies before the next platform update."
+          ]
+        },
+        "instagram": {
+          "caption": "Third-party AI shopping bots stopped seeing eBay listings overnight, with no warning to sellers.\n\neBay hasn't said a word publicly, but the pattern points to a deliberate technical block.\n\nSellers who relied on those agents for visibility lost their traffic source in one sweep.\n\nIf your storefront depends on external shopping agents, your listing exposure can vanish the same way.\n\nMap every tool that drives traffic to your listings today — before the next quiet update.\n\nDo you actually know which of your top traffic sources are AI-driven? 🔍"
+        }
+      },
+      "instagram_caption": "Third-party AI shopping bots stopped seeing eBay listings overnight, with no warning to sellers.\n\neBay hasn't said a word publicly, but the pattern points to a deliberate technical block.\n\nSellers who relied on those agents for visibility lost their traffic source in one sweep.\n\nIf your storefront depends on external shopping agents, your listing exposure can vanish the same way.\n\nMap every tool that drives traffic to your listings today — before the next quiet update.\n\nDo you actually know which of your top traffic sources are AI-driven? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Did eBay just block AI shopping bots?",
+          "description": "eBay quietly blocked third-party AI shopping bots, leaving sellers with missing traffic and no explanation.",
+          "visual_hint": "Closed door with digital lock",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "eBay's silent barrier targets AI agents",
+          "description": "eBay hasn't commented, but the pattern suggests a deliberate technical barrier against bots that scrape or automate purchases.",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "visual_hint": "Robot blocked by firewall",
+          "image_query": "firewall server",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Sellers lose visibility overnight",
+          "description": "Merchants relying on AI agents for visibility lost their lifeline suddenly—no notice, no grace period, just a drop in exposure.",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "visual_hint": "Storefront with fading traffic graph",
+          "image_query": "empty store",
+          "image": "https://images.pexels.com/photos/17159885/pexels-photo-17159885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Are you dependent on external AI agents?",
+          "description": "If your storefront depends on external shopping agents, you're exposed. Map every third-party tool driving traffic to your listings.",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "visual_hint": "Hand tracing network connections",
+          "image_query": "network cables",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: audit your traffic sources now",
+          "description": "List your top traffic sources today. If any are AI-driven, test a fallback before eBay blocks them next.",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "visual_hint": "Checklist with traffic sources",
+          "image_query": "analytics dashboard",
+          "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-11-12T05:00:23.939Z",
+      "sourceId": "c77128a201b88a557ca37a58b2d9f7d6"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "united-won-t-let-your-ai-agent-book-your-flight",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "United won’t let your AI agent book your flight",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "pubDate": "2026-11-11T21:54:21.000Z",
+      "slides": [
+        "United just blocked your AI agent—permanently?",
+        "The airline now requires direct human-verified booking",
+        "Even paid agents like ChatGPT's Operator get denied",
+        "Your automated travel workflow needs a fallback plan",
+        "Test your booking bot this week or lose the route"
+      ],
+      "thread_text": [
+        "1. AI Agents Blocked by Airlines\n\nUnited Airlines has permanently banned AI agents from booking flights. The system now requires direct human-verified booking.",
+        "2. Human Verification Required\n\nAirlines are implementing strict human verification protocols for all bookings. Automated travel workflows are being shut down.",
+        "3. Paid Agents Also Denied\n\nEven premium AI agents like ChatGPT's Operator are getting rejected. No exceptions for paid services.",
+        "4. Fallback Plan Needed\n\nYour automated travel workflow needs a backup strategy. Without one, bookings will fail.",
+        "5. Test Your Bot Now\n\nTest your booking bot this week or risk losing the route entirely. Does your automation still work?"
+      ],
+      "video_script": [
+        "United just blocked AI agents permanently.",
+        "Human verification is now required for bookings.",
+        "Even paid agents like Operator get denied.",
+        "Your travel workflow needs a fallback plan.",
+        "Test your booking bot this week or lose the route."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI Agents Blocked by Airlines\n\nUnited Airlines has permanently banned AI agents from booking flights. The system now requires direct human-verified booking.",
+            "2. Human Verification Required\n\nAirlines are implementing strict human verification protocols for all bookings. Automated travel workflows are being shut down.",
+            "3. Paid Agents Also Denied\n\nEven premium AI agents like ChatGPT's Operator are getting rejected. No exceptions for paid services.",
+            "4. Fallback Plan Needed\n\nYour automated travel workflow needs a backup strategy. Without one, bookings will fail.",
+            "5. Test Your Bot Now\n\nTest your booking bot this week or risk losing the route entirely. Does your automation still work?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "United just blocked AI agents permanently.",
+            "Human verification is now required for bookings.",
+            "Even paid agents like Operator get denied.",
+            "Your travel workflow needs a fallback plan.",
+            "Test your booking bot this week or lose the route."
+          ]
+        },
+        "instagram": {
+          "caption": "You can't book a United flight through ChatGPT's Operator anymore — or any AI agent. ✈️\n\nUnited has permanently blocked automated bookings and now requires a human-verified step before purchase.\n\nThat applies to paid agents too — no exceptions, no workaround.\n\nSo if your travel workflow relies on a bot to grab seats, it will fail silently until you test it. 🤖\n\nAnyone shipping automation for clients needs a human fallback built in this week, or bookings just stop.\n\nHave you actually tested your booking bot since this change? 🔍"
+        }
+      },
+      "instagram_caption": "You can't book a United flight through ChatGPT's Operator anymore — or any AI agent. ✈️\n\nUnited has permanently blocked automated bookings and now requires a human-verified step before purchase.\n\nThat applies to paid agents too — no exceptions, no workaround.\n\nSo if your travel workflow relies on a bot to grab seats, it will fail silently until you test it. 🤖\n\nAnyone shipping automation for clients needs a human fallback built in this week, or bookings just stop.\n\nHave you actually tested your booking bot since this change? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "United just banned AI booking agents",
+          "description": "Even paid AI agents like ChatGPT's Operator are denied. Your automated travel workflow is now at risk.",
+          "visual_hint": "Airline booking screen with error message",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "airport terminal"
+        },
+        {
+          "hook": "Human verification now mandatory for bookings",
+          "description": "United requires direct human-verified booking, shutting down automated travel workflows entirely.",
+          "visual_hint": "Person verifying identity on smartphone",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "passport control",
+          "image": "https://images.pexels.com/photos/29485309/pexels-photo-29485309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Paid AI agents also rejected",
+          "description": "Premium agents like ChatGPT's Operator get no exceptions. All automated booking attempts fail.",
+          "visual_hint": "Robot hand holding credit card",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "robot hand",
+          "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your travel bot needs a fallback plan",
+          "description": "Without a backup strategy, automated bookings will fail. Diversify your workflow now.",
+          "visual_hint": "Person reviewing backup plan on laptop",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "laptop backup",
+          "image": "https://images.pexels.com/photos/28461160/pexels-photo-28461160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your booking bot this week",
+          "description": "Run a test booking immediately. If it fails, adjust your automation before losing the route.",
+          "visual_hint": "Split screen bot success and failure",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "software testing",
+          "image": "https://images.pexels.com/photos/7858297/pexels-photo-7858297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.721800295556%2C100%2C78.556399408888&amp;w=1200",
+      "savedAt": "2026-11-12T05:00:14.230Z",
+      "sourceId": "a3a0c9996cbe1c5ad36edbf42e91053e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "with-720m-round-britain-s-fractile-gets-a-leg-up-i",
       "prompt_version": "1.0.0",
       "status": "published",
