@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-indie-game-community-is-in-disarray-over-ai-an",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The indie game community is in disarray over AI and Big Walk",
+  "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+  "pubDate": "2026-11-10T17:32:47.000Z",
+  "slides": [
+    "Why is Big Walk tearing the indie game community apart?",
+    "Its studio used AI art in a trailer",
+    "Fans found the telltale generative artifacts days later",
+    "Small studios now face boycotts over any AI tool use",
+    "Check your own asset pipeline before the mob does"
+  ],
+  "thread_text": [
+    "1. The mob has a new target\n\nAn indie studio shipped a trailer with AI art and the community turned on them within days. The backlash wasn't about the game—it was about the principle.",
+    "2. The trailer looked fine\n\nUntil fans zoomed in and found the telltale generative artifacts. What was invisible at launch became a smoking gun days later.",
+    "3. Small teams pay the price\n\nStudios without legal teams or PR muscle are now facing boycotts over any AI tool use—even for prototyping or placeholder assets.",
+    "4. The rules changed overnight\n\nWhat was acceptable last year is now a reputation risk. The indie community is drawing hard lines, and they're not asking nicely.",
+    "5. Check your pipeline today\n\nOpen your asset folder and trace every tool that touched it. If you can't explain the provenance, you're one discovery away from the same fire."
+  ],
+  "video_script": [
+    "An indie studio just got torn apart for using AI art in a trailer.",
+    "Fans found the generative artifacts days later and the backlash exploded.",
+    "Now small teams face boycotts over any AI tool use at all.",
+    "The rules changed overnight and nobody handed out a memo.",
+    "Check your own asset pipeline before someone else does it for you."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The mob has a new target\n\nAn indie studio shipped a trailer with AI art and the community turned on them within days. The backlash wasn't about the game—it was about the principle.",
+        "2. The trailer looked fine\n\nUntil fans zoomed in and found the telltale generative artifacts. What was invisible at launch became a smoking gun days later.",
+        "3. Small teams pay the price\n\nStudios without legal teams or PR muscle are now facing boycotts over any AI tool use—even for prototyping or placeholder assets.",
+        "4. The rules changed overnight\n\nWhat was acceptable last year is now a reputation risk. The indie community is drawing hard lines, and they're not asking nicely.",
+        "5. Check your pipeline today\n\nOpen your asset folder and trace every tool that touched it. If you can't explain the provenance, you're one discovery away from the same fire."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "An indie studio just got torn apart for using AI art in a trailer.",
+        "Fans found the generative artifacts days later and the backlash exploded.",
+        "Now small teams face boycotts over any AI tool use at all.",
+        "The rules changed overnight and nobody handed out a memo.",
+        "Check your own asset pipeline before someone else does it for you."
+      ]
+    },
+    "instagram": {
+      "caption": "Fans found AI artifacts in Big Walk's trailer days after launch and the indie community turned on the studio.\n\nThe trailer looked fine until people zoomed in. What was invisible at release became a smoking gun. 🔍\n\nSmall teams without legal or PR backup now face boycotts over any AI tool use, even for prototyping and placeholder assets.\n\nIf you make or publish content, your asset pipeline is now a reputation risk. One tool you can't explain is enough.\n\nOpen your asset folder today and trace every tool that touched it. Can you account for all of them? 👀"
+    }
+  },
+  "instagram_caption": "Fans found AI artifacts in Big Walk's trailer days after launch and the indie community turned on the studio.\n\nThe trailer looked fine until people zoomed in. What was invisible at release became a smoking gun. 🔍\n\nSmall teams without legal or PR backup now face boycotts over any AI tool use, even for prototyping and placeholder assets.\n\nIf you make or publish content, your asset pipeline is now a reputation risk. One tool you can't explain is enough.\n\nOpen your asset folder today and trace every tool that touched it. Can you account for all of them? 👀",
+  "carousel_slides": [
+    {
+      "hook": "The AI art scandal tearing indies apart",
+      "description": "Big Walk's studio used AI art in a trailer; fans found generative artifacts days later, sparking community backlash.",
+      "visual_hint": "Split screen: trailer frame vs zoomed artifact",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "indie game trailer"
+    },
+    {
+      "hook": "What did fans spot in the trailer?",
+      "description": "Telltale generative artifacts were invisible at launch but became a smoking gun days later, fueling the fire.",
+      "visual_hint": "Magnifying glass over pixelated art",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "magnifying glass art",
+      "image": "https://images.pexels.com/photos/6034155/pexels-photo-6034155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The backlash wasn't about the game",
+      "description": "It was about the principle: using AI art in a trailer triggered a community-wide backlash against the studio.",
+      "visual_hint": "Angry social media comments scrolling",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "social media comments",
+      "image": "https://images.pexels.com/photos/11681097/pexels-photo-11681097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Small studios face boycotts over AI",
+      "description": "Without legal or PR teams, small studios now face boycotts for any AI tool use, even prototyping or placeholders.",
+      "visual_hint": "Small team meeting with worried faces",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "small team meeting",
+      "image": "https://images.pexels.com/photos/8276184/pexels-photo-8276184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your asset pipeline before the mob",
+      "description": "Open your asset folder and trace every tool that touched it. If you can't explain provenance, you're at risk.",
+      "visual_hint": "Hand tracing folder hierarchy on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "file folder screen",
+      "image": "https://images.pexels.com/photos/8296948/pexels-photo-8296948.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/BigWalk_Screenshot_Jun26_01.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+  "savedAt": "2026-11-12T14:19:16.936Z",
+  "sourceId": "efee8cc48ed16cb17f378192130bcf18"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-s-tabletop-ai-experiment-lets-you-build-cus",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+  "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+  "pubDate": "2026-11-11T16:00:00.000Z",
+  "slides": [
+    "What if your next team app built itself?",
+    "Google's Tabletop AI turns prompts into working apps.",
+    "But most users abandon custom tools within weeks.",
+    "Teams can now prototype without a developer.",
+    "Test one real workflow before trusting it."
+  ],
+  "thread_text": [
+    "1. Your app builds itself?\n\nGoogle's Tabletop AI turns prompts into working apps. No code, no dev team—just describe what you need.",
+    "2. Prototype without a developer\n\nTeams can spin up custom tools in minutes. The barrier to entry just dropped to zero.",
+    "3. The abandonment trap\n\nMost users ditch custom tools within weeks. Building is easy; sticking with them isn't.",
+    "4. Test before you trust\n\nBefore rolling out to your team, run one real workflow through the AI-built app. See if it actually holds up.",
+    "5. Try it on one task\n\nTake a single repetitive workflow and prototype it with Tabletop. If it saves time without extra edits, scale it. If not, you've lost nothing."
+  ],
+  "video_script": [
+    "What if your next team app built itself?",
+    "Google's Tabletop AI turns prompts into working apps.",
+    "But most users abandon custom tools within weeks.",
+    "Teams can now prototype without a developer.",
+    "Test one real workflow before trusting it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your app builds itself?\n\nGoogle's Tabletop AI turns prompts into working apps. No code, no dev team—just describe what you need.",
+        "2. Prototype without a developer\n\nTeams can spin up custom tools in minutes. The barrier to entry just dropped to zero.",
+        "3. The abandonment trap\n\nMost users ditch custom tools within weeks. Building is easy; sticking with them isn't.",
+        "4. Test before you trust\n\nBefore rolling out to your team, run one real workflow through the AI-built app. See if it actually holds up.",
+        "5. Try it on one task\n\nTake a single repetitive workflow and prototype it with Tabletop. If it saves time without extra edits, scale it. If not, you've lost nothing."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "What if your next team app built itself?",
+        "Google's Tabletop AI turns prompts into working apps.",
+        "But most users abandon custom tools within weeks.",
+        "Teams can now prototype without a developer.",
+        "Test one real workflow before trusting it."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next team app might build itself from a prompt. 🛠️\n\nGoogle's Tabletop experiment turns plain descriptions into working collaboration apps — no developer needed.\n\nTeams can prototype custom tools in minutes, lowering the barrier to near zero.\n\nBut here's the catch: most people abandon custom tools within weeks. Building is easy; sticking with them isn't. ⚠️\n\nSo before rolling anything out, run one real workflow through the AI-built app and see if it holds up.\n\nWhat's the one repetitive task you'd test this on first? 🤔"
+    }
+  },
+  "instagram_caption": "Your next team app might build itself from a prompt. 🛠️\n\nGoogle's Tabletop experiment turns plain descriptions into working collaboration apps — no developer needed.\n\nTeams can prototype custom tools in minutes, lowering the barrier to near zero.\n\nBut here's the catch: most people abandon custom tools within weeks. Building is easy; sticking with them isn't. ⚠️\n\nSo before rolling anything out, run one real workflow through the AI-built app and see if it holds up.\n\nWhat's the one repetitive task you'd test this on first? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Will your next app build itself?",
+      "description": "Google's Tabletop AI turns prompts into working apps—no code or dev team needed. Just describe what you need and watch it materialize.",
+      "visual_hint": "AI-generated interface emerging on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer screen interface"
+    },
+    {
+      "hook": "Prototype without a developer",
+      "description": "Teams can spin up custom tools in minutes, dropping the barrier to entry to zero. Instant collaboration apps are now within reach.",
+      "visual_hint": "Team collaborating around a laptop",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "team laptop collaboration",
+      "image": "https://images.pexels.com/photos/7693685/pexels-photo-7693685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Most custom tools get abandoned",
+      "description": "Users ditch custom tools within weeks. Building is easy; sticking with them isn't. The abandonment trap is real.",
+      "visual_hint": "Graph showing declining usage",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "declining graph chart",
+      "image": "https://images.pexels.com/photos/35118242/pexels-photo-35118242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one real workflow first",
+      "description": "Before rolling out to your team, run one real workflow through the AI-built app. See if it actually holds up under pressure.",
+      "visual_hint": "Person testing app on tablet",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person using tablet",
+      "image": "https://images.pexels.com/photos/5592759/pexels-photo-5592759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it on one task now",
+      "description": "Take a single repetitive workflow and prototype it with Tabletop. If it saves time, scale it; if not, you've lost nothing.",
+      "visual_hint": "Single task highlighted on screen",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "office desk laptop",
+      "image": "https://images.pexels.com/photos/8296951/pexels-photo-8296951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+  "savedAt": "2026-11-12T14:19:07.500Z",
+  "sourceId": "fd7c9361a612e0ea794a41cb937851c2"
+}

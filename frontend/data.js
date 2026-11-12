@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "the-indie-game-community-is-in-disarray-over-ai-an",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The indie game community is in disarray over AI and Big Walk",
+    "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+    "pubDate": "2026-11-10T17:32:47.000Z",
+    "slides": [
+      "Why is Big Walk tearing the indie game community apart?",
+      "Its studio used AI art in a trailer",
+      "Fans found the telltale generative artifacts days later",
+      "Small studios now face boycotts over any AI tool use",
+      "Check your own asset pipeline before the mob does"
+    ],
+    "thread_text": [
+      "1. The mob has a new target\n\nAn indie studio shipped a trailer with AI art and the community turned on them within days. The backlash wasn't about the game—it was about the principle.",
+      "2. The trailer looked fine\n\nUntil fans zoomed in and found the telltale generative artifacts. What was invisible at launch became a smoking gun days later.",
+      "3. Small teams pay the price\n\nStudios without legal teams or PR muscle are now facing boycotts over any AI tool use—even for prototyping or placeholder assets.",
+      "4. The rules changed overnight\n\nWhat was acceptable last year is now a reputation risk. The indie community is drawing hard lines, and they're not asking nicely.",
+      "5. Check your pipeline today\n\nOpen your asset folder and trace every tool that touched it. If you can't explain the provenance, you're one discovery away from the same fire."
+    ],
+    "video_script": [
+      "An indie studio just got torn apart for using AI art in a trailer.",
+      "Fans found the generative artifacts days later and the backlash exploded.",
+      "Now small teams face boycotts over any AI tool use at all.",
+      "The rules changed overnight and nobody handed out a memo.",
+      "Check your own asset pipeline before someone else does it for you."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The mob has a new target\n\nAn indie studio shipped a trailer with AI art and the community turned on them within days. The backlash wasn't about the game—it was about the principle.",
+          "2. The trailer looked fine\n\nUntil fans zoomed in and found the telltale generative artifacts. What was invisible at launch became a smoking gun days later.",
+          "3. Small teams pay the price\n\nStudios without legal teams or PR muscle are now facing boycotts over any AI tool use—even for prototyping or placeholder assets.",
+          "4. The rules changed overnight\n\nWhat was acceptable last year is now a reputation risk. The indie community is drawing hard lines, and they're not asking nicely.",
+          "5. Check your pipeline today\n\nOpen your asset folder and trace every tool that touched it. If you can't explain the provenance, you're one discovery away from the same fire."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "An indie studio just got torn apart for using AI art in a trailer.",
+          "Fans found the generative artifacts days later and the backlash exploded.",
+          "Now small teams face boycotts over any AI tool use at all.",
+          "The rules changed overnight and nobody handed out a memo.",
+          "Check your own asset pipeline before someone else does it for you."
+        ]
+      },
+      "instagram": {
+        "caption": "Fans found AI artifacts in Big Walk's trailer days after launch and the indie community turned on the studio.\n\nThe trailer looked fine until people zoomed in. What was invisible at release became a smoking gun. 🔍\n\nSmall teams without legal or PR backup now face boycotts over any AI tool use, even for prototyping and placeholder assets.\n\nIf you make or publish content, your asset pipeline is now a reputation risk. One tool you can't explain is enough.\n\nOpen your asset folder today and trace every tool that touched it. Can you account for all of them? 👀"
+      }
+    },
+    "instagram_caption": "Fans found AI artifacts in Big Walk's trailer days after launch and the indie community turned on the studio.\n\nThe trailer looked fine until people zoomed in. What was invisible at release became a smoking gun. 🔍\n\nSmall teams without legal or PR backup now face boycotts over any AI tool use, even for prototyping and placeholder assets.\n\nIf you make or publish content, your asset pipeline is now a reputation risk. One tool you can't explain is enough.\n\nOpen your asset folder today and trace every tool that touched it. Can you account for all of them? 👀",
+    "carousel_slides": [
+      {
+        "hook": "The AI art scandal tearing indies apart",
+        "description": "Big Walk's studio used AI art in a trailer; fans found generative artifacts days later, sparking community backlash.",
+        "visual_hint": "Split screen: trailer frame vs zoomed artifact",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "indie game trailer"
+      },
+      {
+        "hook": "What did fans spot in the trailer?",
+        "description": "Telltale generative artifacts were invisible at launch but became a smoking gun days later, fueling the fire.",
+        "visual_hint": "Magnifying glass over pixelated art",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "magnifying glass art",
+        "image": "https://images.pexels.com/photos/6034155/pexels-photo-6034155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The backlash wasn't about the game",
+        "description": "It was about the principle: using AI art in a trailer triggered a community-wide backlash against the studio.",
+        "visual_hint": "Angry social media comments scrolling",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "social media comments",
+        "image": "https://images.pexels.com/photos/11681097/pexels-photo-11681097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Small studios face boycotts over AI",
+        "description": "Without legal or PR teams, small studios now face boycotts for any AI tool use, even prototyping or placeholders.",
+        "visual_hint": "Small team meeting with worried faces",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "small team meeting",
+        "image": "https://images.pexels.com/photos/8276184/pexels-photo-8276184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your asset pipeline before the mob",
+        "description": "Open your asset folder and trace every tool that touched it. If you can't explain provenance, you're at risk.",
+        "visual_hint": "Hand tracing folder hierarchy on screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "file folder screen",
+        "image": "https://images.pexels.com/photos/8296948/pexels-photo-8296948.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/BigWalk_Screenshot_Jun26_01.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "savedAt": "2026-11-12T14:19:16.936Z",
+    "sourceId": "efee8cc48ed16cb17f378192130bcf18"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-s-tabletop-ai-experiment-lets-you-build-cus",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+    "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+    "pubDate": "2026-11-11T16:00:00.000Z",
+    "slides": [
+      "What if your next team app built itself?",
+      "Google's Tabletop AI turns prompts into working apps.",
+      "But most users abandon custom tools within weeks.",
+      "Teams can now prototype without a developer.",
+      "Test one real workflow before trusting it."
+    ],
+    "thread_text": [
+      "1. Your app builds itself?\n\nGoogle's Tabletop AI turns prompts into working apps. No code, no dev team—just describe what you need.",
+      "2. Prototype without a developer\n\nTeams can spin up custom tools in minutes. The barrier to entry just dropped to zero.",
+      "3. The abandonment trap\n\nMost users ditch custom tools within weeks. Building is easy; sticking with them isn't.",
+      "4. Test before you trust\n\nBefore rolling out to your team, run one real workflow through the AI-built app. See if it actually holds up.",
+      "5. Try it on one task\n\nTake a single repetitive workflow and prototype it with Tabletop. If it saves time without extra edits, scale it. If not, you've lost nothing."
+    ],
+    "video_script": [
+      "What if your next team app built itself?",
+      "Google's Tabletop AI turns prompts into working apps.",
+      "But most users abandon custom tools within weeks.",
+      "Teams can now prototype without a developer.",
+      "Test one real workflow before trusting it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your app builds itself?\n\nGoogle's Tabletop AI turns prompts into working apps. No code, no dev team—just describe what you need.",
+          "2. Prototype without a developer\n\nTeams can spin up custom tools in minutes. The barrier to entry just dropped to zero.",
+          "3. The abandonment trap\n\nMost users ditch custom tools within weeks. Building is easy; sticking with them isn't.",
+          "4. Test before you trust\n\nBefore rolling out to your team, run one real workflow through the AI-built app. See if it actually holds up.",
+          "5. Try it on one task\n\nTake a single repetitive workflow and prototype it with Tabletop. If it saves time without extra edits, scale it. If not, you've lost nothing."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "What if your next team app built itself?",
+          "Google's Tabletop AI turns prompts into working apps.",
+          "But most users abandon custom tools within weeks.",
+          "Teams can now prototype without a developer.",
+          "Test one real workflow before trusting it."
+        ]
+      },
+      "instagram": {
+        "caption": "Your next team app might build itself from a prompt. 🛠️\n\nGoogle's Tabletop experiment turns plain descriptions into working collaboration apps — no developer needed.\n\nTeams can prototype custom tools in minutes, lowering the barrier to near zero.\n\nBut here's the catch: most people abandon custom tools within weeks. Building is easy; sticking with them isn't. ⚠️\n\nSo before rolling anything out, run one real workflow through the AI-built app and see if it holds up.\n\nWhat's the one repetitive task you'd test this on first? 🤔"
+      }
+    },
+    "instagram_caption": "Your next team app might build itself from a prompt. 🛠️\n\nGoogle's Tabletop experiment turns plain descriptions into working collaboration apps — no developer needed.\n\nTeams can prototype custom tools in minutes, lowering the barrier to near zero.\n\nBut here's the catch: most people abandon custom tools within weeks. Building is easy; sticking with them isn't. ⚠️\n\nSo before rolling anything out, run one real workflow through the AI-built app and see if it holds up.\n\nWhat's the one repetitive task you'd test this on first? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Will your next app build itself?",
+        "description": "Google's Tabletop AI turns prompts into working apps—no code or dev team needed. Just describe what you need and watch it materialize.",
+        "visual_hint": "AI-generated interface emerging on screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer screen interface"
+      },
+      {
+        "hook": "Prototype without a developer",
+        "description": "Teams can spin up custom tools in minutes, dropping the barrier to entry to zero. Instant collaboration apps are now within reach.",
+        "visual_hint": "Team collaborating around a laptop",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "team laptop collaboration",
+        "image": "https://images.pexels.com/photos/7693685/pexels-photo-7693685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Most custom tools get abandoned",
+        "description": "Users ditch custom tools within weeks. Building is easy; sticking with them isn't. The abandonment trap is real.",
+        "visual_hint": "Graph showing declining usage",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "declining graph chart",
+        "image": "https://images.pexels.com/photos/35118242/pexels-photo-35118242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one real workflow first",
+        "description": "Before rolling out to your team, run one real workflow through the AI-built app. See if it actually holds up under pressure.",
+        "visual_hint": "Person testing app on tablet",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person using tablet",
+        "image": "https://images.pexels.com/photos/5592759/pexels-photo-5592759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try it on one task now",
+        "description": "Take a single repetitive workflow and prototype it with Tabletop. If it saves time, scale it; if not, you've lost nothing.",
+        "visual_hint": "Single task highlighted on screen",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "office desk laptop",
+        "image": "https://images.pexels.com/photos/8296951/pexels-photo-8296951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "savedAt": "2026-11-12T14:19:07.500Z",
+    "sourceId": "fd7c9361a612e0ea794a41cb937851c2"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "plurai-wants-to-help-ai-agents-work-better-using-t",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+    "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+    "pubDate": "Wed, 11 Nov 2026 14:00:00 +0000",
+    "slides": [
+      "Why do AI agents still fail at real work?",
+      "Plurai borrows a method from self-driving car development",
+      "It simulates agent environments instead of real-world testing",
+      "Teams can now stress-test agents before deployment",
+      "Ask your agent vendor what simulation they ran"
+    ],
+    "thread_text": [
+      "1. AI agents fail at real work\n\nSelf-driving car teams learned that simulation beats road testing. Now that method is coming to AI agents, and most vendors haven't told you if they use it.",
+      "2. Borrowing from self-driving cars\n\nPlurai adapts the same simulation-first approach used to train autonomous vehicles. Instead of deploying agents into production to learn from failures, they build synthetic environments first.",
+      "3. Simulate before deployment\n\nTeams can now stress-test AI agents against thousands of simulated scenarios before they ever touch real users. Failures happen in the simulator, not in your workflow.",
+      "4. The question vendors fear\n\nAsk your AI agent provider what simulation they ran. If they can't answer, you're the test environment. That's a risk you're paying for.",
+      "5. Test your agent this week\n\nTake one task your agent handles and ask the vendor for their simulation results. No simulation means no evidence. Start there before you deploy again."
+    ],
+    "video_script": [
+      "AI agents still fail at real work. Here's why.",
+      "Plurai borrowed a method from self-driving car development.",
+      "They simulate agent environments instead of testing in the real world.",
+      "Teams can now stress-test agents before deployment.",
+      "Ask your agent vendor what simulation they ran."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI agents fail at real work\n\nSelf-driving car teams learned that simulation beats road testing. Now that method is coming to AI agents, and most vendors haven't told you if they use it.",
+          "2. Borrowing from self-driving cars\n\nPlurai adapts the same simulation-first approach used to train autonomous vehicles. Instead of deploying agents into production to learn from failures, they build synthetic environments first.",
+          "3. Simulate before deployment\n\nTeams can now stress-test AI agents against thousands of simulated scenarios before they ever touch real users. Failures happen in the simulator, not in your workflow.",
+          "4. The question vendors fear\n\nAsk your AI agent provider what simulation they ran. If they can't answer, you're the test environment. That's a risk you're paying for.",
+          "5. Test your agent this week\n\nTake one task your agent handles and ask the vendor for their simulation results. No simulation means no evidence. Start there before you deploy again."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI agents still fail at real work. Here's why.",
+          "Plurai borrowed a method from self-driving car development.",
+          "They simulate agent environments instead of testing in the real world.",
+          "Teams can now stress-test agents before deployment.",
+          "Ask your agent vendor what simulation they ran."
+        ]
+      },
+      "instagram": {
+        "caption": "Self-driving car teams learned years ago that simulation beats road testing. Plurai is now applying that same method to AI agents.\n\nInstead of deploying agents into production to learn from failures, it builds synthetic environments first. Teams can stress-test agents against thousands of simulated scenarios before real users ever touch them.\n\nFailures happen in the simulator, not your workflow 🌐\n\nThis matters if you build or buy AI agents: you can now demand evidence before deployment, not after something breaks.\n\nAsk your agent vendor what simulation they ran. If they can't answer, you're the test environment 🙃\n\nWhat task would you stress-test first?"
+      }
+    },
+    "instagram_caption": "Self-driving car teams learned years ago that simulation beats road testing. Plurai is now applying that same method to AI agents.\n\nInstead of deploying agents into production to learn from failures, it builds synthetic environments first. Teams can stress-test agents against thousands of simulated scenarios before real users ever touch them.\n\nFailures happen in the simulator, not your workflow 🌐\n\nThis matters if you build or buy AI agents: you can now demand evidence before deployment, not after something breaks.\n\nAsk your agent vendor what simulation they ran. If they can't answer, you're the test environment 🙃\n\nWhat task would you stress-test first?",
+    "carousel_slides": [
+      {
+        "hook": "Is your AI agent the test environment?",
+        "description": "AI agents fail at real work because most vendors skip simulation, leaving you to discover failures in production.",
+        "visual_hint": "Split screen: car simulator vs office desk",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "car simulator"
+      },
+      {
+        "hook": "Borrowing from self-driving car playbook",
+        "description": "Plurai adapts simulation-first training from autonomous vehicles, building synthetic environments before agents ever hit production.",
+        "visual_hint": "Side-by-side: self-driving car and AI agent",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "self-driving car",
+        "image": "https://images.pexels.com/photos/17219660/pexels-photo-17219660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stress-test agents before deployment",
+        "description": "Teams can stress-test AI agents against thousands of simulated scenarios, so failures happen in the simulator, not your workflow.",
+        "visual_hint": "Dashboard showing simulation scenarios and pass/fail",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer simulation",
+        "image": "https://images.pexels.com/photos/5207238/pexels-photo-5207238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The question vendors fear most",
+        "description": "Ask your AI agent provider what simulation they ran. If they can't answer, you're the test environment—a risk you pay for.",
+        "visual_hint": "Person asking vendor with question mark overlay",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "business meeting",
+        "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your agent this week",
+        "description": "Pick one task your agent handles and request the vendor's simulation results. No simulation means no evidence—start there.",
+        "visual_hint": "Checklist with 'simulation results' highlighted",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Plurai-team-photo.-Credit-Guy-Hamoy.jpg?resize=1200,800",
+    "savedAt": "2026-11-12T14:18:58.505Z",
+    "sourceId": "c469d7bbc40ab1420a7e0e14f657ad6a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "ebay-appears-to-have-shut-the-door-on-third-party-",
     "prompt_version": "1.0.0",
     "status": "published",
