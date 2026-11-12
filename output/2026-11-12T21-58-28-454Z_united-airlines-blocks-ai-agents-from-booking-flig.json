@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "united-airlines-blocks-ai-agents-from-booking-flig",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+  "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+  "pubDate": "Thu, 12 Nov 2026 17:17:58 +0000",
+  "slides": [
+    "United Airlines just blocked AI agents from booking flights",
+    "A cybersecurity rule targets automated booking software",
+    "But the real trigger was fake reservation attacks",
+    "Travelers lose the ease of one-click agent checkouts",
+    "Ask airlines how smart their bot defenses really are"
+  ],
+  "thread_text": [
+    "1. Airlines vs. AI agents\n\nUnited Airlines now blocks automated booking software from its site, citing security risks. The move affects any AI agent that tries to book flights on behalf of travelers.",
+    "2. New security rule\n\nA cybersecurity rule targets automated booking tools, requiring airlines to detect and block non-human traffic. United says it's complying with the rule.",
+    "3. Fake bookings triggered\n\nThe real trigger was fake reservation attacks — bots making mass fake bookings to hold seats or disrupt inventory. Airlines say the rule helps prevent these attacks.",
+    "4. Travelers lose convenience\n\nTravelers lose the ease of one-click agent checkouts. AI agents that used to book flights for you now can't, so you're back to manual booking.",
+    "5. Ask about bot defenses\n\nAsk airlines how smart their bot defenses really are. If they can't tell a fake booking from a real one, maybe the problem isn't the bots."
+  ],
+  "video_script": [
+    "United Airlines just blocked AI agents from booking flights.",
+    "A new cybersecurity rule targets automated booking software.",
+    "The real trigger? Fake reservation attacks that disrupted inventory.",
+    "Travelers lose the ease of one-click agent checkouts.",
+    "Ask airlines how smart their bot defenses really are."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Airlines vs. AI agents\n\nUnited Airlines now blocks automated booking software from its site, citing security risks. The move affects any AI agent that tries to book flights on behalf of travelers.",
+        "2. New security rule\n\nA cybersecurity rule targets automated booking tools, requiring airlines to detect and block non-human traffic. United says it's complying with the rule.",
+        "3. Fake bookings triggered\n\nThe real trigger was fake reservation attacks — bots making mass fake bookings to hold seats or disrupt inventory. Airlines say the rule helps prevent these attacks.",
+        "4. Travelers lose convenience\n\nTravelers lose the ease of one-click agent checkouts. AI agents that used to book flights for you now can't, so you're back to manual booking.",
+        "5. Ask about bot defenses\n\nAsk airlines how smart their bot defenses really are. If they can't tell a fake booking from a real one, maybe the problem isn't the bots."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "United Airlines just blocked AI agents from booking flights.",
+        "A new cybersecurity rule targets automated booking software.",
+        "The real trigger? Fake reservation attacks that disrupted inventory.",
+        "Travelers lose the ease of one-click agent checkouts.",
+        "Ask airlines how smart their bot defenses really are."
+      ]
+    },
+    "instagram": {
+      "caption": "Your AI travel agent can't book a United flight anymore. ✈️\n\nUnited now blocks automated booking software from its site, citing cybersecurity risks — it says it's complying with a rule requiring airlines to detect and block non-human traffic.\n\nThe real trigger: bots making mass fake bookings to hold seats and disrupt inventory. 🔒\n\nSo travelers lose one-click agent checkouts and go back to manual booking.\n\nIf you build or rely on AI agents for everyday tasks, travel booking just became another wall to work around. 🤖\n\nAsk airlines how smart their bot defenses really are — if they can't tell a fake booking from a real one, maybe the problem isn't the bots."
+    }
+  },
+  "instagram_caption": "Your AI travel agent can't book a United flight anymore. ✈️\n\nUnited now blocks automated booking software from its site, citing cybersecurity risks — it says it's complying with a rule requiring airlines to detect and block non-human traffic.\n\nThe real trigger: bots making mass fake bookings to hold seats and disrupt inventory. 🔒\n\nSo travelers lose one-click agent checkouts and go back to manual booking.\n\nIf you build or rely on AI agents for everyday tasks, travel booking just became another wall to work around. 🤖\n\nAsk airlines how smart their bot defenses really are — if they can't tell a fake booking from a real one, maybe the problem isn't the bots.",
+  "carousel_slides": [
+    {
+      "hook": "Fake bookings, not AI, triggered the block",
+      "description": "United Airlines blocks AI agents after fake reservation attacks overwhelmed inventory, but the real risk was bot-driven seat hoarding, not smart assistants.",
+      "visual_hint": "Airline website with error message",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "airline website"
+    },
+    {
+      "hook": "A cybersecurity rule targets automated booking tools",
+      "description": "New security rules require airlines to detect and block non-human traffic, forcing United to comply by restricting AI agent access to its booking site.",
+      "visual_hint": "Security shield over booking form",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "cybersecurity lock",
+      "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Bots made mass fake bookings to hold seats",
+      "description": "The real trigger was fake reservation attacks: bots booked seats en masse to disrupt inventory, not to help travelers find better flights.",
+      "visual_hint": "Server room with blinking lights",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Travelers lose one-click agent checkouts",
+      "description": "AI agents that once booked flights for you are now blocked, forcing travelers back to manual searches and losing the convenience of automated booking.",
+      "visual_hint": "Hand on mouse clicking booking",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand mouse",
+      "image": "https://images.pexels.com/photos/32755759/pexels-photo-32755759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask airlines how smart their bot defenses really are",
+      "description": "If airlines can't tell a fake booking from a real one, maybe the problem isn't the bots. Save this and ask them directly.",
+      "visual_hint": "Question mark over airline logo",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "question mark",
+      "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/united-airlines-2231866642.jpg?resize=1200,801",
+  "savedAt": "2026-11-12T21:58:56.078Z",
+  "sourceId": "0deb78fa341dbcc1a72944673b575370"
+}

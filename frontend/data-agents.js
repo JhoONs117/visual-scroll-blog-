@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "softbank-s-billion-dollar-loss-may-have-put-a-cap-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "pubDate": "Thu, 12 Nov 2026 17:00:52 +0000",
+      "slides": [
+        "SoftBank's billion-dollar loss: what does it mean for AI gas?",
+        "The Vision Fund posted losses on weakening tech valuations.",
+        "Utilities see AI data centers as a once-in-a-generation demand source.",
+        "Gas plants built for AI risk becoming stranded assets.",
+        "Ask your utility: how much of its plan depends on AI?"
+      ],
+      "thread_text": [
+        "1. The AI energy bubble just cracked\n\nSoftBank's Vision Fund lost billions as tech valuations fell. That's the first domino for the AI power boom.",
+        "2. Utilities are betting big on AI\n\nThey see data centers as a once-in-a-generation demand source, justifying massive new gas plant construction.",
+        "3. Gas plants built for AI could become stranded\n\nIf the AI boom cools, utilities risk billions in unused fossil fuel infrastructure.",
+        "4. Your utility's secret AI dependency\n\nMany rate plans now hinge on AI-driven demand that may never materialize. That's a hidden risk for your bills.",
+        "5. Ask your utility today\n\nHow much of its plan depends on AI? A single question can reveal whether your rates are funding a speculative bet."
+      ],
+      "video_script": [
+        "SoftBank just lost billions on AI bets.",
+        "Utilities are building gas plants for AI data centers.",
+        "Those plants could become stranded assets if AI slows.",
+        "Your utility might be betting your money on AI.",
+        "Ask them: how much depends on AI?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The AI energy bubble just cracked\n\nSoftBank's Vision Fund lost billions as tech valuations fell. That's the first domino for the AI power boom.",
+            "2. Utilities are betting big on AI\n\nThey see data centers as a once-in-a-generation demand source, justifying massive new gas plant construction.",
+            "3. Gas plants built for AI could become stranded\n\nIf the AI boom cools, utilities risk billions in unused fossil fuel infrastructure.",
+            "4. Your utility's secret AI dependency\n\nMany rate plans now hinge on AI-driven demand that may never materialize. That's a hidden risk for your bills.",
+            "5. Ask your utility today\n\nHow much of its plan depends on AI? A single question can reveal whether your rates are funding a speculative bet."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "SoftBank just lost billions on AI bets.",
+            "Utilities are building gas plants for AI data centers.",
+            "Those plants could become stranded assets if AI slows.",
+            "Your utility might be betting your money on AI.",
+            "Ask them: how much depends on AI?"
+          ]
+        },
+        "instagram": {
+          "caption": "SoftBank just posted a billion-dollar loss as tech valuations slid 📉 — and that's the first crack in the AI power boom.\n\nUtilities are betting big on AI data centers, calling them a once-in-a-generation demand source to justify new gas plants.\n\nIf the AI boom cools, those plants risk becoming stranded assets — billions in unused infrastructure.\n\nFor anyone publishing or building with AI: your energy costs and tools may rest on demand that never shows up.\n\nAsk your utility: how much of its plan depends on AI? ⚡ One question reveals if your rates fund a speculative bet."
+        }
+      },
+      "instagram_caption": "SoftBank just posted a billion-dollar loss as tech valuations slid 📉 — and that's the first crack in the AI power boom.\n\nUtilities are betting big on AI data centers, calling them a once-in-a-generation demand source to justify new gas plants.\n\nIf the AI boom cools, those plants risk becoming stranded assets — billions in unused infrastructure.\n\nFor anyone publishing or building with AI: your energy costs and tools may rest on demand that never shows up.\n\nAsk your utility: how much of its plan depends on AI? ⚡ One question reveals if your rates fund a speculative bet.",
+      "carousel_slides": [
+        {
+          "hook": "Is your utility betting on AI?",
+          "description": "SoftBank's Vision Fund lost billions as tech valuations fell, potentially the first domino for the AI power boom.",
+          "visual_hint": "SoftBank logo with falling graph",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Utilities see AI as huge demand",
+          "description": "They view data centers as a once-in-a-generation demand source, justifying massive new gas plant construction.",
+          "visual_hint": "Data center with power lines",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Gas plants for AI may become stranded",
+          "description": "If the AI boom cools, utilities risk billions in unused fossil fuel infrastructure, becoming stranded assets.",
+          "visual_hint": "Abandoned gas plant",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "gas plant",
+          "image": "https://images.pexels.com/photos/36794533/pexels-photo-36794533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your utility's hidden AI dependency",
+          "description": "Many rate plans hinge on AI-driven demand that may never materialize, a hidden risk for your bills.",
+          "visual_hint": "Person holding electricity bill",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "electricity bill",
+          "image": "https://images.pexels.com/photos/7926706/pexels-photo-7926706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask your utility: how much depends on AI?",
+          "description": "A single question can reveal whether your rates are funding a speculative AI bet. Save this post to remember.",
+          "visual_hint": "Person asking utility representative",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "people talking office",
+          "image": "https://images.pexels.com/photos/7875870/pexels-photo-7875870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1294103185.jpg?resize=1200,799",
+      "savedAt": "2026-11-12T21:59:03.994Z",
+      "sourceId": "55bf40a54c79d71b9c405603dcf28147"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "united-airlines-blocks-ai-agents-from-booking-flig",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "pubDate": "Thu, 12 Nov 2026 17:17:58 +0000",
+      "slides": [
+        "United Airlines just blocked AI agents from booking flights",
+        "A cybersecurity rule targets automated booking software",
+        "But the real trigger was fake reservation attacks",
+        "Travelers lose the ease of one-click agent checkouts",
+        "Ask airlines how smart their bot defenses really are"
+      ],
+      "thread_text": [
+        "1. Airlines vs. AI agents\n\nUnited Airlines now blocks automated booking software from its site, citing security risks. The move affects any AI agent that tries to book flights on behalf of travelers.",
+        "2. New security rule\n\nA cybersecurity rule targets automated booking tools, requiring airlines to detect and block non-human traffic. United says it's complying with the rule.",
+        "3. Fake bookings triggered\n\nThe real trigger was fake reservation attacks — bots making mass fake bookings to hold seats or disrupt inventory. Airlines say the rule helps prevent these attacks.",
+        "4. Travelers lose convenience\n\nTravelers lose the ease of one-click agent checkouts. AI agents that used to book flights for you now can't, so you're back to manual booking.",
+        "5. Ask about bot defenses\n\nAsk airlines how smart their bot defenses really are. If they can't tell a fake booking from a real one, maybe the problem isn't the bots."
+      ],
+      "video_script": [
+        "United Airlines just blocked AI agents from booking flights.",
+        "A new cybersecurity rule targets automated booking software.",
+        "The real trigger? Fake reservation attacks that disrupted inventory.",
+        "Travelers lose the ease of one-click agent checkouts.",
+        "Ask airlines how smart their bot defenses really are."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Airlines vs. AI agents\n\nUnited Airlines now blocks automated booking software from its site, citing security risks. The move affects any AI agent that tries to book flights on behalf of travelers.",
+            "2. New security rule\n\nA cybersecurity rule targets automated booking tools, requiring airlines to detect and block non-human traffic. United says it's complying with the rule.",
+            "3. Fake bookings triggered\n\nThe real trigger was fake reservation attacks — bots making mass fake bookings to hold seats or disrupt inventory. Airlines say the rule helps prevent these attacks.",
+            "4. Travelers lose convenience\n\nTravelers lose the ease of one-click agent checkouts. AI agents that used to book flights for you now can't, so you're back to manual booking.",
+            "5. Ask about bot defenses\n\nAsk airlines how smart their bot defenses really are. If they can't tell a fake booking from a real one, maybe the problem isn't the bots."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "United Airlines just blocked AI agents from booking flights.",
+            "A new cybersecurity rule targets automated booking software.",
+            "The real trigger? Fake reservation attacks that disrupted inventory.",
+            "Travelers lose the ease of one-click agent checkouts.",
+            "Ask airlines how smart their bot defenses really are."
+          ]
+        },
+        "instagram": {
+          "caption": "Your AI travel agent can't book a United flight anymore. ✈️\n\nUnited now blocks automated booking software from its site, citing cybersecurity risks — it says it's complying with a rule requiring airlines to detect and block non-human traffic.\n\nThe real trigger: bots making mass fake bookings to hold seats and disrupt inventory. 🔒\n\nSo travelers lose one-click agent checkouts and go back to manual booking.\n\nIf you build or rely on AI agents for everyday tasks, travel booking just became another wall to work around. 🤖\n\nAsk airlines how smart their bot defenses really are — if they can't tell a fake booking from a real one, maybe the problem isn't the bots."
+        }
+      },
+      "instagram_caption": "Your AI travel agent can't book a United flight anymore. ✈️\n\nUnited now blocks automated booking software from its site, citing cybersecurity risks — it says it's complying with a rule requiring airlines to detect and block non-human traffic.\n\nThe real trigger: bots making mass fake bookings to hold seats and disrupt inventory. 🔒\n\nSo travelers lose one-click agent checkouts and go back to manual booking.\n\nIf you build or rely on AI agents for everyday tasks, travel booking just became another wall to work around. 🤖\n\nAsk airlines how smart their bot defenses really are — if they can't tell a fake booking from a real one, maybe the problem isn't the bots.",
+      "carousel_slides": [
+        {
+          "hook": "Fake bookings, not AI, triggered the block",
+          "description": "United Airlines blocks AI agents after fake reservation attacks overwhelmed inventory, but the real risk was bot-driven seat hoarding, not smart assistants.",
+          "visual_hint": "Airline website with error message",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "airline website"
+        },
+        {
+          "hook": "A cybersecurity rule targets automated booking tools",
+          "description": "New security rules require airlines to detect and block non-human traffic, forcing United to comply by restricting AI agent access to its booking site.",
+          "visual_hint": "Security shield over booking form",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "cybersecurity lock",
+          "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Bots made mass fake bookings to hold seats",
+          "description": "The real trigger was fake reservation attacks: bots booked seats en masse to disrupt inventory, not to help travelers find better flights.",
+          "visual_hint": "Server room with blinking lights",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Travelers lose one-click agent checkouts",
+          "description": "AI agents that once booked flights for you are now blocked, forcing travelers back to manual searches and losing the convenience of automated booking.",
+          "visual_hint": "Hand on mouse clicking booking",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand mouse",
+          "image": "https://images.pexels.com/photos/32755759/pexels-photo-32755759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask airlines how smart their bot defenses really are",
+          "description": "If airlines can't tell a fake booking from a real one, maybe the problem isn't the bots. Save this and ask them directly.",
+          "visual_hint": "Question mark over airline logo",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "question mark",
+          "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/united-airlines-2231866642.jpg?resize=1200,801",
+      "savedAt": "2026-11-12T21:58:56.078Z",
+      "sourceId": "0deb78fa341dbcc1a72944673b575370"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "hugging-face-ceo-vows-to-keep-fighting-for-open-so",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "pubDate": "Thu, 12 Nov 2026 17:36:40 +0000",
+      "slides": [
+        "Why did Jensen Huang just walk away from Hugging Face?",
+        "The CEO promises to keep fighting for open source AI",
+        "Nvidia's exit signals open source's biggest ally is gone",
+        "Your favorite open models may lose their hardware champion",
+        "Test one open model this week before the gap widens"
+      ],
+      "thread_text": [
+        "1. Nvidia just walked away\n\nJensen Huang pulled Nvidia from Hugging Face's board, and the open source AI world is feeling the aftershock.",
+        "2. Open source keeps losing\n\nHugging Face's CEO says he'll keep fighting for open models, but without Nvidia's hardware backing, that fight just got harder.",
+        "3. No more hardware champion\n\nThe company that made open models run fast and cheap is gone. Developers are now stuck with fewer options and rising costs.",
+        "4. Your models could slow down\n\nWithout Nvidia optimizing for open source, your favorite free models may lag behind closed ones in speed and efficiency.",
+        "5. Test one model today\n\nPick one open model you rely on and run a real task before the gap widens. If you haven't done it, start there."
+      ],
+      "video_script": [
+        "Nvidia just walked away from Hugging Face.",
+        "Open source AI just lost its biggest hardware ally.",
+        "The CEO promises to keep fighting, but it's harder now.",
+        "Your favorite open models may lose their speed edge.",
+        "Test one open model this week before the gap widens."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Nvidia just walked away\n\nJensen Huang pulled Nvidia from Hugging Face's board, and the open source AI world is feeling the aftershock.",
+            "2. Open source keeps losing\n\nHugging Face's CEO says he'll keep fighting for open models, but without Nvidia's hardware backing, that fight just got harder.",
+            "3. No more hardware champion\n\nThe company that made open models run fast and cheap is gone. Developers are now stuck with fewer options and rising costs.",
+            "4. Your models could slow down\n\nWithout Nvidia optimizing for open source, your favorite free models may lag behind closed ones in speed and efficiency.",
+            "5. Test one model today\n\nPick one open model you rely on and run a real task before the gap widens. If you haven't done it, start there."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Nvidia just walked away from Hugging Face.",
+            "Open source AI just lost its biggest hardware ally.",
+            "The CEO promises to keep fighting, but it's harder now.",
+            "Your favorite open models may lose their speed edge.",
+            "Test one open model this week before the gap widens."
+          ]
+        },
+        "instagram": {
+          "caption": "Nvidia pulled Jensen Huang from Hugging Face's board, and open models just lost their biggest hardware backer.\n\nHugging Face's CEO says he'll keep fighting for open source anyway 🔥\n\nWithout Nvidia optimizing for open models, those free tools may get slower and pricier than the closed ones 👀\n\nIf you build or publish with open models, expect fewer cheap, fast options ahead.\n\nPick one open model you rely on and run a real task this week — before the gap widens 🛠️\n\nWhich open model would hurt most if it fell behind? 🤔"
+        }
+      },
+      "instagram_caption": "Nvidia pulled Jensen Huang from Hugging Face's board, and open models just lost their biggest hardware backer.\n\nHugging Face's CEO says he'll keep fighting for open source anyway 🔥\n\nWithout Nvidia optimizing for open models, those free tools may get slower and pricier than the closed ones 👀\n\nIf you build or publish with open models, expect fewer cheap, fast options ahead.\n\nPick one open model you rely on and run a real task this week — before the gap widens 🛠️\n\nWhich open model would hurt most if it fell behind? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Nvidia Just Abandoned Open Source AI",
+          "description": "Jensen Huang pulled Nvidia from Hugging Face's board, leaving open source AI without its biggest hardware ally.",
+          "visual_hint": "Empty boardroom chair with Nvidia logo",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "empty boardroom"
+        },
+        {
+          "hook": "Hugging Face CEO Vows To Fight",
+          "description": "Hugging Face's CEO promises to keep fighting for open models, but without Nvidia's backing, the battle just got harder.",
+          "visual_hint": "Determined CEO at podium with open source flag",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "conference podium",
+          "image": "https://images.pexels.com/photos/6949933/pexels-photo-6949933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Open Source Lost Its Hardware Champion",
+          "description": "Nvidia's exit means the company that made open models run fast and cheap is gone, leaving developers with fewer options.",
+          "visual_hint": "Broken GPU chip with Nvidia logo fading",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "broken computer chip",
+          "image": "https://images.pexels.com/photos/6755052/pexels-photo-6755052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your Favorite Open Models May Slow Down",
+          "description": "Without Nvidia optimizing for open source, free models could lag behind closed ones in speed and efficiency.",
+          "visual_hint": "Developer hand holding lagging smartphone",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test One Open Model Before The Gap Widens",
+          "description": "Pick one open model you rely on and run a real task this week. Save this post and share your results.",
+          "visual_hint": "Laptop screen with open model running",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop screen code",
+          "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Hugging-Face-CEO-Clem-Delangue.png?resize=1200,675",
+      "savedAt": "2026-11-12T21:58:46.551Z",
+      "sourceId": "cf0abceb6aec93b3a78bfa339430f867"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "nectar-launches-an-ai-agent-to-automate-creator-di",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "pubDate": "Thu, 12 Nov 2026 19:11:00 +0000",
+      "slides": [
+        "Can Nectar's AI agent replace your influencer scout?",
+        "Built to automate creator discovery and outreach",
+        "It hunts niche creators big agencies overlook",
+        "You gain outreach time without losing human judgment",
+        "Test one campaign manually against the agent"
+      ],
+      "thread_text": [
+        "1. Your Influencer Scout, Automated\n\nNectar's AI agent now discovers and contacts niche creators your agency probably misses. It targets the long tail, not just the big names.",
+        "2. The Long Tail Gets Hunted\n\nBig agencies chase the same 1% of creators. This agent goes after the overlooked 99%, where engagement is higher and competition is thinner.",
+        "3. Outreach Without the Grind\n\nYou still make the final call, but the agent handles the busywork: finding, filtering, and first contact. That's hours back every week.",
+        "4. Judgment Still Wins\n\nAutomation doesn't mean autopilot. You keep the human filter for brand fit and authenticity, while the agent does the legwork.",
+        "5. Test Before You Trust\n\nTake one real campaign and split it: run your manual process on half, the agent on the other. Compare results in a week. Does it save time without costing quality?"
+      ],
+      "video_script": [
+        "Nectar's AI agent finds niche influencers you'd miss.",
+        "It automates discovery and outreach so you focus on judgment.",
+        "Big agencies chase the same names; this goes deeper.",
+        "You keep the final call, but save hours of work.",
+        "Test one campaign side by side this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your Influencer Scout, Automated\n\nNectar's AI agent now discovers and contacts niche creators your agency probably misses. It targets the long tail, not just the big names.",
+            "2. The Long Tail Gets Hunted\n\nBig agencies chase the same 1% of creators. This agent goes after the overlooked 99%, where engagement is higher and competition is thinner.",
+            "3. Outreach Without the Grind\n\nYou still make the final call, but the agent handles the busywork: finding, filtering, and first contact. That's hours back every week.",
+            "4. Judgment Still Wins\n\nAutomation doesn't mean autopilot. You keep the human filter for brand fit and authenticity, while the agent does the legwork.",
+            "5. Test Before You Trust\n\nTake one real campaign and split it: run your manual process on half, the agent on the other. Compare results in a week. Does it save time without costing quality?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Nectar's AI agent finds niche influencers you'd miss.",
+            "It automates discovery and outreach so you focus on judgment.",
+            "Big agencies chase the same names; this goes deeper.",
+            "You keep the final call, but save hours of work.",
+            "Test one campaign side by side this week."
+          ]
+        },
+        "instagram": {
+          "caption": "Nectar just launched an AI agent that finds and contacts niche creators most agencies never notice.\n\nIt targets the long tail, not the same 1% everyone else chases.\n\nYou still make the final call, but it handles the finding, filtering, and first contact 🔍\n\nThat's hours back every week, and outreach time you can spend on brand fit and authenticity instead.\n\nBig agencies overlook the creators with higher engagement and thinner competition — this agent hunts them for you.\n\nSplit one real campaign: manual on half, agent on the other, compare in a week 🤔\n\nWould you trust it with your first message, or do you keep scouting yourself?"
+        }
+      },
+      "instagram_caption": "Nectar just launched an AI agent that finds and contacts niche creators most agencies never notice.\n\nIt targets the long tail, not the same 1% everyone else chases.\n\nYou still make the final call, but it handles the finding, filtering, and first contact 🔍\n\nThat's hours back every week, and outreach time you can spend on brand fit and authenticity instead.\n\nBig agencies overlook the creators with higher engagement and thinner competition — this agent hunts them for you.\n\nSplit one real campaign: manual on half, agent on the other, compare in a week 🤔\n\nWould you trust it with your first message, or do you keep scouting yourself?",
+      "carousel_slides": [
+        {
+          "hook": "Does your agency miss 99% of creators?",
+          "description": "Nectar's AI agent discovers and contacts niche creators that big agencies overlook, targeting the long tail where engagement is higher.",
+          "visual_hint": "Split screen: big agency vs. niche creators",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "crowd social media"
+        },
+        {
+          "hook": "Automate creator discovery and first outreach",
+          "description": "The agent handles finding, filtering, and first contact, saving hours each week while you keep final approval.",
+          "visual_hint": "AI dashboard scanning creator profiles",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "laptop analytics dashboard",
+          "image": "https://images.pexels.com/photos/7873568/pexels-photo-7873568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "It hunts the overlooked 99% of creators",
+          "description": "Big agencies chase the same 1% of creators; this agent targets the long tail where competition is thinner and engagement higher.",
+          "visual_hint": "Magnifying glass over long tail graph",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass graph",
+          "image": "https://images.pexels.com/photos/7947748/pexels-photo-7947748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Outreach without the grind, judgment still wins",
+          "description": "Automation handles busywork, but you keep the human filter for brand fit and authenticity—no autopilot required.",
+          "visual_hint": "Human hand reviewing AI suggestions",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand tablet review",
+          "image": "https://images.pexels.com/photos/8961001/pexels-photo-8961001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test the agent against your manual process",
+          "description": "Split one real campaign: run your manual process on half, the agent on the other. Compare results in a week.",
+          "visual_hint": "A/B test split screen with results",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "split screen comparison",
+          "image": "https://images.pexels.com/photos/21391567/pexels-photo-21391567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?resize=1200,676",
+      "savedAt": "2026-11-12T21:58:37.658Z",
+      "sourceId": "0a010acdd07c2ba4f10b908f74ad95e0"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "the-indie-game-community-is-in-disarray-over-ai-an",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -214772,6 +215188,339 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pasta-pesto-e-totani",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pasta pesto e totani",
+      "link": "https://ricette.giallozafferano.it/Pasta-pesto-e-totani.html",
+      "pubDate": "Thu, 12 Nov 2026 15:04:00 +0100",
+      "content": "Pasta con pesto e totani: ricetta facile Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Pasta pesto e totani /5 Ricetta proposta da Lulù Gargari CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 20 min Cottura: 10 min Dosi per: 4 persone Costo: Medio Ascolta la ricetta Ascolta su Spreaker. Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti PRESENTAZIONE La pasta pesto e totani è un primo piatto di mare facile e profumato, dedicato a chi ama sperimentare nuovi abbinamenti senza rinunciare ai sapori della cucina mediterranea. In questa ricetta, il gusto delicato dei totani incontra quello fresco e aromatico del pesto alla genovese , dando vita a un connubio sorprendente nella sua semplicità. Molto simili ai calamari nell’aspetto, i totani sono dei molluschi più economici e saporiti, e si possono reperire facilmente tutto l’anno. Per questi motivi, la pasta pesto e totani è un’ottima alternativa da proporre per un menù di pesce alla portata di tutti, poco impegnativo ma sfizioso e di sicuro successo! Scoprite altri primi di mare con il pesto: Pasta con pesto e calamari Pasta al pesto e gamberi Pasta ai moscardini e pesto Pasta con pesto e tonno fresco Pasta with pesto and calamari Scopri anche Mezze penne integrali con totani al vino bianco Come pulire i totani Totani in umido Sfoglia tutte INGREDIENTI Spaghetti 320 g Totani (da pulire) 600 g Vino bianco secco 50 g Olio extravergine d'oliva q.b. Pepe nero q.b. Per il pesto di basilico Basilico 50 g Parmigiano Reggiano DOP 40 g Pinoli 25 g Olio extravergine d'oliva 80 g Sale fino q.b. Per guarnire Basilico q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta pesto e totani Per preparare la pasta pesto e totani, iniziate dal pesto: in un mixer versate i pinoli 1 , le foglie di basilico 2 e il sale 3 . Aggiungete l’olio 4 e frullate brevemente per amalgamare, poi unite anche il formaggio grattugiato 5 . Frullate ancora a intermittenza fino ad ottenere una consistenza cremosa 6 . Tenete da parte il pesto e passate alla pulizia dei totani : estraete la penna 7 e le interiora dal mantello, poi rimuovete il becco 8 e gli occhi, sciacquando accuratamente il tutto sotto l’acqua corrente. Tagliate i mantelli ad anelli di circa 1 cm 9 . A questo punto cuocete gli spaghetti in acqua bollente salata 10 . Nel frattempo versate gli anelli e i tentacoli di totano in una padella con l’olio caldo 11 e rosolate a fuoco vivace per 2-3 minuti. Sfumate col vino bianco 12 e lasciate evaporare completamente, dopodiché abbassate la fiamma al minimo per tenerli in caldo. Scolate gli spaghetti al dente e trasferiteli nella padella con il condimento 13 . Alzate nuovamente la fiamma e saltate insieme il tutto 14 , poi pepate a piacere 15 . Togliete la padella dal fuoco e unite il pesto 16 , poi mescolate bene per amalgamarlo 17 . Guarnite con qualche fogliolina di basilico e servite subito la vostra pasta pesto e totani 18 ! Conservazione Si consiglia di consumare subito la pasta pesto e totani. Il pesto si può conservare in frigorifero, all’interno di un vasetto ben coperto con olio, per 4 giorni. In alternativa potete congelarlo in piccoli vasetti. Consiglio Conservate un po’ di acqua di cottura della pasta per aggiungerla eventualmente insieme al pesto così da regolare la consistenza. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Basilico Spaghetti Pasta Olio di oliva Parmigiano Reggiano Scopri tutto sugli ingredienti Presente in: Primi piatti veloci , Primi piatti sfiziosi , Primi piatti di pesce , Ricette sfiziose , Ricette veloci STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Benessere Mezze penne integrali con totani al vino bianco 3 4.0 Benessere Come pulire i totani 3 4.6 Totani in umido 1 4.3 Frittura di totani in pastella 2 4.5 Totani al forno 1 4.3 Totani ripieni al forno 25 4.1 Totani ripieni di verdure e gamberi 14 4.5 Benessere Spiedini di mare 50 4.6 ULTIME RICETTE Risotto alla valdostana 5.0 Risotto cremoso con porri e taleggio 5.0 Pasta pesto e totani 5.0 SCOPRI Pasta fredda con pesto Pasta pesto e pomodorini Pasta pesto Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Benessere Primi piatti Mezze penne integrali con totani al vino bianco 3 4.0 Le mezze penne integrali con totani al vino bianco sono un primo piatto di mare raffinato e gustoso, adatto ad ogni occasione. Vai alla ricetta Benessere Come pulire i totani 3 4.6 I totani sono molluschi perfetti da mangiare soli come secondo o come condimento di primi piatti. Seguiteci per scoprire i segreti della loro pulizia! Vai alla ricetta Secondi piatti Totani in umido 1 4.3 Totani in umido: una ricetta tradizionale facile e saporita. Teneri totani cotti nel sugo di pomodoro, perfetti con pane tostato o polenta. Vai alla ricetta Secondi piatti Frittura di totani in pastella 2 4.5 La frittura di totani in pastella è semplice da realizzare in casa. Scopri come preparare una pastella perfetta senza birra e con gli albumi montati! Vai alla ricetta Secondi piatti Totani al forno 1 4.3 I totani al forno sono un secondo croccante e leggero, perfetto per chi cerca un piatto gustoso e facile da preparare. Scoprite dosi e procedimento. Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. e all’utilizzo di pixel di tracciamento nelle suddette comunicazioni per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne Si No Prosegui",
+      "slides": [
+        "Pasta di mare facile e profumata",
+        "Spaghetti, totani, basilico, pinoli e parmigiano",
+        "Rosola i totani e sfuma col vino bianco",
+        "Scola gli spaghetti e saltali in padella",
+        "Unisci il pesto fuori dal fuoco e servi"
+      ],
+      "instagram_caption": "Pasta, pesto e totani: il mare che incontra la Liguria in un piatto solo 🌊\nRosola i totani e sfuma con il vino bianco, poi salta gli spaghetti in padella e unisci il pesto fuori dal fuoco per mantenere intatto il profumo del basilico.\nBasilico, pinoli e parmigiano avvolgono ogni forkful in una carezza fragrante e saporita 🍝\nUna pasta di mare facile e profumata che conquista al primo assaggio.\nSalva la ricetta e provala questo weekend 🌿🐚",
+      "formats": {
+        "instagram": {
+          "caption": "Pasta, pesto e totani: il mare che incontra la Liguria in un piatto solo 🌊\nRosola i totani e sfuma con il vino bianco, poi salta gli spaghetti in padella e unisci il pesto fuori dal fuoco per mantenere intatto il profumo del basilico.\nBasilico, pinoli e parmigiano avvolgono ogni forkful in una carezza fragrante e saporita 🍝\nUna pasta di mare facile e profumata che conquista al primo assaggio.\nSalva la ricetta e provala questo weekend 🌿🐚"
+        },
+        "tiktok": {
+          "script": [
+            "Pasta di mare facile e profumata, seguimi!",
+            "Spaghetti, totani, basilico, pinoli e parmigiano!",
+            "Rosolo i totani e sfumo col vino bianco",
+            "Scolo gli spaghetti e li salto in padella",
+            "Pesto fuori dal fuoco e servo, che profumo!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Il pesto non è solo per la pasta fredda. Con i totani diventa una bomba di mare: pochi ingredienti, zero sbatti, sapore che sembra domenica.",
+            "Ti servono: spaghetti, totani freschi, basilico, pinoli, parmigiano. Nient'altro. Il segreto? Il pesto lo fai al momento, non quello del barattolo.",
+            "Rosola i totani in padella con olio e aglio: sfuma col vino bianco e lascia che si insaporiscano. Non cuocerli troppo o diventano gomma.",
+            "Scola gli spaghetti al dente e saltali in padella con i totani. Un giro di olio, pepe, e il profumo ti investe già così.",
+            "Togli dal fuoco, unisci il pesto e manteca. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Pasta di mare facile e profumata, seguimi!",
+        "Spaghetti, totani, basilico, pinoli e parmigiano!",
+        "Rosolo i totani e sfumo col vino bianco",
+        "Scolo gli spaghetti e li salto in padella",
+        "Pesto fuori dal fuoco e servo, che profumo!"
+      ],
+      "thread_text": [
+        "Il pesto non è solo per la pasta fredda. Con i totani diventa una bomba di mare: pochi ingredienti, zero sbatti, sapore che sembra domenica.",
+        "Ti servono: spaghetti, totani freschi, basilico, pinoli, parmigiano. Nient'altro. Il segreto? Il pesto lo fai al momento, non quello del barattolo.",
+        "Rosola i totani in padella con olio e aglio: sfuma col vino bianco e lascia che si insaporiscano. Non cuocerli troppo o diventano gomma.",
+        "Scola gli spaghetti al dente e saltali in padella con i totani. Un giro di olio, pepe, e il profumo ti investe già così.",
+        "Togli dal fuoco, unisci il pesto e manteca. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pasta di mare facile e profumata",
+          "description": "Un primo piatto che porta il profumo del mare in tavola, pronto in pochi minuti.",
+          "visual_hint": "piatto finito con pesto",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory seafood pasta"
+        },
+        {
+          "hook": "Spaghetti, totani, basilico, pinoli e parmigiano",
+          "description": "Ingredienti semplici e genuini per un pesto fresco e un mare che si sente.",
+          "visual_hint": "ingredienti freschi sul tavolo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory spaghetti ingredients",
+          "image": "https://images.pexels.com/photos/4038950/pexels-photo-4038950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rosola i totani e sfuma col vino bianco",
+          "description": "Il segreto è rosolare i totani finché diventano dorati e sfumare con vino bianco.",
+          "visual_hint": "totani in padella",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory squid cooking",
+          "image": "https://images.pexels.com/photos/3276125/pexels-photo-3276125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Scola gli spaghetti e saltali in padella",
+          "description": "Salta gli spaghetti nel condimento per farli insaporire bene e legare tutto.",
+          "visual_hint": "spaghetti saltati in padella",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory pasta pan",
+          "image": "https://images.pexels.com/photos/37726962/pexels-photo-37726962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Unisci il pesto fuori dal fuoco e servi",
+          "description": "Aggiungi il pesto a fuoco spento per mantenere il profumo fresco e servi subito.",
+          "visual_hint": "spaghetti con pesto fresco",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory pesto pasta",
+          "image": "https://images.pexels.com/photos/34326272/pexels-photo-34326272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "spaghetti",
+        "totani",
+        "pesto"
+      ],
+      "image": "https://www.giallozafferano.it/images/368-36848/Pasta-pesto-e-totani_1200x800_wm.jpg",
+      "savedAt": "2026-11-12T22:07:48.932Z",
+      "sourceId": "354f3f997dfcd9763810f142f6eedf1c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "risotto-cremoso-con-porri-e-taleggio",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Risotto cremoso con porri e taleggio",
+      "link": "https://ricette.giallozafferano.it/Risotto-cremoso-con-porri-e-taleggio.html",
+      "pubDate": "Thu, 12 Nov 2026 15:39:00 +0100",
+      "content": "Risotto cremoso con porri e taleggio: ricetta facile Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X Primi piatti Riso e Cereali Risotto cremoso con porri e taleggio /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 30 min Cottura: 40 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti PRESENTAZIONE Il risotto cremoso con porri e taleggio è un primo piatto avvolgente e ricco di gusto, perfetto per valorizzare uno degli ortaggi più versatili della stagione fredda. In questa ricetta i porri vengono utilizzati in tre modi diversi: per preparare un brodo vegetale delicato, per ottenere una crema vellutata e per realizzare una guarnizione croccante che completa il piatto. Il taleggio aggiunto in mantecatura dona al risotto una consistenza particolarmente cremosa, mentre i porri fritti regalano una piacevole nota croccante. Un gioco di consistenze che rende questo risotto ancora più sfizioso, perfetto da portare in tavola per un pranzo gourmet o una cena speciale. E se hai amato questa ricetta scopri anche questi risotti con il porro: Risotto gamberi e porri Risotto porri e salsiccia Risotto ai porri Risotto al porro con ricotta di capra e alici Creamy Risotto with Leeks and Taleggio Scopri anche Jacket potatoes con taleggio e porri Risotto cachi e taleggio Risotto spinaci e taleggio Sfoglia tutte INGREDIENTI Riso Carnaroli 320 g Porri (solo la parte chiara) 400 g Olio extravergine d'oliva 20 g Taleggio 150 g Sale fino q.b. Pepe nero q.b. per friggere i porri Farina di riso 100 g Olio di semi di girasole 500 ml per il brodo Acqua 2 l Carote 80 g Sedano 80 g per decorare Erba cipollina q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Risotto cremoso con porri e taleggio Per preparare il risotto cremoso con porri e taleggio, iniziate dal brodo vegetale: dividete a metà 150 g di porri nel senso della lunghezza 1 , tagliate il sedano a pezzi 2 e fate lo stesso con la carota pelata 3 . Trasferite le verdure in una pentola 4 , versate 2 litri d'acqua 5 e aggiungete un pizzico di sale 6 . Lasciate sobbollire a fuoco medio per circa 20 minuti. Nel frattempo, tagliate altri 150 g di porri a rondelle sottili 7 . Scaldate un filo di olio extravergine d'oliva in un pentolino e aggiungete i porri 8 . Unite un pizzico di sale 9 e una grattata di pepe nero. Bagnate con poca acqua 10 e lasciate cuocere per circa 15 minuti, finché i porri saranno morbidi e appassiti. Intanto tagliate i 100 g di porri rimasti a julienne molto sottile 11 , fino a ottenere delle striscioline fini e uniformi 12 . Trasferite i porri tagliati a julienne nella farina di riso e infarinateli leggermente 13 . Eliminate la farina in eccesso aiutandovi con un mestolo forato a maglie larghe 14 . Nel frattempo, scaldate l'olio di semi di girasole in un pentolino fino alla temperatura di 150°C e immergete i porri infarinati nell'olio caldo 15 . Friggeteli rigirandoli spesso, finché saranno leggermente dorati e croccanti. Scolateli con una schiumarola 16 e trasferiteli su carta assorbente 17 ; lasciateli raffreddare all'aria, senza coprirli. Riprendete i porri precedentemente stufati e frullateli con un mixer a immersione 18 . Dovrete ottenere una crema liscia e omogenea, che terrete da parte 19 . Passate ora al risotto: versate il riso carnaroli in un tegame, aggiungete un pizzico di sale 20 e tostatelo a secco, mescolando spesso. Bagnate con un mestolo di brodo vegetale caldo 21 . Mescolate il riso durante la cottura 22 , aggiungendo altro brodo caldo man mano che viene assorbito. Dopo circa 15 minuti, quando il risotto sarà quasi cotto, unite la crema di porri 23 . Mescolate per distribuirla uniformemente e proseguite la cottura per altri 2 minuti 24 . Spegnete il fuoco e aggiungete il taleggio tagliato a tocchetti 25 , poi versate l'olio extravergine d'oliva rimasto 26 . Lasciate riposare per un minuto, quindi mantecate mescolando energicamente e muovendo il tegame per ottenere la caratteristica consistenza all'onda 27 . Il risotto dovrà risultare cremoso e morbido 28 . Distribuitelo nei piatti, battendo delicatamente il fondo per stenderlo in modo uniforme 29 . Completate con i porri fritti a julienne e l'erba cipollina tritata. Il vostro risotto cremoso con porri e taleggio è pronto per essere servito 30 . Conservazione Consigliamo di consumare il risotto cremoso con porri e taleggio appena preparato, per apprezzarne al meglio la consistenza e il contrasto con i porri croccanti. In alternativa è possibile conservarlo in frigorifero per un giorno. Potete preparare la crema di porri in anticipo e conservarla in frigorifero per un giorno, all'interno di un contenitore ermetico. Consiglio Per dare una nota aromatica in più al risotto, potete sfumare il riso con un po' di vino bianco dopo la tostatura, lasciando evaporare la parte alcolica prima di iniziare ad aggiungere il brodo vegetale caldo. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Sedano Olio di oliva Scopri tutto sugli ingredienti STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Jacket potatoes con taleggio e porri 2 4.8 Risotto cachi e taleggio 5.0 Risotto spinaci e taleggio 4.9 Risotto al radicchio e taleggio 3 4.2 Risotto taleggio pere e noci 2 4.4 Risotto allo zafferano con taleggio e pancetta 5.0 Risotto con crema di piselli, taleggio e pancetta 1 4.4 Risotto alla zucca con funghi e taleggio 153 4.3 ULTIME RICETTE Risotto alla valdostana 5.0 Risotto cremoso con porri e taleggio 5.0 Pasta pesto e totani 5.0 SCOPRI Risotto radicchio e taleggio Risotto zucca e taleggio Risotto taleggio e pere Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Contorni Jacket potatoes con taleggio e porri 2 4.8 Le jacket potatoes con taleggio e porri sono una sfiziosa variante vegetariana delle classiche patate al cartoccio, con un cuore di formaggio filante! Vai alla ricetta Primi piatti Risotto cachi e taleggio 5.0 Risotto cachi e taleggio: un primo piatto cremoso e agrodolce, perfetto per l’inverno. Una ricetta semplice ma sorprendente per stupire con gusto. Vai alla ricetta Primi piatti Risotto spinaci e taleggio 4.9 Il risotto spinaci e taleggio è un primo facile e gustoso, che unisce sapori delicati e intensi in una solo piatto. Scoprite dosi e procedimento. Vai alla ricetta Primi piatti Risotto al radicchio e taleggio 3 4.2 Il risotto al radicchio e taleggio con riduzione al vino è un primo piatto cremoso con un tocco gourmet. Scopri dosi e procedimento per prepararlo! Vai alla ricetta Primi piatti Risotto taleggio pere e noci 2 4.4 Il risotto taleggio pere e noci è un primo piatto invernale in equilibrio fra dolce e salato, guarnito con croccante frutta secca! Scopri la ricetta. Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. e all’utilizzo di pixel di tracciamento nelle suddette comunicazioni per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne Si No Prosegui",
+      "slides": [
+        "Risotto cremoso con porri e taleggio",
+        "Carnaroli, porri, taleggio, olio extravergine",
+        "Cuoci i porri in tre modi diversi",
+        "Manteca con taleggio a fuoco spento",
+        "Completa con porri fritti croccanti ed erba cipollina"
+      ],
+      "instagram_caption": "Il risotto che profuma di domenica, ma senza il peso della domenica. Porri in tre consistenze per un gioco di texture che sorprende a ogni cucchiaio. Carnaroli mantecato con taleggio a fuoco spento, finito con porri fritti croccanti ed erba cipollina. Vellutato, avvolgente, con quel tocco saporito che fa chiudere gli occhi al primo assaggio. La prossima cena la dedichi a lui? 🍚✨🧅🌿",
+      "formats": {
+        "instagram": {
+          "caption": "Il risotto che profuma di domenica, ma senza il peso della domenica. Porri in tre consistenze per un gioco di texture che sorprende a ogni cucchiaio. Carnaroli mantecato con taleggio a fuoco spento, finito con porri fritti croccanti ed erba cipollina. Vellutato, avvolgente, con quel tocco saporito che fa chiudere gli occhi al primo assaggio. La prossima cena la dedichi a lui? 🍚✨🧅🌿"
+        },
+        "tiktok": {
+          "script": [
+            "Risotto cremoso con porri e taleggio, seguitemi!",
+            "Carnaroli, porri, taleggio e un filo d'olio.",
+            "Cuocio i porri in tre modi diversi, fidatevi.",
+            "Manteco col taleggio a fuoco spento, che cremosità.",
+            "Chiudo con porri fritti croccanti ed erba cipollina."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Il risotto che fa innamorare anche chi non ama i porri. Cremoso, filante, con un croccante che spacca. Ecco come si fa 👇",
+            "Ingredienti: riso Carnaroli, porri, taleggio, olio extravergine. Sembra poco, ma è tutto quello che serve per un piatto da ristorante.",
+            "I porri? Li cucini in tre modi: trifolati per la base, frullati per la cremosità, fritti per il topping. Un solo ingrediente, tre texture.",
+            "Manteca con taleggio a fuoco spento. Fermati, mescola energicamente, copri. Il formaggio si scioglie e il riso diventa una nuvola.",
+            "Completa con porri fritti croccanti ed erba cipollina. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Risotto cremoso con porri e taleggio, seguitemi!",
+        "Carnaroli, porri, taleggio e un filo d'olio.",
+        "Cuocio i porri in tre modi diversi, fidatevi.",
+        "Manteco col taleggio a fuoco spento, che cremosità.",
+        "Chiudo con porri fritti croccanti ed erba cipollina."
+      ],
+      "thread_text": [
+        "Il risotto che fa innamorare anche chi non ama i porri. Cremoso, filante, con un croccante che spacca. Ecco come si fa 👇",
+        "Ingredienti: riso Carnaroli, porri, taleggio, olio extravergine. Sembra poco, ma è tutto quello che serve per un piatto da ristorante.",
+        "I porri? Li cucini in tre modi: trifolati per la base, frullati per la cremosità, fritti per il topping. Un solo ingrediente, tre texture.",
+        "Manteca con taleggio a fuoco spento. Fermati, mescola energicamente, copri. Il formaggio si scioglie e il riso diventa una nuvola.",
+        "Completa con porri fritti croccanti ed erba cipollina. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Risotto cremoso con porri e taleggio",
+          "description": "Un piatto avvolgente e cremoso, dove la dolcezza dei porri incontra il sapore intenso del taleggio.",
+          "visual_hint": "risotto cremoso in primo piano",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory creamy risotto"
+        },
+        {
+          "hook": "Tre ingredienti, un equilibrio perfetto",
+          "description": "Carnaroli, porri e taleggio: la base semplice per un risotto dal carattere deciso.",
+          "visual_hint": "ingredienti freschi sul tavolo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory risotto ingredients",
+          "image": "https://images.pexels.com/photos/34110276/pexels-photo-34110276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Porri cotti in tre modi diversi",
+          "description": "Stufati, brasati e fritti: ogni cottura esalta una sfumatura diversa del porro.",
+          "visual_hint": "porri che sfrigolano in padella",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory sautéed leeks",
+          "image": "https://images.pexels.com/photos/38567125/pexels-photo-38567125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manteca con taleggio a fuoco spento",
+          "description": "Il segreto della cremosità: mantecare fuori dal fuoco per una texture vellutata.",
+          "visual_hint": "mantecatura del risotto",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory risotto mantecatura",
+          "image": "https://images.pexels.com/photos/24289215/pexels-photo-24289215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Completa con porri fritti croccanti",
+          "description": "Un tocco di croccantezza e erba cipollina per un piatto da servire subito.",
+          "visual_hint": "risotto impiattato con guarnizione",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory risotto bowl",
+          "image": "https://images.pexels.com/photos/34110276/pexels-photo-34110276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "generic",
+      "signature_ingredients": [
+        "Carnaroli",
+        "porri",
+        "taleggio"
+      ],
+      "image": "https://www.giallozafferano.it/images/368-36846/Risotto-cremoso-con-porri-e-taleggio_1200x800_wm.jpg",
+      "savedAt": "2026-11-12T22:07:37.744Z",
+      "sourceId": "327b527ab9b81b3117c98c08473da39c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "risotto-alla-valdostana",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Risotto alla valdostana",
+      "link": "https://ricette.giallozafferano.it/Risotto-alla-valdostana.html",
+      "pubDate": "Thu, 12 Nov 2026 15:44:00 +0100",
+      "content": "Risotto alla valdostana Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X Primi piatti Riso e Cereali Risotto alla valdostana /5 Ricetta proposta da Sebastian Fitarau CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 15 min Cottura: 24 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti PRESENTAZIONE Il risotto alla valdostana è un primo piatto ricco e cremos o, ispirato ai sapori della cucina di montagna. Protagonista della ricetta è la fontina , il formaggio simbolo della Valle d'Aosta, che sciogliendosi durante la mantecatura regala al riso una consistenza irresistibilmente filante . Il Parmigiano Reggiano aggiunge sapidità, mentre il burro rende il tutto ancora più vellutato. Preparare questo sfizioso risotto è semplice: vi basterà seguire i passaggi della ricetta e aggiungere il brodo poco alla volta per ottenere una cottura uniforme. Perfetto per un pranzo della domenica o una cena nelle giornate più fredde, il risotto alla valdostana è una ricetta ideale per chi ama i primi piatti con formaggio , dal gusto avvolgente e dalla consistenza cremosa. Se amate i formaggi, provate anche questi deliziosi risotti cremosi : Risotto cacio e pepe Risotto con verza, speck e fontina Risotto ai 4 formaggi Risotto spinaci e taleggio Risotto cipolla e gorgonzola Valdostan risotto Scopri anche Crespelle alla valdostana Fonduta alla Valdostana Scaloppine alla valdostana Sfoglia tutte INGREDIENTI Riso Carnaroli 320 g Fontina 150 g Burro 40 g Brodo vegetale 1 l Vino bianco 40 g Scalogno 30 g Parmigiano Reggiano DOP 50 g Pepe nero q.b. Sale fino q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Risotto alla valdostana Per preparare il risotto alla valdostana, iniziate mondando e tritando finemente lo scalogno 1 . In una casseruola fate sciogliere metà del burro 2 , poi aggiungete lo scalogno tritato 3 e lasciatelo appassire dolcemente a fuoco basso. Quando lo scalogno sarà diventato morbido e trasparente, unite il riso 4 e fatelo tostare per circa 2 minuti, mescolando spesso. Aggiungete un pizzico di sale 5 , poi sfumate con il vino bianco 6 e lasciate evaporare completamente la parte alcolica. A questo punto versate un mestolo di brodo caldo 7 e proseguite la cottura, mescolando di tanto in tanto e aggiungendo altro brodo man mano che viene assorbito 8 . Nel frattempo, tagliate la Fontina a cubetti piccoli 9 . Quando il riso sarà cotto, togliete la casseruola dal fuoco e aggiungete il burro restante 10 , poi unite il Parmigiano Reggiano grattugiato 11 e la fontina a cubetti 12 . Mescolate energicamente per amalgamare tutti gli ingredienti 13 e far sciogliere completamente i formaggi, fino a ottenere una consistenza cremosa e filante 14 . Impiattate, insaporite con pepe nero a piacere e servite subito il vostro risotto alla valdostana, ben caldo 15 . Conservazione Si consiglia di consumare subito il risotto alla valdostana. Consiglio Se non avete a disposizione la Fontina, potete sostituirla con della toma piemontese o dell'Asiago, due formaggi che si sciolgono facilmente e rendono il risotto cremoso e filante. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Burro Scalogno Parmigiano Reggiano Scopri tutto sugli ingredienti STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Crespelle alla valdostana 4.3 Fonduta alla Valdostana 80 4.1 Scaloppine alla valdostana 1 4.7 Costolette alla valdostana 10 4.3 Polenta concia 20 3.9 Gnocchi alla bava 40 3.8 Tegole dolci 28 3.8 Torcetti al burro 63 3.8 ULTIME RICETTE Risotto alla valdostana 5.0 Risotto cremoso con porri e taleggio 5.0 Pasta pesto e totani 5.0 Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Primi piatti Crespelle alla valdostana 4.3 Le crespelle alla valdostana sono un ricco primo piatto farcito con prosciutto e fontina e arricchito con una cremosa besciamella. Scopri la ricetta! Vai alla ricetta Piatti Unici Fonduta alla Valdostana 80 4.1 La fonduta alla valdostana è un piatto tipico a base di formaggio, realizzato con fontina, tuorli e latte. Scopri ingredienti, procedimento e&hellip; Vai alla ricetta Secondi piatti Scaloppine alla valdostana 1 4.7 Le scaloppine alla valdostana sono delle fettine di carne di vitello arricchite con prosciutto e fontina filante. Scopri questa ricetta facile&hellip; Vai alla ricetta Secondi piatti Costolette alla valdostana 10 4.3 Le costolette alla valdostana sono un tipico secondo piatto: costolette di vitello fritte e farcite con prosciutto e fontina! Scopri come farle a casa Vai alla ricetta Piatti Unici Polenta concia 20 3.9 La polenta concia è una ricetta ricca e sostanziosa della tradizione contadina che abbraccia le aree montane del Nord Italia. Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. e all’utilizzo di pixel di tracciamento nelle suddette comunicazioni per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne Si No Prosegui",
+      "slides": [
+        "Risotto cremoso e filante alla fontina",
+        "Fontina, burro, Parmigiano e scalogno",
+        "Tosta il riso e sfuma con vino bianco",
+        "Manteca fuori fuoco con fontina e Parmigiano",
+        "Servi subito con pepe nero macinato"
+      ],
+      "instagram_caption": "La cremosità incontra la montagna: risotto alla valdostana, pura coccola 🧀\nScalogno, burro e un riso tostato che sfuma al vino bianco: poi arriva la fontina a fare la magia.\nMantecato fuori fuoco con Parmigiano, filante e avvolgente come deve essere.\nUna macinata di pepe nero sopra e il gioco è fatto: comfort food ai massimi livelli ✨\nSalva la ricetta e provala questo weekend 🥂",
+      "formats": {
+        "instagram": {
+          "caption": "La cremosità incontra la montagna: risotto alla valdostana, pura coccola 🧀\nScalogno, burro e un riso tostato che sfuma al vino bianco: poi arriva la fontina a fare la magia.\nMantecato fuori fuoco con Parmigiano, filante e avvolgente come deve essere.\nUna macinata di pepe nero sopra e il gioco è fatto: comfort food ai massimi livelli ✨\nSalva la ricetta e provala questo weekend 🥂"
+        },
+        "tiktok": {
+          "script": [
+            "Oggi risotto alla valdostana, cremoso e filante!",
+            "Prendo fontina, burro, Parmigiano e scalogno.",
+            "Tosto il riso e sfumo col vino bianco.",
+            "Manteco fuori fuoco con fontina e Parmigiano.",
+            "Servo subito con pepe nero macinato, che bontà!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Il risotto che ti fa sentire in montagna al primo cucchiaio: cremoso, filante, avvolgente. La fontina fa il miracolo, ma è il burro che chiude il giro. 🧀",
+            "Ti servono: riso per risotti, fontina a cubetti, burro, Parmigiano grattugiato e uno scalogno tritato fine. Pochi ingredienti, zero scuse: la semplicità qui vince sempre.",
+            "Scalogno nel burro, poi il riso tostato fino a sentirlo scricchiolare. Sfuma col vino bianco e lascia che l'alcol evapori: è il momento in cui la cucina inizia a profumare di buono.",
+            "Cuoci aggiungendo brodo caldo poco alla volta. Fuori dal fuoco manteca con fontina e Parmigiano: mescola energico e vedrai la cremosità filante. Il fuoco spento è il segreto.",
+            "Servi subito con una macinata di pepe nero: esalta la fontina e dà quel tocco in più. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Oggi risotto alla valdostana, cremoso e filante!",
+        "Prendo fontina, burro, Parmigiano e scalogno.",
+        "Tosto il riso e sfumo col vino bianco.",
+        "Manteco fuori fuoco con fontina e Parmigiano.",
+        "Servo subito con pepe nero macinato, che bontà!"
+      ],
+      "thread_text": [
+        "Il risotto che ti fa sentire in montagna al primo cucchiaio: cremoso, filante, avvolgente. La fontina fa il miracolo, ma è il burro che chiude il giro. 🧀",
+        "Ti servono: riso per risotti, fontina a cubetti, burro, Parmigiano grattugiato e uno scalogno tritato fine. Pochi ingredienti, zero scuse: la semplicità qui vince sempre.",
+        "Scalogno nel burro, poi il riso tostato fino a sentirlo scricchiolare. Sfuma col vino bianco e lascia che l'alcol evapori: è il momento in cui la cucina inizia a profumare di buono.",
+        "Cuoci aggiungendo brodo caldo poco alla volta. Fuori dal fuoco manteca con fontina e Parmigiano: mescola energico e vedrai la cremosità filante. Il fuoco spento è il segreto.",
+        "Servi subito con una macinata di pepe nero: esalta la fontina e dà quel tocco in più. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Risotto alla valdostana: cremoso e filante",
+          "description": "Un risotto avvolgente con fontina fusa, mantecato alla perfezione.",
+          "visual_hint": "risotto cremoso filante",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory risotto fontina"
+        },
+        {
+          "hook": "Ingredienti: fontina, burro, Parmigiano, scalogno",
+          "description": "La semplicità degli ingredienti fa la differenza: fontina, burro, Parmigiano e scalogno.",
+          "visual_hint": "ingredienti freschi disposti",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory risotto ingredients",
+          "image": "https://images.pexels.com/photos/34110276/pexels-photo-34110276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Tosta il riso e sfuma con vino bianco",
+          "description": "Il segreto è tostare il riso e sfumare con vino bianco per un aroma unico.",
+          "visual_hint": "riso tostato in padella",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory risotto toasting",
+          "image": "https://images.pexels.com/photos/28559486/pexels-photo-28559486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manteca fuori fuoco con fontina e Parmigiano",
+          "description": "Manteca fuori dal fuoco con fontina e Parmigiano per una cremosità perfetta.",
+          "visual_hint": "mantecatura risotto",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory risotto mantecatura",
+          "image": "https://images.pexels.com/photos/24289215/pexels-photo-24289215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Servi subito con pepe nero macinato",
+          "description": "Servi subito con una spolverata di pepe nero macinato per esaltare il sapore.",
+          "visual_hint": "risotto impiattato con pepe",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory risotto pepper",
+          "image": "https://images.pexels.com/photos/28503610/pexels-photo-28503610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "generic",
+      "signature_ingredients": [
+        "Fontina",
+        "burro",
+        "Parmigiano"
+      ],
+      "image": "https://www.giallozafferano.it/images/368-36850/Risotto-alla-valdostana_1200x800_wm.jpg",
+      "savedAt": "2026-11-12T22:07:26.041Z",
+      "sourceId": "965ccb37e2a082660f81c506b1f2ba50"
+    },
     {
       "schema_version": 2,
       "agent": "food",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "softbank-s-billion-dollar-loss-may-have-put-a-cap-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+  "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+  "pubDate": "Thu, 12 Nov 2026 17:00:52 +0000",
+  "slides": [
+    "SoftBank's billion-dollar loss: what does it mean for AI gas?",
+    "The Vision Fund posted losses on weakening tech valuations.",
+    "Utilities see AI data centers as a once-in-a-generation demand source.",
+    "Gas plants built for AI risk becoming stranded assets.",
+    "Ask your utility: how much of its plan depends on AI?"
+  ],
+  "thread_text": [
+    "1. The AI energy bubble just cracked\n\nSoftBank's Vision Fund lost billions as tech valuations fell. That's the first domino for the AI power boom.",
+    "2. Utilities are betting big on AI\n\nThey see data centers as a once-in-a-generation demand source, justifying massive new gas plant construction.",
+    "3. Gas plants built for AI could become stranded\n\nIf the AI boom cools, utilities risk billions in unused fossil fuel infrastructure.",
+    "4. Your utility's secret AI dependency\n\nMany rate plans now hinge on AI-driven demand that may never materialize. That's a hidden risk for your bills.",
+    "5. Ask your utility today\n\nHow much of its plan depends on AI? A single question can reveal whether your rates are funding a speculative bet."
+  ],
+  "video_script": [
+    "SoftBank just lost billions on AI bets.",
+    "Utilities are building gas plants for AI data centers.",
+    "Those plants could become stranded assets if AI slows.",
+    "Your utility might be betting your money on AI.",
+    "Ask them: how much depends on AI?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The AI energy bubble just cracked\n\nSoftBank's Vision Fund lost billions as tech valuations fell. That's the first domino for the AI power boom.",
+        "2. Utilities are betting big on AI\n\nThey see data centers as a once-in-a-generation demand source, justifying massive new gas plant construction.",
+        "3. Gas plants built for AI could become stranded\n\nIf the AI boom cools, utilities risk billions in unused fossil fuel infrastructure.",
+        "4. Your utility's secret AI dependency\n\nMany rate plans now hinge on AI-driven demand that may never materialize. That's a hidden risk for your bills.",
+        "5. Ask your utility today\n\nHow much of its plan depends on AI? A single question can reveal whether your rates are funding a speculative bet."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "SoftBank just lost billions on AI bets.",
+        "Utilities are building gas plants for AI data centers.",
+        "Those plants could become stranded assets if AI slows.",
+        "Your utility might be betting your money on AI.",
+        "Ask them: how much depends on AI?"
+      ]
+    },
+    "instagram": {
+      "caption": "SoftBank just posted a billion-dollar loss as tech valuations slid 📉 — and that's the first crack in the AI power boom.\n\nUtilities are betting big on AI data centers, calling them a once-in-a-generation demand source to justify new gas plants.\n\nIf the AI boom cools, those plants risk becoming stranded assets — billions in unused infrastructure.\n\nFor anyone publishing or building with AI: your energy costs and tools may rest on demand that never shows up.\n\nAsk your utility: how much of its plan depends on AI? ⚡ One question reveals if your rates fund a speculative bet."
+    }
+  },
+  "instagram_caption": "SoftBank just posted a billion-dollar loss as tech valuations slid 📉 — and that's the first crack in the AI power boom.\n\nUtilities are betting big on AI data centers, calling them a once-in-a-generation demand source to justify new gas plants.\n\nIf the AI boom cools, those plants risk becoming stranded assets — billions in unused infrastructure.\n\nFor anyone publishing or building with AI: your energy costs and tools may rest on demand that never shows up.\n\nAsk your utility: how much of its plan depends on AI? ⚡ One question reveals if your rates fund a speculative bet.",
+  "carousel_slides": [
+    {
+      "hook": "Is your utility betting on AI?",
+      "description": "SoftBank's Vision Fund lost billions as tech valuations fell, potentially the first domino for the AI power boom.",
+      "visual_hint": "SoftBank logo with falling graph",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Utilities see AI as huge demand",
+      "description": "They view data centers as a once-in-a-generation demand source, justifying massive new gas plant construction.",
+      "visual_hint": "Data center with power lines",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Gas plants for AI may become stranded",
+      "description": "If the AI boom cools, utilities risk billions in unused fossil fuel infrastructure, becoming stranded assets.",
+      "visual_hint": "Abandoned gas plant",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "gas plant",
+      "image": "https://images.pexels.com/photos/36794533/pexels-photo-36794533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your utility's hidden AI dependency",
+      "description": "Many rate plans hinge on AI-driven demand that may never materialize, a hidden risk for your bills.",
+      "visual_hint": "Person holding electricity bill",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "electricity bill",
+      "image": "https://images.pexels.com/photos/7926706/pexels-photo-7926706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your utility: how much depends on AI?",
+      "description": "A single question can reveal whether your rates are funding a speculative AI bet. Save this post to remember.",
+      "visual_hint": "Person asking utility representative",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "people talking office",
+      "image": "https://images.pexels.com/photos/7875870/pexels-photo-7875870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1294103185.jpg?resize=1200,799",
+  "savedAt": "2026-11-12T21:59:03.994Z",
+  "sourceId": "55bf40a54c79d71b9c405603dcf28147"
+}

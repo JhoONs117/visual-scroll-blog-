@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "nectar-launches-an-ai-agent-to-automate-creator-di",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+  "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+  "pubDate": "Thu, 12 Nov 2026 19:11:00 +0000",
+  "slides": [
+    "Can Nectar's AI agent replace your influencer scout?",
+    "Built to automate creator discovery and outreach",
+    "It hunts niche creators big agencies overlook",
+    "You gain outreach time without losing human judgment",
+    "Test one campaign manually against the agent"
+  ],
+  "thread_text": [
+    "1. Your Influencer Scout, Automated\n\nNectar's AI agent now discovers and contacts niche creators your agency probably misses. It targets the long tail, not just the big names.",
+    "2. The Long Tail Gets Hunted\n\nBig agencies chase the same 1% of creators. This agent goes after the overlooked 99%, where engagement is higher and competition is thinner.",
+    "3. Outreach Without the Grind\n\nYou still make the final call, but the agent handles the busywork: finding, filtering, and first contact. That's hours back every week.",
+    "4. Judgment Still Wins\n\nAutomation doesn't mean autopilot. You keep the human filter for brand fit and authenticity, while the agent does the legwork.",
+    "5. Test Before You Trust\n\nTake one real campaign and split it: run your manual process on half, the agent on the other. Compare results in a week. Does it save time without costing quality?"
+  ],
+  "video_script": [
+    "Nectar's AI agent finds niche influencers you'd miss.",
+    "It automates discovery and outreach so you focus on judgment.",
+    "Big agencies chase the same names; this goes deeper.",
+    "You keep the final call, but save hours of work.",
+    "Test one campaign side by side this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your Influencer Scout, Automated\n\nNectar's AI agent now discovers and contacts niche creators your agency probably misses. It targets the long tail, not just the big names.",
+        "2. The Long Tail Gets Hunted\n\nBig agencies chase the same 1% of creators. This agent goes after the overlooked 99%, where engagement is higher and competition is thinner.",
+        "3. Outreach Without the Grind\n\nYou still make the final call, but the agent handles the busywork: finding, filtering, and first contact. That's hours back every week.",
+        "4. Judgment Still Wins\n\nAutomation doesn't mean autopilot. You keep the human filter for brand fit and authenticity, while the agent does the legwork.",
+        "5. Test Before You Trust\n\nTake one real campaign and split it: run your manual process on half, the agent on the other. Compare results in a week. Does it save time without costing quality?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Nectar's AI agent finds niche influencers you'd miss.",
+        "It automates discovery and outreach so you focus on judgment.",
+        "Big agencies chase the same names; this goes deeper.",
+        "You keep the final call, but save hours of work.",
+        "Test one campaign side by side this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Nectar just launched an AI agent that finds and contacts niche creators most agencies never notice.\n\nIt targets the long tail, not the same 1% everyone else chases.\n\nYou still make the final call, but it handles the finding, filtering, and first contact 🔍\n\nThat's hours back every week, and outreach time you can spend on brand fit and authenticity instead.\n\nBig agencies overlook the creators with higher engagement and thinner competition — this agent hunts them for you.\n\nSplit one real campaign: manual on half, agent on the other, compare in a week 🤔\n\nWould you trust it with your first message, or do you keep scouting yourself?"
+    }
+  },
+  "instagram_caption": "Nectar just launched an AI agent that finds and contacts niche creators most agencies never notice.\n\nIt targets the long tail, not the same 1% everyone else chases.\n\nYou still make the final call, but it handles the finding, filtering, and first contact 🔍\n\nThat's hours back every week, and outreach time you can spend on brand fit and authenticity instead.\n\nBig agencies overlook the creators with higher engagement and thinner competition — this agent hunts them for you.\n\nSplit one real campaign: manual on half, agent on the other, compare in a week 🤔\n\nWould you trust it with your first message, or do you keep scouting yourself?",
+  "carousel_slides": [
+    {
+      "hook": "Does your agency miss 99% of creators?",
+      "description": "Nectar's AI agent discovers and contacts niche creators that big agencies overlook, targeting the long tail where engagement is higher.",
+      "visual_hint": "Split screen: big agency vs. niche creators",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "crowd social media"
+    },
+    {
+      "hook": "Automate creator discovery and first outreach",
+      "description": "The agent handles finding, filtering, and first contact, saving hours each week while you keep final approval.",
+      "visual_hint": "AI dashboard scanning creator profiles",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "laptop analytics dashboard",
+      "image": "https://images.pexels.com/photos/7873568/pexels-photo-7873568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It hunts the overlooked 99% of creators",
+      "description": "Big agencies chase the same 1% of creators; this agent targets the long tail where competition is thinner and engagement higher.",
+      "visual_hint": "Magnifying glass over long tail graph",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass graph",
+      "image": "https://images.pexels.com/photos/7947748/pexels-photo-7947748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Outreach without the grind, judgment still wins",
+      "description": "Automation handles busywork, but you keep the human filter for brand fit and authenticity—no autopilot required.",
+      "visual_hint": "Human hand reviewing AI suggestions",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand tablet review",
+      "image": "https://images.pexels.com/photos/8961001/pexels-photo-8961001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test the agent against your manual process",
+      "description": "Split one real campaign: run your manual process on half, the agent on the other. Compare results in a week.",
+      "visual_hint": "A/B test split screen with results",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "split screen comparison",
+      "image": "https://images.pexels.com/photos/21391567/pexels-photo-21391567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?resize=1200,676",
+  "savedAt": "2026-11-12T21:58:37.658Z",
+  "sourceId": "0a010acdd07c2ba4f10b908f74ad95e0"
+}

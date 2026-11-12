@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "hugging-face-ceo-vows-to-keep-fighting-for-open-so",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+  "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+  "pubDate": "Thu, 12 Nov 2026 17:36:40 +0000",
+  "slides": [
+    "Why did Jensen Huang just walk away from Hugging Face?",
+    "The CEO promises to keep fighting for open source AI",
+    "Nvidia's exit signals open source's biggest ally is gone",
+    "Your favorite open models may lose their hardware champion",
+    "Test one open model this week before the gap widens"
+  ],
+  "thread_text": [
+    "1. Nvidia just walked away\n\nJensen Huang pulled Nvidia from Hugging Face's board, and the open source AI world is feeling the aftershock.",
+    "2. Open source keeps losing\n\nHugging Face's CEO says he'll keep fighting for open models, but without Nvidia's hardware backing, that fight just got harder.",
+    "3. No more hardware champion\n\nThe company that made open models run fast and cheap is gone. Developers are now stuck with fewer options and rising costs.",
+    "4. Your models could slow down\n\nWithout Nvidia optimizing for open source, your favorite free models may lag behind closed ones in speed and efficiency.",
+    "5. Test one model today\n\nPick one open model you rely on and run a real task before the gap widens. If you haven't done it, start there."
+  ],
+  "video_script": [
+    "Nvidia just walked away from Hugging Face.",
+    "Open source AI just lost its biggest hardware ally.",
+    "The CEO promises to keep fighting, but it's harder now.",
+    "Your favorite open models may lose their speed edge.",
+    "Test one open model this week before the gap widens."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Nvidia just walked away\n\nJensen Huang pulled Nvidia from Hugging Face's board, and the open source AI world is feeling the aftershock.",
+        "2. Open source keeps losing\n\nHugging Face's CEO says he'll keep fighting for open models, but without Nvidia's hardware backing, that fight just got harder.",
+        "3. No more hardware champion\n\nThe company that made open models run fast and cheap is gone. Developers are now stuck with fewer options and rising costs.",
+        "4. Your models could slow down\n\nWithout Nvidia optimizing for open source, your favorite free models may lag behind closed ones in speed and efficiency.",
+        "5. Test one model today\n\nPick one open model you rely on and run a real task before the gap widens. If you haven't done it, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Nvidia just walked away from Hugging Face.",
+        "Open source AI just lost its biggest hardware ally.",
+        "The CEO promises to keep fighting, but it's harder now.",
+        "Your favorite open models may lose their speed edge.",
+        "Test one open model this week before the gap widens."
+      ]
+    },
+    "instagram": {
+      "caption": "Nvidia pulled Jensen Huang from Hugging Face's board, and open models just lost their biggest hardware backer.\n\nHugging Face's CEO says he'll keep fighting for open source anyway 🔥\n\nWithout Nvidia optimizing for open models, those free tools may get slower and pricier than the closed ones 👀\n\nIf you build or publish with open models, expect fewer cheap, fast options ahead.\n\nPick one open model you rely on and run a real task this week — before the gap widens 🛠️\n\nWhich open model would hurt most if it fell behind? 🤔"
+    }
+  },
+  "instagram_caption": "Nvidia pulled Jensen Huang from Hugging Face's board, and open models just lost their biggest hardware backer.\n\nHugging Face's CEO says he'll keep fighting for open source anyway 🔥\n\nWithout Nvidia optimizing for open models, those free tools may get slower and pricier than the closed ones 👀\n\nIf you build or publish with open models, expect fewer cheap, fast options ahead.\n\nPick one open model you rely on and run a real task this week — before the gap widens 🛠️\n\nWhich open model would hurt most if it fell behind? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Nvidia Just Abandoned Open Source AI",
+      "description": "Jensen Huang pulled Nvidia from Hugging Face's board, leaving open source AI without its biggest hardware ally.",
+      "visual_hint": "Empty boardroom chair with Nvidia logo",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "empty boardroom"
+    },
+    {
+      "hook": "Hugging Face CEO Vows To Fight",
+      "description": "Hugging Face's CEO promises to keep fighting for open models, but without Nvidia's backing, the battle just got harder.",
+      "visual_hint": "Determined CEO at podium with open source flag",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "conference podium",
+      "image": "https://images.pexels.com/photos/6949933/pexels-photo-6949933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Open Source Lost Its Hardware Champion",
+      "description": "Nvidia's exit means the company that made open models run fast and cheap is gone, leaving developers with fewer options.",
+      "visual_hint": "Broken GPU chip with Nvidia logo fading",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "broken computer chip",
+      "image": "https://images.pexels.com/photos/6755052/pexels-photo-6755052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your Favorite Open Models May Slow Down",
+      "description": "Without Nvidia optimizing for open source, free models could lag behind closed ones in speed and efficiency.",
+      "visual_hint": "Developer hand holding lagging smartphone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test One Open Model Before The Gap Widens",
+      "description": "Pick one open model you rely on and run a real task this week. Save this post and share your results.",
+      "visual_hint": "Laptop screen with open model running",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop screen code",
+      "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Hugging-Face-CEO-Clem-Delangue.png?resize=1200,675",
+  "savedAt": "2026-11-12T21:58:46.551Z",
+  "sourceId": "cf0abceb6aec93b3a78bfa339430f867"
+}

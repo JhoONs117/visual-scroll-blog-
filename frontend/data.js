@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "softbank-s-billion-dollar-loss-may-have-put-a-cap-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+    "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+    "pubDate": "Thu, 12 Nov 2026 17:00:52 +0000",
+    "slides": [
+      "SoftBank's billion-dollar loss: what does it mean for AI gas?",
+      "The Vision Fund posted losses on weakening tech valuations.",
+      "Utilities see AI data centers as a once-in-a-generation demand source.",
+      "Gas plants built for AI risk becoming stranded assets.",
+      "Ask your utility: how much of its plan depends on AI?"
+    ],
+    "thread_text": [
+      "1. The AI energy bubble just cracked\n\nSoftBank's Vision Fund lost billions as tech valuations fell. That's the first domino for the AI power boom.",
+      "2. Utilities are betting big on AI\n\nThey see data centers as a once-in-a-generation demand source, justifying massive new gas plant construction.",
+      "3. Gas plants built for AI could become stranded\n\nIf the AI boom cools, utilities risk billions in unused fossil fuel infrastructure.",
+      "4. Your utility's secret AI dependency\n\nMany rate plans now hinge on AI-driven demand that may never materialize. That's a hidden risk for your bills.",
+      "5. Ask your utility today\n\nHow much of its plan depends on AI? A single question can reveal whether your rates are funding a speculative bet."
+    ],
+    "video_script": [
+      "SoftBank just lost billions on AI bets.",
+      "Utilities are building gas plants for AI data centers.",
+      "Those plants could become stranded assets if AI slows.",
+      "Your utility might be betting your money on AI.",
+      "Ask them: how much depends on AI?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The AI energy bubble just cracked\n\nSoftBank's Vision Fund lost billions as tech valuations fell. That's the first domino for the AI power boom.",
+          "2. Utilities are betting big on AI\n\nThey see data centers as a once-in-a-generation demand source, justifying massive new gas plant construction.",
+          "3. Gas plants built for AI could become stranded\n\nIf the AI boom cools, utilities risk billions in unused fossil fuel infrastructure.",
+          "4. Your utility's secret AI dependency\n\nMany rate plans now hinge on AI-driven demand that may never materialize. That's a hidden risk for your bills.",
+          "5. Ask your utility today\n\nHow much of its plan depends on AI? A single question can reveal whether your rates are funding a speculative bet."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "SoftBank just lost billions on AI bets.",
+          "Utilities are building gas plants for AI data centers.",
+          "Those plants could become stranded assets if AI slows.",
+          "Your utility might be betting your money on AI.",
+          "Ask them: how much depends on AI?"
+        ]
+      },
+      "instagram": {
+        "caption": "SoftBank just posted a billion-dollar loss as tech valuations slid 📉 — and that's the first crack in the AI power boom.\n\nUtilities are betting big on AI data centers, calling them a once-in-a-generation demand source to justify new gas plants.\n\nIf the AI boom cools, those plants risk becoming stranded assets — billions in unused infrastructure.\n\nFor anyone publishing or building with AI: your energy costs and tools may rest on demand that never shows up.\n\nAsk your utility: how much of its plan depends on AI? ⚡ One question reveals if your rates fund a speculative bet."
+      }
+    },
+    "instagram_caption": "SoftBank just posted a billion-dollar loss as tech valuations slid 📉 — and that's the first crack in the AI power boom.\n\nUtilities are betting big on AI data centers, calling them a once-in-a-generation demand source to justify new gas plants.\n\nIf the AI boom cools, those plants risk becoming stranded assets — billions in unused infrastructure.\n\nFor anyone publishing or building with AI: your energy costs and tools may rest on demand that never shows up.\n\nAsk your utility: how much of its plan depends on AI? ⚡ One question reveals if your rates fund a speculative bet.",
+    "carousel_slides": [
+      {
+        "hook": "Is your utility betting on AI?",
+        "description": "SoftBank's Vision Fund lost billions as tech valuations fell, potentially the first domino for the AI power boom.",
+        "visual_hint": "SoftBank logo with falling graph",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Utilities see AI as huge demand",
+        "description": "They view data centers as a once-in-a-generation demand source, justifying massive new gas plant construction.",
+        "visual_hint": "Data center with power lines",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Gas plants for AI may become stranded",
+        "description": "If the AI boom cools, utilities risk billions in unused fossil fuel infrastructure, becoming stranded assets.",
+        "visual_hint": "Abandoned gas plant",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "gas plant",
+        "image": "https://images.pexels.com/photos/36794533/pexels-photo-36794533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your utility's hidden AI dependency",
+        "description": "Many rate plans hinge on AI-driven demand that may never materialize, a hidden risk for your bills.",
+        "visual_hint": "Person holding electricity bill",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "electricity bill",
+        "image": "https://images.pexels.com/photos/7926706/pexels-photo-7926706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask your utility: how much depends on AI?",
+        "description": "A single question can reveal whether your rates are funding a speculative AI bet. Save this post to remember.",
+        "visual_hint": "Person asking utility representative",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "people talking office",
+        "image": "https://images.pexels.com/photos/7875870/pexels-photo-7875870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1294103185.jpg?resize=1200,799",
+    "savedAt": "2026-11-12T21:59:03.994Z",
+    "sourceId": "55bf40a54c79d71b9c405603dcf28147"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "united-airlines-blocks-ai-agents-from-booking-flig",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+    "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+    "pubDate": "Thu, 12 Nov 2026 17:17:58 +0000",
+    "slides": [
+      "United Airlines just blocked AI agents from booking flights",
+      "A cybersecurity rule targets automated booking software",
+      "But the real trigger was fake reservation attacks",
+      "Travelers lose the ease of one-click agent checkouts",
+      "Ask airlines how smart their bot defenses really are"
+    ],
+    "thread_text": [
+      "1. Airlines vs. AI agents\n\nUnited Airlines now blocks automated booking software from its site, citing security risks. The move affects any AI agent that tries to book flights on behalf of travelers.",
+      "2. New security rule\n\nA cybersecurity rule targets automated booking tools, requiring airlines to detect and block non-human traffic. United says it's complying with the rule.",
+      "3. Fake bookings triggered\n\nThe real trigger was fake reservation attacks — bots making mass fake bookings to hold seats or disrupt inventory. Airlines say the rule helps prevent these attacks.",
+      "4. Travelers lose convenience\n\nTravelers lose the ease of one-click agent checkouts. AI agents that used to book flights for you now can't, so you're back to manual booking.",
+      "5. Ask about bot defenses\n\nAsk airlines how smart their bot defenses really are. If they can't tell a fake booking from a real one, maybe the problem isn't the bots."
+    ],
+    "video_script": [
+      "United Airlines just blocked AI agents from booking flights.",
+      "A new cybersecurity rule targets automated booking software.",
+      "The real trigger? Fake reservation attacks that disrupted inventory.",
+      "Travelers lose the ease of one-click agent checkouts.",
+      "Ask airlines how smart their bot defenses really are."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Airlines vs. AI agents\n\nUnited Airlines now blocks automated booking software from its site, citing security risks. The move affects any AI agent that tries to book flights on behalf of travelers.",
+          "2. New security rule\n\nA cybersecurity rule targets automated booking tools, requiring airlines to detect and block non-human traffic. United says it's complying with the rule.",
+          "3. Fake bookings triggered\n\nThe real trigger was fake reservation attacks — bots making mass fake bookings to hold seats or disrupt inventory. Airlines say the rule helps prevent these attacks.",
+          "4. Travelers lose convenience\n\nTravelers lose the ease of one-click agent checkouts. AI agents that used to book flights for you now can't, so you're back to manual booking.",
+          "5. Ask about bot defenses\n\nAsk airlines how smart their bot defenses really are. If they can't tell a fake booking from a real one, maybe the problem isn't the bots."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "United Airlines just blocked AI agents from booking flights.",
+          "A new cybersecurity rule targets automated booking software.",
+          "The real trigger? Fake reservation attacks that disrupted inventory.",
+          "Travelers lose the ease of one-click agent checkouts.",
+          "Ask airlines how smart their bot defenses really are."
+        ]
+      },
+      "instagram": {
+        "caption": "Your AI travel agent can't book a United flight anymore. ✈️\n\nUnited now blocks automated booking software from its site, citing cybersecurity risks — it says it's complying with a rule requiring airlines to detect and block non-human traffic.\n\nThe real trigger: bots making mass fake bookings to hold seats and disrupt inventory. 🔒\n\nSo travelers lose one-click agent checkouts and go back to manual booking.\n\nIf you build or rely on AI agents for everyday tasks, travel booking just became another wall to work around. 🤖\n\nAsk airlines how smart their bot defenses really are — if they can't tell a fake booking from a real one, maybe the problem isn't the bots."
+      }
+    },
+    "instagram_caption": "Your AI travel agent can't book a United flight anymore. ✈️\n\nUnited now blocks automated booking software from its site, citing cybersecurity risks — it says it's complying with a rule requiring airlines to detect and block non-human traffic.\n\nThe real trigger: bots making mass fake bookings to hold seats and disrupt inventory. 🔒\n\nSo travelers lose one-click agent checkouts and go back to manual booking.\n\nIf you build or rely on AI agents for everyday tasks, travel booking just became another wall to work around. 🤖\n\nAsk airlines how smart their bot defenses really are — if they can't tell a fake booking from a real one, maybe the problem isn't the bots.",
+    "carousel_slides": [
+      {
+        "hook": "Fake bookings, not AI, triggered the block",
+        "description": "United Airlines blocks AI agents after fake reservation attacks overwhelmed inventory, but the real risk was bot-driven seat hoarding, not smart assistants.",
+        "visual_hint": "Airline website with error message",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "airline website"
+      },
+      {
+        "hook": "A cybersecurity rule targets automated booking tools",
+        "description": "New security rules require airlines to detect and block non-human traffic, forcing United to comply by restricting AI agent access to its booking site.",
+        "visual_hint": "Security shield over booking form",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "cybersecurity lock",
+        "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Bots made mass fake bookings to hold seats",
+        "description": "The real trigger was fake reservation attacks: bots booked seats en masse to disrupt inventory, not to help travelers find better flights.",
+        "visual_hint": "Server room with blinking lights",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Travelers lose one-click agent checkouts",
+        "description": "AI agents that once booked flights for you are now blocked, forcing travelers back to manual searches and losing the convenience of automated booking.",
+        "visual_hint": "Hand on mouse clicking booking",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand mouse",
+        "image": "https://images.pexels.com/photos/32755759/pexels-photo-32755759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask airlines how smart their bot defenses really are",
+        "description": "If airlines can't tell a fake booking from a real one, maybe the problem isn't the bots. Save this and ask them directly.",
+        "visual_hint": "Question mark over airline logo",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "question mark",
+        "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/united-airlines-2231866642.jpg?resize=1200,801",
+    "savedAt": "2026-11-12T21:58:56.078Z",
+    "sourceId": "0deb78fa341dbcc1a72944673b575370"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "hugging-face-ceo-vows-to-keep-fighting-for-open-so",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+    "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+    "pubDate": "Thu, 12 Nov 2026 17:36:40 +0000",
+    "slides": [
+      "Why did Jensen Huang just walk away from Hugging Face?",
+      "The CEO promises to keep fighting for open source AI",
+      "Nvidia's exit signals open source's biggest ally is gone",
+      "Your favorite open models may lose their hardware champion",
+      "Test one open model this week before the gap widens"
+    ],
+    "thread_text": [
+      "1. Nvidia just walked away\n\nJensen Huang pulled Nvidia from Hugging Face's board, and the open source AI world is feeling the aftershock.",
+      "2. Open source keeps losing\n\nHugging Face's CEO says he'll keep fighting for open models, but without Nvidia's hardware backing, that fight just got harder.",
+      "3. No more hardware champion\n\nThe company that made open models run fast and cheap is gone. Developers are now stuck with fewer options and rising costs.",
+      "4. Your models could slow down\n\nWithout Nvidia optimizing for open source, your favorite free models may lag behind closed ones in speed and efficiency.",
+      "5. Test one model today\n\nPick one open model you rely on and run a real task before the gap widens. If you haven't done it, start there."
+    ],
+    "video_script": [
+      "Nvidia just walked away from Hugging Face.",
+      "Open source AI just lost its biggest hardware ally.",
+      "The CEO promises to keep fighting, but it's harder now.",
+      "Your favorite open models may lose their speed edge.",
+      "Test one open model this week before the gap widens."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Nvidia just walked away\n\nJensen Huang pulled Nvidia from Hugging Face's board, and the open source AI world is feeling the aftershock.",
+          "2. Open source keeps losing\n\nHugging Face's CEO says he'll keep fighting for open models, but without Nvidia's hardware backing, that fight just got harder.",
+          "3. No more hardware champion\n\nThe company that made open models run fast and cheap is gone. Developers are now stuck with fewer options and rising costs.",
+          "4. Your models could slow down\n\nWithout Nvidia optimizing for open source, your favorite free models may lag behind closed ones in speed and efficiency.",
+          "5. Test one model today\n\nPick one open model you rely on and run a real task before the gap widens. If you haven't done it, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nvidia just walked away from Hugging Face.",
+          "Open source AI just lost its biggest hardware ally.",
+          "The CEO promises to keep fighting, but it's harder now.",
+          "Your favorite open models may lose their speed edge.",
+          "Test one open model this week before the gap widens."
+        ]
+      },
+      "instagram": {
+        "caption": "Nvidia pulled Jensen Huang from Hugging Face's board, and open models just lost their biggest hardware backer.\n\nHugging Face's CEO says he'll keep fighting for open source anyway 🔥\n\nWithout Nvidia optimizing for open models, those free tools may get slower and pricier than the closed ones 👀\n\nIf you build or publish with open models, expect fewer cheap, fast options ahead.\n\nPick one open model you rely on and run a real task this week — before the gap widens 🛠️\n\nWhich open model would hurt most if it fell behind? 🤔"
+      }
+    },
+    "instagram_caption": "Nvidia pulled Jensen Huang from Hugging Face's board, and open models just lost their biggest hardware backer.\n\nHugging Face's CEO says he'll keep fighting for open source anyway 🔥\n\nWithout Nvidia optimizing for open models, those free tools may get slower and pricier than the closed ones 👀\n\nIf you build or publish with open models, expect fewer cheap, fast options ahead.\n\nPick one open model you rely on and run a real task this week — before the gap widens 🛠️\n\nWhich open model would hurt most if it fell behind? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Nvidia Just Abandoned Open Source AI",
+        "description": "Jensen Huang pulled Nvidia from Hugging Face's board, leaving open source AI without its biggest hardware ally.",
+        "visual_hint": "Empty boardroom chair with Nvidia logo",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "empty boardroom"
+      },
+      {
+        "hook": "Hugging Face CEO Vows To Fight",
+        "description": "Hugging Face's CEO promises to keep fighting for open models, but without Nvidia's backing, the battle just got harder.",
+        "visual_hint": "Determined CEO at podium with open source flag",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "conference podium",
+        "image": "https://images.pexels.com/photos/6949933/pexels-photo-6949933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Open Source Lost Its Hardware Champion",
+        "description": "Nvidia's exit means the company that made open models run fast and cheap is gone, leaving developers with fewer options.",
+        "visual_hint": "Broken GPU chip with Nvidia logo fading",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "broken computer chip",
+        "image": "https://images.pexels.com/photos/6755052/pexels-photo-6755052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your Favorite Open Models May Slow Down",
+        "description": "Without Nvidia optimizing for open source, free models could lag behind closed ones in speed and efficiency.",
+        "visual_hint": "Developer hand holding lagging smartphone",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test One Open Model Before The Gap Widens",
+        "description": "Pick one open model you rely on and run a real task this week. Save this post and share your results.",
+        "visual_hint": "Laptop screen with open model running",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop screen code",
+        "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Hugging-Face-CEO-Clem-Delangue.png?resize=1200,675",
+    "savedAt": "2026-11-12T21:58:46.551Z",
+    "sourceId": "cf0abceb6aec93b3a78bfa339430f867"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "nectar-launches-an-ai-agent-to-automate-creator-di",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "pubDate": "Thu, 12 Nov 2026 19:11:00 +0000",
+    "slides": [
+      "Can Nectar's AI agent replace your influencer scout?",
+      "Built to automate creator discovery and outreach",
+      "It hunts niche creators big agencies overlook",
+      "You gain outreach time without losing human judgment",
+      "Test one campaign manually against the agent"
+    ],
+    "thread_text": [
+      "1. Your Influencer Scout, Automated\n\nNectar's AI agent now discovers and contacts niche creators your agency probably misses. It targets the long tail, not just the big names.",
+      "2. The Long Tail Gets Hunted\n\nBig agencies chase the same 1% of creators. This agent goes after the overlooked 99%, where engagement is higher and competition is thinner.",
+      "3. Outreach Without the Grind\n\nYou still make the final call, but the agent handles the busywork: finding, filtering, and first contact. That's hours back every week.",
+      "4. Judgment Still Wins\n\nAutomation doesn't mean autopilot. You keep the human filter for brand fit and authenticity, while the agent does the legwork.",
+      "5. Test Before You Trust\n\nTake one real campaign and split it: run your manual process on half, the agent on the other. Compare results in a week. Does it save time without costing quality?"
+    ],
+    "video_script": [
+      "Nectar's AI agent finds niche influencers you'd miss.",
+      "It automates discovery and outreach so you focus on judgment.",
+      "Big agencies chase the same names; this goes deeper.",
+      "You keep the final call, but save hours of work.",
+      "Test one campaign side by side this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your Influencer Scout, Automated\n\nNectar's AI agent now discovers and contacts niche creators your agency probably misses. It targets the long tail, not just the big names.",
+          "2. The Long Tail Gets Hunted\n\nBig agencies chase the same 1% of creators. This agent goes after the overlooked 99%, where engagement is higher and competition is thinner.",
+          "3. Outreach Without the Grind\n\nYou still make the final call, but the agent handles the busywork: finding, filtering, and first contact. That's hours back every week.",
+          "4. Judgment Still Wins\n\nAutomation doesn't mean autopilot. You keep the human filter for brand fit and authenticity, while the agent does the legwork.",
+          "5. Test Before You Trust\n\nTake one real campaign and split it: run your manual process on half, the agent on the other. Compare results in a week. Does it save time without costing quality?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nectar's AI agent finds niche influencers you'd miss.",
+          "It automates discovery and outreach so you focus on judgment.",
+          "Big agencies chase the same names; this goes deeper.",
+          "You keep the final call, but save hours of work.",
+          "Test one campaign side by side this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Nectar just launched an AI agent that finds and contacts niche creators most agencies never notice.\n\nIt targets the long tail, not the same 1% everyone else chases.\n\nYou still make the final call, but it handles the finding, filtering, and first contact 🔍\n\nThat's hours back every week, and outreach time you can spend on brand fit and authenticity instead.\n\nBig agencies overlook the creators with higher engagement and thinner competition — this agent hunts them for you.\n\nSplit one real campaign: manual on half, agent on the other, compare in a week 🤔\n\nWould you trust it with your first message, or do you keep scouting yourself?"
+      }
+    },
+    "instagram_caption": "Nectar just launched an AI agent that finds and contacts niche creators most agencies never notice.\n\nIt targets the long tail, not the same 1% everyone else chases.\n\nYou still make the final call, but it handles the finding, filtering, and first contact 🔍\n\nThat's hours back every week, and outreach time you can spend on brand fit and authenticity instead.\n\nBig agencies overlook the creators with higher engagement and thinner competition — this agent hunts them for you.\n\nSplit one real campaign: manual on half, agent on the other, compare in a week 🤔\n\nWould you trust it with your first message, or do you keep scouting yourself?",
+    "carousel_slides": [
+      {
+        "hook": "Does your agency miss 99% of creators?",
+        "description": "Nectar's AI agent discovers and contacts niche creators that big agencies overlook, targeting the long tail where engagement is higher.",
+        "visual_hint": "Split screen: big agency vs. niche creators",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "crowd social media"
+      },
+      {
+        "hook": "Automate creator discovery and first outreach",
+        "description": "The agent handles finding, filtering, and first contact, saving hours each week while you keep final approval.",
+        "visual_hint": "AI dashboard scanning creator profiles",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "laptop analytics dashboard",
+        "image": "https://images.pexels.com/photos/7873568/pexels-photo-7873568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It hunts the overlooked 99% of creators",
+        "description": "Big agencies chase the same 1% of creators; this agent targets the long tail where competition is thinner and engagement higher.",
+        "visual_hint": "Magnifying glass over long tail graph",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass graph",
+        "image": "https://images.pexels.com/photos/7947748/pexels-photo-7947748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Outreach without the grind, judgment still wins",
+        "description": "Automation handles busywork, but you keep the human filter for brand fit and authenticity—no autopilot required.",
+        "visual_hint": "Human hand reviewing AI suggestions",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand tablet review",
+        "image": "https://images.pexels.com/photos/8961001/pexels-photo-8961001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test the agent against your manual process",
+        "description": "Split one real campaign: run your manual process on half, the agent on the other. Compare results in a week.",
+        "visual_hint": "A/B test split screen with results",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "split screen comparison",
+        "image": "https://images.pexels.com/photos/21391567/pexels-photo-21391567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?resize=1200,676",
+    "savedAt": "2026-11-12T21:58:37.658Z",
+    "sourceId": "0a010acdd07c2ba4f10b908f74ad95e0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "the-indie-game-community-is-in-disarray-over-ai-an",
     "prompt_version": "1.0.0",
     "status": "published",
