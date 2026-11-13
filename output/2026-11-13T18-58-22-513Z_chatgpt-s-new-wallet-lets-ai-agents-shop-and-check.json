@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "chatgpt-s-new-wallet-lets-ai-agents-shop-and-check",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+  "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+  "pubDate": "Fri, 13 Nov 2026 16:00:12 +0000",
+  "slides": [
+    "Can ChatGPT now spend your money without asking?",
+    "A new Wallet feature lets agents complete checkouts",
+    "But the agent pauses for approval on every purchase",
+    "You set spending limits and merchant allowlists first",
+    "Test it with one low-stakes purchase this week"
+  ],
+  "thread_text": [
+    "1. Can ChatGPT spend your money?\n\nA new Wallet feature lets AI agents complete checkouts. The agent pauses for approval on every purchase, so you stay in control.",
+    "2. Approval on every purchase\n\nThe agent won't finalize a transaction without your explicit sign-off. That means no surprise charges, but also a manual step each time.",
+    "3. Set limits first\n\nBefore any purchase, you define spending limits and merchant allowlists. The agent can only act within those boundaries.",
+    "4. Test with a small buy\n\nTry one low-stakes purchase this week. See how the approval flow works and whether the limits feel right for you.",
+    "5. Would you trust it?\n\nIf the agent asks for approval on every checkout, does it save time or add friction? Test it on a real low-stakes purchase and decide."
+  ],
+  "video_script": [
+    "Can ChatGPT now spend your money without asking?",
+    "A new Wallet feature lets agents complete checkouts.",
+    "But the agent pauses for approval on every purchase.",
+    "You set spending limits and merchant allowlists first.",
+    "Test it with one low-stakes purchase this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can ChatGPT spend your money?\n\nA new Wallet feature lets AI agents complete checkouts. The agent pauses for approval on every purchase, so you stay in control.",
+        "2. Approval on every purchase\n\nThe agent won't finalize a transaction without your explicit sign-off. That means no surprise charges, but also a manual step each time.",
+        "3. Set limits first\n\nBefore any purchase, you define spending limits and merchant allowlists. The agent can only act within those boundaries.",
+        "4. Test with a small buy\n\nTry one low-stakes purchase this week. See how the approval flow works and whether the limits feel right for you.",
+        "5. Would you trust it?\n\nIf the agent asks for approval on every checkout, does it save time or add friction? Test it on a real low-stakes purchase and decide."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can ChatGPT now spend your money without asking?",
+        "A new Wallet feature lets agents complete checkouts.",
+        "But the agent pauses for approval on every purchase.",
+        "You set spending limits and merchant allowlists first.",
+        "Test it with one low-stakes purchase this week."
+      ]
+    },
+    "instagram": {
+      "caption": "ChatGPT now has a Wallet that can complete checkouts for you — but the agent stops for approval on every single purchase before anything is charged.\n\nYou set spending limits and a merchant allowlist first, so the agent only acts inside boundaries you define.\n\nThat means no surprise charges, but also a manual sign-off each time it buys something. 🔒\n\nIf you publish or create content, this changes how you'd test AI tools for real tasks: one low-stakes purchase shows whether the approval flow saves time or just adds friction to your day.\n\nWould you hand checkout to an agent that pauses for your approval every time, or does that defeat the point? 💳🤖"
+    }
+  },
+  "instagram_caption": "ChatGPT now has a Wallet that can complete checkouts for you — but the agent stops for approval on every single purchase before anything is charged.\n\nYou set spending limits and a merchant allowlist first, so the agent only acts inside boundaries you define.\n\nThat means no surprise charges, but also a manual sign-off each time it buys something. 🔒\n\nIf you publish or create content, this changes how you'd test AI tools for real tasks: one low-stakes purchase shows whether the approval flow saves time or just adds friction to your day.\n\nWould you hand checkout to an agent that pauses for your approval every time, or does that defeat the point? 💳🤖",
+  "carousel_slides": [
+    {
+      "hook": "Can AI spend your money without asking?",
+      "description": "ChatGPT's new Wallet lets AI agents complete checkouts, but the agent pauses for your approval on every purchase.",
+      "visual_hint": "Split screen: AI agent and human hand on wallet",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "digital wallet"
+    },
+    {
+      "hook": "Agent completes checkout, but you approve.",
+      "description": "The agent won't finalize any transaction without your explicit sign-off, so there are no surprise charges.",
+      "visual_hint": "Checkout screen with approval button highlighted",
+      "layout_type": "right-focus",
+      "icon": "check",
+      "image_query": "online checkout screen",
+      "image": "https://images.pexels.com/photos/7620568/pexels-photo-7620568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Set spending limits before the agent acts.",
+      "description": "You define spending limits and merchant allowlists upfront. The agent can only act within those boundaries.",
+      "visual_hint": "Slider and list of approved merchants on screen",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "settings menu screen",
+      "image": "https://images.pexels.com/photos/25312303/pexels-photo-25312303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test with one low-stakes purchase.",
+      "description": "Try a small buy this week to see how the approval flow works and whether the limits feel right.",
+      "visual_hint": "Hand holding phone with small purchase confirmation",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "person holding smartphone",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your first AI checkout.",
+      "description": "Bookmark this guide and try one low-stakes purchase to decide if the approval step saves time or adds friction.",
+      "visual_hint": "Bookmark icon and phone with wallet app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone wallet app",
+      "image": "https://images.pexels.com/photos/6237886/pexels-photo-6237886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/chatgpt-wallet.jpg?resize=1200,729",
+  "savedAt": "2026-11-13T18:58:41.554Z",
+  "sourceId": "a89e405114485a54eebb7af48bbc58a9"
+}

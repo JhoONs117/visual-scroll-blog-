@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "claude-s-duet-agent-is-a-little-neurotic-and-surpr",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+  "pubDate": "2026-11-13T14:00:00.000Z",
+  "slides": [
+    "Can Claude’s new Duet agent really work with you—or against you?",
+    "It’s designed to collaborate, not just answer questions.",
+    "But users report it sometimes second-guesses your simplest requests.",
+    "You can now trigger it directly within your workflow for real-time feedback.",
+    "Test Duet on one repetitive task—see if its quirks actually help."
+  ],
+  "thread_text": [
+    "1. Duet Works With You?\n\nClaude's new Duet agent is built to collaborate, not just answer. Early users say it sometimes second-guesses your simplest requests.",
+    "2. Collaboration, Not Answers\n\nDuet is designed to work alongside you in real time. But that means it can push back on your decisions, even when you're sure.",
+    "3. Second-Guessing Basics\n\nUsers report Duet questioning trivial requests, like renaming a file. Is it helpful caution or just friction?",
+    "4. Trigger In Your Flow\n\nYou can now launch Duet directly inside your workflow for instant feedback. No more switching apps or interrupting your focus.",
+    "5. Test One Repetitive Task\n\nTry Duet on a single repetitive chore this week. If its quirks save you time, keep it. If not, you'll know fast."
+  ],
+  "video_script": [
+    "Claude's new Duet agent claims to collaborate, not just answer.",
+    "But users say it second-guesses even the simplest requests.",
+    "It's built to work inside your workflow for real-time feedback.",
+    "The question is whether its pushback helps or just slows you down.",
+    "Test Duet on one repetitive task this week and judge for yourself."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Duet Works With You?\n\nClaude's new Duet agent is built to collaborate, not just answer. Early users say it sometimes second-guesses your simplest requests.",
+        "2. Collaboration, Not Answers\n\nDuet is designed to work alongside you in real time. But that means it can push back on your decisions, even when you're sure.",
+        "3. Second-Guessing Basics\n\nUsers report Duet questioning trivial requests, like renaming a file. Is it helpful caution or just friction?",
+        "4. Trigger In Your Flow\n\nYou can now launch Duet directly inside your workflow for instant feedback. No more switching apps or interrupting your focus.",
+        "5. Test One Repetitive Task\n\nTry Duet on a single repetitive chore this week. If its quirks save you time, keep it. If not, you'll know fast."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Claude's new Duet agent claims to collaborate, not just answer.",
+        "But users say it second-guesses even the simplest requests.",
+        "It's built to work inside your workflow for real-time feedback.",
+        "The question is whether its pushback helps or just slows you down.",
+        "Test Duet on one repetitive task this week and judge for yourself."
+      ]
+    },
+    "instagram": {
+      "caption": "Claude's new Duet agent sometimes second-guesses your simplest requests—even renaming a file. 😅\n\nIt's built to collaborate in real time, not just answer questions.\n\nThat means it can push back on your decisions, even when you're sure.\n\nYou can now launch it directly inside your workflow, no app-switching needed. ⚡\n\nFor anyone creating or publishing content, it's worth testing on one repetitive task this week. 🤔\n\nIf its quirks save you time, keep it. If not, you'll know fast.\n\nWhat's the one task you'd let Duet question you on? 👇"
+    }
+  },
+  "instagram_caption": "Claude's new Duet agent sometimes second-guesses your simplest requests—even renaming a file. 😅\n\nIt's built to collaborate in real time, not just answer questions.\n\nThat means it can push back on your decisions, even when you're sure.\n\nYou can now launch it directly inside your workflow, no app-switching needed. ⚡\n\nFor anyone creating or publishing content, it's worth testing on one repetitive task this week. 🤔\n\nIf its quirks save you time, keep it. If not, you'll know fast.\n\nWhat's the one task you'd let Duet question you on? 👇",
+  "carousel_slides": [
+    {
+      "hook": "Does Claude's Duet work against you?",
+      "description": "Users report Duet second-guesses simple requests, turning collaboration into friction. Test if its quirks help or hinder.",
+      "visual_hint": "Split screen: robot and human facing off",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot human face off"
+    },
+    {
+      "hook": "Designed to collaborate, not just answer",
+      "description": "Duet works alongside you in real time, but may push back on decisions even when you're sure.",
+      "visual_hint": "Two hands typing on one keyboard",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "hands typing keyboard",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Second-guessing your simplest requests?",
+      "description": "Duet questions trivial tasks like renaming a file—helpful caution or unnecessary friction? Users are divided.",
+      "visual_hint": "Magnifying glass over a file icon",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass file",
+      "image": "https://images.pexels.com/photos/7319084/pexels-photo-7319084.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trigger Duet right in your workflow",
+      "description": "Launch Duet directly inside your workflow for instant feedback—no app switching, no interrupted focus.",
+      "visual_hint": "Workflow diagram with Duet icon",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "workflow diagram screen",
+      "image": "https://images.pexels.com/photos/9034716/pexels-photo-9034716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Duet on one repetitive task",
+      "description": "Try Duet on a single repetitive chore this week. If its quirks save time, keep it; if not, you'll know fast.",
+      "visual_hint": "Person testing robot on assembly line",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "factory assembly line",
+      "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
+  "savedAt": "2026-11-13T18:58:58.756Z",
+  "sourceId": "2c7a6e6b19ce61f9d30efb428e588292"
+}

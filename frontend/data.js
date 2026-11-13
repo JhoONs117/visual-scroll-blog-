@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "claude-s-duet-agent-is-a-little-neurotic-and-surpr",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+    "pubDate": "2026-11-13T14:00:00.000Z",
+    "slides": [
+      "Can Claude’s new Duet agent really work with you—or against you?",
+      "It’s designed to collaborate, not just answer questions.",
+      "But users report it sometimes second-guesses your simplest requests.",
+      "You can now trigger it directly within your workflow for real-time feedback.",
+      "Test Duet on one repetitive task—see if its quirks actually help."
+    ],
+    "thread_text": [
+      "1. Duet Works With You?\n\nClaude's new Duet agent is built to collaborate, not just answer. Early users say it sometimes second-guesses your simplest requests.",
+      "2. Collaboration, Not Answers\n\nDuet is designed to work alongside you in real time. But that means it can push back on your decisions, even when you're sure.",
+      "3. Second-Guessing Basics\n\nUsers report Duet questioning trivial requests, like renaming a file. Is it helpful caution or just friction?",
+      "4. Trigger In Your Flow\n\nYou can now launch Duet directly inside your workflow for instant feedback. No more switching apps or interrupting your focus.",
+      "5. Test One Repetitive Task\n\nTry Duet on a single repetitive chore this week. If its quirks save you time, keep it. If not, you'll know fast."
+    ],
+    "video_script": [
+      "Claude's new Duet agent claims to collaborate, not just answer.",
+      "But users say it second-guesses even the simplest requests.",
+      "It's built to work inside your workflow for real-time feedback.",
+      "The question is whether its pushback helps or just slows you down.",
+      "Test Duet on one repetitive task this week and judge for yourself."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Duet Works With You?\n\nClaude's new Duet agent is built to collaborate, not just answer. Early users say it sometimes second-guesses your simplest requests.",
+          "2. Collaboration, Not Answers\n\nDuet is designed to work alongside you in real time. But that means it can push back on your decisions, even when you're sure.",
+          "3. Second-Guessing Basics\n\nUsers report Duet questioning trivial requests, like renaming a file. Is it helpful caution or just friction?",
+          "4. Trigger In Your Flow\n\nYou can now launch Duet directly inside your workflow for instant feedback. No more switching apps or interrupting your focus.",
+          "5. Test One Repetitive Task\n\nTry Duet on a single repetitive chore this week. If its quirks save you time, keep it. If not, you'll know fast."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Claude's new Duet agent claims to collaborate, not just answer.",
+          "But users say it second-guesses even the simplest requests.",
+          "It's built to work inside your workflow for real-time feedback.",
+          "The question is whether its pushback helps or just slows you down.",
+          "Test Duet on one repetitive task this week and judge for yourself."
+        ]
+      },
+      "instagram": {
+        "caption": "Claude's new Duet agent sometimes second-guesses your simplest requests—even renaming a file. 😅\n\nIt's built to collaborate in real time, not just answer questions.\n\nThat means it can push back on your decisions, even when you're sure.\n\nYou can now launch it directly inside your workflow, no app-switching needed. ⚡\n\nFor anyone creating or publishing content, it's worth testing on one repetitive task this week. 🤔\n\nIf its quirks save you time, keep it. If not, you'll know fast.\n\nWhat's the one task you'd let Duet question you on? 👇"
+      }
+    },
+    "instagram_caption": "Claude's new Duet agent sometimes second-guesses your simplest requests—even renaming a file. 😅\n\nIt's built to collaborate in real time, not just answer questions.\n\nThat means it can push back on your decisions, even when you're sure.\n\nYou can now launch it directly inside your workflow, no app-switching needed. ⚡\n\nFor anyone creating or publishing content, it's worth testing on one repetitive task this week. 🤔\n\nIf its quirks save you time, keep it. If not, you'll know fast.\n\nWhat's the one task you'd let Duet question you on? 👇",
+    "carousel_slides": [
+      {
+        "hook": "Does Claude's Duet work against you?",
+        "description": "Users report Duet second-guesses simple requests, turning collaboration into friction. Test if its quirks help or hinder.",
+        "visual_hint": "Split screen: robot and human facing off",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot human face off"
+      },
+      {
+        "hook": "Designed to collaborate, not just answer",
+        "description": "Duet works alongside you in real time, but may push back on decisions even when you're sure.",
+        "visual_hint": "Two hands typing on one keyboard",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "hands typing keyboard",
+        "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Second-guessing your simplest requests?",
+        "description": "Duet questions trivial tasks like renaming a file—helpful caution or unnecessary friction? Users are divided.",
+        "visual_hint": "Magnifying glass over a file icon",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass file",
+        "image": "https://images.pexels.com/photos/7319084/pexels-photo-7319084.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Trigger Duet right in your workflow",
+        "description": "Launch Duet directly inside your workflow for instant feedback—no app switching, no interrupted focus.",
+        "visual_hint": "Workflow diagram with Duet icon",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "workflow diagram screen",
+        "image": "https://images.pexels.com/photos/9034716/pexels-photo-9034716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Duet on one repetitive task",
+        "description": "Try Duet on a single repetitive chore this week. If its quirks save time, keep it; if not, you'll know fast.",
+        "visual_hint": "Person testing robot on assembly line",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "factory assembly line",
+        "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
+    "savedAt": "2026-11-13T18:58:58.756Z",
+    "sourceId": "2c7a6e6b19ce61f9d30efb428e588292"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "microsoft-s-latest-email-outage-turned-into-a-full",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
+    "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+    "pubDate": "Fri, 13 Nov 2026 13:15:20 +0000",
+    "slides": [
+      "Microsoft's email outage: isolated glitch or warning sign?",
+      "Exchange Online went down worldwide, not just a region",
+      "It also took down Teams, SharePoint, and the admin portal",
+      "Check if your tenant is set up for cross-service failover now",
+      "One recovery plan isn't enough. Test a second one today"
+    ],
+    "thread_text": [
+      "1. Global, not regional\n\nThe Exchange Online outage hit customers worldwide, not just one region. Microsoft confirmed the scope after initial reports suggested a localized issue.",
+      "2. Beyond email\n\nThe outage didn't stop at Exchange. Teams, SharePoint, and even the admin portal went down, leaving IT teams without management tools during the crisis.",
+      "3. Isolated glitch?\n\nMicrosoft called it an isolated incident, but the simultaneous failure of multiple services raises questions about shared dependencies and blast radius.",
+      "4. Cross-service failover\n\nCheck if your tenant is configured for cross-service failover. Without it, a single service failure can cascade across your entire collaboration stack.",
+      "5. Test a second plan\n\nOne recovery plan isn't enough. Simulate a failover today and verify your second plan works. Does your team know the steps?"
+    ],
+    "video_script": [
+      "The Microsoft email outage wasn't regional—it was worldwide.",
+      "It took down Teams, SharePoint, and the admin portal too.",
+      "Microsoft calls it isolated, but multiple services failed together.",
+      "Check if your tenant has cross-service failover configured now.",
+      "One recovery plan isn't enough—test a second one today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Global, not regional\n\nThe Exchange Online outage hit customers worldwide, not just one region. Microsoft confirmed the scope after initial reports suggested a localized issue.",
+          "2. Beyond email\n\nThe outage didn't stop at Exchange. Teams, SharePoint, and even the admin portal went down, leaving IT teams without management tools during the crisis.",
+          "3. Isolated glitch?\n\nMicrosoft called it an isolated incident, but the simultaneous failure of multiple services raises questions about shared dependencies and blast radius.",
+          "4. Cross-service failover\n\nCheck if your tenant is configured for cross-service failover. Without it, a single service failure can cascade across your entire collaboration stack.",
+          "5. Test a second plan\n\nOne recovery plan isn't enough. Simulate a failover today and verify your second plan works. Does your team know the steps?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "The Microsoft email outage wasn't regional—it was worldwide.",
+          "It took down Teams, SharePoint, and the admin portal too.",
+          "Microsoft calls it isolated, but multiple services failed together.",
+          "Check if your tenant has cross-service failover configured now.",
+          "One recovery plan isn't enough—test a second one today."
+        ]
+      },
+      "instagram": {
+        "caption": "Exchange Online didn't go down in one region — it went down worldwide.\n\nMicrosoft called it an isolated incident, but Teams, SharePoint and even the admin portal failed at the same time.\n\nThat points to shared dependencies: one failure can cascade across your whole collaboration stack.\n\nIf your tenant isn't set up for cross-service failover, a single outage takes everything with it. 🔁\n\nAnd one recovery plan isn't enough — test a second one today, before you need it. 🛠️\n\nDoes your team actually know the failover steps by heart? 🤔"
+      }
+    },
+    "instagram_caption": "Exchange Online didn't go down in one region — it went down worldwide.\n\nMicrosoft called it an isolated incident, but Teams, SharePoint and even the admin portal failed at the same time.\n\nThat points to shared dependencies: one failure can cascade across your whole collaboration stack.\n\nIf your tenant isn't set up for cross-service failover, a single outage takes everything with it. 🔁\n\nAnd one recovery plan isn't enough — test a second one today, before you need it. 🛠️\n\nDoes your team actually know the failover steps by heart? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Is your cloud stack one failure away?",
+        "description": "Microsoft's Exchange Online outage went global, showing even a single service failure can cripple your entire IT environment.",
+        "visual_hint": "Global network outage map with red alerts",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "world map network"
+      },
+      {
+        "hook": "Exchange Online went down worldwide",
+        "description": "The outage wasn't regional; Microsoft confirmed it hit customers globally, affecting email for organizations everywhere.",
+        "visual_hint": "Server racks with blinking red lights",
+        "layout_type": "right-focus",
+        "icon": "vibration",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Teams, SharePoint, and admin portal also down",
+        "description": "The outage spread beyond email, taking down Teams, SharePoint, and the admin portal, leaving IT teams blind during the crisis.",
+        "visual_hint": "Multiple service icons with error messages",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer screen error",
+        "image": "https://images.pexels.com/photos/9121365/pexels-photo-9121365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Is your tenant ready for cross-service failover?",
+        "description": "Check if your tenant is configured for cross-service failover now. Without it, one failure cascades across your entire collaboration stack.",
+        "visual_hint": "Network diagram with failover paths",
+        "layout_type": "human-hand",
+        "icon": "check",
+        "image_query": "network diagram",
+        "image": "https://images.pexels.com/photos/6642542/pexels-photo-6642542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: test your second recovery plan today",
+        "description": "One recovery plan isn't enough. Simulate a failover now and verify your second plan works. Does your team know the steps?",
+        "visual_hint": "Checklist with recovery steps and save icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/ms-outage-hero-2304360163.jpg?resize=1200,894",
+    "savedAt": "2026-11-13T18:58:50.461Z",
+    "sourceId": "de92575e0d508e5ce31bae8df552578d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "chatgpt-s-new-wallet-lets-ai-agents-shop-and-check",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+    "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "pubDate": "Fri, 13 Nov 2026 16:00:12 +0000",
+    "slides": [
+      "Can ChatGPT now spend your money without asking?",
+      "A new Wallet feature lets agents complete checkouts",
+      "But the agent pauses for approval on every purchase",
+      "You set spending limits and merchant allowlists first",
+      "Test it with one low-stakes purchase this week"
+    ],
+    "thread_text": [
+      "1. Can ChatGPT spend your money?\n\nA new Wallet feature lets AI agents complete checkouts. The agent pauses for approval on every purchase, so you stay in control.",
+      "2. Approval on every purchase\n\nThe agent won't finalize a transaction without your explicit sign-off. That means no surprise charges, but also a manual step each time.",
+      "3. Set limits first\n\nBefore any purchase, you define spending limits and merchant allowlists. The agent can only act within those boundaries.",
+      "4. Test with a small buy\n\nTry one low-stakes purchase this week. See how the approval flow works and whether the limits feel right for you.",
+      "5. Would you trust it?\n\nIf the agent asks for approval on every checkout, does it save time or add friction? Test it on a real low-stakes purchase and decide."
+    ],
+    "video_script": [
+      "Can ChatGPT now spend your money without asking?",
+      "A new Wallet feature lets agents complete checkouts.",
+      "But the agent pauses for approval on every purchase.",
+      "You set spending limits and merchant allowlists first.",
+      "Test it with one low-stakes purchase this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can ChatGPT spend your money?\n\nA new Wallet feature lets AI agents complete checkouts. The agent pauses for approval on every purchase, so you stay in control.",
+          "2. Approval on every purchase\n\nThe agent won't finalize a transaction without your explicit sign-off. That means no surprise charges, but also a manual step each time.",
+          "3. Set limits first\n\nBefore any purchase, you define spending limits and merchant allowlists. The agent can only act within those boundaries.",
+          "4. Test with a small buy\n\nTry one low-stakes purchase this week. See how the approval flow works and whether the limits feel right for you.",
+          "5. Would you trust it?\n\nIf the agent asks for approval on every checkout, does it save time or add friction? Test it on a real low-stakes purchase and decide."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can ChatGPT now spend your money without asking?",
+          "A new Wallet feature lets agents complete checkouts.",
+          "But the agent pauses for approval on every purchase.",
+          "You set spending limits and merchant allowlists first.",
+          "Test it with one low-stakes purchase this week."
+        ]
+      },
+      "instagram": {
+        "caption": "ChatGPT now has a Wallet that can complete checkouts for you — but the agent stops for approval on every single purchase before anything is charged.\n\nYou set spending limits and a merchant allowlist first, so the agent only acts inside boundaries you define.\n\nThat means no surprise charges, but also a manual sign-off each time it buys something. 🔒\n\nIf you publish or create content, this changes how you'd test AI tools for real tasks: one low-stakes purchase shows whether the approval flow saves time or just adds friction to your day.\n\nWould you hand checkout to an agent that pauses for your approval every time, or does that defeat the point? 💳🤖"
+      }
+    },
+    "instagram_caption": "ChatGPT now has a Wallet that can complete checkouts for you — but the agent stops for approval on every single purchase before anything is charged.\n\nYou set spending limits and a merchant allowlist first, so the agent only acts inside boundaries you define.\n\nThat means no surprise charges, but also a manual sign-off each time it buys something. 🔒\n\nIf you publish or create content, this changes how you'd test AI tools for real tasks: one low-stakes purchase shows whether the approval flow saves time or just adds friction to your day.\n\nWould you hand checkout to an agent that pauses for your approval every time, or does that defeat the point? 💳🤖",
+    "carousel_slides": [
+      {
+        "hook": "Can AI spend your money without asking?",
+        "description": "ChatGPT's new Wallet lets AI agents complete checkouts, but the agent pauses for your approval on every purchase.",
+        "visual_hint": "Split screen: AI agent and human hand on wallet",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "digital wallet"
+      },
+      {
+        "hook": "Agent completes checkout, but you approve.",
+        "description": "The agent won't finalize any transaction without your explicit sign-off, so there are no surprise charges.",
+        "visual_hint": "Checkout screen with approval button highlighted",
+        "layout_type": "right-focus",
+        "icon": "check",
+        "image_query": "online checkout screen",
+        "image": "https://images.pexels.com/photos/7620568/pexels-photo-7620568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Set spending limits before the agent acts.",
+        "description": "You define spending limits and merchant allowlists upfront. The agent can only act within those boundaries.",
+        "visual_hint": "Slider and list of approved merchants on screen",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "settings menu screen",
+        "image": "https://images.pexels.com/photos/25312303/pexels-photo-25312303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test with one low-stakes purchase.",
+        "description": "Try a small buy this week to see how the approval flow works and whether the limits feel right.",
+        "visual_hint": "Hand holding phone with small purchase confirmation",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "image_query": "person holding smartphone",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your first AI checkout.",
+        "description": "Bookmark this guide and try one low-stakes purchase to decide if the approval step saves time or adds friction.",
+        "visual_hint": "Bookmark icon and phone with wallet app",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone wallet app",
+        "image": "https://images.pexels.com/photos/6237886/pexels-photo-6237886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/chatgpt-wallet.jpg?resize=1200,729",
+    "savedAt": "2026-11-13T18:58:41.554Z",
+    "sourceId": "a89e405114485a54eebb7af48bbc58a9"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "export-banned-nvidia-chips-are-behind-china-s-most",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "pubDate": "Fri, 13 Nov 2026 18:40:30 +0000",
+    "slides": [
+      "Why are banned Nvidia chips powering China's top AI?",
+      "Export rules were meant to stop exactly this",
+      "The chips arrived before the ban, stockpiled quietly",
+      "Some firms may face audits on chip provenance",
+      "Check your supply chain before regulators do"
+    ],
+    "thread_text": [
+      "1. Banned chips, top AI\n\nNvidia's restricted GPUs are still running China's most advanced AI models. The export controls didn't stop the compute—they just made it invisible.",
+      "2. The loophole was timing\n\nMost of those chips entered China legally before the bans took effect. Firms stockpiled quietly, and by the time rules changed, the hardware was already racked.",
+      "3. Now regulators want receipts\n\nAudits are coming for companies that can't prove where their chips came from. Provenance documentation is becoming the new compliance battleground.",
+      "4. Supply chain blind spots\n\nMany firms don't know which generation of chips sits in their own racks. That ignorance is now a legal liability, not just an operational gap.",
+      "5. Audit yourself first\n\nPull your hardware inventory today and trace every GPU back to its import date. If you can't, regulators will do it for you."
+    ],
+    "video_script": [
+      "Banned Nvidia chips are still powering China's top AI models.",
+      "Most arrived legally before the export rules changed.",
+      "Firms stockpiled quietly, and nobody asked questions then.",
+      "Now regulators want audits on where every chip came from.",
+      "Check your own supply chain before they check it for you."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Banned chips, top AI\n\nNvidia's restricted GPUs are still running China's most advanced AI models. The export controls didn't stop the compute—they just made it invisible.",
+          "2. The loophole was timing\n\nMost of those chips entered China legally before the bans took effect. Firms stockpiled quietly, and by the time rules changed, the hardware was already racked.",
+          "3. Now regulators want receipts\n\nAudits are coming for companies that can't prove where their chips came from. Provenance documentation is becoming the new compliance battleground.",
+          "4. Supply chain blind spots\n\nMany firms don't know which generation of chips sits in their own racks. That ignorance is now a legal liability, not just an operational gap.",
+          "5. Audit yourself first\n\nPull your hardware inventory today and trace every GPU back to its import date. If you can't, regulators will do it for you."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Banned Nvidia chips are still powering China's top AI models.",
+          "Most arrived legally before the export rules changed.",
+          "Firms stockpiled quietly, and nobody asked questions then.",
+          "Now regulators want audits on where every chip came from.",
+          "Check your own supply chain before they check it for you."
+        ]
+      },
+      "instagram": {
+        "caption": "The most advanced AI models coming out of China right now are running on Nvidia chips that the US banned from export. 🧐\n\nMost of those GPUs entered the country legally before the rules took effect — firms quietly stockpiled them, and by the time the bans landed, the hardware was already racked and running.\n\nNow regulators are demanding proof of where those chips came from, and companies that can't trace their provenance are facing audits.\n\nIf you work with AI infrastructure, pull your hardware inventory and trace every GPU back to its import date. 📋\n\nCan you actually prove where your chips came from — or would an audit catch you off guard? 🤔"
+      }
+    },
+    "instagram_caption": "The most advanced AI models coming out of China right now are running on Nvidia chips that the US banned from export. 🧐\n\nMost of those GPUs entered the country legally before the rules took effect — firms quietly stockpiled them, and by the time the bans landed, the hardware was already racked and running.\n\nNow regulators are demanding proof of where those chips came from, and companies that can't trace their provenance are facing audits.\n\nIf you work with AI infrastructure, pull your hardware inventory and trace every GPU back to its import date. 📋\n\nCan you actually prove where your chips came from — or would an audit catch you off guard? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Banned chips power China's top AI",
+        "description": "Nvidia's restricted GPUs still run China's most advanced AI models, making export controls invisible and ineffective.",
+        "visual_hint": "Close-up of GPU chip with glowing circuits",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "GPU chip"
+      },
+      {
+        "hook": "Export rules failed to stop compute",
+        "description": "Most chips entered China legally before bans, so firms stockpiled quietly and hardware was already racked.",
+        "visual_hint": "Shipping containers at port with customs stamp",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "shipping containers",
+        "image": "https://images.pexels.com/photos/1624694/pexels-photo-1624694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Regulators now demand chip receipts",
+        "description": "Audits target companies that can't prove chip origin, making provenance documentation the new compliance battleground.",
+        "visual_hint": "Magnifying glass over document with chip diagram",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass document",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Supply chain blind spots become legal liability",
+        "description": "Many firms don't know which chip generation sits in their racks, turning operational gaps into legal risk.",
+        "visual_hint": "Hand holding outdated inventory list in server room",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "server room inventory",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your hardware before regulators do",
+        "description": "Pull your GPU inventory today and trace each chip to its import date. Save this post for your compliance checklist.",
+        "visual_hint": "Checklist with GPU icons and calendar",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301327883.jpg?resize=1200,795",
+    "savedAt": "2026-11-13T18:58:32.490Z",
+    "sourceId": "3bcb8ca81cbad6cd6d0d656f7520970c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "ai-chatbots-are-recommending-fake-retail-websites-",
     "prompt_version": "1.0.0",
     "status": "published",

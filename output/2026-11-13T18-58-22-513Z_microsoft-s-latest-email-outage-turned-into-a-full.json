@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "microsoft-s-latest-email-outage-turned-into-a-full",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
+  "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+  "pubDate": "Fri, 13 Nov 2026 13:15:20 +0000",
+  "slides": [
+    "Microsoft's email outage: isolated glitch or warning sign?",
+    "Exchange Online went down worldwide, not just a region",
+    "It also took down Teams, SharePoint, and the admin portal",
+    "Check if your tenant is set up for cross-service failover now",
+    "One recovery plan isn't enough. Test a second one today"
+  ],
+  "thread_text": [
+    "1. Global, not regional\n\nThe Exchange Online outage hit customers worldwide, not just one region. Microsoft confirmed the scope after initial reports suggested a localized issue.",
+    "2. Beyond email\n\nThe outage didn't stop at Exchange. Teams, SharePoint, and even the admin portal went down, leaving IT teams without management tools during the crisis.",
+    "3. Isolated glitch?\n\nMicrosoft called it an isolated incident, but the simultaneous failure of multiple services raises questions about shared dependencies and blast radius.",
+    "4. Cross-service failover\n\nCheck if your tenant is configured for cross-service failover. Without it, a single service failure can cascade across your entire collaboration stack.",
+    "5. Test a second plan\n\nOne recovery plan isn't enough. Simulate a failover today and verify your second plan works. Does your team know the steps?"
+  ],
+  "video_script": [
+    "The Microsoft email outage wasn't regional—it was worldwide.",
+    "It took down Teams, SharePoint, and the admin portal too.",
+    "Microsoft calls it isolated, but multiple services failed together.",
+    "Check if your tenant has cross-service failover configured now.",
+    "One recovery plan isn't enough—test a second one today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Global, not regional\n\nThe Exchange Online outage hit customers worldwide, not just one region. Microsoft confirmed the scope after initial reports suggested a localized issue.",
+        "2. Beyond email\n\nThe outage didn't stop at Exchange. Teams, SharePoint, and even the admin portal went down, leaving IT teams without management tools during the crisis.",
+        "3. Isolated glitch?\n\nMicrosoft called it an isolated incident, but the simultaneous failure of multiple services raises questions about shared dependencies and blast radius.",
+        "4. Cross-service failover\n\nCheck if your tenant is configured for cross-service failover. Without it, a single service failure can cascade across your entire collaboration stack.",
+        "5. Test a second plan\n\nOne recovery plan isn't enough. Simulate a failover today and verify your second plan works. Does your team know the steps?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "The Microsoft email outage wasn't regional—it was worldwide.",
+        "It took down Teams, SharePoint, and the admin portal too.",
+        "Microsoft calls it isolated, but multiple services failed together.",
+        "Check if your tenant has cross-service failover configured now.",
+        "One recovery plan isn't enough—test a second one today."
+      ]
+    },
+    "instagram": {
+      "caption": "Exchange Online didn't go down in one region — it went down worldwide.\n\nMicrosoft called it an isolated incident, but Teams, SharePoint and even the admin portal failed at the same time.\n\nThat points to shared dependencies: one failure can cascade across your whole collaboration stack.\n\nIf your tenant isn't set up for cross-service failover, a single outage takes everything with it. 🔁\n\nAnd one recovery plan isn't enough — test a second one today, before you need it. 🛠️\n\nDoes your team actually know the failover steps by heart? 🤔"
+    }
+  },
+  "instagram_caption": "Exchange Online didn't go down in one region — it went down worldwide.\n\nMicrosoft called it an isolated incident, but Teams, SharePoint and even the admin portal failed at the same time.\n\nThat points to shared dependencies: one failure can cascade across your whole collaboration stack.\n\nIf your tenant isn't set up for cross-service failover, a single outage takes everything with it. 🔁\n\nAnd one recovery plan isn't enough — test a second one today, before you need it. 🛠️\n\nDoes your team actually know the failover steps by heart? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Is your cloud stack one failure away?",
+      "description": "Microsoft's Exchange Online outage went global, showing even a single service failure can cripple your entire IT environment.",
+      "visual_hint": "Global network outage map with red alerts",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "world map network"
+    },
+    {
+      "hook": "Exchange Online went down worldwide",
+      "description": "The outage wasn't regional; Microsoft confirmed it hit customers globally, affecting email for organizations everywhere.",
+      "visual_hint": "Server racks with blinking red lights",
+      "layout_type": "right-focus",
+      "icon": "vibration",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Teams, SharePoint, and admin portal also down",
+      "description": "The outage spread beyond email, taking down Teams, SharePoint, and the admin portal, leaving IT teams blind during the crisis.",
+      "visual_hint": "Multiple service icons with error messages",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer screen error",
+      "image": "https://images.pexels.com/photos/9121365/pexels-photo-9121365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is your tenant ready for cross-service failover?",
+      "description": "Check if your tenant is configured for cross-service failover now. Without it, one failure cascades across your entire collaboration stack.",
+      "visual_hint": "Network diagram with failover paths",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "network diagram",
+      "image": "https://images.pexels.com/photos/6642542/pexels-photo-6642542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: test your second recovery plan today",
+      "description": "One recovery plan isn't enough. Simulate a failover now and verify your second plan works. Does your team know the steps?",
+      "visual_hint": "Checklist with recovery steps and save icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/ms-outage-hero-2304360163.jpg?resize=1200,894",
+  "savedAt": "2026-11-13T18:58:50.461Z",
+  "sourceId": "de92575e0d508e5ce31bae8df552578d"
+}

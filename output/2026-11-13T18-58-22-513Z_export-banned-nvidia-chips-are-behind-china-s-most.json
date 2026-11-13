@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "export-banned-nvidia-chips-are-behind-china-s-most",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+  "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+  "pubDate": "Fri, 13 Nov 2026 18:40:30 +0000",
+  "slides": [
+    "Why are banned Nvidia chips powering China's top AI?",
+    "Export rules were meant to stop exactly this",
+    "The chips arrived before the ban, stockpiled quietly",
+    "Some firms may face audits on chip provenance",
+    "Check your supply chain before regulators do"
+  ],
+  "thread_text": [
+    "1. Banned chips, top AI\n\nNvidia's restricted GPUs are still running China's most advanced AI models. The export controls didn't stop the compute—they just made it invisible.",
+    "2. The loophole was timing\n\nMost of those chips entered China legally before the bans took effect. Firms stockpiled quietly, and by the time rules changed, the hardware was already racked.",
+    "3. Now regulators want receipts\n\nAudits are coming for companies that can't prove where their chips came from. Provenance documentation is becoming the new compliance battleground.",
+    "4. Supply chain blind spots\n\nMany firms don't know which generation of chips sits in their own racks. That ignorance is now a legal liability, not just an operational gap.",
+    "5. Audit yourself first\n\nPull your hardware inventory today and trace every GPU back to its import date. If you can't, regulators will do it for you."
+  ],
+  "video_script": [
+    "Banned Nvidia chips are still powering China's top AI models.",
+    "Most arrived legally before the export rules changed.",
+    "Firms stockpiled quietly, and nobody asked questions then.",
+    "Now regulators want audits on where every chip came from.",
+    "Check your own supply chain before they check it for you."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Banned chips, top AI\n\nNvidia's restricted GPUs are still running China's most advanced AI models. The export controls didn't stop the compute—they just made it invisible.",
+        "2. The loophole was timing\n\nMost of those chips entered China legally before the bans took effect. Firms stockpiled quietly, and by the time rules changed, the hardware was already racked.",
+        "3. Now regulators want receipts\n\nAudits are coming for companies that can't prove where their chips came from. Provenance documentation is becoming the new compliance battleground.",
+        "4. Supply chain blind spots\n\nMany firms don't know which generation of chips sits in their own racks. That ignorance is now a legal liability, not just an operational gap.",
+        "5. Audit yourself first\n\nPull your hardware inventory today and trace every GPU back to its import date. If you can't, regulators will do it for you."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Banned Nvidia chips are still powering China's top AI models.",
+        "Most arrived legally before the export rules changed.",
+        "Firms stockpiled quietly, and nobody asked questions then.",
+        "Now regulators want audits on where every chip came from.",
+        "Check your own supply chain before they check it for you."
+      ]
+    },
+    "instagram": {
+      "caption": "The most advanced AI models coming out of China right now are running on Nvidia chips that the US banned from export. 🧐\n\nMost of those GPUs entered the country legally before the rules took effect — firms quietly stockpiled them, and by the time the bans landed, the hardware was already racked and running.\n\nNow regulators are demanding proof of where those chips came from, and companies that can't trace their provenance are facing audits.\n\nIf you work with AI infrastructure, pull your hardware inventory and trace every GPU back to its import date. 📋\n\nCan you actually prove where your chips came from — or would an audit catch you off guard? 🤔"
+    }
+  },
+  "instagram_caption": "The most advanced AI models coming out of China right now are running on Nvidia chips that the US banned from export. 🧐\n\nMost of those GPUs entered the country legally before the rules took effect — firms quietly stockpiled them, and by the time the bans landed, the hardware was already racked and running.\n\nNow regulators are demanding proof of where those chips came from, and companies that can't trace their provenance are facing audits.\n\nIf you work with AI infrastructure, pull your hardware inventory and trace every GPU back to its import date. 📋\n\nCan you actually prove where your chips came from — or would an audit catch you off guard? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Banned chips power China's top AI",
+      "description": "Nvidia's restricted GPUs still run China's most advanced AI models, making export controls invisible and ineffective.",
+      "visual_hint": "Close-up of GPU chip with glowing circuits",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "GPU chip"
+    },
+    {
+      "hook": "Export rules failed to stop compute",
+      "description": "Most chips entered China legally before bans, so firms stockpiled quietly and hardware was already racked.",
+      "visual_hint": "Shipping containers at port with customs stamp",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "shipping containers",
+      "image": "https://images.pexels.com/photos/1624694/pexels-photo-1624694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Regulators now demand chip receipts",
+      "description": "Audits target companies that can't prove chip origin, making provenance documentation the new compliance battleground.",
+      "visual_hint": "Magnifying glass over document with chip diagram",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass document",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Supply chain blind spots become legal liability",
+      "description": "Many firms don't know which chip generation sits in their racks, turning operational gaps into legal risk.",
+      "visual_hint": "Hand holding outdated inventory list in server room",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "server room inventory",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your hardware before regulators do",
+      "description": "Pull your GPU inventory today and trace each chip to its import date. Save this post for your compliance checklist.",
+      "visual_hint": "Checklist with GPU icons and calendar",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301327883.jpg?resize=1200,795",
+  "savedAt": "2026-11-13T18:58:32.490Z",
+  "sourceId": "3bcb8ca81cbad6cd6d0d656f7520970c"
+}

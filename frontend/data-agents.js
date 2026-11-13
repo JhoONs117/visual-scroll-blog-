@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "claude-s-duet-agent-is-a-little-neurotic-and-surpr",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "pubDate": "2026-11-13T14:00:00.000Z",
+      "slides": [
+        "Can Claude’s new Duet agent really work with you—or against you?",
+        "It’s designed to collaborate, not just answer questions.",
+        "But users report it sometimes second-guesses your simplest requests.",
+        "You can now trigger it directly within your workflow for real-time feedback.",
+        "Test Duet on one repetitive task—see if its quirks actually help."
+      ],
+      "thread_text": [
+        "1. Duet Works With You?\n\nClaude's new Duet agent is built to collaborate, not just answer. Early users say it sometimes second-guesses your simplest requests.",
+        "2. Collaboration, Not Answers\n\nDuet is designed to work alongside you in real time. But that means it can push back on your decisions, even when you're sure.",
+        "3. Second-Guessing Basics\n\nUsers report Duet questioning trivial requests, like renaming a file. Is it helpful caution or just friction?",
+        "4. Trigger In Your Flow\n\nYou can now launch Duet directly inside your workflow for instant feedback. No more switching apps or interrupting your focus.",
+        "5. Test One Repetitive Task\n\nTry Duet on a single repetitive chore this week. If its quirks save you time, keep it. If not, you'll know fast."
+      ],
+      "video_script": [
+        "Claude's new Duet agent claims to collaborate, not just answer.",
+        "But users say it second-guesses even the simplest requests.",
+        "It's built to work inside your workflow for real-time feedback.",
+        "The question is whether its pushback helps or just slows you down.",
+        "Test Duet on one repetitive task this week and judge for yourself."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Duet Works With You?\n\nClaude's new Duet agent is built to collaborate, not just answer. Early users say it sometimes second-guesses your simplest requests.",
+            "2. Collaboration, Not Answers\n\nDuet is designed to work alongside you in real time. But that means it can push back on your decisions, even when you're sure.",
+            "3. Second-Guessing Basics\n\nUsers report Duet questioning trivial requests, like renaming a file. Is it helpful caution or just friction?",
+            "4. Trigger In Your Flow\n\nYou can now launch Duet directly inside your workflow for instant feedback. No more switching apps or interrupting your focus.",
+            "5. Test One Repetitive Task\n\nTry Duet on a single repetitive chore this week. If its quirks save you time, keep it. If not, you'll know fast."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Claude's new Duet agent claims to collaborate, not just answer.",
+            "But users say it second-guesses even the simplest requests.",
+            "It's built to work inside your workflow for real-time feedback.",
+            "The question is whether its pushback helps or just slows you down.",
+            "Test Duet on one repetitive task this week and judge for yourself."
+          ]
+        },
+        "instagram": {
+          "caption": "Claude's new Duet agent sometimes second-guesses your simplest requests—even renaming a file. 😅\n\nIt's built to collaborate in real time, not just answer questions.\n\nThat means it can push back on your decisions, even when you're sure.\n\nYou can now launch it directly inside your workflow, no app-switching needed. ⚡\n\nFor anyone creating or publishing content, it's worth testing on one repetitive task this week. 🤔\n\nIf its quirks save you time, keep it. If not, you'll know fast.\n\nWhat's the one task you'd let Duet question you on? 👇"
+        }
+      },
+      "instagram_caption": "Claude's new Duet agent sometimes second-guesses your simplest requests—even renaming a file. 😅\n\nIt's built to collaborate in real time, not just answer questions.\n\nThat means it can push back on your decisions, even when you're sure.\n\nYou can now launch it directly inside your workflow, no app-switching needed. ⚡\n\nFor anyone creating or publishing content, it's worth testing on one repetitive task this week. 🤔\n\nIf its quirks save you time, keep it. If not, you'll know fast.\n\nWhat's the one task you'd let Duet question you on? 👇",
+      "carousel_slides": [
+        {
+          "hook": "Does Claude's Duet work against you?",
+          "description": "Users report Duet second-guesses simple requests, turning collaboration into friction. Test if its quirks help or hinder.",
+          "visual_hint": "Split screen: robot and human facing off",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robot human face off"
+        },
+        {
+          "hook": "Designed to collaborate, not just answer",
+          "description": "Duet works alongside you in real time, but may push back on decisions even when you're sure.",
+          "visual_hint": "Two hands typing on one keyboard",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "hands typing keyboard",
+          "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Second-guessing your simplest requests?",
+          "description": "Duet questions trivial tasks like renaming a file—helpful caution or unnecessary friction? Users are divided.",
+          "visual_hint": "Magnifying glass over a file icon",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass file",
+          "image": "https://images.pexels.com/photos/7319084/pexels-photo-7319084.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Trigger Duet right in your workflow",
+          "description": "Launch Duet directly inside your workflow for instant feedback—no app switching, no interrupted focus.",
+          "visual_hint": "Workflow diagram with Duet icon",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "workflow diagram screen",
+          "image": "https://images.pexels.com/photos/9034716/pexels-photo-9034716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test Duet on one repetitive task",
+          "description": "Try Duet on a single repetitive chore this week. If its quirks save time, keep it; if not, you'll know fast.",
+          "visual_hint": "Person testing robot on assembly line",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "factory assembly line",
+          "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
+      "savedAt": "2026-11-13T18:58:58.756Z",
+      "sourceId": "2c7a6e6b19ce61f9d30efb428e588292"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "microsoft-s-latest-email-outage-turned-into-a-full",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
+      "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+      "pubDate": "Fri, 13 Nov 2026 13:15:20 +0000",
+      "slides": [
+        "Microsoft's email outage: isolated glitch or warning sign?",
+        "Exchange Online went down worldwide, not just a region",
+        "It also took down Teams, SharePoint, and the admin portal",
+        "Check if your tenant is set up for cross-service failover now",
+        "One recovery plan isn't enough. Test a second one today"
+      ],
+      "thread_text": [
+        "1. Global, not regional\n\nThe Exchange Online outage hit customers worldwide, not just one region. Microsoft confirmed the scope after initial reports suggested a localized issue.",
+        "2. Beyond email\n\nThe outage didn't stop at Exchange. Teams, SharePoint, and even the admin portal went down, leaving IT teams without management tools during the crisis.",
+        "3. Isolated glitch?\n\nMicrosoft called it an isolated incident, but the simultaneous failure of multiple services raises questions about shared dependencies and blast radius.",
+        "4. Cross-service failover\n\nCheck if your tenant is configured for cross-service failover. Without it, a single service failure can cascade across your entire collaboration stack.",
+        "5. Test a second plan\n\nOne recovery plan isn't enough. Simulate a failover today and verify your second plan works. Does your team know the steps?"
+      ],
+      "video_script": [
+        "The Microsoft email outage wasn't regional—it was worldwide.",
+        "It took down Teams, SharePoint, and the admin portal too.",
+        "Microsoft calls it isolated, but multiple services failed together.",
+        "Check if your tenant has cross-service failover configured now.",
+        "One recovery plan isn't enough—test a second one today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Global, not regional\n\nThe Exchange Online outage hit customers worldwide, not just one region. Microsoft confirmed the scope after initial reports suggested a localized issue.",
+            "2. Beyond email\n\nThe outage didn't stop at Exchange. Teams, SharePoint, and even the admin portal went down, leaving IT teams without management tools during the crisis.",
+            "3. Isolated glitch?\n\nMicrosoft called it an isolated incident, but the simultaneous failure of multiple services raises questions about shared dependencies and blast radius.",
+            "4. Cross-service failover\n\nCheck if your tenant is configured for cross-service failover. Without it, a single service failure can cascade across your entire collaboration stack.",
+            "5. Test a second plan\n\nOne recovery plan isn't enough. Simulate a failover today and verify your second plan works. Does your team know the steps?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "The Microsoft email outage wasn't regional—it was worldwide.",
+            "It took down Teams, SharePoint, and the admin portal too.",
+            "Microsoft calls it isolated, but multiple services failed together.",
+            "Check if your tenant has cross-service failover configured now.",
+            "One recovery plan isn't enough—test a second one today."
+          ]
+        },
+        "instagram": {
+          "caption": "Exchange Online didn't go down in one region — it went down worldwide.\n\nMicrosoft called it an isolated incident, but Teams, SharePoint and even the admin portal failed at the same time.\n\nThat points to shared dependencies: one failure can cascade across your whole collaboration stack.\n\nIf your tenant isn't set up for cross-service failover, a single outage takes everything with it. 🔁\n\nAnd one recovery plan isn't enough — test a second one today, before you need it. 🛠️\n\nDoes your team actually know the failover steps by heart? 🤔"
+        }
+      },
+      "instagram_caption": "Exchange Online didn't go down in one region — it went down worldwide.\n\nMicrosoft called it an isolated incident, but Teams, SharePoint and even the admin portal failed at the same time.\n\nThat points to shared dependencies: one failure can cascade across your whole collaboration stack.\n\nIf your tenant isn't set up for cross-service failover, a single outage takes everything with it. 🔁\n\nAnd one recovery plan isn't enough — test a second one today, before you need it. 🛠️\n\nDoes your team actually know the failover steps by heart? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Is your cloud stack one failure away?",
+          "description": "Microsoft's Exchange Online outage went global, showing even a single service failure can cripple your entire IT environment.",
+          "visual_hint": "Global network outage map with red alerts",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "world map network"
+        },
+        {
+          "hook": "Exchange Online went down worldwide",
+          "description": "The outage wasn't regional; Microsoft confirmed it hit customers globally, affecting email for organizations everywhere.",
+          "visual_hint": "Server racks with blinking red lights",
+          "layout_type": "right-focus",
+          "icon": "vibration",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Teams, SharePoint, and admin portal also down",
+          "description": "The outage spread beyond email, taking down Teams, SharePoint, and the admin portal, leaving IT teams blind during the crisis.",
+          "visual_hint": "Multiple service icons with error messages",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer screen error",
+          "image": "https://images.pexels.com/photos/9121365/pexels-photo-9121365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Is your tenant ready for cross-service failover?",
+          "description": "Check if your tenant is configured for cross-service failover now. Without it, one failure cascades across your entire collaboration stack.",
+          "visual_hint": "Network diagram with failover paths",
+          "layout_type": "human-hand",
+          "icon": "check",
+          "image_query": "network diagram",
+          "image": "https://images.pexels.com/photos/6642542/pexels-photo-6642542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: test your second recovery plan today",
+          "description": "One recovery plan isn't enough. Simulate a failover now and verify your second plan works. Does your team know the steps?",
+          "visual_hint": "Checklist with recovery steps and save icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/ms-outage-hero-2304360163.jpg?resize=1200,894",
+      "savedAt": "2026-11-13T18:58:50.461Z",
+      "sourceId": "de92575e0d508e5ce31bae8df552578d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "chatgpt-s-new-wallet-lets-ai-agents-shop-and-check",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "pubDate": "Fri, 13 Nov 2026 16:00:12 +0000",
+      "slides": [
+        "Can ChatGPT now spend your money without asking?",
+        "A new Wallet feature lets agents complete checkouts",
+        "But the agent pauses for approval on every purchase",
+        "You set spending limits and merchant allowlists first",
+        "Test it with one low-stakes purchase this week"
+      ],
+      "thread_text": [
+        "1. Can ChatGPT spend your money?\n\nA new Wallet feature lets AI agents complete checkouts. The agent pauses for approval on every purchase, so you stay in control.",
+        "2. Approval on every purchase\n\nThe agent won't finalize a transaction without your explicit sign-off. That means no surprise charges, but also a manual step each time.",
+        "3. Set limits first\n\nBefore any purchase, you define spending limits and merchant allowlists. The agent can only act within those boundaries.",
+        "4. Test with a small buy\n\nTry one low-stakes purchase this week. See how the approval flow works and whether the limits feel right for you.",
+        "5. Would you trust it?\n\nIf the agent asks for approval on every checkout, does it save time or add friction? Test it on a real low-stakes purchase and decide."
+      ],
+      "video_script": [
+        "Can ChatGPT now spend your money without asking?",
+        "A new Wallet feature lets agents complete checkouts.",
+        "But the agent pauses for approval on every purchase.",
+        "You set spending limits and merchant allowlists first.",
+        "Test it with one low-stakes purchase this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can ChatGPT spend your money?\n\nA new Wallet feature lets AI agents complete checkouts. The agent pauses for approval on every purchase, so you stay in control.",
+            "2. Approval on every purchase\n\nThe agent won't finalize a transaction without your explicit sign-off. That means no surprise charges, but also a manual step each time.",
+            "3. Set limits first\n\nBefore any purchase, you define spending limits and merchant allowlists. The agent can only act within those boundaries.",
+            "4. Test with a small buy\n\nTry one low-stakes purchase this week. See how the approval flow works and whether the limits feel right for you.",
+            "5. Would you trust it?\n\nIf the agent asks for approval on every checkout, does it save time or add friction? Test it on a real low-stakes purchase and decide."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Can ChatGPT now spend your money without asking?",
+            "A new Wallet feature lets agents complete checkouts.",
+            "But the agent pauses for approval on every purchase.",
+            "You set spending limits and merchant allowlists first.",
+            "Test it with one low-stakes purchase this week."
+          ]
+        },
+        "instagram": {
+          "caption": "ChatGPT now has a Wallet that can complete checkouts for you — but the agent stops for approval on every single purchase before anything is charged.\n\nYou set spending limits and a merchant allowlist first, so the agent only acts inside boundaries you define.\n\nThat means no surprise charges, but also a manual sign-off each time it buys something. 🔒\n\nIf you publish or create content, this changes how you'd test AI tools for real tasks: one low-stakes purchase shows whether the approval flow saves time or just adds friction to your day.\n\nWould you hand checkout to an agent that pauses for your approval every time, or does that defeat the point? 💳🤖"
+        }
+      },
+      "instagram_caption": "ChatGPT now has a Wallet that can complete checkouts for you — but the agent stops for approval on every single purchase before anything is charged.\n\nYou set spending limits and a merchant allowlist first, so the agent only acts inside boundaries you define.\n\nThat means no surprise charges, but also a manual sign-off each time it buys something. 🔒\n\nIf you publish or create content, this changes how you'd test AI tools for real tasks: one low-stakes purchase shows whether the approval flow saves time or just adds friction to your day.\n\nWould you hand checkout to an agent that pauses for your approval every time, or does that defeat the point? 💳🤖",
+      "carousel_slides": [
+        {
+          "hook": "Can AI spend your money without asking?",
+          "description": "ChatGPT's new Wallet lets AI agents complete checkouts, but the agent pauses for your approval on every purchase.",
+          "visual_hint": "Split screen: AI agent and human hand on wallet",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "digital wallet"
+        },
+        {
+          "hook": "Agent completes checkout, but you approve.",
+          "description": "The agent won't finalize any transaction without your explicit sign-off, so there are no surprise charges.",
+          "visual_hint": "Checkout screen with approval button highlighted",
+          "layout_type": "right-focus",
+          "icon": "check",
+          "image_query": "online checkout screen",
+          "image": "https://images.pexels.com/photos/7620568/pexels-photo-7620568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Set spending limits before the agent acts.",
+          "description": "You define spending limits and merchant allowlists upfront. The agent can only act within those boundaries.",
+          "visual_hint": "Slider and list of approved merchants on screen",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "settings menu screen",
+          "image": "https://images.pexels.com/photos/25312303/pexels-photo-25312303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test with one low-stakes purchase.",
+          "description": "Try a small buy this week to see how the approval flow works and whether the limits feel right.",
+          "visual_hint": "Hand holding phone with small purchase confirmation",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "person holding smartphone",
+          "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your first AI checkout.",
+          "description": "Bookmark this guide and try one low-stakes purchase to decide if the approval step saves time or adds friction.",
+          "visual_hint": "Bookmark icon and phone with wallet app",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone wallet app",
+          "image": "https://images.pexels.com/photos/6237886/pexels-photo-6237886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/chatgpt-wallet.jpg?resize=1200,729",
+      "savedAt": "2026-11-13T18:58:41.554Z",
+      "sourceId": "a89e405114485a54eebb7af48bbc58a9"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "export-banned-nvidia-chips-are-behind-china-s-most",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "pubDate": "Fri, 13 Nov 2026 18:40:30 +0000",
+      "slides": [
+        "Why are banned Nvidia chips powering China's top AI?",
+        "Export rules were meant to stop exactly this",
+        "The chips arrived before the ban, stockpiled quietly",
+        "Some firms may face audits on chip provenance",
+        "Check your supply chain before regulators do"
+      ],
+      "thread_text": [
+        "1. Banned chips, top AI\n\nNvidia's restricted GPUs are still running China's most advanced AI models. The export controls didn't stop the compute—they just made it invisible.",
+        "2. The loophole was timing\n\nMost of those chips entered China legally before the bans took effect. Firms stockpiled quietly, and by the time rules changed, the hardware was already racked.",
+        "3. Now regulators want receipts\n\nAudits are coming for companies that can't prove where their chips came from. Provenance documentation is becoming the new compliance battleground.",
+        "4. Supply chain blind spots\n\nMany firms don't know which generation of chips sits in their own racks. That ignorance is now a legal liability, not just an operational gap.",
+        "5. Audit yourself first\n\nPull your hardware inventory today and trace every GPU back to its import date. If you can't, regulators will do it for you."
+      ],
+      "video_script": [
+        "Banned Nvidia chips are still powering China's top AI models.",
+        "Most arrived legally before the export rules changed.",
+        "Firms stockpiled quietly, and nobody asked questions then.",
+        "Now regulators want audits on where every chip came from.",
+        "Check your own supply chain before they check it for you."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Banned chips, top AI\n\nNvidia's restricted GPUs are still running China's most advanced AI models. The export controls didn't stop the compute—they just made it invisible.",
+            "2. The loophole was timing\n\nMost of those chips entered China legally before the bans took effect. Firms stockpiled quietly, and by the time rules changed, the hardware was already racked.",
+            "3. Now regulators want receipts\n\nAudits are coming for companies that can't prove where their chips came from. Provenance documentation is becoming the new compliance battleground.",
+            "4. Supply chain blind spots\n\nMany firms don't know which generation of chips sits in their own racks. That ignorance is now a legal liability, not just an operational gap.",
+            "5. Audit yourself first\n\nPull your hardware inventory today and trace every GPU back to its import date. If you can't, regulators will do it for you."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Banned Nvidia chips are still powering China's top AI models.",
+            "Most arrived legally before the export rules changed.",
+            "Firms stockpiled quietly, and nobody asked questions then.",
+            "Now regulators want audits on where every chip came from.",
+            "Check your own supply chain before they check it for you."
+          ]
+        },
+        "instagram": {
+          "caption": "The most advanced AI models coming out of China right now are running on Nvidia chips that the US banned from export. 🧐\n\nMost of those GPUs entered the country legally before the rules took effect — firms quietly stockpiled them, and by the time the bans landed, the hardware was already racked and running.\n\nNow regulators are demanding proof of where those chips came from, and companies that can't trace their provenance are facing audits.\n\nIf you work with AI infrastructure, pull your hardware inventory and trace every GPU back to its import date. 📋\n\nCan you actually prove where your chips came from — or would an audit catch you off guard? 🤔"
+        }
+      },
+      "instagram_caption": "The most advanced AI models coming out of China right now are running on Nvidia chips that the US banned from export. 🧐\n\nMost of those GPUs entered the country legally before the rules took effect — firms quietly stockpiled them, and by the time the bans landed, the hardware was already racked and running.\n\nNow regulators are demanding proof of where those chips came from, and companies that can't trace their provenance are facing audits.\n\nIf you work with AI infrastructure, pull your hardware inventory and trace every GPU back to its import date. 📋\n\nCan you actually prove where your chips came from — or would an audit catch you off guard? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Banned chips power China's top AI",
+          "description": "Nvidia's restricted GPUs still run China's most advanced AI models, making export controls invisible and ineffective.",
+          "visual_hint": "Close-up of GPU chip with glowing circuits",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "GPU chip"
+        },
+        {
+          "hook": "Export rules failed to stop compute",
+          "description": "Most chips entered China legally before bans, so firms stockpiled quietly and hardware was already racked.",
+          "visual_hint": "Shipping containers at port with customs stamp",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "shipping containers",
+          "image": "https://images.pexels.com/photos/1624694/pexels-photo-1624694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Regulators now demand chip receipts",
+          "description": "Audits target companies that can't prove chip origin, making provenance documentation the new compliance battleground.",
+          "visual_hint": "Magnifying glass over document with chip diagram",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass document",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Supply chain blind spots become legal liability",
+          "description": "Many firms don't know which chip generation sits in their racks, turning operational gaps into legal risk.",
+          "visual_hint": "Hand holding outdated inventory list in server room",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "server room inventory",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your hardware before regulators do",
+          "description": "Pull your GPU inventory today and trace each chip to its import date. Save this post for your compliance checklist.",
+          "visual_hint": "Checklist with GPU icons and calendar",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301327883.jpg?resize=1200,795",
+      "savedAt": "2026-11-13T18:58:32.490Z",
+      "sourceId": "3bcb8ca81cbad6cd6d0d656f7520970c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "ai-chatbots-are-recommending-fake-retail-websites-",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -216020,6 +216436,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "torta-5-minuti-con-gocce-di-cioccolato",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Torta 5 minuti con gocce di cioccolato",
+      "link": "https://ricette.giallozafferano.it/Torta-5-minuti-con-gocce-di-cioccolato.html",
+      "pubDate": "Fri, 13 Nov 2026 14:42:00 +0100",
+      "content": "Torta 5 minuti con gocce di cioccolato: ricetta soffice e veloce Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X Dolci Torte Torta 5 minuti con gocce di cioccolato /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 5 min Cottura: 40 min Dosi per: 6 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti PRESENTAZIONE La torta 5 minuti con gocce di cioccolato è il dolce perfetto quando avete voglia di cucinare qualcosa di buono per la colazione o la merenda, ma avete poco tempo a disposizione. Morbida, profumata e ricca di gocce di cioccolato, si prepara davvero in 5 minuti, senza bisogno di procedimenti complicati: vi basterà mescolare gli ingredienti in una ciotola, versare l'impasto nello stampo e il resto del lavoro lo farà il forno! Il segreto della sua consistenza morbida è l'aggiunta della fecola di patate, mentre il latte di mandorla e l'estratto di vaniglia regalano un profumo delicato che si abbina perfettamente al cioccolato. Il risultato è un dolce soffice e goloso, ideale da gustare al mattino con una tazza di latte o nel pomeriggio per una pausa meritata. Apprezzata da grandi e piccoli, la torta 5 minuti con gocce di cioccolato è un'idea semplice e genuina che vorrete realizzare ogni volta che avrete 5 minuti di tempo libero! Scoprite altre golose varianti di torta 5 minuti : Torta 5 minuti alla ricotta Torta 5 minuti al limone Torta 5 minuti allo yogurt greco Torta 5 minuti alla marmellata Torta 5 minuti mele noci e uvetta Torta 5 minuti allo yogurt e cacao 5-minute chocolate chip cake Scopri anche Torta 5 minuti allo yogurt e cacao Torta 5 minuti alla ricotta Muffin con gocce di cioccolato Sfoglia tutte INGREDIENTI Per uno stampo da 20 cm Farina 00 200 g Fecola di patate 50 g Zucchero 150 g Latte di mandorle 150 g Burro 125 g Gocce di cioccolato 100 g Uova 3 Lievito in polvere per dolci 10 g Estratto di vaniglia 3 g AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta 5 minuti con gocce di cioccolato Per preparare la torta 5 minuti con gocce di cioccolato, per prima cosa fate sciogliere il burro in un pentolino e lasciatelo intiepidire. cominciate versando in una ciotola lo zucchero e alle uova 1 . Aromatizzate con l'estratto di vaniglia 2 e mescolate bene con una frusta 3 . Aggiungete il burro fuso intiepidito 4 , poi setacciate farina 5 , il lievito e la fecola di patate 6 . Incorporate le polveri mescolando energicamente con la frusta 7 . Versate anche il latte 8 e amalgamate ancora fino a che non ci saranno grumi 9 . Quando il composto sarà omogeneo, unite le gocce di cioccolato 10 e incorporatele con l'aiuto di una spatola 11 . Trasferite l'impasto in uno stampo a cerniera da 20 cm di diametro, imburrato e infarinato 12 . Cuocete in forno statico a 170° per 40 minuti 13 . Una volta che la superficie sarà dorata, sfornate la torta e lasciatela intiepidire 14 ; consigliamo sempre di verificare prima la cottura con uno stecchino. La vostra torta 5 minuti con gocce di cioccolato è pronta per essere gustata 15 ! Conservazione La torta 5 minuti con gocce di cioccolato si può conservare a temperatura ambiente per 2 giorni. Potete congelarla. Consiglio Potete arricchire l'impasto della torta 5 minuti con gocce di cioccolato con scorza d'arancia e mandorle in scaglie. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchero Fecola di patate Burro Uovo Scopri tutto sugli ingredienti Presente in: Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Torta 5 minuti allo yogurt e cacao 4 4.3 Torta 5 minuti alla ricotta 55 4.4 Muffin con gocce di cioccolato 2103 4.2 Torta con gocce di cioccolato 7 4.6 Torta allo yogurt con gocce di cioccolato 33 4.0 Plumcake con gocce di cioccolato 69 4.6 Crostata con mascarpone e gocce di cioccolato 822 4.4 Torta golosa al cacao 100 4.6 ULTIME RICETTE Zucca e patate in padella Torta 5 minuti con gocce di cioccolato 5.0 Cotolette di funghi con purè di cavolfiore 5.0 SCOPRI Torta con gocce di cioccolato Torta ricotta e gocce di cioccolato Torta margherita con gocce di cioccolato Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Dolci Torta 5 minuti allo yogurt e cacao 4 4.3 La torta 5 minuti allo yogurt e cacao è un dolce soffice e goloso, facile e velocissimo da preparare e perfetto da gustare a colazione o a merenda. Vai alla ricetta Dolci Torta 5 minuti alla ricotta 55 4.4 La torta 5 minuti alla ricotta è una versione raffinata e golosa dell'omonimo dolce casalingo dalla rapida preparazione! Vai alla ricetta Dolci Muffin con gocce di cioccolato 2103 4.2 I muffin con gocce di cioccolato sono dei soffici dolcetti perfetti per fare colazione o merenda, con un gusto delicato e ricco di goloso cioccolato! Vai alla ricetta Dolci Torta con gocce di cioccolato 7 4.6 La torta con gocce di cioccolato è un dolce semplice da preparare per la colazione. La ricotta nell'impasto la rende particolarmente soffice e golosa. Vai alla ricetta Dolci Torta allo yogurt con gocce di cioccolato 33 4.0 La torta allo yogurt con gocce di cioccolato è un dolce facile da preparare a casa e perfetto da gustare a colazione. Una torta morbida che amerete! Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. e all’utilizzo di pixel di tracciamento nelle suddette comunicazioni per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne Si No Prosegui",
+      "slides": [
+        "Torta soffice e golosa con gocce di cioccolato",
+        "Farina, fecola, zucchero, uova e gocce di cioccolato",
+        "Mescola tutto in una ciotola con la frusta",
+        "Cuoci in forno statico a 170° per 40 minuti",
+        "Il segreto della morbidezza è la fecola di patate"
+      ],
+      "instagram_caption": "Torta 5 minuti con gocce di cioccolato: soffice, golosa e pronta in un lampo 🍫\nBasta una ciotola e una frusta: farina, fecola, zucchero, uova e una pioggia di gocce di cioccolato, poi tutto in forno a 170° per 40 minuti.\nIl segreto della morbidezza? La fecola di patate, che la rende incredibilmente soffice dentro 🤤\nPerfetta per la colazione o la merenda di tutta la famiglia.\nSalva la ricetta e provala questo weekend 🌿",
+      "formats": {
+        "instagram": {
+          "caption": "Torta 5 minuti con gocce di cioccolato: soffice, golosa e pronta in un lampo 🍫\nBasta una ciotola e una frusta: farina, fecola, zucchero, uova e una pioggia di gocce di cioccolato, poi tutto in forno a 170° per 40 minuti.\nIl segreto della morbidezza? La fecola di patate, che la rende incredibilmente soffice dentro 🤤\nPerfetta per la colazione o la merenda di tutta la famiglia.\nSalva la ricetta e provala questo weekend 🌿"
+        },
+        "tiktok": {
+          "script": [
+            "Oggi torta soffice con gocce di cioccolato!",
+            "Metto farina, fecola, zucchero, uova e gocce.",
+            "Mescolo tutto in ciotola con la frusta.",
+            "Inforno a 170 gradi per 40 minuti.",
+            "Il segreto? La fecola per la morbidezza!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "5 minuti di preparazione, 40 di forno e la tua cucina profuma di cioccolato. La torta con gocce che sparisce in un pomeriggio: soffice, golosa, zero sbatti.",
+            "Ti servono solo: farina, fecola, zucchero, uova e gocce di cioccolato. Niente burro, niente latte. Tutto in una ciotola, frusta e via.",
+            "Mescola tutto con la frusta fino a ottenere una crema liscia. Le gocce di cioccolato? Aggiungile alla fine, così restano intere e si sciolgono in cottura.",
+            "Inforna in forno statico a 170° per 40 minuti. La casa inizia a profumare dopo 15. Resisti, non aprire il forno: la torta cresce e non vuole sbalzi.",
+            "Il segreto della morbidezza? La fecola di patate. Rende l'impasto leggero e umido, dura giorni. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Oggi torta soffice con gocce di cioccolato!",
+        "Metto farina, fecola, zucchero, uova e gocce.",
+        "Mescolo tutto in ciotola con la frusta.",
+        "Inforno a 170 gradi per 40 minuti.",
+        "Il segreto? La fecola per la morbidezza!"
+      ],
+      "thread_text": [
+        "5 minuti di preparazione, 40 di forno e la tua cucina profuma di cioccolato. La torta con gocce che sparisce in un pomeriggio: soffice, golosa, zero sbatti.",
+        "Ti servono solo: farina, fecola, zucchero, uova e gocce di cioccolato. Niente burro, niente latte. Tutto in una ciotola, frusta e via.",
+        "Mescola tutto con la frusta fino a ottenere una crema liscia. Le gocce di cioccolato? Aggiungile alla fine, così restano intere e si sciolgono in cottura.",
+        "Inforna in forno statico a 170° per 40 minuti. La casa inizia a profumare dopo 15. Resisti, non aprire il forno: la torta cresce e non vuole sbalzi.",
+        "Il segreto della morbidezza? La fecola di patate. Rende l'impasto leggero e umido, dura giorni. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Torta 5 minuti con gocce di cioccolato",
+          "description": "Soffice, golosa e pronta in 5 minuti: la torta che conquista tutti al primo morso.",
+          "visual_hint": "torta soffice gocce cioccolato",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "chocolate chip cake"
+        },
+        {
+          "hook": "Solo 5 ingredienti per la magia",
+          "description": "Farina, fecola, zucchero, uova e gocce di cioccolato: basta questo per una torta perfetta.",
+          "visual_hint": "ingredienti torta su tavolo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "baking ingredients",
+          "image": "https://images.pexels.com/photos/6088870/pexels-photo-6088870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Mescola tutto con la frusta",
+          "description": "Un'unica ciotola, pochi secondi di frusta e l'impasto è pronto: zero fatica, massimo gusto.",
+          "visual_hint": "impasto mescolato con frusta",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "cake batter whisk",
+          "image": "https://images.pexels.com/photos/33775628/pexels-photo-33775628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "In forno a 170° per 40 minuti",
+          "description": "Cottura statica e pazienza: il profumo invaderà la casa e la torta sarà perfetta.",
+          "visual_hint": "torta in forno dorata",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "cake baking oven",
+          "image": "https://images.pexels.com/photos/15780778/pexels-photo-15780778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il segreto? La fecola di patate",
+          "description": "La fecola rende la torta morbida a lungo: servila tiepida e lascia tutti a bocca aperta.",
+          "visual_hint": "fetta torta soffice",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "chocolate chip cake slice",
+          "image": "https://images.pexels.com/photos/20009393/pexels-photo-20009393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "dessert",
+      "signature_ingredients": [
+        "farina",
+        "fecola di patate",
+        "gocce di cioccolato"
+      ],
+      "image": "https://www.giallozafferano.it/images/368-36847/Torta-5-minuti-con-gocce-di-cioccolato_1200x800_wm.jpg",
+      "savedAt": "2026-11-13T19:04:12.457Z",
+      "sourceId": "7845ef6b618bb11ce3aa53bc96388060"
+    },
     {
       "schema_version": 2,
       "agent": "food",
