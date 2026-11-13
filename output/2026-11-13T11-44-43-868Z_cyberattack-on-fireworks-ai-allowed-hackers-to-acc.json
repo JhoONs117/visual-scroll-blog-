@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "cyberattack-on-fireworks-ai-allowed-hackers-to-acc",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+  "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+  "pubDate": "Thu, 12 Nov 2026 15:02:28 +0000",
+  "slides": [
+    "Fireworks AI breach: whose chats leaked?",
+    "Notion customer transcripts sat on the vendor's servers",
+    "Model providers keep logs most users never see",
+    "Ask your AI vendor: what's retained, and where?",
+    "Audit every AI subprocessor before the next incident"
+  ],
+  "thread_text": [
+    "1. Fireworks AI leak\n\nChats from Fireworks AI users ended up on a third-party vendor's servers. Notion transcripts sat there too, unencrypted. Most users never knew.",
+    "2. Vendor logs you never see\n\nModel providers keep request logs by default. Some retain prompts for weeks. Fireworks wasn't the first, and it won't be the last.",
+    "3. The question to ask\n\nAsk your AI vendor: what data is retained, where is it stored, and who else can access it? If they can't answer in writing, that's your answer.",
+    "4. Subprocessor audit gap\n\nEvery AI tool you use has subprocessors. Most companies never audit them. The Fireworks breach started with a third party, not the model itself.",
+    "5. Check your vendor list today\n\nPull your AI vendor list and flag anyone who can't name their subprocessors. Do it before the next breach, not after."
+  ],
+  "video_script": [
+    "Your AI chats might be sitting on a vendor's server right now.",
+    "Model providers keep logs you never see. Fireworks AI proved it.",
+    "Ask your vendor: what's retained, where, and who can access it?",
+    "Audit every subprocessor. The breach usually starts with a third party.",
+    "Check your vendor list today. Don't wait for the next incident."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Fireworks AI leak\n\nChats from Fireworks AI users ended up on a third-party vendor's servers. Notion transcripts sat there too, unencrypted. Most users never knew.",
+        "2. Vendor logs you never see\n\nModel providers keep request logs by default. Some retain prompts for weeks. Fireworks wasn't the first, and it won't be the last.",
+        "3. The question to ask\n\nAsk your AI vendor: what data is retained, where is it stored, and who else can access it? If they can't answer in writing, that's your answer.",
+        "4. Subprocessor audit gap\n\nEvery AI tool you use has subprocessors. Most companies never audit them. The Fireworks breach started with a third party, not the model itself.",
+        "5. Check your vendor list today\n\nPull your AI vendor list and flag anyone who can't name their subprocessors. Do it before the next breach, not after."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your AI chats might be sitting on a vendor's server right now.",
+        "Model providers keep logs you never see. Fireworks AI proved it.",
+        "Ask your vendor: what's retained, where, and who can access it?",
+        "Audit every subprocessor. The breach usually starts with a third party.",
+        "Check your vendor list today. Don't wait for the next incident."
+      ]
+    },
+    "instagram": {
+      "caption": "Your chat transcripts with Notion sat unencrypted on a third-party vendor's servers. 🔓\n\nFireworks AI was breached, and Notion customer conversations were exposed on infrastructure most users never knew existed.\n\nModel providers keep request logs by default — some retain prompts for weeks.\n\nIf you use AI tools daily, your words are stored somewhere. 🗂️\n\nAsk your AI vendor in writing: what's retained, where, and who else can reach it. ⚠️\n\nIf they can't name their subprocessors, that silence is your answer.\n\nPull your vendor list today — before the next breach. ✅\n\nDo you actually know where your AI prompts end up? 🤔"
+    }
+  },
+  "instagram_caption": "Your chat transcripts with Notion sat unencrypted on a third-party vendor's servers. 🔓\n\nFireworks AI was breached, and Notion customer conversations were exposed on infrastructure most users never knew existed.\n\nModel providers keep request logs by default — some retain prompts for weeks.\n\nIf you use AI tools daily, your words are stored somewhere. 🗂️\n\nAsk your AI vendor in writing: what's retained, where, and who else can reach it. ⚠️\n\nIf they can't name their subprocessors, that silence is your answer.\n\nPull your vendor list today — before the next breach. ✅\n\nDo you actually know where your AI prompts end up? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Who else can read your AI chats?",
+      "description": "Fireworks AI breach exposed Notion customer transcripts on a third-party server, unencrypted. Most users never knew.",
+      "visual_hint": "Unlocked server rack with blinking lights",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Your transcripts live on vendor servers",
+      "description": "Notion customer chat logs sat on Fireworks AI's vendor infrastructure, accessible beyond the intended platform.",
+      "visual_hint": "Rows of data servers with exposed cables",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Model providers keep logs by default",
+      "description": "Many AI providers retain prompts for weeks. Fireworks is not the first leak, and it will not be the last.",
+      "visual_hint": "Screen showing continuous log entries",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer screen logs",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask vendors: what data is retained?",
+      "description": "Request written answers on data retention, storage location, and access. If they cannot answer, that is your answer.",
+      "visual_hint": "Hand holding pen over contract paper",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "contract signing",
+      "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: audit your AI subprocessors",
+      "description": "Pull your AI vendor list today and flag anyone who cannot name their subprocessors. Do it before the next breach.",
+      "visual_hint": "Checklist on clipboard with pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2021/02/notion-glitch-hero.jpg?resize=1200,827",
+  "savedAt": "2026-11-13T11:44:53.128Z",
+  "sourceId": "2843d5b0f258e5995a65cc3a3eb2c43e"
+}

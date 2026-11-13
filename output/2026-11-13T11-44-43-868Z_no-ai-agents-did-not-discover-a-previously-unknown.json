@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "no-ai-agents-did-not-discover-a-previously-unknown",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "No, AI agents did not discover a previously unknown Maya site",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+  "pubDate": "2026-11-12T19:42:40.000Z",
+  "slides": [
+    "Did AI agents really find a lost Maya city?",
+    "Researchers fed LiDAR data to detection models",
+    "The 'discovery' was already documented decades ago",
+    "Check claims against peer-reviewed archaeology records",
+    "Ask who benefits when AI gets credit for human finds"
+  ],
+  "thread_text": [
+    "1. AI's Maya 'Discovery' Lie\n\nA viral claim said AI found a lost Maya city. But the location was documented in archaeology records decades ago.",
+    "2. How the AI 'Found' It\n\nResearchers fed LiDAR data into detection models. The models flagged structures, but the sites were already known to archaeologists.",
+    "3. The Decade-Old Map\n\nArchaeologists had mapped the area long before AI. The 'discovery' was actually a rediscovery of existing data.",
+    "4. AI Isn't the Archaeologist\n\nAI can process LiDAR faster, but it can't interpret context. Peer-reviewed records show human experts did the real work.",
+    "5. Who Gets the Credit?\n\nAsk who benefits when AI gets credit for human finds. Next time you see an AI 'discovery' headline, check the archaeology records first."
+  ],
+  "video_script": [
+    "AI didn't find a lost Maya city. Here's what really happened.",
+    "Researchers fed LiDAR data into detection models. The models flagged structures.",
+    "But archaeologists had already documented those sites decades ago.",
+    "AI can process data fast, but it can't interpret context.",
+    "So who benefits when AI gets credit for human finds?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI's Maya 'Discovery' Lie\n\nA viral claim said AI found a lost Maya city. But the location was documented in archaeology records decades ago.",
+        "2. How the AI 'Found' It\n\nResearchers fed LiDAR data into detection models. The models flagged structures, but the sites were already known to archaeologists.",
+        "3. The Decade-Old Map\n\nArchaeologists had mapped the area long before AI. The 'discovery' was actually a rediscovery of existing data.",
+        "4. AI Isn't the Archaeologist\n\nAI can process LiDAR faster, but it can't interpret context. Peer-reviewed records show human experts did the real work.",
+        "5. Who Gets the Credit?\n\nAsk who benefits when AI gets credit for human finds. Next time you see an AI 'discovery' headline, check the archaeology records first."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI didn't find a lost Maya city. Here's what really happened.",
+        "Researchers fed LiDAR data into detection models. The models flagged structures.",
+        "But archaeologists had already documented those sites decades ago.",
+        "AI can process data fast, but it can't interpret context.",
+        "So who benefits when AI gets credit for human finds?"
+      ]
+    },
+    "instagram": {
+      "caption": "That \"AI discovers lost Maya city\" headline? The site was mapped decades ago. 🗺️\n\nResearchers fed LiDAR data into detection models, and the models flagged structures. But archaeologists had already documented those same sites long before.\n\nThe \"discovery\" was a rediscovery of existing data. AI processed the scans faster — it didn't interpret them. 🔍\n\nIf you write or share content, check AI \"discovery\" claims against peer-reviewed records before amplifying them.\n\nNext time a headline credits AI with a find, who do you think actually did the work? 🤔"
+    }
+  },
+  "instagram_caption": "That \"AI discovers lost Maya city\" headline? The site was mapped decades ago. 🗺️\n\nResearchers fed LiDAR data into detection models, and the models flagged structures. But archaeologists had already documented those same sites long before.\n\nThe \"discovery\" was a rediscovery of existing data. AI processed the scans faster — it didn't interpret them. 🔍\n\nIf you write or share content, check AI \"discovery\" claims against peer-reviewed records before amplifying them.\n\nNext time a headline credits AI with a find, who do you think actually did the work? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "AI didn't discover this Maya city",
+      "description": "The site was documented decades ago. Viral claims misattribute human discoveries to AI, misleading the public.",
+      "visual_hint": "Maya pyramid in jungle",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Maya pyramid"
+    },
+    {
+      "hook": "AI flagged structures already known",
+      "description": "Researchers fed LiDAR data to detection models, but the structures were already mapped by archaeologists.",
+      "visual_hint": "LiDAR point cloud of ruins",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "LiDAR scan",
+      "image": "https://images.pexels.com/photos/7088525/pexels-photo-7088525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The map existed long before AI",
+      "description": "Archaeologists had mapped the area decades earlier. The 'discovery' was a rediscovery of existing data.",
+      "visual_hint": "Old archaeological map",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "archaeological map",
+      "image": "https://images.pexels.com/photos/17543464/pexels-photo-17543464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI can't interpret context",
+      "description": "AI processes LiDAR faster, but human experts interpret context. Peer-reviewed records show the real work.",
+      "visual_hint": "Archaeologist working at dig",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "archaeologist excavation",
+      "image": "https://images.pexels.com/photos/33569088/pexels-photo-33569088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before sharing AI claims",
+      "description": "Check peer-reviewed archaeology records first. Ask who benefits when AI gets credit for human finds.",
+      "visual_hint": "Researcher checking records",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "library archives",
+      "image": "https://images.pexels.com/photos/14819812/pexels-photo-14819812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&amp;strip=all&amp;crop=2.4327168367347%2C0%2C95.134566326531%2C100&amp;w=1200",
+  "savedAt": "2026-11-13T11:45:11.460Z",
+  "sourceId": "2b94a6dc55086b835ffd550624272d52"
+}

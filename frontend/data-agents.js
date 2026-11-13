@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "ai-chatbots-are-recommending-fake-retail-websites-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "pubDate": "2026-11-12T17:00:00.000Z",
+      "slides": [
+        "Why is your AI assistant pointing you to fake stores?",
+        "A new study tested five major chatbots for retail recommendations.",
+        "Up to 30% of links led to nonexistent or fraudulent sites.",
+        "Always verify the URL before clicking a chatbot's suggestion.",
+        "Next time, cross-check with a direct search."
+      ],
+      "thread_text": [
+        "1. Fake stores in results\n\nA new study tested five major chatbots for retail recommendations and found up to 30% of links led to nonexistent or fraudulent sites.",
+        "2. The test setup\n\nResearchers prompted each chatbot with common shopping queries and then checked every URL they returned against live, verified retailers.",
+        "3. Why this happens\n\nChatbots generate plausible-sounding links from patterns, not live web checks, so a fake store can slip through with a believable name.",
+        "4. The real risk\n\nClicking one of these links can expose your payment details or install malware before you notice anything wrong with the storefront.",
+        "5. Verify before you click\n\nNext time a chatbot suggests a store, copy the URL and search it directly. Does the domain match the brand you actually trust?"
+      ],
+      "video_script": [
+        "Your AI assistant might send you to a fake store.",
+        "A study tested five major chatbots for shopping recommendations.",
+        "Up to thirty percent of links were dead or fraudulent.",
+        "Always check the URL before you click anything.",
+        "Cross-check with a direct search next time."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Fake stores in results\n\nA new study tested five major chatbots for retail recommendations and found up to 30% of links led to nonexistent or fraudulent sites.",
+            "2. The test setup\n\nResearchers prompted each chatbot with common shopping queries and then checked every URL they returned against live, verified retailers.",
+            "3. Why this happens\n\nChatbots generate plausible-sounding links from patterns, not live web checks, so a fake store can slip through with a believable name.",
+            "4. The real risk\n\nClicking one of these links can expose your payment details or install malware before you notice anything wrong with the storefront.",
+            "5. Verify before you click\n\nNext time a chatbot suggests a store, copy the URL and search it directly. Does the domain match the brand you actually trust?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your AI assistant might send you to a fake store.",
+            "A study tested five major chatbots for shopping recommendations.",
+            "Up to thirty percent of links were dead or fraudulent.",
+            "Always check the URL before you click anything.",
+            "Cross-check with a direct search next time."
+          ]
+        },
+        "instagram": {
+          "caption": "Up to 30% of the retail links five major chatbots gave researchers pointed to stores that don't exist or are outright fraudulent.\n\nResearchers asked the bots common shopping questions, then checked every URL against verified live retailers. A third of them failed the test.\n\nThe bots build links from patterns, not live web checks — so a fake store with a believable name slips through. One click can expose your payment details or install malware.\n\nIf you publish or shop online, treat every chatbot link as unverified until you've checked it yourself.\n\nNext time a bot names a store, copy the URL and search it directly. Does the domain match the brand? 🔍"
+        }
+      },
+      "instagram_caption": "Up to 30% of the retail links five major chatbots gave researchers pointed to stores that don't exist or are outright fraudulent.\n\nResearchers asked the bots common shopping questions, then checked every URL against verified live retailers. A third of them failed the test.\n\nThe bots build links from patterns, not live web checks — so a fake store with a believable name slips through. One click can expose your payment details or install malware.\n\nIf you publish or shop online, treat every chatbot link as unverified until you've checked it yourself.\n\nNext time a bot names a store, copy the URL and search it directly. Does the domain match the brand? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "30% of chatbot links are fake",
+          "description": "A new study tested five major chatbots for retail recommendations and found up to 30% of links led to nonexistent or fraudulent sites.",
+          "visual_hint": "Chatbot interface with warning overlay",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "chatbot interface"
+        },
+        {
+          "hook": "How researchers tested five chatbots",
+          "description": "Researchers prompted each chatbot with common shopping queries and checked every URL against live, verified retailers.",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "visual_hint": "Researcher analyzing chatbot responses on screen",
+          "image_query": "researcher computer",
+          "image": "https://images.pexels.com/photos/8851456/pexels-photo-8851456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Why chatbots generate fake store links",
+          "description": "Chatbots generate plausible-sounding links from patterns, not live web checks, so fake stores slip through with believable names.",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "visual_hint": "Abstract pattern forming into URLs",
+          "image_query": "abstract pattern",
+          "image": "https://images.pexels.com/photos/30886455/pexels-photo-30886455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The real risk of clicking fake links",
+          "description": "Clicking these links can expose your payment details or install malware before you notice anything wrong with the storefront.",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "visual_hint": "Hand hovering over fake link",
+          "image_query": "hand clicking mouse",
+          "image": "https://images.pexels.com/photos/7915503/pexels-photo-7915503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: verify before you click",
+          "description": "Next time a chatbot suggests a store, copy the URL and search it directly. Does the domain match the brand you trust?",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "visual_hint": "Person verifying URL on laptop",
+          "image_query": "person laptop",
+          "image": "https://images.pexels.com/photos/12662877/pexels-photo-12662877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-11-13T11:45:20.105Z",
+      "sourceId": "7e494307f06917791f287f9b413d8df8"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "no-ai-agents-did-not-discover-a-previously-unknown",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "pubDate": "2026-11-12T19:42:40.000Z",
+      "slides": [
+        "Did AI agents really find a lost Maya city?",
+        "Researchers fed LiDAR data to detection models",
+        "The 'discovery' was already documented decades ago",
+        "Check claims against peer-reviewed archaeology records",
+        "Ask who benefits when AI gets credit for human finds"
+      ],
+      "thread_text": [
+        "1. AI's Maya 'Discovery' Lie\n\nA viral claim said AI found a lost Maya city. But the location was documented in archaeology records decades ago.",
+        "2. How the AI 'Found' It\n\nResearchers fed LiDAR data into detection models. The models flagged structures, but the sites were already known to archaeologists.",
+        "3. The Decade-Old Map\n\nArchaeologists had mapped the area long before AI. The 'discovery' was actually a rediscovery of existing data.",
+        "4. AI Isn't the Archaeologist\n\nAI can process LiDAR faster, but it can't interpret context. Peer-reviewed records show human experts did the real work.",
+        "5. Who Gets the Credit?\n\nAsk who benefits when AI gets credit for human finds. Next time you see an AI 'discovery' headline, check the archaeology records first."
+      ],
+      "video_script": [
+        "AI didn't find a lost Maya city. Here's what really happened.",
+        "Researchers fed LiDAR data into detection models. The models flagged structures.",
+        "But archaeologists had already documented those sites decades ago.",
+        "AI can process data fast, but it can't interpret context.",
+        "So who benefits when AI gets credit for human finds?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI's Maya 'Discovery' Lie\n\nA viral claim said AI found a lost Maya city. But the location was documented in archaeology records decades ago.",
+            "2. How the AI 'Found' It\n\nResearchers fed LiDAR data into detection models. The models flagged structures, but the sites were already known to archaeologists.",
+            "3. The Decade-Old Map\n\nArchaeologists had mapped the area long before AI. The 'discovery' was actually a rediscovery of existing data.",
+            "4. AI Isn't the Archaeologist\n\nAI can process LiDAR faster, but it can't interpret context. Peer-reviewed records show human experts did the real work.",
+            "5. Who Gets the Credit?\n\nAsk who benefits when AI gets credit for human finds. Next time you see an AI 'discovery' headline, check the archaeology records first."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI didn't find a lost Maya city. Here's what really happened.",
+            "Researchers fed LiDAR data into detection models. The models flagged structures.",
+            "But archaeologists had already documented those sites decades ago.",
+            "AI can process data fast, but it can't interpret context.",
+            "So who benefits when AI gets credit for human finds?"
+          ]
+        },
+        "instagram": {
+          "caption": "That \"AI discovers lost Maya city\" headline? The site was mapped decades ago. 🗺️\n\nResearchers fed LiDAR data into detection models, and the models flagged structures. But archaeologists had already documented those same sites long before.\n\nThe \"discovery\" was a rediscovery of existing data. AI processed the scans faster — it didn't interpret them. 🔍\n\nIf you write or share content, check AI \"discovery\" claims against peer-reviewed records before amplifying them.\n\nNext time a headline credits AI with a find, who do you think actually did the work? 🤔"
+        }
+      },
+      "instagram_caption": "That \"AI discovers lost Maya city\" headline? The site was mapped decades ago. 🗺️\n\nResearchers fed LiDAR data into detection models, and the models flagged structures. But archaeologists had already documented those same sites long before.\n\nThe \"discovery\" was a rediscovery of existing data. AI processed the scans faster — it didn't interpret them. 🔍\n\nIf you write or share content, check AI \"discovery\" claims against peer-reviewed records before amplifying them.\n\nNext time a headline credits AI with a find, who do you think actually did the work? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "AI didn't discover this Maya city",
+          "description": "The site was documented decades ago. Viral claims misattribute human discoveries to AI, misleading the public.",
+          "visual_hint": "Maya pyramid in jungle",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Maya pyramid"
+        },
+        {
+          "hook": "AI flagged structures already known",
+          "description": "Researchers fed LiDAR data to detection models, but the structures were already mapped by archaeologists.",
+          "visual_hint": "LiDAR point cloud of ruins",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "LiDAR scan",
+          "image": "https://images.pexels.com/photos/7088525/pexels-photo-7088525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The map existed long before AI",
+          "description": "Archaeologists had mapped the area decades earlier. The 'discovery' was a rediscovery of existing data.",
+          "visual_hint": "Old archaeological map",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "archaeological map",
+          "image": "https://images.pexels.com/photos/17543464/pexels-photo-17543464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI can't interpret context",
+          "description": "AI processes LiDAR faster, but human experts interpret context. Peer-reviewed records show the real work.",
+          "visual_hint": "Archaeologist working at dig",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "archaeologist excavation",
+          "image": "https://images.pexels.com/photos/33569088/pexels-photo-33569088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before sharing AI claims",
+          "description": "Check peer-reviewed archaeology records first. Ask who benefits when AI gets credit for human finds.",
+          "visual_hint": "Researcher checking records",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "library archives",
+          "image": "https://images.pexels.com/photos/14819812/pexels-photo-14819812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&amp;strip=all&amp;crop=2.4327168367347%2C0%2C95.134566326531%2C100&amp;w=1200",
+      "savedAt": "2026-11-13T11:45:11.460Z",
+      "sourceId": "2b94a6dc55086b835ffd550624272d52"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-s-new-gemini-model-is-better-at-understandi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "pubDate": "2026-11-12T21:55:32.000Z",
+      "slides": [
+        "Can Gemini actually understand what you're really asking?",
+        "Google claims sharp gains on complex, multi-part questions",
+        "It struggles most when questions contain hidden contradictions",
+        "Expect better answers to messy prompts starting this week",
+        "Test one tangled question you've asked before"
+      ],
+      "thread_text": [
+        "1. Can Gemini Read Between Lines?\n\nGoogle says its new model makes sharp gains on complex, multi-part questions. But it still struggles when questions contain hidden contradictions.",
+        "2. Google's Big Claim\n\nInternal tests show Gemini answers messy, multi-part prompts far better than before. The upgrade starts rolling out this week.",
+        "3. Hidden Contradictions Break It\n\nIf your prompt contains conflicting assumptions, Gemini still gets confused. That's the one weakness Google admits remains.",
+        "4. Better Answers This Week\n\nStarting this week, expect sharper responses to tangled prompts. The improvement targets real-world messy questions, not clean benchmarks.",
+        "5. Test Your Worst Prompt\n\nTake one tangled question you've asked before and try it again this week. Does it handle the hidden contradictions? If not, you'll know exactly where it still fails."
+      ],
+      "video_script": [
+        "Google claims Gemini now handles complex multi-part questions much better.",
+        "But it still struggles when your question contains hidden contradictions.",
+        "The upgrade starts rolling out this week, so expect sharper answers.",
+        "Test one messy prompt you've used before and see the difference.",
+        "If it still fails, you'll know exactly where the limits are."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can Gemini Read Between Lines?\n\nGoogle says its new model makes sharp gains on complex, multi-part questions. But it still struggles when questions contain hidden contradictions.",
+            "2. Google's Big Claim\n\nInternal tests show Gemini answers messy, multi-part prompts far better than before. The upgrade starts rolling out this week.",
+            "3. Hidden Contradictions Break It\n\nIf your prompt contains conflicting assumptions, Gemini still gets confused. That's the one weakness Google admits remains.",
+            "4. Better Answers This Week\n\nStarting this week, expect sharper responses to tangled prompts. The improvement targets real-world messy questions, not clean benchmarks.",
+            "5. Test Your Worst Prompt\n\nTake one tangled question you've asked before and try it again this week. Does it handle the hidden contradictions? If not, you'll know exactly where it still fails."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google claims Gemini now handles complex multi-part questions much better.",
+            "But it still struggles when your question contains hidden contradictions.",
+            "The upgrade starts rolling out this week, so expect sharper answers.",
+            "Test one messy prompt you've used before and see the difference.",
+            "If it still fails, you'll know exactly where the limits are."
+          ]
+        },
+        "instagram": {
+          "caption": "Complex, multi-part questions are getting sharper answers from Google's Gemini starting this week. 🧠\n\nInternal tests show real gains on messy prompts with several layers.\n\nOne weakness remains: hidden contradictions still trip it up.\n\nIf you write or publish content, tangled research queries should need fewer rephrasings to get a usable answer.\n\nTake the messiest prompt you've asked before and rerun it this week — where does it still break? 🔍"
+        }
+      },
+      "instagram_caption": "Complex, multi-part questions are getting sharper answers from Google's Gemini starting this week. 🧠\n\nInternal tests show real gains on messy prompts with several layers.\n\nOne weakness remains: hidden contradictions still trip it up.\n\nIf you write or publish content, tangled research queries should need fewer rephrasings to get a usable answer.\n\nTake the messiest prompt you've asked before and rerun it this week — where does it still break? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Can Gemini handle hidden contradictions?",
+          "description": "Google's new model improves complex questions but still struggles with prompts containing conflicting assumptions.",
+          "visual_hint": "Split screen showing tangled vs clear question",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "question mark"
+        },
+        {
+          "hook": "Google claims sharp gains on complex queries",
+          "description": "Internal tests show Gemini answers messy, multi-part prompts far better than before, rolling out this week.",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "visual_hint": "Rising bar chart with Gemini logo",
+          "image_query": "bar chart",
+          "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Hidden contradictions still confuse Gemini",
+          "description": "When your prompt contains conflicting assumptions, Gemini gets confused. That's the one weakness Google admits remains.",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "visual_hint": "Zoomed-in puzzle pieces not fitting",
+          "image_query": "puzzle pieces",
+          "image": "https://images.pexels.com/photos/30708396/pexels-photo-30708396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Expect sharper answers starting this week",
+          "description": "The improvement targets real-world messy questions, so you'll see better responses to tangled prompts soon.",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "visual_hint": "Hand holding phone with chat interface",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this post and test your worst prompt",
+          "description": "Take one tangled question you've asked before and try it again this week to see if Gemini handles it better.",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "visual_hint": "Person typing on laptop with question mark",
+          "image_query": "person typing laptop",
+          "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+      "savedAt": "2026-11-13T11:45:02.499Z",
+      "sourceId": "9a4263a4db8a225476288045ed1711e0"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "cyberattack-on-fireworks-ai-allowed-hackers-to-acc",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+      "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "pubDate": "Thu, 12 Nov 2026 15:02:28 +0000",
+      "slides": [
+        "Fireworks AI breach: whose chats leaked?",
+        "Notion customer transcripts sat on the vendor's servers",
+        "Model providers keep logs most users never see",
+        "Ask your AI vendor: what's retained, and where?",
+        "Audit every AI subprocessor before the next incident"
+      ],
+      "thread_text": [
+        "1. Fireworks AI leak\n\nChats from Fireworks AI users ended up on a third-party vendor's servers. Notion transcripts sat there too, unencrypted. Most users never knew.",
+        "2. Vendor logs you never see\n\nModel providers keep request logs by default. Some retain prompts for weeks. Fireworks wasn't the first, and it won't be the last.",
+        "3. The question to ask\n\nAsk your AI vendor: what data is retained, where is it stored, and who else can access it? If they can't answer in writing, that's your answer.",
+        "4. Subprocessor audit gap\n\nEvery AI tool you use has subprocessors. Most companies never audit them. The Fireworks breach started with a third party, not the model itself.",
+        "5. Check your vendor list today\n\nPull your AI vendor list and flag anyone who can't name their subprocessors. Do it before the next breach, not after."
+      ],
+      "video_script": [
+        "Your AI chats might be sitting on a vendor's server right now.",
+        "Model providers keep logs you never see. Fireworks AI proved it.",
+        "Ask your vendor: what's retained, where, and who can access it?",
+        "Audit every subprocessor. The breach usually starts with a third party.",
+        "Check your vendor list today. Don't wait for the next incident."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Fireworks AI leak\n\nChats from Fireworks AI users ended up on a third-party vendor's servers. Notion transcripts sat there too, unencrypted. Most users never knew.",
+            "2. Vendor logs you never see\n\nModel providers keep request logs by default. Some retain prompts for weeks. Fireworks wasn't the first, and it won't be the last.",
+            "3. The question to ask\n\nAsk your AI vendor: what data is retained, where is it stored, and who else can access it? If they can't answer in writing, that's your answer.",
+            "4. Subprocessor audit gap\n\nEvery AI tool you use has subprocessors. Most companies never audit them. The Fireworks breach started with a third party, not the model itself.",
+            "5. Check your vendor list today\n\nPull your AI vendor list and flag anyone who can't name their subprocessors. Do it before the next breach, not after."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your AI chats might be sitting on a vendor's server right now.",
+            "Model providers keep logs you never see. Fireworks AI proved it.",
+            "Ask your vendor: what's retained, where, and who can access it?",
+            "Audit every subprocessor. The breach usually starts with a third party.",
+            "Check your vendor list today. Don't wait for the next incident."
+          ]
+        },
+        "instagram": {
+          "caption": "Your chat transcripts with Notion sat unencrypted on a third-party vendor's servers. 🔓\n\nFireworks AI was breached, and Notion customer conversations were exposed on infrastructure most users never knew existed.\n\nModel providers keep request logs by default — some retain prompts for weeks.\n\nIf you use AI tools daily, your words are stored somewhere. 🗂️\n\nAsk your AI vendor in writing: what's retained, where, and who else can reach it. ⚠️\n\nIf they can't name their subprocessors, that silence is your answer.\n\nPull your vendor list today — before the next breach. ✅\n\nDo you actually know where your AI prompts end up? 🤔"
+        }
+      },
+      "instagram_caption": "Your chat transcripts with Notion sat unencrypted on a third-party vendor's servers. 🔓\n\nFireworks AI was breached, and Notion customer conversations were exposed on infrastructure most users never knew existed.\n\nModel providers keep request logs by default — some retain prompts for weeks.\n\nIf you use AI tools daily, your words are stored somewhere. 🗂️\n\nAsk your AI vendor in writing: what's retained, where, and who else can reach it. ⚠️\n\nIf they can't name their subprocessors, that silence is your answer.\n\nPull your vendor list today — before the next breach. ✅\n\nDo you actually know where your AI prompts end up? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Who else can read your AI chats?",
+          "description": "Fireworks AI breach exposed Notion customer transcripts on a third-party server, unencrypted. Most users never knew.",
+          "visual_hint": "Unlocked server rack with blinking lights",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Your transcripts live on vendor servers",
+          "description": "Notion customer chat logs sat on Fireworks AI's vendor infrastructure, accessible beyond the intended platform.",
+          "visual_hint": "Rows of data servers with exposed cables",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Model providers keep logs by default",
+          "description": "Many AI providers retain prompts for weeks. Fireworks is not the first leak, and it will not be the last.",
+          "visual_hint": "Screen showing continuous log entries",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer screen logs",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask vendors: what data is retained?",
+          "description": "Request written answers on data retention, storage location, and access. If they cannot answer, that is your answer.",
+          "visual_hint": "Hand holding pen over contract paper",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "contract signing",
+          "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: audit your AI subprocessors",
+          "description": "Pull your AI vendor list today and flag anyone who cannot name their subprocessors. Do it before the next breach.",
+          "visual_hint": "Checklist on clipboard with pen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2021/02/notion-glitch-hero.jpg?resize=1200,827",
+      "savedAt": "2026-11-13T11:44:53.128Z",
+      "sourceId": "2843d5b0f258e5995a65cc3a3eb2c43e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "norwest-pushes-deeper-into-ai-with-new-4b-fund",
       "prompt_version": "1.0.0",
       "status": "published",

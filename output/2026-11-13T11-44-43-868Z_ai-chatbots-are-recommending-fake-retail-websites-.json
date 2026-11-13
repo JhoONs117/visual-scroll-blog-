@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-chatbots-are-recommending-fake-retail-websites-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI chatbots are recommending fake retail websites, study finds",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+  "pubDate": "2026-11-12T17:00:00.000Z",
+  "slides": [
+    "Why is your AI assistant pointing you to fake stores?",
+    "A new study tested five major chatbots for retail recommendations.",
+    "Up to 30% of links led to nonexistent or fraudulent sites.",
+    "Always verify the URL before clicking a chatbot's suggestion.",
+    "Next time, cross-check with a direct search."
+  ],
+  "thread_text": [
+    "1. Fake stores in results\n\nA new study tested five major chatbots for retail recommendations and found up to 30% of links led to nonexistent or fraudulent sites.",
+    "2. The test setup\n\nResearchers prompted each chatbot with common shopping queries and then checked every URL they returned against live, verified retailers.",
+    "3. Why this happens\n\nChatbots generate plausible-sounding links from patterns, not live web checks, so a fake store can slip through with a believable name.",
+    "4. The real risk\n\nClicking one of these links can expose your payment details or install malware before you notice anything wrong with the storefront.",
+    "5. Verify before you click\n\nNext time a chatbot suggests a store, copy the URL and search it directly. Does the domain match the brand you actually trust?"
+  ],
+  "video_script": [
+    "Your AI assistant might send you to a fake store.",
+    "A study tested five major chatbots for shopping recommendations.",
+    "Up to thirty percent of links were dead or fraudulent.",
+    "Always check the URL before you click anything.",
+    "Cross-check with a direct search next time."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Fake stores in results\n\nA new study tested five major chatbots for retail recommendations and found up to 30% of links led to nonexistent or fraudulent sites.",
+        "2. The test setup\n\nResearchers prompted each chatbot with common shopping queries and then checked every URL they returned against live, verified retailers.",
+        "3. Why this happens\n\nChatbots generate plausible-sounding links from patterns, not live web checks, so a fake store can slip through with a believable name.",
+        "4. The real risk\n\nClicking one of these links can expose your payment details or install malware before you notice anything wrong with the storefront.",
+        "5. Verify before you click\n\nNext time a chatbot suggests a store, copy the URL and search it directly. Does the domain match the brand you actually trust?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your AI assistant might send you to a fake store.",
+        "A study tested five major chatbots for shopping recommendations.",
+        "Up to thirty percent of links were dead or fraudulent.",
+        "Always check the URL before you click anything.",
+        "Cross-check with a direct search next time."
+      ]
+    },
+    "instagram": {
+      "caption": "Up to 30% of the retail links five major chatbots gave researchers pointed to stores that don't exist or are outright fraudulent.\n\nResearchers asked the bots common shopping questions, then checked every URL against verified live retailers. A third of them failed the test.\n\nThe bots build links from patterns, not live web checks — so a fake store with a believable name slips through. One click can expose your payment details or install malware.\n\nIf you publish or shop online, treat every chatbot link as unverified until you've checked it yourself.\n\nNext time a bot names a store, copy the URL and search it directly. Does the domain match the brand? 🔍"
+    }
+  },
+  "instagram_caption": "Up to 30% of the retail links five major chatbots gave researchers pointed to stores that don't exist or are outright fraudulent.\n\nResearchers asked the bots common shopping questions, then checked every URL against verified live retailers. A third of them failed the test.\n\nThe bots build links from patterns, not live web checks — so a fake store with a believable name slips through. One click can expose your payment details or install malware.\n\nIf you publish or shop online, treat every chatbot link as unverified until you've checked it yourself.\n\nNext time a bot names a store, copy the URL and search it directly. Does the domain match the brand? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "30% of chatbot links are fake",
+      "description": "A new study tested five major chatbots for retail recommendations and found up to 30% of links led to nonexistent or fraudulent sites.",
+      "visual_hint": "Chatbot interface with warning overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "chatbot interface"
+    },
+    {
+      "hook": "How researchers tested five chatbots",
+      "description": "Researchers prompted each chatbot with common shopping queries and checked every URL against live, verified retailers.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Researcher analyzing chatbot responses on screen",
+      "image_query": "researcher computer",
+      "image": "https://images.pexels.com/photos/8851456/pexels-photo-8851456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Why chatbots generate fake store links",
+      "description": "Chatbots generate plausible-sounding links from patterns, not live web checks, so fake stores slip through with believable names.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Abstract pattern forming into URLs",
+      "image_query": "abstract pattern",
+      "image": "https://images.pexels.com/photos/30886455/pexels-photo-30886455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The real risk of clicking fake links",
+      "description": "Clicking these links can expose your payment details or install malware before you notice anything wrong with the storefront.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hand hovering over fake link",
+      "image_query": "hand clicking mouse",
+      "image": "https://images.pexels.com/photos/7915503/pexels-photo-7915503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: verify before you click",
+      "description": "Next time a chatbot suggests a store, copy the URL and search it directly. Does the domain match the brand you trust?",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Person verifying URL on laptop",
+      "image_query": "person laptop",
+      "image": "https://images.pexels.com/photos/12662877/pexels-photo-12662877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-13T11:45:20.105Z",
+  "sourceId": "7e494307f06917791f287f9b413d8df8"
+}

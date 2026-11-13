@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-s-new-gemini-model-is-better-at-understandi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google’s new Gemini model is better at understanding complicated questions",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+  "pubDate": "2026-11-12T21:55:32.000Z",
+  "slides": [
+    "Can Gemini actually understand what you're really asking?",
+    "Google claims sharp gains on complex, multi-part questions",
+    "It struggles most when questions contain hidden contradictions",
+    "Expect better answers to messy prompts starting this week",
+    "Test one tangled question you've asked before"
+  ],
+  "thread_text": [
+    "1. Can Gemini Read Between Lines?\n\nGoogle says its new model makes sharp gains on complex, multi-part questions. But it still struggles when questions contain hidden contradictions.",
+    "2. Google's Big Claim\n\nInternal tests show Gemini answers messy, multi-part prompts far better than before. The upgrade starts rolling out this week.",
+    "3. Hidden Contradictions Break It\n\nIf your prompt contains conflicting assumptions, Gemini still gets confused. That's the one weakness Google admits remains.",
+    "4. Better Answers This Week\n\nStarting this week, expect sharper responses to tangled prompts. The improvement targets real-world messy questions, not clean benchmarks.",
+    "5. Test Your Worst Prompt\n\nTake one tangled question you've asked before and try it again this week. Does it handle the hidden contradictions? If not, you'll know exactly where it still fails."
+  ],
+  "video_script": [
+    "Google claims Gemini now handles complex multi-part questions much better.",
+    "But it still struggles when your question contains hidden contradictions.",
+    "The upgrade starts rolling out this week, so expect sharper answers.",
+    "Test one messy prompt you've used before and see the difference.",
+    "If it still fails, you'll know exactly where the limits are."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can Gemini Read Between Lines?\n\nGoogle says its new model makes sharp gains on complex, multi-part questions. But it still struggles when questions contain hidden contradictions.",
+        "2. Google's Big Claim\n\nInternal tests show Gemini answers messy, multi-part prompts far better than before. The upgrade starts rolling out this week.",
+        "3. Hidden Contradictions Break It\n\nIf your prompt contains conflicting assumptions, Gemini still gets confused. That's the one weakness Google admits remains.",
+        "4. Better Answers This Week\n\nStarting this week, expect sharper responses to tangled prompts. The improvement targets real-world messy questions, not clean benchmarks.",
+        "5. Test Your Worst Prompt\n\nTake one tangled question you've asked before and try it again this week. Does it handle the hidden contradictions? If not, you'll know exactly where it still fails."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google claims Gemini now handles complex multi-part questions much better.",
+        "But it still struggles when your question contains hidden contradictions.",
+        "The upgrade starts rolling out this week, so expect sharper answers.",
+        "Test one messy prompt you've used before and see the difference.",
+        "If it still fails, you'll know exactly where the limits are."
+      ]
+    },
+    "instagram": {
+      "caption": "Complex, multi-part questions are getting sharper answers from Google's Gemini starting this week. 🧠\n\nInternal tests show real gains on messy prompts with several layers.\n\nOne weakness remains: hidden contradictions still trip it up.\n\nIf you write or publish content, tangled research queries should need fewer rephrasings to get a usable answer.\n\nTake the messiest prompt you've asked before and rerun it this week — where does it still break? 🔍"
+    }
+  },
+  "instagram_caption": "Complex, multi-part questions are getting sharper answers from Google's Gemini starting this week. 🧠\n\nInternal tests show real gains on messy prompts with several layers.\n\nOne weakness remains: hidden contradictions still trip it up.\n\nIf you write or publish content, tangled research queries should need fewer rephrasings to get a usable answer.\n\nTake the messiest prompt you've asked before and rerun it this week — where does it still break? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Can Gemini handle hidden contradictions?",
+      "description": "Google's new model improves complex questions but still struggles with prompts containing conflicting assumptions.",
+      "visual_hint": "Split screen showing tangled vs clear question",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "question mark"
+    },
+    {
+      "hook": "Google claims sharp gains on complex queries",
+      "description": "Internal tests show Gemini answers messy, multi-part prompts far better than before, rolling out this week.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Rising bar chart with Gemini logo",
+      "image_query": "bar chart",
+      "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Hidden contradictions still confuse Gemini",
+      "description": "When your prompt contains conflicting assumptions, Gemini gets confused. That's the one weakness Google admits remains.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Zoomed-in puzzle pieces not fitting",
+      "image_query": "puzzle pieces",
+      "image": "https://images.pexels.com/photos/30708396/pexels-photo-30708396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Expect sharper answers starting this week",
+      "description": "The improvement targets real-world messy questions, so you'll see better responses to tangled prompts soon.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hand holding phone with chat interface",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this post and test your worst prompt",
+      "description": "Take one tangled question you've asked before and try it again this week to see if Gemini handles it better.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Person typing on laptop with question mark",
+      "image_query": "person typing laptop",
+      "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+  "savedAt": "2026-11-13T11:45:02.499Z",
+  "sourceId": "9a4263a4db8a225476288045ed1711e0"
+}
