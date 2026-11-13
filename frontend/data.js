@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "norwest-pushes-deeper-into-ai-with-new-4b-fund",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Norwest pushes deeper into AI with new $4B fund",
+    "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+    "pubDate": "Thu, 12 Nov 2026 15:18:14 +0000",
+    "slides": [
+      "Can Norwest's $4B fund outsmart AI's boom?",
+      "It's the firm's largest fund ever raised",
+      "But most AI startups don't need venture capital",
+      "Founders can now raise larger early checks from one firm",
+      "Ask: does more money mean better AI outcomes?"
+    ],
+    "thread_text": [
+      "1. The $4B question\n\nNorwest just closed its largest fund ever — and it's aimed straight at the AI boom. With so much capital chasing so few deals, the real test isn't raising it.",
+      "2. Why now, why so big\n\nVenture firms are racing to write bigger early checks before rounds get crowded out. One firm can now lead a startup from seed to Series B alone.",
+      "3. Most AI startups don't need it\n\nMany AI tools can ship and earn revenue without a single venture dollar. That gap between fund size and actual need is where the tension lives.",
+      "4. Founders get more leverage\n\nLess dilution, faster decisions, one relationship instead of four. But bigger checks can also push founders to spend before the product is ready.",
+      "5. Test your own thesis\n\nPick an AI startup you use. Would a $20M check make it better, or just bigger? Write your answer down — then watch what Norwest backs next."
+    ],
+    "video_script": [
+      "Norwest just raised four billion dollars for AI.",
+      "It's the biggest fund the firm has ever had.",
+      "But most AI startups don't actually need that money.",
+      "Founders can now get bigger early checks from one firm.",
+      "Does more money mean better AI? Test that this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $4B question\n\nNorwest just closed its largest fund ever — and it's aimed straight at the AI boom. With so much capital chasing so few deals, the real test isn't raising it.",
+          "2. Why now, why so big\n\nVenture firms are racing to write bigger early checks before rounds get crowded out. One firm can now lead a startup from seed to Series B alone.",
+          "3. Most AI startups don't need it\n\nMany AI tools can ship and earn revenue without a single venture dollar. That gap between fund size and actual need is where the tension lives.",
+          "4. Founders get more leverage\n\nLess dilution, faster decisions, one relationship instead of four. But bigger checks can also push founders to spend before the product is ready.",
+          "5. Test your own thesis\n\nPick an AI startup you use. Would a $20M check make it better, or just bigger? Write your answer down — then watch what Norwest backs next."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Norwest just raised four billion dollars for AI.",
+          "It's the biggest fund the firm has ever had.",
+          "But most AI startups don't actually need that money.",
+          "Founders can now get bigger early checks from one firm.",
+          "Does more money mean better AI? Test that this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Norwest just raised the biggest fund in its history — $4 billion aimed straight at AI.\n\nIt's a bet that one firm can now lead a startup from seed to Series B alone, handing founders bigger early checks and less dilution. 💰\n\nThe catch: plenty of AI tools ship and earn revenue without a single venture dollar. 🤔 More money doesn't automatically mean better AI — and big checks can push founders to spend before the product is ready.\n\nIf you build with AI, cheaper capital and faster decisions could reach you sooner than you think. ⚡\n\nWould a $20M check make the AI tool you use better, or just bigger? Write your answer down, then watch what Norwest backs next. 👀"
+      }
+    },
+    "instagram_caption": "Norwest just raised the biggest fund in its history — $4 billion aimed straight at AI.\n\nIt's a bet that one firm can now lead a startup from seed to Series B alone, handing founders bigger early checks and less dilution. 💰\n\nThe catch: plenty of AI tools ship and earn revenue without a single venture dollar. 🤔 More money doesn't automatically mean better AI — and big checks can push founders to spend before the product is ready.\n\nIf you build with AI, cheaper capital and faster decisions could reach you sooner than you think. ⚡\n\nWould a $20M check make the AI tool you use better, or just bigger? Write your answer down, then watch what Norwest backs next. 👀",
+    "carousel_slides": [
+      {
+        "hook": "Does AI really need all this cash?",
+        "description": "Norwest raised $4B, its largest fund ever, but most AI startups can grow without venture capital.",
+        "visual_hint": "Split screen: money vs. code",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "money stack"
+      },
+      {
+        "hook": "Norwest's biggest bet yet",
+        "description": "The firm's $4B fund is its largest ever, aimed at writing bigger early checks in a crowded AI market.",
+        "visual_hint": "Large check with Norwest logo",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "checkbook",
+        "image": "https://images.pexels.com/photos/6862457/pexels-photo-6862457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The gap between fund size and need",
+        "description": "Many AI tools ship and earn revenue without venture dollars, creating tension for $4B funds.",
+        "visual_hint": "Balance scale: money vs. product",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "balance scale",
+        "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Founders gain leverage, but at a cost",
+        "description": "Bigger checks mean less dilution and faster decisions, but can push spending before the product is ready.",
+        "visual_hint": "Handshake with rising graph",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "handshake",
+        "image": "https://images.pexels.com/photos/2822647/pexels-photo-2822647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and test your AI thesis",
+        "description": "Pick an AI startup you use: would $20M make it better or just bigger? Comment your answer.",
+        "visual_hint": "Notepad with question mark",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "notepad pen",
+        "image": "https://images.pexels.com/photos/7657385/pexels-photo-7657385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/norwest_team-partner-offsite-2026-1-copy.jpg?resize=1200,805",
+    "savedAt": "2026-11-13T02:26:39.425Z",
+    "sourceId": "a8b4ef01f1e068ca1f152333aa08d9de"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "five-ways-jensen-huang-s-ouster-from-nvidia-could-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+    "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+    "pubDate": "Thu, 12 Nov 2026 16:32:33 +0000",
+    "slides": [
+      "What if Jensen Huang left Nvidia tomorrow?",
+      "Nvidia's AI chips power most global data centers.",
+      "But Nvidia's moat is CUDA software, not just hardware.",
+      "Developers would face a costly CUDA migration overnight.",
+      "Ask: who controls your AI stack's deepest dependency?"
+    ],
+    "thread_text": [
+      "1. The $1T Question\n\nIf Jensen Huang exited Nvidia tomorrow, the company would lose more than a CEO—it would lose the architect of the AI hardware roadmap that most data centers depend on.",
+      "2. CUDA Is the Real Moat\n\nNvidia's chips are fast, but the lock-in comes from CUDA: the software layer that developers have spent years optimizing for. Hardware can be cloned; ecosystems cannot.",
+      "3. Migration Would Be Brutal\n\nSwitching away from CUDA isn't a simple recompile—it's rewriting years of tuned kernels, libraries, and tooling. For most teams, that cost is prohibitive overnight.",
+      "4. Silicon Without Software\n\nCompetitors can match transistors, but they can't instantly replicate the developer mindshare and tooling that make Nvidia the default choice in AI infrastructure.",
+      "5. Who Owns Your Stack?\n\nIf your AI roadmap depends on one vendor's software, ask: what's your exit plan? Test one non-critical workload on an alternative stack this quarter—just to see the real cost."
+    ],
+    "video_script": [
+      "What if Jensen Huang left Nvidia tomorrow?",
+      "Nvidia's chips power most global data centers.",
+      "But the real moat is CUDA software, not hardware.",
+      "Developers would face a costly migration overnight.",
+      "Who controls your AI stack's deepest dependency?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $1T Question\n\nIf Jensen Huang exited Nvidia tomorrow, the company would lose more than a CEO—it would lose the architect of the AI hardware roadmap that most data centers depend on.",
+          "2. CUDA Is the Real Moat\n\nNvidia's chips are fast, but the lock-in comes from CUDA: the software layer that developers have spent years optimizing for. Hardware can be cloned; ecosystems cannot.",
+          "3. Migration Would Be Brutal\n\nSwitching away from CUDA isn't a simple recompile—it's rewriting years of tuned kernels, libraries, and tooling. For most teams, that cost is prohibitive overnight.",
+          "4. Silicon Without Software\n\nCompetitors can match transistors, but they can't instantly replicate the developer mindshare and tooling that make Nvidia the default choice in AI infrastructure.",
+          "5. Who Owns Your Stack?\n\nIf your AI roadmap depends on one vendor's software, ask: what's your exit plan? Test one non-critical workload on an alternative stack this quarter—just to see the real cost."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "What if Jensen Huang left Nvidia tomorrow?",
+          "Nvidia's chips power most global data centers.",
+          "But the real moat is CUDA software, not hardware.",
+          "Developers would face a costly migration overnight.",
+          "Who controls your AI stack's deepest dependency?"
+        ]
+      },
+      "instagram": {
+        "caption": "Most data centers running AI workloads depend on one CEO's hardware roadmap. If Jensen Huang left Nvidia tomorrow, that roadmap loses its architect.\n\nNvidia's real lock-in isn't chips — it's CUDA, the software layer developers spent years optimizing for. Hardware can be cloned; ecosystems can't. 🧠\n\nSwitching away means rewriting tuned kernels and tooling, not just recompiling. For most teams, that cost is prohibitive overnight.\n\nIf you build on AI tools, your workflow inherits this dependency. ⚙️\n\nWhat's your exit plan if your stack's deepest layer belongs to one vendor? Try one non-critical workload on an alternative this quarter — just to see the real cost. 🔍"
+      }
+    },
+    "instagram_caption": "Most data centers running AI workloads depend on one CEO's hardware roadmap. If Jensen Huang left Nvidia tomorrow, that roadmap loses its architect.\n\nNvidia's real lock-in isn't chips — it's CUDA, the software layer developers spent years optimizing for. Hardware can be cloned; ecosystems can't. 🧠\n\nSwitching away means rewriting tuned kernels and tooling, not just recompiling. For most teams, that cost is prohibitive overnight.\n\nIf you build on AI tools, your workflow inherits this dependency. ⚙️\n\nWhat's your exit plan if your stack's deepest layer belongs to one vendor? Try one non-critical workload on an alternative this quarter — just to see the real cost. 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Who really controls your AI stack?",
+        "description": "Nvidia's moat is CUDA software lock-in, not just chips. Losing its architect would shake the entire AI industry.",
+        "visual_hint": "A glowing server rack with tangled cables",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Nvidia's chips power most data centers.",
+        "description": "Global AI infrastructure runs on Nvidia hardware. A leadership exit could disrupt the roadmap everyone depends on.",
+        "visual_hint": "Rows of blinking server lights in a data center",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Hardware can be cloned, ecosystems cannot.",
+        "description": "CUDA's developer mindshare is the real lock-in. Competitors can match transistors but not years of optimized tooling.",
+        "visual_hint": "Close-up of a GPU chip with circuit patterns",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "GPU chip",
+        "image": "https://images.pexels.com/photos/34552801/pexels-photo-34552801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Migrating from CUDA would be brutal.",
+        "description": "Rewriting tuned kernels and libraries overnight is prohibitively costly for most AI teams, creating a painful dependency.",
+        "visual_hint": "Developer hands typing on a keyboard with code",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "programmer hands keyboard",
+        "image": "https://images.pexels.com/photos/7988090/pexels-photo-7988090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: test one alternative stack now.",
+        "description": "Run a non-critical workload on a rival AI stack this quarter to measure your real exit cost.",
+        "visual_hint": "Split screen showing two different software interfaces",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "software interface",
+        "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801",
+    "savedAt": "2026-11-13T02:26:29.363Z",
+    "sourceId": "4eeb3832c09fe26bd5de51d1251c513c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "phota-labs-uses-ai-to-turn-everyday-photos-into-pr",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+    "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+    "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
+    "slides": [
+      "Can Phota Labs fix your worst photos?",
+      "It uses AI to retouch everyday shots automatically",
+      "But it sometimes overcorrects faces and skin tones",
+      "You can test it free on ten photos today",
+      "Try one bad photo and judge the result yourself"
+    ],
+    "thread_text": [
+      "1. Your Worst Photo, Fixed?\n\nPhota Labs claims its AI can automatically retouch your everyday shots. If it works, you might never manually edit again.",
+      "2. How It Works\n\nThe AI analyzes faces and skin tones, then applies corrections. It's designed for quick, one-tap fixes.",
+      "3. The Overcorrection Problem\n\nSometimes it goes too far. Faces can look plastic and skin tones unnatural, so you'll need to double-check results.",
+      "4. Try It Free\n\nYou can test it on ten photos without paying. That's enough to see if the AI matches your taste.",
+      "5. One Photo Test\n\nTake a bad photo and run it through the free trial. Does it fix the shot or create more work? Judge for yourself."
+    ],
+    "video_script": [
+      "Can Phota Labs really fix your worst photos?",
+      "It uses AI to automatically retouch everyday shots.",
+      "But it sometimes overcorrects faces and skin tones.",
+      "You can test it free on ten photos today.",
+      "Try one bad photo and judge the result yourself."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your Worst Photo, Fixed?\n\nPhota Labs claims its AI can automatically retouch your everyday shots. If it works, you might never manually edit again.",
+          "2. How It Works\n\nThe AI analyzes faces and skin tones, then applies corrections. It's designed for quick, one-tap fixes.",
+          "3. The Overcorrection Problem\n\nSometimes it goes too far. Faces can look plastic and skin tones unnatural, so you'll need to double-check results.",
+          "4. Try It Free\n\nYou can test it on ten photos without paying. That's enough to see if the AI matches your taste.",
+          "5. One Photo Test\n\nTake a bad photo and run it through the free trial. Does it fix the shot or create more work? Judge for yourself."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can Phota Labs really fix your worst photos?",
+          "It uses AI to automatically retouch everyday shots.",
+          "But it sometimes overcorrects faces and skin tones.",
+          "You can test it free on ten photos today.",
+          "Try one bad photo and judge the result yourself."
+        ]
+      },
+      "instagram": {
+        "caption": "Ten photos, edited free, before you decide if it's worth it.\n\nPhota Labs' AI retouches your everyday shots automatically: it reads faces and skin tones, then applies one-tap corrections. ⚡\n\nProblem is, it sometimes overcorrects — faces go plastic, skin tones look off. So the result needs checking, not blind trust.\n\nIf you publish content, that's a real risk: one bad auto-fix can make a portrait look worse than the original.\n\nWould you trust an AI with your worst photo, or do you still edit by hand? 📸"
+      }
+    },
+    "instagram_caption": "Ten photos, edited free, before you decide if it's worth it.\n\nPhota Labs' AI retouches your everyday shots automatically: it reads faces and skin tones, then applies one-tap corrections. ⚡\n\nProblem is, it sometimes overcorrects — faces go plastic, skin tones look off. So the result needs checking, not blind trust.\n\nIf you publish content, that's a real risk: one bad auto-fix can make a portrait look worse than the original.\n\nWould you trust an AI with your worst photo, or do you still edit by hand? 📸",
+    "carousel_slides": [
+      {
+        "hook": "Can AI fix your worst photos?",
+        "description": "Phota Labs uses AI to automatically retouch everyday shots, potentially eliminating manual editing forever.",
+        "visual_hint": "Split screen: bad photo vs fixed",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "photo editing software"
+      },
+      {
+        "hook": "One tap, automatic retouching",
+        "description": "The AI analyzes faces and skin tones, then applies quick corrections designed for effortless one-tap fixes.",
+        "visual_hint": "Smartphone screen showing AI interface",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone app interface",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "But it sometimes overcorrects faces",
+        "description": "Faces can look plastic and skin tones unnatural, so you'll need to double-check the results.",
+        "visual_hint": "Before/after portrait with plastic look",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "portrait retouching",
+        "image": "https://images.pexels.com/photos/5946338/pexels-photo-5946338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it free on ten photos",
+        "description": "You can try Phota Labs on ten photos without paying, enough to see if it matches your taste.",
+        "visual_hint": "Hand holding phone with free trial badge",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "photo editing trial",
+        "image": "https://images.pexels.com/photos/9281786/pexels-photo-9281786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try one bad photo now",
+        "description": "Take a bad photo and run it through the free trial, then judge the result yourself.",
+        "visual_hint": "Phone with before/after comparison",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "photo comparison",
+        "image": "https://images.pexels.com/photos/35771721/pexels-photo-35771721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/04_Holiday_Lights_before_after.jpg?resize=1200,867",
+    "savedAt": "2026-11-13T02:26:18.946Z",
+    "sourceId": "6c6681e03d7676b3941a7381a07454c6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "microsoft-s-outlook-email-hit-by-new-outage",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Microsoft’s Outlook email hit by new outage",
+    "link": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+    "pubDate": "Thu, 12 Nov 2026 19:03:39 +0000",
+    "slides": [
+      "Why did Outlook go dark again?",
+      "Another outage hit Microsoft's email service",
+      "Users lost access during critical work hours",
+      "Check Microsoft's status page before relying on it",
+      "Your inbox isn't guaranteed—build a backup plan"
+    ],
+    "thread_text": [
+      "1. Outlook went dark again\n\nMicrosoft's email service suffered another outage, leaving users without access during critical work hours. The timing couldn't have been worse.",
+      "2. Not just a glitch\n\nThis is the second major disruption to Outlook in recent months, raising questions about reliability of cloud-based email for businesses.",
+      "3. Productivity held hostage\n\nWhen email goes down, workflows stall. Teams scramble to find alternatives while clients wait for responses that never arrive.",
+      "4. Check before you trust\n\nMicrosoft's status page is your first stop during an outage. But don't expect real-time clarity—updates often lag behind the actual disruption.",
+      "5. Build your backup plan\n\nDon't let your inbox be a single point of failure. Set up an alternative communication channel today—even a simple forwarding rule could save your workday."
+    ],
+    "video_script": [
+      "Outlook went dark again, and users were left stranded.",
+      "This isn't the first outage—it's becoming a pattern.",
+      "Critical work hours lost, productivity held hostage.",
+      "Before you rely on it, check Microsoft's status page.",
+      "Your inbox isn't guaranteed—build a backup plan today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Outlook went dark again\n\nMicrosoft's email service suffered another outage, leaving users without access during critical work hours. The timing couldn't have been worse.",
+          "2. Not just a glitch\n\nThis is the second major disruption to Outlook in recent months, raising questions about reliability of cloud-based email for businesses.",
+          "3. Productivity held hostage\n\nWhen email goes down, workflows stall. Teams scramble to find alternatives while clients wait for responses that never arrive.",
+          "4. Check before you trust\n\nMicrosoft's status page is your first stop during an outage. But don't expect real-time clarity—updates often lag behind the actual disruption.",
+          "5. Build your backup plan\n\nDon't let your inbox be a single point of failure. Set up an alternative communication channel today—even a simple forwarding rule could save your workday."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Outlook went dark again, and users were left stranded.",
+          "This isn't the first outage—it's becoming a pattern.",
+          "Critical work hours lost, productivity held hostage.",
+          "Before you rely on it, check Microsoft's status page.",
+          "Your inbox isn't guaranteed—build a backup plan today."
+        ]
+      },
+      "instagram": {
+        "caption": "Your inbox went dark during work hours—again. 📧\n\nOutlook suffered another major outage, the second in recent months, and users lost email access right when they needed it most.\n\nMicrosoft's status page is the first place to check, but updates often lag behind the actual disruption.\n\nIf your workflow depends on one email provider, a single outage can stall everything—clients waiting, teams scrambling. ⚠️\n\nSet up an alternative channel today: a forwarding rule or backup address takes minutes. 🔧\n\nWhat's your plan if your inbox disappears tomorrow morning?"
+      }
+    },
+    "instagram_caption": "Your inbox went dark during work hours—again. 📧\n\nOutlook suffered another major outage, the second in recent months, and users lost email access right when they needed it most.\n\nMicrosoft's status page is the first place to check, but updates often lag behind the actual disruption.\n\nIf your workflow depends on one email provider, a single outage can stall everything—clients waiting, teams scrambling. ⚠️\n\nSet up an alternative channel today: a forwarding rule or backup address takes minutes. 🔧\n\nWhat's your plan if your inbox disappears tomorrow morning?",
+    "carousel_slides": [
+      {
+        "hook": "What if your inbox suddenly went dark?",
+        "description": "Microsoft's Outlook suffered another major outage, leaving users without email access during critical work hours.",
+        "visual_hint": "Dark computer screen with email icon",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer screen"
+      },
+      {
+        "hook": "Outlook's second outage in months",
+        "description": "This is the second major disruption recently, raising serious questions about cloud email reliability for businesses.",
+        "visual_hint": "Server room with blinking lights",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "When email fails, productivity stalls",
+        "description": "Teams scramble for alternatives while clients wait for responses that never arrive, grinding workflows to a halt.",
+        "visual_hint": "Frustrated office worker at desk",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Don't trust status pages blindly",
+        "description": "Microsoft's status page is your first stop during an outage, but updates often lag behind the actual disruption.",
+        "visual_hint": "Person checking status on laptop",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "laptop screen",
+        "image": "https://images.pexels.com/photos/21391567/pexels-photo-21391567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: build your backup plan",
+        "description": "Don't let your inbox be a single point of failure—set up an alternative communication channel today.",
+        "visual_hint": "Person setting up email forwarding",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "email forwarding",
+        "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-632791848-e1720623049887.jpg?resize=1200,676",
+    "savedAt": "2026-11-13T02:26:08.545Z",
+    "sourceId": "5b3369c7f4152e7f048f9090ca3e20bb"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "softbank-s-billion-dollar-loss-may-have-put-a-cap-",
     "prompt_version": "1.0.0",
     "status": "published",

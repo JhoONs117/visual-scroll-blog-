@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "five-ways-jensen-huang-s-ouster-from-nvidia-could-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+  "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+  "pubDate": "Thu, 12 Nov 2026 16:32:33 +0000",
+  "slides": [
+    "What if Jensen Huang left Nvidia tomorrow?",
+    "Nvidia's AI chips power most global data centers.",
+    "But Nvidia's moat is CUDA software, not just hardware.",
+    "Developers would face a costly CUDA migration overnight.",
+    "Ask: who controls your AI stack's deepest dependency?"
+  ],
+  "thread_text": [
+    "1. The $1T Question\n\nIf Jensen Huang exited Nvidia tomorrow, the company would lose more than a CEO—it would lose the architect of the AI hardware roadmap that most data centers depend on.",
+    "2. CUDA Is the Real Moat\n\nNvidia's chips are fast, but the lock-in comes from CUDA: the software layer that developers have spent years optimizing for. Hardware can be cloned; ecosystems cannot.",
+    "3. Migration Would Be Brutal\n\nSwitching away from CUDA isn't a simple recompile—it's rewriting years of tuned kernels, libraries, and tooling. For most teams, that cost is prohibitive overnight.",
+    "4. Silicon Without Software\n\nCompetitors can match transistors, but they can't instantly replicate the developer mindshare and tooling that make Nvidia the default choice in AI infrastructure.",
+    "5. Who Owns Your Stack?\n\nIf your AI roadmap depends on one vendor's software, ask: what's your exit plan? Test one non-critical workload on an alternative stack this quarter—just to see the real cost."
+  ],
+  "video_script": [
+    "What if Jensen Huang left Nvidia tomorrow?",
+    "Nvidia's chips power most global data centers.",
+    "But the real moat is CUDA software, not hardware.",
+    "Developers would face a costly migration overnight.",
+    "Who controls your AI stack's deepest dependency?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $1T Question\n\nIf Jensen Huang exited Nvidia tomorrow, the company would lose more than a CEO—it would lose the architect of the AI hardware roadmap that most data centers depend on.",
+        "2. CUDA Is the Real Moat\n\nNvidia's chips are fast, but the lock-in comes from CUDA: the software layer that developers have spent years optimizing for. Hardware can be cloned; ecosystems cannot.",
+        "3. Migration Would Be Brutal\n\nSwitching away from CUDA isn't a simple recompile—it's rewriting years of tuned kernels, libraries, and tooling. For most teams, that cost is prohibitive overnight.",
+        "4. Silicon Without Software\n\nCompetitors can match transistors, but they can't instantly replicate the developer mindshare and tooling that make Nvidia the default choice in AI infrastructure.",
+        "5. Who Owns Your Stack?\n\nIf your AI roadmap depends on one vendor's software, ask: what's your exit plan? Test one non-critical workload on an alternative stack this quarter—just to see the real cost."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "What if Jensen Huang left Nvidia tomorrow?",
+        "Nvidia's chips power most global data centers.",
+        "But the real moat is CUDA software, not hardware.",
+        "Developers would face a costly migration overnight.",
+        "Who controls your AI stack's deepest dependency?"
+      ]
+    },
+    "instagram": {
+      "caption": "Most data centers running AI workloads depend on one CEO's hardware roadmap. If Jensen Huang left Nvidia tomorrow, that roadmap loses its architect.\n\nNvidia's real lock-in isn't chips — it's CUDA, the software layer developers spent years optimizing for. Hardware can be cloned; ecosystems can't. 🧠\n\nSwitching away means rewriting tuned kernels and tooling, not just recompiling. For most teams, that cost is prohibitive overnight.\n\nIf you build on AI tools, your workflow inherits this dependency. ⚙️\n\nWhat's your exit plan if your stack's deepest layer belongs to one vendor? Try one non-critical workload on an alternative this quarter — just to see the real cost. 🔍"
+    }
+  },
+  "instagram_caption": "Most data centers running AI workloads depend on one CEO's hardware roadmap. If Jensen Huang left Nvidia tomorrow, that roadmap loses its architect.\n\nNvidia's real lock-in isn't chips — it's CUDA, the software layer developers spent years optimizing for. Hardware can be cloned; ecosystems can't. 🧠\n\nSwitching away means rewriting tuned kernels and tooling, not just recompiling. For most teams, that cost is prohibitive overnight.\n\nIf you build on AI tools, your workflow inherits this dependency. ⚙️\n\nWhat's your exit plan if your stack's deepest layer belongs to one vendor? Try one non-critical workload on an alternative this quarter — just to see the real cost. 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Who really controls your AI stack?",
+      "description": "Nvidia's moat is CUDA software lock-in, not just chips. Losing its architect would shake the entire AI industry.",
+      "visual_hint": "A glowing server rack with tangled cables",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Nvidia's chips power most data centers.",
+      "description": "Global AI infrastructure runs on Nvidia hardware. A leadership exit could disrupt the roadmap everyone depends on.",
+      "visual_hint": "Rows of blinking server lights in a data center",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Hardware can be cloned, ecosystems cannot.",
+      "description": "CUDA's developer mindshare is the real lock-in. Competitors can match transistors but not years of optimized tooling.",
+      "visual_hint": "Close-up of a GPU chip with circuit patterns",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "GPU chip",
+      "image": "https://images.pexels.com/photos/34552801/pexels-photo-34552801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Migrating from CUDA would be brutal.",
+      "description": "Rewriting tuned kernels and libraries overnight is prohibitively costly for most AI teams, creating a painful dependency.",
+      "visual_hint": "Developer hands typing on a keyboard with code",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "programmer hands keyboard",
+      "image": "https://images.pexels.com/photos/7988090/pexels-photo-7988090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: test one alternative stack now.",
+      "description": "Run a non-critical workload on a rival AI stack this quarter to measure your real exit cost.",
+      "visual_hint": "Split screen showing two different software interfaces",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "software interface",
+      "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801",
+  "savedAt": "2026-11-13T02:26:29.363Z",
+  "sourceId": "4eeb3832c09fe26bd5de51d1251c513c"
+}

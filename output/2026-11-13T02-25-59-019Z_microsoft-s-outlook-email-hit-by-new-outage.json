@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "microsoft-s-outlook-email-hit-by-new-outage",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Microsoft’s Outlook email hit by new outage",
+  "link": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+  "pubDate": "Thu, 12 Nov 2026 19:03:39 +0000",
+  "slides": [
+    "Why did Outlook go dark again?",
+    "Another outage hit Microsoft's email service",
+    "Users lost access during critical work hours",
+    "Check Microsoft's status page before relying on it",
+    "Your inbox isn't guaranteed—build a backup plan"
+  ],
+  "thread_text": [
+    "1. Outlook went dark again\n\nMicrosoft's email service suffered another outage, leaving users without access during critical work hours. The timing couldn't have been worse.",
+    "2. Not just a glitch\n\nThis is the second major disruption to Outlook in recent months, raising questions about reliability of cloud-based email for businesses.",
+    "3. Productivity held hostage\n\nWhen email goes down, workflows stall. Teams scramble to find alternatives while clients wait for responses that never arrive.",
+    "4. Check before you trust\n\nMicrosoft's status page is your first stop during an outage. But don't expect real-time clarity—updates often lag behind the actual disruption.",
+    "5. Build your backup plan\n\nDon't let your inbox be a single point of failure. Set up an alternative communication channel today—even a simple forwarding rule could save your workday."
+  ],
+  "video_script": [
+    "Outlook went dark again, and users were left stranded.",
+    "This isn't the first outage—it's becoming a pattern.",
+    "Critical work hours lost, productivity held hostage.",
+    "Before you rely on it, check Microsoft's status page.",
+    "Your inbox isn't guaranteed—build a backup plan today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Outlook went dark again\n\nMicrosoft's email service suffered another outage, leaving users without access during critical work hours. The timing couldn't have been worse.",
+        "2. Not just a glitch\n\nThis is the second major disruption to Outlook in recent months, raising questions about reliability of cloud-based email for businesses.",
+        "3. Productivity held hostage\n\nWhen email goes down, workflows stall. Teams scramble to find alternatives while clients wait for responses that never arrive.",
+        "4. Check before you trust\n\nMicrosoft's status page is your first stop during an outage. But don't expect real-time clarity—updates often lag behind the actual disruption.",
+        "5. Build your backup plan\n\nDon't let your inbox be a single point of failure. Set up an alternative communication channel today—even a simple forwarding rule could save your workday."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Outlook went dark again, and users were left stranded.",
+        "This isn't the first outage—it's becoming a pattern.",
+        "Critical work hours lost, productivity held hostage.",
+        "Before you rely on it, check Microsoft's status page.",
+        "Your inbox isn't guaranteed—build a backup plan today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your inbox went dark during work hours—again. 📧\n\nOutlook suffered another major outage, the second in recent months, and users lost email access right when they needed it most.\n\nMicrosoft's status page is the first place to check, but updates often lag behind the actual disruption.\n\nIf your workflow depends on one email provider, a single outage can stall everything—clients waiting, teams scrambling. ⚠️\n\nSet up an alternative channel today: a forwarding rule or backup address takes minutes. 🔧\n\nWhat's your plan if your inbox disappears tomorrow morning?"
+    }
+  },
+  "instagram_caption": "Your inbox went dark during work hours—again. 📧\n\nOutlook suffered another major outage, the second in recent months, and users lost email access right when they needed it most.\n\nMicrosoft's status page is the first place to check, but updates often lag behind the actual disruption.\n\nIf your workflow depends on one email provider, a single outage can stall everything—clients waiting, teams scrambling. ⚠️\n\nSet up an alternative channel today: a forwarding rule or backup address takes minutes. 🔧\n\nWhat's your plan if your inbox disappears tomorrow morning?",
+  "carousel_slides": [
+    {
+      "hook": "What if your inbox suddenly went dark?",
+      "description": "Microsoft's Outlook suffered another major outage, leaving users without email access during critical work hours.",
+      "visual_hint": "Dark computer screen with email icon",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer screen"
+    },
+    {
+      "hook": "Outlook's second outage in months",
+      "description": "This is the second major disruption recently, raising serious questions about cloud email reliability for businesses.",
+      "visual_hint": "Server room with blinking lights",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "When email fails, productivity stalls",
+      "description": "Teams scramble for alternatives while clients wait for responses that never arrive, grinding workflows to a halt.",
+      "visual_hint": "Frustrated office worker at desk",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Don't trust status pages blindly",
+      "description": "Microsoft's status page is your first stop during an outage, but updates often lag behind the actual disruption.",
+      "visual_hint": "Person checking status on laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "laptop screen",
+      "image": "https://images.pexels.com/photos/21391567/pexels-photo-21391567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: build your backup plan",
+      "description": "Don't let your inbox be a single point of failure—set up an alternative communication channel today.",
+      "visual_hint": "Person setting up email forwarding",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "email forwarding",
+      "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-632791848-e1720623049887.jpg?resize=1200,676",
+  "savedAt": "2026-11-13T02:26:08.545Z",
+  "sourceId": "5b3369c7f4152e7f048f9090ca3e20bb"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "phota-labs-uses-ai-to-turn-everyday-photos-into-pr",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+  "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+  "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
+  "slides": [
+    "Can Phota Labs fix your worst photos?",
+    "It uses AI to retouch everyday shots automatically",
+    "But it sometimes overcorrects faces and skin tones",
+    "You can test it free on ten photos today",
+    "Try one bad photo and judge the result yourself"
+  ],
+  "thread_text": [
+    "1. Your Worst Photo, Fixed?\n\nPhota Labs claims its AI can automatically retouch your everyday shots. If it works, you might never manually edit again.",
+    "2. How It Works\n\nThe AI analyzes faces and skin tones, then applies corrections. It's designed for quick, one-tap fixes.",
+    "3. The Overcorrection Problem\n\nSometimes it goes too far. Faces can look plastic and skin tones unnatural, so you'll need to double-check results.",
+    "4. Try It Free\n\nYou can test it on ten photos without paying. That's enough to see if the AI matches your taste.",
+    "5. One Photo Test\n\nTake a bad photo and run it through the free trial. Does it fix the shot or create more work? Judge for yourself."
+  ],
+  "video_script": [
+    "Can Phota Labs really fix your worst photos?",
+    "It uses AI to automatically retouch everyday shots.",
+    "But it sometimes overcorrects faces and skin tones.",
+    "You can test it free on ten photos today.",
+    "Try one bad photo and judge the result yourself."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your Worst Photo, Fixed?\n\nPhota Labs claims its AI can automatically retouch your everyday shots. If it works, you might never manually edit again.",
+        "2. How It Works\n\nThe AI analyzes faces and skin tones, then applies corrections. It's designed for quick, one-tap fixes.",
+        "3. The Overcorrection Problem\n\nSometimes it goes too far. Faces can look plastic and skin tones unnatural, so you'll need to double-check results.",
+        "4. Try It Free\n\nYou can test it on ten photos without paying. That's enough to see if the AI matches your taste.",
+        "5. One Photo Test\n\nTake a bad photo and run it through the free trial. Does it fix the shot or create more work? Judge for yourself."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can Phota Labs really fix your worst photos?",
+        "It uses AI to automatically retouch everyday shots.",
+        "But it sometimes overcorrects faces and skin tones.",
+        "You can test it free on ten photos today.",
+        "Try one bad photo and judge the result yourself."
+      ]
+    },
+    "instagram": {
+      "caption": "Ten photos, edited free, before you decide if it's worth it.\n\nPhota Labs' AI retouches your everyday shots automatically: it reads faces and skin tones, then applies one-tap corrections. ⚡\n\nProblem is, it sometimes overcorrects — faces go plastic, skin tones look off. So the result needs checking, not blind trust.\n\nIf you publish content, that's a real risk: one bad auto-fix can make a portrait look worse than the original.\n\nWould you trust an AI with your worst photo, or do you still edit by hand? 📸"
+    }
+  },
+  "instagram_caption": "Ten photos, edited free, before you decide if it's worth it.\n\nPhota Labs' AI retouches your everyday shots automatically: it reads faces and skin tones, then applies one-tap corrections. ⚡\n\nProblem is, it sometimes overcorrects — faces go plastic, skin tones look off. So the result needs checking, not blind trust.\n\nIf you publish content, that's a real risk: one bad auto-fix can make a portrait look worse than the original.\n\nWould you trust an AI with your worst photo, or do you still edit by hand? 📸",
+  "carousel_slides": [
+    {
+      "hook": "Can AI fix your worst photos?",
+      "description": "Phota Labs uses AI to automatically retouch everyday shots, potentially eliminating manual editing forever.",
+      "visual_hint": "Split screen: bad photo vs fixed",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "photo editing software"
+    },
+    {
+      "hook": "One tap, automatic retouching",
+      "description": "The AI analyzes faces and skin tones, then applies quick corrections designed for effortless one-tap fixes.",
+      "visual_hint": "Smartphone screen showing AI interface",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone app interface",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "But it sometimes overcorrects faces",
+      "description": "Faces can look plastic and skin tones unnatural, so you'll need to double-check the results.",
+      "visual_hint": "Before/after portrait with plastic look",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "portrait retouching",
+      "image": "https://images.pexels.com/photos/5946338/pexels-photo-5946338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it free on ten photos",
+      "description": "You can try Phota Labs on ten photos without paying, enough to see if it matches your taste.",
+      "visual_hint": "Hand holding phone with free trial badge",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "photo editing trial",
+      "image": "https://images.pexels.com/photos/9281786/pexels-photo-9281786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try one bad photo now",
+      "description": "Take a bad photo and run it through the free trial, then judge the result yourself.",
+      "visual_hint": "Phone with before/after comparison",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "photo comparison",
+      "image": "https://images.pexels.com/photos/35771721/pexels-photo-35771721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/04_Holiday_Lights_before_after.jpg?resize=1200,867",
+  "savedAt": "2026-11-13T02:26:18.946Z",
+  "sourceId": "6c6681e03d7676b3941a7381a07454c6"
+}
