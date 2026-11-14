@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "the-openai-board-member-who-fired-sam-altman-says-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "pubDate": "2026-11-14T15:00:00.000Z",
+      "slides": [
+        "Why did OpenAI's board fire Sam Altman?",
+        "The board feared AI CEOs can't self-govern",
+        "That member says the problem remains unsolved",
+        "Boards should demand independent AI audits now",
+        "Ask your AI vendor who audits their safety claims"
+      ],
+      "thread_text": [
+        "1. OpenAI's board fired Sam Altman. Why?\n\nA sitting board member says the real reason wasn't a single scandal — it was that the board feared no AI CEO can credibly self-govern the technology. That fear remains unresolved today.",
+        "2. The conflict no one names.\n\nA CEO who profits from shipping AI cannot also be the only check on its safety. The board knew this contradiction was structural — not a question of personal integrity, but of incentives.",
+        "3. That member says it's still unsolved.\n\nA board member now admits the governance problem is exactly where it was. Nothing has been fixed since the crisis. And no independent structure has been built to replace the trust they lost.",
+        "4. Boards should demand independent audits.\n\nNot self-assessments, not internal committees — third-party audits of safety claims, with real access to models and data. That is the only way a board can actually govern what it cannot see.",
+        "5. Ask your AI vendor today.\n\nWho audits your safety claims? If the answer is an internal team, you do not have governance — you have a press release. Ask the question in your next vendor review."
+      ],
+      "video_script": [
+        "OpenAI's board fired its CEO. A member now says why.",
+        "The board feared an AI CEO cannot self-govern.",
+        "That member admits the problem is still unresolved.",
+        "Boards need independent audits, not self-assessments.",
+        "Ask your AI vendor: who audits your safety claims?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. OpenAI's board fired Sam Altman. Why?\n\nA sitting board member says the real reason wasn't a single scandal — it was that the board feared no AI CEO can credibly self-govern the technology. That fear remains unresolved today.",
+            "2. The conflict no one names.\n\nA CEO who profits from shipping AI cannot also be the only check on its safety. The board knew this contradiction was structural — not a question of personal integrity, but of incentives.",
+            "3. That member says it's still unsolved.\n\nA board member now admits the governance problem is exactly where it was. Nothing has been fixed since the crisis. And no independent structure has been built to replace the trust they lost.",
+            "4. Boards should demand independent audits.\n\nNot self-assessments, not internal committees — third-party audits of safety claims, with real access to models and data. That is the only way a board can actually govern what it cannot see.",
+            "5. Ask your AI vendor today.\n\nWho audits your safety claims? If the answer is an internal team, you do not have governance — you have a press release. Ask the question in your next vendor review."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI's board fired its CEO. A member now says why.",
+            "The board feared an AI CEO cannot self-govern.",
+            "That member admits the problem is still unresolved.",
+            "Boards need independent audits, not self-assessments.",
+            "Ask your AI vendor: who audits your safety claims?"
+          ]
+        },
+        "instagram": {
+          "caption": "The OpenAI board member who voted to fire Sam Altman says AI CEOs can't be trusted to police themselves. 🚨\n\nThe board feared a CEO who profits from shipping AI can't also be its only safety check. That member now says the problem is still unsolved.\n\nBoards are told to demand independent audits of safety claims — real third-party access, not internal reviews.\n\nIf you build with AI tools, your vendor's safety claims may rest on the same self-governance they just admitted doesn't work. ⚠️\n\nAsk your AI vendor one question: who audits your safety claims? 🤔 If the answer is \"our internal team,\" you don't have governance — you have a press release."
+        }
+      },
+      "instagram_caption": "The OpenAI board member who voted to fire Sam Altman says AI CEOs can't be trusted to police themselves. 🚨\n\nThe board feared a CEO who profits from shipping AI can't also be its only safety check. That member now says the problem is still unsolved.\n\nBoards are told to demand independent audits of safety claims — real third-party access, not internal reviews.\n\nIf you build with AI tools, your vendor's safety claims may rest on the same self-governance they just admitted doesn't work. ⚠️\n\nAsk your AI vendor one question: who audits your safety claims? 🤔 If the answer is \"our internal team,\" you don't have governance — you have a press release.",
+      "carousel_slides": [
+        {
+          "hook": "Can any AI CEO truly self-govern?",
+          "description": "OpenAI's board fired Sam Altman over fears that no CEO can credibly oversee the technology they profit from.",
+          "visual_hint": "Abstract boardroom with empty chair",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "empty boardroom"
+        },
+        {
+          "hook": "Profit and safety: an impossible conflict",
+          "description": "A CEO who ships AI for profit cannot be the sole safety check. The board saw this as structural, not personal.",
+          "visual_hint": "Scale with money and shield",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "balance scale",
+          "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The governance problem is still unsolved",
+          "description": "A board member admits nothing has been fixed since the crisis. No independent structure has replaced lost trust.",
+          "visual_hint": "Broken chain link close-up",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "broken chain",
+          "image": "https://images.pexels.com/photos/5691777/pexels-photo-5691777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Demand independent AI audits now",
+          "description": "Boards must require third-party audits with real model access—not self-assessments or internal committees.",
+          "visual_hint": "Auditor with magnifying glass on code",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "magnifying glass code",
+          "image": "https://images.pexels.com/photos/17543457/pexels-photo-17543457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: ask who audits your AI",
+          "description": "In your next vendor review, ask: 'Who audits your safety claims?' If internal, you lack governance.",
+          "visual_hint": "Hand holding phone with checklist",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "phone checklist",
+          "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.711631919237%2C100%2C78.576736161526&amp;w=1200",
+      "savedAt": "2026-11-14T16:15:01.623Z",
+      "sourceId": "e906ce588cf4c1c43c6e4bcd1414ae05"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "let-s-talk-about-jensen-huang-s-many-affairs-",
       "prompt_version": "1.0.0",
       "status": "published",
