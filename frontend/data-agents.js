@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "chatgpt-wallet-lets-openai-s-dots-agents-make-purc",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "pubDate": "2026-11-13T20:45:10.000Z",
+      "slides": [
+        "Can ChatGPT spend your money without asking?",
+        "OpenAI's Dots agents now complete purchases on your behalf",
+        "But they decide how and when to checkout themselves",
+        "Card details and limits get logged per agent action",
+        "Set one spending cap before your first agent buys"
+      ],
+      "thread_text": [
+        "1. Your AI just bought something\n\nOpenAI's Dots agents now complete purchases on your behalf, and they decide how and when to checkout without asking you first.",
+        "2. They choose the moment\n\nYou set the goal, but the agent picks the timing and method. It's not waiting for your approval at the cart.",
+        "3. Every move is logged\n\nCard details and spending limits get recorded per agent action, so you can trace exactly what was charged and when.",
+        "4. One cap before they buy\n\nSet a single spending limit before your first agent purchase. Without it, the agent operates on its own judgment.",
+        "5. Would you hand over your card?\n\nOpen ChatGPT and check if your agent can spend without a cap. If you haven't set one, do it today."
+      ],
+      "video_script": [
+        "Your AI agent can now buy things without asking.",
+        "It decides when and how to checkout.",
+        "Every card detail and limit is logged.",
+        "Set one spending cap before it starts.",
+        "Would you let it spend your money?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your AI just bought something\n\nOpenAI's Dots agents now complete purchases on your behalf, and they decide how and when to checkout without asking you first.",
+            "2. They choose the moment\n\nYou set the goal, but the agent picks the timing and method. It's not waiting for your approval at the cart.",
+            "3. Every move is logged\n\nCard details and spending limits get recorded per agent action, so you can trace exactly what was charged and when.",
+            "4. One cap before they buy\n\nSet a single spending limit before your first agent purchase. Without it, the agent operates on its own judgment.",
+            "5. Would you hand over your card?\n\nOpen ChatGPT and check if your agent can spend without a cap. If you haven't set one, do it today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your AI agent can now buy things without asking.",
+            "It decides when and how to checkout.",
+            "Every card detail and limit is logged.",
+            "Set one spending cap before it starts.",
+            "Would you let it spend your money?"
+          ]
+        },
+        "instagram": {
+          "caption": "Your agent can now hit checkout without asking you first. 🛒\n\nOpenAI's Dots agents in ChatGPT complete purchases on your behalf and decide the timing and method themselves — you set the goal, but they choose when to buy.\n\nCard details and spending limits are logged per agent action, so every charge is traceable.\n\nIf you create or sell online, checkout can happen without a human at the cart.\n\nSet one spending cap before your first agent buys, or it runs on its own judgment. 💳\n\nHave you checked whether your agent can spend without a limit?"
+        }
+      },
+      "instagram_caption": "Your agent can now hit checkout without asking you first. 🛒\n\nOpenAI's Dots agents in ChatGPT complete purchases on your behalf and decide the timing and method themselves — you set the goal, but they choose when to buy.\n\nCard details and spending limits are logged per agent action, so every charge is traceable.\n\nIf you create or sell online, checkout can happen without a human at the cart.\n\nSet one spending cap before your first agent buys, or it runs on its own judgment. 💳\n\nHave you checked whether your agent can spend without a limit?",
+      "carousel_slides": [
+        {
+          "hook": "Can AI spend your money without asking?",
+          "description": "OpenAI's Dots agents now complete purchases for you, deciding when and how to checkout without your approval.",
+          "visual_hint": "A credit card held by a robotic hand",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "credit card robot"
+        },
+        {
+          "hook": "Agents decide the moment themselves",
+          "description": "You set the goal, but the agent picks timing and method. It doesn't wait for your approval at the cart.",
+          "visual_hint": "A shopping cart with a glowing AI chip",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "shopping cart chip",
+          "image": "https://images.pexels.com/photos/20187354/pexels-photo-20187354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Every agent purchase is logged",
+          "description": "Card details and spending limits are recorded per action, so you can trace exactly what was charged and when.",
+          "visual_hint": "A digital ledger with transaction entries",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "digital ledger screen",
+          "image": "https://images.pexels.com/photos/8358048/pexels-photo-8358048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Set one spending cap before they buy",
+          "description": "Without a single spending limit, the agent operates on its own judgment for every purchase.",
+          "visual_hint": "A hand adjusting a slider on a screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand slider control",
+          "image": "https://images.pexels.com/photos/5118430/pexels-photo-5118430.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: cap your agent's spending",
+          "description": "Open ChatGPT and check if your agent can spend without a cap. If not, set one today.",
+          "visual_hint": "A smartphone with a spending limit alert",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone alert screen",
+          "image": "https://images.pexels.com/photos/6034771/pexels-photo-6034771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-11-14T00:34:01.922Z",
+      "sourceId": "b5d8e3ece75ef596902018d0ae9ee3a6"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ai-agent-startup-langchain-hits-3b-valuation",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "pubDate": "Fri, 13 Nov 2026 19:37:57 +0000",
+      "slides": [
+        "LangChain hit $3B — but is the agent boom real?",
+        "Its tools power agents built by thousands of developers",
+        "Most agent startups quietly fail to reach production",
+        "If you build agents, pricing and support will shift",
+        "Test one agent workflow before betting on the platform"
+      ],
+      "thread_text": [
+        "1. The $3B agent gamble\n\nLangChain just hit a $3B valuation on tools that power agents for thousands of developers. But most agent startups quietly fail to reach production — so who's really paying?",
+        "2. The production graveyard\n\nThousands of developers build with LangChain, yet most agent startups never ship to real users. The tooling works; the business model often doesn't.",
+        "3. Pricing will shift\n\nIf you build agents, expect pricing and support terms to change as the platform matures. Today's developer-friendly deal won't last forever.",
+        "4. Don't bet the platform\n\nBetting your workflow on one platform before testing it is risky. Start with a single agent workflow and see if it survives real usage.",
+        "5. Test one workflow today\n\nPick one agent workflow and run it for a week on real tasks. If it can't survive that, you've saved yourself a much bigger bet."
+      ],
+      "video_script": [
+        "LangChain just hit three billion dollars. But is the agent boom real?",
+        "Its tools power agents built by thousands of developers.",
+        "Most agent startups quietly fail to reach production.",
+        "If you build agents, pricing and support will shift.",
+        "Test one agent workflow before betting on the platform."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The $3B agent gamble\n\nLangChain just hit a $3B valuation on tools that power agents for thousands of developers. But most agent startups quietly fail to reach production — so who's really paying?",
+            "2. The production graveyard\n\nThousands of developers build with LangChain, yet most agent startups never ship to real users. The tooling works; the business model often doesn't.",
+            "3. Pricing will shift\n\nIf you build agents, expect pricing and support terms to change as the platform matures. Today's developer-friendly deal won't last forever.",
+            "4. Don't bet the platform\n\nBetting your workflow on one platform before testing it is risky. Start with a single agent workflow and see if it survives real usage.",
+            "5. Test one workflow today\n\nPick one agent workflow and run it for a week on real tasks. If it can't survive that, you've saved yourself a much bigger bet."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "LangChain just hit three billion dollars. But is the agent boom real?",
+            "Its tools power agents built by thousands of developers.",
+            "Most agent startups quietly fail to reach production.",
+            "If you build agents, pricing and support will shift.",
+            "Test one agent workflow before betting on the platform."
+          ]
+        },
+        "instagram": {
+          "caption": "A company selling agent-building tools just hit a $3B valuation. 📈\n\nLangChain powers agents for thousands of developers. Yet most agent startups quietly never reach production — the tooling works, the business model often doesn't.\n\nIf you build agents, expect pricing and support terms to shift as the platform matures. Today's friendly deal won't last forever. 💸\n\nTest one agent workflow on real tasks for a week before betting your work on it. If it can't survive that, you've dodged a bigger bet. 🔍\n\nWhat's the one workflow you'd actually trust an agent with right now? 🤖"
+        }
+      },
+      "instagram_caption": "A company selling agent-building tools just hit a $3B valuation. 📈\n\nLangChain powers agents for thousands of developers. Yet most agent startups quietly never reach production — the tooling works, the business model often doesn't.\n\nIf you build agents, expect pricing and support terms to shift as the platform matures. Today's friendly deal won't last forever. 💸\n\nTest one agent workflow on real tasks for a week before betting your work on it. If it can't survive that, you've dodged a bigger bet. 🔍\n\nWhat's the one workflow you'd actually trust an agent with right now? 🤖",
+      "carousel_slides": [
+        {
+          "hook": "Is the AI agent boom real?",
+          "description": "LangChain hit a $3B valuation, but most agent startups quietly fail to reach production. Who's really paying?",
+          "visual_hint": "Split image of rising graph and faded robots",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "LangChain powers thousands of agent builders",
+          "description": "Thousands of developers use LangChain, yet most agent startups never ship to real users. The tooling works; the business model often doesn't.",
+          "visual_hint": "Developer coding on multiple screens",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "software developer",
+          "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Most agent startups never reach production",
+          "description": "Thousands build with LangChain, but most fail to launch. The production graveyard is real and growing.",
+          "visual_hint": "Abandoned server racks in dark room",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pricing and support will shift soon",
+          "description": "As LangChain matures, expect pricing and support terms to change. Today's developer-friendly deal won't last forever.",
+          "visual_hint": "Hand adjusting price tag on platform",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "price tag",
+          "image": "https://images.pexels.com/photos/7986977/pexels-photo-7986977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one agent workflow today",
+          "description": "Pick one agent workflow and run it for a week on real tasks. If it fails, you've saved a bigger bet.",
+          "visual_hint": "Person testing workflow on laptop",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop test",
+          "image": "https://images.pexels.com/photos/3861949/pexels-photo-3861949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
+      "savedAt": "2026-11-14T00:33:53.084Z",
+      "sourceId": "26d265ce671c85ecacf438c524bb2969"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "claude-s-duet-agent-is-a-little-neurotic-and-surpr",
       "prompt_version": "1.0.0",
       "status": "published",
