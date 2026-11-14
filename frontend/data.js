@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "let-s-talk-about-jensen-huang-s-many-affairs-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Let’s talk about Jensen Huang’s many affairs!",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+    "pubDate": "2026-11-13T12:00:00.000Z",
+    "slides": [
+      "Jensen Huang's affairs: what's really happening?",
+      "The NVIDIA CEO's private life is under scrutiny",
+      "But the rumors may be missing a key detail",
+      "Your company's AI strategy could hinge on this story",
+      "Separate the signal from the noise before reacting"
+    ],
+    "thread_text": [
+      "1. Jensen Huang's private life leaks\n\nA new report claims NVIDIA's CEO is facing personal scrutiny, but the story landed during a critical week for AI regulation.",
+      "2. The missing detail matters\n\nMost coverage skips the timing: the leak dropped just before a major chip export decision. That's not a coincidence.",
+      "3. Your AI roadmap at risk\n\nIf NVIDIA's leadership is distracted, supply chains and pricing could shift fast. Companies betting on H100 clusters need a backup plan.",
+      "4. Signal vs. noise, fast\n\nSeparate verified facts from anonymous rumors. The only confirmed element is a single unnamed source—everything else is speculation.",
+      "5. Test your exposure now\n\nAsk your AI vendor: what happens to our contract if NVIDIA's CEO steps back? If they can't answer, you have a gap."
+    ],
+    "video_script": [
+      "Jensen Huang's private life just hit the news.",
+      "But the timing is suspicious—right before a chip decision.",
+      "If leadership is distracted, your AI supply chain could break.",
+      "One unnamed source—that's all the evidence we have.",
+      "Ask your vendor: what if the CEO steps back?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Jensen Huang's private life leaks\n\nA new report claims NVIDIA's CEO is facing personal scrutiny, but the story landed during a critical week for AI regulation.",
+          "2. The missing detail matters\n\nMost coverage skips the timing: the leak dropped just before a major chip export decision. That's not a coincidence.",
+          "3. Your AI roadmap at risk\n\nIf NVIDIA's leadership is distracted, supply chains and pricing could shift fast. Companies betting on H100 clusters need a backup plan.",
+          "4. Signal vs. noise, fast\n\nSeparate verified facts from anonymous rumors. The only confirmed element is a single unnamed source—everything else is speculation.",
+          "5. Test your exposure now\n\nAsk your AI vendor: what happens to our contract if NVIDIA's CEO steps back? If they can't answer, you have a gap."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Jensen Huang's private life just hit the news.",
+          "But the timing is suspicious—right before a chip decision.",
+          "If leadership is distracted, your AI supply chain could break.",
+          "One unnamed source—that's all the evidence we have.",
+          "Ask your vendor: what if the CEO steps back?"
+        ]
+      },
+      "instagram": {
+        "caption": "A single unnamed source is behind claims about Jensen Huang's private life, and the leak landed just before a major chip export decision. 👀\n\nMost coverage skips the timing. That's the detail that matters more than the rumor itself.\n\nNothing beyond that one source has been confirmed. The rest is speculation dressed up as reporting.\n\nIf you're building on NVIDIA hardware, supply chains and pricing could shift while leadership is under scrutiny. 🧠\n\nAsk your AI vendor one question: what happens to our contract if the CEO steps back? If they can't answer, you have a gap. ⚠️\n\nWould you know your backup plan today? 🤔"
+      }
+    },
+    "instagram_caption": "A single unnamed source is behind claims about Jensen Huang's private life, and the leak landed just before a major chip export decision. 👀\n\nMost coverage skips the timing. That's the detail that matters more than the rumor itself.\n\nNothing beyond that one source has been confirmed. The rest is speculation dressed up as reporting.\n\nIf you're building on NVIDIA hardware, supply chains and pricing could shift while leadership is under scrutiny. 🧠\n\nAsk your AI vendor one question: what happens to our contract if the CEO steps back? If they can't answer, you have a gap. ⚠️\n\nWould you know your backup plan today? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Is NVIDIA's CEO hiding a critical distraction?",
+        "description": "A new leak hit during a major AI regulation week, raising questions about timing and impact on the industry.",
+        "visual_hint": "Split image: news headline vs. chip",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "newspaper headlines"
+      },
+      {
+        "hook": "The leak that could shift chip exports",
+        "description": "The report dropped just before a key export decision, suggesting strategic timing rather than coincidence.",
+        "visual_hint": "Calendar with export decision marked",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "calendar document",
+        "image": "https://images.pexels.com/photos/6929009/pexels-photo-6929009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your AI roadmap hangs in the balance",
+        "description": "If leadership is distracted, supply chains and pricing for H100 clusters could change fast. Backup plans needed.",
+        "visual_hint": "H100 GPU server cluster",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "GPU server",
+        "image": "https://images.pexels.com/photos/6974258/pexels-photo-6974258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Separate verified facts from anonymous noise",
+        "description": "Only one unnamed source is confirmed; everything else is speculation. Don't let rumors drive your strategy.",
+        "visual_hint": "Magnifying glass over news article",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "magnifying glass",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your vendor exposure now — save this",
+        "description": "Ask your AI vendor: what happens if NVIDIA's CEO steps back? If they can't answer, you have a gap.",
+        "visual_hint": "Person on phone with checklist",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office worker phone",
+        "image": "https://images.pexels.com/photos/7581015/pexels-photo-7581015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-11-14T08:20:34.353Z",
+    "sourceId": "5baea4d15354d4f6d728cffc09748691"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "jensen-huang-was-having-a-third-affair-reuters-rep",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Jensen Huang was having a third affair, Reuters reports",
+    "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+    "pubDate": "Thu, 12 Nov 2026 20:26:47 +0000",
+    "slides": [
+      "Why is Jensen Huang under Reuters scrutiny?",
+      "A third affair alleged, but the story goes deeper",
+      "The timing collides with Nvidia's biggest product launch",
+      "Investors now weigh leadership risk against AI dominance",
+      "Ask your fund manager if governance is priced in"
+    ],
+    "thread_text": [
+      "1. Nvidia's $3T secret\n\nJensen Huang faces a third affair allegation just as Nvidia's biggest product launch is set to hit markets. The timing could not be worse for the AI giant.",
+      "2. Not a simple scandal\n\nThe Reuters investigation goes beyond personal allegations — it questions governance at the highest level of the world's most valuable chipmaker.",
+      "3. Launch vs. scandal\n\nNvidia's new Blackwell chip is supposed to cement its dominance for years. But headlines about Huang's personal life now compete with product news.",
+      "4. The real risk factor\n\nInvestors are weighing leadership risk against AI dominance. A CEO distraction at this scale is a new variable in Nvidia's valuation.",
+      "5. Check your portfolio\n\nAsk your fund manager if governance is priced in. If they can't answer, rethink your exposure today."
+    ],
+    "video_script": [
+      "Jensen Huang is under Reuters scrutiny for a third alleged affair.",
+      "The story is not just personal — it questions Nvidia's governance.",
+      "The timing is terrible: Nvidia's biggest product launch is imminent.",
+      "Investors now weigh leadership risk against AI dominance.",
+      "Ask yourself: is this governance risk already priced in?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Nvidia's $3T secret\n\nJensen Huang faces a third affair allegation just as Nvidia's biggest product launch is set to hit markets. The timing could not be worse for the AI giant.",
+          "2. Not a simple scandal\n\nThe Reuters investigation goes beyond personal allegations — it questions governance at the highest level of the world's most valuable chipmaker.",
+          "3. Launch vs. scandal\n\nNvidia's new Blackwell chip is supposed to cement its dominance for years. But headlines about Huang's personal life now compete with product news.",
+          "4. The real risk factor\n\nInvestors are weighing leadership risk against AI dominance. A CEO distraction at this scale is a new variable in Nvidia's valuation.",
+          "5. Check your portfolio\n\nAsk your fund manager if governance is priced in. If they can't answer, rethink your exposure today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Jensen Huang is under Reuters scrutiny for a third alleged affair.",
+          "The story is not just personal — it questions Nvidia's governance.",
+          "The timing is terrible: Nvidia's biggest product launch is imminent.",
+          "Investors now weigh leadership risk against AI dominance.",
+          "Ask yourself: is this governance risk already priced in?"
+        ]
+      },
+      "instagram": {
+        "caption": "A third affair allegation against Jensen Huang just landed — right as Nvidia's biggest product launch is about to hit the market. 🚨\n\nReuters isn't just reporting on his personal life. It's questioning governance at the top of the world's most valuable chipmaker.\n\nThe Blackwell chip was supposed to own the headlines for years. Now they're competing with scandal coverage. ⚖️\n\nIf you publish or invest in AI content, this is a new variable in Nvidia's valuation — leadership risk sitting right next to AI dominance. 📊\n\nAsk your fund manager if governance is priced in. If they can't answer clearly, 🤔 that silence is your answer."
+      }
+    },
+    "instagram_caption": "A third affair allegation against Jensen Huang just landed — right as Nvidia's biggest product launch is about to hit the market. 🚨\n\nReuters isn't just reporting on his personal life. It's questioning governance at the top of the world's most valuable chipmaker.\n\nThe Blackwell chip was supposed to own the headlines for years. Now they're competing with scandal coverage. ⚖️\n\nIf you publish or invest in AI content, this is a new variable in Nvidia's valuation — leadership risk sitting right next to AI dominance. 📊\n\nAsk your fund manager if governance is priced in. If they can't answer clearly, 🤔 that silence is your answer.",
+    "carousel_slides": [
+      {
+        "hook": "Nvidia's $3T secret: scandal timing",
+        "description": "A third affair allegation against Jensen Huang hits as Nvidia's biggest product launch approaches, potentially distracting from the AI giant's momentum.",
+        "visual_hint": "Jensen Huang on stage at launch",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Jensen Huang keynote"
+      },
+      {
+        "hook": "Is this just a personal scandal?",
+        "description": "Reuters investigation questions governance at the highest level of the world's most valuable chipmaker, beyond personal allegations.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "visual_hint": "Corporate governance documents and gavel",
+        "image_query": "corporate governance",
+        "image": "https://images.pexels.com/photos/6950016/pexels-photo-6950016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Blackwell launch vs. scandal headlines",
+        "description": "Nvidia's new Blackwell chip aims to cement dominance, but headlines about Huang's personal life now compete with product news.",
+        "visual_hint": "Blackwell chip close-up with news overlay",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "Blackwell chip",
+        "image": "https://images.pexels.com/photos/31116124/pexels-photo-31116124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Leadership risk: new valuation variable",
+        "description": "Investors weigh leadership risk against AI dominance; a CEO distraction at this scale adds a new variable to Nvidia's valuation.",
+        "visual_hint": "Investor analyzing stock charts with concern",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Is governance priced into your portfolio?",
+        "description": "Ask your fund manager if governance is priced in; if they can't answer, rethink your exposure today.",
+        "visual_hint": "Portfolio review with fund manager",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "fund manager meeting",
+        "image": "https://images.pexels.com/photos/5668504/pexels-photo-5668504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
+    "savedAt": "2026-11-14T08:20:24.762Z",
+    "sourceId": "80b196c700f278d5387d6dfe31d0a0ca"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "chatgpt-wallet-lets-openai-s-dots-agents-make-purc",
     "prompt_version": "1.0.0",
     "status": "published",
