@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "congress-wants-to-tighten-export-rules-on-ai-chips",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+    "pubDate": "2026-11-15T19:15:43.000Z",
+    "slides": [
+      "Can Congress close the Nvidia backdoor?",
+      "Lawmakers want tighter export rules on AI chips",
+      "The spy scandal involved chips found in restricted hands",
+      "Companies exporting chips may face new license hurdles",
+      "Audit your chip supply chain before rules land"
+    ],
+    "thread_text": [
+      "1. The Nvidia backdoor question\n\nLawmakers want tighter export rules on AI chips after a spy scandal involved chips found in restricted hands. Congress is now asking if the backdoor can be closed.",
+      "2. Export rules under scrutiny\n\nCompanies exporting chips may face new license hurdles. The proposal targets AI chips specifically, aiming to prevent them from reaching restricted entities.",
+      "3. Spy scandal raises alarms\n\nThe scandal involved chips found in restricted hands, prompting lawmakers to demand stricter controls. This incident has accelerated calls for reform.",
+      "4. License hurdles ahead\n\nIf new rules pass, exporters will need licenses for AI chip sales. This could slow down shipments and increase compliance costs for companies.",
+      "5. Audit your supply chain now\n\nBefore rules land, audit your chip supply chain. Identify where your chips end up and ensure no restricted parties are receiving them. Start today."
+    ],
+    "video_script": [
+      "Congress asks: can the Nvidia backdoor be closed?",
+      "Lawmakers want tighter export rules on AI chips.",
+      "A spy scandal involved chips found in restricted hands.",
+      "Companies exporting chips may face new license hurdles.",
+      "Audit your chip supply chain before rules land."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Nvidia backdoor question\n\nLawmakers want tighter export rules on AI chips after a spy scandal involved chips found in restricted hands. Congress is now asking if the backdoor can be closed.",
+          "2. Export rules under scrutiny\n\nCompanies exporting chips may face new license hurdles. The proposal targets AI chips specifically, aiming to prevent them from reaching restricted entities.",
+          "3. Spy scandal raises alarms\n\nThe scandal involved chips found in restricted hands, prompting lawmakers to demand stricter controls. This incident has accelerated calls for reform.",
+          "4. License hurdles ahead\n\nIf new rules pass, exporters will need licenses for AI chip sales. This could slow down shipments and increase compliance costs for companies.",
+          "5. Audit your supply chain now\n\nBefore rules land, audit your chip supply chain. Identify where your chips end up and ensure no restricted parties are receiving them. Start today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Congress asks: can the Nvidia backdoor be closed?",
+          "Lawmakers want tighter export rules on AI chips.",
+          "A spy scandal involved chips found in restricted hands.",
+          "Companies exporting chips may face new license hurdles.",
+          "Audit your chip supply chain before rules land."
+        ]
+      },
+      "instagram": {
+        "caption": "Lawmakers want new license requirements before AI chips leave the country, after a spy scandal put restricted chips in the wrong hands.\n\nCongress is asking whether the export backdoor can actually be closed.\n\nRight now, exporters can ship AI chips under existing rules. If the proposal passes, each AI chip sale abroad could need a license first.\n\nThat means slower shipments and new compliance costs for anyone building with these chips.\n\nDo you know where your chips end up? 🛑 Audit your supply chain before the rules land. 🔍\n\nWhat would a licensing delay do to your roadmap? ⏳"
+      }
+    },
+    "instagram_caption": "Lawmakers want new license requirements before AI chips leave the country, after a spy scandal put restricted chips in the wrong hands.\n\nCongress is asking whether the export backdoor can actually be closed.\n\nRight now, exporters can ship AI chips under existing rules. If the proposal passes, each AI chip sale abroad could need a license first.\n\nThat means slower shipments and new compliance costs for anyone building with these chips.\n\nDo you know where your chips end up? 🛑 Audit your supply chain before the rules land. 🔍\n\nWhat would a licensing delay do to your roadmap? ⏳",
+    "carousel_slides": [
+      {
+        "hook": "Can Congress close the Nvidia backdoor?",
+        "description": "A spy scandal involving chips in restricted hands has lawmakers demanding tighter export rules on AI chips.",
+        "visual_hint": "Congressional building with AI chip overlay",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "US Capitol"
+      },
+      {
+        "hook": "Lawmakers push tighter AI chip export rules",
+        "description": "New proposals target AI chips specifically to prevent them from reaching restricted entities, potentially adding license hurdles.",
+        "visual_hint": "Lawmakers debating with chip models",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "government meeting",
+        "image": "https://images.pexels.com/photos/33599640/pexels-photo-33599640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Spy scandal: chips found in restricted hands",
+        "description": "The incident has accelerated calls for reform, raising alarms about current export controls' effectiveness.",
+        "visual_hint": "Microchip under magnifying glass",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "microchip closeup",
+        "image": "https://images.pexels.com/photos/7286003/pexels-photo-7286003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "New license hurdles for chip exporters",
+        "description": "If rules pass, exporters will need licenses for AI chip sales, slowing shipments and increasing compliance costs.",
+        "visual_hint": "Stack of license documents",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "paperwork stack",
+        "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your chip supply chain now",
+        "description": "Identify where your chips end up and ensure no restricted parties receive them. Start today.",
+        "visual_hint": "Supply chain diagram with checkmarks",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "warehouse shelves",
+        "image": "https://images.pexels.com/photos/30341205/pexels-photo-30341205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-11-15T22:18:27.769Z",
+    "sourceId": "bc766627e4a1f87cbc53067d67c749e4"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "is-bad-news-for-jensen-huang-also-bad-news-for-the",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+    "pubDate": "Sun, 15 Nov 2026 21:56:35 +0000",
+    "slides": [
+      "Is bad news for Jensen Huang bad for AI?",
+      "Nvidia's stock dropped after earnings call",
+      "The bottleneck isn't chips anymore — it's power",
+      "Your AI projects will hit energy limits first",
+      "Check your power budget before scaling GPUs"
+    ],
+    "thread_text": [
+      "1. Nvidia's Bad News Is Not the AI Story\n\nNvidia stock dropped after earnings, but the real constraint on AI isn't chip supply—it's electricity. The market may be looking at the wrong bottleneck.",
+      "2. The Bottleneck Shifted\n\nFor years, AI progress was gated by GPU availability. Now, power infrastructure is the limiting factor. Data centers are struggling to secure enough energy to run the hardware they already have.",
+      "3. Your AI Projects Will Hit the Wall\n\nEnergy constraints won't just affect hyperscalers—they'll hit your projects too. Before scaling, you need to know your power budget, not just your compute budget. Otherwise, you'll stall.",
+      "4. Power Budget First\n\nBefore you plan your next GPU cluster, check your power allocation. If you can't power it, you can't scale it. The energy ceiling is real, and it's closer than you think.",
+      "5. Action: Audit Your Power Today\n\nCheck your current power usage and future needs. Can your infrastructure support the GPUs you're planning to add? If not, address it before you buy more hardware."
+    ],
+    "video_script": [
+      "Nvidia's stock fell after earnings. But that's not the real problem.",
+      "The bottleneck isn't chips anymore. It's power.",
+      "Data centers can't get enough electricity to run the GPUs they already have.",
+      "Your AI projects will hit energy limits first.",
+      "Check your power budget before scaling GPUs."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Nvidia's Bad News Is Not the AI Story\n\nNvidia stock dropped after earnings, but the real constraint on AI isn't chip supply—it's electricity. The market may be looking at the wrong bottleneck.",
+          "2. The Bottleneck Shifted\n\nFor years, AI progress was gated by GPU availability. Now, power infrastructure is the limiting factor. Data centers are struggling to secure enough energy to run the hardware they already have.",
+          "3. Your AI Projects Will Hit the Wall\n\nEnergy constraints won't just affect hyperscalers—they'll hit your projects too. Before scaling, you need to know your power budget, not just your compute budget. Otherwise, you'll stall.",
+          "4. Power Budget First\n\nBefore you plan your next GPU cluster, check your power allocation. If you can't power it, you can't scale it. The energy ceiling is real, and it's closer than you think.",
+          "5. Action: Audit Your Power Today\n\nCheck your current power usage and future needs. Can your infrastructure support the GPUs you're planning to add? If not, address it before you buy more hardware."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nvidia's stock fell after earnings. But that's not the real problem.",
+          "The bottleneck isn't chips anymore. It's power.",
+          "Data centers can't get enough electricity to run the GPUs they already have.",
+          "Your AI projects will hit energy limits first.",
+          "Check your power budget before scaling GPUs."
+        ]
+      },
+      "instagram": {
+        "caption": "Nvidia's stock dropped after earnings — and the reason should worry you more than it worries Jensen Huang.\n\nThe bottleneck for AI isn't chips anymore. It's electricity ⚡ Data centers can't secure enough power to run the hardware they already own.\n\nThat means your AI projects will hit energy limits before they hit compute limits. Before you scale GPUs, check your power budget — not just your compute budget 🔌\n\nIf you can't power it, you can't scale it. The energy ceiling is closer than you think 🚧\n\nHave you actually checked how much power your current setup draws — and what your next GPU cluster would need? 🔍"
+      }
+    },
+    "instagram_caption": "Nvidia's stock dropped after earnings — and the reason should worry you more than it worries Jensen Huang.\n\nThe bottleneck for AI isn't chips anymore. It's electricity ⚡ Data centers can't secure enough power to run the hardware they already own.\n\nThat means your AI projects will hit energy limits before they hit compute limits. Before you scale GPUs, check your power budget — not just your compute budget 🔌\n\nIf you can't power it, you can't scale it. The energy ceiling is closer than you think 🚧\n\nHave you actually checked how much power your current setup draws — and what your next GPU cluster would need? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Is power the real AI bottleneck?",
+        "description": "Nvidia stock fell after earnings, but the actual constraint on AI progress is electricity, not chips.",
+        "visual_hint": "Power lines over data center",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "power lines"
+      },
+      {
+        "hook": "Nvidia's dip signals a bigger shift",
+        "description": "For years GPU supply gated AI; now power infrastructure is the limiting factor for data centers.",
+        "visual_hint": "Stock chart next to server rack",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your AI projects will hit energy limits",
+        "description": "Energy constraints affect everyone, not just hyperscalers. Know your power budget before scaling.",
+        "visual_hint": "GPU cluster with power meter",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check power budget before scaling GPUs",
+        "description": "Before planning your next GPU cluster, verify your power allocation. If you can't power it, you can't scale it.",
+        "visual_hint": "Hand pointing at power gauge",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "power meter",
+        "image": "https://images.pexels.com/photos/11125742/pexels-photo-11125742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: audit your power today",
+        "description": "Check your current power usage and future needs. Can infrastructure support the GPUs you plan to add?",
+        "visual_hint": "Checklist with power symbols",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+    "savedAt": "2026-11-15T22:18:19.229Z",
+    "sourceId": "b95b24505d9f9fa9c0d989f70263a48a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "the-openai-board-member-who-fired-sam-altman-says-",
     "prompt_version": "1.0.0",
     "status": "published",

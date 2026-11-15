@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "congress-wants-to-tighten-export-rules-on-ai-chips",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+  "pubDate": "2026-11-15T19:15:43.000Z",
+  "slides": [
+    "Can Congress close the Nvidia backdoor?",
+    "Lawmakers want tighter export rules on AI chips",
+    "The spy scandal involved chips found in restricted hands",
+    "Companies exporting chips may face new license hurdles",
+    "Audit your chip supply chain before rules land"
+  ],
+  "thread_text": [
+    "1. The Nvidia backdoor question\n\nLawmakers want tighter export rules on AI chips after a spy scandal involved chips found in restricted hands. Congress is now asking if the backdoor can be closed.",
+    "2. Export rules under scrutiny\n\nCompanies exporting chips may face new license hurdles. The proposal targets AI chips specifically, aiming to prevent them from reaching restricted entities.",
+    "3. Spy scandal raises alarms\n\nThe scandal involved chips found in restricted hands, prompting lawmakers to demand stricter controls. This incident has accelerated calls for reform.",
+    "4. License hurdles ahead\n\nIf new rules pass, exporters will need licenses for AI chip sales. This could slow down shipments and increase compliance costs for companies.",
+    "5. Audit your supply chain now\n\nBefore rules land, audit your chip supply chain. Identify where your chips end up and ensure no restricted parties are receiving them. Start today."
+  ],
+  "video_script": [
+    "Congress asks: can the Nvidia backdoor be closed?",
+    "Lawmakers want tighter export rules on AI chips.",
+    "A spy scandal involved chips found in restricted hands.",
+    "Companies exporting chips may face new license hurdles.",
+    "Audit your chip supply chain before rules land."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Nvidia backdoor question\n\nLawmakers want tighter export rules on AI chips after a spy scandal involved chips found in restricted hands. Congress is now asking if the backdoor can be closed.",
+        "2. Export rules under scrutiny\n\nCompanies exporting chips may face new license hurdles. The proposal targets AI chips specifically, aiming to prevent them from reaching restricted entities.",
+        "3. Spy scandal raises alarms\n\nThe scandal involved chips found in restricted hands, prompting lawmakers to demand stricter controls. This incident has accelerated calls for reform.",
+        "4. License hurdles ahead\n\nIf new rules pass, exporters will need licenses for AI chip sales. This could slow down shipments and increase compliance costs for companies.",
+        "5. Audit your supply chain now\n\nBefore rules land, audit your chip supply chain. Identify where your chips end up and ensure no restricted parties are receiving them. Start today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Congress asks: can the Nvidia backdoor be closed?",
+        "Lawmakers want tighter export rules on AI chips.",
+        "A spy scandal involved chips found in restricted hands.",
+        "Companies exporting chips may face new license hurdles.",
+        "Audit your chip supply chain before rules land."
+      ]
+    },
+    "instagram": {
+      "caption": "Lawmakers want new license requirements before AI chips leave the country, after a spy scandal put restricted chips in the wrong hands.\n\nCongress is asking whether the export backdoor can actually be closed.\n\nRight now, exporters can ship AI chips under existing rules. If the proposal passes, each AI chip sale abroad could need a license first.\n\nThat means slower shipments and new compliance costs for anyone building with these chips.\n\nDo you know where your chips end up? 🛑 Audit your supply chain before the rules land. 🔍\n\nWhat would a licensing delay do to your roadmap? ⏳"
+    }
+  },
+  "instagram_caption": "Lawmakers want new license requirements before AI chips leave the country, after a spy scandal put restricted chips in the wrong hands.\n\nCongress is asking whether the export backdoor can actually be closed.\n\nRight now, exporters can ship AI chips under existing rules. If the proposal passes, each AI chip sale abroad could need a license first.\n\nThat means slower shipments and new compliance costs for anyone building with these chips.\n\nDo you know where your chips end up? 🛑 Audit your supply chain before the rules land. 🔍\n\nWhat would a licensing delay do to your roadmap? ⏳",
+  "carousel_slides": [
+    {
+      "hook": "Can Congress close the Nvidia backdoor?",
+      "description": "A spy scandal involving chips in restricted hands has lawmakers demanding tighter export rules on AI chips.",
+      "visual_hint": "Congressional building with AI chip overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "US Capitol"
+    },
+    {
+      "hook": "Lawmakers push tighter AI chip export rules",
+      "description": "New proposals target AI chips specifically to prevent them from reaching restricted entities, potentially adding license hurdles.",
+      "visual_hint": "Lawmakers debating with chip models",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "government meeting",
+      "image": "https://images.pexels.com/photos/33599640/pexels-photo-33599640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Spy scandal: chips found in restricted hands",
+      "description": "The incident has accelerated calls for reform, raising alarms about current export controls' effectiveness.",
+      "visual_hint": "Microchip under magnifying glass",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "microchip closeup",
+      "image": "https://images.pexels.com/photos/7286003/pexels-photo-7286003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "New license hurdles for chip exporters",
+      "description": "If rules pass, exporters will need licenses for AI chip sales, slowing shipments and increasing compliance costs.",
+      "visual_hint": "Stack of license documents",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "paperwork stack",
+      "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your chip supply chain now",
+      "description": "Identify where your chips end up and ensure no restricted parties receive them. Start today.",
+      "visual_hint": "Supply chain diagram with checkmarks",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "warehouse shelves",
+      "image": "https://images.pexels.com/photos/30341205/pexels-photo-30341205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-15T22:18:27.769Z",
+  "sourceId": "bc766627e4a1f87cbc53067d67c749e4"
+}
