@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "indian-chip-startup-bharat-semi-lands-24m-seed-rou",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "pubDate": "Sun, 15 Nov 2026 23:30:00 +0000",
+      "slides": [
+        "Can Bharat Semi's $24M seed bet beat global chip giants?",
+        "The Indian startup just raised one of its sector's largest seed rounds",
+        "But the real target isn't chips — it's AI sensors",
+        "Global sensor demand is exploding, and Bharat Semi wants in",
+        "Watch this space: the first product will reveal everything"
+      ],
+      "thread_text": [
+        "1. $24M seed bet on sensors?\n\nBharat Semi just raised one of the largest seed rounds in Indian semiconductor history. But the real target isn't chips — it's AI sensors.",
+        "2. Chips are just the start.\n\nWhile global chip giants dominate processors, Bharat Semi is betting on a different battlefield: AI-powered sensors that could redefine how machines perceive the world.",
+        "3. Demand is exploding.\n\nFrom autonomous vehicles to smart factories, global sensor demand is skyrocketing. Bharat Semi wants to capture a piece of that market with its AI sensor technology.",
+        "4. First product will reveal all.\n\nThe startup's first product will show whether it can truly compete. If it delivers, the $24M bet could pay off — and change India's role in the global chip supply chain.",
+        "5. Want to track this?\n\nFollow Bharat Semi's product launch announcements. If you're in tech, ask yourself: would you bet on a sensor-first strategy over chips?"
+      ],
+      "video_script": [
+        "Bharat Semi raised 24 million dollars in seed funding.",
+        "One of the largest seed rounds in Indian chip history.",
+        "But their real focus is AI sensors, not chips.",
+        "Global sensor demand is exploding right now.",
+        "Watch their first product — it will reveal everything."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $24M seed bet on sensors?\n\nBharat Semi just raised one of the largest seed rounds in Indian semiconductor history. But the real target isn't chips — it's AI sensors.",
+            "2. Chips are just the start.\n\nWhile global chip giants dominate processors, Bharat Semi is betting on a different battlefield: AI-powered sensors that could redefine how machines perceive the world.",
+            "3. Demand is exploding.\n\nFrom autonomous vehicles to smart factories, global sensor demand is skyrocketing. Bharat Semi wants to capture a piece of that market with its AI sensor technology.",
+            "4. First product will reveal all.\n\nThe startup's first product will show whether it can truly compete. If it delivers, the $24M bet could pay off — and change India's role in the global chip supply chain.",
+            "5. Want to track this?\n\nFollow Bharat Semi's product launch announcements. If you're in tech, ask yourself: would you bet on a sensor-first strategy over chips?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Bharat Semi raised 24 million dollars in seed funding.",
+            "One of the largest seed rounds in Indian chip history.",
+            "But their real focus is AI sensors, not chips.",
+            "Global sensor demand is exploding right now.",
+            "Watch their first product — it will reveal everything."
+          ]
+        },
+        "instagram": {
+          "caption": "An Indian startup just raised $24 million before shipping a single product.\n\nBharat Semi closed one of the largest seed rounds in Indian semiconductor history 💰\n\nBut the money isn't chasing processors — it's betting on AI sensors that let machines perceive the world.\n\nSensor demand is exploding across autonomous vehicles and smart factories, and Bharat Semi wants a slice.\n\nIf you write about tech, this is a launch to track: the first product will show whether a sensor-first strategy can compete with global chip giants.\n\nWould you bet on sensors over chips? 👀"
+        }
+      },
+      "instagram_caption": "An Indian startup just raised $24 million before shipping a single product.\n\nBharat Semi closed one of the largest seed rounds in Indian semiconductor history 💰\n\nBut the money isn't chasing processors — it's betting on AI sensors that let machines perceive the world.\n\nSensor demand is exploding across autonomous vehicles and smart factories, and Bharat Semi wants a slice.\n\nIf you write about tech, this is a launch to track: the first product will show whether a sensor-first strategy can compete with global chip giants.\n\nWould you bet on sensors over chips? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Is the real target AI sensors?",
+          "description": "Bharat Semi raised $24M seed to develop AI sensors, not just chips, aiming to compete globally.",
+          "visual_hint": "Futuristic sensor chip on dark background",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "semiconductor chip"
+        },
+        {
+          "hook": "One of India's largest seed rounds",
+          "description": "The $24M round is among the biggest in Indian semiconductor history, signaling strong investor confidence.",
+          "visual_hint": "Stack of money with chip overlay",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stack of money",
+          "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Not chips — AI sensors",
+          "description": "While giants dominate processors, Bharat Semi bets on AI-powered sensors to redefine machine perception.",
+          "visual_hint": "Close-up of sensor with AI overlay",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "sensor device",
+          "image": "https://images.pexels.com/photos/7848351/pexels-photo-7848351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Sensor demand is exploding globally",
+          "description": "From autonomous vehicles to smart factories, sensor demand is skyrocketing, and Bharat Semi wants a piece.",
+          "visual_hint": "Hand holding sensor with factory backdrop",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: first product will reveal all",
+          "description": "Follow Bharat Semi's launch announcements to see if the $24M bet pays off and changes India's chip role.",
+          "visual_hint": "Product launch teaser with save icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "product launch event",
+          "image": "https://images.pexels.com/photos/28936752/pexels-photo-28936752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/bharat-semi-co-founders-vinayak-dalmia-vrinda-kapoor.jpg?resize=1200,800",
+      "savedAt": "2026-11-16T12:24:55.101Z",
+      "sourceId": "22756b5773130bd071ae30f2a8a7c1eb"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "helsing-backer-plural-raises-1-1b-to-fund-europe-s",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+      "link": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+      "pubDate": "Mon, 16 Nov 2026 07:00:00 +0000",
+      "slides": [
+        "Can Europe's next Helsing come from this $1.1B bet?",
+        "Plural's new fund targets deep tech moonshots",
+        "But most of the capital goes to founders only now",
+        "Later-stage European startups face a funding cliff",
+        "Ask your team: which moonshot dies without this check?"
+      ],
+      "thread_text": [
+        "1. Europe's $1.1B moonshot\n\nPlural's new fund is betting big on deep tech, but most of the capital now goes to founders only. That leaves later-stage startups staring at a funding cliff.",
+        "2. The founder-only shift\n\nInvestors are pouring money into early-stage founders, but later-stage European startups are struggling to raise follow-on rounds. The gap is widening.",
+        "3. Funding cliff ahead\n\nLater-stage European startups face a funding cliff as capital concentrates on early bets. Without follow-on, even promising moonshots could die.",
+        "4. Can Helsing 2.0 emerge?\n\nWith $1.1B aimed at deep tech, Europe hopes for its next Helsing. But the founder-only focus may starve the very companies that need scale-up capital.",
+        "5. Which moonshot dies?\n\nAsk your team: which moonshot dies without this check? If you can't name one, you're not paying attention to the funding cliff."
+      ],
+      "video_script": [
+        "Europe's next Helsing? A $1.1B bet says maybe.",
+        "Plural's new fund targets deep tech moonshots.",
+        "But most capital goes to founders only now.",
+        "Later-stage European startups face a funding cliff.",
+        "Ask your team: which moonshot dies without this check?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Europe's $1.1B moonshot\n\nPlural's new fund is betting big on deep tech, but most of the capital now goes to founders only. That leaves later-stage startups staring at a funding cliff.",
+            "2. The founder-only shift\n\nInvestors are pouring money into early-stage founders, but later-stage European startups are struggling to raise follow-on rounds. The gap is widening.",
+            "3. Funding cliff ahead\n\nLater-stage European startups face a funding cliff as capital concentrates on early bets. Without follow-on, even promising moonshots could die.",
+            "4. Can Helsing 2.0 emerge?\n\nWith $1.1B aimed at deep tech, Europe hopes for its next Helsing. But the founder-only focus may starve the very companies that need scale-up capital.",
+            "5. Which moonshot dies?\n\nAsk your team: which moonshot dies without this check? If you can't name one, you're not paying attention to the funding cliff."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Europe's next Helsing? A $1.1B bet says maybe.",
+            "Plural's new fund targets deep tech moonshots.",
+            "But most capital goes to founders only now.",
+            "Later-stage European startups face a funding cliff.",
+            "Ask your team: which moonshot dies without this check?"
+          ]
+        },
+        "instagram": {
+          "caption": "One billion dollars just landed on European deep tech, but almost none of it reaches companies that already shipped a product.\n\nPlural, the backer behind Helsing, closed a $1.1B fund aimed at moonshots. Most of the money is earmarked for founders only, at the earliest stage.\n\nLater-stage startups are left staring at a funding cliff. Without follow-on rounds, promising companies stall before they scale.\n\nIf you're building in Europe, your next round just got harder to find.\n\nWhich moonshot dies without this check — can you name one? 🚀💸"
+        }
+      },
+      "instagram_caption": "One billion dollars just landed on European deep tech, but almost none of it reaches companies that already shipped a product.\n\nPlural, the backer behind Helsing, closed a $1.1B fund aimed at moonshots. Most of the money is earmarked for founders only, at the earliest stage.\n\nLater-stage startups are left staring at a funding cliff. Without follow-on rounds, promising companies stall before they scale.\n\nIf you're building in Europe, your next round just got harder to find.\n\nWhich moonshot dies without this check — can you name one? 🚀💸",
+      "carousel_slides": [
+        {
+          "hook": "Which moonshot dies without this check?",
+          "description": "Plural's $1.1B fund bets on deep tech, but founder-only focus starves later-stage startups facing a funding cliff.",
+          "visual_hint": "Rocket launching from launchpad",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "rocket launch"
+        },
+        {
+          "hook": "Capital shifts to early-stage founders only",
+          "description": "Plural's new fund targets deep tech moonshots, yet most capital goes to founders, leaving later-stage startups struggling for follow-on.",
+          "visual_hint": "Investor handshake with founder",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "business handshake",
+          "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Later-stage startups face funding cliff",
+          "description": "European later-stage startups struggle to raise follow-on rounds as capital concentrates on early bets, risking promising moonshots.",
+          "visual_hint": "Steep cliff edge with cracks",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "cliff edge",
+          "image": "https://images.pexels.com/photos/16039479/pexels-photo-16039479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Can Europe's next Helsing emerge?",
+          "description": "With $1.1B aimed at deep tech, Europe hopes for Helsing 2.0, but founder-only focus may starve scale-up capital.",
+          "visual_hint": "Hand holding glowing microchip",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding microchip",
+          "image": "https://images.pexels.com/photos/7286003/pexels-photo-7286003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this post to spot funding gaps",
+          "description": "Ask your team: which moonshot dies without this check? Then comment your answer below.",
+          "visual_hint": "Team meeting whiteboard brainstorm",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "team meeting whiteboard",
+          "image": "https://images.pexels.com/photos/7698707/pexels-photo-7698707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Plural-Partner-Photo-Fund-III.jpg?resize=1200,800",
+      "savedAt": "2026-11-16T12:24:46.111Z",
+      "sourceId": "2b29f5d357381a235b8a3a6545e92941"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "apple-s-new-study-looks-to-improve-the-effectivene",
       "prompt_version": "1.0.0",
       "status": "published",
