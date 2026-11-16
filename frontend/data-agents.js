@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "apple-s-new-study-looks-to-improve-the-effectivene",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "pubDate": "2026-11-16T01:26:56.000Z",
+      "slides": [
+        "Can Apple make AI health tools actually useful?",
+        "A new study targets how AI interprets health data",
+        "The surprise: most AI health advice fails real-world tests",
+        "Your next iPhone may flag risks before symptoms appear",
+        "Test one health query against your doctor's advice"
+      ],
+      "thread_text": [
+        "1. AI health advice fails\n\nA new study tested AI health tools in real-world scenarios. Most failed to match a doctor's advice. Apple wants to change that with the iPhone.",
+        "2. Apple's big bet\n\nApple is developing AI health tools for the iPhone that could flag risks before symptoms appear. The goal: make AI health advice actually useful.",
+        "3. The interpretation gap\n\nAI often misreads health data because it lacks context. A new study targets how AI interprets symptoms, aiming to fix the root cause.",
+        "4. Your iPhone as watchdog\n\nImagine your phone warning you about a health risk days before you feel sick. That's the promise, but only if the AI can pass real-world tests.",
+        "5. Test your AI\n\nAsk ChatGPT or another AI about a health symptom you've had. Compare its answer to your doctor's. Would you trust it?"
+      ],
+      "video_script": [
+        "AI health advice often fails real-world tests.",
+        "A new study targets how AI interprets health data.",
+        "Apple wants your iPhone to flag risks early.",
+        "But most AI tools can't match a doctor's advice.",
+        "Test one health query against your doctor's advice."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI health advice fails\n\nA new study tested AI health tools in real-world scenarios. Most failed to match a doctor's advice. Apple wants to change that with the iPhone.",
+            "2. Apple's big bet\n\nApple is developing AI health tools for the iPhone that could flag risks before symptoms appear. The goal: make AI health advice actually useful.",
+            "3. The interpretation gap\n\nAI often misreads health data because it lacks context. A new study targets how AI interprets symptoms, aiming to fix the root cause.",
+            "4. Your iPhone as watchdog\n\nImagine your phone warning you about a health risk days before you feel sick. That's the promise, but only if the AI can pass real-world tests.",
+            "5. Test your AI\n\nAsk ChatGPT or another AI about a health symptom you've had. Compare its answer to your doctor's. Would you trust it?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI health advice often fails real-world tests.",
+            "A new study targets how AI interprets health data.",
+            "Apple wants your iPhone to flag risks early.",
+            "But most AI tools can't match a doctor's advice.",
+            "Test one health query against your doctor's advice."
+          ]
+        },
+        "instagram": {
+          "caption": "Most AI health advice doesn't match what a doctor would tell you in real-world tests. 🩺\n\nApple is now running a study on how AI interprets health data, because the tool often misreads symptoms without context.\n\nThe goal is an iPhone that flags risks before symptoms show up.\n\nIf that works, your phone becomes a first check before you book an appointment — for you and for anyone who writes about health online.\n\nTry it now: ask an AI about a symptom you've had, then compare it to your doctor's advice. Would you trust the answer? 🤔"
+        }
+      },
+      "instagram_caption": "Most AI health advice doesn't match what a doctor would tell you in real-world tests. 🩺\n\nApple is now running a study on how AI interprets health data, because the tool often misreads symptoms without context.\n\nThe goal is an iPhone that flags risks before symptoms show up.\n\nIf that works, your phone becomes a first check before you book an appointment — for you and for anyone who writes about health online.\n\nTry it now: ask an AI about a symptom you've had, then compare it to your doctor's advice. Would you trust the answer? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "AI health advice often fails real tests",
+          "description": "A new study found most AI health tools fail to match a doctor's advice. Apple aims to change that.",
+          "visual_hint": "Split screen: AI chatbot vs doctor's note",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone doctor"
+        },
+        {
+          "hook": "Apple's new study targets AI interpretation",
+          "description": "The study focuses on how AI interprets health data, aiming to fix the root cause of misdiagnosis.",
+          "visual_hint": "Magnifying glass over health data on screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "health data",
+          "image": "https://images.pexels.com/photos/4108124/pexels-photo-4108124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your iPhone may soon flag health risks",
+          "description": "Apple is developing AI health tools for iPhone that could warn you before symptoms appear.",
+          "visual_hint": "iPhone displaying health alert icon",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "iPhone health",
+          "image": "https://images.pexels.com/photos/38337702/pexels-photo-38337702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Imagine your phone as a health watchdog",
+          "description": "The promise: your phone warns you days before you feel sick. But only if AI passes real-world tests.",
+          "visual_hint": "Person holding phone with health warning popup",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person using smartphone",
+          "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your AI health advice today",
+          "description": "Ask ChatGPT about a symptom you've had, then compare its answer to your doctor's advice. Save this post!",
+          "visual_hint": "ChatGPT interface on phone with health query",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "ChatGPT smartphone",
+          "image": "https://images.pexels.com/photos/16094062/pexels-photo-16094062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applestudy1b.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.740836125969%2C100%2C78.518327748063&amp;w=1200",
+      "savedAt": "2026-11-16T03:57:34.305Z",
+      "sourceId": "cac14dbf1b1ad3347464dae233e30504"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "apple-launches-new-app-to-study-how-people-use-ai-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Apple launches new app to study how people use AI for health",
+      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "pubDate": "Mon, 16 Nov 2026 01:30:00 +0000",
+      "slides": [
+        "What if Apple studied how you use AI for health?",
+        "A new Apple app tracks real-world AI health usage",
+        "The study may reveal AI advice is often wrong",
+        "You could join the study and see your own data",
+        "Check if the app is available in your region"
+      ],
+      "thread_text": [
+        "1. Your AI health advice is being watched\n\nApple just launched a study to track how people use AI for real-world health questions. The results might surprise you.",
+        "2. The app knows when AI is wrong\n\nA new Apple app logs your AI health queries and cross-checks them against actual outcomes. Early data suggests AI often gives bad advice.",
+        "3. You can see your own data\n\nJoin the study and get access to a dashboard showing how your AI health usage compares to others. It's a rare look under the hood.",
+        "4. Not everyone can join\n\nThe study is region-locked for now. Check if the app is available where you live before you get excited.",
+        "5. Check your region today\n\nOpen the App Store and search for the study app. If it's not there, you're out of luck — for now."
+      ],
+      "video_script": [
+        "Apple is studying how you use AI for health.",
+        "A new app tracks your real-world AI health questions.",
+        "Early data suggests AI advice is often wrong.",
+        "You could join and see your own data.",
+        "Check if the app is available in your region."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your AI health advice is being watched\n\nApple just launched a study to track how people use AI for real-world health questions. The results might surprise you.",
+            "2. The app knows when AI is wrong\n\nA new Apple app logs your AI health queries and cross-checks them against actual outcomes. Early data suggests AI often gives bad advice.",
+            "3. You can see your own data\n\nJoin the study and get access to a dashboard showing how your AI health usage compares to others. It's a rare look under the hood.",
+            "4. Not everyone can join\n\nThe study is region-locked for now. Check if the app is available where you live before you get excited.",
+            "5. Check your region today\n\nOpen the App Store and search for the study app. If it's not there, you're out of luck — for now."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Apple is studying how you use AI for health.",
+            "A new app tracks your real-world AI health questions.",
+            "Early data suggests AI advice is often wrong.",
+            "You could join and see your own data.",
+            "Check if the app is available in your region."
+          ]
+        },
+        "instagram": {
+          "caption": "Apple built an app that logs your AI health questions and checks them against what actually happened. 📱\n\nThe study tracks real-world AI health advice, and early signals suggest the AI is often wrong.\n\nYou can join and see a dashboard of your own data.\n\nNot everyone can, though — the study is region-locked for now.\n\nIf you make health content, this is a rare look at how people actually use AI for medical questions — and where it fails them.\n\nOpen the App Store and search for the study app: are you in a region where it's live? 👀"
+        }
+      },
+      "instagram_caption": "Apple built an app that logs your AI health questions and checks them against what actually happened. 📱\n\nThe study tracks real-world AI health advice, and early signals suggest the AI is often wrong.\n\nYou can join and see a dashboard of your own data.\n\nNot everyone can, though — the study is region-locked for now.\n\nIf you make health content, this is a rare look at how people actually use AI for medical questions — and where it fails them.\n\nOpen the App Store and search for the study app: are you in a region where it's live? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Is your AI health advice being watched?",
+          "description": "Apple's new study tracks real-world AI health queries. Early data suggests AI often gives bad advice.",
+          "visual_hint": "Apple logo on a smartphone screen",
+          "layout_type": "hero",
+          "icon": "heart",
+          "image_query": "Apple logo smartphone"
+        },
+        {
+          "hook": "New Apple app logs your AI health queries",
+          "description": "The app cross-checks your AI health questions against actual outcomes, revealing how often AI is wrong.",
+          "visual_hint": "App interface with data charts",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "health app interface",
+          "image": "https://images.pexels.com/photos/4108205/pexels-photo-4108205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI health advice often wrong, study hints",
+          "description": "Early findings from Apple's study suggest AI frequently provides inaccurate health information, raising concerns.",
+          "visual_hint": "Warning icon over AI brain",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "warning sign",
+          "image": "https://images.pexels.com/photos/33194321/pexels-photo-33194321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Join the study, see your own data",
+          "description": "Participants get a dashboard comparing their AI health usage to others, offering a rare look under the hood.",
+          "visual_hint": "Person holding phone with dashboard",
+          "layout_type": "human-hand",
+          "icon": "check",
+          "image_query": "person using smartphone",
+          "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check if the app is in your region",
+          "description": "Open the App Store and search for the study app. If it's not there, you're out of luck — for now.",
+          "visual_hint": "App Store search screen on phone",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "App Store search",
+          "image": "https://images.pexels.com/photos/13570173/pexels-photo-13570173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Apple-Health-AI-Usage-Study.jpg?resize=1200,800",
+      "savedAt": "2026-11-16T03:57:24.930Z",
+      "sourceId": "74c2539a197400ce2810876123a432b8"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "congress-wants-to-tighten-export-rules-on-ai-chips",
       "prompt_version": "1.0.0",
       "status": "published",
