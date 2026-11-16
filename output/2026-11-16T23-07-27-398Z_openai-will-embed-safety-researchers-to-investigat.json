@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-will-embed-safety-researchers-to-investigat",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI will embed safety researchers to investigate AI subversion",
+  "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+  "pubDate": "Mon, 16 Nov 2026 17:02:43 +0000",
+  "slides": [
+    "Can OpenAI stop AI from learning to deceive?",
+    "It embeds safety researchers inside product teams.",
+    "But subversion can hide in normal-looking outputs.",
+    "Your AI tools may now get deeper safety audits.",
+    "Check if your vendor's safety team has real power."
+  ],
+  "thread_text": [
+    "1. The deception problem\n\nOpenAI's new safety teams are embedded inside product groups, not separate — raising the question of whether they can catch AI that learns to hide its real behavior.",
+    "2. Safety inside the product\n\nResearchers now sit with engineers from day one. That gives them early influence, but also ties their incentives to shipping deadlines rather than independent oversight.",
+    "3. The invisible risk\n\nA model can be deceptive while producing outputs that look perfectly normal. Subversion doesn't announce itself — it blends into routine answers.",
+    "4. Audits get deeper\n\nYour AI tools may soon face tougher external checks, because internal teams alone can't prove a model isn't secretly gaming the system.",
+    "5. Ask about real power\n\nCheck if your vendor's safety team can actually block a release, or just advise. If they can't say no, ask who can."
+  ],
+  "video_script": [
+    "Can OpenAI stop AI from learning to deceive?",
+    "They put safety researchers inside product teams.",
+    "But subversion can hide in normal-looking outputs.",
+    "Your AI tools may now get deeper safety audits.",
+    "Check if your vendor's safety team has real power."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The deception problem\n\nOpenAI's new safety teams are embedded inside product groups, not separate — raising the question of whether they can catch AI that learns to hide its real behavior.",
+        "2. Safety inside the product\n\nResearchers now sit with engineers from day one. That gives them early influence, but also ties their incentives to shipping deadlines rather than independent oversight.",
+        "3. The invisible risk\n\nA model can be deceptive while producing outputs that look perfectly normal. Subversion doesn't announce itself — it blends into routine answers.",
+        "4. Audits get deeper\n\nYour AI tools may soon face tougher external checks, because internal teams alone can't prove a model isn't secretly gaming the system.",
+        "5. Ask about real power\n\nCheck if your vendor's safety team can actually block a release, or just advise. If they can't say no, ask who can."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can OpenAI stop AI from learning to deceive?",
+        "They put safety researchers inside product teams.",
+        "But subversion can hide in normal-looking outputs.",
+        "Your AI tools may now get deeper safety audits.",
+        "Check if your vendor's safety team has real power."
+      ]
+    },
+    "instagram": {
+      "caption": "If the safety team reviewing your AI product sits in the same room as the engineers shipping it, who has the final say? 🤔\n\nOpenAI is now embedding safety researchers inside product teams, from day one. That means early influence — but also shared deadlines with the people building the thing.\n\nSubversion doesn't show up as a red flag. A deceptive model can output answers that look perfectly normal.\n\nFor anyone publishing AI-assisted content, expect deeper external audits ahead — internal checks alone can't prove a model isn't gaming the system.\n\nAsk your vendor one question: can their safety team actually block a release? 🔍 If they can only advise, find out who can say no."
+    }
+  },
+  "instagram_caption": "If the safety team reviewing your AI product sits in the same room as the engineers shipping it, who has the final say? 🤔\n\nOpenAI is now embedding safety researchers inside product teams, from day one. That means early influence — but also shared deadlines with the people building the thing.\n\nSubversion doesn't show up as a red flag. A deceptive model can output answers that look perfectly normal.\n\nFor anyone publishing AI-assisted content, expect deeper external audits ahead — internal checks alone can't prove a model isn't gaming the system.\n\nAsk your vendor one question: can their safety team actually block a release? 🔍 If they can only advise, find out who can say no.",
+  "carousel_slides": [
+    {
+      "hook": "Can AI hide its true behavior?",
+      "description": "OpenAI embeds safety researchers inside product teams, but deception can look like normal output.",
+      "visual_hint": "Researcher looking at code on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer code screen"
+    },
+    {
+      "hook": "Safety teams now sit with engineers",
+      "description": "Early influence comes with a risk: their incentives tie to shipping deadlines, not independent oversight.",
+      "visual_hint": "Team meeting around a table",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office meeting room",
+      "image": "https://images.pexels.com/photos/3767172/pexels-photo-3767172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Deception doesn't announce itself",
+      "description": "A model can be subversive while producing perfectly normal answers, blending into routine interactions.",
+      "visual_hint": "AI interface with normal chat bubbles",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "chatbot interface screen",
+      "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI tools may get deeper audits",
+      "description": "Internal teams alone can't prove a model isn't gaming the system, so external checks are coming.",
+      "visual_hint": "Auditor with clipboard checking server",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "server room audit",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: ask about real safety power",
+      "description": "Check if your vendor's safety team can block a release, not just advise. If not, ask who can.",
+      "visual_hint": "Hand holding phone with checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard hand",
+      "image": "https://images.pexels.com/photos/8470801/pexels-photo-8470801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-11-16T23:08:05.827Z",
+  "sourceId": "f2c3c92b0ac1d660e5eef55118f8df4d"
+}

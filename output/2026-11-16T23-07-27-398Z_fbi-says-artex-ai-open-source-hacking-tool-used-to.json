@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "fbi-says-artex-ai-open-source-hacking-tool-used-to",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+  "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+  "pubDate": "Mon, 16 Nov 2026 17:36:43 +0000",
+  "slides": [
+    "FBI flags Artex AI: why three hours to breach?",
+    "Open source tool targets exposed network edge devices",
+    "Attackers skip phishing entirely — no human needed",
+    "Your perimeter gear may already be scanned right now",
+    "Audit exposed devices before Artex AI finds them"
+  ],
+  "thread_text": [
+    "1. FBI flags Artex AI\n\nThe FBI says Artex AI breached a network in three hours. The tool is open source, and it targets exposed edge devices — no phishing required.",
+    "2. Open source attack tool\n\nArtex AI scans for network edge devices left exposed online. It finds them, then breaches them — all without a human clicking anything.",
+    "3. Phishing is now optional\n\nAttackers don't need to trick employees anymore. Artex AI bypasses the human entirely and goes straight for your perimeter gear.",
+    "4. You may already be scanned\n\nIf your edge devices are exposed, Artex AI may have already probed them. The tool is public, and the scanning is automated.",
+    "5. Audit before Artex does\n\nCheck your exposed network gear today. Run a scan of your perimeter and close any open doors before Artex AI finds them first."
+  ],
+  "video_script": [
+    "FBI says Artex AI breached a network in three hours.",
+    "It's open source and targets exposed network edge devices.",
+    "No phishing needed — attackers skip the human entirely.",
+    "Your perimeter gear may already be scanned right now.",
+    "Audit your exposed devices before Artex AI finds them."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. FBI flags Artex AI\n\nThe FBI says Artex AI breached a network in three hours. The tool is open source, and it targets exposed edge devices — no phishing required.",
+        "2. Open source attack tool\n\nArtex AI scans for network edge devices left exposed online. It finds them, then breaches them — all without a human clicking anything.",
+        "3. Phishing is now optional\n\nAttackers don't need to trick employees anymore. Artex AI bypasses the human entirely and goes straight for your perimeter gear.",
+        "4. You may already be scanned\n\nIf your edge devices are exposed, Artex AI may have already probed them. The tool is public, and the scanning is automated.",
+        "5. Audit before Artex does\n\nCheck your exposed network gear today. Run a scan of your perimeter and close any open doors before Artex AI finds them first."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "FBI says Artex AI breached a network in three hours.",
+        "It's open source and targets exposed network edge devices.",
+        "No phishing needed — attackers skip the human entirely.",
+        "Your perimeter gear may already be scanned right now.",
+        "Audit your exposed devices before Artex AI finds them."
+      ]
+    },
+    "instagram": {
+      "caption": "The FBI says a network was breached in under three hours — and the tool that did it is open source.\n\nArtex AI skips phishing entirely: it scans for edge devices left exposed online and walks straight in. No employee has to click anything.\n\nThat means the human firewall you trained everyone on? Bypassed completely.\n\nIf your perimeter gear is reachable from the internet, automated scans may have already touched it. Check your exposed devices today and close what you don't need open. 🔍\n\nSo — when did you last look at what's actually exposed on your network? 🚪"
+    }
+  },
+  "instagram_caption": "The FBI says a network was breached in under three hours — and the tool that did it is open source.\n\nArtex AI skips phishing entirely: it scans for edge devices left exposed online and walks straight in. No employee has to click anything.\n\nThat means the human firewall you trained everyone on? Bypassed completely.\n\nIf your perimeter gear is reachable from the internet, automated scans may have already touched it. Check your exposed devices today and close what you don't need open. 🔍\n\nSo — when did you last look at what's actually exposed on your network? 🚪",
+  "carousel_slides": [
+    {
+      "hook": "FBI: breached in three hours.",
+      "description": "Artex AI, an open source tool, breached networks in under three hours by targeting exposed edge devices, no phishing needed.",
+      "visual_hint": "FBI warning graphic over network map",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "FBI building"
+    },
+    {
+      "hook": "Open source tool hunts edge devices.",
+      "description": "Artex AI scans for exposed network edge devices online and breaches them automatically, requiring no human interaction.",
+      "visual_hint": "Network edge device with scanning lines",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "router device",
+      "image": "https://images.pexels.com/photos/4218546/pexels-photo-4218546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Phishing is now optional.",
+      "description": "Attackers bypass employees entirely; Artex AI goes straight for perimeter gear, eliminating the need for human clicks.",
+      "visual_hint": "No phishing email icon crossed out",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "phishing email",
+      "image": "https://images.pexels.com/photos/7172786/pexels-photo-7172786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You may already be scanned.",
+      "description": "If your edge devices are exposed, Artex AI may have already probed them, as the tool is public and scanning is automated.",
+      "visual_hint": "Radar screen detecting devices",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "radar screen",
+      "image": "https://images.pexels.com/photos/3862624/pexels-photo-3862624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit before Artex does.",
+      "description": "Scan your perimeter today and close open doors before Artex AI finds them first.",
+      "visual_hint": "Checklist with network devices",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "network security",
+      "image": "https://images.pexels.com/photos/5408005/pexels-photo-5408005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?resize=1200,675",
+  "savedAt": "2026-11-16T23:07:54.023Z",
+  "sourceId": "8e371c25a440033a3571c428d9c38396"
+}

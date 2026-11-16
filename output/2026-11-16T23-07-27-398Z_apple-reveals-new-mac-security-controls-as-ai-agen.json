@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-reveals-new-mac-security-controls-as-ai-agen",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+  "link": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+  "pubDate": "Mon, 16 Nov 2026 21:01:02 +0000",
+  "slides": [
+    "Can Apple keep AI agents from leaking your data?",
+    "New Mac security controls target AI agent access",
+    "But agents can still read files once granted permission",
+    "Users must now approve each agent's file access manually",
+    "Audit your current agent permissions today"
+  ],
+  "thread_text": [
+    "1. Can Apple stop AI leaks?\n\nApple is adding Mac security controls that force every AI agent to get manual approval before reading any file. The real test: what happens after you click allow?",
+    "2. New controls, same blind spot\n\nmacOS now prompts you each time an agent requests file access. But once granted, the agent can read anything in that scope—no further checks.",
+    "3. Permission is not a leash\n\nAfter approval, an agent can still read every file it was granted, even ones you forgot about. Apple's controls limit the ask, not the access.",
+    "4. The manual approval trap\n\nYou'll approve each agent's file access by hand. That's friction, not security—most users will click yes without reading the scope.",
+    "5. Audit your agents now\n\nOpen your Mac's privacy settings and list every app with file access. Revoke anything you don't recognize. Do it today—before an agent does it for you."
+  ],
+  "video_script": [
+    "Apple's new Mac controls make AI agents ask before reading files.",
+    "But once you approve, the agent can read everything in scope.",
+    "You'll manually approve each agent's file access, every time.",
+    "That's friction, not security—most people will just click yes.",
+    "Audit your current agent permissions today and revoke what you don't need."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can Apple stop AI leaks?\n\nApple is adding Mac security controls that force every AI agent to get manual approval before reading any file. The real test: what happens after you click allow?",
+        "2. New controls, same blind spot\n\nmacOS now prompts you each time an agent requests file access. But once granted, the agent can read anything in that scope—no further checks.",
+        "3. Permission is not a leash\n\nAfter approval, an agent can still read every file it was granted, even ones you forgot about. Apple's controls limit the ask, not the access.",
+        "4. The manual approval trap\n\nYou'll approve each agent's file access by hand. That's friction, not security—most users will click yes without reading the scope.",
+        "5. Audit your agents now\n\nOpen your Mac's privacy settings and list every app with file access. Revoke anything you don't recognize. Do it today—before an agent does it for you."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple's new Mac controls make AI agents ask before reading files.",
+        "But once you approve, the agent can read everything in scope.",
+        "You'll manually approve each agent's file access, every time.",
+        "That's friction, not security—most people will just click yes.",
+        "Audit your current agent permissions today and revoke what you don't need."
+      ]
+    },
+    "instagram": {
+      "caption": "Apple's new Mac controls make every AI agent ask permission before reading a file — but once you click allow, it can read everything in that scope, no further checks.\n\nThe approval is manual, per agent, per scope. Friction, not a leash: most people will click yes without reading what they just handed over.\n\nApple limits the ask, not the access.\n\nIf you work with client files or drafts on your Mac, an agent you approved months ago may still reach files you forgot existed.\n\nOpen your Mac's privacy settings, list every app with file access, and revoke what you don't recognize. 🛡️ Do it before an agent does it for you. 🔍\n\nHow many agents have you already said yes to? 👀"
+    }
+  },
+  "instagram_caption": "Apple's new Mac controls make every AI agent ask permission before reading a file — but once you click allow, it can read everything in that scope, no further checks.\n\nThe approval is manual, per agent, per scope. Friction, not a leash: most people will click yes without reading what they just handed over.\n\nApple limits the ask, not the access.\n\nIf you work with client files or drafts on your Mac, an agent you approved months ago may still reach files you forgot existed.\n\nOpen your Mac's privacy settings, list every app with file access, and revoke what you don't recognize. 🛡️ Do it before an agent does it for you. 🔍\n\nHow many agents have you already said yes to? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Can Apple stop AI agents leaking data?",
+      "description": "New Mac controls force manual approval before any AI agent reads a file. But what happens after you click allow?",
+      "visual_hint": "MacBook screen with security prompt",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "MacBook security prompt"
+    },
+    {
+      "hook": "New Mac controls target AI agent access",
+      "description": "macOS now prompts each time an agent requests file access, but once granted, the agent can read anything in that scope.",
+      "visual_hint": "Close-up of permission dialog on Mac",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "Mac permission dialog",
+      "image": "https://images.pexels.com/photos/6889210/pexels-photo-6889210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Approval doesn't mean the agent stops",
+      "description": "After you approve, an agent can read every file it was granted, even forgotten ones. Apple limits the ask, not access.",
+      "visual_hint": "Files being scanned by AI icon",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "files scanning AI",
+      "image": "https://images.pexels.com/photos/6538582/pexels-photo-6538582.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Manual approval is a trap, not security",
+      "description": "You'll approve each agent's file access by hand. Most users will click yes without reading the scope.",
+      "visual_hint": "Hand clicking approve button rapidly",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand clicking button",
+      "image": "https://images.pexels.com/photos/40651481/pexels-photo-40651481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your agent permissions today",
+      "description": "Open Mac privacy settings, list every app with file access, and revoke anything you don't recognize.",
+      "visual_hint": "Privacy settings list on Mac screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "privacy settings Mac",
+      "image": "https://images.pexels.com/photos/6889210/pexels-photo-6889210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/11/CMC_8152.jpg?resize=1200,800",
+  "savedAt": "2026-11-16T23:07:36.722Z",
+  "sourceId": "fc5ac4f1ef68c6ea336d226c4429fe2d"
+}
