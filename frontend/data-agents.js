@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "not-even-sam-altman-is-safe-from-ai-deepfakes-on-i",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "pubDate": "2026-11-17T21:00:55.000Z",
+      "slides": [
+        "Sam Altman is now a deepfake target on Instagram?",
+        "AI-generated scam ads use his face to promote fake giveaways",
+        "The fakes are nearly indistinguishable, even to tech-savvy users",
+        "Verify every celebrity promotion before clicking or sharing",
+        "Next time Altman trends, check the source first"
+      ],
+      "thread_text": [
+        "1. Altman's face, fake ads\n\nScam Instagram ads are using Sam Altman's likeness to push bogus giveaways, and they're spreading fast.",
+        "2. Nearly indistinguishable fakes\n\nEven tech-savvy users are struggling to tell these AI-generated ads from real ones, which makes the scam far more dangerous.",
+        "3. Trust erosion\n\nWhen anyone can be faked convincingly, celebrity endorsements lose all credibility online.",
+        "4. The click trap\n\nOne wrong click on a fake ad can lead to malware or stolen data before you even realize what happened.",
+        "5. Check the source\n\nBefore you share the next viral Altman ad, verify the account and the offer. If it looks too good, it's fake."
+      ],
+      "video_script": [
+        "Sam Altman's face is being used in fake Instagram ads.",
+        "These AI-generated scams are nearly indistinguishable from real posts.",
+        "Even tech-savvy users are falling for them.",
+        "One click could expose your data or install malware.",
+        "Always verify the source before you click or share."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Altman's face, fake ads\n\nScam Instagram ads are using Sam Altman's likeness to push bogus giveaways, and they're spreading fast.",
+            "2. Nearly indistinguishable fakes\n\nEven tech-savvy users are struggling to tell these AI-generated ads from real ones, which makes the scam far more dangerous.",
+            "3. Trust erosion\n\nWhen anyone can be faked convincingly, celebrity endorsements lose all credibility online.",
+            "4. The click trap\n\nOne wrong click on a fake ad can lead to malware or stolen data before you even realize what happened.",
+            "5. Check the source\n\nBefore you share the next viral Altman ad, verify the account and the offer. If it looks too good, it's fake."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Sam Altman's face is being used in fake Instagram ads.",
+            "These AI-generated scams are nearly indistinguishable from real posts.",
+            "Even tech-savvy users are falling for them.",
+            "One click could expose your data or install malware.",
+            "Always verify the source before you click or share."
+          ]
+        },
+        "instagram": {
+          "caption": "Someone is using Sam Altman's face to sell you a fake giveaway on Instagram 😳 and the ads look real enough to fool people who work in tech.\n\nThe deepfakes are nearly indistinguishable from genuine promotions, so the usual \"I can spot a scam\" instinct doesn't help here 👀\n\nOne wrong click can mean malware or stolen data before you even notice.\n\nIf you create or share content, assume your audience won't question a familiar face — so verify accounts and offers before trusting or resharing anything.\n\nNext time an Altman ad goes viral, will you check the source first? 🔍"
+        }
+      },
+      "instagram_caption": "Someone is using Sam Altman's face to sell you a fake giveaway on Instagram 😳 and the ads look real enough to fool people who work in tech.\n\nThe deepfakes are nearly indistinguishable from genuine promotions, so the usual \"I can spot a scam\" instinct doesn't help here 👀\n\nOne wrong click can mean malware or stolen data before you even notice.\n\nIf you create or share content, assume your audience won't question a familiar face — so verify accounts and offers before trusting or resharing anything.\n\nNext time an Altman ad goes viral, will you check the source first? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Can you trust any celebrity ad?",
+          "description": "AI-generated scam ads use Sam Altman's face to promote fake giveaways, spreading fast and fooling even tech-savvy users.",
+          "visual_hint": "Split-screen: real vs deepfake face",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "deepfake face"
+        },
+        {
+          "hook": "Scammers are using Altman's face",
+          "description": "Fake Instagram ads with Altman's likeness push bogus giveaways, and they're nearly indistinguishable from real ones.",
+          "visual_hint": "Fake Instagram ad on phone",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "instagram ad",
+          "image": "https://images.pexels.com/photos/15097793/pexels-photo-15097793.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Even experts can't tell the difference",
+          "description": "AI-generated ads are so convincing that tech-savvy users struggle to spot them, making the scam far more dangerous.",
+          "visual_hint": "Magnifying glass over pixelated face",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "pixelated face",
+          "image": "https://images.pexels.com/photos/35121663/pexels-photo-35121663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One click could cost you everything",
+          "description": "Clicking a fake ad can lead to malware or stolen data before you realize what happened. Verify every celebrity promotion.",
+          "visual_hint": "Cursor hovering over ad",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "cursor click",
+          "image": "https://images.pexels.com/photos/7240353/pexels-photo-7240353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to spot fakes",
+          "description": "Before sharing the next viral Altman ad, check the source and the offer. If it's too good to be true, it's fake.",
+          "visual_hint": "Checklist with source verification",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297785644.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.755339554057%2C100%2C78.489320891885&amp;w=1200",
+      "savedAt": "2026-11-17T23:15:07.817Z",
+      "sourceId": "a1592a2be395aeb6f2bc967491bb7c83"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "genesis-ai-raises-500-million-to-deploy-glove-wear",
       "prompt_version": "1.0.0",
       "status": "published",
