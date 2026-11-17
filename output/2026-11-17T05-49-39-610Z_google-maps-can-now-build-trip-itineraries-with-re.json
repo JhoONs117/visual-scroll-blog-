@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-maps-can-now-build-trip-itineraries-with-re",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+  "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+  "pubDate": "Mon, 16 Nov 2026 14:48:13 +0000",
+  "slides": [
+    "Google Maps now plans trips. But can you trust it?",
+    "Itineraries include live hours, traffic, and closures per stop",
+    "The plan rewrites itself mid-trip when conditions change",
+    "You can skip manual research for multi-stop day trips",
+    "Test it on one weekend trip before relying on it"
+  ],
+  "thread_text": [
+    "1. The 20-minute trap\n\nGoogle Maps now builds multi-stop itineraries with live hours, traffic, and closures. The catch: you're trusting an algorithm with your entire day.",
+    "2. Plans that rewrite themselves\n\nMid-trip, the itinerary updates when a stop closes or traffic spikes. No manual re-planning — but you lose control over what changes.",
+    "3. Skip the research rabbit hole\n\nNo more cross-checking hours across five tabs. The plan pulls everything into one timeline, so you just follow it.",
+    "4. The real risk is hidden\n\nOne wrong closure or outdated hour and your whole chain collapses. The algorithm won't warn you — it just reroutes.",
+    "5. Test before you trust\n\nUse it on one weekend trip first. If the plan holds without edits, scale up. If not, you know the limit."
+  ],
+  "video_script": [
+    "Google Maps now plans your whole day.",
+    "It updates live when things change.",
+    "No more manual research for multi-stop trips.",
+    "But one wrong closure ruins the chain.",
+    "Test it on one weekend trip first."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The 20-minute trap\n\nGoogle Maps now builds multi-stop itineraries with live hours, traffic, and closures. The catch: you're trusting an algorithm with your entire day.",
+        "2. Plans that rewrite themselves\n\nMid-trip, the itinerary updates when a stop closes or traffic spikes. No manual re-planning — but you lose control over what changes.",
+        "3. Skip the research rabbit hole\n\nNo more cross-checking hours across five tabs. The plan pulls everything into one timeline, so you just follow it.",
+        "4. The real risk is hidden\n\nOne wrong closure or outdated hour and your whole chain collapses. The algorithm won't warn you — it just reroutes.",
+        "5. Test before you trust\n\nUse it on one weekend trip first. If the plan holds without edits, scale up. If not, you know the limit."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google Maps now plans your whole day.",
+        "It updates live when things change.",
+        "No more manual research for multi-stop trips.",
+        "But one wrong closure ruins the chain.",
+        "Test it on one weekend trip first."
+      ]
+    },
+    "instagram": {
+      "caption": "Google Maps now builds multi-stop itineraries that update themselves mid-trip when a stop closes or traffic spikes. 🗺️\n\nLive hours, closures and traffic get pulled into one timeline, so you follow it instead of cross-checking five tabs.\n\nThe risk sits underneath: one outdated closure and the whole chain collapses — the algorithm won't warn you, it just reroutes. ⚠️\n\nFor anyone planning shoots, meetings or content days across town, that means less research time but a quiet loss of control over what changes.\n\nRun it on one weekend trip first. 🚗 If the plan holds without edits, scale up. If not, you've found its limit."
+    }
+  },
+  "instagram_caption": "Google Maps now builds multi-stop itineraries that update themselves mid-trip when a stop closes or traffic spikes. 🗺️\n\nLive hours, closures and traffic get pulled into one timeline, so you follow it instead of cross-checking five tabs.\n\nThe risk sits underneath: one outdated closure and the whole chain collapses — the algorithm won't warn you, it just reroutes. ⚠️\n\nFor anyone planning shoots, meetings or content days across town, that means less research time but a quiet loss of control over what changes.\n\nRun it on one weekend trip first. 🚗 If the plan holds without edits, scale up. If not, you've found its limit.",
+  "carousel_slides": [
+    {
+      "hook": "Can you trust an algorithm with your day?",
+      "description": "Google Maps builds multi-stop itineraries with live hours, traffic, and closures—but you hand over control of your entire schedule.",
+      "visual_hint": "Smartphone showing map route with multiple pins",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone map navigation"
+    },
+    {
+      "hook": "Plans that rewrite themselves mid-trip",
+      "description": "The itinerary updates when a stop closes or traffic spikes, so you never manually re-plan—but you lose control over changes.",
+      "visual_hint": "Dynamic map with rerouting arrows and alert icons",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "traffic map rerouting",
+      "image": "https://images.pexels.com/photos/15949908/pexels-photo-15949908.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Skip the research rabbit hole",
+      "description": "No more cross-checking hours across five tabs; the plan pulls everything into one timeline so you just follow it.",
+      "visual_hint": "Clean timeline interface with checkmarks on stops",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "itinerary timeline interface",
+      "image": "https://images.pexels.com/photos/5405598/pexels-photo-5405598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One wrong closure collapses your chain",
+      "description": "An outdated hour or sudden closure can break your whole day, and the algorithm won't warn you—it just reroutes silently.",
+      "visual_hint": "Broken chain link with map pin falling off",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "broken chain link",
+      "image": "https://images.pexels.com/photos/35740122/pexels-photo-35740122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it before you trust it",
+      "description": "Use the itinerary on one weekend trip first; if it holds without edits, scale up. Save this for your next trip.",
+      "visual_hint": "Hand holding phone with weekend trip plan",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "weekend travel planning",
+      "image": "https://images.pexels.com/photos/6954773/pexels-photo-6954773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2202707012.jpg?resize=1200,800",
+  "savedAt": "2026-11-17T05:50:16.188Z",
+  "sourceId": "33c7d15f513b2b60fd4ad55961710fc8"
+}

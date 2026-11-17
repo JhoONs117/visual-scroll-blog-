@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "google-maps-can-now-build-trip-itineraries-with-re",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+      "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+      "pubDate": "Mon, 16 Nov 2026 14:48:13 +0000",
+      "slides": [
+        "Google Maps now plans trips. But can you trust it?",
+        "Itineraries include live hours, traffic, and closures per stop",
+        "The plan rewrites itself mid-trip when conditions change",
+        "You can skip manual research for multi-stop day trips",
+        "Test it on one weekend trip before relying on it"
+      ],
+      "thread_text": [
+        "1. The 20-minute trap\n\nGoogle Maps now builds multi-stop itineraries with live hours, traffic, and closures. The catch: you're trusting an algorithm with your entire day.",
+        "2. Plans that rewrite themselves\n\nMid-trip, the itinerary updates when a stop closes or traffic spikes. No manual re-planning — but you lose control over what changes.",
+        "3. Skip the research rabbit hole\n\nNo more cross-checking hours across five tabs. The plan pulls everything into one timeline, so you just follow it.",
+        "4. The real risk is hidden\n\nOne wrong closure or outdated hour and your whole chain collapses. The algorithm won't warn you — it just reroutes.",
+        "5. Test before you trust\n\nUse it on one weekend trip first. If the plan holds without edits, scale up. If not, you know the limit."
+      ],
+      "video_script": [
+        "Google Maps now plans your whole day.",
+        "It updates live when things change.",
+        "No more manual research for multi-stop trips.",
+        "But one wrong closure ruins the chain.",
+        "Test it on one weekend trip first."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The 20-minute trap\n\nGoogle Maps now builds multi-stop itineraries with live hours, traffic, and closures. The catch: you're trusting an algorithm with your entire day.",
+            "2. Plans that rewrite themselves\n\nMid-trip, the itinerary updates when a stop closes or traffic spikes. No manual re-planning — but you lose control over what changes.",
+            "3. Skip the research rabbit hole\n\nNo more cross-checking hours across five tabs. The plan pulls everything into one timeline, so you just follow it.",
+            "4. The real risk is hidden\n\nOne wrong closure or outdated hour and your whole chain collapses. The algorithm won't warn you — it just reroutes.",
+            "5. Test before you trust\n\nUse it on one weekend trip first. If the plan holds without edits, scale up. If not, you know the limit."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google Maps now plans your whole day.",
+            "It updates live when things change.",
+            "No more manual research for multi-stop trips.",
+            "But one wrong closure ruins the chain.",
+            "Test it on one weekend trip first."
+          ]
+        },
+        "instagram": {
+          "caption": "Google Maps now builds multi-stop itineraries that update themselves mid-trip when a stop closes or traffic spikes. 🗺️\n\nLive hours, closures and traffic get pulled into one timeline, so you follow it instead of cross-checking five tabs.\n\nThe risk sits underneath: one outdated closure and the whole chain collapses — the algorithm won't warn you, it just reroutes. ⚠️\n\nFor anyone planning shoots, meetings or content days across town, that means less research time but a quiet loss of control over what changes.\n\nRun it on one weekend trip first. 🚗 If the plan holds without edits, scale up. If not, you've found its limit."
+        }
+      },
+      "instagram_caption": "Google Maps now builds multi-stop itineraries that update themselves mid-trip when a stop closes or traffic spikes. 🗺️\n\nLive hours, closures and traffic get pulled into one timeline, so you follow it instead of cross-checking five tabs.\n\nThe risk sits underneath: one outdated closure and the whole chain collapses — the algorithm won't warn you, it just reroutes. ⚠️\n\nFor anyone planning shoots, meetings or content days across town, that means less research time but a quiet loss of control over what changes.\n\nRun it on one weekend trip first. 🚗 If the plan holds without edits, scale up. If not, you've found its limit.",
+      "carousel_slides": [
+        {
+          "hook": "Can you trust an algorithm with your day?",
+          "description": "Google Maps builds multi-stop itineraries with live hours, traffic, and closures—but you hand over control of your entire schedule.",
+          "visual_hint": "Smartphone showing map route with multiple pins",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone map navigation"
+        },
+        {
+          "hook": "Plans that rewrite themselves mid-trip",
+          "description": "The itinerary updates when a stop closes or traffic spikes, so you never manually re-plan—but you lose control over changes.",
+          "visual_hint": "Dynamic map with rerouting arrows and alert icons",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "traffic map rerouting",
+          "image": "https://images.pexels.com/photos/15949908/pexels-photo-15949908.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Skip the research rabbit hole",
+          "description": "No more cross-checking hours across five tabs; the plan pulls everything into one timeline so you just follow it.",
+          "visual_hint": "Clean timeline interface with checkmarks on stops",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "itinerary timeline interface",
+          "image": "https://images.pexels.com/photos/5405598/pexels-photo-5405598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One wrong closure collapses your chain",
+          "description": "An outdated hour or sudden closure can break your whole day, and the algorithm won't warn you—it just reroutes silently.",
+          "visual_hint": "Broken chain link with map pin falling off",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "broken chain link",
+          "image": "https://images.pexels.com/photos/35740122/pexels-photo-35740122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it before you trust it",
+          "description": "Use the itinerary on one weekend trip first; if it holds without edits, scale up. Save this for your next trip.",
+          "visual_hint": "Hand holding phone with weekend trip plan",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "weekend travel planning",
+          "image": "https://images.pexels.com/photos/6954773/pexels-photo-6954773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2202707012.jpg?resize=1200,800",
+      "savedAt": "2026-11-17T05:50:16.188Z",
+      "sourceId": "33c7d15f513b2b60fd4ad55961710fc8"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "us-tightens-ai-chip-export-controls-to-deter-chine",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "pubDate": "Mon, 16 Nov 2026 15:02:34 +0000",
+      "slides": [
+        "Can US export controls catch what chips already left?",
+        "New rules now target remote access, not just hardware",
+        "Cloud providers must verify foreign users' identities",
+        "Companies routing through third countries face new audits",
+        "Test one partner's compliance before your next renewal"
+      ],
+      "thread_text": [
+        "1. The chips are already gone\n\nExport controls chase hardware that has already left. New rules now target remote access, not just physical shipments.",
+        "2. Remote access is the new front\n\nCloud providers must verify foreign users' identities. That means logging every session, not just tracking boxes.",
+        "3. Third countries under scrutiny\n\nCompanies routing through intermediaries face new audits. Compliance now depends on where your traffic goes, not where your office is.",
+        "4. Your partner's risk is yours\n\nIf your cloud provider fails verification, your renewal could be denied. Test one partner's compliance before your next renewal.",
+        "5. One test before renewal\n\nAsk your cloud provider for their foreign user verification policy. If they can't produce it, you're exposed."
+      ],
+      "video_script": [
+        "The chips already left. Now the rules target remote access.",
+        "Cloud providers must verify foreign users' identities.",
+        "Routing through third countries? Expect new audits.",
+        "Your partner's compliance failure can block your renewal.",
+        "Test one partner's compliance before your next renewal."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The chips are already gone\n\nExport controls chase hardware that has already left. New rules now target remote access, not just physical shipments.",
+            "2. Remote access is the new front\n\nCloud providers must verify foreign users' identities. That means logging every session, not just tracking boxes.",
+            "3. Third countries under scrutiny\n\nCompanies routing through intermediaries face new audits. Compliance now depends on where your traffic goes, not where your office is.",
+            "4. Your partner's risk is yours\n\nIf your cloud provider fails verification, your renewal could be denied. Test one partner's compliance before your next renewal.",
+            "5. One test before renewal\n\nAsk your cloud provider for their foreign user verification policy. If they can't produce it, you're exposed."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "The chips already left. Now the rules target remote access.",
+            "Cloud providers must verify foreign users' identities.",
+            "Routing through third countries? Expect new audits.",
+            "Your partner's compliance failure can block your renewal.",
+            "Test one partner's compliance before your next renewal."
+          ]
+        },
+        "instagram": {
+          "caption": "If your cloud provider can't verify who's logging in from abroad, your next renewal could be denied.\n\nUS export controls now target remote access, not just physical chip shipments. 🔍\n\nCloud providers must log every foreign session and confirm user identities.\n\nCompanies routing through third countries face new audits — where your traffic goes matters now.\n\nThat means the tools you build on can lose access overnight if a partner fails verification. ⚠️\n\nBefore your next renewal, ask your provider for their foreign user verification policy. 📋\n\nIf they can't produce it, you're exposed — and you won't find out until it's too late. 💡"
+        }
+      },
+      "instagram_caption": "If your cloud provider can't verify who's logging in from abroad, your next renewal could be denied.\n\nUS export controls now target remote access, not just physical chip shipments. 🔍\n\nCloud providers must log every foreign session and confirm user identities.\n\nCompanies routing through third countries face new audits — where your traffic goes matters now.\n\nThat means the tools you build on can lose access overnight if a partner fails verification. ⚠️\n\nBefore your next renewal, ask your provider for their foreign user verification policy. 📋\n\nIf they can't produce it, you're exposed — and you won't find out until it's too late. 💡",
+      "carousel_slides": [
+        {
+          "hook": "Can export controls catch chips already gone?",
+          "description": "New rules target remote access, not just hardware shipments, closing a loophole companies exploited.",
+          "visual_hint": "Circuit board with glowing pathways",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "circuit board"
+        },
+        {
+          "hook": "Cloud providers must verify foreign users' identities",
+          "description": "Providers now log every session and verify foreign users, shifting compliance from boxes to digital access.",
+          "visual_hint": "Server room with identity verification screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Third-country routing triggers new audits",
+          "description": "Companies using intermediaries face audits; compliance depends on traffic destination, not office location.",
+          "visual_hint": "World map with data flow lines",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "world map",
+          "image": "https://images.pexels.com/photos/4406813/pexels-photo-4406813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your cloud partner's risk becomes yours",
+          "description": "If your provider fails verification, your renewal could be denied. Test compliance before renewal.",
+          "visual_hint": "Handshake with digital risk overlay",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "handshake office",
+          "image": "https://images.pexels.com/photos/8101922/pexels-photo-8101922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: one test before renewal",
+          "description": "Ask your cloud provider for their foreign user verification policy. If they can't produce it, you're exposed.",
+          "visual_hint": "Checklist with compliance checkmark",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist document",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/us-commerce.jpg?w=564",
+      "savedAt": "2026-11-17T05:50:06.105Z",
+      "sourceId": "725c1dccea9edf97037db33341965bec"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-releases-a-new-image-classifier-and-chatgpt",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "pubDate": "Mon, 16 Nov 2026 17:00:00 +0000",
+      "slides": [
+        "Will OpenAI’s new image classifier make ChatGPT safer?",
+        "The tool flags and reports child sexual abuse material to authorities.",
+        "But the classifier may miss subtle cases and trigger false alarms.",
+        "Parents and moderators now get real-time warnings on suspicious content.",
+        "Test the classifier yourself—ask ChatGPT to flag an image."
+      ],
+      "thread_text": [
+        "1. Your kids' photos at risk?\n\nOpenAI's new image classifier now flags and reports child sexual abuse material directly to authorities. It's a major shift in how AI platforms handle illegal content.",
+        "2. False alarms possible\n\nThe classifier may miss subtle cases and trigger false alarms, meaning innocent images could be flagged. This raises concerns about accuracy and trust.",
+        "3. Parents get real-time alerts\n\nParents and moderators now receive real-time warnings on suspicious content, allowing faster intervention. But how reliable are these warnings?",
+        "4. Test it yourself\n\nYou can ask ChatGPT to flag an image and see how the classifier works. It's a hands-on way to understand its strengths and weaknesses.",
+        "5. Would you trust it?\n\nTry the classifier on a real image today. Does it catch what it should, or does it miss the mark? Your experience matters."
+      ],
+      "video_script": [
+        "OpenAI's new classifier flags child abuse images.",
+        "It reports to authorities but may miss subtle cases.",
+        "False alarms could flag innocent content.",
+        "Parents get real-time warnings on suspicious images.",
+        "Test it yourself: ask ChatGPT to flag an image."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your kids' photos at risk?\n\nOpenAI's new image classifier now flags and reports child sexual abuse material directly to authorities. It's a major shift in how AI platforms handle illegal content.",
+            "2. False alarms possible\n\nThe classifier may miss subtle cases and trigger false alarms, meaning innocent images could be flagged. This raises concerns about accuracy and trust.",
+            "3. Parents get real-time alerts\n\nParents and moderators now receive real-time warnings on suspicious content, allowing faster intervention. But how reliable are these warnings?",
+            "4. Test it yourself\n\nYou can ask ChatGPT to flag an image and see how the classifier works. It's a hands-on way to understand its strengths and weaknesses.",
+            "5. Would you trust it?\n\nTry the classifier on a real image today. Does it catch what it should, or does it miss the mark? Your experience matters."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI's new classifier flags child abuse images.",
+            "It reports to authorities but may miss subtle cases.",
+            "False alarms could flag innocent content.",
+            "Parents get real-time warnings on suspicious images.",
+            "Test it yourself: ask ChatGPT to flag an image."
+          ]
+        },
+        "instagram": {
+          "caption": "OpenAI's new image classifier now automatically flags and reports child sexual abuse material straight to authorities.\n\nIt's a major shift in how AI platforms handle illegal content. 🚨\n\nBut it may miss subtle cases and trigger false alarms, meaning innocent images could get flagged.\n\nParents and moderators now get real-time warnings on suspicious content, allowing faster intervention.\n\nYou can test it yourself: ask ChatGPT to flag an image and see how it performs. 🔍\n\nDoes it catch what it should, or miss the mark? Try it on a real image today. 👇"
+        }
+      },
+      "instagram_caption": "OpenAI's new image classifier now automatically flags and reports child sexual abuse material straight to authorities.\n\nIt's a major shift in how AI platforms handle illegal content. 🚨\n\nBut it may miss subtle cases and trigger false alarms, meaning innocent images could get flagged.\n\nParents and moderators now get real-time warnings on suspicious content, allowing faster intervention.\n\nYou can test it yourself: ask ChatGPT to flag an image and see how it performs. 🔍\n\nDoes it catch what it should, or miss the mark? Try it on a real image today. 👇",
+      "carousel_slides": [
+        {
+          "hook": "Will AI flag innocent photos?",
+          "description": "OpenAI's new classifier may miss subtle cases or trigger false alarms, raising concerns about accuracy and trust in automated content moderation.",
+          "visual_hint": "Warning sign with blurred photo",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "warning sign"
+        },
+        {
+          "hook": "New tool reports abuse directly",
+          "description": "OpenAI's image classifier now flags and reports child sexual abuse material to authorities, marking a major shift in platform responsibility.",
+          "visual_hint": "Shield icon over digital network",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "digital shield",
+          "image": "https://images.pexels.com/photos/17806619/pexels-photo-17806619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "But false alarms remain possible",
+          "description": "The classifier may miss subtle cases and trigger false alarms, meaning innocent images could be flagged, undermining trust in the system.",
+          "visual_hint": "Magnifying glass on pixelated face",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Parents get real-time warnings",
+          "description": "Parents and moderators now receive real-time alerts on suspicious content, allowing faster intervention, but reliability of these warnings is questioned.",
+          "visual_hint": "Smartphone with alert notification",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone alert",
+          "image": "https://images.pexels.com/photos/6034771/pexels-photo-6034771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it yourself and share",
+          "description": "Ask ChatGPT to flag an image and see how the classifier works. Try it now and comment your results below.",
+          "visual_hint": "Hand holding phone with ChatGPT",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "chatgpt phone",
+          "image": "https://images.pexels.com/photos/30530422/pexels-photo-30530422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/OpenAI-chatgpt-CSAM.jpeg?resize=1200,675",
+      "savedAt": "2026-11-17T05:49:57.644Z",
+      "sourceId": "c241de6853258324bc00df0a3c8cb50b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "cybersecurity-ai-startup-corma-reaches-1b-valuatio",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "pubDate": "Mon, 16 Nov 2026 23:32:32 +0000",
+      "slides": [
+        "Can a 3-month-old startup really be worth $1B?",
+        "Corma hit that valuation faster than almost any security firm",
+        "Its edge: AI that maps attacker behavior, not just signatures",
+        "Security teams may soon face pressure to adopt or fall behind",
+        "Ask your vendor one question: what does your AI actually catch?"
+      ],
+      "thread_text": [
+        "1. $1B in 90 days?\n\nCorma just hit unicorn status faster than almost any security firm in history. The money isn't betting on malware signatures—it's betting on a completely different way of seeing attacks.",
+        "2. The real edge\n\nCorma's AI doesn't just match known threats. It maps how attackers actually behave—movement patterns, not fingerprints. That means it can catch what signatures miss entirely.",
+        "3. Pressure is coming\n\nIf this works at scale, security teams will face a simple choice: adopt behavior-based AI or fall behind attackers who already have it. The gap won't close on its own.",
+        "4. One question to ask\n\nWhen your vendor pitches AI, don't ask if they have it. Ask what it actually catches that your current stack doesn't. Most can't answer specifically.",
+        "5. Test it now\n\nPick one recent alert your team missed. Ask your vendor to show how their AI would have caught it. If they can't walk through the behavior, you have your answer."
+      ],
+      "video_script": [
+        "A three-month-old startup just hit one billion dollars.",
+        "Corma's AI maps attacker behavior, not just signatures.",
+        "That means it catches threats other tools completely miss.",
+        "Security teams will soon feel pressure to adopt or fall behind.",
+        "Ask your vendor: what does your AI actually catch?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $1B in 90 days?\n\nCorma just hit unicorn status faster than almost any security firm in history. The money isn't betting on malware signatures—it's betting on a completely different way of seeing attacks.",
+            "2. The real edge\n\nCorma's AI doesn't just match known threats. It maps how attackers actually behave—movement patterns, not fingerprints. That means it can catch what signatures miss entirely.",
+            "3. Pressure is coming\n\nIf this works at scale, security teams will face a simple choice: adopt behavior-based AI or fall behind attackers who already have it. The gap won't close on its own.",
+            "4. One question to ask\n\nWhen your vendor pitches AI, don't ask if they have it. Ask what it actually catches that your current stack doesn't. Most can't answer specifically.",
+            "5. Test it now\n\nPick one recent alert your team missed. Ask your vendor to show how their AI would have caught it. If they can't walk through the behavior, you have your answer."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A three-month-old startup just hit one billion dollars.",
+            "Corma's AI maps attacker behavior, not just signatures.",
+            "That means it catches threats other tools completely miss.",
+            "Security teams will soon feel pressure to adopt or fall behind.",
+            "Ask your vendor: what does your AI actually catch?"
+          ]
+        },
+        "instagram": {
+          "caption": "$1B in 90 days — faster than almost any security firm in history.\n\nCorma's AI doesn't match malware signatures. It maps how attackers actually move. 🗺️\n\nThat means it can catch threats your current stack misses entirely.\n\nIf this works at scale, security teams face real pressure to adopt behavior-based AI or fall behind. ⚠️\n\nYour vendor pitch just changed. Don't ask if they have AI — ask what it actually catches that you don't.\n\nPick one recent alert your team missed. Ask them to walk through how their AI would've caught it. 🔍\n\nCould your current tools answer that? 🤔"
+        }
+      },
+      "instagram_caption": "$1B in 90 days — faster than almost any security firm in history.\n\nCorma's AI doesn't match malware signatures. It maps how attackers actually move. 🗺️\n\nThat means it can catch threats your current stack misses entirely.\n\nIf this works at scale, security teams face real pressure to adopt behavior-based AI or fall behind. ⚠️\n\nYour vendor pitch just changed. Don't ask if they have AI — ask what it actually catches that you don't.\n\nPick one recent alert your team missed. Ask them to walk through how their AI would've caught it. 🔍\n\nCould your current tools answer that? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "What does your AI actually catch?",
+          "description": "Corma's AI maps attacker behavior, not just signatures. It can catch threats that fingerprint-based tools miss entirely.",
+          "visual_hint": "Abstract network with moving nodes",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "network nodes abstract"
+        },
+        {
+          "hook": "A $1B startup in 90 days?",
+          "description": "Corma reached unicorn status faster than almost any security firm, betting on behavior-based AI over traditional signatures.",
+          "visual_hint": "Rocket launching with dollar sign",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "rocket launch",
+          "image": "https://images.pexels.com/photos/5420670/pexels-photo-5420670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Behavior, not fingerprints, is the edge",
+          "description": "Corma's AI analyzes movement patterns to detect attacks, catching what signature-based systems overlook completely.",
+          "visual_hint": "Fingerprint dissolving into data streams",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "fingerprint scanner",
+          "image": "https://images.pexels.com/photos/7479535/pexels-photo-7479535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Security teams face pressure to adopt",
+          "description": "If behavior-based AI works at scale, teams must adopt it or risk falling behind attackers who already use it.",
+          "visual_hint": "Team looking at rising threat chart",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers computer",
+          "image": "https://images.pexels.com/photos/12903155/pexels-photo-12903155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: test your vendor's AI",
+          "description": "Pick a recent missed alert and ask your vendor to show how their AI would have caught it. Save this post for later.",
+          "visual_hint": "Hand holding phone with checklist",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+      "savedAt": "2026-11-17T05:49:48.726Z",
+      "sourceId": "7517b8cd010a2f700e1da12d91801312"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-will-embed-safety-researchers-to-investigat",
       "prompt_version": "1.0.0",
       "status": "published",

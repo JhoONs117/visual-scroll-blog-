@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "us-tightens-ai-chip-export-controls-to-deter-chine",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+  "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+  "pubDate": "Mon, 16 Nov 2026 15:02:34 +0000",
+  "slides": [
+    "Can US export controls catch what chips already left?",
+    "New rules now target remote access, not just hardware",
+    "Cloud providers must verify foreign users' identities",
+    "Companies routing through third countries face new audits",
+    "Test one partner's compliance before your next renewal"
+  ],
+  "thread_text": [
+    "1. The chips are already gone\n\nExport controls chase hardware that has already left. New rules now target remote access, not just physical shipments.",
+    "2. Remote access is the new front\n\nCloud providers must verify foreign users' identities. That means logging every session, not just tracking boxes.",
+    "3. Third countries under scrutiny\n\nCompanies routing through intermediaries face new audits. Compliance now depends on where your traffic goes, not where your office is.",
+    "4. Your partner's risk is yours\n\nIf your cloud provider fails verification, your renewal could be denied. Test one partner's compliance before your next renewal.",
+    "5. One test before renewal\n\nAsk your cloud provider for their foreign user verification policy. If they can't produce it, you're exposed."
+  ],
+  "video_script": [
+    "The chips already left. Now the rules target remote access.",
+    "Cloud providers must verify foreign users' identities.",
+    "Routing through third countries? Expect new audits.",
+    "Your partner's compliance failure can block your renewal.",
+    "Test one partner's compliance before your next renewal."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The chips are already gone\n\nExport controls chase hardware that has already left. New rules now target remote access, not just physical shipments.",
+        "2. Remote access is the new front\n\nCloud providers must verify foreign users' identities. That means logging every session, not just tracking boxes.",
+        "3. Third countries under scrutiny\n\nCompanies routing through intermediaries face new audits. Compliance now depends on where your traffic goes, not where your office is.",
+        "4. Your partner's risk is yours\n\nIf your cloud provider fails verification, your renewal could be denied. Test one partner's compliance before your next renewal.",
+        "5. One test before renewal\n\nAsk your cloud provider for their foreign user verification policy. If they can't produce it, you're exposed."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "The chips already left. Now the rules target remote access.",
+        "Cloud providers must verify foreign users' identities.",
+        "Routing through third countries? Expect new audits.",
+        "Your partner's compliance failure can block your renewal.",
+        "Test one partner's compliance before your next renewal."
+      ]
+    },
+    "instagram": {
+      "caption": "If your cloud provider can't verify who's logging in from abroad, your next renewal could be denied.\n\nUS export controls now target remote access, not just physical chip shipments. 🔍\n\nCloud providers must log every foreign session and confirm user identities.\n\nCompanies routing through third countries face new audits — where your traffic goes matters now.\n\nThat means the tools you build on can lose access overnight if a partner fails verification. ⚠️\n\nBefore your next renewal, ask your provider for their foreign user verification policy. 📋\n\nIf they can't produce it, you're exposed — and you won't find out until it's too late. 💡"
+    }
+  },
+  "instagram_caption": "If your cloud provider can't verify who's logging in from abroad, your next renewal could be denied.\n\nUS export controls now target remote access, not just physical chip shipments. 🔍\n\nCloud providers must log every foreign session and confirm user identities.\n\nCompanies routing through third countries face new audits — where your traffic goes matters now.\n\nThat means the tools you build on can lose access overnight if a partner fails verification. ⚠️\n\nBefore your next renewal, ask your provider for their foreign user verification policy. 📋\n\nIf they can't produce it, you're exposed — and you won't find out until it's too late. 💡",
+  "carousel_slides": [
+    {
+      "hook": "Can export controls catch chips already gone?",
+      "description": "New rules target remote access, not just hardware shipments, closing a loophole companies exploited.",
+      "visual_hint": "Circuit board with glowing pathways",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "circuit board"
+    },
+    {
+      "hook": "Cloud providers must verify foreign users' identities",
+      "description": "Providers now log every session and verify foreign users, shifting compliance from boxes to digital access.",
+      "visual_hint": "Server room with identity verification screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Third-country routing triggers new audits",
+      "description": "Companies using intermediaries face audits; compliance depends on traffic destination, not office location.",
+      "visual_hint": "World map with data flow lines",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "world map",
+      "image": "https://images.pexels.com/photos/4406813/pexels-photo-4406813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your cloud partner's risk becomes yours",
+      "description": "If your provider fails verification, your renewal could be denied. Test compliance before renewal.",
+      "visual_hint": "Handshake with digital risk overlay",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "handshake office",
+      "image": "https://images.pexels.com/photos/8101922/pexels-photo-8101922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: one test before renewal",
+      "description": "Ask your cloud provider for their foreign user verification policy. If they can't produce it, you're exposed.",
+      "visual_hint": "Checklist with compliance checkmark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist document",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/us-commerce.jpg?w=564",
+  "savedAt": "2026-11-17T05:50:06.105Z",
+  "sourceId": "725c1dccea9edf97037db33341965bec"
+}

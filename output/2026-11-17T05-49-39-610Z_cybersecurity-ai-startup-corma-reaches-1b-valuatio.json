@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "cybersecurity-ai-startup-corma-reaches-1b-valuatio",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+  "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+  "pubDate": "Mon, 16 Nov 2026 23:32:32 +0000",
+  "slides": [
+    "Can a 3-month-old startup really be worth $1B?",
+    "Corma hit that valuation faster than almost any security firm",
+    "Its edge: AI that maps attacker behavior, not just signatures",
+    "Security teams may soon face pressure to adopt or fall behind",
+    "Ask your vendor one question: what does your AI actually catch?"
+  ],
+  "thread_text": [
+    "1. $1B in 90 days?\n\nCorma just hit unicorn status faster than almost any security firm in history. The money isn't betting on malware signatures—it's betting on a completely different way of seeing attacks.",
+    "2. The real edge\n\nCorma's AI doesn't just match known threats. It maps how attackers actually behave—movement patterns, not fingerprints. That means it can catch what signatures miss entirely.",
+    "3. Pressure is coming\n\nIf this works at scale, security teams will face a simple choice: adopt behavior-based AI or fall behind attackers who already have it. The gap won't close on its own.",
+    "4. One question to ask\n\nWhen your vendor pitches AI, don't ask if they have it. Ask what it actually catches that your current stack doesn't. Most can't answer specifically.",
+    "5. Test it now\n\nPick one recent alert your team missed. Ask your vendor to show how their AI would have caught it. If they can't walk through the behavior, you have your answer."
+  ],
+  "video_script": [
+    "A three-month-old startup just hit one billion dollars.",
+    "Corma's AI maps attacker behavior, not just signatures.",
+    "That means it catches threats other tools completely miss.",
+    "Security teams will soon feel pressure to adopt or fall behind.",
+    "Ask your vendor: what does your AI actually catch?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $1B in 90 days?\n\nCorma just hit unicorn status faster than almost any security firm in history. The money isn't betting on malware signatures—it's betting on a completely different way of seeing attacks.",
+        "2. The real edge\n\nCorma's AI doesn't just match known threats. It maps how attackers actually behave—movement patterns, not fingerprints. That means it can catch what signatures miss entirely.",
+        "3. Pressure is coming\n\nIf this works at scale, security teams will face a simple choice: adopt behavior-based AI or fall behind attackers who already have it. The gap won't close on its own.",
+        "4. One question to ask\n\nWhen your vendor pitches AI, don't ask if they have it. Ask what it actually catches that your current stack doesn't. Most can't answer specifically.",
+        "5. Test it now\n\nPick one recent alert your team missed. Ask your vendor to show how their AI would have caught it. If they can't walk through the behavior, you have your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A three-month-old startup just hit one billion dollars.",
+        "Corma's AI maps attacker behavior, not just signatures.",
+        "That means it catches threats other tools completely miss.",
+        "Security teams will soon feel pressure to adopt or fall behind.",
+        "Ask your vendor: what does your AI actually catch?"
+      ]
+    },
+    "instagram": {
+      "caption": "$1B in 90 days — faster than almost any security firm in history.\n\nCorma's AI doesn't match malware signatures. It maps how attackers actually move. 🗺️\n\nThat means it can catch threats your current stack misses entirely.\n\nIf this works at scale, security teams face real pressure to adopt behavior-based AI or fall behind. ⚠️\n\nYour vendor pitch just changed. Don't ask if they have AI — ask what it actually catches that you don't.\n\nPick one recent alert your team missed. Ask them to walk through how their AI would've caught it. 🔍\n\nCould your current tools answer that? 🤔"
+    }
+  },
+  "instagram_caption": "$1B in 90 days — faster than almost any security firm in history.\n\nCorma's AI doesn't match malware signatures. It maps how attackers actually move. 🗺️\n\nThat means it can catch threats your current stack misses entirely.\n\nIf this works at scale, security teams face real pressure to adopt behavior-based AI or fall behind. ⚠️\n\nYour vendor pitch just changed. Don't ask if they have AI — ask what it actually catches that you don't.\n\nPick one recent alert your team missed. Ask them to walk through how their AI would've caught it. 🔍\n\nCould your current tools answer that? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "What does your AI actually catch?",
+      "description": "Corma's AI maps attacker behavior, not just signatures. It can catch threats that fingerprint-based tools miss entirely.",
+      "visual_hint": "Abstract network with moving nodes",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "network nodes abstract"
+    },
+    {
+      "hook": "A $1B startup in 90 days?",
+      "description": "Corma reached unicorn status faster than almost any security firm, betting on behavior-based AI over traditional signatures.",
+      "visual_hint": "Rocket launching with dollar sign",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "rocket launch",
+      "image": "https://images.pexels.com/photos/5420670/pexels-photo-5420670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Behavior, not fingerprints, is the edge",
+      "description": "Corma's AI analyzes movement patterns to detect attacks, catching what signature-based systems overlook completely.",
+      "visual_hint": "Fingerprint dissolving into data streams",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "fingerprint scanner",
+      "image": "https://images.pexels.com/photos/7479535/pexels-photo-7479535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Security teams face pressure to adopt",
+      "description": "If behavior-based AI works at scale, teams must adopt it or risk falling behind attackers who already use it.",
+      "visual_hint": "Team looking at rising threat chart",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers computer",
+      "image": "https://images.pexels.com/photos/12903155/pexels-photo-12903155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: test your vendor's AI",
+      "description": "Pick a recent missed alert and ask your vendor to show how their AI would have caught it. Save this post for later.",
+      "visual_hint": "Hand holding phone with checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+  "savedAt": "2026-11-17T05:49:48.726Z",
+  "sourceId": "7517b8cd010a2f700e1da12d91801312"
+}

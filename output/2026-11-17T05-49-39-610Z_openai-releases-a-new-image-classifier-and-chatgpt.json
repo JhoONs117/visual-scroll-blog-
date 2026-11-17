@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-releases-a-new-image-classifier-and-chatgpt",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+  "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+  "pubDate": "Mon, 16 Nov 2026 17:00:00 +0000",
+  "slides": [
+    "Will OpenAI’s new image classifier make ChatGPT safer?",
+    "The tool flags and reports child sexual abuse material to authorities.",
+    "But the classifier may miss subtle cases and trigger false alarms.",
+    "Parents and moderators now get real-time warnings on suspicious content.",
+    "Test the classifier yourself—ask ChatGPT to flag an image."
+  ],
+  "thread_text": [
+    "1. Your kids' photos at risk?\n\nOpenAI's new image classifier now flags and reports child sexual abuse material directly to authorities. It's a major shift in how AI platforms handle illegal content.",
+    "2. False alarms possible\n\nThe classifier may miss subtle cases and trigger false alarms, meaning innocent images could be flagged. This raises concerns about accuracy and trust.",
+    "3. Parents get real-time alerts\n\nParents and moderators now receive real-time warnings on suspicious content, allowing faster intervention. But how reliable are these warnings?",
+    "4. Test it yourself\n\nYou can ask ChatGPT to flag an image and see how the classifier works. It's a hands-on way to understand its strengths and weaknesses.",
+    "5. Would you trust it?\n\nTry the classifier on a real image today. Does it catch what it should, or does it miss the mark? Your experience matters."
+  ],
+  "video_script": [
+    "OpenAI's new classifier flags child abuse images.",
+    "It reports to authorities but may miss subtle cases.",
+    "False alarms could flag innocent content.",
+    "Parents get real-time warnings on suspicious images.",
+    "Test it yourself: ask ChatGPT to flag an image."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your kids' photos at risk?\n\nOpenAI's new image classifier now flags and reports child sexual abuse material directly to authorities. It's a major shift in how AI platforms handle illegal content.",
+        "2. False alarms possible\n\nThe classifier may miss subtle cases and trigger false alarms, meaning innocent images could be flagged. This raises concerns about accuracy and trust.",
+        "3. Parents get real-time alerts\n\nParents and moderators now receive real-time warnings on suspicious content, allowing faster intervention. But how reliable are these warnings?",
+        "4. Test it yourself\n\nYou can ask ChatGPT to flag an image and see how the classifier works. It's a hands-on way to understand its strengths and weaknesses.",
+        "5. Would you trust it?\n\nTry the classifier on a real image today. Does it catch what it should, or does it miss the mark? Your experience matters."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI's new classifier flags child abuse images.",
+        "It reports to authorities but may miss subtle cases.",
+        "False alarms could flag innocent content.",
+        "Parents get real-time warnings on suspicious images.",
+        "Test it yourself: ask ChatGPT to flag an image."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI's new image classifier now automatically flags and reports child sexual abuse material straight to authorities.\n\nIt's a major shift in how AI platforms handle illegal content. 🚨\n\nBut it may miss subtle cases and trigger false alarms, meaning innocent images could get flagged.\n\nParents and moderators now get real-time warnings on suspicious content, allowing faster intervention.\n\nYou can test it yourself: ask ChatGPT to flag an image and see how it performs. 🔍\n\nDoes it catch what it should, or miss the mark? Try it on a real image today. 👇"
+    }
+  },
+  "instagram_caption": "OpenAI's new image classifier now automatically flags and reports child sexual abuse material straight to authorities.\n\nIt's a major shift in how AI platforms handle illegal content. 🚨\n\nBut it may miss subtle cases and trigger false alarms, meaning innocent images could get flagged.\n\nParents and moderators now get real-time warnings on suspicious content, allowing faster intervention.\n\nYou can test it yourself: ask ChatGPT to flag an image and see how it performs. 🔍\n\nDoes it catch what it should, or miss the mark? Try it on a real image today. 👇",
+  "carousel_slides": [
+    {
+      "hook": "Will AI flag innocent photos?",
+      "description": "OpenAI's new classifier may miss subtle cases or trigger false alarms, raising concerns about accuracy and trust in automated content moderation.",
+      "visual_hint": "Warning sign with blurred photo",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "warning sign"
+    },
+    {
+      "hook": "New tool reports abuse directly",
+      "description": "OpenAI's image classifier now flags and reports child sexual abuse material to authorities, marking a major shift in platform responsibility.",
+      "visual_hint": "Shield icon over digital network",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "digital shield",
+      "image": "https://images.pexels.com/photos/17806619/pexels-photo-17806619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "But false alarms remain possible",
+      "description": "The classifier may miss subtle cases and trigger false alarms, meaning innocent images could be flagged, undermining trust in the system.",
+      "visual_hint": "Magnifying glass on pixelated face",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Parents get real-time warnings",
+      "description": "Parents and moderators now receive real-time alerts on suspicious content, allowing faster intervention, but reliability of these warnings is questioned.",
+      "visual_hint": "Smartphone with alert notification",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone alert",
+      "image": "https://images.pexels.com/photos/6034771/pexels-photo-6034771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it yourself and share",
+      "description": "Ask ChatGPT to flag an image and see how the classifier works. Try it now and comment your results below.",
+      "visual_hint": "Hand holding phone with ChatGPT",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "chatgpt phone",
+      "image": "https://images.pexels.com/photos/30530422/pexels-photo-30530422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/OpenAI-chatgpt-CSAM.jpeg?resize=1200,675",
+  "savedAt": "2026-11-17T05:49:57.644Z",
+  "sourceId": "c241de6853258324bc00df0a3c8cb50b"
+}
