@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "isomorphic-labs-raises-5b-as-it-looks-to-take-drug",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+  "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+  "pubDate": "Tue, 17 Nov 2026 14:50:58 +0000",
+  "slides": [
+    "Isomorphic Labs just raised $5B — but can it deliver?",
+    "The AI drug discovery firm spins out of DeepMind's AlphaFold work",
+    "Most AI-designed drugs still fail before reaching patients",
+    "Your next treatment may be designed by an algorithm, not a chemist",
+    "Watch for its first clinical trial candidate this year"
+  ],
+  "thread_text": [
+    "1. $5B Bet On AI Drugs\n\nIsomorphic Labs just raised $5 billion to design drugs with AI. Its first clinical trial candidate is expected this year — a make-or-break moment for the entire field.",
+    "2. The AlphaFold Advantage\n\nSpun out of DeepMind, the company builds on AlphaFold's protein-structure breakthrough. That gives it a huge head start in predicting how potential drugs will bind to targets.",
+    "3. The 90% Failure Problem\n\nMost AI-designed drugs still fail before reaching patients. That's the brutal reality behind the hype — and the reason this $5B round is being watched so closely.",
+    "4. Your Next Treatment?\n\nThe algorithm won't replace chemists, but it may soon design your next prescription. If Isomorphic delivers, the way medicines are discovered changes forever.",
+    "5. Watch This Trial\n\nIf you follow AI in health, watch for Isomorphic's first clinical trial candidate this year. That single announcement will tell you whether the $5B was genius or hype."
+  ],
+  "video_script": [
+    "Isomorphic Labs just raised five billion dollars.",
+    "It spun out of DeepMind's AlphaFold work.",
+    "But most AI-designed drugs still fail.",
+    "Your next treatment could be designed by an algorithm.",
+    "Watch for its first clinical trial candidate this year."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $5B Bet On AI Drugs\n\nIsomorphic Labs just raised $5 billion to design drugs with AI. Its first clinical trial candidate is expected this year — a make-or-break moment for the entire field.",
+        "2. The AlphaFold Advantage\n\nSpun out of DeepMind, the company builds on AlphaFold's protein-structure breakthrough. That gives it a huge head start in predicting how potential drugs will bind to targets.",
+        "3. The 90% Failure Problem\n\nMost AI-designed drugs still fail before reaching patients. That's the brutal reality behind the hype — and the reason this $5B round is being watched so closely.",
+        "4. Your Next Treatment?\n\nThe algorithm won't replace chemists, but it may soon design your next prescription. If Isomorphic delivers, the way medicines are discovered changes forever.",
+        "5. Watch This Trial\n\nIf you follow AI in health, watch for Isomorphic's first clinical trial candidate this year. That single announcement will tell you whether the $5B was genius or hype."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Isomorphic Labs just raised five billion dollars.",
+        "It spun out of DeepMind's AlphaFold work.",
+        "But most AI-designed drugs still fail.",
+        "Your next treatment could be designed by an algorithm.",
+        "Watch for its first clinical trial candidate this year."
+      ]
+    },
+    "instagram": {
+      "caption": "Five billion dollars is betting your next prescription gets designed by an algorithm 🧬\n\nIsomorphic Labs, spun out of DeepMind's AlphaFold work, just raised that to push AI-designed drugs toward clinical trials.\n\nIts first trial candidate is expected this year — the moment that decides if the bet was genius or hype.\n\nMost AI-designed drugs still fail before reaching patients, so that trial matters more than the check.\n\nIf you write about health or AI, this is the story to watch this year 👀\n\nWould you trust a treatment a chemist never touched? 💊"
+    }
+  },
+  "instagram_caption": "Five billion dollars is betting your next prescription gets designed by an algorithm 🧬\n\nIsomorphic Labs, spun out of DeepMind's AlphaFold work, just raised that to push AI-designed drugs toward clinical trials.\n\nIts first trial candidate is expected this year — the moment that decides if the bet was genius or hype.\n\nMost AI-designed drugs still fail before reaching patients, so that trial matters more than the check.\n\nIf you write about health or AI, this is the story to watch this year 👀\n\nWould you trust a treatment a chemist never touched? 💊",
+  "carousel_slides": [
+    {
+      "hook": "Most AI drugs still fail patients",
+      "description": "Despite $5B in funding, AI-designed drugs often fail before reaching patients, raising stakes for Isomorphic's upcoming trial.",
+      "visual_hint": "Pill bottles with warning label",
+      "layout_type": "hero",
+      "icon": "heart",
+      "image_query": "pill bottle"
+    },
+    {
+      "hook": "AlphaFold gives Isomorphic a head start",
+      "description": "Spun out of DeepMind, Isomorphic leverages AlphaFold's protein-structure predictions to accelerate drug binding analysis.",
+      "visual_hint": "Protein structure 3D model",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "protein structure",
+      "image": "https://images.pexels.com/photos/25961725/pexels-photo-25961725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "90% failure rate haunts AI drugs",
+      "description": "Most AI-designed drug candidates fail in trials, making Isomorphic's $5B bet a high-risk, high-reward endeavor.",
+      "visual_hint": "Falling graph with red arrow",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your next prescription may be AI-designed",
+      "description": "Algorithms won't replace chemists but could soon design your treatment, transforming medicine if Isomorphic succeeds.",
+      "visual_hint": "Doctor holding digital tablet",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "doctor tablet",
+      "image": "https://images.pexels.com/photos/19963124/pexels-photo-19963124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: AI drug trial coming",
+      "description": "Watch for Isomorphic's first clinical trial candidate this year—it will reveal if the $5B was genius or hype.",
+      "visual_hint": "Calendar with circled date",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar date",
+      "image": "https://images.pexels.com/photos/7479755/pexels-photo-7479755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2151467531.jpg?resize=1200,800",
+  "savedAt": "2026-11-17T15:14:08.437Z",
+  "sourceId": "d9a30601c5dbd1d64baad467ec807cd5"
+}

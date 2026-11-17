@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "spotify-s-new-tool-aims-to-stop-deepfakes-from-bei",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+  "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+  "pubDate": "Tue, 17 Nov 2026 14:00:00 +0000",
+  "slides": [
+    "Can Spotify stop AI from faking real artists?",
+    "A new tool targets deepfakes attributed to them",
+    "But it flags impersonation, not all synthetic music",
+    "Artists must opt in to be protected",
+    "Check if your favorite artist is covered"
+  ],
+  "thread_text": [
+    "1. Spotify's new weapon\n\nA tool now flags deepfakes attributed to real artists on the platform, but it only targets impersonation, not all synthetic music.",
+    "2. The opt-in catch\n\nArtists must actively opt in to be protected, leaving many unaware or unrepresented.",
+    "3. Limited scope\n\nThe tool doesn't catch AI-generated tracks that mimic style without direct attribution, so plenty of synthetic music slips through.",
+    "4. Fan's responsibility\n\nListeners can check if their favorite artist is covered, but the burden shouldn't fall on them.",
+    "5. Take action today\n\nSearch Spotify's artist protection list and see if your favorite is enrolled. If not, ask why."
+  ],
+  "video_script": [
+    "Spotify's new tool flags deepfakes, but only impersonation.",
+    "Artists must opt in to get protected.",
+    "It misses AI music that mimics style without attribution.",
+    "Fans can check if their favorite artist is covered.",
+    "Search the list today and ask why not."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Spotify's new weapon\n\nA tool now flags deepfakes attributed to real artists on the platform, but it only targets impersonation, not all synthetic music.",
+        "2. The opt-in catch\n\nArtists must actively opt in to be protected, leaving many unaware or unrepresented.",
+        "3. Limited scope\n\nThe tool doesn't catch AI-generated tracks that mimic style without direct attribution, so plenty of synthetic music slips through.",
+        "4. Fan's responsibility\n\nListeners can check if their favorite artist is covered, but the burden shouldn't fall on them.",
+        "5. Take action today\n\nSearch Spotify's artist protection list and see if your favorite is enrolled. If not, ask why."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Spotify's new tool flags deepfakes, but only impersonation.",
+        "Artists must opt in to get protected.",
+        "It misses AI music that mimics style without attribution.",
+        "Fans can check if their favorite artist is covered.",
+        "Search the list today and ask why not."
+      ]
+    },
+    "instagram": {
+      "caption": "Spotify’s new tool flags deepfakes attributed to real artists, but only if those artists have opted in.\n\nIt targets impersonation, not all synthetic music, so AI tracks that mimic a style without naming a real artist still slip through 🔊\n\nThat means your favorite artist might not be protected yet, and the burden falls on listeners to check the list.\n\nIf you create or publish music, this opt-in gap could affect how your voice or brand gets used 👀\n\nSearch Spotify’s artist protection list today and see if your favorite is enrolled. If not, ask why 🤔"
+    }
+  },
+  "instagram_caption": "Spotify’s new tool flags deepfakes attributed to real artists, but only if those artists have opted in.\n\nIt targets impersonation, not all synthetic music, so AI tracks that mimic a style without naming a real artist still slip through 🔊\n\nThat means your favorite artist might not be protected yet, and the burden falls on listeners to check the list.\n\nIf you create or publish music, this opt-in gap could affect how your voice or brand gets used 👀\n\nSearch Spotify’s artist protection list today and see if your favorite is enrolled. If not, ask why 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can Spotify stop AI fakes?",
+      "description": "Spotify's new tool flags deepfakes attributed to real artists, but only targets impersonation, not all synthetic music.",
+      "visual_hint": "Spotify logo on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Spotify logo"
+    },
+    {
+      "hook": "Artists must opt in to be protected",
+      "description": "Artists need to actively opt in, leaving many unaware or unrepresented.",
+      "visual_hint": "Artist at microphone",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "microphone studio",
+      "image": "https://images.pexels.com/photos/4988132/pexels-photo-4988132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Tool flags impersonation, not all AI music",
+      "description": "AI tracks mimicking style without direct attribution slip through, so plenty of synthetic music remains unflagged.",
+      "visual_hint": "AI waveform visualization",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "sound wave",
+      "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fans can check artist protection",
+      "description": "Listeners can verify if their favorite artist is covered, but the burden shouldn't fall on them.",
+      "visual_hint": "Hand holding smartphone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Search Spotify's artist protection list now",
+      "description": "Check if your favorite artist is enrolled; if not, ask why.",
+      "visual_hint": "Spotify app on phone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "Spotify app",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/Hero-asset.png?resize=1200,675",
+  "savedAt": "2026-11-17T15:14:16.994Z",
+  "sourceId": "34711bc4c1a8b9b9ac458286f06ad059"
+}

@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "genesis-ai-raises-500-million-to-deploy-glove-wear",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Genesis AI raises $500 million to deploy glove-wearing robots",
+      "link": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
+      "pubDate": "Tue, 17 Nov 2026 14:00:00 +0000",
+      "slides": [
+        "Can Genesis AI's gloves outwork human hands?",
+        "It raised $500 million to deploy them",
+        "Investors bet on dexterity over intelligence",
+        "Factories may soon test these robots first",
+        "Ask which tasks your team could hand off"
+      ],
+      "thread_text": [
+        "1. The $500M bet on hands\n\nGenesis AI just raised half a billion dollars to build robotic gloves that match human dexterity. The money isn't going to smarter AI—it's going to better hands.",
+        "2. Why dexterity wins now\n\nInvestors are shifting focus from artificial intelligence to physical manipulation. A robot that can't grip a tool is useless, no matter how smart its brain.",
+        "3. Factories first, homes later\n\nManufacturing floors will be the first testing ground for these gloves. If they can handle assembly lines, the rest of the labor market is next.",
+        "4. The tasks you could hand off\n\nStart by listing repetitive manual tasks your team does daily. Those are the first candidates for robotic hands, not entire jobs.",
+        "5. Audit your own workflow\n\nLook at your calendar today: which physical or repetitive task could a robot do? If you can name one, you’re already behind."
+      ],
+      "video_script": [
+        "Genesis AI raised five hundred million dollars for robotic gloves.",
+        "Investors are betting on hands, not just brains.",
+        "Factories will test these robots before anyone else.",
+        "List the repetitive tasks your team does manually.",
+        "Ask yourself which one a robot could do today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The $500M bet on hands\n\nGenesis AI just raised half a billion dollars to build robotic gloves that match human dexterity. The money isn't going to smarter AI—it's going to better hands.",
+            "2. Why dexterity wins now\n\nInvestors are shifting focus from artificial intelligence to physical manipulation. A robot that can't grip a tool is useless, no matter how smart its brain.",
+            "3. Factories first, homes later\n\nManufacturing floors will be the first testing ground for these gloves. If they can handle assembly lines, the rest of the labor market is next.",
+            "4. The tasks you could hand off\n\nStart by listing repetitive manual tasks your team does daily. Those are the first candidates for robotic hands, not entire jobs.",
+            "5. Audit your own workflow\n\nLook at your calendar today: which physical or repetitive task could a robot do? If you can name one, you’re already behind."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Genesis AI raised five hundred million dollars for robotic gloves.",
+            "Investors are betting on hands, not just brains.",
+            "Factories will test these robots before anyone else.",
+            "List the repetitive tasks your team does manually.",
+            "Ask yourself which one a robot could do today."
+          ]
+        },
+        "instagram": {
+          "caption": "Half a billion dollars just went to robotic hands, not smarter software.\n\nGenesis AI raised $500 million to build glove-wearing robots that match human dexterity. 🧤\n\nInvestors are betting on physical manipulation over raw intelligence — a smart robot that can't grip a tool is useless.\n\nFactories will test these gloves on assembly lines first, then the rest of the labor market follows. 🏭\n\nIf you publish or create content, your repetitive manual tasks are now automation candidates — not your whole job, just the grab-and-place parts. ⚙️\n\nLook at your calendar today: which single repetitive task could a robot hand already do? 🤔"
+        }
+      },
+      "instagram_caption": "Half a billion dollars just went to robotic hands, not smarter software.\n\nGenesis AI raised $500 million to build glove-wearing robots that match human dexterity. 🧤\n\nInvestors are betting on physical manipulation over raw intelligence — a smart robot that can't grip a tool is useless.\n\nFactories will test these gloves on assembly lines first, then the rest of the labor market follows. 🏭\n\nIf you publish or create content, your repetitive manual tasks are now automation candidates — not your whole job, just the grab-and-place parts. ⚙️\n\nLook at your calendar today: which single repetitive task could a robot hand already do? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Is dexterity the new AI battleground?",
+          "description": "Genesis AI raised $500M to deploy glove-wearing robots, betting that physical manipulation matters more than smarter algorithms.",
+          "visual_hint": "Robotic glove gripping a tool",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robotic hand"
+        },
+        {
+          "hook": "Half a billion dollars for better hands",
+          "description": "The funding goes to robotic gloves that match human dexterity, not to AI software—a shift in investor priorities.",
+          "visual_hint": "Stack of cash next to robotic glove",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "money stack",
+          "image": "https://images.pexels.com/photos/40996023/pexels-photo-40996023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Why investors now bet on hands",
+          "description": "Investors are shifting focus from artificial intelligence to physical manipulation: a smart robot that can't grip a tool is useless.",
+          "visual_hint": "Robot hand holding a wrench",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "robot arm factory",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Factories will test them first",
+          "description": "Manufacturing floors are the first testing ground for these gloves; if they handle assembly lines, other labor markets are next.",
+          "visual_hint": "Robotic gloves on assembly line",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "assembly line factory",
+          "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to audit your workflow",
+          "description": "List repetitive manual tasks your team does daily—those are the first candidates for robotic hands, not entire jobs.",
+          "visual_hint": "Person writing task list with robot nearby",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office desk task list",
+          "image": "https://images.pexels.com/photos/7428213/pexels-photo-7428213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_1826.jpg?resize=862,1200",
+      "savedAt": "2026-11-17T15:14:27.272Z",
+      "sourceId": "cbed61f75cd06d8ecc37957c5aad8860"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "spotify-s-new-tool-aims-to-stop-deepfakes-from-bei",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+      "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+      "pubDate": "Tue, 17 Nov 2026 14:00:00 +0000",
+      "slides": [
+        "Can Spotify stop AI from faking real artists?",
+        "A new tool targets deepfakes attributed to them",
+        "But it flags impersonation, not all synthetic music",
+        "Artists must opt in to be protected",
+        "Check if your favorite artist is covered"
+      ],
+      "thread_text": [
+        "1. Spotify's new weapon\n\nA tool now flags deepfakes attributed to real artists on the platform, but it only targets impersonation, not all synthetic music.",
+        "2. The opt-in catch\n\nArtists must actively opt in to be protected, leaving many unaware or unrepresented.",
+        "3. Limited scope\n\nThe tool doesn't catch AI-generated tracks that mimic style without direct attribution, so plenty of synthetic music slips through.",
+        "4. Fan's responsibility\n\nListeners can check if their favorite artist is covered, but the burden shouldn't fall on them.",
+        "5. Take action today\n\nSearch Spotify's artist protection list and see if your favorite is enrolled. If not, ask why."
+      ],
+      "video_script": [
+        "Spotify's new tool flags deepfakes, but only impersonation.",
+        "Artists must opt in to get protected.",
+        "It misses AI music that mimics style without attribution.",
+        "Fans can check if their favorite artist is covered.",
+        "Search the list today and ask why not."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Spotify's new weapon\n\nA tool now flags deepfakes attributed to real artists on the platform, but it only targets impersonation, not all synthetic music.",
+            "2. The opt-in catch\n\nArtists must actively opt in to be protected, leaving many unaware or unrepresented.",
+            "3. Limited scope\n\nThe tool doesn't catch AI-generated tracks that mimic style without direct attribution, so plenty of synthetic music slips through.",
+            "4. Fan's responsibility\n\nListeners can check if their favorite artist is covered, but the burden shouldn't fall on them.",
+            "5. Take action today\n\nSearch Spotify's artist protection list and see if your favorite is enrolled. If not, ask why."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Spotify's new tool flags deepfakes, but only impersonation.",
+            "Artists must opt in to get protected.",
+            "It misses AI music that mimics style without attribution.",
+            "Fans can check if their favorite artist is covered.",
+            "Search the list today and ask why not."
+          ]
+        },
+        "instagram": {
+          "caption": "Spotify’s new tool flags deepfakes attributed to real artists, but only if those artists have opted in.\n\nIt targets impersonation, not all synthetic music, so AI tracks that mimic a style without naming a real artist still slip through 🔊\n\nThat means your favorite artist might not be protected yet, and the burden falls on listeners to check the list.\n\nIf you create or publish music, this opt-in gap could affect how your voice or brand gets used 👀\n\nSearch Spotify’s artist protection list today and see if your favorite is enrolled. If not, ask why 🤔"
+        }
+      },
+      "instagram_caption": "Spotify’s new tool flags deepfakes attributed to real artists, but only if those artists have opted in.\n\nIt targets impersonation, not all synthetic music, so AI tracks that mimic a style without naming a real artist still slip through 🔊\n\nThat means your favorite artist might not be protected yet, and the burden falls on listeners to check the list.\n\nIf you create or publish music, this opt-in gap could affect how your voice or brand gets used 👀\n\nSearch Spotify’s artist protection list today and see if your favorite is enrolled. If not, ask why 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Can Spotify stop AI fakes?",
+          "description": "Spotify's new tool flags deepfakes attributed to real artists, but only targets impersonation, not all synthetic music.",
+          "visual_hint": "Spotify logo on screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Spotify logo"
+        },
+        {
+          "hook": "Artists must opt in to be protected",
+          "description": "Artists need to actively opt in, leaving many unaware or unrepresented.",
+          "visual_hint": "Artist at microphone",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "microphone studio",
+          "image": "https://images.pexels.com/photos/4988132/pexels-photo-4988132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Tool flags impersonation, not all AI music",
+          "description": "AI tracks mimicking style without direct attribution slip through, so plenty of synthetic music remains unflagged.",
+          "visual_hint": "AI waveform visualization",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "sound wave",
+          "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fans can check artist protection",
+          "description": "Listeners can verify if their favorite artist is covered, but the burden shouldn't fall on them.",
+          "visual_hint": "Hand holding smartphone",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Search Spotify's artist protection list now",
+          "description": "Check if your favorite artist is enrolled; if not, ask why.",
+          "visual_hint": "Spotify app on phone",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "Spotify app",
+          "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Hero-asset.png?resize=1200,675",
+      "savedAt": "2026-11-17T15:14:16.994Z",
+      "sourceId": "34711bc4c1a8b9b9ac458286f06ad059"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "isomorphic-labs-raises-5b-as-it-looks-to-take-drug",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "pubDate": "Tue, 17 Nov 2026 14:50:58 +0000",
+      "slides": [
+        "Isomorphic Labs just raised $5B — but can it deliver?",
+        "The AI drug discovery firm spins out of DeepMind's AlphaFold work",
+        "Most AI-designed drugs still fail before reaching patients",
+        "Your next treatment may be designed by an algorithm, not a chemist",
+        "Watch for its first clinical trial candidate this year"
+      ],
+      "thread_text": [
+        "1. $5B Bet On AI Drugs\n\nIsomorphic Labs just raised $5 billion to design drugs with AI. Its first clinical trial candidate is expected this year — a make-or-break moment for the entire field.",
+        "2. The AlphaFold Advantage\n\nSpun out of DeepMind, the company builds on AlphaFold's protein-structure breakthrough. That gives it a huge head start in predicting how potential drugs will bind to targets.",
+        "3. The 90% Failure Problem\n\nMost AI-designed drugs still fail before reaching patients. That's the brutal reality behind the hype — and the reason this $5B round is being watched so closely.",
+        "4. Your Next Treatment?\n\nThe algorithm won't replace chemists, but it may soon design your next prescription. If Isomorphic delivers, the way medicines are discovered changes forever.",
+        "5. Watch This Trial\n\nIf you follow AI in health, watch for Isomorphic's first clinical trial candidate this year. That single announcement will tell you whether the $5B was genius or hype."
+      ],
+      "video_script": [
+        "Isomorphic Labs just raised five billion dollars.",
+        "It spun out of DeepMind's AlphaFold work.",
+        "But most AI-designed drugs still fail.",
+        "Your next treatment could be designed by an algorithm.",
+        "Watch for its first clinical trial candidate this year."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $5B Bet On AI Drugs\n\nIsomorphic Labs just raised $5 billion to design drugs with AI. Its first clinical trial candidate is expected this year — a make-or-break moment for the entire field.",
+            "2. The AlphaFold Advantage\n\nSpun out of DeepMind, the company builds on AlphaFold's protein-structure breakthrough. That gives it a huge head start in predicting how potential drugs will bind to targets.",
+            "3. The 90% Failure Problem\n\nMost AI-designed drugs still fail before reaching patients. That's the brutal reality behind the hype — and the reason this $5B round is being watched so closely.",
+            "4. Your Next Treatment?\n\nThe algorithm won't replace chemists, but it may soon design your next prescription. If Isomorphic delivers, the way medicines are discovered changes forever.",
+            "5. Watch This Trial\n\nIf you follow AI in health, watch for Isomorphic's first clinical trial candidate this year. That single announcement will tell you whether the $5B was genius or hype."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Isomorphic Labs just raised five billion dollars.",
+            "It spun out of DeepMind's AlphaFold work.",
+            "But most AI-designed drugs still fail.",
+            "Your next treatment could be designed by an algorithm.",
+            "Watch for its first clinical trial candidate this year."
+          ]
+        },
+        "instagram": {
+          "caption": "Five billion dollars is betting your next prescription gets designed by an algorithm 🧬\n\nIsomorphic Labs, spun out of DeepMind's AlphaFold work, just raised that to push AI-designed drugs toward clinical trials.\n\nIts first trial candidate is expected this year — the moment that decides if the bet was genius or hype.\n\nMost AI-designed drugs still fail before reaching patients, so that trial matters more than the check.\n\nIf you write about health or AI, this is the story to watch this year 👀\n\nWould you trust a treatment a chemist never touched? 💊"
+        }
+      },
+      "instagram_caption": "Five billion dollars is betting your next prescription gets designed by an algorithm 🧬\n\nIsomorphic Labs, spun out of DeepMind's AlphaFold work, just raised that to push AI-designed drugs toward clinical trials.\n\nIts first trial candidate is expected this year — the moment that decides if the bet was genius or hype.\n\nMost AI-designed drugs still fail before reaching patients, so that trial matters more than the check.\n\nIf you write about health or AI, this is the story to watch this year 👀\n\nWould you trust a treatment a chemist never touched? 💊",
+      "carousel_slides": [
+        {
+          "hook": "Most AI drugs still fail patients",
+          "description": "Despite $5B in funding, AI-designed drugs often fail before reaching patients, raising stakes for Isomorphic's upcoming trial.",
+          "visual_hint": "Pill bottles with warning label",
+          "layout_type": "hero",
+          "icon": "heart",
+          "image_query": "pill bottle"
+        },
+        {
+          "hook": "AlphaFold gives Isomorphic a head start",
+          "description": "Spun out of DeepMind, Isomorphic leverages AlphaFold's protein-structure predictions to accelerate drug binding analysis.",
+          "visual_hint": "Protein structure 3D model",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "protein structure",
+          "image": "https://images.pexels.com/photos/25961725/pexels-photo-25961725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "90% failure rate haunts AI drugs",
+          "description": "Most AI-designed drug candidates fail in trials, making Isomorphic's $5B bet a high-risk, high-reward endeavor.",
+          "visual_hint": "Falling graph with red arrow",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your next prescription may be AI-designed",
+          "description": "Algorithms won't replace chemists but could soon design your treatment, transforming medicine if Isomorphic succeeds.",
+          "visual_hint": "Doctor holding digital tablet",
+          "layout_type": "human-hand",
+          "icon": "check",
+          "image_query": "doctor tablet",
+          "image": "https://images.pexels.com/photos/19963124/pexels-photo-19963124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: AI drug trial coming",
+          "description": "Watch for Isomorphic's first clinical trial candidate this year—it will reveal if the $5B was genius or hype.",
+          "visual_hint": "Calendar with circled date",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "calendar date",
+          "image": "https://images.pexels.com/photos/7479755/pexels-photo-7479755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2151467531.jpg?resize=1200,800",
+      "savedAt": "2026-11-17T15:14:08.437Z",
+      "sourceId": "d9a30601c5dbd1d64baad467ec807cd5"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "instagram-s-new-tool-for-creators-targets-unauthor",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos",
+      "link": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/",
+      "pubDate": "Tue, 17 Nov 2026 15:00:00 +0000",
+      "slides": [
+        "Can Instagram stop others profiting from your face?",
+        "A new tool detects reposts and AI-altered clips automatically",
+        "But detection only works if creators manually register their content first",
+        "Creators can now file bulk takedowns without chasing each video",
+        "Check if your profile is eligible before competitors repost you"
+      ],
+      "thread_text": [
+        "1. Your Face, Their Profit?\n\nInstagram now lets you detect reposts and AI-altered clips automatically — but some creators still get paid from your content. Here's how to fight back.",
+        "2. Detection Is Automatic\n\nA new tool scans for reposts and AI manipulations of your videos. You don't have to hunt them down manually anymore.",
+        "3. Manual Registration Required\n\nDetection only works if you register your content first. Without that step, the system can't match stolen clips to your profile.",
+        "4. Bulk Takedowns, One Request\n\nNow you can file bulk takedowns without chasing each video individually. One form, multiple reports — saves hours of back-and-forth.",
+        "5. Is Your Profile Eligible?\n\nBefore competitors repost your work, check if your account qualifies for the tool. Open Instagram's help center and search \"content protection\" — do it today."
+      ],
+      "video_script": [
+        "Instagram has a new tool to detect reposts and AI-altered clips.",
+        "It scans automatically, but only if you register your content first.",
+        "Without registration, the system can't match stolen videos to you.",
+        "Now you can file bulk takedowns instead of chasing each clip.",
+        "Check if your profile is eligible before competitors repost you."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your Face, Their Profit?\n\nInstagram now lets you detect reposts and AI-altered clips automatically — but some creators still get paid from your content. Here's how to fight back.",
+            "2. Detection Is Automatic\n\nA new tool scans for reposts and AI manipulations of your videos. You don't have to hunt them down manually anymore.",
+            "3. Manual Registration Required\n\nDetection only works if you register your content first. Without that step, the system can't match stolen clips to your profile.",
+            "4. Bulk Takedowns, One Request\n\nNow you can file bulk takedowns without chasing each video individually. One form, multiple reports — saves hours of back-and-forth.",
+            "5. Is Your Profile Eligible?\n\nBefore competitors repost your work, check if your account qualifies for the tool. Open Instagram's help center and search \"content protection\" — do it today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Instagram has a new tool to detect reposts and AI-altered clips.",
+            "It scans automatically, but only if you register your content first.",
+            "Without registration, the system can't match stolen videos to you.",
+            "Now you can file bulk takedowns instead of chasing each clip.",
+            "Check if your profile is eligible before competitors repost you."
+          ]
+        },
+        "instagram": {
+          "caption": "Someone can repost your video, run it through an AI filter, and collect the views while you get nothing. 🎯\n\nInstagram's new tool now scans for reposts and AI-altered versions of your clips automatically, no manual hunting required.\n\nBut there's a catch: detection only kicks in if you register your content first. Skip that step, and the system can't match stolen clips to your profile.\n\nOnce you're in, you can file bulk takedowns in one request instead of chasing each video. 🔍\n\nFor anyone who posts original work, this means hours saved and fewer copycats slipping through. ⏱️\n\nOpen Instagram's help center, search \"content protection,\" and check if your account qualifies — before someone else profits from your face. ✅"
+        }
+      },
+      "instagram_caption": "Someone can repost your video, run it through an AI filter, and collect the views while you get nothing. 🎯\n\nInstagram's new tool now scans for reposts and AI-altered versions of your clips automatically, no manual hunting required.\n\nBut there's a catch: detection only kicks in if you register your content first. Skip that step, and the system can't match stolen clips to your profile.\n\nOnce you're in, you can file bulk takedowns in one request instead of chasing each video. 🔍\n\nFor anyone who posts original work, this means hours saved and fewer copycats slipping through. ⏱️\n\nOpen Instagram's help center, search \"content protection,\" and check if your account qualifies — before someone else profits from your face. ✅",
+      "carousel_slides": [
+        {
+          "hook": "Your Face, Their Profit?",
+          "description": "Instagram's new tool detects reposts and AI-altered clips, but some creators still profit from your content without consent.",
+          "visual_hint": "Split screen with face and money",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "social media icons"
+        },
+        {
+          "hook": "Detection Is Automatic",
+          "description": "A new tool scans for reposts and AI manipulations of your videos automatically, so you don't have to hunt them down manually.",
+          "visual_hint": "Magnifying glass over video feed",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "security camera",
+          "image": "https://images.pexels.com/photos/14773064/pexels-photo-14773064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manual Registration Required",
+          "description": "Detection only works if you register your content first. Without that step, the system can't match stolen clips to your profile.",
+          "visual_hint": "Form with checkbox and pen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "registration form",
+          "image": "https://images.pexels.com/photos/7103159/pexels-photo-7103159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Bulk Takedowns, One Request",
+          "description": "Now you can file bulk takedowns without chasing each video individually. One form, multiple reports—saves hours of back-and-forth.",
+          "visual_hint": "Hand filling multiple forms",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "paperwork stack",
+          "image": "https://images.pexels.com/photos/17869840/pexels-photo-17869840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Is Your Profile Eligible?",
+          "description": "Check if your account qualifies for the tool. Open Instagram's help center, search 'content protection,' and do it today.",
+          "visual_hint": "Profile page with eligibility badge",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone screen",
+          "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268477082.jpg?resize=1200,800",
+      "savedAt": "2026-11-17T15:13:57.836Z",
+      "sourceId": "2759eb3aeb05b0914489b1a4168c24a8"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "google-maps-can-now-build-trip-itineraries-with-re",
       "prompt_version": "1.0.0",
       "status": "published",

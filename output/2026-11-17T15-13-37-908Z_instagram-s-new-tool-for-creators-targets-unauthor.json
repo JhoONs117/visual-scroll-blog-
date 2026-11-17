@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "instagram-s-new-tool-for-creators-targets-unauthor",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos",
+  "link": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/",
+  "pubDate": "Tue, 17 Nov 2026 15:00:00 +0000",
+  "slides": [
+    "Can Instagram stop others profiting from your face?",
+    "A new tool detects reposts and AI-altered clips automatically",
+    "But detection only works if creators manually register their content first",
+    "Creators can now file bulk takedowns without chasing each video",
+    "Check if your profile is eligible before competitors repost you"
+  ],
+  "thread_text": [
+    "1. Your Face, Their Profit?\n\nInstagram now lets you detect reposts and AI-altered clips automatically — but some creators still get paid from your content. Here's how to fight back.",
+    "2. Detection Is Automatic\n\nA new tool scans for reposts and AI manipulations of your videos. You don't have to hunt them down manually anymore.",
+    "3. Manual Registration Required\n\nDetection only works if you register your content first. Without that step, the system can't match stolen clips to your profile.",
+    "4. Bulk Takedowns, One Request\n\nNow you can file bulk takedowns without chasing each video individually. One form, multiple reports — saves hours of back-and-forth.",
+    "5. Is Your Profile Eligible?\n\nBefore competitors repost your work, check if your account qualifies for the tool. Open Instagram's help center and search \"content protection\" — do it today."
+  ],
+  "video_script": [
+    "Instagram has a new tool to detect reposts and AI-altered clips.",
+    "It scans automatically, but only if you register your content first.",
+    "Without registration, the system can't match stolen videos to you.",
+    "Now you can file bulk takedowns instead of chasing each clip.",
+    "Check if your profile is eligible before competitors repost you."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your Face, Their Profit?\n\nInstagram now lets you detect reposts and AI-altered clips automatically — but some creators still get paid from your content. Here's how to fight back.",
+        "2. Detection Is Automatic\n\nA new tool scans for reposts and AI manipulations of your videos. You don't have to hunt them down manually anymore.",
+        "3. Manual Registration Required\n\nDetection only works if you register your content first. Without that step, the system can't match stolen clips to your profile.",
+        "4. Bulk Takedowns, One Request\n\nNow you can file bulk takedowns without chasing each video individually. One form, multiple reports — saves hours of back-and-forth.",
+        "5. Is Your Profile Eligible?\n\nBefore competitors repost your work, check if your account qualifies for the tool. Open Instagram's help center and search \"content protection\" — do it today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Instagram has a new tool to detect reposts and AI-altered clips.",
+        "It scans automatically, but only if you register your content first.",
+        "Without registration, the system can't match stolen videos to you.",
+        "Now you can file bulk takedowns instead of chasing each clip.",
+        "Check if your profile is eligible before competitors repost you."
+      ]
+    },
+    "instagram": {
+      "caption": "Someone can repost your video, run it through an AI filter, and collect the views while you get nothing. 🎯\n\nInstagram's new tool now scans for reposts and AI-altered versions of your clips automatically, no manual hunting required.\n\nBut there's a catch: detection only kicks in if you register your content first. Skip that step, and the system can't match stolen clips to your profile.\n\nOnce you're in, you can file bulk takedowns in one request instead of chasing each video. 🔍\n\nFor anyone who posts original work, this means hours saved and fewer copycats slipping through. ⏱️\n\nOpen Instagram's help center, search \"content protection,\" and check if your account qualifies — before someone else profits from your face. ✅"
+    }
+  },
+  "instagram_caption": "Someone can repost your video, run it through an AI filter, and collect the views while you get nothing. 🎯\n\nInstagram's new tool now scans for reposts and AI-altered versions of your clips automatically, no manual hunting required.\n\nBut there's a catch: detection only kicks in if you register your content first. Skip that step, and the system can't match stolen clips to your profile.\n\nOnce you're in, you can file bulk takedowns in one request instead of chasing each video. 🔍\n\nFor anyone who posts original work, this means hours saved and fewer copycats slipping through. ⏱️\n\nOpen Instagram's help center, search \"content protection,\" and check if your account qualifies — before someone else profits from your face. ✅",
+  "carousel_slides": [
+    {
+      "hook": "Your Face, Their Profit?",
+      "description": "Instagram's new tool detects reposts and AI-altered clips, but some creators still profit from your content without consent.",
+      "visual_hint": "Split screen with face and money",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "social media icons"
+    },
+    {
+      "hook": "Detection Is Automatic",
+      "description": "A new tool scans for reposts and AI manipulations of your videos automatically, so you don't have to hunt them down manually.",
+      "visual_hint": "Magnifying glass over video feed",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "security camera",
+      "image": "https://images.pexels.com/photos/14773064/pexels-photo-14773064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Manual Registration Required",
+      "description": "Detection only works if you register your content first. Without that step, the system can't match stolen clips to your profile.",
+      "visual_hint": "Form with checkbox and pen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "registration form",
+      "image": "https://images.pexels.com/photos/7103159/pexels-photo-7103159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Bulk Takedowns, One Request",
+      "description": "Now you can file bulk takedowns without chasing each video individually. One form, multiple reports—saves hours of back-and-forth.",
+      "visual_hint": "Hand filling multiple forms",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "paperwork stack",
+      "image": "https://images.pexels.com/photos/17869840/pexels-photo-17869840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is Your Profile Eligible?",
+      "description": "Check if your account qualifies for the tool. Open Instagram's help center, search 'content protection,' and do it today.",
+      "visual_hint": "Profile page with eligibility badge",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268477082.jpg?resize=1200,800",
+  "savedAt": "2026-11-17T15:13:57.836Z",
+  "sourceId": "2759eb3aeb05b0914489b1a4168c24a8"
+}

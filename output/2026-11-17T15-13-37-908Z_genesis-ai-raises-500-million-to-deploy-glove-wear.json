@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "genesis-ai-raises-500-million-to-deploy-glove-wear",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Genesis AI raises $500 million to deploy glove-wearing robots",
+  "link": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
+  "pubDate": "Tue, 17 Nov 2026 14:00:00 +0000",
+  "slides": [
+    "Can Genesis AI's gloves outwork human hands?",
+    "It raised $500 million to deploy them",
+    "Investors bet on dexterity over intelligence",
+    "Factories may soon test these robots first",
+    "Ask which tasks your team could hand off"
+  ],
+  "thread_text": [
+    "1. The $500M bet on hands\n\nGenesis AI just raised half a billion dollars to build robotic gloves that match human dexterity. The money isn't going to smarter AI—it's going to better hands.",
+    "2. Why dexterity wins now\n\nInvestors are shifting focus from artificial intelligence to physical manipulation. A robot that can't grip a tool is useless, no matter how smart its brain.",
+    "3. Factories first, homes later\n\nManufacturing floors will be the first testing ground for these gloves. If they can handle assembly lines, the rest of the labor market is next.",
+    "4. The tasks you could hand off\n\nStart by listing repetitive manual tasks your team does daily. Those are the first candidates for robotic hands, not entire jobs.",
+    "5. Audit your own workflow\n\nLook at your calendar today: which physical or repetitive task could a robot do? If you can name one, you’re already behind."
+  ],
+  "video_script": [
+    "Genesis AI raised five hundred million dollars for robotic gloves.",
+    "Investors are betting on hands, not just brains.",
+    "Factories will test these robots before anyone else.",
+    "List the repetitive tasks your team does manually.",
+    "Ask yourself which one a robot could do today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $500M bet on hands\n\nGenesis AI just raised half a billion dollars to build robotic gloves that match human dexterity. The money isn't going to smarter AI—it's going to better hands.",
+        "2. Why dexterity wins now\n\nInvestors are shifting focus from artificial intelligence to physical manipulation. A robot that can't grip a tool is useless, no matter how smart its brain.",
+        "3. Factories first, homes later\n\nManufacturing floors will be the first testing ground for these gloves. If they can handle assembly lines, the rest of the labor market is next.",
+        "4. The tasks you could hand off\n\nStart by listing repetitive manual tasks your team does daily. Those are the first candidates for robotic hands, not entire jobs.",
+        "5. Audit your own workflow\n\nLook at your calendar today: which physical or repetitive task could a robot do? If you can name one, you’re already behind."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Genesis AI raised five hundred million dollars for robotic gloves.",
+        "Investors are betting on hands, not just brains.",
+        "Factories will test these robots before anyone else.",
+        "List the repetitive tasks your team does manually.",
+        "Ask yourself which one a robot could do today."
+      ]
+    },
+    "instagram": {
+      "caption": "Half a billion dollars just went to robotic hands, not smarter software.\n\nGenesis AI raised $500 million to build glove-wearing robots that match human dexterity. 🧤\n\nInvestors are betting on physical manipulation over raw intelligence — a smart robot that can't grip a tool is useless.\n\nFactories will test these gloves on assembly lines first, then the rest of the labor market follows. 🏭\n\nIf you publish or create content, your repetitive manual tasks are now automation candidates — not your whole job, just the grab-and-place parts. ⚙️\n\nLook at your calendar today: which single repetitive task could a robot hand already do? 🤔"
+    }
+  },
+  "instagram_caption": "Half a billion dollars just went to robotic hands, not smarter software.\n\nGenesis AI raised $500 million to build glove-wearing robots that match human dexterity. 🧤\n\nInvestors are betting on physical manipulation over raw intelligence — a smart robot that can't grip a tool is useless.\n\nFactories will test these gloves on assembly lines first, then the rest of the labor market follows. 🏭\n\nIf you publish or create content, your repetitive manual tasks are now automation candidates — not your whole job, just the grab-and-place parts. ⚙️\n\nLook at your calendar today: which single repetitive task could a robot hand already do? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Is dexterity the new AI battleground?",
+      "description": "Genesis AI raised $500M to deploy glove-wearing robots, betting that physical manipulation matters more than smarter algorithms.",
+      "visual_hint": "Robotic glove gripping a tool",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robotic hand"
+    },
+    {
+      "hook": "Half a billion dollars for better hands",
+      "description": "The funding goes to robotic gloves that match human dexterity, not to AI software—a shift in investor priorities.",
+      "visual_hint": "Stack of cash next to robotic glove",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "money stack",
+      "image": "https://images.pexels.com/photos/40996023/pexels-photo-40996023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Why investors now bet on hands",
+      "description": "Investors are shifting focus from artificial intelligence to physical manipulation: a smart robot that can't grip a tool is useless.",
+      "visual_hint": "Robot hand holding a wrench",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robot arm factory",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Factories will test them first",
+      "description": "Manufacturing floors are the first testing ground for these gloves; if they handle assembly lines, other labor markets are next.",
+      "visual_hint": "Robotic gloves on assembly line",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "assembly line factory",
+      "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to audit your workflow",
+      "description": "List repetitive manual tasks your team does daily—those are the first candidates for robotic hands, not entire jobs.",
+      "visual_hint": "Person writing task list with robot nearby",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office desk task list",
+      "image": "https://images.pexels.com/photos/7428213/pexels-photo-7428213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_1826.jpg?resize=862,1200",
+  "savedAt": "2026-11-17T15:14:27.272Z",
+  "sourceId": "cbed61f75cd06d8ecc37957c5aad8860"
+}
