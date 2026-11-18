@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "disney-s-new-star-wars-animatronics-interact-with-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+  "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+  "pubDate": "2026-11-18T17:50:57.000Z",
+  "slides": [
+    "Can Disney's Star Wars robots outsmart park guests?",
+    "New animatronics react in real time, not scripted loops.",
+    "They listen, respond, and remember your name — unsettlingly well.",
+    "Expect longer queues as guests stall to test the machines.",
+    "Watch one interaction closely — then ask who's really performing."
+  ],
+  "thread_text": [
+    "1. Would You Work For This Robot?\n\nDisney's new Star Wars animatronics don't run on loops. They listen, respond, and remember your name — and guests are lining up to test them.",
+    "2. Real-Time Reactions\n\nThese machines track voices and gestures live, not from a script. The park becomes a stage where the audience is the scene partner.",
+    "3. The Unsettling Part\n\nThey recall your name from earlier in the day. That's not a canned loop — that's a memory system built to make you feel seen.",
+    "4. Queues as a Consequence\n\nGuests stall interactions to see how smart the bots get. Wait times climb while everyone tries to outsmart a machine that's already learning.",
+    "5. The Real Question\n\nWatch one interaction this week and ask: who's performing — the robot, or you? If you can't tell, the line worked."
+  ],
+  "video_script": [
+    "Disney's Star Wars robots don't just repeat lines.",
+    "They listen, respond, and remember your name.",
+    "Guests stall the queue to test them.",
+    "The park becomes a live stage.",
+    "So who's really performing here?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Would You Work For This Robot?\n\nDisney's new Star Wars animatronics don't run on loops. They listen, respond, and remember your name — and guests are lining up to test them.",
+        "2. Real-Time Reactions\n\nThese machines track voices and gestures live, not from a script. The park becomes a stage where the audience is the scene partner.",
+        "3. The Unsettling Part\n\nThey recall your name from earlier in the day. That's not a canned loop — that's a memory system built to make you feel seen.",
+        "4. Queues as a Consequence\n\nGuests stall interactions to see how smart the bots get. Wait times climb while everyone tries to outsmart a machine that's already learning.",
+        "5. The Real Question\n\nWatch one interaction this week and ask: who's performing — the robot, or you? If you can't tell, the line worked."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Disney's Star Wars robots don't just repeat lines.",
+        "They listen, respond, and remember your name.",
+        "Guests stall the queue to test them.",
+        "The park becomes a live stage.",
+        "So who's really performing here?"
+      ]
+    },
+    "instagram": {
+      "caption": "Disney's Star Wars robots now remember your name from earlier in the day.\n\nThey track voices and gestures live, no scripted loops 🎭\n\nGuests are stalling interactions to test how smart the machines get.\n\nThat means wait times climb while everyone tries to outsmart a bot that's already learning.\n\nIf you film park content, your footage now includes machines reacting to you in real time — and your audience will notice 🎥\n\nWatch one interaction closely this week: who's performing — the robot, or you? 👀"
+    }
+  },
+  "instagram_caption": "Disney's Star Wars robots now remember your name from earlier in the day.\n\nThey track voices and gestures live, no scripted loops 🎭\n\nGuests are stalling interactions to test how smart the machines get.\n\nThat means wait times climb while everyone tries to outsmart a bot that's already learning.\n\nIf you film park content, your footage now includes machines reacting to you in real time — and your audience will notice 🎥\n\nWatch one interaction closely this week: who's performing — the robot, or you? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Do these robots know you?",
+      "description": "Disney's Star Wars animatronics remember your name and respond in real time, blurring the line between performance and surveillance.",
+      "visual_hint": "Close-up of robot face with glowing eyes",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot face closeup"
+    },
+    {
+      "hook": "Real-time reactions, not loops",
+      "description": "These machines track voices and gestures live, turning the park into a stage where you're the scene partner.",
+      "visual_hint": "Robot gesturing toward a guest",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot gesture interaction",
+      "image": "https://images.pexels.com/photos/8294759/pexels-photo-8294759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "They recall your name. Unsettling?",
+      "description": "A memory system built to make you feel seen, but it's not a canned loop—it's learning from you.",
+      "visual_hint": "Robot with thought bubble showing name tag",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robot memory name tag",
+      "image": "https://images.pexels.com/photos/7648259/pexels-photo-7648259.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Queues grow as guests test bots",
+      "description": "Wait times climb while everyone tries to outsmart a machine that's already learning from each interaction.",
+      "visual_hint": "Long queue of people waiting for robot",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "crowd waiting line",
+      "image": "https://images.pexels.com/photos/13404727/pexels-photo-13404727.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: who's really performing?",
+      "description": "Watch one interaction closely and ask yourself: if you can't tell, the line worked. Share your thoughts in comments.",
+      "visual_hint": "Split screen of human and robot faces",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "human robot face comparison",
+      "image": "https://images.pexels.com/photos/37911407/pexels-photo-37911407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/disney1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-18T22:47:23.820Z",
+  "sourceId": "a2950c7055438357e9bd49a5d6429e71"
+}

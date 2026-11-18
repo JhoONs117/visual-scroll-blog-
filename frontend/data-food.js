@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "torta-soffice-banana-e-cioccolato",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Torta soffice banana e cioccolato",
+    "link": "https://ricette.giallozafferano.it/Torta-soffice-banana-e-cioccolato.html",
+    "pubDate": "Wed, 18 Nov 2026 16:21:00 +0100",
+    "content": "Torta soffice banana e cioccolato: ricetta con yogurt e noci Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X Dolci Torte Torta soffice banana e cioccolato /5 Ricetta proposta da Lucake CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Seguici Preferiti Difficoltà: Media Preparazione: 35 min Cottura: 45 min Dosi per: 8 persone Costo: Medio Ascolta la ricetta Ascolta su Spreaker. Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti PRESENTAZIONE La torta soffice banana e cioccolato è un dolce morbido e goloso, perfetto per la colazione o la merenda. Una ricetta semplice, ideale per utilizzare le banane mature, che regalano all'impasto una naturale dolcezza e una consistenza piacevolmente umida. Arricchita con cioccolato fondente e noci , questa torta unisce la morbidezza dell'impasto a una piacevole nota croccante. Lo yogurt e l'olio di semi contribuiscono a renderla soffice, senza bisogno di utilizzare burro. Facile da preparare con una semplice frusta a mano, è una golosa alternativa al classico banana bread ! Ecco altri dolci alla banana da non perdere: torta di banane torta di banane e yogurt banana bread al cioccolato torta banana e cioccolato ciambella banana e arachidi Moist banana and chocolate cake Scopri anche Torta banane e cioccolato Banana bread al cioccolato Cheesecake banane e cioccolato Sfoglia tutte INGREDIENTI per uno stampo da 22 cm Banane 4 Yogurt bianco naturale 60 g Uova 2 Olio di semi di girasole 80 g Zucchero di canna fine 150 g Farina 00 250 g Lievito in polvere per dolci 16 g Sale fino q.b. Cioccolato fondente 120 g Gherigli di noci 120 g per decorare Cioccolato fondente 20 g Gherigli di noci 20 g AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta soffice banana e cioccolato Per preparare la torta soffice banana e cioccolato, per prima cosa tritate grossolanamente le noci con un coltello 1 . Sbucciate le banane in modo da ricavarne 400 g e raccogliete la polpa in una ciotola 2 quindi schiacciatele accuratamente con una forchetta fino a ottenere una purea morbida 3 . Aggiungete le uova 4 , versate l'olio di semi 5 e lo yogurt bianco 6 . Mescolate con una frusta a mano fino ad amalgamare tutti gli ingredienti 7 , poi tenete momentaneamente da parte il composto. In un'altra ciotola versate lo zucchero di canna e aggiungete un pizzico di sale 8 . Setacciate la farina 9 . Setacciate poi anche il lievito per dolci 10 , quindi mescolate gli ingredienti secchi con una frusta a mano per distribuirli uniformemente 11 . Versate il composto di banane nella ciotola con gli ingredienti secchi 12 e mescolate fino a ottenere un impasto omogeneo. Aggiungete il cioccolato fondente tritato 13 e le noci precedentemente preparate 14 , quindi amalgamate il tutto con una frusta a mano per distribuire uniformemente gli ingredienti 15 . Imburrate e infarinate una tortiera da 22 cm di diametro. Versate l'impasto nello stampo 16 e livellate la superficie con il dorso di un cucchiaio. Distribuite il cioccolato fondente tritato destinato alla decorazione 17 , poi aggiungete anche le noci tritate 18 . A questo punto 19 cuocete in forno statico preriscaldato a 180°C per circa 45 minuti, posizionando lo stampo sul primo ripiano in basso. Prima di sfornare, verificate la cottura con uno stecchino. Sfornate la torta e lasciatela raffreddare completamente 20 . Infine sformatela delicatamente e trasferitela su un piatto da portata. La vostra torta soffice banana e cioccolato è pronta per essere servita 21 . Conservazione La torta soffice banana e cioccolato si conserva a temperatura ambiente per circa 3 giorni, sotto una campana per dolci o in un contenitore ben chiuso, in un ambiente fresco e asciutto. Consiglio Per ottenere una torta particolarmente morbida, scegliete banane ben mature , con la buccia già punteggiata di marrone: saranno più dolci e facili da schiacciare. Evitate di frullarle e, una volta uniti gli ingredienti secchi, mescolate soltanto il necessario per amalgamare l'impasto. Potete sostituire lo zucchero di canna con la stessa quantità di zucchero semolato oppure utilizzare uno yogurt vegetale al posto di quello bianco. Per una variante diversa, provate a sostituire le noci con mandorle o nocciole, oppure arricchite l'impasto con uvetta o cocco rapè. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Banana Zucchero Yogurt greco Cioccolato Yogurt Noci Uovo Scopri tutto sugli ingredienti Presente in: Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Seguici Preferiti SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Torta banane e cioccolato 8 4.7 Banana bread al cioccolato 10 4.1 Cheesecake banane e cioccolato 66 4.4 Banana bread alla Nutella® 2 4.3 Banana Bread ricetta originale americana soffice e facile 432 4.2 Banana bread baked oats con Nutella® 5.0 Soufflé di banane con salsa al cioccolato 68 4.2 Mummie di Nutella e banane 1 4.3 ULTIME RICETTE Torta soffice banana e cioccolato 5.0 Biancomangiare al Parmigiano 5.0 Benessere Spezzatino di vitello con fagioli 5.0 SCOPRI Torta banana e cioccolato Torta soffice con gocce di cioccolato Torta soffice cioccolato Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Dolci Torta banane e cioccolato 8 4.7 La torta banane e cioccolato è un dolce soffice e goloso, perfetto per colazione o merenda, che unisce la dolcezza e intensità di banana e cioccolato. Vai alla ricetta Dolci Banana bread al cioccolato 10 4.1 Il banana bread al cioccolato fondente è un dolce soffice e goloso per la colazione, arricchito con gocce di cioccolato. Scopri questa facile ricetta! Vai alla ricetta Dolci Cheesecake banane e cioccolato 66 4.4 La cheesecake banane e cioccolato è una variante della classica torta americana, un dessert goloso da servire come merenda o a fine pasto. Vai alla ricetta Dolci Banana bread alla Nutella® 2 4.3 Il banana bread alla Nutella® è un modo ancora più goloso per gustare il plumcake alla banana di origine americana, perfetto a colazione o a merenda! Vai alla ricetta Dolci Banana Bread ricetta originale americana soffice e facile 432 4.2 Banana bread soffice con banane mature: la ricetta originale americana facile e veloce. Un plumcake alla banana perfetto per colazione o merenda. Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. e all’utilizzo di pixel di tracciamento nelle suddette comunicazioni per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne Si No Prosegui",
+    "slides": [
+      "Torta soffice banana e cioccolato",
+      "Banane, cioccolato, noci, yogurt e olio",
+      "Schiaccia le banane con una forchetta",
+      "Cuoci a 180°C per 45 minuti",
+      "Usa banane ben mature per massima morbidezza"
+    ],
+    "instagram_caption": "La torta soffice banana e cioccolato è quella coccola che non sapevi di desiderare 🍌🍫\nSchiaccia le banane ben mature con una forchetta, unisci cioccolato, noci, yogurt e olio: pochi gesti per un impasto morbido e profumato.\nIn forno a 180°C per 45 minuti e la magia è fatta, con quel profumo che invade la casa.\nIl segreto? Banane super mature per una morbidezza fuori scala 🤤\nSalva la ricetta e provala questo weekend 🌿",
+    "formats": {
+      "instagram": {
+        "caption": "La torta soffice banana e cioccolato è quella coccola che non sapevi di desiderare 🍌🍫\nSchiaccia le banane ben mature con una forchetta, unisci cioccolato, noci, yogurt e olio: pochi gesti per un impasto morbido e profumato.\nIn forno a 180°C per 45 minuti e la magia è fatta, con quel profumo che invade la casa.\nIl segreto? Banane super mature per una morbidezza fuori scala 🤤\nSalva la ricetta e provala questo weekend 🌿"
+      },
+      "tiktok": {
+        "script": [
+          "Oggi torta soffice banana e cioccolato!",
+          "Prendo banane, cioccolato, noci, yogurt e olio",
+          "Schiaccio le banane con la forchetta, così",
+          "Inforno a 180 gradi per 45 minuti",
+          "Banane mature, mi raccomando, per una morbidezza pazzesca!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "Immagina una torta così soffice che si scioglie in bocca, con banana e cioccolato che si fondono in ogni morso. Non è un sogno: è la mia torta banana e cioccolato. La ricetta nel thread 👇",
+          "Ti servono: banane mature, cioccolato fondente, noci, yogurt e olio. Niente burro, niente zucchero raffinato. Solo il meglio per una torta che resta umida per giorni.",
+          "Il gesto chiave? Schiaccia le banane con una forchetta fino a farle diventare una crema. Più le schiacci, più la torta sarà morbida. Poi unisci tutto e mescola con cura.",
+          "Versa il composto in una teglia e inforna a 180°C per 45 minuti. Il profumo ti avviserà quando è pronta. Lascia raffreddare prima di tagliare: la pazienza è l'ingrediente segreto.",
+          "Trucco finale: usa banane ben mature, quasi nere. Più sono mature, più dolcezza e morbidezza daranno alla torta. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Oggi torta soffice banana e cioccolato!",
+      "Prendo banane, cioccolato, noci, yogurt e olio",
+      "Schiaccio le banane con la forchetta, così",
+      "Inforno a 180 gradi per 45 minuti",
+      "Banane mature, mi raccomando, per una morbidezza pazzesca!"
+    ],
+    "thread_text": [
+      "Immagina una torta così soffice che si scioglie in bocca, con banana e cioccolato che si fondono in ogni morso. Non è un sogno: è la mia torta banana e cioccolato. La ricetta nel thread 👇",
+      "Ti servono: banane mature, cioccolato fondente, noci, yogurt e olio. Niente burro, niente zucchero raffinato. Solo il meglio per una torta che resta umida per giorni.",
+      "Il gesto chiave? Schiaccia le banane con una forchetta fino a farle diventare una crema. Più le schiacci, più la torta sarà morbida. Poi unisci tutto e mescola con cura.",
+      "Versa il composto in una teglia e inforna a 180°C per 45 minuti. Il profumo ti avviserà quando è pronta. Lascia raffreddare prima di tagliare: la pazienza è l'ingrediente segreto.",
+      "Trucco finale: usa banane ben mature, quasi nere. Più sono mature, più dolcezza e morbidezza daranno alla torta. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Torta soffice banana e cioccolato",
+        "description": "Una fetta morbida e golosa, perfetta per la colazione o la merenda di tutta la famiglia.",
+        "visual_hint": "torta intera su tavolo",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "banana chocolate cake"
+      },
+      {
+        "hook": "Banane, cioccolato, noci, yogurt e olio",
+        "description": "Ingredienti semplici e genuini per un dolce umido e profumato, senza burro.",
+        "visual_hint": "ingredienti sparsi sul piano",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "banana chocolate ingredients",
+        "image": "https://images.pexels.com/photos/28202618/pexels-photo-28202618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Schiaccia le banane con una forchetta",
+        "description": "Riduci le banane in purea: più sono mature, più la torta sarà dolce e morbida.",
+        "visual_hint": "forchetta che schiaccia banane",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "mashed bananas fork",
+        "image": "https://images.pexels.com/photos/4114125/pexels-photo-4114125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cuoci a 180°C per 45 minuti",
+        "description": "Inforna e lascia cuocere fino a quando uno stecchino esce pulito dal centro.",
+        "visual_hint": "torta in forno dorata",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "baking cake oven",
+        "image": "https://images.pexels.com/photos/15780778/pexels-photo-15780778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Usa banane ben mature per massima morbidezza",
+        "description": "Servi la torta tiepida o fredda, con una spolverata di zucchero a velo e qualche noce.",
+        "visual_hint": "fetta di torta servita",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "chocolate cake slice",
+        "image": "https://images.pexels.com/photos/28402363/pexels-photo-28402363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "dessert",
+    "signature_ingredients": [
+      "banane",
+      "cioccolato",
+      "yogurt"
+    ],
+    "image": "https://www.giallozafferano.it/images/368-36869/Torta-soffice-banana-e-cioccolato_1200x800_wm.jpg",
+    "savedAt": "2026-11-18T22:53:38.818Z",
+    "sourceId": "9f39634930c63c7dd161732a1500c250"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "torta-5-minuti-con-gocce-di-cioccolato",
     "prompt_version": "1.0.0",
     "status": "published",

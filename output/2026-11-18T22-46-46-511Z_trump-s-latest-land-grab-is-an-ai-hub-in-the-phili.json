@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "trump-s-latest-land-grab-is-an-ai-hub-in-the-phili",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Trump’s latest land grab is an AI hub in the Philippines",
+  "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+  "pubDate": "2026-11-18T19:40:36.000Z",
+  "slides": [
+    "Can Trump turn a Philippine land grab into AI leverage?",
+    "The site sits on a former US military base",
+    "Locals say the land was taken without consent",
+    "Firms sourcing AI compute there face scrutiny",
+    "Ask who really owns the land beneath your cloud"
+  ],
+  "thread_text": [
+    "1. Land grab or leverage?\n\nThe site sits on a former US military base in the Philippines. Now it's at the center of an AI compute controversy involving Trump.",
+    "2. Base turned cloud hub\n\nThe land was taken from locals without consent, they say. The same land now hosts AI infrastructure that firms rely on.",
+    "3. Firms under scrutiny\n\nCompanies sourcing AI compute from this site face questions about the land's origins. Investors and regulators are starting to ask.",
+    "4. Who owns the ground?\n\nThe cloud is physical. Every server sits on land with a history. Ignoring that history is a risk for any AI firm.",
+    "5. Ask before you deploy\n\nBefore your next AI project, trace the land beneath your cloud provider. Do you know whose land it is?"
+  ],
+  "video_script": [
+    "Can Trump turn a Philippine land grab into AI leverage?",
+    "The site sits on a former US military base.",
+    "Locals say the land was taken without consent.",
+    "Firms sourcing AI compute there face scrutiny.",
+    "Ask who really owns the land beneath your cloud."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Land grab or leverage?\n\nThe site sits on a former US military base in the Philippines. Now it's at the center of an AI compute controversy involving Trump.",
+        "2. Base turned cloud hub\n\nThe land was taken from locals without consent, they say. The same land now hosts AI infrastructure that firms rely on.",
+        "3. Firms under scrutiny\n\nCompanies sourcing AI compute from this site face questions about the land's origins. Investors and regulators are starting to ask.",
+        "4. Who owns the ground?\n\nThe cloud is physical. Every server sits on land with a history. Ignoring that history is a risk for any AI firm.",
+        "5. Ask before you deploy\n\nBefore your next AI project, trace the land beneath your cloud provider. Do you know whose land it is?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can Trump turn a Philippine land grab into AI leverage?",
+        "The site sits on a former US military base.",
+        "Locals say the land was taken without consent.",
+        "Firms sourcing AI compute there face scrutiny.",
+        "Ask who really owns the land beneath your cloud."
+      ]
+    },
+    "instagram": {
+      "caption": "A plot of land in the Philippines sits on a former US military base, and locals say it was taken without their consent. 🏞️\n\nThat same land now hosts AI compute infrastructure that companies rely on.\n\nFirms sourcing compute there are starting to face questions about how the land was acquired.\n\nIf you build or publish with AI tools, the servers behind them sit on real ground with a real history. 🌐\n\nDo you know whose land your cloud provider runs on?"
+    }
+  },
+  "instagram_caption": "A plot of land in the Philippines sits on a former US military base, and locals say it was taken without their consent. 🏞️\n\nThat same land now hosts AI compute infrastructure that companies rely on.\n\nFirms sourcing compute there are starting to face questions about how the land was acquired.\n\nIf you build or publish with AI tools, the servers behind them sit on real ground with a real history. 🌐\n\nDo you know whose land your cloud provider runs on?",
+  "carousel_slides": [
+    {
+      "hook": "Whose land is your AI cloud built on?",
+      "description": "A former US military base in the Philippines now hosts AI compute. Locals say the land was taken without consent.",
+      "visual_hint": "Aerial view of former military base",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "military base aerial"
+    },
+    {
+      "hook": "From military base to AI hub",
+      "description": "The site sits on a former US military base, now at the center of an AI compute controversy involving Trump.",
+      "visual_hint": "Map showing base location",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "military base map",
+      "image": "https://images.pexels.com/photos/5137965/pexels-photo-5137965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Locals: land taken without consent",
+      "description": "The land was taken from locals without consent, they say. The same land now hosts AI infrastructure that firms rely on.",
+      "visual_hint": "Protesters holding signs",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "protest signs crowd",
+      "image": "https://images.pexels.com/photos/11421067/pexels-photo-11421067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Firms sourcing AI compute face scrutiny",
+      "description": "Companies sourcing AI compute from this site face questions about the land's origins. Investors and regulators are starting to ask.",
+      "visual_hint": "Business meeting with documents",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "business meeting documents",
+      "image": "https://images.pexels.com/photos/8730992/pexels-photo-8730992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: know whose land hosts your cloud",
+      "description": "Before your next AI project, trace the land beneath your cloud provider. Do you know whose land it is?",
+      "visual_hint": "Hand pointing at cloud icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "cloud computing icon",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305507602.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.737892056687%2C100%2C78.524215886627&amp;w=1200",
+  "savedAt": "2026-11-18T22:46:58.250Z",
+  "sourceId": "066ed1b0e3fa2d93a4e4aa2ff92fe12d"
+}

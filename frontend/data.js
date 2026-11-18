@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "remember-the-frontier-ai-pause-chip-companies-don-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Remember the frontier AI pause? Chip companies don’t either",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+    "pubDate": "2026-11-18T15:44:02.000Z",
+    "slides": [
+      "Did the AI pause ever actually happen?",
+      "Chipmakers are shipping more compute than ever",
+      "Pause pledges quietly vanished from policy debates",
+      "Your hardware costs and roadmap shift accordingly",
+      "Check what your vendor committed to last year"
+    ],
+    "thread_text": [
+      "1. The AI pause that never was\n\nThe pause pledges vanished from policy debates while chipmakers shipped more compute than ever. What happened to the brakes?",
+      "2. Compute keeps doubling\n\nChipmakers are shipping more compute than ever, and your hardware costs and roadmap shift accordingly. The pause didn't slow them down.",
+      "3. Policy forgot the pause\n\nPause pledges quietly vanished from policy debates. That silence means your vendor's commitments from last year may no longer hold.",
+      "4. Your roadmap just moved\n\nYour hardware costs and roadmap shift accordingly, but are you still planning around last year's promises? Check what your vendor committed to now.",
+      "5. Check your vendor's promises\n\nLook up what your vendor committed to last year on AI pause. If those pledges are gone, your procurement strategy needs updating today."
+    ],
+    "video_script": [
+      "Remember the AI pause? It never actually happened.",
+      "Chipmakers are shipping more compute than ever before.",
+      "Pause pledges quietly vanished from policy debates.",
+      "Your hardware costs and roadmap shift accordingly.",
+      "Check what your vendor committed to last year."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The AI pause that never was\n\nThe pause pledges vanished from policy debates while chipmakers shipped more compute than ever. What happened to the brakes?",
+          "2. Compute keeps doubling\n\nChipmakers are shipping more compute than ever, and your hardware costs and roadmap shift accordingly. The pause didn't slow them down.",
+          "3. Policy forgot the pause\n\nPause pledges quietly vanished from policy debates. That silence means your vendor's commitments from last year may no longer hold.",
+          "4. Your roadmap just moved\n\nYour hardware costs and roadmap shift accordingly, but are you still planning around last year's promises? Check what your vendor committed to now.",
+          "5. Check your vendor's promises\n\nLook up what your vendor committed to last year on AI pause. If those pledges are gone, your procurement strategy needs updating today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Remember the AI pause? It never actually happened.",
+          "Chipmakers are shipping more compute than ever before.",
+          "Pause pledges quietly vanished from policy debates.",
+          "Your hardware costs and roadmap shift accordingly.",
+          "Check what your vendor committed to last year."
+        ]
+      },
+      "instagram": {
+        "caption": "The AI pause pledges quietly disappeared from policy debates, and chipmakers are shipping more compute than ever. 🚀\n\nThose voluntary commitments vendors made last year are gone from the conversation.\n\nMeanwhile, hardware costs and roadmaps keep shifting as compute doubles.\n\nIf you're still planning procurement around last year's promises, your budget assumptions may already be off. 💸\n\nCheck what your vendor actually committed to, then check what they're saying now. 🔍\n\nAre you still planning around a pause that never happened? 🤔"
+      }
+    },
+    "instagram_caption": "The AI pause pledges quietly disappeared from policy debates, and chipmakers are shipping more compute than ever. 🚀\n\nThose voluntary commitments vendors made last year are gone from the conversation.\n\nMeanwhile, hardware costs and roadmaps keep shifting as compute doubles.\n\nIf you're still planning procurement around last year's promises, your budget assumptions may already be off. 💸\n\nCheck what your vendor actually committed to, then check what they're saying now. 🔍\n\nAre you still planning around a pause that never happened? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Did the AI pause ever actually happen?",
+        "description": "Pause pledges disappeared from policy debates while chipmakers shipped record compute. The brakes were never applied.",
+        "visual_hint": "A dusty unused brake pedal",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "brake pedal"
+      },
+      {
+        "hook": "Chipmakers are shipping more compute than ever",
+        "description": "Compute output keeps doubling, and your hardware costs and roadmap shift accordingly. The pause didn't slow them down.",
+        "visual_hint": "Server racks glowing with activity",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Pause pledges quietly vanished from policy debates",
+        "description": "The silence means your vendor's commitments from last year may no longer hold. Policy forgot the pause.",
+        "visual_hint": "Empty policy podium with microphone",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "empty podium",
+        "image": "https://images.pexels.com/photos/27872044/pexels-photo-27872044.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your roadmap just moved",
+        "description": "Hardware costs and roadmaps shift accordingly. Are you still planning around last year's promises?",
+        "visual_hint": "Hand adjusting a roadmap chart",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "roadmap chart",
+        "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check what your vendor committed to last year",
+        "description": "Look up your vendor's AI pause pledges. If they're gone, update your procurement strategy today.",
+        "visual_hint": "Contract document with magnifying glass",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "contract document",
+        "image": "https://images.pexels.com/photos/4968561/pexels-photo-4968561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Vera-Rubin-NVL72.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-11-18T22:47:35.163Z",
+    "sourceId": "ca77971be0f13878e20f8c7dc5072f38"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "disney-s-new-star-wars-animatronics-interact-with-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+    "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+    "pubDate": "2026-11-18T17:50:57.000Z",
+    "slides": [
+      "Can Disney's Star Wars robots outsmart park guests?",
+      "New animatronics react in real time, not scripted loops.",
+      "They listen, respond, and remember your name — unsettlingly well.",
+      "Expect longer queues as guests stall to test the machines.",
+      "Watch one interaction closely — then ask who's really performing."
+    ],
+    "thread_text": [
+      "1. Would You Work For This Robot?\n\nDisney's new Star Wars animatronics don't run on loops. They listen, respond, and remember your name — and guests are lining up to test them.",
+      "2. Real-Time Reactions\n\nThese machines track voices and gestures live, not from a script. The park becomes a stage where the audience is the scene partner.",
+      "3. The Unsettling Part\n\nThey recall your name from earlier in the day. That's not a canned loop — that's a memory system built to make you feel seen.",
+      "4. Queues as a Consequence\n\nGuests stall interactions to see how smart the bots get. Wait times climb while everyone tries to outsmart a machine that's already learning.",
+      "5. The Real Question\n\nWatch one interaction this week and ask: who's performing — the robot, or you? If you can't tell, the line worked."
+    ],
+    "video_script": [
+      "Disney's Star Wars robots don't just repeat lines.",
+      "They listen, respond, and remember your name.",
+      "Guests stall the queue to test them.",
+      "The park becomes a live stage.",
+      "So who's really performing here?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Would You Work For This Robot?\n\nDisney's new Star Wars animatronics don't run on loops. They listen, respond, and remember your name — and guests are lining up to test them.",
+          "2. Real-Time Reactions\n\nThese machines track voices and gestures live, not from a script. The park becomes a stage where the audience is the scene partner.",
+          "3. The Unsettling Part\n\nThey recall your name from earlier in the day. That's not a canned loop — that's a memory system built to make you feel seen.",
+          "4. Queues as a Consequence\n\nGuests stall interactions to see how smart the bots get. Wait times climb while everyone tries to outsmart a machine that's already learning.",
+          "5. The Real Question\n\nWatch one interaction this week and ask: who's performing — the robot, or you? If you can't tell, the line worked."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Disney's Star Wars robots don't just repeat lines.",
+          "They listen, respond, and remember your name.",
+          "Guests stall the queue to test them.",
+          "The park becomes a live stage.",
+          "So who's really performing here?"
+        ]
+      },
+      "instagram": {
+        "caption": "Disney's Star Wars robots now remember your name from earlier in the day.\n\nThey track voices and gestures live, no scripted loops 🎭\n\nGuests are stalling interactions to test how smart the machines get.\n\nThat means wait times climb while everyone tries to outsmart a bot that's already learning.\n\nIf you film park content, your footage now includes machines reacting to you in real time — and your audience will notice 🎥\n\nWatch one interaction closely this week: who's performing — the robot, or you? 👀"
+      }
+    },
+    "instagram_caption": "Disney's Star Wars robots now remember your name from earlier in the day.\n\nThey track voices and gestures live, no scripted loops 🎭\n\nGuests are stalling interactions to test how smart the machines get.\n\nThat means wait times climb while everyone tries to outsmart a bot that's already learning.\n\nIf you film park content, your footage now includes machines reacting to you in real time — and your audience will notice 🎥\n\nWatch one interaction closely this week: who's performing — the robot, or you? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Do these robots know you?",
+        "description": "Disney's Star Wars animatronics remember your name and respond in real time, blurring the line between performance and surveillance.",
+        "visual_hint": "Close-up of robot face with glowing eyes",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot face closeup"
+      },
+      {
+        "hook": "Real-time reactions, not loops",
+        "description": "These machines track voices and gestures live, turning the park into a stage where you're the scene partner.",
+        "visual_hint": "Robot gesturing toward a guest",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "robot gesture interaction",
+        "image": "https://images.pexels.com/photos/8294759/pexels-photo-8294759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "They recall your name. Unsettling?",
+        "description": "A memory system built to make you feel seen, but it's not a canned loop—it's learning from you.",
+        "visual_hint": "Robot with thought bubble showing name tag",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "robot memory name tag",
+        "image": "https://images.pexels.com/photos/7648259/pexels-photo-7648259.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Queues grow as guests test bots",
+        "description": "Wait times climb while everyone tries to outsmart a machine that's already learning from each interaction.",
+        "visual_hint": "Long queue of people waiting for robot",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "crowd waiting line",
+        "image": "https://images.pexels.com/photos/13404727/pexels-photo-13404727.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: who's really performing?",
+        "description": "Watch one interaction closely and ask yourself: if you can't tell, the line worked. Share your thoughts in comments.",
+        "visual_hint": "Split screen of human and robot faces",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "human robot face comparison",
+        "image": "https://images.pexels.com/photos/37911407/pexels-photo-37911407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/disney1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-11-18T22:47:23.820Z",
+    "sourceId": "a2950c7055438357e9bd49a5d6429e71"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "what-is-nvidia-without-ai-s-sugar-daddy-in-charge-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "What is Nvidia without AI’s sugar daddy in charge?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+    "pubDate": "2026-11-18T18:34:15.000Z",
+    "slides": [
+      "What if Nvidia's biggest buyer became its toughest rival?",
+      "But that buyer isn't a company—it's the AI boom itself.",
+      "The real risk isn't demand—it's the concentration of it.",
+      "Your GPU strategy may need a backup supplier sooner than you think.",
+      "Diversify your AI compute before the sugar rush ends."
+    ],
+    "thread_text": [
+      "1. The Buyer That Eats Itself\n\nNvidia's largest customer isn't Microsoft or Google—it's the AI boom itself, and that demand is starting to look like a double-edged sword.",
+      "2. When Demand Becomes a Trap\n\nIf the same wave driving revenue slows, Nvidia faces a demand cliff, not just a dip. Concentration cuts both ways.",
+      "3. Concentration Is the Real Risk\n\nThe danger isn't that AI demand disappears—it's that so few buyers account for so much of it. One pause from a hyperscaler ripples everywhere.",
+      "4. Your GPU Plan Needs a Plan B\n\nSingle-supplier strategies leave you exposed to allocation swings. Qualifying a second source now is cheaper than scrambling later.",
+      "5. Diversify Before the Sugar Rush Ends\n\nAudit your AI compute dependencies this week: list every workload locked to one vendor. If it's more than half, start testing an alternative today."
+    ],
+    "video_script": [
+      "Nvidia's biggest customer is the AI boom itself.",
+      "That demand is concentrated, not diversified.",
+      "The real risk isn't demand—it's concentration.",
+      "Your GPU strategy needs a backup supplier.",
+      "Diversify your compute before the sugar rush ends."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Buyer That Eats Itself\n\nNvidia's largest customer isn't Microsoft or Google—it's the AI boom itself, and that demand is starting to look like a double-edged sword.",
+          "2. When Demand Becomes a Trap\n\nIf the same wave driving revenue slows, Nvidia faces a demand cliff, not just a dip. Concentration cuts both ways.",
+          "3. Concentration Is the Real Risk\n\nThe danger isn't that AI demand disappears—it's that so few buyers account for so much of it. One pause from a hyperscaler ripples everywhere.",
+          "4. Your GPU Plan Needs a Plan B\n\nSingle-supplier strategies leave you exposed to allocation swings. Qualifying a second source now is cheaper than scrambling later.",
+          "5. Diversify Before the Sugar Rush Ends\n\nAudit your AI compute dependencies this week: list every workload locked to one vendor. If it's more than half, start testing an alternative today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nvidia's biggest customer is the AI boom itself.",
+          "That demand is concentrated, not diversified.",
+          "The real risk isn't demand—it's concentration.",
+          "Your GPU strategy needs a backup supplier.",
+          "Diversify your compute before the sugar rush ends."
+        ]
+      },
+      "instagram": {
+        "caption": "Nvidia's biggest customer isn't Microsoft or Google—it's the AI boom itself, and that's a risk nobody's pricing in.\n\nWhen so few buyers drive so much revenue, one pause from a single hyperscaler ripples through the whole supply chain. ⚠️\n\nThe real danger isn't demand disappearing—it's how concentrated it is.\n\nIf your GPU workload is locked to one vendor, you're exposed to allocation swings you can't control. 🔒\n\nQualifying a second source now costs far less than scrambling later.\n\nCheck your AI compute dependencies this week: how many workloads run on a single supplier? If it's more than half, it's time to test an alternative. 🛠️\n\nWhat's your backup plan if allocation dries up overnight? 🤔"
+      }
+    },
+    "instagram_caption": "Nvidia's biggest customer isn't Microsoft or Google—it's the AI boom itself, and that's a risk nobody's pricing in.\n\nWhen so few buyers drive so much revenue, one pause from a single hyperscaler ripples through the whole supply chain. ⚠️\n\nThe real danger isn't demand disappearing—it's how concentrated it is.\n\nIf your GPU workload is locked to one vendor, you're exposed to allocation swings you can't control. 🔒\n\nQualifying a second source now costs far less than scrambling later.\n\nCheck your AI compute dependencies this week: how many workloads run on a single supplier? If it's more than half, it's time to test an alternative. 🛠️\n\nWhat's your backup plan if allocation dries up overnight? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Is Nvidia's biggest customer a bubble?",
+        "description": "The AI boom itself drives most demand, not a single firm. If it slows, Nvidia faces a cliff, not a dip.",
+        "visual_hint": "Split image of GPU and balloon popping",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "GPU chip"
+      },
+      {
+        "hook": "When demand becomes a trap",
+        "description": "Revenue concentration means one hyperscaler pause can ripple everywhere. The risk isn't demand—it's how few buyers there are.",
+        "visual_hint": "Tightrope walker over server racks",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Concentration cuts both ways",
+        "description": "So few buyers account for so much revenue. A single pause from a major player could trigger a chain reaction.",
+        "visual_hint": "Dominoes falling in data center",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "domino effect",
+        "image": "https://images.pexels.com/photos/9760552/pexels-photo-9760552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your GPU plan needs a plan B",
+        "description": "Single-supplier strategies expose you to allocation swings. Qualifying a second source now is cheaper than scrambling later.",
+        "visual_hint": "Hand holding two GPU options",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "two graphics cards",
+        "image": "https://images.pexels.com/photos/6974258/pexels-photo-6974258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Diversify before the sugar rush ends",
+        "description": "Audit your AI compute dependencies today: list every workload locked to one vendor. If it's over half, start testing an alternative now.",
+        "visual_hint": "Checklist with vendor alternatives circled",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-11-18T22:47:11.479Z",
+    "sourceId": "ee402172e0e23c3f30a3593855a29267"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "trump-s-latest-land-grab-is-an-ai-hub-in-the-phili",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Trump’s latest land grab is an AI hub in the Philippines",
+    "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+    "pubDate": "2026-11-18T19:40:36.000Z",
+    "slides": [
+      "Can Trump turn a Philippine land grab into AI leverage?",
+      "The site sits on a former US military base",
+      "Locals say the land was taken without consent",
+      "Firms sourcing AI compute there face scrutiny",
+      "Ask who really owns the land beneath your cloud"
+    ],
+    "thread_text": [
+      "1. Land grab or leverage?\n\nThe site sits on a former US military base in the Philippines. Now it's at the center of an AI compute controversy involving Trump.",
+      "2. Base turned cloud hub\n\nThe land was taken from locals without consent, they say. The same land now hosts AI infrastructure that firms rely on.",
+      "3. Firms under scrutiny\n\nCompanies sourcing AI compute from this site face questions about the land's origins. Investors and regulators are starting to ask.",
+      "4. Who owns the ground?\n\nThe cloud is physical. Every server sits on land with a history. Ignoring that history is a risk for any AI firm.",
+      "5. Ask before you deploy\n\nBefore your next AI project, trace the land beneath your cloud provider. Do you know whose land it is?"
+    ],
+    "video_script": [
+      "Can Trump turn a Philippine land grab into AI leverage?",
+      "The site sits on a former US military base.",
+      "Locals say the land was taken without consent.",
+      "Firms sourcing AI compute there face scrutiny.",
+      "Ask who really owns the land beneath your cloud."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Land grab or leverage?\n\nThe site sits on a former US military base in the Philippines. Now it's at the center of an AI compute controversy involving Trump.",
+          "2. Base turned cloud hub\n\nThe land was taken from locals without consent, they say. The same land now hosts AI infrastructure that firms rely on.",
+          "3. Firms under scrutiny\n\nCompanies sourcing AI compute from this site face questions about the land's origins. Investors and regulators are starting to ask.",
+          "4. Who owns the ground?\n\nThe cloud is physical. Every server sits on land with a history. Ignoring that history is a risk for any AI firm.",
+          "5. Ask before you deploy\n\nBefore your next AI project, trace the land beneath your cloud provider. Do you know whose land it is?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can Trump turn a Philippine land grab into AI leverage?",
+          "The site sits on a former US military base.",
+          "Locals say the land was taken without consent.",
+          "Firms sourcing AI compute there face scrutiny.",
+          "Ask who really owns the land beneath your cloud."
+        ]
+      },
+      "instagram": {
+        "caption": "A plot of land in the Philippines sits on a former US military base, and locals say it was taken without their consent. 🏞️\n\nThat same land now hosts AI compute infrastructure that companies rely on.\n\nFirms sourcing compute there are starting to face questions about how the land was acquired.\n\nIf you build or publish with AI tools, the servers behind them sit on real ground with a real history. 🌐\n\nDo you know whose land your cloud provider runs on?"
+      }
+    },
+    "instagram_caption": "A plot of land in the Philippines sits on a former US military base, and locals say it was taken without their consent. 🏞️\n\nThat same land now hosts AI compute infrastructure that companies rely on.\n\nFirms sourcing compute there are starting to face questions about how the land was acquired.\n\nIf you build or publish with AI tools, the servers behind them sit on real ground with a real history. 🌐\n\nDo you know whose land your cloud provider runs on?",
+    "carousel_slides": [
+      {
+        "hook": "Whose land is your AI cloud built on?",
+        "description": "A former US military base in the Philippines now hosts AI compute. Locals say the land was taken without consent.",
+        "visual_hint": "Aerial view of former military base",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "military base aerial"
+      },
+      {
+        "hook": "From military base to AI hub",
+        "description": "The site sits on a former US military base, now at the center of an AI compute controversy involving Trump.",
+        "visual_hint": "Map showing base location",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "military base map",
+        "image": "https://images.pexels.com/photos/5137965/pexels-photo-5137965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Locals: land taken without consent",
+        "description": "The land was taken from locals without consent, they say. The same land now hosts AI infrastructure that firms rely on.",
+        "visual_hint": "Protesters holding signs",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "protest signs crowd",
+        "image": "https://images.pexels.com/photos/11421067/pexels-photo-11421067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Firms sourcing AI compute face scrutiny",
+        "description": "Companies sourcing AI compute from this site face questions about the land's origins. Investors and regulators are starting to ask.",
+        "visual_hint": "Business meeting with documents",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "business meeting documents",
+        "image": "https://images.pexels.com/photos/8730992/pexels-photo-8730992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: know whose land hosts your cloud",
+        "description": "Before your next AI project, trace the land beneath your cloud provider. Do you know whose land it is?",
+        "visual_hint": "Hand pointing at cloud icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "cloud computing icon",
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305507602.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.737892056687%2C100%2C78.524215886627&amp;w=1200",
+    "savedAt": "2026-11-18T22:46:58.250Z",
+    "sourceId": "066ed1b0e3fa2d93a4e4aa2ff92fe12d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "not-even-sam-altman-is-safe-from-ai-deepfakes-on-i",
     "prompt_version": "1.0.0",
     "status": "published",
