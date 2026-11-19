@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "nvidia-isn-t-selling-any-more-ai-chips-to-china",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Nvidia isn’t selling any more AI chips to China",
+  "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+  "pubDate": "2026-11-18T13:01:05.000Z",
+  "slides": [
+    "Why is Nvidia walking away from China's AI market?",
+    "New export rules now block its most advanced chips",
+    "But China accounted for a quarter of its data center revenue",
+    "Buyers must now source alternatives or older hardware",
+    "Check your supply chain for Nvidia dependency today"
+  ],
+  "thread_text": [
+    "Nvidia's China exit\n\nNew export rules now block its most advanced chips, forcing the company to walk away from a market that was a quarter of its data center revenue.",
+    "Revenue hit\n\nChina accounted for 25% of Nvidia's data center sales. That's a massive hole to fill, and it won't happen overnight.",
+    "Buyers scramble\n\nCompanies relying on Nvidia's top chips must now source alternatives or older hardware, disrupting AI plans across the board.",
+    "Supply chain risk\n\nIf your infrastructure depends on Nvidia, you're exposed. The shift is already happening, and it's not waiting for you.",
+    "Check your dependency\n\nAudit your supply chain for Nvidia reliance today. Can you afford to be caught off guard?"
+  ],
+  "video_script": [
+    "Why is Nvidia walking away from China's AI market?",
+    "New export rules block its most advanced chips.",
+    "But China was a quarter of data center revenue.",
+    "Buyers must now find alternatives or older hardware.",
+    "Check your supply chain for Nvidia dependency today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Nvidia's China exit\n\nNew export rules now block its most advanced chips, forcing the company to walk away from a market that was a quarter of its data center revenue.",
+        "Revenue hit\n\nChina accounted for 25% of Nvidia's data center sales. That's a massive hole to fill, and it won't happen overnight.",
+        "Buyers scramble\n\nCompanies relying on Nvidia's top chips must now source alternatives or older hardware, disrupting AI plans across the board.",
+        "Supply chain risk\n\nIf your infrastructure depends on Nvidia, you're exposed. The shift is already happening, and it's not waiting for you.",
+        "Check your dependency\n\nAudit your supply chain for Nvidia reliance today. Can you afford to be caught off guard?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Why is Nvidia walking away from China's AI market?",
+        "New export rules block its most advanced chips.",
+        "But China was a quarter of data center revenue.",
+        "Buyers must now find alternatives or older hardware.",
+        "Check your supply chain for Nvidia dependency today."
+      ]
+    },
+    "instagram": {
+      "caption": "A quarter of Nvidia's data center revenue just vanished 🚫\n\nNew export rules block its most advanced chips to China, so Nvidia is walking away from that market.\n\nBuyers there must now hunt for alternatives or settle for older hardware, and AI plans are stalling.\n\nIf your stack runs on Nvidia chips, your costs and availability could shift without warning 🔍\n\nAudit your supply chain for Nvidia dependency today — do you know what breaks if it's cut off? ⚠️"
+    }
+  },
+  "instagram_caption": "A quarter of Nvidia's data center revenue just vanished 🚫\n\nNew export rules block its most advanced chips to China, so Nvidia is walking away from that market.\n\nBuyers there must now hunt for alternatives or settle for older hardware, and AI plans are stalling.\n\nIf your stack runs on Nvidia chips, your costs and availability could shift without warning 🔍\n\nAudit your supply chain for Nvidia dependency today — do you know what breaks if it's cut off? ⚠️",
+  "carousel_slides": [
+    {
+      "hook": "Nvidia's China exit: who's exposed?",
+      "description": "New export rules block advanced chips, forcing Nvidia to abandon a market that was 25% of data center revenue.",
+      "visual_hint": "Nvidia AI chip on display",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Nvidia chip"
+    },
+    {
+      "hook": "New rules block top AI chips",
+      "description": "Export restrictions now prevent Nvidia from selling its most advanced chips to Chinese buyers.",
+      "visual_hint": "Export control document stamp",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "export control document",
+      "image": "https://images.pexels.com/photos/7947961/pexels-photo-7947961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "A quarter of revenue vanishes",
+      "description": "China accounted for 25% of Nvidia's data center sales—a massive hole that won't fill overnight.",
+      "visual_hint": "Revenue chart with steep drop",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Buyers scramble for alternatives",
+      "description": "Companies relying on Nvidia's top chips must now source older hardware or switch to competitors.",
+      "visual_hint": "IT engineer inspecting server racks",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your Nvidia dependency today",
+      "description": "Check your supply chain for Nvidia reliance now—save this post and visit the link in bio for a checklist.",
+      "visual_hint": "Hand holding checklist with Nvidia logo",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "supply chain checklist",
+      "image": "https://images.pexels.com/photos/7843990/pexels-photo-7843990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-19T05:10:54.680Z",
+  "sourceId": "39185064ade2c161df9448bd33f637cc"
+}
