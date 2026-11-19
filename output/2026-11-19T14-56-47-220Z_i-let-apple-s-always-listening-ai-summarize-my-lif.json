@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "i-let-apple-s-always-listening-ai-summarize-my-lif",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+  "link": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+  "pubDate": "2026-11-19T13:00:00.000Z",
+  "slides": [
+    "Apple's always-listening AI: what did it hear?",
+    "It captured every conversation, meeting, and whisper",
+    "It flagged moments I'd forgotten—and one I wish it hadn't",
+    "Your iPhone may already be building a searchable memory of your day",
+    "Check your privacy settings today—before someone else does"
+  ],
+  "thread_text": [
+    "1. It Heard Everything\n\nYour iPhone's always-listening AI captured every conversation, meeting, and whisper. One user discovered it flagged moments they'd forgotten—and one they wish it hadn't.",
+    "2. The Unwanted Memory\n\nThe system surfaced a private exchange the user never intended to save. It's not a glitch—it's how the memory-building feature works by default.",
+    "3. A Searchable Day\n\nYour phone may already be indexing your daily life into a searchable database. Every word you speak near it becomes a data point you can't delete.",
+    "4. The Privacy Blind Spot\n\nMost users never checked what the AI stored. The settings that control this are buried, and the default favors data collection over your control.",
+    "5. Check Your Settings Now\n\nOpen your privacy settings today and review what your phone's AI has access to. If you haven't done it, start there—before someone else does."
+  ],
+  "video_script": [
+    "Your iPhone is always listening, even when you forget.",
+    "It captures meetings, whispers, and private conversations you never meant to save.",
+    "One user found moments they'd forgotten, and one they wish it hadn't flagged.",
+    "Your phone may already be building a searchable memory of your day.",
+    "Check your privacy settings today, before someone else does."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. It Heard Everything\n\nYour iPhone's always-listening AI captured every conversation, meeting, and whisper. One user discovered it flagged moments they'd forgotten—and one they wish it hadn't.",
+        "2. The Unwanted Memory\n\nThe system surfaced a private exchange the user never intended to save. It's not a glitch—it's how the memory-building feature works by default.",
+        "3. A Searchable Day\n\nYour phone may already be indexing your daily life into a searchable database. Every word you speak near it becomes a data point you can't delete.",
+        "4. The Privacy Blind Spot\n\nMost users never checked what the AI stored. The settings that control this are buried, and the default favors data collection over your control.",
+        "5. Check Your Settings Now\n\nOpen your privacy settings today and review what your phone's AI has access to. If you haven't done it, start there—before someone else does."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your iPhone is always listening, even when you forget.",
+        "It captures meetings, whispers, and private conversations you never meant to save.",
+        "One user found moments they'd forgotten, and one they wish it hadn't flagged.",
+        "Your phone may already be building a searchable memory of your day.",
+        "Check your privacy settings today, before someone else does."
+      ]
+    },
+    "instagram": {
+      "caption": "Your iPhone may already be building a searchable memory of every conversation, meeting, and whisper it hears.\n\nOne user let Apple's always-listening AI summarize two weeks of life. It flagged moments they'd forgotten—and one private exchange they never meant to save. That's not a glitch; it's how the memory feature works by default. 🎙️\n\nEvery word spoken near your phone becomes a data point you can't easily delete.\n\nIf you create or publish anything, assume your off-record brainstorming isn't off-record.\n\nOpen your privacy settings today and review what your phone's AI can access. 👀\n\nHave you actually checked what yours has stored? 🔍"
+    }
+  },
+  "instagram_caption": "Your iPhone may already be building a searchable memory of every conversation, meeting, and whisper it hears.\n\nOne user let Apple's always-listening AI summarize two weeks of life. It flagged moments they'd forgotten—and one private exchange they never meant to save. That's not a glitch; it's how the memory feature works by default. 🎙️\n\nEvery word spoken near your phone becomes a data point you can't easily delete.\n\nIf you create or publish anything, assume your off-record brainstorming isn't off-record.\n\nOpen your privacy settings today and review what your phone's AI can access. 👀\n\nHave you actually checked what yours has stored? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "This AI remembered what I wish it forgot.",
+      "description": "Apple's always-listening AI captured every conversation, flagging forgotten moments—and one private exchange the user never meant to save.",
+      "visual_hint": "iPhone with glowing microphone icon",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "iPhone microphone"
+    },
+    {
+      "hook": "Your iPhone is indexing your daily life.",
+      "description": "The system builds a searchable memory of every word spoken near your phone, creating data points you can't delete.",
+      "visual_hint": "Phone screen showing search bar and audio waves",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "smartphone search",
+      "image": "https://images.pexels.com/photos/5448171/pexels-photo-5448171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It surfaced a private exchange I never intended to save.",
+      "description": "Not a glitch—it's how the memory-building feature works by default, capturing whispers and meetings alike.",
+      "visual_hint": "Close-up of phone sensor and audio waveform",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "audio waveform",
+      "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Most users never check what their AI stores.",
+      "description": "The settings controlling this are buried, and the default favors data collection over your control.",
+      "visual_hint": "Hand holding phone with privacy settings menu",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "privacy settings",
+      "image": "https://images.pexels.com/photos/37592338/pexels-photo-37592338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your privacy settings today—before someone else does.",
+      "description": "Open your privacy settings now and review what your phone's AI has access to. Start there.",
+      "visual_hint": "Phone with privacy toggle and warning icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "privacy toggle",
+      "image": "https://images.pexels.com/photos/7663143/pexels-photo-7663143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268874_siri_recaps_AKrales_0070.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-19T14:56:56.091Z",
+  "sourceId": "ac973a9bff8663358f17f3b8c3c9ff6e"
+}
