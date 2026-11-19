@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "canva-adds-an-ai-off-button",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Canva adds an AI ‘off’ button",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+  "pubDate": "2026-11-19T12:30:00.000Z",
+  "slides": [
+    "Canva just handed users an AI off switch — why?",
+    "The design tool's AI features were always optional, technically",
+    "But the switch sits in a settings menu most never open",
+    "Your workflow may silently depend on AI-suggested templates",
+    "Try designing one project today without any AI help"
+  ],
+  "thread_text": [
+    "1. AI off switch, but why now?\n\nCanva added a toggle to disable AI features, but its placement in settings raises questions about how optional the tech really is.",
+    "2. Optional was never the point\n\nTechnically, every AI tool in Canva could be ignored from day one. The new switch just makes that choice explicit — and harder to avoid.",
+    "3. Settings graveyard strikes again\n\nThe toggle lives in a menu most users never open. That means the off switch exists more for PR than for daily use.",
+    "4. Workflow trap: silent dependence\n\nTemplate suggestions and auto-design quietly steer your choices. Turn AI off and your usual speed might vanish.",
+    "5. Try one project AI-free today\n\nDesign a single post without any AI help. If it takes twice as long, ask yourself: do you control the tool, or does it control you?"
+  ],
+  "video_script": [
+    "Canva just gave users an AI off switch.",
+    "But most people will never find it.",
+    "It's buried in a settings menu.",
+    "Your workflow may already depend on AI.",
+    "Try one design project today without it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI off switch, but why now?\n\nCanva added a toggle to disable AI features, but its placement in settings raises questions about how optional the tech really is.",
+        "2. Optional was never the point\n\nTechnically, every AI tool in Canva could be ignored from day one. The new switch just makes that choice explicit — and harder to avoid.",
+        "3. Settings graveyard strikes again\n\nThe toggle lives in a menu most users never open. That means the off switch exists more for PR than for daily use.",
+        "4. Workflow trap: silent dependence\n\nTemplate suggestions and auto-design quietly steer your choices. Turn AI off and your usual speed might vanish.",
+        "5. Try one project AI-free today\n\nDesign a single post without any AI help. If it takes twice as long, ask yourself: do you control the tool, or does it control you?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Canva just gave users an AI off switch.",
+        "But most people will never find it.",
+        "It's buried in a settings menu.",
+        "Your workflow may already depend on AI.",
+        "Try one design project today without it."
+      ]
+    },
+    "instagram": {
+      "caption": "There's now a switch to turn off AI in Canva 🔘\n\nThe feature lives in a settings menu most people never open, so technically the off button has existed quietly rather than upfront.\n\nEvery AI tool was already optional — this toggle just makes the choice explicit, and easy to forget.\n\nHere's the catch: template suggestions and auto-design may be steering your workflow without you noticing. Turn AI off and your usual speed could drop. ⚠️\n\nIf designing one post without help suddenly takes twice as long, that tells you something. 🕐\n\nTry one project today with every AI feature disabled. Does your workflow still feel like yours?"
+    }
+  },
+  "instagram_caption": "There's now a switch to turn off AI in Canva 🔘\n\nThe feature lives in a settings menu most people never open, so technically the off button has existed quietly rather than upfront.\n\nEvery AI tool was already optional — this toggle just makes the choice explicit, and easy to forget.\n\nHere's the catch: template suggestions and auto-design may be steering your workflow without you noticing. Turn AI off and your usual speed could drop. ⚠️\n\nIf designing one post without help suddenly takes twice as long, that tells you something. 🕐\n\nTry one project today with every AI feature disabled. Does your workflow still feel like yours?",
+  "carousel_slides": [
+    {
+      "hook": "Canva's AI off switch: PR or real control?",
+      "description": "Canva added a toggle to disable AI features, but its placement in settings raises questions about how optional the tech really is.",
+      "visual_hint": "Settings menu with toggle switch",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "toggle switch"
+    },
+    {
+      "hook": "AI was always optional—technically",
+      "description": "Every AI tool in Canva could be ignored from day one. The new switch just makes that choice explicit—and harder to avoid.",
+      "visual_hint": "Design software interface with AI icons",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "software interface",
+      "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The off switch hides in settings graveyard",
+      "description": "The toggle lives in a menu most users never open. That means the off switch exists more for PR than for daily use.",
+      "visual_hint": "Cluttered settings menu with buried toggle",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "settings menu",
+      "image": "https://images.pexels.com/photos/40651482/pexels-photo-40651482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your workflow silently depends on AI",
+      "description": "Template suggestions and auto-design quietly steer your choices. Turn AI off and your usual speed might vanish.",
+      "visual_hint": "Hand using design tool with AI suggestions",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands typing",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try one AI-free project today—save this",
+      "description": "Design a single post without any AI help. If it takes twice as long, ask: do you control the tool?",
+      "visual_hint": "Blank canvas with design tools",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "blank canvas",
+      "image": "https://images.pexels.com/photos/32350939/pexels-photo-32350939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-19T22:50:29.881Z",
+  "sourceId": "708518498c68a5d2c814488f4ec7516a"
+}

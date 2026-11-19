@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "canva-adds-an-ai-off-button",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Canva adds an AI ‘off’ button",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+    "pubDate": "2026-11-19T12:30:00.000Z",
+    "slides": [
+      "Canva just handed users an AI off switch — why?",
+      "The design tool's AI features were always optional, technically",
+      "But the switch sits in a settings menu most never open",
+      "Your workflow may silently depend on AI-suggested templates",
+      "Try designing one project today without any AI help"
+    ],
+    "thread_text": [
+      "1. AI off switch, but why now?\n\nCanva added a toggle to disable AI features, but its placement in settings raises questions about how optional the tech really is.",
+      "2. Optional was never the point\n\nTechnically, every AI tool in Canva could be ignored from day one. The new switch just makes that choice explicit — and harder to avoid.",
+      "3. Settings graveyard strikes again\n\nThe toggle lives in a menu most users never open. That means the off switch exists more for PR than for daily use.",
+      "4. Workflow trap: silent dependence\n\nTemplate suggestions and auto-design quietly steer your choices. Turn AI off and your usual speed might vanish.",
+      "5. Try one project AI-free today\n\nDesign a single post without any AI help. If it takes twice as long, ask yourself: do you control the tool, or does it control you?"
+    ],
+    "video_script": [
+      "Canva just gave users an AI off switch.",
+      "But most people will never find it.",
+      "It's buried in a settings menu.",
+      "Your workflow may already depend on AI.",
+      "Try one design project today without it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI off switch, but why now?\n\nCanva added a toggle to disable AI features, but its placement in settings raises questions about how optional the tech really is.",
+          "2. Optional was never the point\n\nTechnically, every AI tool in Canva could be ignored from day one. The new switch just makes that choice explicit — and harder to avoid.",
+          "3. Settings graveyard strikes again\n\nThe toggle lives in a menu most users never open. That means the off switch exists more for PR than for daily use.",
+          "4. Workflow trap: silent dependence\n\nTemplate suggestions and auto-design quietly steer your choices. Turn AI off and your usual speed might vanish.",
+          "5. Try one project AI-free today\n\nDesign a single post without any AI help. If it takes twice as long, ask yourself: do you control the tool, or does it control you?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Canva just gave users an AI off switch.",
+          "But most people will never find it.",
+          "It's buried in a settings menu.",
+          "Your workflow may already depend on AI.",
+          "Try one design project today without it."
+        ]
+      },
+      "instagram": {
+        "caption": "There's now a switch to turn off AI in Canva 🔘\n\nThe feature lives in a settings menu most people never open, so technically the off button has existed quietly rather than upfront.\n\nEvery AI tool was already optional — this toggle just makes the choice explicit, and easy to forget.\n\nHere's the catch: template suggestions and auto-design may be steering your workflow without you noticing. Turn AI off and your usual speed could drop. ⚠️\n\nIf designing one post without help suddenly takes twice as long, that tells you something. 🕐\n\nTry one project today with every AI feature disabled. Does your workflow still feel like yours?"
+      }
+    },
+    "instagram_caption": "There's now a switch to turn off AI in Canva 🔘\n\nThe feature lives in a settings menu most people never open, so technically the off button has existed quietly rather than upfront.\n\nEvery AI tool was already optional — this toggle just makes the choice explicit, and easy to forget.\n\nHere's the catch: template suggestions and auto-design may be steering your workflow without you noticing. Turn AI off and your usual speed could drop. ⚠️\n\nIf designing one post without help suddenly takes twice as long, that tells you something. 🕐\n\nTry one project today with every AI feature disabled. Does your workflow still feel like yours?",
+    "carousel_slides": [
+      {
+        "hook": "Canva's AI off switch: PR or real control?",
+        "description": "Canva added a toggle to disable AI features, but its placement in settings raises questions about how optional the tech really is.",
+        "visual_hint": "Settings menu with toggle switch",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "toggle switch"
+      },
+      {
+        "hook": "AI was always optional—technically",
+        "description": "Every AI tool in Canva could be ignored from day one. The new switch just makes that choice explicit—and harder to avoid.",
+        "visual_hint": "Design software interface with AI icons",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "software interface",
+        "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The off switch hides in settings graveyard",
+        "description": "The toggle lives in a menu most users never open. That means the off switch exists more for PR than for daily use.",
+        "visual_hint": "Cluttered settings menu with buried toggle",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "settings menu",
+        "image": "https://images.pexels.com/photos/40651482/pexels-photo-40651482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your workflow silently depends on AI",
+        "description": "Template suggestions and auto-design quietly steer your choices. Turn AI off and your usual speed might vanish.",
+        "visual_hint": "Hand using design tool with AI suggestions",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands typing",
+        "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try one AI-free project today—save this",
+        "description": "Design a single post without any AI help. If it takes twice as long, ask: do you control the tool?",
+        "visual_hint": "Blank canvas with design tools",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "blank canvas",
+        "image": "https://images.pexels.com/photos/32350939/pexels-photo-32350939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-11-19T22:50:29.881Z",
+    "sourceId": "708518498c68a5d2c814488f4ec7516a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "chatgpt-can-transcribe-as-you-speak-now-with-live-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+    "pubDate": "2026-11-19T15:16:45.000Z",
+    "slides": [
+      "Is OpenAI making typing obsolete with Live Dictation?",
+      "It transcribes your speech in real time inside ChatGPT",
+      "But accuracy breaks down in noisy or accented conditions",
+      "You can now draft messages without touching the keyboard",
+      "Test it on your messiest audio before trusting it"
+    ],
+    "thread_text": [
+      "1. OpenAI's typing killer?\n\nLive Dictation inside ChatGPT transcribes your speech as you talk. No keyboard needed, but it's not flawless.",
+      "2. Real-time transcription\n\nThe feature works directly in ChatGPT, converting spoken words to text instantly. You can draft messages without touching keys.",
+      "3. Accuracy breaks down\n\nNoisy rooms or strong accents cause errors. The tool struggles when conditions aren't ideal.",
+      "4. Draft without typing\n\nYou can now compose emails, posts, or notes just by speaking. It's faster for rough drafts, but editing may still be needed.",
+      "5. Test it first\n\nTry Live Dictation on your messiest audio—a loud café or a heavy accent. If it fails, you'll know before trusting it."
+    ],
+    "video_script": [
+      "OpenAI's Live Dictation claims to make typing obsolete.",
+      "It transcribes speech in real time inside ChatGPT.",
+      "But accuracy drops with noise or strong accents.",
+      "You can draft messages without touching the keyboard.",
+      "Test it on messy audio before trusting it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. OpenAI's typing killer?\n\nLive Dictation inside ChatGPT transcribes your speech as you talk. No keyboard needed, but it's not flawless.",
+          "2. Real-time transcription\n\nThe feature works directly in ChatGPT, converting spoken words to text instantly. You can draft messages without touching keys.",
+          "3. Accuracy breaks down\n\nNoisy rooms or strong accents cause errors. The tool struggles when conditions aren't ideal.",
+          "4. Draft without typing\n\nYou can now compose emails, posts, or notes just by speaking. It's faster for rough drafts, but editing may still be needed.",
+          "5. Test it first\n\nTry Live Dictation on your messiest audio—a loud café or a heavy accent. If it fails, you'll know before trusting it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI's Live Dictation claims to make typing obsolete.",
+          "It transcribes speech in real time inside ChatGPT.",
+          "But accuracy drops with noise or strong accents.",
+          "You can draft messages without touching the keyboard.",
+          "Test it on messy audio before trusting it."
+        ]
+      },
+      "instagram": {
+        "caption": "You can now talk to ChatGPT and watch the words appear as you speak. 🎙️\n\nLive Dictation transcribes your voice in real time inside the app, so you can draft a message without touching the keyboard.\n\nOne catch: noisy rooms and strong accents trip it up, and accuracy drops fast.\n\nIf you write for a living, this could speed up rough drafts, but you'll still need to edit before publishing.\n\nTry it on your messiest audio first, a loud café or your heaviest accent. Would you trust it with a client message? 🤔"
+      }
+    },
+    "instagram_caption": "You can now talk to ChatGPT and watch the words appear as you speak. 🎙️\n\nLive Dictation transcribes your voice in real time inside the app, so you can draft a message without touching the keyboard.\n\nOne catch: noisy rooms and strong accents trip it up, and accuracy drops fast.\n\nIf you write for a living, this could speed up rough drafts, but you'll still need to edit before publishing.\n\nTry it on your messiest audio first, a loud café or your heaviest accent. Would you trust it with a client message? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Is typing becoming obsolete?",
+        "description": "OpenAI's Live Dictation transcribes speech in real time inside ChatGPT, but accuracy fails in noisy or accented conditions.",
+        "visual_hint": "Person speaking into phone",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "person speaking smartphone"
+      },
+      {
+        "hook": "Real-time speech to text inside ChatGPT",
+        "description": "Live Dictation converts spoken words instantly, letting you draft messages without touching the keyboard.",
+        "visual_hint": "ChatGPT interface with waveform",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "chatgpt interface screen",
+        "image": "https://images.pexels.com/photos/16027822/pexels-photo-16027822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Accuracy breaks down in noisy conditions",
+        "description": "Strong accents or loud rooms cause errors, so the tool struggles when audio conditions aren't ideal.",
+        "visual_hint": "Noisy cafe with people talking",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "noisy cafe crowd",
+        "image": "https://images.pexels.com/photos/32440656/pexels-photo-32440656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Draft messages without touching keys",
+        "description": "Compose emails, posts, or notes just by speaking—faster for rough drafts, but editing may still be needed.",
+        "visual_hint": "Hands typing on keyboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands typing keyboard",
+        "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it before you trust it",
+        "description": "Try Live Dictation on your messiest audio—a loud café or heavy accent—to see if it fails before relying on it.",
+        "visual_hint": "Person testing phone in cafe",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person testing smartphone",
+        "image": "https://images.pexels.com/photos/5398928/pexels-photo-5398928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chatgpt-live-dictation-promo-screenshot.jpeg?quality=90&amp;strip=all&amp;crop=8.4734375%2C20.737347294939%2C85.1578125%2C79.262652705061&amp;w=1200",
+    "savedAt": "2026-11-19T22:50:21.158Z",
+    "sourceId": "38c66bd23a6ee65546c53d950226544c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-is-putting-ai-chats-right-on-the-homepage",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google is putting AI chats right on the homepage",
+    "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+    "pubDate": "2026-11-19T20:05:06.000Z",
+    "slides": [
+      "Why is Google betting its homepage on AI chat?",
+      "Search is getting a conversational layer most users didn't ask for",
+      "It may answer questions before you ever click a link",
+      "Publishers relying on search traffic should rethink their funnel now",
+      "Test one query today: does Google answer or redirect?"
+    ],
+    "thread_text": [
+      "1. Google's homepage bet\n\nGoogle is testing AI chat directly on its search homepage, turning the world's most valuable real estate into a conversation starter. The move signals search may never look the same again.",
+      "2. A conversational layer\n\nGoogle is adding chat features to search that most users never requested. This shift could change how billions of people interact with information daily.",
+      "3. Answers before clicks\n\nGoogle's AI may answer your question directly in the results, eliminating the need to click any link. That's a fundamental change for anyone who relies on search traffic.",
+      "4. Publishers, rethink now\n\nIf Google answers queries before users click, publishers depending on search traffic need to rebuild their funnel immediately. Waiting could mean losing your audience entirely.",
+      "5. Test one query today\n\nSearch for something you'd normally click on and see if Google answers it directly. If it does, that's your new reality—start adapting."
+    ],
+    "video_script": [
+      "Google is betting its homepage on AI chat.",
+      "Search is getting a conversational layer you didn't ask for.",
+      "It might answer before you ever click a link.",
+      "Publishers relying on search traffic must rethink their funnel now.",
+      "Test one query today: does Google answer or redirect?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Google's homepage bet\n\nGoogle is testing AI chat directly on its search homepage, turning the world's most valuable real estate into a conversation starter. The move signals search may never look the same again.",
+          "2. A conversational layer\n\nGoogle is adding chat features to search that most users never requested. This shift could change how billions of people interact with information daily.",
+          "3. Answers before clicks\n\nGoogle's AI may answer your question directly in the results, eliminating the need to click any link. That's a fundamental change for anyone who relies on search traffic.",
+          "4. Publishers, rethink now\n\nIf Google answers queries before users click, publishers depending on search traffic need to rebuild their funnel immediately. Waiting could mean losing your audience entirely.",
+          "5. Test one query today\n\nSearch for something you'd normally click on and see if Google answers it directly. If it does, that's your new reality—start adapting."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google is betting its homepage on AI chat.",
+          "Search is getting a conversational layer you didn't ask for.",
+          "It might answer before you ever click a link.",
+          "Publishers relying on search traffic must rethink their funnel now.",
+          "Test one query today: does Google answer or redirect?"
+        ]
+      },
+      "instagram": {
+        "caption": "Google is testing a chat box right on its search homepage — the most valuable real estate on the internet. 🧠\n\nThat conversational layer could answer your question before you ever click a link.\n\nFor publishers, this means search traffic may shrink even when rankings stay the same. 📉\n\nTest it now: search something you'd normally click and see if Google answers directly. 👇\n\nIf it does, what's your plan to reach readers who never leave the results page? 🤔"
+      }
+    },
+    "instagram_caption": "Google is testing a chat box right on its search homepage — the most valuable real estate on the internet. 🧠\n\nThat conversational layer could answer your question before you ever click a link.\n\nFor publishers, this means search traffic may shrink even when rankings stay the same. 📉\n\nTest it now: search something you'd normally click and see if Google answers directly. 👇\n\nIf it does, what's your plan to reach readers who never leave the results page? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "What if Google answers before you click?",
+        "description": "Google tests AI chat on its homepage, potentially answering queries directly. Publishers relying on search traffic must rethink their funnel now.",
+        "visual_hint": "Google homepage with chat interface",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "Google homepage"
+      },
+      {
+        "hook": "Search gets a chat layer nobody asked for",
+        "description": "Google adds conversational features to search, changing how billions interact with information daily.",
+        "visual_hint": "Chat bubbles over search bar",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "search bar",
+        "image": "https://images.pexels.com/photos/5701654/pexels-photo-5701654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI answers could kill the click",
+        "description": "Google's AI may answer questions directly in results, eliminating clicks and disrupting search-dependent businesses.",
+        "visual_hint": "AI answering a query, no links",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "AI chatbot",
+        "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Publishers: adapt your funnel or lose traffic",
+        "description": "If Google answers before users click, search traffic vanishes. Rebuild your funnel immediately to keep your audience.",
+        "visual_hint": "Publisher analyzing declining traffic",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "declining chart",
+        "image": "https://images.pexels.com/photos/10628029/pexels-photo-10628029.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one query today, then adapt",
+        "description": "Search something you'd normally click and see if Google answers directly. Save this post and start adapting now.",
+        "visual_hint": "Person testing search on phone",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person using smartphone",
+        "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-11-19T22:50:13.666Z",
+    "sourceId": "84a5dc6d5cb4b105fe58d22060313280"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "apple-is-hiring-engineers-to-build-its-own-ai-agen",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple is hiring engineers to build its own AI agent",
+    "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+    "pubDate": "2026-11-19T22:31:41.000Z",
+    "slides": [
+      "Apple wants its own AI agent — but why now?",
+      "It is hiring engineers specifically for agent systems",
+      "Apple has kept AI quieter than OpenAI and Google",
+      "Your iPhone could soon act without you tapping",
+      "Watch one Apple app for signs of an agent"
+    ],
+    "thread_text": [
+      "1. Apple's AI agent hiring spree\n\nApple is hiring engineers specifically for agent systems, a clear signal it wants an AI that acts on your behalf — not just chats.",
+      "2. Why Apple stayed quiet\n\nWhile OpenAI and Google raced to launch chatbots, Apple kept AI behind the scenes. That silence may have been strategy, not slowness.",
+      "3. Your iPhone without taps\n\nSoon your phone could complete tasks on its own — booking, ordering, scheduling — without you touching the screen.",
+      "4. One app to watch\n\nApple's agent won't arrive as a standalone product. Look for it woven into an existing app you already use daily.",
+      "5. Are you ready to hand over control?\n\nIf your iPhone could act without you tapping, would you let it? Try listing three daily tasks you'd trust an agent to handle — then ask if Apple's timing makes sense."
+    ],
+    "video_script": [
+      "Apple is hiring engineers for AI agent systems.",
+      "It kept AI quiet while others raced ahead.",
+      "Soon your iPhone could act without you tapping.",
+      "Watch one existing Apple app for signs.",
+      "Would you let your phone act alone?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Apple's AI agent hiring spree\n\nApple is hiring engineers specifically for agent systems, a clear signal it wants an AI that acts on your behalf — not just chats.",
+          "2. Why Apple stayed quiet\n\nWhile OpenAI and Google raced to launch chatbots, Apple kept AI behind the scenes. That silence may have been strategy, not slowness.",
+          "3. Your iPhone without taps\n\nSoon your phone could complete tasks on its own — booking, ordering, scheduling — without you touching the screen.",
+          "4. One app to watch\n\nApple's agent won't arrive as a standalone product. Look for it woven into an existing app you already use daily.",
+          "5. Are you ready to hand over control?\n\nIf your iPhone could act without you tapping, would you let it? Try listing three daily tasks you'd trust an agent to handle — then ask if Apple's timing makes sense."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple is hiring engineers for AI agent systems.",
+          "It kept AI quiet while others raced ahead.",
+          "Soon your iPhone could act without you tapping.",
+          "Watch one existing Apple app for signs.",
+          "Would you let your phone act alone?"
+        ]
+      },
+      "instagram": {
+        "caption": "Engineers are being hired specifically to build agent systems — the kind of AI that acts on your behalf instead of just chatting back. 🤖\n\nWhile OpenAI and Google shipped chatbots, Apple kept its AI behind the scenes. That silence looks like strategy, not slowness.\n\nSoon your iPhone could book, order, and schedule without you tapping the screen.\n\nFor anyone creating or publishing content, that means distribution may shift from apps you open to agents that act inside apps you already use daily. 👀\n\nApple's agent won't launch as a standalone product — watch one existing app you use every day for the first signs. 📱\n\nIf your iPhone could handle tasks without a single tap, which three would you hand over first?"
+      }
+    },
+    "instagram_caption": "Engineers are being hired specifically to build agent systems — the kind of AI that acts on your behalf instead of just chatting back. 🤖\n\nWhile OpenAI and Google shipped chatbots, Apple kept its AI behind the scenes. That silence looks like strategy, not slowness.\n\nSoon your iPhone could book, order, and schedule without you tapping the screen.\n\nFor anyone creating or publishing content, that means distribution may shift from apps you open to agents that act inside apps you already use daily. 👀\n\nApple's agent won't launch as a standalone product — watch one existing app you use every day for the first signs. 📱\n\nIf your iPhone could handle tasks without a single tap, which three would you hand over first?",
+    "carousel_slides": [
+      {
+        "hook": "Why was Apple silent on AI?",
+        "description": "While OpenAI and Google launched chatbots, Apple kept AI behind the scenes—possibly a deliberate strategy, not slowness.",
+        "visual_hint": "Apple logo on dark background",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Apple logo"
+      },
+      {
+        "hook": "Apple hiring engineers for AI agents",
+        "description": "Apple is hiring engineers specifically for agent systems, signaling it wants an AI that acts on your behalf—not just chats.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "visual_hint": "Engineers working on code",
+        "image_query": "engineers coding",
+        "image": "https://images.pexels.com/photos/12899191/pexels-photo-12899191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your iPhone could act without you",
+        "description": "Soon your phone could complete tasks on its own—booking, ordering, scheduling—without you touching the screen.",
+        "visual_hint": "Hand hovering over iPhone",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "iPhone screen",
+        "image": "https://images.pexels.com/photos/11216260/pexels-photo-11216260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The agent won't be a standalone app",
+        "description": "Apple's agent will be woven into an existing app you already use daily, not launched as a separate product.",
+        "visual_hint": "App icons on home screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "smartphone apps",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Would you let your iPhone act alone?",
+        "description": "List three daily tasks you'd trust an agent to handle, then ask if Apple's timing makes sense. Save this post.",
+        "visual_hint": "Person thinking with phone",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person using smartphone",
+        "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.628272251309%2C100%2C78.743455497382&amp;w=1200",
+    "savedAt": "2026-11-19T22:50:05.477Z",
+    "sourceId": "21b44fd34fd356ca6697085e1a17addd"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "i-let-apple-s-always-listening-ai-summarize-my-lif",
     "prompt_version": "1.0.0",
     "status": "published",
