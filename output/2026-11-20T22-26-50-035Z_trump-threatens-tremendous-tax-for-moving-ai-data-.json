@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "trump-threatens-tremendous-tax-for-moving-ai-data-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+  "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+  "pubDate": "2026-11-20T18:50:19.000Z",
+  "slides": [
+    "Why would Trump tax companies for building abroad?",
+    "He says AI data centers must stay in America",
+    "Yet US power grids can't handle the demand",
+    "Your AI bill may rise regardless of location",
+    "Watch where the next data center breaks ground"
+  ],
+  "thread_text": [
+    "1. The AI Power Gamble\n\nTrump says data centers must stay in America — but US grids can't handle the demand, and your bill may rise anyway.",
+    "2. Taxing the Builders\n\nHe proposes taxing companies that build abroad, forcing AI infrastructure back home. But what happens when the power isn't there?",
+    "3. The Grid Stops Here\n\nEven if data centers stay, US power grids are already strained. Blackouts and rate hikes are on the table.",
+    "4. Your Bill, No Matter What\n\nEnergy costs get passed to consumers. Location won't shield your wallet from the AI boom.",
+    "5. Watch the Groundbreaking\n\nNext time a data center breaks ground, check the grid. Does it make sense to pay more for AI if the lights go out?"
+  ],
+  "video_script": [
+    "Trump wants AI data centers built in America.",
+    "He'd tax companies that build abroad.",
+    "But US power grids can't handle the demand.",
+    "Your AI bill may rise no matter what.",
+    "Watch where the next data center breaks ground."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The AI Power Gamble\n\nTrump says data centers must stay in America — but US grids can't handle the demand, and your bill may rise anyway.",
+        "2. Taxing the Builders\n\nHe proposes taxing companies that build abroad, forcing AI infrastructure back home. But what happens when the power isn't there?",
+        "3. The Grid Stops Here\n\nEven if data centers stay, US power grids are already strained. Blackouts and rate hikes are on the table.",
+        "4. Your Bill, No Matter What\n\nEnergy costs get passed to consumers. Location won't shield your wallet from the AI boom.",
+        "5. Watch the Groundbreaking\n\nNext time a data center breaks ground, check the grid. Does it make sense to pay more for AI if the lights go out?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Trump wants AI data centers built in America.",
+        "He'd tax companies that build abroad.",
+        "But US power grids can't handle the demand.",
+        "Your AI bill may rise no matter what.",
+        "Watch where the next data center breaks ground."
+      ]
+    },
+    "instagram": {
+      "caption": "Trump wants to tax companies that build AI data centers abroad and force them back to the US.\n\nHe says the infrastructure must stay in America, but US power grids already can't handle the demand.\n\nEven if the data centers stay, strained grids mean blackouts and higher energy bills.\n\nYour AI costs get passed down to you no matter where the servers sit ⚡\n\nNext time a data center breaks ground near you, would you check if the grid can actually take it? 🔌"
+    }
+  },
+  "instagram_caption": "Trump wants to tax companies that build AI data centers abroad and force them back to the US.\n\nHe says the infrastructure must stay in America, but US power grids already can't handle the demand.\n\nEven if the data centers stay, strained grids mean blackouts and higher energy bills.\n\nYour AI costs get passed down to you no matter where the servers sit ⚡\n\nNext time a data center breaks ground near you, would you check if the grid can actually take it? 🔌",
+  "carousel_slides": [
+    {
+      "hook": "Can US power grids handle AI?",
+      "description": "Trump says data centers must stay in America, but US grids can't handle the demand, so blackouts and rate hikes loom.",
+      "visual_hint": "Power lines over data center",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "power lines"
+    },
+    {
+      "hook": "Trump's tax on overseas AI builds",
+      "description": "He proposes taxing companies that build data centers abroad, forcing AI infrastructure back home, but where's the power?",
+      "visual_hint": "Trump speaking at rally",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "Donald Trump",
+      "image": "https://images.pexels.com/photos/4108506/pexels-photo-4108506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Even if data centers stay, grid strains",
+      "description": "US power grids are already strained; keeping AI data centers here could cause blackouts and higher electricity rates.",
+      "visual_hint": "Electrical grid tower close-up",
+      "layout_type": "sensor-zoom",
+      "icon": "waves",
+      "image_query": "electrical grid",
+      "image": "https://images.pexels.com/photos/33041841/pexels-photo-33041841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your energy bill rises no matter what",
+      "description": "Energy costs get passed to consumers, so your AI bill may rise regardless of where data centers are built.",
+      "visual_hint": "Hand holding electricity bill",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "utility bill",
+      "image": "https://images.pexels.com/photos/7927396/pexels-photo-7927396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: watch where AI breaks ground",
+      "description": "Next time a data center breaks ground, check the grid. Save this post to stay informed.",
+      "visual_hint": "Data center construction site",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "data center construction",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+  "savedAt": "2026-11-20T22:26:58.111Z",
+  "sourceId": "b44ab066f64c7bf4520fbd30393b9555"
+}

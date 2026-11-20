@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "anthropic-mathematician-claims-to-have-solved-pres",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "pubDate": "2026-11-20T16:34:13.000Z",
+      "slides": [
+        "Can Claude solve a $1M problem Anthropic's own mathematician couldn't?",
+        "The Riemann Hypothesis has stood unproven since 1859",
+        "He says Claude found a promising proof strategy, not a full solution",
+        "Mathematicians must now verify every step — or dismiss it",
+        "Ask your AI one hard open problem this week"
+      ],
+      "thread_text": [
+        "1. $1M Proof by Claude?\n\nAnthropic's own mathematician couldn't crack the Riemann Hypothesis. Claude produced a proof strategy that has mathematicians talking.",
+        "2. 165 Years Unproven\n\nThe Riemann Hypothesis has resisted every proof since 1859. A machine just offered a new angle on the hardest problem in math.",
+        "3. A Strategy, Not Solution\n\nClaude's output is a promising roadmap, not a finished proof. The mathematician is clear: this is a starting point, not a victory.",
+        "4. Verify Every Step\n\nMathematicians now face the grueling task of checking each logical link. One flaw and the entire strategy collapses.",
+        "5. Test Your AI Today\n\nPick one open problem in your field and ask your AI to outline an approach. Then verify every step yourself — you might be surprised."
+      ],
+      "video_script": [
+        "Claude may have cracked a million-dollar math problem.",
+        "The Riemann Hypothesis has been unsolved since 1859.",
+        "Claude found a strategy, not a full proof.",
+        "Mathematicians must verify every single step.",
+        "Ask your AI one hard problem this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $1M Proof by Claude?\n\nAnthropic's own mathematician couldn't crack the Riemann Hypothesis. Claude produced a proof strategy that has mathematicians talking.",
+            "2. 165 Years Unproven\n\nThe Riemann Hypothesis has resisted every proof since 1859. A machine just offered a new angle on the hardest problem in math.",
+            "3. A Strategy, Not Solution\n\nClaude's output is a promising roadmap, not a finished proof. The mathematician is clear: this is a starting point, not a victory.",
+            "4. Verify Every Step\n\nMathematicians now face the grueling task of checking each logical link. One flaw and the entire strategy collapses.",
+            "5. Test Your AI Today\n\nPick one open problem in your field and ask your AI to outline an approach. Then verify every step yourself — you might be surprised."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Claude may have cracked a million-dollar math problem.",
+            "The Riemann Hypothesis has been unsolved since 1859.",
+            "Claude found a strategy, not a full proof.",
+            "Mathematicians must verify every single step.",
+            "Ask your AI one hard problem this week."
+          ]
+        },
+        "instagram": {
+          "caption": "A mathematician at Anthropic says Claude found a proof strategy for the Riemann Hypothesis — a problem unproven since 1859 and worth $1M.\n\nIt's a roadmap, not a finished proof. 🤔\n\nMathematicians still have to verify every logical step, and one flaw collapses the whole thing.\n\nIf you publish or create content, this is your reminder: an AI's \"solution\" means nothing until someone checks it line by line.\n\nSo pick one hard open problem in your field and ask your AI to outline an approach this week. 🔍\n\nWould you trust the output enough to verify it yourself?"
+        }
+      },
+      "instagram_caption": "A mathematician at Anthropic says Claude found a proof strategy for the Riemann Hypothesis — a problem unproven since 1859 and worth $1M.\n\nIt's a roadmap, not a finished proof. 🤔\n\nMathematicians still have to verify every logical step, and one flaw collapses the whole thing.\n\nIf you publish or create content, this is your reminder: an AI's \"solution\" means nothing until someone checks it line by line.\n\nSo pick one hard open problem in your field and ask your AI to outline an approach this week. 🔍\n\nWould you trust the output enough to verify it yourself?",
+      "carousel_slides": [
+        {
+          "hook": "Can Claude solve a $1M problem?",
+          "description": "Anthropic's own mathematician couldn't crack the Riemann Hypothesis. Claude produced a proof strategy that has mathematicians talking.",
+          "visual_hint": "AI brain with math symbols",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "artificial intelligence"
+        },
+        {
+          "hook": "Unproven since 1859",
+          "description": "The Riemann Hypothesis has resisted every proof for 165 years. A machine just offered a new angle on math's hardest problem.",
+          "visual_hint": "old math manuscript",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "old mathematics book",
+          "image": "https://images.pexels.com/photos/4778670/pexels-photo-4778670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "A strategy, not a solution",
+          "description": "Claude's output is a promising roadmap, not a finished proof. The mathematician says this is a starting point.",
+          "visual_hint": "roadmap with checkpoints",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "roadmap diagram",
+          "image": "https://images.pexels.com/photos/7947654/pexels-photo-7947654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Verify every logical step",
+          "description": "Mathematicians must check each logical link. One flaw and the entire strategy collapses.",
+          "visual_hint": "hands checking equations",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hands writing math",
+          "image": "https://images.pexels.com/photos/8923996/pexels-photo-8923996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your AI this week",
+          "description": "Pick one open problem in your field and ask your AI to outline an approach. Then verify every step yourself.",
+          "visual_hint": "person typing on laptop",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "person using laptop",
+          "image": "https://images.pexels.com/photos/12902986/pexels-photo-12902986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-11-20T22:27:06.066Z",
+      "sourceId": "e7bc21e40b78d9330ceba3db7751df1c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "trump-threatens-tremendous-tax-for-moving-ai-data-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "pubDate": "2026-11-20T18:50:19.000Z",
+      "slides": [
+        "Why would Trump tax companies for building abroad?",
+        "He says AI data centers must stay in America",
+        "Yet US power grids can't handle the demand",
+        "Your AI bill may rise regardless of location",
+        "Watch where the next data center breaks ground"
+      ],
+      "thread_text": [
+        "1. The AI Power Gamble\n\nTrump says data centers must stay in America — but US grids can't handle the demand, and your bill may rise anyway.",
+        "2. Taxing the Builders\n\nHe proposes taxing companies that build abroad, forcing AI infrastructure back home. But what happens when the power isn't there?",
+        "3. The Grid Stops Here\n\nEven if data centers stay, US power grids are already strained. Blackouts and rate hikes are on the table.",
+        "4. Your Bill, No Matter What\n\nEnergy costs get passed to consumers. Location won't shield your wallet from the AI boom.",
+        "5. Watch the Groundbreaking\n\nNext time a data center breaks ground, check the grid. Does it make sense to pay more for AI if the lights go out?"
+      ],
+      "video_script": [
+        "Trump wants AI data centers built in America.",
+        "He'd tax companies that build abroad.",
+        "But US power grids can't handle the demand.",
+        "Your AI bill may rise no matter what.",
+        "Watch where the next data center breaks ground."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The AI Power Gamble\n\nTrump says data centers must stay in America — but US grids can't handle the demand, and your bill may rise anyway.",
+            "2. Taxing the Builders\n\nHe proposes taxing companies that build abroad, forcing AI infrastructure back home. But what happens when the power isn't there?",
+            "3. The Grid Stops Here\n\nEven if data centers stay, US power grids are already strained. Blackouts and rate hikes are on the table.",
+            "4. Your Bill, No Matter What\n\nEnergy costs get passed to consumers. Location won't shield your wallet from the AI boom.",
+            "5. Watch the Groundbreaking\n\nNext time a data center breaks ground, check the grid. Does it make sense to pay more for AI if the lights go out?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Trump wants AI data centers built in America.",
+            "He'd tax companies that build abroad.",
+            "But US power grids can't handle the demand.",
+            "Your AI bill may rise no matter what.",
+            "Watch where the next data center breaks ground."
+          ]
+        },
+        "instagram": {
+          "caption": "Trump wants to tax companies that build AI data centers abroad and force them back to the US.\n\nHe says the infrastructure must stay in America, but US power grids already can't handle the demand.\n\nEven if the data centers stay, strained grids mean blackouts and higher energy bills.\n\nYour AI costs get passed down to you no matter where the servers sit ⚡\n\nNext time a data center breaks ground near you, would you check if the grid can actually take it? 🔌"
+        }
+      },
+      "instagram_caption": "Trump wants to tax companies that build AI data centers abroad and force them back to the US.\n\nHe says the infrastructure must stay in America, but US power grids already can't handle the demand.\n\nEven if the data centers stay, strained grids mean blackouts and higher energy bills.\n\nYour AI costs get passed down to you no matter where the servers sit ⚡\n\nNext time a data center breaks ground near you, would you check if the grid can actually take it? 🔌",
+      "carousel_slides": [
+        {
+          "hook": "Can US power grids handle AI?",
+          "description": "Trump says data centers must stay in America, but US grids can't handle the demand, so blackouts and rate hikes loom.",
+          "visual_hint": "Power lines over data center",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "power lines"
+        },
+        {
+          "hook": "Trump's tax on overseas AI builds",
+          "description": "He proposes taxing companies that build data centers abroad, forcing AI infrastructure back home, but where's the power?",
+          "visual_hint": "Trump speaking at rally",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "Donald Trump",
+          "image": "https://images.pexels.com/photos/4108506/pexels-photo-4108506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Even if data centers stay, grid strains",
+          "description": "US power grids are already strained; keeping AI data centers here could cause blackouts and higher electricity rates.",
+          "visual_hint": "Electrical grid tower close-up",
+          "layout_type": "sensor-zoom",
+          "icon": "waves",
+          "image_query": "electrical grid",
+          "image": "https://images.pexels.com/photos/33041841/pexels-photo-33041841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your energy bill rises no matter what",
+          "description": "Energy costs get passed to consumers, so your AI bill may rise regardless of where data centers are built.",
+          "visual_hint": "Hand holding electricity bill",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "utility bill",
+          "image": "https://images.pexels.com/photos/7927396/pexels-photo-7927396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: watch where AI breaks ground",
+          "description": "Next time a data center breaks ground, check the grid. Save this post to stay informed.",
+          "visual_hint": "Data center construction site",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "data center construction",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+      "savedAt": "2026-11-20T22:26:58.111Z",
+      "sourceId": "b44ab066f64c7bf4520fbd30393b9555"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "canva-adds-an-ai-off-button",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -219972,6 +220180,228 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pasta-con-ceci-e-carciofi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pasta con ceci e carciofi",
+      "link": "https://ricette.giallozafferano.it/Pasta-con-ceci-e-carciofi.html",
+      "pubDate": "Fri, 20 Nov 2026 16:21:00 +0100",
+      "content": "Pasta con ceci e carciofi: ricetta cremosa e saporita Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Pasta con ceci e carciofi /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Seguici Preferiti Difficoltà: Facile Preparazione: 60 min Cottura: 30 min Dosi per: 4 persone Ascolta la ricetta Ascolta su Spreaker. Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti PRESENTAZIONE La pasta con ceci e carciofi è un primo piatto vegetariano ricco di sapore, che unisce la delicatezza dei legumi al gusto caratteristico dei carciofi. Le linguine integrali sono perfette per questa ricetta, grazie al loro sapore rustico che si sposa con il condimento cremoso. Il segreto di questo piatto è utilizzare i ceci in due modi diversi: una parte viene frullata per ottenere una crema morbida e avvolgente, mentre i restanti vengono rosolati in padella fino a diventare croccanti, per completare la pasta con una nota sfiziosa. I carciofi saltati con aglio e olio extravergine d'oliva arricchiscono il condimento, mentre il Parmigiano grattugiato rende il tutto ancora più gustoso. Provate la pasta con ceci e carciofi per un pranzo in famiglia o una cena vegetariana, un'idea semplice per portare in tavola un primo piatto sostanzioso e diverso dal solito! Ecco altri primi con i carciofi da non perdere: Lasagne ai carciofi con ricotta e capperi Sedanini rigati alla crema di carciofi Pasta ai carciofi Lasagne con biete Risotto ai carciofi Paccheri con carciofi alla carbonara Pasta with chickpeas and artichokes Scopri anche Farinata di ceci con carciofi Bavette ai carciofi e sardine Spaghetti integrali con carciofi e mollica Sfoglia tutte INGREDIENTI Linguine integrali 320 g Cipolle dorate 50 g Ceci precotti 300 g Carciofi 400 g Peperoncino fresco 1 Aglio 2 spicchi Rosmarino q.b. Parmigiano Reggiano DOP 50 g Olio extravergine d'oliva 30 g Sale fino q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta con ceci e carciofi Per preparare la pasta con ceci e carciofi, iniziate dalla crema di ceci. Mondate la cipolla e tritatela finemente 1 . Versate in padella un giro d'olio, uno spicchio d'aglio 2 e un peperoncino. Aggiungete quindi la cipolla tritata 3 . Salate e lasciate stufare a fuoco medio-basso per circa 10 minuti. Aggiungete 200 g di ceci sgocciolati 4 e un mestolo di acqua calda 5 , regolate di sale e lasciate insaporire per circa 3 minuti 6 . Eliminate l'aglio e il peperoncino, quindi trasferite il tutto in un boccale 7 e frullate con un mixer a immersione 8 fino a ottenere una crema omogenea 9 . Tenete da parte. Passate alla pulizia dei carciofi: eliminate le foglie esterne più dure 10 , tagliate le punte e pelate i gambi 11 . Dividete i carciofi a metà, eliminate la barbetta interna e tagliateli a spicchi 12 . In una padella scaldate un filo d'olio extravergine d'oliva con uno spicchio d'aglio, lasciatelo imbiondire e poi toglietelo con una pinza 13 . Aggiungete i carciofi, regolate di sale 14 e fateli saltare a fuoco medio per circa 10-15 minuti, mescolando di tanto in tanto. Se necessario, versate un mestolo di acqua per evitare che si attacchino. Nel frattempo mettete sul fuoco una pentola colma d'acqua salata, che servirà per la cottura della pasta. Ora occupatevi dei ceci croccanti. Scaldate un filo d'olio in un'altra padella, aggiungete i 100 g di ceci rimasti 16 e fateli rosolare per circa 10 minuti muovendoli spesso, fino a quando saranno dorati e croccanti 17 . Trasferiteli in una ciotola e conditeli con sale e rosmarino tritato 18 . Mescolate e tenete da parte 19 . Non appena l'acqua avrà raggiunto il bollore, cuocete le linguine per il tempo indicato sulla confezione 20 . Nel frattempo, versate la crema di ceci nella padella con i carciofi, aggiungete un mestolino d'acqua di cottura 21 e mescolate per amalgamare il condimento. Scolate le linguine direttamente nella padella con il condimento e saltate il tutto per qualche istante, in modo da amalgamare bene gli ingredienti 22 . Spegnete il fuoco, aggiungete un filo d'olio extravergine d'oliva 23 e il Parmigiano Reggiano DOP grattugiato 24 . Mescolate ancora 25 . Distribuite la pasta nei piatti, completate con i ceci croccanti al rosmarino 26 e servite subito la vostra pasta con ceci e carciofi 27 ! Conservazione Si consiglia di consumare la pasta con ceci e carciofi appena pronta. Se dovesse avanzare, potete conservarla in frigorifero, in un contenitore ermetico, per un massimo di 2 giorni. Si sconsiglia la congelazione. Consiglio Per ottenere i ceci croccanti potete utilizzare anche il forno ventilato a 200°C per circa 20 minuti, oppure la friggitrice ad aria a 190°C per circa 10 minuti. Preparatene qualcuno in più: sono ottimi anche da gustare come snack o da servire per l'aperitivo! Per una versione vegana della ricetta, potete omettere il Parmigiano grattugiato. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Aglio Ceci Pasta Carciofi Olio di oliva Rosmarino Cipolla Peperoncino Parmigiano Reggiano Scopri tutto sugli ingredienti STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Seguici Preferiti SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Farinata di ceci con carciofi 3 4.6 Bavette ai carciofi e sardine 21 4.1 Benessere Spaghetti integrali con carciofi e mollica 1 4.5 Pasta carciofi e salsiccia 14 4.1 Pasta ai carciofi 12 4.3 Orecchiette ai carciofi 2 4.8 Lasagne ai carciofi 141 4.3 Penne carciofi e pancetta 19 4.1 ULTIME RICETTE Pasta ai cavoli 5.0 Pasta con ceci e carciofi 5.0 Sfoglia croccante mele e yogurt 5.0 SCOPRI Pasta ai carciofi Pasta e ceci alla romana Pasta e ceci alla napoletana Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Torte salate Farinata di ceci con carciofi 3 4.6 La farinata di ceci con carciofi e mozzarella è un piatto sfizioso perfetto da servire come antipasto, o da gustare in abbondanza come piatto unico! Vai alla ricetta Primi piatti Bavette ai carciofi e sardine 21 4.1 Le bavette ai carciofi e sardine sono un gustoso primo piatto che unisce i sapori della terra ai profumi del mare! Vai alla ricetta Benessere Primi piatti Spaghetti integrali con carciofi e mollica 1 4.5 Gli spaghetti integrali con carciofi e mollica sono un primo piatto preparato con carciofi saltati in padella con olive e mollica di pane tostata Vai alla ricetta Primi piatti Pasta carciofi e salsiccia 14 4.1 La pasta carciofi e salsiccia unisce le note amare del carciofo con quelle robuste della salsiccia in un primo piatto sostanzioso e appagante! Vai alla ricetta Primi piatti Pasta ai carciofi 12 4.3 La pasta ai carciofi è un primo piatto davvero semplice da preparare e molto gustoso, perfetto per un pranzo in famiglia o una cena tra amici. Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. e all’utilizzo di pixel di tracciamento nelle suddette comunicazioni per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne Si No Prosegui",
+      "slides": [
+        "Linguine cremose con ceci e carciofi",
+        "Linguine, ceci, carciofi, aglio e parmigiano",
+        "Frulla i ceci per una crema vellutata",
+        "Salta le linguine nella crema con i carciofi",
+        "Completa con ceci croccanti al rosmarino"
+      ],
+      "instagram_caption": "La pasta che sa di domenica, ma si prepara in mezz'ora. 🍝\nLinguine avvolte in una crema vellutata di ceci, carciofi saltati con l'aglio e una pioggia di parmigiano: comfort food puro, senza sensi di colpa.\nIl segreto? Frullare i ceci fino a renderli setosi e finire il piatto con ceci croccanti al rosmarino per il contrasto perfetto. ✨\nSalva la ricetta e provala questo weekend 🌿",
+      "formats": {
+        "instagram": {
+          "caption": "La pasta che sa di domenica, ma si prepara in mezz'ora. 🍝\nLinguine avvolte in una crema vellutata di ceci, carciofi saltati con l'aglio e una pioggia di parmigiano: comfort food puro, senza sensi di colpa.\nIl segreto? Frullare i ceci fino a renderli setosi e finire il piatto con ceci croccanti al rosmarino per il contrasto perfetto. ✨\nSalva la ricetta e provala questo weekend 🌿"
+        },
+        "tiktok": {
+          "script": [
+            "Linguine cremose con ceci e carciofi, andiamo!",
+            "Butto linguine, ceci, carciofi, aglio e parmigiano.",
+            "Frullo i ceci e creo una crema vellutata.",
+            "Salto le linguine nella crema con i carciofi.",
+            "Finisco con ceci croccanti al rosmarino, che bomba!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Pasta e ceci? Sì, ma con carciofi. Cremosa, rustica, con croccante finale. Il piatto che ti fa dimenticare il ragù. 🍝",
+            "Ingredienti: linguine, ceci, carciofi, aglio, parmigiano. Niente panna, niente scorciatoie. Solo roba vera.",
+            "Frulla metà dei ceci con un po' d'acqua di cottura. Diventa una crema vellutata che avvolge tutto. Segreto: non lesinare.",
+            "Salta le linguine nella crema con i carciofi a fette sottili. Manteca con parmigiano e un giro d'olio. Il profumo ti precede.",
+            "Trucco: ceci croccanti al rosmarino in padella per il topping. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Linguine cremose con ceci e carciofi, andiamo!",
+        "Butto linguine, ceci, carciofi, aglio e parmigiano.",
+        "Frullo i ceci e creo una crema vellutata.",
+        "Salto le linguine nella crema con i carciofi.",
+        "Finisco con ceci croccanti al rosmarino, che bomba!"
+      ],
+      "thread_text": [
+        "Pasta e ceci? Sì, ma con carciofi. Cremosa, rustica, con croccante finale. Il piatto che ti fa dimenticare il ragù. 🍝",
+        "Ingredienti: linguine, ceci, carciofi, aglio, parmigiano. Niente panna, niente scorciatoie. Solo roba vera.",
+        "Frulla metà dei ceci con un po' d'acqua di cottura. Diventa una crema vellutata che avvolge tutto. Segreto: non lesinare.",
+        "Salta le linguine nella crema con i carciofi a fette sottili. Manteca con parmigiano e un giro d'olio. Il profumo ti precede.",
+        "Trucco: ceci croccanti al rosmarino in padella per il topping. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pasta cremosa con ceci e carciofi",
+          "description": "Un primo piatto vellutato e saporito, pronto in pochi gesti.",
+          "visual_hint": "linguine cremose con ceci e carciofi",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory chickpea pasta"
+        },
+        {
+          "hook": "Ingredienti semplici e genuini",
+          "description": "Linguine, ceci, carciofi, aglio e parmigiano per un sapore autentico.",
+          "visual_hint": "ingredienti freschi sul tavolo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory pasta ingredients",
+          "image": "https://images.pexels.com/photos/4038950/pexels-photo-4038950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Frulla i ceci per una crema",
+          "description": "La crema di ceci avvolge la pasta in una consistenza setosa.",
+          "visual_hint": "frullatore con crema di ceci",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory chickpea cream",
+          "image": "https://images.pexels.com/photos/20246312/pexels-photo-20246312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Salta le linguine nella crema",
+          "description": "Manteca la pasta con i carciofi per un condimento perfetto.",
+          "visual_hint": "padella con pasta e carciofi",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory pasta pan",
+          "image": "https://images.pexels.com/photos/37726962/pexels-photo-37726962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Completa con ceci croccanti",
+          "description": "Aggiungi ceci croccanti al rosmarino per un tocco finale croccante.",
+          "visual_hint": "pasta impiattata con ceci croccanti",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory chickpea garnish",
+          "image": "https://images.pexels.com/photos/6546419/pexels-photo-6546419.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "ceci",
+        "carciofi",
+        "parmigiano"
+      ],
+      "image": "https://www.giallozafferano.it/images/367-36768/Pasta-con-ceci-e-carciofi_1200x800_wm.jpg",
+      "savedAt": "2026-11-20T22:33:51.559Z",
+      "sourceId": "0a4a0428f6afd613631f4810f9b9fa9f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pasta-ai-cavoli",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pasta ai cavoli",
+      "link": "https://ricette.giallozafferano.it/Pasta-ai-cavoli.html",
+      "pubDate": "Fri, 20 Nov 2026 16:23:00 +0100",
+      "content": "Pasta ai cavoli Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Pasta ai cavoli /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Seguici Preferiti Difficoltà: Facile Preparazione: 20 min Cottura: 30 min Dosi per: 4 persone Ascolta la ricetta Ascolta su Spreaker. Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti PRESENTAZIONE La pasta ai cavoli è un modo originale e invitante per portare in tavola questi ortaggi, giocando con sapori e consistenze diverse. I fusilli ai ceci vengono avvolti da una crema vellutata di cavolo nero e cavolo cappuccio , morbida e avvolgente, che si sposa alla perfezione con i cavoletti di Bruxelles rosolati in padella. A completare il piatto, il pangrattato tostato al timo e le nocciole aggiungono una piacevole nota croccante e tostata, creando un contrasto irresistibile a ogni boccone. Il risultato è un primo piatto genuino, semplice ma sorprendente, perfetto per valorizzare le verdure di stagione con un tocco di creatività. Scoprite la nostra ricetta della pasta ai cavoli e lasciatevi conquistare da questo incontro di consistenze! Volete provare altre ricette di primi piatti con i cavoli ? Ecco qualche idea: Penne ai cinque cavoli Pasta con il cavolo nero Pasta con cavolfiore Pasta cavolfiore e guanciale Pasta with cabbage Scopri anche Penne ai cinque cavoli Pasta cavolo e pancetta Gnocchi di zucca con Grana Padano, cavolo rosso e speck Sfoglia tutte INGREDIENTI Fusilli ai ceci 320 g Cavoletti di Bruxelles 150 g Parmigiano Reggiano DOP 50 g Nocciole intere spellate 50 g Olio extravergine d'oliva q.b. Sale fino q.b. Pepe nero q.b. per la crema di cavoli Cavolo nero 150 g Cavolo cappuccio 150 g Aglio 1 spicchio Peperoncino fresco 5 g Olio extravergine d'oliva q.b. Sale fino q.b. per il pangrattato tostato Pangrattato 200 g Olio extravergine d'oliva q.b. Timo 3 rametti AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta ai cavoli Per preparare la pasta ai cavoli, sfogliate il cavolo nero, eliminando la costa centrale più dura 1 , poi tagliate grossolanamente le foglie 2 . Affettate finemente anche il cavolo cappuccio 3 . Versate l’olio in una pentola, aggiungete lo spicchio d’aglio in camicia e il peperoncino 4 e lasciate insaporire per qualche minuto. Unite il cavolo cappuccio 5 , poi il cavolo nero 6 e cuocete a fiamma medio-alta per una decina di minuti, mescolando di tanto in tanto. Abbassate la fiamma e salate 7 , quindi eliminate il peperoncino 8 e lo spicchio d’aglio 9 . Aggiungete due mestoli d’acqua 10 e frullate con un mixer a immersione 11 fino a ottenere una crema omogenea, che terrete da parte 12 . Pulite e tagliate i cavoletti di Bruxelles in quarti 13 , poi versateli in una padella antiaderente con un filo d’olio 14 . Saltateli a fiamma molto alta per 3-5 minuti, finché saranno ben rosolati 15 , quindi trasferiteli in una ciotola e teneteli da parte. Nella stessa padella versate un altro filo d’olio e aggiungete il pangrattato 16 . Unite le foglioline di timo fresco 17 e fate tostare a fiamma media per qualche minuto, mescolando spesso, fino a rendere il pangrattato dorato e croccante 18 . Portate a bollore una pentola d’acqua salata e versate la pasta 19 . Nel frattempo tritate grossolanamente le nocciole tostate 20 . Scolate la pasta dopo circa 6-7 minuti, ovvero 3 minuti prima del tempo di cottura indicato, e trasferitela nella pentola con la crema di cavoli 21 per completare la cottura. Aggiungete un po’ d’acqua della pasta 22 e portate a termine la cottura, mescolando e unendo altra acqua se necessario 23 . Spegnete la fiamma e aggiungete i cavoletti di Bruxelles rosolati e un filo d’olio 24 . Unite il Parmigiano grattugiato 25 e una macinata di pepe 26 , poi mantecate bene e aggiustate di sale se necessario. Distribuite la pasta nei piatti 27 . Completate con il pangrattato croccante al timo 28 e le nocciole tostate e tritate 29 , quindi servite la pasta ben calda 30 . Conservazione La pasta ai cavoli si conserva un paio di giorni in frigo. Potete preparare in anticipo la crema di cavoli e conservarla in frigo. Consiglio Per ottenere un pangrattato ancora più croccante, aggiungetelo alla pasta soltanto al momento di servire, così manterrà la sua consistenza e creerà un piacevole contrasto con la crema di cavoli. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Cavolo nero Cavolo cappuccio Timo Aglio Olio di oliva Cavoletti di Bruxelles Peperoncino Parmigiano Reggiano Scopri tutto sugli ingredienti STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Seguici Preferiti SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Penne ai cinque cavoli 2 4.3 Pasta cavolo e pancetta 7 4.3 Gnocchi di zucca con Grana Padano, cavolo rosso e speck 2 4.4 Pasta con il cavolo nero 38 4.1 Pasta con cavolo nero e stracchino 5.0 Fusilli con cavolo nero e pancetta 4 3.8 Pasta con cicerchie e cavolo nero 1 5.0 Pasta con salsiccia e cavolo nero 1 4.5 ULTIME RICETTE Pasta ai cavoli 5.0 Pasta con ceci e carciofi 5.0 Sfoglia croccante mele e yogurt 5.0 SCOPRI Pasta e cavoli al forno Cavolo nero Cavolo cappuccio Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Primi piatti Penne ai cinque cavoli 2 4.3 Le penne ai 5 cavoli sono un primo piatto vegano saporito e colorato, che vi stupirà con il suo allegro girotondo di gusto e consistenze! Vai alla ricetta Primi piatti Pasta cavolo e pancetta 7 4.3 La pasta cavolo e pancetta è un primo piatto gustoso e nutriente con due tipi di cavolo e croccante pancetta. Vai alla ricetta Primi piatti Gnocchi di zucca con Grana Padano, cavolo rosso e speck 2 4.4 Gli gnocchi di zucca con Grana Padano, cavolo rosso e speck sono un primo piatto raffinato, che esalta i sapori e i colori della stagione autunnale. Vai alla ricetta Primi piatti Pasta con il cavolo nero 38 4.1 La pasta col cavolo nero è un primo piatto vegetariano dal gusto deciso, perfetto per chi ama le pietanze nutrienti e genuine. Scopri la ricetta! Vai alla ricetta Primi piatti Pasta con cavolo nero e stracchino 5.0 Pasta con cavolo nero e stracchino: un primo piatto semplice e cremoso, dal gusto autentico, ideale per scaldare le giornate fredde con sapori genuini Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. e all’utilizzo di pixel di tracciamento nelle suddette comunicazioni per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne Si No Prosegui",
+      "slides": [
+        "Pasta cremosa con cavoli e croccante tostato",
+        "Fusilli ceci, cavolo nero, cappuccio, Bruxelles, pangrattato",
+        "Crea crema vellutata di cavoli e rosola cavoletti",
+        "Manteca la pasta con crema, parmigiano e pepe",
+        "Pangrattato al timo e nocciole solo al momento"
+      ],
+      "instagram_caption": "La pasta che fa innamorare anche chi detesta i cavoli 🥬\nFusilli mantecati in una crema vellutata di cavolo nero, cappuccio e Bruxelles, con cavoletti croccanti e una nevicata di pangrattato al timo e nocciole tostate.\nIl segreto? Il croccante va aggiunto solo all'ultimo, così resta scrocchiarello fino al primo boccone.\nCremosa, rustica, confortante: la domenica fatta pasta.\nSalva il post e provala questo weekend 🌿✨",
+      "formats": {
+        "instagram": {
+          "caption": "La pasta che fa innamorare anche chi detesta i cavoli 🥬\nFusilli mantecati in una crema vellutata di cavolo nero, cappuccio e Bruxelles, con cavoletti croccanti e una nevicata di pangrattato al timo e nocciole tostate.\nIl segreto? Il croccante va aggiunto solo all'ultimo, così resta scrocchiarello fino al primo boccone.\nCremosa, rustica, confortante: la domenica fatta pasta.\nSalva il post e provala questo weekend 🌿✨"
+        },
+        "tiktok": {
+          "script": [
+            "Parto dai cavoli: nero, cappuccio e Bruxelles!",
+            "Butto i fusilli con ceci e cavoli in pentola.",
+            "Frullo una crema vellutata e rosolo i cavoletti.",
+            "Manteco con crema, parmigiano e tanto pepe.",
+            "Pangrattato con timo e nocciole, croccante al momento!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "La pasta che ti fa innamorare dei cavoli: cremosa, croccante, con un profumo che riempie la cucina appena apri il forno. Non è la solita pasta invernale. Fidati.",
+            "Fusilli, ceci, cavolo nero, cappuccio e cavoletti di Bruxelles. Tutto in una padella che diventa una crema vellutata. I cavoletti rosolati a parte, belli croccanti, per il contrasto.",
+            "Il gesto chiave: cuoci i cavoli finché non si sfaldano, poi frullali con un mestolo di acqua di cottura. Diventano seta. I cavoletti intanto rosolano fino a doratura.",
+            "Manteca i fusilli nella crema di cavoli con parmigiano e una macinata generosa di pepe. Fuoco spento, mantecatura energica: la pasta deve luccicare, non asciugare.",
+            "Pangrattato al timo e nocciole tostate solo al momento: se lo metti prima, perde il croccante. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Parto dai cavoli: nero, cappuccio e Bruxelles!",
+        "Butto i fusilli con ceci e cavoli in pentola.",
+        "Frullo una crema vellutata e rosolo i cavoletti.",
+        "Manteco con crema, parmigiano e tanto pepe.",
+        "Pangrattato con timo e nocciole, croccante al momento!"
+      ],
+      "thread_text": [
+        "La pasta che ti fa innamorare dei cavoli: cremosa, croccante, con un profumo che riempie la cucina appena apri il forno. Non è la solita pasta invernale. Fidati.",
+        "Fusilli, ceci, cavolo nero, cappuccio e cavoletti di Bruxelles. Tutto in una padella che diventa una crema vellutata. I cavoletti rosolati a parte, belli croccanti, per il contrasto.",
+        "Il gesto chiave: cuoci i cavoli finché non si sfaldano, poi frullali con un mestolo di acqua di cottura. Diventano seta. I cavoletti intanto rosolano fino a doratura.",
+        "Manteca i fusilli nella crema di cavoli con parmigiano e una macinata generosa di pepe. Fuoco spento, mantecatura energica: la pasta deve luccicare, non asciugare.",
+        "Pangrattato al timo e nocciole tostate solo al momento: se lo metti prima, perde il croccante. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pasta ai cavoli, cremosa e croccante",
+          "description": "Un primo piatto avvolgente dove la vellutata di cavoli incontra il croccante del pangrattato alle nocciole.",
+          "visual_hint": "piatto fumante primo piano",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory cabbage pasta"
+        },
+        {
+          "hook": "Cavolo nero, cappuccio e Bruxelles",
+          "description": "Tre cavoli diversi per un sapore profondo, insieme a ceci e fusilli che trattengono la crema.",
+          "visual_hint": "ingredienti crudi disposti",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory kale ingredients",
+          "image": "https://images.pexels.com/photos/6107767/pexels-photo-6107767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "La crema vellutata di cavoli",
+          "description": "Frulla i cavoli con ceci e un filo d'olio fino a ottenere una crema liscia e avvolgente.",
+          "visual_hint": "frullatore crema verde",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory creamy cabbage",
+          "image": "https://images.pexels.com/photos/34326258/pexels-photo-34326258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manteca con parmigiano e pepe",
+          "description": "Salta la pasta nella crema con parmigiano e pepe per un mantecato perfetto e cremoso.",
+          "visual_hint": "mantecatura in padella",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory pasta tossing",
+          "image": "https://images.pexels.com/photos/37406904/pexels-photo-37406904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pangrattato al timo e nocciole",
+          "description": "Completa con una pioggia di pangrattato croccante al momento: il contrasto che fa la differenza.",
+          "visual_hint": "pangrattato sul piatto",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory breadcrumb topping",
+          "image": "https://images.pexels.com/photos/39841848/pexels-photo-39841848.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "cavolo nero",
+        "ceci",
+        "pangrattato"
+      ],
+      "image": "https://www.giallozafferano.it/images/368-36845/Pasta-ai-cavoli_1200x800_wm.jpg",
+      "savedAt": "2026-11-20T22:33:40.574Z",
+      "sourceId": "81237780067d7a40a84df6e9a79e57c7"
+    },
     {
       "schema_version": 2,
       "agent": "food",

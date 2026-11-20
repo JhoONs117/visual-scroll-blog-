@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "anthropic-mathematician-claims-to-have-solved-pres",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+    "pubDate": "2026-11-20T16:34:13.000Z",
+    "slides": [
+      "Can Claude solve a $1M problem Anthropic's own mathematician couldn't?",
+      "The Riemann Hypothesis has stood unproven since 1859",
+      "He says Claude found a promising proof strategy, not a full solution",
+      "Mathematicians must now verify every step — or dismiss it",
+      "Ask your AI one hard open problem this week"
+    ],
+    "thread_text": [
+      "1. $1M Proof by Claude?\n\nAnthropic's own mathematician couldn't crack the Riemann Hypothesis. Claude produced a proof strategy that has mathematicians talking.",
+      "2. 165 Years Unproven\n\nThe Riemann Hypothesis has resisted every proof since 1859. A machine just offered a new angle on the hardest problem in math.",
+      "3. A Strategy, Not Solution\n\nClaude's output is a promising roadmap, not a finished proof. The mathematician is clear: this is a starting point, not a victory.",
+      "4. Verify Every Step\n\nMathematicians now face the grueling task of checking each logical link. One flaw and the entire strategy collapses.",
+      "5. Test Your AI Today\n\nPick one open problem in your field and ask your AI to outline an approach. Then verify every step yourself — you might be surprised."
+    ],
+    "video_script": [
+      "Claude may have cracked a million-dollar math problem.",
+      "The Riemann Hypothesis has been unsolved since 1859.",
+      "Claude found a strategy, not a full proof.",
+      "Mathematicians must verify every single step.",
+      "Ask your AI one hard problem this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $1M Proof by Claude?\n\nAnthropic's own mathematician couldn't crack the Riemann Hypothesis. Claude produced a proof strategy that has mathematicians talking.",
+          "2. 165 Years Unproven\n\nThe Riemann Hypothesis has resisted every proof since 1859. A machine just offered a new angle on the hardest problem in math.",
+          "3. A Strategy, Not Solution\n\nClaude's output is a promising roadmap, not a finished proof. The mathematician is clear: this is a starting point, not a victory.",
+          "4. Verify Every Step\n\nMathematicians now face the grueling task of checking each logical link. One flaw and the entire strategy collapses.",
+          "5. Test Your AI Today\n\nPick one open problem in your field and ask your AI to outline an approach. Then verify every step yourself — you might be surprised."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Claude may have cracked a million-dollar math problem.",
+          "The Riemann Hypothesis has been unsolved since 1859.",
+          "Claude found a strategy, not a full proof.",
+          "Mathematicians must verify every single step.",
+          "Ask your AI one hard problem this week."
+        ]
+      },
+      "instagram": {
+        "caption": "A mathematician at Anthropic says Claude found a proof strategy for the Riemann Hypothesis — a problem unproven since 1859 and worth $1M.\n\nIt's a roadmap, not a finished proof. 🤔\n\nMathematicians still have to verify every logical step, and one flaw collapses the whole thing.\n\nIf you publish or create content, this is your reminder: an AI's \"solution\" means nothing until someone checks it line by line.\n\nSo pick one hard open problem in your field and ask your AI to outline an approach this week. 🔍\n\nWould you trust the output enough to verify it yourself?"
+      }
+    },
+    "instagram_caption": "A mathematician at Anthropic says Claude found a proof strategy for the Riemann Hypothesis — a problem unproven since 1859 and worth $1M.\n\nIt's a roadmap, not a finished proof. 🤔\n\nMathematicians still have to verify every logical step, and one flaw collapses the whole thing.\n\nIf you publish or create content, this is your reminder: an AI's \"solution\" means nothing until someone checks it line by line.\n\nSo pick one hard open problem in your field and ask your AI to outline an approach this week. 🔍\n\nWould you trust the output enough to verify it yourself?",
+    "carousel_slides": [
+      {
+        "hook": "Can Claude solve a $1M problem?",
+        "description": "Anthropic's own mathematician couldn't crack the Riemann Hypothesis. Claude produced a proof strategy that has mathematicians talking.",
+        "visual_hint": "AI brain with math symbols",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "artificial intelligence"
+      },
+      {
+        "hook": "Unproven since 1859",
+        "description": "The Riemann Hypothesis has resisted every proof for 165 years. A machine just offered a new angle on math's hardest problem.",
+        "visual_hint": "old math manuscript",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "old mathematics book",
+        "image": "https://images.pexels.com/photos/4778670/pexels-photo-4778670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "A strategy, not a solution",
+        "description": "Claude's output is a promising roadmap, not a finished proof. The mathematician says this is a starting point.",
+        "visual_hint": "roadmap with checkpoints",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "roadmap diagram",
+        "image": "https://images.pexels.com/photos/7947654/pexels-photo-7947654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Verify every logical step",
+        "description": "Mathematicians must check each logical link. One flaw and the entire strategy collapses.",
+        "visual_hint": "hands checking equations",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands writing math",
+        "image": "https://images.pexels.com/photos/8923996/pexels-photo-8923996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your AI this week",
+        "description": "Pick one open problem in your field and ask your AI to outline an approach. Then verify every step yourself.",
+        "visual_hint": "person typing on laptop",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person using laptop",
+        "image": "https://images.pexels.com/photos/12902986/pexels-photo-12902986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-11-20T22:27:06.066Z",
+    "sourceId": "e7bc21e40b78d9330ceba3db7751df1c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "trump-threatens-tremendous-tax-for-moving-ai-data-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+    "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+    "pubDate": "2026-11-20T18:50:19.000Z",
+    "slides": [
+      "Why would Trump tax companies for building abroad?",
+      "He says AI data centers must stay in America",
+      "Yet US power grids can't handle the demand",
+      "Your AI bill may rise regardless of location",
+      "Watch where the next data center breaks ground"
+    ],
+    "thread_text": [
+      "1. The AI Power Gamble\n\nTrump says data centers must stay in America — but US grids can't handle the demand, and your bill may rise anyway.",
+      "2. Taxing the Builders\n\nHe proposes taxing companies that build abroad, forcing AI infrastructure back home. But what happens when the power isn't there?",
+      "3. The Grid Stops Here\n\nEven if data centers stay, US power grids are already strained. Blackouts and rate hikes are on the table.",
+      "4. Your Bill, No Matter What\n\nEnergy costs get passed to consumers. Location won't shield your wallet from the AI boom.",
+      "5. Watch the Groundbreaking\n\nNext time a data center breaks ground, check the grid. Does it make sense to pay more for AI if the lights go out?"
+    ],
+    "video_script": [
+      "Trump wants AI data centers built in America.",
+      "He'd tax companies that build abroad.",
+      "But US power grids can't handle the demand.",
+      "Your AI bill may rise no matter what.",
+      "Watch where the next data center breaks ground."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The AI Power Gamble\n\nTrump says data centers must stay in America — but US grids can't handle the demand, and your bill may rise anyway.",
+          "2. Taxing the Builders\n\nHe proposes taxing companies that build abroad, forcing AI infrastructure back home. But what happens when the power isn't there?",
+          "3. The Grid Stops Here\n\nEven if data centers stay, US power grids are already strained. Blackouts and rate hikes are on the table.",
+          "4. Your Bill, No Matter What\n\nEnergy costs get passed to consumers. Location won't shield your wallet from the AI boom.",
+          "5. Watch the Groundbreaking\n\nNext time a data center breaks ground, check the grid. Does it make sense to pay more for AI if the lights go out?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Trump wants AI data centers built in America.",
+          "He'd tax companies that build abroad.",
+          "But US power grids can't handle the demand.",
+          "Your AI bill may rise no matter what.",
+          "Watch where the next data center breaks ground."
+        ]
+      },
+      "instagram": {
+        "caption": "Trump wants to tax companies that build AI data centers abroad and force them back to the US.\n\nHe says the infrastructure must stay in America, but US power grids already can't handle the demand.\n\nEven if the data centers stay, strained grids mean blackouts and higher energy bills.\n\nYour AI costs get passed down to you no matter where the servers sit ⚡\n\nNext time a data center breaks ground near you, would you check if the grid can actually take it? 🔌"
+      }
+    },
+    "instagram_caption": "Trump wants to tax companies that build AI data centers abroad and force them back to the US.\n\nHe says the infrastructure must stay in America, but US power grids already can't handle the demand.\n\nEven if the data centers stay, strained grids mean blackouts and higher energy bills.\n\nYour AI costs get passed down to you no matter where the servers sit ⚡\n\nNext time a data center breaks ground near you, would you check if the grid can actually take it? 🔌",
+    "carousel_slides": [
+      {
+        "hook": "Can US power grids handle AI?",
+        "description": "Trump says data centers must stay in America, but US grids can't handle the demand, so blackouts and rate hikes loom.",
+        "visual_hint": "Power lines over data center",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "power lines"
+      },
+      {
+        "hook": "Trump's tax on overseas AI builds",
+        "description": "He proposes taxing companies that build data centers abroad, forcing AI infrastructure back home, but where's the power?",
+        "visual_hint": "Trump speaking at rally",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "Donald Trump",
+        "image": "https://images.pexels.com/photos/4108506/pexels-photo-4108506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Even if data centers stay, grid strains",
+        "description": "US power grids are already strained; keeping AI data centers here could cause blackouts and higher electricity rates.",
+        "visual_hint": "Electrical grid tower close-up",
+        "layout_type": "sensor-zoom",
+        "icon": "waves",
+        "image_query": "electrical grid",
+        "image": "https://images.pexels.com/photos/33041841/pexels-photo-33041841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your energy bill rises no matter what",
+        "description": "Energy costs get passed to consumers, so your AI bill may rise regardless of where data centers are built.",
+        "visual_hint": "Hand holding electricity bill",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "image_query": "utility bill",
+        "image": "https://images.pexels.com/photos/7927396/pexels-photo-7927396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: watch where AI breaks ground",
+        "description": "Next time a data center breaks ground, check the grid. Save this post to stay informed.",
+        "visual_hint": "Data center construction site",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "data center construction",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+    "savedAt": "2026-11-20T22:26:58.111Z",
+    "sourceId": "b44ab066f64c7bf4520fbd30393b9555"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "canva-adds-an-ai-off-button",
     "prompt_version": "1.0.0",
     "status": "published",
