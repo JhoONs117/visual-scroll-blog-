@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "signal-is-blocking-gemini-and-siri-ai-from-reading",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+  "pubDate": "2026-11-20T12:30:47.000Z",
+  "slides": [
+    "Why is Signal blocking Gemini and Siri from your screen?",
+    "Google's AI tools scan on-screen content for context",
+    "Signal claims those scans capture encrypted chats unprotected",
+    "iPhone users using Gemini extensions lose Signal's privacy promise",
+    "Check your AI screen-access settings before enabling extensions"
+  ],
+  "thread_text": [
+    "1. Your private chats exposed\n\nSignal says Google's screen-reading tools can grab content from encrypted conversations. The problem starts the moment you enable an AI extension.",
+    "2. How the scanning works\n\nGemini and Siri read what's on your display to build context for answers. That includes anything visible in the Signal app.",
+    "3. The encryption gap\n\nSignal encrypts messages in transit, but once they're rendered on screen, they're just text. The AI scanner sees them as readable content.",
+    "4. iPhone users at risk\n\nIf you use Gemini extensions on iOS, Signal warns your privacy promise no longer holds. The protection you assumed is quietly gone.",
+    "5. Check your settings now\n\nOpen your AI assistant's extension settings and disable screen access for messaging apps. Do it before your next private conversation."
+  ],
+  "video_script": [
+    "Signal says AI tools can read your private chats.",
+    "Gemini and Siri scan your screen for context.",
+    "Encrypted messages appear as plain text on screen.",
+    "iPhone users with AI extensions lose that protection.",
+    "Turn off screen access for messaging apps today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your private chats exposed\n\nSignal says Google's screen-reading tools can grab content from encrypted conversations. The problem starts the moment you enable an AI extension.",
+        "2. How the scanning works\n\nGemini and Siri read what's on your display to build context for answers. That includes anything visible in the Signal app.",
+        "3. The encryption gap\n\nSignal encrypts messages in transit, but once they're rendered on screen, they're just text. The AI scanner sees them as readable content.",
+        "4. iPhone users at risk\n\nIf you use Gemini extensions on iOS, Signal warns your privacy promise no longer holds. The protection you assumed is quietly gone.",
+        "5. Check your settings now\n\nOpen your AI assistant's extension settings and disable screen access for messaging apps. Do it before your next private conversation."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Signal says AI tools can read your private chats.",
+        "Gemini and Siri scan your screen for context.",
+        "Encrypted messages appear as plain text on screen.",
+        "iPhone users with AI extensions lose that protection.",
+        "Turn off screen access for messaging apps today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your encrypted Signal chats are readable by Gemini and Siri the moment you enable an AI extension on your phone 🔓\n\nGoogle's AI tools scan whatever is on your screen to build context for answers, and that includes anything visible inside Signal.\n\nSignal says once messages are rendered on screen, they're just text — the encryption no longer protects them.\n\nOn iPhone, using Gemini extensions means Signal's privacy promise quietly stops applying to you.\n\nIf you handle sensitive conversations on your phone, open your AI assistant's extension settings and turn off screen access for messaging apps before your next chat 👇\n\nDid you know your AI assistant could already be reading your private messages?"
+    }
+  },
+  "instagram_caption": "Your encrypted Signal chats are readable by Gemini and Siri the moment you enable an AI extension on your phone 🔓\n\nGoogle's AI tools scan whatever is on your screen to build context for answers, and that includes anything visible inside Signal.\n\nSignal says once messages are rendered on screen, they're just text — the encryption no longer protects them.\n\nOn iPhone, using Gemini extensions means Signal's privacy promise quietly stops applying to you.\n\nIf you handle sensitive conversations on your phone, open your AI assistant's extension settings and turn off screen access for messaging apps before your next chat 👇\n\nDid you know your AI assistant could already be reading your private messages?",
+  "carousel_slides": [
+    {
+      "hook": "Is your private chat truly safe?",
+      "description": "Signal warns that AI screen readers can access encrypted chats once displayed, exposing your private conversations.",
+      "visual_hint": "Smartphone screen with chat bubbles",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone chat"
+    },
+    {
+      "hook": "AI scans your screen for context",
+      "description": "Gemini and Siri read on-screen content, including Signal messages, to build context for answers.",
+      "visual_hint": "AI scanning smartphone display",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "AI scanning phone",
+      "image": "https://images.pexels.com/photos/8372635/pexels-photo-8372635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Encryption ends at the screen",
+      "description": "Signal encrypts messages in transit, but once rendered, AI scanners see them as readable text.",
+      "visual_hint": "Lock icon over message text",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "encryption lock smartphone",
+      "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "iPhone users lose privacy promise",
+      "description": "Using Gemini extensions on iOS breaks Signal's privacy guarantee, leaving your chats exposed.",
+      "visual_hint": "iPhone with warning notification",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "iPhone warning screen",
+      "image": "https://images.pexels.com/photos/19400413/pexels-photo-19400413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your AI settings now",
+      "description": "Disable screen access for messaging apps in your AI assistant's settings before your next private chat.",
+      "visual_hint": "Settings menu with toggle off",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone settings menu",
+      "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&amp;strip=all&amp;crop=0%2C3.8035109331691%2C100%2C92.392978133662&amp;w=1200",
+  "savedAt": "2026-11-21T04:54:21.669Z",
+  "sourceId": "da5d0e9421737f2d84ed5c4fa739c3bc"
+}
