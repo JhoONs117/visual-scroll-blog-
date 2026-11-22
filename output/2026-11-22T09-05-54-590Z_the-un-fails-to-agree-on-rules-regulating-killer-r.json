@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-un-fails-to-agree-on-rules-regulating-killer-r",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The UN fails to agree on rules regulating ‘killer robots’",
+  "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+  "pubDate": "2026-11-21T20:03:37.000Z",
+  "slides": [
+    "Why can't the UN stop killer robots?",
+    "Talks collapsed without a binding treaty",
+    "Autonomous weapons already deploy in conflicts",
+    "Your country may face no legal constraints",
+    "Push for national bans before deployment spreads"
+  ],
+  "thread_text": [
+    "1. Killer Robots: No UN Fix\n\nUN talks on autonomous weapons collapsed without a binding treaty, leaving a legal void as killer robots spread.",
+    "2. Treaty Talks Collapse\n\nNations failed to agree on limits for lethal autonomous systems, so there's no international law to stop them.",
+    "3. Robots Already Fighting\n\nAutonomous weapons are deployed in current conflicts, making decisions without human control.",
+    "4. Your Country's Loophole\n\nWithout a treaty, many nations face no legal constraints on developing or using killer robots.",
+    "5. Push for National Bans\n\nDemand your government support a ban on autonomous weapons before they become ubiquitous. Ask your representative: where do you stand?"
+  ],
+  "video_script": [
+    "The UN tried to stop killer robots. It failed.",
+    "Talks collapsed. No binding treaty was signed.",
+    "Autonomous weapons are already deployed in conflicts today.",
+    "Your country may face no legal limits on them.",
+    "Push for national bans before deployment spreads."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Killer Robots: No UN Fix\n\nUN talks on autonomous weapons collapsed without a binding treaty, leaving a legal void as killer robots spread.",
+        "2. Treaty Talks Collapse\n\nNations failed to agree on limits for lethal autonomous systems, so there's no international law to stop them.",
+        "3. Robots Already Fighting\n\nAutonomous weapons are deployed in current conflicts, making decisions without human control.",
+        "4. Your Country's Loophole\n\nWithout a treaty, many nations face no legal constraints on developing or using killer robots.",
+        "5. Push for National Bans\n\nDemand your government support a ban on autonomous weapons before they become ubiquitous. Ask your representative: where do you stand?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "The UN tried to stop killer robots. It failed.",
+        "Talks collapsed. No binding treaty was signed.",
+        "Autonomous weapons are already deployed in conflicts today.",
+        "Your country may face no legal limits on them.",
+        "Push for national bans before deployment spreads."
+      ]
+    },
+    "instagram": {
+      "caption": "UN talks on killer robots just collapsed without a treaty — so nothing in international law stops autonomous weapons from spreading.\n\nNations couldn't agree on limits for lethal autonomous systems. No binding rules means no legal ceiling.\n\nThese weapons are already deployed in real conflicts, picking targets without human control 🚨\n\nWithout a treaty, your country may face zero legal constraints on building or using them.\n\nThat legal void shapes the tools and defense debate you'll see in your feed for years.\n\nAsk your representative one thing: where do you stand on a national ban on autonomous weapons? 🤖"
+    }
+  },
+  "instagram_caption": "UN talks on killer robots just collapsed without a treaty — so nothing in international law stops autonomous weapons from spreading.\n\nNations couldn't agree on limits for lethal autonomous systems. No binding rules means no legal ceiling.\n\nThese weapons are already deployed in real conflicts, picking targets without human control 🚨\n\nWithout a treaty, your country may face zero legal constraints on building or using them.\n\nThat legal void shapes the tools and defense debate you'll see in your feed for years.\n\nAsk your representative one thing: where do you stand on a national ban on autonomous weapons? 🤖",
+  "carousel_slides": [
+    {
+      "hook": "Killer robots decide without human control",
+      "description": "Autonomous weapons are already deployed in conflicts, making lethal decisions without human oversight.",
+      "visual_hint": "Autonomous drone hovering over battlefield",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "autonomous drone"
+    },
+    {
+      "hook": "UN talks collapse without a treaty",
+      "description": "Nations failed to agree on limits for lethal autonomous systems, leaving no international law to stop them.",
+      "visual_hint": "Empty negotiation table at UN",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "United Nations building",
+      "image": "https://images.pexels.com/photos/36290473/pexels-photo-36290473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Robots already fighting in current conflicts",
+      "description": "Autonomous weapons are actively used in war zones, selecting and engaging targets without human intervention.",
+      "visual_hint": "Armed drone flying over destroyed city",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "military drone",
+      "image": "https://images.pexels.com/photos/35846432/pexels-photo-35846432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your country may face no legal constraints",
+      "description": "Without a binding treaty, many nations can develop and deploy killer robots without legal repercussions.",
+      "visual_hint": "World map with highlighted countries",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "world map",
+      "image": "https://images.pexels.com/photos/4406813/pexels-photo-4406813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demand a national ban now",
+      "description": "Ask your representative where they stand on banning autonomous weapons before they spread further.",
+      "visual_hint": "Person holding protest sign",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "protest sign",
+      "image": "https://images.pexels.com/photos/11421067/pexels-photo-11421067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&amp;strip=all&amp;crop=0%2C11.089604074363%2C100%2C77.820791851273&amp;w=1200",
+  "savedAt": "2026-11-22T09:06:05.166Z",
+  "sourceId": "0a2e9e2641fc4aa3c0356be5c9099921"
+}
