@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "binding-of-isaac-developer-removes-ai-music-from-r",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+    "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+    "pubDate": "2026-11-22T17:25:20.000Z",
+    "slides": [
+      "Why did Binding of Isaac's dev pull its new music?",
+      "Repentance Plus shipped with an AI-generated soundtrack",
+      "The composer credit was quietly missing at launch",
+      "Players who bought the DLC got tracks nobody stands behind",
+      "Check what you're paying for before the next patch drops"
+    ],
+    "thread_text": [
+      "1. AI tracks in Isaac DLC\n\nRepentance Plus shipped with an AI-generated soundtrack, and players who bought the DLC got music no one stands behind.",
+      "2. Composer credit vanished\n\nAt launch, the composer credit was quietly missing — no public explanation, no name attached to the new tracks.",
+      "3. Dev pulled the music\n\nBinding of Isaac's developer removed the AI soundtrack after backlash, leaving buyers with tracks that may never return.",
+      "4. You paid for what?\n\nDLC buyers got AI-generated music that wasn't disclosed upfront — and now the tracks are gone.",
+      "5. Check before you buy\n\nBefore the next patch drops, check what's actually in the DLC. Does the store page list a composer? Start there."
+    ],
+    "video_script": [
+      "Binding of Isaac's new DLC shipped with AI-generated music.",
+      "The composer credit was missing at launch — quietly.",
+      "The dev pulled the soundtrack after players found out.",
+      "Buyers paid for tracks nobody stands behind.",
+      "Check what you're paying for before the next patch."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI tracks in Isaac DLC\n\nRepentance Plus shipped with an AI-generated soundtrack, and players who bought the DLC got music no one stands behind.",
+          "2. Composer credit vanished\n\nAt launch, the composer credit was quietly missing — no public explanation, no name attached to the new tracks.",
+          "3. Dev pulled the music\n\nBinding of Isaac's developer removed the AI soundtrack after backlash, leaving buyers with tracks that may never return.",
+          "4. You paid for what?\n\nDLC buyers got AI-generated music that wasn't disclosed upfront — and now the tracks are gone.",
+          "5. Check before you buy\n\nBefore the next patch drops, check what's actually in the DLC. Does the store page list a composer? Start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Binding of Isaac's new DLC shipped with AI-generated music.",
+          "The composer credit was missing at launch — quietly.",
+          "The dev pulled the soundtrack after players found out.",
+          "Buyers paid for tracks nobody stands behind.",
+          "Check what you're paying for before the next patch."
+        ]
+      },
+      "instagram": {
+        "caption": "You bought the Repentance Plus DLC and got a soundtrack nobody will put their name on.\n\nThe Binding of Isaac developer shipped the expansion with AI-generated music. 🎮\n\nAt launch, the composer credit was quietly missing — no name, no explanation.\n\nAfter backlash, the dev pulled the tracks entirely, leaving buyers with music that may never come back.\n\nIf you publish or sell content, check the credits before you pay: does the store page list a composer? Start there. 🔍\n\nWould you still buy a DLC that hides how its music was made? 🎵"
+      }
+    },
+    "instagram_caption": "You bought the Repentance Plus DLC and got a soundtrack nobody will put their name on.\n\nThe Binding of Isaac developer shipped the expansion with AI-generated music. 🎮\n\nAt launch, the composer credit was quietly missing — no name, no explanation.\n\nAfter backlash, the dev pulled the tracks entirely, leaving buyers with music that may never come back.\n\nIf you publish or sell content, check the credits before you pay: does the store page list a composer? Start there. 🔍\n\nWould you still buy a DLC that hides how its music was made? 🎵",
+    "carousel_slides": [
+      {
+        "hook": "Did you pay for fake music?",
+        "description": "Repentance Plus shipped with an AI-generated soundtrack, leaving buyers with music no composer stands behind.",
+        "visual_hint": "Close-up of vinyl record with glitch effect",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "vinyl record"
+      },
+      {
+        "hook": "Composer credit silently vanished",
+        "description": "At launch, the composer credit was quietly missing—no public explanation, no name attached to the new tracks.",
+        "visual_hint": "Blank credit screen with missing name",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "game credits screen",
+        "image": "https://images.pexels.com/photos/31379653/pexels-photo-31379653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Dev pulls AI soundtrack after backlash",
+        "description": "Binding of Isaac's developer removed the AI music, leaving DLC buyers with tracks that may never return.",
+        "visual_hint": "Developer deleting audio files on computer",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer screen code",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "You paid for undisclosed AI music",
+        "description": "DLC buyers got AI-generated tracks that weren't disclosed upfront—and now those tracks are gone entirely.",
+        "visual_hint": "Hand holding DLC receipt with AI stamp",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "receipt paper hand",
+        "image": "https://images.pexels.com/photos/13431686/pexels-photo-13431686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before the next patch!",
+        "description": "Before the next patch drops, check the store page for a listed composer—start there.",
+        "visual_hint": "Store page with composer field highlighted",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "online store page",
+        "image": "https://images.pexels.com/photos/6608880/pexels-photo-6608880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "savedAt": "2026-11-22T17:30:49.813Z",
+    "sourceId": "cf3322b3a4602d726cf0e81e683d577c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "the-un-fails-to-agree-on-rules-regulating-killer-r",
     "prompt_version": "1.0.0",
     "status": "published",
