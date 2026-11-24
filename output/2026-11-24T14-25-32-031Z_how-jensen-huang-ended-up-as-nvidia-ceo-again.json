@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "how-jensen-huang-ended-up-as-nvidia-ceo-again",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "How Jensen Huang ended up as Nvidia CEO again",
+  "link": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+  "pubDate": "2026-11-23T19:57:18.000Z",
+  "slides": [
+    "Why did Jensen Huang return as Nvidia CEO?",
+    "He co-founded Nvidia in 1993 and led it until 2024.",
+    "He stepped down in 2024, then returned in 2025.",
+    "His return signals a major strategic pivot for Nvidia.",
+    "Watch for Nvidia's next move under Huang's renewed leadership."
+  ],
+  "thread_text": [
+    "1. The CEO Who Left and Came Back\n\nJensen Huang co-founded Nvidia in 1993 and led it until 2024, then returned in 2025. His comeback signals a major strategic pivot for the company.",
+    "2. A Year of Change at the Top\n\nHuang stepped down in 2024, only to return in 2025. The quick exit and re-entry raise questions about Nvidia's direction.",
+    "3. What Prompted the Return?\n\nSources say internal pressure and shifting market dynamics forced the board to bring back the founder. No official reason has been given.",
+    "4. Nvidia's Next Move Under Huang\n\nWith Huang back, expect a sharper focus on AI dominance and possibly a reorg. Competitors are watching closely.",
+    "5. Are You Ready for the Pivot?\n\nIf you follow Nvidia, ask yourself: does Huang's return make you more or less confident in their AI roadmap? Test your thesis with a simple portfolio check this week."
+  ],
+  "video_script": [
+    "Jensen Huang co-founded Nvidia in 1993 and led it until 2024.",
+    "He stepped down in 2024, then returned in 2025.",
+    "His return signals a major strategic pivot for Nvidia.",
+    "Watch for Nvidia's next move under Huang's renewed leadership.",
+    "Are you ready for the pivot?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The CEO Who Left and Came Back\n\nJensen Huang co-founded Nvidia in 1993 and led it until 2024, then returned in 2025. His comeback signals a major strategic pivot for the company.",
+        "2. A Year of Change at the Top\n\nHuang stepped down in 2024, only to return in 2025. The quick exit and re-entry raise questions about Nvidia's direction.",
+        "3. What Prompted the Return?\n\nSources say internal pressure and shifting market dynamics forced the board to bring back the founder. No official reason has been given.",
+        "4. Nvidia's Next Move Under Huang\n\nWith Huang back, expect a sharper focus on AI dominance and possibly a reorg. Competitors are watching closely.",
+        "5. Are You Ready for the Pivot?\n\nIf you follow Nvidia, ask yourself: does Huang's return make you more or less confident in their AI roadmap? Test your thesis with a simple portfolio check this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Jensen Huang co-founded Nvidia in 1993 and led it until 2024.",
+        "He stepped down in 2024, then returned in 2025.",
+        "His return signals a major strategic pivot for Nvidia.",
+        "Watch for Nvidia's next move under Huang's renewed leadership.",
+        "Are you ready for the pivot?"
+      ]
+    },
+    "instagram": {
+      "caption": "Jensen Huang co-founded Nvidia in 1993, led it until 2024, stepped down, then returned as CEO in 2025.\n\nHis quick exit and re-entry raise questions about the company's direction. 🔄\n\nSources say internal pressure and shifting market dynamics pushed the board to bring back the founder. No official reason has been given.\n\nWith Huang back, expect a sharper focus on AI dominance and possibly a reorg. 👀\n\nIf you build or publish with Nvidia tools, check whether your roadmap assumptions still hold under the new leadership.\n\nDoes his return make you more or less confident in Nvidia's AI roadmap? 🤔"
+    }
+  },
+  "instagram_caption": "Jensen Huang co-founded Nvidia in 1993, led it until 2024, stepped down, then returned as CEO in 2025.\n\nHis quick exit and re-entry raise questions about the company's direction. 🔄\n\nSources say internal pressure and shifting market dynamics pushed the board to bring back the founder. No official reason has been given.\n\nWith Huang back, expect a sharper focus on AI dominance and possibly a reorg. 👀\n\nIf you build or publish with Nvidia tools, check whether your roadmap assumptions still hold under the new leadership.\n\nDoes his return make you more or less confident in Nvidia's AI roadmap? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "He Left in 2024, Back in 2025?",
+      "description": "Jensen Huang stepped down in 2024 and returned in 2025, a rapid exit and re-entry that raises questions about Nvidia's direction.",
+      "visual_hint": "Empty CEO chair with spotlight",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "empty office chair"
+    },
+    {
+      "hook": "The Founder Who Couldn't Stay Away",
+      "description": "Huang co-founded Nvidia in 1993 and led it until 2024. His return signals a major strategic pivot for the company.",
+      "visual_hint": "Old photo of Nvidia founders",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "vintage computer",
+      "image": "https://images.pexels.com/photos/37148219/pexels-photo-37148219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pressure Behind the Comeback",
+      "description": "Sources say internal pressure and shifting market dynamics forced the board to bring back the founder. No official reason has been given.",
+      "visual_hint": "Boardroom meeting with tension",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "corporate boardroom",
+      "image": "https://images.pexels.com/photos/6949365/pexels-photo-6949365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Sharper Focus on AI Dominance",
+      "description": "With Huang back, expect a sharper focus on AI dominance and possibly a reorg. Competitors are watching closely.",
+      "visual_hint": "AI chip with glowing circuits",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "AI chip",
+      "image": "https://images.pexels.com/photos/25630341/pexels-photo-25630341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save This for Your Portfolio Check",
+      "description": "Ask yourself: does Huang's return make you more or less confident in Nvidia's AI roadmap? Test your thesis this week.",
+      "visual_hint": "Portfolio chart on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_04.jpg?quality=90&amp;strip=all&amp;crop=0%2C11.076427579259%2C100%2C77.847144841482&amp;w=1200",
+  "savedAt": "2026-11-24T14:25:41.286Z",
+  "sourceId": "3a133cd71ed5b67b6e2fd1f265c5a431"
+}
