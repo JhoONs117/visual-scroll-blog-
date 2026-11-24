@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-data-centers-throw-another-wrench-into-chaotic-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI data centers throw another wrench into chaotic UN climate talks",
+  "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+  "pubDate": "2026-11-23T21:09:37.000Z",
+  "slides": [
+    "Can AI data centers derail the UN climate talks?",
+    "Negotiators weigh emissions from a booming industry",
+    "But those same data centers could power clean grids",
+    "Your energy bills may rise before any treaty lands",
+    "Ask one AI firm: how much water does it use?"
+  ],
+  "thread_text": [
+    "1. The AI energy bill nobody voted for\n\nUN climate negotiators are now debating emissions from AI data centers. Meanwhile, those same facilities could delay grid upgrades your household pays for.",
+    "2. Two-faced data centers\n\nThey could power clean grids with flexible demand. But the upside only arrives if operators share real numbers — and right now most don't.",
+    "3. The treaty won't lower your bill\n\nEnergy costs will rise before any climate agreement lands. The data center boom is already driving up local utility rates in some regions.",
+    "4. Water is the hidden cost\n\nCooling AI servers consumes millions of gallons daily. Ask one AI firm how much water it uses — most won't give a straight answer.",
+    "5. Check your utility's next rate case\n\nLook up the next public hearing on data center power requests in your area. If you haven't done it, start there."
+  ],
+  "video_script": [
+    "AI data centers just entered UN climate talks.",
+    "They could help clean grids or delay them.",
+    "Your energy bill may rise before any treaty.",
+    "Ask one AI firm how much water it uses.",
+    "Check your utility's next rate case hearing."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The AI energy bill nobody voted for\n\nUN climate negotiators are now debating emissions from AI data centers. Meanwhile, those same facilities could delay grid upgrades your household pays for.",
+        "2. Two-faced data centers\n\nThey could power clean grids with flexible demand. But the upside only arrives if operators share real numbers — and right now most don't.",
+        "3. The treaty won't lower your bill\n\nEnergy costs will rise before any climate agreement lands. The data center boom is already driving up local utility rates in some regions.",
+        "4. Water is the hidden cost\n\nCooling AI servers consumes millions of gallons daily. Ask one AI firm how much water it uses — most won't give a straight answer.",
+        "5. Check your utility's next rate case\n\nLook up the next public hearing on data center power requests in your area. If you haven't done it, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI data centers just entered UN climate talks.",
+        "They could help clean grids or delay them.",
+        "Your energy bill may rise before any treaty.",
+        "Ask one AI firm how much water it uses.",
+        "Check your utility's next rate case hearing."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next utility bill may go up before any UN climate treaty is signed.\n\nNegotiators are now debating emissions from AI data centers ⚡ and the boom is already driving up local rates in some regions.\n\nThose same facilities could support clean grids, but only if operators share real numbers.\n\nMost won't say how much water their cooling uses 💧 even as millions of gallons go down daily.\n\nIf you publish or create for a living, energy costs are quietly eating into your margins while the debate drags on.\n\nHave you checked your utility's next public hearing on data center power requests? 🔍"
+    }
+  },
+  "instagram_caption": "Your next utility bill may go up before any UN climate treaty is signed.\n\nNegotiators are now debating emissions from AI data centers ⚡ and the boom is already driving up local rates in some regions.\n\nThose same facilities could support clean grids, but only if operators share real numbers.\n\nMost won't say how much water their cooling uses 💧 even as millions of gallons go down daily.\n\nIf you publish or create for a living, energy costs are quietly eating into your margins while the debate drags on.\n\nHave you checked your utility's next public hearing on data center power requests? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Can AI data centers derail climate talks?",
+      "description": "Negotiators now debate emissions from AI data centers, but most operators refuse to share real numbers.",
+      "visual_hint": "UN conference room with empty seats",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "UN conference room"
+    },
+    {
+      "hook": "Data centers: two-faced climate players",
+      "description": "They could power clean grids with flexible demand, but the upside only arrives if operators share real numbers.",
+      "visual_hint": "Split image of data center and wind turbine",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center exterior",
+      "image": "https://images.pexels.com/photos/11043713/pexels-photo-11043713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your energy bill rises before any treaty",
+      "description": "The data center boom is already driving up local utility rates in some regions, ahead of any climate agreement.",
+      "visual_hint": "Utility bill with rising graph arrow",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "electricity meter",
+      "image": "https://images.pexels.com/photos/32549020/pexels-photo-32549020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Water: the hidden cost of AI",
+      "description": "Cooling AI servers consumes millions of gallons daily, yet most firms won't give a straight answer on usage.",
+      "visual_hint": "Cooling towers with water vapor",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "cooling tower",
+      "image": "https://images.pexels.com/photos/13395142/pexels-photo-13395142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: check your utility's next rate case",
+      "description": "Look up the next public hearing on data center power requests in your area and attend or comment.",
+      "visual_hint": "Public hearing notice on bulletin board",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "public hearing",
+      "image": "https://images.pexels.com/photos/6949864/pexels-photo-6949864.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306098413.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.750882913364%2C100%2C78.498234173273&amp;w=1200",
+  "savedAt": "2026-11-24T03:38:54.392Z",
+  "sourceId": "1fb8ee564e2e33a7262ec937c9801937"
+}

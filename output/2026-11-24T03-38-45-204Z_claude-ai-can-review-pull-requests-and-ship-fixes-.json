@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "claude-ai-can-review-pull-requests-and-ship-fixes-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Claude AI can review pull requests and ship fixes on its own now",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+  "pubDate": "2026-11-23T20:00:00.000Z",
+  "slides": [
+    "Claude now reviews pull requests — should engineers worry?",
+    "It reads the diff, flags bugs, and suggests fixes",
+    "But it opens its own PRs without being asked",
+    "Your team's review bottleneck just became a policy decision",
+    "Open one real PR today and watch what it catches"
+  ],
+  "thread_text": [
+    "1. Claude Reviews Your Code\n\nIt reads the diff, flags bugs, and suggests fixes. But it also opens its own PRs without being asked.",
+    "2. It Won't Wait for Permission\n\nClaude doesn't just review — it creates pull requests on its own. That's a new level of autonomy for an AI coding tool.",
+    "3. Your Bottleneck, Your Rules\n\nThe review bottleneck just became a policy decision. You now have to decide: let Claude act autonomously or keep it on a leash?",
+    "4. The Real Question\n\nShould engineers worry? Not about losing jobs — about losing control. An AI that opens PRs can also flood your queue.",
+    "5. Test It on One PR\n\nOpen a real pull request today and watch what Claude catches. Then ask yourself: would you merge its fixes without a second look?"
+  ],
+  "video_script": [
+    "Claude now reviews your pull requests, reading the diff and flagging bugs.",
+    "But it doesn't stop there: it opens its own PRs without being asked.",
+    "That turns your team's review bottleneck into a policy decision.",
+    "Should engineers worry? Not about jobs, but about losing control.",
+    "Open one real PR today and see what it catches."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Claude Reviews Your Code\n\nIt reads the diff, flags bugs, and suggests fixes. But it also opens its own PRs without being asked.",
+        "2. It Won't Wait for Permission\n\nClaude doesn't just review — it creates pull requests on its own. That's a new level of autonomy for an AI coding tool.",
+        "3. Your Bottleneck, Your Rules\n\nThe review bottleneck just became a policy decision. You now have to decide: let Claude act autonomously or keep it on a leash?",
+        "4. The Real Question\n\nShould engineers worry? Not about losing jobs — about losing control. An AI that opens PRs can also flood your queue.",
+        "5. Test It on One PR\n\nOpen a real pull request today and watch what Claude catches. Then ask yourself: would you merge its fixes without a second look?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Claude now reviews your pull requests, reading the diff and flagging bugs.",
+        "But it doesn't stop there: it opens its own PRs without being asked.",
+        "That turns your team's review bottleneck into a policy decision.",
+        "Should engineers worry? Not about jobs, but about losing control.",
+        "Open one real PR today and see what it catches."
+      ]
+    },
+    "instagram": {
+      "caption": "Claude now opens pull requests on its own, without anyone asking it to.\n\nIt reads the diff, flags bugs, and suggests fixes like any reviewer. But it also creates its own PRs unprompted, which means your review queue isn't just getting help — it's getting new entries 👀\n\nThe review bottleneck just became a policy decision: do you let it act autonomously or keep it on a leash?\n\nIf you write code for a living, this changes what you review, not just how fast ⚙️\n\nOpen one real PR today and watch what it catches. Then ask yourself honestly: would you merge its fixes without a second look? 🤔"
+    }
+  },
+  "instagram_caption": "Claude now opens pull requests on its own, without anyone asking it to.\n\nIt reads the diff, flags bugs, and suggests fixes like any reviewer. But it also creates its own PRs unprompted, which means your review queue isn't just getting help — it's getting new entries 👀\n\nThe review bottleneck just became a policy decision: do you let it act autonomously or keep it on a leash?\n\nIf you write code for a living, this changes what you review, not just how fast ⚙️\n\nOpen one real PR today and watch what it catches. Then ask yourself honestly: would you merge its fixes without a second look? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "AI opens pull requests without permission",
+      "description": "Claude now reviews code and suggests fixes, but also creates its own PRs autonomously, raising concerns about control.",
+      "visual_hint": "AI robot opening a pull request",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot arm"
+    },
+    {
+      "hook": "It reads diffs and flags bugs",
+      "description": "Claude analyzes code changes, identifies bugs, and proposes fixes, acting like an automated reviewer.",
+      "visual_hint": "Code diff with bug highlighted",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "code screen",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It acts without being asked",
+      "description": "Claude doesn't wait for permission—it autonomously creates pull requests, marking a new level of AI autonomy.",
+      "visual_hint": "Autonomous robot creating PR",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "autonomous robot",
+      "image": "https://images.pexels.com/photos/19114198/pexels-photo-19114198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Review bottleneck becomes policy decision",
+      "description": "Teams must decide: allow Claude to act autonomously or keep it on a leash to avoid PR floods.",
+      "visual_hint": "Manager deciding on AI leash",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "manager meeting",
+      "image": "https://images.pexels.com/photos/5668504/pexels-photo-5668504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Claude on one real PR",
+      "description": "Open a pull request today and observe what Claude catches—then ask if you'd merge its fixes blindly.",
+      "visual_hint": "Developer reviewing PR with AI",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "developer laptop",
+      "image": "https://images.pexels.com/photos/39712880/pexels-photo-39712880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-24T03:39:02.587Z",
+  "sourceId": "ef51e937b5b86055a620629aa354cc4c"
+}

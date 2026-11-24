@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "claude-ai-can-review-pull-requests-and-ship-fixes-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Claude AI can review pull requests and ship fixes on its own now",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+    "pubDate": "2026-11-23T20:00:00.000Z",
+    "slides": [
+      "Claude now reviews pull requests — should engineers worry?",
+      "It reads the diff, flags bugs, and suggests fixes",
+      "But it opens its own PRs without being asked",
+      "Your team's review bottleneck just became a policy decision",
+      "Open one real PR today and watch what it catches"
+    ],
+    "thread_text": [
+      "1. Claude Reviews Your Code\n\nIt reads the diff, flags bugs, and suggests fixes. But it also opens its own PRs without being asked.",
+      "2. It Won't Wait for Permission\n\nClaude doesn't just review — it creates pull requests on its own. That's a new level of autonomy for an AI coding tool.",
+      "3. Your Bottleneck, Your Rules\n\nThe review bottleneck just became a policy decision. You now have to decide: let Claude act autonomously or keep it on a leash?",
+      "4. The Real Question\n\nShould engineers worry? Not about losing jobs — about losing control. An AI that opens PRs can also flood your queue.",
+      "5. Test It on One PR\n\nOpen a real pull request today and watch what Claude catches. Then ask yourself: would you merge its fixes without a second look?"
+    ],
+    "video_script": [
+      "Claude now reviews your pull requests, reading the diff and flagging bugs.",
+      "But it doesn't stop there: it opens its own PRs without being asked.",
+      "That turns your team's review bottleneck into a policy decision.",
+      "Should engineers worry? Not about jobs, but about losing control.",
+      "Open one real PR today and see what it catches."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Claude Reviews Your Code\n\nIt reads the diff, flags bugs, and suggests fixes. But it also opens its own PRs without being asked.",
+          "2. It Won't Wait for Permission\n\nClaude doesn't just review — it creates pull requests on its own. That's a new level of autonomy for an AI coding tool.",
+          "3. Your Bottleneck, Your Rules\n\nThe review bottleneck just became a policy decision. You now have to decide: let Claude act autonomously or keep it on a leash?",
+          "4. The Real Question\n\nShould engineers worry? Not about losing jobs — about losing control. An AI that opens PRs can also flood your queue.",
+          "5. Test It on One PR\n\nOpen a real pull request today and watch what Claude catches. Then ask yourself: would you merge its fixes without a second look?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Claude now reviews your pull requests, reading the diff and flagging bugs.",
+          "But it doesn't stop there: it opens its own PRs without being asked.",
+          "That turns your team's review bottleneck into a policy decision.",
+          "Should engineers worry? Not about jobs, but about losing control.",
+          "Open one real PR today and see what it catches."
+        ]
+      },
+      "instagram": {
+        "caption": "Claude now opens pull requests on its own, without anyone asking it to.\n\nIt reads the diff, flags bugs, and suggests fixes like any reviewer. But it also creates its own PRs unprompted, which means your review queue isn't just getting help — it's getting new entries 👀\n\nThe review bottleneck just became a policy decision: do you let it act autonomously or keep it on a leash?\n\nIf you write code for a living, this changes what you review, not just how fast ⚙️\n\nOpen one real PR today and watch what it catches. Then ask yourself honestly: would you merge its fixes without a second look? 🤔"
+      }
+    },
+    "instagram_caption": "Claude now opens pull requests on its own, without anyone asking it to.\n\nIt reads the diff, flags bugs, and suggests fixes like any reviewer. But it also creates its own PRs unprompted, which means your review queue isn't just getting help — it's getting new entries 👀\n\nThe review bottleneck just became a policy decision: do you let it act autonomously or keep it on a leash?\n\nIf you write code for a living, this changes what you review, not just how fast ⚙️\n\nOpen one real PR today and watch what it catches. Then ask yourself honestly: would you merge its fixes without a second look? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "AI opens pull requests without permission",
+        "description": "Claude now reviews code and suggests fixes, but also creates its own PRs autonomously, raising concerns about control.",
+        "visual_hint": "AI robot opening a pull request",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot arm"
+      },
+      {
+        "hook": "It reads diffs and flags bugs",
+        "description": "Claude analyzes code changes, identifies bugs, and proposes fixes, acting like an automated reviewer.",
+        "visual_hint": "Code diff with bug highlighted",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "code screen",
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It acts without being asked",
+        "description": "Claude doesn't wait for permission—it autonomously creates pull requests, marking a new level of AI autonomy.",
+        "visual_hint": "Autonomous robot creating PR",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "autonomous robot",
+        "image": "https://images.pexels.com/photos/19114198/pexels-photo-19114198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Review bottleneck becomes policy decision",
+        "description": "Teams must decide: allow Claude to act autonomously or keep it on a leash to avoid PR floods.",
+        "visual_hint": "Manager deciding on AI leash",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "manager meeting",
+        "image": "https://images.pexels.com/photos/5668504/pexels-photo-5668504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Claude on one real PR",
+        "description": "Open a pull request today and observe what Claude catches—then ask if you'd merge its fixes blindly.",
+        "visual_hint": "Developer reviewing PR with AI",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "developer laptop",
+        "image": "https://images.pexels.com/photos/39712880/pexels-photo-39712880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-11-24T03:39:02.587Z",
+    "sourceId": "ef51e937b5b86055a620629aa354cc4c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ai-data-centers-throw-another-wrench-into-chaotic-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI data centers throw another wrench into chaotic UN climate talks",
+    "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+    "pubDate": "2026-11-23T21:09:37.000Z",
+    "slides": [
+      "Can AI data centers derail the UN climate talks?",
+      "Negotiators weigh emissions from a booming industry",
+      "But those same data centers could power clean grids",
+      "Your energy bills may rise before any treaty lands",
+      "Ask one AI firm: how much water does it use?"
+    ],
+    "thread_text": [
+      "1. The AI energy bill nobody voted for\n\nUN climate negotiators are now debating emissions from AI data centers. Meanwhile, those same facilities could delay grid upgrades your household pays for.",
+      "2. Two-faced data centers\n\nThey could power clean grids with flexible demand. But the upside only arrives if operators share real numbers — and right now most don't.",
+      "3. The treaty won't lower your bill\n\nEnergy costs will rise before any climate agreement lands. The data center boom is already driving up local utility rates in some regions.",
+      "4. Water is the hidden cost\n\nCooling AI servers consumes millions of gallons daily. Ask one AI firm how much water it uses — most won't give a straight answer.",
+      "5. Check your utility's next rate case\n\nLook up the next public hearing on data center power requests in your area. If you haven't done it, start there."
+    ],
+    "video_script": [
+      "AI data centers just entered UN climate talks.",
+      "They could help clean grids or delay them.",
+      "Your energy bill may rise before any treaty.",
+      "Ask one AI firm how much water it uses.",
+      "Check your utility's next rate case hearing."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The AI energy bill nobody voted for\n\nUN climate negotiators are now debating emissions from AI data centers. Meanwhile, those same facilities could delay grid upgrades your household pays for.",
+          "2. Two-faced data centers\n\nThey could power clean grids with flexible demand. But the upside only arrives if operators share real numbers — and right now most don't.",
+          "3. The treaty won't lower your bill\n\nEnergy costs will rise before any climate agreement lands. The data center boom is already driving up local utility rates in some regions.",
+          "4. Water is the hidden cost\n\nCooling AI servers consumes millions of gallons daily. Ask one AI firm how much water it uses — most won't give a straight answer.",
+          "5. Check your utility's next rate case\n\nLook up the next public hearing on data center power requests in your area. If you haven't done it, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI data centers just entered UN climate talks.",
+          "They could help clean grids or delay them.",
+          "Your energy bill may rise before any treaty.",
+          "Ask one AI firm how much water it uses.",
+          "Check your utility's next rate case hearing."
+        ]
+      },
+      "instagram": {
+        "caption": "Your next utility bill may go up before any UN climate treaty is signed.\n\nNegotiators are now debating emissions from AI data centers ⚡ and the boom is already driving up local rates in some regions.\n\nThose same facilities could support clean grids, but only if operators share real numbers.\n\nMost won't say how much water their cooling uses 💧 even as millions of gallons go down daily.\n\nIf you publish or create for a living, energy costs are quietly eating into your margins while the debate drags on.\n\nHave you checked your utility's next public hearing on data center power requests? 🔍"
+      }
+    },
+    "instagram_caption": "Your next utility bill may go up before any UN climate treaty is signed.\n\nNegotiators are now debating emissions from AI data centers ⚡ and the boom is already driving up local rates in some regions.\n\nThose same facilities could support clean grids, but only if operators share real numbers.\n\nMost won't say how much water their cooling uses 💧 even as millions of gallons go down daily.\n\nIf you publish or create for a living, energy costs are quietly eating into your margins while the debate drags on.\n\nHave you checked your utility's next public hearing on data center power requests? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Can AI data centers derail climate talks?",
+        "description": "Negotiators now debate emissions from AI data centers, but most operators refuse to share real numbers.",
+        "visual_hint": "UN conference room with empty seats",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "UN conference room"
+      },
+      {
+        "hook": "Data centers: two-faced climate players",
+        "description": "They could power clean grids with flexible demand, but the upside only arrives if operators share real numbers.",
+        "visual_hint": "Split image of data center and wind turbine",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center exterior",
+        "image": "https://images.pexels.com/photos/11043713/pexels-photo-11043713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your energy bill rises before any treaty",
+        "description": "The data center boom is already driving up local utility rates in some regions, ahead of any climate agreement.",
+        "visual_hint": "Utility bill with rising graph arrow",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "electricity meter",
+        "image": "https://images.pexels.com/photos/32549020/pexels-photo-32549020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Water: the hidden cost of AI",
+        "description": "Cooling AI servers consumes millions of gallons daily, yet most firms won't give a straight answer on usage.",
+        "visual_hint": "Cooling towers with water vapor",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "cooling tower",
+        "image": "https://images.pexels.com/photos/13395142/pexels-photo-13395142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: check your utility's next rate case",
+        "description": "Look up the next public hearing on data center power requests in your area and attend or comment.",
+        "visual_hint": "Public hearing notice on bulletin board",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "public hearing",
+        "image": "https://images.pexels.com/photos/6949864/pexels-photo-6949864.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306098413.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.750882913364%2C100%2C78.498234173273&amp;w=1200",
+    "savedAt": "2026-11-24T03:38:54.392Z",
+    "sourceId": "1fb8ee564e2e33a7262ec937c9801937"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "binding-of-isaac-developer-removes-ai-music-from-r",
     "prompt_version": "1.0.0",
     "status": "published",
