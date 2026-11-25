@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "the-new-york-times-warns-photographers-not-to-upda",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "pubDate": "2026-11-24T16:09:23.000Z",
+      "slides": [
+        "Why is The New York Times warning photographers about Photoshop?",
+        "A new update adds AI features that scan your images",
+        "The AI can train on your photos without clear consent",
+        "Check your settings before updating to protect your work",
+        "Delay the update until you review the terms"
+      ],
+      "thread_text": [
+        "1. NYT vs. Photoshop\n\nA new update lets Adobe's AI scan your images and train on them — and photographers are being warned before they hit install.",
+        "2. The Consent Problem\n\nAdobe's terms don't make it obvious you're opting in. Unless you dig into settings, your portfolio becomes training data.",
+        "3. Your Portfolio Is Data\n\nEvery edited photo, every client shoot, every personal project — all of it can feed a model you never agreed to build.",
+        "4. Check Before You Click\n\nThe update prompt is your last checkpoint. Open Preferences and look for the AI training toggle before it's too late.",
+        "5. Hold Off. Read First.\n\nDelay the update until you've reviewed the new terms line by line. Would you hand over your archive without reading the fine print?"
+      ],
+      "video_script": [
+        "The New York Times just warned photographers about Photoshop.",
+        "A new update lets AI scan and train on your images.",
+        "Consent is buried — most people won't notice.",
+        "Check your settings before you hit update.",
+        "Wait. Read the terms. Then decide."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. NYT vs. Photoshop\n\nA new update lets Adobe's AI scan your images and train on them — and photographers are being warned before they hit install.",
+            "2. The Consent Problem\n\nAdobe's terms don't make it obvious you're opting in. Unless you dig into settings, your portfolio becomes training data.",
+            "3. Your Portfolio Is Data\n\nEvery edited photo, every client shoot, every personal project — all of it can feed a model you never agreed to build.",
+            "4. Check Before You Click\n\nThe update prompt is your last checkpoint. Open Preferences and look for the AI training toggle before it's too late.",
+            "5. Hold Off. Read First.\n\nDelay the update until you've reviewed the new terms line by line. Would you hand over your archive without reading the fine print?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "The New York Times just warned photographers about Photoshop.",
+            "A new update lets AI scan and train on your images.",
+            "Consent is buried — most people won't notice.",
+            "Check your settings before you hit update.",
+            "Wait. Read the terms. Then decide."
+          ]
+        },
+        "instagram": {
+          "caption": "If you update Photoshop right now, Adobe's AI may start scanning your photos and training on them.\n\nThe New York Times is warning photographers to hold off on the latest update because of new AI features buried in the settings.\n\nAdobe's terms don't make it obvious you're opting in — unless you dig into Preferences, your portfolio can become training data.\n\nEvery client shoot and personal project could feed a model you never agreed to build.\n\nCheck your AI training toggle before you click install.\n\nWould you hand over your entire archive without reading the fine print? 🛑📸⚠️"
+        }
+      },
+      "instagram_caption": "If you update Photoshop right now, Adobe's AI may start scanning your photos and training on them.\n\nThe New York Times is warning photographers to hold off on the latest update because of new AI features buried in the settings.\n\nAdobe's terms don't make it obvious you're opting in — unless you dig into Preferences, your portfolio can become training data.\n\nEvery client shoot and personal project could feed a model you never agreed to build.\n\nCheck your AI training toggle before you click install.\n\nWould you hand over your entire archive without reading the fine print? 🛑📸⚠️",
+      "carousel_slides": [
+        {
+          "hook": "Is Adobe AI scanning your photos?",
+          "description": "A new update adds AI features that can train on your images without clear consent, putting your portfolio at risk.",
+          "visual_hint": "Warning sign with Photoshop logo",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "warning sign"
+        },
+        {
+          "hook": "New Photoshop update includes AI scanning",
+          "description": "The update introduces AI that scans your images. Adobe's terms don't make opting in obvious, so your work may become training data.",
+          "visual_hint": "AI scanning interface on screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer screen",
+          "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your portfolio becomes training data",
+          "description": "Every edited photo, client shoot, and personal project can feed a model you never agreed to build.",
+          "visual_hint": "Photo gallery turning into data streams",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "photo gallery",
+          "image": "https://images.pexels.com/photos/8096272/pexels-photo-8096272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your settings before updating",
+          "description": "The update prompt is your last checkpoint. Open Preferences and look for the AI training toggle before it's too late.",
+          "visual_hint": "Finger hovering over settings toggle",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "settings menu",
+          "image": "https://images.pexels.com/photos/40651482/pexels-photo-40651482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this post and delay the update!",
+          "description": "Review the new terms line by line. Would you hand over your archive without reading the fine print?",
+          "visual_hint": "Hand holding terms document with pen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "legal document",
+          "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.232235952618%2C100%2C79.535528094764&amp;w=1200",
+      "savedAt": "2026-11-25T00:14:57.314Z",
+      "sourceId": "75eb28b2757365e3aafda9f4d17b98c2"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "tidal-will-start-banning-ai-generated-music-next-m",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Tidal will start banning AI-generated music next month",
+      "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "pubDate": "2026-11-24T17:17:09.000Z",
+      "slides": [
+        "Tidal bans AI music — but can it detect it?",
+        "Spotify and Deezer still allow it, with limits",
+        "Most detection tools miss AI tracks entirely",
+        "Your uploads may get flagged without warning",
+        "Check Tidal's policy before your next release"
+      ],
+      "thread_text": [
+        "1. The Tidal AI Ban Is Live\n\nTidal now removes AI-generated music from its platform. But its detection tools reportedly fail on most tracks — so the ban may be symbolic.",
+        "2. Spotify's Quiet Compromise\n\nSpotify and Deezer still allow AI music, but with limits. Uploads are capped and some royalties are diverted — a middle path Tidal rejected.",
+        "3. Detection Is Mostly Broken\n\nMost AI detection tools miss synthetic tracks entirely. That means the artists who get caught are often flagged by accident, not by design.",
+        "4. Flagged Without Warning\n\nYour uploads can be removed without notice if a platform suspects AI. There's no appeal window and no clear criteria — just a takedown.",
+        "5. Check Before You Upload\n\nRead Tidal's policy before your next release. If your track uses any AI tools, confirm the rules today — or risk losing the upload."
+      ],
+      "video_script": [
+        "Tidal just banned AI music, but its detectors barely work.",
+        "Spotify and Deezer still allow it, with quiet limits.",
+        "Most detection tools miss AI tracks entirely.",
+        "Your uploads can get flagged without warning or appeal.",
+        "Check Tidal's policy before your next release."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Tidal AI Ban Is Live\n\nTidal now removes AI-generated music from its platform. But its detection tools reportedly fail on most tracks — so the ban may be symbolic.",
+            "2. Spotify's Quiet Compromise\n\nSpotify and Deezer still allow AI music, but with limits. Uploads are capped and some royalties are diverted — a middle path Tidal rejected.",
+            "3. Detection Is Mostly Broken\n\nMost AI detection tools miss synthetic tracks entirely. That means the artists who get caught are often flagged by accident, not by design.",
+            "4. Flagged Without Warning\n\nYour uploads can be removed without notice if a platform suspects AI. There's no appeal window and no clear criteria — just a takedown.",
+            "5. Check Before You Upload\n\nRead Tidal's policy before your next release. If your track uses any AI tools, confirm the rules today — or risk losing the upload."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Tidal just banned AI music, but its detectors barely work.",
+            "Spotify and Deezer still allow it, with quiet limits.",
+            "Most detection tools miss AI tracks entirely.",
+            "Your uploads can get flagged without warning or appeal.",
+            "Check Tidal's policy before your next release."
+          ]
+        },
+        "instagram": {
+          "caption": "Starting next month, your track can be pulled from Tidal without warning if it suspects AI — and the tools it relies on reportedly miss most AI tracks entirely.\n\nTidal is banning AI-generated music. Spotify and Deezer still allow it, with caps and some royalties diverted instead.\n\nThe problem: detection is mostly broken, so removals may hit artists by accident, not by design. 😬\n\nIf you use any AI tools in your releases, check Tidal's policy before your next upload — there's no appeal window and no clear criteria. ⚠️\n\nWould you know if your track qualifies as AI-generated under their rules? 🤔"
+        }
+      },
+      "instagram_caption": "Starting next month, your track can be pulled from Tidal without warning if it suspects AI — and the tools it relies on reportedly miss most AI tracks entirely.\n\nTidal is banning AI-generated music. Spotify and Deezer still allow it, with caps and some royalties diverted instead.\n\nThe problem: detection is mostly broken, so removals may hit artists by accident, not by design. 😬\n\nIf you use any AI tools in your releases, check Tidal's policy before your next upload — there's no appeal window and no clear criteria. ⚠️\n\nWould you know if your track qualifies as AI-generated under their rules? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Can Tidal actually detect AI music?",
+          "description": "Most detection tools miss AI tracks entirely, so the ban may be symbolic. Artists could be flagged by accident.",
+          "visual_hint": "Glitchy waveform on a screen",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "sound wave"
+        },
+        {
+          "hook": "Spotify and Deezer still allow AI music",
+          "description": "They permit AI tracks with limits: uploads are capped and royalties diverted. A middle path Tidal rejected.",
+          "visual_hint": "Split screen of streaming apps",
+          "layout_type": "right-focus",
+          "icon": "check",
+          "image_query": "music streaming",
+          "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Detection tools fail on most AI tracks",
+          "description": "Most AI detection tools miss synthetic tracks entirely. That means flagged artists are often caught by accident, not design.",
+          "visual_hint": "Scanner missing a target",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "facial recognition",
+          "image": "https://images.pexels.com/photos/8090123/pexels-photo-8090123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your uploads may get flagged without warning",
+          "description": "If a platform suspects AI, your track can be removed without notice. No appeal window, no clear criteria.",
+          "visual_hint": "Red warning sign on a screen",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "warning sign",
+          "image": "https://images.pexels.com/photos/33194321/pexels-photo-33194321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this checklist before your next release",
+          "description": "Read Tidal's policy before you upload. If your track uses any AI tools, confirm the rules today.",
+          "visual_hint": "Checklist with a pen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist paper",
+          "image": "https://images.pexels.com/photos/6928997/pexels-photo-6928997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-11-25T00:14:49.508Z",
+      "sourceId": "31bde7b6ca68e4a6ebe65e6799285f6e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "david-fincher-is-being-dragged-for-suspected-use-o",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "pubDate": "2026-11-24T18:15:00.000Z",
+      "slides": [
+        "Why is Fincher suddenly accused of using AI?",
+        "One detail in the new film sparked the suspicion",
+        "It's not about effects, but a background texture",
+        "If real, it changes how auteur cinema gets made",
+        "Check one frame yourself: can you tell?"
+      ],
+      "thread_text": [
+        "1. Fincher accused of AI?\n\nThe director behind 'Se7en' and 'Mank' faces online speculation about his latest film — but not for the reason you'd think. The suspicion started with a single background detail.",
+        "2. A background texture\n\nViewers noticed an unusual pattern in one shot and claimed it looked AI-generated. The accusation isn't about visual effects or deepfakes — it's about a simple surface.",
+        "3. If real, big shift\n\nIf Fincher actually used AI for texture work, it would blur the line between auteur craft and machine assistance. That could change how directors approach even minor details.",
+        "4. The auteur dilemma\n\nFincher is known for meticulous control, so AI use would raise questions about authorship. Would it be a tool or a betrayal of his signature style?",
+        "5. Can you spot it?\n\nFind the frame online and zoom in on that texture. Can you honestly tell if it's human-made or generated? Try it before you judge."
+      ],
+      "video_script": [
+        "Fincher accused of using AI? Here's the reason.",
+        "It's not effects, just one background texture.",
+        "If true, it changes how auteur films get made.",
+        "That would blur the line between artist and tool.",
+        "Check one frame yourself. Can you tell?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Fincher accused of AI?\n\nThe director behind 'Se7en' and 'Mank' faces online speculation about his latest film — but not for the reason you'd think. The suspicion started with a single background detail.",
+            "2. A background texture\n\nViewers noticed an unusual pattern in one shot and claimed it looked AI-generated. The accusation isn't about visual effects or deepfakes — it's about a simple surface.",
+            "3. If real, big shift\n\nIf Fincher actually used AI for texture work, it would blur the line between auteur craft and machine assistance. That could change how directors approach even minor details.",
+            "4. The auteur dilemma\n\nFincher is known for meticulous control, so AI use would raise questions about authorship. Would it be a tool or a betrayal of his signature style?",
+            "5. Can you spot it?\n\nFind the frame online and zoom in on that texture. Can you honestly tell if it's human-made or generated? Try it before you judge."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Fincher accused of using AI? Here's the reason.",
+            "It's not effects, just one background texture.",
+            "If true, it changes how auteur films get made.",
+            "That would blur the line between artist and tool.",
+            "Check one frame yourself. Can you tell?"
+          ]
+        },
+        "instagram": {
+          "caption": "Someone spotted a weird texture in a background shot of David Fincher's new film and now the internet thinks he used AI to make it 🔍\n\nThe accusation isn't about deepfakes or effects — just a simple surface pattern.\n\nIf it's real, it blurs the line between a director's meticulous craft and machine assistance, even for minor details.\n\nNext time you credit a filmmaker's signature style, ask yourself how much was actually made by hand 🎬\n\nFind the frame, zoom in on that texture — can you honestly tell if it's human or generated? 👀"
+        }
+      },
+      "instagram_caption": "Someone spotted a weird texture in a background shot of David Fincher's new film and now the internet thinks he used AI to make it 🔍\n\nThe accusation isn't about deepfakes or effects — just a simple surface pattern.\n\nIf it's real, it blurs the line between a director's meticulous craft and machine assistance, even for minor details.\n\nNext time you credit a filmmaker's signature style, ask yourself how much was actually made by hand 🎬\n\nFind the frame, zoom in on that texture — can you honestly tell if it's human or generated? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Is this texture human or AI?",
+          "description": "Fincher faces online speculation after viewers spot an unusual background pattern in his latest film, sparking debate about AI use in auteur cinema.",
+          "visual_hint": "Close-up of a textured surface with subtle patterns",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "textured wall closeup"
+        },
+        {
+          "hook": "One detail sparked the suspicion",
+          "description": "A single background texture in one shot looked AI-generated, prompting accusations not about effects but about a simple surface.",
+          "visual_hint": "Zoomed-in frame showing a repeating pattern",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "abstract pattern texture",
+          "image": "https://images.pexels.com/photos/30217595/pexels-photo-30217595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "If real, it changes everything",
+          "description": "If Fincher used AI for texture work, it would blur the line between auteur craft and machine assistance, altering how directors approach minor details.",
+          "visual_hint": "Split screen: human hand vs. digital code",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "film editing software",
+          "image": "https://images.pexels.com/photos/31718971/pexels-photo-31718971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The auteur dilemma: tool or betrayal?",
+          "description": "Fincher's meticulous control raises questions about authorship. Would AI use be a tool or a betrayal of his signature style?",
+          "visual_hint": "Director's chair with clapperboard and script",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "film director chair",
+          "image": "https://images.pexels.com/photos/40980060/pexels-photo-40980060.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Can you spot it? Check now",
+          "description": "Find the frame online, zoom in on that texture, and judge for yourself. Save this and share your verdict in comments.",
+          "visual_hint": "Magnifying glass over a film frame",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "magnifying glass screen",
+          "image": "https://images.pexels.com/photos/6621023/pexels-photo-6621023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/UFP25_R4_Rec709_2p4gamma_6188x3240_20260828.0363314_R2.jpg?quality=90&amp;strip=all&amp;crop=20.043648851915%2C0%2C79.914576075467%2C100&amp;w=1200",
+      "savedAt": "2026-11-25T00:14:38.242Z",
+      "sourceId": "8c13239162a0ffadaadadb625401f05a"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "how-jensen-huang-ended-up-as-nvidia-ceo-again",
       "prompt_version": "1.0.0",
       "status": "published",

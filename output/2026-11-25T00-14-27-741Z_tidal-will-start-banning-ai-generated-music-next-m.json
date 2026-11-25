@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "tidal-will-start-banning-ai-generated-music-next-m",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Tidal will start banning AI-generated music next month",
+  "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+  "pubDate": "2026-11-24T17:17:09.000Z",
+  "slides": [
+    "Tidal bans AI music — but can it detect it?",
+    "Spotify and Deezer still allow it, with limits",
+    "Most detection tools miss AI tracks entirely",
+    "Your uploads may get flagged without warning",
+    "Check Tidal's policy before your next release"
+  ],
+  "thread_text": [
+    "1. The Tidal AI Ban Is Live\n\nTidal now removes AI-generated music from its platform. But its detection tools reportedly fail on most tracks — so the ban may be symbolic.",
+    "2. Spotify's Quiet Compromise\n\nSpotify and Deezer still allow AI music, but with limits. Uploads are capped and some royalties are diverted — a middle path Tidal rejected.",
+    "3. Detection Is Mostly Broken\n\nMost AI detection tools miss synthetic tracks entirely. That means the artists who get caught are often flagged by accident, not by design.",
+    "4. Flagged Without Warning\n\nYour uploads can be removed without notice if a platform suspects AI. There's no appeal window and no clear criteria — just a takedown.",
+    "5. Check Before You Upload\n\nRead Tidal's policy before your next release. If your track uses any AI tools, confirm the rules today — or risk losing the upload."
+  ],
+  "video_script": [
+    "Tidal just banned AI music, but its detectors barely work.",
+    "Spotify and Deezer still allow it, with quiet limits.",
+    "Most detection tools miss AI tracks entirely.",
+    "Your uploads can get flagged without warning or appeal.",
+    "Check Tidal's policy before your next release."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Tidal AI Ban Is Live\n\nTidal now removes AI-generated music from its platform. But its detection tools reportedly fail on most tracks — so the ban may be symbolic.",
+        "2. Spotify's Quiet Compromise\n\nSpotify and Deezer still allow AI music, but with limits. Uploads are capped and some royalties are diverted — a middle path Tidal rejected.",
+        "3. Detection Is Mostly Broken\n\nMost AI detection tools miss synthetic tracks entirely. That means the artists who get caught are often flagged by accident, not by design.",
+        "4. Flagged Without Warning\n\nYour uploads can be removed without notice if a platform suspects AI. There's no appeal window and no clear criteria — just a takedown.",
+        "5. Check Before You Upload\n\nRead Tidal's policy before your next release. If your track uses any AI tools, confirm the rules today — or risk losing the upload."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Tidal just banned AI music, but its detectors barely work.",
+        "Spotify and Deezer still allow it, with quiet limits.",
+        "Most detection tools miss AI tracks entirely.",
+        "Your uploads can get flagged without warning or appeal.",
+        "Check Tidal's policy before your next release."
+      ]
+    },
+    "instagram": {
+      "caption": "Starting next month, your track can be pulled from Tidal without warning if it suspects AI — and the tools it relies on reportedly miss most AI tracks entirely.\n\nTidal is banning AI-generated music. Spotify and Deezer still allow it, with caps and some royalties diverted instead.\n\nThe problem: detection is mostly broken, so removals may hit artists by accident, not by design. 😬\n\nIf you use any AI tools in your releases, check Tidal's policy before your next upload — there's no appeal window and no clear criteria. ⚠️\n\nWould you know if your track qualifies as AI-generated under their rules? 🤔"
+    }
+  },
+  "instagram_caption": "Starting next month, your track can be pulled from Tidal without warning if it suspects AI — and the tools it relies on reportedly miss most AI tracks entirely.\n\nTidal is banning AI-generated music. Spotify and Deezer still allow it, with caps and some royalties diverted instead.\n\nThe problem: detection is mostly broken, so removals may hit artists by accident, not by design. 😬\n\nIf you use any AI tools in your releases, check Tidal's policy before your next upload — there's no appeal window and no clear criteria. ⚠️\n\nWould you know if your track qualifies as AI-generated under their rules? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can Tidal actually detect AI music?",
+      "description": "Most detection tools miss AI tracks entirely, so the ban may be symbolic. Artists could be flagged by accident.",
+      "visual_hint": "Glitchy waveform on a screen",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "sound wave"
+    },
+    {
+      "hook": "Spotify and Deezer still allow AI music",
+      "description": "They permit AI tracks with limits: uploads are capped and royalties diverted. A middle path Tidal rejected.",
+      "visual_hint": "Split screen of streaming apps",
+      "layout_type": "right-focus",
+      "icon": "check",
+      "image_query": "music streaming",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Detection tools fail on most AI tracks",
+      "description": "Most AI detection tools miss synthetic tracks entirely. That means flagged artists are often caught by accident, not design.",
+      "visual_hint": "Scanner missing a target",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "facial recognition",
+      "image": "https://images.pexels.com/photos/8090123/pexels-photo-8090123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your uploads may get flagged without warning",
+      "description": "If a platform suspects AI, your track can be removed without notice. No appeal window, no clear criteria.",
+      "visual_hint": "Red warning sign on a screen",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "warning sign",
+      "image": "https://images.pexels.com/photos/33194321/pexels-photo-33194321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this checklist before your next release",
+      "description": "Read Tidal's policy before you upload. If your track uses any AI tools, confirm the rules today.",
+      "visual_hint": "Checklist with a pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist paper",
+      "image": "https://images.pexels.com/photos/6928997/pexels-photo-6928997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-25T00:14:49.508Z",
+  "sourceId": "31bde7b6ca68e4a6ebe65e6799285f6e"
+}

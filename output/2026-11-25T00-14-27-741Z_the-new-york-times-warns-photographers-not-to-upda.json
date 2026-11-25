@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-new-york-times-warns-photographers-not-to-upda",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The New York Times warns photographers not to update Photoshop over AI features",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+  "pubDate": "2026-11-24T16:09:23.000Z",
+  "slides": [
+    "Why is The New York Times warning photographers about Photoshop?",
+    "A new update adds AI features that scan your images",
+    "The AI can train on your photos without clear consent",
+    "Check your settings before updating to protect your work",
+    "Delay the update until you review the terms"
+  ],
+  "thread_text": [
+    "1. NYT vs. Photoshop\n\nA new update lets Adobe's AI scan your images and train on them — and photographers are being warned before they hit install.",
+    "2. The Consent Problem\n\nAdobe's terms don't make it obvious you're opting in. Unless you dig into settings, your portfolio becomes training data.",
+    "3. Your Portfolio Is Data\n\nEvery edited photo, every client shoot, every personal project — all of it can feed a model you never agreed to build.",
+    "4. Check Before You Click\n\nThe update prompt is your last checkpoint. Open Preferences and look for the AI training toggle before it's too late.",
+    "5. Hold Off. Read First.\n\nDelay the update until you've reviewed the new terms line by line. Would you hand over your archive without reading the fine print?"
+  ],
+  "video_script": [
+    "The New York Times just warned photographers about Photoshop.",
+    "A new update lets AI scan and train on your images.",
+    "Consent is buried — most people won't notice.",
+    "Check your settings before you hit update.",
+    "Wait. Read the terms. Then decide."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. NYT vs. Photoshop\n\nA new update lets Adobe's AI scan your images and train on them — and photographers are being warned before they hit install.",
+        "2. The Consent Problem\n\nAdobe's terms don't make it obvious you're opting in. Unless you dig into settings, your portfolio becomes training data.",
+        "3. Your Portfolio Is Data\n\nEvery edited photo, every client shoot, every personal project — all of it can feed a model you never agreed to build.",
+        "4. Check Before You Click\n\nThe update prompt is your last checkpoint. Open Preferences and look for the AI training toggle before it's too late.",
+        "5. Hold Off. Read First.\n\nDelay the update until you've reviewed the new terms line by line. Would you hand over your archive without reading the fine print?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "The New York Times just warned photographers about Photoshop.",
+        "A new update lets AI scan and train on your images.",
+        "Consent is buried — most people won't notice.",
+        "Check your settings before you hit update.",
+        "Wait. Read the terms. Then decide."
+      ]
+    },
+    "instagram": {
+      "caption": "If you update Photoshop right now, Adobe's AI may start scanning your photos and training on them.\n\nThe New York Times is warning photographers to hold off on the latest update because of new AI features buried in the settings.\n\nAdobe's terms don't make it obvious you're opting in — unless you dig into Preferences, your portfolio can become training data.\n\nEvery client shoot and personal project could feed a model you never agreed to build.\n\nCheck your AI training toggle before you click install.\n\nWould you hand over your entire archive without reading the fine print? 🛑📸⚠️"
+    }
+  },
+  "instagram_caption": "If you update Photoshop right now, Adobe's AI may start scanning your photos and training on them.\n\nThe New York Times is warning photographers to hold off on the latest update because of new AI features buried in the settings.\n\nAdobe's terms don't make it obvious you're opting in — unless you dig into Preferences, your portfolio can become training data.\n\nEvery client shoot and personal project could feed a model you never agreed to build.\n\nCheck your AI training toggle before you click install.\n\nWould you hand over your entire archive without reading the fine print? 🛑📸⚠️",
+  "carousel_slides": [
+    {
+      "hook": "Is Adobe AI scanning your photos?",
+      "description": "A new update adds AI features that can train on your images without clear consent, putting your portfolio at risk.",
+      "visual_hint": "Warning sign with Photoshop logo",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "warning sign"
+    },
+    {
+      "hook": "New Photoshop update includes AI scanning",
+      "description": "The update introduces AI that scans your images. Adobe's terms don't make opting in obvious, so your work may become training data.",
+      "visual_hint": "AI scanning interface on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer screen",
+      "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your portfolio becomes training data",
+      "description": "Every edited photo, client shoot, and personal project can feed a model you never agreed to build.",
+      "visual_hint": "Photo gallery turning into data streams",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "photo gallery",
+      "image": "https://images.pexels.com/photos/8096272/pexels-photo-8096272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your settings before updating",
+      "description": "The update prompt is your last checkpoint. Open Preferences and look for the AI training toggle before it's too late.",
+      "visual_hint": "Finger hovering over settings toggle",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "settings menu",
+      "image": "https://images.pexels.com/photos/40651482/pexels-photo-40651482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this post and delay the update!",
+      "description": "Review the new terms line by line. Would you hand over your archive without reading the fine print?",
+      "visual_hint": "Hand holding terms document with pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "legal document",
+      "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.232235952618%2C100%2C79.535528094764&amp;w=1200",
+  "savedAt": "2026-11-25T00:14:57.314Z",
+  "sourceId": "75eb28b2757365e3aafda9f4d17b98c2"
+}
