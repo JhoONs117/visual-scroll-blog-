@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "google-s-patent-for-custom-ai-video-feeds-paints-a",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+    "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+    "pubDate": "2026-11-25T21:51:26.000Z",
+    "slides": [
+      "Is Google designing the death of shared entertainment?",
+      "A patent describes AI generating personalized video feeds per viewer",
+      "The feed could rewrite plot points based on your reactions",
+      "Your favorite show may never be the same twice",
+      "Ask who controls the algorithm curating your taste"
+    ],
+    "thread_text": [
+      "1. Google's patent rewrites plots\n\nA new patent describes AI that generates a personalized video feed for each viewer, adapting plot points based on your reactions.",
+      "2. Your reactions shape the story\n\nThe system could rewrite scenes in real time, meaning your favorite show might never be the same twice.",
+      "3. Shared entertainment disappears\n\nIf everyone gets a different version, watercooler moments vanish. No one sees the same show.",
+      "4. Who controls your taste?\n\nThe algorithm curating your feed decides what you see. That's a lot of power over culture.",
+      "5. Ask who controls the algorithm\n\nNext time you watch, ask: who decides what you see? Try to spot the algorithm's influence."
+    ],
+    "video_script": [
+      "Google's patent personalizes video feeds for each viewer.",
+      "Your reactions could rewrite plot points in real time.",
+      "Your favorite show may never be the same twice.",
+      "Shared entertainment could disappear as everyone gets unique versions.",
+      "Ask who controls the algorithm curating your taste."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Google's patent rewrites plots\n\nA new patent describes AI that generates a personalized video feed for each viewer, adapting plot points based on your reactions.",
+          "2. Your reactions shape the story\n\nThe system could rewrite scenes in real time, meaning your favorite show might never be the same twice.",
+          "3. Shared entertainment disappears\n\nIf everyone gets a different version, watercooler moments vanish. No one sees the same show.",
+          "4. Who controls your taste?\n\nThe algorithm curating your feed decides what you see. That's a lot of power over culture.",
+          "5. Ask who controls the algorithm\n\nNext time you watch, ask: who decides what you see? Try to spot the algorithm's influence."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google's patent personalizes video feeds for each viewer.",
+          "Your reactions could rewrite plot points in real time.",
+          "Your favorite show may never be the same twice.",
+          "Shared entertainment could disappear as everyone gets unique versions.",
+          "Ask who controls the algorithm curating your taste."
+        ]
+      },
+      "instagram": {
+        "caption": "Google filed a patent for AI that generates a different video feed for every viewer, rewriting plot points based on your reactions. 🎬\n\nYour favorite show might never play the same way twice.\n\nIf everyone sees a different version, the shared moments that spark conversations disappear.\n\nFor creators, that means the story you publish isn't the story your audience sees. 😳\n\nWho controls the algorithm curating your taste? Next time you watch, ask who decided what you see. 🤔"
+      }
+    },
+    "instagram_caption": "Google filed a patent for AI that generates a different video feed for every viewer, rewriting plot points based on your reactions. 🎬\n\nYour favorite show might never play the same way twice.\n\nIf everyone sees a different version, the shared moments that spark conversations disappear.\n\nFor creators, that means the story you publish isn't the story your audience sees. 😳\n\nWho controls the algorithm curating your taste? Next time you watch, ask who decided what you see. 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Is Google killing shared entertainment?",
+        "description": "A patent describes AI generating personalized video feeds per viewer, adapting plot points based on your reactions.",
+        "visual_hint": "Split screen: one TV, many faces",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "television screen"
+      },
+      {
+        "hook": "Your reactions rewrite the plot",
+        "description": "The system could rewrite scenes in real time, meaning your favorite show might never be the same twice.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "visual_hint": "AI code over video timeline",
+        "image_query": "computer code screen",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No one sees the same show",
+        "description": "If everyone gets a different version, watercooler moments vanish and shared culture fractures.",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "visual_hint": "Diverse people watching different screens",
+        "image_query": "people watching tv",
+        "image": "https://images.pexels.com/photos/5813746/pexels-photo-5813746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who controls your taste?",
+        "description": "The algorithm curating your feed decides what you see, holding enormous power over culture.",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "visual_hint": "Hand hovering over remote control",
+        "image_query": "remote control hand",
+        "image": "https://images.pexels.com/photos/36410718/pexels-photo-36410718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and ask who decides",
+        "description": "Next time you watch, spot the algorithm's influence and question who controls your feed.",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "visual_hint": "Person looking thoughtfully at screen",
+        "image_query": "person watching screen",
+        "image": "https://images.pexels.com/photos/19947408/pexels-photo-19947408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&amp;strip=all&amp;crop=2.859375%2C11.97652241473%2C93.788122558594%2C75.148782257541&amp;w=1200",
+    "savedAt": "2026-11-26T13:22:52.829Z",
+    "sourceId": "6d162717023fa73f184296db1d33e2af"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "42-state-ags-are-trying-to-stop-character-ai-from-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+    "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+    "pubDate": "2026-11-26T09:54:40.000Z",
+    "slides": [
+      "Why do 42 attorneys general want Character.AI's chats?",
+      "They claim conversations are sold to advertisers without consent",
+      "The surprising part: chats may include sensitive personal disclosures",
+      "Your late-night confessions could become ad-targeting data",
+      "Check your chat app's privacy settings today"
+    ],
+    "thread_text": [
+      "1. 42 attorneys general want answers\n\nThey're demanding to know if Character.AI sold user chats to advertisers without consent. The scope of the investigation is massive.",
+      "2. Chats sold without consent?\n\nThe claim is that conversations were harvested and sold to advertisers. If true, that's a direct violation of user trust.",
+      "3. The sensitive data problem\n\nThese chats may contain deeply personal disclosures. People confide things they'd never post publicly.",
+      "4. Your confessions as ad data\n\nLate-night emotional talks could be used to target ads. That's a privacy nightmare.",
+      "5. Check your privacy settings\n\nGo to your chat app's settings and review what data is shared. Do it today."
+    ],
+    "video_script": [
+      "42 attorneys general are investigating Character.AI.",
+      "They claim your chats were sold to advertisers.",
+      "Sensitive personal talks could become ad data.",
+      "Your late-night confessions might be targeted.",
+      "Check your privacy settings right now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. 42 attorneys general want answers\n\nThey're demanding to know if Character.AI sold user chats to advertisers without consent. The scope of the investigation is massive.",
+          "2. Chats sold without consent?\n\nThe claim is that conversations were harvested and sold to advertisers. If true, that's a direct violation of user trust.",
+          "3. The sensitive data problem\n\nThese chats may contain deeply personal disclosures. People confide things they'd never post publicly.",
+          "4. Your confessions as ad data\n\nLate-night emotional talks could be used to target ads. That's a privacy nightmare.",
+          "5. Check your privacy settings\n\nGo to your chat app's settings and review what data is shared. Do it today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "42 attorneys general are investigating Character.AI.",
+          "They claim your chats were sold to advertisers.",
+          "Sensitive personal talks could become ad data.",
+          "Your late-night confessions might be targeted.",
+          "Check your privacy settings right now."
+        ]
+      },
+      "instagram": {
+        "caption": "42 attorneys general are asking whether your private chats with an AI chatbot were sold to advertisers without your consent. 🧐\n\nCharacter.AI is facing a massive investigation over claims that conversations were harvested and sold.\n\nThe chats in question may contain deeply personal disclosures — things people tell an AI precisely because they think no one else is reading.\n\nIf true, your late-night confessions could be used to target ads.\n\nReview your chat app's privacy settings today and check what data is actually shared. 🔍\n\nWould you still talk to an AI the same way if you knew every word could end up in an ad profile? 💭"
+      }
+    },
+    "instagram_caption": "42 attorneys general are asking whether your private chats with an AI chatbot were sold to advertisers without your consent. 🧐\n\nCharacter.AI is facing a massive investigation over claims that conversations were harvested and sold.\n\nThe chats in question may contain deeply personal disclosures — things people tell an AI precisely because they think no one else is reading.\n\nIf true, your late-night confessions could be used to target ads.\n\nReview your chat app's privacy settings today and check what data is actually shared. 🔍\n\nWould you still talk to an AI the same way if you knew every word could end up in an ad profile? 💭",
+    "carousel_slides": [
+      {
+        "hook": "Your late-night confessions could be sold",
+        "description": "42 state attorneys general are investigating whether Character.AI sold user chats to advertisers without consent, potentially exposing sensitive personal disclosures.",
+        "visual_hint": "Attorney general seal on dark background",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "government building"
+      },
+      {
+        "hook": "Chats allegedly sold without consent",
+        "description": "The claim is that conversations were harvested and sold to advertisers, which would be a direct violation of user trust if true.",
+        "visual_hint": "Handshake between business people",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "business handshake",
+        "image": "https://images.pexels.com/photos/8441789/pexels-photo-8441789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sensitive disclosures at risk",
+        "description": "These chats may contain deeply personal secrets people confide to AI but would never post publicly, making the data highly sensitive.",
+        "visual_hint": "Person whispering into phone",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "person whispering",
+        "image": "https://images.pexels.com/photos/5085562/pexels-photo-5085562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your emotional talks as ad data",
+        "description": "Late-night emotional conversations could become ad-targeting data, turning your private moments into a privacy nightmare.",
+        "visual_hint": "Phone screen with targeted ads",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "smartphone advertisement",
+        "image": "https://images.pexels.com/photos/6612164/pexels-photo-6612164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your privacy settings now",
+        "description": "Open your chat app's settings and review what data is shared with third parties. Do it today and protect your conversations.",
+        "visual_hint": "Finger tapping privacy toggle",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "privacy settings screen",
+        "image": "https://images.pexels.com/photos/6943446/pexels-photo-6943446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-11-26T13:22:45.888Z",
+    "sourceId": "2b77243de9e1ff4ce12c29e71323cd88"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "the-new-york-times-warns-photographers-not-to-upda",
     "prompt_version": "1.0.0",
     "status": "published",

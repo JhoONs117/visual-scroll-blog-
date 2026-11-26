@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "42-state-ags-are-trying-to-stop-character-ai-from-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+  "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+  "pubDate": "2026-11-26T09:54:40.000Z",
+  "slides": [
+    "Why do 42 attorneys general want Character.AI's chats?",
+    "They claim conversations are sold to advertisers without consent",
+    "The surprising part: chats may include sensitive personal disclosures",
+    "Your late-night confessions could become ad-targeting data",
+    "Check your chat app's privacy settings today"
+  ],
+  "thread_text": [
+    "1. 42 attorneys general want answers\n\nThey're demanding to know if Character.AI sold user chats to advertisers without consent. The scope of the investigation is massive.",
+    "2. Chats sold without consent?\n\nThe claim is that conversations were harvested and sold to advertisers. If true, that's a direct violation of user trust.",
+    "3. The sensitive data problem\n\nThese chats may contain deeply personal disclosures. People confide things they'd never post publicly.",
+    "4. Your confessions as ad data\n\nLate-night emotional talks could be used to target ads. That's a privacy nightmare.",
+    "5. Check your privacy settings\n\nGo to your chat app's settings and review what data is shared. Do it today."
+  ],
+  "video_script": [
+    "42 attorneys general are investigating Character.AI.",
+    "They claim your chats were sold to advertisers.",
+    "Sensitive personal talks could become ad data.",
+    "Your late-night confessions might be targeted.",
+    "Check your privacy settings right now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. 42 attorneys general want answers\n\nThey're demanding to know if Character.AI sold user chats to advertisers without consent. The scope of the investigation is massive.",
+        "2. Chats sold without consent?\n\nThe claim is that conversations were harvested and sold to advertisers. If true, that's a direct violation of user trust.",
+        "3. The sensitive data problem\n\nThese chats may contain deeply personal disclosures. People confide things they'd never post publicly.",
+        "4. Your confessions as ad data\n\nLate-night emotional talks could be used to target ads. That's a privacy nightmare.",
+        "5. Check your privacy settings\n\nGo to your chat app's settings and review what data is shared. Do it today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "42 attorneys general are investigating Character.AI.",
+        "They claim your chats were sold to advertisers.",
+        "Sensitive personal talks could become ad data.",
+        "Your late-night confessions might be targeted.",
+        "Check your privacy settings right now."
+      ]
+    },
+    "instagram": {
+      "caption": "42 attorneys general are asking whether your private chats with an AI chatbot were sold to advertisers without your consent. 🧐\n\nCharacter.AI is facing a massive investigation over claims that conversations were harvested and sold.\n\nThe chats in question may contain deeply personal disclosures — things people tell an AI precisely because they think no one else is reading.\n\nIf true, your late-night confessions could be used to target ads.\n\nReview your chat app's privacy settings today and check what data is actually shared. 🔍\n\nWould you still talk to an AI the same way if you knew every word could end up in an ad profile? 💭"
+    }
+  },
+  "instagram_caption": "42 attorneys general are asking whether your private chats with an AI chatbot were sold to advertisers without your consent. 🧐\n\nCharacter.AI is facing a massive investigation over claims that conversations were harvested and sold.\n\nThe chats in question may contain deeply personal disclosures — things people tell an AI precisely because they think no one else is reading.\n\nIf true, your late-night confessions could be used to target ads.\n\nReview your chat app's privacy settings today and check what data is actually shared. 🔍\n\nWould you still talk to an AI the same way if you knew every word could end up in an ad profile? 💭",
+  "carousel_slides": [
+    {
+      "hook": "Your late-night confessions could be sold",
+      "description": "42 state attorneys general are investigating whether Character.AI sold user chats to advertisers without consent, potentially exposing sensitive personal disclosures.",
+      "visual_hint": "Attorney general seal on dark background",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "government building"
+    },
+    {
+      "hook": "Chats allegedly sold without consent",
+      "description": "The claim is that conversations were harvested and sold to advertisers, which would be a direct violation of user trust if true.",
+      "visual_hint": "Handshake between business people",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "business handshake",
+      "image": "https://images.pexels.com/photos/8441789/pexels-photo-8441789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Sensitive disclosures at risk",
+      "description": "These chats may contain deeply personal secrets people confide to AI but would never post publicly, making the data highly sensitive.",
+      "visual_hint": "Person whispering into phone",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "person whispering",
+      "image": "https://images.pexels.com/photos/5085562/pexels-photo-5085562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your emotional talks as ad data",
+      "description": "Late-night emotional conversations could become ad-targeting data, turning your private moments into a privacy nightmare.",
+      "visual_hint": "Phone screen with targeted ads",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone advertisement",
+      "image": "https://images.pexels.com/photos/6612164/pexels-photo-6612164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your privacy settings now",
+      "description": "Open your chat app's settings and review what data is shared with third parties. Do it today and protect your conversations.",
+      "visual_hint": "Finger tapping privacy toggle",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "privacy settings screen",
+      "image": "https://images.pexels.com/photos/6943446/pexels-photo-6943446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-11-26T13:22:45.888Z",
+  "sourceId": "2b77243de9e1ff4ce12c29e71323cd88"
+}

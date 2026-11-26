@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-s-patent-for-custom-ai-video-feeds-paints-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+  "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+  "pubDate": "2026-11-25T21:51:26.000Z",
+  "slides": [
+    "Is Google designing the death of shared entertainment?",
+    "A patent describes AI generating personalized video feeds per viewer",
+    "The feed could rewrite plot points based on your reactions",
+    "Your favorite show may never be the same twice",
+    "Ask who controls the algorithm curating your taste"
+  ],
+  "thread_text": [
+    "1. Google's patent rewrites plots\n\nA new patent describes AI that generates a personalized video feed for each viewer, adapting plot points based on your reactions.",
+    "2. Your reactions shape the story\n\nThe system could rewrite scenes in real time, meaning your favorite show might never be the same twice.",
+    "3. Shared entertainment disappears\n\nIf everyone gets a different version, watercooler moments vanish. No one sees the same show.",
+    "4. Who controls your taste?\n\nThe algorithm curating your feed decides what you see. That's a lot of power over culture.",
+    "5. Ask who controls the algorithm\n\nNext time you watch, ask: who decides what you see? Try to spot the algorithm's influence."
+  ],
+  "video_script": [
+    "Google's patent personalizes video feeds for each viewer.",
+    "Your reactions could rewrite plot points in real time.",
+    "Your favorite show may never be the same twice.",
+    "Shared entertainment could disappear as everyone gets unique versions.",
+    "Ask who controls the algorithm curating your taste."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Google's patent rewrites plots\n\nA new patent describes AI that generates a personalized video feed for each viewer, adapting plot points based on your reactions.",
+        "2. Your reactions shape the story\n\nThe system could rewrite scenes in real time, meaning your favorite show might never be the same twice.",
+        "3. Shared entertainment disappears\n\nIf everyone gets a different version, watercooler moments vanish. No one sees the same show.",
+        "4. Who controls your taste?\n\nThe algorithm curating your feed decides what you see. That's a lot of power over culture.",
+        "5. Ask who controls the algorithm\n\nNext time you watch, ask: who decides what you see? Try to spot the algorithm's influence."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google's patent personalizes video feeds for each viewer.",
+        "Your reactions could rewrite plot points in real time.",
+        "Your favorite show may never be the same twice.",
+        "Shared entertainment could disappear as everyone gets unique versions.",
+        "Ask who controls the algorithm curating your taste."
+      ]
+    },
+    "instagram": {
+      "caption": "Google filed a patent for AI that generates a different video feed for every viewer, rewriting plot points based on your reactions. 🎬\n\nYour favorite show might never play the same way twice.\n\nIf everyone sees a different version, the shared moments that spark conversations disappear.\n\nFor creators, that means the story you publish isn't the story your audience sees. 😳\n\nWho controls the algorithm curating your taste? Next time you watch, ask who decided what you see. 🤔"
+    }
+  },
+  "instagram_caption": "Google filed a patent for AI that generates a different video feed for every viewer, rewriting plot points based on your reactions. 🎬\n\nYour favorite show might never play the same way twice.\n\nIf everyone sees a different version, the shared moments that spark conversations disappear.\n\nFor creators, that means the story you publish isn't the story your audience sees. 😳\n\nWho controls the algorithm curating your taste? Next time you watch, ask who decided what you see. 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Is Google killing shared entertainment?",
+      "description": "A patent describes AI generating personalized video feeds per viewer, adapting plot points based on your reactions.",
+      "visual_hint": "Split screen: one TV, many faces",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "television screen"
+    },
+    {
+      "hook": "Your reactions rewrite the plot",
+      "description": "The system could rewrite scenes in real time, meaning your favorite show might never be the same twice.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "AI code over video timeline",
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No one sees the same show",
+      "description": "If everyone gets a different version, watercooler moments vanish and shared culture fractures.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Diverse people watching different screens",
+      "image_query": "people watching tv",
+      "image": "https://images.pexels.com/photos/5813746/pexels-photo-5813746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who controls your taste?",
+      "description": "The algorithm curating your feed decides what you see, holding enormous power over culture.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hand hovering over remote control",
+      "image_query": "remote control hand",
+      "image": "https://images.pexels.com/photos/36410718/pexels-photo-36410718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and ask who decides",
+      "description": "Next time you watch, spot the algorithm's influence and question who controls your feed.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Person looking thoughtfully at screen",
+      "image_query": "person watching screen",
+      "image": "https://images.pexels.com/photos/19947408/pexels-photo-19947408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&amp;strip=all&amp;crop=2.859375%2C11.97652241473%2C93.788122558594%2C75.148782257541&amp;w=1200",
+  "savedAt": "2026-11-26T13:22:52.829Z",
+  "sourceId": "6d162717023fa73f184296db1d33e2af"
+}

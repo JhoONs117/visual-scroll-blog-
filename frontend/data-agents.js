@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "google-s-patent-for-custom-ai-video-feeds-paints-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "pubDate": "2026-11-25T21:51:26.000Z",
+      "slides": [
+        "Is Google designing the death of shared entertainment?",
+        "A patent describes AI generating personalized video feeds per viewer",
+        "The feed could rewrite plot points based on your reactions",
+        "Your favorite show may never be the same twice",
+        "Ask who controls the algorithm curating your taste"
+      ],
+      "thread_text": [
+        "1. Google's patent rewrites plots\n\nA new patent describes AI that generates a personalized video feed for each viewer, adapting plot points based on your reactions.",
+        "2. Your reactions shape the story\n\nThe system could rewrite scenes in real time, meaning your favorite show might never be the same twice.",
+        "3. Shared entertainment disappears\n\nIf everyone gets a different version, watercooler moments vanish. No one sees the same show.",
+        "4. Who controls your taste?\n\nThe algorithm curating your feed decides what you see. That's a lot of power over culture.",
+        "5. Ask who controls the algorithm\n\nNext time you watch, ask: who decides what you see? Try to spot the algorithm's influence."
+      ],
+      "video_script": [
+        "Google's patent personalizes video feeds for each viewer.",
+        "Your reactions could rewrite plot points in real time.",
+        "Your favorite show may never be the same twice.",
+        "Shared entertainment could disappear as everyone gets unique versions.",
+        "Ask who controls the algorithm curating your taste."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Google's patent rewrites plots\n\nA new patent describes AI that generates a personalized video feed for each viewer, adapting plot points based on your reactions.",
+            "2. Your reactions shape the story\n\nThe system could rewrite scenes in real time, meaning your favorite show might never be the same twice.",
+            "3. Shared entertainment disappears\n\nIf everyone gets a different version, watercooler moments vanish. No one sees the same show.",
+            "4. Who controls your taste?\n\nThe algorithm curating your feed decides what you see. That's a lot of power over culture.",
+            "5. Ask who controls the algorithm\n\nNext time you watch, ask: who decides what you see? Try to spot the algorithm's influence."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google's patent personalizes video feeds for each viewer.",
+            "Your reactions could rewrite plot points in real time.",
+            "Your favorite show may never be the same twice.",
+            "Shared entertainment could disappear as everyone gets unique versions.",
+            "Ask who controls the algorithm curating your taste."
+          ]
+        },
+        "instagram": {
+          "caption": "Google filed a patent for AI that generates a different video feed for every viewer, rewriting plot points based on your reactions. 🎬\n\nYour favorite show might never play the same way twice.\n\nIf everyone sees a different version, the shared moments that spark conversations disappear.\n\nFor creators, that means the story you publish isn't the story your audience sees. 😳\n\nWho controls the algorithm curating your taste? Next time you watch, ask who decided what you see. 🤔"
+        }
+      },
+      "instagram_caption": "Google filed a patent for AI that generates a different video feed for every viewer, rewriting plot points based on your reactions. 🎬\n\nYour favorite show might never play the same way twice.\n\nIf everyone sees a different version, the shared moments that spark conversations disappear.\n\nFor creators, that means the story you publish isn't the story your audience sees. 😳\n\nWho controls the algorithm curating your taste? Next time you watch, ask who decided what you see. 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Is Google killing shared entertainment?",
+          "description": "A patent describes AI generating personalized video feeds per viewer, adapting plot points based on your reactions.",
+          "visual_hint": "Split screen: one TV, many faces",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "television screen"
+        },
+        {
+          "hook": "Your reactions rewrite the plot",
+          "description": "The system could rewrite scenes in real time, meaning your favorite show might never be the same twice.",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "visual_hint": "AI code over video timeline",
+          "image_query": "computer code screen",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No one sees the same show",
+          "description": "If everyone gets a different version, watercooler moments vanish and shared culture fractures.",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "visual_hint": "Diverse people watching different screens",
+          "image_query": "people watching tv",
+          "image": "https://images.pexels.com/photos/5813746/pexels-photo-5813746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who controls your taste?",
+          "description": "The algorithm curating your feed decides what you see, holding enormous power over culture.",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "visual_hint": "Hand hovering over remote control",
+          "image_query": "remote control hand",
+          "image": "https://images.pexels.com/photos/36410718/pexels-photo-36410718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this and ask who decides",
+          "description": "Next time you watch, spot the algorithm's influence and question who controls your feed.",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "visual_hint": "Person looking thoughtfully at screen",
+          "image_query": "person watching screen",
+          "image": "https://images.pexels.com/photos/19947408/pexels-photo-19947408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&amp;strip=all&amp;crop=2.859375%2C11.97652241473%2C93.788122558594%2C75.148782257541&amp;w=1200",
+      "savedAt": "2026-11-26T13:22:52.829Z",
+      "sourceId": "6d162717023fa73f184296db1d33e2af"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "42-state-ags-are-trying-to-stop-character-ai-from-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "pubDate": "2026-11-26T09:54:40.000Z",
+      "slides": [
+        "Why do 42 attorneys general want Character.AI's chats?",
+        "They claim conversations are sold to advertisers without consent",
+        "The surprising part: chats may include sensitive personal disclosures",
+        "Your late-night confessions could become ad-targeting data",
+        "Check your chat app's privacy settings today"
+      ],
+      "thread_text": [
+        "1. 42 attorneys general want answers\n\nThey're demanding to know if Character.AI sold user chats to advertisers without consent. The scope of the investigation is massive.",
+        "2. Chats sold without consent?\n\nThe claim is that conversations were harvested and sold to advertisers. If true, that's a direct violation of user trust.",
+        "3. The sensitive data problem\n\nThese chats may contain deeply personal disclosures. People confide things they'd never post publicly.",
+        "4. Your confessions as ad data\n\nLate-night emotional talks could be used to target ads. That's a privacy nightmare.",
+        "5. Check your privacy settings\n\nGo to your chat app's settings and review what data is shared. Do it today."
+      ],
+      "video_script": [
+        "42 attorneys general are investigating Character.AI.",
+        "They claim your chats were sold to advertisers.",
+        "Sensitive personal talks could become ad data.",
+        "Your late-night confessions might be targeted.",
+        "Check your privacy settings right now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. 42 attorneys general want answers\n\nThey're demanding to know if Character.AI sold user chats to advertisers without consent. The scope of the investigation is massive.",
+            "2. Chats sold without consent?\n\nThe claim is that conversations were harvested and sold to advertisers. If true, that's a direct violation of user trust.",
+            "3. The sensitive data problem\n\nThese chats may contain deeply personal disclosures. People confide things they'd never post publicly.",
+            "4. Your confessions as ad data\n\nLate-night emotional talks could be used to target ads. That's a privacy nightmare.",
+            "5. Check your privacy settings\n\nGo to your chat app's settings and review what data is shared. Do it today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "42 attorneys general are investigating Character.AI.",
+            "They claim your chats were sold to advertisers.",
+            "Sensitive personal talks could become ad data.",
+            "Your late-night confessions might be targeted.",
+            "Check your privacy settings right now."
+          ]
+        },
+        "instagram": {
+          "caption": "42 attorneys general are asking whether your private chats with an AI chatbot were sold to advertisers without your consent. 🧐\n\nCharacter.AI is facing a massive investigation over claims that conversations were harvested and sold.\n\nThe chats in question may contain deeply personal disclosures — things people tell an AI precisely because they think no one else is reading.\n\nIf true, your late-night confessions could be used to target ads.\n\nReview your chat app's privacy settings today and check what data is actually shared. 🔍\n\nWould you still talk to an AI the same way if you knew every word could end up in an ad profile? 💭"
+        }
+      },
+      "instagram_caption": "42 attorneys general are asking whether your private chats with an AI chatbot were sold to advertisers without your consent. 🧐\n\nCharacter.AI is facing a massive investigation over claims that conversations were harvested and sold.\n\nThe chats in question may contain deeply personal disclosures — things people tell an AI precisely because they think no one else is reading.\n\nIf true, your late-night confessions could be used to target ads.\n\nReview your chat app's privacy settings today and check what data is actually shared. 🔍\n\nWould you still talk to an AI the same way if you knew every word could end up in an ad profile? 💭",
+      "carousel_slides": [
+        {
+          "hook": "Your late-night confessions could be sold",
+          "description": "42 state attorneys general are investigating whether Character.AI sold user chats to advertisers without consent, potentially exposing sensitive personal disclosures.",
+          "visual_hint": "Attorney general seal on dark background",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "government building"
+        },
+        {
+          "hook": "Chats allegedly sold without consent",
+          "description": "The claim is that conversations were harvested and sold to advertisers, which would be a direct violation of user trust if true.",
+          "visual_hint": "Handshake between business people",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "business handshake",
+          "image": "https://images.pexels.com/photos/8441789/pexels-photo-8441789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Sensitive disclosures at risk",
+          "description": "These chats may contain deeply personal secrets people confide to AI but would never post publicly, making the data highly sensitive.",
+          "visual_hint": "Person whispering into phone",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "person whispering",
+          "image": "https://images.pexels.com/photos/5085562/pexels-photo-5085562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your emotional talks as ad data",
+          "description": "Late-night emotional conversations could become ad-targeting data, turning your private moments into a privacy nightmare.",
+          "visual_hint": "Phone screen with targeted ads",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone advertisement",
+          "image": "https://images.pexels.com/photos/6612164/pexels-photo-6612164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your privacy settings now",
+          "description": "Open your chat app's settings and review what data is shared with third parties. Do it today and protect your conversations.",
+          "visual_hint": "Finger tapping privacy toggle",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "privacy settings screen",
+          "image": "https://images.pexels.com/photos/6943446/pexels-photo-6943446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-11-26T13:22:45.888Z",
+      "sourceId": "2b77243de9e1ff4ce12c29e71323cd88"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "the-new-york-times-warns-photographers-not-to-upda",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -221116,6 +221324,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "torta-mont-blanc",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Torta Mont Blanc",
+      "link": "https://ricette.giallozafferano.it/Torta-Mont-Blanc.html",
+      "pubDate": "Thu, 26 Nov 2026 10:18:00 +0100",
+      "content": "Torta Mont Blanc Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Pizza fatta in casa con Ariete Dolci cremosi con OraSì Ricette con bevanda vegetale OraSì Ricette con creme vegetali OraSì Facebook Pinterest Instagram TikTok YouTube X Dolci Torte Torta Mont Blanc /5 Ricetta proposta da Lucake CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Seguici Preferiti Difficoltà: Difficile Preparazione: 60 min Cottura: 40 min Dosi per: 8 persone Costo: Medio Nota + 5 ore di riposo Ascolta la ricetta Ascolta su Spreaker. Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti PRESENTAZIONE La torta Mont Blanc è una rivisitazione moderna e raffinata del classico Mont Blanc , il celebre dolce a base di castagne e panna montata. Un dessert scenografico, perfetto per le occasioni speciali, che ripropone i sapori tipici della ricetta tradizionale in una veste nuova ed elegante. Per realizzarla ci siamo ispirati alla cream tart , la torta di tendenza caratterizzata da strati di frolla e ciuffi di crema. Due dischi di friabile pasta frolla alle castagne racchiudono una farcitura vellutata a base di mascarpone e panna, arricchita con crema di marroni , pezzetti di marron glacé e scaglie di cioccolato fondente. A rendere ancora più originale la decorazione sono i biscottini di frolla che richiamano la forma delle castagne, parzialmente ricoperti di cioccolato fondente e alternati a marron glacé e riccioli di cioccolato. La torta Mont Blanc è il dessert ideale per concludere un menu autunnale importante o per impreziosire la tavola delle feste. Provate a realizzare altri dolci con le castagne : Crostata con crema di castagne Torta di castagne e cioccolato Torta di castagne Cake agli amaretti e marroni Mont Blanc cake INGREDIENTI Ingredienti per la frolla Burro 175 g Zucchero 120 g Sale fino 1 pizzico Tuorli 60 g Farina di castagne 150 g Farina di riso 110 g per la farcitura Mascarpone 250 g Panna fresca liquida 300 g Zucchero a velo 10 g Crema di marroni 300 g Marron glaces 50 g Cioccolato fondente scaglie 50 g per decorare Marron glaces 6 Cioccolato fondente scaglie q.b. per ricoprire i biscotti Cioccolato fondente 50 g AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta Mont Blanc Per preparare la torta Mont Blanc, iniziate dalla frolla alle castagne. Versate il burro a cubetti nella ciotola della planetaria munita di foglia, unite lo zucchero 1 e un pizzico di sale, quindi iniziate a lavorare. Aggiungete i tuorli 2 e continuate a lavorare fino a ottenere un composto omogeneo 3 . In alternativa potete realizzare l'impasto a mano in una ciotola. Setacciate direttamente nella ciotola la farina di riso 4 e la farina di castagne 5 . Azionate nuovamente la planetaria e lavorate fino a quando le farine saranno completamente incorporate e avrete ottenuto un impasto omogeneo 6 . Trasferite l'impasto sul piano di lavoro, formate un panetto, avvolgetelo nella pellicola 7 e lasciatelo riposare in frigorifero per almeno 3 ore. Trascorso questo tempo, dividete la frolla a metà e stendetene una parte sul piano di lavoro leggermente infarinato, fino a raggiungere uno spessore di 5 mm 8 . Trasferite la sfoglia su un foglio di carta forno e, aiutandovi con un anello da pasticceria, ricavate un disco del diametro di 22 cm 9 . Trasferite il disco di frolla, insieme alla carta forno, su una teglia e coppate il centro con un coppapasta del diametro di 8 cm 10 . Eliminate la porzione centrale di impasto 11 , così da ottenere un anello di frolla 12 . Procedete allo stesso modo con la restante metà dell'impasto, ricavando un secondo disco del diametro di 22 cm con un foro centrale del diametro di 8 cm. Cuocete i due anelli, uno alla volta, in forno statico preriscaldato a 175°C, sul ripiano centrale, per 15 minuti ciascuno, quindi sfornateli e lasciateli raffreddare completamente 13 . Nel frattempo impastate nuovamente i ritagli di frolla, stendeteli e ricavate dei biscotti utilizzando un coppapasta a forma di cuore di circa 7 cm 14 , poi eliminate la parte tondeggiante dei cuori con un coppapasta circolare, così da ottenere delle sagome a forma di castagna 15 . Otterrete circa 10 biscottini con queste dosi. Disponete i biscotti su una teglia rivestita con carta forno, distanziandoli leggermente tra loro 16 . Cuocete in forno statico preriscaldato a 175°C per 8 minuti, poi sfornate e lasciate raffreddare completamente 17 . Sciogliete il cioccolato fondente a bagnomaria e immergetevi la parte arrotondata di ciascun biscotto 18 . Adagiate man mano i biscotti sulla teglia rivestita con carta forno 19 e trasferiteli in frigorifero per 10 minuti, in modo da far solidificare il cioccolato. Occupatevi ora della crema: versate il mascarpone e lo zucchero a velo in una ciotola 20 , lavorate con le fruste elettriche e aggiungete la panna fresca 21 . Continuate a montare fino a ottenere una crema morbida ma sostenuta, quindi unite la crema di marroni 22 e incorporatela delicatamente con una marisa, fino a ottenere un composto omogeneo 23 . Trasferite la crema in una sac-à-poche munita di bocchetta liscia da 12 mm e adagiate il primo anello di frolla su un piatto da portata 24 . Distribuite sulla superficie tanti ciuffi di crema, disponendoli su tre file concentriche, quindi aggiungete le scaglie di cioccolato fondente 25 e i marron glacé spezzettati 26 . Adagiate delicatamente il secondo anello di frolla sulla farcitura 27 . Ricoprite la superficie con altri ciuffi di crema ai marroni 28 , quindi decorate con i marron glacé interi e i biscotti a forma di castagna 29 . Completate con i riccioli di cioccolato fondente 30 e lasciate riposare in frigorifero per almeno 2 ore prima di servire la vostra torta Mont Blanc! Conservazione La torta Mont Blanc si conserva in frigorifero per 2 giorni sotto una campana di vetro. La frolla si può congelare. I dischi e i biscotti si possono preparare in anticipo. La crema, invece, è preferibile prepararla al momento. Consiglio Per ottenere dei ciuffi di crema ben definiti, utilizzate il mascarpone e la panna ben freddi di frigorifero e fate attenzione a non montare eccessivamente il composto. Lasciate raffreddare completamente le basi di frolla prima di farcirle. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchero Cioccolato Burro Mascarpone Scopri tutto sugli ingredienti Presente in: Dolci al cioccolato , Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Seguici Preferiti SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pasta gorgonzola, funghi e cavolo nero 5.0 Paccheri zucca e gorgonzola 5.0 Torta Mont Blanc 5.0 SCOPRI Mont blanc Torta mont blanc Montebianco Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. e all’utilizzo di pixel di tracciamento nelle suddette comunicazioni per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne Si No Prosegui",
+      "slides": [
+        "Torta scenografica con castagne e panna",
+        "Burro, farine, mascarpone, crema di marroni",
+        "Prepara la frolla alle castagne e raffreddala",
+        "Farcisci con ciuffi di crema e marron glacé",
+        "Decora con biscotti a forma di castagna"
+      ],
+      "instagram_caption": "Un morso e sei già in montagna 🏔️\nLa Torta Mont Blanc è quella coccola autunnale che non sapevi di desiderare: frolla alle castagne, mascarpone e crema di marroni, poi ciuffi di panna a coprire tutto come neve fresca.\nMarron glacé nascosti qua e là e biscotti a forma di castagna per chiudere in bellezza.\nUn dolce scenografico ma sorprendentemente semplice: la frolla si prepara in anticipo e il resto è pura soddisfazione.\nSalva la ricetta e provala questo weekend 🌰☕",
+      "formats": {
+        "instagram": {
+          "caption": "Un morso e sei già in montagna 🏔️\nLa Torta Mont Blanc è quella coccola autunnale che non sapevi di desiderare: frolla alle castagne, mascarpone e crema di marroni, poi ciuffi di panna a coprire tutto come neve fresca.\nMarron glacé nascosti qua e là e biscotti a forma di castagna per chiudere in bellezza.\nUn dolce scenografico ma sorprendentemente semplice: la frolla si prepara in anticipo e il resto è pura soddisfazione.\nSalva la ricetta e provala questo weekend 🌰☕"
+        },
+        "tiktok": {
+          "script": [
+            "Guarda che torta scenografica con castagne e panna!",
+            "Prendo burro, farine, mascarpone e crema di marroni.",
+            "Preparo la frolla alle castagne e la lascio raffreddare.",
+            "Farcisco con ciuffi di crema e marron glacé.",
+            "Decoro con biscotti a forma di castagna, che bello!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Una torta che sembra una montagna: castagne, panna e un ciuffo di marron glacé. La Mont Blanc ti conquista al primo sguardo. 🍰",
+            "Ingredienti chiave: burro, farina, mascarpone e crema di marroni. La base è una frolla alle castagne che profuma già di bosco.",
+            "Prepara la frolla, stendila e lasciala raffreddare bene. Questo passaggio segreto le dà la giusta croccantezza sotto la crema.",
+            "Farcisci con ciuffi di crema al mascarpone e marron glacé. Ogni boccone è un equilibrio tra dolcezza e texture.",
+            "Decora con biscotti a forma di castagna per un effetto scenografico. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Guarda che torta scenografica con castagne e panna!",
+        "Prendo burro, farine, mascarpone e crema di marroni.",
+        "Preparo la frolla alle castagne e la lascio raffreddare.",
+        "Farcisco con ciuffi di crema e marron glacé.",
+        "Decoro con biscotti a forma di castagna, che bello!"
+      ],
+      "thread_text": [
+        "Una torta che sembra una montagna: castagne, panna e un ciuffo di marron glacé. La Mont Blanc ti conquista al primo sguardo. 🍰",
+        "Ingredienti chiave: burro, farina, mascarpone e crema di marroni. La base è una frolla alle castagne che profuma già di bosco.",
+        "Prepara la frolla, stendila e lasciala raffreddare bene. Questo passaggio segreto le dà la giusta croccantezza sotto la crema.",
+        "Farcisci con ciuffi di crema al mascarpone e marron glacé. Ogni boccone è un equilibrio tra dolcezza e texture.",
+        "Decora con biscotti a forma di castagna per un effetto scenografico. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Torta Mont Blanc scenografica",
+          "description": "Una montagna dolce di castagne e panna che conquista al primo sguardo.",
+          "visual_hint": "torta castagne panna",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "mont blanc cake"
+        },
+        {
+          "hook": "Ingredienti per la frolla",
+          "description": "Burro, farina, mascarpone e crema di marroni: la base perfetta.",
+          "visual_hint": "ingredienti frolla castagne",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "chestnut cream ingredients",
+          "image": "https://images.pexels.com/photos/24442387/pexels-photo-24442387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prepara la frolla alle castagne",
+          "description": "Impasta e raffredda la frolla per una base croccante e fragrante.",
+          "visual_hint": "impasto frolla castagne",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "chestnut shortcrust dough",
+          "image": "https://images.pexels.com/photos/29110621/pexels-photo-29110621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Farcisci con ciuffi di crema",
+          "description": "Alterna ciuffi di crema e marron glacé per un cuore goloso.",
+          "visual_hint": "ciuffi crema marron",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "chestnut cream piping",
+          "image": "https://images.pexels.com/photos/37465866/pexels-photo-37465866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Decora e servi la Mont Blanc",
+          "description": "Completa con biscotti a forma di castagna e servi la tua opera d'arte.",
+          "visual_hint": "decorazione biscotti castagna",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "mont blanc dessert",
+          "image": "https://images.pexels.com/photos/30520264/pexels-photo-30520264.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "dessert",
+      "signature_ingredients": [
+        "castagne",
+        "mascarpone",
+        "marron glacé"
+      ],
+      "image": "https://www.giallozafferano.it/images/368-36897/Torta-Mont-Blanc_1200x800_wm.jpg",
+      "savedAt": "2026-11-26T13:29:23.262Z",
+      "sourceId": "ab82ec392676f110d473a26970a172ec"
+    },
     {
       "schema_version": 2,
       "agent": "food",
