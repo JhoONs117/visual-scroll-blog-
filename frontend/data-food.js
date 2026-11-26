@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "pasta-gorgonzola-funghi-e-cavolo-nero",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Pasta gorgonzola, funghi e cavolo nero",
+    "link": "https://ricette.giallozafferano.it/Pasta-gorgonzola-funghi-e-cavolo-nero.html",
+    "pubDate": "Thu, 26 Nov 2026 13:00:00 +0100",
+    "content": "Pasta gorgonzola, funghi e cavolo nero: ricetta cremosa Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Pizza fatta in casa con Ariete Dolci cremosi con OraSì Ricette con bevanda vegetale OraSì Ricette con creme vegetali OraSì Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Pasta gorgonzola, funghi e cavolo nero /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Seguici Preferiti 648,9 Calorie per porzione Energia Kcal 648,9 Carboidrati g 71,6 &nbsp;&nbsp;di cui zuccheri g 7,3 Proteine g 25 Grassi g 31,5 &nbsp;&nbsp;di cui saturi g 15,3 Fibre g 8,2 Colesterolo mg 65,3 Sodio mg 846,2 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Light Difficoltà: Facile Preparazione: 30 min Cottura: 30 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti PRESENTAZIONE La pasta gorgonzola, funghi e cavolo nero è un primo piatto cremoso e ricco di gusto, perfetto per portare in tavola un abbinamento originale con ingredienti di stagione. Il sapore intenso del gorgonzola incontra quello dei funghi, mentre il cavolo nero aggiunge una nota leggermente amarognola che bilancia la ricchezza del condimento. Per questa ricetta abbiamo scelto di utilizzare due varietà di gorgonzola, dolce e piccante, che insieme alla panna formano una crema morbida e avvolgente. Anche i funghi sono protagonisti, con un mix di porcini, finferli, chiodini e portobello che arricchisce il piatto con profumi e sapori diversi. Ma la particolarità di questa ricetta è il cavolo nero, utilizzato in due modi: saltato in padella e trasformato in una polvere finissima, da aggiungere al momento di servire. Scoprite come preparare la pasta gorgonzola, funghi e cavolo nero , un'idea sfiziosa per un pranzo della domenica o una cena speciale, da gustare ben calda per apprezzare tutta la cremosità del condimento. Scopri altre varianti della classica pasta al gorgonzola : Pasta con zucchine, speck e gorgonzola Pasta salsiccia e gorgonzola Pasta gorgonzola e noci Pasta alla zucca, gorgonzola e amaretto Pasta with gorgonzola, mushrooms and black kale Scopri anche Strozzapreti funghi e gorgonzola Pasta con crema di cavolo nero, guanciale e pecorino Pasta con cavolo nero e stracchino Sfoglia tutte INGREDIENTI 648,9 Calorie per porzione Mezzi Rigatoni 320 g Gorgonzola dolce 100 g Gorgonzola piccante 100 g Cavolo nero 300 g Funghi porcini 100 g Funghi finferli (gallinacci) 100 g Funghi pioppini 100 g Funghi portobello 200 g Aglio 1 spicchio Panna fresca liquida 100 g Olio extravergine d'oliva q.b. Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta gorgonzola, funghi e cavolo nero Per preparare la pasta gorgonzola, funghi e cavolo nero, iniziate dal cavolo nero. Tenete da parte 3-4 foglie e dalle altre eliminate la costa centrale più dura 1 . Disponetele queste foglie senza costa su una teglia rivestita con carta forno 2 e cuocetele in forno ventilato preriscaldato a 160° per circa 30 minuti, fino a quando saranno completamente secche. Nel frattempo, tagliate il cavolo nero rimasto a striscioline sottili 3 . Scaldate un filo d'olio in una padella capiente e aggiungete il cavolo nero 4 . Saltatelo a fiamma alta per qualche minuto, mescolando spesso 5 , poi trasferitelo in una ciotola e tenetelo da parte 6 . Passate alla pulizia dei funghi: eliminate la parte finale del gambo dei pioppini 7 , quindi tagliate i portobello a fettine 8 . Pulite i porcini eliminando gli eventuali residui di terra con un coltellino 9 . Poi tagliate a fette la parte superiore 10 . Tagliate il gambo in pezzi più piccoli 11 e separate delicatamente i finferli con le mani 12 . Nella stessa padella utilizzata per il cavolo nero scaldate un filo d'olio con uno spicchio d'aglio, quindi aggiungete i funghi 13 . Saltateli a fiamma molto alta per pochi minuti, mescolando spesso per favorire una cottura uniforme 14 . Una volta pronti, teneteli da parte. Nel frattempo, sfornate le foglie di cavolo nero ormai essiccate 15 e lasciatele raffreddare. Spezzettatele e trasferitele in un macinino per spezie o per caffè 16 , quindi frullatele fino a ottenere una polvere fine e omogenea 17 . Tenetela da parte per la decorazione finale. Portate a bollore una pentola di acqua salata e versate i mezzi rigatoni 18 . Nel frattempo, riprendete la padella utilizzata per i funghi e versate la panna, mescolando per deglassare il fondo di cottura 19 . Aggiungete il gorgonzola dolce tagliato a pezzi 20 e quello piccante 21 . Lasciate sciogliere i formaggi a fiamma molto bassa, mescolando delicatamente fino a ottenere una crema omogenea 22 . Scolate la pasta circa 2 minuti prima del tempo indicato sulla confezione e trasferitela direttamente nella padella con la crema di gorgonzola 23 . Aggiungete un mestolino di acqua di cottura 24 e mescolate per amalgamare il condimento. Unite i funghi precedentemente saltati 25 e il cavolo nero cotto in padella 26 , tenendone da parte una piccola quantità per la decorazione. Mantecate il tutto a fuoco dolce, mescolando fino a quando la pasta sarà ben avvolta dalla crema 27 . Distribuite la pasta nei piatti, aiutandovi con un mestolo 28 . Completate con la polvere di cavolo nero, facendola cadere delicatamente attraverso un piccolo setaccio 29 . La vostra pasta gorgonzola, funghi e cavolo nero è pronta per essere servita ben calda 30 . Conservazione Consigliamo di consumare la pasta gorgonzola, funghi e cavolo nero appena pronta, per apprezzare al meglio la cremosità del condimento. Se dovesse avanzare, potete conservarla in frigorifero per un giorno, all'interno di un contenitore ermetico. Riscaldatela in padella con un goccio di acqua o di latte per rendere nuovamente cremoso il condimento. La congelazione è sconsigliata. Potete preparare la polvere di cavolo nero in anticipo e conservarla per qualche giorno in un contenitore ben chiuso, al riparo dall'umidità. Consiglio Per un sapore più delicato potete variare le proporzioni tra gorgonzola dolce e piccante, utilizzando una quantità maggiore del primo. Se invece preferite un gusto più deciso, aumentate leggermente il gorgonzola piccante, mantenendo invariata la quantità totale di formaggio. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Cavolo nero Funghi Rigatoni Aglio Gorgonzola Pasta Olio di oliva Scopri tutto sugli ingredienti STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Seguici Preferiti SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Strozzapreti funghi e gorgonzola 15 4.3 Pasta con crema di cavolo nero, guanciale e pecorino 4.7 Pasta con cavolo nero e stracchino 5.0 Fusilloni con crema di cavolo nero 3 4.5 Pasta al gorgonzola 14 4.3 Pasta salsiccia e gorgonzola 5 4.7 Pasta gorgonzola e noci 41 4.3 Vellutata al cavolo nero 42 4.3 ULTIME RICETTE Pasta gorgonzola, funghi e cavolo nero 5.0 Paccheri zucca e gorgonzola 5.0 Torta Mont Blanc 5.0 SCOPRI Cavolo nero Zuppa di cavolo nero Come cucinare il cavolo nero Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Primi piatti Strozzapreti funghi e gorgonzola 15 4.3 Gli strozzapreti funghi e gorgonzola sono un primo piatto saporito realizzato con chiodini freschi e una crema al formaggio. Vai alla ricetta Primi piatti Pasta con crema di cavolo nero, guanciale e pecorino 4.7 La pasta con crema di cavolo nero, guanciale e pecorino è un primo piatto dal gusto deciso, con un condimento ricco e avvolgente! Scopri la ricetta. Vai alla ricetta Primi piatti Pasta con cavolo nero e stracchino 5.0 Pasta con cavolo nero e stracchino: un primo piatto semplice e cremoso, dal gusto autentico, ideale per scaldare le giornate fredde con sapori genuini Vai alla ricetta Primi piatti Fusilloni con crema di cavolo nero 3 4.5 I fusilloni con crema di cavolo nero sono un primo piatto vegetariano gustoso e genuino, guarnito con croccanti chips di verdura! Scopri la ricetta. Vai alla ricetta Primi piatti Pasta al gorgonzola 14 4.3 La pasta al gorgonzola è un primo piatto cremoso e saporito dedicato agli amanti del formaggio erborinato, molto facile e veloce! Scopri la ricetta. Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla no",
+    "slides": [
+      "Pasta cremosa con gorgonzola, funghi e cavolo nero",
+      "Mezzi rigatoni, due gorgonzola, funghi misti, cavolo nero",
+      "Essicca e polverizza parte del cavolo nero",
+      "Sciogli i gorgonzola nella panna con i funghi",
+      "Spolvera la polvere di cavolo nero sul piatto"
+    ],
+    "instagram_caption": "La pasta che ti fa dimenticare il lunedì: gorgonzola, funghi e cavolo nero in un cremoso che è pura poesia 🍄\nMezzi rigatoni che si tuffano in due gorgonzola sciolti nella panna insieme ai funghi misti, mentre il cavolo nero essiccato e polverizzato arriva sopra come una neve scura e saporita 🌿\nOgni forchettata è un equilibrio perfetto tra cremoso e croccante, deciso e avvolgente.\nSalva il post e provala questo weekend 🍝✨",
+    "formats": {
+      "instagram": {
+        "caption": "La pasta che ti fa dimenticare il lunedì: gorgonzola, funghi e cavolo nero in un cremoso che è pura poesia 🍄\nMezzi rigatoni che si tuffano in due gorgonzola sciolti nella panna insieme ai funghi misti, mentre il cavolo nero essiccato e polverizzato arriva sopra come una neve scura e saporita 🌿\nOgni forchettata è un equilibrio perfetto tra cremoso e croccante, deciso e avvolgente.\nSalva il post e provala questo weekend 🍝✨"
+      },
+      "tiktok": {
+        "script": [
+          "Pasta cremosa pazzesca: gorgonzola, funghi e cavolo nero!",
+          "Prendo i mezzi rigatoni e due tipi di gorgonzola.",
+          "Essicco e polverizzo il cavolo nero, senti che profumo.",
+          "Sciolgo i gorgonzola nella panna con i funghi.",
+          "Spolvero la polvere di cavolo nero sul piatto. Bomba!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "La pasta che spacca il tavolo: gorgonzola, funghi e cavolo nero. Cremosa, scura, cattiva al punto giusto. Fidati, non la solita pasta ai funghi.",
+          "Parti dai mezzi rigatoni. Due gorgonzola (dolce e piccante), funghi misti, cavolo nero. Ingredienti veri, nessuna scorciatoia.",
+          "Il trucco? Essicca parte del cavolo nero in forno e polverizzalo. Diventa una polvere amara che taglia il grasso. Sentirai la differenza.",
+          "Sciogli i gorgonzola nella panna con i funghi. Fuoco basso, pazienza. Quando la crema è vellutata, butta la pasta e manteca.",
+          "Impiatta e spolvera la polvere di cavolo nero sopra. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Pasta cremosa pazzesca: gorgonzola, funghi e cavolo nero!",
+      "Prendo i mezzi rigatoni e due tipi di gorgonzola.",
+      "Essicco e polverizzo il cavolo nero, senti che profumo.",
+      "Sciolgo i gorgonzola nella panna con i funghi.",
+      "Spolvero la polvere di cavolo nero sul piatto. Bomba!"
+    ],
+    "thread_text": [
+      "La pasta che spacca il tavolo: gorgonzola, funghi e cavolo nero. Cremosa, scura, cattiva al punto giusto. Fidati, non la solita pasta ai funghi.",
+      "Parti dai mezzi rigatoni. Due gorgonzola (dolce e piccante), funghi misti, cavolo nero. Ingredienti veri, nessuna scorciatoia.",
+      "Il trucco? Essicca parte del cavolo nero in forno e polverizzalo. Diventa una polvere amara che taglia il grasso. Sentirai la differenza.",
+      "Sciogli i gorgonzola nella panna con i funghi. Fuoco basso, pazienza. Quando la crema è vellutata, butta la pasta e manteca.",
+      "Impiatta e spolvera la polvere di cavolo nero sopra. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta cremosa al gorgonzola e cavolo nero",
+        "description": "Un piatto avvolgente e saporito, dove la cremosità incontra il gusto deciso del cavolo nero.",
+        "visual_hint": "Pasta cremosa fumante",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory creamy pasta gorgonzola"
+      },
+      {
+        "hook": "Tre ingredienti, un equilibrio perfetto",
+        "description": "Mezzi rigatoni, doppio gorgonzola e funghi misti: la base per una crema ricca e avvolgente.",
+        "visual_hint": "Ingredienti freschi sul tavolo",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory pasta ingredients mushrooms",
+        "image": "https://images.pexels.com/photos/37726962/pexels-photo-37726962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il segreto è la polvere di cavolo nero",
+        "description": "Essicca e polverizza parte del cavolo nero: un tocco croccante e intenso che esalta ogni boccone.",
+        "visual_hint": "Cavolo nero essiccato e polverizzato",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory kale powder",
+        "image": "https://images.pexels.com/photos/6107767/pexels-photo-6107767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sciogli il gorgonzola nella panna",
+        "description": "Unisci i gorgonzola alla panna con i funghi fino a ottenere una crema liscia e vellutata.",
+        "visual_hint": "Cremosa fusione in padella",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory creamy mushroom sauce",
+        "image": "https://images.pexels.com/photos/36183182/pexels-photo-36183182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Spolvera e servi: piatto da chef",
+        "description": "Completa con la polvere di cavolo nero e servi subito per un effetto wow a tavola.",
+        "visual_hint": "Piatto finito con spolverata",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory pasta dish plated",
+        "image": "https://images.pexels.com/photos/31235407/pexels-photo-31235407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "gorgonzola",
+      "funghi misti",
+      "cavolo nero"
+    ],
+    "image": "https://www.giallozafferano.it/images/368-36876/Pasta-gorgonzola-funghi-e-cavolo-nero_1200x800_wm.jpg",
+    "savedAt": "2026-11-26T22:48:24.844Z",
+    "sourceId": "81469cb10485503b7d2e597a49d92501"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "torta-mont-blanc",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "amazon-is-reportedly-in-talks-to-end-muse-ai-shopp",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "pubDate": "2026-11-25T14:12:33.000Z",
+      "slides": [
+        "Why is Amazon talking to end Muse AI's shopping block?",
+        "Muse AI currently blocks Amazon's shopping features",
+        "Amazon may be negotiating access terms right now",
+        "Your shopping experience could change within weeks",
+        "Watch for Amazon's next move before it lands"
+      ],
+      "thread_text": [
+        "1. Amazon's Secret Talks\n\nAmazon is negotiating with Muse AI to unblock its shopping features, according to sources. The retail giant wants access restored.",
+        "2. Muse Blocks Shopping\n\nMuse AI currently prevents users from buying products directly through its platform. Amazon sees this as a major loss.",
+        "3. Deal Could Happen Soon\n\nTalks are ongoing, and a deal could be reached within weeks. That means your shopping experience may change fast.",
+        "4. Your Shopping Will Change\n\nIf Amazon and Muse AI reach an agreement, you might soon buy products without leaving the AI. Convenience or lock-in?",
+        "5. Watch Amazon's Move\n\nCheck Amazon's official announcements this week. Will they confirm a deal or walk away? The answer affects your wallet."
+      ],
+      "video_script": [
+        "Amazon is in talks with Muse AI.",
+        "Right now, Muse blocks Amazon shopping.",
+        "Deal could be just weeks away.",
+        "Your shopping experience might change soon.",
+        "Watch Amazon's next move closely."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Amazon's Secret Talks\n\nAmazon is negotiating with Muse AI to unblock its shopping features, according to sources. The retail giant wants access restored.",
+            "2. Muse Blocks Shopping\n\nMuse AI currently prevents users from buying products directly through its platform. Amazon sees this as a major loss.",
+            "3. Deal Could Happen Soon\n\nTalks are ongoing, and a deal could be reached within weeks. That means your shopping experience may change fast.",
+            "4. Your Shopping Will Change\n\nIf Amazon and Muse AI reach an agreement, you might soon buy products without leaving the AI. Convenience or lock-in?",
+            "5. Watch Amazon's Move\n\nCheck Amazon's official announcements this week. Will they confirm a deal or walk away? The answer affects your wallet."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Amazon is in talks with Muse AI.",
+            "Right now, Muse blocks Amazon shopping.",
+            "Deal could be just weeks away.",
+            "Your shopping experience might change soon.",
+            "Watch Amazon's next move closely."
+          ]
+        },
+        "instagram": {
+          "caption": "Your Amazon shopping could get blocked inside Muse AI unless a deal lands in weeks.\n\nAmazon is reportedly in talks with Muse AI to end a block that stops users from buying products through the AI platform.\n\nRight now, Muse AI prevents direct purchases — so Amazon is pushing to restore access.\n\nIf they agree, you might buy without leaving the AI. Convenience, or lock-in? 🤔\n\nFor anyone creating or publishing content, this shapes where your product links actually convert.\n\nAmazon could confirm or walk away soon 📉 — will you wait for the announcement, or check your checkout flow today?"
+        }
+      },
+      "instagram_caption": "Your Amazon shopping could get blocked inside Muse AI unless a deal lands in weeks.\n\nAmazon is reportedly in talks with Muse AI to end a block that stops users from buying products through the AI platform.\n\nRight now, Muse AI prevents direct purchases — so Amazon is pushing to restore access.\n\nIf they agree, you might buy without leaving the AI. Convenience, or lock-in? 🤔\n\nFor anyone creating or publishing content, this shapes where your product links actually convert.\n\nAmazon could confirm or walk away soon 📉 — will you wait for the announcement, or check your checkout flow today?",
+      "carousel_slides": [
+        {
+          "hook": "Amazon's secret talks could change shopping",
+          "description": "Amazon is negotiating with Muse AI to unblock its shopping features, potentially restoring direct purchases and reshaping your experience.",
+          "visual_hint": "Two hands shaking over a glowing deal screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "handshake business deal"
+        },
+        {
+          "hook": "Muse AI blocks Amazon purchases now",
+          "description": "Muse AI currently prevents direct product purchases, causing a major loss for Amazon and limiting your shopping options.",
+          "visual_hint": "Shopping cart blocked by a digital lock",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "blocked shopping cart",
+          "image": "https://images.pexels.com/photos/12969120/pexels-photo-12969120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Deal could land within weeks",
+          "description": "Ongoing talks suggest a deal could be reached soon, meaning your shopping experience may change faster than expected.",
+          "visual_hint": "Calendar with a highlighted upcoming date",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "calendar marked date",
+          "image": "https://images.pexels.com/photos/7479755/pexels-photo-7479755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your shopping experience may transform soon",
+          "description": "If an agreement is reached, you might buy products without leaving the AI—offering convenience but raising lock-in concerns.",
+          "visual_hint": "Person shopping via AI interface on phone",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person using smartphone",
+          "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Watch Amazon's next move closely",
+          "description": "Check Amazon's official announcements this week to see if they confirm a deal or walk away—it affects your wallet.",
+          "visual_hint": "Amazon logo on a news alert screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "amazon logo screen",
+          "image": "https://images.pexels.com/photos/3850266/pexels-photo-3850266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+      "savedAt": "2026-11-26T22:41:52.045Z",
+      "sourceId": "f73e5ac199d7d5a8de84a6b91dfe27da"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "nothing-offers-a-full-look-at-its-ai-earbuds-and-c",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "pubDate": "2026-11-25T16:00:59.000Z",
+      "slides": [
+        "Nothing's new earbuds: what is it hiding?",
+        "It calls them the Ear (1) with ANC",
+        "But the case doubles as a battery bank",
+        "You can top up your phone from the case",
+        "Check if your phone supports reverse charging"
+      ],
+      "thread_text": [
+        "1. Earbuds or power bank?\n\nThe Nothing Ear (1) hides a feature that turns its case into a backup battery for your phone. Here's what that means for your daily carry.",
+        "2. ANC without the price tag\n\nActive noise cancellation usually costs a premium, but the Ear (1) brings it to a more accessible tier, putting pressure on established brands.",
+        "3. The case that gives back\n\nUnlike typical earbud cases that only recharge the buds, this one doubles as a power bank, adding a second job to an accessory you already carry.",
+        "4. Reverse charging required\n\nTo use the case as a battery, your phone must support reverse charging. Without it, the feature is useless, so check your specs before buying.",
+        "5. Check your phone first\n\nDoes your phone support reverse charging? Look it up now. If not, this earbud case won't help you, and you'll need a different backup plan."
+      ],
+      "video_script": [
+        "Nothing's new earbuds might be hiding a secret.",
+        "They call them Ear (1) with noise cancellation.",
+        "But the case also works as a battery bank.",
+        "You can top up your phone from the case.",
+        "Check if your phone supports reverse charging."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Earbuds or power bank?\n\nThe Nothing Ear (1) hides a feature that turns its case into a backup battery for your phone. Here's what that means for your daily carry.",
+            "2. ANC without the price tag\n\nActive noise cancellation usually costs a premium, but the Ear (1) brings it to a more accessible tier, putting pressure on established brands.",
+            "3. The case that gives back\n\nUnlike typical earbud cases that only recharge the buds, this one doubles as a power bank, adding a second job to an accessory you already carry.",
+            "4. Reverse charging required\n\nTo use the case as a battery, your phone must support reverse charging. Without it, the feature is useless, so check your specs before buying.",
+            "5. Check your phone first\n\nDoes your phone support reverse charging? Look it up now. If not, this earbud case won't help you, and you'll need a different backup plan."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Nothing's new earbuds might be hiding a secret.",
+            "They call them Ear (1) with noise cancellation.",
+            "But the case also works as a battery bank.",
+            "You can top up your phone from the case.",
+            "Check if your phone supports reverse charging."
+          ]
+        },
+        "instagram": {
+          "caption": "Your earbud case might charge your phone. 🔋\n\nNothing calls its new model Ear (1) with active noise cancellation, but the case hides a second job: it works as a backup battery.\n\nTo use it, your phone must support reverse charging. Without that, the feature does nothing.\n\nIf you work on the move, that's one less power bank in your bag, but only if your phone qualifies.\n\nCheck your phone's specs before buying. Does yours support reverse charging? 👀"
+        }
+      },
+      "instagram_caption": "Your earbud case might charge your phone. 🔋\n\nNothing calls its new model Ear (1) with active noise cancellation, but the case hides a second job: it works as a backup battery.\n\nTo use it, your phone must support reverse charging. Without that, the feature does nothing.\n\nIf you work on the move, that's one less power bank in your bag, but only if your phone qualifies.\n\nCheck your phone's specs before buying. Does yours support reverse charging? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Your earbuds case is a secret power bank?",
+          "description": "The Nothing Ear (1) case doubles as a backup battery for your phone, turning a simple accessory into a dual-purpose tool.",
+          "visual_hint": "Earbuds case with charging cable",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "wireless earbuds case"
+        },
+        {
+          "hook": "ANC without the premium price tag",
+          "description": "Active noise cancellation usually costs more, but the Ear (1) brings it to an accessible tier, pressuring established brands.",
+          "visual_hint": "Person wearing earbuds in noisy city",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "noise cancelling headphones",
+          "image": "https://images.pexels.com/photos/5382359/pexels-photo-5382359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The case that gives back power",
+          "description": "Unlike typical cases that only recharge buds, this one doubles as a power bank, adding a second job to your everyday carry.",
+          "visual_hint": "Case charging a smartphone",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "power bank charging phone",
+          "image": "https://images.pexels.com/photos/5208772/pexels-photo-5208772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Reverse charging required for the trick",
+          "description": "To use the case as a battery, your phone must support reverse charging; without it, the feature is useless.",
+          "visual_hint": "Hand holding phone with reverse charging icon",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone wireless charging",
+          "image": "https://images.pexels.com/photos/12794488/pexels-photo-12794488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your phone before buying",
+          "description": "Does your phone support reverse charging? Look it up now; if not, this earbud case won't help you.",
+          "visual_hint": "Person checking phone specs",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone specifications",
+          "image": "https://images.pexels.com/photos/3945672/pexels-photo-3945672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ear-note-nothing.jpeg?quality=90&amp;strip=all&amp;crop=0,23.821989528796,100,52.356020942408",
+      "savedAt": "2026-11-26T22:41:44.164Z",
+      "sourceId": "0cb6d0baeb4947fe86c201984be41ffc"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "google-s-patent-for-custom-ai-video-feeds-paints-a",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -221324,6 +221532,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pasta-gorgonzola-funghi-e-cavolo-nero",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pasta gorgonzola, funghi e cavolo nero",
+      "link": "https://ricette.giallozafferano.it/Pasta-gorgonzola-funghi-e-cavolo-nero.html",
+      "pubDate": "Thu, 26 Nov 2026 13:00:00 +0100",
+      "content": "Pasta gorgonzola, funghi e cavolo nero: ricetta cremosa Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Ricette con il salmone Bimby: il tuo aiuto in cucina SempreFresco Pizza fatta in casa con Ariete Dolci cremosi con OraSì Ricette con bevanda vegetale OraSì Ricette con creme vegetali OraSì Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Pasta gorgonzola, funghi e cavolo nero /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Seguici Preferiti 648,9 Calorie per porzione Energia Kcal 648,9 Carboidrati g 71,6 &nbsp;&nbsp;di cui zuccheri g 7,3 Proteine g 25 Grassi g 31,5 &nbsp;&nbsp;di cui saturi g 15,3 Fibre g 8,2 Colesterolo mg 65,3 Sodio mg 846,2 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Light Difficoltà: Facile Preparazione: 30 min Cottura: 30 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. Preferisci ascoltare il riassunto audio? Abbiamo scelto una voce realizzata con strumenti avanzati IA per rendere i nostri contenuti accessibili a tutti PRESENTAZIONE La pasta gorgonzola, funghi e cavolo nero è un primo piatto cremoso e ricco di gusto, perfetto per portare in tavola un abbinamento originale con ingredienti di stagione. Il sapore intenso del gorgonzola incontra quello dei funghi, mentre il cavolo nero aggiunge una nota leggermente amarognola che bilancia la ricchezza del condimento. Per questa ricetta abbiamo scelto di utilizzare due varietà di gorgonzola, dolce e piccante, che insieme alla panna formano una crema morbida e avvolgente. Anche i funghi sono protagonisti, con un mix di porcini, finferli, chiodini e portobello che arricchisce il piatto con profumi e sapori diversi. Ma la particolarità di questa ricetta è il cavolo nero, utilizzato in due modi: saltato in padella e trasformato in una polvere finissima, da aggiungere al momento di servire. Scoprite come preparare la pasta gorgonzola, funghi e cavolo nero , un'idea sfiziosa per un pranzo della domenica o una cena speciale, da gustare ben calda per apprezzare tutta la cremosità del condimento. Scopri altre varianti della classica pasta al gorgonzola : Pasta con zucchine, speck e gorgonzola Pasta salsiccia e gorgonzola Pasta gorgonzola e noci Pasta alla zucca, gorgonzola e amaretto Pasta with gorgonzola, mushrooms and black kale Scopri anche Strozzapreti funghi e gorgonzola Pasta con crema di cavolo nero, guanciale e pecorino Pasta con cavolo nero e stracchino Sfoglia tutte INGREDIENTI 648,9 Calorie per porzione Mezzi Rigatoni 320 g Gorgonzola dolce 100 g Gorgonzola piccante 100 g Cavolo nero 300 g Funghi porcini 100 g Funghi finferli (gallinacci) 100 g Funghi pioppini 100 g Funghi portobello 200 g Aglio 1 spicchio Panna fresca liquida 100 g Olio extravergine d'oliva q.b. Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta gorgonzola, funghi e cavolo nero Per preparare la pasta gorgonzola, funghi e cavolo nero, iniziate dal cavolo nero. Tenete da parte 3-4 foglie e dalle altre eliminate la costa centrale più dura 1 . Disponetele queste foglie senza costa su una teglia rivestita con carta forno 2 e cuocetele in forno ventilato preriscaldato a 160° per circa 30 minuti, fino a quando saranno completamente secche. Nel frattempo, tagliate il cavolo nero rimasto a striscioline sottili 3 . Scaldate un filo d'olio in una padella capiente e aggiungete il cavolo nero 4 . Saltatelo a fiamma alta per qualche minuto, mescolando spesso 5 , poi trasferitelo in una ciotola e tenetelo da parte 6 . Passate alla pulizia dei funghi: eliminate la parte finale del gambo dei pioppini 7 , quindi tagliate i portobello a fettine 8 . Pulite i porcini eliminando gli eventuali residui di terra con un coltellino 9 . Poi tagliate a fette la parte superiore 10 . Tagliate il gambo in pezzi più piccoli 11 e separate delicatamente i finferli con le mani 12 . Nella stessa padella utilizzata per il cavolo nero scaldate un filo d'olio con uno spicchio d'aglio, quindi aggiungete i funghi 13 . Saltateli a fiamma molto alta per pochi minuti, mescolando spesso per favorire una cottura uniforme 14 . Una volta pronti, teneteli da parte. Nel frattempo, sfornate le foglie di cavolo nero ormai essiccate 15 e lasciatele raffreddare. Spezzettatele e trasferitele in un macinino per spezie o per caffè 16 , quindi frullatele fino a ottenere una polvere fine e omogenea 17 . Tenetela da parte per la decorazione finale. Portate a bollore una pentola di acqua salata e versate i mezzi rigatoni 18 . Nel frattempo, riprendete la padella utilizzata per i funghi e versate la panna, mescolando per deglassare il fondo di cottura 19 . Aggiungete il gorgonzola dolce tagliato a pezzi 20 e quello piccante 21 . Lasciate sciogliere i formaggi a fiamma molto bassa, mescolando delicatamente fino a ottenere una crema omogenea 22 . Scolate la pasta circa 2 minuti prima del tempo indicato sulla confezione e trasferitela direttamente nella padella con la crema di gorgonzola 23 . Aggiungete un mestolino di acqua di cottura 24 e mescolate per amalgamare il condimento. Unite i funghi precedentemente saltati 25 e il cavolo nero cotto in padella 26 , tenendone da parte una piccola quantità per la decorazione. Mantecate il tutto a fuoco dolce, mescolando fino a quando la pasta sarà ben avvolta dalla crema 27 . Distribuite la pasta nei piatti, aiutandovi con un mestolo 28 . Completate con la polvere di cavolo nero, facendola cadere delicatamente attraverso un piccolo setaccio 29 . La vostra pasta gorgonzola, funghi e cavolo nero è pronta per essere servita ben calda 30 . Conservazione Consigliamo di consumare la pasta gorgonzola, funghi e cavolo nero appena pronta, per apprezzare al meglio la cremosità del condimento. Se dovesse avanzare, potete conservarla in frigorifero per un giorno, all'interno di un contenitore ermetico. Riscaldatela in padella con un goccio di acqua o di latte per rendere nuovamente cremoso il condimento. La congelazione è sconsigliata. Potete preparare la polvere di cavolo nero in anticipo e conservarla per qualche giorno in un contenitore ben chiuso, al riparo dall'umidità. Consiglio Per un sapore più delicato potete variare le proporzioni tra gorgonzola dolce e piccante, utilizzando una quantità maggiore del primo. Se invece preferite un gusto più deciso, aumentate leggermente il gorgonzola piccante, mantenendo invariata la quantità totale di formaggio. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Cavolo nero Funghi Rigatoni Aglio Gorgonzola Pasta Olio di oliva Scopri tutto sugli ingredienti STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Seguici Preferiti SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Strozzapreti funghi e gorgonzola 15 4.3 Pasta con crema di cavolo nero, guanciale e pecorino 4.7 Pasta con cavolo nero e stracchino 5.0 Fusilloni con crema di cavolo nero 3 4.5 Pasta al gorgonzola 14 4.3 Pasta salsiccia e gorgonzola 5 4.7 Pasta gorgonzola e noci 41 4.3 Vellutata al cavolo nero 42 4.3 ULTIME RICETTE Pasta gorgonzola, funghi e cavolo nero 5.0 Paccheri zucca e gorgonzola 5.0 Torta Mont Blanc 5.0 SCOPRI Cavolo nero Zuppa di cavolo nero Come cucinare il cavolo nero Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Primi piatti Strozzapreti funghi e gorgonzola 15 4.3 Gli strozzapreti funghi e gorgonzola sono un primo piatto saporito realizzato con chiodini freschi e una crema al formaggio. Vai alla ricetta Primi piatti Pasta con crema di cavolo nero, guanciale e pecorino 4.7 La pasta con crema di cavolo nero, guanciale e pecorino è un primo piatto dal gusto deciso, con un condimento ricco e avvolgente! Scopri la ricetta. Vai alla ricetta Primi piatti Pasta con cavolo nero e stracchino 5.0 Pasta con cavolo nero e stracchino: un primo piatto semplice e cremoso, dal gusto autentico, ideale per scaldare le giornate fredde con sapori genuini Vai alla ricetta Primi piatti Fusilloni con crema di cavolo nero 3 4.5 I fusilloni con crema di cavolo nero sono un primo piatto vegetariano gustoso e genuino, guarnito con croccanti chips di verdura! Scopri la ricetta. Vai alla ricetta Primi piatti Pasta al gorgonzola 14 4.3 La pasta al gorgonzola è un primo piatto cremoso e saporito dedicato agli amanti del formaggio erborinato, molto facile e veloce! Scopri la ricetta. Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. Acconsento all’utilizzo di pixel di tracciamento nella newsletter, per finalità di rilevazione del tasso di apertura individuale, del livello di interazione, e per finalità di ottimizzazione delle campagne. No grazie Attiva Nuova Chiedi alla no",
+      "slides": [
+        "Pasta cremosa con gorgonzola, funghi e cavolo nero",
+        "Mezzi rigatoni, due gorgonzola, funghi misti, cavolo nero",
+        "Essicca e polverizza parte del cavolo nero",
+        "Sciogli i gorgonzola nella panna con i funghi",
+        "Spolvera la polvere di cavolo nero sul piatto"
+      ],
+      "instagram_caption": "La pasta che ti fa dimenticare il lunedì: gorgonzola, funghi e cavolo nero in un cremoso che è pura poesia 🍄\nMezzi rigatoni che si tuffano in due gorgonzola sciolti nella panna insieme ai funghi misti, mentre il cavolo nero essiccato e polverizzato arriva sopra come una neve scura e saporita 🌿\nOgni forchettata è un equilibrio perfetto tra cremoso e croccante, deciso e avvolgente.\nSalva il post e provala questo weekend 🍝✨",
+      "formats": {
+        "instagram": {
+          "caption": "La pasta che ti fa dimenticare il lunedì: gorgonzola, funghi e cavolo nero in un cremoso che è pura poesia 🍄\nMezzi rigatoni che si tuffano in due gorgonzola sciolti nella panna insieme ai funghi misti, mentre il cavolo nero essiccato e polverizzato arriva sopra come una neve scura e saporita 🌿\nOgni forchettata è un equilibrio perfetto tra cremoso e croccante, deciso e avvolgente.\nSalva il post e provala questo weekend 🍝✨"
+        },
+        "tiktok": {
+          "script": [
+            "Pasta cremosa pazzesca: gorgonzola, funghi e cavolo nero!",
+            "Prendo i mezzi rigatoni e due tipi di gorgonzola.",
+            "Essicco e polverizzo il cavolo nero, senti che profumo.",
+            "Sciolgo i gorgonzola nella panna con i funghi.",
+            "Spolvero la polvere di cavolo nero sul piatto. Bomba!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "La pasta che spacca il tavolo: gorgonzola, funghi e cavolo nero. Cremosa, scura, cattiva al punto giusto. Fidati, non la solita pasta ai funghi.",
+            "Parti dai mezzi rigatoni. Due gorgonzola (dolce e piccante), funghi misti, cavolo nero. Ingredienti veri, nessuna scorciatoia.",
+            "Il trucco? Essicca parte del cavolo nero in forno e polverizzalo. Diventa una polvere amara che taglia il grasso. Sentirai la differenza.",
+            "Sciogli i gorgonzola nella panna con i funghi. Fuoco basso, pazienza. Quando la crema è vellutata, butta la pasta e manteca.",
+            "Impiatta e spolvera la polvere di cavolo nero sopra. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Pasta cremosa pazzesca: gorgonzola, funghi e cavolo nero!",
+        "Prendo i mezzi rigatoni e due tipi di gorgonzola.",
+        "Essicco e polverizzo il cavolo nero, senti che profumo.",
+        "Sciolgo i gorgonzola nella panna con i funghi.",
+        "Spolvero la polvere di cavolo nero sul piatto. Bomba!"
+      ],
+      "thread_text": [
+        "La pasta che spacca il tavolo: gorgonzola, funghi e cavolo nero. Cremosa, scura, cattiva al punto giusto. Fidati, non la solita pasta ai funghi.",
+        "Parti dai mezzi rigatoni. Due gorgonzola (dolce e piccante), funghi misti, cavolo nero. Ingredienti veri, nessuna scorciatoia.",
+        "Il trucco? Essicca parte del cavolo nero in forno e polverizzalo. Diventa una polvere amara che taglia il grasso. Sentirai la differenza.",
+        "Sciogli i gorgonzola nella panna con i funghi. Fuoco basso, pazienza. Quando la crema è vellutata, butta la pasta e manteca.",
+        "Impiatta e spolvera la polvere di cavolo nero sopra. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pasta cremosa al gorgonzola e cavolo nero",
+          "description": "Un piatto avvolgente e saporito, dove la cremosità incontra il gusto deciso del cavolo nero.",
+          "visual_hint": "Pasta cremosa fumante",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory creamy pasta gorgonzola"
+        },
+        {
+          "hook": "Tre ingredienti, un equilibrio perfetto",
+          "description": "Mezzi rigatoni, doppio gorgonzola e funghi misti: la base per una crema ricca e avvolgente.",
+          "visual_hint": "Ingredienti freschi sul tavolo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory pasta ingredients mushrooms",
+          "image": "https://images.pexels.com/photos/37726962/pexels-photo-37726962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il segreto è la polvere di cavolo nero",
+          "description": "Essicca e polverizza parte del cavolo nero: un tocco croccante e intenso che esalta ogni boccone.",
+          "visual_hint": "Cavolo nero essiccato e polverizzato",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory kale powder",
+          "image": "https://images.pexels.com/photos/6107767/pexels-photo-6107767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Sciogli il gorgonzola nella panna",
+          "description": "Unisci i gorgonzola alla panna con i funghi fino a ottenere una crema liscia e vellutata.",
+          "visual_hint": "Cremosa fusione in padella",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory creamy mushroom sauce",
+          "image": "https://images.pexels.com/photos/36183182/pexels-photo-36183182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Spolvera e servi: piatto da chef",
+          "description": "Completa con la polvere di cavolo nero e servi subito per un effetto wow a tavola.",
+          "visual_hint": "Piatto finito con spolverata",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory pasta dish plated",
+          "image": "https://images.pexels.com/photos/31235407/pexels-photo-31235407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "gorgonzola",
+        "funghi misti",
+        "cavolo nero"
+      ],
+      "image": "https://www.giallozafferano.it/images/368-36876/Pasta-gorgonzola-funghi-e-cavolo-nero_1200x800_wm.jpg",
+      "savedAt": "2026-11-26T22:48:24.844Z",
+      "sourceId": "81469cb10485503b7d2e597a49d92501"
+    },
     {
       "schema_version": 2,
       "agent": "food",

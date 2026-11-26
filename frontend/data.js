@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "amazon-is-reportedly-in-talks-to-end-muse-ai-shopp",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+    "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+    "pubDate": "2026-11-25T14:12:33.000Z",
+    "slides": [
+      "Why is Amazon talking to end Muse AI's shopping block?",
+      "Muse AI currently blocks Amazon's shopping features",
+      "Amazon may be negotiating access terms right now",
+      "Your shopping experience could change within weeks",
+      "Watch for Amazon's next move before it lands"
+    ],
+    "thread_text": [
+      "1. Amazon's Secret Talks\n\nAmazon is negotiating with Muse AI to unblock its shopping features, according to sources. The retail giant wants access restored.",
+      "2. Muse Blocks Shopping\n\nMuse AI currently prevents users from buying products directly through its platform. Amazon sees this as a major loss.",
+      "3. Deal Could Happen Soon\n\nTalks are ongoing, and a deal could be reached within weeks. That means your shopping experience may change fast.",
+      "4. Your Shopping Will Change\n\nIf Amazon and Muse AI reach an agreement, you might soon buy products without leaving the AI. Convenience or lock-in?",
+      "5. Watch Amazon's Move\n\nCheck Amazon's official announcements this week. Will they confirm a deal or walk away? The answer affects your wallet."
+    ],
+    "video_script": [
+      "Amazon is in talks with Muse AI.",
+      "Right now, Muse blocks Amazon shopping.",
+      "Deal could be just weeks away.",
+      "Your shopping experience might change soon.",
+      "Watch Amazon's next move closely."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Amazon's Secret Talks\n\nAmazon is negotiating with Muse AI to unblock its shopping features, according to sources. The retail giant wants access restored.",
+          "2. Muse Blocks Shopping\n\nMuse AI currently prevents users from buying products directly through its platform. Amazon sees this as a major loss.",
+          "3. Deal Could Happen Soon\n\nTalks are ongoing, and a deal could be reached within weeks. That means your shopping experience may change fast.",
+          "4. Your Shopping Will Change\n\nIf Amazon and Muse AI reach an agreement, you might soon buy products without leaving the AI. Convenience or lock-in?",
+          "5. Watch Amazon's Move\n\nCheck Amazon's official announcements this week. Will they confirm a deal or walk away? The answer affects your wallet."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Amazon is in talks with Muse AI.",
+          "Right now, Muse blocks Amazon shopping.",
+          "Deal could be just weeks away.",
+          "Your shopping experience might change soon.",
+          "Watch Amazon's next move closely."
+        ]
+      },
+      "instagram": {
+        "caption": "Your Amazon shopping could get blocked inside Muse AI unless a deal lands in weeks.\n\nAmazon is reportedly in talks with Muse AI to end a block that stops users from buying products through the AI platform.\n\nRight now, Muse AI prevents direct purchases — so Amazon is pushing to restore access.\n\nIf they agree, you might buy without leaving the AI. Convenience, or lock-in? 🤔\n\nFor anyone creating or publishing content, this shapes where your product links actually convert.\n\nAmazon could confirm or walk away soon 📉 — will you wait for the announcement, or check your checkout flow today?"
+      }
+    },
+    "instagram_caption": "Your Amazon shopping could get blocked inside Muse AI unless a deal lands in weeks.\n\nAmazon is reportedly in talks with Muse AI to end a block that stops users from buying products through the AI platform.\n\nRight now, Muse AI prevents direct purchases — so Amazon is pushing to restore access.\n\nIf they agree, you might buy without leaving the AI. Convenience, or lock-in? 🤔\n\nFor anyone creating or publishing content, this shapes where your product links actually convert.\n\nAmazon could confirm or walk away soon 📉 — will you wait for the announcement, or check your checkout flow today?",
+    "carousel_slides": [
+      {
+        "hook": "Amazon's secret talks could change shopping",
+        "description": "Amazon is negotiating with Muse AI to unblock its shopping features, potentially restoring direct purchases and reshaping your experience.",
+        "visual_hint": "Two hands shaking over a glowing deal screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "handshake business deal"
+      },
+      {
+        "hook": "Muse AI blocks Amazon purchases now",
+        "description": "Muse AI currently prevents direct product purchases, causing a major loss for Amazon and limiting your shopping options.",
+        "visual_hint": "Shopping cart blocked by a digital lock",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "blocked shopping cart",
+        "image": "https://images.pexels.com/photos/12969120/pexels-photo-12969120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Deal could land within weeks",
+        "description": "Ongoing talks suggest a deal could be reached soon, meaning your shopping experience may change faster than expected.",
+        "visual_hint": "Calendar with a highlighted upcoming date",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "calendar marked date",
+        "image": "https://images.pexels.com/photos/7479755/pexels-photo-7479755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your shopping experience may transform soon",
+        "description": "If an agreement is reached, you might buy products without leaving the AI—offering convenience but raising lock-in concerns.",
+        "visual_hint": "Person shopping via AI interface on phone",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person using smartphone",
+        "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Watch Amazon's next move closely",
+        "description": "Check Amazon's official announcements this week to see if they confirm a deal or walk away—it affects your wallet.",
+        "visual_hint": "Amazon logo on a news alert screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "amazon logo screen",
+        "image": "https://images.pexels.com/photos/3850266/pexels-photo-3850266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+    "savedAt": "2026-11-26T22:41:52.045Z",
+    "sourceId": "f73e5ac199d7d5a8de84a6b91dfe27da"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "nothing-offers-a-full-look-at-its-ai-earbuds-and-c",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Nothing offers a full look at its AI earbuds and charging case",
+    "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+    "pubDate": "2026-11-25T16:00:59.000Z",
+    "slides": [
+      "Nothing's new earbuds: what is it hiding?",
+      "It calls them the Ear (1) with ANC",
+      "But the case doubles as a battery bank",
+      "You can top up your phone from the case",
+      "Check if your phone supports reverse charging"
+    ],
+    "thread_text": [
+      "1. Earbuds or power bank?\n\nThe Nothing Ear (1) hides a feature that turns its case into a backup battery for your phone. Here's what that means for your daily carry.",
+      "2. ANC without the price tag\n\nActive noise cancellation usually costs a premium, but the Ear (1) brings it to a more accessible tier, putting pressure on established brands.",
+      "3. The case that gives back\n\nUnlike typical earbud cases that only recharge the buds, this one doubles as a power bank, adding a second job to an accessory you already carry.",
+      "4. Reverse charging required\n\nTo use the case as a battery, your phone must support reverse charging. Without it, the feature is useless, so check your specs before buying.",
+      "5. Check your phone first\n\nDoes your phone support reverse charging? Look it up now. If not, this earbud case won't help you, and you'll need a different backup plan."
+    ],
+    "video_script": [
+      "Nothing's new earbuds might be hiding a secret.",
+      "They call them Ear (1) with noise cancellation.",
+      "But the case also works as a battery bank.",
+      "You can top up your phone from the case.",
+      "Check if your phone supports reverse charging."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Earbuds or power bank?\n\nThe Nothing Ear (1) hides a feature that turns its case into a backup battery for your phone. Here's what that means for your daily carry.",
+          "2. ANC without the price tag\n\nActive noise cancellation usually costs a premium, but the Ear (1) brings it to a more accessible tier, putting pressure on established brands.",
+          "3. The case that gives back\n\nUnlike typical earbud cases that only recharge the buds, this one doubles as a power bank, adding a second job to an accessory you already carry.",
+          "4. Reverse charging required\n\nTo use the case as a battery, your phone must support reverse charging. Without it, the feature is useless, so check your specs before buying.",
+          "5. Check your phone first\n\nDoes your phone support reverse charging? Look it up now. If not, this earbud case won't help you, and you'll need a different backup plan."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nothing's new earbuds might be hiding a secret.",
+          "They call them Ear (1) with noise cancellation.",
+          "But the case also works as a battery bank.",
+          "You can top up your phone from the case.",
+          "Check if your phone supports reverse charging."
+        ]
+      },
+      "instagram": {
+        "caption": "Your earbud case might charge your phone. 🔋\n\nNothing calls its new model Ear (1) with active noise cancellation, but the case hides a second job: it works as a backup battery.\n\nTo use it, your phone must support reverse charging. Without that, the feature does nothing.\n\nIf you work on the move, that's one less power bank in your bag, but only if your phone qualifies.\n\nCheck your phone's specs before buying. Does yours support reverse charging? 👀"
+      }
+    },
+    "instagram_caption": "Your earbud case might charge your phone. 🔋\n\nNothing calls its new model Ear (1) with active noise cancellation, but the case hides a second job: it works as a backup battery.\n\nTo use it, your phone must support reverse charging. Without that, the feature does nothing.\n\nIf you work on the move, that's one less power bank in your bag, but only if your phone qualifies.\n\nCheck your phone's specs before buying. Does yours support reverse charging? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Your earbuds case is a secret power bank?",
+        "description": "The Nothing Ear (1) case doubles as a backup battery for your phone, turning a simple accessory into a dual-purpose tool.",
+        "visual_hint": "Earbuds case with charging cable",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "wireless earbuds case"
+      },
+      {
+        "hook": "ANC without the premium price tag",
+        "description": "Active noise cancellation usually costs more, but the Ear (1) brings it to an accessible tier, pressuring established brands.",
+        "visual_hint": "Person wearing earbuds in noisy city",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "noise cancelling headphones",
+        "image": "https://images.pexels.com/photos/5382359/pexels-photo-5382359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The case that gives back power",
+        "description": "Unlike typical cases that only recharge buds, this one doubles as a power bank, adding a second job to your everyday carry.",
+        "visual_hint": "Case charging a smartphone",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "power bank charging phone",
+        "image": "https://images.pexels.com/photos/5208772/pexels-photo-5208772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Reverse charging required for the trick",
+        "description": "To use the case as a battery, your phone must support reverse charging; without it, the feature is useless.",
+        "visual_hint": "Hand holding phone with reverse charging icon",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "smartphone wireless charging",
+        "image": "https://images.pexels.com/photos/12794488/pexels-photo-12794488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your phone before buying",
+        "description": "Does your phone support reverse charging? Look it up now; if not, this earbud case won't help you.",
+        "visual_hint": "Person checking phone specs",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone specifications",
+        "image": "https://images.pexels.com/photos/3945672/pexels-photo-3945672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ear-note-nothing.jpeg?quality=90&amp;strip=all&amp;crop=0,23.821989528796,100,52.356020942408",
+    "savedAt": "2026-11-26T22:41:44.164Z",
+    "sourceId": "0cb6d0baeb4947fe86c201984be41ffc"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "google-s-patent-for-custom-ai-video-feeds-paints-a",
     "prompt_version": "1.0.0",
     "status": "published",

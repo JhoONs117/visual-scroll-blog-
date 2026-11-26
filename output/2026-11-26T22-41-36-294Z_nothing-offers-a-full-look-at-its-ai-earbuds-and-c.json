@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "nothing-offers-a-full-look-at-its-ai-earbuds-and-c",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Nothing offers a full look at its AI earbuds and charging case",
+  "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+  "pubDate": "2026-11-25T16:00:59.000Z",
+  "slides": [
+    "Nothing's new earbuds: what is it hiding?",
+    "It calls them the Ear (1) with ANC",
+    "But the case doubles as a battery bank",
+    "You can top up your phone from the case",
+    "Check if your phone supports reverse charging"
+  ],
+  "thread_text": [
+    "1. Earbuds or power bank?\n\nThe Nothing Ear (1) hides a feature that turns its case into a backup battery for your phone. Here's what that means for your daily carry.",
+    "2. ANC without the price tag\n\nActive noise cancellation usually costs a premium, but the Ear (1) brings it to a more accessible tier, putting pressure on established brands.",
+    "3. The case that gives back\n\nUnlike typical earbud cases that only recharge the buds, this one doubles as a power bank, adding a second job to an accessory you already carry.",
+    "4. Reverse charging required\n\nTo use the case as a battery, your phone must support reverse charging. Without it, the feature is useless, so check your specs before buying.",
+    "5. Check your phone first\n\nDoes your phone support reverse charging? Look it up now. If not, this earbud case won't help you, and you'll need a different backup plan."
+  ],
+  "video_script": [
+    "Nothing's new earbuds might be hiding a secret.",
+    "They call them Ear (1) with noise cancellation.",
+    "But the case also works as a battery bank.",
+    "You can top up your phone from the case.",
+    "Check if your phone supports reverse charging."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Earbuds or power bank?\n\nThe Nothing Ear (1) hides a feature that turns its case into a backup battery for your phone. Here's what that means for your daily carry.",
+        "2. ANC without the price tag\n\nActive noise cancellation usually costs a premium, but the Ear (1) brings it to a more accessible tier, putting pressure on established brands.",
+        "3. The case that gives back\n\nUnlike typical earbud cases that only recharge the buds, this one doubles as a power bank, adding a second job to an accessory you already carry.",
+        "4. Reverse charging required\n\nTo use the case as a battery, your phone must support reverse charging. Without it, the feature is useless, so check your specs before buying.",
+        "5. Check your phone first\n\nDoes your phone support reverse charging? Look it up now. If not, this earbud case won't help you, and you'll need a different backup plan."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Nothing's new earbuds might be hiding a secret.",
+        "They call them Ear (1) with noise cancellation.",
+        "But the case also works as a battery bank.",
+        "You can top up your phone from the case.",
+        "Check if your phone supports reverse charging."
+      ]
+    },
+    "instagram": {
+      "caption": "Your earbud case might charge your phone. 🔋\n\nNothing calls its new model Ear (1) with active noise cancellation, but the case hides a second job: it works as a backup battery.\n\nTo use it, your phone must support reverse charging. Without that, the feature does nothing.\n\nIf you work on the move, that's one less power bank in your bag, but only if your phone qualifies.\n\nCheck your phone's specs before buying. Does yours support reverse charging? 👀"
+    }
+  },
+  "instagram_caption": "Your earbud case might charge your phone. 🔋\n\nNothing calls its new model Ear (1) with active noise cancellation, but the case hides a second job: it works as a backup battery.\n\nTo use it, your phone must support reverse charging. Without that, the feature does nothing.\n\nIf you work on the move, that's one less power bank in your bag, but only if your phone qualifies.\n\nCheck your phone's specs before buying. Does yours support reverse charging? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Your earbuds case is a secret power bank?",
+      "description": "The Nothing Ear (1) case doubles as a backup battery for your phone, turning a simple accessory into a dual-purpose tool.",
+      "visual_hint": "Earbuds case with charging cable",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "wireless earbuds case"
+    },
+    {
+      "hook": "ANC without the premium price tag",
+      "description": "Active noise cancellation usually costs more, but the Ear (1) brings it to an accessible tier, pressuring established brands.",
+      "visual_hint": "Person wearing earbuds in noisy city",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "noise cancelling headphones",
+      "image": "https://images.pexels.com/photos/5382359/pexels-photo-5382359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The case that gives back power",
+      "description": "Unlike typical cases that only recharge buds, this one doubles as a power bank, adding a second job to your everyday carry.",
+      "visual_hint": "Case charging a smartphone",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "power bank charging phone",
+      "image": "https://images.pexels.com/photos/5208772/pexels-photo-5208772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Reverse charging required for the trick",
+      "description": "To use the case as a battery, your phone must support reverse charging; without it, the feature is useless.",
+      "visual_hint": "Hand holding phone with reverse charging icon",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone wireless charging",
+      "image": "https://images.pexels.com/photos/12794488/pexels-photo-12794488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your phone before buying",
+      "description": "Does your phone support reverse charging? Look it up now; if not, this earbud case won't help you.",
+      "visual_hint": "Person checking phone specs",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone specifications",
+      "image": "https://images.pexels.com/photos/3945672/pexels-photo-3945672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ear-note-nothing.jpeg?quality=90&amp;strip=all&amp;crop=0,23.821989528796,100,52.356020942408",
+  "savedAt": "2026-11-26T22:41:44.164Z",
+  "sourceId": "0cb6d0baeb4947fe86c201984be41ffc"
+}

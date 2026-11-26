@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "amazon-is-reportedly-in-talks-to-end-muse-ai-shopp",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+  "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+  "pubDate": "2026-11-25T14:12:33.000Z",
+  "slides": [
+    "Why is Amazon talking to end Muse AI's shopping block?",
+    "Muse AI currently blocks Amazon's shopping features",
+    "Amazon may be negotiating access terms right now",
+    "Your shopping experience could change within weeks",
+    "Watch for Amazon's next move before it lands"
+  ],
+  "thread_text": [
+    "1. Amazon's Secret Talks\n\nAmazon is negotiating with Muse AI to unblock its shopping features, according to sources. The retail giant wants access restored.",
+    "2. Muse Blocks Shopping\n\nMuse AI currently prevents users from buying products directly through its platform. Amazon sees this as a major loss.",
+    "3. Deal Could Happen Soon\n\nTalks are ongoing, and a deal could be reached within weeks. That means your shopping experience may change fast.",
+    "4. Your Shopping Will Change\n\nIf Amazon and Muse AI reach an agreement, you might soon buy products without leaving the AI. Convenience or lock-in?",
+    "5. Watch Amazon's Move\n\nCheck Amazon's official announcements this week. Will they confirm a deal or walk away? The answer affects your wallet."
+  ],
+  "video_script": [
+    "Amazon is in talks with Muse AI.",
+    "Right now, Muse blocks Amazon shopping.",
+    "Deal could be just weeks away.",
+    "Your shopping experience might change soon.",
+    "Watch Amazon's next move closely."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Amazon's Secret Talks\n\nAmazon is negotiating with Muse AI to unblock its shopping features, according to sources. The retail giant wants access restored.",
+        "2. Muse Blocks Shopping\n\nMuse AI currently prevents users from buying products directly through its platform. Amazon sees this as a major loss.",
+        "3. Deal Could Happen Soon\n\nTalks are ongoing, and a deal could be reached within weeks. That means your shopping experience may change fast.",
+        "4. Your Shopping Will Change\n\nIf Amazon and Muse AI reach an agreement, you might soon buy products without leaving the AI. Convenience or lock-in?",
+        "5. Watch Amazon's Move\n\nCheck Amazon's official announcements this week. Will they confirm a deal or walk away? The answer affects your wallet."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Amazon is in talks with Muse AI.",
+        "Right now, Muse blocks Amazon shopping.",
+        "Deal could be just weeks away.",
+        "Your shopping experience might change soon.",
+        "Watch Amazon's next move closely."
+      ]
+    },
+    "instagram": {
+      "caption": "Your Amazon shopping could get blocked inside Muse AI unless a deal lands in weeks.\n\nAmazon is reportedly in talks with Muse AI to end a block that stops users from buying products through the AI platform.\n\nRight now, Muse AI prevents direct purchases — so Amazon is pushing to restore access.\n\nIf they agree, you might buy without leaving the AI. Convenience, or lock-in? 🤔\n\nFor anyone creating or publishing content, this shapes where your product links actually convert.\n\nAmazon could confirm or walk away soon 📉 — will you wait for the announcement, or check your checkout flow today?"
+    }
+  },
+  "instagram_caption": "Your Amazon shopping could get blocked inside Muse AI unless a deal lands in weeks.\n\nAmazon is reportedly in talks with Muse AI to end a block that stops users from buying products through the AI platform.\n\nRight now, Muse AI prevents direct purchases — so Amazon is pushing to restore access.\n\nIf they agree, you might buy without leaving the AI. Convenience, or lock-in? 🤔\n\nFor anyone creating or publishing content, this shapes where your product links actually convert.\n\nAmazon could confirm or walk away soon 📉 — will you wait for the announcement, or check your checkout flow today?",
+  "carousel_slides": [
+    {
+      "hook": "Amazon's secret talks could change shopping",
+      "description": "Amazon is negotiating with Muse AI to unblock its shopping features, potentially restoring direct purchases and reshaping your experience.",
+      "visual_hint": "Two hands shaking over a glowing deal screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "handshake business deal"
+    },
+    {
+      "hook": "Muse AI blocks Amazon purchases now",
+      "description": "Muse AI currently prevents direct product purchases, causing a major loss for Amazon and limiting your shopping options.",
+      "visual_hint": "Shopping cart blocked by a digital lock",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "blocked shopping cart",
+      "image": "https://images.pexels.com/photos/12969120/pexels-photo-12969120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Deal could land within weeks",
+      "description": "Ongoing talks suggest a deal could be reached soon, meaning your shopping experience may change faster than expected.",
+      "visual_hint": "Calendar with a highlighted upcoming date",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "calendar marked date",
+      "image": "https://images.pexels.com/photos/7479755/pexels-photo-7479755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your shopping experience may transform soon",
+      "description": "If an agreement is reached, you might buy products without leaving the AI—offering convenience but raising lock-in concerns.",
+      "visual_hint": "Person shopping via AI interface on phone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person using smartphone",
+      "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Watch Amazon's next move closely",
+      "description": "Check Amazon's official announcements this week to see if they confirm a deal or walk away—it affects your wallet.",
+      "visual_hint": "Amazon logo on a news alert screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "amazon logo screen",
+      "image": "https://images.pexels.com/photos/3850266/pexels-photo-3850266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+  "savedAt": "2026-11-26T22:41:52.045Z",
+  "sourceId": "f73e5ac199d7d5a8de84a6b91dfe27da"
+}
